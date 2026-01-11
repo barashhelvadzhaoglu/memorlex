@@ -24,7 +24,6 @@ export default async function FlashcardsPage({
         initialFiles={files} 
         lang={currentLang}
         subject={currentSubject}
-        dict={{}} 
       />
     </main>
   );
