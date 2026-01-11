@@ -19,24 +19,38 @@ provider "cloudflare" {
 
 resource "cloudflare_pages_project" "memorlex_site" {
   account_id        = var.account_id
-  name              = "memorlex"
+  name              = "memorlex" # Proje ismi
   production_branch = "main"
 
   build_config {
-    build_command       = "npm run build"
-    destination_dir     = ".next"
-    root_dir            = ""
+    build_command   = "npm run build"
+    destination_dir = ".next"
+    root_dir        = ""
+  }
+
+  # GitHub bağlantısını da buraya ekliyoruz ki süreç tamamlansın
+  source {
+    type = "github"
+    config {
+      owner                         = "barashhelvadzhaoglu"
+      repo_name                     = "memorlex"
+      production_branch             = "main"
+      pr_comments_enabled           = true
+      deployments_enabled           = true
+    }
   }
 
   deployment_configs {
     production {
-      # framework_preset buradan kaldırıldı
+      environment_variables = {
+        NODE_VERSION = "20"
+      }
     }
   }
 }
 
 resource "cloudflare_pages_domain" "memorlex_domain" {
-  account_id   = "61300c3095e630c556550f1c39527654"
+  account_id   = var.account_id
   project_name = cloudflare_pages_project.memorlex_site.name
   domain       = "memorlex.com"
 }
@@ -44,7 +58,8 @@ resource "cloudflare_pages_domain" "memorlex_domain" {
 resource "cloudflare_record" "pages_dns" {
   zone_id = "8f560606b51a75b425d42a5230690839"
   name    = "@"
-  value   = "memorlex-site.pages.dev"
+  # content, proje ismiyle (name) tam aynı olmalı
+  content = "memorlex.pages.dev" 
   type    = "CNAME"
   proxied = true
 }
