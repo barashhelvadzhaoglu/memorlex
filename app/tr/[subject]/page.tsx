@@ -1,6 +1,15 @@
 // app/tr/[subject]/page.tsx
 import Link from 'next/link';
 
+import SomeComponent from '@/components/SomeComponent';
+
+// BU SATIRI EKLE:
+export const runtime = 'edge'; 
+
+export default function Page({ params }) {
+  // ... sayfa içeriği
+}
+
 export default async function SubjectSelectionPage({ params }: { params: Promise<{ subject: string }> }) {
   const { subject } = await params;
 

@@ -1,6 +1,15 @@
 import React from "react";
 import type { Metadata } from "next";
 
+import SomeComponent from '@/components/SomeComponent';
+
+// BU SATIRI EKLE:
+export const runtime = 'edge'; 
+
+export default function Page({ params }) {
+  // ... sayfa içeriği
+}
+
 export const metadata: Metadata = {
   // Başlıkta en kritik 4 kelimeyi birleştirdik
   title: "Almanca Öğren & İngilizce Öğren | Almanca Kelime & İngilizce Kelime - Memorlex",

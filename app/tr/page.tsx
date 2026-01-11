@@ -1,5 +1,14 @@
 import Link from 'next/link';
 
+import SomeComponent from '@/components/SomeComponent';
+
+// BU SATIRI EKLE:
+export const runtime = 'edge'; 
+
+export default function Page({ params }) {
+  // ... sayfa içeriği
+}
+
 export default function TurkishLandingPage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-6 bg-white">

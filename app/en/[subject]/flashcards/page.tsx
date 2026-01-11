@@ -2,6 +2,15 @@ import path from 'path';
 import fs from 'fs';
 import ClientFlashcardApp from '@/app/components/ClientFlashcardApp'; // Yol güncellendi
 
+import SomeComponent from '@/components/SomeComponent';
+
+// BU SATIRI EKLE:
+export const runtime = 'edge'; 
+
+export default function Page({ params }) {
+  // ... sayfa içeriği
+}
+
 export default async function FlashcardsPage({ 
   params 
 }: { 

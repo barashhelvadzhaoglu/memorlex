@@ -1,6 +1,15 @@
 import React from "react";
 import type { Metadata } from "next";
 
+import SomeComponent from '@/components/SomeComponent';
+
+// BU SATIRI EKLE:
+export const runtime = 'edge'; 
+
+export default function Page({ params }) {
+  // ... sayfa içeriği
+}
+
 export const metadata: Metadata = {
   // Başlık: "Німецька мова" (Almanca) ve "Англійська мова" (İngilizce) bir arada
   title: "Вивчення німецької та англійської мови | Практичні слова A1-A2 - Memorlex",

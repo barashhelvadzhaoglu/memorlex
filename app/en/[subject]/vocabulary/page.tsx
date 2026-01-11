@@ -2,6 +2,15 @@ import path from 'path';
 import fs from 'fs';
 import ClientVocabularyApp from '@/app/components/ClientVocabularyApp'; // Yolun doğruluğunu kontrol et
 
+import SomeComponent from '@/components/SomeComponent';
+
+// BU SATIRI EKLE:
+export const runtime = 'edge'; 
+
+export default function Page({ params }) {
+  // ... sayfa içeriği
+}
+
 export default async function VocabularyPage({ 
   params 
 }: { 
