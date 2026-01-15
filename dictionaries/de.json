@@ -24,5 +24,10 @@
   "description": "Interaktives Vokabeltraining.",
   "practice": "Schreibübung",
   "flashcards": "Flashcards",
-  "start": "Jetzt starten"
+  "start": "Jetzt starten",
+  "unit": {
+    "description": "Wählen Sie den Lernmodus:",
+    "flashcards": "Lernkarten",
+    "practice": "Schreibtraining"
+  }
 }

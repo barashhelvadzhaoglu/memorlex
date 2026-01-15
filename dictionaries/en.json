@@ -22,7 +22,12 @@
   },
   "title": "Neu Linie German Learning Center",
   "description": "Interactive vocabulary practice.",
-  "practice": "Writing Practice",
+  "practice": "Vocabulary Practice",
   "flashcards": "Flashcards",
-  "start": "Start Now"
+  "start": "Start Now",
+  "unit": {
+    "description": "Choose the mode you want to study:",
+    "flashcards": "Word Cards",
+    "practice": "Writing Practice"
+  }
 }
