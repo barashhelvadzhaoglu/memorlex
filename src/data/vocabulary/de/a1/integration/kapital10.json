@@ -1,27 +1,814 @@
 {
-  "title": "Integration A1 - Kapitel 16",
+  "title": "Integration A1 - Kapitel 10",
   "language": "de",
   "words": [
-    { "term": "der Markt", "type": "İsim", "meaning": "Pazar", "example": "Auf dem *** kaufe ich frisches Obst." },
-    { "term": "die Halle", "type": "İsim", "meaning": "Hol - Salon", "example": "In der großen *** findet die Messe statt." },
-    { "term": "der Stand", "type": "İsim", "meaning": "Tezgah - Stand", "example": "An diesem *** gibt es warmen Glühwein." },
-    { "term": "das Karussell", "type": "İsim", "meaning": "Atlıkarınca", "example": "Die Kinder fahren gerne auf dem ***." },
-    { "term": "das Spielzeug", "type": "İsim", "meaning": "Oyuncak", "example": "Das Kind wünscht sich ein neues ***." },
-    { "term": "die Kleidung", "type": "İsim", "meaning": "Kıyafet", "example": "Im Winter brauchen wir warme ***." },
-    { "term": "der Honig", "type": "İsim", "meaning": "Bal", "example": "Die Bienen produzieren diesen süßen ***." },
-    { "term": "der Glühwein", "type": "İsim", "meaning": "Sıcak şarap", "example": "Auf dem Weihnachtsmarkt trinken wir ***." },
-    { "term": "das Lebkuchenherz", "type": "İsim", "meaning": "Zencefilli kurabiye kalp", "example": "Er schenkt ihr ein großes ***." },
-    { "term": "die Zuckerwatte", "type": "İsim", "meaning": "Pamuk şeker", "example": "Die *** ist sehr süß und klebt an den Fingern." },
-    { "term": "der Schmuck", "type": "İsim", "meaning": "Takı - Mücevher", "example": "Sie trägt teuren *** aus Gold." },
-    { "term": "der Weihnachtsmann", "type": "İsim", "meaning": "Noel Baba", "example": "Der *** bringt den Kindern Geschenke." },
-    { "term": "aufbauen", "type": "Fiil", "meaning": "Kurmak - İnşa etmek", "example": "Die Arbeiter müssen den Stand früh ***." },
-    { "term": "braten", "type": "Fiil", "meaning": "Kızartmak", "example": "Wir *** die Würstchen auf dem Grill." },
-    { "term": "ausgeben", "type": "Fiil", "meaning": "Harcamak", "example": "Ich möchte heute nicht so viel Geld ***." },
-    { "term": "angucken", "type": "Fiil", "meaning": "Bakmak - İzlemek", "example": "Wir wollen uns die schönen Lichter ***." },
-    { "term": "herrlich", "type": "Sıfat", "meaning": "Harika - Muazzam", "example": "Das Wetter heute ist einfach ***." },
-    { "term": "riechen", "type": "Fiil", "meaning": "Koklamak - Kokmak", "example": "Die gebrannten Mandeln *** sehr gut." },
-    { "term": "satt", "type": "Sıfat", "meaning": "Tok", "example": "Ich kann nicht mehr essen, ich bin ***." },
-    { "term": "links", "type": "Zarf", "meaning": "Sol", "example": "Gehen Sie an der Ecke nach ***." },
-    { "term": "rechts", "type": "Zarf", "meaning": "Sağ", "example": "Mein Haus liegt auf der *** Seite." }
+    {
+      "term": "die Ausbildung",
+      "type": "Noun",
+      "meaning_tr": "Mesleki eğitim, çıraklık eğitimi ya da formasyon",
+      "meaning_en": "Vocational training / Professional education",
+      "meaning_uk": "Професійне навчання",
+      "example": "Meine *** macht Spaß."
+    },
+    {
+      "term": "das Dokument",
+      "type": "Noun",
+      "meaning_tr": "Belge, doküman ya da evrak",
+      "meaning_en": "Document / Record",
+      "meaning_uk": "Документ",
+      "example": "Hier ist das ***."
+    },
+    {
+      "term": "die Papiere",
+      "type": "Noun",
+      "meaning_tr": "Belgeler, evraklar ya da kimlik belgeleri",
+      "meaning_en": "Documents / Papers",
+      "meaning_uk": "Документи / Папери",
+      "example": "Haben Sie Ihre *** dabei?"
+    },
+    {
+      "term": "der Führerschein",
+      "type": "Noun",
+      "meaning_tr": "Sürücü belgesi ya da ehliyet",
+      "meaning_en": "Driver's license",
+      "meaning_uk": "Посвідчення водія",
+      "example": "Ich habe meinen ***."
+    },
+    {
+      "term": "die Monatskarte",
+      "type": "Noun",
+      "meaning_tr": "Aylık bilet ya da aylık abonman",
+      "meaning_en": "Monthly ticket / Monthly pass",
+      "meaning_uk": "Місячний проїзний квиток",
+      "example": "Ich brauche eine ***."
+    },
+    {
+      "term": "die Bank",
+      "type": "Noun",
+      "meaning_tr": "Banka",
+      "meaning_en": "Bank",
+      "meaning_uk": "Банк",
+      "example": "Die *** ist heute geschlossen."
+    },
+    {
+      "term": "die Bahn",
+      "type": "Noun",
+      "meaning_tr": "Tren, demiryolu ya da metro (genel)",
+      "meaning_en": "Train / Railway",
+      "meaning_uk": "Залізниця / Потяг",
+      "example": "Ich fahre mit der ***."
+    },
+    {
+      "term": "die SIM-Karte",
+      "type": "Noun",
+      "meaning_tr": "SIM kart",
+      "meaning_en": "SIM card",
+      "meaning_uk": "SIM-карта",
+      "example": "Wo ist meine ***?"
+    },
+    {
+      "term": "das WLAN",
+      "type": "Noun",
+      "meaning_tr": "Kablosuz internet ya da Wi-Fi",
+      "meaning_en": "Wi-Fi / Wireless internet",
+      "meaning_uk": "Бездротовий інтернет (Wi-Fi)",
+      "example": "Wie ist das ***-Passwort?"
+    },
+    {
+      "term": "übersetzen",
+      "type": "Verb",
+      "meaning_tr": "Tercüme etmek ya da çevirmek",
+      "meaning_en": "To translate",
+      "meaning_uk": "Перекладати",
+      "example": "Kannst du das ***?"
+    },
+    {
+      "term": "vermieten",
+      "type": "Verb",
+      "meaning_tr": "Kiraya vermek",
+      "meaning_en": "To rent out / To lease",
+      "meaning_uk": "Здавати в оренду",
+      "example": "Er möchte das Zimmer ***."
+    },
+    {
+      "term": "überweisen",
+      "type": "Verb",
+      "meaning_tr": "Havale etmek ya da para transferi yapmak",
+      "meaning_en": "To transfer (money)",
+      "meaning_uk": "Переказувати (гроші)",
+      "example": "Ich muss Geld ***."
+    },
+    {
+      "term": "ausländisch",
+      "type": "Adjective",
+      "meaning_tr": "Yabancı ya da yurt dışı kaynaklı",
+      "meaning_en": "Foreign",
+      "meaning_uk": "Іноземний",
+      "example": "Er hat ***e Freunde."
+    },
+    {
+      "term": "das Konto",
+      "type": "Noun",
+      "meaning_tr": "Banka hesabı",
+      "meaning_en": "Account",
+      "meaning_uk": "Рахунок (банківський)",
+      "example": "Ich eröffne ein ***."
+    },
+    {
+      "term": "hierher",
+      "type": "Adverb",
+      "meaning_tr": "Buraya (yönelme)",
+      "meaning_en": "Here / To this place",
+      "meaning_uk": "Сюди",
+      "example": "Komm bitte ***."
+    },
+    {
+      "term": "dorthin",
+      "type": "Adverb",
+      "meaning_tr": "Oraya (yönelme)",
+      "meaning_en": "There / To that place",
+      "meaning_uk": "Туди",
+      "example": "Wir gehen ***."
+    },
+    {
+      "term": "der Fahrgast",
+      "type": "Noun",
+      "meaning_tr": "Yolcu",
+      "meaning_en": "Passenger",
+      "meaning_uk": "Пасажир",
+      "example": "Der *** wartet am Bahnhof."
+    },
+    {
+      "term": "das Porträt",
+      "type": "Noun",
+      "meaning_tr": "Portre ya da vesikalık resim",
+      "meaning_en": "Portrait",
+      "meaning_uk": "Портрет",
+      "example": "Das *** sieht gut aus."
+    },
+    {
+      "term": "die Umwelt",
+      "type": "Noun",
+      "meaning_tr": "Çevre ya da doğa",
+      "meaning_en": "Environment",
+      "meaning_uk": "Навколишнє середовище / Довкілля",
+      "example": "Wir schützen die ***."
+    },
+    {
+      "term": "die Kantine",
+      "type": "Noun",
+      "meaning_tr": "Kantin ya da iş yeri yemekhanesi",
+      "meaning_en": "Canteen / Cafeteria",
+      "meaning_uk": "Їдальня",
+      "example": "Wir essen in der ***."
+    },
+    {
+      "term": "der Tourist",
+      "type": "Noun",
+      "meaning_tr": "Turist",
+      "meaning_en": "Tourist",
+      "meaning_uk": "Турист",
+      "example": "Der *** sucht das Hotel."
+    },
+    {
+      "term": "die Bewerbung",
+      "type": "Noun",
+      "meaning_tr": "İş başvurusu",
+      "meaning_en": "Job application",
+      "meaning_uk": "Заява про прийом на роботу",
+      "example": "Ich schreibe eine ***."
+    },
+    {
+      "term": "die Stelle",
+      "type": "Noun",
+      "meaning_tr": "İş pozisyonu, kadro ya da yer",
+      "meaning_en": "Job position / Place",
+      "meaning_uk": "Місце / Посада",
+      "example": "Ich suche eine neue ***."
+    },
+    {
+      "term": "das Bewerbungsgespräch",
+      "type": "Noun",
+      "meaning_tr": "İş mülakatı ya da iş görüşmesi",
+      "meaning_en": "Job interview",
+      "meaning_uk": "Співбесіда",
+      "example": "Morgen habe ich ein ***."
+    },
+    {
+      "term": "das Zeugnis",
+      "type": "Noun",
+      "meaning_tr": "Karne, sertifika ya da bonservis",
+      "meaning_en": "Certificate / Report card",
+      "meaning_uk": "Свідоцтво / Атестат / Характеристика",
+      "example": "Hier ist mein ***."
+    },
+    {
+      "term": "das Studium",
+      "type": "Noun",
+      "meaning_tr": "Yükseköğrenim ya da üniversite eğitimi",
+      "meaning_en": "Higher education / University studies",
+      "meaning_uk": "Навчання (у ВНЗ)",
+      "example": "Mein *** dauert vier Jahre."
+    },
+    {
+      "term": "der Europäer",
+      "type": "Noun",
+      "meaning_tr": "Avrupalı (erkek)",
+      "meaning_en": "European",
+      "meaning_uk": "Європеєць",
+      "example": "Er ist ***."
+    },
+    {
+      "term": "das Visum",
+      "type": "Noun",
+      "meaning_tr": "Vize",
+      "meaning_en": "Visa",
+      "meaning_uk": "Віза",
+      "example": "Ich brauche ein ***."
+    },
+    {
+      "term": "der Verwandte",
+      "type": "Noun",
+      "meaning_tr": "Akraba ya da hısım",
+      "meaning_en": "Relative",
+      "meaning_uk": "Родич",
+      "example": "Mein *** besucht mich."
+    },
+    {
+      "term": "fremd",
+      "type": "Adjective",
+      "meaning_tr": "Yabancı, bilinmeyen ya da el",
+      "meaning_en": "Foreign / Unknown",
+      "meaning_uk": "Чужий / Незнайомий",
+      "example": "Die Stadt ist mir ***."
+    },
+    {
+      "term": "spannend",
+      "type": "Adjective",
+      "meaning_tr": "Heyecanlı, sürükleyici ya da merak uyandırıcı",
+      "meaning_en": "Exciting / Thrilling",
+      "meaning_uk": "Захоплюючий",
+      "example": "Der Film ist ***."
+    },
+    {
+      "term": "zufrieden",
+      "type": "Adjective",
+      "meaning_tr": "Memnun ya da hoşnut",
+      "meaning_en": "Satisfied / Content",
+      "meaning_uk": "Задоволений",
+      "example": "Ich bin sehr ***."
+    },
+    {
+      "term": "die Bewegung",
+      "type": "Noun",
+      "meaning_tr": "Hareket ya da egzersiz",
+      "meaning_en": "Movement / Exercise",
+      "meaning_uk": "Рух",
+      "example": "*** ist gesund."
+    },
+    {
+      "term": "die Post",
+      "type": "Noun",
+      "meaning_tr": "Posta ya da postane",
+      "meaning_en": "Post / Post office",
+      "meaning_uk": "Пошта",
+      "example": "Ich gehe zur ***."
+    },
+    {
+      "term": "austragen",
+      "type": "Verb",
+      "meaning_tr": "Dağıtmak (mektup, gazete vb.)",
+      "meaning_en": "To deliver (mail etc.)",
+      "meaning_uk": "Розносити / Доставляти",
+      "example": "Er muss Zeitungen ***."
+    },
+    {
+      "term": "der Kunde",
+      "type": "Noun",
+      "meaning_tr": "Müşteri (erkek)",
+      "meaning_en": "Customer / Client",
+      "meaning_uk": "Клієнт / Покупець",
+      "example": "Der *** ist König."
+    },
+    {
+      "term": "als",
+      "type": "Conjunction",
+      "meaning_tr": "Olarak (mesleklerde kullanılır)",
+      "meaning_en": "As",
+      "meaning_uk": "Як / У якості (когось)",
+      "example": "Ich arbeite *** Lehrerin."
+    },
+    {
+      "term": "der Personalbüro",
+      "type": "Noun",
+      "meaning_tr": "İnsan kaynakları ofisi ya da personel dairesi",
+      "meaning_en": "Personnel office / HR office",
+      "meaning_uk": "Відділ кадрів",
+      "example": "Gehen Sie zum ***."
+    },
+    {
+      "term": "der Ausweis",
+      "type": "Noun",
+      "meaning_tr": "Kimlik belgesi",
+      "meaning_en": "ID card / Identification",
+      "meaning_uk": "Посвідчення / Ідентифікаційна карта",
+      "example": "Zeigen Sie Ihren ***."
+    },
+    {
+      "term": "der Pass",
+      "type": "Noun",
+      "meaning_tr": "Pasaport",
+      "meaning_en": "Passport",
+      "meaning_uk": "Паспорт",
+      "example": "Mein *** ist abgelaufen."
+    },
+    {
+      "term": "der Arbeitsvertrag",
+      "type": "Noun",
+      "meaning_tr": "İş sözleşmesi",
+      "meaning_en": "Employment contract",
+      "meaning_uk": "Трудовий договір",
+      "example": "Ich unterschreibe den ***."
+    },
+    {
+      "term": "das Bürgeramt",
+      "type": "Noun",
+      "meaning_tr": "Nüfus dairesi ya da vatandaşlık bürosu",
+      "meaning_en": "Administrative office / Citizens' office",
+      "meaning_uk": "Відділ обслуговування громадян (ЦНАП)",
+      "example": "Ich muss zum ***."
+    },
+    {
+      "term": "die Reise",
+      "type": "Noun",
+      "meaning_tr": "Yolculuk ya da seyahat",
+      "meaning_en": "Trip / Journey",
+      "meaning_uk": "Подорож",
+      "example": "Gute ***!"
+    },
+    {
+      "term": "selbst",
+      "type": "Adverb",
+      "meaning_tr": "Kendi ya da kendisi",
+      "meaning_en": "Self / Myself",
+      "meaning_uk": "Сам / Самостійно",
+      "example": "Ich mache das ***."
+    },
+    {
+      "term": "organisieren",
+      "type": "Verb",
+      "meaning_tr": "Organize etmek ya da düzenlemek",
+      "meaning_en": "To organize",
+      "meaning_uk": "Організовувати",
+      "example": "Wir *** eine Party."
+    },
+    {
+      "term": "festlegen",
+      "type": "Verb",
+      "meaning_tr": "Belirlemek, saptamak ya da kararlaştırmak",
+      "meaning_en": "To determine / To set",
+      "meaning_uk": "Визначати / Встановлювати",
+      "example": "Wir legen den Termin fest."
+    },
+    {
+      "term": "erklären",
+      "type": "Verb",
+      "meaning_tr": "Açıklamak ya da izah etmek",
+      "meaning_en": "To explain",
+      "meaning_uk": "Пояснювати",
+      "example": "Kannst du mir das ***?"
+    },
+    {
+      "term": "vereinbaren",
+      "type": "Verb",
+      "meaning_tr": "Kararlaştırmak ya da anlaşmak (randevu vb.)",
+      "meaning_en": "To agree / To arrange",
+      "meaning_uk": "Узгоджувати / Домовлятися",
+      "example": "Wir *** einen Termin."
+    },
+    {
+      "term": "vergessen",
+      "type": "Verb",
+      "meaning_tr": "Unutmak",
+      "meaning_en": "To forget",
+      "meaning_uk": "Забувати",
+      "example": "Ich habe es ***."
+    },
+    {
+      "term": "verstehen",
+      "type": "Verb",
+      "meaning_tr": "Anlamak",
+      "meaning_en": "To understand",
+      "meaning_uk": "Розуміти",
+      "example": "Ich *** dich gut."
+    },
+    {
+      "term": "die Unterschrift",
+      "type": "Noun",
+      "meaning_tr": "İmza",
+      "meaning_en": "Signature",
+      "meaning_uk": "Підпис",
+      "example": "Hier fehlt Ihre ***."
+    },
+    {
+      "term": "unterschreiben",
+      "type": "Verb",
+      "meaning_tr": "İmzalamak",
+      "meaning_en": "To sign",
+      "meaning_uk": "Підписувати",
+      "example": "Bitte *** Sie hier."
+    },
+    {
+      "term": "rauchen",
+      "type": "Verb",
+      "meaning_tr": "Sigara içmek",
+      "meaning_en": "To smoke",
+      "meaning_uk": "Палити",
+      "example": "Hier darf man nicht ***."
+    },
+    {
+      "term": "draußen",
+      "type": "Adverb",
+      "meaning_tr": "Dışarıda",
+      "meaning_en": "Outside",
+      "meaning_uk": "На вулиці / Зовні",
+      "example": "Es ist kalt ***."
+    },
+    {
+      "term": "tragen",
+      "type": "Verb",
+      "meaning_tr": "Taşımak ya da giymek",
+      "meaning_en": "To carry / To wear",
+      "meaning_uk": "Носити",
+      "example": "Er muss die Boxen ***."
+    },
+    {
+      "term": "schneiden",
+      "type": "Verb",
+      "meaning_tr": "Kesmek",
+      "meaning_en": "To cut",
+      "meaning_uk": "Різати",
+      "example": "Ich *** das Brot."
+    },
+    {
+      "term": "dünn",
+      "type": "Adjective",
+      "meaning_tr": "İnce ya da zayıf",
+      "meaning_en": "Thin / Slim",
+      "meaning_uk": "Тонкий",
+      "example": "Das Papier ist sehr ***."
+    },
+    {
+      "term": "abwaschen",
+      "type": "Verb",
+      "meaning_tr": "Bulaşık yıkamak",
+      "meaning_en": "To wash the dishes",
+      "meaning_uk": "Мити посуд",
+      "example": "Ich muss noch ***."
+    },
+    {
+      "term": "sofort",
+      "type": "Adverb",
+      "meaning_tr": "Derhal ya da hemen şimdi",
+      "meaning_en": "Immediately / Right now",
+      "meaning_uk": "Негайно / Зараз",
+      "example": "Komm bitte ***!"
+    },
+    {
+      "term": "die Mütze",
+      "type": "Noun",
+      "meaning_tr": "Bere ya da şapka",
+      "meaning_en": "Beanie / Cap",
+      "meaning_uk": "Шапка",
+      "example": "Ich trage eine ***."
+    },
+    {
+      "term": "die Hand",
+      "type": "Noun",
+      "meaning_tr": "El",
+      "meaning_en": "Hand",
+      "meaning_uk": "Рука (кисть)",
+      "example": "Gib mir deine ***."
+    },
+    {
+      "term": "regelmäßig",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Düzenli ya da muntazam",
+      "meaning_en": "Regularly",
+      "meaning_uk": "Регулярно",
+      "example": "Ich lerne ***."
+    },
+    {
+      "term": "anmachen",
+      "type": "Verb",
+      "meaning_tr": "Açmak (elektrikli alet, ışık vb.)",
+      "meaning_en": "To turn on",
+      "meaning_uk": "Включати",
+      "example": "Ich mache das Licht an."
+    },
+    {
+      "term": "ausmachen",
+      "type": "Verb",
+      "meaning_tr": "Kapatmak (elektrikli alet, ışık vb.)",
+      "meaning_en": "To turn off",
+      "meaning_uk": "Виключати",
+      "example": "Bitte machen Sie das Radio aus."
+    },
+    {
+      "term": "herzlich",
+      "type": "Adjective",
+      "meaning_tr": "İçten ya da yürekten",
+      "meaning_en": "Cordial / Warm",
+      "meaning_uk": "Сердечно",
+      "example": "*** willkommen!"
+    },
+    {
+      "term": "helfen",
+      "type": "Verb",
+      "meaning_tr": "Yardım etmek",
+      "meaning_en": "To help",
+      "meaning_uk": "Допомагати",
+      "example": "Kann ich Ihnen helfen?"
+    },
+    {
+      "term": "hereinkommen",
+      "type": "Verb",
+      "meaning_tr": "İçeri girmek",
+      "meaning_en": "To come in / To enter",
+      "meaning_uk": "Заходити",
+      "example": "Darf ich ***?"
+    },
+    {
+      "term": "das Hähnchen",
+      "type": "Noun",
+      "meaning_tr": "Tavuk ya da piliç",
+      "meaning_en": "Chicken",
+      "meaning_uk": "Курка",
+      "example": "Ich esse gerne ***."
+    },
+    {
+      "term": "heiraten",
+      "type": "Verb",
+      "meaning_tr": "Evlenmek",
+      "meaning_en": "To marry / To get married",
+      "meaning_uk": "Одружуватися",
+      "example": "Wir wollen ***."
+    },
+    {
+      "term": "ausfüllen",
+      "type": "Verb",
+      "meaning_tr": "Doldurmak (form vb.)",
+      "meaning_en": "To fill out",
+      "meaning_uk": "Заповнювати (форму)",
+      "example": "Bitte füllen Sie das Formular aus."
+    },
+    {
+      "term": "mitnehmen",
+      "type": "Verb",
+      "meaning_tr": "Yanına almak",
+      "meaning_en": "To take along",
+      "meaning_uk": "Брати з собою",
+      "example": "Ich nehme den Schirm mit."
+    },
+    {
+      "term": "das Paket",
+      "type": "Noun",
+      "meaning_tr": "Paket ya da koli",
+      "meaning_en": "Package / Parcel",
+      "meaning_uk": "Пакет / Посилка",
+      "example": "Das *** ist schwer."
+    },
+    {
+      "term": "das Formular",
+      "type": "Noun",
+      "meaning_tr": "Form ya da belge",
+      "meaning_en": "Form",
+      "meaning_uk": "Формуляр / Бланк",
+      "example": "Füllen Sie bu Formular aus."
+    },
+    {
+      "term": "das Ausland",
+      "type": "Noun",
+      "meaning_tr": "Yurt dışı ya da gurbet",
+      "meaning_en": "Abroad / Foreign country",
+      "meaning_uk": "Закордон",
+      "example": "Ich fahre ins ***."
+    },
+    {
+      "term": "der Staat",
+      "type": "Noun",
+      "meaning_tr": "Devlet",
+      "meaning_en": "State / Government",
+      "meaning_uk": "Держава",
+      "example": "Der *** hilft den Bürgern."
+    },
+    {
+      "term": "der Einzug",
+      "type": "Noun",
+      "meaning_tr": "Taşınma (bir yere giriş)",
+      "meaning_en": "Moving in",
+      "meaning_uk": "В'їзд (у нове житло)",
+      "example": "Der *** war anstrengend."
+    },
+    {
+      "term": "einziehen",
+      "type": "Verb",
+      "meaning_tr": "Taşınmak (yeni bir eve)",
+      "meaning_en": "To move in",
+      "meaning_uk": "В'їжджати (в житло)",
+      "example": "Wir ziehen morgen ein."
+    },
+    {
+      "term": "das Geburtsdatum",
+      "type": "Noun",
+      "meaning_tr": "Doğum tarihi",
+      "meaning_en": "Date of birth",
+      "meaning_uk": "Дата народження",
+      "example": "Wie ist Ihr ***?"
+    },
+    {
+      "term": "der Geburtsort",
+      "type": "Noun",
+      "meaning_tr": "Doğum yeri",
+      "meaning_en": "Place of birth",
+      "meaning_uk": "Місце народження",
+      "example": "Mein *** ist Berlin."
+    },
+    {
+      "term": "das Geburtsland",
+      "type": "Noun",
+      "meaning_tr": "Doğulan ülke",
+      "meaning_en": "Country of birth",
+      "meaning_uk": "Країна народження",
+      "example": "Mein *** ist die Türkei."
+    },
+    {
+      "term": "geboren",
+      "type": "Adjective",
+      "meaning_tr": "Doğmuş ya da doğumlu",
+      "meaning_en": "Born",
+      "meaning_uk": "Народжений",
+      "example": "Ich bin 1990 ***."
+    },
+    {
+      "term": "die Staatsangehörigkeit",
+      "type": "Noun",
+      "meaning_tr": "Uyruk ya da vatandaşlık",
+      "meaning_en": "Nationality / Citizenship",
+      "meaning_uk": "Громадянство",
+      "example": "Wie ist Ihre ***?"
+    },
+    {
+      "term": "das Geschlecht",
+      "type": "Noun",
+      "meaning_tr": "Cinsiyet",
+      "meaning_en": "Gender / Sex",
+      "meaning_uk": "Стать",
+      "example": "Geben Sie Ihr *** an."
+    },
+    {
+      "term": "männlich",
+      "type": "Adjective",
+      "meaning_tr": "Erkek ya da eril",
+      "meaning_en": "Male",
+      "meaning_uk": "Чоловічий (стать)",
+      "example": "Kreuzen Sie *** an."
+    },
+    {
+      "term": "weiblich",
+      "type": "Adjective",
+      "meaning_tr": "Kadın ya da dişil",
+      "meaning_en": "Female",
+      "meaning_uk": "Жіночий (стать)",
+      "example": "Wählen Sie ***."
+    },
+    {
+      "term": "divers",
+      "type": "Adjective",
+      "meaning_tr": "Diğer ya da çeşitli (cinsiyet belirtirken)",
+      "meaning_en": "Other / Diverse (gender)",
+      "meaning_uk": "Різне (стать)",
+      "example": "Es gibt auch ***."
+    },
+    {
+      "term": "bedeuten",
+      "type": "Verb",
+      "meaning_tr": "Anlamına gelmek ya da ifade etmek",
+      "meaning_en": "To mean",
+      "meaning_uk": "Означати",
+      "example": "Was *** dieses Wort?"
+    },
+    {
+      "term": "beruflich",
+      "type": "Adjective",
+      "meaning_tr": "Mesleki ya da işle ilgili",
+      "meaning_en": "Professional / Vocational",
+      "meaning_uk": "Професійний",
+      "example": "Was machen Sie ***?"
+    },
+    {
+      "term": "der Krankenpfleger",
+      "type": "Noun",
+      "meaning_tr": "Hasta bakıcı ya da erkek hemşire",
+      "meaning_en": "Nurse (male)",
+      "meaning_uk": "Медбрат",
+      "example": "Er arbeitet als ***."
+    },
+    {
+      "term": "die Krankenschwester",
+      "type": "Noun",
+      "meaning_tr": "Hemşire (kadın)",
+      "meaning_en": "Nurse (female)",
+      "meaning_uk": "Медсестра",
+      "example": "Sie ist ***."
+    },
+    {
+      "term": "abschließen",
+      "type": "Verb",
+      "meaning_tr": "Tamamlamak ya da bitirmek (eğitim vb.)",
+      "meaning_en": "To complete / To lock",
+      "meaning_uk": "Закінчувати / Завершувати",
+      "example": "Ich schließe das Studium ab."
+    },
+    {
+      "term": "der Test",
+      "type": "Noun",
+      "meaning_tr": "Sınav ya da test",
+      "meaning_en": "Test",
+      "meaning_uk": "Тест",
+      "example": "Der *** war basit."
+    },
+    {
+      "term": "das Lokal",
+      "type": "Noun",
+      "meaning_tr": "Mekan, restoran ya da lokal",
+      "meaning_en": "Local / Venue / Restaurant",
+      "meaning_uk": "Заклад / Ресторан",
+      "example": "Wir gehen in ein ***."
+    },
+    {
+      "term": "umziehen",
+      "type": "Verb",
+      "meaning_tr": "Taşınmak ya da üstünü değiştirmek",
+      "meaning_en": "To move / To change clothes",
+      "meaning_uk": "Переїжджати",
+      "example": "Wir ziehen nächste Woche um."
+    },
+    {
+      "term": "das Apartment",
+      "type": "Noun",
+      "meaning_tr": "Daire ya da apartman dairesi",
+      "meaning_en": "Apartment / Flat",
+      "meaning_uk": "Апартаменти / Квартира",
+      "example": "Das *** ist klein."
+    },
+    {
+      "term": "der Beamte",
+      "type": "Noun",
+      "meaning_tr": "Memur (erkek)",
+      "meaning_en": "Civil servant / Official",
+      "meaning_uk": "Державний службовець",
+      "example": "Er ist ein ***."
+    },
+    {
+      "term": "der Zoll",
+      "type": "Noun",
+      "meaning_tr": "Gümrük",
+      "meaning_en": "Customs",
+      "meaning_uk": "Митниця",
+      "example": "Wir müssen durch den ***."
+    },
+    {
+      "term": "cool",
+      "type": "Adjective",
+      "meaning_tr": "Harika, havalı ya da soğukkanlı",
+      "meaning_en": "Cool",
+      "meaning_uk": "Круто / Класно",
+      "example": "Das ist echt ***."
+    },
+    {
+      "term": "die Wirtschaft",
+      "type": "Noun",
+      "meaning_tr": "Ekonomi ya da iktisat",
+      "meaning_en": "Economy",
+      "meaning_uk": "Економіка / Господарство",
+      "example": "Die *** wächst."
+    },
+    {
+      "term": "die Jahreszahl",
+      "type": "Noun",
+      "meaning_tr": "Yıl sayısı ya da rakamla yıl",
+      "meaning_en": "Year (as a number)",
+      "meaning_uk": "Число року",
+      "example": "Nennen Sie die ***."
+    },
+    {
+      "term": "das Geburtsjahr",
+      "type": "Noun",
+      "meaning_tr": "Doğum yılı",
+      "meaning_en": "Year of birth",
+      "meaning_uk": "Рік народження",
+      "example": "Wie ist dein ***?"
+    }
   ]
 }

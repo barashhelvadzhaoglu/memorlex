@@ -1,27 +1,742 @@
 {
-  "title": "Integration A1 - Kapitel 16",
+  "title": "Integration A1 - Kapitel 12",
   "language": "de",
   "words": [
-    { "term": "der Markt", "type": "İsim", "meaning": "Pazar", "example": "Auf dem *** kaufe ich frisches Obst." },
-    { "term": "die Halle", "type": "İsim", "meaning": "Hol - Salon", "example": "In der großen *** findet die Messe statt." },
-    { "term": "der Stand", "type": "İsim", "meaning": "Tezgah - Stand", "example": "An diesem *** gibt es warmen Glühwein." },
-    { "term": "das Karussell", "type": "İsim", "meaning": "Atlıkarınca", "example": "Die Kinder fahren gerne auf dem ***." },
-    { "term": "das Spielzeug", "type": "İsim", "meaning": "Oyuncak", "example": "Das Kind wünscht sich ein neues ***." },
-    { "term": "die Kleidung", "type": "İsim", "meaning": "Kıyafet", "example": "Im Winter brauchen wir warme ***." },
-    { "term": "der Honig", "type": "İsim", "meaning": "Bal", "example": "Die Bienen produzieren diesen süßen ***." },
-    { "term": "der Glühwein", "type": "İsim", "meaning": "Sıcak şarap", "example": "Auf dem Weihnachtsmarkt trinken wir ***." },
-    { "term": "das Lebkuchenherz", "type": "İsim", "meaning": "Zencefilli kurabiye kalp", "example": "Er schenkt ihr ein großes ***." },
-    { "term": "die Zuckerwatte", "type": "İsim", "meaning": "Pamuk şeker", "example": "Die *** ist sehr süß und klebt an den Fingern." },
-    { "term": "der Schmuck", "type": "İsim", "meaning": "Takı - Mücevher", "example": "Sie trägt teuren *** aus Gold." },
-    { "term": "der Weihnachtsmann", "type": "İsim", "meaning": "Noel Baba", "example": "Der *** bringt den Kindern Geschenke." },
-    { "term": "aufbauen", "type": "Fiil", "meaning": "Kurmak - İnşa etmek", "example": "Die Arbeiter müssen den Stand früh ***." },
-    { "term": "braten", "type": "Fiil", "meaning": "Kızartmak", "example": "Wir *** die Würstchen auf dem Grill." },
-    { "term": "ausgeben", "type": "Fiil", "meaning": "Harcamak", "example": "Ich möchte heute nicht so viel Geld ***." },
-    { "term": "angucken", "type": "Fiil", "meaning": "Bakmak - İzlemek", "example": "Wir wollen uns die schönen Lichter ***." },
-    { "term": "herrlich", "type": "Sıfat", "meaning": "Harika - Muazzam", "example": "Das Wetter heute ist einfach ***." },
-    { "term": "riechen", "type": "Fiil", "meaning": "Koklamak - Kokmak", "example": "Die gebrannten Mandeln *** sehr gut." },
-    { "term": "satt", "type": "Sıfat", "meaning": "Tok", "example": "Ich kann nicht mehr essen, ich bin ***." },
-    { "term": "links", "type": "Zarf", "meaning": "Sol", "example": "Gehen Sie an der Ecke nach ***." },
-    { "term": "rechts", "type": "Zarf", "meaning": "Sağ", "example": "Mein Haus liegt auf der *** Seite." }
+    {
+      "term": "unterwegs",
+      "type": "Adverb",
+      "meaning_tr": "Yolda, hareket halinde ya da bir yere giderken",
+      "meaning_en": "On the way / On the go",
+      "meaning_uk": "У дорозі / В дорозі",
+      "example": "Ich bin gerade ***, wir telefonieren später."
+    },
+    {
+      "term": "die Fahrkarte",
+      "type": "Noun",
+      "meaning_tr": "Bilet (ulaşım için)",
+      "meaning_en": "Ticket",
+      "meaning_uk": "Проїзний квиток",
+      "example": "Vergessen Sie nicht, Ihre *** zu entwerten."
+    },
+    {
+      "term": "der Zug",
+      "type": "Noun",
+      "meaning_tr": "Tren",
+      "meaning_en": "Train",
+      "meaning_uk": "Потяг",
+      "example": "Der *** nach Berlin hat 10 Minuten Verspätung."
+    },
+    {
+      "term": "das Schiff",
+      "type": "Noun",
+      "meaning_tr": "Gemi ya da vapur",
+      "meaning_en": "Ship / Boat",
+      "meaning_uk": "Корабель",
+      "example": "Wir machen eine Reise mit dem ***."
+    },
+    {
+      "term": "besser",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Daha iyi",
+      "meaning_en": "Better",
+      "meaning_uk": "Краще",
+      "example": "Heute geht es mir schon viel ***."
+    },
+    {
+      "term": "übernachten",
+      "type": "Verb",
+      "meaning_tr": "Gecelemek, konaklamak ya da bir yerde kalmak",
+      "meaning_en": "To stay overnight",
+      "meaning_uk": "Ночувати / Переночувати",
+      "example": "Wir *** in einem kleinen Hotel am See."
+    },
+    {
+      "term": "in Ordnung",
+      "type": "Phrase",
+      "meaning_tr": "Tamam, yolunda ya da peki",
+      "meaning_en": "All right / Okay",
+      "meaning_uk": "У порядку / Добре",
+      "example": "Alles ***, wir können jetzt losgehen."
+    },
+    {
+      "term": "bis",
+      "type": "Preposition",
+      "meaning_tr": "-e kadar (zaman veya mesafe)",
+      "meaning_en": "Until / Till",
+      "meaning_uk": "До (певного часу/місця)",
+      "example": "Ich bleibe *** morgen in München."
+    },
+    {
+      "term": "der-die Cousin-e",
+      "type": "Noun",
+      "meaning_tr": "Kuzen",
+      "meaning_en": "Cousin",
+      "meaning_uk": "Кузен / Кузина",
+      "example": "Mein *** besucht mich am Wochenende."
+    },
+    {
+      "term": "das Verkehrsmittel",
+      "type": "Noun",
+      "meaning_tr": "Ulaşım aracı ya da taşıt",
+      "meaning_en": "Means of transport",
+      "meaning_uk": "Транспортний засіб",
+      "example": "Welches *** benutzen Sie am häufigsten?"
+    },
+    {
+      "term": "das Fahrrad",
+      "type": "Noun",
+      "meaning_tr": "Bisiklet",
+      "meaning_en": "Bicycle / Bike",
+      "meaning_uk": "Велосипед",
+      "example": "Ich fahre jeden Tag mit dem *** zur Arbeit."
+    },
+    {
+      "term": "das Auto",
+      "type": "Noun",
+      "meaning_tr": "Araba ya da otomobil",
+      "meaning_en": "Car",
+      "meaning_uk": "Автомобіль",
+      "example": "Das neue *** steht in der Garage."
+    },
+    {
+      "term": "der Bus",
+      "type": "Noun",
+      "meaning_tr": "Otobüs",
+      "meaning_en": "Bus",
+      "meaning_uk": "Автобус",
+      "example": "Der *** hält direkt vor dem Haus."
+    },
+    {
+      "term": "das Flugzeug",
+      "type": "Noun",
+      "meaning_tr": "Uçak",
+      "meaning_en": "Airplane / Plane",
+      "meaning_uk": "Літак",
+      "example": "Das *** startet pünchtlich um 14 Uhr."
+    },
+    {
+      "term": "die Straßenbahn",
+      "type": "Noun",
+      "meaning_tr": "Tramvay",
+      "meaning_en": "Tram",
+      "meaning_uk": "Трамвай",
+      "example": "In Wien fährt man oft mit der ***."
+    },
+    {
+      "term": "die U-Bahn",
+      "type": "Noun",
+      "meaning_tr": "Metro",
+      "meaning_en": "Subway / Metro",
+      "meaning_uk": "Метро",
+      "example": "Die *** ist das schnellste Verkehrsmittel."
+    },
+    {
+      "term": "die S-Bahn",
+      "type": "Noun",
+      "meaning_tr": "Banliyö treni ya da şehir içi hızlı tren",
+      "meaning_en": "Suburban train",
+      "meaning_uk": "Міська електричка",
+      "example": "Die *** verbindet die Stadt mit dem Umland."
+    },
+    {
+      "term": "öf. Verkehrsmittel",
+      "type": "Noun Phrase",
+      "meaning_tr": "Toplu taşıma araçları",
+      "meaning_en": "Public transport",
+      "meaning_uk": "Громадський транспорт",
+      "example": "Ich nutze nur ***."
+    },
+    {
+      "term": "abfahren",
+      "type": "Verb",
+      "meaning_tr": "Hareket etmek ya da yola çıkmak (araçlar için)",
+      "meaning_en": "To depart / To leave",
+      "meaning_uk": "Відправлятися",
+      "example": "Wann wird der Zug ***?"
+    },
+    {
+      "term": "zu Fuß",
+      "type": "Adverb",
+      "meaning_tr": "Yaya olarak ya da yürüyerek",
+      "meaning_en": "On foot",
+      "meaning_uk": "Пішки",
+      "example": "Ich gehe gerne *** durch den Park."
+    },
+    {
+      "term": "selten",
+      "type": "Adverb / Adjective",
+      "meaning_tr": "Nadiren ya da seyrek",
+      "meaning_en": "Rarely / Seldom",
+      "meaning_uk": "Рідко",
+      "example": "Ich esse nur sehr *** Fleisch."
+    },
+    {
+      "term": "von ... zu ...",
+      "type": "Preposition",
+      "meaning_tr": "...'dan ...'ya",
+      "meaning_en": "From ... to ...",
+      "meaning_uk": "Від ... до ...",
+      "example": "Ich fahre *** Hamburg *** Berlin."
+    },
+    {
+      "term": "direkt",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Doğrudan ya da direkt",
+      "meaning_en": "Direct / Directly",
+      "meaning_uk": "Прямо / Безпосередньо",
+      "example": "Es gibt eine ***e Verbindung zum Flughafen."
+    },
+    {
+      "term": "am Bahnhof",
+      "type": "Phrase",
+      "meaning_tr": "Tren istasyonunda / garda",
+      "meaning_en": "At the station",
+      "meaning_uk": "На вокзалі",
+      "example": "Wir treffen uns ***."
+    },
+    {
+      "term": "die Abfahrt",
+      "type": "Noun",
+      "meaning_tr": "Kalkış ya da hareket zamanı",
+      "meaning_en": "Departure",
+      "meaning_uk": "Відправлення",
+      "example": "Die *** ist um 10:30 Uhr auf Gleis 4."
+    },
+    {
+      "term": "die Ankunft",
+      "type": "Noun",
+      "meaning_tr": "Varış",
+      "meaning_en": "Arrival",
+      "meaning_uk": "Прибуття",
+      "example": "Die geplante *** ist um 12:15 Uhr."
+    },
+    {
+      "term": "ankommen",
+      "type": "Verb",
+      "meaning_tr": "Varmak ya da ulaşmak",
+      "meaning_en": "To arrive",
+      "meaning_uk": "Прибувати",
+      "example": "Wann wird der Bus in Köln ***?"
+    },
+    {
+      "term": "der Bahnsteig",
+      "type": "Noun",
+      "meaning_tr": "Peron",
+      "meaning_en": "Platform",
+      "meaning_uk": "Перон",
+      "example": "Der Zug fährt heute von einem anderen ***."
+    },
+    {
+      "term": "das Gleis",
+      "type": "Noun",
+      "meaning_tr": "Ray ya da peron hattı",
+      "meaning_en": "Track / Platform line",
+      "meaning_uk": "Колія",
+      "example": "Vorsicht an *** 3, der Zug fährt ein."
+    },
+    {
+      "term": "der Fahrplan",
+      "type": "Noun",
+      "meaning_tr": "Tarife ya da sefer planı",
+      "meaning_en": "Timetable",
+      "meaning_uk": "Розклад руху",
+      "example": "Schauen Sie bitte im *** nach."
+    },
+    {
+      "term": "die Auskunft",
+      "type": "Noun",
+      "meaning_tr": "Bilgi ya da danışma",
+      "meaning_en": "Information / Inquiry",
+      "meaning_uk": "Довідка / Інформація",
+      "example": "Wo finde ich die *** am Bahnhof?"
+    },
+    {
+      "term": "der Automat",
+      "type": "Noun",
+      "meaning_tr": "Otomat ya da bilet makinesi",
+      "meaning_en": "Vending machine / Ticket machine",
+      "meaning_uk": "Автомат (з продажу)",
+      "example": "Ich kaufe meine Karte am ***en."
+    },
+    {
+      "term": "das Gepäck",
+      "type": "Noun",
+      "meaning_tr": "Bagaj ya da yük",
+      "meaning_en": "Luggage / Baggage",
+      "meaning_uk": "Багаж",
+      "example": "Haben Sie viel *** dabei?"
+    },
+    {
+      "term": "die Gültigkeit",
+      "type": "Noun",
+      "meaning_tr": "Geçerlilik",
+      "meaning_en": "Validity",
+      "meaning_uk": "Термін дії / Валідність",
+      "example": "Wie lange ist die *** dieser Karte?"
+    },
+    {
+      "term": "die Klasse",
+      "type": "Noun",
+      "meaning_tr": "Sınıf (1. veya 2. sınıf)",
+      "meaning_en": "Class",
+      "meaning_uk": "Клас",
+      "example": "Ich fahre meistens in der zweiten ***."
+    },
+    {
+      "term": "die Verbindung",
+      "type": "Noun",
+      "meaning_tr": "Bağlantı ya da aktarma",
+      "meaning_en": "Connection",
+      "meaning_uk": "З'єднання / Пересадка",
+      "example": "Gibt es eine gute *** nach München?"
+    },
+    {
+      "term": "die Reservierung",
+      "type": "Noun",
+      "meaning_tr": "Rezervasyon",
+      "meaning_en": "Reservation",
+      "meaning_uk": "Бронювання",
+      "example": "Eine *** für den Sitzplatz ist sinnvoll."
+    },
+    {
+      "term": "die Hinfahrt",
+      "type": "Noun",
+      "meaning_tr": "Gidiş yolculuğu",
+      "meaning_en": "Outward journey / One way trip",
+      "meaning_uk": "Поїздка в один бік",
+      "example": "Was kostet die *** allein?"
+    },
+    {
+      "term": "der Halt",
+      "type": "Noun",
+      "meaning_tr": "Durak ya da duruş",
+      "meaning_en": "Stop",
+      "meaning_uk": "Зупинка",
+      "example": "Nächster ***: Köln Hauptbahnhof."
+    },
+    {
+      "term": "das Produkt",
+      "type": "Noun",
+      "meaning_tr": "Ürün",
+      "meaning_en": "Product",
+      "meaning_uk": "Продукт",
+      "example": "Dieses *** ist sehr beliebt."
+    },
+    {
+      "term": "die Rückfahrt",
+      "type": "Noun",
+      "meaning_tr": "Dönüş yolculuğu",
+      "meaning_en": "Return journey",
+      "meaning_uk": "Зворотна поїздка",
+      "example": "Ich buche gleich die *** mit."
+    },
+    {
+      "term": "umsteigen",
+      "type": "Verb",
+      "meaning_tr": "Aktarma yapmak ya da vasıta değiştirmek",
+      "meaning_en": "To change trains / To transfer",
+      "meaning_uk": "Пересідати (на інший транспорт)",
+      "example": "In Hannover müssen wir ***."
+    },
+    {
+      "term": "die Durchsage",
+      "type": "Noun",
+      "meaning_tr": "Anons ya da sözlü duyuru",
+      "meaning_en": "Announcement",
+      "meaning_uk": "Оголошення (через гучномовець)",
+      "example": "Achten Sie auf die *** am Bahnsteig."
+    },
+    {
+      "term": "der Hauptbahnhof",
+      "type": "Noun",
+      "meaning_tr": "Merkez tren istasyonu / Ana gar",
+      "meaning_en": "Main station",
+      "meaning_uk": "Головний вокзал",
+      "example": "Der *** liegt direkt im Zentrum."
+    },
+    {
+      "term": "der Ausgang",
+      "type": "Noun",
+      "meaning_tr": "Çıkış",
+      "meaning_en": "Exit",
+      "meaning_uk": "Вихід",
+      "example": "Folgen Sie den Schildern zum ***."
+    },
+    {
+      "term": "der Eingang",
+      "type": "Noun",
+      "meaning_tr": "Giriş",
+      "meaning_en": "Entrance",
+      "meaning_uk": "Вхід",
+      "example": "Der *** befindet sich auf der anderen Seite."
+    },
+    {
+      "term": "der Plan",
+      "type": "Noun",
+      "meaning_tr": "Plan ya da harita",
+      "meaning_en": "Plan / Map",
+      "meaning_uk": "План / Карта",
+      "example": "Ich habe den *** der Stadt dabei."
+    },
+    {
+      "term": "die Kreuzung",
+      "type": "Noun",
+      "meaning_tr": "Kavşak ya da dörtyol",
+      "meaning_en": "Intersection / Crossing",
+      "meaning_uk": "Перехрестя",
+      "example": "Gehen Sie an der nächsten *** links."
+    },
+    {
+      "term": "die Richtung",
+      "type": "Noun",
+      "meaning_tr": "Yön ya da istikamet",
+      "meaning_en": "Direction",
+      "meaning_uk": "Напрямок",
+      "example": "In welche *** müssen wir fahren?"
+    },
+    {
+      "term": "geradeaus",
+      "type": "Adverb",
+      "meaning_tr": "Dosdoğru ya da düz",
+      "meaning_en": "Straight ahead",
+      "meaning_uk": "Прямо",
+      "example": "Gehen Sie immer *** bis zur Post."
+    },
+    {
+      "term": "links",
+      "type": "Adverb",
+      "meaning_tr": "Sola ya da sol tarafta",
+      "meaning_en": "Left / To the left",
+      "meaning_uk": "Ліворуч",
+      "example": "Biegen Sie an der Ampel *** ab."
+    },
+    {
+      "term": "rechts",
+      "type": "Adverb / Adjective",
+      "meaning_tr": "Sağa ya da sağ tarafta",
+      "meaning_en": "Right / To the right",
+      "meaning_uk": "Праворуч",
+      "example": "Der Supermarkt ist auf der ***en Seite."
+    },
+    {
+      "term": "warten",
+      "type": "Verb",
+      "meaning_tr": "Beklemek",
+      "meaning_en": "To wait",
+      "meaning_uk": "Чекати",
+      "example": "Bitte *** Sie einen Moment hier."
+    },
+    {
+      "term": "durch",
+      "type": "Preposition",
+      "meaning_tr": "-den geçerek ya da arasından",
+      "meaning_en": "Through",
+      "meaning_uk": "Через / Крізь",
+      "example": "Wir gehen *** den Park."
+    },
+    {
+      "term": "der Feierabend",
+      "type": "Noun",
+      "meaning_tr": "İş paydosu ya da iş sonrası serbest zaman",
+      "meaning_en": "End of work day",
+      "meaning_uk": "Кінець робочого дня",
+      "example": "Ich wünsche dir einen schönen ***."
+    },
+    {
+      "term": "die Orientierung",
+      "type": "Noun",
+      "meaning_tr": "Yön bulma ya da oryantasyon",
+      "meaning_en": "Orientation",
+      "meaning_uk": "Орієнтація",
+      "example": "Ohne Karte habe ich keine ***."
+    },
+    {
+      "term": "stop",
+      "type": "Interjection",
+      "meaning_tr": "Dur",
+      "meaning_en": "Stop",
+      "meaning_uk": "Стоп / Зупинка",
+      "example": "Bitte machen Sie dort einen ***."
+    },
+    {
+      "term": "aufmachen",
+      "type": "Verb",
+      "meaning_tr": "Açmak",
+      "meaning_en": "To open",
+      "meaning_uk": "Відчиняти",
+      "example": "Kannst du bitte die Tür ***?"
+    },
+    {
+      "term": "die Apotheke",
+      "type": "Noun",
+      "meaning_tr": "Eczane",
+      "meaning_en": "Pharmacy",
+      "meaning_uk": "Аптека",
+      "example": "Ich muss noch kurz in die ***."
+    },
+    {
+      "term": "die Bank",
+      "type": "Noun",
+      "meaning_tr": "Banka (veya bank/oturak)",
+      "meaning_en": "Bank",
+      "meaning_uk": "Банк",
+      "example": "Die *** ist samstags geschlossen."
+    },
+    {
+      "term": "das Rathaus",
+      "type": "Noun",
+      "meaning_tr": "Belediye binası",
+      "meaning_en": "Town hall / City hall",
+      "meaning_uk": "Ратуша / Мерія",
+      "example": "Das *** ist ein historisches Gebäude."
+    },
+    {
+      "term": "der Marktplatz",
+      "type": "Noun",
+      "meaning_tr": "Pazar meydanı ya da çarşı alanı",
+      "meaning_en": "Market square",
+      "meaning_uk": "Ринкова площа",
+      "example": "Wir treffen uns auf dem ***."
+    },
+    {
+      "term": "das Museum",
+      "type": "Noun",
+      "meaning_tr": "Müze",
+      "meaning_en": "Museum",
+      "meaning_uk": "Музей",
+      "example": "Das *** zeigt moderne Kunst."
+    },
+    {
+      "term": "das Reisebüro",
+      "type": "Noun",
+      "meaning_tr": "Seyahat acentesi",
+      "meaning_en": "Travel agency",
+      "meaning_uk": "Туристичне агентство",
+      "example": "Wir buchen den Urlaub im ***."
+    },
+    {
+      "term": "der Dom",
+      "type": "Noun",
+      "meaning_tr": "Katedral ya da büyük kilise",
+      "meaning_en": "Cathedral",
+      "meaning_uk": "Собор",
+      "example": "Der Kölner *** ist weltberühmt."
+    },
+    {
+      "term": "die Haltestelle",
+      "type": "Noun",
+      "meaning_tr": "Durak (otobüs, tramvay vb.)",
+      "meaning_en": "Stop / Station",
+      "meaning_uk": "Зупинка",
+      "example": "Wo ist die nächste *** der Linie 5?"
+    },
+    {
+      "term": "der Fluss",
+      "type": "Noun",
+      "meaning_tr": "Nehir ya da akarsu",
+      "meaning_en": "River",
+      "meaning_uk": "Річка",
+      "example": "Die Elbe ist ein langer ***."
+    },
+    {
+      "term": "der Stadtplan",
+      "type": "Noun",
+      "meaning_tr": "Şehir haritası ya da planı",
+      "meaning_en": "City map",
+      "meaning_uk": "План міста",
+      "example": "Auf dem *** finde ich den Weg."
+    },
+    {
+      "term": "die Wegbeschreibung",
+      "type": "Noun",
+      "meaning_tr": "Yol tarifi ya da yol tanımı",
+      "meaning_en": "Directions",
+      "meaning_uk": "Опис маршруту / Як дістатися",
+      "example": "Kannst du mir eine *** schicken?"
+    },
+    {
+      "term": "in",
+      "type": "Preposition",
+      "meaning_tr": "İçinde ya da -e (yönelim)",
+      "meaning_en": "In / Into",
+      "meaning_uk": "В / У",
+      "example": "Wir gehen *** das Kino."
+    },
+    {
+      "term": "an",
+      "type": "Preposition",
+      "meaning_tr": "Kenarında, başında ya da -e (temaslı yönelim)",
+      "meaning_en": "At / To / By",
+      "meaning_uk": "На / Біля",
+      "example": "Ich stehe *** der Bushaltestelle."
+    },
+    {
+      "term": "einsteigen",
+      "type": "Verb",
+      "meaning_tr": "Binmek (vasıtaya)",
+      "meaning_en": "To get in / To board",
+      "meaning_uk": "Заходити / Сідати (в транспорт)",
+      "example": "Bitte *** Sie schnell ***."
+    },
+    {
+      "term": "aussteigen",
+      "type": "Verb",
+      "meaning_tr": "İnmek (vasıtadan)",
+      "meaning_en": "To get out / To get off",
+      "meaning_uk": "Виходити (з транспорту)",
+      "example": "An der nächsten Station müssen wir ***."
+    },
+    {
+      "term": "die Wirtschaft",
+      "type": "Noun",
+      "meaning_tr": "Ekonomi ya da iktisat",
+      "meaning_en": "Economy",
+      "meaning_uk": "Економіка / Господарство",
+      "example": "Die *** wächst in diesem Jahr."
+    },
+    {
+      "term": "die Industrie",
+      "type": "Noun",
+      "meaning_tr": "Sanayi ya da endüstri",
+      "meaning_en": "Industry",
+      "meaning_uk": "Індустрія / Промисловість",
+      "example": "In dieser Region gibt es viel ***."
+    },
+    {
+      "term": "der-die Einwohner-in",
+      "type": "Noun",
+      "meaning_tr": "Sakin ya da oturan (bir yerin nüfusu)",
+      "meaning_en": "Inhabitant / Resident",
+      "meaning_uk": "Мешканець / Житель",
+      "example": "Die Stadt hat eine Million ***."
+    },
+    {
+      "term": "das Stadtzentrum",
+      "type": "Noun",
+      "meaning_tr": "Şehir merkezi",
+      "meaning_en": "City center",
+      "meaning_uk": "Центр міста",
+      "example": "Im *** sind many Geschäfte."
+    },
+    {
+      "term": "der Laden",
+      "type": "Noun",
+      "meaning_tr": "Dükkan ya da mağaza",
+      "meaning_en": "Shop / Store",
+      "meaning_uk": "Крамниця / Магазин",
+      "example": "Dieser kleine *** verkauft Bio-Produkte."
+    },
+    {
+      "term": "die Sehenswürdigkeit",
+      "type": "Noun",
+      "meaning_tr": "Görülmeye değer yer ya da turistik yer",
+      "meaning_en": "Sight / Landmark",
+      "meaning_uk": "Визначне місце / Пам'ятка",
+      "example": "Welche *** besuchen wir zuerst?"
+    },
+    {
+      "term": "besichtigen",
+      "type": "Verb",
+      "meaning_tr": "Gezmek ya da ziyaret etmek (turistik amaçlı)",
+      "meaning_en": "To visit / To sightsee",
+      "meaning_uk": "Оглядати / Відвідувати (пам'ятки)",
+      "example": "Wir wollen das Schloss ***."
+    },
+    {
+      "term": "bekannt",
+      "type": "Adjective",
+      "meaning_tr": "Tanınmış ya da bilinen",
+      "meaning_en": "Known / Well-known",
+      "meaning_uk": "Відомий / Знайомий",
+      "example": "Er ist ein ***er Schauspieler."
+    },
+    {
+      "term": "berühmt",
+      "type": "Adjective",
+      "meaning_tr": "Ünlü ya da meşhur",
+      "meaning_en": "Famous",
+      "meaning_uk": "Знаменитий",
+      "example": "Beethoven war ein ***er Komponist."
+    },
+    {
+      "term": "kulturell",
+      "type": "Adjective",
+      "meaning_tr": "Kültürel",
+      "meaning_en": "Cultural",
+      "meaning_uk": "Культурний",
+      "example": "Es gibt hier viele ***e Angebote."
+    },
+    {
+      "term": "das Boot",
+      "type": "Noun",
+      "meaning_tr": "Bot ya da küçük tekne",
+      "meaning_en": "Boat",
+      "meaning_uk": "Човен",
+      "example": "Wir fahren mit dem *** über den Fluss."
+    },
+    {
+      "term": "das Märchen",
+      "type": "Noun",
+      "meaning_tr": "Masal",
+      "meaning_en": "Fairy tale",
+      "meaning_uk": "Казка",
+      "example": "Die Brüder Grimm schrieben viele ***."
+    },
+    {
+      "term": "der Esel",
+      "type": "Noun",
+      "meaning_tr": "Eşek",
+      "meaning_en": "Donkey",
+      "meaning_uk": "Осел",
+      "example": "Der *** ist ein Tier in einem Märchen."
+    },
+    {
+      "term": "der Hahn",
+      "type": "Noun",
+      "meaning_tr": "Horoz",
+      "meaning_en": "Rooster",
+      "meaning_uk": "Півень",
+      "example": "Der *** kräht früh am Morgen."
+    },
+    {
+      "term": "die Himmelsrichtung",
+      "type": "Noun",
+      "meaning_tr": "Yön ya da ana yön",
+      "meaning_en": "Cardinal direction",
+      "meaning_uk": "Сторона світу",
+      "example": "Norden ist eine ***."
+    },
+    {
+      "term": "Norden-Osten...",
+      "type": "Noun",
+      "meaning_tr": "Kuzey-Doğu...",
+      "meaning_en": "North-East...",
+      "meaning_uk": "Північ-Схід...",
+      "example": "Wir fahren in den *** von Deutschland."
+    },
+    {
+      "term": "liegen",
+      "type": "Verb",
+      "meaning_tr": "Bulunmak ya da yatmak (coğrafi konum)",
+      "meaning_en": "To be located / To lie",
+      "meaning_uk": "Розташовуватися",
+      "example": "Bremen *** im Norden von Deutschland."
+    },
+    {
+      "term": "das Schloss",
+      "type": "Noun",
+      "meaning_tr": "Şato, saray ya da kilit",
+      "meaning_en": "Castle / Palace",
+      "meaning_uk": "Замок / Палац",
+      "example": "Das *** Neuschwanstein ist sehr schön."
+    },
+    {
+      "term": "die Universität",
+      "type": "Noun",
+      "meaning_tr": "Üniversite",
+      "meaning_en": "University",
+      "meaning_uk": "Університет",
+      "example": "Ich studiere an der ***."
+    }
   ]
 }

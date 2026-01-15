@@ -1,27 +1,734 @@
 {
-  "title": "Integration A1 - Kapitel 16",
+  "title": "Integration A1 - Kapitel 10 (Part 2)",
   "language": "de",
   "words": [
-    { "term": "der Markt", "type": "İsim", "meaning": "Pazar", "example": "Auf dem *** kaufe ich frisches Obst." },
-    { "term": "die Halle", "type": "İsim", "meaning": "Hol - Salon", "example": "In der großen *** findet die Messe statt." },
-    { "term": "der Stand", "type": "İsim", "meaning": "Tezgah - Stand", "example": "An diesem *** gibt es warmen Glühwein." },
-    { "term": "das Karussell", "type": "İsim", "meaning": "Atlıkarınca", "example": "Die Kinder fahren gerne auf dem ***." },
-    { "term": "das Spielzeug", "type": "İsim", "meaning": "Oyuncak", "example": "Das Kind wünscht sich ein neues ***." },
-    { "term": "die Kleidung", "type": "İsim", "meaning": "Kıyafet", "example": "Im Winter brauchen wir warme ***." },
-    { "term": "der Honig", "type": "İsim", "meaning": "Bal", "example": "Die Bienen produzieren diesen süßen ***." },
-    { "term": "der Glühwein", "type": "İsim", "meaning": "Sıcak şarap", "example": "Auf dem Weihnachtsmarkt trinken wir ***." },
-    { "term": "das Lebkuchenherz", "type": "İsim", "meaning": "Zencefilli kurabiye kalp", "example": "Er schenkt ihr ein großes ***." },
-    { "term": "die Zuckerwatte", "type": "İsim", "meaning": "Pamuk şeker", "example": "Die *** ist sehr süß und klebt an den Fingern." },
-    { "term": "der Schmuck", "type": "İsim", "meaning": "Takı - Mücevher", "example": "Sie trägt teuren *** aus Gold." },
-    { "term": "der Weihnachtsmann", "type": "İsim", "meaning": "Noel Baba", "example": "Der *** bringt den Kindern Geschenke." },
-    { "term": "aufbauen", "type": "Fiil", "meaning": "Kurmak - İnşa etmek", "example": "Die Arbeiter müssen den Stand früh ***." },
-    { "term": "braten", "type": "Fiil", "meaning": "Kızartmak", "example": "Wir *** die Würstchen auf dem Grill." },
-    { "term": "ausgeben", "type": "Fiil", "meaning": "Harcamak", "example": "Ich möchte heute nicht so viel Geld ***." },
-    { "term": "angucken", "type": "Fiil", "meaning": "Bakmak - İzlemek", "example": "Wir wollen uns die schönen Lichter ***." },
-    { "term": "herrlich", "type": "Sıfat", "meaning": "Harika - Muazzam", "example": "Das Wetter heute ist einfach ***." },
-    { "term": "riechen", "type": "Fiil", "meaning": "Koklamak - Kokmak", "example": "Die gebrannten Mandeln *** sehr gut." },
-    { "term": "satt", "type": "Sıfat", "meaning": "Tok", "example": "Ich kann nicht mehr essen, ich bin ***." },
-    { "term": "links", "type": "Zarf", "meaning": "Sol", "example": "Gehen Sie an der Ecke nach ***." },
-    { "term": "rechts", "type": "Zarf", "meaning": "Sağ", "example": "Mein Haus liegt auf der *** Seite." }
+    {
+      "term": "warten",
+      "type": "Verb",
+      "meaning_tr": "Beklemek",
+      "meaning_en": "To wait",
+      "meaning_uk": "Чекати",
+      "example": "Ich stehe an der Haltestelle und muss ***."
+    },
+    {
+      "term": "arbeitslos",
+      "type": "Adjective",
+      "meaning_tr": "İşsiz",
+      "meaning_en": "Unemployed",
+      "meaning_uk": "Безробітний",
+      "example": "Wer keine Arbeit hat, ist ***."
+    },
+    {
+      "term": "normal",
+      "type": "Adjective",
+      "meaning_tr": "Normal, olağan ya da alışılmış",
+      "meaning_en": "Normal",
+      "meaning_uk": "Нормальний",
+      "example": "Das ist ein ganz *** Tag für mich."
+    },
+    {
+      "term": "die Nachtschicht",
+      "type": "Noun",
+      "meaning_tr": "Gece vardiyası",
+      "meaning_en": "Night shift",
+      "meaning_uk": "Нічна зміна",
+      "example": "Er arbeitet von 22 bis 6 Uhr; er hat ***."
+    },
+    {
+      "term": "die Kita",
+      "type": "Noun",
+      "meaning_tr": "Gündüz bakımevi, kreş ya da çocuk yuvası",
+      "meaning_en": "Daycare center / Preschool",
+      "meaning_uk": "Дитячий садок",
+      "example": "Die Kinder spielen den ganzen Tag in der ***."
+    },
+    {
+      "term": "spannend",
+      "type": "Adjective",
+      "meaning_tr": "Heyecan verici, sürükleyici ya da merak uyandırıcı",
+      "meaning_en": "Exciting / Thrilling",
+      "meaning_uk": "Захоплюючий / Напружений",
+      "example": "Der Film im Fernsehen ist wirklich ***."
+    },
+    {
+      "term": "studieren",
+      "type": "Verb",
+      "meaning_tr": "Üniversite okumak ya da yükseköğrenim görmek",
+      "meaning_en": "To study (at university)",
+      "meaning_uk": "Навчатися (в університеті)",
+      "example": "Er geht an die Uni, um Medizin zu ***."
+    },
+    {
+      "term": "zuständig",
+      "type": "Adjective",
+      "meaning_tr": "Sorumlu, yetkili ya da görevli",
+      "meaning_en": "Responsible / Competent",
+      "meaning_uk": "Відповідальний / Компетентний",
+      "example": "Wer ist für dieses Projekt ***?"
+    },
+    {
+      "term": "seit",
+      "type": "Preposition",
+      "meaning_tr": "-den beri (zaman belirtirken)",
+      "meaning_en": "Since / For",
+      "meaning_uk": "З / Протягом",
+      "example": "Ich wohnen *** drei Jahren in Berlin."
+    },
+    {
+      "term": "von",
+      "type": "Preposition",
+      "meaning_tr": "-den/-dan, tarafından ya da aitlik bildirir",
+      "meaning_en": "From / By / Of",
+      "meaning_uk": "Від / З",
+      "example": "Das Geschenk ist *** meiner Mutter."
+    },
+    {
+      "term": "vor",
+      "type": "Preposition",
+      "meaning_tr": "Önce ya da önünde",
+      "meaning_en": "Before / In front of",
+      "meaning_uk": "Перед / До",
+      "example": "*** dem Essen wasche ich mir die Hände."
+    },
+    {
+      "term": "ab",
+      "type": "Preposition",
+      "meaning_tr": "-den itibaren ya da -den başlayarak",
+      "meaning_en": "From / Starting from",
+      "meaning_uk": "З / Починаючи з",
+      "example": "*** morgen beginnt mein neuer Job."
+    },
+    {
+      "term": "bis zum",
+      "type": "Preposition",
+      "meaning_tr": "-e kadar",
+      "meaning_en": "Until the / Up to the",
+      "meaning_uk": "До (певного часу)",
+      "example": "Wir arbeiten heute nur *** Mittag."
+    },
+    {
+      "term": "beenden",
+      "type": "Verb",
+      "meaning_tr": "Bitirmek, sonlandırmak ya da tamamlamak",
+      "meaning_en": "To finish / To end",
+      "meaning_uk": "Закінчувати / Завершувати",
+      "example": "Du musst deine Arbeit bald ***."
+    },
+    {
+      "term": "die Gastronomie",
+      "type": "Noun",
+      "meaning_tr": "Gastronomi ya da yeme-içme sektörü",
+      "meaning_en": "Gastronomy / Catering industry",
+      "meaning_uk": "Гастрономія / Ресторанний бізнес",
+      "example": "Er arbeitet als Koch in der ***."
+    },
+    {
+      "term": "die Informatik",
+      "type": "Noun",
+      "meaning_tr": "Bilişim, bilgisayar bilimi ya da IT",
+      "meaning_en": "Computer science / IT",
+      "meaning_uk": "Інформатика",
+      "example": "Sie studiert *** und schreibt Programme."
+    },
+    {
+      "term": "das Stellenangebot",
+      "type": "Noun",
+      "meaning_tr": "İş ilanı ya da iş teklifi",
+      "meaning_en": "Job offer / Vacancy",
+      "meaning_uk": "Вакансія / Пропозиція роботи",
+      "example": "Ich habe ein interessantes *** gelesen."
+    },
+    {
+      "term": "der Prospekt",
+      "type": "Noun",
+      "meaning_tr": "Broşür, tanıtım kitapçığı ya da prospektüs",
+      "meaning_en": "Brochure / Prospectus",
+      "meaning_uk": "Брошура / Проспект",
+      "example": "Alle Infos stehen in diesem kleinen ***."
+    },
+    {
+      "term": "der Arbeitsort",
+      "type": "Noun",
+      "meaning_tr": "İş yeri ya da çalışma lokasyonu",
+      "meaning_en": "Place of work",
+      "meaning_uk": "Місце роботи",
+      "example": "Mein *** ist direkt im Stadtzentrum."
+    },
+    {
+      "term": "die Aushilfe",
+      "type": "Noun",
+      "meaning_tr": "Yardımcı eleman, geçici işçi ya da asistan",
+      "meaning_en": "Temporary help / Assistant",
+      "meaning_uk": "Помічник / Тимчасовий працівник",
+      "example": "Wir suchen eine *** für das Wochenende."
+    },
+    {
+      "term": "die Bezahlung",
+      "type": "Noun",
+      "meaning_tr": "Ödeme, maaş ya da ücret",
+      "meaning_en": "Payment / Pay",
+      "meaning_uk": "Оплата / Платня",
+      "example": "Die *** für diesen Job ist sehr gut."
+    },
+    {
+      "term": "plus",
+      "type": "Conjunction",
+      "meaning_tr": "Artı ya da ek olarak",
+      "meaning_en": "Plus",
+      "meaning_uk": "Плюс",
+      "example": "Zwei *** zwei macht vier."
+    },
+    {
+      "term": "bieten",
+      "type": "Verb",
+      "meaning_tr": "Sunmak, sağlamak ya da teklif etmek",
+      "meaning_en": "To offer / To provide",
+      "meaning_uk": "Пропонувати",
+      "example": "Wir *** unseren Gästen besten Service."
+    },
+    {
+      "term": "entwickeln",
+      "type": "Verb",
+      "meaning_tr": "Geliştirmek ya da tasarlamak",
+      "meaning_en": "To develop",
+      "meaning_uk": "Розвивати / Розробляти",
+      "example": "Techniker *** neue Maschinen."
+    },
+    {
+      "term": "fair",
+      "type": "Adjective",
+      "meaning_tr": "Adil, dürüst ya da hakkaniyetli",
+      "meaning_en": "Fair / Just",
+      "meaning_uk": "Справедливий",
+      "example": "Ein guter Chef ist immer *** zu allen."
+    },
+    {
+      "term": "flexibel",
+      "type": "Adjective",
+      "meaning_tr": "Esnek",
+      "meaning_en": "Flexible",
+      "meaning_uk": "Гнучкий",
+      "example": "Meine Arbeitszeiten sind sehr ***."
+    },
+    {
+      "term": "inklusive",
+      "type": "Adverb",
+      "meaning_tr": "Dahil ya da içerisinde",
+      "meaning_en": "Inclusive / Including",
+      "meaning_uk": "Включно",
+      "example": "Der Preis ist *** Frühstück."
+    },
+    {
+      "term": "interessiert",
+      "type": "Adjective",
+      "meaning_tr": "İlgili ya da meraklı",
+      "meaning_en": "Interested",
+      "meaning_uk": "Зацікавлений",
+      "example": "Ich bin an der Stelle sehr ***."
+    },
+    {
+      "term": "die Konferenz",
+      "type": "Noun",
+      "meaning_tr": "Konferans",
+      "meaning_en": "Conference",
+      "meaning_uk": "Конференція",
+      "example": "Die Chefs treffen sich zur ***."
+    },
+    {
+      "term": "der Konferenzraum",
+      "type": "Noun",
+      "meaning_tr": "Konferans salonu",
+      "meaning_en": "Conference room",
+      "meaning_uk": "Конференц-зал",
+      "example": "Das Meeting ist im großen ***."
+    },
+    {
+      "term": "die Tagung",
+      "type": "Noun",
+      "meaning_tr": "Kurultay, sempozyum ya da toplantı",
+      "meaning_en": "Convention / Symposium",
+      "meaning_uk": "З'їзд / Симпозіум / Нарада",
+      "example": "Viele Ärzte kommen zur ***."
+    },
+    {
+      "term": "der Tagungsraum",
+      "type": "Noun",
+      "meaning_tr": "Toplantı salonu",
+      "meaning_en": "Meeting room",
+      "meaning_uk": "Зал для засідань",
+      "example": "Wir reservieren den *** im Hotel."
+    },
+    {
+      "term": "der Praktikant",
+      "type": "Noun",
+      "meaning_tr": "Stajyer",
+      "meaning_en": "Intern / Trainee",
+      "meaning_uk": "Стажер / Практикант",
+      "example": "Der *** lernt viel in unserer Firma."
+    },
+    {
+      "term": "die Software",
+      "type": "Noun",
+      "meaning_tr": "Yazılım",
+      "meaning_en": "Software",
+      "meaning_uk": "Програмне забезпечення",
+      "example": "Mein Computer braucht eine neue ***."
+    },
+    {
+      "term": "die Erfahrung",
+      "type": "Noun",
+      "meaning_tr": "Deneyim ya da tecrübe",
+      "meaning_en": "Experience",
+      "meaning_uk": "Досвід",
+      "example": "Hast du schon *** in diesem Beruf?"
+    },
+    {
+      "term": "diktieren",
+      "type": "Verb",
+      "meaning_tr": "Dikte etmek ya da yazdırmak",
+      "meaning_en": "To dictate",
+      "meaning_uk": "Диктувати",
+      "example": "Er möchte der Sekretärin einen Brief ***."
+    },
+    {
+      "term": "zurzeit",
+      "type": "Adverb",
+      "meaning_tr": "Şu sıralar ya da şu anda",
+      "meaning_en": "Currently / At the moment",
+      "meaning_uk": "Зараз / На даний момент",
+      "example": "*** habe ich leider sehr wenig Zeit."
+    },
+    {
+      "term": "die Arbeitswelt",
+      "type": "Noun",
+      "meaning_tr": "İş dünyası",
+      "meaning_en": "Working world",
+      "meaning_uk": "Світ праці / Робоче середовище",
+      "example": "Die moderne *** ändert sich schnell."
+    },
+    {
+      "term": "der Arbeitstag",
+      "type": "Noun",
+      "meaning_tr": "İş günü",
+      "meaning_en": "Work day",
+      "meaning_uk": "Робочий день",
+      "example": "Mein *** beginnt um acht Uhr morgens."
+    },
+    {
+      "term": "das Radio",
+      "type": "Noun",
+      "meaning_tr": "Radyo",
+      "meaning_en": "Radio",
+      "meaning_uk": "Радіо",
+      "example": "Ich höre morgens gerne ***."
+    },
+    {
+      "term": "der-die Bekannte",
+      "type": "Noun",
+      "meaning_tr": "Tanıdık",
+      "meaning_en": "Acquaintance",
+      "meaning_uk": "Знайомий / Знайома",
+      "example": "Das ist kein Freund, nur ein ***."
+    },
+    {
+      "term": "die Reparatur",
+      "type": "Noun",
+      "meaning_tr": "Tamir ya da onarım",
+      "meaning_en": "Repair",
+      "meaning_uk": "Ремонт",
+      "example": "Das Auto muss zur *** in die Werkstatt."
+    },
+    {
+      "term": "die Prüfung",
+      "type": "Noun",
+      "meaning_tr": "Sınav ya da test",
+      "meaning_en": "Exam / Test",
+      "meaning_uk": "Іспит / Перевірка",
+      "example": "Ich habe gelernt und werde die *** bestehen."
+    },
+    {
+      "term": "der Studienplatz",
+      "type": "Noun",
+      "meaning_tr": "Üniversite kontenjanı ya da öğrenim yeri",
+      "meaning_en": "University place",
+      "meaning_uk": "Місце в університеті",
+      "example": "Es ist schwer, einen *** zu bekommen."
+    },
+    {
+      "term": "die Hausfrau",
+      "type": "Noun",
+      "meaning_tr": "Ev hanımı",
+      "meaning_en": "Housewife",
+      "meaning_uk": "Домогосподарка",
+      "example": "Meine Mutter arbeitet zu Hause als ***."
+    },
+    {
+      "term": "schwer",
+      "type": "Adjective",
+      "meaning_tr": "Ağır ya da zor",
+      "meaning_en": "Heavy / Difficult",
+      "meaning_uk": "Важкий / Складний",
+      "example": "Diese Kiste ist wirklich sehr ***."
+    },
+    {
+      "term": "leicht",
+      "type": "Adjective",
+      "meaning_tr": "Hafif ya da kolay",
+      "meaning_en": "Light / Easy",
+      "meaning_uk": "Легкий",
+      "example": "Die Hausaufgabe war zum Glück ganz ***."
+    },
+    {
+      "term": "besprechen",
+      "type": "Verb",
+      "meaning_tr": "Görüşmek, tartışmak ya da mütalaa etmek",
+      "meaning_en": "To discuss",
+      "meaning_uk": "Обговорювати",
+      "example": "Wir müssen das Problem im Team ***."
+    },
+    {
+      "term": "bestehen",
+      "type": "Verb",
+      "meaning_tr": "Başarmak (sınavı geçmek) ya da var olmak",
+      "meaning_en": "To pass / To exist",
+      "meaning_uk": "Скласти (іспит) / Існувати",
+      "example": "Ich hoffe, ich werde den Test ***."
+    },
+    {
+      "term": "der Haustechniker",
+      "type": "Noun",
+      "meaning_tr": "Bina teknisyeni ya da teknik servis elemanı",
+      "meaning_en": "Facility technician",
+      "meaning_uk": "Технік з обслуговування будівель",
+      "example": "Der *** repariert die Heizung im Hotel."
+    },
+    {
+      "term": "der Kellner",
+      "type": "Noun",
+      "meaning_tr": "Garson",
+      "meaning_en": "Waiter",
+      "meaning_uk": "Офіціант",
+      "example": "Der *** bringt uns die Getränke."
+    },
+    {
+      "term": "der Küchenhelfer",
+      "type": "Noun",
+      "meaning_tr": "Mutfak yardımcısı ya da yamak",
+      "meaning_en": "Kitchen assistant",
+      "meaning_uk": "Помічник кухаря",
+      "example": "Er arbeitet als *** in der Hotelküche."
+    },
+    {
+      "term": "die Küchenhilfe",
+      "type": "Noun",
+      "meaning_tr": "Mutfak yardımı (genellikle kadın yardımcı)",
+      "meaning_en": "Kitchen help",
+      "meaning_uk": "Помічниця на кухні",
+      "example": "Wir suchen dringend eine neue ***."
+    },
+    {
+      "term": "der Zimmerservice",
+      "type": "Noun",
+      "meaning_tr": "Oda servisi",
+      "meaning_en": "Room service",
+      "meaning_uk": "Обслуговування номерів",
+      "example": "Ich bestelle mein Essen beim ***."
+    },
+    {
+      "term": "die Geschäftsleitung",
+      "type": "Noun",
+      "meaning_tr": "İşletme yönetimi ya da genel müdürlük",
+      "meaning_en": "Management",
+      "meaning_uk": "Керівництво підприємства",
+      "example": "Die *** hat neue Regeln gemacht."
+    },
+    {
+      "term": "der Klempner",
+      "type": "Noun",
+      "meaning_tr": "Tesisatçı",
+      "meaning_en": "Plumber",
+      "meaning_uk": "Сантехнік",
+      "example": "Das Rohr ist kaputt, ruf den ***."
+    },
+    {
+      "term": "das Hotel",
+      "type": "Noun",
+      "meaning_tr": "Otel",
+      "meaning_en": "Hotel",
+      "meaning_uk": "Готель",
+      "example": "Wir übernachten in einem schönen ***."
+    },
+    {
+      "term": "das Hotelzimmer",
+      "type": "Noun",
+      "meaning_tr": "Otel odası",
+      "meaning_en": "Hotel room",
+      "meaning_uk": "Готельний номер",
+      "example": "Unser *** hat einen tollen Blick."
+    },
+    {
+      "term": "das Einzelzimmer",
+      "type": "Noun",
+      "meaning_tr": "Tek kişilik oda",
+      "meaning_en": "Single room",
+      "meaning_uk": "Одномісний номер",
+      "example": "Ich reise allein und buche ein ***."
+    },
+    {
+      "term": "das Doppelzimmer",
+      "type": "Noun",
+      "meaning_tr": "Çift kişilik oda",
+      "meaning_en": "Double room",
+      "meaning_uk": "Двомісний номер",
+      "example": "Wir brauchen ein *** für zwei Personen."
+    },
+    {
+      "term": "die Übernachtung",
+      "type": "Noun",
+      "meaning_tr": "Konaklama ya da geceleme",
+      "meaning_en": "Overnight stay",
+      "meaning_uk": "Ночівля / Проживання",
+      "example": "Eine *** kostet 90 Euro."
+    },
+    {
+      "term": "die Halbpension",
+      "type": "Noun",
+      "meaning_tr": "Yarım pansiyon (kahvaltı ve bir öğün yemek)",
+      "meaning_en": "Half board",
+      "meaning_uk": "Напівпансіон",
+      "example": "Wir haben *** gebucht."
+    },
+    {
+      "term": "die Anreise",
+      "type": "Noun",
+      "meaning_tr": "Varış ya da otele giriş",
+      "meaning_en": "Arrival",
+      "meaning_uk": "Прибуття / Заїзд",
+      "example": "Die *** ist ab 15 Uhr möglich."
+    },
+    {
+      "term": "die Abreise",
+      "type": "Noun",
+      "meaning_tr": "Ayrılış ya da otelden çıkış",
+      "meaning_en": "Departure",
+      "meaning_uk": "Від'їзд / Виїзд",
+      "example": "Am Tag der *** räumen wir das Zimmer."
+    },
+    {
+      "term": "die Rezeption",
+      "type": "Noun",
+      "meaning_tr": "Resepsiyon ya da danışma",
+      "meaning_en": "Reception / Front desk",
+      "meaning_uk": "Рецепція",
+      "example": "Bitte geben Sie den Schlüssel an der *** ab."
+    },
+    {
+      "term": "die Hotelküche",
+      "type": "Noun",
+      "meaning_tr": "Otel mutfağı",
+      "meaning_en": "Hotel kitchen",
+      "meaning_uk": "Готельна кухня",
+      "example": "Das Essen wird in der *** gekocht."
+    },
+    {
+      "term": "die Haustechnik",
+      "type": "Noun",
+      "meaning_tr": "Bina teknolojisi ya da teknik tesisat",
+      "meaning_en": "Building technology",
+      "meaning_uk": "Технічне обладнання будівлі",
+      "example": "Wer kümmert sich um die ***?"
+    },
+    {
+      "term": "der Aufzug",
+      "type": "Noun",
+      "meaning_tr": "Asansör",
+      "meaning_en": "Elevator / Lift",
+      "meaning_uk": "Ліфт",
+      "example": "Ich fahre mit dem *** nach oben."
+    },
+    {
+      "term": "die Treppe",
+      "type": "Noun",
+      "meaning_tr": "Merdiven",
+      "meaning_en": "Stairs",
+      "meaning_uk": "Сходи",
+      "example": "Ich nehme die ***, um fit zu bleiben."
+    },
+    {
+      "term": "das Licht",
+      "type": "Noun",
+      "meaning_tr": "Işık",
+      "meaning_en": "Light",
+      "meaning_uk": "Світло",
+      "example": "Mach bitte das *** aus, wenn du gehst."
+    },
+    {
+      "term": "das Material",
+      "type": "Noun",
+      "meaning_tr": "Malzeme ya da materyal",
+      "meaning_en": "Material",
+      "meaning_uk": "Матеріал",
+      "example": "Welches *** brauchen wir für den Bau?"
+    },
+    {
+      "term": "die Sekunde",
+      "type": "Noun",
+      "meaning_tr": "Saniye",
+      "meaning_en": "Second",
+      "meaning_uk": "Секунда",
+      "example": "Warten Sie bitte eine ***."
+    },
+    {
+      "term": "der Anruf",
+      "type": "Noun",
+      "meaning_tr": "Telefon araması ya da çağrı",
+      "meaning_en": "Phone call",
+      "meaning_uk": "Дзвінок",
+      "example": "Ich erwarte einen wichtigen ***."
+    },
+    {
+      "term": "die Vorsicht",
+      "type": "Noun",
+      "meaning_tr": "Dikkat ya da tedbir",
+      "meaning_en": "Caution / Care",
+      "meaning_uk": "Обережність",
+      "example": "Vorsicht! Der Boden ist hier nass."
+    },
+    {
+      "term": "die To-Do-Liste",
+      "type": "Noun",
+      "meaning_tr": "Yapılacaklar listesi",
+      "meaning_en": "To-do list",
+      "meaning_uk": "Список справ",
+      "example": "Ich schreibe alles auf meine ***."
+    },
+    {
+      "term": "denken",
+      "type": "Verb",
+      "meaning_tr": "Düşünmek",
+      "meaning_en": "To think",
+      "meaning_uk": "Думати",
+      "example": "Ich muss über das Problem kurz ***."
+    },
+    {
+      "term": "anschauen",
+      "type": "Verb",
+      "meaning_tr": "Bakmak ya da seyretmek",
+      "meaning_en": "To look at / To watch",
+      "meaning_uk": "Дивитися / Подивитися",
+      "example": "Wir wollen uns das Video ***."
+    },
+    {
+      "term": "checken",
+      "type": "Verb",
+      "meaning_tr": "Kontrol etmek ya da çek etmek",
+      "meaning_en": "To check",
+      "meaning_uk": "Перевіряти",
+      "example": "Bitte checken Sie Ihre E-Mails."
+    },
+    {
+      "term": "auswechseln",
+      "type": "Verb",
+      "meaning_tr": "Değiştirmek (yedek parça/lamba vb.)",
+      "meaning_en": "To replace / To change",
+      "meaning_uk": "Замінювати",
+      "example": "Man muss die kaputte Lampe ***."
+    },
+    {
+      "term": "lösen",
+      "type": "Verb",
+      "meaning_tr": "Çözmek (sorun/bulmaca)",
+      "meaning_en": "To solve",
+      "meaning_uk": "Вирішувати / Розв'язувати",
+      "example": "Wir müssen dieses Rätsel ***."
+    },
+    {
+      "term": "eilig",
+      "type": "Adjective",
+      "meaning_tr": "Acele ya da ivedi",
+      "meaning_en": "Urgent / In a hurry",
+      "meaning_uk": "Терміново / Поспішно",
+      "example": "Ich muss rennen, ich habe es ***."
+    },
+    {
+      "term": "ohne",
+      "type": "Preposition",
+      "meaning_tr": "-siz/-sız ya da olmaksızın",
+      "meaning_en": "Without",
+      "meaning_uk": "Без",
+      "example": "Ich trinke meinen Kaffee *** Zucker."
+    },
+    {
+      "term": "mit",
+      "type": "Preposition",
+      "meaning_tr": "İle ya da birlikte",
+      "meaning_en": "With",
+      "meaning_uk": "З",
+      "example": "Ich komme *** meinem Freund zur Party."
+    },
+    {
+      "term": "etwa",
+      "type": "Adverb",
+      "meaning_tr": "Yaklaşık ya da takriben",
+      "meaning_en": "Approximately / About",
+      "meaning_uk": "Приблизно / Десь",
+      "example": "Der Kurs dauert *** drei Stunden."
+    },
+    {
+      "term": "die Reaktion",
+      "type": "Noun",
+      "meaning_tr": "Tepki ya da reaksiyon",
+      "meaning_en": "Reaction",
+      "meaning_uk": "Реакція",
+      "example": "Wie war seine *** auf die Nachricht?"
+    },
+    {
+      "term": "das Taxi",
+      "type": "Noun",
+      "meaning_tr": "Taksi",
+      "meaning_en": "Taxi",
+      "meaning_uk": "Таксі",
+      "example": "Wir nehmen ein *** zum Bahnhof."
+    },
+    {
+      "term": "denn",
+      "type": "Conjunction",
+      "meaning_tr": "Çünkü ya da zira",
+      "meaning_en": "Because / Since",
+      "meaning_uk": "Бо / Тому що",
+      "example": "Ich bleibe zu Hause, *** ich bin krank."
+    },
+    {
+      "term": "das Gerät",
+      "type": "Noun",
+      "meaning_tr": "Cihaz, alet ya da aygıt",
+      "meaning_en": "Device / Appliance",
+      "meaning_uk": "Прилад / Пристрій",
+      "example": "Der Mixer ist ein praktisches ***."
+    },
+    {
+      "term": "die Elektronik",
+      "type": "Noun",
+      "meaning_tr": "Elektronik",
+      "meaning_en": "Electronics",
+      "meaning_uk": "Електроніка",
+      "example": "Er kennt sich gut mit *** aus."
+    },
+    {
+      "term": "der Elektroniker",
+      "type": "Noun",
+      "meaning_tr": "Elektronik teknisyeni",
+      "meaning_en": "Electronics technician",
+      "meaning_uk": "Електронік / Спеціаліст з електроніки",
+      "example": "Der *** repariert den Computer."
+    },
+    {
+      "term": "der Hotelkaufmann",
+      "type": "Noun",
+      "meaning_tr": "Otel işletmecisi ya da otel yöneticisi (erkek)",
+      "meaning_en": "Hotel manager / Hotel specialist",
+      "meaning_uk": "Менеджер готельного бізнесу",
+      "example": "Er macht eine Ausbildung zum ***."
+    }
   ]
 }

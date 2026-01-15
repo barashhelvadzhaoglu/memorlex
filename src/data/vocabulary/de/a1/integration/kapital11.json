@@ -1,27 +1,694 @@
 {
-  "title": "Integration A1 - Kapitel 16",
+  "title": "Integration A1 - Kapitel 11",
   "language": "de",
   "words": [
-    { "term": "der Markt", "type": "İsim", "meaning": "Pazar", "example": "Auf dem *** kaufe ich frisches Obst." },
-    { "term": "die Halle", "type": "İsim", "meaning": "Hol - Salon", "example": "In der großen *** findet die Messe statt." },
-    { "term": "der Stand", "type": "İsim", "meaning": "Tezgah - Stand", "example": "An diesem *** gibt es warmen Glühwein." },
-    { "term": "das Karussell", "type": "İsim", "meaning": "Atlıkarınca", "example": "Die Kinder fahren gerne auf dem ***." },
-    { "term": "das Spielzeug", "type": "İsim", "meaning": "Oyuncak", "example": "Das Kind wünscht sich ein neues ***." },
-    { "term": "die Kleidung", "type": "İsim", "meaning": "Kıyafet", "example": "Im Winter brauchen wir warme ***." },
-    { "term": "der Honig", "type": "İsim", "meaning": "Bal", "example": "Die Bienen produzieren diesen süßen ***." },
-    { "term": "der Glühwein", "type": "İsim", "meaning": "Sıcak şarap", "example": "Auf dem Weihnachtsmarkt trinken wir ***." },
-    { "term": "das Lebkuchenherz", "type": "İsim", "meaning": "Zencefilli kurabiye kalp", "example": "Er schenkt ihr ein großes ***." },
-    { "term": "die Zuckerwatte", "type": "İsim", "meaning": "Pamuk şeker", "example": "Die *** ist sehr süß und klebt an den Fingern." },
-    { "term": "der Schmuck", "type": "İsim", "meaning": "Takı - Mücevher", "example": "Sie trägt teuren *** aus Gold." },
-    { "term": "der Weihnachtsmann", "type": "İsim", "meaning": "Noel Baba", "example": "Der *** bringt den Kindern Geschenke." },
-    { "term": "aufbauen", "type": "Fiil", "meaning": "Kurmak - İnşa etmek", "example": "Die Arbeiter müssen den Stand früh ***." },
-    { "term": "braten", "type": "Fiil", "meaning": "Kızartmak", "example": "Wir *** die Würstchen auf dem Grill." },
-    { "term": "ausgeben", "type": "Fiil", "meaning": "Harcamak", "example": "Ich möchte heute nicht so viel Geld ***." },
-    { "term": "angucken", "type": "Fiil", "meaning": "Bakmak - İzlemek", "example": "Wir wollen uns die schönen Lichter ***." },
-    { "term": "herrlich", "type": "Sıfat", "meaning": "Harika - Muazzam", "example": "Das Wetter heute ist einfach ***." },
-    { "term": "riechen", "type": "Fiil", "meaning": "Koklamak - Kokmak", "example": "Die gebrannten Mandeln *** sehr gut." },
-    { "term": "satt", "type": "Sıfat", "meaning": "Tok", "example": "Ich kann nicht mehr essen, ich bin ***." },
-    { "term": "links", "type": "Zarf", "meaning": "Sol", "example": "Gehen Sie an der Ecke nach ***." },
-    { "term": "rechts", "type": "Zarf", "meaning": "Sağ", "example": "Mein Haus liegt auf der *** Seite." }
+    {
+      "term": "der Glückwunsch",
+      "type": "Noun",
+      "meaning_tr": "Tebrik ya da kutlama",
+      "meaning_en": "Congratulation",
+      "meaning_uk": "Вітання / Поздоровлення",
+      "example": "Herzlichen *** zum Geburtstag!"
+    },
+    {
+      "term": "Alles Liebe!",
+      "type": "Greeting",
+      "meaning_tr": "En içten sevgilerimle!",
+      "meaning_en": "All the best! / Lots of love!",
+      "meaning_uk": "З любов'ю! / Всього найкращого!",
+      "example": "*** zum Geburtstag!"
+    },
+    {
+      "term": "Alles Gute!",
+      "type": "Greeting",
+      "meaning_tr": "Her şeyin gönlünce olması dileğiyle! / En iyi dileklerimle!",
+      "meaning_en": "All the best!",
+      "meaning_uk": "Всього найкращого!",
+      "example": "*** zum Geburtstag!"
+    },
+    {
+      "term": "Nachträglich alles Gute!",
+      "type": "Greeting",
+      "meaning_tr": "Geçmiş doğum günün kutlu olsun!",
+      "meaning_en": "Belated happy birthday!",
+      "meaning_uk": "Вітаю з минулим днем народження!",
+      "example": "*** zum Geburtstag!"
+    },
+    {
+      "term": "Viel Glück!",
+      "type": "Greeting",
+      "meaning_tr": "Bol şans!",
+      "meaning_en": "Good luck!",
+      "meaning_uk": "Удачі!",
+      "example": "*** bei der Prüfung!"
+    },
+    {
+      "term": "Viel Erfolg!",
+      "type": "Greeting",
+      "meaning_tr": "Başarılar dilerim!",
+      "meaning_en": "Much success!",
+      "meaning_uk": "Бажаю успіхів!",
+      "example": "*** im neuen Job!"
+    },
+    {
+      "term": "das Glück",
+      "type": "Noun",
+      "meaning_tr": "Şans ya da mutluluk",
+      "meaning_en": "Luck / Happiness",
+      "meaning_uk": "Щастя / Удача",
+      "example": "Ich wünsche dir viel ***."
+    },
+    {
+      "term": "der Erfolg",
+      "type": "Noun",
+      "meaning_tr": "Başarı",
+      "meaning_en": "Success",
+      "meaning_uk": "Успіх",
+      "example": "Viel *** bei der Prüfung!"
+    },
+    {
+      "term": "das Herz",
+      "type": "Noun",
+      "meaning_tr": "Kalp",
+      "meaning_en": "Heart",
+      "meaning_uk": "Серце",
+      "example": "Mein *** schlägt schnell."
+    },
+    {
+      "term": "herzlich",
+      "type": "Adjective",
+      "meaning_tr": "İçten, samimi ya da yürekten",
+      "meaning_en": "Cordial / Heartfelt / Sincere",
+      "meaning_uk": "Сердечний / Щирий",
+      "example": "*** Grüße aus Berlin!"
+    },
+    {
+      "term": "der Geburtstag",
+      "type": "Noun",
+      "meaning_tr": "Doğum günü",
+      "meaning_en": "Birthday",
+      "meaning_uk": "День народження",
+      "example": "Wann hast du ***?"
+    },
+    {
+      "term": "die Geburtstagskarte",
+      "type": "Noun",
+      "meaning_tr": "Doğum günü kartı",
+      "meaning_en": "Birthday card",
+      "meaning_uk": "Листівка до дня народження",
+      "example": "Ich schreibe eine ***."
+    },
+    {
+      "term": "das Geburtstagslied",
+      "type": "Noun",
+      "meaning_tr": "Doğum günü şarkısı",
+      "meaning_en": "Birthday song",
+      "meaning_uk": "Пісня до дня народження",
+      "example": "Wir singen ein ***."
+    },
+    {
+      "term": "der Geburtstagskuchen",
+      "type": "Noun",
+      "meaning_tr": "Doğum günü pastası (keki)",
+      "meaning_en": "Birthday cake",
+      "meaning_uk": "Іменинний пиріг / Торт",
+      "example": "Der *** schmeckt gut."
+    },
+    {
+      "term": "die Einladung",
+      "type": "Noun",
+      "meaning_tr": "Davet ya da davetiye",
+      "meaning_en": "Invitation",
+      "meaning_uk": "Запрошення",
+      "example": "Danke für die ***."
+    },
+    {
+      "term": "das Geschenk",
+      "type": "Noun",
+      "meaning_tr": "Hediye",
+      "meaning_en": "Gift / Present",
+      "meaning_uk": "Подарунок",
+      "example": "Das *** ist für dich."
+    },
+    {
+      "term": "der Luftballon",
+      "type": "Noun",
+      "meaning_tr": "Balon",
+      "meaning_en": "Balloon",
+      "meaning_uk": "Повітряна кулька",
+      "example": "Der *** ist rot."
+    },
+    {
+      "term": "der Gutschein",
+      "type": "Noun",
+      "meaning_tr": "Hediye çeki ya da kupon",
+      "meaning_en": "Voucher / Gift card",
+      "meaning_uk": "Подарунковий сертифікат / Купон",
+      "example": "Ich schenke ihm einen ***."
+    },
+    {
+      "term": "vergessen",
+      "type": "Verb",
+      "meaning_tr": "Unutmak",
+      "meaning_en": "To forget",
+      "meaning_uk": "Забувати",
+      "example": "Ich habe es ***."
+    },
+    {
+      "term": "leidtun",
+      "type": "Verb",
+      "meaning_tr": "Üzgün olmak ya da pişman olmak (Dativ ile)",
+      "meaning_en": "To be sorry",
+      "meaning_uk": "Шкодувати (мені шкода)",
+      "example": "Das tut mir ***."
+    },
+    {
+      "term": "gratulieren",
+      "type": "Verb",
+      "meaning_tr": "Tebrik etmek ya da kutlamak (Dativ ile)",
+      "meaning_en": "To congratulate",
+      "meaning_uk": "Вітати / Поздоровляти",
+      "example": "Ich *** dir herzlich."
+    },
+    {
+      "term": "die Jahreszeit",
+      "type": "Noun",
+      "meaning_tr": "Mevsim",
+      "meaning_en": "Season",
+      "meaning_uk": "Пора року",
+      "example": "Was ist deine Lieblings-***?"
+    },
+    {
+      "term": "der Frühling",
+      "type": "Noun",
+      "meaning_tr": "İlkbahar",
+      "meaning_en": "Spring",
+      "meaning_uk": "Весна",
+      "example": "Im *** blühen Blumen."
+    },
+    {
+      "term": "der Sommer",
+      "type": "Noun",
+      "meaning_tr": "Yaz",
+      "meaning_en": "Summer",
+      "meaning_uk": "Літо",
+      "example": "Im *** ist es heiß."
+    },
+    {
+      "term": "der Herbst",
+      "type": "Noun",
+      "meaning_tr": "Sonbahar",
+      "meaning_en": "Autumn / Fall",
+      "meaning_uk": "Осінь",
+      "example": "Im *** regnet es."
+    },
+    {
+      "term": "der Winter",
+      "type": "Noun",
+      "meaning_tr": "Kış",
+      "meaning_en": "Winter",
+      "meaning_uk": "Зима",
+      "example": "Im *** schneit es."
+    },
+    {
+      "term": "der Monat",
+      "type": "Noun",
+      "meaning_tr": "Ay (takvim ayı)",
+      "meaning_en": "Month",
+      "meaning_uk": "Місяць",
+      "example": "Der *** hat 30 Tage."
+    },
+    {
+      "term": "Januar",
+      "type": "Noun",
+      "meaning_tr": "Ocak",
+      "meaning_en": "January",
+      "meaning_uk": "Січень",
+      "example": "Der erste Monat ist ***."
+    },
+    {
+      "term": "Februar",
+      "type": "Noun",
+      "meaning_tr": "Şubat",
+      "meaning_en": "February",
+      "meaning_uk": "Лютий",
+      "example": "Der zweite Monat ist ***."
+    },
+    {
+      "term": "März",
+      "type": "Noun",
+      "meaning_tr": "Mart",
+      "meaning_en": "March",
+      "meaning_uk": "Березень",
+      "example": "Im *** beginnt der Frühling."
+    },
+    {
+      "term": "April",
+      "type": "Noun",
+      "meaning_tr": "Nisan",
+      "meaning_en": "April",
+      "meaning_uk": "Квітень",
+      "example": "Im *** ist das Wetter wechselhaft."
+    },
+    {
+      "term": "Mai",
+      "type": "Noun",
+      "meaning_tr": "Mayıs",
+      "meaning_en": "May",
+      "meaning_uk": "Травень",
+      "example": "Der *** ist ein schöner Monat."
+    },
+    {
+      "term": "Juni",
+      "type": "Noun",
+      "meaning_tr": "Haziran",
+      "meaning_en": "June",
+      "meaning_uk": "Червень",
+      "example": "Im *** beginnt der Sommer."
+    },
+    {
+      "term": "Juli",
+      "type": "Noun",
+      "meaning_tr": "Temmuz",
+      "meaning_en": "July",
+      "meaning_uk": "Липень",
+      "example": "Im *** haben wir Ferien."
+    },
+    {
+      "term": "August",
+      "type": "Noun",
+      "meaning_tr": "Ağustos",
+      "meaning_en": "August",
+      "meaning_uk": "Серпень",
+      "example": "Der *** ist sehr warm."
+    },
+    {
+      "term": "September",
+      "type": "Noun",
+      "meaning_tr": "Eylül",
+      "meaning_en": "September",
+      "meaning_uk": "Вересень",
+      "example": "Im *** beginnt die Schule."
+    },
+    {
+      "term": "Oktober",
+      "type": "Noun",
+      "meaning_tr": "Ekim",
+      "meaning_en": "October",
+      "meaning_uk": "Жовтень",
+      "example": "Im *** fallen die Blätter."
+    },
+    {
+      "term": "November",
+      "type": "Noun",
+      "meaning_tr": "Kasım",
+      "meaning_en": "November",
+      "meaning_uk": "Листопад",
+      "example": "Im *** ist es oft grau."
+    },
+    {
+      "term": "Dezember",
+      "type": "Noun",
+      "meaning_tr": "Aralık",
+      "meaning_en": "December",
+      "meaning_uk": "Грудень",
+      "example": "Im *** ist Weihnachten."
+    },
+    {
+      "term": "der Schlitten",
+      "type": "Noun",
+      "meaning_tr": "Kızak",
+      "meaning_en": "Sled / Sleigh",
+      "meaning_uk": "Санки",
+      "example": "Das Kind fährt ***."
+    },
+    {
+      "term": "der Ski",
+      "type": "Noun",
+      "meaning_tr": "Kayak",
+      "meaning_en": "Ski",
+      "meaning_uk": "Лижі",
+      "example": "Ich fahre gern ***."
+    },
+    {
+      "term": "wandern",
+      "type": "Verb",
+      "meaning_tr": "Doğa yürüyüşü yapmak / Yürüyüşe çıkmak",
+      "meaning_en": "To hike",
+      "meaning_uk": "Йти в похід / Гуляти на природі",
+      "example": "Wir *** gern."
+    },
+    {
+      "term": "baden",
+      "type": "Verb",
+      "meaning_tr": "Banyo yapmak ya da yüzmek (göl/deniz)",
+      "meaning_en": "To bathe / To swim",
+      "meaning_uk": "Купатися",
+      "example": "Wir *** im See."
+    },
+    {
+      "term": "schwimmen",
+      "type": "Verb",
+      "meaning_tr": "Yüzmek",
+      "meaning_en": "To swim",
+      "meaning_uk": "Плавати",
+      "example": "Ich kann gut ***."
+    },
+    {
+      "term": "die Ordinalzahl",
+      "type": "Noun",
+      "meaning_tr": "Sıra sayısı (birinci, ikinci vb.)",
+      "meaning_en": "Ordinal number",
+      "meaning_uk": "Порядкове число",
+      "example": "Das ist eine ***."
+    },
+    {
+      "term": "das Datum",
+      "type": "Noun",
+      "meaning_tr": "Tarih (gün/ay/yıl)",
+      "meaning_en": "Date",
+      "meaning_uk": "Дата",
+      "example": "Welches *** haben wir?"
+    },
+    {
+      "term": "ab",
+      "type": "Preposition",
+      "meaning_tr": "-den itibaren",
+      "meaning_en": "From / Starting from",
+      "meaning_uk": "З / Починаючи з",
+      "example": "*** morgen lerne ich mehr."
+    },
+    {
+      "term": "schmecken",
+      "type": "Verb",
+      "meaning_tr": "Tadı olmak ya da lezzetli gelmek (Dativ ile)",
+      "meaning_en": "To taste",
+      "meaning_uk": "Смакувати",
+      "example": "Das *** mir gut."
+    },
+    {
+      "term": "helfen",
+      "type": "Verb",
+      "meaning_tr": "Yardım etmek (Dativ ile)",
+      "meaning_en": "To help",
+      "meaning_uk": "Допомагати",
+      "example": "Kannst du mir ***?"
+    },
+    {
+      "term": "danken",
+      "type": "Verb",
+      "meaning_tr": "Teşekkür etmek (Dativ ile)",
+      "meaning_en": "To thank",
+      "meaning_uk": "Дякувати",
+      "example": "Ich *** dir."
+    },
+    {
+      "term": "gefallen",
+      "type": "Verb",
+      "meaning_tr": "Hoşuna gitmek ya da beğenmek (Dativ ile)",
+      "meaning_en": "To please / To like",
+      "meaning_uk": "Подобатися",
+      "example": "Das *** mir gut."
+    },
+    {
+      "term": "empfehlen",
+      "type": "Verb",
+      "meaning_tr": "Tavsiye etmek ya da önermek",
+      "meaning_en": "To recommend",
+      "meaning_uk": "Рекомендувати",
+      "example": "Was kannst du ***?"
+    },
+    {
+      "term": "gehören",
+      "type": "Verb",
+      "meaning_tr": "Ait olmak (Dativ ile)",
+      "meaning_en": "To belong to",
+      "meaning_uk": "Належати (комусь)",
+      "example": "Das *** mir."
+    },
+    {
+      "term": "antworten",
+      "type": "Verb",
+      "meaning_tr": "Cevap vermek (Dativ ile)",
+      "meaning_en": "To answer",
+      "meaning_uk": "Відповідати",
+      "example": "Bitte *** mir."
+    },
+    {
+      "term": "Bescheid sagen",
+      "type": "Verb",
+      "meaning_tr": "Haber vermek ya da bilgilendirmek",
+      "meaning_en": "To let someone know",
+      "meaning_uk": "Повідомити / Дати знати",
+      "example": "Sag mir bitte ***."
+    },
+    {
+      "term": "mitbringen",
+      "type": "Verb",
+      "meaning_tr": "Yanında getirmek",
+      "meaning_en": "To bring along",
+      "meaning_uk": "Приносити з собою",
+      "example": "Ich *** etwas zum Essen mit."
+    },
+    {
+      "term": "die Playlist",
+      "type": "Noun",
+      "meaning_tr": "Çalma listesi",
+      "meaning_en": "Playlist",
+      "meaning_uk": "Плейлист",
+      "example": "Die *** ist toll."
+    },
+    {
+      "term": "bekommen",
+      "type": "Verb",
+      "meaning_tr": "Almak ya da elde etmek",
+      "meaning_en": "To get / To receive",
+      "meaning_uk": "Отримувати",
+      "example": "Ich *** ein Geschenk."
+    },
+    {
+      "term": "geben",
+      "type": "Verb",
+      "meaning_tr": "Vermek",
+      "meaning_en": "To give",
+      "meaning_uk": "Давати",
+      "example": "Bitte *** mir das Buch."
+    },
+    {
+      "term": "schenken",
+      "type": "Verb",
+      "meaning_tr": "Hediye etmek",
+      "meaning_en": "To give as a gift",
+      "meaning_uk": "Дарувати",
+      "example": "Was *** du ihm?"
+    },
+    {
+      "term": "die Pflanze",
+      "type": "Noun",
+      "meaning_tr": "Bitki",
+      "meaning_en": "Plant",
+      "meaning_uk": "Рослина",
+      "example": "Die *** braucht Wasser."
+    },
+    {
+      "term": "die Praline",
+      "type": "Noun",
+      "meaning_tr": "Çikolata ya da pralin",
+      "meaning_en": "Chocolate / Praline",
+      "meaning_uk": "Шоколадна цукерка / Праліне",
+      "example": "Ich esse eine ***."
+    },
+    {
+      "term": "die Kette",
+      "type": "Noun",
+      "meaning_tr": "Kolye ya da zincir",
+      "meaning_en": "Necklace / Chain",
+      "meaning_uk": "Ланцюжок / Намисто",
+      "example": "Die *** ist schön."
+    },
+    {
+      "term": "das Parfüm",
+      "type": "Noun",
+      "meaning_tr": "Parfüm",
+      "meaning_en": "Perfume",
+      "meaning_uk": "Парфуми",
+      "example": "Das *** riecht gut."
+    },
+    {
+      "term": "die Figur",
+      "type": "Noun",
+      "meaning_tr": "Figür ya da biblo",
+      "meaning_en": "Figure / Figurine",
+      "meaning_uk": "Фігура / Статуетка",
+      "example": "Das ist eine kleine ***."
+    },
+    {
+      "term": "das Papier",
+      "type": "Noun",
+      "meaning_tr": "Kağıt",
+      "meaning_en": "Paper",
+      "meaning_uk": "Папір",
+      "example": "Ich brauche ein Blatt ***."
+    },
+    {
+      "term": "die Süßigkeit",
+      "type": "Noun",
+      "meaning_tr": "Tatlı ya da şekerleme",
+      "meaning_en": "Sweet / Candy",
+      "meaning_uk": "Солодощі",
+      "example": "Ich mag ***en."
+    },
+    {
+      "term": "Europa",
+      "type": "Noun",
+      "meaning_tr": "Avrupa",
+      "meaning_en": "Europe",
+      "meaning_uk": "Європа",
+      "example": "Wir leben in ***."
+    },
+    {
+      "term": "der Brauch",
+      "type": "Noun",
+      "meaning_tr": "Gelenek ya da adet",
+      "meaning_en": "Custom / Tradition",
+      "meaning_uk": "Звичай / Традиція",
+      "example": "Das ist ein alter ***."
+    },
+    {
+      "term": "früh",
+      "type": "Adjective",
+      "meaning_tr": "Erken",
+      "meaning_en": "Early",
+      "meaning_uk": "Ранній / Рано",
+      "example": "Ich stehe *** auf."
+    },
+    {
+      "term": "spät",
+      "type": "Adjective",
+      "meaning_tr": "Geç",
+      "meaning_en": "Late",
+      "meaning_uk": "Пізній / Пізно",
+      "example": "Es ist schon ***."
+    },
+    {
+      "term": "pünktlich",
+      "type": "Adjective",
+      "meaning_tr": "Dakik ya da tam vaktinde",
+      "meaning_en": "Punctual / On time",
+      "meaning_uk": "Пунктуальний / Вчасно",
+      "example": "Sei bitte ***."
+    },
+    {
+      "term": "böse",
+      "type": "Adjective",
+      "meaning_tr": "Kızgın, kötü ya da fena",
+      "meaning_en": "Angry / Mean",
+      "meaning_uk": "Злий / Сердитий",
+      "example": "Sei nicht ***."
+    },
+    {
+      "term": "komisch",
+      "type": "Adjective",
+      "meaning_tr": "Garip, tuhaf ya da komik",
+      "meaning_en": "Strange / Weird / Funny",
+      "meaning_uk": "Дивний / Смішний",
+      "example": "Das ist ein ***es Geräusch."
+    },
+    {
+      "term": "um Mitternacht",
+      "type": "Phrase",
+      "meaning_tr": "Gece yarısında",
+      "meaning_en": "At midnight",
+      "meaning_uk": "Опівночі",
+      "example": "Wir feiern ***."
+    },
+    {
+      "term": "die Hexe",
+      "type": "Noun",
+      "meaning_tr": "Cadı",
+      "meaning_en": "Witch",
+      "meaning_uk": "Відьма",
+      "example": "Die *** fliegt."
+    },
+    {
+      "term": "bei",
+      "type": "Preposition",
+      "meaning_tr": "-in yanında ya da -de (mekansal/şahısla)",
+      "meaning_en": "At / With / Near",
+      "meaning_uk": "У / При / Біля",
+      "example": "Ich bin *** dir."
+    },
+    {
+      "term": "der Alkohol",
+      "type": "Noun",
+      "meaning_tr": "Alkol",
+      "meaning_en": "Alcohol",
+      "meaning_uk": "Алкоголь",
+      "example": "Ich trinke keinen ***."
+    },
+    {
+      "term": "der Sekt",
+      "type": "Noun",
+      "meaning_tr": "Köpüklü şarap ya da şampanya (Alman tipi)",
+      "meaning_en": "Sparkling wine / Champagne",
+      "meaning_uk": "Ігристе вино / Шампанське",
+      "example": "Wir trinken ***."
+    },
+    {
+      "term": "der Wein",
+      "type": "Noun",
+      "meaning_tr": "Şarap",
+      "meaning_en": "Wine",
+      "meaning_uk": "Вино",
+      "example": "Möchten Sie einen ***?"
+    },
+    {
+      "term": "schicken",
+      "type": "Verb",
+      "meaning_tr": "Göndermek",
+      "meaning_en": "To send",
+      "meaning_uk": "Надсилати",
+      "example": "Ich *** dir ein Foto."
+    },
+    {
+      "term": "wünschen",
+      "type": "Verb",
+      "meaning_tr": "Dilemek ya da istemek",
+      "meaning_en": "To wish",
+      "meaning_uk": "Бажати",
+      "example": "Was *** du dir?"
+    },
+    {
+      "term": "das Ende",
+      "type": "Noun",
+      "meaning_tr": "Son",
+      "meaning_en": "End",
+      "meaning_uk": "Кінець",
+      "example": "Das ist das ***."
+    },
+    {
+      "term": "zu Ende sein",
+      "type": "Phrase",
+      "meaning_tr": "Bitmiş olmak ya da sona ermek",
+      "meaning_en": "To be over / To be finished",
+      "meaning_uk": "Закінчитися",
+      "example": "Die Party ist ***."
+    },
+    {
+      "term": "anbieten",
+      "type": "Verb",
+      "meaning_tr": "İkram etmek ya da sunmak",
+      "meaning_en": "To offer",
+      "meaning_uk": "Пропонувати",
+      "example": "Kann ich dir etwas ***?"
+    },
+    {
+      "term": "kriegen",
+      "type": "Verb",
+      "meaning_tr": "Almak ya da edinmek (günlük dilde)",
+      "meaning_en": "To get (colloquial)",
+      "meaning_uk": "Отримувати (розмовне)",
+      "example": "Was *** du zum Geburtstag?"
+    }
   ]
 }

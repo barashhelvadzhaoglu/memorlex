@@ -1,27 +1,750 @@
 {
-  "title": "Integration A1 - Kapitel 16",
+  "title": "Integration A1 - Kapitel 13",
   "language": "de",
   "words": [
-    { "term": "der Markt", "type": "İsim", "meaning": "Pazar", "example": "Auf dem *** kaufe ich frisches Obst." },
-    { "term": "die Halle", "type": "İsim", "meaning": "Hol - Salon", "example": "In der großen *** findet die Messe statt." },
-    { "term": "der Stand", "type": "İsim", "meaning": "Tezgah - Stand", "example": "An diesem *** gibt es warmen Glühwein." },
-    { "term": "das Karussell", "type": "İsim", "meaning": "Atlıkarınca", "example": "Die Kinder fahren gerne auf dem ***." },
-    { "term": "das Spielzeug", "type": "İsim", "meaning": "Oyuncak", "example": "Das Kind wünscht sich ein neues ***." },
-    { "term": "die Kleidung", "type": "İsim", "meaning": "Kıyafet", "example": "Im Winter brauchen wir warme ***." },
-    { "term": "der Honig", "type": "İsim", "meaning": "Bal", "example": "Die Bienen produzieren diesen süßen ***." },
-    { "term": "der Glühwein", "type": "İsim", "meaning": "Sıcak şarap", "example": "Auf dem Weihnachtsmarkt trinken wir ***." },
-    { "term": "das Lebkuchenherz", "type": "İsim", "meaning": "Zencefilli kurabiye kalp", "example": "Er schenkt ihr ein großes ***." },
-    { "term": "die Zuckerwatte", "type": "İsim", "meaning": "Pamuk şeker", "example": "Die *** ist sehr süß und klebt an den Fingern." },
-    { "term": "der Schmuck", "type": "İsim", "meaning": "Takı - Mücevher", "example": "Sie trägt teuren *** aus Gold." },
-    { "term": "der Weihnachtsmann", "type": "İsim", "meaning": "Noel Baba", "example": "Der *** bringt den Kindern Geschenke." },
-    { "term": "aufbauen", "type": "Fiil", "meaning": "Kurmak - İnşa etmek", "example": "Die Arbeiter müssen den Stand früh ***." },
-    { "term": "braten", "type": "Fiil", "meaning": "Kızartmak", "example": "Wir *** die Würstchen auf dem Grill." },
-    { "term": "ausgeben", "type": "Fiil", "meaning": "Harcamak", "example": "Ich möchte heute nicht so viel Geld ***." },
-    { "term": "angucken", "type": "Fiil", "meaning": "Bakmak - İzlemek", "example": "Wir wollen uns die schönen Lichter ***." },
-    { "term": "herrlich", "type": "Sıfat", "meaning": "Harika - Muazzam", "example": "Das Wetter heute ist einfach ***." },
-    { "term": "riechen", "type": "Fiil", "meaning": "Koklamak - Kokmak", "example": "Die gebrannten Mandeln *** sehr gut." },
-    { "term": "satt", "type": "Sıfat", "meaning": "Tok", "example": "Ich kann nicht mehr essen, ich bin ***." },
-    { "term": "links", "type": "Zarf", "meaning": "Sol", "example": "Gehen Sie an der Ecke nach ***." },
-    { "term": "rechts", "type": "Zarf", "meaning": "Sağ", "example": "Mein Haus liegt auf der *** Seite." }
+    {
+      "term": "die Gesundheit",
+      "type": "Noun",
+      "meaning_tr": "Sağlık ya da afiyet",
+      "meaning_en": "Health",
+      "meaning_uk": "Здоров'я",
+      "example": "*** ist das wichtigste im Leben."
+    },
+    {
+      "term": "Gute Besserung!",
+      "type": "Greeting",
+      "meaning_tr": "Geçmiş olsun!",
+      "meaning_en": "Get well soon!",
+      "meaning_uk": "Одужуй! / Бажаю найшвидшого одужання!",
+      "example": "Du bist krank? ***!"
+    },
+    {
+      "term": "die Krankheit",
+      "type": "Noun",
+      "meaning_tr": "Hastalık ya da rahatsızlık",
+      "meaning_en": "Illness / Disease",
+      "meaning_uk": "Хвороба",
+      "example": "Er bleibt wegen einer *** zu Hause."
+    },
+    {
+      "term": "der Husten",
+      "type": "Noun",
+      "meaning_tr": "Öksürük",
+      "meaning_en": "Cough",
+      "meaning_uk": "Кашель",
+      "example": "Ich habe Halsschmerzen und starken ***."
+    },
+    {
+      "term": "der Schnupfen",
+      "type": "Noun",
+      "meaning_tr": "Nezle ya da saman nezlesi",
+      "meaning_en": "Sniffles / Common cold",
+      "meaning_uk": "Нежить",
+      "example": "Im Winter haben viele Leute einen ***."
+    },
+    {
+      "term": "Gesundheit!",
+      "type": "Greeting",
+      "meaning_tr": "Çok yaşa! (hapşırınca söylenir)",
+      "meaning_en": "Bless you! (after sneezing)",
+      "meaning_uk": "Будь здоровий!",
+      "example": "Hatschi! – ***!"
+    },
+    {
+      "term": "das Fieber",
+      "type": "Noun",
+      "meaning_tr": "Ateş (vücut ısısı)",
+      "meaning_en": "Fever",
+      "meaning_uk": "Температура / Лихоманка",
+      "example": "Das Kind hat 39 Grad ***."
+    },
+    {
+      "term": "die Erkältung",
+      "type": "Noun",
+      "meaning_tr": "Soğuk algınlığı ya da üşütme",
+      "meaning_en": "Cold / Common cold",
+      "meaning_uk": "Застуда",
+      "example": "Ich habe eine leichte ***."
+    },
+    {
+      "term": "die Versichertenkarte",
+      "type": "Noun",
+      "meaning_tr": "Sigorta kartı ya da sağlık kartı",
+      "meaning_en": "Insurance card / Health card",
+      "meaning_uk": "Страхова карта",
+      "example": "Bitte geben Sie mir Ihre ***."
+    },
+    {
+      "term": "der Arzt",
+      "type": "Noun",
+      "meaning_tr": "Doktor ya da hekim (erkek)",
+      "meaning_en": "Doctor (male)",
+      "meaning_uk": "Лікар",
+      "example": "Ich muss heute zum *** gehen, denn ich habe starke Bauchschmerzen."
+    },
+    {
+      "term": "los",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Neler oluyor, ne var, ne bitti",
+      "meaning_en": "Going on / Up",
+      "meaning_uk": "Що сталося? / Що коїться?",
+      "example": "Was ist ***? Warum weinst du?"
+    },
+    {
+      "term": "der Arzttermin",
+      "type": "Noun",
+      "meaning_tr": "Doktor randevusu",
+      "meaning_en": "Doctor's appointment",
+      "meaning_uk": "Запис до лікаря",
+      "example": "Ich habe morgen einen *** um 10 Uhr."
+    },
+    {
+      "term": "Doktor",
+      "type": "Title",
+      "meaning_tr": "Doktor (akademik unvan)",
+      "meaning_en": "Doctor (academic title)",
+      "meaning_uk": "Доктор (вчений ступінь)",
+      "example": "Nach der Promotion an der Universität bekommt man den Titel ***."
+    },
+    {
+      "term": "der Patient",
+      "type": "Noun",
+      "meaning_tr": "Hasta (erkek)",
+      "meaning_en": "Patient (male)",
+      "meaning_uk": "Пацієнт",
+      "example": "Herr Dr. Schmidt Ihr *** wartet schon im Untersuchungszimmer."
+    },
+    {
+      "term": "die Praxis",
+      "type": "Noun",
+      "meaning_tr": "Muayenehane ya da klinik",
+      "meaning_en": "Doctor's office / Medical practice",
+      "meaning_uk": "Приватна лікарська практика",
+      "example": "Die *** liegt direkt am Bahnhof."
+    },
+    {
+      "term": "die Praxiszeiten",
+      "type": "Noun",
+      "meaning_tr": "Muayene saatleri ya da çalışma saatleri",
+      "meaning_en": "Office hours / Practice hours",
+      "meaning_uk": "Години прийому",
+      "example": "Unsere *** sind von 8 bis 16 Uhr."
+    },
+    {
+      "term": "schließen",
+      "type": "Verb",
+      "meaning_tr": "Kapatmak ya da kilitlemek",
+      "meaning_en": "To close",
+      "meaning_uk": "Закривати",
+      "example": "Wir *** die Tür um 18 Uhr."
+    },
+    {
+      "term": "sollen",
+      "type": "Verb",
+      "meaning_tr": "-meli/-malı (tavsiye/gereklilik)",
+      "meaning_en": "Should / Ought to",
+      "meaning_uk": "Повинен / Слід",
+      "example": "Du *** mehr Wasser trinken."
+    },
+    {
+      "term": "der Körper",
+      "type": "Noun",
+      "meaning_tr": "Vücut ya da beden",
+      "meaning_en": "Body",
+      "meaning_uk": "Тіло",
+      "example": "Sport ist gut für den ganzen ***."
+    },
+    {
+      "term": "der Körperteil",
+      "type": "Noun",
+      "meaning_tr": "Vücut bölümü ya da azası",
+      "meaning_en": "Body part",
+      "meaning_uk": "Частина тіла",
+      "example": "Welcher *** tut Ihnen weh?"
+    },
+    {
+      "term": "der Kopf",
+      "type": "Noun",
+      "meaning_tr": "Baş ya da kafa",
+      "meaning_en": "Head",
+      "meaning_uk": "Голова",
+      "example": "Mein *** tut heute sehr weh."
+    },
+    {
+      "term": "das Auge",
+      "type": "Noun",
+      "meaning_tr": "Göz",
+      "meaning_en": "Eye",
+      "meaning_uk": "Око",
+      "example": "Ich habe etwas im ***."
+    },
+    {
+      "term": "das Ohr",
+      "type": "Noun",
+      "meaning_tr": "Kulak",
+      "meaning_en": "Ear",
+      "meaning_uk": "Вухо",
+      "example": "Der Arzt untersucht mein rechtes ***."
+    },
+    {
+      "term": "die Nase",
+      "type": "Noun",
+      "meaning_tr": "Burun",
+      "meaning_en": "Nose",
+      "meaning_uk": "Ніс",
+      "example": "Meine *** ist verstopft."
+    },
+    {
+      "term": "der Mund",
+      "type": "Noun",
+      "meaning_tr": "Ağız",
+      "meaning_en": "Mouth",
+      "meaning_uk": "Рот",
+      "example": "Öffnen Sie bitte Ihren ***."
+    },
+    {
+      "term": "das Haar",
+      "type": "Noun",
+      "meaning_tr": "Saç ya da kıl",
+      "meaning_en": "Hair",
+      "meaning_uk": "Волосся",
+      "example": "Sie hat sehr lange blonde ***."
+    },
+    {
+      "term": "der Hals",
+      "type": "Noun",
+      "meaning_tr": "Boğaz ya da boyun",
+      "meaning_en": "Neck / Throat",
+      "meaning_uk": "Шия / Горло",
+      "example": "Ich habe Schmerzen im ***."
+    },
+    {
+      "term": "der Arm",
+      "type": "Noun",
+      "meaning_tr": "Kol",
+      "meaning_en": "Arm",
+      "meaning_uk": "Рука (від плеча до кисті)",
+      "example": "Er hat sich beim Sport den *** gebrochen."
+    },
+    {
+      "term": "die Hand",
+      "type": "Noun",
+      "meaning_tr": "El",
+      "meaning_en": "Hand",
+      "meaning_uk": "Рука (кисть)",
+      "example": "Wasch dir bitte vor dem Essen die ***."
+    },
+    {
+      "term": "der Finger",
+      "type": "Noun",
+      "meaning_tr": "Parmak",
+      "meaning_en": "Finger",
+      "meaning_uk": "Палець",
+      "example": "Ich habe fünf *** an jeder Hand."
+    },
+    {
+      "term": "das Bein",
+      "type": "Noun",
+      "meaning_tr": "Bacak",
+      "meaning_en": "Leg",
+      "meaning_uk": "Нога",
+      "example": "Nach dem Laufen tun mir die *** weh."
+    },
+    {
+      "term": "das Knie",
+      "type": "Noun",
+      "meaning_tr": "Diz",
+      "meaning_en": "Knee",
+      "meaning_uk": "Коліно",
+      "example": "Das Kind ist auf das *** gefallen."
+    },
+    {
+      "term": "der Fuß",
+      "type": "Noun",
+      "meaning_tr": "Ayak",
+      "meaning_en": "Foot",
+      "meaning_uk": "Стопа",
+      "example": "Wir gehen heute zu *** nach Hause."
+    },
+    {
+      "term": "der Rücken",
+      "type": "Noun",
+      "meaning_tr": "Sırt",
+      "meaning_en": "Back",
+      "meaning_uk": "Спина",
+      "example": "Ich habe oft Schmerzen im ***."
+    },
+    {
+      "term": "der Bauch",
+      "type": "Noun",
+      "meaning_tr": "Karın ya da mide",
+      "meaning_en": "Stomach / Belly",
+      "meaning_uk": "Живіт",
+      "example": "Nach dem Essen tut mir der *** weh."
+    },
+    {
+      "term": "wehtun",
+      "type": "Verb",
+      "meaning_tr": "Ağrımak ya da acımak",
+      "meaning_en": "To hurt / To ache",
+      "meaning_uk": "Боліти / Завдавати болю",
+      "example": "Mein Kopf tut furchtbar ***."
+    },
+    {
+      "term": "der Nächste",
+      "type": "Noun",
+      "meaning_tr": "Bir sonraki kişi ya da sıradaki",
+      "meaning_en": "Next person",
+      "meaning_uk": "Наступний",
+      "example": "Wer ist der ***, bitte?"
+    },
+    {
+      "term": "der Arztbesuch",
+      "type": "Noun",
+      "meaning_tr": "Doktor ziyareti ya da muayeneye gitmek",
+      "meaning_en": "Doctor's visit",
+      "meaning_uk": "Візит до лікаря",
+      "example": "Ein *** dauert oft lange."
+    },
+    {
+      "term": "der Schmerz",
+      "type": "Noun",
+      "meaning_tr": "Ağrı, sızı ya da acı",
+      "meaning_en": "Pain / Ache",
+      "meaning_uk": "Біль",
+      "example": "Wo genau haben Sie die ***?"
+    },
+    {
+      "term": "öffnen",
+      "type": "Verb",
+      "meaning_tr": "Açmak",
+      "meaning_en": "To open",
+      "meaning_uk": "Відкривати",
+      "example": "Bitte *** Sie das Fenster."
+    },
+    {
+      "term": "das Rezept",
+      "type": "Noun",
+      "meaning_tr": "Reçete (veya yemek tarifi)",
+      "meaning_en": "Prescription / Recipe",
+      "meaning_uk": "Рецепт",
+      "example": "Hier ist das *** für die Apotheke."
+    },
+    {
+      "term": "krankschreiben",
+      "type": "Verb",
+      "meaning_tr": "Hastalık izni yazmak ya da rapor vermek",
+      "meaning_en": "To write a sick note",
+      "meaning_uk": "Виписати лікарняний",
+      "example": "Der Arzt wird mich für drei Tage ***."
+    },
+    {
+      "term": "wiederkommen",
+      "type": "Verb",
+      "meaning_tr": "Yeniden gelmek ya da geri dönmek",
+      "meaning_en": "To come back / To return",
+      "meaning_uk": "Повертатися",
+      "example": "Sie müssen nächste Woche ***."
+    },
+    {
+      "term": "die Kontrolle",
+      "type": "Noun",
+      "meaning_tr": "Kontrol, muayene ya da denetim",
+      "meaning_en": "Check-up / Control",
+      "meaning_uk": "Контроль / Перевірка",
+      "example": "Morgen habe ich eine *** beim Zahnarzt."
+    },
+    {
+      "term": "tun",
+      "type": "Verb",
+      "meaning_tr": "Yapmak ya da etmek",
+      "meaning_en": "To do",
+      "meaning_uk": "Робити",
+      "example": "Was kann ich für Sie ***?"
+    },
+    {
+      "term": "Auf Wiederhören!",
+      "type": "Greeting",
+      "meaning_tr": "Tekrar görüşmek üzere! (telefonda)",
+      "meaning_en": "Goodbye! (on the phone)",
+      "meaning_uk": "До побачення! (по телефону)",
+      "example": "Danke für den Anruf ***!"
+    },
+    {
+      "term": "die Entschuldigung",
+      "type": "Noun",
+      "meaning_tr": "Özür ya da bağışlanma dileme",
+      "meaning_en": "Excuse / Apology",
+      "meaning_uk": "Вибачення",
+      "example": "*** wie spät ist es?"
+    },
+    {
+      "term": "die Serviette",
+      "type": "Noun",
+      "meaning_tr": "Peçete",
+      "meaning_en": "Napkin",
+      "meaning_uk": "Серветка",
+      "example": "Geben Sie mir bitte eine ***."
+    },
+    {
+      "term": "renovieren",
+      "type": "Verb",
+      "meaning_tr": "Yenilemek ya da restore etmek",
+      "meaning_en": "To renovate / To redecorate",
+      "meaning_uk": "Ремонтувати",
+      "example": "Wir müssen unsere Wohnung ***."
+    },
+    {
+      "term": "die Reservierung",
+      "type": "Noun",
+      "meaning_tr": "Rezervasyon",
+      "meaning_en": "Reservation",
+      "meaning_uk": "Бронювання",
+      "example": "Ich habe eine *** auf den Namen Müller."
+    },
+    {
+      "term": "vegan",
+      "type": "Adjective",
+      "meaning_tr": "Vegan (hayvansal ürün içermeyen)",
+      "meaning_en": "Vegan",
+      "meaning_uk": "Веганський",
+      "example": "Haben Sie auch *** Gerichte?"
+    },
+    {
+      "term": "die Apotheke",
+      "type": "Noun",
+      "meaning_tr": "Eczane",
+      "meaning_en": "Pharmacy / Drugstore",
+      "meaning_uk": "Аптека",
+      "example": "Ich hole die Medikamente in der ***."
+    },
+    {
+      "term": "das Medikament",
+      "type": "Noun",
+      "meaning_tr": "İlaç",
+      "meaning_en": "Medication / Medicine",
+      "meaning_uk": "Ліки / Медикаменти",
+      "example": "Nehmen Sie dieses *** dreimal täglich."
+    },
+    {
+      "term": "der Hustensaft",
+      "type": "Noun",
+      "meaning_tr": "Öksürük şurubu",
+      "meaning_en": "Cough syrup",
+      "meaning_uk": "Сироп від кашлю",
+      "example": "Der *** hilft gegen den Husten."
+    },
+    {
+      "term": "die Tropfen",
+      "type": "Noun",
+      "meaning_tr": "Damlalar (ilaç damlası)",
+      "meaning_en": "Drops",
+      "meaning_uk": "Краплі",
+      "example": "Nehmen Sie 20 *** vor dem Essen."
+    },
+    {
+      "term": "das Nasenspray",
+      "type": "Noun",
+      "meaning_tr": "Burun spreyi",
+      "meaning_en": "Nasal spray",
+      "meaning_uk": "Спрей для носа",
+      "example": "Das *** hilft bei Schnupfen."
+    },
+    {
+      "term": "die Tablette",
+      "type": "Noun",
+      "meaning_tr": "Hap ya da tablet",
+      "meaning_en": "Tablet / Pill",
+      "meaning_uk": "Таблетка",
+      "example": "Ich muss jeden Morgen eine *** nehmen."
+    },
+    {
+      "term": "gegen",
+      "type": "Preposition",
+      "meaning_tr": "-e karşı (zıtlık veya ilaçlarda etki)",
+      "meaning_en": "Against",
+      "meaning_uk": "Проти / Від (хвороби)",
+      "example": "Das Medikament hilft *** Schmerzen."
+    },
+    {
+      "term": "lieber",
+      "type": "Adverb",
+      "meaning_tr": "Daha ziyade ya da tercihen",
+      "meaning_en": "Rather / Preferably",
+      "meaning_uk": "Краще / Переважно",
+      "example": "Möchten Sie *** Tee oder Kaffee?"
+    },
+    {
+      "term": "bar",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Nakit",
+      "meaning_en": "Cash",
+      "meaning_uk": "Готівка / Готівкою",
+      "example": "Kann ich *** bezahlen?"
+    },
+    {
+      "term": "die Kreditkarte",
+      "type": "Noun",
+      "meaning_tr": "Kredi kartı",
+      "meaning_en": "Credit card",
+      "meaning_uk": "Кредитна картка",
+      "example": "Bezahlen Sie mit ***?"
+    },
+    {
+      "term": "die Fitness",
+      "type": "Noun",
+      "meaning_tr": "Zindelik, form ya da kondisyon",
+      "meaning_en": "Fitness",
+      "meaning_uk": "Фітнес / Фізична форма",
+      "example": "Er trainiert viel für seine ***."
+    },
+    {
+      "term": "das Program",
+      "type": "Noun",
+      "meaning_tr": "Program ya da izlence",
+      "meaning_en": "Program",
+      "meaning_uk": "Програма",
+      "example": "Das Fitnessstudio bietet ein tolles ***."
+    },
+    {
+      "term": "das Training",
+      "type": "Noun",
+      "meaning_tr": "Antrenman ya da çalışma",
+      "meaning_en": "Training / Workout",
+      "meaning_uk": "Тренування",
+      "example": "Das *** beginnt um 19 Uhr."
+    },
+    {
+      "term": "das Krafttraining",
+      "type": "Noun",
+      "meaning_tr": "Güç veya ağırlık antrenmanı",
+      "meaning_en": "Strength training / Weight training",
+      "meaning_uk": "Силове тренування",
+      "example": "*** ist gut für die Muskeln."
+    },
+    {
+      "term": "das Rückentraining",
+      "type": "Noun",
+      "meaning_tr": "Sırt egzersizi ya da sırt antrenmanı",
+      "meaning_en": "Back training / Back exercises",
+      "meaning_uk": "Тренування для спини",
+      "example": "Er macht *** gegen seine Schmerzen."
+    },
+    {
+      "term": "der Trainer",
+      "type": "Noun",
+      "meaning_tr": "Eğitmen, koç ya da antrenör (erkek)",
+      "meaning_en": "Trainer / Coach (male)",
+      "meaning_uk": "Тренер",
+      "example": "Unser *** ist sehr streng."
+    },
+    {
+      "term": "der Einzelkurs",
+      "type": "Noun",
+      "meaning_tr": "Bireysel kurs ya da özel ders",
+      "meaning_en": "Individual course / Private lesson",
+      "meaning_uk": "Індивідуальний курс",
+      "example": "Ein *** ist teurer als ein Gruppenkurs."
+    },
+    {
+      "term": "der Gruppenkurs",
+      "type": "Noun",
+      "meaning_tr": "Grup kursu",
+      "meaning_en": "Group course",
+      "meaning_uk": "Груповий курс",
+      "example": "Ich mache lieber einen ***."
+    },
+    {
+      "term": "der Spaziergang",
+      "type": "Noun",
+      "meaning_tr": "Gezinti ya da yürüyüş",
+      "meaning_en": "Walk / Stroll",
+      "meaning_uk": "Прогулянка",
+      "example": "Wir machen einen langen *** im Wald."
+    },
+    {
+      "term": "die Ernährung",
+      "type": "Noun",
+      "meaning_tr": "Beslenme ya da gıda rejimi",
+      "meaning_en": "Nutrition / Diet",
+      "meaning_uk": "Харчування",
+      "example": "Gesunde *** ist sehr wichtig."
+    },
+    {
+      "term": "beraten",
+      "type": "Verb",
+      "meaning_tr": "Danışmanlık yapmak, tavsiye vermek ya da akıl vermek",
+      "meaning_en": "To advise / To consult",
+      "meaning_uk": "Консультувати / Радити",
+      "example": "Der Arzt wird Sie gerne ***."
+    },
+    {
+      "term": "sich freuen",
+      "type": "Verb",
+      "meaning_tr": "Sevinmek ya da memnun olmak",
+      "meaning_en": "To be happy / To look forward to",
+      "meaning_uk": "Радіти",
+      "example": "Ich *** mich auf den Urlaub."
+    },
+    {
+      "term": "die Lust",
+      "type": "Noun",
+      "meaning_tr": "Heves, istek ya da arzu",
+      "meaning_en": "Desire / Mood",
+      "meaning_uk": "Бажання / Настрій (щось зробити)",
+      "example": "Hast du *** auf ein Eis?"
+    },
+    {
+      "term": "allgemein",
+      "type": "Adjective",
+      "meaning_tr": "Genel ya da yaygın",
+      "meaning_en": "General / Common",
+      "meaning_uk": "Загальний",
+      "example": "Das sind nur *** Informationen."
+    },
+    {
+      "term": "übrigens",
+      "type": "Adverb",
+      "meaning_tr": "Bu arada, sırası gelmişken ya da unutmadan",
+      "meaning_en": "By the way / Incidentally",
+      "meaning_uk": "До речі",
+      "example": "*** wie geht es deiner Mutter?"
+    },
+    {
+      "term": "vorschlagen",
+      "type": "Verb",
+      "meaning_tr": "Önermek, teklif etmek ya da tavsiyede bulunmak",
+      "meaning_en": "To suggest / To propose",
+      "meaning_uk": "Пропонувати",
+      "example": "Was würdest du als Termin ***?"
+    },
+    {
+      "term": "ziemlich",
+      "type": "Adverb",
+      "meaning_tr": "Hayli, oldukça ya da epey",
+      "meaning_en": "Quite / Fairly / Pretty",
+      "meaning_uk": "Досить / Немало",
+      "example": "Der Kurs ist *** teuer."
+    },
+    {
+      "term": "der Physiotherapeut",
+      "type": "Noun",
+      "meaning_tr": "Fizyoterapist (erkek)",
+      "meaning_en": "Physiotherapist (male)",
+      "meaning_uk": "Фізіотерапевт",
+      "example": "Der *** hilft mir nach dem Unfall."
+    },
+    {
+      "term": "der Fitnesstrainer",
+      "type": "Noun",
+      "meaning_tr": "Fitness eğitmeni",
+      "meaning_en": "Fitness trainer",
+      "meaning_uk": "Фітнес-тренер",
+      "example": "Er arbeitet als *** im Studio."
+    },
+    {
+      "term": "der Fußballtrainer",
+      "type": "Noun",
+      "meaning_tr": "Futbol antrenörü",
+      "meaning_en": "Football coach",
+      "meaning_uk": "Футбольний тренер",
+      "example": "Unser *** ist mit dem Spiel zufrieden."
+    },
+    {
+      "term": "der Fußballverein",
+      "type": "Noun",
+      "meaning_tr": "Futbol kulübü",
+      "meaning_en": "Football club",
+      "meaning_uk": "Футбольний клуб",
+      "example": "Er spielt seit Jahren in einem ***."
+    },
+    {
+      "term": "der Schüler",
+      "type": "Noun",
+      "meaning_tr": "Öğrenci ya da talebe (erkek)",
+      "meaning_en": "Student / Pupil (male)",
+      "meaning_uk": "Учень",
+      "example": "Die *** lernen fleißig für den Test."
+    },
+    {
+      "term": "der Job",
+      "type": "Noun",
+      "meaning_tr": "İş ya da meslek",
+      "meaning_en": "Job",
+      "meaning_uk": "Робота",
+      "example": "Ich suche einen neuen *** für den Sommer."
+    },
+    {
+      "term": "das Praktikum",
+      "type": "Noun",
+      "meaning_tr": "Staj ya da uygulama çalışması",
+      "meaning_en": "Internship",
+      "meaning_uk": "Практика / Стажування",
+      "example": "Er macht ein *** bei einer Zeitung."
+    },
+    {
+      "term": "die Größe",
+      "type": "Noun",
+      "meaning_tr": "Boyut, beden ya da büyüklük",
+      "meaning_en": "Size",
+      "meaning_uk": "Розмір",
+      "example": "Welche *** brauchen Sie bei der Hose?"
+    },
+    {
+      "term": "unregelmäßig",
+      "type": "Adjective",
+      "meaning_tr": "Kuralsız ya da düzensiz",
+      "meaning_en": "Irregular",
+      "meaning_uk": "Неправильний / Нерегулярний",
+      "example": "Viele deutsche Verben sind ***."
+    },
+    {
+      "term": "gesund",
+      "type": "Adjective",
+      "meaning_tr": "Sağlıklı ya da zinde",
+      "meaning_en": "Healthy",
+      "meaning_uk": "Здоровий",
+      "example": "Obst und Gemüse sind sehr ***."
+    },
+    {
+      "term": "deshalb",
+      "type": "Adverb",
+      "meaning_tr": "Bu nedenle, bu yüzden ya da dolayısıyla",
+      "meaning_en": "Therefore / That's why",
+      "meaning_uk": "Тому / Через це",
+      "example": "Er ist krank, *** kommt er heute nicht."
+    },
+    {
+      "term": "daneben",
+      "type": "Adverb",
+      "meaning_tr": "Yanında, bitişiğinde ya da onun yanı sıra",
+      "meaning_en": "Next to it / Beside it",
+      "meaning_uk": "Поряд / Біля цього",
+      "example": "Das Kino liegt direkt ***."
+    },
+    {
+      "term": "hoffentlich",
+      "type": "Adverb",
+      "meaning_tr": "Umarım, inşallah ya da ümit ederim ki",
+      "meaning_en": "Hopefully",
+      "meaning_uk": "Сподіваюся",
+      "example": "*** regnet es morgen nicht."
+    },
+    {
+      "term": "vor allem",
+      "type": "Adverb",
+      "meaning_tr": "Özellikle, her şeyden önce ya da bilhassa",
+      "meaning_en": "Especially / Above all",
+      "meaning_uk": "Перш за все / Особливо",
+      "example": "Er mag Sport, *** Fußball."
+    },
+    {
+      "term": "die Zigarette",
+      "type": "Noun",
+      "meaning_tr": "Sigara",
+      "meaning_en": "Cigarette",
+      "meaning_uk": "Сигарета",
+      "example": "Rauchen Sie eine ***?"
+    }
   ]
 }

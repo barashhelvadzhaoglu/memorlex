@@ -2,173 +2,789 @@
   "title": "Integration A1 - Kapitel 9",
   "language": "de",
   "words": [
-    { 
-      "term": "der Markt", 
-      "type": "Noun", 
-      "meaning_tr": "Pazar, çarşı ya da pazar yeri", 
-      "meaning_en": "Market", 
-      "meaning_uk": "Ринок", 
-      "example": "Auf dem *** kaufe ich frisches Obst." 
+    {
+      "term": "die Freizeitaktivität",
+      "type": "Noun",
+      "meaning_tr": "Boş zaman aktivitesi ya da hobi",
+      "meaning_en": "Leisure activity",
+      "meaning_uk": "Дозвілля / Вільний час (активність)",
+      "example": "Was ist deine Lieblings-***?"
     },
-    { 
-      "term": "die Halle", 
-      "type": "Noun", 
-      "meaning_tr": "Hol, büyük salon, galeri ya da kapalı alan", 
-      "meaning_en": "Hall", 
-      "meaning_uk": "Зал / Хол", 
-      "example": "In der großen *** findet die Messe statt." 
+    {
+      "term": "chillen",
+      "type": "Verb",
+      "meaning_tr": "Kafa dinlemek, rahatlamak ya da takılmak",
+      "meaning_en": "To chill / To relax",
+      "meaning_uk": "Відпочивати / Розслаблятися",
+      "example": "Ich möchte am Wochenende nur ***."
     },
-    { 
-      "term": "der Stand", 
-      "type": "Noun", 
-      "meaning_tr": "Tezgah, stant ya da satış noktası", 
-      "meaning_en": "Stand / Stall", 
-      "meaning_uk": "Кіоск / Стенд", 
-      "example": "An diesem *** gibt es warmen Glühwein." 
+    {
+      "term": "frei haben",
+      "type": "Verb",
+      "meaning_tr": "Boş vakti olmak ya da izinli olmak",
+      "meaning_en": "To be off / To have free time",
+      "meaning_uk": "Мати вільний час",
+      "example": "Morgen habe ich ***."
     },
-    { 
-      "term": "das Karussell", 
-      "type": "Noun", 
-      "meaning_tr": "Atlıkarınca ya da dönme dolap benzeri eğlence aracı", 
-      "meaning_en": "Carousel", 
-      "meaning_uk": "Карусель", 
-      "example": "Die Kinder fahren gerne auf dem ***." 
+    {
+      "term": "die Zeitung",
+      "type": "Noun",
+      "meaning_tr": "Gazete",
+      "meaning_en": "Newspaper",
+      "meaning_uk": "Газета",
+      "example": "Er liest jeden Morgen die ***."
     },
-    { 
-      "term": "das Spielzeug", 
-      "type": "Noun", 
-      "meaning_tr": "Oyuncak ya da oyun aracı", 
-      "meaning_en": "Toy", 
-      "meaning_uk": "Іграшка", 
-      "example": "Das Kind wünscht sich ein neues ***." 
+    {
+      "term": "schauen",
+      "type": "Verb",
+      "meaning_tr": "Bakmak ya da izlemek",
+      "meaning_en": "To look / To watch",
+      "meaning_uk": "Дивитися",
+      "example": "Wir *** gerne Fernsehen."
     },
-    { 
-      "term": "die Kleidung", 
-      "type": "Noun", 
-      "meaning_tr": "Kıyafet, giysi ya da giyim kuşam", 
-      "meaning_en": "Clothes", 
-      "meaning_uk": "Одяг", 
-      "example": "Im Winter brauchen wir warme ***." 
+    {
+      "term": "das Computerspiel",
+      "type": "Noun",
+      "meaning_tr": "Bilgisayar oyunu",
+      "meaning_en": "Computer game",
+      "meaning_uk": "Комп'ютерна гра",
+      "example": "Das *** macht viel Spaß."
     },
-    { 
-      "term": "der Honig", 
-      "type": "Noun", 
-      "meaning_tr": "Bal ya da arı balı", 
-      "meaning_en": "Honey", 
-      "meaning_uk": "Мед", 
-      "example": "Die Bienen produzieren diesen süßen ***." 
+    {
+      "term": "treffen",
+      "type": "Verb",
+      "meaning_tr": "Buluşmak ya da rastlamak",
+      "meaning_en": "To meet",
+      "meaning_uk": "Зустрічати",
+      "example": "Ich *** meine Freunde im Cafe."
     },
-    { 
-      "term": "der Glühwein", 
-      "type": "Noun", 
-      "meaning_tr": "Sıcak şarap (baharatlı meyve şarabı)", 
-      "meaning_en": "Mulled wine", 
-      "meaning_uk": "Глінтвейн", 
-      "example": "Auf dem Weihnachtsmarkt trinken wir ***." 
+    {
+      "term": "einfach",
+      "type": "Adjective",
+      "meaning_tr": "Basit, kolay ya da sade",
+      "meaning_en": "Simple / Easy",
+      "meaning_uk": "Просто / Простий",
+      "example": "Die Aufgabe ist sehr ***."
     },
-    { 
-      "term": "das Lebkuchenherz", 
-      "type": "Noun", 
-      "meaning_tr": "Zencefilli kurabiyeden yapılan süslü kalp", 
-      "meaning_en": "Gingerbread heart", 
-      "meaning_uk": "Пряникове серце", 
-      "example": "Er schenkt ihr ein großes ***." 
+    {
+      "term": "immer",
+      "type": "Adverb",
+      "meaning_tr": "Her zaman ya da daima",
+      "meaning_en": "Always",
+      "meaning_uk": "Завжди",
+      "example": "Er ist *** pünktlich."
     },
-    { 
-      "term": "die Zuckerwatte", 
-      "type": "Noun", 
-      "meaning_tr": "Pamuk şeker ya da pamuk helva", 
-      "meaning_en": "Cotton candy", 
-      "meaning_uk": "Цукрова вата", 
-      "example": "Die *** ist sehr süß und klebt an den Fingern." 
+    {
+      "term": "oft",
+      "type": "Adverb",
+      "meaning_tr": "Sık sık ya da çoğu kez",
+      "meaning_en": "Often",
+      "meaning_uk": "Часто",
+      "example": "Wir gehen *** ins Kino."
     },
-    { 
-      "term": "der Schmuck", 
-      "type": "Noun", 
-      "meaning_tr": "Takı, mücevherat ya da ziynet eşyası", 
-      "meaning_en": "Jewelry", 
-      "meaning_uk": "Прикраси", 
-      "example": "Sie trägt teuren *** aus Gold." 
+    {
+      "term": "manchmal",
+      "type": "Adverb",
+      "meaning_tr": "Bazen ya da ara sıra",
+      "meaning_en": "Sometimes",
+      "meaning_uk": "Іноді",
+      "example": "*** trinke ich Tee statt Kaffee."
     },
-    { 
-      "term": "der Weihnachtsmann", 
-      "type": "Noun", 
-      "meaning_tr": "Noel Baba", 
-      "meaning_en": "Santa Claus", 
-      "meaning_uk": "Санта-Клаус", 
-      "example": "Der *** bringt den Kindern Geschenke." 
+    {
+      "term": "selten",
+      "type": "Adverb",
+      "meaning_tr": "Nadiren ya da seyrek",
+      "meaning_en": "Rarely",
+      "meaning_uk": "Рідко",
+      "example": "Ich esse *** Fleisch."
     },
-    { 
-      "term": "aufbauen", 
-      "type": "Verb", 
-      "meaning_tr": "Kurmak, inşa etmek ya da monte etmek", 
-      "meaning_en": "To set up / build", 
-      "meaning_uk": "Будувати / Встановлювати", 
-      "example": "Die Arbeiter müssen den Stand früh ***." 
+    {
+      "term": "nie",
+      "type": "Adverb",
+      "meaning_tr": "Asla ya da hiç",
+      "meaning_en": "Never",
+      "meaning_uk": "Ніколи",
+      "example": "Das habe ich *** gesagt."
     },
-    { 
-      "term": "braten", 
-      "type": "Verb", 
-      "meaning_tr": "Kızartmak, kavurmak ya da fırınlamak", 
-      "meaning_en": "To fry / roast", 
-      "meaning_uk": "Смажити", 
-      "example": "Wir *** die Würstchen auf dem Grill." 
+    {
+      "term": "der Chat",
+      "type": "Noun",
+      "meaning_tr": "Sohbet ya da dijital mesajlaşma",
+      "meaning_en": "Chat",
+      "meaning_uk": "Чат",
+      "example": "Der *** ist beendet."
     },
-    { 
-      "term": "ausgeben", 
-      "type": "Verb", 
-      "meaning_tr": "Para harcamak ya da masraf etmek", 
-      "meaning_en": "To spend", 
-      "meaning_uk": "Витрачати", 
-      "example": "Ich möchte heute nicht so viel Geld ***." 
+    {
+      "term": "das Wetter",
+      "type": "Noun",
+      "meaning_tr": "Hava durumu",
+      "meaning_en": "Weather",
+      "meaning_uk": "Погода",
+      "example": "Wie ist das *** heute?"
     },
-    { 
-      "term": "angucken", 
-      "type": "Verb", 
-      "meaning_tr": "Bakmak, incelemek ya da izlemek", 
-      "meaning_en": "To look at / watch", 
-      "meaning_uk": "Дивитися", 
-      "example": "Wir wollen uns die schönen Lichter ***." 
+    {
+      "term": "das Frisbee",
+      "type": "Noun",
+      "meaning_tr": "Frizbi",
+      "meaning_en": "Frisbee",
+      "meaning_uk": "Фрісбі",
+      "example": "Wir spielen im Park ***."
     },
-    { 
-      "term": "herrlich", 
-      "type": "Adjective", 
-      "meaning_tr": "Harika, muazzam, nefis ya da görkemli", 
-      "meaning_en": "Wonderful", 
-      "meaning_uk": "Чудовий", 
-      "example": "Das Wetter heute ist einfach ***." 
+    {
+      "term": "das Ballspiel",
+      "type": "Noun",
+      "meaning_tr": "Top oyunu",
+      "meaning_en": "Ball game",
+      "meaning_uk": "Гра в м'яч",
+      "example": "Kinder lieben ***e."
     },
-    { 
-      "term": "riechen", 
-      "type": "Verb", 
-      "meaning_tr": "Koklamak ya da (bir şekilde) kokmak", 
-      "meaning_en": "To smell", 
-      "meaning_uk": "Пахнути / Нюхати", 
-      "example": "Die gebrannten Mandeln *** sehr gut." 
+    {
+      "term": "kennenlernen",
+      "type": "Verb",
+      "meaning_tr": "Tanışmak ya da birini/bir şeyi tanımak",
+      "meaning_en": "To get to know / To meet",
+      "meaning_uk": "Знайомитися",
+      "example": "Ich möchte dich ***."
     },
-    { 
-      "term": "satt", 
-      "type": "Adjective", 
-      "meaning_tr": "Tok, karnı doymuş ya da doymuş", 
-      "meaning_en": "Full (not hungry)", 
-      "meaning_uk": "Ситий", 
-      "example": "Ich kann nicht mehr essen, ich bin ***." 
+    {
+      "term": "mitkommen",
+      "type": "Verb",
+      "meaning_tr": "Birlikte gelmek",
+      "meaning_en": "To come along",
+      "meaning_uk": "Йти разом (з кимось)",
+      "example": "Kommst du ins Kino ***?"
     },
-    { 
-      "term": "links", 
-      "type": "Adverb", 
-      "meaning_tr": "Sol tarafta ya da sola", 
-      "meaning_en": "Left", 
-      "meaning_uk": "Ліворуч", 
-      "example": "Gehen Sie an der Ecke nach ***." 
+    {
+      "term": "dann",
+      "type": "Adverb",
+      "meaning_tr": "O zaman ya da sonra",
+      "meaning_en": "Then",
+      "meaning_uk": "Потім / Тоді",
+      "example": "Bis ***!"
     },
-    { 
-      "term": "rechts", 
-      "type": "Adverb", 
-      "meaning_tr": "Sağ tarafta ya da sağa", 
-      "meaning_en": "Right", 
-      "meaning_uk": "Праворуч", 
-      "example": "Mein Haus liegt auf der *** Seite." 
+    {
+      "term": "schon lange",
+      "type": "Phrase",
+      "meaning_tr": "Uzun zamandır",
+      "meaning_en": "For a long time",
+      "meaning_uk": "Вже давно",
+      "example": "Ich warte *** auf dich."
+    },
+    {
+      "term": "die Bäckerei",
+      "type": "Noun",
+      "meaning_tr": "Fırın ya da pastane",
+      "meaning_en": "Bakery",
+      "meaning_uk": "Пекарня",
+      "example": "Das Brot in der *** ist frisch."
+    },
+    {
+      "term": "die Ecke",
+      "type": "Noun",
+      "meaning_tr": "Köşe",
+      "meaning_en": "Corner",
+      "meaning_uk": "Кут",
+      "example": "Die Apotheke ist um die ***."
+    },
+    {
+      "term": "der Yoga-Kurs",
+      "type": "Noun",
+      "meaning_tr": "Yoga kursu",
+      "meaning_en": "Yoga course",
+      "meaning_uk": "Курс йоги",
+      "example": "Der *** beginnt um acht."
+    },
+    {
+      "term": "der Sonnabend",
+      "type": "Noun",
+      "meaning_tr": "Cumartesi (Kuzey Almanya'da yaygın)",
+      "meaning_en": "Saturday",
+      "meaning_uk": "Субота",
+      "example": "*** ist mein Lieblingstag."
+    },
+    {
+      "term": "die Fabrik",
+      "type": "Noun",
+      "meaning_tr": "Fabrika",
+      "meaning_en": "Factory",
+      "meaning_uk": "Фабрика / Завод",
+      "example": "Mein Vater arbeitet in einer ***."
+    },
+    {
+      "term": "die Kasse",
+      "type": "Noun",
+      "meaning_tr": "Kasa ya da ödeme noktası",
+      "meaning_en": "Cash desk / Checkout",
+      "meaning_uk": "Каса",
+      "example": "Bitte zahlen Sie an der ***."
+    },
+    {
+      "term": "der Schalter",
+      "type": "Noun",
+      "meaning_tr": "Gişe ya da vezne",
+      "meaning_en": "Counter / Window",
+      "meaning_uk": "Віконце / Каса (в установі)",
+      "example": "Der *** ist leider geschlossen."
+    },
+    {
+      "term": "der Rabatt",
+      "type": "Noun",
+      "meaning_tr": "İndirim",
+      "meaning_en": "Discount",
+      "meaning_uk": "Знижка",
+      "example": "Gibt es für Studenten einen ***?"
+    },
+    {
+      "term": "das Schwimmbad",
+      "type": "Noun",
+      "meaning_tr": "Yüzme havuzu",
+      "meaning_en": "Swimming pool",
+      "meaning_uk": "Басейн",
+      "example": "Wir gehen heute ins ***."
+    },
+    {
+      "term": "täglich",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Günlük ya da her gün",
+      "meaning_en": "Daily",
+      "meaning_uk": "Щодня / Щоденно",
+      "example": "Ich lerne *** Deutsch."
+    },
+    {
+      "term": "der Eintritt",
+      "type": "Noun",
+      "meaning_tr": "Giriş ya da giriş ücreti",
+      "meaning_en": "Entrance / Admission",
+      "meaning_uk": "Вхід / Вхідна плата",
+      "example": "Der *** ist für Kinder frei."
+    },
+    {
+      "term": "fit",
+      "type": "Adjective",
+      "meaning_tr": "Zinde ya da formda",
+      "meaning_en": "Fit",
+      "meaning_uk": "У формі / Фізично здоровий",
+      "example": "Ich möchte gerne *** bleiben."
+    },
+    {
+      "term": "laufen",
+      "type": "Verb",
+      "meaning_tr": "Koşmak ya da yürümek",
+      "meaning_en": "To run / To walk",
+      "meaning_uk": "Бігти / Йти",
+      "example": "Er kann sehr schnell ***."
+    },
+    {
+      "term": "für Jung und Alt",
+      "type": "Phrase",
+      "meaning_tr": "Genç yaşlı herkes için",
+      "meaning_en": "For young and old",
+      "meaning_uk": "Для молодих і старих",
+      "example": "Das Fest ist ***."
+    },
+    {
+      "term": "der Treffpunkt",
+      "type": "Noun",
+      "meaning_tr": "Buluşma noktası",
+      "meaning_en": "Meeting point",
+      "meaning_uk": "Місце зустрічі",
+      "example": "Der Bahnhof ist unser ***."
+    },
+    {
+      "term": "der Stadtpark",
+      "type": "Noun",
+      "meaning_tr": "Şehir parkı",
+      "meaning_en": "City park",
+      "meaning_uk": "Міський парк",
+      "example": "Wir gehen im *** spazieren."
+    },
+    {
+      "term": "das Konzert",
+      "type": "Noun",
+      "meaning_tr": "Konser",
+      "meaning_en": "Concert",
+      "meaning_uk": "Концерт",
+      "example": "Das *** war fantastisch."
+    },
+    {
+      "term": "die Karte",
+      "type": "Noun",
+      "meaning_tr": "Bilet, kart ya da harita",
+      "meaning_en": "Ticket / Card",
+      "meaning_uk": "Квиток / Карта",
+      "example": "Ich habe eine *** für das Kino."
+    },
+    {
+      "term": "die Kneipe",
+      "type": "Noun",
+      "meaning_tr": "Birahane ya da meyhane",
+      "meaning_en": "Pub / Bar",
+      "meaning_uk": "Паб / Бар / Кнайпа",
+      "example": "Wir treffen uns in der ***."
+    },
+    {
+      "term": "live",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Canlı (performans vb.)",
+      "meaning_en": "Live",
+      "meaning_uk": "Наживо",
+      "example": "Die Band spielt heute ***."
+    },
+    {
+      "term": "Rad fahren",
+      "type": "Verb",
+      "meaning_tr": "Bisiklete binmek",
+      "meaning_en": "To ride a bike",
+      "meaning_uk": "Їздити на велосипеді",
+      "example": "Ich gehe am Sonntag ***."
+    },
+    {
+      "term": "die Stadtführung",
+      "type": "Noun",
+      "meaning_tr": "Şehir turu ya da rehberli şehir gezisi",
+      "meaning_en": "Guided city tour",
+      "meaning_uk": "Екскурсія містом",
+      "example": "Die *** dauert zwei Stunden."
+    },
+    {
+      "term": "der Reiseführer",
+      "type": "Noun",
+      "meaning_tr": "Turist rehberi ya da gezi kitabı",
+      "meaning_en": "Guide / Guidebook",
+      "meaning_uk": "Гід / Путівник",
+      "example": "Der *** erklärt die Geschichte."
+    },
+    {
+      "term": "der Jugendliche",
+      "type": "Noun",
+      "meaning_tr": "Genç ya da ergen",
+      "meaning_en": "Youth / Teenager",
+      "meaning_uk": "Підліток / Юнак",
+      "example": "Viele ***e besuchen den Club."
+    },
+    {
+      "term": "pro Person",
+      "type": "Phrase",
+      "meaning_tr": "Kişi başı",
+      "meaning_en": "Per person",
+      "meaning_uk": "З особи / На людину",
+      "example": "Das Ticket kostet 10 Euro ***."
+    },
+    {
+      "term": "verabreden",
+      "type": "Verb",
+      "meaning_tr": "Sözleşmek ya da randevulaşmak",
+      "meaning_en": "To arrange / To agree",
+      "meaning_uk": "Домовлятися (про зустріч)",
+      "example": "Wir haben uns für 8 Uhr ***t."
+    },
+    {
+      "term": "wohin?",
+      "type": "Question",
+      "meaning_tr": "Nereye?",
+      "meaning_en": "Where to?",
+      "meaning_uk": "Куди?",
+      "example": "*** gehen wir heute Abend?"
+    },
+    {
+      "term": "einverstanden sein",
+      "type": "Phrase",
+      "meaning_tr": "Aynı fikirde olmak ya da kabul etmek",
+      "meaning_en": "To agree",
+      "meaning_uk": "Бути згодним",
+      "example": "Ich bin damit ***."
+    },
+    {
+      "term": "das Schach",
+      "type": "Noun",
+      "meaning_tr": "Satranç",
+      "meaning_en": "Chess",
+      "meaning_uk": "Шахи",
+      "example": "Wir spielen gerne ***."
+    },
+    {
+      "term": "die Fahrradtour",
+      "type": "Noun",
+      "meaning_tr": "Bisiklet turu",
+      "meaning_en": "Bike tour",
+      "meaning_uk": "Велосипедна прогулянка",
+      "example": "Wir machen eine ***."
+    },
+    {
+      "term": "der Ball",
+      "type": "Noun",
+      "meaning_tr": "Top",
+      "meaning_en": "Ball",
+      "meaning_uk": "М'яч",
+      "example": "Wo ist der ***?"
+    },
+    {
+      "term": "die Zeitangabe",
+      "type": "Noun",
+      "meaning_tr": "Zaman ifadesi ya da zaman belirtimi",
+      "meaning_en": "Time expression",
+      "meaning_uk": "Вказівка часу",
+      "example": "Benutze eine *** im Satz."
+    },
+    {
+      "term": "letzten Monat",
+      "type": "Phrase",
+      "meaning_tr": "Geçen ay",
+      "meaning_en": "Last month",
+      "meaning_uk": "Минулого місяця",
+      "example": "*** war ich in Berlin."
+    },
+    {
+      "term": "letztes Jahr",
+      "type": "Phrase",
+      "meaning_tr": "Geçen yıl",
+      "meaning_en": "Last year",
+      "meaning_uk": "Минулого року",
+      "example": "*** habe ich viel gelernt."
+    },
+    {
+      "term": "letzte Woche",
+      "type": "Phrase",
+      "meaning_tr": "Geçen hafta",
+      "meaning_en": "Last week",
+      "meaning_uk": "Минулого тижня",
+      "example": "*** war ich krank."
+    },
+    {
+      "term": "vorgestern",
+      "type": "Adverb",
+      "meaning_tr": "Evvelsi gün ya da dünden önceki gün",
+      "meaning_en": "Day before yesterday",
+      "meaning_uk": "Позавчора",
+      "example": "Ich habe ihn *** gesehen."
+    },
+    {
+      "term": "der Beruf",
+      "type": "Noun",
+      "meaning_tr": "Meslek",
+      "meaning_en": "Profession / Job",
+      "meaning_uk": "Професія",
+      "example": "Was ist dein ***?"
+    },
+    {
+      "term": "der Verkäufer",
+      "type": "Noun",
+      "meaning_tr": "Satıcı ya da tezgahtar",
+      "meaning_en": "Salesperson",
+      "meaning_uk": "Продавець",
+      "example": "Der *** ist sehr nett."
+    },
+    {
+      "term": "der Busfahrer",
+      "type": "Noun",
+      "meaning_tr": "Otobüs şoförü",
+      "meaning_en": "Bus driver",
+      "meaning_uk": "Водій автобуса",
+      "example": "Mein Onkel ist ***."
+    },
+    {
+      "term": "der Krankenpfleger",
+      "type": "Noun",
+      "meaning_tr": "Hasta bakıcı ya da erkek hemşire",
+      "meaning_en": "Nurse (male)",
+      "meaning_uk": "Медбрат",
+      "example": "Er arbeitet als ***."
+    },
+    {
+      "term": "der Blog",
+      "type": "Noun",
+      "meaning_tr": "Blog",
+      "meaning_en": "Blog",
+      "meaning_uk": "Блог",
+      "example": "Ich lese gerne diesen ***."
+    },
+    {
+      "term": "der Flughafen",
+      "type": "Noun",
+      "meaning_tr": "Havalimanı",
+      "meaning_en": "Airport",
+      "meaning_uk": "Аеропорт",
+      "example": "Wir fahren zum ***."
+    },
+    {
+      "term": "der Abflug",
+      "type": "Noun",
+      "meaning_tr": "Uçağın kalkışı",
+      "meaning_en": "Departure (flight)",
+      "meaning_uk": "Виліт",
+      "example": "Der *** ist um 10 Uhr."
+    },
+    {
+      "term": "der Fluggast",
+      "type": "Noun",
+      "meaning_tr": "Uçak yolcusu",
+      "meaning_en": "Passenger (flight)",
+      "meaning_uk": "Пасажир літака",
+      "example": "Jeder *** muss warten."
+    },
+    {
+      "term": "das Gepäck",
+      "type": "Noun",
+      "meaning_tr": "Bagaj ya da yük",
+      "meaning_en": "Luggage",
+      "meaning_uk": "Багаж",
+      "example": "Wo kann ich mein *** abgeben?"
+    },
+    {
+      "term": "einchecken",
+      "type": "Verb",
+      "meaning_tr": "Kayıt yaptırmak (otel/havaalanı)",
+      "meaning_en": "To check in",
+      "meaning_uk": "Реєструватися",
+      "example": "Wir müssen jetzt ***."
+    },
+    {
+      "term": "voll",
+      "type": "Adjective",
+      "meaning_tr": "Dolu",
+      "meaning_en": "Full",
+      "meaning_uk": "Повний",
+      "example": "Der Bus ist sehr ***."
+    },
+    {
+      "term": "das Chaos",
+      "type": "Noun",
+      "meaning_tr": "Kaos ya da karmaşa",
+      "meaning_en": "Chaos",
+      "meaning_uk": "Хаос",
+      "example": "In meinem Zimmer herrscht ***."
+    },
+    {
+      "term": "der Passagier",
+      "type": "Noun",
+      "meaning_tr": "Yolcu",
+      "meaning_en": "Passenger",
+      "meaning_uk": "Пасажир",
+      "example": "Der *** sucht seinen Platz."
+    },
+    {
+      "term": "die Autobahn",
+      "type": "Noun",
+      "meaning_tr": "Otoyol ya da otoban",
+      "meaning_en": "Highway",
+      "meaning_uk": "Автомагістраль",
+      "example": "Auf der *** fährt man schnell."
+    },
+    {
+      "term": "die Ware",
+      "type": "Noun",
+      "meaning_tr": "Mal ya da eşya",
+      "meaning_en": "Goods",
+      "meaning_uk": "Товар",
+      "example": "Die *** wird morgen geliefert."
+    },
+    {
+      "term": "der Empfänger",
+      "type": "Noun",
+      "meaning_tr": "Alıcı",
+      "meaning_en": "Recipient",
+      "meaning_uk": "Отримувач",
+      "example": "Wer ist der *** des Pakets?"
+    },
+    {
+      "term": "zurückfahren",
+      "type": "Verb",
+      "meaning_tr": "Geri dönmek (araçla)",
+      "meaning_en": "To drive back",
+      "meaning_uk": "Їхати назад / Повертатися",
+      "example": "Wann *** wir ***?"
+    },
+    {
+      "term": "der Kurs",
+      "type": "Noun",
+      "meaning_tr": "Kurs",
+      "meaning_en": "Course",
+      "meaning_uk": "Курс",
+      "example": "Der *** macht viel Spaß."
+    },
+    {
+      "term": "anklicken",
+      "type": "Verb",
+      "meaning_tr": "Tıklamak (fareyle)",
+      "meaning_en": "To click on",
+      "meaning_uk": "Клацнути / Натиснути",
+      "example": "Bitte den Link ***."
+    },
+    {
+      "term": "der Teilnehmer",
+      "type": "Noun",
+      "meaning_tr": "Katılımcı",
+      "meaning_en": "Participant",
+      "meaning_uk": "Учасник",
+      "example": "Jeder *** erhält ein Zertifikat."
+    },
+    {
+      "term": "die Probestunde",
+      "type": "Noun",
+      "meaning_tr": "Deneme dersi",
+      "meaning_en": "Trial lesson",
+      "meaning_uk": "Пробне заняття",
+      "example": "Die erste *** ist gratis."
+    },
+    {
+      "term": "die Kosten",
+      "type": "Noun",
+      "meaning_tr": "Masraflar ya da maliyet",
+      "meaning_en": "Costs",
+      "meaning_uk": "Витрати / Вартість",
+      "example": "Wie hoch sind die ***?"
+    },
+    {
+      "term": "kostenlos",
+      "type": "Adjective",
+      "meaning_tr": "Ücretsiz ya da bedava",
+      "meaning_en": "Free of charge",
+      "meaning_uk": "Безкоштовно",
+      "example": "Das WLAN ist ***."
+    },
+    {
+      "term": "die Gebühr",
+      "type": "Noun",
+      "meaning_tr": "Ücret, harç ya da aidat",
+      "meaning_en": "Fee / Charge",
+      "meaning_uk": "Збір / Плата / Комісія",
+      "example": "Die *** ist monatlich zu zahlen."
+    },
+    {
+      "term": "die Ermäßigung",
+      "type": "Noun",
+      "meaning_tr": "İndirim ya da tenzilat",
+      "meaning_en": "Reduction / Discount",
+      "meaning_uk": "Пільга / Знижка",
+      "example": "Gibt es eine *** für Schüler?"
+    },
+    {
+      "term": "das Familienmitglied",
+      "type": "Noun",
+      "meaning_tr": "Aile ferdi ya da aile üyesi",
+      "meaning_en": "Family member",
+      "meaning_uk": "Член сім'ї",
+      "example": "Er ist ein liebes ***."
+    },
+    {
+      "term": "die Volkshochschule",
+      "type": "Noun",
+      "meaning_tr": "Halk eğitim merkezi (Almanya'da yaygın)",
+      "meaning_en": "Adult education center",
+      "meaning_uk": "Народна вища школа",
+      "example": "Ich besuche die ***."
+    },
+    {
+      "term": "der Comic",
+      "type": "Noun",
+      "meaning_tr": "Çizgi roman",
+      "meaning_en": "Comic",
+      "meaning_uk": "Комікс",
+      "example": "Ich lese gerne ***s."
+    },
+    {
+      "term": "der Kugelschreiber",
+      "type": "Noun",
+      "meaning_tr": "Tükenmez kalem",
+      "meaning_en": "Ballpoint pen",
+      "meaning_uk": "Кулькова ручка",
+      "example": "Hast du einen *** für mich?"
+    },
+    {
+      "term": "der Bleistift",
+      "type": "Noun",
+      "meaning_tr": "Kurşun kalem",
+      "meaning_en": "Pencil",
+      "meaning_uk": "Олівець",
+      "example": "Ich zeichne mit einem ***."
+    },
+    {
+      "term": "die Musikschule",
+      "type": "Noun",
+      "meaning_tr": "Müzik okulu",
+      "meaning_en": "Music school",
+      "meaning_uk": "Музична школа",
+      "example": "Meine Tochter geht in die ***."
+    },
+    {
+      "term": "der Musikkurs",
+      "type": "Noun",
+      "meaning_tr": "Müzik kursu",
+      "meaning_en": "Music course",
+      "meaning_uk": "Музичний курс",
+      "example": "Der *** ist am Freitag."
+    },
+    {
+      "term": "das Instrument",
+      "type": "Noun",
+      "meaning_tr": "Enstrüman ya da çalgı",
+      "meaning_en": "Instrument",
+      "meaning_uk": "Інструмент",
+      "example": "Welches *** spielst du?"
+    },
+    {
+      "term": "die Gitarre",
+      "type": "Noun",
+      "meaning_tr": "Gitar",
+      "meaning_en": "Guitar",
+      "meaning_uk": "Гітара",
+      "example": "Ich play gerne ***."
+    },
+    {
+      "term": "leihen",
+      "type": "Verb",
+      "meaning_tr": "Ödünç almak ya da ödünç vermek",
+      "meaning_en": "To borrow / To lend",
+      "meaning_uk": "Позичати",
+      "example": "Kannst du mir dein Buch ***?"
+    },
+    {
+      "term": "stattfinden",
+      "type": "Verb",
+      "meaning_tr": "Yapılmak ya da vuku bulmak",
+      "meaning_en": "To take place",
+      "meaning_uk": "Відбуватися",
+      "example": "Die Party *** am Samstag ***."
+    },
+    {
+      "term": "anmelden",
+      "type": "Verb",
+      "meaning_tr": "Kaydolmak ya da müracaat etmek",
+      "meaning_en": "To register / Sign up",
+      "meaning_uk": "Зареєструватися",
+      "example": "Ich möchte mich zum Kurs ***."
+    },
+    {
+      "term": "aufhören",
+      "type": "Verb",
+      "meaning_tr": "Durdurmak ya da son vermek",
+      "meaning_en": "To stop / To quit",
+      "meaning_uk": "Припиняти",
+      "example": "Bitte *** mit dem Lärm ***!"
+    },
+    {
+      "term": "der Herr",
+      "type": "Noun",
+      "meaning_tr": "Beyefendi ya da bay",
+      "meaning_en": "Mr. / Gentleman",
+      "meaning_uk": "Пан / Господар",
+      "example": "Guten Tag, *** Schmidt."
+    },
+    {
+      "term": "die Dame",
+      "type": "Noun",
+      "meaning_tr": "Hanımefendi ya da bayan",
+      "meaning_en": "Lady",
+      "meaning_uk": "Пані / Дама",
+      "example": "Sehr geehrte ***n und Herren."
+    },
+    {
+      "term": "Mit freundlichen Grüßen",
+      "type": "Phrase",
+      "meaning_tr": "Saygılarımla (mektup/e-posta kapanışı)",
+      "meaning_en": "Yours sincerely",
+      "meaning_uk": "З повагою / З дружніми вітаннями",
+      "example": "Ich verbleibe ***."
     }
   ]
 }

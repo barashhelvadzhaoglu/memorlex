@@ -1,174 +1,766 @@
 {
-  "title": "Integration A1 - Kapitel 9",
+  "title": "Integration A1 - Kapitel 16",
   "language": "de",
   "words": [
-    { 
-      "term": "der Markt", 
-      "type": "Noun", 
-      "meaning_tr": "Pazar, çarşı ya da pazar yeri", 
-      "meaning_en": "Market", 
-      "meaning_uk": "Ринок", 
-      "example": "Auf dem *** kaufe ich frisches Obst." 
+    {
+      "term": "der Markt",
+      "type": "Noun",
+      "meaning_tr": "Pazar ya da çarşı",
+      "meaning_en": "Market",
+      "meaning_uk": "Ринок / Базар",
+      "example": "Auf dem *** kaufe ich frisches Obst."
     },
-    { 
-      "term": "die Halle", 
-      "type": "Noun", 
-      "meaning_tr": "Hol, büyük salon, galeri ya da kapalı alan", 
-      "meaning_en": "Hall", 
-      "meaning_uk": "Зал / Хол", 
-      "example": "In der großen *** findet die Messe statt." 
+    {
+      "term": "die Halle",
+      "type": "Noun",
+      "meaning_tr": "Salon, hol ya da büyük kapalı alan",
+      "meaning_en": "Hall",
+      "meaning_uk": "Зал / Хол",
+      "example": "In der großen *** findet die Messe statt."
     },
-    { 
-      "term": "der Stand", 
-      "type": "Noun", 
-      "meaning_tr": "Tezgah, stant ya da satış noktası", 
-      "meaning_en": "Stand / Stall", 
-      "meaning_uk": "Кіоск / Стенд", 
-      "example": "An diesem *** gibt es warmen Glühwein." 
+    {
+      "term": "der Stand",
+      "type": "Noun",
+      "meaning_tr": "Tezgâh, stant ya da satış yeri",
+      "meaning_en": "Stall",
+      "meaning_uk": "Стенд / Кіоск / Прилавок",
+      "example": "An diesem *** gibt es warmen Glühwein."
     },
-    { 
-      "term": "das Karussell", 
-      "type": "Noun", 
-      "meaning_tr": "Atlıkarınca ya da dönme dolap benzeri eğlence aracı", 
-      "meaning_en": "Carousel", 
-      "meaning_uk": "Карусель", 
-      "example": "Die Kinder fahren gerne auf dem ***." 
+    {
+      "term": "das Karussell",
+      "type": "Noun",
+      "meaning_tr": "Atlıkarınca",
+      "meaning_en": "Carousel",
+      "meaning_uk": "Карусель",
+      "example": "Die Kinder fahren gerne auf dem ***."
     },
-    { 
-      "term": "das Spielzeug", 
-      "type": "Noun", 
-      "meaning_tr": "Oyuncak ya da oyun aracı", 
-      "meaning_en": "Toy", 
-      "meaning_uk": "Іграшка", 
-      "example": "Das Kind wünscht sich ein neues ***." 
+    {
+      "term": "das Spielzeug",
+      "type": "Noun",
+      "meaning_tr": "Oyuncak",
+      "meaning_en": "Toy",
+      "meaning_uk": "Іграшка",
+      "example": "Das Kind wünscht sich ein neues ***."
     },
-    { 
-      "term": "die Kleidung", 
-      "type": "Noun", 
-      "meaning_tr": "Kıyafet, giysi ya da giyim kuşam", 
-      "meaning_en": "Clothes", 
-      "meaning_uk": "Одяг", 
-      "example": "Im Winter brauchen wir warme ***." 
+    {
+      "term": "die Kleidung",
+      "type": "Noun",
+      "meaning_tr": "Giysi ya da kıyafet",
+      "meaning_en": "Clothes",
+      "meaning_uk": "Одяг",
+      "example": "Im Winter brauchen wir warme ***."
     },
-    { 
-      "term": "der Honig", 
-      "type": "Noun", 
-      "meaning_tr": "Bal ya da arı balı", 
-      "meaning_en": "Honey", 
-      "meaning_uk": "Мед", 
-      "example": "Die Bienen produzieren diesen süßen ***." 
+    {
+      "term": "der Honig",
+      "type": "Noun",
+      "meaning_tr": "Bal",
+      "meaning_en": "Honey",
+      "meaning_uk": "Мед",
+      "example": "Die Bienen produzieren diesen süßen ***."
     },
-    { 
-      "term": "der Glühwein", 
-      "type": "Noun", 
-      "meaning_tr": "Sıcak şarap (baharatlı meyve şarabı)", 
-      "meaning_en": "Mulled wine", 
-      "meaning_uk": "Глінтвейн", 
-      "example": "Auf dem Weihnachtsmarkt trinken wir ***." 
+    {
+      "term": "der Glühwein",
+      "type": "Noun",
+      "meaning_tr": "Sıcak şarap (baharatlı)",
+      "meaning_en": "Mulled wine",
+      "meaning_uk": "Глінтвейн",
+      "example": "Auf dem Weihnachtsmarkt trinken wir ***."
     },
-    { 
-      "term": "das Lebkuchenherz", 
-      "type": "Noun", 
-      "meaning_tr": "Zencefilli kurabiyeden yapılan süslü kalp", 
-      "meaning_en": "Gingerbread heart", 
-      "meaning_uk": "Пряникове серце", 
-      "example": "Er schenkt ihr ein großes ***." 
+    {
+      "term": "das Lebkuchenherz",
+      "type": "Noun",
+      "meaning_tr": "Kalp şeklinde zencefilli çörek",
+      "meaning_en": "Gingerbread heart",
+      "meaning_uk": "Пряникове серце",
+      "example": "Er schenkt ihr ein großes ***."
     },
-    { 
-      "term": "die Zuckerwatte", 
-      "type": "Noun", 
-      "meaning_tr": "Pamuk şeker ya da pamuk helva", 
-      "meaning_en": "Cotton candy", 
-      "meaning_uk": "Цукрова вата", 
-      "example": "Die *** ist sehr süß und klebt an den Fingern." 
+    {
+      "term": "die Zuckerwatte",
+      "type": "Noun",
+      "meaning_tr": "Pamuk şeker",
+      "meaning_en": "Cotton candy",
+      "meaning_uk": "Цукрова вата",
+      "example": "Die *** ist sehr süß und klebt an den Fingern."
     },
-    { 
-      "term": "der Schmuck", 
-      "type": "Noun", 
-      "meaning_tr": "Takı, mücevherat ya da ziynet eşyası", 
-      "meaning_en": "Jewelry", 
-      "meaning_uk": "Прикраси", 
-      "example": "Sie trägt teuren *** aus Gold." 
+    {
+      "term": "der Schmuck",
+      "type": "Noun",
+      "meaning_tr": "Takı ya da mücevher",
+      "meaning_en": "Jewelry",
+      "meaning_uk": "Прикраси / Ювелірні вироби",
+      "example": "Sie trägt teuren *** aus Gold."
     },
-    { 
-      "term": "der Weihnachtsmann", 
-      "type": "Noun", 
-      "meaning_tr": "Noel Baba", 
-      "meaning_en": "Santa Claus", 
-      "meaning_uk": "Санта-Клаус", 
-      "example": "Der *** bringt den Kindern Geschenke." 
+    {
+      "term": "der Weihnachtsmann",
+      "type": "Noun",
+      "meaning_tr": "Noel Baba",
+      "meaning_en": "Santa Claus",
+      "meaning_uk": "Санта-Клаус / Різдвяний дід",
+      "example": "Der *** bringt den Kindern Geschenke."
     },
-    { 
-      "term": "aufbauen", 
-      "type": "Verb", 
-      "meaning_tr": "Kurmak, inşa etmek ya da monte etmek", 
-      "meaning_en": "To set up / build", 
-      "meaning_uk": "Будувати / Встановлювати", 
-      "example": "Die Arbeiter müssen den Stand früh ***." 
+    {
+      "term": "aufbauen",
+      "type": "Verb",
+      "meaning_tr": "Kurmak ya da inşa etmek",
+      "meaning_en": "Set up / Build",
+      "meaning_uk": "Встановлювати / Будувати",
+      "example": "Die Arbeiter müssen den Stand früh ***."
     },
-    { 
-      "term": "braten", 
-      "type": "Verb", 
-      "meaning_tr": "Kızartmak, kavurmak ya da fırınlamak", 
-      "meaning_en": "To fry / roast", 
-      "meaning_uk": "Смажити", 
-      "example": "Wir *** die Würstchen auf dem Grill." 
+    {
+      "term": "braten",
+      "type": "Verb",
+      "meaning_tr": "Kızartmak ya da kavurmak",
+      "meaning_en": "Fry",
+      "meaning_uk": "Смажити",
+      "example": "Wir *** die Würstchen auf dem Grill."
     },
-    { 
-      "term": "ausgeben", 
-      "type": "Verb", 
-      "meaning_tr": "Para harcamak ya da masraf etmek", 
-      "meaning_en": "To spend", 
-      "meaning_uk": "Витрачати", 
-      "example": "Ich möchte heute nicht so viel Geld ***." 
+    {
+      "term": "ausgeben",
+      "type": "Verb",
+      "meaning_tr": "Para harcamak",
+      "meaning_en": "Spend",
+      "meaning_uk": "Витрачати (гроші)",
+      "example": "Ich möchte heute nicht so viel Geld ***."
     },
-    { 
-      "term": "angucken", 
-      "type": "Verb", 
-      "meaning_tr": "Bakmak, incelemek ya da izlemek", 
-      "meaning_en": "To look at / watch", 
-      "meaning_uk": "Дивитися", 
-      "example": "Wir wollen uns die schönen Lichter ***." 
+    {
+      "term": "einnehmen",
+      "type": "Verb",
+      "meaning_tr": "Gelir elde etmek ya da (ilaç vb.) almak",
+      "meaning_en": "Take / Accept / Earn",
+      "meaning_uk": "Приймати / Отримувати (дохід)",
+      "example": "Die Verkäufer *** viel Geld auf dem Markt ***."
     },
-    { 
-      "term": "herrlich", 
-      "type": "Adjective", 
-      "meaning_tr": "Harika, muazzam, nefis ya da görkemli", 
-      "meaning_en": "Wonderful", 
-      "meaning_uk": "Чудовий", 
-      "example": "Das Wetter heute ist einfach ***." 
+    {
+      "term": "angucken",
+      "type": "Verb",
+      "meaning_tr": "Bakmak ya da incelemek",
+      "meaning_en": "Look at / Watch",
+      "meaning_uk": "Дивитися / Розглядати",
+      "example": "Wir wollen uns die schönen Lichter ***."
     },
-    { 
-      "term": "riechen", 
-      "type": "Verb", 
-      "meaning_tr": "Koklamak ya da (bir şekilde) kokmak", 
-      "meaning_en": "To smell", 
-      "meaning_uk": "Пахнути / Нюхати", 
-      "example": "Die gebrannten Mandeln *** sehr gut." 
+    {
+      "term": "herrlich",
+      "type": "Adjective",
+      "meaning_tr": "Harika, enfes ya da muazzam",
+      "meaning_en": "Wonderful",
+      "meaning_uk": "Чудовий / Прекрасний",
+      "example": "Das Wetter heute ist einfach ***."
     },
-    { 
-      "term": "satt", 
-      "type": "Adjective", 
-      "meaning_tr": "Tok, karnı doymuş ya da doymuş", 
-      "meaning_en": "Full (not hungry)", 
-      "meaning_uk": "Ситий", 
-      "example": "Ich kann nicht mehr essen, ich bin ***." 
+    {
+      "term": "riechen",
+      "type": "Verb",
+      "meaning_tr": "Kokmak ya da koklamak",
+      "meaning_en": "Smell",
+      "meaning_uk": "Пахнути / Нюхати",
+      "example": "Die gebrannten Mandeln *** sehr gut."
     },
-    { 
-      "term": "links", 
-      "type": "Adverb", 
-      "meaning_tr": "Sol tarafta ya da sola", 
-      "meaning_en": "Left", 
-      "meaning_uk": "Ліворуч", 
-      "example": "Gehen Sie an der Ecke nach ***." 
+    {
+      "term": "die Bratwurst",
+      "type": "Noun",
+      "meaning_tr": "Kızarmış sosis",
+      "meaning_en": "Grilled sausage",
+      "meaning_uk": "Смажена ковбаска",
+      "example": "Ich esse eine leckere *** mit Senf."
     },
-    { 
-      "term": "rechts", 
-      "type": "Adverb", 
-      "meaning_tr": "Sağ tarafta ya da sağa", 
-      "meaning_en": "Right", 
-      "meaning_uk": "Праворуч", 
-      "example": "Mein Haus liegt auf der *** Seite." 
+    {
+      "term": "das Gewürz",
+      "type": "Noun",
+      "meaning_tr": "Baharat",
+      "meaning_en": "Spice",
+      "meaning_uk": "Спеція / Прянощі",
+      "example": "Zimt ist ein typisches *** für den Winter."
+    },
+    {
+      "term": "der Kartoffelpuffer",
+      "type": "Noun",
+      "meaning_tr": "Mücver benzeri patates kızartması",
+      "meaning_en": "Potato pancake",
+      "meaning_uk": "Дерун / Картопляний млинець",
+      "example": "Der *** schmeckt gut mit Apfelmus."
+    },
+    {
+      "term": "die Mandel",
+      "type": "Noun",
+      "meaning_tr": "Badem",
+      "meaning_en": "Almond",
+      "meaning_uk": "Мигдаль",
+      "example": "Gebrannte ***n sind eine Spezialität."
+    },
+    {
+      "term": "die Pommes frites",
+      "type": "Noun",
+      "meaning_tr": "Patates kızartması",
+      "meaning_en": "French fries",
+      "meaning_uk": "Картопля фрі",
+      "example": "Kinder essen am liebsten *** mit Ketchup."
+    },
+    {
+      "term": "die Seife",
+      "type": "Noun",
+      "meaning_tr": "Sabun",
+      "meaning_en": "Soap",
+      "meaning_uk": "Мило",
+      "example": "Ich wasche meine Hände mit einer gut duftenden ***."
+    },
+    {
+      "term": "das Wachs",
+      "type": "Noun",
+      "meaning_tr": "Balmumu ya da vakslamak",
+      "meaning_en": "Wax",
+      "meaning_uk": "Віск",
+      "example": "Die Kerze besteht aus gelbem ***."
+    },
+    {
+      "term": "das Bauchweh",
+      "type": "Noun",
+      "meaning_tr": "Karın ağrısı",
+      "meaning_en": "Stomach ache",
+      "meaning_uk": "Біль у животі",
+      "example": "Nach zu viel Zucker bekommt man ***."
+    },
+    {
+      "term": "satt",
+      "type": "Adjective",
+      "meaning_tr": "Tok",
+      "meaning_en": "Full (not hungry)",
+      "meaning_uk": "Ситий",
+      "example": "Ich kann nicht mehr essen, ich bin ***."
+    },
+    {
+      "term": "nichts mehr",
+      "type": "Adverb/Pronoun",
+      "meaning_tr": "Artık hiçbir şey",
+      "meaning_en": "Nothing anymore",
+      "meaning_uk": "Більше нічого",
+      "example": "Ich will jetzt *** essen."
+    },
+    {
+      "term": "altmodisch",
+      "type": "Adjective",
+      "meaning_tr": "Eski moda ya da demode",
+      "meaning_en": "Old-fashioned",
+      "meaning_uk": "Старомодний",
+      "example": "Dieses Kleid sieht ein bisschen *** aus."
+    },
+    {
+      "term": "hässlich",
+      "type": "Adjective",
+      "meaning_tr": "Çirkin",
+      "meaning_en": "Ugly",
+      "meaning_uk": "Потворний / Некрасивий",
+      "example": "Ich finde das Bild nicht schön, es ist ***."
+    },
+    {
+      "term": "typisch",
+      "type": "Adjective",
+      "meaning_tr": "Tipik ya da özgü",
+      "meaning_en": "Typical",
+      "meaning_uk": "Типовий",
+      "example": "Das ist ein *** deutsches Gericht."
+    },
+    {
+      "term": "die Kerze",
+      "type": "Noun",
+      "meaning_tr": "Mum",
+      "meaning_en": "Candle",
+      "meaning_uk": "Свічка",
+      "example": "Wir zünden eine *** auf dem Tisch an."
+    },
+    {
+      "term": "der Nussknacker",
+      "type": "Noun",
+      "meaning_tr": "Fındık kıracağı (ayrıca geleneksel süs)",
+      "meaning_en": "Nutcracker",
+      "meaning_uk": "Лускунчик",
+      "example": "Der hölzerne *** steht als Deko im Regal."
+    },
+    {
+      "term": "der Stern",
+      "type": "Noun",
+      "meaning_tr": "Yıldız",
+      "meaning_en": "Star",
+      "meaning_uk": "Зірка",
+      "example": "Am Himmel leuchtet ein heller ***."
+    },
+    {
+      "term": "die Weihnachtskugel",
+      "type": "Noun",
+      "meaning_tr": "Noel ağacı topu",
+      "meaning_en": "Christmas bauble",
+      "meaning_uk": "Різдвяна кулька",
+      "example": "Wir hängen die rote *** an den Baum."
+    },
+    {
+      "term": "die Mitte",
+      "type": "Noun",
+      "meaning_tr": "Orta ya da merkez",
+      "meaning_en": "Middle",
+      "meaning_uk": "Середина / Центр",
+      "example": "Der Brunnen steht genau in der *** vom Platz."
+    },
+    {
+      "term": "oben",
+      "type": "Adverb",
+      "meaning_tr": "Yukarıda ya da üstte",
+      "meaning_en": "Upstairs / Above",
+      "meaning_uk": "Вгорі",
+      "example": "Mein Zimmer ist im Haus ganz ***."
+    },
+    {
+      "term": "unten",
+      "type": "Adverb",
+      "meaning_tr": "Aşağıda ya da altta",
+      "meaning_en": "Downstairs / Below",
+      "meaning_uk": "Внизу",
+      "example": "Die Schuhe stehen im Regal ganz ***."
+    },
+    {
+      "term": "links",
+      "type": "Adverb",
+      "meaning_tr": "Solda ya da sola",
+      "meaning_en": "Left",
+      "meaning_uk": "Ліворуч / Зліва",
+      "example": "Gehen Sie an der Ecke nach ***."
+    },
+    {
+      "term": "rechts",
+      "type": "Adverb",
+      "meaning_tr": "Sağda ya da sağa",
+      "meaning_en": "Right",
+      "meaning_uk": "Праворуч / Справа",
+      "example": "Mein Haus liegt auf der ***en Seite."
+    },
+    {
+      "term": "der Ring",
+      "type": "Noun",
+      "meaning_tr": "Yüzük",
+      "meaning_en": "Ring",
+      "meaning_uk": "Перстень / Кільце",
+      "example": "Er trägt einen goldenen *** am Finger."
+    },
+    {
+      "term": "der Handschuh",
+      "type": "Noun",
+      "meaning_tr": "Eldiven",
+      "meaning_en": "Glove",
+      "meaning_uk": "Рукавичка",
+      "example": "Im Schnee brauche ich warme ***e."
+    },
+    {
+      "term": "die Geburt",
+      "type": "Noun",
+      "meaning_tr": "Doğum",
+      "meaning_en": "Birth",
+      "meaning_uk": "Народження",
+      "example": "Wir feiern die *** von Jesus Christus."
+    },
+    {
+      "term": "das Fest",
+      "type": "Noun",
+      "meaning_tr": "Festival ya da kutlama",
+      "meaning_en": "Festival",
+      "meaning_uk": "Свято / Фестиваль",
+      "example": "Wir feiern heute ein großes ***."
+    },
+    {
+      "term": "Ostern",
+      "type": "Noun",
+      "meaning_tr": "Paskalya",
+      "meaning_en": "Easter",
+      "meaning_uk": "Великдень",
+      "example": "Zu *** suchen die Kinder bunte Eier."
+    },
+    {
+      "term": "Weihnachten",
+      "type": "Noun",
+      "meaning_tr": "Noel",
+      "meaning_en": "Christmas",
+      "meaning_uk": "Різдво",
+      "example": "Frohe *** wünsche ich euch allen!"
+    },
+    {
+      "term": "der Valentinstag",
+      "type": "Noun",
+      "meaning_tr": "Sevgililer Günü",
+      "meaning_en": "Valentine's Day",
+      "meaning_uk": "День святого Валентина",
+      "example": "Am *** schenkt er ihr rote Rosen."
+    },
+    {
+      "term": "der Chor",
+      "type": "Noun",
+      "meaning_tr": "Koro",
+      "meaning_en": "Choir",
+      "meaning_uk": "Хор",
+      "example": "Ich singe mit vielen Leuten zusammen im ***."
+    },
+    {
+      "term": "das Musikinstrument",
+      "type": "Noun",
+      "meaning_tr": "Müzik aleti ya da enstrüman",
+      "meaning_en": "Musical instrument",
+      "meaning_uk": "Музичний інструмент",
+      "example": "Welches *** spielst du am liebsten?"
+    },
+    {
+      "term": "die Flöte",
+      "type": "Noun",
+      "meaning_tr": "Flüt",
+      "meaning_en": "Flute",
+      "meaning_uk": "Флейта",
+      "example": "Die *** ist ein kleines Blasinstrument."
+    },
+    {
+      "term": "die Geige",
+      "type": "Noun",
+      "meaning_tr": "Keman",
+      "meaning_en": "Violin",
+      "meaning_uk": "Скрипка",
+      "example": "Eine *** braucht man für klassische Musik."
+    },
+    {
+      "term": "das Keyboard",
+      "type": "Noun",
+      "meaning_tr": "Klavye (müzik aleti)",
+      "meaning_en": "Keyboard",
+      "meaning_uk": "Клавішні / Клавіатура",
+      "example": "Er spielt moderne Lieder auf dem ***."
+    },
+    {
+      "term": "das Klavier",
+      "type": "Noun",
+      "meaning_tr": "Piyano",
+      "meaning_en": "Piano",
+      "meaning_uk": "Піаніно / Фортепіано",
+      "example": "Er spielt eine schöne Melodie auf dem ***."
+    },
+    {
+      "term": "das Schlagzeug",
+      "type": "Noun",
+      "meaning_tr": "Bateri ya da davul seti",
+      "meaning_en": "Drums",
+      "meaning_uk": "Ударна установка / Барабани",
+      "example": "In einer Rockband ist das *** sehr laut."
+    },
+    {
+      "term": "die Trommel",
+      "type": "Noun",
+      "meaning_tr": "Davul",
+      "meaning_en": "Drum",
+      "meaning_uk": "Барабан",
+      "example": "Er schlägt mit den Stöcken auf die ***."
+    },
+    {
+      "term": "negativ",
+      "type": "Adjective",
+      "meaning_tr": "Negatif ya da olumsuz",
+      "meaning_en": "Negative",
+      "meaning_uk": "Негативний",
+      "example": "Denk nicht so ***, sei optimistischer."
+    },
+    {
+      "term": "positiv",
+      "type": "Adjective",
+      "meaning_tr": "Pozitif ya da olumlu",
+      "meaning_en": "Positive",
+      "meaning_uk": "Позитивний",
+      "example": "Das ist eine sehr *** Nachricht für uns."
+    },
+    {
+      "term": "doch",
+      "type": "Adverb / Particle",
+      "meaning_tr": "Aksine ya da bilakis (olumsuz soruya olumlu cevap)",
+      "meaning_en": "On the contrary / Yes (after negative question)",
+      "meaning_uk": "Та ні / Навпаки / Все ж таки",
+      "example": "Singst du nicht gerne? - ***, ich singe gerne!"
+    },
+    {
+      "term": "das Lied",
+      "type": "Noun",
+      "meaning_tr": "Şarkı",
+      "meaning_en": "Song",
+      "meaning_uk": "Пісня",
+      "example": "Wir singen zusammen ein schönes ***."
+    },
+    {
+      "term": "der Satzakzent",
+      "type": "Noun",
+      "meaning_tr": "Cümle vurgusu",
+      "meaning_en": "Sentence stress",
+      "meaning_uk": "Наголос у реченні",
+      "example": "Der richtige *** ist wichtig beim Sprechen."
+    },
+    {
+      "term": "an sein",
+      "type": "Verb (Idiom)",
+      "meaning_tr": "Açık olmak (cihazlar için)",
+      "meaning_en": "Be on",
+      "meaning_uk": "Бути ввімкненим",
+      "example": "Das Radio ist den ganzen Tag ***."
+    },
+    {
+      "term": "die meisten",
+      "type": "Determiner",
+      "meaning_tr": "Çoğu ya da pek çoğu",
+      "meaning_en": "Most",
+      "meaning_uk": "Більшість",
+      "example": "*** Menschen lieben Musik."
+    },
+    {
+      "term": "der Fehler",
+      "type": "Noun",
+      "meaning_tr": "Hata ya da kusur",
+      "meaning_en": "Mistake",
+      "meaning_uk": "Помилка",
+      "example": "In meinem Test war leider ein kleiner ***."
+    },
+    {
+      "term": "zum Teil",
+      "type": "Adverb",
+      "meaning_tr": "Kısmen",
+      "meaning_en": "Partly",
+      "meaning_uk": "Частково",
+      "example": "Die Prüfung war *** sehr schwierig."
+    },
+    {
+      "term": "der Ausländer",
+      "type": "Noun",
+      "meaning_tr": "Yabancı",
+      "meaning_en": "Foreigner",
+      "meaning_uk": "Іноземець",
+      "example": "Er ist kein Deutscher, er ist ***."
+    },
+    {
+      "term": "automatisch",
+      "type": "Adjective",
+      "meaning_tr": "Otomatik",
+      "meaning_en": "Automatic",
+      "meaning_uk": "Автоматичний",
+      "example": "Die Tür öffnet sich ganz ***."
+    },
+    {
+      "term": "die Lösung",
+      "type": "Noun",
+      "meaning_tr": "Çözüm",
+      "meaning_en": "Solution",
+      "meaning_uk": "Рішення",
+      "example": "Ich habe endlich die *** gefunden."
+    },
+    {
+      "term": "der Sinn",
+      "type": "Noun",
+      "meaning_tr": "Anlam, mana ya da duyu",
+      "meaning_en": "Meaning / Sense",
+      "meaning_uk": "Сенс / Значення",
+      "example": "Das macht keinen ***, ich verstehe das nicht."
+    },
+    {
+      "term": "ausprobieren",
+      "type": "Verb",
+      "meaning_tr": "Denemek ya da tecrübe etmek",
+      "meaning_en": "Try out",
+      "meaning_uk": "Випробувати / Пробувати",
+      "example": "Das neue Rezept möchte ich heute ***."
+    },
+    {
+      "term": "das Bilderbuch",
+      "type": "Noun",
+      "meaning_tr": "Resimli kitap",
+      "meaning_en": "Picture book",
+      "meaning_uk": "Книжка з картинками",
+      "example": "Das Kind schaut sich gerne ein *** an."
+    },
+    {
+      "term": "die Lern-App",
+      "type": "Noun",
+      "meaning_tr": "Öğrenme uygulaması",
+      "meaning_en": "Learning app",
+      "meaning_uk": "Навчальний додаток",
+      "example": "Ich übe Vokabeln mit einer ***."
+    },
+    {
+      "term": "der Podcast",
+      "type": "Noun",
+      "meaning_tr": "Podcast",
+      "meaning_en": "Podcast",
+      "meaning_uk": "Подкаст",
+      "example": "Auf dem Weg höre ich einen ***."
+    },
+    {
+      "term": "die Sendung",
+      "type": "Noun",
+      "meaning_tr": "Yayın ya da program",
+      "meaning_en": "Program / Broadcast",
+      "meaning_uk": "Передача / Програма",
+      "example": "Diese *** im Fernsehen ist wirklich gut."
+    },
+    {
+      "term": "die Maus",
+      "type": "Noun",
+      "meaning_tr": "Fare",
+      "meaning_en": "Mouse",
+      "meaning_uk": "Миша",
+      "example": "Die kleine graue *** frisst Käse."
+    },
+    {
+      "term": "die Übung",
+      "type": "Noun",
+      "meaning_tr": "Alıştırma ya da egzersiz",
+      "meaning_en": "Exercise",
+      "meaning_uk": "Вправа",
+      "example": "Wir machen jetzt eine schwere ***."
+    },
+    {
+      "term": "der Untertitel",
+      "type": "Noun",
+      "meaning_tr": "Altyazı",
+      "meaning_en": "Subtitle",
+      "meaning_uk": "Субтитри",
+      "example": "Ich schaue Filme mit deutschem ***."
+    },
+    {
+      "term": "das Video",
+      "type": "Noun",
+      "meaning_tr": "Video",
+      "meaning_en": "Video",
+      "meaning_uk": "Відео",
+      "example": "Er schaut sich ein lustiges *** an."
+    },
+    {
+      "term": "schwierig",
+      "type": "Adjective",
+      "meaning_tr": "Zor ya da çetin",
+      "meaning_en": "Difficult",
+      "meaning_uk": "Складний / Важкий",
+      "example": "Das Wort ist für mich sehr ***."
+    },
+    {
+      "term": "wirklich",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Gerçekten ya da aslen",
+      "meaning_en": "Really",
+      "meaning_uk": "Дійсно / Справді",
+      "example": "Das hast du *** toll gemacht!"
+    },
+    {
+      "term": "aufschreiben",
+      "type": "Verb",
+      "meaning_tr": "Not etmek ya da bir yere yazmak",
+      "meaning_en": "Write down",
+      "meaning_uk": "Записувати",
+      "example": "Kannst du mir deine Adresse ***?"
+    },
+    {
+      "term": "auswendig lernen",
+      "type": "Verb",
+      "meaning_tr": "Ezberlemek",
+      "meaning_en": "Learn by heart",
+      "meaning_uk": "Вчити напам'ять",
+      "example": "Ich muss das Gedicht für morgen ***."
+    },
+    {
+      "term": "der Lerntipp",
+      "type": "Noun",
+      "meaning_tr": "Öğrenme tavsiyesi",
+      "meaning_en": "Learning tip",
+      "meaning_uk": "Порада для навчання",
+      "example": "Hast du einen guten *** für mich?"
+    },
+    {
+      "term": "weitere",
+      "type": "Adjective",
+      "meaning_tr": "Diğer, başka ya da ilave",
+      "meaning_en": "Further / Additional",
+      "meaning_uk": "Подальші / Інші",
+      "example": "Ergänzen Sie bitte *** Informationen."
+    },
+    {
+      "term": "weitergeben",
+      "type": "Verb",
+      "meaning_tr": "Aktarmak ya da birine iletmek",
+      "meaning_en": "Pass on",
+      "meaning_uk": "Передавати далі",
+      "example": "Kannst du die Nachricht bitte ***?"
+    },
+    {
+      "term": "früher",
+      "type": "Adverb",
+      "meaning_tr": "Eskiden ya da daha erken",
+      "meaning_en": "In the past / Earlier",
+      "meaning_uk": "Раніше / Колись",
+      "example": "Ich hatte früher mehr Zeit für Hobbys."
+    },
+    {
+      "term": "das Dorf",
+      "type": "Noun",
+      "meaning_tr": "Köy",
+      "meaning_en": "Village",
+      "meaning_uk": "Село",
+      "example": "Mein Opa wohnt in einem kleinen ***."
+    },
+    {
+      "term": "der Club",
+      "type": "Noun",
+      "meaning_tr": "Kulüp (dans vb.)",
+      "meaning_en": "Club",
+      "meaning_uk": "Клуб",
+      "example": "Am Samstag gehen wir in einen Tanz-***."
+    },
+    {
+      "term": "die Computerfirma",
+      "type": "Noun",
+      "meaning_tr": "Bilgisayar şirketi",
+      "meaning_en": "Computer company",
+      "meaning_uk": "Комп'ютерна компанія",
+      "example": "Er arbeitet in einer großen ***."
+    },
+    {
+      "term": "der Erzieher",
+      "type": "Noun",
+      "meaning_tr": "Eğitmen ya da kreş öğretmeni (erkek)",
+      "meaning_en": "Kindergarten teacher",
+      "meaning_uk": "Вихователь",
+      "example": "Der *** spielt mit den Kindern."
+    },
+    {
+      "term": "der Programmierer",
+      "type": "Noun",
+      "meaning_tr": "Programcı",
+      "meaning_en": "Programmer",
+      "meaning_uk": "Програміст",
+      "example": "Ein *** schreibt Codes für Software."
+    },
+    {
+      "term": "der Kassierer",
+      "type": "Noun",
+      "meaning_tr": "Kasiyer",
+      "meaning_en": "Cashier",
+      "meaning_uk": "Касир",
+      "example": "Der *** scannt die Waren im Supermarkt."
+    },
+    {
+      "term": "Japanisch",
+      "type": "Noun / Adjective",
+      "meaning_tr": "Japonca ya da Japon (sıfat)",
+      "meaning_en": "Japanese",
+      "meaning_uk": "Японська мова / Японський",
+      "example": "Er kommt aus Japan und spricht ***."
+    },
+    {
+      "term": "der Plan",
+      "type": "Noun",
+      "meaning_tr": "Plan",
+      "meaning_en": "Plan",
+      "meaning_uk": "План",
+      "example": "Was ist dein *** für das Wochenende?"
+    },
+    {
+      "term": "der Wunsch",
+      "type": "Noun",
+      "meaning_tr": "Dilek ya da istek",
+      "meaning_en": "Wish",
+      "meaning_uk": "Бажання",
+      "example": "Ich habe einen großen *** für die Zukunft."
     }
   ]
 }
