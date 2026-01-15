@@ -45,7 +45,7 @@ export default async function LevelPage({ params }: { params: Promise<{ lang: st
   }
 
   return (
-    <main className="min-h-screen bg-slate-950 text-white p-10">
+    <main className="min-h-screen bg-white text-slate-950 dark:bg-slate-950 dark:text-white p-10">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-black mb-10 uppercase italic">
           {/* subjectsDict kullanarak güvenli erişim */}

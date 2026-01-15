@@ -43,7 +43,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ lang:
   const categoriesDict = dict.categories as Record<string, string> | undefined;
 
   return (
-    <main className="min-h-screen bg-slate-950 text-white p-10">
+    <main className="min-h-screen bg-white text-slate-950 dark:bg-slate-950 dark:text-white p-10">
       <h1 className="text-4xl font-black mb-10 uppercase italic text-amber-500">
         {categoriesDict?.[category] || category} {dict.units?.listTitle || "List"}
       </h1>

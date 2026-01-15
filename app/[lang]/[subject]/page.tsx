@@ -27,7 +27,7 @@ export default async function SubjectPage({ params }: { params: Promise<{ lang: 
   const levels = ['a1', 'a2', 'b1'];
 
   return (
-    <main className="min-h-screen bg-slate-950 text-white p-10 flex flex-col items-center">
+    <main className="min-h-screen bg-white text-slate-950 dark:bg-slate-950 dark:text-white p-10 flex flex-col items-center">
       <div className="max-w-4xl w-full">
         <h1 className="text-5xl font-black mb-4 uppercase italic">
           {/* subjectsDict kullanarak güvenli erişim sağlıyoruz */}
