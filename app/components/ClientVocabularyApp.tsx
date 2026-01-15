@@ -2,28 +2,30 @@
 
 import React, { useState } from 'react';
 
-// Senin JSON yapındaki isimler
+// Senin JSON yapındaki isimler ve yeni çok dilli yapı
 interface Word {
-  term: string;    // german yerine
+  term: string;    
   type: string;
-  meaning: string; // native yerine
-  example: string; // sentence yerine
+  meaning: string; 
+  example: string; 
+  [key: string]: any; // meaning_tr, meaning_en gibi dinamik alanlar için
 }
 
 interface Props {
-  initialWords: Word[]; // page.tsx'ten gelen hazır veri
+  initialWords: Word[];
   lang: string;
   subject: string;
+  dict: any; // UnitClientWrapper'dan gelen dict eklendi
 }
 
 const translations: any = {
   tr: { search: "Ünite ara...", check: "KONTROL ET", next: "SIRADAKİ", back: "GERİ DÖ", start: "BAŞLAT", finished: "TAMAMLANDI!", retry: "SETİ TEKRARLA", main: "ANA MENÜ", nextSet: "YENİ SETE GEÇ", wrongRetry: "YANLIŞLARI TEKRAR ET", fastSelect: "HIZLI SEÇİM", rangeSelect: "ARALIK SEÇ", close: "✕ KAPAT" },
   en: { search: "Search unit...", check: "CHECK", next: "NEXT", back: "GO BACK", start: "START", finished: "COMPLETED!", retry: "REPLAY SET", main: "MAIN MENU", nextSet: "NEXT SET", wrongRetry: "RETRY MISTAKES", fastSelect: "QUICK SELECT", rangeSelect: "CHOOSE RANGE", close: "✕ CLOSE" },
-  de: { search: "Lektion suchen...", check: "PRÜFEN", next: "NÄCHSTE", back: "ZURÜCK", start: "STARTEN", finished: "ABGESCHLOSSEN!", retry: "SET WIEDERHOLEN", main: "HAUPTMENÜ", nextSet: "NÄCHSTES SET", wrongRetry: "FEHLER WIEDERHOLEN", fastSelect: "SCHNELLAUSWAHL", rangeSelect: "BEREICH WÄHLEN", close: "✕ SCHLIESSEN" }
+  de: { search: "Lektion suchen...", check: "PRÜFEN", next: "NÄCHSTE", back: "ZURÜCK", start: "STARTEN", finished: "ABGESCHLOSSEN!", retry: "SET WIEDERHOLEN", main: "HAUPTMENÜ", nextSet: "NÄCHSTES SET", wrongRetry: "FEHLER WIEDERHOLEN", fastSelect: "SCHNELLAUSWAHL", rangeSelect: "BEREICH WÄHLEN", close: "✕ SCHLIESSEN" },
+  uk: { search: "Пошук...", check: "ПЕРЕВІРИТИ", next: "ДАЛІ", back: "НАЗАД", start: "ПОЧАТИ", finished: "ЗАВЕРШЕНО!", retry: "ПОВТОРИТИ", main: "ГОЛОВНЕ МЕНЮ", nextSet: "НАСТУПНИЙ СЕТ", wrongRetry: "ПОВТОРИТИ ПОМИЛКИ", fastSelect: "ШВИДКИЙ ВИБІР", rangeSelect: "ОБРАТИ ДІАПАЗОН", close: "✕ ЗАКРИТИ" }
 };
 
-export default function ClientVocabularyApp({ initialWords, lang, subject }: Props) {
-  // Veri direkt geldiği için selection view'ı atlayıp setup'tan başlıyoruz
+export default function ClientVocabularyApp({ initialWords, lang, subject, dict }: Props) {
   const [view, setView] = useState<'setup' | 'practice' | 'result'>('setup');
   const [currentSet, setCurrentSet] = useState<Word[]>([]);
   const [errorWords, setErrorWords] = useState<Word[]>([]);
@@ -34,7 +36,8 @@ export default function ClientVocabularyApp({ initialWords, lang, subject }: Pro
   const [feedback, setFeedback] = useState<{ text: string, color: string }>({ text: '', color: '' });
   const [range, setRange] = useState({ start: 1, end: Math.min(10, initialWords?.length || 0) });
 
-  const t = translations[lang] || translations.tr;
+  // Sözlük verisi varsa oradan al, yoksa lokal translations'a bak
+  const t = dict?.vocabulary || translations[lang] || translations.tr;
 
   const shuffle = (array: any[]) => {
     let cur = array.length, rand;
@@ -65,7 +68,6 @@ export default function ClientVocabularyApp({ initialWords, lang, subject }: Pro
     if (!a) return;
     setAnswered(true);
 
-    // .german yerine .term kullanıyoruz
     if (a.toLowerCase() === w.term.toLowerCase()) {
       setStats(prev => ({ ...prev, correct: prev.correct + 1 }));
       setFeedback({ text: 'Richtig! 🎉', color: '#16a34a' });
@@ -110,7 +112,7 @@ export default function ClientVocabularyApp({ initialWords, lang, subject }: Pro
       
       {view === 'setup' && (
         <div className="max-w-md mx-auto bg-white dark:bg-[#111827] p-8 rounded-[40px] shadow-2xl border border-slate-50 dark:border-slate-800 text-center mt-10">
-          <h1 className="text-xl font-black text-slate-400 uppercase tracking-widest mb-6">{subject}</h1>
+          <h1 className="text-xl font-black text-slate-400 uppercase tracking-widest mb-6 italic">{subject}</h1>
           
           <div className="mb-8">
             <p className="text-[11px] font-black text-slate-400 uppercase tracking-widest mb-4">{t.fastSelect}</p>
@@ -133,7 +135,7 @@ export default function ClientVocabularyApp({ initialWords, lang, subject }: Pro
             </div>
           </div>
 
-          <button onClick={() => launchGame(shuffle(initialWords.slice(range.start - 1, range.end)))} className="w-full py-5 bg-blue-600 hover:bg-blue-700 text-white rounded-[20px] font-black text-lg shadow-lg shadow-blue-500/20 transition-all active:scale-95">
+          <button onClick={() => launchGame(shuffle(initialWords.slice(range.start - 1, range.end)))} className="w-full py-5 bg-blue-600 hover:bg-blue-700 text-white rounded-[20px] font-black text-lg shadow-lg shadow-blue-500/20 transition-all active:scale-95 uppercase tracking-tighter">
             {t.start}
           </button>
         </div>
@@ -142,45 +144,58 @@ export default function ClientVocabularyApp({ initialWords, lang, subject }: Pro
       {view === 'practice' && (
         <div className="max-w-2xl mx-auto bg-white dark:bg-slate-900 p-8 rounded-[40px] shadow-2xl border dark:border-slate-800 mt-4 text-center">
           <div className="flex justify-between text-[10px] font-black text-slate-400 dark:text-slate-500 mb-6 uppercase">
-            <span>{idx + 1} - {currentSet.length}</span>
-            <button onClick={() => setView('setup')}>{t.close}</button>
+            <span>{idx + 1} / {currentSet.length}</span>
+            <button onClick={() => setView('setup')} className="hover:text-red-500">{t.close}</button>
           </div>
-          {/* .native -> .meaning */}
-          <h2 className="text-4xl font-black text-slate-800 dark:text-white mb-4">{currentSet[idx]?.meaning}</h2>
-          {/* .sentence -> .example */}
-          <p className="text-slate-400 dark:text-slate-500 italic mb-8">{currentSet[idx]?.example.replace('***', '______')}</p>
+          
+          <h2 className="text-4xl font-black text-slate-800 dark:text-white mb-4 tracking-tight leading-tight">
+            {currentSet[idx]?.meaning}
+          </h2>
+          
+          <p className="text-slate-400 dark:text-slate-500 italic mb-8 text-lg">
+            {currentSet[idx]?.example.replace('***', '______')}
+          </p>
+
           <input 
             autoFocus
             type="text" 
             value={userInput}
             onChange={(e) => setUserInput(e.target.value)}
             onKeyDown={(e) => e.key === 'Enter' && handleCheck()}
-            className="w-full p-5 bg-slate-50 dark:bg-slate-800 rounded-2xl text-center text-2xl font-bold dark:text-white outline-none border-2 border-transparent focus:border-blue-500 mb-6"
+            className="w-full p-5 bg-slate-50 dark:bg-slate-800 rounded-2xl text-center text-2xl font-bold dark:text-white outline-none border-2 border-transparent focus:border-blue-500 mb-6 transition-all"
             placeholder="..."
+            autoComplete="off"
+            autoCorrect="off"
+            spellCheck="false"
           />
+
           <div className="flex gap-3">
-            <button onClick={handleCheck} className="flex-[2] py-4 bg-slate-900 dark:bg-white dark:text-slate-900 text-white rounded-2xl font-black">{t.check}</button>
-            <button id="next-btn-trigger" onClick={handleNext} className="flex-1 py-4 bg-blue-600 text-white rounded-2xl font-black">{t.next}</button>
+            <button onClick={handleCheck} className="flex-[2] py-4 bg-slate-900 dark:bg-white dark:text-slate-900 text-white rounded-2xl font-black uppercase tracking-widest active:scale-95 transition-transform">{t.check}</button>
+            <button id="next-btn-trigger" onClick={handleNext} className="flex-1 py-4 bg-blue-600 text-white rounded-2xl font-black uppercase tracking-widest active:scale-95 transition-transform">{t.next}</button>
           </div>
-          <div style={{ color: feedback.color }} className="mt-6 font-black text-xl">{feedback.text}</div>
+
+          <div style={{ color: feedback.color }} className="mt-6 font-black text-xl animate-pulse">
+            {feedback.text}
+          </div>
         </div>
       )}
 
       {view === 'result' && (
         <div className="max-w-sm mx-auto text-center p-10 bg-white dark:bg-slate-900 rounded-[40px] shadow-2xl border dark:border-slate-800 mt-4">
-          <div className="text-4xl mb-4">🏆</div>
-          <h2 className="text-xl font-black text-slate-800 dark:text-white mb-8">{t.finished}</h2>
+          <div className="text-5xl mb-6">🏆</div>
+          <h2 className="text-2xl font-black text-slate-800 dark:text-white mb-8 italic uppercase tracking-tighter">{t.finished}</h2>
+          
           <div className="flex flex-col gap-3">
             {errorWords.length > 0 && (
-              <button onClick={() => launchGame(shuffle(errorWords))} className="py-4 bg-orange-500 text-white rounded-2xl font-black text-sm uppercase">
+              <button onClick={() => launchGame(shuffle(errorWords))} className="py-4 bg-orange-500 hover:bg-orange-600 text-white rounded-2xl font-black text-sm uppercase transition-colors">
                 {t.wrongRetry} ({errorWords.length})
               </button>
             )}
             {range.end < initialWords.length && (
-              <button onClick={nextSet} className="py-4 bg-green-500 text-white rounded-2xl font-black text-sm uppercase">{t.nextSet}</button>
+              <button onClick={nextSet} className="py-4 bg-green-500 hover:bg-green-600 text-white rounded-2xl font-black text-sm uppercase transition-colors">{t.nextSet}</button>
             )}
-            <button onClick={() => launchGame(shuffle(currentSet))} className="py-4 bg-blue-500 text-white rounded-2xl font-black text-sm uppercase">{t.retry}</button>
-            <button onClick={() => setView('setup')} className="py-4 bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 rounded-2xl font-black text-sm uppercase">{t.main}</button>
+            <button onClick={() => launchGame(shuffle(currentSet))} className="py-4 bg-blue-500 hover:bg-blue-600 text-white rounded-2xl font-black text-sm uppercase transition-colors">{t.retry}</button>
+            <button onClick={() => setView('setup')} className="py-4 bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 rounded-2xl font-black text-sm uppercase hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors">{t.main}</button>
           </div>
         </div>
       )}
