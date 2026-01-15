@@ -1,27 +1,174 @@
 {
-  "title": "Integration A1 - Kapitel 16",
+  "title": "Integration A1 - Kapitel 9",
   "language": "de",
   "words": [
-    { "term": "der Markt", "type": "İsim", "meaning": "Pazar", "example": "Auf dem *** kaufe ich frisches Obst." },
-    { "term": "die Halle", "type": "İsim", "meaning": "Hol - Salon", "example": "In der großen *** findet die Messe statt." },
-    { "term": "der Stand", "type": "İsim", "meaning": "Tezgah - Stand", "example": "An diesem *** gibt es warmen Glühwein." },
-    { "term": "das Karussell", "type": "İsim", "meaning": "Atlıkarınca", "example": "Die Kinder fahren gerne auf dem ***." },
-    { "term": "das Spielzeug", "type": "İsim", "meaning": "Oyuncak", "example": "Das Kind wünscht sich ein neues ***." },
-    { "term": "die Kleidung", "type": "İsim", "meaning": "Kıyafet", "example": "Im Winter brauchen wir warme ***." },
-    { "term": "der Honig", "type": "İsim", "meaning": "Bal", "example": "Die Bienen produzieren diesen süßen ***." },
-    { "term": "der Glühwein", "type": "İsim", "meaning": "Sıcak şarap", "example": "Auf dem Weihnachtsmarkt trinken wir ***." },
-    { "term": "das Lebkuchenherz", "type": "İsim", "meaning": "Zencefilli kurabiye kalp", "example": "Er schenkt ihr ein großes ***." },
-    { "term": "die Zuckerwatte", "type": "İsim", "meaning": "Pamuk şeker", "example": "Die *** ist sehr süß und klebt an den Fingern." },
-    { "term": "der Schmuck", "type": "İsim", "meaning": "Takı - Mücevher", "example": "Sie trägt teuren *** aus Gold." },
-    { "term": "der Weihnachtsmann", "type": "İsim", "meaning": "Noel Baba", "example": "Der *** bringt den Kindern Geschenke." },
-    { "term": "aufbauen", "type": "Fiil", "meaning": "Kurmak - İnşa etmek", "example": "Die Arbeiter müssen den Stand früh ***." },
-    { "term": "braten", "type": "Fiil", "meaning": "Kızartmak", "example": "Wir *** die Würstchen auf dem Grill." },
-    { "term": "ausgeben", "type": "Fiil", "meaning": "Harcamak", "example": "Ich möchte heute nicht so viel Geld ***." },
-    { "term": "angucken", "type": "Fiil", "meaning": "Bakmak - İzlemek", "example": "Wir wollen uns die schönen Lichter ***." },
-    { "term": "herrlich", "type": "Sıfat", "meaning": "Harika - Muazzam", "example": "Das Wetter heute ist einfach ***." },
-    { "term": "riechen", "type": "Fiil", "meaning": "Koklamak - Kokmak", "example": "Die gebrannten Mandeln *** sehr gut." },
-    { "term": "satt", "type": "Sıfat", "meaning": "Tok", "example": "Ich kann nicht mehr essen, ich bin ***." },
-    { "term": "links", "type": "Zarf", "meaning": "Sol", "example": "Gehen Sie an der Ecke nach ***." },
-    { "term": "rechts", "type": "Zarf", "meaning": "Sağ", "example": "Mein Haus liegt auf der *** Seite." }
+    { 
+      "term": "der Markt", 
+      "type": "Noun", 
+      "meaning_tr": "Pazar, çarşı ya da pazar yeri", 
+      "meaning_en": "Market", 
+      "meaning_uk": "Ринок", 
+      "example": "Auf dem *** kaufe ich frisches Obst." 
+    },
+    { 
+      "term": "die Halle", 
+      "type": "Noun", 
+      "meaning_tr": "Hol, büyük salon, galeri ya da kapalı alan", 
+      "meaning_en": "Hall", 
+      "meaning_uk": "Зал / Хол", 
+      "example": "In der großen *** findet die Messe statt." 
+    },
+    { 
+      "term": "der Stand", 
+      "type": "Noun", 
+      "meaning_tr": "Tezgah, stant ya da satış noktası", 
+      "meaning_en": "Stand / Stall", 
+      "meaning_uk": "Кіоск / Стенд", 
+      "example": "An diesem *** gibt es warmen Glühwein." 
+    },
+    { 
+      "term": "das Karussell", 
+      "type": "Noun", 
+      "meaning_tr": "Atlıkarınca ya da dönme dolap benzeri eğlence aracı", 
+      "meaning_en": "Carousel", 
+      "meaning_uk": "Карусель", 
+      "example": "Die Kinder fahren gerne auf dem ***." 
+    },
+    { 
+      "term": "das Spielzeug", 
+      "type": "Noun", 
+      "meaning_tr": "Oyuncak ya da oyun aracı", 
+      "meaning_en": "Toy", 
+      "meaning_uk": "Іграшка", 
+      "example": "Das Kind wünscht sich ein neues ***." 
+    },
+    { 
+      "term": "die Kleidung", 
+      "type": "Noun", 
+      "meaning_tr": "Kıyafet, giysi ya da giyim kuşam", 
+      "meaning_en": "Clothes", 
+      "meaning_uk": "Одяг", 
+      "example": "Im Winter brauchen wir warme ***." 
+    },
+    { 
+      "term": "der Honig", 
+      "type": "Noun", 
+      "meaning_tr": "Bal ya da arı balı", 
+      "meaning_en": "Honey", 
+      "meaning_uk": "Мед", 
+      "example": "Die Bienen produzieren diesen süßen ***." 
+    },
+    { 
+      "term": "der Glühwein", 
+      "type": "Noun", 
+      "meaning_tr": "Sıcak şarap (baharatlı meyve şarabı)", 
+      "meaning_en": "Mulled wine", 
+      "meaning_uk": "Глінтвейн", 
+      "example": "Auf dem Weihnachtsmarkt trinken wir ***." 
+    },
+    { 
+      "term": "das Lebkuchenherz", 
+      "type": "Noun", 
+      "meaning_tr": "Zencefilli kurabiyeden yapılan süslü kalp", 
+      "meaning_en": "Gingerbread heart", 
+      "meaning_uk": "Пряникове серце", 
+      "example": "Er schenkt ihr ein großes ***." 
+    },
+    { 
+      "term": "die Zuckerwatte", 
+      "type": "Noun", 
+      "meaning_tr": "Pamuk şeker ya da pamuk helva", 
+      "meaning_en": "Cotton candy", 
+      "meaning_uk": "Цукрова вата", 
+      "example": "Die *** ist sehr süß und klebt an den Fingern." 
+    },
+    { 
+      "term": "der Schmuck", 
+      "type": "Noun", 
+      "meaning_tr": "Takı, mücevherat ya da ziynet eşyası", 
+      "meaning_en": "Jewelry", 
+      "meaning_uk": "Прикраси", 
+      "example": "Sie trägt teuren *** aus Gold." 
+    },
+    { 
+      "term": "der Weihnachtsmann", 
+      "type": "Noun", 
+      "meaning_tr": "Noel Baba", 
+      "meaning_en": "Santa Claus", 
+      "meaning_uk": "Санта-Клаус", 
+      "example": "Der *** bringt den Kindern Geschenke." 
+    },
+    { 
+      "term": "aufbauen", 
+      "type": "Verb", 
+      "meaning_tr": "Kurmak, inşa etmek ya da monte etmek", 
+      "meaning_en": "To set up / build", 
+      "meaning_uk": "Будувати / Встановлювати", 
+      "example": "Die Arbeiter müssen den Stand früh ***." 
+    },
+    { 
+      "term": "braten", 
+      "type": "Verb", 
+      "meaning_tr": "Kızartmak, kavurmak ya da fırınlamak", 
+      "meaning_en": "To fry / roast", 
+      "meaning_uk": "Смажити", 
+      "example": "Wir *** die Würstchen auf dem Grill." 
+    },
+    { 
+      "term": "ausgeben", 
+      "type": "Verb", 
+      "meaning_tr": "Para harcamak ya da masraf etmek", 
+      "meaning_en": "To spend", 
+      "meaning_uk": "Витрачати", 
+      "example": "Ich möchte heute nicht so viel Geld ***." 
+    },
+    { 
+      "term": "angucken", 
+      "type": "Verb", 
+      "meaning_tr": "Bakmak, incelemek ya da izlemek", 
+      "meaning_en": "To look at / watch", 
+      "meaning_uk": "Дивитися", 
+      "example": "Wir wollen uns die schönen Lichter ***." 
+    },
+    { 
+      "term": "herrlich", 
+      "type": "Adjective", 
+      "meaning_tr": "Harika, muazzam, nefis ya da görkemli", 
+      "meaning_en": "Wonderful", 
+      "meaning_uk": "Чудовий", 
+      "example": "Das Wetter heute ist einfach ***." 
+    },
+    { 
+      "term": "riechen", 
+      "type": "Verb", 
+      "meaning_tr": "Koklamak ya da (bir şekilde) kokmak", 
+      "meaning_en": "To smell", 
+      "meaning_uk": "Пахнути / Нюхати", 
+      "example": "Die gebrannten Mandeln *** sehr gut." 
+    },
+    { 
+      "term": "satt", 
+      "type": "Adjective", 
+      "meaning_tr": "Tok, karnı doymuş ya da doymuş", 
+      "meaning_en": "Full (not hungry)", 
+      "meaning_uk": "Ситий", 
+      "example": "Ich kann nicht mehr essen, ich bin ***." 
+    },
+    { 
+      "term": "links", 
+      "type": "Adverb", 
+      "meaning_tr": "Sol tarafta ya da sola", 
+      "meaning_en": "Left", 
+      "meaning_uk": "Ліворуч", 
+      "example": "Gehen Sie an der Ecke nach ***." 
+    },
+    { 
+      "term": "rechts", 
+      "type": "Adverb", 
+      "meaning_tr": "Sağ tarafta ya da sağa", 
+      "meaning_en": "Right", 
+      "meaning_uk": "Праворуч", 
+      "example": "Mein Haus liegt auf der *** Seite." 
+    }
   ]
 }

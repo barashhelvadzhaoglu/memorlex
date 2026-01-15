@@ -4,25 +4,25 @@ import { notFound } from 'next/navigation';
 import UnitClientWrapper from './UnitClientWrapper';
 import fs from 'fs';
 import path from 'path';
-import { Suspense } from 'react'; // Suspense import edildi
+import { Suspense } from 'react';
 
 type ValidLangs = "en" | "tr" | "de" | "uk";
 
-// 1. Statik Parametre Üretici: Build sırasında tüm üniteleri fiziksel dosya olarak oluşturur.
 export async function generateStaticParams() {
-  const languages = ['en', 'tr', 'de', 'uk'];
+  const languages = ['en', 'tr', 'de', 'uk']; // Arayüz dilleri
   const baseDir = path.join(process.cwd(), 'src/data/vocabulary');
   const paths: any[] = [];
   
   if (!fs.existsSync(baseDir)) return [];
 
-  const subjectDirs = fs.readdirSync(baseDir);
-  for (const subDir of subjectDirs) {
+  // Sadece öğrenilecek dillerin klasörlerini gez (Örn: 'de')
+  const learningLanguages = ['de']; 
+
+  for (const subDir of learningLanguages) {
     const subjectPath = path.join(baseDir, subDir);
-    if (!fs.lstatSync(subjectPath).isDirectory()) continue;
+    if (!fs.existsSync(subjectPath) || !fs.lstatSync(subjectPath).isDirectory()) continue;
     
-    // Klasör adı 'de' ise URL 'german' olmalı, 'en' ise 'english' olmalı (mantığınıza göre)
-    const subjectParam = subDir === 'de' ? 'german' : subDir === 'en' ? 'english' : subDir;
+    const subjectParam = subDir === 'de' ? 'german' : subDir;
 
     const levels = fs.readdirSync(subjectPath);
     for (const lvl of levels) {
@@ -39,6 +39,8 @@ export async function generateStaticParams() {
           .map(f => f.replace('.json', ''));
 
         for (const unit of units) {
+          // KRİTİK NOKTA: Her bir fiziksel JSON dosyası için 
+          // 4 farklı dil rotası (tr, en, de, uk) oluşturuyoruz.
           for (const lang of languages) {
             paths.push({ 
               lang, 
@@ -55,7 +57,6 @@ export async function generateStaticParams() {
   return paths;
 }
 
-// 2. Server Component: Veriyi hazırlar ve Client Component'e aktarır.
 export default async function UnitPage({ 
   params 
 }: { 
@@ -68,12 +69,10 @@ export default async function UnitPage({
   
   if (!data) return notFound();
 
-  // UnitClientWrapper, içindeki useSearchParams() kullanımı nedeniyle Suspense ile sarmalanmalıdır.
-  // Bu, Next.js 'output: export' modunda build hatası almamızı engeller.
   return (
     <Suspense fallback={
-      <div className="min-h-screen bg-slate-950 flex items-center justify-center text-white font-bold italic">
-        Yükleniyor...
+      <div className="min-h-screen bg-white dark:bg-slate-950 flex items-center justify-center text-slate-900 dark:text-white font-bold italic uppercase tracking-tighter">
+        Memorlex...
       </div>
     }>
       <UnitClientWrapper 
