@@ -65,26 +65,49 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
 
   const handleCharClick = (char: string) => {
     setUserInput(prev => prev + char);
-    // İnputa odağı geri ver
     document.getElementById('word-input')?.focus();
   };
 
+  // SADECE BU FONKSİYON GÜNCELLENDİ
   const handleCheck = () => {
     if (answered) return;
     const w = currentSet[idx];
-    const a = userInput.trim();
-    if (!a) return;
-    setAnswered(true);
+    const userValue = userInput.trim();
+    if (!userValue) return;
 
-    if (a.toLowerCase() === w.term.toLowerCase()) {
+    // 1. Tam Eşleşme Kontrolü (Case-Sensitive)
+    if (userValue === w.term) {
+      setAnswered(true);
       setStats(prev => ({ ...prev, correct: prev.correct + 1 }));
       setFeedback({ text: 'Richtig! 🎉', color: '#16a34a' });
       setTimeout(() => document.getElementById('next-btn-trigger')?.click(), 800);
-    } else {
-      setStats(prev => ({ ...prev, wrong: prev.wrong + 1 }));
-      setErrorWords(prev => [...prev, w]);
-      setFeedback({ text: `Falsch: ${w.term}`, color: '#dc2626' });
+      return;
     }
+
+    // 2. Artikelden Sonra Büyük Harf Zorunluluğu Kontrolü
+    const lowerUser = userValue.toLowerCase();
+    const lowerTerm = w.term.toLowerCase();
+
+    // Harfler doğru ama büyük/küçük hatası varsa
+    if (lowerUser === lowerTerm) {
+      const articleRegex = /^(der|die|das)\s+(.*)$/i;
+      const match = userValue.match(articleRegex);
+
+      if (match) {
+        const rest = match[2]; // Artikelden sonraki kelime
+        // Eğer ilk harf büyük değilse
+        if (rest && rest[0] !== rest[0].toUpperCase()) {
+          setFeedback({ text: `Großbuchstabe hatası! -> ${w.term}`, color: '#f59e0b' });
+          return; // answered(true) yapmıyoruz, kullanıcı düzeltsin
+        }
+      }
+    }
+
+    // 3. Gerçekten Yanlışsa
+    setAnswered(true);
+    setStats(prev => ({ ...prev, wrong: prev.wrong + 1 }));
+    setErrorWords(prev => [...prev, w]);
+    setFeedback({ text: `Falsch: ${w.term}`, color: '#dc2626' });
   };
 
   const handleNext = () => {
@@ -125,7 +148,6 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
           <div className="mb-8">
             <p className="text-[11px] font-black text-slate-400 uppercase tracking-widest mb-4">{t.fastSelect}</p>
             <div className="flex gap-2">
-              {/* Burayı 10, 15, 20 olarak güncelledim */}
               {[10, 15, 20].map(n => (
                 <button key={n} onClick={() => { setRange({start: 1, end: Math.min(n, initialWords.length)}); launchGame(shuffle(initialWords.slice(0, Math.min(n, initialWords.length)))); }} 
                   className="flex-1 py-4 border border-slate-100 dark:border-slate-800 rounded-2xl font-black text-slate-600 dark:text-slate-200 hover:bg-amber-500 hover:text-white dark:hover:bg-amber-500 transition-all active:scale-95">
@@ -165,7 +187,6 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
             {currentSet[idx]?.example.replace('***', '______')}
           </p>
 
-          {/* Almanca Karakter Butonları */}
           <div className="flex flex-wrap justify-center gap-2 mb-6">
             {germanChars.map(char => (
               <button
