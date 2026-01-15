@@ -5,17 +5,44 @@ import UnitClientWrapper from './UnitClientWrapper';
 import fs from 'fs';
 import path from 'path';
 import { Suspense } from 'react';
+import { Metadata } from 'next';
 
 type ValidLangs = "en" | "tr" | "de" | "uk";
 
+// SEO - Sayfaya Özel Metadata Üretimi
+export async function generateMetadata({ params }: { params: any }): Promise<Metadata> {
+  const { lang, subject, level, unit } = await params;
+  const unitName = unit.replace(/-/g, ' ');
+  const subjectName = subject === 'german' ? (lang === 'tr' ? 'Almanca' : 'German') : 'English';
+
+  const titles = {
+    tr: `${unitName} - ${subjectName} ${level.toUpperCase()} Kelimeleri ve Alıştırmalar`,
+    en: `${unitName} - Learn ${subjectName} ${level.toUpperCase()} Vocabulary`,
+    uk: `${unitName} - Німецька мова ${level.toUpperCase()} словник`,
+    de: `${unitName} - Vokabeln lernen ${subjectName} ${level.toUpperCase()}`
+  };
+
+  const descriptions = {
+    tr: `${unitName} ünitesi kelime listesi. Flashcard ve yazarak çalışma modülü ile interaktif ${subjectName} öğrenin.`,
+    en: `${unitName} unit vocabulary list. Practice ${subjectName} with interactive flashcards and writing exercises.`,
+    uk: `${unitName} - список слів. Вивчайте німецьку за допомогою карток та вправ.`,
+    de: `${unitName} Vokabelliste. Übe Vokabeln mit Karteikarten und Schreibtraining.`
+  };
+
+  return {
+    title: titles[lang as ValidLangs] || titles.en,
+    description: descriptions[lang as ValidLangs] || descriptions.en,
+    keywords: [`${unitName} kelimeleri`, `${subjectName} ${level}`, "yazarak öğrenme", "flashcard", "Memorlex"]
+  };
+}
+
 export async function generateStaticParams() {
-  const languages = ['en', 'tr', 'de', 'uk']; // Arayüz dilleri
+  const languages = ['en', 'tr', 'de', 'uk'];
   const baseDir = path.join(process.cwd(), 'src/data/vocabulary');
   const paths: any[] = [];
   
   if (!fs.existsSync(baseDir)) return [];
 
-  // Sadece öğrenilecek dillerin klasörlerini gez (Örn: 'de')
   const learningLanguages = ['de']; 
 
   for (const subDir of learningLanguages) {
@@ -39,7 +66,6 @@ export async function generateStaticParams() {
           .map(f => f.replace('.json', ''));
 
         for (const unit of units) {
-          // Her bir fiziksel JSON dosyası için 4 farklı dil rotası oluşturuyoruz.
           for (const lang of languages) {
             paths.push({ 
               lang, 
@@ -68,20 +94,35 @@ export default async function UnitPage({
   
   if (!data) return notFound();
 
+  // SEO İçin Schema.org yapısal verisi (Kurs Ünitesi olarak tanıtıyoruz)
+  const schemaMarkup = {
+    "@context": "https://schema.org",
+    "@type": "EducationalOccupationalCredential",
+    "name": `${unit.replace(/-/g, ' ')}`,
+    "educationalLevel": level.toUpperCase(),
+    "abstract": `${subject} ${level} vocabulary practice unit.`
+  };
+
   return (
-    <Suspense fallback={
-      <div className="min-h-screen bg-white dark:bg-slate-950 flex flex-col items-center justify-center text-slate-900 dark:text-white transition-colors duration-300">
-        <div className="text-4xl font-black italic uppercase tracking-tighter animate-pulse text-amber-500">
-          Memorlex...
-        </div>
-      </div>
-    }>
-      <UnitClientWrapper 
-        initialData={data} 
-        dict={dict} 
-        lang={lang} 
-        unitName={unit} 
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaMarkup) }}
       />
-    </Suspense>
+      <Suspense fallback={
+        <div className="min-h-screen bg-white dark:bg-slate-950 flex flex-col items-center justify-center text-slate-900 dark:text-white transition-colors duration-300">
+          <div className="text-4xl font-black italic uppercase tracking-tighter animate-pulse text-amber-500">
+            Memorlex...
+          </div>
+        </div>
+      }>
+        <UnitClientWrapper 
+          initialData={data} 
+          dict={dict} 
+          lang={lang} 
+          unitName={unit} 
+        />
+      </Suspense>
+    </>
   );
 }
