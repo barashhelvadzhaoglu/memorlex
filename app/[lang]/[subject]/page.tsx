@@ -1,11 +1,30 @@
 import Link from 'next/link';
 import { getDictionary } from '@/dictionaries'; // Sözlük yükleyici
 
+// 1. Tip Tanımlaması
+type ValidLangs = "en" | "tr" | "de" | "uk";
+
+// 2. Statik Parametre Üretici
+// Next.js'e hangi dil ve ders kombinasyonlarının sayfasını üreteceğini söyler.
+export async function generateStaticParams() {
+  const languages = ['en', 'tr', 'de', 'uk'];
+  const subjects = ['german', 'english'];
+
+  // Tüm kombinasyonları oluşturur: tr/german, en/german, tr/english vb.
+  const params = [];
+  for (const lang of languages) {
+    for (const subject of subjects) {
+      params.push({ lang, subject });
+    }
+  }
+  return params;
+}
+
 export default async function SubjectPage({ params }: { params: Promise<{ lang: string, subject: string }> }) {
   const { lang, subject } = await params;
 
-  // 1. Sözlüğü URL'deki dile göre (en, tr, uk, de) yüklüyoruz
-  const dict = await getDictionary(lang);
+  // Tip zorlaması yaparak sözlüğü yüklüyoruz
+  const dict = await getDictionary(lang as ValidLangs);
 
   // Seviye klasörlerin
   const levels = ['a1', 'a2', 'b1'];
@@ -18,7 +37,6 @@ export default async function SubjectPage({ params }: { params: Promise<{ lang: 
           {dict.subjects?.[subject] || subject}
         </h1>
         
-        {/* BURASI DÜZELTİLDİ: Artık statik değil, sözlükten geliyor */}
         <p className="text-slate-400 mb-12 font-bold italic text-xl">
           {dict.levels?.selectTitle || "Please select a level:"}
         </p>

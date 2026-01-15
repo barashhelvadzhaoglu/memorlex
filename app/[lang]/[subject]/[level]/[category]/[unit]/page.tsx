@@ -1,93 +1,66 @@
 import { getVocab } from '@/src/lib/vocabLoader'; 
-import ClientFlashcardApp from '@/app/components/ClientFlashcardApp';
-import ClientVocabularyApp from '@/app/components/ClientVocabularyApp';
-import { notFound } from 'next/navigation';
 import { getDictionary } from '@/dictionaries'; 
+import { notFound } from 'next/navigation';
+import UnitClientWrapper from './UnitClientWrapper'; // Yeni oluşturacağımız bileşen
+import fs from 'fs';
+import path from 'path';
 
-// Beklenen dil tiplerini tanımlayalım
 type ValidLangs = "en" | "tr" | "de" | "uk";
 
-interface PageProps {
-  params: Promise<{
-    lang: string;
-    subject: string;
-    level: string;
-    category: string;
-    unit: string;
-  }>;
-  searchParams: Promise<{ mode?: string }>;
+// 1. generateStaticParams (Aynı kalıyor, klasörleri tarıyor)
+export async function generateStaticParams() {
+  const languages = ['en', 'tr', 'de', 'uk'];
+  const baseDir = path.join(process.cwd(), 'src/data/vocabulary');
+  const paths: any[] = [];
+  if (!fs.existsSync(baseDir)) return [];
+
+  const subjectDirs = fs.readdirSync(baseDir);
+  for (const subDir of subjectDirs) {
+    const subjectPath = path.join(baseDir, subDir);
+    if (!fs.lstatSync(subjectPath).isDirectory()) continue;
+    const subjectParam = subDir === 'de' ? 'german' : subDir === 'en' ? 'english' : subDir;
+
+    const levels = fs.readdirSync(subjectPath);
+    for (const lvl of levels) {
+      const levelPath = path.join(subjectPath, lvl);
+      if (!fs.lstatSync(levelPath).isDirectory()) continue;
+
+      const categories = fs.readdirSync(levelPath);
+      for (const cat of categories) {
+        const catPath = path.join(levelPath, cat);
+        if (!fs.lstatSync(catPath).isDirectory()) continue;
+
+        const units = fs.readdirSync(catPath)
+          .filter(f => f.endsWith('.json'))
+          .map(f => f.replace('.json', ''));
+
+        for (const unit of units) {
+          for (const lang of languages) {
+            paths.push({ lang, subject: subjectParam, level: lvl, category: cat, unit: unit });
+          }
+        }
+      }
+    }
+  }
+  return paths;
 }
 
-export default async function UnitPage({ params, searchParams }: PageProps) {
-  // 1. Parametreleri ve Arayüz Sözlüğünü Bekle
+// 2. Server Component: Sadece veriyi hazırlar
+export default async function UnitPage({ params }: { params: Promise<{ lang: string, subject: string, level: string, category: string, unit: string }> }) {
   const { lang, subject, level, category, unit } = await params;
-  const { mode } = await searchParams;
   
-  // HATA ÇÖZÜMÜ: lang değişkenini ValidLangs tipine zorluyoruz
-  // Eğer lang bunlardan biri değilse getDictionary hata vermesin diye.
   const dict = await getDictionary(lang as ValidLangs);
-
-  // 2. JSON Verisini getVocab ile Getir
   const data = await getVocab(lang, subject, level, category, unit);
   
-  // Veri bulunamazsa 404 göster
-  if (!data) {
-    console.error(`VERI BULUNAMADI: ${subject}/${level}/${category}/${unit}`);
-    return notFound();
-  }
+  if (!data) return notFound();
 
-  // 3. Mod seçimi için URL yapısı
-  const baseUrl = `/${lang}/${subject}/${level}/${category}/${unit}`;
-
-  // --- SEÇİM EKRANI (Henüz mod seçilmediyse) ---
-  if (!mode) {
-    return (
-      <main className="min-h-screen flex flex-col items-center justify-center bg-slate-950 p-6 text-white text-center">
-        <h1 className="text-4xl font-black mb-4 uppercase tracking-tighter text-amber-500">
-          {data.title || unit.replace(/-/g, ' ')}
-        </h1>
-        
-        <p className="text-slate-400 mb-10 font-bold italic">{dict.description}</p>
-        
-        <div className="grid gap-6 w-full max-w-sm">
-          {/* Flashcard Butonu */}
-          <a 
-            href={`${baseUrl}?mode=flashcard`}
-            className="p-8 bg-slate-900 border-2 border-amber-500/30 hover:border-amber-500 rounded-[32px] shadow-2xl transition-all group"
-          >
-            <span className="text-5xl block mb-4 group-hover:scale-110 transition-transform">🎴</span>
-            <span className="text-2xl font-black">{dict.flashcards}</span>
-          </a>
-
-          {/* Yazma Pratiği Butonu */}
-          <a 
-            href={`${baseUrl}?mode=write`}
-            className="p-8 bg-slate-900 border-2 border-blue-500/30 hover:border-blue-600 rounded-[32px] shadow-2xl transition-all group"
-          >
-            <span className="text-5xl block mb-4 group-hover:scale-110 transition-transform text-blue-500">✍️</span>
-            <span className="text-2xl font-black">{dict.practice}</span>
-          </a>
-        </div>
-      </main>
-    );
-  }
-
-  // --- UYGULAMA EKRANI (Mod seçildiyse) ---
+  // Arayüz mantığını Client Wrapper'a devrediyoruz
   return (
-    <main className="min-h-screen bg-slate-950 py-8 px-4">
-      {mode === 'write' ? (
-        <ClientVocabularyApp 
-          initialWords={data.words} 
-          lang={lang} 
-          subject={data.title || unit} 
-        />
-      ) : (
-        <ClientFlashcardApp 
-          initialWords={data.words} 
-          lang={lang} 
-          subject={data.title || unit} 
-        />
-      )}
-    </main>
+    <UnitClientWrapper 
+      initialData={data} 
+      dict={dict} 
+      lang={lang} 
+      unitName={unit} 
+    />
   );
 }

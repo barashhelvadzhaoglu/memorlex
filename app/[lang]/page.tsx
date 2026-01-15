@@ -1,13 +1,26 @@
 import Link from 'next/link';
-import { getDictionary } from '@/dictionaries'; // Sözlük yükleyici
+import { getDictionary } from '@/dictionaries';
+
+// 1. Tip Tanımlaması (TypeScript hatasını önlemek için)
+type ValidLangs = "en" | "tr" | "de" | "uk";
+
+// 2. Statik Parametre Üretici (Cloudflare/Export hatasını çözen kısım)
+// Bu fonksiyon build sırasında çalışır ve Next.js'e hangi dilleri oluşturacağını söyler.
+export async function generateStaticParams() {
+  return [
+    { lang: 'tr' },
+    { lang: 'en' },
+    { lang: 'de' },
+    { lang: 'uk' }
+  ];
+}
 
 export default async function LanguagePage({ params }: { params: Promise<{ lang: string }> }) {
   const { lang } = await params;
 
-  // 1. Sözlüğü URL'deki dile göre (tr, en, uk, de) yüklüyoruz
-  const dict = await getDictionary(lang);
+  // TypeScript'e lang'in desteklenen dillerden biri olduğunu garanti ediyoruz (as ValidLangs)
+  const dict = await getDictionary(lang as ValidLangs);
 
-  // Ders listesi - İsimleri artık sözlükten (dict.subjects) çekeceğiz
   const subjects = [
     { id: 'german', native: 'Deutsch', flag: '🇩🇪' },
     { id: 'english', native: 'English', flag: '🇬🇧' }
@@ -15,7 +28,6 @@ export default async function LanguagePage({ params }: { params: Promise<{ lang:
 
   return (
     <main className="min-h-screen bg-slate-950 text-white flex flex-col items-center justify-center p-6">
-      {/* BAŞLIKLAR: Sözlükten geliyor (dict.home.title ve dict.home.sub) */}
       <h1 className="text-4xl font-black mb-2 uppercase italic tracking-tighter text-center">
         {dict.home?.title || "Which Language?"}
       </h1>
@@ -34,7 +46,6 @@ export default async function LanguagePage({ params }: { params: Promise<{ lang:
               {s.flag}
             </span>
             
-            {/* DERS İSMİ: Sözlükteki 'subjects' objesinden id'ye göre çekiyoruz */}
             <span className="text-2xl font-black block">
               {dict.subjects?.[s.id] || s.id}
             </span>
