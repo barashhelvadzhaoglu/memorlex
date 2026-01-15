@@ -24,8 +24,8 @@ resource "cloudflare_pages_project" "memorlex_site" {
 
   build_config {
     build_command   = "npm run build"
-    destination_dir = ".next"
-    root_dir        = ""
+    destination_dir = "out"
+    root_dir        = "/"
   }
 
   # GitHub bağlantısını da buraya ekliyoruz ki süreç tamamlansın
