@@ -1,4 +1,25 @@
 {
+  "home": {
+    "title": "Hangi Dili Öğrenmek İstiyorsun?",
+    "sub": "Başlamak için bir hedef seç."
+  },
+  "subjects": {
+    "german": "Almanca",
+    "english": "İngilizce"
+  },
+  "levels": {
+    "selectTitle": "Çalışmak istediğiniz seviyeyi seçin:"
+  },
+  "categories": {
+    "integration": "📚 ÜNİTE ODAKLI (INTEGRATION)",
+    "topic": "📂 KONUYA GÖRE ÇALIŞMA"
+  },
+  "units": {
+    "listTitle": "Listesi"
+  },
+  "navigation": {
+    "back": "Geri Dön"
+  },
   "title": "Neu Linie Almanca Çalışma Merkezi",
   "description": "İnteraktif kelime pratikleri.",
   "practice": "Kelime Pratiği",

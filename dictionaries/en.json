@@ -1,7 +1,28 @@
 {
-  "title": "Neu Linie German Study Center",
-  "description": "Interactive vocabulary practice and flashcard applications.",
-  "practice": "Vocabulary Practice",
+  "home": {
+    "title": "Which Language Do You Want to Learn?",
+    "sub": "Choose a target to start."
+  },
+  "subjects": {
+    "german": "German",
+    "english": "English"
+  },
+  "levels": {
+    "selectTitle": "Select the level you want to study:"
+  },
+  "categories": {
+    "integration": "📚 UNIT ORIENTED (INTEGRATION)",
+    "topic": "📂 STUDY BY TOPIC"
+  },
+  "units": {
+    "listTitle": "List"
+  },
+  "navigation": {
+    "back": "Go Back"
+  },
+  "title": "Neu Linie German Learning Center",
+  "description": "Interactive vocabulary practice.",
+  "practice": "Writing Practice",
   "flashcards": "Flashcards",
   "start": "Start Now"
 }

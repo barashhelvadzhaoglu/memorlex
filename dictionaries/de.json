@@ -1,7 +1,28 @@
 {
+  "home": {
+    "title": "Welche Sprache möchten Sie lernen?",
+    "sub": "Wählen Sie ein Ziel, um zu beginnen."
+  },
+  "subjects": {
+    "german": "Deutsch",
+    "english": "Englisch"
+  },
+  "levels": {
+    "selectTitle": "Wählen Sie das Niveau, das Sie lernen möchten:"
+  },
+  "categories": {
+    "integration": "📚 UNIT-ORIENTIERT (INTEGRATION)",
+    "topic": "📂 NACH THEMEN LERNEN"
+  },
+  "units": {
+    "listTitle": "Liste"
+  },
+  "navigation": {
+    "back": "Zurück"
+  },
   "title": "Neu Linie Deutsch-Lernzentrum",
-  "description": "Interaktive Wortschatzübungen und Karteikarten-Anwendungen.",
-  "practice": "Wortschatz-Übung",
-  "flashcards": "Karteikarten",
+  "description": "Interaktives Vokabeltraining.",
+  "practice": "Schreibübung",
+  "flashcards": "Flashcards",
   "start": "Jetzt starten"
 }
