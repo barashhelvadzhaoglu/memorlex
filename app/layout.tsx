@@ -9,6 +9,8 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Memorlex",
   description: "Dil Öğrenme Uygulaması",
+  // Manuel ikon tanımlamasını kaldırdık. 
+  // Next.js app/icon.webp dosyasını otomatik olarak kullanacak.
 };
 
 export default function RootLayout({
@@ -18,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="tr" suppressHydrationWarning>
-      <body className={`${inter.className} bg-slate-50 dark:bg-[#0f172a] transition-colors duration-300`}>
+      <body className={`${inter.className} bg-slate-50 dark:bg-slate-900 dark:text-white transition-colors duration-300`}>
         <Providers>
           <Navbar />
           <main className="pt-24">

@@ -11,16 +11,15 @@ export default function UnitClientWrapper({ initialData, dict, lang, unitName }:
   const subjectTitle = initialData.title || unitName.replace(/-/g, ' ');
 
   // Kelimeleri, URL'den gelen dile göre (tr, en, uk) önceden işleyelim.
-  // Böylece alt bileşenler sadece "meaning" alanına bakabilir.
   const processedWords = initialData.words.map((word: any) => ({
     ...word,
-    // Eğer meaning_tr, meaning_en gibi alanlar varsa onları seç, yoksa varsayılan meaning'e bak
     meaning: word[`meaning_${lang}`] || word.meaning_en || word.meaning
   }));
 
   if (!mode) {
     return (
-      <main className="min-h-screen flex flex-col items-center justify-center bg-white dark:bg-slate-950 p-6 text-slate-900 dark:text-white text-center">
+      // transition-colors eklendi
+      <main className="min-h-screen flex flex-col items-center justify-center bg-white dark:bg-slate-950 p-6 text-slate-900 dark:text-white text-center transition-colors duration-300">
         <h1 className="text-4xl font-black mb-4 uppercase tracking-tighter text-amber-500 italic">
           {subjectTitle}
         </h1>
@@ -29,9 +28,11 @@ export default function UnitClientWrapper({ initialData, dict, lang, unitName }:
         </p>
         
         <div className="grid gap-6 w-full max-w-sm">
+          {/* FLASHCARD BUTONU */}
           <button 
             onClick={() => window.location.search = '?mode=flashcard'}
-            className="p-8 bg-slate-50 dark:bg-slate-900 border-2 border-slate-100 dark:border-slate-800 hover:border-amber-500 transition-all rounded-[32px] group shadow-xl"
+            // text-slate-900 dark:text-white eklenerek yazı rengi garantiye alındı
+            className="p-8 bg-slate-50 dark:bg-slate-900 border-2 border-slate-200 dark:border-slate-800 hover:border-amber-500 dark:hover:border-amber-500 transition-all rounded-[32px] group shadow-xl text-slate-900 dark:text-white"
           >
             <span className="text-5xl block mb-4 group-hover:scale-110 transition-transform">🎴</span>
             <span className="text-2xl font-black uppercase tracking-tight">
@@ -39,9 +40,11 @@ export default function UnitClientWrapper({ initialData, dict, lang, unitName }:
             </span>
           </button>
           
+          {/* YAZMA PRATİĞİ BUTONU */}
           <button 
             onClick={() => window.location.search = '?mode=write'}
-            className="p-8 bg-slate-50 dark:bg-slate-900 border-2 border-slate-100 dark:border-slate-800 hover:border-blue-500 transition-all rounded-[32px] group shadow-xl"
+            // text-slate-900 dark:text-white eklendi
+            className="p-8 bg-slate-50 dark:bg-slate-900 border-2 border-slate-200 dark:border-slate-800 hover:border-blue-500 dark:hover:border-blue-500 transition-all rounded-[32px] group shadow-xl text-slate-900 dark:text-white"
           >
             <span className="text-5xl block mb-4 text-blue-500 group-hover:scale-110 transition-transform">✍️</span>
             <span className="text-2xl font-black uppercase tracking-tight">
@@ -54,7 +57,8 @@ export default function UnitClientWrapper({ initialData, dict, lang, unitName }:
   }
 
   return (
-    <main className="min-h-screen bg-white dark:bg-slate-950 py-8 px-4 transition-colors">
+    // transition-colors eklendi
+    <main className="min-h-screen bg-white dark:bg-slate-950 py-8 px-4 transition-colors duration-300">
       {mode === 'write' ? (
         <ClientVocabularyApp 
           initialWords={processedWords} 

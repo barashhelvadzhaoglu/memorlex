@@ -39,8 +39,7 @@ export async function generateStaticParams() {
           .map(f => f.replace('.json', ''));
 
         for (const unit of units) {
-          // KRİTİK NOKTA: Her bir fiziksel JSON dosyası için 
-          // 4 farklı dil rotası (tr, en, de, uk) oluşturuyoruz.
+          // Her bir fiziksel JSON dosyası için 4 farklı dil rotası oluşturuyoruz.
           for (const lang of languages) {
             paths.push({ 
               lang, 
@@ -71,8 +70,10 @@ export default async function UnitPage({
 
   return (
     <Suspense fallback={
-      <div className="min-h-screen bg-white dark:bg-slate-950 flex items-center justify-center text-slate-900 dark:text-white font-bold italic uppercase tracking-tighter">
-        Memorlex...
+      <div className="min-h-screen bg-white dark:bg-slate-950 flex flex-col items-center justify-center text-slate-900 dark:text-white transition-colors duration-300">
+        <div className="text-4xl font-black italic uppercase tracking-tighter animate-pulse text-amber-500">
+          Memorlex...
+        </div>
       </div>
     }>
       <UnitClientWrapper 
