@@ -12,32 +12,30 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   const subName = subject === 'german' ? (lang === 'tr' ? 'Almanca' : 'German') : (lang === 'tr' ? 'İngilizce' : 'English');
   const upperLvl = level.toUpperCase();
   
-  // HATA BURADAYDI: 'de' anahtarını ekledim.
   const seoData: Record<string, { title: string, description: string }> = {
     tr: {
-      title: `${subName} ${upperLvl} Seviyesi Tüm Üniteler ve Kelimeler | Memorlex`,
-      description: `${subName} ${upperLvl} seviyesi üniteleri. Entegrasyon kursu kelime listeleri ve yazarak öğrenme modülü.`
+      title: `${subName} ${upperLvl} Seviyesi Tüm Üniteler | Memorlex`,
+      description: `${subName} ${upperLvl} seviyesi üniteleri ve kelime listeleri.`
     },
     en: {
-      title: `${subName} ${upperLvl} All Units and Vocabulary Lists | Memorlex`,
-      description: `Study ${subName} ${upperLvl} units. Access vocabulary lists for all chapters and practice writing.`
+      title: `${subName} ${upperLvl} All Units | Memorlex`,
+      description: `Study ${subName} ${upperLvl} units and vocabulary lists.`
     },
     uk: {
-      title: `${subName} ${upperLvl} Усі розділи та словник | Memorlex`,
-      description: `Вивчайте ${subName} ${upperLvl} за розділами. Списки слів для всіх глав та вправи.`
+      title: `${subName} ${upperLvl} Усі розділи | Memorlex`,
+      description: `Вивчайте ${subName} ${upperLvl} за розділами.`
     },
     de: {
-      title: `${subName} ${upperLvl} Alle Einheiten und Vokabeln | Memorlex`,
-      description: `Lerne ${subName} auf dem Niveau ${upperLvl}. Vokabellisten für alle Kapitel und Schreibtraining.`
+      title: `${subName} ${upperLvl} Alle Einheiten | Memorlex`,
+      description: `Lerne ${subName} auf dem Niveau ${upperLvl}.`
     }
   };
 
-  const current = seoData[lang] || seoData.en;
+  const current = seoData[lang as ValidLangs] || seoData.en;
 
   return {
     title: current.title,
     description: current.description,
-    keywords: [`${subName} ${upperLvl} üniteleri`, `${subName} ${upperLvl} kelimeleri`, "kapitel listesi", "yazarak öğren"]
   };
 }
 
@@ -54,7 +52,7 @@ export async function generateStaticParams() {
       }
     }
   }
-  return params; // Eğer hata verirse 'return paths;' olarak kalsın
+  return paths; // BURASI DÜZELDİ: 'params' yerine doğru olan 'paths' yazıldı.
 }
 
 export default async function LevelPage({ params }: { params: Promise<{ lang: string, subject: string, level: string }> }) {
