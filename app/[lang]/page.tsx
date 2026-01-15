@@ -1,60 +1,34 @@
-import Link from 'next/link';
-import { getDictionary } from '@/dictionaries';
+'use client';
 
-type ValidLangs = "en" | "tr" | "de" | "uk";
+import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 
-export async function generateStaticParams() {
-  return [
-    { lang: 'tr' },
-    { lang: 'en' },
-    { lang: 'de' },
-    { lang: 'uk' }
-  ];
-}
+export default function RootPage() {
+  const router = useRouter();
 
-export default async function LanguagePage({ params }: { params: Promise<{ lang: string }> }) {
-  const { lang } = await params;
-  const dict = await getDictionary(lang as ValidLangs);
+  useEffect(() => {
+    // 1. Desteklediğin dilleri tanımla
+    const supportedLanguages = ['tr', 'en', 'de', 'uk'];
+    const defaultLanguage = 'en';
 
-  // KRİTİK DEĞİŞİKLİK: dict.subjects'i TypeScript'e "herhangi bir string anahtar alabilir" şeklinde tanıtıyoruz.
-  const subjectsDict = dict.subjects as Record<string, string> | undefined;
+    // 2. Tarayıcı dilini al (örn: 'tr-TR' -> 'tr')
+    const browserLang = navigator.language.split('-')[0];
 
-  const subjects = [
-    { id: 'german', native: 'Deutsch', flag: '🇩🇪' },
-    { id: 'english', native: 'English', flag: '🇬🇧' }
-  ];
+    // 3. Eğer tarayıcı dili destekleniyorsa oraya, yoksa varsayılana yönlendir
+    if (supportedLanguages.includes(browserLang)) {
+      router.replace(`/${browserLang}`);
+    } else {
+      router.replace(`/${defaultLanguage}`);
+    }
+  }, [router]);
 
+  // Yönlendirme sırasında görünecek şık bir yükleme ekranı
   return (
-    <main className="min-h-screen bg-slate-950 text-white flex flex-col items-center justify-center p-6">
-      <h1 className="text-4xl font-black mb-2 uppercase italic tracking-tighter text-center">
-        {dict.home?.title || "Which Language?"}
-      </h1>
-      <p className="text-slate-500 mb-12 font-bold text-center">
-        {dict.home?.sub || "Select a target."}
-      </p>
-
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-2xl">
-        {subjects.map((s) => (
-          <Link 
-            key={s.id} 
-            href={`/${lang}/${s.id}`} 
-            className="p-10 bg-slate-900 border border-slate-800 rounded-[40px] hover:border-amber-500 transition-all text-center group"
-          >
-            <span className="text-6xl mb-4 block group-hover:scale-110 transition-transform">
-              {s.flag}
-            </span>
-            
-            <span className="text-2xl font-black block">
-              {/*subjectsDict üzerinden erişim sağlıyoruz */}
-              {subjectsDict?.[s.id] || s.id}
-            </span>
-            
-            <span className="text-slate-500 text-xs font-bold uppercase tracking-widest">
-              {s.native}
-            </span>
-          </Link>
-        ))}
+    <div className="min-h-screen bg-slate-950 flex flex-col items-center justify-center text-white">
+      <div className="w-12 h-12 border-4 border-amber-500 border-t-transparent rounded-full animate-spin mb-4"></div>
+      <div className="font-black italic text-xl tracking-tighter uppercase animate-pulse">
+        Memorlex
       </div>
-    </main>
+    </div>
   );
 }
