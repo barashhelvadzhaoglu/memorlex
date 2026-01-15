@@ -2,7 +2,10 @@ import { getVocab } from '@/src/lib/vocabLoader';
 import ClientFlashcardApp from '@/app/components/ClientFlashcardApp';
 import ClientVocabularyApp from '@/app/components/ClientVocabularyApp';
 import { notFound } from 'next/navigation';
-import { getDictionary } from '@/dictionaries'; // dictionaries.ts dosyanızın konumuna göre güncelleyin
+import { getDictionary } from '@/dictionaries'; 
+
+// Beklenen dil tiplerini tanımlayalım
+type ValidLangs = "en" | "tr" | "de" | "uk";
 
 interface PageProps {
   params: Promise<{
@@ -20,8 +23,9 @@ export default async function UnitPage({ params, searchParams }: PageProps) {
   const { lang, subject, level, category, unit } = await params;
   const { mode } = await searchParams;
   
-  // URL'deki dile göre sözlüğü yükle (en, tr, de, uk)
-  const dict = await getDictionary(lang);
+  // HATA ÇÖZÜMÜ: lang değişkenini ValidLangs tipine zorluyoruz
+  // Eğer lang bunlardan biri değilse getDictionary hata vermesin diye.
+  const dict = await getDictionary(lang as ValidLangs);
 
   // 2. JSON Verisini getVocab ile Getir
   const data = await getVocab(lang, subject, level, category, unit);
@@ -43,7 +47,6 @@ export default async function UnitPage({ params, searchParams }: PageProps) {
           {data.title || unit.replace(/-/g, ' ')}
         </h1>
         
-        {/* Sözlükten Gelen Değişken Metin */}
         <p className="text-slate-400 mb-10 font-bold italic">{dict.description}</p>
         
         <div className="grid gap-6 w-full max-w-sm">
