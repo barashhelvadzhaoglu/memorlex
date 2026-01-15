@@ -1,16 +1,12 @@
 import Link from 'next/link';
-import { getDictionary } from '@/dictionaries'; // Sözlük yükleyici
+import { getDictionary } from '@/dictionaries';
 
-// 1. Tip Tanımlaması
 type ValidLangs = "en" | "tr" | "de" | "uk";
 
-// 2. Statik Parametre Üretici
-// Next.js'e hangi dil ve ders kombinasyonlarının sayfasını üreteceğini söyler.
 export async function generateStaticParams() {
   const languages = ['en', 'tr', 'de', 'uk'];
   const subjects = ['german', 'english'];
 
-  // Tüm kombinasyonları oluşturur: tr/german, en/german, tr/english vb.
   const params = [];
   for (const lang of languages) {
     for (const subject of subjects) {
@@ -23,18 +19,19 @@ export async function generateStaticParams() {
 export default async function SubjectPage({ params }: { params: Promise<{ lang: string, subject: string }> }) {
   const { lang, subject } = await params;
 
-  // Tip zorlaması yaparak sözlüğü yüklüyoruz
   const dict = await getDictionary(lang as ValidLangs);
 
-  // Seviye klasörlerin
+  // KRİTİK DÜZELTME: TypeScript'e bu objenin dinamik anahtarlarla okunabileceğini söylüyoruz
+  const subjectsDict = dict.subjects as Record<string, string> | undefined;
+
   const levels = ['a1', 'a2', 'b1'];
 
   return (
     <main className="min-h-screen bg-slate-950 text-white p-10 flex flex-col items-center">
       <div className="max-w-4xl w-full">
-        {/* Başlık: Almanca, English vb. (JSON'dan gelir) */}
         <h1 className="text-5xl font-black mb-4 uppercase italic">
-          {dict.subjects?.[subject] || subject}
+          {/* subjectsDict kullanarak güvenli erişim sağlıyoruz */}
+          {subjectsDict?.[subject] || subject}
         </h1>
         
         <p className="text-slate-400 mb-12 font-bold italic text-xl">

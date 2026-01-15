@@ -1,11 +1,8 @@
 import Link from 'next/link';
 import { getDictionary } from '@/dictionaries';
 
-// 1. Tip Tanımlaması (TypeScript hatasını önlemek için)
 type ValidLangs = "en" | "tr" | "de" | "uk";
 
-// 2. Statik Parametre Üretici (Cloudflare/Export hatasını çözen kısım)
-// Bu fonksiyon build sırasında çalışır ve Next.js'e hangi dilleri oluşturacağını söyler.
 export async function generateStaticParams() {
   return [
     { lang: 'tr' },
@@ -17,9 +14,10 @@ export async function generateStaticParams() {
 
 export default async function LanguagePage({ params }: { params: Promise<{ lang: string }> }) {
   const { lang } = await params;
-
-  // TypeScript'e lang'in desteklenen dillerden biri olduğunu garanti ediyoruz (as ValidLangs)
   const dict = await getDictionary(lang as ValidLangs);
+
+  // KRİTİK DEĞİŞİKLİK: dict.subjects'i TypeScript'e "herhangi bir string anahtar alabilir" şeklinde tanıtıyoruz.
+  const subjectsDict = dict.subjects as Record<string, string> | undefined;
 
   const subjects = [
     { id: 'german', native: 'Deutsch', flag: '🇩🇪' },
@@ -47,7 +45,8 @@ export default async function LanguagePage({ params }: { params: Promise<{ lang:
             </span>
             
             <span className="text-2xl font-black block">
-              {dict.subjects?.[s.id] || s.id}
+              {/*subjectsDict üzerinden erişim sağlıyoruz */}
+              {subjectsDict?.[s.id] || s.id}
             </span>
             
             <span className="text-slate-500 text-xs font-bold uppercase tracking-widest">
