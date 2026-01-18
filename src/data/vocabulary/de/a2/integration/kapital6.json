@@ -1,0 +1,382 @@
+{
+  "title": "Integration A2 - Kapitel 6",
+  "language": "de",
+  "words": [
+    {
+      "term": "abwischen",
+      "type": "Verb",
+      "meaning_tr": "Silmek, tozunu almak",
+      "meaning_en": "To wipe / To clean",
+      "meaning_uk": "Витирати",
+      "example": "Du musst den Monitor ***."
+    },
+    {
+      "term": "anschalten",
+      "type": "Verb",
+      "meaning_tr": "Açmak (cihaz, ışık vb.)",
+      "meaning_en": "To turn on",
+      "meaning_uk": "Включати",
+      "example": "Kannst du das Radio ***?"
+    },
+    {
+      "term": "ausschalten",
+      "type": "Verb",
+      "meaning_tr": "Kapatmak (cihaz, ışık vb.)",
+      "meaning_en": "To turn off",
+      "meaning_uk": "Виключати",
+      "example": "Vergiss nicht, das Licht ***zu***."
+    },
+    {
+      "term": "das Abonnement",
+      "type": "Noun",
+      "meaning_tr": "Abonelik",
+      "meaning_en": "Subscription",
+      "meaning_uk": "Абонемент / Передплата",
+      "example": "Ich habe ein *** für die Zeitung."
+    },
+    {
+      "term": "das Computerspiel",
+      "type": "Noun",
+      "meaning_tr": "Bilgisayar oyunu",
+      "meaning_en": "Computer game",
+      "meaning_uk": "Комп'ютерна гра",
+      "example": "Er spielt gern ***e."
+    },
+    {
+      "term": "das Display",
+      "type": "Noun",
+      "meaning_tr": "Ekran, gösterge",
+      "meaning_en": "Display / Screen",
+      "meaning_uk": "Дисплей",
+      "example": "Das *** vom Handy ist kaputt."
+    },
+    {
+      "term": "das Gerät",
+      "type": "Noun",
+      "meaning_tr": "Cihaz, alet",
+      "meaning_en": "Device / Appliance",
+      "meaning_uk": "Пристрій",
+      "example": "Dieses *** ist sehr praktisch."
+    },
+    {
+      "term": "das Handy",
+      "type": "Noun",
+      "meaning_tr": "Cep telefonu",
+      "meaning_en": "Mobile phone",
+      "meaning_uk": "Мобільний телефон",
+      "example": "Wo ist mein ***?"
+    },
+    {
+      "term": "das Internet",
+      "type": "Noun",
+      "meaning_tr": "İnternet",
+      "meaning_en": "Internet",
+      "meaning_uk": "Інтернет",
+      "example": "Ich surfe im ***."
+    },
+    {
+      "term": "das Kabel",
+      "type": "Noun",
+      "meaning_tr": "Kablo",
+      "meaning_en": "Cable",
+      "meaning_uk": "Кабель",
+      "example": "Wo ist das Lade***?"
+    },
+    {
+      "term": "das Medium",
+      "type": "Noun",
+      "meaning_tr": "Medya, araç",
+      "meaning_en": "Medium / Media",
+      "meaning_uk": "Засіб інформації / Медіа",
+      "example": "Digitale Medien sind überall."
+    },
+    {
+      "term": "das Passwort",
+      "type": "Noun",
+      "meaning_tr": "Şifre, parola",
+      "meaning_en": "Password",
+      "meaning_uk": "Пароль",
+      "example": "Wie lautet dein ***?"
+    },
+    {
+      "term": "das Programm",
+      "type": "Noun",
+      "meaning_tr": "Program",
+      "meaning_en": "Program",
+      "meaning_uk": "Програма",
+      "example": "Welches *** läuft heute im TV?"
+    },
+    {
+      "term": "das Radio",
+      "type": "Noun",
+      "meaning_tr": "Radyo",
+      "meaning_en": "Radio",
+      "meaning_uk": "Радіо",
+      "example": "Ich höre gern ***."
+    },
+    {
+      "term": "das Smartphone",
+      "type": "Noun",
+      "meaning_tr": "Akıllı telefon",
+      "meaning_en": "Smartphone",
+      "meaning_uk": "Смартфон",
+      "example": "Ich brauche ein neues ***."
+    },
+    {
+      "term": "das Tablet",
+      "type": "Noun",
+      "meaning_tr": "Tablet bilgisayar",
+      "meaning_en": "Tablet",
+      "meaning_uk": "Планшет",
+      "example": "Ich lese Bücher auf dem ***."
+    },
+    {
+      "term": "der Akku",
+      "type": "Noun",
+      "meaning_tr": "Batarya, şarj edilebilir pil",
+      "meaning_en": "Battery (rechargeable)",
+      "meaning_uk": "Акумулятор",
+      "example": "Mein *** ist fast leer."
+    },
+    {
+      "term": "der Anschluss",
+      "type": "Noun",
+      "meaning_tr": "Bağlantı",
+      "meaning_en": "Connection",
+      "meaning_uk": "Підключення / З'єднання",
+      "example": "Ich brauche einen Internet***."
+    },
+    {
+      "term": "der Bildschirm",
+      "type": "Noun",
+      "meaning_tr": "Ekran, monitör",
+      "meaning_en": "Screen / Monitor",
+      "meaning_uk": "Екран / Монітор",
+      "example": "Der *** ist sehr groß."
+    },
+    {
+      "term": "der Computer",
+      "type": "Noun",
+      "meaning_tr": "Bilgisayar",
+      "meaning_en": "Computer",
+      "meaning_uk": "Комп'ютер",
+      "example": "Ich arbeite am ***."
+    },
+    {
+      "term": "der Drucker",
+      "type": "Noun",
+      "meaning_tr": "Yazıcı",
+      "meaning_en": "Printer",
+      "meaning_uk": "Принтер",
+      "example": "Der *** braucht Papier."
+    },
+    {
+      "term": "der Fernseher",
+      "type": "Noun",
+      "meaning_tr": "Televizyon (cihaz)",
+      "meaning_en": "Television set",
+      "meaning_uk": "Телевізор",
+      "example": "Wir kaufen einen neuen ***."
+    },
+    {
+      "term": "der Kopfhörer",
+      "type": "Noun",
+      "meaning_tr": "Kulaklık",
+      "meaning_en": "Headphones",
+      "meaning_uk": "Навушники",
+      "example": "Ich höre Musik mit ***n."
+    },
+    {
+      "term": "der Laptop",
+      "type": "Noun",
+      "meaning_tr": "Dizüstü bilgisayar",
+      "meaning_en": "Laptop",
+      "meaning_uk": "Ноутбук",
+      "example": "Mein *** ist sehr leicht."
+    },
+    {
+      "term": "der Monitor",
+      "type": "Noun",
+      "meaning_tr": "Monitör",
+      "meaning_en": "Monitor",
+      "meaning_uk": "Монітор",
+      "example": "Schalte den *** aus."
+    },
+    {
+      "term": "der Nutzer",
+      "type": "Noun",
+      "meaning_tr": "Kullanıcı (erkek)",
+      "meaning_en": "User (male)",
+      "meaning_uk": "Користувач",
+      "example": "Jeder *** hat ein Passwort."
+    },
+    {
+      "term": "der Sender",
+      "type": "Noun",
+      "meaning_tr": "Kanal, istasyon, verici",
+      "meaning_en": "Channel / Station",
+      "meaning_uk": "Телеканал / Радіостанція",
+      "example": "Welcher *** ist das?"
+    },
+    {
+      "term": "die App",
+      "type": "Noun",
+      "meaning_tr": "Uygulama",
+      "meaning_en": "App",
+      "meaning_uk": "Додаток / Застосунок",
+      "example": "Lade die *** herunter."
+    },
+    {
+      "term": "die Datei",
+      "type": "Noun",
+      "meaning_tr": "Dosya (dijital)",
+      "meaning_en": "File",
+      "meaning_uk": "Файл",
+      "example": "Speichere die ***."
+    },
+    {
+      "term": "die Kamera",
+      "type": "Noun",
+      "meaning_tr": "Kamera",
+      "meaning_en": "Camera",
+      "meaning_uk": "Камера",
+      "example": "Die *** macht gute Fotos."
+    },
+    {
+      "term": "die Nachricht",
+      "type": "Noun",
+      "meaning_tr": "Haber, mesaj",
+      "meaning_en": "Message / News",
+      "meaning_uk": "Повідомлення / Новина",
+      "example": "Ich habe eine *** bekommen."
+    },
+    {
+      "term": "die Nutzerin",
+      "type": "Noun",
+      "meaning_tr": "Kullanıcı (kadın)",
+      "meaning_en": "User (female)",
+      "meaning_uk": "Користувачка",
+      "example": "Sie ist eine neue ***."
+    },
+    {
+      "term": "die Tastatur",
+      "type": "Noun",
+      "meaning_tr": "Klavye",
+      "meaning_en": "Keyboard",
+      "meaning_uk": "Клавіатура",
+      "example": "Die *** ist schmutzig."
+    },
+    {
+      "term": "die Webseite",
+      "type": "Noun",
+      "meaning_tr": "Web sitesi",
+      "meaning_en": "Website",
+      "meaning_uk": "Веб-сторінка / Сайт",
+      "example": "Besuchen Sie unsere ***."
+    },
+    {
+      "term": "die Zeitung",
+      "type": "Noun",
+      "meaning_tr": "Gazete",
+      "meaning_en": "Newspaper",
+      "meaning_uk": "Газета",
+      "example": "Liest du jeden Tag die ***?"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "meaning_tr": "Dijital",
+      "meaning_en": "Digital",
+      "meaning_uk": "Цифровий",
+      "example": "Wir leben in einer ***en Welt."
+    },
+    {
+      "term": "downloaden",
+      "type": "Verb",
+      "meaning_tr": "İndirmek (internet üzerinden)",
+      "meaning_en": "To download",
+      "meaning_uk": "Завантажувати",
+      "example": "Ich möchte den Film ***."
+    },
+    {
+      "term": "herunterladen",
+      "type": "Verb",
+      "meaning_tr": "İndirmek",
+      "meaning_en": "To download",
+      "meaning_uk": "Завантажити",
+      "example": "Du kannst die Musik ***."
+    },
+    {
+      "term": "hochladen",
+      "type": "Verb",
+      "meaning_tr": "Yüklemek (internet üzerine)",
+      "meaning_en": "To upload",
+      "meaning_uk": "Завантажувати (в мережу)",
+      "example": "Ich lade das Foto hoch."
+    },
+    {
+      "term": "installieren",
+      "type": "Verb",
+      "meaning_tr": "Kurmak, yüklemek",
+      "meaning_en": "To install",
+      "meaning_uk": "Встановлювати",
+      "example": "Ich muss das Programm ***."
+    },
+    {
+      "term": "klicken",
+      "type": "Verb",
+      "meaning_tr": "Tıklamak",
+      "meaning_en": "To click",
+      "meaning_uk": "Клікати",
+      "example": "Bitte hier ***."
+    },
+    {
+      "term": "löschen",
+      "type": "Verb",
+      "meaning_tr": "Silmek (dijital)",
+      "meaning_en": "To delete",
+      "meaning_uk": "Видаляти",
+      "example": "Lösche die alte Datei."
+    },
+    {
+      "term": "online",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Çevrimiçi",
+      "meaning_en": "Online",
+      "meaning_uk": "В мережі",
+      "example": "Bist du gerade ***?"
+    },
+    {
+      "term": "posten",
+      "type": "Verb",
+      "meaning_tr": "Paylaşmak, yayımlamak",
+      "meaning_en": "To post",
+      "meaning_uk": "Постити / Публікувати",
+      "example": "Ich poste das Bild auf Instagram."
+    },
+    {
+      "term": "social media",
+      "type": "Noun",
+      "meaning_tr": "Sosyal medya",
+      "meaning_en": "Social media",
+      "meaning_uk": "Соціальні мережі",
+      "example": "Nutzt du viel ***?"
+    },
+    {
+      "term": "speichern",
+      "type": "Verb",
+      "meaning_tr": "Kaydetmek",
+      "meaning_en": "To save",
+      "meaning_uk": "Зберігати",
+      "example": "Vergiss nicht zu ***."
+    },
+    {
+      "term": "surfen",
+      "type": "Verb",
+      "meaning_tr": "İnternette gezinmek",
+      "meaning_en": "To surf (the web)",
+      "meaning_uk": "Сидіти в інтернеті",
+      "example": "Er ***t den ganzen Tag."
+    }
+  ]
+}

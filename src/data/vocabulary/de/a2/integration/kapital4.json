@@ -1,0 +1,446 @@
+{
+  "title": "Integration A2 - Kapitel 4",
+  "language": "de",
+  "words": [
+    {
+      "term": "abnehmen",
+      "type": "Verb",
+      "meaning_tr": "Kilo vermek, zayıflamak",
+      "meaning_en": "To lose weight",
+      "meaning_uk": "Худнути",
+      "example": "Ich möchte fünf Kilo ***."
+    },
+    {
+      "term": "allein",
+      "type": "Adverb",
+      "meaning_tr": "Yalnız, tek başına",
+      "meaning_en": "Alone",
+      "meaning_uk": "Один / Самітно",
+      "example": "Er lebt ***."
+    },
+    {
+      "term": "atmen",
+      "type": "Verb",
+      "meaning_tr": "Nefes almak",
+      "meaning_en": "To breathe",
+      "meaning_uk": "Дихати",
+      "example": "Bitte tief ***."
+    },
+    {
+      "term": "aussehen",
+      "type": "Verb",
+      "meaning_tr": "Görünmek",
+      "meaning_en": "To look like / To appear",
+      "meaning_uk": "Виглядати",
+      "example": "Du siehst heute gut aus."
+    },
+    {
+      "term": "das Auge",
+      "type": "Noun",
+      "meaning_tr": "Göz",
+      "meaning_en": "Eye",
+      "meaning_uk": "Око",
+      "example": "Meine ***n tun weh."
+    },
+    {
+      "term": "das Bein",
+      "type": "Noun",
+      "meaning_tr": "Bacak",
+      "meaning_en": "Leg",
+      "meaning_uk": "Нога",
+      "example": "Das linke *** ist gebrochen."
+    },
+    {
+      "term": "das Fieber",
+      "type": "Noun",
+      "meaning_tr": "Ateş (hastalık)",
+      "meaning_en": "Fever",
+      "meaning_uk": "Температура / Лихоманка",
+      "example": "Er hat hohes ***."
+    },
+    {
+      "term": "das Gesicht",
+      "type": "Noun",
+      "meaning_tr": "Yüz, çehre",
+      "meaning_en": "Face",
+      "meaning_uk": "Обличчя",
+      "example": "Dein *** ist rot."
+    },
+    {
+      "term": "das Haar",
+      "type": "Noun",
+      "meaning_tr": "Saç",
+      "meaning_en": "Hair",
+      "meaning_uk": "Волосся",
+      "example": "Sie hat lange ***e."
+    },
+    {
+      "term": "das Knie",
+      "type": "Noun",
+      "meaning_tr": "Diz",
+      "meaning_en": "Knee",
+      "meaning_uk": "Коліно",
+      "example": "Ich habe Schmerzen im ***."
+    },
+    {
+      "term": "das Medikament",
+      "type": "Noun",
+      "meaning_tr": "İlaç",
+      "meaning_en": "Medication",
+      "meaning_uk": "Ліки",
+      "example": "Nehmen Sie das *** dreimal täglich."
+    },
+    {
+      "term": "das Ohr",
+      "type": "Noun",
+      "meaning_tr": "Kulak",
+      "meaning_en": "Ear",
+      "meaning_uk": "Вухо",
+      "example": "Das Kind hat ***enschmerzen."
+    },
+    {
+      "term": "das Pflaster",
+      "type": "Noun",
+      "meaning_tr": "Yara bandı",
+      "meaning_en": "Plaster / Band-aid",
+      "meaning_uk": "Пластир",
+      "example": "Ich brauche ein ***."
+    },
+    {
+      "term": "das Rezept",
+      "type": "Noun",
+      "meaning_tr": "Reçete / Yemek tarifi",
+      "meaning_en": "Prescription / Recipe",
+      "meaning_uk": "Рецепт",
+      "example": "Der Arzt schreibt ein ***."
+    },
+    {
+      "term": "der Apotheker",
+      "type": "Noun",
+      "meaning_tr": "Eczacı (erkek)",
+      "meaning_en": "Pharmacist (male)",
+      "meaning_uk": "Аптекар",
+      "example": "Fragen Sie den ***."
+    },
+    {
+      "term": "der Arm",
+      "type": "Noun",
+      "meaning_tr": "Kol",
+      "meaning_en": "Arm",
+      "meaning_uk": "Рука",
+      "example": "Mein rechter *** tut weh."
+    },
+    {
+      "term": "der Bauch",
+      "type": "Noun",
+      "meaning_tr": "Karın, göbek",
+      "meaning_en": "Belly / Stomach",
+      "meaning_uk": "Живіт",
+      "example": "Ich habe ***schmerzen."
+    },
+    {
+      "term": "der Finger",
+      "type": "Noun",
+      "meaning_tr": "Parmak",
+      "meaning_en": "Finger",
+      "meaning_uk": "Палець",
+      "example": "Der kleine *** ist verletzt."
+    },
+    {
+      "term": "der Fuß",
+      "type": "Noun",
+      "meaning_tr": "Ayak",
+      "meaning_en": "Foot",
+      "meaning_uk": "Ступня",
+      "example": "Ich gehe zu ***."
+    },
+    {
+      "term": "der Hals",
+      "type": "Noun",
+      "meaning_tr": "Boğaz, boyun",
+      "meaning_en": "Neck / Throat",
+      "meaning_uk": "Шия / Горло",
+      "example": "Ich habe ***weh."
+    },
+    {
+      "term": "der Husten",
+      "type": "Noun",
+      "meaning_tr": "Öksürük",
+      "meaning_en": "Cough",
+      "meaning_uk": "Кашель",
+      "example": "Er hat starken ***."
+    },
+    {
+      "term": "der Kopf",
+      "type": "Noun",
+      "meaning_tr": "Baş, kafa",
+      "meaning_en": "Head",
+      "meaning_uk": "Голова",
+      "example": "Mein *** tut weh."
+    },
+    {
+      "term": "der Körper",
+      "type": "Noun",
+      "meaning_tr": "Vücut",
+      "meaning_en": "Body",
+      "meaning_uk": "Тіло",
+      "example": "Bewegung ist gut für den ***."
+    },
+    {
+      "term": "der Mund",
+      "type": "Noun",
+      "meaning_tr": "Ağız",
+      "meaning_en": "Mouth",
+      "meaning_uk": "Рот",
+      "example": "Machen Sie bitte den *** auf."
+    },
+    {
+      "term": "der Rücken",
+      "type": "Noun",
+      "meaning_tr": "Sırt",
+      "meaning_en": "Back",
+      "meaning_uk": "Спина",
+      "example": "Ich habe ***probleme."
+    },
+    {
+      "term": "der Schnupfen",
+      "type": "Noun",
+      "meaning_tr": "Nezle, burun akıntısı",
+      "meaning_en": "Cold / Sniffles",
+      "meaning_uk": "Нежить",
+      "example": "Ich habe einen ***."
+    },
+    {
+      "term": "der Schmerz",
+      "type": "Noun",
+      "meaning_tr": "Ağrı, sızı",
+      "meaning_en": "Pain",
+      "meaning_uk": "Біль",
+      "example": "Haben Sie starke ***en?"
+    },
+    {
+      "term": "der Zahn",
+      "type": "Noun",
+      "meaning_tr": "Diş",
+      "meaning_en": "Tooth",
+      "meaning_uk": "Зуб",
+      "example": "Der *** muss raus."
+    },
+    {
+      "term": "die Apotheke",
+      "type": "Noun",
+      "meaning_tr": "Eczane",
+      "meaning_en": "Pharmacy",
+      "meaning_uk": "Аптека",
+      "example": "Wo ist die nächste ***?"
+    },
+    {
+      "term": "die Apothekerin",
+      "type": "Noun",
+      "meaning_tr": "Eczacı (kadın)",
+      "meaning_en": "Pharmacist (female)",
+      "meaning_uk": "Аптекарка",
+      "example": "Die *** erklärt die Medizin."
+    },
+    {
+      "term": "die Besserung",
+      "type": "Noun",
+      "meaning_tr": "İyileşme",
+      "meaning_en": "Recovery / Improvement",
+      "meaning_uk": "Одужання",
+      "example": "Gute ***!"
+    },
+    {
+      "term": "die Brust",
+      "type": "Noun",
+      "meaning_tr": "Göğüs",
+      "meaning_en": "Chest",
+      "meaning_uk": "Груди",
+      "example": "Schmerzen in der ***."
+    },
+    {
+      "term": "die Diät",
+      "type": "Noun",
+      "meaning_tr": "Diyet",
+      "meaning_en": "Diet",
+      "meaning_uk": "Дієта",
+      "example": "Ich mache eine ***."
+    },
+    {
+      "term": "die Gesundheit",
+      "type": "Noun",
+      "meaning_tr": "Sağlık",
+      "meaning_en": "Health",
+      "meaning_uk": "Здоров'я",
+      "example": "*** ist wichtig."
+    },
+    {
+      "term": "die Hand",
+      "type": "Noun",
+      "meaning_tr": "El",
+      "meaning_en": "Hand",
+      "meaning_uk": "Рука",
+      "example": "Was hast du an der ***?"
+    },
+    {
+      "term": "die Krankheit",
+      "type": "Noun",
+      "meaning_tr": "Hastalık",
+      "meaning_en": "Illness / Disease",
+      "meaning_uk": "Хвороба",
+      "example": "Eine schwere ***."
+    },
+    {
+      "term": "die Nase",
+      "type": "Noun",
+      "meaning_tr": "Burun",
+      "meaning_en": "Nose",
+      "meaning_uk": "Ніс",
+      "example": "Deine *** läuft."
+    },
+    {
+      "term": "die Salbe",
+      "type": "Noun",
+      "meaning_tr": "Merhem, krem",
+      "meaning_en": "Ointment",
+      "meaning_uk": "Мазь",
+      "example": "Benutzen Sie diese ***."
+    },
+    {
+      "term": "die Schulter",
+      "type": "Noun",
+      "meaning_tr": "Omuz",
+      "meaning_en": "Shoulder",
+      "meaning_uk": "Плече",
+      "example": "Meine linke *** schmerzt."
+    },
+    {
+      "term": "die Tablette",
+      "type": "Noun",
+      "meaning_tr": "Hap, tablet",
+      "meaning_en": "Tablet / Pill",
+      "meaning_uk": "Таблетка",
+      "example": "Nehmen Sie eine ***."
+    },
+    {
+      "term": "die Untersuchung",
+      "type": "Noun",
+      "meaning_tr": "Muayene, inceleme",
+      "meaning_en": "Examination",
+      "meaning_uk": "Обстеження",
+      "example": "Die *** dauert nicht lange."
+    },
+    {
+      "term": "fit",
+      "type": "Adjective",
+      "meaning_tr": "Zinde, formda",
+      "meaning_en": "Fit",
+      "meaning_uk": "У хорошій формі",
+      "example": "Ich fühle mich ***."
+    },
+    {
+      "term": "gesund",
+      "type": "Adjective",
+      "meaning_tr": "Sağlıklı",
+      "meaning_en": "Healthy",
+      "meaning_uk": "Здоровий",
+      "example": "Du lebst sehr ***."
+    },
+    {
+      "term": "husten",
+      "type": "Verb",
+      "meaning_tr": "Öksürmek",
+      "meaning_en": "To cough",
+      "meaning_uk": "Кашляти",
+      "example": "Das Baby ***t viel."
+    },
+    {
+      "term": "krank",
+      "type": "Adjective",
+      "meaning_tr": "Hasta",
+      "meaning_en": "Sick / Ill",
+      "meaning_uk": "Хворий",
+      "example": "Ich bin leider ***."
+    },
+    {
+      "term": "müde",
+      "type": "Adjective",
+      "meaning_tr": "Yorgun, uykulu",
+      "meaning_en": "Tired",
+      "meaning_uk": "Втомлений",
+      "example": "Bist du schon ***?"
+    },
+    {
+      "term": "rauchen",
+      "type": "Verb",
+      "meaning_tr": "Sigara içmek",
+      "meaning_en": "To smoke",
+      "meaning_uk": "Палити",
+      "example": "Hier darf man nicht ***."
+    },
+    {
+      "term": "schlimm",
+      "type": "Adjective",
+      "meaning_tr": "Kötü, fena",
+      "meaning_en": "Bad / Serious",
+      "meaning_uk": "Погано",
+      "example": "Ist es sehr ***?"
+    },
+    {
+      "term": "schmerzen",
+      "type": "Verb",
+      "meaning_tr": "Ağrımak",
+      "meaning_en": "To ache / To hurt",
+      "meaning_uk": "Боліти",
+      "example": "Was ***t Ihnen?"
+    },
+    {
+      "term": "schwanger",
+      "type": "Adjective",
+      "meaning_tr": "Hamile",
+      "meaning_en": "Pregnant",
+      "meaning_uk": "Вагітна",
+      "example": "Sie ist im sechsten Monat ***."
+    },
+    {
+      "term": "tabletten einnehmen",
+      "type": "Phrase",
+      "meaning_tr": "Hap kullanmak/yutmak",
+      "meaning_en": "To take pills",
+      "meaning_uk": "Приймати таблетки",
+      "example": "Muss ich die ***?"
+    },
+    {
+      "term": "untersuchen",
+      "type": "Verb",
+      "meaning_tr": "Muayene etmek, incelemek",
+      "meaning_en": "To examine",
+      "meaning_uk": "Обстежувати",
+      "example": "Der Arzt ***t den Patienten."
+    },
+    {
+      "term": "verletzt",
+      "type": "Adjective",
+      "meaning_tr": "Yaralı",
+      "meaning_en": "Injured",
+      "meaning_uk": "Поранений",
+      "example": "Er ist am Knie ***."
+    },
+    {
+      "term": "weh tun",
+      "type": "Verb (separable)",
+      "meaning_tr": "Acımak, ağrımak",
+      "meaning_en": "To hurt",
+      "meaning_uk": "Боліти",
+      "example": "Meine Zähne tun weh."
+    },
+    {
+      "term": "zunehmen",
+      "type": "Verb",
+      "meaning_tr": "Kilo almak",
+      "meaning_en": "To gain weight",
+      "meaning_uk": "Набирати вагу",
+      "example": "Ich habe im Urlaub ***."
+    }
+  ]
+}

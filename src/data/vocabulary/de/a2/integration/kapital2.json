@@ -1,0 +1,470 @@
+{
+  "title": "Integration A2 - Kapitel 2",
+  "language": "de",
+  "words": [
+    {
+      "term": "abbauen",
+      "type": "Verb",
+      "meaning_tr": "Azaltmak, (stres) atmak, sökmek",
+      "meaning_en": "To reduce / To break down",
+      "meaning_uk": "Зменшувати / Розбирати",
+      "example": "Sport hilft, Stress ***zu***."
+    },
+    {
+      "term": "anstrengend",
+      "type": "Adjective",
+      "meaning_tr": "Yorucu, zahmetli, yoran",
+      "meaning_en": "Exhausting / Strenuous",
+      "meaning_uk": "Виснажливий",
+      "example": "Die Arbeit in der Fabrik ist sehr ***."
+    },
+    {
+      "term": "aufhören",
+      "type": "Verb",
+      "meaning_tr": "Bırakmak, son vermek, durmak",
+      "meaning_en": "To stop / To quit",
+      "meaning_uk": "Припиняти",
+      "example": "Wann hörst du mit der Arbeit auf?"
+    },
+    {
+      "term": "ausfüllen",
+      "type": "Verb",
+      "meaning_tr": "Doldurmak (form, belge vb.)",
+      "meaning_en": "To fill out",
+      "meaning_uk": "Заповнювати",
+      "example": "Bitte füllen Sie das Formular aus."
+    },
+    {
+      "term": "befriedigend",
+      "type": "Adjective",
+      "meaning_tr": "Tatmin edici (Alman not sisteminde 3)",
+      "meaning_en": "Satisfactory",
+      "meaning_uk": "Задовільно",
+      "example": "Er hat eine Drei, also ***."
+    },
+    {
+      "term": "berufstätig",
+      "type": "Adjective",
+      "meaning_tr": "Çalışan, meslek sahibi",
+      "meaning_en": "Employed / Working",
+      "meaning_uk": "Працюючий",
+      "example": "Sind Ihre Eltern ***?"
+    },
+    {
+      "term": "bestehen",
+      "type": "Verb",
+      "meaning_tr": "Başarmak, (sınavı) geçmek",
+      "meaning_en": "To pass (an exam)",
+      "meaning_uk": "Скласти (іспит)",
+      "example": "Ich habe die Prüfung ***."
+    },
+    {
+      "term": "das Abitur",
+      "type": "Noun",
+      "meaning_tr": "Lise bitirme sınavı (üniversite geçiş)",
+      "meaning_en": "High school graduation exam",
+      "meaning_uk": "Атестат",
+      "example": "Nach dem *** studiert er."
+    },
+    {
+      "term": "das Biologie",
+      "type": "Noun",
+      "meaning_tr": "Biyoloji dersi",
+      "meaning_en": "Biology",
+      "meaning_uk": "Біологія",
+      "example": "Wir lernen in *** viel über Pflanzen."
+    },
+    {
+      "term": "das Chemie",
+      "type": "Noun",
+      "meaning_tr": "Kimya dersi",
+      "meaning_en": "Chemistry",
+      "meaning_uk": "Хімія",
+      "example": "Das Experiment in *** war toll."
+    },
+    {
+      "term": "das Deutsch",
+      "type": "Noun",
+      "meaning_tr": "Almanca dersi",
+      "meaning_en": "German",
+      "meaning_uk": "Німецька мова",
+      "example": "Wir haben heute zwei Stunden ***."
+    },
+    {
+      "term": "das Englisch",
+      "type": "Noun",
+      "meaning_tr": "İngilizce dersi",
+      "meaning_en": "English",
+      "meaning_uk": "Англійська мова",
+      "example": "*** ist eine Weltsprache."
+    },
+    {
+      "term": "das Fach",
+      "type": "Noun",
+      "meaning_tr": "Ders, branş, bölüm",
+      "meaning_en": "Subject / Department",
+      "meaning_uk": "Предмет",
+      "example": "Welches *** magst du?"
+    },
+    {
+      "term": "das Gehalt",
+      "type": "Noun",
+      "meaning_tr": "Maaş (aylık sabit)",
+      "meaning_en": "Salary",
+      "meaning_uk": "Оклад",
+      "example": "Das *** ist sehr gut."
+    },
+    {
+      "term": "das Gymnasium",
+      "type": "Noun",
+      "meaning_tr": "Gimnazyum (Lise türü)",
+      "meaning_en": "Grammar school",
+      "meaning_uk": "Гімназія",
+      "example": "Er geht auf das ***."
+    },
+    {
+      "term": "das Kunst",
+      "type": "Noun",
+      "meaning_tr": "Resim, sanat dersi",
+      "meaning_en": "Art",
+      "meaning_uk": "Мистецтво",
+      "example": "Wir malen in ***."
+    },
+    {
+      "term": "das Mathe",
+      "type": "Noun",
+      "meaning_tr": "Matematik dersi",
+      "meaning_en": "Math",
+      "meaning_uk": "Математика",
+      "example": "*** ist mein Lieblingsfach."
+    },
+    {
+      "term": "das Praktikum",
+      "type": "Noun",
+      "meaning_tr": "Staj",
+      "meaning_en": "Internship",
+      "meaning_uk": "Практика",
+      "example": "Ich mache ein *** bei BMW."
+    },
+    {
+      "term": "das Schulfach",
+      "type": "Noun",
+      "meaning_tr": "Okul dersi",
+      "meaning_en": "School subject",
+      "meaning_uk": "Шкільний предмет",
+      "example": "Bio ist ein schweres ***."
+    },
+    {
+      "term": "das Sport",
+      "type": "Noun",
+      "meaning_tr": "Beden eğitimi dersi",
+      "meaning_en": "Physical education",
+      "meaning_uk": "Спорт",
+      "example": "Wir haben am Montag ***."
+    },
+    {
+      "term": "das Studium",
+      "type": "Noun",
+      "meaning_tr": "Üniversite öğrenimi",
+      "meaning_en": "University studies",
+      "meaning_uk": "Навчання у ВНЗ",
+      "example": "Das *** dauert vier Jahre."
+    },
+    {
+      "term": "das Zeugnis",
+      "type": "Noun",
+      "meaning_tr": "Karne, sertifika, belge",
+      "meaning_en": "Report card / Certificate",
+      "meaning_uk": "Свідоцтво",
+      "example": "Hier ist mein Schul***."
+    },
+    {
+      "term": "der Abschluss",
+      "type": "Noun",
+      "meaning_tr": "Mezuniyet, diploma",
+      "meaning_en": "Graduation",
+      "meaning_uk": "Закінчення навчання",
+      "example": "Hast du einen ***?"
+    },
+    {
+      "term": "der Auszubildende",
+      "type": "Noun",
+      "meaning_tr": "Meslek eğitimi alan (erkek)",
+      "meaning_en": "Male trainee",
+      "meaning_uk": "Учень",
+      "example": "Der *** lernt schnell."
+    },
+    {
+      "term": "der Azubi",
+      "type": "Noun",
+      "meaning_tr": "Çırak (kısaltma, erkek)",
+      "meaning_en": "Apprentice (male)",
+      "meaning_uk": "Учень",
+      "example": "Unser *** ist heute krank."
+    },
+    {
+      "term": "der Berufswunsch",
+      "type": "Noun",
+      "meaning_tr": "Meslek hayali",
+      "meaning_en": "Career goal",
+      "meaning_uk": "Професія мрії",
+      "example": "Was ist dein ***?"
+    },
+    {
+      "term": "der Lohn",
+      "type": "Noun",
+      "meaning_tr": "Ücret, yevmiye",
+      "meaning_en": "Wage",
+      "meaning_uk": "Заробітна плата",
+      "example": "Der *** wird bar gezahlt."
+    },
+    {
+      "term": "der Wunsch",
+      "type": "Noun",
+      "meaning_tr": "İstek, dilek",
+      "meaning_en": "Wish",
+      "meaning_uk": "Бажання",
+      "example": "Haben Sie einen ***?"
+    },
+    {
+      "term": "die Ausbildung",
+      "type": "Noun",
+      "meaning_tr": "Mesleki eğitim",
+      "meaning_en": "Vocational training",
+      "meaning_uk": "Професійна освіта",
+      "example": "Die *** macht Spaß."
+    },
+    {
+      "term": "die Auszubildende",
+      "type": "Noun",
+      "meaning_tr": "Meslek eğitimi alan (kadın)",
+      "meaning_en": "Female trainee",
+      "meaning_uk": "Учениця",
+      "example": "Die *** arbeitet fleißig."
+    },
+    {
+      "term": "die Azubine",
+      "type": "Noun",
+      "meaning_tr": "Çırak (kısaltma, kadın)",
+      "meaning_en": "Apprentice (female)",
+      "meaning_uk": "Учениця",
+      "example": "Die *** fängt morgen an."
+    },
+    {
+      "term": "die Berufsschule",
+      "type": "Noun",
+      "meaning_tr": "Meslek okulu",
+      "meaning_en": "Vocational school",
+      "meaning_uk": "Професійна школа",
+      "example": "Ich gehe zur ***."
+    },
+    {
+      "term": "die Bewerbung",
+      "type": "Noun",
+      "meaning_tr": "İş başvurusu",
+      "meaning_en": "Job application",
+      "meaning_uk": "Заява",
+      "example": "Schick deine *** per Mail."
+    },
+    {
+      "term": "die Erdkunde",
+      "type": "Noun",
+      "meaning_tr": "Coğrafya dersi",
+      "meaning_en": "Geography",
+      "meaning_uk": "Географія",
+      "example": "In *** lernen wir Länder."
+    },
+    {
+      "term": "die Gesamtschule",
+      "type": "Noun",
+      "meaning_tr": "Karma eğitim veren okul",
+      "meaning_en": "Comprehensive school",
+      "meaning_uk": "Загальноосвітня школа",
+      "example": "Die *** ist sehr groß."
+    },
+    {
+      "term": "die Geschichte",
+      "type": "Noun",
+      "meaning_tr": "Tarih dersi / Hikaye",
+      "meaning_en": "History",
+      "meaning_uk": "Історія",
+      "example": "Ich mag *** sehr."
+    },
+    {
+      "term": "die Grundschule",
+      "type": "Noun",
+      "meaning_tr": "İlkokul",
+      "meaning_en": "Primary school",
+      "meaning_uk": "Початкова школа",
+      "example": "Er geht in die ***."
+    },
+    {
+      "term": "die Hauptschule",
+      "type": "Noun",
+      "meaning_tr": "Almanya'da lise türü (temel)",
+      "meaning_en": "Secondary school",
+      "meaning_uk": "Основна школа",
+      "example": "Er besucht die ***."
+    },
+    {
+      "term": "die Note",
+      "type": "Noun",
+      "meaning_tr": "Not, puan",
+      "meaning_en": "Grade",
+      "meaning_uk": "Оцінка",
+      "example": "Eine gute *** in Mathe."
+    },
+    {
+      "term": "die Prüfung",
+      "type": "Noun",
+      "meaning_tr": "Sınav",
+      "meaning_en": "Exam",
+      "meaning_uk": "Іспит",
+      "example": "Die *** war schwer."
+    },
+    {
+      "term": "die Realschule",
+      "type": "Noun",
+      "meaning_tr": "Orta derece lise türü",
+      "meaning_en": "Secondary school",
+      "meaning_uk": "Реальна школа",
+      "example": "Sie besucht die ***."
+    },
+    {
+      "term": "die Teilzeit",
+      "type": "Noun",
+      "meaning_tr": "Yarı zamanlı çalışma",
+      "meaning_en": "Part-time",
+      "meaning_uk": "Неповний день",
+      "example": "Ich arbeite in ***."
+    },
+    {
+      "term": "die Universität",
+      "type": "Noun",
+      "meaning_tr": "Üniversite",
+      "meaning_en": "University",
+      "meaning_uk": "Університет",
+      "example": "Ich lerne an der ***."
+    },
+    {
+      "term": "die Vollzeit",
+      "type": "Noun",
+      "meaning_tr": "Tam zamanlı çalışma",
+      "meaning_en": "Full-time",
+      "meaning_uk": "Повний день",
+      "example": "Er hat einen Job in ***."
+    },
+    {
+      "term": "erfolgreich",
+      "type": "Adjective",
+      "meaning_tr": "Başarılı",
+      "meaning_en": "Successful",
+      "meaning_uk": "Успішний",
+      "example": "Sei *** bei der Prüfung."
+    },
+    {
+      "term": "faul",
+      "type": "Adjective",
+      "meaning_tr": "Tembel",
+      "meaning_en": "Lazy",
+      "meaning_uk": "Лінивий",
+      "example": "Sei nicht so ***!"
+    },
+    {
+      "term": "fleißig",
+      "type": "Adjective",
+      "meaning_tr": "Çalışkan",
+      "meaning_en": "Hardworking",
+      "meaning_uk": "Старанний",
+      "example": "Du bist sehr ***."
+    },
+    {
+      "term": "gut",
+      "type": "Adjective",
+      "meaning_tr": "İyi (Alman not sisteminde 2)",
+      "meaning_en": "Good (Grade 2)",
+      "meaning_uk": "Добре",
+      "example": "Zwei ist eine ***e Note."
+    },
+    {
+      "term": "kompliziert",
+      "type": "Adjective",
+      "meaning_tr": "Karmaşık, zor",
+      "meaning_en": "Complicated",
+      "meaning_uk": "Складний",
+      "example": "Die Grammatik ist ***."
+    },
+    {
+      "term": "lernen",
+      "type": "Verb",
+      "meaning_tr": "Öğrenmek, ders çalışmak",
+      "meaning_en": "To learn / To study",
+      "meaning_uk": "Вчитися",
+      "example": "Wir *** Deutsch."
+    },
+    {
+      "term": "mangelhaft",
+      "type": "Adjective",
+      "meaning_tr": "Zayıf, yetersiz (Not 5)",
+      "meaning_en": "Poor (Grade 5)",
+      "meaning_uk": "Незадовільно",
+      "example": "Die Note ist ***."
+    },
+    {
+      "term": "schrecklich",
+      "type": "Adjective",
+      "meaning_tr": "Korkunç, berbat",
+      "meaning_en": "Terrible",
+      "meaning_uk": "Жахливий",
+      "example": "Das Wetter ist ***."
+    },
+    {
+      "term": "sehr gut",
+      "type": "Adjective / Phrase",
+      "meaning_tr": "Pekiyi (Not 1)",
+      "meaning_en": "Excellent (Grade 1)",
+      "meaning_uk": "Відмінно",
+      "example": "Er hat ein *** bekommen."
+    },
+    {
+      "term": "streng",
+      "type": "Adjective",
+      "meaning_tr": "Sert, disiplinli",
+      "meaning_en": "Strict",
+      "meaning_uk": "Суворий",
+      "example": "Der Lehrer ist ***."
+    },
+    {
+      "term": "studieren",
+      "type": "Verb",
+      "meaning_tr": "Üniversitede okumak",
+      "meaning_en": "To study (at university)",
+      "meaning_uk": "Навчатися в університеті",
+      "example": "Was *** du?"
+    },
+    {
+      "term": "ungenügend",
+      "type": "Adjective",
+      "meaning_tr": "Yetersiz (Not 6)",
+      "meaning_en": "Insufficient (Grade 6)",
+      "meaning_uk": "Недостатньо",
+      "example": "Leider ***."
+    },
+    {
+      "term": "verdienen",
+      "type": "Verb",
+      "meaning_tr": "Para kazanmak, hak etmek",
+      "meaning_en": "To earn",
+      "meaning_uk": "Заробляти",
+      "example": "Wie viel *** du?"
+    },
+    {
+      "term": "wiederholen",
+      "type": "Verb",
+      "meaning_tr": "Tekrar etmek",
+      "meaning_en": "To repeat",
+      "meaning_uk": "Повторювати",
+      "example": "Können Sie das ***?"
+    }
+  ]
+}

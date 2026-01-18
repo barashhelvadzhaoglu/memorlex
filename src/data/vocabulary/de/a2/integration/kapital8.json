@@ -1,0 +1,398 @@
+{
+  "title": "Integration A2 - Kapitel 8",
+  "language": "de",
+  "words": [
+    {
+      "term": "abmachen",
+      "type": "Verb",
+      "meaning_tr": "Kararlaştırmak, sözleşmek",
+      "meaning_en": "To agree on / To arrange",
+      "meaning_uk": "Домовлятися",
+      "example": "Wir haben acht Uhr ***."
+    },
+    {
+      "term": "absagen",
+      "type": "Verb",
+      "meaning_tr": "İptal etmek (randevu/davet)",
+      "meaning_en": "To cancel / To call off",
+      "meaning_uk": "Відмовляти / Скасовувати",
+      "example": "Ich muss den Termin leider ***."
+    },
+    {
+      "term": "amüsieren",
+      "type": "Verb (reflexive)",
+      "meaning_tr": "Eğlenmek",
+      "meaning_en": "To enjoy oneself / To have fun",
+      "meaning_uk": "Розважатися",
+      "example": "Wir haben uns gut ***."
+    },
+    {
+      "term": "anfangen",
+      "type": "Verb (separable)",
+      "meaning_tr": "Başlamak",
+      "meaning_en": "To begin / To start",
+      "meaning_uk": "Починати",
+      "example": "Wann fängt der Film an?"
+    },
+    {
+      "term": "ausgehen",
+      "type": "Verb (separable)",
+      "meaning_tr": "Dışarı çıkmak (eğlenmek için)",
+      "meaning_en": "To go out",
+      "meaning_uk": "Йти гуляти / Виходити в світ",
+      "example": "Wollen wir heute Abend ***?"
+    },
+    {
+      "term": "das Konzert",
+      "type": "Noun",
+      "meaning_tr": "Konser",
+      "meaning_en": "Concert",
+      "meaning_uk": "Концерт",
+      "example": "Das *** war fantastisch."
+    },
+    {
+      "term": "das Programm",
+      "type": "Noun",
+      "meaning_tr": "Program, etkinlik planı",
+      "meaning_en": "Program / Schedule",
+      "meaning_uk": "Програма",
+      "example": "Was steht heute auf dem ***?"
+    },
+    {
+      "term": "das Spiel",
+      "type": "Noun",
+      "meaning_tr": "Oyun, maç",
+      "meaning_en": "Game / Match",
+      "meaning_uk": "Гра",
+      "example": "Das *** beginnt um 20 Uhr."
+    },
+    {
+      "term": "das Stück",
+      "type": "Noun",
+      "meaning_tr": "Parça, oyun (tiyatro)",
+      "meaning_en": "Piece / Play",
+      "meaning_uk": "П'єса / Шматок",
+      "example": "Das Theater*** ist sehr lustig."
+    },
+    {
+      "term": "das Theater",
+      "type": "Noun",
+      "meaning_tr": "Tiyatro",
+      "meaning_en": "Theater",
+      "meaning_uk": "Театр",
+      "example": "Gehen wir ins ***?"
+    },
+    {
+      "term": "der Anfang",
+      "type": "Noun",
+      "meaning_tr": "Başlangıç",
+      "meaning_en": "Beginning / Start",
+      "meaning_uk": "Початок",
+      "example": "Der *** war etwas langweilig."
+    },
+    {
+      "term": "der Artist",
+      "type": "Noun",
+      "meaning_tr": "Akrobat, sirk sanatçısı (erkek)",
+      "meaning_en": "Circus artist (male)",
+      "meaning_uk": "Артист цирку",
+      "example": "Der *** ist sehr mutig."
+    },
+    {
+      "term": "der Eintritt",
+      "type": "Noun",
+      "meaning_tr": "Giriş (ücret/eylem)",
+      "meaning_en": "Entrance / Admission",
+      "meaning_uk": "Вхід",
+      "example": "Der *** ist für Kinder frei."
+    },
+    {
+      "term": "der Film",
+      "type": "Noun",
+      "meaning_tr": "Film",
+      "meaning_en": "Movie / Film",
+      "meaning_uk": "Фільм",
+      "example": "Der *** dauert zwei Stunden."
+    },
+    {
+      "term": "der Grund",
+      "type": "Noun",
+      "meaning_tr": "Sebep, neden",
+      "meaning_en": "Reason",
+      "meaning_uk": "Причина",
+      "example": "Das ist ein guter ***."
+    },
+    {
+      "term": "der Musiker",
+      "type": "Noun",
+      "meaning_tr": "Müzisyen (erkek)",
+      "meaning_en": "Musician (male)",
+      "meaning_uk": "Музикант",
+      "example": "Er ist ein bekannter ***."
+    },
+    {
+      "term": "der Schauspieler",
+      "type": "Noun",
+      "meaning_tr": "Oyuncu, aktör (erkek)",
+      "meaning_en": "Actor (male)",
+      "meaning_uk": "Актор",
+      "example": "Der *** spielt seine Rolle gut."
+    },
+    {
+      "term": "der Treffpunkt",
+      "type": "Noun",
+      "meaning_tr": "Buluşma noktası",
+      "meaning_en": "Meeting point",
+      "meaning_uk": "Місце зустрічі",
+      "example": "Der Bahnhof ist unser ***."
+    },
+    {
+      "term": "der Vorschlag",
+      "type": "Noun",
+      "meaning_tr": "Öneri, teklif",
+      "meaning_en": "Suggestion / Proposal",
+      "meaning_uk": "Пропозиція",
+      "example": "Was hältst du von meinem ***?"
+    },
+    {
+      "term": "der Zirkus",
+      "type": "Noun",
+      "meaning_tr": "Sirk",
+      "meaning_en": "Circus",
+      "meaning_uk": "Цирк",
+      "example": "Wir gehen mit den Kindern in den ***."
+    },
+    {
+      "term": "die Artistin",
+      "type": "Noun",
+      "meaning_tr": "Akrobat (kadın)",
+      "meaning_en": "Circus artist (female)",
+      "meaning_uk": "Артистка цирку",
+      "example": "Die *** zeigt tolle Tricks."
+    },
+    {
+      "term": "die Einladung",
+      "type": "Noun",
+      "meaning_tr": "Davet, davetiye",
+      "meaning_en": "Invitation",
+      "meaning_uk": "Запрошення",
+      "example": "Danke für die ***."
+    },
+    {
+      "term": "die Eintrittskarte",
+      "type": "Noun",
+      "meaning_tr": "Giriş bileti",
+      "meaning_en": "Entrance ticket",
+      "meaning_uk": "Вхідний квиток",
+      "example": "Hast du die ***n?"
+    },
+    {
+      "term": "die Karte",
+      "type": "Noun",
+      "meaning_tr": "Bilet, kart",
+      "meaning_en": "Ticket / Card",
+      "meaning_uk": "Квиток / Карта",
+      "example": "Zwei ***n für das Kino, bitte."
+    },
+    {
+      "term": "die Kultur",
+      "type": "Noun",
+      "meaning_tr": "Kültür",
+      "meaning_en": "Culture",
+      "meaning_uk": "Культура",
+      "example": "Berlin hat viel *** zu bieten."
+    },
+    {
+      "term": "die Kunst",
+      "type": "Noun",
+      "meaning_tr": "Sanat",
+      "meaning_en": "Art",
+      "meaning_uk": "Мистецтво",
+      "example": "Sie interessiert sich für moderne ***."
+    },
+    {
+      "term": "die Lust",
+      "type": "Noun",
+      "meaning_tr": "İstek, arzu",
+      "meaning_en": "Desire / Interest",
+      "meaning_uk": "Бажання",
+      "example": "Hast du *** auf einen Kaffee?"
+    },
+    {
+      "term": "die Musikerin",
+      "type": "Noun",
+      "meaning_tr": "Müzisyen (kadın)",
+      "meaning_en": "Musician (female)",
+      "meaning_uk": "Музикантка",
+      "example": "Sie ist eine talentierte ***."
+    },
+    {
+      "term": "die Reihe",
+      "type": "Noun",
+      "meaning_tr": "Sıra",
+      "meaning_en": "Row",
+      "meaning_uk": "Ряд",
+      "example": "Wir sitzen in der ersten ***."
+    },
+    {
+      "term": "die Schauspielerin",
+      "type": "Noun",
+      "meaning_tr": "Oyuncu, aktris (kadın)",
+      "meaning_en": "Actress (female)",
+      "meaning_uk": "Акторка",
+      "example": "Die *** ist weltberühmt."
+    },
+    {
+      "term": "die Veranstaltung",
+      "type": "Noun",
+      "meaning_tr": "Etkinlik, organizasyon",
+      "meaning_en": "Event",
+      "meaning_uk": "Захід / Подія",
+      "example": "Die *** findet draußen statt."
+    },
+    {
+      "term": "die Vorstellung",
+      "type": "Noun",
+      "meaning_tr": "Gösterim, performans / Tanıtım",
+      "meaning_en": "Performance / Show",
+      "meaning_uk": "Вистава / Уявлення",
+      "example": "Die nächste *** ist um 20 Uhr."
+    },
+    {
+      "term": "einladen",
+      "type": "Verb (separable)",
+      "meaning_tr": "Davet etmek",
+      "meaning_en": "To invite",
+      "meaning_uk": "Запрошувати",
+      "example": "Darf ich dich zum Essen ***?"
+    },
+    {
+      "term": "interessant",
+      "type": "Adjective",
+      "meaning_tr": "İlginç",
+      "meaning_en": "Interesting",
+      "meaning_uk": "Цікавий",
+      "example": "Das ist ein ***es Thema."
+    },
+    {
+      "term": "interessieren",
+      "type": "Verb (reflexive)",
+      "meaning_tr": "İlgilenmek",
+      "meaning_en": "To be interested in",
+      "meaning_uk": "Цікавитися",
+      "example": "Ich *** mich für Musik."
+    },
+    {
+      "term": "langweilig",
+      "type": "Adjective",
+      "meaning_tr": "Sıkıcı",
+      "meaning_en": "Boring",
+      "meaning_uk": "Нудний",
+      "example": "Der Film war leider ***."
+    },
+    {
+      "term": "lustig",
+      "type": "Adjective",
+      "meaning_tr": "Komik, eğlenceli",
+      "meaning_en": "Funny / Amusing",
+      "meaning_uk": "Веселий / Смішний",
+      "example": "Die Komödie war sehr ***."
+    },
+    {
+      "term": "stattfinden",
+      "type": "Verb (separable)",
+      "meaning_tr": "Vuku bulmak, gerçekleşmek",
+      "meaning_en": "To take place / To happen",
+      "meaning_uk": "Відбуватися",
+      "example": "Das Konzert findet heute ***."
+    },
+    {
+      "term": "treffen",
+      "type": "Verb (reflexive)",
+      "meaning_tr": "Buluşmak",
+      "meaning_en": "To meet",
+      "meaning_uk": "Зустрічатися",
+      "example": "Wir *** uns vor dem Kino."
+    },
+    {
+      "term": "verpassen",
+      "type": "Verb",
+      "meaning_tr": "Kaçırmak (otobüs, şans vb.)",
+      "meaning_en": "To miss",
+      "meaning_uk": "Пропустити",
+      "example": "Ich habe den Anfang ***."
+    },
+    {
+      "term": "verschieben",
+      "type": "Verb",
+      "meaning_tr": "Ertelemek, kaydırmak",
+      "meaning_en": "To postpone / To shift",
+      "meaning_uk": "Перенести / Відкласти",
+      "example": "Können wir den Termin ***?"
+    },
+    {
+      "term": "versuchen",
+      "type": "Verb",
+      "meaning_tr": "Denemek",
+      "meaning_en": "To try / To attempt",
+      "meaning_uk": "Спробувати / Намагатися",
+      "example": "Ich ***, pünktlich zu sein."
+    },
+    {
+      "term": "vorgestern",
+      "type": "Adverb",
+      "meaning_tr": "Evvelsi gün",
+      "meaning_en": "Day before yesterday",
+      "meaning_uk": "Позавчора",
+      "example": "*** war ich im Theater."
+    },
+    {
+      "term": "vorhaben",
+      "type": "Verb (separable)",
+      "meaning_tr": "Niyeti olmak, planlamak",
+      "meaning_en": "To plan / To intend",
+      "meaning_uk": "Мати намір / Планувати",
+      "example": "Was hast du am Wochenende vor?"
+    },
+    {
+      "term": "vorschlagen",
+      "type": "Verb (separable)",
+      "meaning_tr": "Önermek",
+      "meaning_en": "To suggest",
+      "meaning_uk": "Пропонувати",
+      "example": "Ich *** vor, wir gehen essen."
+    },
+    {
+      "term": "warten",
+      "type": "Verb",
+      "meaning_tr": "Beklemek",
+      "meaning_en": "To wait",
+      "meaning_uk": "Чекати",
+      "example": "Ich *** auf dich."
+    },
+    {
+      "term": "wichtig",
+      "type": "Adjective",
+      "meaning_tr": "Önemli",
+      "meaning_en": "Important",
+      "meaning_uk": "Важливо",
+      "example": "Das ist ein ***er Termin."
+    },
+    {
+      "term": "wunderbar",
+      "type": "Adjective",
+      "meaning_tr": "Harika, müthiş",
+      "meaning_en": "Wonderful",
+      "meaning_uk": "Чудово",
+      "example": "Das Wetter ist ***."
+    },
+    {
+      "term": "zusammen",
+      "type": "Adverb",
+      "meaning_tr": "Birlikte, beraber",
+      "meaning_en": "Together",
+      "meaning_uk": "Разом",
+      "example": "Wollen wir *** gehen?"
+    }
+  ]
+}

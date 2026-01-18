@@ -1,0 +1,686 @@
+{
+  "title": "Integration A1 - Kapitel 15",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Fahrschule",
+      "type": "Noun",
+      "meaning_tr": "Sürücü kursu ya da ehliyet kursu",
+      "meaning_en": "Driving school",
+      "meaning_uk": "Автошкола",
+      "example": "Ich lerne Auto fahren in der ***."
+    },
+    {
+      "term": "die Kinderkrippe",
+      "type": "Noun",
+      "meaning_tr": "Bebek kreşi, gündüz bakımevi ya da yuva",
+      "meaning_en": "Nursery / Daycare for infants",
+      "meaning_uk": "Ясла",
+      "example": "Ganz kleine Kinder gehen in die ***."
+    },
+    {
+      "term": "die Fremdsprache",
+      "type": "Noun",
+      "meaning_tr": "Yabancı dil",
+      "meaning_en": "Foreign language",
+      "meaning_uk": "Іноземна мова",
+      "example": "Deutsch ist für mich eine ***."
+    },
+    {
+      "term": "der Kindergarten",
+      "type": "Noun",
+      "meaning_tr": "Anaokulu ya da kreş",
+      "meaning_en": "Kindergarten / Preschool",
+      "meaning_uk": "Дитячий садок",
+      "example": "Kinder spielen und singen im ***."
+    },
+    {
+      "term": "die Volkshochschule",
+      "type": "Noun",
+      "meaning_tr": "Halk eğitim merkezi ya da akşam sanat okulu",
+      "meaning_en": "Adult education center (VHS)",
+      "meaning_uk": "Народний університет / Центр освіти дорослих",
+      "example": "Ich mache einen Deutschkurs an der ***."
+    },
+    {
+      "term": "die Universität",
+      "type": "Noun",
+      "meaning_tr": "Üniversite",
+      "meaning_en": "University",
+      "meaning_uk": "Університет",
+      "example": "Nach dem Abitur studiert man an der ***."
+    },
+    {
+      "term": "die Musikschule",
+      "type": "Noun",
+      "meaning_tr": "Müzik okulu ya da konservatuvar",
+      "meaning_en": "Music school",
+      "meaning_uk": "Музична школа",
+      "example": "Ich lerne Gitarre spielen in der ***."
+    },
+    {
+      "term": "das Praktikum",
+      "type": "Noun",
+      "meaning_tr": "Staj ya da iş deneyimi çalışması",
+      "meaning_en": "Internship / Work placement",
+      "meaning_uk": "Стажування / Практика",
+      "example": "Im Sommer mache ich ein *** in einer Firma."
+    },
+    {
+      "term": "die Ausbildung",
+      "type": "Noun",
+      "meaning_tr": "Mesleki eğitim, çıraklık ya da eğitim",
+      "meaning_en": "Vocational training / Apprenticeship",
+      "meaning_uk": "Професійная освіта / Навчання",
+      "example": "Er macht eine *** zum Mechaniker."
+    },
+    {
+      "term": "programmieren",
+      "type": "Verb",
+      "meaning_tr": "Programlamak ya da kod yazmak",
+      "meaning_en": "To program / To code",
+      "meaning_uk": "Програмувати",
+      "example": "Er sitzt am PC und möchte eine App ***."
+    },
+    {
+      "term": "ein Instrument lernen",
+      "type": "Verb Phrase",
+      "meaning_tr": "Bir enstrüman / müzik aleti çalmayı öğrenmek",
+      "meaning_en": "To learn a musical instrument",
+      "meaning_uk": "Вчитися грати на інструменті",
+      "example": "Möchtest du Klavier oder ein anderes ***?"
+    },
+    {
+      "term": "der Volleyball",
+      "type": "Noun",
+      "meaning_tr": "Voleybol",
+      "meaning_en": "Volleyball",
+      "meaning_uk": "Волейбол",
+      "example": "Wir spielen am Strand gerne ***."
+    },
+    {
+      "term": "malen",
+      "type": "Verb",
+      "meaning_tr": "Boyamak, resim yapmak ya da çizmek",
+      "meaning_en": "To paint / To draw",
+      "meaning_uk": "Малювати (фарбами)",
+      "example": "Ich nehme Farben und Pinsel, um ein Bild zu ***."
+    },
+    {
+      "term": "bedienen",
+      "type": "Verb",
+      "meaning_tr": "Kullanmak (makine), hizmet etmek ya da servis yapmak",
+      "meaning_en": "To operate / To serve",
+      "meaning_uk": "Керувати / Обслуговувати",
+      "example": "Kannst du das yeni Handy richtig ***?"
+    },
+    {
+      "term": "der-die Erwachsene",
+      "type": "Noun",
+      "meaning_tr": "Yetişkin, reşit ya da büyük",
+      "meaning_en": "Adult",
+      "meaning_uk": "Дорослий",
+      "example": "Dieser Film ist nur für ***."
+    },
+    {
+      "term": "der Rentner",
+      "type": "Noun",
+      "meaning_tr": "Emekli",
+      "meaning_en": "Pensioner / Retiree",
+      "meaning_uk": "Пенсіонер",
+      "example": "Er ist 70 Jahre alt und ist jetzt ***."
+    },
+    {
+      "term": "der Teenager",
+      "type": "Noun",
+      "meaning_tr": "Ergen, genç ya da onlu yaşlardaki kişi",
+      "meaning_en": "Teenager / Adolescent",
+      "meaning_uk": "Підліток",
+      "example": "Mein Sohn ist 15 und ein typischer ***."
+    },
+    {
+      "term": "gerade",
+      "type": "Adverb",
+      "meaning_tr": "Şu anda, az önce ya da tam şimdi",
+      "meaning_en": "Right now / Just",
+      "meaning_uk": "Якраз / Зараз",
+      "example": "Ich kann jetzt nicht, ich esse ***."
+    },
+    {
+      "term": "normalerweise",
+      "type": "Adverb",
+      "meaning_tr": "Normalde, genellikle ya da çoğunlukla",
+      "meaning_en": "Normally / Usually",
+      "meaning_uk": "Зазвичай",
+      "example": "*** trinke ich Tee, aber heute nehme ich Kaffee."
+    },
+    {
+      "term": "ungefähr",
+      "type": "Adverb",
+      "meaning_tr": "Yaklaşık, takriben ya da aşağı yukarı",
+      "meaning_en": "Approximately / About",
+      "meaning_uk": "Приблизно",
+      "example": "Der Kurs dauert *** zwei Stunden."
+    },
+    {
+      "term": "der Fahrlehrer",
+      "type": "Noun",
+      "meaning_tr": "Sürüş eğitmeni ya da direksiyon hocası",
+      "meaning_en": "Driving instructor",
+      "meaning_uk": "Інструктор з водіння",
+      "example": "Mein *** ist sehr geduldig beim Fahren."
+    },
+    {
+      "term": "die Aktivität",
+      "type": "Noun",
+      "meaning_tr": "Etkinlik ya da aktivite",
+      "meaning_en": "Activity",
+      "meaning_uk": "Активність / Діяльність",
+      "example": "Sport ist eine tolle *** für die Freizeit."
+    },
+    {
+      "term": "schminken",
+      "type": "Verb",
+      "meaning_tr": "Makyaj yapmak",
+      "meaning_en": "To put on makeup",
+      "meaning_uk": "Фарбуватися / Наносити макіяж",
+      "example": "Sie möchte sich für die Party schön ***."
+    },
+    {
+      "term": "stricken",
+      "type": "Verb",
+      "meaning_tr": "Örgü örmek",
+      "meaning_en": "To knit",
+      "meaning_uk": "В'язати",
+      "example": "Meine Oma kann sehr gut Socken ***."
+    },
+    {
+      "term": "nähen",
+      "type": "Verb",
+      "meaning_tr": "Dikmek (dikiş dikmek)",
+      "meaning_en": "To sew",
+      "meaning_uk": "Шити",
+      "example": "Das Loch in der Hose muss ich ***."
+    },
+    {
+      "term": "tapezieren",
+      "type": "Verb",
+      "meaning_tr": "Duvar kağıdı kaplamak",
+      "meaning_en": "To wallpaper",
+      "meaning_uk": "Клеїти шпалери",
+      "example": "Wir wollen das Wohnzimmer neu ***."
+    },
+    {
+      "term": "das Tischtennis",
+      "type": "Noun",
+      "meaning_tr": "Masa tenisi ya da ping-pong",
+      "meaning_en": "Table tennis",
+      "meaning_uk": "Настільний теніс",
+      "example": "Komm, wir spielen eine Runde ***."
+    },
+    {
+      "term": "das Klavier",
+      "type": "Noun",
+      "meaning_tr": "Piyano",
+      "meaning_en": "Piano",
+      "meaning_uk": "Піаніно",
+      "example": "Er spielt eine schöne Melodie auf dem ***."
+    },
+    {
+      "term": "der Inline-Skate",
+      "type": "Noun",
+      "meaning_tr": "Paten ya da tekerlekli paten",
+      "meaning_en": "Inline skates",
+      "meaning_uk": "Роликові ковзани",
+      "example": "Im Park fahre ich gerne mit dem ***."
+    },
+    {
+      "term": "gar nicht",
+      "type": "Adverb",
+      "meaning_tr": "Hiç, asla ya da hiçbir şekilde",
+      "meaning_en": "Not at all",
+      "meaning_uk": "Зовсім ні",
+      "example": "Das gefällt mir ***, es ist hässlich."
+    },
+    {
+      "term": "der Brief",
+      "type": "Noun",
+      "meaning_tr": "Mektup",
+      "meaning_en": "Letter",
+      "meaning_uk": "Лист",
+      "example": "Ich schreibe einen *** an meine Tante."
+    },
+    {
+      "term": "der Ausflug",
+      "type": "Noun",
+      "meaning_tr": "Gezinti, kısa yolculuk ya da piknik gezisi",
+      "meaning_en": "Excursion / Trip",
+      "meaning_uk": "Екскурсія / Прогулянка",
+      "example": "Am Wochenende machen wir einen ***."
+    },
+    {
+      "term": "losgehen",
+      "type": "Verb",
+      "meaning_tr": "Yola çıkmak, başlamak ya da harekete geçmek",
+      "meaning_en": "To set off / To start",
+      "meaning_uk": "Вирушати / Починатися",
+      "example": "Es ist Zeit, wir müssen jetzt ***."
+    },
+    {
+      "term": "mitgeben",
+      "type": "Verb",
+      "meaning_tr": "Yanına vermek (götürmesi için)",
+      "meaning_en": "To give along",
+      "meaning_uk": "Давати з собою",
+      "example": "Ich kann dir einen Regenschirm ***."
+    },
+    {
+      "term": "zurück",
+      "type": "Adverb",
+      "meaning_tr": "Geri ya da geriye",
+      "meaning_en": "Back",
+      "meaning_uk": "Назад",
+      "example": "Wann kommst du aus dem Urlaub ***?"
+    },
+    {
+      "term": "der Wald",
+      "type": "Noun",
+      "meaning_tr": "Orman ya da koru",
+      "meaning_en": "Forest / Woods",
+      "meaning_uk": "Ліс",
+      "example": "Wir gehen spazieren im grünen ***."
+    },
+    {
+      "term": "die Zahnschmerzen",
+      "type": "Noun",
+      "meaning_tr": "Diş ağrısı",
+      "meaning_en": "Toothache",
+      "meaning_uk": "Зубний біль",
+      "example": "Ich muss zum Zahnarzt, ich habe ***."
+    },
+    {
+      "term": "die Grippe",
+      "type": "Noun",
+      "meaning_tr": "Grip ya da ağır nezle",
+      "meaning_en": "Flu / Influenza",
+      "meaning_uk": "Грип",
+      "example": "Er hat Fieber und Husten, er hat die ***."
+    },
+    {
+      "term": "der Chor",
+      "type": "Noun",
+      "meaning_tr": "Koro",
+      "meaning_en": "Choir",
+      "meaning_uk": "Хор",
+      "example": "Ich singe mit vielen Leuten zusammen im ***."
+    },
+    {
+      "term": "das Musikinstrument",
+      "type": "Noun",
+      "meaning_tr": "Müzik aleti ya da enstrüman",
+      "meaning_en": "Musical instrument",
+      "meaning_uk": "Музичний інструмент",
+      "example": "Welches *** spielst du am liebsten?"
+    },
+    {
+      "term": "die Flöte",
+      "type": "Noun",
+      "meaning_tr": "Flüt",
+      "meaning_en": "Flute",
+      "meaning_uk": "Флейта",
+      "example": "Die *** ist ein kleines Blasinstrument."
+    },
+    {
+      "term": "die Geige",
+      "type": "Noun",
+      "meaning_tr": "Keman",
+      "meaning_en": "Violin",
+      "meaning_uk": "Скрипка",
+      "example": "Eine *** braucht man für klassische Musik."
+    },
+    {
+      "term": "das Keyboard",
+      "type": "Noun",
+      "meaning_tr": "Org ya da klavyeli çalgı",
+      "meaning_en": "Keyboard (musical)",
+      "meaning_uk": "Клавішні",
+      "example": "Er spielt moderne Lieder auf dem ***."
+    },
+    {
+      "term": "das Schlagzeug",
+      "type": "Noun",
+      "meaning_tr": "Bateri ya da davul seti",
+      "meaning_en": "Drums",
+      "meaning_uk": "Барабани / Ударна установка",
+      "example": "In einer Rockband ist das *** sehr laut."
+    },
+    {
+      "term": "die Trommel",
+      "type": "Noun",
+      "meaning_tr": "Davul ya da trampet",
+      "meaning_en": "Drum",
+      "meaning_uk": "Барабан",
+      "example": "Er schlägt mit den Stöcken auf die ***."
+    },
+    {
+      "term": "negativ",
+      "type": "Adjective",
+      "meaning_tr": "Olumsuz ya da negatif",
+      "meaning_en": "Negative",
+      "meaning_uk": "Негативний",
+      "example": "Denk nicht so ***, sei optimistischer."
+    },
+    {
+      "term": "positiv",
+      "type": "Adjective",
+      "meaning_tr": "Olumlu ya da pozitif",
+      "meaning_en": "Positive",
+      "meaning_uk": "Позитивний",
+      "example": "Das ist eine sehr *** Nachricht für uns."
+    },
+    {
+      "term": "doch",
+      "type": "Conjunction",
+      "meaning_tr": "Aksine, bilakis (olumsuz soruya olumlu yanıt verirken)",
+      "meaning_en": "On the contrary / But",
+      "meaning_uk": "Та ні / Навпаки",
+      "example": "Singst du nicht gerne? - ***, ich singe gerne!"
+    },
+    {
+      "term": "das Lied",
+      "type": "Noun",
+      "meaning_tr": "Şarkı ya da türkü",
+      "meaning_en": "Song",
+      "meaning_uk": "Пісня",
+      "example": "Wir singen zusammen ein schönes ***."
+    },
+    {
+      "term": "der Satzakzent",
+      "type": "Noun",
+      "meaning_tr": "Cümle vurgusu",
+      "meaning_en": "Sentence stress",
+      "meaning_uk": "Логічний наголос у реченні",
+      "example": "Der richtige *** ist wichtig beim Sprechen."
+    },
+    {
+      "term": "an sein",
+      "type": "Verb Phrase",
+      "meaning_tr": "Açık olmak (cihazlar için)",
+      "meaning_en": "To be on",
+      "meaning_uk": "Бути ввімкненим",
+      "example": "Das Radio ist den ganzen Tag ***."
+    },
+    {
+      "term": "die meisten",
+      "type": "Determiner",
+      "meaning_tr": "Çoğu ya da pek çoğu",
+      "meaning_en": "Most",
+      "meaning_uk": "Більшість",
+      "example": "*** Menschen lieben Musik."
+    },
+    {
+      "term": "der Fehler",
+      "type": "Noun",
+      "meaning_tr": "Hata, yanlış ya da kusur",
+      "meaning_en": "Error / Mistake",
+      "meaning_uk": "Помилка",
+      "example": "In meinem Test war leider ein kleiner ***."
+    },
+    {
+      "term": "zum Teil",
+      "type": "Adverb",
+      "meaning_tr": "Kısmen ya da bir bölümü",
+      "meaning_en": "Partly / In part",
+      "meaning_uk": "Частково",
+      "example": "Die Prüfung war *** sehr schwierig."
+    },
+    {
+      "term": "der Ausländer",
+      "type": "Noun",
+      "meaning_tr": "Yabancı (başka ülkeden olan kişi)",
+      "meaning_en": "Foreigner",
+      "meaning_uk": "Іноземець",
+      "example": "Er ist kein Deutscher, er ist ***."
+    },
+    {
+      "term": "automatisch",
+      "type": "Adjective",
+      "meaning_tr": "Otomatik",
+      "meaning_en": "Automatic",
+      "meaning_uk": "Автоматичний",
+      "example": "Die Tür öffnet sich ganz ***."
+    },
+    {
+      "term": "die Lösung",
+      "type": "Noun",
+      "meaning_tr": "Çözüm ya da cevap",
+      "meaning_en": "Solution / Answer",
+      "meaning_uk": "Рішення / Відповідь",
+      "example": "Ich habe endlich die *** gefunden."
+    },
+    {
+      "term": "der Sinn",
+      "type": "Noun",
+      "meaning_tr": "Anlam, mana ya da duyu",
+      "meaning_en": "Sense / Meaning",
+      "meaning_uk": "Сенс / Значення",
+      "example": "Das macht keinen ***, ich verstehe das nicht."
+    },
+    {
+      "term": "ausprobieren",
+      "type": "Verb",
+      "meaning_tr": "Denemek ya da tecrübe etmek",
+      "meaning_en": "To try out",
+      "meaning_uk": "Випробовувати",
+      "example": "Das neue Rezept möchte ich heute ***."
+    },
+    {
+      "term": "das Bilderbuch",
+      "type": "Noun",
+      "meaning_tr": "Resimli kitap",
+      "meaning_en": "Picture book",
+      "meaning_uk": "Книга з картинками",
+      "example": "Das kind schaut sich gerne ein *** an."
+    },
+    {
+      "term": "die Lern-App",
+      "type": "Noun",
+      "meaning_tr": "Öğrenme uygulaması",
+      "meaning_en": "Learning app",
+      "meaning_uk": "Навчальний додаток",
+      "example": "Ich übe Vokabeln mit einer ***."
+    },
+    {
+      "term": "der Podcast",
+      "type": "Noun",
+      "meaning_tr": "Podcast ya da dijital ses yayını",
+      "meaning_en": "Podcast",
+      "meaning_uk": "Подкаст",
+      "example": "Auf dem Weg höre ich einen ***."
+    },
+    {
+      "term": "die Sendung",
+      "type": "Noun",
+      "meaning_tr": "Yayın, program ya da televizyon dizisi",
+      "meaning_en": "Broadcast / Show",
+      "meaning_uk": "Передача",
+      "example": "Diese *** im Fernsehen ist wirklich gut."
+    },
+    {
+      "term": "die Maus",
+      "type": "Noun",
+      "meaning_tr": "Fare",
+      "meaning_en": "Mouse",
+      "meaning_uk": "Миша",
+      "example": "Die kleine graue *** frisst Käse."
+    },
+    {
+      "term": "die Übung",
+      "type": "Noun",
+      "meaning_tr": "Alıştırma ya da pratik",
+      "meaning_en": "Exercise / Practice",
+      "meaning_uk": "Вправа",
+      "example": "Wir machen jetzt eine schwere ***."
+    },
+    {
+      "term": "der Untertitel",
+      "type": "Noun",
+      "meaning_tr": "Altyazı",
+      "meaning_en": "Subtitle",
+      "meaning_uk": "Субтитри",
+      "example": "Ich schaue Filme mit deutschem ***."
+    },
+    {
+      "term": "das Video",
+      "type": "Noun",
+      "meaning_tr": "Video",
+      "meaning_en": "Video",
+      "meaning_uk": "Відео",
+      "example": "Er schaut sich bir lustiges *** an."
+    },
+    {
+      "term": "schwierig",
+      "type": "Adjective",
+      "meaning_tr": "Zor ya da güç",
+      "meaning_en": "Difficult",
+      "meaning_uk": "Важкий / Складний",
+      "example": "Das Wort ist für mich sehr ***."
+    },
+    {
+      "term": "wirklich",
+      "type": "Adjective / Adverb",
+      "meaning_tr": "Gerçekten ya da hakikaten",
+      "meaning_en": "Really / Truly",
+      "meaning_uk": "Справді / Дійсно",
+      "example": "Das hast du *** toll gemacht!"
+    },
+    {
+      "term": "aufschreiben",
+      "type": "Verb",
+      "meaning_tr": "Not etmek ya da bir yere yazmak",
+      "meaning_en": "To write down",
+      "meaning_uk": "Записувати",
+      "example": "Kannst du mir deine Adresse ***?"
+    },
+    {
+      "term": "auswendig lernen",
+      "type": "Verb",
+      "meaning_tr": "Ezberlemek ya da zihne kazımak",
+      "meaning_en": "To learn by heart / To memorize",
+      "meaning_uk": "Вчити напам'ять",
+      "example": "Ich muss das Gedicht für morgen ***."
+    },
+    {
+      "term": "der Lerntipp",
+      "type": "Noun",
+      "meaning_tr": "Öğrenme ipucu ya da çalışma tavsiyesi",
+      "meaning_en": "Learning tip",
+      "meaning_uk": "Порада для навчання",
+      "example": "Hast du einen guten *** für mich?"
+    },
+    {
+      "term": "weitere",
+      "type": "Adjective",
+      "meaning_tr": "Diğer, başka ya da ilave",
+      "meaning_en": "Further / Additional",
+      "meaning_uk": "Подальші / Додаткові",
+      "example": "Ergänzen Sie bitte *** Informationen."
+    },
+    {
+      "term": "weitergeben",
+      "type": "Verb",
+      "meaning_tr": "Aktarmak, devretmek ya da başkasına vermek",
+      "meaning_en": "To pass on",
+      "meaning_uk": "Передавати далі",
+      "example": "Kannst du die Nachricht bitte ***?"
+    },
+    {
+      "term": "früher",
+      "type": "Adverb",
+      "meaning_tr": "Eskiden, geçmişte ya da daha önce",
+      "meaning_en": "Earlier / In the past",
+      "meaning_uk": "Раніше / Колись",
+      "example": "Früher hatte ich mehr Zeit für Hobbys."
+    },
+    {
+      "term": "das Dorf",
+      "type": "Noun",
+      "meaning_tr": "Köy",
+      "meaning_en": "Village",
+      "meaning_uk": "Село",
+      "example": "Mein Opa wohnt in einem kleinen ***."
+    },
+    {
+      "term": "der Club",
+      "type": "Noun",
+      "meaning_tr": "Kulüp",
+      "meaning_en": "Club",
+      "meaning_uk": "Клуб",
+      "example": "Am Samstag gehen wir in einen Tanz-***."
+    },
+    {
+      "term": "die Computerfirma",
+      "type": "Noun",
+      "meaning_tr": "Bilgisayar firması ya da bilişim şirketi",
+      "meaning_en": "Computer company",
+      "meaning_uk": "Комп'ютерна компанія",
+      "example": "Er arbeitet in einer großen ***."
+    },
+    {
+      "term": "der Erzieher",
+      "type": "Noun",
+      "meaning_tr": "Eğitmen, çocuk gelişimci ya da anaokulu öğretmeni",
+      "meaning_en": "Educator / Nursery teacher",
+      "meaning_uk": "Вихователь",
+      "example": "Der *** spielt mit den Kindern."
+    },
+    {
+      "term": "der Programmierer",
+      "type": "Noun",
+      "meaning_tr": "Programcı ya da yazılımcı",
+      "meaning_en": "Programmer",
+      "meaning_uk": "Програміст",
+      "example": "Ein *** schreibt Codes für Software."
+    },
+    {
+      "term": "der Kassierer",
+      "type": "Noun",
+      "meaning_tr": "Kasiyer ya da veznedar",
+      "meaning_en": "Cashier",
+      "meaning_uk": "Касир",
+      "example": "Der *** scannt die Waren im Supermarkt."
+    },
+    {
+      "term": "Japan",
+      "type": "Noun",
+      "meaning_tr": "Japonya",
+      "meaning_en": "Japan",
+      "meaning_uk": "Японія",
+      "example": "Er kommt aus ***."
+    },
+    {
+      "term": "Japanisch",
+      "type": "Noun",
+      "meaning_tr": "Japonca",
+      "meaning_en": "Japanese (language)",
+      "meaning_uk": "Японська мова",
+      "example": "Er spricht sehr gut ***."
+    },
+    {
+      "term": "der Plan",
+      "type": "Noun",
+      "meaning_tr": "Plan ya da tasarı",
+      "meaning_en": "Plan",
+      "meaning_uk": "План",
+      "example": "Was ist dein *** für das Wochenende?"
+    },
+    {
+      "term": "der Wunsch",
+      "type": "Noun",
+      "meaning_tr": "İstek, arzu ya da dilek",
+      "meaning_en": "Wish / Desire",
+      "meaning_uk": "Бажання",
+      "example": "Ich habe einen großen *** für die Zukunft."
+    }
+  ]
+}

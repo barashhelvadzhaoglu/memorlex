@@ -1,0 +1,590 @@
+{
+  "title": "Integration A2 - Kapitel 1",
+  "language": "de",
+  "words": [
+    {
+      "term": "allein",
+      "type": "Adjective",
+      "meaning_tr": "Yalnız, tek başına",
+      "meaning_en": "Alone",
+      "meaning_uk": "Самотній",
+      "example": "Ich arbeite nicht gern ***."
+    },
+    {
+      "term": "am besten",
+      "type": "Phrase",
+      "meaning_tr": "En iyisi, en uygunu",
+      "meaning_en": "Best",
+      "meaning_uk": "Найкраще",
+      "example": "Wie machen wir das ***?"
+    },
+    {
+      "term": "anfangen",
+      "type": "Verb",
+      "meaning_tr": "Başlamak",
+      "meaning_en": "To start",
+      "meaning_uk": "Починати",
+      "example": "Wann fängst du an?"
+    },
+    {
+      "term": "anmelden",
+      "type": "Verb",
+      "meaning_tr": "Kaydolmak, bildirmek",
+      "meaning_en": "To register",
+      "meaning_uk": "Зареєструватися",
+      "example": "Ich melde mich für den Kurs an."
+    },
+    {
+      "term": "ansehen",
+      "type": "Verb",
+      "meaning_tr": "Bakmak, incelemek",
+      "meaning_en": "To look at",
+      "meaning_uk": "Оглядати",
+      "example": "Ich sehe mir das Foto an."
+    },
+    {
+      "term": "aufhören",
+      "type": "Verb",
+      "meaning_tr": "Bırakmak, son vermek",
+      "meaning_en": "To stop",
+      "meaning_uk": "Припиняти",
+      "example": "Wann hörst du auf?"
+    },
+    {
+      "term": "aufschreiben",
+      "type": "Verb",
+      "meaning_tr": "Not etmek, yazmak",
+      "meaning_en": "To write down",
+      "meaning_uk": "Записувати",
+      "example": "Soll ich das aufschreiben?"
+    },
+    {
+      "term": "aufstehen",
+      "type": "Verb",
+      "meaning_tr": "Kalkmak",
+      "meaning_en": "To get up",
+      "meaning_uk": "Вставати",
+      "example": "Ich muss früh aufstehen."
+    },
+    {
+      "term": "ausfüllen",
+      "type": "Verb",
+      "meaning_tr": "Doldurmak (form)",
+      "meaning_en": "To fill out",
+      "meaning_uk": "Заповнювати",
+      "example": "Füllen Sie das Formular aus."
+    },
+    {
+      "term": "Bescheid sagen",
+      "type": "Phrase",
+      "meaning_tr": "Haber vermek",
+      "meaning_en": "To let someone know",
+      "meaning_uk": "Повідомляти",
+      "example": "Sag mir bitte Bescheid."
+    },
+    {
+      "term": "danken",
+      "type": "Verb",
+      "meaning_tr": "Teşekkür etmek",
+      "meaning_en": "To thank",
+      "meaning_uk": "Дякувати",
+      "example": "Ich danke dir."
+    },
+    {
+      "term": "das Blatt",
+      "type": "Noun",
+      "meaning_tr": "Kağıt, yaprak",
+      "meaning_en": "Sheet",
+      "meaning_uk": "Аркуш",
+      "example": "Haben Sie ein Blatt Papier?"
+    },
+    {
+      "term": "das Brötchen",
+      "type": "Noun",
+      "meaning_tr": "Ekmekçik",
+      "meaning_en": "Bread roll",
+      "meaning_uk": "Булочка",
+      "example": "Ich esse ein Brötchen."
+    },
+    {
+      "term": "das Büro",
+      "type": "Noun",
+      "meaning_tr": "Ofis",
+      "meaning_en": "Office",
+      "meaning_uk": "Офіс",
+      "example": "Er ist im Büro."
+    },
+    {
+      "term": "das Formular",
+      "type": "Noun",
+      "meaning_tr": "Form",
+      "meaning_en": "Form",
+      "meaning_uk": "Формуляр",
+      "example": "Das Formular ist wichtig."
+    },
+    {
+      "term": "das Getränk",
+      "type": "Noun",
+      "meaning_tr": "İçecek",
+      "meaning_en": "Drink",
+      "meaning_uk": "Напій",
+      "example": "Kaufen wir Getränke?"
+    },
+    {
+      "term": "das Knabberzeug",
+      "type": "Noun",
+      "meaning_tr": "Çerez",
+      "meaning_en": "Snacks",
+      "meaning_uk": "Закуски",
+      "example": "Ich mag Knabberzeug."
+    },
+    {
+      "term": "das Personalbüro",
+      "type": "Noun",
+      "meaning_tr": "Personel ofisi",
+      "meaning_en": "HR office",
+      "meaning_uk": "Відділ кадрів",
+      "example": "Gehen Sie zum Personalbüro."
+    },
+    {
+      "term": "das Team",
+      "type": "Noun",
+      "meaning_tr": "Ekip",
+      "meaning_en": "Team",
+      "meaning_uk": "Команда",
+      "example": "Wir sind ein Team."
+    },
+    {
+      "term": "der Auftrag",
+      "type": "Noun",
+      "meaning_tr": "Sipariş, görev",
+      "meaning_en": "Order",
+      "meaning_uk": "Замовлення",
+      "example": "Ein wichtiger Auftrag."
+    },
+    {
+      "term": "der Chef",
+      "type": "Noun",
+      "meaning_tr": "Patron (erkek)",
+      "meaning_en": "Boss (m)",
+      "meaning_uk": "Начальник",
+      "example": "Der Chef ist nett."
+    },
+    {
+      "term": "der Einstand",
+      "type": "Noun",
+      "meaning_tr": "İşe başlama",
+      "meaning_en": "Debut",
+      "meaning_uk": "Початок роботи",
+      "example": "Wir feiern Einstand."
+    },
+    {
+      "term": "der Fahrer",
+      "type": "Noun",
+      "meaning_tr": "Sürücü (erkek)",
+      "meaning_en": "Driver (m)",
+      "meaning_uk": "Водій",
+      "example": "Der Fahrer wartet."
+    },
+    {
+      "term": "der Führerschein",
+      "type": "Noun",
+      "meaning_tr": "Ehliyet",
+      "meaning_en": "Driver's license",
+      "meaning_uk": "Посвідчення водія",
+      "example": "Hast du einen Führerschein?"
+    },
+    {
+      "term": "der Hausmeister",
+      "type": "Noun",
+      "meaning_tr": "Apartman görevlisi",
+      "meaning_en": "Caretaker",
+      "meaning_uk": "Завгосп",
+      "example": "Fragen Sie den Hausmeister."
+    },
+    {
+      "term": "der Lkw",
+      "type": "Noun",
+      "meaning_tr": "Kamyon",
+      "meaning_en": "Truck",
+      "meaning_uk": "Вантажівка",
+      "example": "Der Lkw ist groß."
+    },
+    {
+      "term": "der Schlüssel",
+      "type": "Noun",
+      "meaning_tr": "Anahtar",
+      "meaning_en": "Key",
+      "meaning_uk": "Ключ",
+      "example": "Wo ist der Schlüssel?"
+    },
+    {
+      "term": "der Teamleiter",
+      "type": "Noun",
+      "meaning_tr": "Takım lideri (erkek)",
+      "meaning_en": "Team leader (m)",
+      "meaning_uk": "Керівник команди",
+      "example": "Das ist der Teamleiter."
+    },
+    {
+      "term": "der Verein",
+      "type": "Noun",
+      "meaning_tr": "Dernek",
+      "meaning_en": "Association",
+      "meaning_uk": "Клуб",
+      "example": "Ich bin im Verein."
+    },
+    {
+      "term": "der Verkehr",
+      "type": "Noun",
+      "meaning_tr": "Trafik",
+      "meaning_en": "Traffic",
+      "meaning_uk": "Дорожній рух",
+      "example": "Viel Verkehr heute."
+    },
+    {
+      "term": "der Wagen",
+      "type": "Noun",
+      "meaning_tr": "Araba",
+      "meaning_en": "Car",
+      "meaning_uk": "Авто",
+      "example": "Ist das dein Wagen?"
+    },
+    {
+      "term": "die Arbeitskleidung",
+      "type": "Noun",
+      "meaning_tr": "İş kıyafeti",
+      "meaning_en": "Work clothes",
+      "meaning_uk": "Робочий одяг",
+      "example": "Zieh die Arbeitskleidung an."
+    },
+    {
+      "term": "die Ausbildung",
+      "type": "Noun",
+      "meaning_tr": "Mesleki eğitim",
+      "meaning_en": "Vocational training",
+      "meaning_uk": "Професійне навчання",
+      "example": "Sie macht eine Ausbildung."
+    },
+    {
+      "term": "die Chefin",
+      "type": "Noun",
+      "meaning_tr": "Patron (kadın)",
+      "meaning_en": "Boss (f)",
+      "meaning_uk": "Начальниця",
+      "example": "Unsere Chefin ist streng."
+    },
+    {
+      "term": "die Einstandsfeier",
+      "type": "Noun",
+      "meaning_tr": "Giriş partisi",
+      "meaning_en": "Welcome party",
+      "meaning_uk": "Свято початку роботи",
+      "example": "Morgen ist die Einstandsfeier."
+    },
+    {
+      "term": "die Entschuldigung",
+      "type": "Noun",
+      "meaning_tr": "Özür",
+      "meaning_en": "Apology",
+      "meaning_uk": "Вибачення",
+      "example": "Entschuldigung, darf ich?"
+    },
+    {
+      "term": "die Fahrerin",
+      "type": "Noun",
+      "meaning_tr": "Sürücü (kadın)",
+      "meaning_en": "Driver (f)",
+      "meaning_uk": "Водійка",
+      "example": "Die Fahrerin ist da."
+    },
+    {
+      "term": "die Firma",
+      "type": "Noun",
+      "meaning_tr": "Şirket",
+      "meaning_en": "Company",
+      "meaning_uk": "Фірма",
+      "example": "Die Firma ist bekannt."
+    },
+    {
+      "term": "die Freude",
+      "type": "Noun",
+      "meaning_tr": "Sevinç",
+      "meaning_en": "Joy",
+      "meaning_uk": "Радість",
+      "example": "Viel Freude damit!"
+    },
+    {
+      "term": "die Hausmeisterin",
+      "type": "Noun",
+      "meaning_tr": "Apartman görevlisi (kadın)",
+      "meaning_en": "Caretaker (f)",
+      "meaning_uk": "Завгосп (жінка)",
+      "example": "Sie ist die Hausmeisterin."
+    },
+    {
+      "term": "die Kantine",
+      "type": "Noun",
+      "meaning_tr": "Yemekhane",
+      "meaning_en": "Canteen",
+      "meaning_uk": "Їдальня",
+      "example": "Wir essen in der Kantine."
+    },
+    {
+      "term": "die Mail",
+      "type": "Noun",
+      "meaning_tr": "E-posta",
+      "meaning_en": "E-mail",
+      "meaning_uk": "Електронна пошта",
+      "example": "Schreib mir eine Mail."
+    },
+    {
+      "term": "die Pizzeria",
+      "type": "Noun",
+      "meaning_tr": "Pizzacı",
+      "meaning_en": "Pizzeria",
+      "meaning_uk": "Піцерія",
+      "example": "Lass uns zur Pizzeria gehen."
+    },
+    {
+      "term": "die Spezialität",
+      "type": "Noun",
+      "meaning_tr": "Özellik, yöresel yemek",
+      "meaning_en": "Specialty",
+      "meaning_uk": "Спеціальність",
+      "example": "Eine bayerische Spezialität."
+    },
+    {
+      "term": "die Teamleiterin",
+      "type": "Noun",
+      "meaning_tr": "Takım lideri (kadın)",
+      "meaning_en": "Team leader (f)",
+      "meaning_uk": "Керівник команди (жінка)",
+      "example": "Sprechen Sie mit ihr."
+    },
+    {
+      "term": "die Tür",
+      "type": "Noun",
+      "meaning_tr": "Kapı",
+      "meaning_en": "Door",
+      "meaning_uk": "Двері",
+      "example": "Mach die Tür zu."
+    },
+    {
+      "term": "erklären",
+      "type": "Verb",
+      "meaning_tr": "Açıklamak",
+      "meaning_en": "To explain",
+      "meaning_uk": "Пояснювати",
+      "example": "Können Sie das erklären?"
+    },
+    {
+      "term": "frei haben",
+      "type": "Verb",
+      "meaning_tr": "İzinli olmak",
+      "meaning_en": "To have off",
+      "meaning_uk": "Мати вихідний",
+      "example": "Heute habe ich frei."
+    },
+    {
+      "term": "freundlich",
+      "type": "Adjective",
+      "meaning_tr": "Nazik",
+      "meaning_en": "Friendly",
+      "meaning_uk": "Привітний",
+      "example": "Er ist sehr freundlich."
+    },
+    {
+      "term": "gehören",
+      "type": "Verb",
+      "meaning_tr": "Ait olmak",
+      "meaning_en": "To belong",
+      "meaning_uk": "Належати",
+      "example": "Gehört das dir?"
+    },
+    {
+      "term": "hoffen",
+      "type": "Verb",
+      "meaning_tr": "Umut etmek",
+      "meaning_en": "To hope",
+      "meaning_uk": "Сподіватися",
+      "example": "Ich hoffe auf Erfolg."
+    },
+    {
+      "term": "höflich",
+      "type": "Adjective",
+      "meaning_tr": "Kibar",
+      "meaning_en": "Polite",
+      "meaning_uk": "Ввічливий",
+      "example": "Sei bitte höflich."
+    },
+    {
+      "term": "kennen",
+      "type": "Verb",
+      "meaning_tr": "Tanımak",
+      "meaning_en": "To know",
+      "meaning_uk": "Знати",
+      "example": "Kennen Sie ihn?"
+    },
+    {
+      "term": "kennenlernen",
+      "type": "Verb",
+      "meaning_tr": "Tanışmak",
+      "meaning_en": "To get to know",
+      "meaning_uk": "Знайомитися",
+      "example": "Schön, dich kennenzulernen."
+    },
+    {
+      "term": "klingen",
+      "type": "Verb",
+      "meaning_tr": "Kulağa gelmek",
+      "meaning_en": "To sound",
+      "meaning_uk": "Звучати",
+      "example": "Das klingt gut."
+    },
+    {
+      "term": "leiten",
+      "type": "Verb",
+      "meaning_tr": "Yönetmek",
+      "meaning_en": "To lead",
+      "meaning_uk": "Керувати",
+      "example": "Wer leitet das Team?"
+    },
+    {
+      "term": "müde",
+      "type": "Adjective",
+      "meaning_tr": "Yorgun",
+      "meaning_en": "Tired",
+      "meaning_uk": "Втомлений",
+      "example": "Ich bin müde."
+    },
+    {
+      "term": "natürlich",
+      "type": "Adverb",
+      "meaning_tr": "Tabii ki",
+      "meaning_en": "Of course",
+      "meaning_uk": "Звичайно",
+      "example": "Natürlich helfe ich."
+    },
+    {
+      "term": "peinlich",
+      "type": "Adjective",
+      "meaning_tr": "Utandırıcı",
+      "meaning_en": "Embarrassing",
+      "meaning_uk": "Незручно",
+      "example": "Das ist mir peinlich."
+    },
+    {
+      "term": "pünktlich",
+      "type": "Adjective",
+      "meaning_tr": "Dakik",
+      "meaning_en": "Punctual",
+      "meaning_uk": "Пунктуальний",
+      "example": "Sei bitte pünktlich."
+    },
+    {
+      "term": "schließen",
+      "type": "Verb",
+      "meaning_tr": "Kapatmak",
+      "meaning_en": "To close",
+      "meaning_uk": "Зачиняти",
+      "example": "Bitte die Tür schließen."
+    },
+    {
+      "term": "spätestens",
+      "type": "Adverb",
+      "meaning_tr": "En geç",
+      "meaning_en": "At the latest",
+      "meaning_uk": "Найпізніше",
+      "example": "Komm spätestens um 8."
+    },
+    {
+      "term": "stressig",
+      "type": "Adjective",
+      "meaning_tr": "Stresli",
+      "meaning_en": "Stressful",
+      "meaning_uk": "Стресовий",
+      "example": "Ein stressiger Tag."
+    },
+    {
+      "term": "übrigens",
+      "type": "Adverb",
+      "meaning_tr": "Bu arada",
+      "meaning_en": "By the way",
+      "meaning_uk": "До речі",
+      "example": "Ich bin übrigens neu."
+    },
+    {
+      "term": "umziehen",
+      "type": "Verb",
+      "meaning_tr": "Taşınmak",
+      "meaning_en": "To move",
+      "meaning_uk": "Переїжджати",
+      "example": "Wir ziehen um."
+    },
+    {
+      "term": "unfreundlich",
+      "type": "Adjective",
+      "meaning_tr": "Kaba",
+      "meaning_en": "Unfriendly",
+      "meaning_uk": "Непривітний",
+      "example": "Ein unfreundlicher Mann."
+    },
+    {
+      "term": "ungefähr",
+      "type": "Adverb",
+      "meaning_tr": "Yaklaşık",
+      "meaning_en": "Approximately",
+      "meaning_uk": "Приблизно",
+      "example": "Es dauert ungefähr 10 Min."
+    },
+    {
+      "term": "vorbei",
+      "type": "Adverb",
+      "meaning_tr": "Bitmiş",
+      "meaning_en": "Over",
+      "meaning_uk": "Минуло",
+      "example": "Die Zeit ist vorbei."
+    },
+    {
+      "term": "vorstellen",
+      "type": "Verb",
+      "meaning_tr": "Tanıtmak",
+      "meaning_en": "To introduce",
+      "meaning_uk": "Представляти",
+      "example": "Darf ich mich vorstellen?"
+    },
+    {
+      "term": "wünschen",
+      "type": "Verb",
+      "meaning_tr": "Dilemek",
+      "meaning_en": "To wish",
+      "meaning_uk": "Бажати",
+      "example": "Ich wünsche dir Glück."
+    },
+    {
+      "term": "zuordnen",
+      "type": "Verb",
+      "meaning_tr": "Eşleştirmek",
+      "meaning_en": "To assign",
+      "meaning_uk": "Класифікувати",
+      "example": "Bilder zuordnen."
+    },
+    {
+      "term": "zurückkommen",
+      "type": "Verb",
+      "meaning_tr": "Geri dönmek",
+      "meaning_en": "To come back",
+      "meaning_uk": "Повертатися",
+      "example": "Wann kommst du zurück?"
+    },
+    {
+      "term": "zusammenarbeiten",
+      "type": "Verb",
+      "meaning_tr": "Birlikte çalışmak",
+      "meaning_en": "To work together",
+      "meaning_uk": "Співпрацювати",
+      "example": "Wir arbeiten zusammen."
+    }
+  ]
+}

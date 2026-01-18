@@ -1,0 +1,406 @@
+{
+  "title": "Integration A2 - Kapitel 5",
+  "language": "de",
+  "words": [
+    {
+      "term": "anmelden",
+      "type": "Verb",
+      "meaning_tr": "Kaydolmak, bildirmek",
+      "meaning_en": "To register / To sign up",
+      "meaning_uk": "Зареєструватися",
+      "example": "Ich möchte mich für den Kurs ***."
+    },
+    {
+      "term": "anrufen",
+      "type": "Verb",
+      "meaning_tr": "Telefonla aramak",
+      "meaning_en": "To call (phone)",
+      "meaning_uk": "Телефонувати",
+      "example": "Ich rufe dich morgen an."
+    },
+    {
+      "term": "beantworten",
+      "type": "Verb",
+      "meaning_tr": "Cevaplamak",
+      "meaning_en": "To answer",
+      "meaning_uk": "Відповідати",
+      "example": "Bitte *** Sie die E-Mail."
+    },
+    {
+      "term": "besprechen",
+      "type": "Verb",
+      "meaning_tr": "Görüşmek, tartışmak",
+      "meaning_en": "To discuss",
+      "meaning_uk": "Обговорювати",
+      "example": "Wir müssen das Problem ***."
+    },
+    {
+      "term": "bestellen",
+      "type": "Verb",
+      "meaning_tr": "Sipariş vermek",
+      "meaning_en": "To order",
+      "meaning_uk": "Замовляти",
+      "example": "Ich möchte Pizza ***."
+    },
+    {
+      "term": "das Büro",
+      "type": "Noun",
+      "meaning_tr": "Ofis, büro",
+      "meaning_en": "Office",
+      "meaning_uk": "Офіс",
+      "example": "Mein *** ist im ersten Stock."
+    },
+    {
+      "term": "das Dokument",
+      "type": "Noun",
+      "meaning_tr": "Doküman, belge",
+      "meaning_en": "Document",
+      "meaning_uk": "Документ",
+      "example": "Hier ist das wichtige ***."
+    },
+    {
+      "term": "das Formular",
+      "type": "Noun",
+      "meaning_tr": "Form",
+      "meaning_en": "Form",
+      "meaning_uk": "Бланк / Формуляр",
+      "example": "Füllen Sie das *** aus."
+    },
+    {
+      "term": "das Gespräch",
+      "type": "Noun",
+      "meaning_tr": "Görüşme, konuşma",
+      "meaning_en": "Conversation / Talk",
+      "meaning_uk": "Розмова",
+      "example": "Das *** war sehr freundlich."
+    },
+    {
+      "term": "das Projekt",
+      "type": "Noun",
+      "meaning_tr": "Proje",
+      "meaning_en": "Project",
+      "meaning_uk": "Проєкт",
+      "example": "Wir arbeiten an einem neuen ***."
+    },
+    {
+      "term": "das Team",
+      "type": "Noun",
+      "meaning_tr": "Takım, ekip",
+      "meaning_en": "Team",
+      "meaning_uk": "Команда",
+      "example": "Unser *** arbeitet gut zusammen."
+    },
+    {
+      "term": "das Telefon",
+      "type": "Noun",
+      "meaning_tr": "Telefon",
+      "meaning_en": "Telephone",
+      "meaning_uk": "Телефон",
+      "example": "Das *** klingelt."
+    },
+    {
+      "term": "der Alltag",
+      "type": "Noun",
+      "meaning_tr": "Günlük yaşam",
+      "meaning_en": "Everyday life",
+      "meaning_uk": "Будні / Повсякдення",
+      "example": "Der *** ist oft stressig."
+    },
+    {
+      "term": "der Anruf",
+      "type": "Noun",
+      "meaning_tr": "Arama (telefon)",
+      "meaning_en": "Phone call",
+      "meaning_uk": "Дзвінок",
+      "example": "Ich warte auf einen ***."
+    },
+    {
+      "term": "der Arbeitgeber",
+      "type": "Noun",
+      "meaning_tr": "İşveren (erkek)",
+      "meaning_en": "Employer (male)",
+      "meaning_uk": "Роботодавець",
+      "example": "Mein *** ist sehr nett."
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "type": "Noun",
+      "meaning_tr": "İşçi, çalışan (erkek)",
+      "meaning_en": "Employee (male)",
+      "meaning_uk": "Працівник",
+      "example": "In Deutschland gibt es viele ***."
+    },
+    {
+      "term": "der Arbeitsplatz",
+      "type": "Noun",
+      "meaning_tr": "İş yeri",
+      "meaning_en": "Workplace",
+      "meaning_uk": "Робоче місце",
+      "example": "Mein *** ist modern."
+    },
+    {
+      "term": "der Bericht",
+      "type": "Noun",
+      "meaning_tr": "Rapor",
+      "meaning_en": "Report",
+      "meaning_uk": "Звіт",
+      "example": "Ich schreibe einen ***."
+    },
+    {
+      "term": "der Chef",
+      "type": "Noun",
+      "meaning_tr": "Şef, patron (erkek)",
+      "meaning_en": "Boss (male)",
+      "meaning_uk": "Шеф / Керівник",
+      "example": "Der *** hat heute keine Zeit."
+    },
+    {
+      "term": "der Kollege",
+      "type": "Noun",
+      "meaning_tr": "Meslektaş, iş arkadaşı (erkek)",
+      "meaning_en": "Colleague (male)",
+      "meaning_uk": "Колега",
+      "example": "Mein *** hilft mir."
+    },
+    {
+      "term": "der Kontakt",
+      "type": "Noun",
+      "meaning_tr": "İletişim, temas",
+      "meaning_en": "Contact",
+      "meaning_uk": "Контакт",
+      "example": "Wir haben guten ***."
+    },
+    {
+      "term": "der Kunde",
+      "type": "Noun",
+      "meaning_tr": "Müşteri (erkek)",
+      "meaning_en": "Customer (male)",
+      "meaning_uk": "Клієнт",
+      "example": "Der *** möchte zahlen."
+    },
+    {
+      "term": "der Plan",
+      "type": "Noun",
+      "meaning_tr": "Plan",
+      "meaning_en": "Plan",
+      "meaning_uk": "План",
+      "example": "Ich habe einen guten ***."
+    },
+    {
+      "term": "der Termin",
+      "type": "Noun",
+      "meaning_tr": "Randevu",
+      "meaning_en": "Appointment",
+      "meaning_uk": "Запис / Зустріч",
+      "example": "Ich habe einen *** beim Arzt."
+    },
+    {
+      "term": "die Arbeitgeberin",
+      "type": "Noun",
+      "meaning_tr": "İşveren (kadın)",
+      "meaning_en": "Employer (female)",
+      "meaning_uk": "Роботодавиця",
+      "example": "Unsere *** ist fair."
+    },
+    {
+      "term": "die Arbeitnehmerin",
+      "type": "Noun",
+      "meaning_tr": "İşçi, çalışan (kadın)",
+      "meaning_en": "Employee (female)",
+      "meaning_uk": "Працівниця",
+      "example": "Sie ist eine gute ***."
+    },
+    {
+      "term": "die Besprechung",
+      "type": "Noun",
+      "meaning_tr": "Toplantı",
+      "meaning_en": "Meeting",
+      "meaning_uk": "Нарада",
+      "example": "Die *** dauert eine Stunde."
+    },
+    {
+      "term": "die Chefinn",
+      "type": "Noun",
+      "meaning_tr": "Şef, patron (kadın)",
+      "meaning_en": "Boss (female)",
+      "meaning_uk": "Керівниця",
+      "example": "Die *** ist im Urlaub."
+    },
+    {
+      "term": "die E-Mail",
+      "type": "Noun",
+      "meaning_tr": "E-posta",
+      "meaning_en": "Email",
+      "meaning_uk": "Електронна пошта",
+      "example": "Ich schicke dir eine ***."
+    },
+    {
+      "term": "die Erfahrung",
+      "type": "Noun",
+      "meaning_tr": "Tecrübe, deneyim",
+      "meaning_en": "Experience",
+      "meaning_uk": "Досвід",
+      "example": "Haben Sie *** in diesem Beruf?"
+    },
+    {
+      "term": "die Kantine",
+      "type": "Noun",
+      "meaning_tr": "Kantin, yemekhane",
+      "meaning_en": "Canteen / Cafeteria",
+      "meaning_uk": "Їдальня",
+      "example": "Wir essen in der ***."
+    },
+    {
+      "term": "die Kollegin",
+      "type": "Noun",
+      "meaning_tr": "Meslektaş (kadın)",
+      "meaning_en": "Colleague (female)",
+      "meaning_uk": "Колега (жінка)",
+      "example": "Meine *** ist sehr nett."
+    },
+    {
+      "term": "die Kundin",
+      "type": "Noun",
+      "meaning_tr": "Müşteri (kadın)",
+      "meaning_en": "Customer (female)",
+      "meaning_uk": "Клієнтка",
+      "example": "Die *** wartet schon."
+    },
+    {
+      "term": "die Pause",
+      "type": "Noun",
+      "meaning_tr": "Mola, ara",
+      "meaning_en": "Break",
+      "meaning_uk": "Перерва",
+      "example": "Wir machen 15 Minuten ***."
+    },
+    {
+      "term": "die Stelle",
+      "type": "Noun",
+      "meaning_tr": "İş, pozisyon, yer",
+      "meaning_en": "Job position / Place",
+      "meaning_uk": "Місце / Посада",
+      "example": "Ich suche eine neue ***."
+    },
+    {
+      "term": "die Überstunde",
+      "type": "Noun",
+      "meaning_tr": "Fazla mesai",
+      "meaning_en": "Overtime",
+      "meaning_uk": "Понаднормові години",
+      "example": "Ich muss heute ***n machen."
+    },
+    {
+      "term": "die Verantwortung",
+      "type": "Noun",
+      "meaning_tr": "Sorumluluk",
+      "meaning_en": "Responsibility",
+      "meaning_uk": "Відповідальність",
+      "example": "Das ist eine große ***."
+    },
+    {
+      "term": "dokumentieren",
+      "type": "Verb",
+      "meaning_tr": "Belgelemek",
+      "meaning_en": "To document",
+      "meaning_uk": "Документувати",
+      "example": "Sie müssen alles ***."
+    },
+    {
+      "term": "drucken",
+      "type": "Verb",
+      "meaning_tr": "Yazdırmak (yazıcıdan)",
+      "meaning_en": "To print",
+      "meaning_uk": "Друкувати",
+      "example": "Soll ich das Dokument ***?"
+    },
+    {
+      "term": "erklären",
+      "type": "Verb",
+      "meaning_tr": "Açıklamak",
+      "meaning_en": "To explain",
+      "meaning_uk": "Пояснювати",
+      "example": "Kannst du mir das ***?"
+    },
+    {
+      "term": "kopieren",
+      "type": "Verb",
+      "meaning_tr": "Kopyalamak",
+      "meaning_en": "To copy",
+      "meaning_uk": "Копіювати",
+      "example": "Ich muss den Pass ***."
+    },
+    {
+      "term": "organisieren",
+      "type": "Verb",
+      "meaning_tr": "Organize etmek",
+      "meaning_en": "To organize",
+      "meaning_uk": "Організовувати",
+      "example": "Ich muss den Termin ***."
+    },
+    {
+      "term": "pünktlich",
+      "type": "Adjective",
+      "meaning_tr": "Dakik",
+      "meaning_en": "Punctual",
+      "meaning_uk": "Пунктуальний",
+      "example": "Sei bitte ***!"
+    },
+    {
+      "term": "schicken",
+      "type": "Verb",
+      "meaning_tr": "Göndermek",
+      "meaning_en": "To send",
+      "meaning_uk": "Надсилати",
+      "example": "Ich *** dir das Dokument."
+    },
+    {
+      "term": "selbstständig",
+      "type": "Adjective",
+      "meaning_tr": "Serbest çalışan, bağımsız",
+      "meaning_en": "Self-employed / Independent",
+      "meaning_uk": "Самостійний / ФОП",
+      "example": "Er arbeitet ***."
+    },
+    {
+      "term": "stressig",
+      "type": "Adjective",
+      "meaning_tr": "Stresli",
+      "meaning_en": "Stressful",
+      "meaning_uk": "Стресовий",
+      "example": "Der Job ist manchmal ***."
+    },
+    {
+      "term": "telefonieren",
+      "type": "Verb",
+      "meaning_tr": "Telefonla konuşmak",
+      "meaning_en": "To talk on the phone",
+      "meaning_uk": "Розмовляти по телефону",
+      "example": "Sie *** stundenlang."
+    },
+    {
+      "term": "verantwortlich",
+      "type": "Adjective",
+      "meaning_tr": "Sorumlu",
+      "meaning_en": "Responsible",
+      "meaning_uk": "Відповідальний",
+      "example": "Wer ist dafür ***?"
+    },
+    {
+      "term": "vereinbaren",
+      "type": "Verb",
+      "meaning_tr": "Anlaşmak, kararlaştırmak (randevu)",
+      "meaning_en": "To agree / To arrange",
+      "meaning_uk": "Узгоджувати",
+      "example": "Wir *** einen neuen Termin."
+    },
+    {
+      "term": "vorbereiten",
+      "type": "Verb",
+      "meaning_tr": "Hazırlamak",
+      "meaning_en": "To prepare",
+      "meaning_uk": "Підготувати",
+      "example": "Ich muss die Präsentation ***."
+    }
+  ]
+}
