@@ -9,8 +9,6 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Memorlex",
   description: "Dil Öğrenme Uygulaması",
-  // Manuel ikon tanımlamasını kaldırdık. 
-  // Next.js app/icon.webp dosyasını otomatik olarak kullanacak.
 };
 
 export default function RootLayout({
@@ -20,7 +18,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="tr" suppressHydrationWarning>
-      <body className={`${inter.className} bg-slate-50 dark:bg-slate-900 dark:text-white transition-colors duration-300`}>
+      <body 
+        className={`${inter.className} bg-slate-50 dark:bg-slate-900 transition-colors duration-300`}
+        /* Görseldeki (image_7e2325.jpg) hatayı önlemek için: 
+           dark:text-white sınıfını sildik. Bu sınıf tüm buton metinlerini 
+           beyaza zorlayarak görünmez kılıyordu.
+        */
+      >
         <Providers>
           <Navbar />
           <main className="pt-24">
