@@ -2,589 +2,97 @@
   "title": "Integration A2 - Kapitel 1",
   "language": "de",
   "words": [
-    {
-      "term": "allein",
-      "type": "Adjective",
-      "meaning_tr": "Yalnız, tek başına",
-      "meaning_en": "Alone",
-      "meaning_uk": "Самотній",
-      "example": "Ich kann das Projekt leider nicht *** machen."
-    },
-    {
-      "term": "am besten",
-      "type": "Phrase",
-      "meaning_tr": "En iyisi, en uygunu",
-      "meaning_en": "Best",
-      "meaning_uk": "Найкраще",
-      "example": "Mir geht es am Morgen ***."
-    },
-    {
-      "term": "anfangen",
-      "type": "Verb",
-      "meaning_tr": "Başlamak",
-      "meaning_en": "To start",
-      "meaning_uk": "Починати",
-      "example": "Wann soll ich mit der Arbeit ***?"
-    },
-    {
-      "term": "anmelden",
-      "type": "Verb",
-      "meaning_tr": "Kaydolmak, bildirmek",
-      "meaning_en": "To register",
-      "meaning_uk": "Зареєструватися",
-      "example": "Du musst dich im Fitnessstudio ***."
-    },
-    {
-      "term": "ansehen",
-      "type": "Verb",
-      "meaning_tr": "Bakmak, incelemek",
-      "meaning_en": "To look at",
-      "meaning_uk": "Оглядати",
-      "example": "Darf ich mir Ihre Dokumente bitte ***?"
-    },
-    {
-      "term": "aufhören",
-      "type": "Verb",
-      "meaning_tr": "Bırakmak, son vermek",
-      "meaning_en": "To stop",
-      "meaning_uk": "Припиняти",
-      "example": "Du solltest endlich mit dem Rauchen ***."
-    },
-    {
-      "term": "aufschreiben",
-      "type": "Verb",
-      "meaning_tr": "Not etmek, yazmak",
-      "meaning_en": "To write down",
-      "meaning_uk": "Записувати",
-      "example": "Bitte *** Sie meine Telefonnummer ***."
-    },
-    {
-      "term": "aufstehen",
-      "type": "Verb",
-      "meaning_tr": "Kalkmak",
-      "meaning_en": "To get up",
-      "meaning_uk": "Вставати",
-      "example": "Am Wochenende möchte ich nicht früh ***."
-    },
-    {
-      "term": "ausfüllen",
-      "type": "Verb",
-      "meaning_tr": "Doldurmak (form)",
-      "meaning_en": "To fill out",
-      "meaning_uk": "Заповнювати",
-      "example": "Sie müssen dieses Formular bitte ***."
-    },
-    {
-      "term": "Bescheid sagen",
-      "type": "Phrase",
-      "meaning_tr": "Haber vermek",
-      "meaning_en": "To let someone know",
-      "meaning_uk": "Повідомляти",
-      "example": "Können Sie mir bitte bis morgen *** ***?"
-    },
-    {
-      "term": "danken",
-      "type": "Verb",
-      "meaning_tr": "Teşekkür etmek",
-      "meaning_en": "To thank",
-      "meaning_uk": "Дякувати",
-      "example": "Ich *** Ihnen für Ihre Hilfe."
-    },
-    {
-      "term": "das Blatt",
-      "type": "Noun",
-      "meaning_tr": "Kağıt, yaprak",
-      "meaning_en": "Sheet",
-      "meaning_uk": "Аркуш",
-      "example": "Ich brauche ein leeres *** Papier."
-    },
-    {
-      "term": "das Brötchen",
-      "type": "Noun",
-      "meaning_tr": "Ekmekçik",
-      "meaning_en": "Bread roll",
-      "meaning_uk": "Булочка",
-      "example": "Möchten Sie ein *** zum Frühstück?"
-    },
-    {
-      "term": "das Büro",
-      "type": "Noun",
-      "meaning_tr": "Ofis",
-      "meaning_en": "Office",
-      "meaning_uk": "Офіс",
-      "example": "Unser *** befindet sich im ersten Stock."
-    },
-    {
-      "term": "das Formular",
-      "type": "Noun",
-      "meaning_tr": "Form",
-      "meaning_en": "Form",
-      "meaning_uk": "Формуляр",
-      "example": "Unterschreiben Sie das *** bitte hier unten."
-    },
-    {
-      "term": "das Getränk",
-      "type": "Noun",
-      "meaning_tr": "İçecek",
-      "meaning_en": "Drink",
-      "meaning_uk": "Напій",
-      "example": "Welches *** möchten Sie bestellen?"
-    },
-    {
-      "term": "das Knabberzeug",
-      "type": "Noun",
-      "meaning_tr": "Çerez",
-      "meaning_en": "Snacks",
-      "meaning_uk": "Закуски",
-      "example": "Wir brauchen noch *** für die Party."
-    },
-    {
-      "term": "das Personalbüro",
-      "type": "Noun",
-      "meaning_tr": "Personel ofisi",
-      "meaning_en": "HR office",
-      "meaning_uk": "Відділ кадрів",
-      "example": "Geben Sie Ihre Bewerbung im *** ab."
-    },
-    {
-      "term": "das Team",
-      "type": "Noun",
-      "meaning_tr": "Ekip",
-      "meaning_en": "Team",
-      "meaning_uk": "Команда",
-      "example": "Wir arbeiten in einem internationalen ***."
-    },
-    {
-      "term": "der Auftrag",
-      "type": "Noun",
-      "meaning_tr": "Sipariş, görev",
-      "meaning_en": "Order",
-      "meaning_uk": "Замовлення",
-      "example": "Wir haben einen neuen *** von der Firma erhalten."
-    },
-    {
-      "term": "der Chef",
-      "type": "Noun",
-      "meaning_tr": "Patron (erkek)",
-      "meaning_en": "Boss (m)",
-      "meaning_uk": "Начальник",
-      "example": "Mein *** ist mit meiner Arbeit sehr zufrieden."
-    },
-    {
-      "term": "der Einstand",
-      "type": "Noun",
-      "meaning_tr": "İşe başlama",
-      "meaning_en": "Debut",
-      "meaning_uk": "Початок роботи",
-      "example": "Ich feiere heute meinen *** in der Firma."
-    },
-    {
-      "term": "der Fahrer",
-      "type": "Noun",
-      "meaning_tr": "Sürücü (erkek)",
-      "meaning_en": "Driver (m)",
-      "meaning_uk": "Водій",
-      "example": "Der *** liefert die Pakete pünktlich aus."
-    },
-    {
-      "term": "der Führerschein",
-      "type": "Noun",
-      "meaning_tr": "Ehliyet",
-      "meaning_en": "Driver's license",
-      "meaning_uk": "Посвідчення водія",
-      "example": "Ich habe meinen *** in Deutschland gemacht."
-    },
-    {
-      "term": "der Hausmeister",
-      "type": "Noun",
-      "meaning_tr": "Apartman görevlisi",
-      "meaning_en": "Caretaker",
-      "meaning_uk": "Завгосп",
-      "example": "Der *** repariert heute das Licht im Flur."
-    },
-    {
-      "term": "der Lkw",
-      "type": "Noun",
-      "meaning_tr": "Kamyon",
-      "meaning_en": "Truck",
-      "meaning_uk": "Вантажівка",
-      "example": "Ein großer *** blockiert die ganze Straße."
-    },
-    {
-      "term": "der Schlüssel",
-      "type": "Noun",
-      "meaning_tr": "Anahtar",
-      "meaning_en": "Key",
-      "meaning_uk": "Ключ",
-      "example": "Ich habe meinen *** im Auto vergessen."
-    },
-    {
-      "term": "der Teamleiter",
-      "type": "Noun",
-      "meaning_tr": "Takım lideri (erkek)",
-      "meaning_en": "Team leader (m)",
-      "meaning_uk": "Керівник команди",
-      "example": "Das ist der Teamleiter."
-    },
-    {
-      "term": "der Verein",
-      "type": "Noun",
-      "meaning_tr": "Dernek",
-      "meaning_en": "Association",
-      "meaning_uk": "Клуб",
-      "example": "Er spielt Fußball in einem kleinen ***."
-    },
-    {
-      "term": "der Verkehr",
-      "type": "Noun",
-      "meaning_tr": "Trafik",
-      "meaning_en": "Traffic",
-      "meaning_uk": "Дорожній рух",
-      "example": "Es gibt heute viel *** auf der Autobahn."
-    },
-    {
-      "term": "der Wagen",
-      "type": "Noun",
-      "meaning_tr": "Araba",
-      "meaning_en": "Car",
-      "meaning_uk": "Авто",
-      "example": "Können Sie den *** bitte in die Garage fahren?"
-    },
-    {
-      "term": "die Arbeitskleidung",
-      "type": "Noun",
-      "meaning_tr": "İş kıyafeti",
-      "meaning_en": "Work clothes",
-      "meaning_uk": "Робочий одяг",
-      "example": "In der Fabrik müssen wir *** tragen."
-    },
-    {
-      "term": "die Ausbildung",
-      "type": "Noun",
-      "meaning_tr": "Mesleki eğitim",
-      "meaning_en": "Vocational training",
-      "meaning_uk": "Професійне навчання",
-      "example": "Nach der Schule möchte er eine *** machen."
-    },
-    {
-      "term": "die Chefin",
-      "type": "Noun",
-      "meaning_tr": "Patron (kadın)",
-      "meaning_en": "Boss (f)",
-      "meaning_uk": "Начальниця",
-      "example": "Die *** hat bugün gute Nachrichten für uns."
-    },
-    {
-      "term": "die Einstandsfeier",
-      "type": "Noun",
-      "meaning_tr": "Giriş partisi",
-      "meaning_en": "Welcome party",
-      "meaning_uk": "Свято початку роботи",
-      "example": "Kommst du morgen zu meiner ***?"
-    },
-    {
-      "term": "die Entschuldigung",
-      "type": "Noun",
-      "meaning_tr": "Özür",
-      "meaning_en": "Apology",
-      "meaning_uk": "Вибачення",
-      "example": "Ich akzeptiere deine *** für den Fehler."
-    },
-    {
-      "term": "die Fahrerin",
-      "type": "Noun",
-      "meaning_tr": "Sürücü (kadın)",
-      "meaning_en": "Driver (f)",
-      "meaning_uk": "Водійка",
-      "example": "Die *** fährt den Bus sehr sicher."
-    },
-    {
-      "term": "die Firma",
-      "type": "Noun",
-      "meaning_tr": "Şirket",
-      "meaning_en": "Company",
-      "meaning_uk": "Фірма",
-      "example": "Diese *** exportiert Produkte in die ganze Welt."
-    },
-    {
-      "term": "die Freude",
-      "type": "Noun",
-      "meaning_tr": "Sevinç",
-      "meaning_en": "Joy",
-      "meaning_uk": "Радість",
-      "example": "Es ist mir eine große ***, Sie zu treffen."
-    },
-    {
-      "term": "die Hausmeisterin",
-      "type": "Noun",
-      "meaning_tr": "Apartman görevlisi (kadın)",
-      "meaning_en": "Caretaker (f)",
-      "meaning_uk": "Завгосп (жінка)",
-      "example": "Die *** kümmert sich um den Garten."
-    },
-    {
-      "term": "die Kantine",
-      "type": "Noun",
-      "meaning_tr": "Yemekhane",
-      "meaning_en": "Canteen",
-      "meaning_uk": "Їдальня",
-      "example": "Das Essen in der *** schmeckt heute çok iyi."
-    },
-    {
-      "term": "die Mail",
-      "type": "Noun",
-      "meaning_tr": "E-posta",
-      "meaning_en": "E-mail",
-      "meaning_uk": "Електронна пошта",
-      "example": "Ich habe Ihnen gerade eine *** geschickt."
-    },
-    {
-      "term": "die Pizzeria",
-      "type": "Noun",
-      "meaning_tr": "Pizzacı",
-      "meaning_en": "Pizzeria",
-      "meaning_uk": "Піцерія",
-      "example": "Die neue *** in unserer Straße ist super."
-    },
-    {
-      "term": "die Spezialität",
-      "type": "Noun",
-      "meaning_tr": "Özellik, yöresel yemek",
-      "meaning_en": "Specialty",
-      "meaning_uk": "Спеціальність",
-      "example": "Döner ist eine türkische ***."
-    },
-    {
-      "term": "die Teamleiterin",
-      "type": "Noun",
-      "meaning_tr": "Takım lideri (kadın)",
-      "meaning_en": "Team leader (f)",
-      "meaning_uk": "Керівник команди (жінка)",
-      "example": "Die *** hat die Aufgaben verteilt."
-    },
-    {
-      "term": "die Tür",
-      "type": "Noun",
-      "meaning_tr": "Kapı",
-      "meaning_en": "Door",
-      "meaning_uk": "Двері",
-      "example": "Können Sie bitte die *** zumachen?"
-    },
-    {
-      "term": "erklären",
-      "type": "Verb",
-      "meaning_tr": "Açıklamak",
-      "meaning_en": "To explain",
-      "meaning_uk": "Пояснювати",
-      "example": "Können Sie mir die Grammatik noch einmal ***?"
-    },
-    {
-      "term": "frei haben",
-      "type": "Verb",
-      "meaning_tr": "İzinli olmak",
-      "meaning_en": "To have off",
-      "meaning_uk": "Мати вихідний",
-      "example": "Morgen muss ich nicht arbeiten, ich habe ***."
-    },
-    {
-      "term": "freundlich",
-      "type": "Adjective",
-      "meaning_tr": "Nazik",
-      "meaning_en": "Friendly",
-      "meaning_uk": "Привітний",
-      "example": "Der Verkäufer war wirklich çok ***."
-    },
-    {
-      "term": "gehören",
-      "type": "Verb",
-      "meaning_tr": "Ait olmak",
-      "meaning_en": "To belong",
-      "meaning_uk": "Належати",
-      "example": "Wem *** diese Tasche hier?"
-    },
-    {
-      "term": "hoffen",
-      "type": "Verb",
-      "meaning_tr": "Umut etmek",
-      "meaning_en": "To hope",
-      "meaning_uk": "Сподіватися",
-      "example": "Ich ***, dass wir uns bald tekrar görürüz."
-    },
-    {
-      "term": "höflich",
-      "type": "Adjective",
-      "meaning_tr": "Kibar",
-      "meaning_en": "Polite",
-      "meaning_uk": "Ввічливий",
-      "example": "Man sollte zu alten Menschen immer *** sein."
-    },
-    {
-      "term": "kennen",
-      "type": "Verb",
-      "meaning_tr": "Tanımak",
-      "meaning_en": "To know",
-      "meaning_uk": "Знати",
-      "example": "Ich *** diese Stadt sehr gut."
-    },
-    {
-      "term": "kennenlernen",
-      "type": "Verb",
-      "meaning_tr": "Tanışmak",
-      "meaning_en": "To get to know",
-      "meaning_uk": "Знайомитися",
-      "example": "Wo hast du deine Frau ***?"
-    },
-    {
-      "term": "klingen",
-      "type": "Verb",
-      "meaning_tr": "Kulağa gelmek",
-      "meaning_en": "To sound",
-      "meaning_uk": "Звучати",
-      "example": "Das Konzert gestern hat fantastisch ***."
-    },
-    {
-      "term": "leiten",
-      "type": "Verb",
-      "meaning_tr": "Yönetmek",
-      "meaning_en": "To lead",
-      "meaning_uk": "Керувати",
-      "example": "Sie wird die neue Abteilung ***."
-    },
-    {
-      "term": "müde",
-      "type": "Adjective",
-      "meaning_tr": "Yorgun",
-      "meaning_en": "Tired",
-      "meaning_uk": "Втомлений",
-      "example": "Nach der Arbeit bin ich meistens sehr ***."
-    },
-    {
-      "term": "natürlich",
-      "type": "Adverb",
-      "meaning_tr": "Tabii ki",
-      "meaning_en": "Of course",
-      "meaning_uk": "Звичайно",
-      "example": "*** komme ich morgen zu senin doğum gününe."
-    },
-    {
-      "term": "peinlich",
-      "type": "Adjective",
-      "meaning_tr": "Utandırıcı",
-      "meaning_en": "Embarrassing",
-      "meaning_uk": "Незручно",
-      "example": "Es war mir extrem ***, als ich seinen Namen vergaß."
-    },
-    {
-      "term": "pünktlich",
-      "type": "Adjective",
-      "meaning_tr": "Dakik",
-      "meaning_en": "Punctual",
-      "meaning_uk": "Пунктуальний",
-      "example": "Der Zug kommt hoffentlich *** an."
-    },
-    {
-      "term": "schließen",
-      "type": "Verb",
-      "meaning_tr": "Kapatmak",
-      "meaning_en": "To close",
-      "meaning_uk": "Зачиняти",
-      "example": "Wann *** die Geschäfte in Deutschland?"
-    },
-    {
-      "term": "spätestens",
-      "type": "Adverb",
-      "meaning_tr": "En geç",
-      "meaning_en": "At the latest",
-      "meaning_uk": "Найпізніше",
-      "example": "Ich brauche die Antwort *** am Freitag."
-    },
-    {
-      "term": "stressig",
-      "type": "Adjective",
-      "meaning_tr": "Stresli",
-      "meaning_en": "Stressful",
-      "meaning_uk": "Стресовий",
-      "example": "Der Umzug war für die ganze Familie sehr ***."
-    },
-    {
-      "term": "übrigens",
-      "type": "Adverb",
-      "meaning_tr": "Bu arada",
-      "meaning_en": "By the way",
-      "meaning_uk": "До речі",
-      "example": "Ich habe *** gestern senin kardeşini gördüm."
-    },
-    {
-      "term": "umziehen",
-      "type": "Verb",
-      "meaning_tr": "Taşınmak",
-      "meaning_en": "To move",
-      "meaning_uk": "Переїжджати",
-      "example": "Nächsten Monat müssen wir in eine neue Wohnung ***."
-    },
-    {
-      "term": "unfreundlich",
-      "type": "Adjective",
-      "meaning_tr": "Kaba",
-      "meaning_en": "Unfriendly",
-      "meaning_uk": "Непривітний",
-      "example": "Warum war der Kellner so *** zu uns?"
-    },
-    {
-      "term": "ungefähr",
-      "type": "Adverb",
-      "meaning_tr": "Yaklaşık",
-      "meaning_en": "Approximately",
-      "meaning_uk": "Приблизно",
-      "example": "Das Dorf liegt *** 20 Kilometer von hier."
-    },
-    {
-      "term": "vorbei",
-      "type": "Adverb",
-      "meaning_tr": "Bitmiş",
-      "meaning_en": "Over",
-      "meaning_uk": "Минуло",
-      "example": "Der Film ist leider schon ***."
-    },
-    {
-      "term": "vorstellen",
-      "type": "Verb",
-      "meaning_tr": "Tanıtmak",
-      "meaning_en": "To introduce",
-      "meaning_uk": "Представляти",
-      "example": "Darf ich Ihnen meinen Kollegen ***?"
-    },
-    {
-      "term": "wünschen",
-      "type": "Verb",
-      "meaning_tr": "Dilemek",
-      "meaning_en": "To wish",
-      "meaning_uk": "Бажати",
-      "example": "Ich *** dir viel Glück für die Prüfung."
-    },
-    {
-      "term": "zuordnen",
-      "type": "Verb",
-      "meaning_tr": "Eşleştirmek",
-      "meaning_en": "To assign",
-      "meaning_uk": "Класифікувати",
-      "example": "Können Sie diese Wörter den Bildern ***?"
-    },
-    {
-      "term": "zurückkommen",
-      "type": "Verb",
-      "meaning_tr": "Geri dönmek",
-      "meaning_en": "To come back",
-      "meaning_uk": "Повертатися",
-      "example": "Wann wirst du aus dem Urlaub ***?"
-    },
-    {
-      "term": "zusammenarbeiten",
-      "type": "Verb",
-      "meaning_tr": "Birlikte çalışmak",
-      "meaning_en": "To work together",
-      "meaning_uk": "Співпрацювати",
-      "example": "In diesem Projekt werden wir eng ***."
-    }
+    { "term": "das Büro", "type": "Noun", "meaning_tr": "Ofis", "meaning_en": "Office", "meaning_uk": "Офіс", "example": "Unser *** befindet sich im ersten Stock." },
+    { "term": "vorstellen", "type": "Verb", "meaning_tr": "Tanıtmak, tanıştırmak", "meaning_en": "To introduce", "meaning_uk": "Представляти", "example": "Darf ich Ihnen Frau Berg ***?" },
+    { "term": "dürfen", "type": "Verb", "meaning_tr": "İzinli olmak (-e bilmek)", "meaning_en": "To be allowed to", "meaning_uk": "Мати дозвіл", "example": "*** ich Sie etwas fragen?" },
+    { "term": "die Entschuldigung", "type": "Noun", "meaning_tr": "Özür, affedersiniz", "meaning_en": "Excuse / Apology", "meaning_uk": "Вибачення", "example": "***, wie ist Ihr Name?" },
+    { "term": "heißen", "type": "Verb", "meaning_tr": "Adı olmak", "meaning_en": "To be called", "meaning_uk": "Називатися", "example": "Wie *** Sie mit Nachnamen?" },
+    { "term": "freuen", "type": "Verb", "meaning_tr": "Sevinmek", "meaning_en": "To be glad", "meaning_uk": "Радіти", "example": "Es *** mich, Sie kennenzulernen." },
+    { "term": "kennen", "type": "Verb", "meaning_tr": "Tanımak", "meaning_en": "To know (someone/somewhere)", "meaning_uk": "Знати", "example": "*** ihr euch schon?" },
+    { "term": "zusammenarbeiten", "type": "Verb", "meaning_tr": "Birlikte çalışmak", "meaning_en": "To work together", "meaning_uk": "Співпрацювати", "example": "Wir werden in diesem Projekt eng ***." },
+    { "term": "ansehen", "type": "Verb", "meaning_tr": "Bakmak, incelemek", "meaning_en": "To look at", "meaning_uk": "Дивитися на", "example": "Darf ich mir Ihre Dokumente bitte ***?" },
+    { "term": "zuordnen", "type": "Verb", "meaning_tr": "Eşleştirmek", "meaning_en": "To assign / match", "meaning_uk": "Співвідносити", "example": "Bitte *** Sie die Wörter den Bildern zu." },
+    { "term": "reagieren", "type": "Verb", "meaning_tr": "Tepki vermek", "meaning_en": "To react", "meaning_uk": "Реагувати", "example": "Wie hat er auf die Nachricht ***?" },
+    { "term": "anfangen", "type": "Verb", "meaning_tr": "Başlamak", "meaning_en": "To start", "meaning_uk": "Починати", "example": "Ich *** morgen früh ***." },
+    { "term": "früh", "type": "Adjective", "meaning_tr": "Erken", "meaning_en": "Early", "meaning_uk": "Рано", "example": "Ich muss morgen sehr *** aufstehen." },
+    { "term": "spät", "type": "Adjective", "meaning_tr": "Geç", "meaning_en": "Late", "meaning_uk": "Пізно", "example": "Es ist schon sehr ***." },
+    { "term": "müde", "type": "Adjective", "meaning_tr": "Yorgun", "meaning_en": "Tired", "meaning_uk": "Втомлений", "example": "Nach der Arbeit bin ich immer ***." },
+    { "term": "vorher", "type": "Adverb", "meaning_tr": "Öncesinde", "meaning_en": "Beforehand", "meaning_uk": "Раніше", "example": "Das müssen wir *** besprechen." },
+    { "term": "das Café", "type": "Noun", "meaning_tr": "Kafe", "meaning_en": "Cafe", "meaning_uk": "Кафе", "example": "Treffen wir uns im ***?" },
+    { "term": "weil", "type": "Conjunction", "meaning_tr": "Çünkü, -dığı için", "meaning_en": "Because", "meaning_uk": "Тому що", "example": "Ich lerne Deutsch, *** ich hier arbeite." },
+    { "term": "der Grund", "type": "Noun", "meaning_tr": "Sebep, neden", "meaning_en": "Reason", "meaning_uk": "Причина", "example": "Was ist der *** für das Problem?" },
+    { "term": "für", "type": "Preposition", "meaning_tr": "İçin", "meaning_en": "For", "meaning_uk": "Для", "example": "Das Geschenk ist *** dich." },
+    { "term": "LG", "type": "Phrase", "meaning_tr": "Selamlar (Kısaltma)", "meaning_en": "Best regards", "meaning_uk": "З найкращими побажаннями", "example": "Bis bald, *** Max." },
+    { "term": "der Führerschein", "type": "Noun", "meaning_tr": "Ehliyet", "meaning_en": "Driver's license", "meaning_uk": "Посвідчення водія", "example": "Hast du einen ***?" },
+    { "term": "der Lkw", "type": "Noun", "meaning_tr": "Kamyon", "meaning_en": "Truck", "meaning_uk": "Вантажівка", "example": "Der *** liefert die Waren." },
+    { "term": "die Ausbildung", "type": "Noun", "meaning_tr": "Mesleki eğitim", "meaning_en": "Vocational training", "meaning_uk": "Освіта", "example": "Ich mache eine *** als Mechaniker." },
+    { "term": "das Praktikum", "type": "Noun", "meaning_tr": "Staj", "meaning_en": "Internship", "meaning_uk": "Стажування", "example": "Ich mache ein *** in einer Firma." },
+    { "term": "umziehen", "type": "Verb", "meaning_tr": "Taşınmak", "meaning_en": "To move (house)", "meaning_uk": "Переїжджати", "example": "Wir müssen nächsten Monat ***." },
+    { "term": "der Ausdruck", "type": "Noun", "meaning_tr": "İfade, tabir", "meaning_en": "Expression", "meaning_uk": "Вираз", "example": "Dieser *** ist mir neu." },
+    { "term": "frei haben", "type": "Phrase", "meaning_tr": "İzinli olmak", "meaning_en": "To be off duty", "meaning_uk": "Мати вихідний", "example": "Wann hast du ***?" },
+    { "term": "stressig", "type": "Adjective", "meaning_tr": "Stresli", "meaning_en": "Stressful", "meaning_uk": "Стресовий", "example": "Mein Job ist momentan sehr ***." },
+    { "term": "aufstehen", "type": "Verb", "meaning_tr": "Kalkmak", "meaning_en": "To get up", "meaning_uk": "Вставати", "example": "Um wie viel Uhr musst du ***?" },
+    { "term": "gehören", "type": "Verb", "meaning_tr": "Ait olmak", "meaning_en": "To belong to", "meaning_uk": "Належати", "example": "Wem *** dieser Wagen?" },
+    { "term": "danken", "type": "Verb", "meaning_tr": "Teşekkür etmek", "meaning_en": "To thank", "meaning_uk": "Дякувати", "example": "Ich *** Ihnen für Ihre Hilfe." },
+    { "term": "der Wagen", "type": "Noun", "meaning_tr": "Araba, araç", "meaning_en": "Car", "meaning_uk": "Автомобіль", "example": "Wo steht der ***?" },
+    { "term": "Willkommen!", "type": "Phrase", "meaning_tr": "Hoş geldiniz!", "meaning_en": "Welcome!", "meaning_uk": "Ласкаво просимо!", "example": "Herzlich *** in unserem Team!" },
+    { "term": "Herzlich willkommen!", "type": "Phrase", "meaning_tr": "Gönülden hoş geldiniz!", "meaning_en": "A warm welcome!", "meaning_uk": "Щиро вітаємо!", "example": "*** *** in Berlin!" },
+    { "term": "die Firma", "type": "Noun", "meaning_tr": "Firma, şirket", "meaning_en": "Company", "meaning_uk": "Фірма", "example": "Unsere *** ist in Berlin." },
+    { "term": "der Chef", "type": "Noun", "meaning_tr": "Patron (erkek)", "meaning_en": "Boss (m)", "meaning_uk": "Начальник", "example": "Mein *** ist sehr nett." },
+    { "term": "die Chefin", "type": "Noun", "meaning_tr": "Patron (kadın)", "meaning_en": "Boss (f)", "meaning_uk": "Начальниця", "example": "Die *** hat uns heute eingeladen." },
+    { "term": "das Team", "type": "Noun", "meaning_tr": "Ekip, takım", "meaning_en": "Team", "meaning_uk": "Команда", "example": "Wir arbeiten in einem internationalen ***." },
+    { "term": "der Teamleiter", "type": "Noun", "meaning_tr": "Takım lideri (erkek)", "meaning_en": "Team leader (m)", "meaning_uk": "Керівник команди", "example": "Herr Schmidt ist unser ***." },
+    { "term": "die Teamleiterin", "type": "Noun", "meaning_tr": "Takım lideri (kadın)", "meaning_en": "Team leader (f)", "meaning_uk": "Керівниця команди", "example": "Frau Weber ist die ***." },
+    { "term": "erklären", "type": "Verb", "meaning_tr": "Açıklamak", "meaning_en": "To explain", "meaning_uk": "Пояснювати", "example": "Können Sie mir das bitte ***?" },
+    { "term": "der Hausmeister", "type": "Noun", "meaning_tr": "Apartman görevlisi (erkek)", "meaning_en": "Caretaker (m)", "meaning_uk": "Завгосп", "example": "Der *** repariert das Licht." },
+    { "term": "die Hausmeisterin", "type": "Noun", "meaning_tr": "Apartman görevlisi (kadın)", "meaning_en": "Caretaker (f)", "meaning_uk": "Завгосп (жінка)", "example": "Die *** kümmert sich um den Garten." },
+    { "term": "die Arbeitskleidung", "type": "Noun", "meaning_tr": "İş kıyafeti", "meaning_en": "Work clothes", "meaning_uk": "Робочий одяг", "example": "Hier müssen wir *** tragen." },
+    { "term": "der Schlüssel", "type": "Noun", "meaning_tr": "Anahtar", "meaning_en": "Key", "meaning_uk": "Ключ", "example": "Ich habe meinen *** verloren." },
+    { "term": "leiten", "type": "Verb", "meaning_tr": "Yönetmek", "meaning_en": "To lead", "meaning_uk": "Керувати", "example": "Sie *** die Personalabteilung." },
+    { "term": "das Personalbüro", "type": "Noun", "meaning_tr": "Personel ofisi", "meaning_en": "HR office", "meaning_uk": "Відділ кадрів", "example": "Gehen Sie bitte zum ***." },
+    { "term": "die Freude", "type": "Noun", "meaning_tr": "Sevinç", "meaning_en": "Joy", "meaning_uk": "Радість", "example": "Wir wünschen Ihnen viel ***!" },
+    { "term": "wünschen", "type": "Verb", "meaning_tr": "Dilemek", "meaning_en": "To wish", "meaning_uk": "Бажати", "example": "Was *** du dir zum Geburtstag?" },
+    { "term": "die Mail", "type": "Noun", "meaning_tr": "E-posta", "meaning_en": "Email", "meaning_uk": "Електронна пошта", "example": "Schreib mir bitte eine ***." },
+    { "term": "die E-Mail", "type": "Noun", "meaning_tr": "E-posta", "meaning_en": "E-mail", "meaning_uk": "Електронна пошта", "example": "Haben Sie meine *** erhalten?" },
+    { "term": "Bescheid sagen", "type": "Phrase", "meaning_tr": "Haber vermek", "meaning_en": "To let someone know", "meaning_uk": "Повідомити", "example": "Kannst du mir bitte *** ***?" },
+    { "term": "schließen", "type": "Verb", "meaning_tr": "Kapatmak", "meaning_en": "To close", "meaning_uk": "Зачиняти", "example": "Bitte *** Sie die Tür." },
+    { "term": "die Tür", "type": "Noun", "meaning_tr": "Kapı", "meaning_en": "Door", "meaning_uk": "Двері", "example": "Die *** ist abgeschlossen." },
+    { "term": "das Blatt", "type": "Noun", "meaning_tr": "Kağıt, yaprak", "meaning_en": "Sheet", "meaning_uk": "Аркуш", "example": "Nehmen Sie ein *** Papier." },
+    { "term": "höflich", "type": "Adjective", "meaning_tr": "Nazik, kibar", "meaning_en": "Polite", "meaning_uk": "Ввічливий", "example": "Er ist immer sehr ***." },
+    { "term": "freundlich", "type": "Adjective", "meaning_tr": "Dost canlısı", "meaning_en": "Friendly", "meaning_uk": "Привітний", "example": "Die Kollegen sind sehr ***." },
+    { "term": "unfreundlich", "type": "Adjective", "meaning_tr": "Kaba", "meaning_en": "Unfriendly", "meaning_uk": "Непривітний", "example": "Warum ist er so ***?" },
+    { "term": "klingen", "type": "Verb", "meaning_tr": "Kulağa gelmek", "meaning_en": "To sound", "meaning_uk": "Звучати", "example": "Das *** interessant." },
+    { "term": "aufschreiben", "type": "Verb", "meaning_tr": "Not etmek", "meaning_en": "To write down", "meaning_uk": "Записувати", "example": "Soll ich mir das ***?" },
+    { "term": "das Formular", "type": "Noun", "meaning_tr": "Form", "meaning_en": "Form", "meaning_uk": "Формуляр", "example": "Füllen Sie dieses *** aus." },
+    { "term": "ausfüllen", "type": "Verb", "meaning_tr": "Doldurmak", "meaning_en": "To fill out", "meaning_uk": "Заповнювати", "example": "Muss ich das alles ***?" },
+    { "term": "der Verkehr", "type": "Noun", "meaning_tr": "Trafik", "meaning_en": "Traffic", "meaning_uk": "Трафік", "example": "Morgens gibt es viel ***." },
+    { "term": "zurückkommen", "type": "Verb", "meaning_tr": "Geri gelmek", "meaning_en": "To come back", "meaning_uk": "Повертатися", "example": "Wann *** du ***?" },
+    { "term": "die Pizzeria", "type": "Noun", "meaning_tr": "Pizzacı", "meaning_en": "Pizzeria", "meaning_uk": "Піцерія", "example": "Gehen wir in die ***?" },
+    { "term": "die Kantine", "type": "Noun", "meaning_tr": "Yemekhane", "meaning_en": "Canteen", "meaning_uk": "Їдальня", "example": "Wir essen heute in der ***." },
+    { "term": "kennenlernen", "type": "Verb", "meaning_tr": "Tanışmak", "meaning_en": "To get to know", "meaning_uk": "Знайомитися", "example": "Schön, Sie ***." },
+    { "term": "hoffen", "type": "Verb", "meaning_tr": "Umut etmek", "meaning_en": "To hope", "meaning_uk": "Сподіватися", "example": "Ich ***, es geht dir gut." },
+    { "term": "der Auftrag", "type": "Noun", "meaning_tr": "Görev, sipariş", "meaning_en": "Order", "meaning_uk": "Замовлення", "example": "Wir haben einen neuen ***." },
+    { "term": "vorbei", "type": "Adverb", "meaning_tr": "Geçmiş, bitmiş", "meaning_en": "Over", "meaning_uk": "Закінчилося", "example": "Die erste Woche ist ***." },
+    { "term": "der Einstand", "type": "Noun", "meaning_tr": "İşe başlama kutlaması", "meaning_en": "Debut", "meaning_uk": "Початок роботи", "example": "Wann feiern wir deinen ***?" },
+    { "term": "die Einstandsfeier", "type": "Noun", "meaning_tr": "İşe giriş partisi", "meaning_en": "Welcome party", "meaning_uk": "Свято початку роботи", "example": "Die *** war sehr lustig." },
+    { "term": "der Fahrer", "type": "Noun", "meaning_tr": "Sürücü (erkek)", "meaning_en": "Driver (m)", "meaning_uk": "Водій", "example": "Der *** wartet im Auto." },
+    { "term": "die Fahrerin", "type": "Noun", "meaning_tr": "Sürücü (kadın)", "meaning_en": "Driver (f)", "meaning_uk": "Водійка", "example": "Die *** fährt sehr vorsichtig." },
+    { "term": "am besten", "type": "Phrase", "meaning_tr": "En iyisi", "meaning_en": "Best", "meaning_uk": "Найкраще", "example": "Wie mache ich das ***?" },
+    { "term": "das Brötchen", "type": "Noun", "meaning_tr": "Sandviç ekmeği", "meaning_en": "Bread roll", "meaning_uk": "Булочка", "example": "Möchten Sie ein ***?" },
+    { "term": "das Knabberzeug", "type": "Noun", "meaning_tr": "Çerez, atıştırmalık", "meaning_en": "Snacks", "meaning_uk": "Закуски", "example": "Wir brauchen noch ***." },
+    { "term": "die Spezialität", "type": "Noun", "meaning_tr": "Yöresel yemek", "meaning_en": "Specialty", "meaning_uk": "Спеціальність", "example": "Das ist eine lokale ***." },
+    { "term": "das Getränk", "type": "Noun", "meaning_tr": "İçecek", "meaning_en": "Drink", "meaning_uk": "Напій", "example": "Welches *** möchten Sie?" },
+    { "term": "peinlich", "type": "Adjective", "meaning_tr": "Utanç verici", "meaning_en": "Embarrassing", "meaning_uk": "Незручно", "example": "Das war mir sehr ***." },
+    { "term": "spätestens", "type": "Adverb", "meaning_tr": "En geç", "meaning_en": "At the latest", "meaning_uk": "Найпізніше", "example": "Kommen Sie *** um 8 Uhr." },
+    { "term": "übrigens", "type": "Adverb", "meaning_tr": "Bu arada", "meaning_en": "By the way", "meaning_uk": "До речі", "example": "Ich habe *** gestern senin kardeşini gördüm." },
+    { "term": "natürlich", "type": "Adverb", "meaning_tr": "Tabii ki", "meaning_en": "Of course", "meaning_uk": "Звичайно", "example": "Kommst du? - ***!" },
+    { "term": "ungefähr", "type": "Adverb", "meaning_tr": "Yaklaşık", "meaning_en": "Approximately", "meaning_uk": "Приблизно", "example": "Das kostet *** 10 Euro." },
+    { "term": "die Kaffeepause", "type": "Noun", "meaning_tr": "Kahve molası", "meaning_en": "Coffee break", "meaning_uk": "Перерва на каву", "example": "Machen wir eine kurze ***?" },
+    { "term": "die Nachbarschaft", "type": "Noun", "meaning_tr": "Komşuluk, mahalle", "meaning_en": "Neighborhood", "meaning_uk": "Сусідство", "example": "Die *** ist hier sehr ruhig." },
+    { "term": "der Verein", "type": "Noun", "meaning_tr": "Dernek, kulüp", "meaning_en": "Club", "meaning_uk": "Клуб", "example": "Er ist Mitglied in einem Fußball***." },
+    { "term": "ansehen", "type": "Verb", "meaning_tr": "Bakmak, incelemek", "meaning_en": "To look at", "meaning_uk": "Дивитися на", "example": "*** Sie sich das Bild an." },
+    { "term": "aufstehen", "type": "Verb", "meaning_tr": "Kalkmak", "meaning_en": "To get up", "meaning_uk": "Вставати", "example": "Ich muss früh ***." },
+    { "term": "ausfüllen", "type": "Verb", "meaning_tr": "Doldurmak", "meaning_en": "To fill out", "meaning_uk": "Заповнювати", "example": "Bitte *** Sie das Formular aus." },
+    { "term": "vorher", "type": "Adverb", "meaning_tr": "Önce", "meaning_en": "Before", "meaning_uk": "Раніше", "example": "Das habe ich *** nicht gewusst." }
   ]
 }
