@@ -2,421 +2,83 @@
   "title": "Integration A2 - Kapitel 3",
   "language": "de",
   "words": [
-    {
-      "term": "abreisen",
-      "type": "Verb",
-      "meaning_tr": "Yola çıkmak, ayrılmak (bir yerden)",
-      "meaning_en": "To depart / To leave",
-      "meaning_uk": "Від'їжджати",
-      "example": "Wir müssen morgen früh um sechs Uhr aus dem Hotel ***."
-    },
-    {
-      "term": "anreisen",
-      "type": "Verb",
-      "meaning_tr": "Varmak, (bir yere) gelmek",
-      "meaning_en": "To arrive",
-      "meaning_uk": "Приїжджати",
-      "example": "An welchem Tag werden Sie in Berlin ***?"
-    },
-    {
-      "term": "ausgebucht",
-      "type": "Adjective",
-      "meaning_tr": "Tamamen dolu (rezervasyon)",
-      "meaning_en": "Fully booked",
-      "meaning_uk": "Заброньовано / Місць немає",
-      "example": "Es tut mir leid, aber unser Hotel ist für das Wochenende leider ***."
-    },
-    {
-      "term": "ausruhen",
-      "type": "Verb (reflexive)",
-      "meaning_tr": "Dinlenmek",
-      "meaning_en": "To rest / To relax",
-      "meaning_uk": "Відпочивати",
-      "example": "Nach der langen Wanderung muss ich mich erst mal kurz ***."
-    },
-    {
-      "term": "badengehen",
-      "type": "Verb",
-      "meaning_tr": "Yüzmeye gitmek, banyo yapmak",
-      "meaning_en": "To go swimming",
-      "meaning_uk": "Йти купатися",
-      "example": "Wenn das Wetter schön bleibt, können wir am Nachmittag im See ***."
-    },
-    {
-      "term": "besichtigen",
-      "type": "Verb",
-      "meaning_tr": "Gezmek, incelemek (müze, şehir vb.)",
-      "meaning_en": "To visit / To sightsee",
-      "meaning_uk": "Оглядати (визначні місця)",
-      "example": "Möchten Sie morgen mit uns die Altstadt ***?"
-    },
-    {
-      "term": "buchen",
-      "type": "Verb",
-      "meaning_tr": "Rezervasyon yapmak, yer ayırtmak",
-      "meaning_en": "To book",
-      "meaning_uk": "Бронювати",
-      "example": "Hast du schon ein Zimmer für unseren Urlaub ***?"
-    },
-    {
-      "term": "das Doppelzimmer",
-      "type": "Noun",
-      "meaning_tr": "Çift kişilik oda",
-      "meaning_en": "Double room",
-      "meaning_uk": "Двомісний номер",
-      "example": "Wir hätten gerne ein *** mit Balkon und Meerblick."
-    },
-    {
-      "term": "das Einzelzimmer",
-      "type": "Noun",
-      "meaning_tr": "Tek kişilik oda",
-      "meaning_en": "Single room",
-      "meaning_uk": "Одномісний номер",
-      "example": "Da ich alleine reise, brauche ich nur ein ***."
-    },
-    {
-      "term": "das Ferienhaus",
-      "type": "Noun",
-      "meaning_tr": "Tatil evi",
-      "meaning_en": "Holiday home",
-      "meaning_uk": "Будинок для відпочинку",
-      "example": "Wir mieten uns im Sommer mit der ganzen Familie ein ***."
-    },
-    {
-      "term": "das Frühstücksbuffet",
-      "type": "Noun",
-      "meaning_tr": "Açık büfe kahvaltı",
-      "meaning_en": "Breakfast buffet",
-      "meaning_uk": "Сніданок (шведський стіл)",
-      "example": "Das *** in diesem Hotel bietet eine sehr große Auswahl."
-    },
-    {
-      "term": "das Gepäck",
-      "type": "Noun",
-      "meaning_tr": "Bagaj, valiz",
-      "meaning_en": "Luggage",
-      "meaning_uk": "Багаж",
-      "example": "Können Sie uns bitte beim Ausladen vom *** helfen?"
-    },
-    {
-      "term": "das Hotel",
-      "type": "Noun",
-      "meaning_tr": "Otel",
-      "meaning_en": "Hotel",
-      "meaning_uk": "Готель",
-      "example": "Unser *** liegt sehr zentral in der Nähe vom Bahnhof."
-    },
-    {
-      "term": "das Meer",
-      "type": "Noun",
-      "meaning_tr": "Deniz",
-      "meaning_en": "Sea",
-      "meaning_uk": "Море",
-      "example": "Im Sommer fahren viele Leute gerne ans ***."
-    },
-    {
-      "term": "das Museum",
-      "type": "Noun",
-      "meaning_tr": "Müze",
-      "meaning_en": "Museum",
-      "meaning_uk": "Музей",
-      "example": "Am Montag hat das *** leider geschlossen."
-    },
-    {
-      "term": "das Reisebüro",
-      "type": "Noun",
-      "meaning_tr": "Seyahat acentesi",
-      "meaning_en": "Travel agency",
-      "meaning_uk": "Туристичне агентство",
-      "example": "Ich lasse mich bei meiner Urlaubsplanung lieber im *** beraten."
-    },
-    {
-      "term": "das Schloss",
-      "type": "Noun",
-      "meaning_tr": "Saray, şato",
-      "meaning_en": "Castle",
-      "meaning_uk": "Замок",
-      "example": "Das alte *** auf dem Berg ist eine bekannte Sehenswürdigkeit."
-    },
-    {
-      "term": "das Souvenir",
-      "type": "Noun",
-      "meaning_tr": "Hediyelik eşya",
-      "meaning_en": "Souvenir",
-      "meaning_uk": "Сувенір",
-      "example": "Ich möchte eine kleine Figur als *** für meine Mutter kaufen."
-    },
-    {
-      "term": "der Ausflug",
-      "type": "Noun",
-      "meaning_tr": "Gezi, tur",
-      "meaning_en": "Excursion / Trip",
-      "meaning_uk": "Екскурсія",
-      "example": "Am Wochenende machen wir einen *** in den Schwarzwald."
-    },
-    {
-      "term": "der Berg",
-      "type": "Noun",
-      "meaning_tr": "Dağ",
-      "meaning_en": "Mountain",
-      "meaning_uk": "Гора",
-      "example": "Die Aussicht oben auf dem *** war einfach fantastisch."
-    },
-    {
-      "term": "der Campingplatz",
-      "type": "Noun",
-      "meaning_tr": "Kamp alanı",
-      "meaning_en": "Campsite",
-      "meaning_uk": "Кемпінг",
-      "example": "Auf diesem *** gibt es sogar kostenloses WLAN."
-    },
-    {
-      "term": "der Flughafen",
-      "type": "Noun",
-      "meaning_tr": "Havalimanı",
-      "meaning_en": "Airport",
-      "meaning_uk": "Аеропорт",
-      "example": "Wir müssen zwei Stunden vor dem Abflug am *** sein."
-    },
-    {
-      "term": "der Koffer",
-      "type": "Noun",
-      "meaning_tr": "Valiz",
-      "meaning_en": "Suitcase",
-      "meaning_uk": "Валіза",
-      "example": "Mein *** ist viel zu schwer für das Flugzeug."
-    },
-    {
-      "term": "der Prospekt",
-      "type": "Noun",
-      "meaning_tr": "Broşür, tanıtım kitapçığı",
-      "meaning_en": "Brochure",
-      "meaning_uk": "Проспект / Брошура",
-      "example": "Haben Sie einen *** mit Informationen über die Stadtrundfahrten?"
-    },
-    {
-      "term": "der Reiseführer",
-      "type": "Noun",
-      "meaning_tr": "Rehber kitap / Tur rehberi (erkek)",
-      "meaning_en": "Travel guide",
-      "meaning_uk": "Путівник / Гід",
-      "example": "In meinem *** stehen viele nützliche Tipps für Restaurants."
-    },
-    {
-      "term": "der Schlafsack",
-      "type": "Noun",
-      "meaning_tr": "Uyku tulumu",
-      "meaning_en": "Sleeping bag",
-      "meaning_uk": "Спальний мішок",
-      "example": "Wenn man im Zelt schläft, braucht man einen guten ***."
-    },
-    {
-      "term": "der See",
-      "type": "Noun",
-      "meaning_tr": "Göl",
-      "meaning_en": "Lake",
-      "meaning_uk": "Озеро",
-      "example": "Der Bodensee ist der größte *** in Deutschland."
-    },
-    {
-      "term": "der Strand",
-      "type": "Noun",
-      "meaning_tr": "Plaj, kumsal",
-      "meaning_en": "Beach",
-      "meaning_uk": "Пляж",
-      "example": "Kinder spielen gerne im Sand am ***."
-    },
-    {
-      "term": "der Tourist",
-      "type": "Noun",
-      "meaning_tr": "Turist (erkek)",
-      "meaning_en": "Tourist (male)",
-      "meaning_uk": "Турист",
-      "example": "Als *** sollte man immer einen Stadtplan dabei haben."
-    },
-    {
-      "term": "der Urlaub",
-      "type": "Noun",
-      "meaning_tr": "Tatil, izin",
-      "meaning_en": "Vacation / Holiday",
-      "meaning_uk": "Відпустка",
-      "example": "Nächste Woche fahre ich endlich in den ***."
-    },
-    {
-      "term": "der Wohnwagen",
-      "type": "Noun",
-      "meaning_tr": "Karavan",
-      "meaning_en": "Caravan / Camper",
-      "meaning_uk": "Будинок на колесах",
-      "example": "Eine Reise mit dem *** ist sehr flexibel und bequem."
-    },
-    {
-      "term": "die Ansichtskarte",
-      "type": "Noun",
-      "meaning_tr": "Kartpostal",
-      "meaning_en": "Postcard",
-      "meaning_uk": "Листівка",
-      "example": "Ich schreibe aus meinem Urlaub eine *** an meine Großeltern."
-    },
-    {
-      "term": "die Ermäßigung",
-      "type": "Noun",
-      "meaning_tr": "İndirim",
-      "meaning_en": "Discount",
-      "meaning_uk": "Знижка",
-      "example": "Gibt es für Studenten eine *** beim Eintritt ins Museum?"
-    },
-    {
-      "term": "die Fahrt",
-      "type": "Noun",
-      "meaning_tr": "Yolculuk, sürüş",
-      "meaning_en": "Trip / Drive",
-      "meaning_uk": "Поїздка",
-      "example": "Die *** mit dem Zug von München nach Berlin dauert ca. vier Stunden."
-    },
-    {
-      "term": "die Halbpension",
-      "type": "Noun",
-      "meaning_tr": "Yarım pansiyon",
-      "meaning_en": "Half board",
-      "meaning_uk": "Напівпансіон",
-      "example": "Wir haben das Hotel inklusive *** gebucht."
-    },
-    {
-      "term": "die Insel",
-      "type": "Noun",
-      "meaning_tr": "Ada",
-      "meaning_en": "Island",
-      "meaning_uk": "Острів",
-      "example": "Mallorca ist eine sehr beliebte *** im Mittelmeer."
-    },
-    {
-      "term": "die Kreditkarte",
-      "type": "Noun",
-      "meaning_tr": "Kredi kartı",
-      "meaning_en": "Credit card",
-      "meaning_uk": "Кредитна картка",
-      "example": "Kann ich die Hotelrechnung auch mit *** bezahlen?"
-    },
-    {
-      "term": "die Übernachtung",
-      "type": "Noun",
-      "meaning_tr": "Konaklama, geceleme",
-      "meaning_en": "Overnight stay",
-      "meaning_uk": "Ночівля",
-      "example": "Wie viel kostet eine *** in diesem Hotel?"
-    },
-    {
-      "term": "die Vollpension",
-      "type": "Noun",
-      "meaning_tr": "Tam pansiyon",
-      "meaning_en": "Full board",
-      "meaning_uk": "Повний пансіон",
-      "example": "Wenn man *** bucht, bekommt man drei Mahlzeiten am Tag."
-    },
-    {
-      "term": "erholen",
-      "type": "Verb (reflexive)",
-      "meaning_tr": "Dinlenmek, iyileşmek",
-      "meaning_en": "To recover / To relax",
-      "meaning_uk": "Відпочивати",
-      "example": "In meinem Urlaub möchte ich mich einfach nur ***."
-    },
-    {
-      "term": "erleben",
-      "type": "Verb",
-      "meaning_tr": "Tecrübe etmek, yaşamak",
-      "meaning_en": "To experience",
-      "meaning_uk": "Переживати / Зазнавати",
-      "example": "Auf unserer Weltreise haben wir unglaublich viel ***."
-    },
-    {
-      "term": "faulenzen",
-      "type": "Verb",
-      "meaning_tr": "Tembellik yapmak",
-      "meaning_en": "To laze around",
-      "meaning_uk": "Ледарювати",
-      "example": "Heute will ich nichts arbeiten, sondern nur am Strand ***."
-    },
-    {
-      "term": "inklusive",
-      "type": "Adjective",
-      "meaning_tr": "Dahil",
-      "meaning_en": "Inclusive",
-      "meaning_uk": "Включно",
-      "example": "Der Preis ist *** Frühstück und Steuern."
-    },
-    {
-      "term": "mieten",
-      "type": "Verb",
-      "meaning_tr": "Kiralamak",
-      "meaning_en": "To rent",
-      "meaning_uk": "Орендувати",
-      "example": "Wir möchten uns für drei Tage ein Auto ***."
-    },
-    {
-      "term": "packen",
-      "type": "Verb",
-      "meaning_tr": "Paketlemek, valiz hazırlamak",
-      "meaning_en": "To pack",
-      "meaning_uk": "Пакувати",
-      "example": "Ich muss heute Abend noch meinen Koffer ***."
-    },
-    {
-      "term": "reisen",
-      "type": "Verb",
-      "meaning_tr": "Seyahat etmek",
-      "meaning_en": "To travel",
-      "meaning_uk": "Подорожувати",
-      "example": "Ich möchte nächstes Jahr gerne durch Südamerika ***."
-    },
-    {
-      "term": "reservieren",
-      "type": "Verb",
-      "meaning_tr": "Rezervasyon yapmak",
-      "meaning_en": "To reserve",
-      "meaning_uk": "Резервувати",
-      "example": "Können Sie uns bitte einen Tisch für zwei Personen ***?"
-    },
-    {
-      "term": "sonnig",
-      "type": "Adjective",
-      "meaning_tr": "Güneşli",
-      "meaning_en": "Sunny",
-      "meaning_uk": "Сонячно",
-      "example": "Für morgen ist schönes und ***es Wetter gemeldet."
-    },
-    {
-      "term": "stornieren",
-      "type": "Verb",
-      "meaning_tr": "İptal etmek (rezervasyon vb.)",
-      "meaning_en": "To cancel",
-      "meaning_uk": "Скасувати",
-      "example": "Da ich krank geworden bin, muss ich meine Reise leider ***."
-    },
-    {
-      "term": "übernachten",
-      "type": "Verb",
-      "meaning_tr": "Gecelemek, konaklamak",
-      "meaning_en": "To stay overnight",
-      "meaning_uk": "Ночувати",
-      "example": "Auf unserer Tour durch die Alpen werden wir in Berghütten ***."
-    },
-    {
-      "term": "wandern",
-      "type": "Verb",
-      "meaning_tr": "Yürüyüş yapmak (doğada)",
-      "meaning_en": "To hike",
-      "meaning_uk": "Йти в похід",
-      "example": "Wir *** sehr gerne im Sommer in den bayerischen Alpen."
-    },
-    {
-      "term": "zelten",
-      "type": "Verb",
-      "meaning_tr": "Kamp yapmak, çadırda kalmak",
-      "meaning_en": "To camp",
-      "meaning_uk": "Жити в наметі",
-      "example": "Wir gehen am Wochenende an den See und werden dort ***."
-    }
+    { "term": "die Kantine", "type": "Noun", "meaning_tr": "Yemekhane", "example": "In der Mittagspause essen wir meistens in der ***, weil es dort günstig ist." },
+    { "term": "online", "type": "Adjective", "meaning_tr": "Çevrimiçi", "example": "Ich kaufe meine Kleidung oft ***, das ist bequemer als im Laden." },
+    { "term": "die Besprechung", "type": "Noun", "meaning_tr": "Toplantı", "example": "Um 10 Uhr haben wir eine wichtige *** mit dem Chef im Konferenzraum." },
+    { "term": "das Holz", "type": "Noun", "meaning_tr": "Odun/Ahşap", "example": "Das Feuer brennt gut, wir brauchen mehr *** für den Kamin." },
+    { "term": "bauen", "type": "Verb", "meaning_tr": "İnşa etmek/Yapmak", "example": "Mein Sohn möchte aus Legosteinen ein großes Haus ***." },
+    { "term": "die Stelle", "type": "Noun", "meaning_tr": "İş/Mevki/Yer", "example": "Ich habe mich auf eine neue *** als Sekretärin beworben." },
+    { "term": "später", "type": "Adverb", "meaning_tr": "Daha sonra", "example": "Ich habe jetzt keine Zeit, können wir uns *** darüber unterhalten?" },
+    { "term": "das Treffen", "type": "Noun", "meaning_tr": "Buluşma/Toplantı", "example": "Unser *** findet morgen Nachmittag im Park statt." },
+    { "term": "die Tätigkeit", "type": "Noun", "meaning_tr": "Faaliyet/Etkinlik", "example": "Welche *** macht Ihnen bei der Arbeit am meisten Spaß?" },
+    { "term": "der Koch", "type": "Noun", "meaning_tr": "Aşçı (m)", "example": "Der *** bereitet in der Küche ein wunderbares Abendessen zu." },
+    { "term": "die Köchin", "type": "Noun", "meaning_tr": "Aşçı (f)", "example": "Unsere neue *** hat sich auf vegetarische Gerichte spezialisiert." },
+    { "term": "schneiden", "type": "Verb", "meaning_tr": "Kesmek", "example": "Pass auf! Du musst das Gemüse vorsichtig mit dem Messer ***." },
+    { "term": "der Sänger", "type": "Noun", "meaning_tr": "Şarkıcı (m)", "example": "Der *** hat eine fantastische Stimme ve gibt heute ein Konzert." },
+    { "term": "die Sängerin", "type": "Noun", "meaning_tr": "Şarkıcı (f)", "example": "Die berühmte *** unterschreibt nach der Show Autogramme." },
+    { "term": "die Aktivität", "type": "Noun", "meaning_tr": "Aktivite", "example": "Sport ist meine liebste *** in meiner Freizeit." },
+    { "term": "die Ausstellung", "type": "Noun", "meaning_tr": "Sergi", "example": "Hast du die neue *** über moderne Kunst im Museum gesehen?" },
+    { "term": "basteln", "type": "Verb", "meaning_tr": "El işi yapmak", "example": "Die Kinder *** im Kindergarten bunte Karten für ihre Eltern." },
+    { "term": "chillen", "type": "Verb", "meaning_tr": "Dinlenmek/Kafa dinlemek", "example": "Am Wochenende möchte ich einfach nur auf dem Balkon ***." },
+    { "term": "der Flohmarkt", "type": "Noun", "meaning_tr": "Bit pazarı", "example": "Auf dem *** kann man tolle alte Sachen für wenig Geld finden." },
+    { "term": "die Flohmärkte", "type": "Noun", "meaning_tr": "Bit pazarları (Plural)", "example": "Im Sommer besuche ich am Wochenende gern verschiedene ***." },
+    { "term": "anstrengend", "type": "Adjective", "meaning_tr": "Yorucu", "example": "Die Arbeit auf der Baustelle ist körperlich sehr ***." },
+    { "term": "die Reaktion", "type": "Noun", "meaning_tr": "Tepki", "example": "Seine *** auf das Geschenk war sehr positiv ve überrascht." },
+    { "term": "erzählen", "type": "Verb", "meaning_tr": "Anlatmak", "example": "Opa kann uns immer sehr spannende Geschichten ***." },
+    { "term": "wissen", "type": "Verb", "meaning_tr": "Bilmek", "example": "Weißt du, wie man zum nächsten Supermarkt kommt?" },
+    { "term": "klappen", "type": "Verb", "meaning_tr": "Yolunda gitmek/Olmak", "example": "Keine Sorge, dein Plan wird sicher gut ***!" },
+    { "term": "die Ferien", "type": "Noun (Pl.)", "meaning_tr": "Tatil (Okul/Resmi)", "example": "In den *** fahren wir mit der ganzen Familie ans Meer." },
+    { "term": "der Betriebsausflug", "type": "Noun", "meaning_tr": "Şirket gezisi", "example": "Unser nächster *** geht dieses Jahr in die Berge." },
+    { "term": "verliebt sein", "type": "Phrase", "meaning_tr": "Aşık olmak", "example": "Mark ist sehr glücklich, er scheint frisch *** zu ***." },
+    { "term": "die Überstunde", "type": "Noun", "meaning_tr": "Fazla mesai", "example": "Wir haben viel Arbeit, deshalb muss ich heute eine *** machen." },
+    { "term": "der Spaß", "type": "Noun", "meaning_tr": "Eğlence", "example": "Die Arbeit macht mir viel ***, weil die Kollegen nett sind." },
+    { "term": "echt", "type": "Adjective", "meaning_tr": "Gerçek/Hakiki", "example": "Ist dieser Ring aus ***em Gold oder ist er nur Schmuck?" },
+    { "term": "schade", "type": "Adjective/Phrase", "meaning_tr": "Yazık", "example": "Es ist ***, dass du heute Abend nicht mitkommen kannst." },
+    { "term": "der Kalender", "type": "Noun", "meaning_tr": "Takvim", "example": "Ich muss in meinen *** schauen, ob ich am Montag Zeit habe." },
+    { "term": "der Elternabend", "type": "Noun", "meaning_tr": "Veli toplantısı", "example": "Heute Abend findet in der Schule der erste *** statt." },
+    { "term": "die Eröffnung", "type": "Noun", "meaning_tr": "Açılış", "example": "Wir sind zur *** des neuen Restaurants eingeladen." },
+    { "term": "die Fotografie", "type": "Noun", "meaning_tr": "Fotoğrafçılık", "example": "Die *** ist seit Jahren mein liebstes Hobby." },
+    { "term": "der Friseur", "type": "Noun", "meaning_tr": "Kuaför (m)", "example": "Ich gehe zum ***, um mir die Haare schneiden zu lassen." },
+    { "term": "die Friseurin", "type": "Noun", "meaning_tr": "Kuaför (f)", "example": "Die *** hat meine Haare sehr schön gefärbt." },
+    { "term": "die Nachhilfe", "type": "Noun", "meaning_tr": "Özel ders/Takviye", "example": "Mein Sohn braucht *** in Mathematik, um bessere Noten zu bekommen." },
+    { "term": "vereinbaren", "type": "Verb", "meaning_tr": "Kararlaştırmak/Randevulaşmak", "example": "Wir müssen für nächste Woche einen neuen Termin ***." },
+    { "term": "der Strand", "type": "Noun", "meaning_tr": "Plaj/Sahil", "example": "Im Urlaub liegen wir den ganzen Tag am *** in der Sonne." },
+    { "term": "der Chor", "type": "Noun", "meaning_tr": "Koro", "example": "Jeden Dienstagabend singe ich mit anderen Leuten im ***." },
+    { "term": "die Chöre", "type": "Noun", "meaning_tr": "Korolar (Plural)", "example": "In unserer Stadt gibt es viele verschiedene ***." },
+    { "term": "die Mitternacht", "type": "Noun", "meaning_tr": "Gece yarısı", "example": "Um *** wird an Silvester ein großes Feuerwerk gemacht." },
+    { "term": "die Serie", "type": "Noun", "meaning_tr": "Dizi", "example": "Ich schaue mir jeden Abend eine Folge meiner Lieblings*** an." },
+    { "term": "privat", "type": "Adjective", "meaning_tr": "Özel/Şahsi", "example": "Das ist meine ***e Meinung ve hat nichts mit der Arbeit zu tun." },
+    { "term": "der Babysitter", "type": "Noun", "meaning_tr": "Bebek bakıcısı", "example": "Wenn wir ins Kino gehen, kommt ein *** für unsere Kinder." },
+    { "term": "unterwegs", "type": "Adverb", "meaning_tr": "Yolda/Hareket halinde", "example": "Ich bin gerade *** ve rufe dich zurück, wenn ich zu Hause bin." },
+    { "term": "der Nachtisch", "type": "Noun", "meaning_tr": "Tatlı (Yemekten sonra)", "example": "Als *** gibt es heute Eis mit heißen Kirschen." },
+    { "term": "rechtzeitig", "type": "Adjective/Adverb", "meaning_tr": "Zamanında", "example": "Bitte komm *** zum Treffen, wir möchten pünktlich anfangen." },
+    { "term": "pünktlich", "type": "Adjective", "meaning_tr": "Dakik", "example": "In Deutschland ist es wichtig, zu Terminen *** zu erscheinen." },
+    { "term": "die Werkstatt", "type": "Noun", "meaning_tr": "Atölye/Tamirhane", "example": "Mein Auto ist kaputt ve steht zur Reparatur in der ***." },
+    { "term": "die Werkstätten", "type": "Noun", "meaning_tr": "Atölyeler (Plural)", "example": "Es gibt viele *** in diesem Industriegebiet." },
+    { "term": "unterstützen", "type": "Verb", "meaning_tr": "Desteklemek", "example": "Meine Familie wird mich bei meinem Studium immer ***." },
+    { "term": "das Projekt", "type": "Noun", "meaning_tr": "Proje", "example": "Wir arbeiten gerade an einem neuen *** für einen Kunden." },
+    { "term": "das Werkzeug", "type": "Noun", "meaning_tr": "Alet", "example": "Hol bitte den Hammer aus dem Kasten, ich brauche das ***." },
+    { "term": "der Bürger", "type": "Noun", "meaning_tr": "Vatandaş (m)", "example": "Jeder *** hat das Recht, bei der Wahl abzustimmen." },
+    { "term": "die Bürgerin", "type": "Noun", "meaning_tr": "Vatandaş (f)", "example": "Die Stadtverwaltung hilft jeder *** bei ihren Fragen." },
+    { "term": "die Rede", "type": "Noun", "meaning_tr": "Konuşma/Nutuk", "example": "Der Chef hielt eine kurze *** zur Begrüßung der neuen Gäste." },
+    { "term": "das Kostüm", "type": "Noun", "meaning_tr": "Kostüm", "example": "An Karneval tragen viele Leute ein lustiges ***." },
+    { "term": "das Kind", "type": "Noun", "meaning_tr": "Çocuk", "example": "Das *** spielt draußen im Garten mit seinem Hund." },
+    { "term": "der Jugendliche", "type": "Noun", "meaning_tr": "Genç", "example": "Der Film ist für Kinder nicht geeignet, erst für ***." },
+    { "term": "der Erwachsene", "type": "Noun", "meaning_tr": "Yetişkin", "example": "Der Eintritt für *** kostet 10 Euro, Kinder zahlen nichts." },
+    { "term": "der Senior", "type": "Noun", "meaning_tr": "Yaşlı/Emekli (m)", "example": "Im Park sitzen viele *** auf den Bänken ve genießen die Sonne." },
+    { "term": "die Seniorin", "type": "Noun", "meaning_tr": "Yaşlı/Emekli (f)", "example": "Die *** geht jeden Morgen im Wald spazieren." },
+    { "term": "anbieten", "type": "Verb", "meaning_tr": "Sunmak/Teklif etmek", "example": "Darf ich Ihnen eine Tasse Kaffee veya Tee ***?" },
+    { "term": "der Anfänger", "type": "Noun", "meaning_tr": "Yeni başlayan (m)", "example": "Dieser Kurs ist perfekt für ***, die noch kein Deutsch können." },
+    { "term": "die Anfängerin", "type": "Noun", "meaning_tr": "Yeni başlayan (f)", "example": "Sie ist eine *** im Yoga ve lernt gerade die Grundübungen." },
+    { "term": "sich anmelden", "type": "Verb", "meaning_tr": "Kayıt olmak", "example": "Ich möchte mich für den Schwimmkurs im Sportverein ***." },
+    { "term": "Vielen Dank im Voraus", "type": "Phrase", "meaning_tr": "Şimdiden çok teşekkürler", "example": "Könnten Sie mir die Unterlagen schicken? *** *** *** ***!" },
+    { "term": "die Anmeldung", "type": "Noun", "meaning_tr": "Kayıt", "example": "Bitte kommen Sie zur *** zuerst in das Hauptbüro." },
+    { "term": "die Mitgliedsbeiträge", "type": "Noun (Pl.)", "meaning_tr": "Üyelik ücretleri", "example": "Die *** im Sportverein werden jedes Jahr im Januar bezahlt." },
+    { "term": "das Boot", "type": "Noun", "meaning_tr": "Tekne/Bot", "example": "Wir mieten uns ein *** ve fahren auf dem See spazieren." },
+    { "term": "die Pflanze", "type": "Noun", "meaning_tr": "Bitki", "example": "Diese *** braucht viel Licht, stell sie bitte ans Fenster." },
+    { "term": "das Tier", "type": "Noun", "meaning_tr": "Hayvan", "example": "Welches *** magst du mehr: eine Katze veya einen Hund?" },
+    { "term": "das Abenteuer", "type": "Noun", "meaning_tr": "Macera", "example": "Die Reise durch den Dschungel war ein großes *** für uns." },
+    { "term": "die Ermäßigung", "type": "Noun", "meaning_tr": "İndirim", "example": "Studenten ve Senioren erhalten im Museum eine ***." },
+    { "term": "die Buchung", "type": "Noun", "meaning_tr": "Rezervasyon/Kayıt", "example": "Nach der *** des Hotels bekommen Sie eine E-Mail als Bestätigung." }
   ]
 }
