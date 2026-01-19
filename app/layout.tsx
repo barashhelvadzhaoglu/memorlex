@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Providers } from "./providers";
 import Navbar from "./components/Navbar";
+import Script from "next/script"; // Next.js Script bileşenini ekledik
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,12 +19,17 @@ export default function RootLayout({
 }) {
   return (
     <html lang="tr" suppressHydrationWarning>
+      <head>
+        {/* Google AdSense Doğrulama Kodu */}
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4697582628476361"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+      </head>
       <body 
         className={`${inter.className} bg-slate-50 dark:bg-slate-900 transition-colors duration-300`}
-        /* Görseldeki (image_7e2325.jpg) hatayı önlemek için: 
-           dark:text-white sınıfını sildik. Bu sınıf tüm buton metinlerini 
-           beyaza zorlayarak görünmez kılıyordu.
-        */
       >
         <Providers>
           <Navbar />
