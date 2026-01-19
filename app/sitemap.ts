@@ -1,11 +1,13 @@
 import { MetadataRoute } from 'next'
 
+// Cloudflare Pages statik export için bu satır şart:
+export const dynamic = 'force-static'
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://memorlex.com'
   const languages = ['tr', 'en', 'de', 'uk']
   const lastModified = new Date()
 
-  // Ana sayfalar için sitemap girişleri oluştur
   const languageEntries = languages.map((lang) => ({
     url: `${baseUrl}/${lang}`,
     lastModified: lastModified,
@@ -21,6 +23,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     ...languageEntries,
-    // Gelecekte buraya subject/unit verilerini bir API veya veritabanından çekip push edebilirsin
   ]
 }
