@@ -2,445 +2,102 @@
   "title": "Integration A2 - Kapitel 4",
   "language": "de",
   "words": [
-    {
-      "term": "abnehmen",
-      "type": "Verb",
-      "meaning_tr": "Kilo vermek, zayıflamak",
-      "meaning_en": "To lose weight",
-      "meaning_uk": "Худнути",
-      "example": "Ich mache mehr Sport, weil ich gerne fünf Kilo *** möchte."
-    },
-    {
-      "term": "allein",
-      "type": "Adverb",
-      "meaning_tr": "Yalnız, tek başına",
-      "meaning_en": "Alone",
-      "meaning_uk": "Один / Самітно",
-      "example": "Mein Großvater ist 80 Jahre alt, aber er lebt immer noch ganz ***."
-    },
-    {
-      "term": "atmen",
-      "type": "Verb",
-      "meaning_tr": "Nefes almak",
-      "meaning_en": "To breathe",
-      "meaning_uk": "Дихати",
-      "example": "Öffnen Sie bitte den Mund und *** Sie ganz tief ein und aus."
-    },
-    {
-      "term": "aussehen",
-      "type": "Verb",
-      "meaning_tr": "Görünmek",
-      "meaning_en": "To look like / To appear",
-      "meaning_uk": "Виглядати",
-      "example": "Bist du krank? Du siehst heute leider gar nicht gut ***."
-    },
-    {
-      "term": "das Auge",
-      "type": "Noun",
-      "meaning_tr": "Göz",
-      "meaning_en": "Eye",
-      "meaning_uk": "Око",
-      "example": "Ich war gestern beim Arzt, weil mein linkes *** sehr rot war."
-    },
-    {
-      "term": "das Bein",
-      "type": "Noun",
-      "meaning_tr": "Bacak",
-      "meaning_en": "Leg",
-      "meaning_uk": "Нога",
-      "example": "Nach dem Fußballspiel hatte ich starke Schmerzen im rechten ***."
-    },
-    {
-      "term": "das Fieber",
-      "type": "Noun",
-      "meaning_tr": "Ateş (hastalık)",
-      "meaning_en": "Fever",
-      "meaning_uk": "Температура / Лихоманка",
-      "example": "Das Kind hat seit heute Morgen hohes *** und braucht Ruhe."
-    },
-    {
-      "term": "das Gesicht",
-      "type": "Noun",
-      "meaning_tr": "Yüz, çehre",
-      "meaning_en": "Face",
-      "meaning_uk": "Обличчя",
-      "example": "Wasche dir bitte zuerst das *** mit kaltem Wasser."
-    },
-    {
-      "term": "das Haar",
-      "type": "Noun",
-      "meaning_tr": "Saç",
-      "meaning_en": "Hair",
-      "meaning_uk": "Волосся",
-      "example": "Sie hat sehr lange und dunkelbraune ***e."
-    },
-    {
-      "term": "das Knie",
-      "type": "Noun",
-      "meaning_tr": "Diz",
-      "meaning_en": "Knee",
-      "meaning_uk": "Коліно",
-      "example": "Beim Wandern ist er hingefallen und hat sich am *** verletzt."
-    },
-    {
-      "term": "das Medikament",
-      "type": "Noun",
-      "meaning_tr": "İlaç",
-      "meaning_en": "Medication",
-      "meaning_uk": "Ліки",
-      "example": "Nehmen Sie dieses *** bitte immer direkt nach dem Essen ein."
-    },
-    {
-      "term": "das Ohr",
-      "type": "Noun",
-      "meaning_tr": "Kulak",
-      "meaning_en": "Ear",
-      "meaning_uk": "Вухо",
-      "example": "Hörst du mich nicht? Hast du etwas an deinem ***?"
-    },
-    {
-      "term": "das Pflaster",
-      "type": "Noun",
-      "meaning_tr": "Yara bandı",
-      "meaning_en": "Plaster / Band-aid",
-      "meaning_uk": "Пластир",
-      "example": "Ich habe mich geschnitten, hast du vielleicht ein *** für mich?"
-    },
-    {
-      "term": "das Rezept",
-      "type": "Noun",
-      "meaning_tr": "Reçete / Yemek tarifi",
-      "meaning_en": "Prescription / Recipe",
-      "meaning_uk": "Рецепт",
-      "example": "Der Arzt hat mir ein *** für die Tabletten geschrieben."
-    },
-    {
-      "term": "der Apotheker",
-      "type": "Noun",
-      "meaning_tr": "Eczacı (erkek)",
-      "meaning_en": "Pharmacist (male)",
-      "meaning_uk": "Аптекар",
-      "example": "Der *** hat mir genau erklärt, wie ich die Salbe benutzen soll."
-    },
-    {
-      "term": "der Arm",
-      "type": "Noun",
-      "meaning_tr": "Kol",
-      "meaning_en": "Arm",
-      "meaning_uk": "Рука",
-      "example": "Mein rechter *** tut weh, weil ich gestern zu viel Sport gemacht habe."
-    },
-    {
-      "term": "der Bauch",
-      "type": "Noun",
-      "meaning_tr": "Karın, göbek",
-      "meaning_en": "Belly / Stomach",
-      "meaning_uk": "Живіт",
-      "example": "Das Kind hat zu viele Süßigkeiten gegessen und jetzt tut der *** weh."
-    },
-    {
-      "term": "der Finger",
-      "type": "Noun",
-      "meaning_tr": "Parmak",
-      "meaning_en": "Finger",
-      "meaning_uk": "Палець",
-      "example": "Ich kann den Ring nicht von meinem *** bekommen."
-    },
-    {
-      "term": "der Fuß",
-      "type": "Noun",
-      "meaning_tr": "Ayak",
-      "meaning_en": "Foot",
-      "meaning_uk": "Ступня",
-      "example": "Wir brauchen kein Taxi, wir können die kurze Strecke auch zu *** gehen."
-    },
-    {
-      "term": "der Hals",
-      "type": "Noun",
-      "meaning_tr": "Boğaz, boyun",
-      "meaning_en": "Neck / Throat",
-      "meaning_uk": "Шия / Горло",
-      "example": "Trink einen heißen Tee, wenn du Schmerzen im *** hast."
-    },
-    {
-      "term": "der Husten",
-      "type": "Noun",
-      "meaning_tr": "Öksürük",
-      "meaning_en": "Cough",
-      "meaning_uk": "Кашель",
-      "example": "Gegen den starken *** hilft dieser Saft aus der Apotheke sehr gut."
-    },
-    {
-      "term": "der Kopf",
-      "type": "Noun",
-      "meaning_tr": "Baş, kafa",
-      "meaning_en": "Head",
-      "meaning_uk": "Голова",
-      "example": "Ich kann mich nicht konzentrieren, mein *** tut heute sehr weh."
-    },
-    {
-      "term": "der Körper",
-      "type": "Noun",
-      "meaning_tr": "Vücut",
-      "meaning_en": "Body",
-      "meaning_uk": "Тіло",
-      "example": "Ausreichend Schlaf ist sehr wichtig für einen gesunden ***."
-    },
-    {
-      "term": "der Mund",
-      "type": "Noun",
-      "meaning_tr": "Ağız",
-      "meaning_en": "Mouth",
-      "meaning_uk": "Рот",
-      "example": "Machen Sie bitte den *** weit auf, ich muss mir die Zähne ansehen."
-    },
-    {
-      "term": "der Rücken",
-      "type": "Noun",
-      "meaning_tr": "Sırt",
-      "meaning_en": "Back",
-      "meaning_uk": "Спина",
-      "example": "Ich habe oft Probleme mit dem ***, weil ich den ganzen Tag im Büro sitze."
-    },
-    {
-      "term": "der Schnupfen",
-      "type": "Noun",
-      "meaning_tr": "Nezle, burun akıntısı",
-      "meaning_en": "Cold / Sniffles",
-      "meaning_uk": "Нежить",
-      "example": "Ich habe eine Erkältung mit Husten und starkem ***."
-    },
-    {
-      "term": "der Schmerz",
-      "type": "Noun",
-      "meaning_tr": "Ağrı, sızı",
-      "meaning_en": "Pain",
-      "meaning_uk": "Біль",
-      "example": "Haben Sie an dieser Stelle immer noch starke ***en?"
-    },
-    {
-      "term": "der Zahn",
-      "type": "Noun",
-      "meaning_tr": "Diş",
-      "meaning_en": "Tooth",
-      "meaning_uk": "Зуб",
-      "example": "Morgen habe ich einen Termin beim Arzt, weil mir ein *** weh tut."
-    },
-    {
-      "term": "die Apotheke",
-      "type": "Noun",
-      "meaning_tr": "Eczane",
-      "meaning_en": "Pharmacy",
-      "meaning_uk": "Аптека",
-      "example": "Geh bitte schnell in die *** und kauf ein paar Kopfschmerztabletten."
-    },
-    {
-      "term": "die Apothekerin",
-      "type": "Noun",
-      "meaning_tr": "Eczacı (kadın)",
-      "meaning_en": "Pharmacist (female)",
-      "meaning_uk": "Аптекарка",
-      "example": "Die *** hat mir geraten, das Medikament mit viel Wasser zu trinken."
-    },
-    {
-      "term": "die Besserung",
-      "type": "Noun",
-      "meaning_tr": "İyileşme",
-      "meaning_en": "Recovery / Improvement",
-      "meaning_uk": "Одужання",
-      "example": "Ich habe gehört, dass du krank bist. Ich wünsche dir gute ***!"
-    },
-    {
-      "term": "die Brust",
-      "type": "Noun",
-      "meaning_tr": "Göğüs",
-      "meaning_en": "Chest",
-      "meaning_uk": "Груди",
-      "example": "Der Patient klagt über Engegefühl und Schmerzen in der ***."
-    },
-    {
-      "term": "die Diät",
-      "type": "Noun",
-      "meaning_tr": "Diyet",
-      "meaning_en": "Diet",
-      "meaning_uk": "Дієта",
-      "example": "Mein Arzt sagt, ich muss eine *** machen und weniger Fett essen."
-    },
-    {
-      "term": "die Gesundheit",
-      "type": "Noun",
-      "meaning_tr": "Sağlık",
-      "meaning_en": "Health",
-      "meaning_uk": "Здоров'я",
-      "example": "Viel frisches Obst und Gemüse ist gut für die allgemeine ***."
-    },
-    {
-      "term": "die Hand",
-      "type": "Noun",
-      "meaning_tr": "El",
-      "meaning_en": "Hand",
-      "meaning_uk": "Рука",
-      "example": "Gib mir bitte deine ***, damit wir gemeinsam über die Straße gehen."
-    },
-    {
-      "term": "die Krankheit",
-      "type": "Noun",
-      "meaning_tr": "Hastalık",
-      "meaning_en": "Illness / Disease",
-      "meaning_uk": "Хвороба",
-      "example": "Gegen diese gefährliche *** gibt es zum Glück eine Impfung."
-    },
-    {
-      "term": "die Nase",
-      "type": "Noun",
-      "meaning_tr": "Burun",
-      "meaning_en": "Nose",
-      "meaning_uk": "Ніс",
-      "example": "Ich brauche ein Taschentuch, meine *** läuft den ganzen Tag."
-    },
-    {
-      "term": "die Salbe",
-      "type": "Noun",
-      "meaning_tr": "Merhem, krem",
-      "meaning_en": "Ointment",
-      "meaning_uk": "Мазь",
-      "example": "Du solltest diese *** zweimal täglich auf die Wunde streichen."
-    },
-    {
-      "term": "die Schulter",
-      "type": "Noun",
-      "meaning_tr": "Omuz",
-      "meaning_en": "Shoulder",
-      "meaning_uk": "Плече",
-      "example": "Er trägt seine schwere Tasche immer nur auf der linken ***."
-    },
-    {
-      "term": "die Tablette",
-      "type": "Noun",
-      "meaning_tr": "Hap, tablet",
-      "meaning_en": "Tablet / Pill",
-      "meaning_uk": "Таблетка",
-      "example": "Muss ich jede Nacht eine *** gegen die Schmerzen nehmen?"
-    },
-    {
-      "term": "die Untersuchung",
-      "type": "Noun",
-      "meaning_tr": "Muayene, inceleme",
-      "meaning_en": "Examination",
-      "meaning_uk": "Обстеження",
-      "example": "Nach der *** konnte der Arzt sagen, dass alles in Ordnung ist."
-    },
-    {
-      "term": "fit",
-      "type": "Adjective",
-      "meaning_tr": "Zinde, formda",
-      "meaning_en": "Fit",
-      "meaning_uk": "У хорошій формі",
-      "example": "Ich gehe dreimal pro Woche joggen, um körperlich *** zu bleiben."
-    },
-    {
-      "term": "gesund",
-      "type": "Adjective",
-      "meaning_tr": "Sağlıklı",
-      "meaning_en": "Healthy",
-      "meaning_uk": "Здоровий",
-      "example": "Er ernährt sich sehr *** und isst fast nie Fast Food."
-    },
-    {
-      "term": "husten",
-      "type": "Verb",
-      "meaning_tr": "Öksürmek",
-      "meaning_en": "To cough",
-      "meaning_uk": "Кашляти",
-      "example": "Du musst dir die Hand vor den Mund halten, wenn du ***t."
-    },
-    {
-      "term": "krank",
-      "type": "Adjective",
-      "meaning_tr": "Hasta",
-      "meaning_en": "Sick / Ill",
-      "meaning_uk": "Хворий",
-      "example": "Gestern war ich ***, aber heute fühle ich mich schon viel besser."
-    },
-    {
-      "term": "müde",
-      "type": "Adjective",
-      "meaning_tr": "Yorgun, uykulu",
-      "meaning_en": "Tired",
-      "meaning_uk": "Втомлений",
-      "example": "Nach der langen Arbeit war er so ***, dass er sofort einschlief."
-    },
-    {
-      "term": "rauchen",
-      "type": "Verb",
-      "meaning_tr": "Sigara içmek",
-      "meaning_en": "To smoke",
-      "meaning_uk": "Палити",
-      "example": "In diesem Restaurant ist es streng verboten zu ***."
-    },
-    {
-      "term": "schlimm",
-      "type": "Adjective",
-      "meaning_tr": "Kötü, fena",
-      "meaning_en": "Bad / Serious",
-      "meaning_uk": "Погано",
-      "example": "Keine Sorge, die Verletzung am Finger ist nicht so ***."
-    },
-    {
-      "term": "schmerzen",
-      "type": "Verb",
-      "meaning_tr": "Ağrımak",
-      "meaning_en": "To ache / To hurt",
-      "meaning_uk": "Боліти",
-      "example": "Wo genau ***t es Ihnen? Können Sie mir die Stelle zeigen?"
-    },
-    {
-      "term": "schwanger",
-      "type": "Adjective",
-      "meaning_tr": "Hamile",
-      "meaning_en": "Pregnant",
-      "meaning_uk": "Вагітна",
-      "example": "Meine Kollegin bekommt ein Baby, sie ist im siebten Monat ***."
-    },
-    {
-      "term": "tabletten einnehmen",
-      "type": "Phrase",
-      "meaning_tr": "Hap kullanmak/yutmak",
-      "meaning_en": "To take pills",
-      "meaning_uk": "Приймати таблетки",
-      "example": "Wie viele *** muss ich pro Tag insgesamt ***?"
-    },
-    {
-      "term": "untersuchen",
-      "type": "Verb",
-      "meaning_tr": "Muayene etmek, incelemek",
-      "meaning_en": "To examine",
-      "meaning_uk": "Обстежувати",
-      "example": "Der Arzt muss zuerst Ihr Herz ***, bevor er die Diagnose stellt."
-    },
-    {
-      "term": "verletzt",
-      "type": "Adjective",
-      "meaning_tr": "Yaralı",
-      "meaning_en": "Injured",
-      "meaning_uk": "Поранений",
-      "example": "Bei dem kleinen Unfall wurde zum Glück niemand ernsthaft ***."
-    },
-    {
-      "term": "weh tun",
-      "type": "Verb (separable)",
-      "meaning_tr": "Acımak, ağrımak",
-      "meaning_en": "To hurt",
-      "meaning_uk": "Боліти",
-      "example": "Ich kann nicht gut laufen, weil meine Füße heute so sehr *** ***."
-    },
-    {
-      "term": "zunehmen",
-      "type": "Verb",
-      "meaning_tr": "Kilo almak",
-      "meaning_en": "To gain weight",
-      "meaning_uk": "Набирати вагу",
-      "example": "Ich habe Angst, dass ich über die Feiertage zu viel *** werde."
-    }
+    {"term": "die Kleidung", "type": "Noun", "meaning_tr": "Giysi, Kıyafet", "meaning_en": "clothing, clothes", "meaning_uk": "одяг, речі", "example": "Im Winter brauche ich warme ***, sonst friere ich."},
+    {"term": "das Kleidungsstück", "type": "Noun", "meaning_tr": "Kıyafet parçası", "meaning_en": "item of clothing", "meaning_uk": "елемент одягу", "example": "Dieses *** ist sehr bequem."},
+    {"term": "der Anzug", "type": "Noun", "meaning_tr": "Takım elbise", "meaning_en": "suit, formal wear", "meaning_uk": "костюм", "example": "Für das Vorstellungsgespräch trage ich einen ***."},
+    {"term": "die Bluse", "type": "Noun", "meaning_tr": "Bluz", "meaning_en": "women's blouse", "meaning_uk": "блузка", "example": "Sie kauft eine neue *** fürs Büro."},
+    {"term": "der Gürtel", "type": "Noun", "meaning_tr": "Kemer", "meaning_en": "belt, waist belt", "meaning_uk": "ремінь", "example": "Meine Hose rutscht, ich brauche einen ***."},
+    {"term": "das Hemd", "type": "Noun", "meaning_tr": "Gömlek", "meaning_en": "shirt, men's shirt", "meaning_uk": "сорочка", "example": "Zum Anzug ziehe ich ein weißes *** an."},
+    {"term": "die Hose", "type": "Noun", "meaning_tr": "Pantolon", "meaning_en": "trousers, pants", "meaning_uk": "штани", "example": "Diese *** ist mir zu eng."},
+    {"term": "die Jacke", "type": "Noun", "meaning_tr": "Ceket / Mont", "meaning_en": "jacket, coat", "meaning_uk": "куртка", "example": "Nimm deine ***, es ist kalt."},
+    {"term": "das Jackett", "type": "Noun", "meaning_tr": "Ceket (Erkek)", "meaning_en": "men's jacket", "meaning_uk": "піджак", "example": "Das *** passt gut zur Hose."},
+    {"term": "das Kleid", "type": "Noun", "meaning_tr": "Elbise", "meaning_en": "dress, gown", "meaning_uk": "сукня", "example": "Sie trägt ein schönes ***."},
+    {"term": "die Krawatte", "type": "Noun", "meaning_tr": "Kravat", "meaning_en": "tie, necktie", "meaning_uk": "краватка", "example": "Er bindet morgens seine ***."},
+    {"term": "der Mantel", "type": "Noun", "meaning_tr": "Palto / Manto", "meaning_en": "coat, overcoat", "meaning_uk": "пальто", "example": "Im Winter trage ich einen dicken ***."},
+    {"term": "der Pullover", "type": "Noun", "meaning_tr": "Kazak", "meaning_en": "sweater, jumper", "meaning_uk": "светр", "example": "Dieser *** hält mich warm."},
+    {"term": "der Rock", "type": "Noun", "meaning_tr": "Etek", "meaning_en": "skirt", "meaning_uk": "спідниця", "example": "Der *** ist heute sehr modern."},
+    {"term": "die Socke", "type": "Noun", "meaning_tr": "Çorap", "meaning_en": "sock", "meaning_uk": "шкарпетка", "example": "Ich finde meine zweite *** nicht."},
+    {"term": "der Strumpf", "type": "Noun", "meaning_tr": "Uzun çorap", "meaning_en": "stocking, long sock", "meaning_uk": "панчоха", "example": "Im Winter trage ich warme ***."},
+    {"term": "das T-Shirt", "type": "Noun", "meaning_tr": "Tişört", "meaning_en": "t-shirt", "meaning_uk": "футболка", "example": "Im Sommer trage ich oft ein ***."},
+    {"term": "der BH", "type": "Noun", "meaning_tr": "Sütyen", "meaning_en": "bra, underwear", "meaning_uk": "бюстгальтер", "example": "Sie kauft einen neuen ***."},
+    {"term": "das Unterhemd", "type": "Noun", "meaning_tr": "Atlet", "meaning_en": "undershirt", "meaning_uk": "майка", "example": "Im Winter ziehe ich ein *** an."},
+    {"term": "die Unterhose", "type": "Noun", "meaning_tr": "Külot", "meaning_en": "underpants", "meaning_uk": "спідня білизна", "example": "Ich brauche saubere ***."},
+    {"term": "der Schuh", "type": "Noun", "meaning_tr": "Ayakkabı", "meaning_en": "shoe", "meaning_uk": "взуття", "example": "Dieser *** ist sehr bequem."},
+    {"term": "der Stiefel", "type": "Noun", "meaning_tr": "Çizme", "meaning_en": "boot", "meaning_uk": "чобіт", "example": "Bei Schnee trage ich ***."},
+    {"term": "der Gummistiefel", "type": "Noun", "meaning_tr": "Lastik çizme", "meaning_en": "rubber boots", "meaning_uk": "гумові чоботи", "example": "Bei Regen ziehe ich *** an."},
+    {"term": "der Handschuh", "type": "Noun", "meaning_tr": "Eldiven", "meaning_en": "glove", "meaning_uk": "рукавичка", "example": "Ich habe einen *** verloren."},
+    {"term": "der Schal", "type": "Noun", "meaning_tr": "Atkı", "meaning_en": "scarf", "meaning_uk": "шарф", "example": "Im Winter trage ich einen ***."},
+    {"term": "der Hut", "type": "Noun", "meaning_tr": "Şapka", "meaning_en": "hat", "meaning_uk": "капелюх", "example": "Er trägt einen schwarzen ***."},
+    {"term": "der Badeanzug", "type": "Noun", "meaning_tr": "Mayo", "meaning_en": "swimsuit", "meaning_uk": "купальник", "example": "Im Urlaub trage ich meinen ***."},
+    {"term": "die Badehose", "type": "Noun", "meaning_tr": "Deniz şortu", "meaning_en": "swim shorts", "meaning_uk": "плавки", "example": "Er kauft eine neue ***."},
+    {"term": "die Kette", "type": "Noun", "meaning_tr": "Kolye", "meaning_en": "necklace, chain", "meaning_uk": "ланцюжок", "example": "Die *** passt gut zum Kleid."},
+    {"term": "der Schirm", "type": "Noun", "meaning_tr": "Şemsiye", "meaning_en": "umbrella", "meaning_uk": "парасоля", "example": "Es regnet, nimm einen *** mit."},
+    {"term": "tragen", "type": "Verb", "meaning_tr": "Giymek, taşımak", "meaning_en": "to wear, carry", "meaning_uk": "носити", "example": "Ich *** heute neue Schuhe."},
+    {"term": "anziehen", "type": "Verb", "meaning_tr": "Üzerine giymek", "meaning_en": "to put on", "meaning_uk": "одягати", "example": "Zieh deine Jacke ***."},
+    {"term": "im Kaufhaus", "type": "Phrase", "meaning_tr": "Büyük mağazada", "meaning_en": "in department store", "meaning_uk": "у великому магазині", "example": "Ich kaufe Kleidung gern ***."},
+    {"term": "die Orientierungstafel", "type": "Noun", "meaning_tr": "Yönlendirme tabelası", "meaning_en": "direction board", "meaning_uk": "інформаційна табличка", "example": "Auf der *** finde ich alle Abteilungen."},
+    {"term": "die Damenmode", "type": "Noun", "meaning_tr": "Kadın modası", "meaning_en": "women's fashion", "meaning_uk": "жіноча мода", "example": "Diese Etage ist für ***."},
+    {"term": "die Herrenmode", "type": "Noun", "meaning_tr": "Erkek modası", "meaning_en": "men's fashion", "meaning_uk": "чоловіча мода", "example": "Die *** ist im zweiten Stock."},
+    {"term": "die Kinderabteilung", "type": "Noun", "meaning_tr": "Çocuk departmanı", "meaning_en": "children's section", "meaning_uk": "дитячий відділ", "example": "Die *** ist ganz oben."},
+    {"term": "die Unterwäsche", "type": "Noun", "meaning_tr": "İç çamaşırı", "meaning_en": "underwear", "meaning_uk": "спідня білизна", "example": "Ich kaufe neue ***."},
+    {"term": "das Fundbüro", "type": "Noun", "meaning_tr": "Kayıp eşya bürosu", "meaning_en": "lost and found", "meaning_uk": "бюро знахідок", "example": "Meine Tasche liegt im ***."},
+    {"term": "die Parfümerie", "type": "Noun", "meaning_tr": "Parfümeri", "meaning_en": "perfume shop", "meaning_uk": "парфумерія", "example": "Ich kaufe ein Geschenk in der ***."},
+    {"term": "das Erdgeschoss", "type": "Noun", "meaning_tr": "Giriş kat", "meaning_en": "ground floor", "meaning_uk": "перший поверх", "example": "Die Parfümerie ist im ***."},
+    {"term": "das Untergeschoss", "type": "Noun", "meaning_tr": "Bodrum katı", "meaning_en": "basement", "meaning_uk": "підвал", "example": "Das Lager ist im ***."},
+    {"term": "der Stock", "type": "Noun", "meaning_tr": "Kat", "meaning_en": "floor, level", "meaning_uk": "поверх", "example": "Wir wohnen im dritten ***."},
+    {"term": "anprobieren", "type": "Verb", "meaning_tr": "Denemek (giysi)", "meaning_en": "try on", "meaning_uk": "приміряти", "example": "Ich möchte die Schuhe ***."},
+    {"term": "die Größe", "type": "Noun", "meaning_tr": "Beden / Boyut", "meaning_en": "size", "meaning_uk": "розмір", "example": "Welche *** brauchen Sie?"},
+    {"term": "stehen", "type": "Verb", "meaning_tr": "Yakışmak", "meaning_en": "to suit", "meaning_uk": "личити", "example": "Das Kleid *** dir gut."},
+    {"term": "der Stoff", "type": "Noun", "meaning_tr": "Kumaş", "meaning_en": "fabric", "meaning_uk": "тканина", "example": "Der *** fühlt sich weich an."},
+    {"term": "die Qualität", "type": "Noun", "meaning_tr": "Kalite", "meaning_en": "quality", "meaning_uk": "якість", "example": "Die *** ist sehr gut."},
+    {"term": "passen", "type": "Verb", "meaning_tr": "Uygun olmak", "meaning_en": "to fit", "meaning_uk": "підходити", "example": "Die Hose *** perfekt."},
+    {"term": "der Verkäufer / die Verkäuferin", "type": "Noun", "meaning_tr": "Satıcı", "meaning_en": "seller", "meaning_uk": "продавець", "example": "Der *** hilft mir."},
+    {"term": "der Kunde / die Kundin", "type": "Noun", "meaning_tr": "Müşteri", "meaning_en": "customer", "meaning_uk": "клієнт", "example": "Der *** wartet an der Kasse."},
+    {"term": "die Anprobe", "type": "Noun", "meaning_tr": "Deneme (prova)", "meaning_en": "fitting", "meaning_uk": "примірка", "example": "Die *** ist dort links."},
+    {"term": "eng <-> weit", "type": "Adjective", "meaning_tr": "Dar <-> Geniş", "meaning_en": "tight <-> wide", "meaning_uk": "тісний <-> широкий", "example": "Die Hose ist zu ***."},
+    {"term": "der Pulli", "type": "Noun", "meaning_tr": "Kazak (kısa ad)", "meaning_en": "sweater", "meaning_uk": "светр", "example": "Der *** ist sehr bequem."},
+    {"term": "nachher", "type": "Adverb", "meaning_tr": "Daha sonra", "meaning_en": "later", "meaning_uk": "пізніше", "example": "Wir sprechen *** darüber."},
+    {"term": "die Klamotten", "type": "Noun", "meaning_tr": "Giysiler (günlük dil)", "meaning_en": "clothes (casual)", "meaning_uk": "одяг", "example": "Meine *** liegen im Schrank."},
+    {"term": "schick", "type": "Adjective", "meaning_tr": "Şık", "meaning_en": "stylish", "meaning_uk": "стильний", "example": "Das Outfit ist sehr ***."},
+    {"term": "doof", "type": "Adjective", "meaning_tr": "Saçma / Aptalca", "meaning_en": "stupid", "meaning_uk": "дурний", "example": "Die Idee ist echt ***."},
+    {"term": "auffallen", "type": "Verb", "meaning_tr": "Dikkat çekmek", "meaning_en": "stand out", "meaning_uk": "кидатися в очі", "example": "Mit dem Kleid wirst du ***."},
+    {"term": "skaten", "type": "Verb", "meaning_tr": "Kaykay yapmak", "meaning_en": "to skateboard", "meaning_uk": "кататися на скейті", "example": "Er geht am Wochenende ***."},
+    {"term": "der Turnschuh", "type": "Noun", "meaning_tr": "Spor ayakkabı", "meaning_en": "sports shoe", "meaning_uk": "кросівок", "example": "Ich trage bequeme ***."},
+    {"term": "Was für ein ...", "type": "Phrase", "meaning_tr": "Nasıl bir / Ne tür bir", "meaning_en": "what kind of", "meaning_uk": "який", "example": "*** Schuh suchst du?"},
+    {"term": "bestellen", "type": "Verb", "meaning_tr": "Sipariş etmek", "meaning_en": "to order", "meaning_uk": "замовляти", "example": "Ich möchte online ***."},
+    {"term": "elegant", "type": "Adjective", "meaning_tr": "Zarif / Şık", "meaning_en": "elegant", "meaning_uk": "елегантний", "example": "Das Kleid sieht *** aus."},
+    {"term": "unsicher", "type": "Adjective", "meaning_tr": "Emin olmayan / Güvensiz", "meaning_en": "insecure", "meaning_uk": "невпевнений", "example": "Er ist noch ***."},
+    {"term": "hellblond", "type": "Adjective", "meaning_tr": "Açık sarışın", "meaning_en": "light blond", "meaning_uk": "світло-русявий", "example": "Sie hat ***e Haare."},
+    {"term": "egal", "type": "Adjective", "meaning_tr": "Fark etmez / Önemsiz", "meaning_en": "doesn't matter", "meaning_uk": "байдуже", "example": "Die Farbe ist mir ***."},
+    {"term": "die Hauptsache", "type": "Noun", "meaning_tr": "En önemli şey", "meaning_en": "main thing", "meaning_uk": "головне", "example": "Die *** ist, dass es passt."},
+    {"term": "der Arbeitskollege / die Arbeitskollegin", "type": "Noun", "meaning_tr": "İş arkadaşı", "meaning_en": "colleague", "meaning_uk": "колега", "example": "Mein *** hilft mir oft."},
+    {"term": "bunt", "type": "Adjective", "meaning_tr": "Renkli", "meaning_en": "colorful", "meaning_uk": "барвистий", "example": "Die Socken sind ***."},
+    {"term": "würfeln", "type": "Verb", "meaning_tr": "Zar atmak", "meaning_en": "roll dice", "meaning_uk": "кидати кубик", "example": "Wir *** im Spiel."},
+    {"term": "die Schneiderei", "type": "Noun", "meaning_tr": "Terzi dükkanı", "meaning_en": "tailor shop", "meaning_uk": "кравець", "example": "Die *** ändert die Hose."},
+    {"term": "zusammenpassen", "type": "Verb", "meaning_tr": "Birbirine uymak", "meaning_en": "match", "meaning_uk": "пасувати", "example": "Schuhe und Hose *** gut."},
+    {"term": "gestreift", "type": "Adjective", "meaning_tr": "Çizgili", "meaning_en": "striped", "meaning_uk": "смугастий", "example": "Das T-Shirt ist ***."},
+    {"term": "kariert", "type": "Adjective", "meaning_tr": "Kareli / Ekose", "meaning_en": "checkered", "meaning_uk": "клітинчастий", "example": "Das Hemd ist ***."},
+    {"term": "der Beitrag", "type": "Noun", "meaning_tr": "Yazı / Katkı", "meaning_en": "post, contribution", "meaning_uk": "внесок", "example": "Sein *** war sehr gut."},
+    {"term": "das Forum", "type": "Noun", "meaning_tr": "Forum", "meaning_en": "forum", "meaning_uk": "форум", "example": "Ich schreibe im ***."},
+    {"term": "die Stellensuche", "type": "Noun", "meaning_tr": "İş arama", "meaning_en": "job search", "meaning_uk": "пошук роботи", "example": "Die *** ist anstrengend."},
+    {"term": "die Hilfe", "type": "Noun", "meaning_tr": "Yardım", "meaning_en": "help", "meaning_uk": "допомога", "example": "Danke für deine ***."},
+    {"term": "das Vorstellungsgespräch", "type": "Noun", "meaning_tr": "İş görüşmesi", "meaning_en": "job interview", "meaning_uk": "співбесіда", "example": "Morgen habe ich ein ***."},
+    {"term": "die Branche", "type": "Noun", "meaning_tr": "Branş / Sektör", "meaning_en": "industry", "meaning_uk": "галузь", "example": "Die IT-*** wächst."},
+    {"term": "das Job-Interview", "type": "Noun", "meaning_tr": "İş mülakatı", "meaning_en": "job interview", "meaning_uk": "співбесіда", "example": "Das *** war erfolgreich."},
+    {"term": "gepflegt", "type": "Adjective", "meaning_tr": "Bakımlı", "meaning_en": "well-groomed", "meaning_uk": "доглянутий", "example": "Er sieht sehr *** aus."},
+    {"term": "aussehen", "type": "Verb", "meaning_tr": "Görünmek", "meaning_en": "to look", "meaning_uk": "виглядати", "example": "Du *** müde."},
+    {"term": "die Erinnerung", "type": "Noun", "meaning_tr": "Anı / Hatıra", "meaning_en": "memory", "meaning_uk": "спогад", "example": "Das Foto ist eine ***."},
+    {"term": "die Vorsicht", "type": "Noun", "meaning_tr": "Dikkat / Tedbir", "meaning_en": "caution", "meaning_uk": "обережність", "example": "Bitte mit *** fahren."},
+    {"term": "verrückt", "type": "Adjective", "meaning_tr": "Çılgın / Deli", "meaning_en": "crazy", "meaning_uk": "божевільний", "example": "Die Idee ist ***."},
+    {"term": "blond", "type": "Adjective", "meaning_tr": "Sarı (saç)", "meaning_en": "blond", "meaning_uk": "білявий", "example": "Er ist ***."},
+    {"term": "achtjährig", "type": "Adjective", "meaning_tr": "Sekiz yaşında", "meaning_en": "eight-year-old", "meaning_uk": "восьмирічний", "example": "Mein Sohn ist ***."},
+    {"term": "der Ring", "type": "Noun", "meaning_tr": "Yüzük", "meaning_en": "ring", "meaning_uk": "каблучка", "example": "Der *** ist aus Gold."},
+    {"term": "das Make-up", "type": "Noun", "meaning_tr": "Makyaj", "meaning_en": "make-up", "meaning_uk": "макіяж", "example": "Sie trägt dezentes ***."},
+    {"term": "die Mode", "type": "Noun", "meaning_tr": "Moda", "meaning_en": "fashion", "meaning_uk": "мода", "example": "Die *** ändert sich."},
+    {"term": "der Schmuck", "type": "Noun", "meaning_tr": "Mücevher / Takı", "meaning_en": "jewelry", "meaning_uk": "прикраси", "example": "Sie liebt ***."},
+    {"term": "die Kosmetik", "type": "Noun", "meaning_tr": "Kozmetik", "meaning_en": "cosmetics", "meaning_uk": "косметика", "example": "Ich kaufe neue ***."},
+    {"term": "der Koffer", "type": "Noun", "meaning_tr": "Valiz / Bavul", "meaning_en": "suitcase", "meaning_uk": "валіза", "example": "Der *** ist schwer."},
+    {"term": "der Second-Hand-Laden", "type": "Noun", "meaning_tr": "İkinci el dükkanı", "meaning_en": "second-hand shop", "meaning_uk": "секонд-хенд", "example": "Ich kaufe dort ***."},
+    {"term": "das Schuhgeschäft", "type": "Noun", "meaning_tr": "Ayakkabı dükkanı", "meaning_en": "shoe shop", "meaning_uk": "взуттєвий магазин", "example": "Das *** ist gleich hier."}
   ]
 }

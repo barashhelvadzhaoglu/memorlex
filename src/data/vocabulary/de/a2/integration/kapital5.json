@@ -2,405 +2,105 @@
   "title": "Integration A2 - Kapitel 5",
   "language": "de",
   "words": [
-    {
-      "term": "anmelden",
-      "type": "Verb",
-      "meaning_tr": "Kaydolmak, bildirmek",
-      "meaning_en": "To register / To sign up",
-      "meaning_uk": "Зареєструватися",
-      "example": "Ich möchte mich gerne für den neuen Deutschkurs im nächsten Monat ***."
-    },
-    {
-      "term": "anrufen",
-      "type": "Verb",
-      "meaning_tr": "Telefonla aramak",
-      "meaning_en": "To call (phone)",
-      "meaning_uk": "Телефонувати",
-      "example": "Ich kann jetzt nicht sprechen, ich werde dich heute Abend nach der Arbeit ***."
-    },
-    {
-      "term": "beantworten",
-      "type": "Verb",
-      "meaning_tr": "Cevaplamak",
-      "meaning_en": "To answer",
-      "meaning_uk": "Відповідати",
-      "example": "Können Sie bitte bis morgen die dringende E-Mail vom Chef ***?"
-    },
-    {
-      "term": "besprechen",
-      "type": "Verb",
-      "meaning_tr": "Görüşmek, tartışmak",
-      "meaning_en": "To discuss",
-      "meaning_uk": "Обговорювати",
-      "example": "Wir müssen das neue Projekt morgen in der großen Besprechung gemeinsam ***."
-    },
-    {
-      "term": "bestellen",
-      "type": "Verb",
-      "meaning_tr": "Sipariş vermek",
-      "meaning_en": "To order",
-      "meaning_uk": "Замовляти",
-      "example": "Wir haben heute keine Lust zu kochen, wollen wir uns eine Pizza ***?"
-    },
-    {
-      "term": "das Büro",
-      "type": "Noun",
-      "meaning_tr": "Ofis, büro",
-      "meaning_en": "Office",
-      "meaning_uk": "Офіс",
-      "example": "Unser *** befindet sich in der dritten Etage direkt neben dem Aufzug."
-    },
-    {
-      "term": "das Dokument",
-      "type": "Noun",
-      "meaning_tr": "Doküman, belge",
-      "meaning_en": "Document",
-      "meaning_uk": "Документ",
-      "example": "Unterschreiben Sie bitte dieses *** und geben Sie es mir danach zurück."
-    },
-    {
-      "term": "das Formular",
-      "type": "Noun",
-      "meaning_tr": "Form",
-      "meaning_en": "Form",
-      "meaning_uk": "Бланк / Формуляр",
-      "example": "Füllen Sie bitte dieses *** vollständig aus, bevor Sie zum Schalter gehen."
-    },
-    {
-      "term": "das Gespräch",
-      "type": "Noun",
-      "meaning_tr": "Görüşme, konuşma",
-      "meaning_en": "Conversation / Talk",
-      "meaning_uk": "Розмова",
-      "example": "Das *** mit dem neuen Kunden war sehr erfolgreich und freundlich."
-    },
-    {
-      "term": "das Projekt",
-      "type": "Noun",
-      "meaning_tr": "Proje",
-      "meaning_en": "Project",
-      "meaning_uk": "Проєкт",
-      "example": "Wir arbeiten momentan alle sehr hart an einem wichtigen *** für die Firma."
-    },
-    {
-      "term": "das Team",
-      "type": "Noun",
-      "meaning_tr": "Takım, ekip",
-      "meaning_en": "Team",
-      "meaning_uk": "Команда",
-      "example": "In unserem *** helfen sich alle Kollegen gegenseitig bei der Arbeit."
-    },
-    {
-      "term": "das Telefon",
-      "type": "Noun",
-      "meaning_tr": "Telefon",
-      "meaning_en": "Telephone",
-      "meaning_uk": "Телефон",
-      "example": "Das *** auf meinem Schreibtisch klingelt den ganzen Vormittag."
-    },
-    {
-      "term": "der Alltag",
-      "type": "Noun",
-      "meaning_tr": "Günlük yaşam",
-      "meaning_en": "Everyday life",
-      "meaning_uk": "Будні / Повсякдення",
-      "example": "Mein *** in Deutschland ist manchmal anstrengend, aber sehr interessant."
-    },
-    {
-      "term": "der Anruf",
-      "type": "Noun",
-      "meaning_tr": "Arama (telefon)",
-      "meaning_en": "Phone call",
-      "meaning_uk": "Дзвінок",
-      "example": "Ich habe einen wichtigen *** von meiner Versicherung verpasst."
-    },
-    {
-      "term": "der Arbeitgeber",
-      "type": "Noun",
-      "meaning_tr": "İşveren (erkek)",
-      "meaning_en": "Employer (male)",
-      "meaning_uk": "Роботодавець",
-      "example": "Mein *** bezahlt die Überstunden immer pünktlich am Monatsende."
-    },
-    {
-      "term": "der Arbeitnehmer",
-      "type": "Noun",
-      "meaning_tr": "İşçi, çalışan (erkek)",
-      "meaning_en": "Employee (male)",
-      "meaning_uk": "Працівник",
-      "example": "Jeder *** in Deutschland hat ein Recht auf bezahlten Urlaub."
-    },
-    {
-      "term": "der Arbeitsplatz",
-      "type": "Noun",
-      "meaning_tr": "İş yeri",
-      "meaning_en": "Workplace",
-      "meaning_uk": "Робоче місце",
-      "example": "Ich versuche, meinen *** immer sauber und ordentlich zu halten."
-    },
-    {
-      "term": "der Bericht",
-      "type": "Noun",
-      "meaning_tr": "Rapor",
-      "meaning_en": "Report",
-      "meaning_uk": "Звіт",
-      "example": "Ich muss bis Freitag einen kurzen *** über meine Erfahrungen schreiben."
-    },
-    {
-      "term": "der Chef",
-      "type": "Noun",
-      "meaning_tr": "Şef, patron (erkek)",
-      "meaning_en": "Boss (male)",
-      "meaning_uk": "Шеф / Керівник",
-      "example": "Unser *** hat heute keine Zeit für eine Besprechung, er ist auf einer Messe."
-    },
-    {
-      "term": "der Kollege",
-      "type": "Noun",
-      "meaning_tr": "Meslektaş, iş arkadaşı (erkek)",
-      "meaning_en": "Colleague (male)",
-      "meaning_uk": "Колега",
-      "example": "Mein netter *** zeigt mir, wie man die neue Software im Büro benutzt."
-    },
-    {
-      "term": "der Kontakt",
-      "type": "Noun",
-      "meaning_tr": "İletişim, temas",
-      "meaning_en": "Contact",
-      "meaning_uk": "Контакт",
-      "example": "Ich habe immer noch guten *** zu meinen alten Freunden aus der Heimat."
-    },
-    {
-      "term": "der Kunde",
-      "type": "Noun",
-      "meaning_tr": "Müşteri (erkek)",
-      "meaning_en": "Customer (male)",
-      "meaning_uk": "Клієнт",
-      "example": "Ein wichtiger *** wartet schon seit zehn Minuten im Empfangsbereich."
-    },
-    {
-      "term": "der Plan",
-      "type": "Noun",
-      "meaning_tr": "Plan",
-      "meaning_en": "Plan",
-      "meaning_uk": "План",
-      "example": "Haben wir schon einen konkreten *** für die nächste Weihnachtsfeier?"
-    },
-    {
-      "term": "der Termin",
-      "type": "Noun",
-      "meaning_tr": "Randevu",
-      "meaning_en": "Appointment",
-      "meaning_uk": "Запис / Зустріч",
-      "example": "Ich habe leider meinen *** beim Zahnarzt komplett vergessen."
-    },
-    {
-      "term": "die Arbeitgeberin",
-      "type": "Noun",
-      "meaning_tr": "İşveren (kadın)",
-      "meaning_en": "Employer (female)",
-      "meaning_uk": "Роботодавиця",
-      "example": "Meine *** bietet uns flexible Arbeitszeiten im Homeoffice an."
-    },
-    {
-      "term": "die Arbeitnehmerin",
-      "type": "Noun",
-      "meaning_tr": "İşçi, çalışan (kadın)",
-      "meaning_en": "Employee (female)",
-      "meaning_uk": "Працівниця",
-      "example": "Sie ist eine sehr motivierte *** und arbeitet sehr schnell."
-    },
-    {
-      "term": "die Besprechung",
-      "type": "Noun",
-      "meaning_tr": "Toplantı",
-      "meaning_en": "Meeting",
-      "meaning_uk": "Нарада",
-      "example": "Die *** heute Morgen war leider sehr lang und auch ein wenig langweilig."
-    },
-    {
-      "term": "die Chefinn",
-      "type": "Noun",
-      "meaning_tr": "Şef, patron (kadın)",
-      "meaning_en": "Boss (female)",
-      "meaning_uk": "Керівниця",
-      "example": "Unsere *** hat uns für die gute Arbeit im letzten Jahr gelobt."
-    },
-    {
-      "term": "die E-Mail",
-      "type": "Noun",
-      "meaning_tr": "E-posta",
-      "meaning_en": "Email",
-      "meaning_uk": "Електронна пошта",
-      "example": "Ich habe Ihnen gerade eine *** mit allen wichtigen Informationen geschickt."
-    },
-    {
-      "term": "die Erfahrung",
-      "type": "Noun",
-      "meaning_tr": "Tecrübe, deneyim",
-      "meaning_en": "Experience",
-      "meaning_uk": "Досвід",
-      "example": "Für diese Stelle brauchen Sie mindestens zwei Jahre *** im Verkauf."
-    },
-    {
-      "term": "die Kantine",
-      "type": "Noun",
-      "meaning_tr": "Kantin, yemekhane",
-      "meaning_en": "Canteen / Cafeteria",
-      "meaning_uk": "Їдальня",
-      "example": "Das Essen in unserer *** ist günstig und schmeckt meistens sehr gut."
-    },
-    {
-      "term": "die Kollegin",
-      "type": "Noun",
-      "meaning_tr": "Meslektaş (kadın)",
-      "meaning_en": "Colleague (female)",
-      "meaning_uk": "Колега (жінка)",
-      "example": "Meine neue *** aus der Buchhaltung ist wirklich sehr hilfsbereit."
-    },
-    {
-      "term": "die Kundin",
-      "type": "Noun",
-      "meaning_tr": "Müşteri (kadın)",
-      "meaning_en": "Customer (female)",
-      "meaning_uk": "Клієнтка",
-      "example": "Die *** hat sich über den schlechten Service im Laden beschwert."
-    },
-    {
-      "term": "die Pause",
-      "type": "Noun",
-      "meaning_tr": "Mola, ara",
-      "meaning_en": "Break",
-      "meaning_uk": "Перерва",
-      "example": "Mittags machen wir meistens von 12:00 bis 12:30 Uhr eine kurze ***."
-    },
-    {
-      "term": "die Stelle",
-      "type": "Noun",
-      "meaning_tr": "İş, pozisyon, yer",
-      "meaning_en": "Job position / Place",
-      "meaning_uk": "Місце / Посада",
-      "example": "Haben Sie die interessante ***anzeige in der Zeitung gelesen?"
-    },
-    {
-      "term": "die Überstunde",
-      "type": "Noun",
-      "meaning_tr": "Fazla mesai",
-      "meaning_en": "Overtime",
-      "meaning_uk": "Понаднормові години",
-      "example": "Diesen Monat habe ich schon mehr als zehn ***n gemacht."
-    },
-    {
-      "term": "die Verantwortung",
-      "type": "Noun",
-      "meaning_tr": "Sorumluluk",
-      "meaning_en": "Responsibility",
-      "meaning_uk": "Відповідальність",
-      "example": "Als Teamleiter trägt er viel *** für den Erfolg der ganzen Gruppe."
-    },
-    {
-      "term": "dokumentieren",
-      "type": "Verb",
-      "meaning_tr": "Belgelemek",
-      "meaning_en": "To document",
-      "meaning_uk": "Документувати",
-      "example": "Es ist wichtig, dass wir alle Schritte im Projekt genau ***."
-    },
-    {
-      "term": "drucken",
-      "type": "Verb",
-      "meaning_tr": "Yazdırmak (yazıcıdan)",
-      "meaning_en": "To print",
-      "meaning_uk": "Друкувати",
-      "example": "Mein Drucker ist kaputt, können Sie das Dokument bitte für mich ***?"
-    },
-    {
-      "term": "erklären",
-      "type": "Verb",
-      "meaning_tr": "Açıklamak",
-      "meaning_en": "To explain",
-      "meaning_uk": "Пояснювати",
-      "example": "Können Sie mir bitte noch einmal ***, wie diese Maschine funktioniert?"
-    },
-    {
-      "term": "kopieren",
-      "type": "Verb",
-      "meaning_tr": "Kopyalamak",
-      "meaning_en": "To copy",
-      "meaning_uk": "Копіювати",
-      "example": "Ich muss meinen Ausweis ***, um ihn bei der Behörde abzugeben."
-    },
-    {
-      "term": "organisieren",
-      "type": "Verb",
-      "meaning_tr": "Organize etmek",
-      "meaning_en": "To organize",
-      "meaning_uk": "Організовувати",
-      "example": "Wer von euch möchte die diesjährige Firmenfeier ***?"
-    },
-    {
-      "term": "pünktlich",
-      "type": "Adjective",
-      "meaning_tr": "Dakik",
-      "meaning_en": "Punctual",
-      "meaning_uk": "Пунктуальний",
-      "example": "In Deutschland ist es sehr wichtig, immer *** zur Arbeit zu kommen."
-    },
-    {
-      "term": "schicken",
-      "type": "Verb",
-      "meaning_tr": "Göndermek",
-      "meaning_en": "To send",
-      "meaning_uk": "Надсилати",
-      "example": "Ich werde Ihnen den Vertrag noch heute per Post ***."
-    },
-    {
-      "term": "selbstständig",
-      "type": "Adjective",
-      "meaning_tr": "Serbest çalışan, bağımsız",
-      "meaning_en": "Self-employed / Independent",
-      "meaning_uk": "Самостійний / ФОП",
-      "example": "Mein Bruder möchte nicht in einer Firma arbeiten, er ist lieber ***."
-    },
-    {
-      "term": "stressig",
-      "type": "Adjective",
-      "meaning_tr": "Stresli",
-      "meaning_en": "Stressful",
-      "meaning_uk": "Стресовий",
-      "example": "Die Zeit vor der Prüfung war für alle Studenten wirklich sehr ***."
-    },
-    {
-      "term": "telefonieren",
-      "type": "Verb",
-      "meaning_tr": "Telefonla konuşmak",
-      "meaning_en": "To talk on the phone",
-      "meaning_uk": "Розмовляти по телефону",
-      "example": "Sie muss während ihrer Arbeitszeit sehr viel mit Kunden ***."
-    },
-    {
-      "term": "verantwortlich",
-      "type": "Adjective",
-      "meaning_tr": "Sorumlu",
-      "meaning_en": "Responsible",
-      "meaning_uk": "Відповідальний",
-      "example": "Wer ist in dieser Abteilung für die Urlaubsplanung ***?"
-    },
-    {
-      "term": "vereinbaren",
-      "type": "Verb",
-      "meaning_tr": "Anlaşmak, kararlaştırmak (randevu)",
-      "meaning_en": "To agree / To arrange",
-      "meaning_uk": "Узгоджувати",
-      "example": "Am Telefon konnten wir sofort einen neuen Termin für morgen ***."
-    },
-    {
-      "term": "vorbereiten",
-      "type": "Verb",
-      "meaning_tr": "Hazırlamak",
-      "meaning_en": "To prepare",
-      "meaning_uk": "Підготувати",
-      "example": "Ich muss mich heute Abend noch intensiv auf das Vorstellungsgespräch ***."
-    }
+    {"term": "das Verkehrsmittel", "type": "Noun", "meaning_tr": "Ulaşım aracı", "meaning_en": "means of transport", "meaning_uk": "транспортний засіб", "example": "Das *** in der Stadt ist gut organisiert."},
+    {"term": "die Straßenbahn", "type": "Noun", "meaning_tr": "Tramvay", "meaning_en": "tram", "meaning_uk": "трамвай", "example": "Ich fahre mit der *** zur Arbeit."},
+    {"term": "der Bus", "type": "Noun", "meaning_tr": "Otobüs", "meaning_en": "bus", "meaning_uk": "автобус", "example": "Der *** kommt heute zu spät."},
+    {"term": "die S-Bahn", "type": "Noun", "meaning_tr": "Banliyö treni", "meaning_en": "suburban train", "meaning_uk": "міська електричка", "example": "Ich nehme die *** nach Hause."},
+    {"term": "die U-Bahn", "type": "Noun", "meaning_tr": "Metro", "meaning_en": "underground, metro", "meaning_uk": "метро", "example": "Die *** ist sehr schnell."},
+    {"term": "der Zug", "type": "Noun", "meaning_tr": "Tren", "meaning_en": "train", "meaning_uk": "поїзд", "example": "Der *** fährt um 8 Uhr ab."},
+    {"term": "die Bahn", "type": "Noun", "meaning_tr": "Tren / Demiryolu", "meaning_en": "railway", "meaning_uk": "залізниця", "example": "Die *** hat heute Verspätung."},
+    {"term": "die Haltestelle", "type": "Noun", "meaning_tr": "Durak", "meaning_en": "stop, station", "meaning_uk": "зупинка", "example": "Die *** ist gleich um die Ecke."},
+    {"term": "der Bahnhof", "type": "Noun", "meaning_tr": "Tren istasyonu", "meaning_en": "train station", "meaning_uk": "вокзал", "example": "Wir treffen uns am ***."},
+    {"term": "der Flughafen", "type": "Noun", "meaning_tr": "Havalimanı", "meaning_en": "airport", "meaning_uk": "аеропорт", "example": "Der *** ist sehr groß."},
+    {"term": "die Verspätung", "type": "Noun", "meaning_tr": "Gecikme", "meaning_en": "delay", "meaning_uk": "затримка", "example": "Der Zug hat eine ***."},
+    {"term": "der Einstieg", "type": "Noun", "meaning_tr": "Biniş", "meaning_en": "boarding", "meaning_uk": "посадка", "example": "Der *** ist vorne."},
+    {"term": "barrierefrei", "type": "Adjective", "meaning_tr": "Engelsiz", "meaning_en": "barrier-free", "meaning_uk": "безбар’єрний", "example": "Der Bahnhof ist ***."},
+    {"term": "der Fahrplan", "type": "Noun", "meaning_tr": "Sefer planı", "meaning_en": "timetable", "meaning_uk": "розклад", "example": "Ich schaue in den ***."},
+    {"term": "aussteigen", "type": "Verb", "meaning_tr": "(Araçtan) inmek", "meaning_en": "get off", "meaning_uk": "виходити", "example": "Bitte hier ***."},
+    {"term": "einsteigen", "type": "Verb", "meaning_tr": "(Araca) binmek", "meaning_en": "get on", "meaning_uk": "заходити", "example": "Wir *** jetzt in den Bus."},
+    {"term": "umsteigen", "type": "Verb", "meaning_tr": "Aktarma yapmak", "meaning_en": "change trains", "meaning_uk": "пересідати", "example": "Ich muss einmal ***."},
+    {"term": "mobil", "type": "Adjective", "meaning_tr": "Hareketli / Mobil", "meaning_en": "mobile", "meaning_uk": "мобільний", "example": "Er ist sehr ***."},
+    {"term": "der Rollstuhl", "type": "Noun", "meaning_tr": "Tekerlekli sandalye", "meaning_en": "wheelchair", "meaning_uk": "інвалідний візок", "example": "Der Mann benutzt einen ***."},
+    {"term": "der Parkplatz", "type": "Noun", "meaning_tr": "Park yeri", "meaning_en": "parking space", "meaning_uk": "парковка", "example": "Hier ist ein *** frei."},
+    {"term": "das Wetter", "type": "Noun", "meaning_tr": "Hava durumu", "meaning_en": "weather", "meaning_uk": "погода", "example": "Das *** ist heute schön."},
+    {"term": "die Hitze", "type": "Noun", "meaning_tr": "Aşırı sıcak", "meaning_en": "heat", "meaning_uk": "спека", "example": "Ich mag die *** nicht."},
+    {"term": "die Kälte", "type": "Noun", "meaning_tr": "Soğukluk", "meaning_en": "cold", "meaning_uk": "холод", "example": "Im Winter kommt die ***."},
+    {"term": "die Regenkleidung", "type": "Noun", "meaning_tr": "Yağmurluk", "meaning_en": "rainwear", "meaning_uk": "дощовий одяг", "example": "Ich brauche ***."},
+    {"term": "der Regen", "type": "Noun", "meaning_tr": "Yağmur", "meaning_en": "rain", "meaning_uk": "дощ", "example": "Der *** ist stark."},
+    {"term": "regnen", "type": "Verb", "meaning_tr": "Yağmur yağmak", "meaning_en": "to rain", "meaning_uk": "дощити", "example": "Es *** heute."},
+    {"term": "der Schnee", "type": "Noun", "meaning_tr": "Kar", "meaning_en": "snow", "meaning_uk": "сніг", "example": "Der *** ist weiß."},
+    {"term": "schneien", "type": "Verb", "meaning_tr": "Kar yağmak", "meaning_en": "to snow", "meaning_uk": "сніжити", "example": "Es *** im Winter."},
+    {"term": "die Sonne", "type": "Noun", "meaning_tr": "Güneş", "meaning_en": "sun", "meaning_uk": "сонце", "example": "Die *** scheint."},
+    {"term": "die Temperatur", "type": "Noun", "meaning_tr": "Sıcaklık", "meaning_en": "temperature", "meaning_uk": "температура", "example": "Die *** ist hoch."},
+    {"term": "kalt <-> warm", "type": "Adjective", "meaning_tr": "Soğuk <-> Sıcak", "meaning_en": "cold <-> warm", "meaning_uk": "холодно <-> тепло", "example": "Heute ist es ***."},
+    {"term": "ab und zu", "type": "Adverb", "meaning_tr": "Ara sıra", "meaning_en": "from time to time", "meaning_uk": "іноді", "example": "Ich fahre *** Fahrrad."},
+    {"term": "die Klimaanlage", "type": "Noun", "meaning_tr": "Klima", "meaning_en": "air conditioning", "meaning_uk": "кондиціонер", "example": "Die *** ist kaputt."},
+    {"term": "ideal", "type": "Adjective", "meaning_tr": "İdeal", "meaning_en": "ideal", "meaning_uk": "ідеальний", "example": "Das Wetter ist ***."},
+    {"term": "meistens", "type": "Adverb", "meaning_tr": "Çoğunlukla", "meaning_en": "mostly", "meaning_uk": "здебільшого", "example": "Ich gehe *** zu Fuß."},
+    {"term": "nachfragen", "type": "Verb", "meaning_tr": "Sormak", "meaning_en": "ask, inquire", "meaning_uk": "перепитувати", "example": "Ich muss kurz ***."},
+    {"term": "nass", "type": "Adjective", "meaning_tr": "Islak", "meaning_en": "wet", "meaning_uk": "мокрий", "example": "Meine Jacke ist ***."},
+    {"term": "die Strecke", "type": "Noun", "meaning_tr": "Yol / Mesafe", "meaning_en": "route", "meaning_uk": "маршрут", "example": "Die *** ist lang."},
+    {"term": "das Fahrrad", "type": "Noun", "meaning_tr": "Bisiklet", "meaning_en": "bicycle", "meaning_uk": "велосипед", "example": "Ich fahre mit dem ***."},
+    {"term": "das Rad", "type": "Noun", "meaning_tr": "Bisiklet / Teker", "meaning_en": "wheel, bike", "meaning_uk": "колесо", "example": "Das *** ist kaputt."},
+    {"term": "das Lastenfahrrad", "type": "Noun", "meaning_tr": "Yük bisikleti", "meaning_en": "cargo bike", "meaning_uk": "вантажний велосипед", "example": "Das *** ist praktisch."},
+    {"term": "das E-Bike", "type": "Noun", "meaning_tr": "Elektrikli bisiklet", "meaning_en": "e-bike", "meaning_uk": "електровелосипед", "example": "Mein *** ist neu."},
+    {"term": "die Batterie", "type": "Noun", "meaning_tr": "Batarya", "meaning_en": "battery", "meaning_uk": "батарея", "example": "Die *** ist leer."},
+    {"term": "die Bremse", "type": "Noun", "meaning_tr": "Fren", "meaning_en": "brake", "meaning_uk": "гальмо", "example": "Die *** funktioniert nicht."},
+    {"term": "der Helm", "type": "Noun", "meaning_tr": "Kask", "meaning_en": "helmet", "meaning_uk": "шолом", "example": "Trag bitte einen ***."},
+    {"term": "die Klingel", "type": "Noun", "meaning_tr": "Zil", "meaning_en": "bell", "meaning_uk": "дзвінок", "example": "Die *** ist laut."},
+    {"term": "der Reifen", "type": "Noun", "meaning_tr": "Lastik", "meaning_en": "tire", "meaning_uk": "шина", "example": "Der *** ist platt."},
+    {"term": "der Motor", "type": "Noun", "meaning_tr": "Motor", "meaning_en": "engine", "meaning_uk": "двигун", "example": "Der *** ist laut."},
+    {"term": "das Taxi", "type": "Noun", "meaning_tr": "Taksi", "meaning_en": "taxi", "meaning_uk": "таксі", "example": "Wir nehmen ein ***."},
+    {"term": "der Stau", "type": "Noun", "meaning_tr": "Trafik sıkışıklığı", "meaning_en": "traffic jam", "meaning_uk": "затори", "example": "Es gibt einen ***."},
+    {"term": "im Stau stehen", "type": "Phrase", "meaning_tr": "Trafikte kalmak", "meaning_en": "be stuck in traffic", "meaning_uk": "стояти в заторі", "example": "Ich stehe ***."},
+    {"term": "öffentlich", "type": "Adjective", "meaning_tr": "Kamu", "meaning_en": "public", "meaning_uk": "громадський", "example": "Der Verkehr ist ***."},
+    {"term": "transportieren", "type": "Verb", "meaning_tr": "Taşımak", "meaning_en": "transport", "meaning_uk": "транспортувати", "example": "Ich muss Möbel ***."},
+    {"term": "jung <-> alt", "type": "Adjective", "meaning_tr": "Genç <-> Yaşlı", "meaning_en": "young <-> old", "meaning_uk": "молодий <-> старий", "example": "Er ist noch ***."},
+    {"term": "klug", "type": "Adjective", "meaning_tr": "Zeki", "meaning_en": "smart", "meaning_uk": "розумний", "example": "Sie ist sehr ***."},
+    {"term": "lang <-> kurz", "type": "Adjective", "meaning_tr": "Uzun <-> Kısa", "meaning_en": "long <-> short", "meaning_uk": "довгий <-> короткий", "example": "Der Weg ist ***."},
+    {"term": "oft <-> selten", "type": "Adverb", "meaning_tr": "Sık <-> Nadiren", "meaning_en": "often <-> rarely", "meaning_uk": "часто <-> рідко", "example": "Ich gehe ***."},
+    {"term": "praktisch", "type": "Adjective", "meaning_tr": "Pratik", "meaning_en": "practical", "meaning_uk": "практичний", "example": "Das ist sehr ***."},
+    {"term": "Mist!", "type": "Interjection", "meaning_tr": "Kahretsin", "meaning_en": "damn", "meaning_uk": "чорт", "example": "***, ich bin zu spät!"},
+    {"term": "meinen", "type": "Verb", "meaning_tr": "Düşünmek", "meaning_en": "to mean", "meaning_uk": "вважати", "example": "Was *** du?"},
+    {"term": "zu Fuß", "type": "Adverb", "meaning_tr": "Yürüyerek", "meaning_en": "on foot", "meaning_uk": "пішки", "example": "Ich gehe ***."},
+    {"term": "langsam <-> schnell", "type": "Adjective", "meaning_tr": "Yavaş <-> Hızlı", "meaning_en": "slow <-> fast", "meaning_uk": "повільно <-> швидко", "example": "Das Auto ist ***."},
+    {"term": "lustig", "type": "Adjective", "meaning_tr": "Komik", "meaning_en": "funny", "meaning_uk": "смішний", "example": "Der Film ist ***."},
+    {"term": "bequem", "type": "Adjective", "meaning_tr": "Rahat", "meaning_en": "comfortable", "meaning_uk": "зручний", "example": "Der Sitz ist ***."},
+    {"term": "gefährlich", "type": "Adjective", "meaning_tr": "Tehlikeli", "meaning_en": "dangerous", "meaning_uk": "небезпечний", "example": "Das ist ***."},
+    {"term": "etwa", "type": "Adverb", "meaning_tr": "Yaklaşık", "meaning_en": "about", "meaning_uk": "приблизно", "example": "Es sind *** 10 km."},
+    {"term": "der Dank", "type": "Noun", "meaning_tr": "Teşekkür", "meaning_en": "thanks", "meaning_uk": "подяка", "example": "Vielen ***!"},
+    {"term": "hinkommen", "type": "Verb", "meaning_tr": "Oraya varmak", "meaning_en": "get there", "meaning_uk": "дістатися", "example": "Wie komme ich dort ***?"},
+    {"term": "klimafreundlich", "type": "Adjective", "meaning_tr": "İklim dostu", "meaning_en": "climate-friendly", "meaning_uk": "екологічний", "example": "Das Fahrrad ist ***."},
+    {"term": "sicher", "type": "Adjective", "meaning_tr": "Güvenli", "meaning_en": "safe", "meaning_uk": "безпечний", "example": "Das ist ***."},
+    {"term": "das Benzin", "type": "Noun", "meaning_tr": "Benzin", "meaning_en": "gasoline", "meaning_uk": "бензин", "example": "Das *** ist teuer."},
+    {"term": "die Autobahn", "type": "Noun", "meaning_tr": "Otoban", "meaning_en": "highway", "meaning_uk": "автобан", "example": "Die *** ist voll."},
+    {"term": "einsammeln", "type": "Verb", "meaning_tr": "Toplamak", "meaning_en": "collect", "meaning_uk": "збирати", "example": "Wir *** Müll."},
+    {"term": "gemütlich", "type": "Adjective", "meaning_tr": "Keyifli", "meaning_en": "cozy", "meaning_uk": "затишний", "example": "Das Café ist ***."},
+    {"term": "vorlesen", "type": "Verb", "meaning_tr": "Sesli okumak", "meaning_en": "read aloud", "meaning_uk": "читати вголос", "example": "Ich *** eine Geschichte."},
+    {"term": "hart", "type": "Adjective", "meaning_tr": "Sert", "meaning_en": "hard", "meaning_uk": "твердий", "example": "Der Boden ist ***."},
+    {"term": "schwierig <-> einfach", "type": "Adjective", "meaning_tr": "Zor <-> Kolay", "meaning_en": "difficult <-> easy", "meaning_uk": "важко <-> легко", "example": "Die Aufgabe ist ***."},
+    {"term": "ähnlich", "type": "Adjective", "meaning_tr": "Benzer", "meaning_en": "similar", "meaning_uk": "схожий", "example": "Die Häuser sind ***."},
+    {"term": "anders", "type": "Adjective", "meaning_tr": "Farklı", "meaning_en": "different", "meaning_uk": "інший", "example": "Das ist ganz ***."},
+    {"term": "der Leserbrief", "type": "Noun", "meaning_tr": "Okuyucu mektubu", "meaning_en": "letter to editor", "meaning_uk": "лист читача", "example": "Ich schreibe einen ***."},
+    {"term": "kritisch", "type": "Adjective", "meaning_tr": "Eleştirel", "meaning_en": "critical", "meaning_uk": "критичний", "example": "Der Text ist ***."},
+    {"term": "die Meinung", "type": "Noun", "meaning_tr": "Fikir", "meaning_en": "opinion", "meaning_uk": "думка", "example": "Das ist meine ***."},
+    {"term": "die Behinderung", "type": "Noun", "meaning_tr": "Engel", "meaning_en": "disability", "meaning_uk": "інвалідність", "example": "Die *** ist sichtbar."},
+    {"term": "die Chance", "type": "Noun", "meaning_tr": "Şans", "meaning_en": "chance", "meaning_uk": "шанс", "example": "Das ist eine gute ***."},
+    {"term": "der Fortschritt", "type": "Noun", "meaning_tr": "İlerleme", "meaning_en": "progress", "meaning_uk": "прогрес", "example": "Der *** ist wichtig."},
+    {"term": "der Bürgersteig", "type": "Noun", "meaning_tr": "Kaldırım", "meaning_en": "sidewalk", "meaning_uk": "тротуар", "example": "Der *** ist breit."},
+    {"term": "der Fußgänger", "type": "Noun", "meaning_tr": "Yaya", "meaning_en": "pedestrian", "meaning_uk": "пішохід", "example": "Der *** wartet."},
+    {"term": "die Fußgängerin", "type": "Noun", "meaning_tr": "Kadın yaya", "meaning_en": "female pedestrian", "meaning_uk": "пішохідка", "example": "Die *** geht langsam."},
+    {"term": "die Mobilität", "type": "Noun", "meaning_tr": "Mobilite", "meaning_en": "mobility", "meaning_uk": "мобільність", "example": "*** ist wichtig."},
+    {"term": "der Rollstuhlfahrer", "type": "Noun", "meaning_tr": "Tekerlekli sandalye kullanıcısı", "meaning_en": "wheelchair user", "meaning_uk": "користувач візка", "example": "Der *** braucht Hilfe."},
+    {"term": "der Schulweg", "type": "Noun", "meaning_tr": "Okul yolu", "meaning_en": "school route", "meaning_uk": "шлях до школи", "example": "Der *** ist kurz."},
+    {"term": "die Überschrift", "type": "Noun", "meaning_tr": "Başlık", "meaning_en": "headline", "meaning_uk": "заголовок", "example": "Die *** ist fett."},
+    {"term": "der Bahnsteig", "type": "Noun", "meaning_tr": "Peron", "meaning_en": "platform", "meaning_uk": "перон", "example": "Der Zug steht am ***."},
+    {"term": "deshalb", "type": "Adverb", "meaning_tr": "Bu yüzden", "meaning_en": "therefore", "meaning_uk": "тому", "example": "*** komme ich später."},
+    {"term": "direkt", "type": "Adverb", "meaning_tr": "Doğrudan", "meaning_en": "directly", "meaning_uk": "безпосередньо", "example": "Wir fahren ***."},
+    {"term": "der Kinderwagen", "type": "Noun", "meaning_tr": "Bebek arabası", "meaning_en": "stroller", "meaning_uk": "дитячий візок", "example": "Der *** ist neu."},
+    {"term": "leicht", "type": "Adjective", "meaning_tr": "Hafif / Kolay", "meaning_en": "light / easy", "meaning_uk": "легкий", "example": "Die Tasche ist ***."},
+    {"term": "ohne", "type": "Preposition", "meaning_tr": "...sız", "meaning_en": "without", "meaning_uk": "без", "example": "Kaffee *** Milch."},
+    {"term": "parken", "type": "Verb", "meaning_tr": "Park etmek", "meaning_en": "to park", "meaning_uk": "паркувати", "example": "Hier darf man ***."},
+    {"term": "positiv", "type": "Adjective", "meaning_tr": "Pozitif", "meaning_en": "positive", "meaning_uk": "позитивний", "example": "Das Feedback ist ***."}
   ]
 }
