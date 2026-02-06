@@ -1,0 +1,41 @@
+{
+  "id": "storie-027",
+  "title": "Kleine Entdecker",
+  "summary": "Melanie arbeitet als Erzieherin in einer Kita und erklärt, wie wichtig frühkindliche Bildung für die Entwicklung ist.",
+  "text": [
+    "Jeden Morgen wird Melanie von strahlenden Gesichtern begrüßt. Sie arbeitet als Erzieherin in einer Berliner Kindertagesstätte, kurz 'Kita'. Lukas hat Melanie kennengelernt, als er Grafiken für eine Informationsbroschüre der Kita entworfen hat. Melanie erklärt Lukas, dass ihr Beruf viel mehr als nur 'Kinderbetreuung' ist. Es geht darum, die individuelle Entwicklung jedes Kindes zu fördern und ihre natürliche Neugier zu unterstützen.",
+    "Ein typischer Tag beginnt mit einem Morgenkreis, in dem gemeinsam gesungen und der Tagesablauf besprochen wird. Melanie legt großen Wert auf pädagogisch wertvolles Spielzeug und kreative Aktivitäten wie Malen oder Basteln. Sie beobachtet genau, wie die Kinder miteinander interagieren und hilft ihnen dabei, soziale Kompetenzen wie Teilen und Konfliktlösung zu lernen. 'In diesem Alter wird das Fundament für das spätere Leben gelegt', sagt sie überzeugt.",
+    "Sprachförderung ist ein zentrales Thema in ihrer Arbeit. Da viele Kinder in Berlin aus Familien mit unterschiedlichen Muttersprachen kommen, unterstützt Melanie sie spielerisch dabei, Deutsch zu lernen. Durch gemeinsames Vorlesen und Erzählen wird der Wortschatz der Kleinen täglich erweitert. Lukas findet es bewundernswert, wie viel Geduld und Einfühlungsvermögen Melanie für ihre Gruppe von fünfzehn Kindern aufbringt.",
+    "Der Beruf bringt auch Belastungen mit sich. Der Lärmpegel ist oft hoch und die Verantwortung für die Sicherheit der Kinder ist groß. Melanie wünscht sich einen besseren Personalschlüssel, damit sie noch intensiver auf die Bedürfnisse jedes einzelnen Kindes eingehen kann. Nach Feierabend genießt sie die Ruhe zu Hause. Lukas erkennt, dass Erzieher einen der wichtigsten Jobs in unserer Gesellschaft haben, da sie die nächste Generation auf ihrem Weg begleiten."
+  ],
+  "vocab": [
+    { "term": "die Erzieherin", "type": "Nomen", "meaning_tr": "anaokulu öğretmeni (kadın)", "meaning_en": "educator/nanny", "example": "Die Erzieherin spielt mit den Kindern." },
+    { "term": "die Kita", "type": "Nomen", "meaning_tr": "kreş/anaokulu", "meaning_en": "daycare center", "example": "Mein Kind geht in die Kita." },
+    { "term": "fördern", "type": "Verb", "meaning_tr": "desteklemek, teşvik etmek", "meaning_en": "to promote/support", "example": "Talente fördern." },
+    { "term": "der Morgenkreis", "type": "Nomen", "meaning_tr": "sabah dairesi/toplantısı", "meaning_en": "morning circle", "example": "Alle sitzen im Morgenkreis." },
+    { "term": "pädagogisch", "type": "Adjektiv", "meaning_tr": "pedagojik", "meaning_en": "pedagogical", "example": "Pädagogisch wertvolles Spielzeug." },
+    { "term": "basteln", "type": "Verb", "meaning_tr": "el işi yapmak", "meaning_en": "to craft", "example": "Ein Geschenk basteln." },
+    { "term": "interagieren", "type": "Verb", "meaning_tr": "etkileşimde bulunmak", "meaning_en": "to interact", "example": "Kinder interagieren beim Spielen." },
+    { "term": "die Konfliktlösung", "type": "Nomen", "meaning_tr": "çatışma çözümü", "meaning_en": "conflict resolution", "example": "Konfliktlösung lernen." },
+    { "term": "die Sprachförderung", "type": "Nomen", "meaning_tr": "dil desteği", "meaning_en": "language promotion", "example": "Gezielte Sprachförderung." },
+    { "term": "bewundernswert", "type": "Adjektiv", "meaning_tr": "hayranlık uyandırıcı", "meaning_en": "admirable", "example": "Eine bewundernswerte Leistung." },
+    { "term": "das Einfühlungsvermögen", "type": "Nomen", "meaning_tr": "empati yeteneği", "meaning_en": "empathy", "example": "Einfühlungsvermögen zeigen." },
+    { "term": "der Lärmpegel", "type": "Nomen", "meaning_tr": "gürültü seviyesi", "meaning_en": "noise level", "example": "Der Lärmpegel ist zu hoch." },
+    { "term": "der Personalschlüssel", "type": "Nomen", "meaning_tr": "personel oranı", "meaning_en": "staff-to-child ratio", "example": "Ein besserer Personalschlüssel hilft." },
+    { "term": "bedürfnisorientiert", "type": "Adjektiv", "meaning_tr": "ihtiyaç odaklı", "meaning_en": "needs-oriented", "example": "Bedürfnisorientierte Erziehung." },
+    { "term": "die Broschüre", "type": "Nomen", "meaning_tr": "broşür", "meaning_en": "brochure", "example": "Eine informative Broschüre lesen." },
+    { "term": "strahlend", "type": "Adjektiv", "meaning_tr": "ışıl ışıl, parlayan", "meaning_en": "radiant/beaming", "example": "Ein strahlendes Lächeln." },
+    { "term": "das Fundament", "type": "Nomen", "meaning_tr": "temel", "meaning_en": "foundation", "example": "Das Fundament legen." },
+    { "term": "spielerisch", "type": "Adjektiv", "meaning_tr": "oyun yoluyla", "meaning_en": "playful", "example": "Spielerisch lernen." }
+  ],
+  "questions": [
+    { "question": "Wo arbeitet Melanie?", "options": ["In einem Büro", "In einer Kindertagesstätte (Kita)", "Im Supermarkt", "In einer Fabrik"], "answer": "In einer Kindertagesstätte (Kita)" },
+    { "question": "Was möchte Melanie bei den Kindern fördern?", "options": ["Dass sie schnell rennen", "Die individuelle Entwicklung ve merakı", "Dass sie leise sind", "Dass sie viel essen"], "answer": "Die individuelle Entwicklung ve merakı" },
+    { "question": "Was passiert im Morgenkreis?", "options": ["Es wird geschlafen", "Es wird gesungen ve gün planlanıyor", "Es wird ferngesehen", "Es wird gearbeitet"], "answer": "Es wird gesungen ve gün planlanıyor" },
+    { "question": "Welche sozialen Kompetenzen lernen die Kinder?", "options": ["Rechnen ve yazmak", "Teilen ve çatışma çözümü", "Auto fahren", "Kochen"], "answer": "Teilen ve çatışma çözümü" },
+    { "question": "Warum ist Sprachförderung in ihrer Arbeit wichtig?", "options": ["Damit sie Englisch lernen", "Wegen der vielen verschiedenen Muttersprachen", "Weil Kinder nicht reden", "Damit sie leise sind"], "answer": "Wegen der vielen verschiedenen Muttersprachen" },
+    { "question": "Was findet Lukas an Melanies Arbeit bewundernswert?", "options": ["Ihre Schnelligkeit", "Ihr Geduld ve empati yeteneği", "Ihre Kleidung", "Ihr Geld"], "answer": "Ihr Geduld ve empati yeteneği" },
+    { "question": "Was ist eine Belastung in Melanies Beruf?", "options": ["Zu viel Freizeit", "Der hohe Lärmpegel ve sorumluluk", "Dass sie sitzen muss", "Dass es zu ruhig ist"], "answer": "Der hohe Lärmpegel ve sorumluluk" },
+    { "question": "Was wünscht sich Melanie für ihre Arbeit?", "options": ["Mehr Spielzeug", "Einen besseren Personalschlüssel", "Ein größeres Haus", "Ein neues Auto"], "answer": "Einen besseren Personalschlüssel" }
+  ]
+}
