@@ -1,0 +1,53 @@
+{
+  "id": "storie-005",
+  "title": "Lukas in München: Der Termin",
+  "summary": "Lukas geht zum Amt und versucht, ruhig und höflich zu bleiben.",
+  "text": [
+    "Am nächsten Morgen steht Lukas früh auf.",
+    "Er frühstückt schnell und kontrolliert noch einmal seine Tasche.",
+    "Der Brief und der Ausweis sind dabei.",
+    "Dann fährt er mit der U-Bahn zum Amt.",
+    "Vor dem Gebäude atmet er tief ein.",
+    "Er hat Angst, dass er etwas nicht versteht.",
+    "Drinnen zieht er eine Nummer und wartet im Wartebereich.",
+    "Nach zwanzig Minuten erscheint seine Nummer auf dem Bildschirm.",
+    "Lukas geht zum Schalter und begrüßt die Mitarbeiterin.",
+    "Er zeigt den Brief und fragt langsam nach.",
+    "Die Mitarbeiterin spricht deutlich und erklärt die nächsten Schritte.",
+    "Lukas fragt nach, wenn ein Wort schwierig ist.",
+    "Er bekommt ein Formular und soll es zu Hause ausfüllen.",
+    "Außerdem braucht er noch ein Dokument bis nächste Woche.",
+    "Lukas schreibt alles auf und bedankt sich.",
+    "Draußen fühlt er sich erleichtert.",
+    "Er hat es geschafft, obwohl er nervös war.",
+    "Auf dem Heimweg denkt er: „Ich kann das.“"
+  ],
+  "vocab": [
+    { "term": "kontrollieren", "type": "Verb", "meaning_tr": "kontrol etmek", "meaning_en": "to check", "example": "Er kontrolliert seine Tasche." },
+    { "term": "atmen", "type": "Verb", "meaning_tr": "nefes almak", "meaning_en": "to breathe", "example": "Er atmet tief ein." },
+    { "term": "der Wartebereich", "type": "Nomen", "meaning_tr": "bekleme alanı", "meaning_en": "waiting area", "example": "Er wartet im Wartebereich." },
+    { "term": "erscheinen", "type": "Verb", "meaning_tr": "görünmek", "meaning_en": "to appear", "example": "Die Nummer erscheint." },
+    { "term": "der Schalter", "type": "Nomen", "meaning_tr": "gişe", "meaning_en": "counter", "example": "Er geht zum Schalter." },
+    { "term": "deutlich", "type": "Adverb", "meaning_tr": "açıkça", "meaning_en": "clearly", "example": "Sie spricht deutlich." },
+    { "term": "erklären", "type": "Verb", "meaning_tr": "açıklamak", "meaning_en": "to explain", "example": "Sie erklärt die Schritte." },
+    { "term": "der Schritt", "type": "Nomen", "meaning_tr": "adım", "meaning_en": "step", "example": "Die nächsten Schritte." },
+    { "term": "das Formular", "type": "Nomen", "meaning_tr": "form", "meaning_en": "form", "example": "Er bekommt ein Formular." },
+    { "term": "ausfüllen", "type": "Verb", "meaning_tr": "doldurmak", "meaning_en": "to fill out", "example": "Er soll es ausfüllen." },
+    { "term": "das Dokument", "type": "Nomen", "meaning_tr": "belge", "meaning_en": "document", "example": "Er braucht ein Dokument." },
+    { "term": "nächste Woche", "type": "Zeitangabe", "meaning_tr": "gelecek hafta", "meaning_en": "next week", "example": "Bis nächste Woche." },
+    { "term": "aufschreiben", "type": "Verb", "meaning_tr": "not almak", "meaning_en": "to write down", "example": "Lukas schreibt alles auf." },
+    { "term": "sich bedanken", "type": "Verb", "meaning_tr": "teşekkür etmek", "meaning_en": "to thank", "example": "Er bedankt sich." },
+    { "term": "erleichtert", "type": "Adjektiv", "meaning_tr": "rahatlamış", "meaning_en": "relieved", "example": "Er fühlt sich erleichtert." }
+  ],
+  "questions": [
+    { "question": "Was kontrolliert Lukas am Morgen?", "options": ["Seine Schuhe", "Seine Tasche", "Seinen Computer", "Seine Jacke"], "answer": "Seine Tasche" },
+    { "question": "Was ist in seiner Tasche?", "options": ["Nur Geld", "Brief und Ausweis", "Ein Buch", "Essen"], "answer": "Brief und Ausweis" },
+    { "question": "Was macht Lukas im Amt zuerst?", "options": ["Er telefoniert", "Er zieht eine Nummer", "Er geht nach Hause", "Er kauft Kaffee"], "answer": "Er zieht eine Nummer" },
+    { "question": "Wo wartet er?", "options": ["Im Park", "Im Wartebereich", "Im Kurs", "Im Supermarkt"], "answer": "Im Wartebereich" },
+    { "question": "Wie lange wartet Lukas?", "options": ["Fünf Minuten", "Zwanzig Minuten", "Eine Stunde", "Zwei Minuten"], "answer": "Zwanzig Minuten" },
+    { "question": "Was bekommt Lukas am Schalter?", "options": ["Ein Ticket", "Ein Formular", "Ein Handy", "Ein Paket"], "answer": "Ein Formular" },
+    { "question": "Was soll Lukas zu Hause machen?", "options": ["Kochen", "Das Formular ausfüllen", "Sport machen", "Putzen"], "answer": "Das Formular ausfüllen" },
+    { "question": "Wann braucht er noch ein Dokument?", "options": ["Heute", "Morgen", "Bis nächste Woche", "In zwei Monaten"], "answer": "Bis nächste Woche" },
+    { "question": "Wie fühlt sich Lukas am Ende?", "options": ["Erleichtert", "Wütend", "Sehr traurig", "Hungrig"], "answer": "Erleichtert" }
+  ]
+}

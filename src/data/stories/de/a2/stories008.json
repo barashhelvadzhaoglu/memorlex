@@ -1,0 +1,53 @@
+{
+  "id": "storie-008",
+  "title": "Lukas in München: Ein Besuch beim Arzt",
+  "summary": "Lukas fühlt sich nicht gut und muss einen Arzttermin organisieren.",
+  "text": [
+    "In der nächsten Woche fühlt sich Lukas krank.",
+    "Er hat Halsschmerzen und ein bisschen Fieber.",
+    "Er überlegt: Soll ich zum Arzt gehen?",
+    "Dann ruft er in einer Praxis an.",
+    "Am Telefon fragt die Sprechstunde nach seinem Namen.",
+    "Lukas buchstabiert seinen Nachnamen langsam.",
+    "Die Mitarbeiterin gibt ihm einen Termin am Nachmittag.",
+    "Lukas schreibt Datum und Uhrzeit auf.",
+    "In der Praxis wartet er im Wartezimmer.",
+    "Er hört eine Durchsage und schaut auf die Tür.",
+    "Nach einiger Zeit ruft der Arzt seinen Namen.",
+    "Im Zimmer erklärt Lukas seine Symptome.",
+    "Der Arzt stellt Fragen und untersucht ihn kurz.",
+    "Dann sagt er, dass Lukas viel trinken soll.",
+    "Er bekommt auch ein Rezept für die Apotheke.",
+    "Lukas bedankt sich und geht nach draußen.",
+    "In der Apotheke holt er die Medikamente ab.",
+    "Zu Hause ruht er sich aus und fühlt sich langsam besser."
+  ],
+  "vocab": [
+    { "term": "krank", "type": "Adjektiv", "meaning_tr": "hasta", "meaning_en": "sick", "example": "Lukas fühlt sich krank." },
+    { "term": "die Halsschmerzen", "type": "Nomen", "meaning_tr": "boğaz ağrısı", "meaning_en": "sore throat", "example": "Er hat Halsschmerzen." },
+    { "term": "das Fieber", "type": "Nomen", "meaning_tr": "ateş", "meaning_en": "fever", "example": "Er hat Fieber." },
+    { "term": "die Praxis", "type": "Nomen", "meaning_tr": "doktor muayenehanesi", "meaning_en": "doctor’s office", "example": "Er ruft in der Praxis an." },
+    { "term": "buchstabieren", "type": "Verb", "meaning_tr": "harf harf söylemek", "meaning_en": "to spell", "example": "Er buchstabiert den Namen." },
+    { "term": "die Sprechstunde", "type": "Nomen", "meaning_tr": "danışma/klinik", "meaning_en": "reception/clinic hours", "example": "Die Sprechstunde fragt nach dem Namen." },
+    { "term": "das Datum", "type": "Nomen", "meaning_tr": "tarih", "meaning_en": "date", "example": "Er schreibt das Datum auf." },
+    { "term": "das Wartezimmer", "type": "Nomen", "meaning_tr": "bekleme odası", "meaning_en": "waiting room", "example": "Er wartet im Wartezimmer." },
+    { "term": "die Durchsage", "type": "Nomen", "meaning_tr": "anons", "meaning_en": "announcement", "example": "Er hört eine Durchsage." },
+    { "term": "rufen", "type": "Verb", "meaning_tr": "çağırmak", "meaning_en": "to call", "example": "Der Arzt ruft seinen Namen." },
+    { "term": "das Symptom", "type": "Nomen", "meaning_tr": "belirti", "meaning_en": "symptom", "example": "Er erklärt seine Symptome." },
+    { "term": "untersuchen", "type": "Verb", "meaning_tr": "muayene etmek", "meaning_en": "to examine", "example": "Der Arzt untersucht ihn." },
+    { "term": "trinken", "type": "Verb", "meaning_tr": "içmek", "meaning_en": "to drink", "example": "Er soll viel trinken." },
+    { "term": "das Rezept", "type": "Nomen", "meaning_tr": "reçete", "meaning_en": "prescription", "example": "Er bekommt ein Rezept." },
+    { "term": "sich ausruhen", "type": "Verb", "meaning_tr": "dinlenmek", "meaning_en": "to rest", "example": "Er ruht sich aus." }
+  ],
+  "questions": [
+    { "question": "Was hat Lukas?", "options": ["Bauchschmerzen", "Halsschmerzen und Fieber", "Kopfschmerzen", "Keine Probleme"], "answer": "Halsschmerzen und Fieber" },
+    { "question": "Wen ruft Lukas an?", "options": ["Die Schule", "Eine Praxis", "Ein Hotel", "Die Polizei"], "answer": "Eine Praxis" },
+    { "question": "Was macht Lukas mit seinem Nachnamen?", "options": ["Er schreibt ihn nicht", "Er buchstabiert ihn", "Er vergisst ihn", "Er ändert ihn"], "answer": "Er buchstabiert ihn" },
+    { "question": "Wann ist der Termin?", "options": ["Am Morgen", "Am Nachmittag", "In der Nacht", "Am Wochenende"], "answer": "Am Nachmittag" },
+    { "question": "Wo wartet Lukas?", "options": ["Im Park", "Im Wartezimmer", "Im Bus", "Im Kurs"], "answer": "Im Wartezimmer" },
+    { "question": "Wer ruft seinen Namen?", "options": ["Die Lehrerin", "Der Arzt", "Sofia", "Der Verkäufer"], "answer": "Der Arzt" },
+    { "question": "Was soll Lukas laut Arzt machen?", "options": ["Viel trinken", "Viel laufen", "Nichts essen", "Reisen"], "answer": "Viel trinken" },
+    { "question": "Was bekommt Lukas?", "options": ["Ein Ticket", "Ein Rezept", "Eine Rechnung", "Einen Pass"], "answer": "Ein Rezept" },
+    { "question": "Wie geht es Lukas am Ende?", "options": ["Schlechter", "Langsam besser", "Sehr wütend", "Genau gleich"], "answer": "Langsam besser" }
+  ]
+}

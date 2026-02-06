@@ -1,0 +1,91 @@
+{
+  "id": "storie-002",
+  "title": "Lukas in München: Der erste Deutschkurs",
+  "summary": "Lukas besucht seinen ersten Deutschkurs und erlebt einen wichtigen Schritt in seinem neuen Leben.",
+  "text": [
+    "Am nächsten Morgen wacht Lukas früh auf.",
+    "Er denkt an den Deutschkurs und fühlt sich ein bisschen nervös.",
+    "Heute beginnt sein erstes offizielles Sprachtraining in München.",
+    "Nach dem Frühstück kontrolliert er seine Tasche.",
+    "Er nimmt sein Heft, einen Stift und sein Handy mit.",
+    "Um halb acht verlässt er die Wohnung.",
+    "Draußen ist es kühl, aber die Sonne scheint.",
+    "Lukas fährt mit der U-Bahn ins Stadtzentrum.",
+    "Während der Fahrt liest er noch einmal die Adresse der Sprachschule.",
+    "Er hat Angst, zu spät zu kommen, deshalb fährt er früher los.",
+    "An der Schule angekommen, wartet er vor dem Gebäude.",
+    "Nach ein paar Minuten kommen andere Teilnehmer.",
+    "Sie sprechen verschiedene Sprachen und kommen aus vielen Ländern.",
+    "Im Klassenzimmer begrüßt die Lehrerin alle freundlich.",
+    "Sie erklärt den Kursplan und die Regeln.",
+    "Jeder stellt sich vor und sagt seinen Namen.",
+    "Lukas hört aufmerksam zu und spricht langsam.",
+    "Er macht kleine Fehler, aber niemand lacht.",
+    "In der Pause trinkt er einen Kaffee mit zwei Kursteilnehmern.",
+    "Am Ende des Tages ist Lukas müde, aber sehr zufrieden."
+  ],
+  "vocab": [
+    { "term": "aufwachen", "type": "Verb", "meaning_tr": "uyanmak", "meaning_en": "to wake up", "example": "Am Morgen wacht Lukas früh auf." },
+    { "term": "nervös", "type": "Adjektiv", "meaning_tr": "gergin, heyecanlı", "meaning_en": "nervous", "example": "Er fühlt sich ein bisschen nervös." },
+    { "term": "offiziell", "type": "Adjektiv", "meaning_tr": "resmî", "meaning_en": "official", "example": "Heute beginnt sein offizieller Kurs." },
+    { "term": "kontrollieren", "type": "Verb", "meaning_tr": "kontrol etmek", "meaning_en": "to check", "example": "Er kontrolliert seine Tasche." },
+    { "term": "verlassen", "type": "Verb", "meaning_tr": "ayrılmak", "meaning_en": "to leave", "example": "Er verlässt die Wohnung." },
+    { "term": "kühl", "type": "Adjektiv", "meaning_tr": "serin", "meaning_en": "cool", "example": "Draußen ist es kühl." },
+    { "term": "die Fahrt", "type": "Nomen", "meaning_tr": "yolculuk", "meaning_en": "journey", "example": "Während der Fahrt liest er." },
+    { "term": "Angst haben", "type": "Verbphrase", "meaning_tr": "korkmak", "meaning_en": "to be afraid", "example": "Er hat Angst, zu spät zu kommen." },
+    { "term": "ankommen", "type": "Verb", "meaning_tr": "varmak", "meaning_en": "to arrive", "example": "An der Schule angekommen..." },
+    { "term": "der Teilnehmer", "type": "Nomen", "meaning_tr": "katılımcı", "meaning_en": "participant", "example": "Andere Teilnehmer kommen." },
+    { "term": "begrüßen", "type": "Verb", "meaning_tr": "selamlamak", "meaning_en": "to greet", "example": "Die Lehrerin begrüßt alle." },
+    { "term": "der Kursplan", "type": "Nomen", "meaning_tr": "kurs programı", "meaning_en": "course schedule", "example": "Sie erklärt den Kursplan." },
+    { "term": "aufmerksam", "type": "Adjektiv", "meaning_tr": "dikkatli", "meaning_en": "attentive", "example": "Lukas hört aufmerksam zu." },
+    { "term": "der Fehler", "type": "Nomen", "meaning_tr": "hata", "meaning_en": "mistake", "example": "Er macht kleine Fehler." },
+    { "term": "zufrieden", "type": "Adjektiv", "meaning_tr": "memnun", "meaning_en": "satisfied", "example": "Er ist sehr zufrieden." }
+  ],
+  "questions": [
+    {
+      "question": "Warum wacht Lukas früh auf?",
+      "options": ["Er muss arbeiten", "Er hat einen Deutschkurs", "Er hat einen Termin", "Er ist krank"],
+      "answer": "Er hat einen Deutschkurs"
+    },
+    {
+      "question": "Was nimmt Lukas mit?",
+      "options": ["Nur sein Handy", "Heft, Stift und Handy", "Essen und Wasser", "Einen Laptop"],
+      "answer": "Heft, Stift und Handy"
+    },
+    {
+      "question": "Warum fährt Lukas früher los?",
+      "options": ["Weil er die Stadt sehen will", "Weil er Angst hat, zu spät zu kommen", "Weil die U-Bahn langsam ist", "Weil er einkaufen will"],
+      "answer": "Weil er Angst hat, zu spät zu kommen"
+    },
+    {
+      "question": "Wie ist das Wetter?",
+      "options": ["Sehr kalt", "Kühl und sonnig", "Regnerisch", "Heiß"],
+      "answer": "Kühl und sonnig"
+    },
+    {
+      "question": "Wer begrüßt die Teilnehmer?",
+      "options": ["Ein Student", "Die Lehrerin", "Der Direktor", "Ein Freund"],
+      "answer": "Die Lehrerin"
+    },
+    {
+      "question": "Was macht Lukas im Unterricht?",
+      "options": ["Er schweigt", "Er spricht schnell", "Er hört aufmerksam zu", "Er schreibt nicht"],
+      "answer": "Er hört aufmerksam zu"
+    },
+    {
+      "question": "Wie reagieren die anderen auf seine Fehler?",
+      "options": ["Sie lachen", "Sie helfen ihm", "Niemand lacht", "Sie sind böse"],
+      "answer": "Niemand lacht"
+    },
+    {
+      "question": "Was macht Lukas in der Pause?",
+      "options": ["Er geht nach Hause", "Er lernt allein", "Er trinkt Kaffee", "Er telefoniert"],
+      "answer": "Er trinkt Kaffee"
+    },
+    {
+      "question": "Wie fühlt sich Lukas am Ende?",
+      "options": ["Traurig", "Wütend", "Müde, aber zufrieden", "Unsicher"],
+      "answer": "Müde, aber zufrieden"
+    }
+  ]
+}

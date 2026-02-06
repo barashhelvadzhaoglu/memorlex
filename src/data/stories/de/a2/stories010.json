@@ -1,0 +1,53 @@
+{
+  "id": "storie-010",
+  "title": "Lukas in München: Ein kleiner Erfolg",
+  "summary": "Lukas schreibt eine kurze Bewerbung und bekommt eine freundliche Antwort.",
+  "text": [
+    "Am Wochenende setzt sich Lukas an den Tisch.",
+    "Er möchte eine kurze Bewerbung schreiben.",
+    "Er nutzt ein einfaches Muster aus dem Kurs.",
+    "Zuerst schreibt er seinen Namen und seine Adresse.",
+    "Dann schreibt er: „Ich suche ein Praktikum und lerne Deutsch.“",
+    "Er versucht, höflich und klar zu schreiben.",
+    "Manche Wörter prüft er im Wörterbuch.",
+    "Danach liest er den Text noch einmal laut.",
+    "Er findet zwei Sätze, die nicht gut sind.",
+    "Er verbessert die Sätze und schreibt sie neu.",
+    "Dann schickt er die Bewerbung per E-Mail.",
+    "Am nächsten Tag wartet er nervös auf eine Antwort.",
+    "Am Nachmittag bekommt er eine E-Mail zurück.",
+    "Die Firma bedankt sich und lädt ihn zu einem kurzen Telefonat ein.",
+    "Lukas kann es kaum glauben.",
+    "Er zeigt die E-Mail Sofia im Kurs.",
+    "Sofia freut sich mit ihm und sagt: „Das ist ein guter Schritt!“",
+    "Lukas fühlt sich stolz und macht weiter."
+  ],
+  "vocab": [
+    { "term": "die Bewerbung", "type": "Nomen", "meaning_tr": "başvuru", "meaning_en": "application", "example": "Er schreibt eine Bewerbung." },
+    { "term": "das Muster", "type": "Nomen", "meaning_tr": "şablon", "meaning_en": "template", "example": "Ein Muster aus dem Kurs." },
+    { "term": "die Adresse", "type": "Nomen", "meaning_tr": "adres", "meaning_en": "address", "example": "Er schreibt seine Adresse." },
+    { "term": "suchen", "type": "Verb", "meaning_tr": "aramak", "meaning_en": "to look for", "example": "Ich suche ein Praktikum." },
+    { "term": "höflich", "type": "Adjektiv", "meaning_tr": "kibar", "meaning_en": "polite", "example": "Er schreibt höflich." },
+    { "term": "klar", "type": "Adjektiv", "meaning_tr": "net", "meaning_en": "clear", "example": "Er schreibt klar." },
+    { "term": "prüfen", "type": "Verb", "meaning_tr": "kontrol etmek", "meaning_en": "to check", "example": "Er prüft Wörter." },
+    { "term": "das Wörterbuch", "type": "Nomen", "meaning_tr": "sözlük", "meaning_en": "dictionary", "example": "Er nutzt ein Wörterbuch." },
+    { "term": "laut", "type": "Adverb", "meaning_tr": "yüksek sesle", "meaning_en": "out loud", "example": "Er liest laut." },
+    { "term": "neu", "type": "Adjektiv", "meaning_tr": "yeniden", "meaning_en": "new", "example": "Er schreibt sie neu." },
+    { "term": "schicken", "type": "Verb", "meaning_tr": "göndermek", "meaning_en": "to send", "example": "Er schickt die E-Mail." },
+    { "term": "warten", "type": "Verb", "meaning_tr": "beklemek", "meaning_en": "to wait", "example": "Er wartet auf eine Antwort." },
+    { "term": "die Antwort", "type": "Nomen", "meaning_tr": "yanıt", "meaning_en": "reply", "example": "Er bekommt eine Antwort." },
+    { "term": "einladen", "type": "Verb", "meaning_tr": "davet etmek", "meaning_en": "to invite", "example": "Die Firma lädt ihn ein." },
+    { "term": "das Telefonat", "type": "Nomen", "meaning_tr": "telefon görüşmesi", "meaning_en": "phone call", "example": "Zu einem Telefonat." }
+  ],
+  "questions": [
+    { "question": "Wann schreibt Lukas die Bewerbung?", "options": ["Am Montag", "Am Wochenende", "In der Nacht", "Im Urlaub"], "answer": "Am Wochenende" },
+    { "question": "Was nutzt Lukas aus dem Kurs?", "options": ["Ein Spiel", "Ein Muster", "Ein Lied", "Ein Ticket"], "answer": "Ein Muster" },
+    { "question": "Was prüft Lukas im Wörterbuch?", "options": ["Bilder", "Wörter", "Zahlen", "Straßen"], "answer": "Wörter" },
+    { "question": "Was macht Lukas mit dem Text?", "options": ["Er liest ihn laut", "Er wirft ihn weg", "Er malt ihn", "Er vergisst ihn"], "answer": "Er liest ihn laut" },
+    { "question": "Wie schickt Lukas die Bewerbung?", "options": ["Per Post", "Per E-Mail", "Per Fax", "Persönlich"], "answer": "Per E-Mail" },
+    { "question": "Wann bekommt Lukas eine Antwort?", "options": ["Am gleichen Nachmittag", "Nach drei Wochen", "Nie", "Im nächsten Jahr"], "answer": "Am gleichen Nachmittag" },
+    { "question": "Was macht die Firma?", "options": ["Sie sagt sofort Nein", "Sie lädt ihn zu einem Telefonat ein", "Sie schickt Geld", "Sie ruft die Polizei"], "answer": "Sie lädt ihn zu einem Telefonat ein" },
+    { "question": "Wem zeigt Lukas die E-Mail?", "options": ["Dem Arzt", "Sofia", "Dem Verkäufer", "Dem Nachbarn"], "answer": "Sofia" },
+    { "question": "Wie fühlt sich Lukas am Ende?", "options": ["Stolz", "Wütend", "Langweilig", "Ängstlich"], "answer": "Stolz" }
+  ]
+}

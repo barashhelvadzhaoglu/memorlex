@@ -1,0 +1,53 @@
+{
+  "id": "storie-006",
+  "title": "Lukas in München: Hilfe beim Formular",
+  "summary": "Lukas will ein Formular ausfüllen und fragt im Kurs nach Hilfe.",
+  "text": [
+    "Zu Hause legt Lukas das Formular auf den Tisch.",
+    "Er liest die Fragen langsam und markiert schwierige Wörter.",
+    "Einige Sätze sind lang und er ist unsicher.",
+    "Er möchte alles richtig machen.",
+    "Am nächsten Tag nimmt er das Formular mit in den Kurs.",
+    "In der Pause fragt er die Lehrerin um Hilfe.",
+    "Die Lehrerin erklärt wichtige Wörter und gibt Beispiele.",
+    "Lukas schreibt die Erklärungen in sein Heft.",
+    "Dann hilft auch Sofia und liest einen Abschnitt vor.",
+    "Lukas versteht jetzt mehr und wird ruhiger.",
+    "Nach dem Kurs geht er in einen Copyshop.",
+    "Er macht Kopien von seinem Ausweis und vom Brief.",
+    "Der Mitarbeiter im Copyshop fragt: „Wie viele Kopien?“",
+    "Lukas antwortet: „Bitte zwei.“",
+    "Zu Hause füllt er das Formular aus.",
+    "Er überprüft alles noch einmal.",
+    "Dann legt er die Unterlagen in einen Umschlag.",
+    "Er ist froh, weil er vorbereitet ist."
+  ],
+  "vocab": [
+    { "term": "markieren", "type": "Verb", "meaning_tr": "işaretlemek", "meaning_en": "to mark", "example": "Er markiert schwierige Wörter." },
+    { "term": "unsicher", "type": "Adjektiv", "meaning_tr": "emin olmayan", "meaning_en": "unsure", "example": "Er ist unsicher." },
+    { "term": "richtig", "type": "Adjektiv", "meaning_tr": "doğru", "meaning_en": "correct", "example": "Er möchte alles richtig machen." },
+    { "term": "die Pause", "type": "Nomen", "meaning_tr": "mola", "meaning_en": "break", "example": "In der Pause fragt er." },
+    { "term": "um Hilfe bitten", "type": "Verbphrase", "meaning_tr": "yardım istemek", "meaning_en": "to ask for help", "example": "Er bittet um Hilfe." },
+    { "term": "das Beispiel", "type": "Nomen", "meaning_tr": "örnek", "meaning_en": "example", "example": "Sie gibt Beispiele." },
+    { "term": "ruhig", "type": "Adjektiv", "meaning_tr": "sakin", "meaning_en": "calm", "example": "Er wird ruhiger." },
+    { "term": "der Copyshop", "type": "Nomen", "meaning_tr": "fotokopi dükkânı", "meaning_en": "copy shop", "example": "Er geht in einen Copyshop." },
+    { "term": "die Kopie", "type": "Nomen", "meaning_tr": "kopya", "meaning_en": "copy", "example": "Er macht Kopien." },
+    { "term": "wie viele", "type": "Frage", "meaning_tr": "kaç tane", "meaning_en": "how many", "example": "Wie viele Kopien?" },
+    { "term": "ausfüllen", "type": "Verb", "meaning_tr": "doldurmak", "meaning_en": "to fill out", "example": "Er füllt das Formular aus." },
+    { "term": "überprüfen", "type": "Verb", "meaning_tr": "kontrol etmek", "meaning_en": "to check", "example": "Er überprüft alles." },
+    { "term": "die Unterlage", "type": "Nomen", "meaning_tr": "evrak", "meaning_en": "document/paper", "example": "Er legt die Unterlagen zusammen." },
+    { "term": "der Umschlag", "type": "Nomen", "meaning_tr": "zarf", "meaning_en": "envelope", "example": "In einen Umschlag." },
+    { "term": "froh", "type": "Adjektiv", "meaning_tr": "mutlu", "meaning_en": "glad", "example": "Er ist froh." }
+  ],
+  "questions": [
+    { "question": "Was macht Lukas mit schwierigen Wörtern?", "options": ["Er ignoriert sie", "Er markiert sie", "Er vergisst sie", "Er schneidet sie aus"], "answer": "Er markiert sie" },
+    { "question": "Wohin nimmt Lukas das Formular mit?", "options": ["In den Supermarkt", "In den Kurs", "In den Park", "Zum Arzt"], "answer": "In den Kurs" },
+    { "question": "Wen fragt Lukas um Hilfe?", "options": ["Seinen Nachbarn", "Die Lehrerin", "Einen Polizisten", "Seinen Chef"], "answer": "Die Lehrerin" },
+    { "question": "Wer hilft Lukas noch?", "options": ["Sofia", "Ein Arzt", "Ein Fahrer", "Ein Verkäufer"], "answer": "Sofia" },
+    { "question": "Wohin geht Lukas nach dem Kurs?", "options": ["In einen Copyshop", "In ein Kino", "In ein Museum", "In ein Stadion"], "answer": "In einen Copyshop" },
+    { "question": "Was macht Lukas dort?", "options": ["Er kauft Brot", "Er macht Kopien", "Er liest", "Er arbeitet"], "answer": "Er macht Kopien" },
+    { "question": "Wie viele Kopien sagt Lukas?", "options": ["Eine", "Zwei", "Drei", "Vier"], "answer": "Zwei" },
+    { "question": "Was macht Lukas am Ende zu Hause?", "options": ["Er wirft alles weg", "Er überprüft alles", "Er schläft sofort", "Er geht aus"], "answer": "Er überprüft alles" },
+    { "question": "Wie fühlt sich Lukas am Schluss?", "options": ["Froh", "Wütend", "Traurig", "Ängstlich"], "answer": "Froh" }
+  ]
+}

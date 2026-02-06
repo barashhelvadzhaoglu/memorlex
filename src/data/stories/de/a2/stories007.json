@@ -1,0 +1,53 @@
+{
+  "id": "storie-007",
+  "title": "Lukas in München: Ein kleines Missverständnis",
+  "summary": "Lukas hat ein Missverständnis am Telefon und lernt, nachzufragen.",
+  "text": [
+    "Am Abend ruft Lukas beim Amt an.",
+    "Er möchte fragen, ob die Unterlagen vollständig sind.",
+    "Am Telefon spricht eine Mitarbeiterin schnell.",
+    "Lukas versteht nur einen Teil und wird nervös.",
+    "Er hört das Wort „Fehlt“ und erschrickt.",
+    "Dann sagt er höflich: „Entschuldigung, können Sie das bitte wiederholen?“",
+    "Die Mitarbeiterin spricht langsamer und deutlicher.",
+    "Sie erklärt, dass nur eine Kopie fehlt.",
+    "Lukas fragt: „Welche Kopie fehlt genau?“",
+    "Die Mitarbeiterin sagt: „Die Kopie vom Ausweis, beide Seiten.“",
+    "Lukas bedankt sich und legt auf.",
+    "Er macht sofort noch eine Kopie.",
+    "Am nächsten Morgen bringt er alles zum Amt.",
+    "Am Schalter gibt er den Umschlag ab.",
+    "Die Mitarbeiterin kontrolliert die Unterlagen.",
+    "Dann sagt sie: „Jetzt ist alles komplett.“",
+    "Lukas atmet erleichtert aus.",
+    "Er merkt: Nachfragen hilft wirklich."
+  ],
+  "vocab": [
+    { "term": "anrufen", "type": "Verb", "meaning_tr": "telefon etmek", "meaning_en": "to call", "example": "Lukas ruft beim Amt an." },
+    { "term": "vollständig", "type": "Adjektiv", "meaning_tr": "eksiksiz", "meaning_en": "complete", "example": "Sind die Unterlagen vollständig?" },
+    { "term": "schnell", "type": "Adjektiv", "meaning_tr": "hızlı", "meaning_en": "fast", "example": "Sie spricht schnell." },
+    { "term": "der Teil", "type": "Nomen", "meaning_tr": "kısım", "meaning_en": "part", "example": "Nur einen Teil." },
+    { "term": "erschrecken", "type": "Verb", "meaning_tr": "ürkmek", "meaning_en": "to get scared", "example": "Er erschrickt." },
+    { "term": "wiederholen", "type": "Verb", "meaning_tr": "tekrar etmek", "meaning_en": "to repeat", "example": "Können Sie das wiederholen?" },
+    { "term": "langsamer", "type": "Adjektiv", "meaning_tr": "daha yavaş", "meaning_en": "slower", "example": "Sie spricht langsamer." },
+    { "term": "deutlich", "type": "Adverb", "meaning_tr": "açıkça", "meaning_en": "clearly", "example": "Sie spricht deutlich." },
+    { "term": "fehlen", "type": "Verb", "meaning_tr": "eksik olmak", "meaning_en": "to be missing", "example": "Eine Kopie fehlt." },
+    { "term": "genau", "type": "Adverb", "meaning_tr": "tam olarak", "meaning_en": "exactly", "example": "Welche Kopie genau?" },
+    { "term": "beide Seiten", "type": "Wendung", "meaning_tr": "iki taraf", "meaning_en": "both sides", "example": "Beide Seiten vom Ausweis." },
+    { "term": "sofort", "type": "Adverb", "meaning_tr": "hemen", "meaning_en": "immediately", "example": "Er macht sofort eine Kopie." },
+    { "term": "abgeben", "type": "Verb", "meaning_tr": "teslim etmek", "meaning_en": "to submit/hand in", "example": "Er gibt den Umschlag ab." },
+    { "term": "komplett", "type": "Adjektiv", "meaning_tr": "tam", "meaning_en": "complete", "example": "Alles ist komplett." },
+    { "term": "erleichtert", "type": "Adjektiv", "meaning_tr": "rahatlamış", "meaning_en": "relieved", "example": "Er ist erleichtert." }
+  ],
+  "questions": [
+    { "question": "Warum ruft Lukas beim Amt an?", "options": ["Er sucht Arbeit", "Er fragt nach den Unterlagen", "Er will einen Kurs", "Er will ein Ticket"], "answer": "Er fragt nach den Unterlagen" },
+    { "question": "Wie spricht die Mitarbeiterin zuerst?", "options": ["Langsam", "Schnell", "Gar nicht", "Sehr leise"], "answer": "Schnell" },
+    { "question": "Was hört Lukas und erschrickt?", "options": ["„Danke“", "„Fehlt“", "„Hallo“", "„Bitte“"], "answer": "„Fehlt“" },
+    { "question": "Was sagt Lukas höflich?", "options": ["„Ich verstehe nicht!“", "„Wiederholen, bitte.“", "„Tschüss.“", "„Keine Zeit.“"], "answer": "„Wiederholen, bitte.“" },
+    { "question": "Was fehlt laut Mitarbeiterin?", "options": ["Ein Foto", "Eine Kopie", "Ein Ticket", "Ein Formular"], "answer": "Eine Kopie" },
+    { "question": "Welche Kopie fehlt genau?", "options": ["Pass", "Ausweis, beide Seiten", "Kursplan", "Mietvertrag"], "answer": "Ausweis, beide Seiten" },
+    { "question": "Was macht Lukas sofort?", "options": ["Er schläft", "Er macht eine Kopie", "Er kocht", "Er geht spazieren"], "answer": "Er macht eine Kopie" },
+    { "question": "Was sagt die Mitarbeiterin am Schalter?", "options": ["Alles ist falsch", "Jetzt ist alles komplett", "Kommen Sie morgen", "Wir haben geschlossen"], "answer": "Jetzt ist alles komplett" },
+    { "question": "Was lernt Lukas am Ende?", "options": ["Schnell sprechen", "Nachfragen hilft", "Nicht telefonieren", "Nicht lernen"], "answer": "Nachfragen hilft" }
+  ]
+}

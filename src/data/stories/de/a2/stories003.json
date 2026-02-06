@@ -1,0 +1,53 @@
+{
+  "id": "storie-003",
+  "title": "Lukas in München: Üben nach dem Kurs",
+  "summary": "Lukas übt nach dem Kurs Deutsch im Alltag und versucht, selbstbewusster zu werden.",
+  "text": [
+    "Nach dem ersten Deutschkurs fühlt sich Lukas besser.",
+    "Am nächsten Tag steht er wieder früh auf.",
+    "Er wiederholt die Wörter aus dem Unterricht.",
+    "Dann schreibt er kurze Sätze in sein Heft.",
+    "Um zehn Uhr geht er in ein kleines Café.",
+    "Er möchte dort etwas bestellen und Deutsch sprechen.",
+    "Am Anfang ist er unsicher und spricht leise.",
+    "Die Kellnerin fragt freundlich: „Was möchten Sie?“",
+    "Lukas bestellt einen Kaffee und ein Stück Kuchen.",
+    "Er versteht die Frage, aber er muss kurz nachdenken.",
+    "Danach setzt er sich ans Fenster und hört den Gesprächen zu.",
+    "Er merkt, dass viele Wörter bekannt sind.",
+    "Später geht er in eine Buchhandlung.",
+    "Er sucht ein einfaches Lernbuch für A2.",
+    "Ein Mitarbeiter hilft ihm und zeigt ein paar Bücher.",
+    "Lukas bedankt sich und kauft ein Buch.",
+    "Zu Hause lernt er noch einmal zwanzig Minuten.",
+    "Am Abend ist er müde, aber zufrieden."
+  ],
+  "vocab": [
+    { "term": "wiederholen", "type": "Verb", "meaning_tr": "tekrar etmek", "meaning_en": "to repeat", "example": "Er wiederholt die Wörter." },
+    { "term": "der Satz", "type": "Nomen", "meaning_tr": "cümle", "meaning_en": "sentence", "example": "Er schreibt kurze Sätze." },
+    { "term": "bestellen", "type": "Verb", "meaning_tr": "sipariş vermek", "meaning_en": "to order", "example": "Lukas bestellt einen Kaffee." },
+    { "term": "leise", "type": "Adverb", "meaning_tr": "kısık sesle", "meaning_en": "quietly", "example": "Er spricht leise." },
+    { "term": "nachdenken", "type": "Verb", "meaning_tr": "düşünmek", "meaning_en": "to think", "example": "Er muss kurz nachdenken." },
+    { "term": "das Gespräch", "type": "Nomen", "meaning_tr": "konuşma", "meaning_en": "conversation", "example": "Er hört den Gesprächen zu." },
+    { "term": "bekannt", "type": "Adjektiv", "meaning_tr": "tanıdık", "meaning_en": "familiar", "example": "Viele Wörter sind bekannt." },
+    { "term": "die Buchhandlung", "type": "Nomen", "meaning_tr": "kitapçı", "meaning_en": "bookstore", "example": "Er geht in die Buchhandlung." },
+    { "term": "suchen", "type": "Verb", "meaning_tr": "aramak", "meaning_en": "to look for", "example": "Er sucht ein Lernbuch." },
+    { "term": "der Mitarbeiter", "type": "Nomen", "meaning_tr": "çalışan", "meaning_en": "employee", "example": "Ein Mitarbeiter hilft ihm." },
+    { "term": "zeigen", "type": "Verb", "meaning_tr": "göstermek", "meaning_en": "to show", "example": "Er zeigt ein paar Bücher." },
+    { "term": "kaufen", "type": "Verb", "meaning_tr": "satın almak", "meaning_en": "to buy", "example": "Lukas kauft ein Buch." },
+    { "term": "lernen", "type": "Verb", "meaning_tr": "öğrenmek/çalışmak", "meaning_en": "to learn/study", "example": "Zu Hause lernt er." },
+    { "term": "zufrieden", "type": "Adjektiv", "meaning_tr": "memnun", "meaning_en": "satisfied", "example": "Er ist zufrieden." },
+    { "term": "müde", "type": "Adjektiv", "meaning_tr": "yorgun", "meaning_en": "tired", "example": "Am Abend ist er müde." }
+  ],
+  "questions": [
+    { "question": "Was macht Lukas am nächsten Tag nach dem Kurs?", "options": ["Er schläft lange", "Er wiederholt Wörter", "Er fährt nach Polen", "Er arbeitet"], "answer": "Er wiederholt Wörter" },
+    { "question": "Wohin geht Lukas um zehn Uhr?", "options": ["In die Schule", "In ein Café", "In den Park", "Ins Krankenhaus"], "answer": "In ein Café" },
+    { "question": "Warum geht er ins Café?", "options": ["Er will Deutsch sprechen", "Er will Sport machen", "Er sucht Freunde", "Er hat einen Termin"], "answer": "Er will Deutsch sprechen" },
+    { "question": "Was bestellt Lukas?", "options": ["Tee und Brot", "Kaffee und Kuchen", "Wasser und Suppe", "Saft und Salat"], "answer": "Kaffee und Kuchen" },
+    { "question": "Was macht Lukas im Café danach?", "options": ["Er telefoniert", "Er hört Gesprächen zu", "Er schläft", "Er schreibt E-Mails"], "answer": "Er hört Gesprächen zu" },
+    { "question": "Wohin geht Lukas später?", "options": ["In die Buchhandlung", "In die Bank", "In die Apotheke", "In die Post"], "answer": "In die Buchhandlung" },
+    { "question": "Was sucht Lukas dort?", "options": ["Ein Ticket", "Ein Lernbuch für A2", "Ein Geschenk", "Einen Job"], "answer": "Ein Lernbuch für A2" },
+    { "question": "Wer hilft Lukas?", "options": ["Ein Nachbar", "Ein Mitarbeiter", "Ein Polizist", "Ein Arzt"], "answer": "Ein Mitarbeiter" },
+    { "question": "Wie fühlt sich Lukas am Abend?", "options": ["Wütend", "Müde, aber zufrieden", "Sehr traurig", "Nervös"], "answer": "Müde, aber zufrieden" }
+  ]
+}

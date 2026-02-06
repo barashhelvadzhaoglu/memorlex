@@ -1,0 +1,53 @@
+{
+  "id": "storie-009",
+  "title": "Lukas in München: Ein neuer Plan",
+  "summary": "Lukas plant seine nächsten Schritte: Lernen, Alltag und erste Bewerbung.",
+  "text": [
+    "Nach ein paar Tagen fühlt sich Lukas wieder gesund.",
+    "Er schaut auf seine Notizen und denkt an seine Ziele.",
+    "Er möchte besser Deutsch sprechen und unabhängiger werden.",
+    "Im Kurs gibt es eine Aufgabe: einen kurzen Lebenslauf schreiben.",
+    "Lukas findet das interessant, aber auch schwierig.",
+    "Er hat schon Berufserfahrung, aber er kennt die deutschen Wörter nicht.",
+    "Die Lehrerin erklärt wichtige Wörter wie „Erfahrung“ und „Aufgaben“.",
+    "Lukas schreibt einen einfachen Text über seine Arbeit.",
+    "Sofia liest den Text und gibt ihm Tipps.",
+    "Lukas verbessert ein paar Sätze.",
+    "Am Abend sucht er im Internet nach einfachen Stellenanzeigen.",
+    "Er liest langsam und markiert neue Wörter.",
+    "Dann macht er eine Liste mit Firmen in München.",
+    "Er möchte zuerst einen Praktikumsplatz finden.",
+    "Er weiß: Dafür braucht er Geduld und Zeit.",
+    "Er übt jeden Tag ein bisschen.",
+    "Das motiviert ihn, weil er Fortschritte sieht.",
+    "Er fühlt sich wieder auf einem guten Weg."
+  ],
+  "vocab": [
+    { "term": "gesund", "type": "Adjektiv", "meaning_tr": "sağlıklı", "meaning_en": "healthy", "example": "Lukas fühlt sich gesund." },
+    { "term": "das Ziel", "type": "Nomen", "meaning_tr": "hedef", "meaning_en": "goal", "example": "Er denkt an seine Ziele." },
+    { "term": "unabhängig", "type": "Adjektiv", "meaning_tr": "bağımsız", "meaning_en": "independent", "example": "Er will unabhängiger werden." },
+    { "term": "die Aufgabe", "type": "Nomen", "meaning_tr": "görev", "meaning_en": "task", "example": "Es gibt eine Aufgabe." },
+    { "term": "der Lebenslauf", "type": "Nomen", "meaning_tr": "özgeçmiş", "meaning_en": "CV", "example": "Einen Lebenslauf schreiben." },
+    { "term": "die Berufserfahrung", "type": "Nomen", "meaning_tr": "iş deneyimi", "meaning_en": "work experience", "example": "Er hat Berufserfahrung." },
+    { "term": "die Erfahrung", "type": "Nomen", "meaning_tr": "deneyim", "meaning_en": "experience", "example": "Das Wort „Erfahrung“." },
+    { "term": "die Aufgabe(n)", "type": "Nomen", "meaning_tr": "görevler", "meaning_en": "tasks", "example": "Das Wort „Aufgaben“." },
+    { "term": "der Tipp", "type": "Nomen", "meaning_tr": "ipuçu", "meaning_en": "tip", "example": "Sofia gibt Tipps." },
+    { "term": "verbessern", "type": "Verb", "meaning_tr": "iyileştirmek", "meaning_en": "to improve", "example": "Er verbessert Sätze." },
+    { "term": "die Stellenanzeige", "type": "Nomen", "meaning_tr": "iş ilanı", "meaning_en": "job ad", "example": "Er sucht Stellenanzeigen." },
+    { "term": "markieren", "type": "Verb", "meaning_tr": "işaretlemek", "meaning_en": "to mark", "example": "Er markiert Wörter." },
+    { "term": "die Liste", "type": "Nomen", "meaning_tr": "liste", "meaning_en": "list", "example": "Er macht eine Liste." },
+    { "term": "der Praktikumsplatz", "type": "Nomen", "meaning_tr": "staj yeri", "meaning_en": "internship", "example": "Einen Praktikumsplatz finden." },
+    { "term": "die Fortschritte", "type": "Nomen", "meaning_tr": "ilerleme", "meaning_en": "progress", "example": "Er sieht Fortschritte." }
+  ],
+  "questions": [
+    { "question": "Wie fühlt sich Lukas am Anfang der Geschichte?", "options": ["Krank", "Gesund", "Sehr traurig", "Wütend"], "answer": "Gesund" },
+    { "question": "Was ist sein Ziel?", "options": ["Weniger lernen", "Besser Deutsch sprechen", "Wegziehen", "Nicht arbeiten"], "answer": "Besser Deutsch sprechen" },
+    { "question": "Welche Aufgabe gibt es im Kurs?", "options": ["Einen Brief schreiben", "Einen Lebenslauf schreiben", "Kochen", "Sport"], "answer": "Einen Lebenslauf schreiben" },
+    { "question": "Warum ist es schwierig für Lukas?", "options": ["Er hat keine Zeit", "Er kennt deutsche Wörter nicht", "Er hat kein Heft", "Er ist müde"], "answer": "Er kennt deutsche Wörter nicht" },
+    { "question": "Wer gibt Lukas Tipps?", "options": ["Ein Arzt", "Sofia", "Ein Polizist", "Ein Verkäufer"], "answer": "Sofia" },
+    { "question": "Was macht Lukas am Abend?", "options": ["Er sucht Stellenanzeigen", "Er schläft", "Er reist", "Er geht ins Kino"], "answer": "Er sucht Stellenanzeigen" },
+    { "question": "Was markiert Lukas?", "options": ["Neue Wörter", "Straßen", "Bilder", "Zahlen"], "answer": "Neue Wörter" },
+    { "question": "Was möchte Lukas zuerst finden?", "options": ["Ein Auto", "Einen Praktikumsplatz", "Eine Katze", "Ein Hotel"], "answer": "Einen Praktikumsplatz" },
+    { "question": "Warum ist Lukas motiviert?", "options": ["Weil er Geld hat", "Weil er Fortschritte sieht", "Weil er Urlaub hat", "Weil es regnet"], "answer": "Weil er Fortschritte sieht" }
+  ]
+}

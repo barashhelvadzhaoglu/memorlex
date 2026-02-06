@@ -1,0 +1,53 @@
+{
+  "id": "storie-004",
+  "title": "Lukas in München: Ein Brief vom Amt",
+  "summary": "Lukas bekommt einen Brief und muss wichtige Informationen verstehen.",
+  "text": [
+    "Ein paar Tage später findet Lukas einen Brief im Briefkasten.",
+    "Der Brief ist vom Amt und sieht wichtig aus.",
+    "Lukas liest den Text langsam, aber er versteht nicht alles.",
+    "Er sieht ein Datum und eine Uhrzeit.",
+    "Im Brief steht, dass er einen Termin braucht.",
+    "Lukas wird nervös, weil er nichts falsch machen will.",
+    "Er ruft seine Kursteilnehmerin Sofia an.",
+    "Sofia spricht besser Deutsch und will helfen.",
+    "Sie treffen sich am Nachmittag in der Bibliothek.",
+    "Dort lesen sie den Brief zusammen.",
+    "Sofia erklärt die wichtigsten Wörter und Sätze.",
+    "Lukas schreibt sich alles in sein Heft.",
+    "Dann suchen sie im Internet die Adresse vom Amt.",
+    "Lukas plant den Weg mit der U-Bahn.",
+    "Er nimmt auch seinen Ausweis und den Brief mit.",
+    "Am Abend legt er alles bereit.",
+    "Er fühlt sich noch etwas unsicher, aber er hat einen Plan.",
+    "Am nächsten Morgen möchte er pünktlich losgehen."
+  ],
+  "vocab": [
+    { "term": "der Briefkasten", "type": "Nomen", "meaning_tr": "posta kutusu", "meaning_en": "mailbox", "example": "Er findet einen Brief im Briefkasten." },
+    { "term": "das Amt", "type": "Nomen", "meaning_tr": "resmî daire", "meaning_en": "public office", "example": "Der Brief ist vom Amt." },
+    { "term": "wichtig", "type": "Adjektiv", "meaning_tr": "önemli", "meaning_en": "important", "example": "Der Brief ist wichtig." },
+    { "term": "verstehen", "type": "Verb", "meaning_tr": "anlamak", "meaning_en": "to understand", "example": "Er versteht nicht alles." },
+    { "term": "das Datum", "type": "Nomen", "meaning_tr": "tarih", "meaning_en": "date", "example": "Er sieht ein Datum." },
+    { "term": "die Uhrzeit", "type": "Nomen", "meaning_tr": "saat", "meaning_en": "time", "example": "Er sieht eine Uhrzeit." },
+    { "term": "der Termin", "type": "Nomen", "meaning_tr": "randevu", "meaning_en": "appointment", "example": "Er braucht einen Termin." },
+    { "term": "nervös", "type": "Adjektiv", "meaning_tr": "gergin", "meaning_en": "nervous", "example": "Lukas wird nervös." },
+    { "term": "anrufen", "type": "Verb", "meaning_tr": "telefon etmek", "meaning_en": "to call", "example": "Er ruft Sofia an." },
+    { "term": "die Bibliothek", "type": "Nomen", "meaning_tr": "kütüphane", "meaning_en": "library", "example": "Sie treffen sich in der Bibliothek." },
+    { "term": "zusammen", "type": "Adverb", "meaning_tr": "birlikte", "meaning_en": "together", "example": "Sie lesen den Brief zusammen." },
+    { "term": "erklären", "type": "Verb", "meaning_tr": "açıklamak", "meaning_en": "to explain", "example": "Sofia erklärt die Wörter." },
+    { "term": "der Weg", "type": "Nomen", "meaning_tr": "yol", "meaning_en": "route/way", "example": "Er plant den Weg." },
+    { "term": "der Ausweis", "type": "Nomen", "meaning_tr": "kimlik", "meaning_en": "ID card", "example": "Er nimmt seinen Ausweis mit." },
+    { "term": "bereit", "type": "Adjektiv", "meaning_tr": "hazır", "meaning_en": "ready", "example": "Am Abend legt er alles bereit." }
+  ],
+  "questions": [
+    { "question": "Wo findet Lukas den Brief?", "options": ["Auf dem Tisch", "Im Briefkasten", "Im Kurs", "Im Café"], "answer": "Im Briefkasten" },
+    { "question": "Von wem ist der Brief?", "options": ["Von der Schule", "Vom Amt", "Von der Bank", "Von einem Freund"], "answer": "Vom Amt" },
+    { "question": "Warum wird Lukas nervös?", "options": ["Er ist müde", "Er will nichts falsch machen", "Er hat Hunger", "Er hat keine Zeit"], "answer": "Er will nichts falsch machen" },
+    { "question": "Wen ruft Lukas an?", "options": ["Seinen Chef", "Sofia", "Seinen Arzt", "Seine Mutter"], "answer": "Sofia" },
+    { "question": "Wo treffen sie sich?", "options": ["Im Park", "In der Bibliothek", "Im Supermarkt", "Am Bahnhof"], "answer": "In der Bibliothek" },
+    { "question": "Was machen sie dort?", "options": ["Sie spielen", "Sie lesen den Brief", "Sie kochen", "Sie kaufen Tickets"], "answer": "Sie lesen den Brief" },
+    { "question": "Was schreibt Lukas in sein Heft?", "options": ["Ein Gedicht", "Die wichtigsten Infos", "Eine Einkaufsliste", "Eine Rechnung"], "answer": "Die wichtigsten Infos" },
+    { "question": "Was nimmt Lukas mit?", "options": ["Nur Geld", "Ausweis und Brief", "Ein Fahrrad", "Einen Koffer"], "answer": "Ausweis und Brief" },
+    { "question": "Wie endet die Geschichte?", "options": ["Er hat keinen Plan", "Er hat einen Plan", "Er fährt weg", "Er vergisst den Termin"], "answer": "Er hat einen Plan" }
+  ]
+}
