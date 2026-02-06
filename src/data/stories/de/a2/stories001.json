@@ -1,36 +1,43 @@
 {
-  "id": "storie-001",
-  "title": "Lukas in München: Der erste Morgen",
-  "summary": "Lukas ist neu in München. Er beginnt seinen Tag mit einem Plan.",
+  "id": "storie-021",
+  "title": "Nachhaltigkeit im Großstadtdschungel",
+  "summary": "Ein Artikel über Lukas' Entdeckungen zum Thema Umweltschutz und Lebensqualität in Berlin.",
   "text": [
-    "Lukas kommt aus Polen und lebt jetzt in München. Heute ist sein erster Tag.",
-    "Er steht um acht Uhr auf. Er ist ein bisschen nervös, aber auch glücklich.",
-    "Zuerst trinkt er einen Kaffee und isst ein Brot mit Käse. Das Frühstück ist sehr wichtig für ihn.",
-    "Dann schreibt er eine Liste. Er möchte heute die Stadt sehen ve Deutsch lernen.",
-    "Lukas sucht seine Tasche. Wo ist sie? Ah, sie liegt unter dem Tisch. Jetzt kann er gehen."
+    "Berlin ist nicht nur für seine Geschichte und Kultur bekannt, sondern entwickelt sich immer mehr zu einer Vorreiterstadt in Sachen Nachhaltigkeit. Lukas, der nun seit einigen Monaten in der Hauptstadt lebt, bemerkt diesen Trend jeden Tag. In seinem Viertel gibt es mittlerweile zahlreiche 'Unverpackt-Läden', in denen man Lebensmittel ohne Plastikmüll kaufen kann. Obwohl es am Anfang gewöhnungsbedürftig war, seine eigenen Behälter mitzubringen, schätzt er jetzt das bewusste Einkaufen.",
+    "Letzten Samstag entschied sich Lukas, an einem Nachbarschaftsprojekt im Mauerpark teilzunehmen. Dort wurde ein 'Urban Gardening' Projekt ins Leben gerufen. Die Idee dahinter ist einfach: Stadtbewohner pflanzen gemeinsam Gemüse und Kräuter an, um die grauen Betonflächen grüner zu machen. Lukas lernte dabei viel über ökologischen Anbau und knüpfte gleichzeitig Kontakte zu seinen Nachbarn. Er war überrascht, wie viel Energie die Menschen in die Verschönerung ihrer Umgebung stecken, ohne dafür Geld zu verlangen.",
+    "Neben dem Gärtnern beschäftigt sich Lukas auch mit dem Thema Mobilität. Er besitzt kein Auto, da die Parkplatzsuche in Berlin oft eine Katastrophe ist und die Umwelt belastet. Stattdessen nutzt er die gut ausgebauten öffentlichen Verkehrsmittel oder teilt sich mit einer App ein E-Bike. Er ist der Meinung, dass man in einer Großstadt keinen eigenen PKW benötigt, wenn die Infrastruktur funktioniert. Diese kleinen Veränderungen in seinem Alltag geben ihm das Gefühl, einen positiven Beitrag zur Gesellschaft zu leisten.",
+    "Den Abend ließ er in einem kleinen Café ausklingen, das ausschließlich fair gehandelte Produkte anbietet. Dort las er einen Artikel in einer Lokalzeitung über die Zukunft der Stadtplanung. Es wird diskutiert, noch mehr Straßen für Autos zu sperren und stattdessen breitere Radwege und Parks zu bauen. Lukas findet diese Vorstellung inspirierend, auch wenn einige Autofahrer gegen diese Pläne protestieren. Für ihn ist klar: Ein moderner Lebensstil und Umweltschutz gehören untrennbar zusammen."
   ],
   "vocab": [
-    { "term": "aufstehen", "type": "Verb", "meaning_tr": "ayağa kalkmak, uyanmak", "meaning_en": "to get up", "example": "Lukas steht um acht Uhr auf." },
-    { "term": "nervös", "type": "Adjektiv", "meaning_tr": "heyecanlı, gergin", "meaning_en": "nervous", "example": "Er ist ein bisschen nervös." },
-    { "term": "wichtig", "type": "Adjektiv", "meaning_tr": "önemli", "meaning_en": "important", "example": "Das Frühstück ist sehr wichtig." },
-    { "term": "suchen", "type": "Verb", "meaning_tr": "aramak", "meaning_en": "to search/look for", "example": "Lukas sucht seine Tasche." },
-    { "term": "glücklich", "type": "Adjektiv", "meaning_tr": "mutlu", "meaning_en": "happy", "example": "Lukas ist glücklich." }
+    { "term": "die Nachhaltigkeit", "type": "Nomen", "meaning_tr": "sürdürülebilirlik", "meaning_en": "sustainability", "example": "Nachhaltigkeit ist wichtig." },
+    { "term": "der Vorreiter", "type": "Nomen", "meaning_tr": "öncü", "meaning_en": "pioneer/leader", "example": "Berlin ist ein Vorreiter." },
+    { "term": "gewöhnungsbedürftig", "type": "Adjektiv", "meaning_tr": "alışılması gereken", "meaning_en": "taking some getting used to", "example": "Das ist am Anfang gewöhnungsbedürftig." },
+    { "term": "der Behälter", "type": "Nomen", "meaning_tr": "kap, saklama kutusu", "meaning_en": "container", "example": "Eigene Behälter mitbringen." },
+    { "term": "schätzen", "type": "Verb", "meaning_tr": "takdir etmek, değer vermek", "meaning_en": "to appreciate", "example": "Ich schätze deine Hilfe." },
+    { "term": "bewusst", "type": "Adjektiv/Adverb", "meaning_tr": "bilinçli", "meaning_en": "conscious", "example": "Bewusst einkaufen gehen." },
+    { "term": "ins Leben rufen", "type": "Phrase", "meaning_tr": "hayata geçirmek/kurmak", "meaning_en": "to bring to life/found", "example": "Ein Projekt ins Leben rufen." },
+    { "term": "anpflanzen", "type": "Verb", "meaning_tr": "ekip dikmek (bitki)", "meaning_en": "to plant", "example": "Gemüse im Garten anpflanzen." },
+    { "term": "knüpfen", "type": "Verb", "meaning_tr": "kurmak (bağ/kontak)", "meaning_en": "to tie/establish", "example": "Kontakte knüpfen." },
+    { "term": "die Verschönerung", "type": "Nomen", "meaning_tr": "güzelleştirme", "meaning_en": "beautification", "example": "Die Verschönerung der Stadt." },
+    { "term": "belasten", "type": "Verb", "meaning_tr": "yük olmak, kirletmek", "meaning_en": "to burden/pollute", "example": "Autos belasten die Umwelt." },
+    { "term": "ausgebaut", "type": "Adjektiv", "meaning_tr": "gelişmiş, kapsamlı", "meaning_en": "developed/expanded", "example": "Ein gut ausgebautes Netz." },
+    { "term": "der Beitrag", "type": "Nomen", "meaning_tr": "katkı", "meaning_en": "contribution", "example": "Einen Beitrag leisten." },
+    { "term": "ausklingen lassen", "type": "Phrase", "meaning_tr": "huzurla bitirmek", "meaning_en": "to wind down", "example": "Den Abend ausklingen lassen." },
+    { "term": "ausschließlich", "type": "Adverb", "meaning_tr": "sadece, özel olarak", "meaning_en": "exclusively", "example": "Nur ausschließlich Bio-Produkte." },
+    { "term": "sperren", "type": "Verb", "meaning_tr": "kapatmak, engellemek", "meaning_en": "to block/close", "example": "Straßen für Autos sperren." },
+    { "term": "inspirierend", "type": "Adjektiv", "meaning_tr": "ilham verici", "meaning_en": "inspiring", "example": "Ein inspirierendes Buch." },
+    { "term": "untrennbar", "type": "Adjektiv", "meaning_tr": "ayrılamaz", "meaning_en": "inseparable", "example": "Sie sind untrennbar verbunden." },
+    { "term": "die Infrastruktur", "type": "Nomen", "meaning_tr": "altyapı", "meaning_en": "infrastructure", "example": "Eine gute Infrastruktur." }
   ],
   "questions": [
-    {
-      "question": "Woher kommt Lukas?",
-      "options": ["Aus Deutschland", "Aus Polen", "Aus der Türkei", "Aus Italien"],
-      "answer": "Aus Polen"
-    },
-    {
-      "question": "Was isst Lukas zum Frühstück?",
-      "options": ["Ein Ei", "Ein Brot mit Käse", "Obst", "Müsli"],
-      "answer": "Ein Brot mit Käse"
-    },
-    {
-      "question": "Was sucht Lukas?",
-      "options": ["Seine Tasche", "Seinen Schlüssel", "Sein Handy", "Sein Buch"],
-      "answer": "Seine Tasche"
-    }
+    { "question": "Was sind 'Unverpackt-Läden'?", "options": ["Geschäfte ohne Produkte", "Läden ohne Plastikmüll", "Teure Supermärkte", "Läden nur für Kleidung"], "answer": "Läden ohne Plastikmüll" },
+    { "question": "Warum bringen Kunden eigene Behälter in diese Läden?", "options": ["Um Geld zu sparen", "Um die Umwelt zu schützen", "Weil es keine Tüten gibt", "Weil es modern ist"], "answer": "Um die Umwelt zu schützen" },
+    { "question": "Was ist das Ziel von 'Urban Gardening'?", "options": ["Gemüse verkaufen", "Betonflächen grüner machen", "Häuser bauen", "Sport im Park machen"], "answer": "Betonflächen grüner machen" },
+    { "question": "Wie findet Lukas neue Freunde im Mauerpark?", "options": ["Durch Sport", "Durch das Gärtnern", "Durch das Internet", "Durch Musik"], "answer": "Durch das Gärtnern" },
+    { "question": "Warum besitzt Lukas kein eigenes Auto in Berlin?", "options": ["Er hat keinen Führerschein", "Autos sind zu teuer", "Wegen der Parkplatzsuche und der Umwelt", "Er mag keine Autos"], "answer": "Wegen der Parkplatzsuche und der Umwelt" },
+    { "question": "Welche Transportmittel nutzt Lukas stattdessen?", "options": ["Nur das Taxi", "Öffentliche Verkehrsmittel und E-Bikes", "Nur sein altes Fahrrad", "Er geht immer zu Fuß"], "answer": "Öffentliche Verkehrsmittel und E-Bikes" },
+    { "question": "Was wird in der Lokalzeitung über die Stadtplanung diskutiert?", "options": ["Mehr Parkplätze für Autos", "Straßen für Autos zu sperren", "Weniger Parks zu bauen", "Die U-Bahn zu schließen"], "answer": "Straßen für Autos zu sperren" },
+    { "question": "Wie denkt Lukas über Umweltschutz und Lebensstil?", "options": ["Es ist ihm egal", "Sie gehören untrennbar zusammen", "Umweltschutz ist zu anstrengend", "Er möchte wieder aufs Land ziehen"], "answer": "Sie gehören untrennbar zusammen" },
+    { "question": "Was bietet das Café an, in dem Lukas den Abend verbringt?", "options": ["Kostenloses Essen", "Nur Fleischgerichte", "Fair gehandelte Produkte", "Alkoholfreies Bier"], "answer": "Fair gehandelte Produkte" }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "id": "storie-015",
+  "title": "Farbe auf Beton",
+  "summary": "Lukas interviewt den Street-Art-Künstler 'Azul', der die grauen Wände Berlins in Kunstwerke verwandelt.",
+  "text": [
+    "Berlin ist weltweit für seine Street-Art-Szene bekannt. Einer der bekanntesten Künstler der Stadt nennt sich 'Azul'. Lukas traf ihn an der East Side Gallery, um mehr über seine Motivation zu erfahren. Azul versteht seine Kunst als einen Dialog mit der Stadtgesellschaft. Er nutzt keine Leinwände, sondern große Fassaden und Mauern, um seine Botschaften zu verbreiten. Für ihn ist die Straße die ehrlichste Galerie der Welt.",
+    "Azul beginnt seine Arbeit meistens in der Nacht oder am frühen Morgen, wenn die Stadt noch ruhig ist. Er arbeitet mit Sprühdosen, Schablonen und manchmal auch mit Kleister. Seine Motive sind oft politisch oder ökologisch geprägt; er möchte die Passanten zum Nachdenken anregen. Obwohl seine Kunst oft vergänglich ist – da sie übermalt oder vom Regen zerstört werden kann – liebt er diesen Prozess der ständigen Veränderung.",
+    "Lukas fragte ihn, ob Street Art nicht eigentlich Vandalismus sei. Azul erklärte differenziert, dass es einen großen Unterschied zwischen sinnlosen Schmierereien und durchdachter Kunst gebe. Er bittet oft Hausbesitzer um Erlaubnis, bevor er eine Wand gestaltet. Er glaubt, dass Kunst den öffentlichen Raum aufwertet und die Lebensqualität in grauen Betonvierteln verbessert. Für viele Berliner ist Azul ein Held, der Farbe in ihren grauen Alltag bringt.",
+    "In seinem Atelier, einem kleinen Kellerraum in Kreuzberg, entwirft Azul seine Skizzen. Er verbringt Wochen mit der Planung eines neuen Projekts. Lukas war beeindruckt von der Präzision und dem technischen Wissen, das hinter einem riesigen Wandbild steckt. Azul hofft, dass die Stadtverwaltung Street Art mehr fördert, anstatt sie nur als Problem zu sehen. Er sieht sich als Teil einer Bewegung, die Kunst für alle Menschen zugänglich macht, unabhängig von ihrem Einkommen."
+  ],
+  "vocab": [
+    { "term": "die Fassade", "type": "Nomen", "meaning_tr": "bina cephesi", "meaning_en": "facade", "example": "Eine bunte Fassade." },
+    { "term": "die Botschaft", "type": "Nomen", "meaning_tr": "mesaj", "meaning_en": "message", "example": "Eine wichtige Botschaft senden." },
+    { "term": "verbreiten", "type": "Verb", "meaning_tr": "yaymak", "meaning_en": "to spread", "example": "Nachrichten verbreiten." },
+    { "term": "die Schablone", "type": "Nomen", "meaning_tr": "şablon", "meaning_en": "stencil", "example": "Mit einer Schablone sprühen." },
+    { "term": "vergänglich", "type": "Adjektiv", "meaning_tr": "geçici, kalıcı olmayan", "meaning_en": "transient/ephemeral", "example": "Schönheit ist vergänglich." },
+    { "term": "anregen", "type": "Verb", "meaning_tr": "teşvik etmek, uyandırmak", "meaning_en": "to stimulate/encourage", "example": "Zum Denken anregen." },
+    { "term": "der Vandalismus", "type": "Nomen", "meaning_tr": "vandalizm", "meaning_en": "vandalism", "example": "Vandalismus kostet viel Geld." },
+    { "term": "aufwerten", "type": "Verb", "meaning_tr": "değer katmak", "meaning_en": "to upgrade/enhance", "example": "Ein Viertel aufwerten." },
+    { "term": "die Skizze", "type": "Nomen", "meaning_tr": "eskiz, taslak", "meaning_en": "sketch", "example": "Eine Skizze zeichnen." },
+    { "term": "unabhängig", "type": "Adjektiv", "meaning_tr": "bağımsız", "meaning_en": "independent", "example": "Unabhängig vom Preis." }
+  ],
+  "questions": [
+    { "question": "Wo traf Lukas den Künstler Azul?", "options": ["Im Museum", "An der East Side Gallery", "Im Supermarkt", "In der Schule"], "answer": "An der East Side Gallery" },
+    { "question": "Welche Werkzeuge nutzt Azul für seine Kunst?", "options": ["Nur Bleistifte", "Sprühdosen und Schablonen", "Einen Computer", "Wasserfarben"], "answer": "Sprühdosen und Schablonen" },
+    { "question": "Warum ist Azuls Kunst 'vergänglich'?", "options": ["Weil sie zu teuer ist", "Weil sie übermalt oder vom Regen zerstört werden kann", "Weil er sie sofort verkauft", "Weil er sie nicht mag"], "answer": "Weil sie übermalt oder vom Regen zerstört werden kann" },
+    { "question": "Was denkt Azul über den Unterschied zwischen Schmiererei und Kunst?", "options": ["Es gibt keinen Unterschied", "Kunst ist durchdacht und wertet den Raum auf", "Schmiererei ist besser", "Beides ist verboten"], "answer": "Kunst ist durchdacht und wertet den Raum auf" }
+  ]
+}

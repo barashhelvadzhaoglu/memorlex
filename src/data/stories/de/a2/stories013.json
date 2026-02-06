@@ -1,0 +1,42 @@
+{
+  "id": "storie-013",
+  "title": "Die Psychologie des Geldes",
+  "summary": "Ein Blick in den Alltag von Thomas, einem Finanzberater, und seine Tipps für ein stabiles Budget.",
+  "text": [
+    "Thomas ist Finanzberater und hilft Menschen dabei, ihre Ersparnisse sinnvoll anzulegen. Lukas hat Thomas bei einem Networking-Event in Berlin kennengelernt und war beeindruckt von seiner disziplinierten Lebensweise. Thomas glaubt, dass Erfolg mit Geld weniger mit Intelligenz als vielmehr mit dem täglichen Verhalten zu tun hat. Sein Tag beginnt immer mit einer Analyse der aktuellen Marktdaten, noch bevor er seinen ersten Kaffee trinkt.",
+    "Eine seiner wichtigsten Gewohnheiten ist das Führen eines Haushaltsbuchs. Obwohl er viel verdient, notiert er akribisch jede Ausgabe, egal wie klein sie ist. Er erklärt, dass viele Menschen den Überblick über ihre Finanzen verlieren, weil sie unbewusst zu viel Geld für Kleinigkeiten ausgeben. Thomas rät seinen Klienten immer, zuerst eine 'Notreserve' aufzubauen, bevor sie an riskante Investitionen denken. Diese finanzielle Sicherheit reduziert den Stress im Falle von unvorhersehbaren Ereignissen wie einer Autoreparatur.",
+    "Thomas ist kein Fan von extremem Konsum. Er kauft lieber hochwertige Produkte, die lange halten, anstatt ständig billige Dinge zu konsumieren. Er nennt das 'nachhaltiges Investieren in den Alltag'. In seiner Freizeit liest er viel über Wirtschaftspsychologie, um zu verstehen, warum Menschen oft irrational handeln, wenn es um Investitionen geht. Er stellt fest, dass Gier und Angst die größten Feinde eines klugen Anlegers sind. Geduld ist seiner Meinung nach die wichtigste Tugend an der Börse.",
+    "Trotz seiner Beschäftigung mit Zahlen vergisst Thomas nicht, dass Geld nur ein Mittel zum Zweck ist. Er nutzt einen Teil seines Einkommens, um zu reisen und neue Kulturen kennenzulernen, da diese Erfahrungen für ihn wertvoller sind als materielle Güter. Er empfiehlt jedem, frühzeitig mit dem Sparen zu beginnen, auch wenn es nur kleine Beträge sind. Durch den Zinseszinseffekt können über Jahrzehnte hinweg beeindruckende Summen entstehen. Für Thomas ist finanzielle Freiheit kein Ziel an sich, sondern die Möglichkeit, selbstbestimmt zu leben."
+  ],
+  "vocab": [
+    { "term": "die Ersparnis", "type": "Nomen", "meaning_tr": "tasarruf, birikim", "meaning_en": "savings", "example": "Seine Ersparnisse anlegen." },
+    { "term": "anlegen", "type": "Verb (trennbar)", "meaning_tr": "yatırım yapmak", "meaning_en": "to invest", "example": "Geld in Aktien anlegen." },
+    { "term": "diszipliniert", "type": "Adjektiv", "meaning_tr": "disiplinli", "meaning_en": "disciplined", "example": "Er führt ein diszipliniertes Leben." },
+    { "term": "die Analyse", "type": "Nomen", "meaning_tr": "analiz", "meaning_en": "analysis", "example": "Eine Analyse der Marktdaten." },
+    { "term": "akribisch", "type": "Adjektiv", "meaning_tr": "titiz, aşırı dikkatli", "meaning_en": "meticulous", "example": "Er arbeitet sehr akribisch." },
+    { "term": "die Ausgabe", "type": "Nomen", "meaning_tr": "harcama, gider", "meaning_en": "expense", "example": "Tägliche Ausgaben kontrollieren." },
+    { "term": "unvorhersehbar", "type": "Adjektiv", "meaning_tr": "öngörülemez", "meaning_en": "unforeseeable", "example": "Unvorhersehbare Kosten." },
+    { "term": "die Notreserve", "type": "Nomen", "meaning_tr": "acil durum fonu/yedeği", "meaning_en": "emergency reserve", "example": "Eine Notreserve für Krisen." },
+    { "term": "der Konsum", "type": "Nomen", "meaning_tr": "tüketim", "meaning_en": "consumption", "example": "Übermäßiger Konsum schadet." },
+    { "term": "irrational", "type": "Adjektiv", "meaning_tr": "mantık dışı", "meaning_en": "irrational", "example": "Irrationales Verhalten." },
+    { "term": "die Gier", "type": "Nomen", "meaning_tr": "açgözlülük", "meaning_en": "greed", "example": "Gier führt zu Fehlern." },
+    { "term": "der Anleger", "type": "Nomen", "meaning_tr": "yatırımcı", "meaning_en": "investor", "example": "Ein kluger Anleger wartet." },
+    { "term": "die Tugend", "type": "Nomen", "meaning_tr": "erdem", "meaning_en": "virtue", "example": "Geduld ist eine Tugend." },
+    { "term": "Mittel zum Zweck", "type": "Phrase", "meaning_tr": "amaca giden araç", "meaning_en": "means to an end", "example": "Geld ist nur ein Mittel zum Zweck." },
+    { "term": "materiell", "type": "Adjektiv", "meaning_tr": "maddi", "meaning_en": "material", "example": "Materielle Werte sind nicht alles." },
+    { "term": "der Zinseszinseffekt", "type": "Nomen", "meaning_tr": "bileşik faiz etkisi", "meaning_en": "compound interest effect", "example": "Vom Zinseszinseffekt profitieren." },
+    { "term": "selbstbestimmt", "type": "Adjektiv", "meaning_tr": "kendi kararlarını veren", "meaning_en": "self-determined", "example": "Ein selbstbestimmtes Leben führen." },
+    { "term": "notieren", "type": "Verb", "meaning_tr": "not etmek", "meaning_en": "to note down", "example": "Wichtige Informationen notieren." },
+    { "term": "die Börse", "type": "Nomen", "meaning_tr": "borsa", "meaning_en": "stock market", "example": "Aktien an der Börse kaufen." }
+  ],
+  "questions": [
+    { "question": "Was ist Thomas von Beruf?", "options": ["Grafikdesigner", "Finanzberater", "Lehrer", "Koch"], "answer": "Finanzberater" },
+    { "question": "Womit beginnt Thomas seinen Tag?", "options": ["Mit Sport", "Mit einer Analyse der Marktdaten", "Mit Kochen", "Mit Fernsehen"], "answer": "Mit einer Analyse der Marktdaten" },
+    { "question": "Welche wichtige Gewohnheit hat Thomas?", "options": ["Er isst nur Gemüse", "Er führt ein Haushaltsbuch", "Er reist jede Woche", "Er kauft immer das billigste Produkt"], "answer": "Er führt ein Haushaltsbuch" },
+    { "question": "Was rät Thomas seinen Klienten zuerst?", "options": ["Aktien zu kaufen", "Eine Notreserve aufzubauen", "Ein Auto zu mieten", "Gar nichts zu sparen"], "answer": "Eine Notreserve aufzubauen" },
+    { "question": "Was denkt Thomas über Konsum?", "options": ["Er liebt billige Produkte", "Er bevorzugt hochwertige, langlebige Produkte", "Er kauft jeden Tag neue Kleidung", "Er konsumiert gar nichts"], "answer": "Er bevorzugt hochwertige, langlebige Produkte" },
+    { "question": "Was sind laut Thomas die größten Feinde eines Anlegers?", "options": ["Geduld und Zeit", "Gier und Angst", "Banken und Steuern", "Freunde und Familie"], "answer": "Gier und Angst" },
+    { "question": "Wofür nutzt Thomas einen Teil seines Einkommens?", "options": ["Für teure Autos", "Um zu reisen ve yeni kültürler tanımak", "Für Goldketten", "Für Glücksspiele"], "answer": "Um zu reisen ve yeni kültürler tanımak" },
+    { "question": "Was ermöglicht finanzielle Freiheit für Thomas?", "options": ["Dass man nicht mehr schlafen muss", "Ein selbstbestimmtes Leben", "Dass man alle Museen kaufen kann", "Dass man berühmt wird"], "answer": "Ein selbstbestimmtes Leben" }
+  ]
+}

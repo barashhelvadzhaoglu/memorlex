@@ -1,0 +1,29 @@
+{
+  "id": "storie-019",
+  "title": "Code für die Welt von morgen",
+  "summary": "Julia ist Software-Entwicklerin und erklärt Lukas, warum Programmieren heute eine Grundvoraussetzung für viele Berufe ist.",
+  "text": [
+    "Julia arbeitet in einem Berliner Start-up, das Apps für nachhaltigen Konsum entwickelt. Lukas hat Julia bei einem Workshop über digitale Ethik kennengelernt. Für Julia ist Code eine Sprache, mit der man Probleme lösen und die Welt verbessern kann. Sie verbringt ihren Tag damit, Algorithmen zu optimieren und neue Funktionen zu implementieren. Sie arbeitet oft im 'Homeoffice', da sie für ihre Arbeit nur einen schnellen Internetanschluss und einen leistungsstarken Laptop benötigt.",
+    "Sie erklärt Lukas, dass Programmieren viel mit Logik und Kreativität zu tun hat. 'Es ist wie Puzzeln', sagt sie, 'man sucht immer nach dem effizientesten Weg, um ein Ziel zu erreichen.' Julia betont auch die Bedeutung von 'Open Source'. Das bedeutet, dass Software-Code öffentlich zugänglich ist, damit Entwickler weltweit gemeinsam daran arbeiten können. Diese Transparenz fördert Innovationen und verhindert Monopole in der Tech-Branche.",
+    "Trotz der Vorteile sieht Julia auch kritische Aspekte der Digitalisierung, insbesondere die künstliche Intelligenz (KI). Sie diskutiert mit Lukas darüber, wie KI den Arbeitsmarkt verändern wird. Viele einfache Tätigkeiten könnten in Zukunft automatisiert werden, was sowohl Chancen als auch Risiken birgt. Julia findet es wichtig, dass Menschen die Technik verstehen, damit sie nicht von ihr beherrscht werden. Sie engagiert sich deshalb in einem Verein, der Programmierkurse für Frauen anbietet.",
+    "Lukas ist fasziniert von Julias logischer Denkweise. Er versteht jetzt besser, dass hinter jeder App, die er täglich nutzt, tausende Zeilen Code und die harte Arbeit von Entwicklern stecken. Julia motiviert Lukas, sich Grundkenntnisse in HTML und CSS anzueignen, da dies auch für seine Arbeit als Grafikdesigner immer wichtiger wird. Lukas erkennt, dass die Grenzen zwischen Design und Technologie immer mehr verschwimmen."
+  ],
+  "vocab": [
+    { "term": "die Grundvoraussetzung", "type": "Nomen", "meaning_tr": "temel şart", "meaning_en": "prerequisite", "example": "Deutschkenntnisse sind eine Grundvoraussetzung." },
+    { "term": "die Ethik", "type": "Nomen", "meaning_tr": "etik", "meaning_en": "ethics", "example": "Digitale Ethik ist wichtig." },
+    { "term": "der Algorithmus", "type": "Nomen", "meaning_tr": "algoritma", "meaning_en": "algorithm", "example": "Algorithmen steuern die Suche." },
+    { "term": "leistungsstark", "type": "Adjektiv", "meaning_tr": "yüksek performanslı", "meaning_en": "powerful/high-performance", "example": "Ein leistungsstarker Motor." },
+    { "term": "effizient", "type": "Adjektiv", "meaning_tr": "verimli", "meaning_en": "efficient", "example": "Effiziente Lösungen finden." },
+    { "term": "das Monopol", "type": "Nomen", "meaning_tr": "tekel", "meaning_en": "monopoly", "example": "Ein Monopol verhindern." },
+    { "term": "die künstliche Intelligenz (KI)", "type": "Nomen", "meaning_tr": "yapay zeka", "meaning_en": "artificial intelligence", "example": "KI verändert die Welt." },
+    { "term": "automatisieren", "type": "Verb", "meaning_tr": "otomatikleştirmek", "meaning_en": "to automate", "example": "Prozesse automatisieren." },
+    { "term": "beherrschen", "type": "Verb", "meaning_tr": "hükmetmek/ustalaşmak", "meaning_en": "to master/dominate", "example": "Eine Sprache beherrschen." },
+    { "term": "verschwimmen", "type": "Verb", "meaning_tr": "bulanıklaşmak/iç içe geçmek", "meaning_en": "to blur/merge", "example": "Grenzen verschwimmen." }
+  ],
+  "questions": [
+    { "question": "Was entwickelt das Start-up, in dem Julia arbeitet?", "options": ["Videospiele", "Apps für nachhaltigen Konsum", "Schnelle Autos", "Kühlschränke"], "answer": "Apps für nachhaltigen Konsum" },
+    { "question": "Warum kann Julia oft im Homeoffice arbeiten?", "options": ["Weil sie keine Kollegen mag", "Weil sie nur Internet und einen Laptop braucht", "Weil das Büro zu klein ist", "Weil sie krank ist"], "answer": "Weil sie nur Internet und einen Laptop braucht" },
+    { "question": "Was bedeutet 'Open Source'?", "options": ["Die Software ist sehr teuer", "Der Code ist öffentlich zugänglich", "Niemand darf den Code sehen", "Die Software funktioniert nur nachts"], "answer": "Der Code ist öffentlich zugänglich" },
+    { "question": "Was möchte Julia durch Programmierkurse für Frauen erreichen?", "options": ["Sie möchte Geld verdienen", "Sie möchte, dass mehr Frauen Technik verstehen", "Sie möchte berühmte Freunde haben", "Sie hat keine Ziele"], "answer": "Sie möchte, dass mehr Frauen Technik verstehen" }
+  ]
+}

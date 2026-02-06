@@ -1,0 +1,29 @@
+{
+  "id": "storie-017",
+  "title": "Helden des Alltags",
+  "summary": "Ein Tag auf der Feuerwache mit Stefan, der erklärt, dass sein Job viel mehr als nur Feuerlöschen ist.",
+  "text": [
+    "Wenn die Sirene ertönt, muss alles ganz schnell gehen. Stefan ist Feuerwehrmann in Berlin-Mitte und trägt eine große Verantwortung. Lukas hat die Feuerwache besucht, um ein Plakat für einen 'Tag der offenen Tür' zu entwerfen. Dabei lernte er, dass Stefan und seine Kollegen innerhalb von wenigen Minuten einsatzbereit sein müssen. Die Ausrüstung ist schwer, und die körperliche Belastung im Einsatz ist oft extrem hoch.",
+    "Stefan erklärt Lukas, dass Brände heute seltener sind als früher. Die meisten Einsätze der Berliner Feuerwehr sind technische Hilfeleistungen oder medizinische Notfälle. Sie befreien Menschen nach Autounfällen, helfen bei Wasserschäden oder retten Tiere aus gefährlichen Situationen. Stefan betont, dass Teamarbeit lebenswichtig ist. In einer Gefahrensituation muss man sich blind auf seine Kollegen verlassen können, da Fehler tödliche Folgen haben können.",
+    "Trotz der Gefahr liebt Stefan seinen Beruf. Er findet es erfüllend, Menschen in Not zu helfen und einen direkten Beitrag zur Sicherheit der Stadt zu leisten. Er berichtet Lukas aber auch von der mentalen Belastung. Man sieht oft schlimme Dinge, die man verarbeiten muss. Deshalb gibt es auf der Wache regelmäßige Gespräche mit Psychologen und einen starken Zusammenhalt unter den Kollegen. Humor hilft ihnen oft, mit dem Stress umzugehen.",
+    "Lukas war besonders beeindruckt von der modernen Technik auf der Wache. Es gibt Drohnen mit Wärmebildkameras, die bei der Suche nach Vermissten helfen, und hochmoderne Löschfahrzeuge. Stefan gab Lukas einen wichtigen Rat mit auf den Weg: Brandschutz beginnt zu Hause mit funktionierenden Rauchmeldern. Lukas kaufte sich noch am selben Tag zwei Rauchmelder für seine Wohnung, da ihm klar wurde, wie schnell ein kleiner Fehler zu einer großen Katastrophe führen kann."
+  ],
+  "vocab": [
+    { "term": "ertönen", "type": "Verb", "meaning_tr": "sesi duyulmak/çalmak", "meaning_en": "to sound/ring out", "example": "Die Sirene ertönt laut." },
+    { "term": "einsatzbereit", "type": "Adjektiv", "meaning_tr": "göreve hazır", "meaning_en": "ready for action", "example": "Das Team ist sofort einsatzbereit." },
+    { "term": "die Ausrüstung", "type": "Nomen", "meaning_tr": "ekipman, donanım", "meaning_en": "equipment", "example": "Die Ausrüstung ist sehr schwer." },
+    { "term": "die Hilfeleistung", "type": "Nomen", "meaning_tr": "yardım faaliyeti", "meaning_en": "assistance", "example": "Technische Hilfeleistung nach Unfällen." },
+    { "term": "lebenswichtig", "type": "Adjektiv", "meaning_tr": "hayati önemde", "meaning_en": "vital", "example": "Wasser ist lebenswichtig." },
+    { "term": "erfüllend", "type": "Adjektiv", "meaning_tr": "tatmin edici", "meaning_en": "fulfilling", "example": "Ein erfüllender Beruf." },
+    { "term": "verarbeiten", "type": "Verb", "meaning_tr": "işlemek, sindirmek (duygusal)", "meaning_en": "to process", "example": "Erlebnisse psychisch verarbeiten." },
+    { "term": "die Wärmebildkamera", "type": "Nomen", "meaning_tr": "termal kamera", "meaning_en": "thermal imaging camera", "example": "Die Kamera findet Personen im Rauch." },
+    { "term": "vermisst", "type": "Adjektiv", "meaning_tr": "kayıp", "meaning_en": "missing", "example": "Eine vermisste Person suchen." },
+    { "term": "der Rauchmelder", "type": "Nomen", "meaning_tr": "duman dedektörü", "meaning_en": "smoke detector", "example": "Ein Rauchmelder rettet Leben." }
+  ],
+  "questions": [
+    { "question": "Was ist Stefans Beruf?", "options": ["Polizist", "Feuerwehrmann", "Arzt", "Pilot"], "answer": "Feuerwehrmann" },
+    { "question": "Was sind die meisten Einsätze der Feuerwehr heute?", "options": ["Nur große Brände", "Technische Hilfeleistungen und medizinische Notfälle", "Katzen aus Bäumen retten", "Autos waschen"], "answer": "Technische Hilfeleistungen und medizinische Notfälle" },
+    { "question": "Was ist in Gefahrensituationen lebenswichtig?", "options": ["Viel Geld", "Teamarbeit und Vertrauen", "Ein schnelles Auto", "Ein lautes Telefon"], "answer": "Teamarbeit und Vertrauen" },
+    { "question": "Was kaufte Lukas für seine Wohnung?", "options": ["Ein neues Sofa", "Zwei Rauchmelder", "Einen Fernseher", "Ein Bild"], "answer": "Zwei Rauchmelder" }
+  ]
+}

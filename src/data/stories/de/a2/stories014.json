@@ -1,0 +1,29 @@
+{
+  "id": "storie-014",
+  "title": "Die Hüterin der Geschichten",
+  "summary": "Ein Porträt über Frau Wagner, die in einer Berliner Bibliothek arbeitet und die digitale Transformation der Literatur erlebt.",
+  "text": [
+    "Frau Wagner arbeitet seit über dreißig Jahren in einer der größten öffentlichen Bibliotheken Berlins. Lukas besucht diesen Ort regelmäßig, um in Ruhe an seinen Designprojekten zu arbeiten oder Fachliteratur auszuleihen. Für Frau Wagner ist die Bibliothek nicht nur ein Ort für Bücher, sondern ein soziales Zentrum für die Nachbarschaft. Ihr Arbeitstag beginnt mit dem Sortieren der zurückgegebenen Medien und der Aktualisierung des digitalen Katalogs.",
+    "Obwohl viele Menschen heute E-Books lesen, stellt Frau Wagner fest, dass das gedruckte Buch immer noch eine große Anziehungskraft besitzt. Besonders am Wochenende kommen viele Familien, um Zeit in der Kinderabteilung zu verbringen. Frau Wagner organisiert regelmäßig Lesungen und Workshops, um die Lesekompetenz von Kindern zu fördern. Sie ist überzeugt, dass der Zugang zu Bildung für alle Menschen kostenlos und unkompliziert sein sollte.",
+    "Die Digitalisierung hat ihren Beruf stark verändert. Früher verbrachte sie viel Zeit mit Karteikarten, heute erklärt sie den Besuchern, wie sie Apps nutzen oder online Datenbanken recherchieren können. Trotz der modernen Technik legt sie großen Wert auf die persönliche Beratung. Sie liebt es, wenn sie jemandem ein Buch empfehlen kann, das dessen Leben beeinflusst oder inspiriert. Für sie ist jeder Leser eine neue Entdeckungsreise.",
+    "Am Abend, wenn es in den großen Räumen still wird, genießt Frau Wagner die besondere Atmosphäre zwischen den hohen Regalen. Sie weiß, dass Bibliotheken im digitalen Zeitalter ihre Rolle neu definieren müssen. Dennoch ist sie optimistisch, dass physische Orte der Begegnung in einer immer virtuelleren Welt an Bedeutung gewinnen werden. Lukas schätzt Frau Wagners Wissen sehr und betrachtet sie als das kulturelle Gedächtnis des Viertels."
+  ],
+  "vocab": [
+    { "term": "ausleihen", "type": "Verb", "meaning_tr": "ödünç almak", "meaning_en": "to borrow", "example": "Ein Buch aus der Bibliothek ausleihen." },
+    { "term": "die Anziehungskraft", "type": "Nomen", "meaning_tr": "çekim gücü, cazibe", "meaning_en": "attraction", "example": "Berlin hat eine große Anziehungskraft." },
+    { "term": "die Lesekompetenz", "type": "Nomen", "meaning_tr": "okuma yetkinliği", "meaning_en": "reading literacy", "example": "Die Lesekompetenz fördern." },
+    { "term": "der Zugang", "type": "Nomen", "meaning_tr": "erişim", "meaning_en": "access", "example": "Zugang zum Internet." },
+    { "term": "die Karteikarte", "type": "Nomen", "meaning_tr": "indeks kartı", "meaning_en": "index card", "example": "Früher nutzte man Karteikarten." },
+    { "term": "recherchieren", "type": "Verb", "meaning_tr": "araştırma yapmak", "meaning_en": "to research", "example": "Informationen online recherchieren." },
+    { "term": "die Beratung", "type": "Nomen", "meaning_tr": "danışmanlık", "meaning_en": "advice/consultation", "example": "Eine gute Beratung ist wichtig." },
+    { "term": "das Zeitalter", "type": "Nomen", "meaning_tr": "çağ, devir", "meaning_en": "age/era", "example": "Im digitalen Zeitalter." },
+    { "term": "physisch", "type": "Adjektiv", "meaning_tr": "fiziksel", "meaning_en": "physical", "example": "Ein physischer Ort." },
+    { "term": "das Gedächtnis", "type": "Nomen", "meaning_tr": "hafıza", "meaning_en": "memory", "example": "Ein gutes Gedächtnis haben." }
+  ],
+  "questions": [
+    { "question": "Wie lange arbeitet Frau Wagner schon in der Bibliothek?", "options": ["Seit einem Jahr", "Seit über dreißig Jahren", "Seit gestern", "Seit zehn Jahren"], "answer": "Seit über dreißig Jahren" },
+    { "question": "Was macht Frau Wagner zu Beginn ihres Arbeitstages?", "options": ["Sie kocht Kaffee", "Sie sortiert zurückgegebene Medien", "Sie liest ein ganzes Buch", "Sie geht spazieren"], "answer": "Sie sortiert zurückgegebene Medien" },
+    { "question": "Was organisiert Frau Wagner für Kinder?", "options": ["Fußballspiele", "Lesungen und Workshops", "Kochkurse", "Tanzabende"], "answer": "Lesungen und Workshops" },
+    { "question": "Wie hat die Digitalisierung ihren Beruf verändert?", "options": ["Gar nicht", "Sie nutzt jetzt Apps und digitale Datenbanken", "Es gibt keine Bücher mehr", "Sie muss nicht mehr arbeiten"], "answer": "Sie nutzt jetzt Apps und digitale Datenbanken" }
+  ]
+}

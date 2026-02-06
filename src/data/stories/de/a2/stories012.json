@@ -1,0 +1,42 @@
+{
+  "id": "storie-012",
+  "title": "Ein Herz für Exoten",
+  "summary": "Sarah arbeitet als Tierpflegerin im Berliner Zoo und kümmert sich um gefährdete Arten.",
+  "text": [
+    "Sarah hat einen Beruf, um den sie viele beneiden: Sie arbeitet als Tierpflegerin im Berliner Zoo. Lukas kennt Sarah aus einem Sportverein und ist immer fasziniert von ihren Erzählungen. Ihr Arbeitstag beginnt meistens bei Sonnenaufgang, noch bevor die ersten Besucher durch die Tore kommen. Ihre Hauptaufgabe besteht nicht nur darin, die Tiere zu füttern, sondern auch deren Verhalten genau zu beobachten, um Krankheiten frühzeitig zu erkennen.",
+    "Besonders stolz ist Sarah auf ihre Arbeit mit den Roten Pandas. Diese Tiere sind in freier Wildbahn stark gefährdet, weshalb Zoos eine wichtige Rolle beim Artenschutz spielen. Sarah bereitet täglich spezielle Futtermischungen vor und versteckt diese oft in Gehegen, um den natürlichen Jagdinstinkt der Tiere zu fördern. Diese Art der 'Beschäftigung' ist essenziell für das psychische Wohlbefinden der Zoobewohner, damit sie nicht träge werden.",
+    "Der Beruf erfordert viel körperliche Kraft und Geduld. Sarah muss oft schwere Säcke tragen und die Gehege gründlich reinigen, egal ob es regnet oder schneit. Zudem muss sie über ein umfangreiches Wissen über Biologie und Tiermedizin verfügen. Obwohl sie eine tiefe Bindung zu vielen Tieren aufgebaut hat, betont sie immer wieder, dass es sich um Wildtiere handelt, die Respekt und Distanz benötigen. Sicherheit steht an erster Stelle, besonders bei der Arbeit mit Raubtieren.",
+    "Nach Feierabend engagiert sich Sarah oft ehrenamtlich in Projekten zum Naturschutz. Sie ist überzeugt, dass jeder Mensch durch sein Verhalten die Umwelt beeinflussen kann. Im Zoo gibt sie regelmäßig Führungen für Schulkinder, um deren Bewusstsein für die Vielfalt der Natur zu schärfen. Für Sarah ist ihr Job kein gewöhnlicher Broterwerb, sondern eine Berufung, die ihr jeden Tag das Gefühl gibt, etwas Sinnvolles für unseren Planeten zu tun."
+  ],
+  "vocab": [
+    { "term": "beneiden", "type": "Verb", "meaning_tr": "imrenmek, kıskanmak", "meaning_en": "to envy", "example": "Ich beneide dich um deinen Urlaub." },
+    { "term": "die Erzählung", "type": "Nomen", "meaning_tr": "anlatı, hikaye", "meaning_en": "narrative/story", "example": "Ihre Erzählungen sind spannend." },
+    { "term": "frühzeitig", "type": "Adjektiv", "meaning_tr": "erkenden", "meaning_en": "early/at an early stage", "example": "Probleme frühzeitig lösen." },
+    { "term": "die Wildbahn", "type": "Nomen", "meaning_tr": "vahşi doğa", "meaning_en": "wildlife", "example": "Tiere in freier Wildbahn." },
+    { "term": "gefährdet", "type": "Adjektiv", "meaning_tr": "tehlike altında", "meaning_en": "endangered", "example": "Pandas sind stark gefährdet." },
+    { "term": "der Artenschutz", "type": "Nomen", "meaning_tr": "tür koruması", "meaning_en": "species protection", "example": "Zoos helfen beim Artenschutz." },
+    { "term": "das Gehege", "type": "Nomen", "meaning_tr": "hayvan barınağı/çitli alan", "meaning_en": "enclosure", "example": "Das Gehege muss sauber sein." },
+    { "term": "fördern", "type": "Verb", "meaning_tr": "teşvik etmek, desteklemek", "meaning_en": "to promote/encourage", "example": "Talente frühzeitig fördern." },
+    { "term": "essenziell", "type": "Adjektiv", "meaning_tr": "esas, temel", "meaning_en": "essential", "example": "Wasser ist essenziell für das Leben." },
+    { "term": "das Wohlbefinden", "type": "Nomen", "meaning_tr": "refah, iyi hissetme hali", "meaning_en": "well-being", "example": "Sport steigert das Wohlbefinden." },
+    { "term": "träge", "type": "Adjektiv", "meaning_tr": "hantal, uyuşuk", "meaning_en": "sluggish/lethargic", "example": "Nach dem Essen fühle ich mich träge." },
+    { "term": "umfangreich", "type": "Adjektiv", "meaning_tr": "kapsamlı", "meaning_en": "extensive/comprehensive", "example": "Ein umfangreiches Projekt." },
+    { "term": "die Bindung", "type": "Nomen", "meaning_tr": "bağ, ilişki", "meaning_en": "bond/connection", "example": "Die Bindung zwischen Mutter und Kind." },
+    { "term": "ehrenamtlich", "type": "Adjektiv", "meaning_tr": "gönüllü", "meaning_en": "voluntary/honorary", "example": "Er arbeitet ehrenamtlich im Verein." },
+    { "term": "beeinflussen", "type": "Verb", "meaning_tr": "etkilemek", "meaning_en": "to influence", "example": "Das Wetter beeinflusst meine Laune." },
+    { "term": "schärfen", "type": "Verb", "meaning_tr": "keskinleştirmek (bilinç vb.)", "meaning_en": "to sharpen", "example": "Das Bewusstsein für Probleme schärfen." },
+    { "term": "der Broterwerb", "type": "Nomen", "meaning_tr": "geçim kaynağı", "meaning_en": "livelihood", "example": "Arbeit dient dem Broterwerb." },
+    { "term": "die Berufung", "type": "Nomen", "meaning_tr": "içsel çağrı/ideal meslek", "meaning_en": "vocation/calling", "example": "Arzt zu sein ist eine Berufung." },
+    { "term": "das Raubtier", "type": "Nomen", "meaning_tr": "yırtıcı hayvan", "meaning_en": "predator", "example": "Löwen sind Raubtiere." }
+  ],
+  "questions": [
+    { "question": "Wo arbeitet Sarah?", "options": ["In einer Schule", "Im Berliner Zoo", "In einem Krankenhaus", "In einer Bank"], "answer": "Im Berliner Zoo" },
+    { "question": "Was ist Sarahs wichtigste Aufgabe neben dem Füttern?", "options": ["Eintrittskarten verkaufen", "Das Verhalten der Tiere beobachten", "Fotos machen", "Besucher führen"], "answer": "Das Verhalten der Tiere beobachten" },
+    { "question": "Warum spielen Zoos eine wichtige Rolle beim Artenschutz?", "options": ["Weil sie viel Geld verdienen", "Weil sie gefährdete Arten schützen", "Weil sie im Zentrum liegen", "Weil sie groß sind"], "answer": "Weil sie gefährdete Arten schützen" },
+    { "question": "Was macht Sarah, um den Jagdinstinkt der Pandas zu fördern?", "options": ["Sie spielt Musik", "Sie versteckt das Futter im Gehege", "Sie kauft Spielzeug", "Nichts"], "answer": "Sie versteckt das Futter im Gehege" },
+    { "question": "Welche Eigenschaften erfordert Sarahs Beruf?", "options": ["Nur Computerkenntnisse", "Viel körperliche Kraft und Geduld", "Gutes Kochen", "Schnelles Autofahren"], "answer": "Viel körperliche Kraft und Geduld" },
+    { "question": "Wie sieht Sarah die Beziehung zu den Wildtieren?", "options": ["Sie sind wie Haustiere", "Sie benötigen Respekt und Distanz", "Sie sind gefährlich und böse", "Man sollte sie ignorieren"], "answer": "Sie benötigen Respekt und Distanz" },
+    { "question": "Was macht Sarah ehrenamtlich?", "options": ["Sie arbeitet im Supermarkt", "Sie engagiert sich in Naturschutzprojekten", "Sie lernt Spanisch", "Sie geht joggen"], "answer": "Sie engagiert sich in Naturschutzprojekten" },
+    { "question": "Warum gibt Sarah Führungen für Schulkinder?", "options": ["Um Geld zu sammeln", "Um ihr Bewusstsein für die Natur zu schärfen", "Um berühmt zu werden", "Weil sie Kinder mag"], "answer": "Um ihr Bewusstsein für die Natur zu schärfen" }
+  ]
+}

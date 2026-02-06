@@ -1,0 +1,29 @@
+{
+  "id": "storie-016",
+  "title": "Visionen aus Glas und Stahl",
+  "summary": "Lukas besucht das Büro eines Architekten, der an nachhaltigen Wohnprojekten für die Zukunft Berlins arbeitet.",
+  "text": [
+    "Berlin wächst rasant, und deshalb ist neuer Wohnraum dringend erforderlich. Lukas hat die Gelegenheit, das Büro von Herrn Bergmann zu besuchen, einem Architekten, der sich auf nachhaltiges Bauen spezialisiert hat. Das Büro ist hell, voller Modelle und großer Bildschirme. Herr Bergmann erklärt Lukas, dass moderne Architektur heute viel mehr leisten muss als nur gut auszusehen; sie muss energieeffizient und sozial verträglich sein.",
+    "Ein aktuelles Projekt von Herrn Bergmann ist ein Wohnhaus aus Holz. Holz als Baustoff ist ökologisch sinnvoll, da es CO2 speichert und ein gesundes Raumklima schafft. Lukas lernt, dass die Planung eines solchen Gebäudes extrem komplex ist. Man muss Brandschutzregeln, statische Anforderungen und die Wünsche der zukünftigen Bewohner berücksichtigen. Herr Bergmann nutzt modernste Software, um das Licht und die Belüftung des Hauses zu simulieren.",
+    "Besonders wichtig ist dem Architekten die Begrünung. Er plant vertikale Gärten an den Fassaden und Gemeinschaftsgärten auf dem Dach. Diese Maßnahmen sollen helfen, die Hitze in der Stadt im Sommer zu reduzieren und die Biodiversität zu fördern. Herr Bergmann glaubt, dass die Trennung von Natur und Stadt aufgehoben werden muss. Er möchte Orte schaffen, an denen Menschen sich wohlfühlen und gerne Zeit miteinander verbringen.",
+    "Lukas ist fasziniert von der Verantwortung, die ein Architekt trägt. Ein Gebäude bleibt oft für Jahrzehnte oder sogar Jahrhunderte bestehen und prägt das Gesicht einer Stadt. Herr Bergmann ermutigt Lukas, in seinen eigenen Grafikdesigns auch immer die ökologische Perspektive einzunehmen. Nach dem Gespräch sieht Lukas die Häuser in seiner Straße mit ganz anderen Augen und achtet viel mehr auf Details und Materialien."
+  ],
+  "vocab": [
+    { "term": "nachhaltig", "type": "Adjektiv", "meaning_tr": "sürdürülebilir", "meaning_en": "sustainable", "example": "Nachhaltiges Bauen schont die Umwelt." },
+    { "term": "energieeffizient", "type": "Adjektiv", "meaning_tr": "enerji tasarruflu", "meaning_en": "energy-efficient", "example": "Ein energieeffizientes Haus." },
+    { "term": "der Baustoff", "type": "Nomen", "meaning_tr": "yapı malzemesi", "meaning_en": "building material", "example": "Holz ist ein natürlicher Baustoff." },
+    { "term": "der Brandschutz", "type": "Nomen", "meaning_tr": "yangın koruması", "meaning_en": "fire protection", "example": "Regeln für den Brandschutz beachten." },
+    { "term": "berücksichtigen", "type": "Verb", "meaning_tr": "dikkate almak", "meaning_en": "to consider/take into account", "example": "Wünsche der Kunden berücksichtigen." },
+    { "term": "die Begrünung", "type": "Nomen", "meaning_tr": "yeşillendirme", "meaning_en": "greening", "example": "Die Begrünung der Dächer." },
+    { "term": "die Biodiversität", "type": "Nomen", "meaning_tr": "biyoçeşitlilik", "meaning_en": "biodiversity", "example": "Biodiversität in der Stadt fördern." },
+    { "term": "bestehen bleiben", "type": "Verb", "meaning_tr": "varlığını sürdürmek", "meaning_en": "to remain/persist", "example": "Das Gebäude bleibt lange bestehen." },
+    { "term": "das Raumklima", "type": "Nomen", "meaning_tr": "oda iklimi/havası", "meaning_en": "indoor climate", "example": "Pflanzen verbessern das Raumklima." },
+    { "term": "vertikal", "type": "Adjektiv", "meaning_tr": "dikey", "meaning_en": "vertical", "example": "Ein vertikaler Garten." }
+  ],
+  "questions": [
+    { "question": "Worauf hat sich der Architekt Herr Bergmann spezialisiert?", "options": ["Auf den Bau von Brücken", "Auf nachhaltiges Bauen", "Auf den Abriss alter Häuser", "Auf das Malen von Bildern"], "answer": "Auf nachhaltiges Bauen" },
+    { "question": "Warum ist Holz ein guter Baustoff?", "options": ["Weil es billig ist", "Weil es CO2 speichert und gesund ist", "Weil es transparent ist", "Weil es nicht brennt"], "answer": "Weil es CO2 speichert und gesund ist" },
+    { "question": "Welche Funktion haben die Gärten auf dem Dach?", "options": ["Sie sind nur für Tiere", "Sie reduzieren Hitze und fördern Biodiversität", "Dort darf man nicht hingehen", "Dort werden Autos geparkt"], "answer": "Sie reduzieren Hitze und fördern Biodiversität" },
+    { "question": "Wie sieht Lukas die Häuser nach seinem Besuch?", "options": ["Er findet sie langweilig", "Er sieht sie mit ganz anderen Augen", "Er möchte alle Häuser verkaufen", "Er achtet nur auf die Preise"], "answer": "Er sieht sie mit ganz anderen Augen" }
+  ]
+}

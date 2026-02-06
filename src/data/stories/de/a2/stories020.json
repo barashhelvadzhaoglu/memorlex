@@ -1,0 +1,29 @@
+{
+  "id": "storie-020",
+  "title": "Ein Jahr Berlin: Bilanz und Ausblick",
+  "summary": "Lukas blickt auf sein erstes Jahr in der Hauptstadt zurück und stellt fest, wie sehr er sich verändert hat.",
+  "text": [
+    "Heute feiert Lukas sein einjähriges Jubiläum in Berlin. Er sitzt in seinem Lieblingscafé und blickt auf die vergangenen zwölf Monate zurück. Er erinnert sich noch genau an seine Ankunft: Damals fühlte er sich in der riesigen Metropole oft verloren und überwältigt. Er kannte niemanden, seine Deutschkenntnisse waren unsicher und er war nervös wegen seines neuen Jobs als Grafikdesigner. Doch heute sieht alles ganz anders aus.",
+    "In diesem Jahr hat Lukas viel gelernt. Er hat nicht nur beruflich Fortschritte gemacht, sondern auch ein Netzwerk aus wunderbaren Menschen aufgebaut: Sarah, die Tierpflegerin; Thomas, der Finanzberater; Azul, der Künstler; und seine nette Nachbarin Frau Müller. Durch diese Begegnungen hat er Berlin aus vielen verschiedenen Perspektiven kennengelernt. Er hat verstanden, dass die Stadt trotz ihrer Anonymität voller Wärme und Hilfsbereitschaft steckt, wenn man bereit ist, auf andere zuzugehen.",
+    "Lukas hat auch seine eigenen Gewohnheiten verändert. Er lebt gesünder, nutzt fast nur noch das Fahrrad oder die Bahn und trennt seinen Müll akribisch. Er ist selbstbewusster geworden und traut sich nun, auch schwierige Projekte in Angriff zu nehmen. Seine Angst vor Fehlern ist einer Neugier auf neue Erfahrungen gewichen. Berlin hat ihn gelehrt, dass Veränderung nichts Schlechtes ist, sondern eine Chance für persönliches Wachstum darstellt.",
+    "Für das nächste Jahr hat Lukas große Pläne. Er möchte ein eigenes Design-Projekt starten, das Kunst und Technologie verbindet, vielleicht sogar in Zusammenarbeit mit Azul und Julia. Er will noch tiefer in die Kultur der Stadt eintauchen und vielleicht einen Marathon mitlaufen. Als er sein Café verlässt, atmet er die kalte Berliner Luft tief ein und lächelt. Er fühlt sich hier nicht mehr wie ein Fremder. Berlin ist für ihn zu einer echten Heimat geworden, und er freut sich auf alles, was noch kommt."
+  ],
+  "vocab": [
+    { "term": "das Jubiläum", "type": "Nomen", "meaning_tr": "yıl dönümü", "meaning_en": "anniversary", "example": "Ein zehnjähriges Dienstjubiläum." },
+    { "term": "die Bilanz", "type": "Nomen", "meaning_tr": "bilanço, sonuç", "meaning_en": "balance/summary", "example": "Eine positive Bilanz ziehen." },
+    { "term": "der Ausblick", "type": "Nomen", "meaning_tr": "bakış/gelecek beklentisi", "meaning_en": "outlook/view", "example": "Ein optimistischer Ausblick." },
+    { "term": "verloren", "type": "Adjektiv", "meaning_tr": "kaybolmuş", "meaning_en": "lost", "example": "Sich in der Stadt verloren fühlen." },
+    { "term": "das Netzwerk", "type": "Nomen", "meaning_tr": "ağ, network", "meaning_en": "network", "example": "Ein soziales Netzwerk aufbauen." },
+    { "term": "in Angriff nehmen", "type": "Phrase", "meaning_tr": "bir işe girişmek, el atmak", "meaning_en": "to tackle/start", "example": "Ein neues Projekt in Angriff nehmen." },
+    { "term": "weichen", "type": "Verb", "meaning_tr": "yerini bırakmak, çekilmek", "meaning_en": "to give way/yield", "example": "Die Angst wich der Freude." },
+    { "term": "das Wachstum", "type": "Nomen", "meaning_tr": "büyüme, gelişim", "meaning_en": "growth", "example": "Persönliches Wachstum ist wichtig." },
+    { "term": "eintauchen", "type": "Verb", "meaning_tr": "dalmak (kültüre vb.)", "meaning_en": "to immerse", "example": "In eine neue Kultur eintauchen." },
+    { "term": "die Heimat", "type": "Nomen", "meaning_tr": "vatan, memleket", "meaning_en": "homeland/home", "example": "Wo die Freunde sind, ist Heimat." }
+  ],
+  "questions": [
+    { "question": "Was feiert Lukas heute?", "options": ["Seinen Geburtstag", "Sein einjähriges Berlin-Jubiläum", "Sein neues Auto", "Weihnachten"], "answer": "Sein einjähriges Berlin-Jubiläum" },
+    { "question": "Wie fühlte sich Lukas bei seiner Ankunft vor einem Jahr?", "options": ["Glücklich und sicher", "Verloren und überwältigt", "Müde und wütend", "Gar nicht"], "answer": "Verloren und überwältigt" },
+    { "question": "Was hat Lukas laut Text aufgebaut?", "options": ["Ein Haus", "Ein Netzwerk aus wunderbaren Menschen", "Ein großes Auto", "Einen Garten"], "answer": "Ein Netzwerk aus wunderbaren Menschen" },
+    { "question": "Wie sieht Lukas' Plan für die Zukunft aus?", "options": ["Er will Berlin verlassen", "Er will ein eigenes Design-Projekt starten", "Er will nur noch schlafen", "Er will kein Deutsch mehr lernen"], "answer": "Er will ein eigenes Design-Projekt starten" }
+  ]
+}

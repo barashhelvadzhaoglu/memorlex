@@ -1,0 +1,42 @@
+{
+  "id": "storie-011",
+  "title": "Hinter den Kulissen der Sterneküche",
+  "summary": "Ein Porträt über den Chefkoch Marc, der in seinem Berliner Restaurant Perfektion und Kreativität vereint.",
+  "text": [
+    "Wenn die meisten Menschen noch schlafen, beginnt für Marc bereits der Arbeitstag. Er ist Chefkoch in einem renommierten Restaurant in Berlin-Mitte, das Lukas letzte Woche mit seinen Kollegen besucht hat. Marcs Tag fängt nicht in der Küche an, sondern auf dem Großmarkt. Dort wählt er persönlich das frischeste Gemüse, den besten Fisch und die hochwertigsten Kräuter aus. Für ihn ist die Qualität der Zutaten das Fundament jeder exzellenten Mahlzeit.",
+    "Ab Mittag herrscht in der Küche Hochbetrieb. Marc ist nicht nur Koch, sondern auch ein Manager. Er muss sein Team koordinieren, damit jede Bestellung pünktlich und optisch perfekt den Gast erreicht. Obwohl der Stresspegel oft extrem hoch ist, bewahrt Marc stets die Ruhe. Er ist der Meinung, dass Hektik der Feind der Präzision ist. In seinem Team legt er großen Wert auf Disziplin, aber auch auf gegenseitigen Respekt, da die Arbeit in einer engen Küche körperlich und mental sehr fordernd ist.",
+    "Zwischen den Servicezeiten experimentiert Marc an neuen Rezepten. Er möchte die traditionelle deutsche Küche modern interpretieren. Dabei kombiniert er oft ungewöhnliche Aromen, um seine Gäste zu überraschen. Lukas war bei seinem Besuch besonders von einem Dessert aus Roter Bete und dunkler Schokolade begeistert. Marc erklärt, dass Kochen für ihn wie Malen ist; man braucht eine Vision, Geduld und das richtige Handwerkszeug, um ein Kunstwerk zu schaffen.",
+    "Spät am Abend, wenn die letzten Gäste das Lokal verlassen haben, reflektiert Marc den Tag. Trotz der langen Arbeitsstunden und der Hitze in der Küche bereut er seine Berufswahl keine Sekunde. Das schönste Kompliment für ihn ist ein leerer Teller und ein zufälliges Lächeln eines Gastes. Er weiß, dass Erfolg in der Gastronomie harte Arbeit bedeutet, aber seine Leidenschaft für gutes Essen gibt ihm die nötige Ausdauer für diesen anspruchsvollen Job."
+  ],
+  "vocab": [
+    { "term": "renommiert", "type": "Adjektiv", "meaning_tr": "ünlü, seçkin", "meaning_en": "renowned", "example": "Ein renommiertes Hotel." },
+    { "term": "hochwertig", "type": "Adjektiv", "meaning_tr": "yüksek kaliteli", "meaning_en": "high-quality", "example": "Hochwertiges Fleisch kaufen." },
+    { "term": "das Fundament", "type": "Nomen", "meaning_tr": "temel", "meaning_en": "foundation", "example": "Das Fundament eines Hauses." },
+    { "term": "der Hochbetrieb", "type": "Nomen", "meaning_tr": "yoğun mesai/çalışma", "meaning_en": "peak operation", "example": "In den Ferien herrscht Hochbetrieb." },
+    { "term": "koordinieren", "type": "Verb", "meaning_tr": "koordine etmek", "meaning_en": "to coordinate", "example": "Termine koordinieren." },
+    { "term": "optisch", "type": "Adjektiv", "meaning_tr": "görsel olarak", "meaning_en": "optically/visually", "example": "Das sieht optisch gut aus." },
+    { "term": "der Stresspegel", "type": "Nomen", "meaning_tr": "stres seviyesi", "meaning_en": "stress level", "example": "Der Stresspegel steigt." },
+    { "term": "bewahren", "type": "Verb", "meaning_tr": "korumak (sakinliğini vb.)", "meaning_en": "to preserve/maintain", "example": "Ruhe bewahren." },
+    { "term": "die Hektik", "type": "Nomen", "meaning_tr": "telaş, acele", "meaning_en": "hectic rush", "example": "Keine Hektik bitte!" },
+    { "term": "die Präzision", "type": "Nomen", "meaning_tr": "hassasiyet, titizlik", "meaning_en": "precision", "example": "Präzision bei der Arbeit." },
+    { "term": "fordernd", "type": "Adjektiv", "meaning_tr": "zahmetli, talepkar", "meaning_en": "demanding", "example": "Ein fordernder Chef." },
+    { "term": "interpretieren", "type": "Verb", "meaning_tr": "yorumlamak", "meaning_en": "to interpret", "example": "Ein Gedicht interpretieren." },
+    { "term": "ungewöhnlich", "type": "Adjektiv", "meaning_tr": "alışılmadık", "meaning_en": "unusual", "example": "Ein ungewöhnlicher Name." },
+    { "term": "das Handwerkszeug", "type": "Nomen", "meaning_tr": "el aletleri / gerekli ekipman", "meaning_en": "tools of the trade", "example": "Gute Messer sind sein Handwerkszeug." },
+    { "term": "reflektieren", "type": "Verb", "meaning_tr": "üzerine düşünmek", "meaning_en": "to reflect", "example": "Über sein Leben reflektieren." },
+    { "term": "das Kompliment", "type": "Nomen", "meaning_tr": "iltifat", "meaning_en": "compliment", "example": "Ein nettes Kompliment machen." },
+    { "term": "die Ausdauer", "type": "Nomen", "meaning_tr": "dayanıklılık, sabır", "meaning_en": "endurance", "example": "Ausdauer beim Laufen." },
+    { "term": "anspruchsvoll", "type": "Adjektiv", "meaning_tr": "zorlayıcı, beklentisi yüksek", "meaning_en": "demanding/sophisticated", "example": "Eine anspruchsvolle Aufgabe." },
+    { "term": "die Zutat", "type": "Nomen", "meaning_tr": "malzeme (yemek)", "meaning_en": "ingredient", "example": "Frische Zutaten verwenden." }
+  ],
+  "questions": [
+    { "question": "Wo beginnt Marcs Arbeitstag normalerweise?", "options": ["In der Küche", "Auf dem Großmarkt", "Im Büro", "Im Bett"], "answer": "Auf dem Großmarkt" },
+    { "question": "Was ist für Marc das Fundament einer exzellenten Mahlzeit?", "options": ["Viel Salz", "Die Qualität der Zutaten", "Ein niedriger Preis", "Ein großer Teller"], "answer": "Die Qualität der Zutaten" },
+    { "question": "Warum muss Marc sein Team koordinieren?", "options": ["Damit sie nicht schlafen", "Damit das Essen pünktlich und perfekt beim Gast ankommt", "Um Geld zu sparen", "Weil er gerne schreit"], "answer": "Damit das Essen pünktlich und perfekt beim Gast ankommt" },
+    { "question": "Wie reagiert Marc auf einen hohen Stresspegel?", "options": ["Er wird laut", "Er bewahrt stets die Ruhe", "Er verlässt die Küche", "Er weint"], "answer": "Er bewahrt stets die Ruhe" },
+    { "question": "Was macht Marc zwischen den Servicezeiten?", "options": ["Er schläft", "Er experimentiert an neuen Rezepten", "Er spielt Fußball", "Er liest Zeitung"], "answer": "Er experimentiert an neuen Rezepten" },
+    { "question": "Womit vergleicht Marc das Kochen?", "options": ["Mit Sport", "Mit Malen", "Mit Autofahren", "Mit Singen"], "answer": "Mit Malen" },
+    { "question": "Was ist für Marc das schönste Kompliment?", "options": ["Viel Trinkgeld", "Ein leerer Teller und ein Lächeln des Gastes", "Ein Zeitungsartikel", "Ein freier Tag"], "answer": "Ein leerer Teller und ein Lächeln des Gastes" },
+    { "question": "Warum bereut Marc seine Berufswahl nicht?", "options": ["Wegen des hohen Gehalts", "Wegen seiner Leidenschaft für gutes Essen", "Weil er keine andere Wahl hatte", "Wegen seiner Kollegen"], "answer": "Wegen seiner Leidenschaft für gutes Essen" }
+  ]
+}

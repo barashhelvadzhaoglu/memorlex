@@ -1,0 +1,29 @@
+{
+  "id": "storie-018",
+  "title": "Der Rhythmus der Nacht",
+  "summary": "Lukas trifft den Musiker Leo, der in Berliner Clubs spielt und von der harten Arbeit hinter dem Erfolg berichtet.",
+  "text": [
+    "Leo ist leidenschaftlicher Musiker und DJ in der Berliner Clubszene. Während Lukas meistens schläft, fängt für Leo die Arbeit erst an. Berlin gilt als die Hauptstadt der elektronischen Musik, und Leo hat sich hier einen Namen gemacht. Er erklärt Lukas, dass sein Job nicht nur aus Partys besteht. Unter der Woche verbringt er viele Stunden in seinem Studio, um neue Beats zu produzieren und Sounds zu mischen.",
+    "Der Wettbewerb in Berlin ist enorm. Jede Woche kommen neue Talente in die Stadt, die den Durchbruch schaffen wollen. Leo betont, dass man sehr diszipliniert sein muss, um langfristig erfolgreich zu bleiben. Er achtet auf seine Gesundheit, macht viel Sport und trinkt während seiner Auftritte keinen Alkohol. 'Man muss fit sein, um eine ganze Nacht lang die Energie auf der Tanzfläche hochzuhalten', sagt er Lukas mit einem Lächeln.",
+    "Leo liebt die Freiheit, die ihm sein Beruf bietet, aber er spricht auch über die Unsicherheit. Als freiberuflicher Künstler hat er kein festes Gehalt. Er muss sich selbst um seine Versicherung und seine Rente kümmern. Manchmal gibt es Monate mit vielen Buchungen, und dann wieder ruhigere Zeiten. Diese Unplanbarkeit erfordert ein gutes finanzielles Management, woran Lukas ihn sofort an seinen Freund Thomas, den Finanzberater, erinnert.",
+    "Für Leo ist Musik eine universelle Sprache, die Menschen verbindet. In den Clubs von Berlin treffen Leute aus allen Schichten und Nationen aufeinander, um gemeinsam zu tanzen. Leo genießt diesen Moment, wenn die Musik und das Publikum eins werden. Er hofft, bald sein erstes eigenes Album zu veröffentlichen. Lukas hat ihm versprochen, das Cover-Design für das Album zu gestalten, was für beide eine tolle Zusammenarbeit ist."
+  ],
+  "vocab": [
+    { "term": "sich einen Namen machen", "type": "Phrase", "meaning_tr": "isim yapmak, tanınmak", "meaning_en": "to make a name for oneself", "example": "Er hat sich als Arzt einen Namen gemacht." },
+    { "term": "der Durchbruch", "type": "Nomen", "meaning_tr": "çıkış yapma, başarı", "meaning_en": "breakthrough", "example": "Der Durchbruch gelang ihm 2020." },
+    { "term": "langfristig", "type": "Adjektiv", "meaning_tr": "uzun vadeli", "meaning_en": "long-term", "example": "Langfristig planen ist sinnvoll." },
+    { "term": "der Auftritt", "type": "Nomen", "meaning_tr": "sahne performansı", "meaning_en": "performance/appearance", "example": "Sein Auftritt war großartig." },
+    { "term": "freiberuflich", "type": "Adjektiv", "meaning_tr": "serbest çalışan", "meaning_en": "freelance", "example": "Er arbeitet freiberuflich als Designer." },
+    { "term": "die Buchung", "type": "Nomen", "meaning_tr": "rezervasyon/kayıt", "meaning_en": "booking", "example": "Wir haben viele Buchungen im Sommer." },
+    { "term": "die Unplanbarkeit", "type": "Nomen", "meaning_tr": "planlanamazlık", "meaning_en": "unpredictability", "example": "Die Unplanbarkeit des Lebens." },
+    { "term": "universell", "type": "Adjektiv", "meaning_tr": "evrensel", "meaning_en": "universal", "example": "Musik ist eine universelle Sprache." },
+    { "term": "veröffentlichen", "type": "Verb", "meaning_tr": "yayımlamak", "meaning_en": "to publish", "example": "Ein Buch veröffentlichen." },
+    { "term": "die Schicht", "type": "Nomen", "meaning_tr": "tabaka, katman (sosyal)", "meaning_en": "layer/class", "example": "Menschen aus allen sozialen Schichten." }
+  ],
+  "questions": [
+    { "question": "In welcher Musikszene ist Leo aktiv?", "options": ["In der Oper", "In der elektronischen Clubszene", "Im Kirchenchor", "In einer Rockband"], "answer": "In der elektronischen Clubszene" },
+    { "question": "Warum trinkt Leo während seiner Auftritte keinen Alkohol?", "options": ["Weil es verboten ist", "Um fit zu bleiben und Energie zu halten", "Weil er ihn nicht mag", "Weil er kein Geld hat"], "answer": "Um fit zu bleiben und Energie zu halten" },
+    { "question": "Welches Risiko hat Leo als freiberuflicher Künstler?", "options": ["Er hat kein festes Gehalt", "Er muss zu viel schlafen", "Er darf nicht reisen", "Er hat keine Freunde"], "answer": "Er hat kein festes Gehalt" },
+    { "question": "Was möchte Lukas für Leo machen?", "options": ["Seine Wäsche waschen", "Das Cover-Design für sein Album gestalten", "Seine Musik singen", "Seine Miete bezahlen"], "answer": "Das Cover-Design für sein Album gestalten" }
+  ]
+}
