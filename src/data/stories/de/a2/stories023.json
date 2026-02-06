@@ -1,0 +1,42 @@
+{
+  "id": "storie-023",
+  "title": "Über den Wolken",
+  "summary": "Kapitän Markus erzählt von seinem Alltag im Cockpit und der Faszination des Fliegens.",
+  "text": [
+    "Für die meisten Menschen ist das Fliegen ein besonderes Ereignis, doch für Markus ist es Alltag. Er ist Kapitän bei einer großen deutschen Fluggesellschaft und verbringt hunderte Stunden pro Jahr im Cockpit. Lukas traf Markus bei einem Besuch am Flughafen BER. Markus erklärte ihm, dass die Verantwortung für hunderte Passagiere eine enorme mentale Stärke erfordert. Vor jedem Flug gibt es ein detailliertes 'Briefing', bei dem Wetterdaten, Flugroute und technische Details besprochen werden.",
+    "Das Cockpit eines modernen Flugzeugs sieht für Laien wie ein Labyrinth aus Knöpfen und Bildschirmen aus. Markus erklärt, dass jeder Schalter eine spezifische Funktion hat und Systeme oft mehrfach abgesichert sind. Trotz der hohen Automatisierung muss der Pilot jederzeit bereit sein, manuell einzugreifen. Besonders die Start- und Landephasen erfordern höchste Konzentration. Markus liebt den Moment, wenn das Flugzeug die Wolkendecke durchbricht und man die Sonne sieht, egal wie schlecht das Wetter am Boden ist.",
+    "Der Beruf bringt jedoch auch Herausforderungen mit sich. Durch die unregelmäßigen Arbeitszeiten leidet oft das Sozialleben. 'Man muss lernen, mit dem Jetlag umzugehen', sagt Markus. Er ist oft Tage oder sogar Wochen von seiner Familie getrennt. Im Gegenzug hat er die Möglichkeit, die entlegensten Winkel der Welt zu sehen. Er schätzt die kulturelle Vielfalt, die er auf seinen Reisen erlebt, und hat Freunde in vielen verschiedenen Ländern gewonnen.",
+    "Sicherheit hat in der Luftfahrt oberste Priorität. Markus absolviert zweimal pro Jahr ein intensives Training im Flugsimulator, um auf Notfälle vorbereitet zu sein. Lukas war beeindruckt von der Disziplin und Ruhe, die Markus ausstrahlt. Er versteht jetzt, dass Fliegen nicht nur Technik ist, sondern auch viel mit Vertrauen und Erfahrung zu tun hat. Markus rät Lukas, bei Stress immer ruhig zu atmen und den Fokus auf das Wesentliche zu richten – eine Lektion, die er im Cockpit gelernt hat."
+  ],
+  "vocab": [
+    { "term": "der Kapitän", "type": "Nomen", "meaning_tr": "kaptan", "meaning_en": "captain", "example": "Der Kapitän begrüßt die Gäste." },
+    { "term": "das Cockpit", "type": "Nomen", "meaning_tr": "kokpit", "meaning_en": "cockpit", "example": "Arbeit im Cockpit." },
+    { "term": "die Fluggesellschaft", "type": "Nomen", "meaning_tr": "hava yolu şirketi", "meaning_en": "airline", "example": "Eine große Fluggesellschaft." },
+    { "term": "das Briefing", "type": "Nomen", "meaning_tr": "bilgilendirme toplantısı", "meaning_en": "briefing", "example": "Ein kurzes Briefing vor dem Start." },
+    { "term": "der Laie", "type": "Nomen", "meaning_tr": "bilgisiz kişi, amatör", "meaning_en": "layman", "example": "Für Laien ist das schwer." },
+    { "term": "abgesichert", "type": "Adjektiv", "meaning_tr": "güvenceye alınmış", "meaning_en": "secured/backed up", "example": "Systeme sind doppelt abgesichert." },
+    { "term": "manuell", "type": "Adjektiv", "meaning_tr": "manuel, elle", "meaning_en": "manual", "example": "Etwas manuell steuern." },
+    { "term": "eingreifen", "type": "Verb (trennbar)", "meaning_tr": "müdahale etmek", "meaning_en": "to intervene", "example": "In den Prozess eingreifen." },
+    { "term": "die Wolkendecke", "type": "Nomen", "meaning_tr": "bulut tabakası", "meaning_en": "cloud cover", "example": "Die Wolkendecke durchbrechen." },
+    { "term": "der Jetlag", "type": "Nomen", "meaning_tr": "jetlag, zaman farkı yorgunluğu", "meaning_en": "jet lag", "example": "Er leidet unter Jetlag." },
+    { "term": "entlegen", "type": "Adjektiv", "meaning_tr": "uzak, ücra", "meaning_en": "remote", "example": "Ein entlegenes Dorf." },
+    { "term": "oberste Priorität", "type": "Nomen", "meaning_tr": "en yüksek öncelik", "meaning_en": "top priority", "example": "Sicherheit hat oberste Priorität." },
+    { "term": "der Flugsimulator", "type": "Nomen", "meaning_tr": "uçuş simülatörü", "meaning_en": "flight simulator", "example": "Training im Flugsimulator." },
+    { "term": "ausstrahlen", "type": "Verb (trennbar)", "meaning_tr": "yansıtmak (ışık/enerji/güven)", "meaning_en": "to radiate/emit", "example": "Ruhe ausstrahlen." },
+    { "term": "der Fokus", "type": "Nomen", "meaning_tr": "odak", "meaning_en": "focus", "example": "Den Fokus behalten." },
+    { "term": "wesentlich", "type": "Adjektiv", "meaning_tr": "temel, esas", "meaning_en": "essential", "example": "Das wesentliche Ziel." },
+    { "term": "die Route", "type": "Nomen", "meaning_tr": "rota", "meaning_en": "route", "example": "Die Route berechnen." },
+    { "term": "die Phase", "type": "Nomen", "meaning_tr": "aşama, faz", "meaning_en": "phase", "example": "In dieser Phase des Flugs." },
+    { "term": "unregelmäßig", "type": "Adjektiv", "meaning_tr": "düzensiz", "meaning_en": "irregular", "example": "Unregelmäßige Arbeitszeiten." }
+  ],
+  "questions": [
+    { "question": "Wo verbringt Markus hunderte Stunden pro Jahr?", "options": ["Im Auto", "Im Cockpit", "Im Garten", "Im Supermarkt"], "answer": "Im Cockpit" },
+    { "question": "Was wird beim 'Briefing' vor dem Flug besprochen?", "options": ["Das Mittagessen", "Wetterdaten und Flugroute", "Die neuesten Nachrichten", "Sportergebnisse"], "answer": "Wetterdaten und Flugroute" },
+    { "question": "Wie sieht das Cockpit für Laien aus?", "options": ["Wie ein leerer Raum", "Wie ein Labyrinth aus Knöpfen", "Wie ein Wohnzimmer", "Wie ein Spielplatz"], "answer": "Wie ein Labyrinth aus Knöpfen" },
+    { "question": "Was muss ein Pilot trotz hoher Automatisierung können?", "options": ["Singen", "Manuell eingreifen", "Kochen", "Schlafen"], "answer": "Manuell eingreifen" },
+    { "question": "Welcher Moment ist für Markus besonders schön?", "options": ["Das Essen an Bord", "Wenn er die Wolkendecke durchbricht", "Das Bezahlen der Rechnung", "Das Putzen der Fenster"], "answer": "Wenn er die Wolkendecke durchbricht" },
+    { "question": "Was ist eine große Herausforderung in Markus' Beruf?", "options": ["Zu viel Freizeit", "Unregelmäßige Arbeitszeiten und Jetlag", "Es gibt keinen Kaffee", "Dass er nicht sitzen darf"], "answer": "Unregelmäßige Arbeitszeiten und Jetlag" },
+    { "question": "Wie oft trainiert Markus im Flugsimulator?", "options": ["Jeden Tag", "Zweimal pro Jahr", "Nie", "Einmal im Leben"], "answer": "Zweimal pro Jahr" },
+    { "question": "Welchen Rat gibt Markus Lukas bei Stress?", "options": ["Schnell weglaufen", "Ruhig atmen ve odağı korumak", "Viel Kaffee trinken", "Laut schreien"], "answer": "Ruhig atmen ve odağı korumak" }
+  ]
+}

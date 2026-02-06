@@ -1,0 +1,42 @@
+{
+  "id": "storie-024",
+  "title": "Die Kunst des Zuhörens",
+  "summary": "Ein Porträt über die Psychotherapeutin Dr. Arndt, die Menschen hilft, ihre inneren Konflikte zu lösen.",
+  "text": [
+    "In einem ruhigen Hinterhof in Berlin-Prenzlauer Berg befindet sich die Praxis von Dr. Arndt. Sie ist Psychotherapeutin und hat sich darauf spezialisiert, Menschen in schwierigen Lebensphasen zu begleiten. Lukas hat Dr. Arndt bei einem Vortrag über 'Work-Life-Balance' kennengelernt. Dr. Arndt erklärt, dass ihr wichtigstes Werkzeug die Sprache und vor allem das aktive Zuhören ist. In ihrer Praxis schafft sie einen geschützten Raum, in dem Patienten offen über ihre Ängste und Sorgen sprechen können.",
+    "Viele Menschen kommen zu ihr, weil sie sich im hektischen Alltag überfordert fühlen. Dr. Arndt hilft ihnen dabei, die Ursachen für ihren Stress zu identifizieren. Dabei geht es oft nicht nur um die aktuelle Situation, sondern auch um Erfahrungen aus der Kindheit, die das heutige Verhalten beeinflussen. Sie betont, dass es keine Schande ist, sich professionelle Hilfe zu suchen. 'Psychische Gesundheit ist genauso wichtig wie körperliche Fitness', sagt sie Lukas während eines Gesprächs.",
+    "Die Therapie ist oft ein langwieriger Prozess, der viel Geduld von beiden Seiten erfordert. Dr. Arndt gibt keine fertigen Lösungen vor; stattdessen unterstützt sie ihre Patienten dabei, eigene Strategien zur Bewältigung von Problemen zu entwickeln. Sie nutzt verschiedene Methoden, wie zum Beispiel Atemübungen oder Rollenspiele, um neue Perspektiven zu eröffnen. Lukas findet es beeindruckt, wie viel Empathie und emotionale Stabilität Dr. Arndt für ihren Beruf benötigt.",
+    "Nach einem langen Arbeitstag braucht auch Dr. Arndt Zeit für sich selbst, um die Geschichten ihrer Patienten zu verarbeiten. Sie findet ihren Ausgleich in der Natur oder beim Yoga. Sie rät Lukas, öfter mal 'digitales Detoxing' zu betreiben und das Smartphone für einige Stunden auszuschalten. Das hilft dem Gehirn, zur Ruhe zu kommen und sich auf den Moment zu konzentrieren. Lukas nimmt sich vor, diesen Rat in seinem stressigen Agenturalltag öfter zu beherzigen."
+  ],
+  "vocab": [
+    { "term": "die Praxis", "type": "Nomen", "meaning_tr": "muayenehane", "meaning_en": "practice", "example": "Die Praxis ist zentral gelegen." },
+    { "term": "begleiten", "type": "Verb", "meaning_tr": "eşlik etmek", "meaning_en": "to accompany", "example": "Jemanden nach Hause begleiten." },
+    { "term": "das Werkzeug", "type": "Nomen", "meaning_tr": "araç, alet", "meaning_en": "tool", "example": "Sprache ist ein wichtiges Werkzeug." },
+    { "term": "überfordert", "type": "Adjektiv", "meaning_tr": "aşırı yüklenmiş, çaresiz", "meaning_en": "overwhelmed", "example": "Ich fühle mich überfordert." },
+    { "term": "identifizieren", "type": "Verb", "meaning_tr": "belirlemek, tanımlamak", "meaning_en": "to identify", "example": "Probleme identifizieren." },
+    { "term": "die Schande", "type": "Nomen", "meaning_tr": "ayıp, utanç", "meaning_en": "shame/disgrace", "example": "Es ist keine Schande, Hilfe zu suchen." },
+    { "term": "langwierig", "type": "Adjektiv", "meaning_tr": "uzun süren, bıktırıcı", "meaning_en": "lengthy/tedious", "example": "Ein langwieriger Prozess." },
+    { "term": "die Bewältigung", "type": "Nomen", "meaning_tr": "üstesinden gelme", "meaning_en": "coping/overcoming", "example": "Bewältigung von Krisen." },
+    { "term": "die Empathie", "type": "Nomen", "meaning_tr": "empati", "meaning_en": "empathy", "example": "Empathie ist wichtig für Therapeuten." },
+    { "term": "die Stabilität", "type": "Nomen", "meaning_tr": "istikrar, denge", "meaning_en": "stability", "example": "Emotionale Stabilität bewahren." },
+    { "term": "verarbeiten", "type": "Verb", "meaning_tr": "işlemek (duygusal)", "meaning_en": "to process", "example": "Traumata verarbeiten." },
+    { "term": "der Ausgleich", "type": "Nomen", "meaning_tr": "dengeleme, deşarj olma", "meaning_en": "balance/compensation", "example": "Sport ist ein guter Ausgleich." },
+    { "term": "beherzigen", "type": "Verb", "meaning_tr": "öğüt tutmak, dinlemek", "meaning_en": "to take to heart", "example": "Einen Rat beherzigen." },
+    { "term": "das Detoxing", "type": "Nomen", "meaning_tr": "detoks, arınma", "meaning_en": "detoxing", "example": "Digitales Detoxing hilft." },
+    { "term": "innerer Konflikt", "type": "Nomen", "meaning_tr": "iç çatışma", "meaning_en": "inner conflict", "example": "Innere Konflikte lösen." },
+    { "term": "die Ursache", "type": "Nomen", "meaning_tr": "neden, sebep", "meaning_en": "cause", "example": "Die Ursache der Krankheit." },
+    { "term": "die Methode", "type": "Nomen", "meaning_tr": "yöntem", "meaning_en": "method", "example": "Neue Methoden testen." },
+    { "term": "die Perspektive", "type": "Nomen", "meaning_tr": "perspektif", "meaning_en": "perspective", "example": "Eine neue Perspektive gewinnen." },
+    { "term": "geschützter Raum", "type": "Nomen", "meaning_tr": "güvenli alan", "meaning_en": "protected space", "example": "In einem geschützten Raum reden." }
+  ],
+  "questions": [
+    { "question": "Wo befindet sich die Praxis von Dr. Arndt?", "options": ["Im Einkaufszentrum", "In einem ruhigen Hinterhof", "Am Flughafen", "Im Wald"], "answer": "In einem ruhigen Hinterhof" },
+    { "question": "Was ist Dr. Arndts wichtigstes Werkzeug?", "options": ["Ein Computer", "Sprache und aktives Zuhören", "Ein Hammer", "Medikamente"], "answer": "Sprache und aktives Zuhören" },
+    { "question": "Warum kommen viele Menschen zu Dr. Arndt?", "options": ["Weil sie Urlaub machen wollen", "Weil sie sich im Alltag überfordert fühlen", "Weil sie ein neues Auto brauchen", "Weil sie Sport treiben"], "answer": "Weil sie sich im Alltag überfordert fühlen" },
+    { "question": "Wie sieht Dr. Arndt das Thema 'Hilfe suchen'?", "options": ["Es ist eine Schande", "Es ist keine Schande", "Es ist zu teuer", "Es ist unnötig"], "answer": "Es ist keine Schande" },
+    { "question": "Gibt Dr. Arndt ihren Patienten fertige Lösungen?", "options": ["Ja, immer", "Nein, sie unterstützt sie bei eigenen Strategien", "Nur wenn sie viel bezahlen", "Sie redet gar nicht"], "answer": "Nein, sie unterstützt sie bei eigenen Strategien" },
+    { "question": "Wie findet Dr. Arndt ihren eigenen Ausgleich?", "options": ["Beim Fernsehen", "In der Natur oder beim Yoga", "Beim Arbeiten", "Beim Einkaufen"], "answer": "In der Natur oder beim Yoga" },
+    { "question": "Was versteht man unter 'digitalem Detoxing'?", "options": ["Den Computer reparieren", "Das Smartphone für einige Stunden ausschalten", "Mehr Zeit im Internet verbringen", "Ein neues Handy kaufen"], "answer": "Das Smartphone für einige Stunden ausschalten" },
+    { "question": "Was nimmt sich Lukas für seinen Alltag vor?", "options": ["Weniger zu schlafen", "Dr. Arndts Rat zu beherzigen", "Mehr zu arbeiten", "In eine andere Stadt zu ziehen"], "answer": "Dr. Arndts Rat zu beherzigen" }
+  ]
+}

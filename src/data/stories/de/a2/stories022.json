@@ -1,0 +1,42 @@
+{
+  "id": "storie-022",
+  "title": "Holz mit Seele",
+  "summary": "Schreiner Thomas zeigt Lukas, wie aus einem einfachen Baumstamm ein kunstvolles Möbelstück entsteht.",
+  "text": [
+    "In einer kleinen Werkstatt am Stadtrand von Berlin duftet es herrlich nach frischem Holz und Harz. Hier arbeitet Thomas, ein Schreinermeister, der sein Handwerk noch auf die traditionelle Weise gelernt hat. Lukas hat Thomas beauftragt, einen massiven Esstisch für seine neue Wohnung zu bauen. Thomas nimmt sich viel Zeit für die Beratung; er möchte genau verstehen, welche Funktion das Möbelstück erfüllen soll und welcher Stil am besten zu Lukas' Persönlichkeit passt.",
+    "Der Prozess beginnt mit der Auswahl des richtigen Holzes. Thomas erklärt, dass jedes Stück Holz eine eigene Geschichte erzählt. Er bevorzugt heimische Hölzer wie Eiche oder Nussbaum, da diese nicht nur langlebig, sondern auch ökologisch sinnvoll sind. Lukas schaut fasziniert zu, wie Thomas mit Hobel und Säge arbeitet. Jede Bewegung ist präzise und zeugt von jahrelanger Erfahrung. Thomas betont, dass man beim Arbeiten mit Naturmaterialien viel Geduld aufbringen muss.",
+    "Moderne Maschinen gibt es in seiner Werkstatt zwar auch, aber Thomas erledigt die feinen Details am liebsten von Hand. Er findet, dass handgefertigte Möbel eine 'Seele' haben, die industriell hergestellten Produkten oft fehlt. Er zeigt Lukas verschiedene Holzverbindungen, die ganz ohne Metallschrauben stabil bleiben. Diese Techniken sind jahrhundertealt und werden heute nur noch selten beherrscht. Für Thomas ist seine Arbeit eine Kombination aus Kunst, Mathematik und körperlicher Kraft.",
+    "Nach mehreren Wochen ist der Tisch fertig. Die Oberfläche wurde nur mit natürlichem Öl behandelt, um die Maserung des Holzes hervorzuheben. Lukas ist begeistert von der Qualität und der Haptik des Tisches. Thomas freut sich über das Lob, warnt aber auch vor der Zukunft des Handwerks. Es gibt immer weniger junge Menschen, die eine Ausbildung zum Schreiner machen wollen. Er hofft, dass die Wertschätzung für handwerkliche Qualität wieder steigt, damit dieses wertvolle Wissen nicht verloren geht."
+  ],
+  "vocab": [
+    { "term": "das Harz", "type": "Nomen", "meaning_tr": "reçine", "meaning_en": "resin", "example": "Baumharz klebt an den Händen." },
+    { "term": "der Schreinermeister", "type": "Nomen", "meaning_tr": "marangoz ustası", "meaning_en": "master carpenter", "example": "Der Meister gibt Tipps." },
+    { "term": "massiv", "type": "Adjektiv", "meaning_tr": "masif, sağlam", "meaning_en": "solid/massive", "example": "Ein Tisch aus massivem Holz." },
+    { "term": "bevorzugen", "type": "Verb", "meaning_tr": "tercih etmek", "meaning_en": "to prefer", "example": "Ich bevorzuge Tee gegenüber Kaffee." },
+    { "term": "heimisch", "type": "Adjektiv", "meaning_tr": "yerel, yerli", "meaning_en": "domestic/native", "example": "Heimische Tiere schützen." },
+    { "term": "langlebig", "type": "Adjektiv", "meaning_tr": "uzun ömürlü", "meaning_en": "durable/long-lasting", "example": "Langlebige Produkte kaufen." },
+    { "term": "der Hobel", "type": "Nomen", "meaning_tr": "rende", "meaning_en": "plane (tool)", "example": "Mit dem Hobel Holz glätten." },
+    { "term": "aufbringen", "type": "Verb (trennbar)", "meaning_tr": "göstermek (sabır vb.)", "meaning_en": "to raise/show (patience)", "example": "Geduld aufbringen." },
+    { "term": "handgefertigt", "type": "Adjektiv", "meaning_tr": "el yapımı", "meaning_en": "handmade", "example": "Ein handgefertigtes Messer." },
+    { "term": "beherrschen", "type": "Verb", "meaning_tr": "hakim olmak, bilmek", "meaning_en": "to master/control", "example": "Eine Technik beherrschen." },
+    { "term": "die Maserung", "type": "Nomen", "meaning_tr": "damar (ahşap)", "meaning_en": "grain (wood)", "example": "Die Maserung der Eiche." },
+    { "term": "die Haptik", "type": "Nomen", "meaning_tr": "dokunma hissi", "meaning_en": "haptics/feel", "example": "Das Material hat eine gute Haptik." },
+    { "term": "die Wertschätzung", "type": "Nomen", "meaning_tr": "takdir, değer verme", "meaning_en": "appreciation", "example": "Wertschätzung für die Arbeit zeigen." },
+    { "term": "verloren gehen", "type": "Verb", "meaning_tr": "kaybolup gitmek", "meaning_en": "to get lost", "example": "Wissen darf nicht verloren gehen." },
+    { "term": "behandeln", "type": "Verb", "meaning_tr": "işlemek, muamele etmek", "meaning_en": "to treat/process", "example": "Holz mit Öl behandeln." },
+    { "term": "der Stadtrand", "type": "Nomen", "meaning_tr": "şehrin dışı/kenarı", "meaning_en": "outskirts", "example": "Er wohnt am Stadtrand." },
+    { "term": "die Werkstatt", "type": "Nomen", "meaning_tr": "atölye", "meaning_en": "workshop", "example": "Arbeit in der Werkstatt." },
+    { "term": "industriell", "type": "Adjektiv", "meaning_tr": "endüstriyel", "meaning_en": "industrial", "example": "Industrielle Fertigung." },
+    { "term": "hervorheben", "type": "Verb (trennbar)", "meaning_tr": "vurgulamak, öne çıkarmak", "meaning_en": "to emphasize/highlight", "example": "Details hervorheben." }
+  ],
+  "questions": [
+    { "question": "Wo befindet sich Thomas' Werkstatt?", "options": ["Im Stadtzentrum", "Am Stadtrand von Berlin", "In einer Fabrik", "In einem Einkaufszentrum"], "answer": "Am Stadtrand von Berlin" },
+    { "question": "Was hat Lukas bei Thomas bestellt?", "options": ["Einen Schrank", "Einen massiven Esstisch", "Ein Bett", "Einen Stuhl"], "answer": "Einen massiven Esstisch" },
+    { "question": "Warum bevorzugt Thomas heimische Hölzer?", "options": ["Weil sie billig sind", "Weil sie langlebig und ökologisch sinnvoll sind", "Weil sie bunter sind", "Weil sie weicher sind"], "answer": "Weil sie langlebig und ökologisch sinnvoll sind" },
+    { "question": "Was denkt Thomas über industriell hergestellte Produkte?", "options": ["Dass sie perfekt sind", "Dass ihnen oft eine 'Seele' fehlt", "Dass sie zu teuer sind", "Er hat keine Meinung dazu"], "answer": "Dass ihnen oft eine 'Seele' fehlt" },
+    { "question": "Wie werden Thomas' Holzverbindungen stabil gehalten?", "options": ["Mit vielen Schrauben", "Mit Klebstoff aus Plastik", "Ganz ohne Metallschrauben", "Mit Magneten"], "answer": "Ganz ohne Metallschrauben" },
+    { "question": "Womit wurde die Oberfläche des Tisches behandelt?", "options": ["Mit Farbe", "Mit natürlichem Öl", "Mit Plastik", "Gar nicht"], "answer": "Mit natürlichem Öl" },
+    { "question": "Was bereitet Thomas Sorgen bezüglich der Zukunft des Handwerks?", "options": ["Dass es kein Holz mehr gibt", "Dass weniger junge Menschen eine Ausbildung machen", "Dass die Mieten steigen", "Dass er zu alt wird"], "answer": "Dass weniger junge Menschen eine Ausbildung machen" },
+    { "question": "Wie reagiert Lukas auf den fertigen Tisch?", "options": ["Er ist enttäuscht", "Er ist begeistert von Qualität und Haptik", "Er gibt ihn zurück", "Er verkauft ihn sofort"], "answer": "Er begeistert von Qualität und Haptik" }
+  ]
+}

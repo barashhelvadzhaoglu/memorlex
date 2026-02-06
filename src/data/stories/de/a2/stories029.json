@@ -1,0 +1,41 @@
+{
+  "id": "storie-029",
+  "title": "Vergangenes bewahren",
+  "summary": "Die Restauratorin Anna zeigt Lukas, wie sie alte Gemälde rettet und welche Geduld für diesen Beruf nötig ist.",
+  "text": [
+    "In einem hellen Atelier auf der Berliner Museumsinsel arbeitet Anna an einem wertvollen Gemälde aus dem 18. Jahrhundert. Sie ist Restauratorin und hat die Aufgabe, Kunstwerke vor dem Verfall zu schützen. Lukas lernte Anna während einer Führung im Alten Museum kennen. Er war fasziniert von der Präzision, mit der sie winzige Risse in der Leinwand schließt. Anna erklärt Lukas, dass ihr Beruf eine Mischung aus Kunstgeschichte, Chemie und handwerklichem Geschick ist.",
+    "Bevor Anna mit der eigentlichen Arbeit beginnt, führt sie eine gründliche Analyse durch. Sie nutzt Röntgenstrahlen und spezielle Mikroskope, um die Schichten des Bildes zu untersuchen. Oft entdeckt sie dabei, dass Künstler ihre Werke später übermalt haben. 'Man muss sehr vorsichtig sein, um das Original nicht zu beschädigen', sagt Anna. Sie verwendet nur Materialien, die reversibel sind; das bedeutet, dass ihre Korrekturen später wieder entfernt werden können, ohne das Werk zu zerstören.",
+    "Der Zeitaufwand für eine Restaurierung ist enorm. Manchmal arbeitet Anna Monate an einem einzigen Quadratmeter. Geduld ist ihre wichtigste Tugend. Sie erklärt Lukas, dass Licht, Feuchtigkeit und Temperaturschwankungen die größten Feinde von alten Kunstwerken sind. Deshalb berät sie auch Museen bei der optimalen Lagerung und Präsentation ihrer Exponate. Lukas findet es beeindruckend, wie viel Verantwortung Anna für unser kulturelles Erbe trägt.",
+    "Für Anna ist es ein erhebendes Gefühl, wenn ein altes Bild nach ihrer Arbeit wieder in seinem ursprünglichen Glanz erstrahlt. Sie sieht sich nicht als Schöpferin, sondern als Dienerin der Kunst. Lukas erkennt, dass Restauratoren im Hintergrund arbeiten, damit zukünftige Generationen die Schönheit der Vergangenheit erleben können. Er nimmt sich vor, beim nächsten Museumsbesuch noch genauer auf die Details der Bilder zu achten und die unsichtbare Arbeit dahinter zu würdigen."
+  ],
+  "vocab": [
+    { "term": "die Restauratorin", "type": "Nomen", "meaning_tr": "restoratör (kadın)", "meaning_en": "restorer", "example": "Die Restauratorin rettet das Bild." },
+    { "term": "das Gemälde", "type": "Nomen", "meaning_tr": "tablo, yağlı boya resim", "meaning_en": "painting", "example": "Ein wertvolles Gemälde." },
+    { "term": "der Verfall", "type": "Nomen", "meaning_tr": "çürüme, bozulma, yıkılma", "meaning_en": "decay/decline", "example": "Den Verfall stoppen." },
+    { "term": "die Leinwand", "type": "Nomen", "meaning_tr": "tuval", "meaning_en": "canvas", "example": "Auf Leinwand malen." },
+    { "term": "das Geschick", "type": "Nomen", "meaning_tr": "beceri, maharet", "meaning_en": "skill/dexterity", "example": "Handwerkliches Geschick zeigen." },
+    { "term": "die Analyse", "type": "Nomen", "meaning_tr": "analiz", "meaning_en": "analysis", "example": "Eine chemische Analyse." },
+    { "term": "übermalen", "type": "Verb", "meaning_tr": "üstünü boyamak", "meaning_en": "to paint over", "example": "Das Bild wurde später übermalt." },
+    { "term": "reversibel", "type": "Adjektiv", "meaning_tr": "geri döndürülebilir", "meaning_en": "reversible", "example": "Reversible Materialien nutzen." },
+    { "term": "der Zeitaufwand", "type": "Nomen", "meaning_tr": "zaman harcaması/maliyeti", "meaning_en": "time expenditure", "example": "Ein hoher Zeitaufwand." },
+    { "term": "die Tugend", "type": "Nomen", "meaning_tr": "erdem", "meaning_en": "virtue", "example": "Geduld ist eine Tugend." },
+    { "term": "die Feuchtigkeit", "type": "Nomen", "meaning_tr": "nem", "meaning_en": "humidity/moisture", "example": "Hohe Feuchtigkeit schadet Holz." },
+    { "term": "die Schwankung", "type": "Nomen", "meaning_tr": "dalgalanma, değişim", "meaning_en": "fluctuation", "example": "Temperaturschwankungen vermeiden." },
+    { "term": "das Erbe", "type": "Nomen", "meaning_tr": "miras", "meaning_en": "heritage", "example": "Das kulturelle Erbe schützen." },
+    { "term": "erhebend", "type": "Adjektiv", "meaning_tr": "yüceltici, ilham verici", "meaning_en": "uplifting", "example": "Ein erhebender Moment." },
+    { "term": "der Glanz", "type": "Nomen", "meaning_tr": "parıltı, görkem", "meaning_en": "glanz/splendor", "example": "In neuem Glanz erstrahlen." },
+    { "term": "würdigen", "type": "Verb", "meaning_tr": "takdir etmek, onurlandırmak", "meaning_en": "to appreciate/honor", "example": "Eine Leistung würdigen." },
+    { "term": "winzig", "type": "Adjektiv", "meaning_tr": "küçücük", "meaning_en": "tiny", "example": "Winzige Details sehen." },
+    { "term": "die Schicht", "type": "Nomen", "meaning_tr": "tabaka, katman", "meaning_en": "layer", "example": "Mehrere Farbschichten." }
+  ],
+  "questions": [
+    { "question": "Wo arbeitet Anna?", "options": ["In einem Krankenhaus", "In einem Atelier auf der Museumsinsel", "In einem Supermarkt", "Auf einem Schiff"], "answer": "In einem Atelier auf der Museumsinsel" },
+    { "question": "Was ist Annas Hauptaufgabe?", "options": ["Neue Bilder malen", "Kunstwerke vor dem Verfall schützen", "Bilder verkaufen", "Museen bauen"], "answer": "Kunstwerke vor dem Verfall schützen" },
+    { "question": "Aus welchen Bereichen besteht ihr Beruf?", "options": ["Sport und Musik", "Kunstgeschichte, Chemie ve zanaat", "Mathematik ve fizik", "Kochen ve temizlik"], "answer": "Kunstgeschichte, Chemie ve zanaat" },
+    { "question": "Was nutzt Anna für die Analyse der Bilder?", "options": ["Nur ihre Augen", "Röntgenstrahlen ve özel mikroskoplar", "Einen Hammer", "Wasser ve sabun"], "answer": "Röntgenstrahlen ve özel mikroskoplar" },
+    { "question": "Was bedeutet 'reversibel' in Annas Arbeit?", "options": ["Dass es sehr teuer ist", "Dass Korrekturen wieder entfernt werden können", "Dass es für immer bleibt", "Dass es bunt ist"], "answer": "Dass Korrekturen wieder entfernt werden können" },
+    { "question": "Was sind die größten Feinde von alten Kunstwerken?", "options": ["Menschen ve hayvanlar", "Licht, nem ve sıcaklık değişimleri", "Musik ve ses", "Farbe ve fırçalar"], "answer": "Licht, nem ve sıcaklık değişimleri" },
+    { "question": "Wie sieht sich Anna selbst in ihrem Beruf?", "options": ["Als große Künstlerin", "Als Dienerin der Kunst", "Als Chefin des Museums", "Als Touristin"], "answer": "Als Dienerin der Kunst" },
+    { "question": "Was möchte Lukas bei seinem nächsten Museumsbesuch tun?", "options": ["Schnell durchlaufen", "Die unsichtbare Arbeit hinter den Details würdigen", "Fotos machen", "Gar nichts machen"], "answer": "Die unsichtbare Arbeit hinter den Details würdigen" }
+  ]
+}

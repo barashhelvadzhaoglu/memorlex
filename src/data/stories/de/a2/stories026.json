@@ -1,0 +1,41 @@
+{
+  "id": "storie-026",
+  "title": "Service mit einem Lächeln",
+  "summary": "David arbeitet als Kellner in einem gut besuchten Café und berichtet über die Herausforderungen im Gastgewerbe.",
+  "text": [
+    "Während Lukas oft in Cafés sitzt, um zu arbeiten, ist es für David der tägliche Arbeitsplatz. David ist Kellner in einem beliebten Café in Berlin-Kreuzberg. Sein Tag beginnt mit dem Aufbau der Tische im Außenbereich und dem Checken der Reservierungen. Lukas schätzt Davids Freundlichkeit, auch wenn der Laden bis auf den letzten Platz gefüllt ist. Ein guter Kellner muss laut David ein Organisationstalent sein und auch in stressigen Momenten den Überblick behalten.",
+    "Der Kontakt zu den Gästen ist für David das Schönste an seinem Beruf. Er begegnet täglich Menschen aus der ganzen Welt und liebt die kulturelle Vielfalt Berlins. Dennoch gibt es auch anspruchsvolle Situationen, zum Beispiel wenn Gäste ungeduldig sind oder Sonderwünsche haben. David erklärt Lukas, dass Diplomatie und Geduld in seinem Job unverzichtbar sind. Er sieht sich als Gastgeber, der dafür sorgt, dass sich jeder Kunde wohlfühlt.",
+    "Körperlich ist die Arbeit sehr anstrengend. David legt während einer Schicht oft viele Kilometer zu Fuß zurück und muss schwere Tabletts balancieren. Nach der Arbeit schmerzen oft seine Füße, aber die positive Energie der Gäste entschädigt ihn dafür. Ein großes Thema im Gastgewerbe ist der Fachkräftemangel. David erzählt Lukas, dass es immer schwieriger wird, zuverlässiges Personal zu finden, was die Arbeitsbelastung für das bestehende Team erhöht.",
+    "Trinkgeld spielt eine wichtige Rolle für Davids Einkommen. Er erklärt Lukas, dass man in Deutschland üblicherweise den Betrag aufrundet. Lukas fragt David, was einen perfekten Gast ausmacht. 'Ein Lächeln und ein freundliches 'Danke' sind oft mehr wert als ein hoher Geldbetrag', antwortet David. Lukas nimmt sich vor, in Zukunft noch aufmerksamer gegenüber dem Servicepersonal zu sein, da er nun weiß, wie viel harte Arbeit hinter einer Tasse Kaffee steckt."
+  ],
+  "vocab": [
+    { "term": "der Außenbereich", "type": "Nomen", "meaning_tr": "dış alan", "meaning_en": "outdoor area", "example": "Im Außenbereich sitzen." },
+    { "term": "gefüllt", "type": "Adjektiv", "meaning_tr": "dolu", "meaning_en": "filled/crowded", "example": "Das Café ist gefüllt." },
+    { "term": "das Organisationstalent", "type": "Nomen", "meaning_tr": "organizasyon yeteneği", "meaning_en": "organizational talent", "example": "Sie hat ein großes Organisationstalent." },
+    { "term": "der Überblick", "type": "Nomen", "meaning_tr": "genel bakış, kontrol", "meaning_en": "overview/control", "example": "Den Überblick behalten." },
+    { "term": "ungeduldig", "type": "Adjektiv", "meaning_tr": "sabırsız", "meaning_en": "impatient", "example": "Warten macht ungeduldig." },
+    { "term": "der Sonderwunsch", "type": "Nomen", "meaning_tr": "özel istek", "meaning_en": "special request", "example": "Gäste haben Sonderwünsche." },
+    { "term": "die Diplomatie", "type": "Nomen", "meaning_tr": "diplomasi", "meaning_en": "diplomacy", "example": "Diplomatie hilft bei Konflikten." },
+    { "term": "unverzichtbar", "type": "Adjektiv", "meaning_tr": "vazgeçilmez", "meaning_en": "indispensable", "example": "Wasser ist unverzichtbar." },
+    { "term": "der Gastgeber", "type": "Nomen", "meaning_tr": "ev sahibi, ağırlayan", "meaning_en": "host", "example": "Ein guter Gastgeber sein." },
+    { "term": "das Tablett", "type": "Nomen", "meaning_tr": "tepsi", "meaning_en": "tray", "example": "Das Tablett sicher tragen." },
+    { "term": "balancieren", "type": "Verb", "meaning_tr": "dengelemek", "meaning_en": "to balance", "example": "Gläser auf dem Tablett balancieren." },
+    { "term": "entschädigen", "type": "Verb", "meaning_tr": "telafi etmek", "meaning_en": "to compensate", "example": "Das Geld entschädigt für die Mühe." },
+    { "term": "der Fachkräftemangel", "type": "Nomen", "meaning_tr": "kalifiye eleman eksikliği", "meaning_en": "skilled labor shortage", "example": "Firmen klagen über Fachkräftemangel." },
+    { "term": "zuverlässig", "type": "Adjektiv", "meaning_tr": "güvenilir", "meaning_en": "reliable", "example": "Ein zuverlässiger Mitarbeiter." },
+    { "term": "die Arbeitsbelastung", "type": "Nomen", "meaning_tr": "iş yükü", "meaning_en": "workload", "example": "Die Arbeitsbelastung steigt." },
+    { "term": "aufmerksam", "type": "Adjektiv", "meaning_tr": "dikkatli, nazik", "meaning_en": "attentive", "example": "Ein aufmerksamer Gast." },
+    { "term": "ausmachen", "type": "Verb (trennbar)", "meaning_tr": "oluşturmak, ifade etmek", "meaning_en": "to constitute/matter", "example": "Was macht Qualität aus?" },
+    { "term": "das Gastgewerbe", "type": "Nomen", "meaning_tr": "konaklama ve restoran sektörü", "meaning_en": "hospitality industry", "example": "Arbeit im Gastgewerbe." }
+  ],
+  "questions": [
+    { "question": "Wo arbeitet David?", "options": ["In einer Bank", "In einem beliebten Café in Kreuzberg", "Im Krankenhaus", "In der Schule"], "answer": "In einem beliebten Café in Kreuzberg" },
+    { "question": "Was macht David zu Beginn seines Tages?", "options": ["Er schläft", "Er baut die Tische im Außenbereich auf", "Er liest ein Buch", "Er geht schwimmen"], "answer": "Er baut die Tische im Außenbereich auf" },
+    { "question": "Was muss ein guter Kellner laut David sein?", "options": ["Ein guter Sänger", "Ein Organisationstalent", "Ein reicher Mann", "Ein Pilot"], "answer": "Ein Organisationstalent" },
+    { "question": "Welche Eigenschaften sind in anspruchsvollen Situationen unverzichtbar?", "options": ["Laufen und Springen", "Diplomatie und Geduld", "Schreien und Laufen", "Warten und Schlafen"], "answer": "Diplomatie und Geduld" },
+    { "question": "Was ist körperlich anstrengend an Davids Beruf?", "options": ["Das Sitzen am Computer", "Das Balancieren schwerer Tabletts ve çok yürümek", "Das Reden am Telefon", "Das Lesen von Karten"], "answer": "Das Balancieren schwerer Tabletts ve çok yürümek" },
+    { "question": "Was ist ein großes Problem im aktuellen Gastgewerbe?", "options": ["Zu viel Essen", "Der Fachkräftemangel", "Zu viele Gäste", "Das Wetter"], "answer": "Der Fachkräftemangel" },
+    { "question": "Was macht einen perfekten Gast laut David aus?", "options": ["Viel Geld", "Ein Lächeln und ein freundliches 'Danke'", "Dass er schnell geht", "Dass er nicht bestellt"], "answer": "Ein Lächeln und ein freundliches 'Danke'" },
+    { "question": "Was nimmt sich Lukas für die Zukunft vor?", "options": ["Weniger Kaffee zu trinken", "Aufmerksamer gegenüber Servicepersonal zu sein", "In ein anderes Café zu gehen", "Selbst Kellner zu werden"], "answer": "Aufmerksamer gegenüber Servicepersonal zu sein" }
+  ]
+}

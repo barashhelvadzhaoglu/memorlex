@@ -1,0 +1,41 @@
+{
+  "id": "storie-028",
+  "title": "Fit für die Zukunft",
+  "summary": "Klaus ist Personal Trainer und zeigt Lukas, wie wichtig mentale Stärke für den sportlichen Erfolg ist.",
+  "text": [
+    "Klaus ist kein gewöhnlicher Sportler; er ist Personal Trainer mit einer klaren Mission: Menschen zu einer besseren Version ihrer selbst zu verhelfen. Lukas hat Klaus engagiert, um nach seinem stressigen Job als Grafikdesigner wieder in Form zu kommen. Klaus erklärt Lukas, dass Fitness nicht im Fitnessstudio beginnt, sondern im Kopf. 'Disziplin schlägt Motivation an jedem einzelnen Tag', sagt Klaus während ihrer ersten Trainingseinheit im Berliner Tiergarten.",
+    "Jeder Trainingsplan wird von Klaus individuell erstellt. Er berücksichtigt dabei nicht nur die körperlichen Ziele, sondern auch den stressigen Alltag und die Ernährungsgewohnheiten seiner Klienten. Klaus legt großen Wert auf die korrekte Ausführung der Übungen, um Verletzungen zu vermeiden. Er motiviert Lukas dazu, seine Komfortzone zu verlassen und über seine Grenzen hinauszugehen. Lukas merkt schnell, dass sportliche Aktivität ein großartiger Ausgleich zum langen Sitzen im Büro ist.",
+    "Neben dem Krafttraining ist für Klaus die Regeneration entscheidend. Er erklärt Lukas, dass Muskeln nicht während des Trainings wachsen, sondern in der Ruhephase danach. Ausreichend Schlaf und eine ausgewogene Ernährung sind daher unverzichtbar. Klaus rät Lukas, auf verarbeitete Lebensmittel zu verzichten und stattdessen auf natürliche Energiequellen zu setzen. Lukas findet es faszinierend, wie tief Klaus' Wissen über Biologie und Physiologie ist.",
+    "Nach einigen Wochen konsequentem Training fühlt sich Lukas wie ein neuer Mensch. Er hat mehr Energie, schläft besser und sein Selbstbewusstsein ist gestiegen. Klaus betont, dass Sport keine kurzfristige Maßnahme ist, sondern ein lebenslanger Prozess. Er ermutigt Lukas, kleine Ziele zu setzen und Erfolge zu feiern, um die langfristige Motivation aufrechtzuerhalten. Für Lukas ist Klaus nicht nur ein Trainer, sondern auch ein Mentor für einen gesünderen Lebensstil."
+  ],
+  "vocab": [
+    { "term": "der Trainer", "type": "Nomen", "meaning_tr": "eğitmen, antrenör", "meaning_en": "trainer/coach", "example": "Ein erfahrener Trainer hilft." },
+    { "term": "engagieren", "type": "Verb", "meaning_tr": "tutmak, görevlendirmek", "meaning_en": "to hire/engage", "example": "Einen Experten engagieren." },
+    { "term": "in Form kommen", "type": "Phrase", "meaning_tr": "forma girmek", "meaning_en": "to get in shape", "example": "Ich möchte wieder in Form kommen." },
+    { "term": "die Trainingseinheit", "type": "Nomen", "meaning_tr": "antrenman seansı", "meaning_en": "training session", "example": "Eine harte Trainingseinheit." },
+    { "term": "individuell", "type": "Adjektiv", "meaning_tr": "kişiye özel, bireysel", "meaning_en": "individual", "example": "Ein individueller Plan." },
+    { "term": "die Ausführung", "type": "Nomen", "meaning_tr": "uygulama, yapılış", "meaning_en": "execution", "example": "Auf die korrekte Ausführung achten." },
+    { "term": "vermeiden", "type": "Verb", "meaning_tr": "kaçınmak, önlemek", "meaning_en": "to avoid", "example": "Fehler vermeiden." },
+    { "term": "die Komfortzone", "type": "Nomen", "meaning_tr": "konfor alanı", "meaning_en": "comfort zone", "example": "Die Komfortzone verlassen." },
+    { "term": "die Regeneration", "type": "Nomen", "meaning_tr": "yenilenme, dinlenme", "meaning_en": "regeneration", "example": "Regeneration ist wichtig." },
+    { "term": "entscheidend", "type": "Adjektiv", "meaning_tr": "belirleyici, kritik", "meaning_en": "decisive/crucial", "example": "Das ist ein entscheidender Vorteil." },
+    { "term": "ausgewogen", "type": "Adjektiv", "meaning_tr": "dengeli", "meaning_en": "balanced", "example": "Eine ausgewogene Ernährung." },
+    { "term": "verarbeitet", "type": "Adjektiv", "meaning_tr": "işlenmiş", "meaning_en": "processed", "example": "Verarbeitete Lebensmittel meiden." },
+    { "term": "die Physiologie", "type": "Nomen", "meaning_tr": "fizyoloji", "meaning_en": "physiology", "example": "Kenntnisse in Physiologie." },
+    { "term": "konsequent", "type": "Adjektiv", "meaning_tr": "istikrarlı, tutarlı", "meaning_en": "consistent", "example": "Konsequentes Handeln." },
+    { "term": "die Maßnahme", "type": "Nomen", "meaning_tr": "önlem, adım", "meaning_en": "measure/action", "example": "Neue Maßnahmen planen." },
+    { "term": "aufrechterhalten", "type": "Verb (trennbar)", "meaning_tr": "sürdürmek, korumak", "meaning_en": "to maintain/sustain", "example": "Den Standard aufrechterhalten." },
+    { "term": "der Mentor", "type": "Nomen", "meaning_tr": "rehber, akıl hocası", "meaning_en": "mentor", "example": "Er ist mein Mentor." },
+    { "term": "das Selbstbewusstsein", "type": "Nomen", "meaning_tr": "özgüven", "meaning_en": "self-confidence", "example": "Sport stärkt das Selbstbewusstsein." }
+  ],
+  "questions": [
+    { "question": "Was ist Klaus von Beruf?", "options": ["Koch", "Personal Trainer", "Bäcker", "Polizist"], "answer": "Personal Trainer" },
+    { "question": "Wo findet die erste Trainingseinheit statt?", "options": ["Im Fitnessstudio", "Im Berliner Tiergarten", "Zu Hause", "Am Strand"], "answer": "Im Berliner Tiergarten" },
+    { "question": "Wo beginnt Fitness laut Klaus?", "options": ["Im Studio", "Im Kopf (Disziplin)", "In der Küche", "In den Schuhen"], "answer": "Im Kopf (Disziplin)" },
+    { "question": "Worauf legt Klaus bei den Übungen großen Wert?", "options": ["Auf Schnelligkeit", "Auf die korrekte Ausführung", "Auf laute Musik", "Auf schwere Gewichte"], "answer": "Auf die korrekte Ausführung" },
+    { "question": "Wann wachsen Muskeln laut Klaus?", "options": ["Während des Trainings", "In der Ruhephase danach (Regeneration)", "Beim Essen", "Nie"], "answer": "In der Ruhephase danach (Regeneration)" },
+    { "question": "Welche Lebensmittel sollte man laut Klaus meiden?", "options": ["Frisches Obst", "Verarbeitete Lebensmittel", "Wasser", "Gemüse"], "answer": "Verarbeitete Lebensmittel" },
+    { "question": "Wie fühlt sich Lukas nach einigen Wochen Training?", "options": ["Immer noch müde", "Wie ein neuer Mensch mit mehr Energie", "Krank", "Schlechter als vorher"], "answer": "Wie ein neuer Mensch mit mehr Energie" },
+    { "question": "Was empfiehlt Klaus, um die langfristige Motivation zu halten?", "options": ["Kleine Ziele setzen ve başarıları kutlamak", "Jeden Tag 10 Stunden trainieren", "Nichts essen", "Alles sofort aufgeben"], "answer": "Kleine Ziele setzen ve başarıları kutlamak" }
+  ]
+}

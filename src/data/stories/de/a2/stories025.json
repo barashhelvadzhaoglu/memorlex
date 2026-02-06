@@ -1,0 +1,41 @@
+{
+  "id": "storie-025",
+  "title": "Stimme für die Natur",
+  "summary": "Felix engagiert sich für den Umweltschutz in Berlin und erklärt Lukas, wie man den ökologischen Fußabdruck reduziert.",
+  "text": [
+    "Felix ist kein gewöhnlicher Student; er widmet den größten Teil seiner Freizeit dem Umweltaktivismus. Lukas traf Felix bei einer Demonstration für bessere Radwege in Berlin. Felix ist davon überzeugt, dass der Klimawandel die größte Herausforderung unserer Zeit ist und dass jeder Einzelne einen Beitrag leisten muss. Sein Ziel ist es, das Bewusstsein für Nachhaltigkeit im Alltag zu schärfen und politischen Druck auf die Entscheidungsträger auszuüben.",
+    "Einer der zentralen Begriffe in Felix' Arbeit ist der 'ökologische Fußabdruck'. Er erklärt Lukas, dass dieser Begriff misst, wie viele Ressourcen ein Mensch verbraucht. Um den Fußabdruck zu verkleinern, lebt Felix minimalistisch. Er kauft fast ausschließlich Second-Hand-Kleidung, ernährt sich vegan und verzichtet komplett auf Flugreisen. 'Wir müssen lernen, mit weniger zufrieden zu sein, um den Planeten zu retten', sagt er leidenschaftlich.",
+    "Felix organisiert auch sogenannte 'Urban Gardening' Projekte. Dabei werden brachliegende Flächen in der Stadt in grüne Oasen verwandelt, in denen die Bewohner gemeinsam Gemüse anbauen können. Lukas findet diese Idee großartig, da sie nicht nur die Umwelt schont, sondern auch den sozialen Zusammenhalt im Viertel stärkt. Felix betont, dass Natur in der Stadt wichtig für das Mikroklima ist und die Luftqualität verbessert.",
+    "Trotz der oft deprimierenden Nachrichten über die Umwelt bleibt Felix optimistisch. Er sieht, dass immer mehr Menschen, besonders die jüngere Generation, bereit sind, ihr Verhalten zu ändern. Er ermutigt Lukas, kleine Schritte zu machen: Mehr Mehrwegprodukte nutzen, weniger Plastik verbrauchen und öfter mal das Auto stehen lassen. Für Felix zählt jede Tat, denn viele kleine Veränderungen können zusammen eine große Wirkung entfalten."
+  ],
+  "vocab": [
+    { "term": "das Engagement", "type": "Nomen", "meaning_tr": "katılım, çaba, özveri", "meaning_en": "commitment/engagement", "example": "Sein Engagement für die Umwelt." },
+    { "term": "der Klimawandel", "type": "Nomen", "meaning_tr": "iklim değişikliği", "meaning_en": "climate change", "example": "Folgen des Klimawandels." },
+    { "term": "nachhaltig", "type": "Adjektiv", "meaning_tr": "sürdürülebilir", "meaning_en": "sustainable", "example": "Nachhaltiges Leben ist wichtig." },
+    { "term": "der Entscheidungsträger", "type": "Nomen", "meaning_tr": "karar verici", "meaning_en": "decision maker", "example": "Druck auf Entscheidungsträger ausüben." },
+    { "term": "der Fußabdruck", "type": "Nomen", "meaning_tr": "ayak izi", "meaning_en": "footprint", "example": "Der ökologische Fußabdruck." },
+    { "term": "minimalistisch", "type": "Adjektiv", "meaning_tr": "minimalist", "meaning_en": "minimalist", "example": "Minimalistisch wohnen." },
+    { "term": "vegan", "type": "Adjektiv", "meaning_tr": "vegan", "meaning_en": "vegan", "example": "Vegan essen schont Ressourcen." },
+    { "term": "brachliegend", "type": "Adjektiv", "meaning_tr": "atıl, boş duran", "meaning_en": "fallow/unused", "example": "Brachliegende Flächen nutzen." },
+    { "term": "die Oase", "type": "Nomen", "meaning_tr": "vaha", "meaning_en": "oasis", "example": "Eine grüne Oase in der Stadt." },
+    { "term": "das Mikroklima", "type": "Nomen", "meaning_tr": "mikro klima", "meaning_en": "microclimate", "example": "Bäume verbessern das Mikroklima." },
+    { "term": "deprimierend", "type": "Adjektiv", "meaning_tr": "depresif, moral bozucu", "meaning_en": "depressing", "example": "Deprimierende Nachrichten." },
+    { "term": "das Mehrwegprodukt", "type": "Nomen", "meaning_tr": "tekrar kullanılabilir ürün", "meaning_en": "reusable product", "example": "Mehrwegprodukte statt Plastik." },
+    { "term": "die Wirkung", "type": "Nomen", "meaning_tr": "etki", "meaning_en": "effect/impact", "example": "Eine große Wirkung erzielen." },
+    { "term": "entfalten", "type": "Verb", "meaning_tr": "ortaya koymak, göstermek", "meaning_en": "to unfold/develop", "example": "Potenzial entfalten." },
+    { "term": "die Generation", "type": "Nomen", "meaning_tr": "nesil", "meaning_en": "generation", "example": "Die junge Generation." },
+    { "term": "verzichten auf", "type": "Verb", "meaning_tr": "-den vazgeçmek", "meaning_en": "to do without", "example": "Auf Fleisch verzichten." },
+    { "term": "der Ressourcenverbrauch", "type": "Nomen", "meaning_tr": "kaynak tüketimi", "meaning_en": "resource consumption", "example": "Den Ressourcenverbrauch senken." },
+    { "term": "der Umweltaktivismus", "type": "Nomen", "meaning_tr": "çevre aktivizmi", "meaning_en": "environmental activism", "example": "Engagement im Umweltaktivismus." }
+  ],
+  "questions": [
+    { "question": "Wo traf Lukas Felix zum ersten Mal?", "options": ["In der Universität", "Bei einer Demonstration für Radwege", "Im Kino", "Im Park"], "answer": "Bei einer Demonstration für Radwege" },
+    { "question": "Was ist laut Felix die größte Herausforderung unserer Zeit?", "options": ["Zu viel Arbeit", "Der Klimawandel", "Teure Mieten", "Schlechtes Wetter"], "answer": "Der Klimawandel" },
+    { "question": "Was misst der 'ökologische Fußabdruck'?", "options": ["Wie groß die Füße eines Menschen sind", "Wie viele Ressourcen ein Mensch verbraucht", "Wie schnell man laufen kann", "Wie viele Schuhe man hat"], "answer": "Wie viele Ressourcen ein Mensch verbraucht" },
+    { "question": "Wie lebt Felix, um seinen Fußabdruck zu verkleinern?", "options": ["Er kauft viele neue Autos", "Er lebt minimalistisch und vegan", "Er reist jeden Monat mit dem Flugzeug", "Er isst viel Fleisch"], "answer": "Er lebt minimalistisch und vegan" },
+    { "question": "Was ist 'Urban Gardening'?", "options": ["Blumen im Haus züchten", "Gemeinsam Gemüse auf Stadtflächen anbauen", "Ein Waldspaziergang", "In den Urlaub fahren"], "answer": "Gemeinsam Gemüse auf Stadtflächen anbauen" },
+    { "question": "Welchen Vorteil bietet Natur in der Stadt?", "options": ["Es gibt mehr Parkplätze", "Es verbessert das Mikroklima und die Luftqualität", "Die Häuser werden teurer", "Es wird lauter"], "answer": "Es verbessert das Mikroklima und die Luftqualität" },
+    { "question": "Warum bleibt Felix optimistisch?", "options": ["Weil er viel Geld hat", "Weil immer mehr Menschen bereit sind, ihr Verhalten zu ändern", "Weil es keine Nachrichten mehr gibt", "Weil er nicht arbeiten muss"], "answer": "Weil immer mehr Menschen bereit sind, ihr Verhalten zu ändern" },
+    { "question": "Welche kleinen Schritte empfiehlt Felix?", "options": ["Mehr Plastik nutzen", "Mehrwegprodukte nutzen ve arabayı az kullanmak", "Gar nichts tun", "Nur noch schlafen"], "answer": "Mehrwegprodukte nutzen ve arabayı az kullanmak" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "storie-021",
+  "title": "Auf der Jagd nach der Wahrheit",
+  "summary": "Ein Porträt über die Journalistin Elena, die über das Stadtleben in Berlin berichtet und Lukas die Bedeutung von Fakten erklärt.",
+  "text": [
+    "Elenas Arbeitstag beginnt nicht in einem Büro, sondern oft mitten im Geschehen auf den Straßen Berlins. Als freie Journalistin für eine bekannte Tageszeitung ist sie ständig auf der Suche nach interessanten Geschichten, die die Menschen bewegen. Lukas lernte Elena bei einer Pressekonferenz über Stadtentwicklung kennen. Er war beeindruckt von ihrer Fähigkeit, komplexe Sachverhalte in kurzer Zeit zu analysieren und kritische Fragen zu stellen. Für Elena ist Journalismus nicht nur ein Beruf, sondern eine gesellschaftliche Verantwortung.",
+    "Ihr Vormittag ist meist geprägt von intensiver Recherche. Sie telefoniert mit Experten, prüft offizielle Dokumente und vergleicht verschiedene Quellen, um sicherzustellen, dass ihre Berichterstattung objektiv und wahrheitsgemäß ist. In Zeiten von 'Fake News' hält sie die sorgfältige Überprüfung von Informationen für die wichtigste Aufgabe ihrer Zunft. Sie erklärt Lukas, dass ein guter Artikel nicht nur informieren, sondern auch verschiedene Perspektiven aufzeigen sollte, damit sich die Leser eine eigene Meinung bilden können.",
+    "Nachmittags setzt sich Elena in ihr Lieblingscafé, um ihre Texte zu verfassen. Dabei muss sie oft unter hohem Zeitdruck arbeiten, da die Deadline für die Druckausgabe unerbittlich näher rückt. Sie liebt es, mit Sprache zu spielen und treffende Formulierungen zu finden, die die Aufmerksamkeit der Leser fesseln. Lukas findet es faszinierend, wie Elena es schafft, trockene Statistiken in eine lebendige Reportage zu verwandeln. Sie nutzt soziale Medien, um direktes Feedback von ihrer Zielgruppe zu erhalten und aktuelle Trends aufzugreifen.",
+    "Trotz der Herausforderungen, wie dem sinkenden Vertrauen in die Medien und der unsicheren Bezahlung als Freiberuflerin, bleibt Elena leidenschaftlich. Sie glaubt fest daran, dass unabhängiger Journalismus das Rückgrat einer Demokratie ist. Am Abend reflektiert sie ihre Arbeit und plant bereits das nächste Interview. Sie ermutigt Lukas, Informationen im Internet immer kritisch zu hinterfragen und nicht alles sofort zu glauben, was geteilt wird. Für sie ist Neugier der Motor des Fortschritts."
+  ],
+  "vocab": [
+    { "term": "das Geschehen", "type": "Nomen", "meaning_tr": "olaylar, olup bitenler", "meaning_en": "events/happenings", "example": "Mitten im Geschehen sein." },
+    { "term": "der Sachverhalt", "type": "Nomen", "meaning_tr": "olay, durum", "meaning_en": "facts/circumstances", "example": "Den Sachverhalt klären." },
+    { "term": "die Recherche", "type": "Nomen", "meaning_tr": "araştırma", "meaning_en": "research/investigation", "example": "Eine gründliche Recherche." },
+    { "term": "die Quelle", "type": "Nomen", "meaning_tr": "kaynak", "meaning_en": "source", "example": "Informationen aus sicheren Quellen." },
+    { "term": "wahrheitsgemäß", "type": "Adjektiv", "meaning_tr": "doğru, gerçeğe uygun", "meaning_en": "truthful", "example": "Aussagen wahrheitsgemäß machen." },
+    { "term": "die Zunft", "type": "Nomen", "meaning_tr": "lonca, meslek grubu", "meaning_en": "guild/trade", "example": "Regeln der journalistischen Zunft." },
+    { "term": "verfassen", "type": "Verb", "meaning_tr": "kaleme almak, yazmak", "meaning_en": "to compose/write", "example": "Einen Artikel verfassen." },
+    { "term": "die Deadline", "type": "Nomen", "meaning_tr": "son teslim tarihi", "meaning_en": "deadline", "example": "Die Deadline einhalten." },
+    { "term": "unerbittlich", "type": "Adjektiv", "meaning_tr": "amansız, geri dönülmez", "meaning_en": "relentless", "example": "Die Zeit läuft unerbittlich." },
+    { "term": "fesseln", "type": "Verb", "meaning_tr": "bağlamak, büyülemek", "meaning_en": "to captivate/rivet", "example": "Ein Buch fesselt den Leser." },
+    { "term": "die Reportage", "type": "Nomen", "meaning_tr": "röportaj, haber", "meaning_en": "reportage", "example": "Eine spannende Reportage." },
+    { "term": "das Feedback", "type": "Nomen", "meaning_tr": "geri bildirim", "meaning_en": "feedback", "example": "Feedback von Kunden erhalten." },
+    { "term": "die Zielgruppe", "type": "Nomen", "meaning_tr": "hedef kitle", "meaning_en": "target group", "example": "Die Zielgruppe analysieren." },
+    { "term": "das Rückgrat", "type": "Nomen", "meaning_tr": "omurga (mecaz)", "meaning_en": "backbone", "example": "Das Rückgrat der Gesellschaft." },
+    { "term": "hinterfragen", "type": "Verb", "meaning_tr": "sorgulamak", "meaning_en": "to scrutinize/question", "example": "Informationen kritisch hinterfragen." },
+    { "term": "die Bezahlung", "type": "Nomen", "meaning_tr": "ödeme", "meaning_en": "payment", "example": "Die Bezahlung ist fair." },
+    { "term": "die Berichterstattung", "type": "Nomen", "meaning_tr": "haber yapma, raporlama", "meaning_en": "reporting", "example": "Objektive Berichterstattung." },
+    { "term": "aufgreifen", "type": "Verb (trennbar)", "meaning_tr": "ele almak, yakalamak", "meaning_en": "to take up/pick up", "example": "Ein Thema aufgreifen." },
+    { "term": "der Motor", "type": "Nomen", "meaning_tr": "motor, itici güç", "meaning_en": "motor/driving force", "example": "Neugier ist der Motor." }
+  ],
+  "questions": [
+    { "question": "Wo beginnt Elenas Arbeitstag meistens?", "options": ["In einem festen Büro", "In der Schule", "Mitten im Geschehen auf der Straße", "Im Bett"], "answer": "Mitten im Geschehen auf der Straße" },
+    { "question": "Welche Aufgabe hält Elena in Zeiten von 'Fake News' für besonders wichtig?", "options": ["Viel Geld zu verdienen", "Die sorgfältige Überprüfung von Informationen", "Schnell zu schreiben", "Nichts zu tun"], "answer": "Die sorgfältige Überprüfung von Informationen" },
+    { "question": "Warum sollte ein guter Artikel verschiedene Perspektiven aufzeigen?", "options": ["Damit er länger wird", "Damit die Leser sich eine eigene Meinung bilden können", "Damit er teurer verkauft wird", "Damit es mehr Bilder gibt"], "answer": "Damit die Leser sich eine eigene Meinung bilden können" },
+    { "question": "Unter welchem Druck arbeitet Elena nachmittags?", "options": ["Unter Wasserdruck", "Unter Zeitdruck wegen der Deadline", "Gar keinem Druck", "Unter politischem Druck"], "answer": "Unter Zeitdruck wegen der Deadline" },
+    { "question": "Was nutzt Elena, um Feedback von ihrer Zielgruppe zu erhalten?", "options": ["Das Radio", "Soziale Medien", "Briefe", "Telefonauskunft"], "answer": "Soziale Medien" },
+    { "question": "Wie sieht Elena die Rolle des Journalismus in der Demokratie?", "options": ["Als ein Hobby", "Als das Rückgrat der Demokratie", "Als Gefahr", "Als unwichtig"], "answer": "Als das Rückgrat der Demokratie" },
+    { "question": "Welchen Rat gibt Elena Lukas bezüglich Internet-Informationen?", "options": ["Alles sofort zu glauben", "Nichts mehr zu lesen", "Informationen immer kritisch zu hinterfragen", "Nur Videos zu schauen"], "answer": "Informationen immer kritisch zu hinterfragen" },
+    { "question": "Was ist für Elena der 'Motor des Fortschritts'?", "options": ["Das Auto", "Die Neugier", "Das Geld", "Die Angst"], "answer": "Die Neugier" }
+  ]
+}

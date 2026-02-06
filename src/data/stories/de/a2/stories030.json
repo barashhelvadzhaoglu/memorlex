@@ -1,0 +1,41 @@
+{
+  "id": "storie-030",
+  "title": "Blitzschnell durch Berlin",
+  "summary": "Miro arbeitet als Fahrradkurier und berichtet von seinem harten, aber freien Leben auf zwei Rädern.",
+  "text": [
+    "Miro kennt Berlin besser als jeder Navigationsdienst. Er arbeitet als Fahrradkurier und verbringt täglich bis zu acht Stunden im Sattel. Lukas lernte Miro kennen, als dieser ein dringendes Paket in sein Grafikbüro lieferte. Miro ist stolz auf seine Schnelligkeit und seine Fähigkeit, sich durch den dichten Berufsverkehr zu schlängeln. Für ihn ist das Fahrrad das effizienteste Transportmittel in einer überfüllten Großstadt wie Berlin.",
+    "Der Job ist jedoch kein Zuckerschlecken. Miro muss bei jedem Wetter raus – egal ob es regnet, schneit oder die Sonne brennt. Er trägt eine spezielle wasserdichte Ausrüstung und einen großen Rucksack, in dem er Dokumente, Medikamente oder kleine Pakete transportiert. Er erklärt Lukas, dass Konzentration lebenswichtig ist, da Autofahrer Radfahrer oft übersehen. Miro muss jederzeit vorausschauend fahren und schnell reagieren können.",
+    "Besonders schätzt Miro die Unabhängigkeit. Er hat keine festen Bürozeiten und kann sich seine Schichten flexibel einteilen. Über eine App erhält er seine Aufträge und navigiert zum Ziel. Der Zeitdruck ist oft hoch, da die Kunden eine schnelle Lieferung erwarten. Miro findet den physischen Aspekt seiner Arbeit positiv; er spart sich das Fitnessstudio, da er jeden Tag ein intensives Ausdauertraining absolviert. Sein Ruhepuls ist so niedrig wie der eines Profisportlers.",
+    "Miro beobachtet die Veränderungen in der Stadt genau. Er freut sich über jeden neuen Radweg, kritisiert aber auch den schlechten Zustand vieler Straßen. Er hofft, dass Berlin in Zukunft noch fahrradfreundlicher wird und der Autoverkehr reduziert wird. Lukas ist beeindruckt von Miros Energie und Ausdauer. Er versteht jetzt, dass Fahrradkuriere ein wichtiger Teil der städtischen Logistik sind, die dafür sorgen, dass wichtige Dinge trotz Staus pünktlich ankommen."
+  ],
+  "vocab": [
+    { "term": "der Fahrradkurier", "type": "Nomen", "meaning_tr": "bisikletli kurye", "meaning_en": "bicycle courier", "example": "Der Fahrradkurier liefert das Paket." },
+    { "term": "der Sattel", "type": "Nomen", "meaning_tr": "sele, eyer", "meaning_en": "saddle", "example": "Der Sattel ist bequem." },
+    { "term": "dringend", "type": "Adjektiv", "meaning_tr": "acil", "meaning_en": "urgent", "example": "Ein dringendes Paket." },
+    { "term": "sich schlängeln", "type": "Verb", "meaning_tr": "kıvrılmak, aralardan geçmek", "meaning_en": "to weave/meander", "example": "Sich durch den Verkehr schlängeln." },
+    { "term": "überfüllt", "type": "Adjektiv", "meaning_tr": "aşırı dolu, tıklım tıklım", "meaning_en": "crowded/overfilled", "example": "Die U-Bahn ist überfüllt." },
+    { "term": "kein Zuckerschlecken", "type": "Phrase", "meaning_tr": "çocuk oyuncağı değil (zor)", "meaning_en": "no walk in the park", "example": "Der Job ist kein Zuckerschlecken." },
+    { "term": "wasserdicht", "type": "Adjektiv", "meaning_tr": "su geçirmez", "meaning_en": "waterproof", "example": "Eine wasserdichte Jacke." },
+    { "term": "vorausschauend", "type": "Adjektiv", "meaning_tr": "ileriyi gören, tedbirli", "meaning_en": "proactive/anticipatory", "example": "Vorausschauend fahren rettet Leben." },
+    { "term": "die Unabhängigkeit", "type": "Nomen", "meaning_tr": "bağımsızlık", "meaning_en": "independence", "example": "Unabhängigkeit ist mir wichtig." },
+    { "term": "die Schicht", "type": "Nomen", "meaning_tr": "vardiya", "meaning_en": "shift", "example": "Die Nachtschicht arbeiten." },
+    { "term": "der Auftrag", "type": "Nomen", "meaning_tr": "sipariş, görev", "meaning_en": "order/task", "example": "Einen neuen Auftrag erhalten." },
+    { "term": "das Ausdauertraining", "type": "Nomen", "meaning_tr": "dayanıklılık antrenmanı", "meaning_en": "endurance training", "example": "Radfahren ist ein gutes Ausdauertraining." },
+    { "term": "der Ruhepuls", "type": "Nomen", "meaning_tr": "dinlenme nabzı", "meaning_en": "resting heart rate", "example": "Ein niedriger Ruhepuls." },
+    { "term": "fahrradfreundlich", "type": "Adjektiv", "meaning_tr": "bisiklet dostu", "meaning_en": "bicycle-friendly", "example": "Berlin wird fahrradfreundlicher." },
+    { "term": "die Logistik", "type": "Nomen", "meaning_tr": "lojistik", "meaning_en": "logistics", "example": "Städtische Logistik planen." },
+    { "term": "blitzschnell", "type": "Adjektiv", "meaning_tr": "şimşek gibi hızlı", "meaning_en": "lightning fast", "example": "Er reagiert blitzschnell." },
+    { "term": "der Zustand", "type": "Nomen", "meaning_tr": "durum, hâl", "meaning_en": "condition/state", "example": "Der Zustand der Straße ist schlecht." },
+    { "term": "übersehen", "type": "Verb", "meaning_tr": "gözden kaçırmak, görmemek", "meaning_en": "to overlook/ignore", "example": "Einen Fehler übersehen." }
+  ],
+  "questions": [
+    { "question": "Wo arbeitet Miro täglich?", "options": ["Im Büro", "Auf seinem Fahrrad (im Sattel)", "In einer Fabrik", "In einer Bank"], "answer": "Auf seinem Fahrrad (im Sattel)" },
+    { "question": "Warum ist das Fahrrad laut Miro ideal für Berlin?", "options": ["Weil es bunt ist", "Weil es das effizienteste Transportmittel im Berufsverkehr ist", "Weil es nichts kostet", "Weil man darauf schlafen kann"], "answer": "Weil es das effizienteste Transportmittel im Berufsverkehr ist" },
+    { "question": "Was ist eine große Herausforderung für Miro?", "options": ["Das Wetter (Regen, Schnee, Hitze)", "Dass er zu viel essen muss", "Dass er keine Musik hören darf", "Dass er im Büro sitzen muss"], "answer": "Das Wetter (Regen, Schnee, Hitze)" },
+    { "question": "Was ist für Miro im Verkehr lebenswichtig?", "options": ["Viel Geld", "Konzentration ve tedbirli sürüş", "Ein lautes Radio", "Ein teures Handy"], "answer": "Konzentration ve tedbirli sürüş" },
+    { "question": "Was schätzt Miro besonders an seinem Beruf?", "options": ["Die festen Zeiten", "Die Unabhängigkeit ve esnek vardiyalar", "Den Anzug, den er tragen muss", "Dass er nicht laufen muss"], "answer": "Die Unabhängigkeit ve esnek vardiyalar" },
+    { "question": "Welchen körperlichen Vorteil hat Miros Arbeit?", "options": ["Er wird dicker", "Es ist ein intensives Ausdauertraining", "Er muss weniger schlafen", "Nichts"], "answer": "Es ist ein intensives Ausdauertraining" },
+    { "question": "Was kritisiert Miro in Berlin?", "options": ["Das Essen", "Den schlechten Zustand vieler Straßen", "Die Museen", "Die Parks"], "answer": "Den schlechten Zustand vieler Straßen" },
+    { "question": "Wie sieht Lukas die Rolle der Fahrradkuriere?", "options": ["Als unwichtig", "Als wichtigen Teil der städtischen Logistik", "Als Gefahr", "Als Touristen"], "answer": "Als wichtigen Teil der städtischen Logistik" }
+  ]
+}
