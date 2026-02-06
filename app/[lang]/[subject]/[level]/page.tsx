@@ -72,9 +72,9 @@ export default async function LevelPage({ params }: { params: Promise<{ lang: st
     );
   }
 
-  // Stories etiketleri (UI diline göre)
+  // ✅ TypeScript Build Hatası Çözümü: (dict as any) eklenerek stories anahtarına erişim sağlandı
   const storiesTitle =
-    dict?.stories?.title ||
+    (dict as any)?.stories?.title ||
     (lang === "tr" ? "HİKÂYELER" : lang === "de" ? "GESCHICHTEN" : "STORIES");
 
   const storiesSub =
