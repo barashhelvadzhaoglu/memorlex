@@ -38,11 +38,9 @@ export default function ClientFlashcardApp({ initialWords, lang, subject, dict }
   const [fIdx, setFIdx] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   
-  // DÜZELTME: Başlangıçta tüm kelimeleri kapsayacak şekilde range ayarlandı
   const [range, setRange] = useState({ start: 1, end: initialWords?.length || 0 });
   const [lastRangeSize, setLastRangeSize] = useState(10);
 
-  // initialWords değiştiğinde (yüklendiğinde) range'i tekrar güncelle
   useEffect(() => {
     if (initialWords?.length > 0) {
       setRange({ start: 1, end: initialWords.length });
@@ -87,18 +85,18 @@ export default function ClientFlashcardApp({ initialWords, lang, subject, dict }
   );
 
   return (
-    <div className="max-w-md mx-auto p-4 font-sans min-h-screen">
+    <div className="max-w-4xl mx-auto p-4 font-sans transition-all duration-300">
       
-      {/* 1. SETUP EKRANI */}
+      {/* 1. SETUP EKRANI - Kompakt Boyut */}
       {view === 'setup' && (
-        <div className="p-8 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-[40px] shadow-2xl text-center">
-          <h2 className="text-slate-400 font-bold text-[10px] uppercase tracking-[2px] mb-6 italic opacity-70">{subject}</h2>
+        <div className="max-w-sm mx-auto p-8 bg-white dark:bg-slate-900 border border-slate-100 dark:border-white/5 rounded-[32px] md:rounded-[40px] shadow-2xl text-center mt-6">
+          <h2 className="text-slate-400 font-black text-[10px] uppercase tracking-[0.2em] mb-6 italic opacity-70">{subject}</h2>
           
-          <p className="text-slate-500 dark:text-slate-400 text-xs font-bold mb-4 italic">
-            {t.setupLabel || "Çalışmak istediğiniz kelime sayısını seçin"}
+          <p className="text-slate-500 dark:text-slate-400 text-xs font-bold mb-6 italic uppercase tracking-tight">
+            {t.setupLabel}
           </p>
 
-          <div className="flex gap-3 justify-center mb-8">
+          <div className="flex gap-2 justify-center mb-8">
             {[10, 15, 20].map(n => (
               <button 
                 key={n} 
@@ -106,88 +104,108 @@ export default function ClientFlashcardApp({ initialWords, lang, subject, dict }
                   setRange({ start: 1, end: n });
                   launchFlashcards(1, Math.min(n, initialWords.length));
                 }} 
-                className="w-14 h-14 rounded-2xl border-2 border-slate-100 dark:border-slate-700 font-black text-slate-700 dark:text-slate-200 hover:border-amber-500 hover:text-amber-500 transition-all cursor-pointer"
+                className="flex-1 py-3.5 rounded-xl border-2 border-slate-50 dark:border-slate-800 font-black text-slate-600 dark:text-slate-200 hover:border-amber-500 hover:text-amber-500 transition-all cursor-pointer bg-transparent active:scale-95"
               >
                 {n}
               </button>
             ))}
           </div>
 
-          <div className="flex gap-4 justify-center items-center mb-10">
-            <input type="number" value={range.start} onChange={e => setRange({...range, start: Number(e.target.value)})} className="w-20 p-4 bg-slate-50 dark:bg-slate-800 border-none rounded-2xl text-center font-bold text-xl text-slate-900 dark:text-white" />
-            <span className="text-slate-400 font-bold">—</span>
-            <input type="number" value={range.end} onChange={e => setRange({...range, end: Number(e.target.value)})} className="w-20 p-4 bg-slate-50 dark:bg-slate-800 border-none rounded-2xl text-center font-bold text-xl text-slate-900 dark:text-white" />
+          <div className="flex gap-2 justify-center items-center mb-10">
+            <input type="number" value={range.start} onChange={e => setRange({...range, start: Number(e.target.value)})} className="w-20 p-3 bg-slate-50 dark:bg-white/5 border-none rounded-xl text-center font-black text-lg text-slate-900 dark:text-white outline-none focus:ring-2 ring-amber-500/20" />
+            <span className="text-slate-300 font-black">—</span>
+            <input type="number" value={range.end} onChange={e => setRange({...range, end: Number(e.target.value)})} className="w-20 p-3 bg-slate-50 dark:bg-white/5 border-none rounded-xl text-center font-black text-lg text-slate-900 dark:text-white outline-none focus:ring-2 ring-amber-500/20" />
           </div>
 
           <button 
             onClick={() => launchFlashcards(range.start, range.end)} 
-            style={{ backgroundColor: '#f59e0b' }} 
-            className="w-full py-5 rounded-[24px] font-black text-lg shadow-xl uppercase active:scale-95 transition-transform cursor-pointer"
+            className="w-full py-4 bg-amber-500 text-black rounded-2xl font-black text-lg shadow-xl uppercase active:scale-95 transition-transform cursor-pointer italic tracking-tighter"
           >
-            <SafeText color="#ffffff">{t.start || "BAŞLAT"} ({initialWords.length})</SafeText>
+            <SafeText color="#000000">{t.start} ({initialWords.length})</SafeText>
           </button>
         </div>
       )}
 
-      {/* 2. PRACTICE EKRANI */}
+      {/* 2. PRACTICE EKRANI - Kart Boyutu ve Oranı Optimize Edildi */}
       {view === 'practice' && currentSet.length > 0 && (
-        <div className="animate-in fade-in duration-700">
-          <div className="flex justify-between items-center mb-6 px-2">
-            <span className="text-[10px] font-black text-amber-600 dark:text-amber-400 bg-amber-500/10 px-4 py-1.5 rounded-full tracking-widest">
+        <div className="max-w-md mx-auto animate-in fade-in duration-700">
+          <div className="flex justify-between items-center mb-6 px-4">
+            <span className="text-[10px] font-black text-amber-600 dark:text-amber-400 bg-amber-500/10 px-4 py-1.5 rounded-full tracking-widest uppercase">
               {fIdx + 1} / {currentSet.length}
             </span>
-            <button onClick={() => setView('setup')} className="text-[10px] font-black text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 uppercase tracking-widest transition-colors cursor-pointer">
-              {t.close || "KAPAT"}
+            <button onClick={() => setView('setup')} className="text-[10px] font-black text-slate-400 hover:text-red-500 uppercase tracking-widest transition-colors cursor-pointer italic opacity-60">
+              {t.close}
             </button>
           </div>
 
-          <div className="relative h-[450px]" style={{ perspective: '1200px' }}>
-            <div onClick={() => setIsFlipped(!isFlipped)} className="relative w-full h-full transition-all duration-500 cursor-pointer" style={{ transformStyle: 'preserve-3d', transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)' }}>
-              <div className="absolute inset-0 bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 rounded-[48px] flex flex-col items-center justify-center p-10 text-center shadow-2xl" style={{ backfaceVisibility: 'hidden' }}>
-                <span className="px-4 py-1.5 rounded-xl text-[10px] font-black text-white mb-8 uppercase shadow-sm" style={{ background: fTypeColors[currentSet[fIdx]?.type] || fTypeColors["DEFAULT"] }}>
+          {/* Kartın devasa olmasını engelleyen h-[380px] md:h-[420px] sınırı */}
+          <div className="relative h-[380px] md:h-[420px] w-full" style={{ perspective: '1200px' }}>
+            <div 
+              onClick={() => setIsFlipped(!isFlipped)} 
+              className="relative w-full h-full transition-all duration-700 cursor-pointer" 
+              style={{ transformStyle: 'preserve-3d', transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)' }}
+            >
+              {/* ÖN YÜZ */}
+              <div className="absolute inset-0 bg-white dark:bg-slate-950 border-2 border-slate-50 dark:border-slate-900 rounded-[40px] md:rounded-[56px] flex flex-col items-center justify-center p-8 text-center shadow-2xl" style={{ backfaceVisibility: 'hidden' }}>
+                <span className="px-4 py-1 rounded-lg text-[10px] font-black text-white mb-10 uppercase italic tracking-widest" style={{ background: fTypeColors[currentSet[fIdx]?.type] || fTypeColors["DEFAULT"] }}>
                   {currentSet[fIdx]?.type}
                 </span>
-                <h2 className="text-3xl font-black mb-4 text-slate-900 dark:text-white leading-tight">{currentSet[fIdx]?.meaning}</h2>
-                <span className="absolute bottom-10 text-[10px] font-black uppercase tracking-[4px] text-slate-300 dark:text-slate-500">
-                   {t.flip || "ÇEVİR"}
-                </span>
+                <h2 className="text-3xl md:text-4xl font-black mb-4 text-slate-900 dark:text-white leading-tight tracking-tighter uppercase italic">{currentSet[fIdx]?.meaning}</h2>
+                <div className="absolute bottom-10 flex flex-col items-center opacity-30">
+                   <span className="text-[9px] font-black uppercase tracking-[0.3em] text-slate-400">
+                      {t.flip}
+                   </span>
+                </div>
               </div>
-              <div className="absolute inset-0 bg-amber-500 rounded-[48px] flex flex-col items-center justify-center p-10 text-center text-white shadow-2xl" style={{ backfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
-                <h2 className="text-4xl font-black italic mb-6 leading-tight tracking-tighter">{currentSet[fIdx]?.term}</h2>
-                <div className="w-12 h-1 bg-white/20 rounded-full mb-6"></div>
-                <p className="text-white/90 italic text-lg leading-relaxed font-medium">{currentSet[fIdx]?.example.replace('***', currentSet[fIdx]?.term)}</p>
+
+              {/* ARKA YÜZ */}
+              <div className="absolute inset-0 bg-amber-500 rounded-[40px] md:rounded-[56px] flex flex-col items-center justify-center p-8 text-center text-black shadow-2xl" style={{ backfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
+                <h2 className="text-4xl md:text-5xl font-black italic mb-6 leading-tight tracking-tighter uppercase">{currentSet[fIdx]?.term}</h2>
+                <div className="w-12 h-1 bg-black/10 rounded-full mb-6"></div>
+                <p className="text-black/80 italic text-base md:text-lg leading-relaxed font-bold px-4">
+                  "{currentSet[fIdx]?.example.replace('***', currentSet[fIdx]?.term)}"
+                </p>
               </div>
             </div>
           </div>
 
-          <div className="flex gap-4 mt-10">
-            <button onClick={(e) => { e.stopPropagation(); setIsFlipped(false); setTimeout(() => setFIdx(fIdx - 1), 150); }} disabled={fIdx === 0} className="flex-1 py-5 rounded-[24px] font-black text-xs uppercase shadow-lg bg-slate-100 dark:bg-slate-800 text-slate-500 disabled:opacity-30 cursor-pointer transition-all active:scale-95">
-              {t.prev || "GERİ"}
+          {/* Butonlar - Mobilde yan yana ve şık */}
+          <div className="flex gap-3 mt-8 px-2">
+            <button 
+              onClick={(e) => { e.stopPropagation(); setIsFlipped(false); setTimeout(() => setFIdx(fIdx - 1), 150); }} 
+              disabled={fIdx === 0} 
+              className="flex-1 py-4 rounded-2xl font-black text-[10px] uppercase shadow-md bg-slate-100 dark:bg-slate-900 text-slate-500 disabled:opacity-20 cursor-pointer transition-all active:scale-95 italic border-none"
+            >
+              {t.prev}
             </button>
-            <button onClick={(e) => { e.stopPropagation(); if (fIdx < currentSet.length - 1) { setIsFlipped(false); setTimeout(() => setFIdx(fIdx + 1), 150); } else setView('summary'); }} style={{ backgroundColor: '#2563eb' }} className="flex-[2] py-5 rounded-[24px] font-black text-xs uppercase shadow-2xl active:scale-95 transition-all cursor-pointer">
-              <SafeText color="#ffffff">{fIdx === currentSet.length - 1 ? (t.finish || "BİTİR") : (t.next || "İLERİ")}</SafeText>
+            <button 
+              onClick={(e) => { e.stopPropagation(); if (fIdx < currentSet.length - 1) { setIsFlipped(false); setTimeout(() => setFIdx(fIdx + 1), 150); } else setView('summary'); }} 
+              className="flex-[2] py-4 rounded-2xl font-black text-[10px] uppercase shadow-xl bg-slate-900 dark:bg-white text-white dark:text-black active:scale-95 transition-all cursor-pointer italic tracking-widest"
+            >
+              <SafeText color="inherit">{fIdx === currentSet.length - 1 ? t.finish : t.next}</SafeText>
             </button>
           </div>
         </div>
       )}
 
-      {/* 3. SUMMARY EKRANI */}
+      {/* 3. SUMMARY EKRANI - Kompakt ve Temiz */}
       {view === 'summary' && (
-        <div className="text-center bg-white dark:bg-slate-900 p-12 rounded-[48px] border border-slate-100 dark:border-slate-800 shadow-2xl animate-in zoom-in-95">
-          <div className="text-7xl mb-8">🏆</div>
-          <h2 className="text-3xl font-black mb-3 text-slate-900 dark:text-white uppercase italic tracking-tighter">{t.doneTitle || "TEBRİKLER"}</h2>
-          <p className="text-slate-400 mb-10 font-bold italic text-sm">{currentSet.length} {t.doneDesc || "tamamlandı"}</p>
-          <div className="space-y-4">
+        <div className="max-w-xs mx-auto text-center bg-white dark:bg-slate-900 p-10 rounded-[48px] border-2 border-amber-500 shadow-2xl animate-in zoom-in-95 mt-6">
+          <div className="text-6xl mb-6 animate-bounce">🏆</div>
+          <h2 className="text-xl font-black mb-2 text-slate-900 dark:text-white uppercase italic tracking-tighter">{t.doneTitle}</h2>
+          <p className="text-slate-400 mb-8 font-bold italic text-xs tracking-tight">{currentSet.length} {t.doneDesc}</p>
+          
+          <div className="space-y-3">
             {range.end < initialWords.length && (
-              <button onClick={handleNextSet} style={{ backgroundColor: '#2563eb' }} className="w-full py-5 rounded-[24px] font-black text-xs uppercase shadow-xl active:scale-95 transition-all cursor-pointer">
-                <SafeText color="#ffffff">{t.nextSet || "SIRADAKİ SET"}</SafeText>
+              <button onClick={handleNextSet} className="w-full py-4 bg-blue-600 text-white rounded-2xl font-black text-[10px] uppercase shadow-lg active:scale-95 transition-all cursor-pointer italic">
+                <SafeText color="#ffffff">{t.nextSet}</SafeText>
               </button>
             )}
-            <button onClick={() => launchFlashcards(range.start, range.end)} style={{ backgroundColor: '#f59e0b' }} className="w-full py-5 rounded-[24px] font-black text-xs uppercase shadow-xl active:scale-95 transition-all cursor-pointer">
-              <SafeText color="#ffffff">{t.retry || "TEKRAR ET"}</SafeText>
+            <button onClick={() => launchFlashcards(range.start, range.end)} className="w-full py-4 bg-amber-500 text-black rounded-2xl font-black text-[10px] uppercase shadow-lg active:scale-95 transition-all cursor-pointer italic">
+              <SafeText color="#000000">{t.retry}</SafeText>
             </button>
-            <button onClick={() => setView('setup')} className="w-full py-5 rounded-[24px] font-black text-xs uppercase bg-slate-50 dark:bg-slate-800 text-slate-500 border border-slate-100 dark:border-slate-700 active:scale-95 transition-all cursor-pointer">
-              {t.goHome || "ANA SAYFAYA DÖN"}
+            <button onClick={() => setView('setup')} className="w-full py-4 rounded-2xl font-black text-[10px] uppercase bg-slate-100 dark:bg-slate-800 text-slate-500 active:scale-95 transition-all cursor-pointer italic border-none">
+              {t.goHome}
             </button>
           </div>
         </div>

@@ -91,15 +91,12 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
     const userValue = userInput.trim();
     if (!userValue) return;
 
-    // ÖZEL KONTROL MANTIĞI:
     let isCorrect = false;
     const isNoun = w.type === "İsim" || w.type === "Noun";
 
     if (isNoun) {
-      // İsimse: Harf harfine aynı olmalı (Büyük harf zorunluluğu için)
       isCorrect = userValue === w.term;
     } else {
-      // Diğer türlerse: Büyük/küçük harf fark etmez
       isCorrect = userValue.toLowerCase() === w.term.toLowerCase();
     }
 
@@ -143,76 +140,103 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
   );
 
   return (
-    <div className="max-w-5xl mx-auto px-4 pb-10 font-sans">
+    <div className="max-w-4xl mx-auto px-4 pb-10 font-sans transition-all duration-300">
       
-      {/* SETUP EKRANI */}
+      {/* SETUP EKRANI - Maksimum genişlik daraltıldı */}
       {view === 'setup' && (
-        <div className="max-w-md mx-auto bg-white dark:bg-[#0b1120] p-8 rounded-[40px] shadow-2xl border border-slate-100 dark:border-white/5 text-center mt-10">
-          <h1 className="text-[10px] font-bold text-slate-400 tracking-widest mb-6 italic uppercase">{subject}</h1>
-          <p className="text-slate-500 dark:text-slate-400 text-sm font-medium mb-4 italic">{t.setupLabel}</p>
-          <div className="flex gap-2 mb-8">
+        <div className="max-w-sm mx-auto bg-white dark:bg-slate-900 p-6 md:p-8 rounded-[32px] md:rounded-[40px] shadow-2xl border border-slate-100 dark:border-white/5 text-center mt-6 md:mt-10">
+          <h1 className="text-[10px] font-black text-slate-400 tracking-[0.2em] mb-4 italic uppercase">{subject}</h1>
+          <p className="text-slate-500 dark:text-slate-400 text-xs font-bold mb-6 italic opacity-70 uppercase tracking-tight">{t.setupLabel}</p>
+          
+          <div className="flex gap-2 mb-6">
             {[10, 15, 20].map(n => (
               <button key={n} onClick={() => launchGame(1, Math.min(n, initialWords.length))} 
-                className="flex-1 py-4 border-2 border-slate-100 dark:border-white/10 rounded-2xl font-bold text-slate-600 dark:text-slate-200 hover:border-blue-500 hover:text-blue-500 transition-all cursor-pointer bg-transparent">
+                className="flex-1 py-3 border-2 border-slate-100 dark:border-white/10 rounded-xl font-black text-slate-600 dark:text-slate-200 hover:border-amber-500 hover:text-amber-500 transition-all cursor-pointer bg-transparent active:scale-95">
                 {n}
               </button>
             ))}
           </div>
-          <div className="mb-8">
-            <div className="flex gap-3 justify-center items-center">
-              <input type="number" value={range.start} onChange={e => setRange({...range, start: Number(e.target.value)})} className="w-24 p-4 bg-slate-50 dark:bg-white/5 rounded-2xl text-center font-bold dark:text-white outline-none border border-transparent focus:border-blue-500" />
-              <span className="text-slate-300 dark:text-slate-600 font-bold">—</span>
-              <input type="number" value={range.end} onChange={e => setRange({...range, end: Number(e.target.value)})} className="w-24 p-4 bg-slate-50 dark:bg-white/5 rounded-2xl text-center font-bold dark:text-white outline-none border border-transparent focus:border-blue-500" />
+
+          <div className="mb-6">
+            <div className="flex gap-2 justify-center items-center">
+              <input type="number" value={range.start} onChange={e => setRange({...range, start: Number(e.target.value)})} className="w-20 p-3 bg-slate-50 dark:bg-white/5 rounded-xl text-center font-black dark:text-white outline-none border border-transparent focus:border-amber-500" />
+              <span className="text-slate-300 dark:text-slate-600 font-black">—</span>
+              <input type="number" value={range.end} onChange={e => setRange({...range, end: Number(e.target.value)})} className="w-20 p-3 bg-slate-50 dark:bg-white/5 rounded-xl text-center font-black dark:text-white outline-none border border-transparent focus:border-amber-500" />
             </div>
           </div>
-          <button onClick={() => launchGame(range.start, range.end)} className="w-full py-5 bg-[#2563eb] text-white rounded-[24px] font-black text-lg shadow-xl uppercase cursor-pointer transition-transform active:scale-95">
-             <SafeText color="#ffffff">{t.start} ({initialWords.length})</SafeText>
+
+          <button onClick={() => launchGame(range.start, range.end)} className="w-full py-4 bg-amber-500 text-black rounded-2xl font-black text-lg shadow-xl uppercase cursor-pointer transition-transform active:scale-95 italic tracking-tighter">
+             <SafeText color="#000000">{t.start} ({initialWords.length})</SafeText>
           </button>
         </div>
       )}
 
-      {/* PRACTICE EKRANI */}
+      {/* PRACTICE EKRANI - Kart boyutu ve padding ayarlandı */}
       {view === 'practice' && (
-        <div className="max-w-2xl mx-auto bg-white dark:bg-[#0b1120] p-6 md:p-8 rounded-[48px] shadow-2xl border border-slate-100 dark:border-white/5 mt-4 text-center">
-          <div className="flex justify-between items-center text-[10px] font-bold text-slate-400 dark:text-slate-500 mb-6 uppercase tracking-widest">
-            <span className="bg-orange-500/10 text-orange-500 px-3 py-1 rounded-full">{idx + 1} / {currentSet.length}</span>
-            <button onClick={() => setView('setup')} className="hover:text-red-500 transition-colors cursor-pointer font-bold uppercase">{t.close}</button>
+        <div className="max-w-md md:max-w-xl mx-auto bg-white dark:bg-slate-950 p-6 md:p-10 rounded-[40px] md:rounded-[56px] shadow-2xl border-2 border-slate-50 dark:border-slate-900 mt-2 md:mt-6 text-center">
+          <div className="flex justify-between items-center text-[10px] font-black text-slate-400 dark:text-slate-600 mb-8 uppercase tracking-[0.2em]">
+            <span className="bg-amber-500/10 text-amber-600 px-3 py-1.5 rounded-full">{idx + 1} / {currentSet.length}</span>
+            <button onClick={() => setView('setup')} className="hover:text-red-500 transition-colors cursor-pointer font-black uppercase opacity-60 italic">{t.close}</button>
           </div>
-          <div className="flex justify-center mb-4">
-            <span className="px-4 py-1.5 rounded-xl text-[10px] font-bold text-white uppercase" style={{ backgroundColor: fTypeColors[currentSet[idx]?.type] || fTypeColors["DEFAULT"] }}>
+
+          <div className="flex justify-center mb-6">
+            <span className="px-4 py-1 rounded-lg text-[10px] font-black text-white uppercase italic tracking-widest" style={{ backgroundColor: fTypeColors[currentSet[idx]?.type] || fTypeColors["DEFAULT"] }}>
               {currentSet[idx]?.type}
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-slate-800 dark:text-white mb-4 tracking-tight leading-tight">{currentSet[idx]?.meaning}</h2>
-          <p className="text-slate-400 dark:text-slate-500 italic mb-6 text-lg font-normal">{currentSet[idx]?.example.replace('***', '______')}</p>
-          <div className="flex flex-wrap justify-center gap-2 mb-6">
+
+          <h2 className="text-2xl md:text-3xl font-black text-slate-800 dark:text-white mb-4 tracking-tighter leading-tight italic uppercase">{currentSet[idx]?.meaning}</h2>
+          
+          <p className="text-slate-400 dark:text-slate-500 italic mb-8 text-base font-medium opacity-80 leading-relaxed px-4">
+            {currentSet[idx]?.example.replace('***', '______')}
+          </p>
+
+          {/* Karakter butonları mobilde daha kompakt */}
+          <div className="flex flex-wrap justify-center gap-1.5 md:gap-2 mb-8">
             {germanChars.map(char => (
-              <button key={char} onClick={() => handleCharClick(char)} className="w-10 h-10 md:w-12 md:h-12 flex items-center justify-center bg-slate-100 dark:bg-white/10 hover:bg-blue-600 hover:text-white dark:text-white rounded-xl font-bold text-xl transition-all active:scale-90 cursor-pointer">{char}</button>
+              <button key={char} onClick={() => handleCharClick(char)} className="w-9 h-9 md:w-11 md:h-11 flex items-center justify-center bg-slate-100 dark:bg-white/5 hover:bg-amber-500 hover:text-black dark:text-white rounded-xl font-black text-lg transition-all active:scale-90 cursor-pointer border-none shadow-sm">
+                {char}
+              </button>
             ))}
           </div>
-          <input id="word-input" autoFocus type="text" value={userInput} onChange={(e) => setUserInput(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && handleCheck()} className="w-full p-5 bg-slate-50 dark:bg-white/5 rounded-2xl text-center text-2xl font-bold dark:text-white outline-none border-2 border-transparent focus:border-blue-500 mb-6" placeholder="..." autoComplete="off" autoCorrect="off" spellCheck="false" />
-          <div className="flex gap-4">
-            <button onClick={handleCheck} className="flex-[2] py-4 bg-[#2563eb] text-white rounded-2xl font-black uppercase tracking-widest shadow-lg cursor-pointer transition-all active:scale-95">
-               <SafeText color="#ffffff">{t.check}</SafeText>
+
+          <input 
+            id="word-input" 
+            autoFocus 
+            type="text" 
+            value={userInput} 
+            onChange={(e) => setUserInput(e.target.value)} 
+            onKeyDown={(e) => e.key === 'Enter' && handleCheck()} 
+            className="w-full max-w-sm mx-auto block p-4 bg-slate-50 dark:bg-slate-900 rounded-2xl text-center text-xl md:text-2xl font-black dark:text-white outline-none border-2 border-transparent focus:border-amber-500 mb-8 transition-all" 
+            placeholder="..." 
+            autoComplete="off" 
+            autoCorrect="off" 
+            spellCheck="false" 
+          />
+
+          <div className="flex gap-3 max-w-sm mx-auto">
+            <button onClick={handleCheck} className="flex-[1.5] py-4 bg-amber-500 text-black rounded-2xl font-black uppercase tracking-tighter shadow-lg cursor-pointer transition-all active:scale-95 italic">
+               <SafeText color="#000000">{t.check}</SafeText>
             </button>
             
-            {/* SIRADAKİ BUTONU (SARI) */}
-            <button id="next-btn-trigger" onClick={handleNext} className="flex-1 py-4 bg-[#eab308] text-white rounded-2xl font-black uppercase tracking-widest shadow-lg cursor-pointer transition-all active:scale-95 border-none">
-               <SafeText color="#ffffff">{idx === currentSet.length - 1 ? t.finished : t.next}</SafeText>
+            <button id="next-btn-trigger" onClick={handleNext} className="flex-1 py-4 bg-slate-900 dark:bg-white dark:text-black text-white rounded-2xl font-black uppercase tracking-tighter shadow-lg cursor-pointer transition-all active:scale-95 border-none italic text-xs">
+               <SafeText color="inherit">{idx === currentSet.length - 1 ? t.finished : t.next}</SafeText>
             </button>
           </div>
-          <div style={{ color: feedback.color }} className="mt-6 font-bold text-xl min-h-[1.5em] italic">{feedback.text}</div>
+
+          <div style={{ color: feedback.color }} className="mt-6 font-black text-lg min-h-[1.5em] italic tracking-tight opacity-90">
+            {feedback.text}
+          </div>
         </div>
       )}
 
-      {/* RESULT EKRANI */}
+      {/* RESULT EKRANI - Daha kompakt yapı */}
       {view === 'result' && (
-        <div className="max-w-sm mx-auto text-center p-10 bg-white dark:bg-[#161d2f] rounded-[48px] shadow-2xl border border-slate-100 dark:border-white/5 mt-4">
-          <div className="text-7xl mb-6">🏆</div>
-          <h2 className="text-2xl font-black text-slate-800 dark:text-white mb-8 italic uppercase tracking-tighter">{t.finished}</h2>
+        <div className="max-w-xs mx-auto text-center p-8 bg-white dark:bg-slate-900 rounded-[48px] shadow-2xl border-2 border-amber-500 mt-6 md:mt-10">
+          <div className="text-6xl mb-4 animate-bounce">🏆</div>
+          <h2 className="text-xl font-black text-slate-800 dark:text-white mb-6 italic uppercase tracking-tighter">{t.finished}</h2>
           
-          <div className="flex flex-col gap-3">
-            {/* Yanlışları Tekrar Et (Turuncu) */}
+          <div className="flex flex-col gap-2.5">
             {errorWords.length > 0 && (
               <button 
                 onClick={() => { 
@@ -226,26 +250,23 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
                   setFeedback({ text: '', color: '' });
                   setView('practice'); 
                 }} 
-                className="py-4 bg-[#f59e0b] text-white rounded-2xl font-black text-sm uppercase shadow-lg cursor-pointer transition-all active:scale-95"
+                className="py-4 bg-orange-500 text-white rounded-2xl font-black text-xs uppercase shadow-lg cursor-pointer transition-all active:scale-95 italic"
               >
                 <SafeText color="#ffffff">{t.wrongRetry} ({errorWords.length})</SafeText>
               </button>
             )}
 
-            {/* SIRADAKİ SET (YEŞİL) */}
             {range.end < initialWords.length && (
-              <button onClick={handleNextSet} className="py-4 bg-[#16a34a] text-white rounded-2xl font-black text-sm uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none">
+              <button onClick={handleNextSet} className="py-4 bg-green-600 text-white rounded-2xl font-black text-xs uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none italic">
                 <SafeText color="#ffffff">{t.nextSet}</SafeText>
               </button>
             )}
 
-            {/* Seti Tekrarla (Kırmızı) */}
-            <button onClick={() => launchGame(range.start, range.end)} className="py-4 bg-[#ef4444] text-white rounded-2xl font-black text-sm uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none">
+            <button onClick={() => launchGame(range.start, range.end)} className="py-4 bg-red-500 text-white rounded-2xl font-black text-xs uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none italic">
               <SafeText color="#ffffff">{t.retry}</SafeText>
             </button>
 
-            {/* Ana Menü (Mor) */}
-            <button onClick={() => setView('setup')} className="py-4 bg-[#8b5cf6] text-white rounded-2xl font-black text-sm uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none">
+            <button onClick={() => setView('setup')} className="py-4 bg-blue-600 text-white rounded-2xl font-black text-xs uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none italic">
               <SafeText color="#ffffff">{t.main}</SafeText>
             </button>
           </div>
