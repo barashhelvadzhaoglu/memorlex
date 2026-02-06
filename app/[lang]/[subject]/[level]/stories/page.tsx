@@ -79,7 +79,6 @@ export default async function StoriesLevelPage({ params }: { params: Promise<{ l
       return meta ? { slug: canonicalSlug, meta } : null;
     }).filter(Boolean) as any[];
 
-    // ✅ SIRALAMA: Slug içindeki rakama göre (Bölüm 1, 2, 3...) sayısal sıralama yapar
     stories.sort((a, b) => {
       const numA = parseInt(a.slug.replace(/[^0-9]/g, "")) || 0;
       const numB = parseInt(b.slug.replace(/[^0-9]/g, "")) || 0;
@@ -87,11 +86,15 @@ export default async function StoriesLevelPage({ params }: { params: Promise<{ l
     });
   }
 
+  // ✅ KRİTİK DÜZELTME: TypeScript hatasını önlemek için (dict as any) kullanıldı
+  const storiesTitle = (dict as any)?.stories?.title || 
+    (lang === "tr" ? "Hikâyeler" : lang === "de" ? "Geschichten" : "Stories");
+
   return (
     <main className="min-h-screen bg-white text-slate-900 dark:bg-slate-950 dark:text-white p-10">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-black mb-3 uppercase italic tracking-tighter text-amber-500">
-          {dict?.stories?.title || "Hikâyeler"} - {level.toUpperCase()}
+          {storiesTitle} - {level.toUpperCase()}
         </h1>
         <div className="grid gap-6 mt-10">
           {stories.map(({ slug, meta }) => (
@@ -104,10 +107,15 @@ export default async function StoriesLevelPage({ params }: { params: Promise<{ l
                 <p className="mt-2 text-slate-500 italic text-sm">{meta.summary}</p>
               </div>
               <span className="text-xl font-bold italic opacity-40 group-hover:opacity-100">
-                {lang === "tr" ? "Oku →" : "Read →"}
+                {lang === "tr" ? "Oku →" : lang === "de" ? "Lesen →" : lang === "uk" ? "Читати →" : "Read →"}
               </span>
             </Link>
           ))}
+          {stories.length === 0 && (
+            <div className="text-center py-20 opacity-30 font-black italic uppercase tracking-widest">
+                {lang === "tr" ? "Henüz hikaye eklenmedi" : "No stories yet"}
+            </div>
+          )}
         </div>
         <div className="mt-10">
           <Link href={`/${lang}/${subject}/${level}`} className="text-slate-500 font-bold italic hover:text-amber-500">
