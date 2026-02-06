@@ -1,0 +1,30 @@
+{
+  "id": "storie-005",
+  "title": "Im Café",
+  "summary": "Lukas und Elena gehen in ein Café. Was bestellen sie?",
+  "text": [
+    "Das Café heißt 'Sonne' ve ist sehr gemütlich.",
+    "Der Kellner bringt die Speisekarte. Lukas möchte einen Apfelkuchen essen.",
+    "Elena trinkt lieber einen Tee mit Zitrone. Sie hat keinen Hunger.",
+    "Lukas sagt zum Kellner: 'Ich möchte bitte ein Stück Kuchen und einen Kaffee.'",
+    "Später möchten sie bezahlen. Lukas sagt: 'Das macht zusammen zwölf Euro.' Er gibt zwei Euro Trinkgeld."
+  ],
+  "vocab": [
+    { "term": "gemütlich", "type": "Adjektiv", "meaning_tr": "konforlu, rahat", "meaning_en": "cozy", "example": "Das Café ist gemütlich." },
+    { "term": "bestellen", "type": "Verb", "meaning_tr": "sipariş vermek", "meaning_en": "to order", "example": "Was bestellen sie?" },
+    { "term": "der Hunger", "type": "Nomen", "meaning_tr": "açlık", "meaning_en": "hunger", "example": "Sie hat keinen Hunger." },
+    { "term": "das Trinkgeld", "type": "Nomen", "meaning_tr": "bahşiş", "meaning_en": "tip", "example": "Er gibt Trinkgeld." }
+  ],
+  "questions": [
+    {
+      "question": "Was trinkt Elena?",
+      "options": ["Kaffee", "Milch", "Tee mit Zitrone", "Wasser"],
+      "answer": "Tee mit Zitrone"
+    },
+    {
+      "question": "Wie viel Geld gibt Lukas als Trinkgeld?",
+      "options": ["Einen Euro", "Zwei Euro", "Fünf Euro", "Nichts"],
+      "answer": "Zwei Euro"
+    }
+  ]
+}

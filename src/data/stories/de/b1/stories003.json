@@ -1,0 +1,49 @@
+{
+  "id": "storie-b1-003",
+  "title": "Die Macht der sozialen Medien",
+  "summary": "Eine Analyse über den Einfluss von Netzwerken auf die Meinungsbildung und die Gefahren der digitalen Kommunikation.",
+  "text": [
+    "Soziale Medien wie Instagram, TikTok oder Facebook sind aus unserem heutigen Alltag nicht mehr wegzudenken. Sie dienen der Unterhaltung, dem schnellen Informationsaustausch und der Vernetzung mit Menschen auf der ganzen Welt. Für viele Jugendliche ist die digitale Präsenz ein wichtiger Teil ihrer Identität. Man teilt Fotos vom Essen, informiert über Urlaubspläne oder diskutiert politische Themen in Echtzeit. In Krisenzeiten haben soziale Netzwerke oft eine positive Rolle gespielt, indem sie Menschen mobilisierten und schnelle Hilfe organisierten. Die Demokratisierung der Information scheint perfekt: Jeder kann seine Meinung äußern, ohne auf die Erlaubnis großer Medienhäuser angewiesen zu sein.",
+    "Doch diese Medaille hat eine dunkle Schattenseite. Experten warnen vor der manipulativen Kraft der Algorithmen. Diese sind darauf programmiert, uns möglichst lange auf der Plattform zu halten, indem sie uns Inhalte zeigen, die unsere bestehende Meinung bestätigen. Dies führt zur Bildung von sogenannten 'Echokammern' oder 'Filterblasen'. Wir kommen kaum noch mit gegensätzlichen Argumenten in Kontakt, was die gesellschaftliche Spaltung vorantreibt. Ein weiteres massives Problem ist die Verbreitung von Falschmeldungen (Fake News). Da Informationen ungeprüft und in Sekundenschnelle geteilt werden können, verbreiten sich Lügen oft schneller als die Wahrheit. Dies kann ganze Wahlen beeinflussen und das Vertrauen in staatliche Institutionen untergraben.",
+    "Zudem hat die ständige Selbstinszenierung im Netz psychologische Folgen. Der ständige Vergleich mit den scheinbar perfekten Leben anderer Nutzer führt bei vielen zu Unzufriedenheit und Minderwertigkeitskomplexen. 'Cybermobbing' ist ein weiteres Phänomen, das vor allem an Schulen für große Probleme sorgt. Die Anonymität des Internets senkt die Hemmschwelle für Beleidigungen und Hassrede. Um diesen Gefahren zu begegnen, ist Medienkompetenz heute wichtiger denn je. Nutzer müssen lernen, Quellen kritisch zu hinterfragen und die Funktionsweise von Algorithmen zu verstehen. Nur ein bewusster und reflektierter Umgang mit den sozialen Medien schützt uns davor, Opfer von Manipulation und digitalem Stress zu werden. Es liegt in unserer Verantwortung, das Netz als Werkzeug für den Fortschritt zu nutzen, statt uns von ihm beherrschen zu lassen."
+  ],
+  "vocab": [
+    { "term": "nicht wegzudenken sein", "type": "Phrase", "meaning_tr": "olmazsa olmaz olmak, yokluğu düşünülememek", "meaning_en": "to be indispensable", "example": "Das Internet ist nicht mehr wegzudenken." },
+    { "term": "auf jemanden angewiesen sein", "type": "Verb", "meaning_tr": "birine bağımlı/muhtaç olmak", "meaning_en": "to be dependent on someone", "example": "Er ist auf finanzielle Hilfe angewiesen." },
+    { "term": "untergraben", "type": "Verb", "meaning_tr": "sarsmak, temelini kazımak (mecazi)", "meaning_en": "to undermine", "example": "Lügen untergraben das Vertrauen." },
+    { "term": "die Hemmschwelle", "type": "Substantiv", "meaning_tr": "eşik, çekinme duygusu", "meaning_en": "inhibitions / threshold", "example": "Alkohol senkt die Hemmschwelle." },
+    { "term": "reflektiert", "type": "Adjektiv", "meaning_tr": "üzerinde düşünülmüş, bilinçli", "meaning_en": "reflective / thoughtful", "example": "Sie hat eine sehr reflektierte Meinung." },
+    { "term": "die Spaltung", "type": "Substantiv", "meaning_tr": "bölünme", "meaning_en": "division / split", "example": "Die politische Spaltung im Land wächst." },
+    { "term": "die Selbstinszenierung", "type": "Substantiv", "meaning_tr": "kendini (farklı) gösterme/sunma", "meaning_en": "self-staging / self-promotion", "example": "Instagram fördert die Selbstinszenierung." },
+    { "term": "hinterfragen", "type": "Verb", "meaning_tr": "sorgulamak", "meaning_en": "to scrutinize / question", "example": "Man sollte Informationen kritisch hinterfragen." },
+    { "term": "vorantreiben", "type": "Verb", "meaning_tr": "hızlandırmak, ilerletmek", "meaning_en": "to promote / drive forward", "example": "Wir müssen die Digitalisierung vorantreiben." },
+    { "term": "mobilisieren", "type": "Verb", "meaning_tr": "harekete geçirmek", "meaning_en": "to mobilize", "example": "Der Protest mobilisierte tausende Menschen." }
+  ],
+  "questions": [
+    {
+      "question": "Welche positive Funktion sozialer Medien wird im ersten Absatz genannt?",
+      "options": ["Man kann dort billiger einkaufen.", "Sie helfen bei der Mobilisierung von Hilfe in Krisenzeiten.", "Man muss keine Steuern mehr zahlen.", "Sie ersetzen alle anderen Medien komplett."],
+      "answer": "Sie helfen bei der Mobilisierung von Hilfe in Krisenzeiten."
+    },
+    {
+      "question": "Was bewirken Algorithmen laut Expertenmeinung?",
+      "options": ["Sie löschen automatisch alle Lügen.", "Sie schalten das Handy nach zwei Stunden aus.", "Sie zeigen uns vor allem Inhalte, die unsere Meinung bestätigen.", "Sie machen das Internet schneller."],
+      "answer": "Sie zeigen uns vor allem Inhalte, die unsere Meinung bestätigen."
+    },
+    {
+      "question": "Welche Gefahr für die Demokratie wird im Text erwähnt?",
+      "options": ["Dass es zu viele Fotos von Essen gibt.", "Die schnelle Verbreitung von Fake News, die das Vertrauen untergraben.", "Dass man im Internet nicht wählen darf.", "Dass soziale Medien zu teuer sind."],
+      "answer": "Die schnelle Verbreitung von Fake News, die das Vertrauen untergraben."
+    },
+    {
+      "question": "Warum führen soziale Netzwerke oft zu psychischen Problemen?",
+      "options": ["Weil man zu viel Zeit im Stehen verbringt.", "Durch den ständigen Vergleich mit dem scheinbar perfekten Leben anderer.", "Weil man dort keine Freunde finden kann.", "Weil die Farben der Apps zu hell sind."],
+      "answer": "Durch den ständigen Vergleich mit dem scheinbar perfekten Leben anderer."
+    },
+    {
+      "question": "Was ist die wichtigste Fähigkeit, um sicher im Netz zu agieren?",
+      "options": ["Sehr schnell tippen zu können.", "Medienkompetenz ve kaynakları eleştirel sorgulama yetisi.", "Möglichst viele Follower zu haben.", "Keine Fotos mehr hochzuladen."],
+      "answer": "Medienkompetenz ve kaynakları eleştirel sorgulama yetisi."
+    }
+  ]
+}

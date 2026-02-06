@@ -1,0 +1,49 @@
+{
+  "id": "storie-b1-002",
+  "title": "Urbanes Leben vs. Landlust",
+  "summary": "Ein Vergleich zwischen dem hektischen Stadtleben und dem Trend zum Wohnen auf dem Land.",
+  "text": [
+    "Seit Jahrzehnten ziehen Menschen weltweit in die großen Metropolen. Die Gründe sind offensichtlich: Ein breites Angebot an Arbeitsplätzen, erstklassige medizinische Versorgung, kulturelle Vielfalt und ein aufregendes Nachtleben. Berlin, München oder Hamburg locken vor allem junge Menschen an, die sich von der Dynamik der Großstadt inspirieren lassen. Doch das Leben in der Stadt hat seinen Preis. Die Mieten steigen unaufhörlich, der Lärmpegel ist oft grenzwertig und die Luftqualität lässt in vielen Vierteln zu wünschen übrig. Parks sind an sonnigen Wochenenden überlaufen, und die Anonymität der Masse kann paradoxerweise zu einem Gefühl der Einsamkeit führen.",
+    "In jüngster Zeit ist jedoch eine Gegenbewegung zu beobachten. Unter dem Schlagwort 'Landlust' zieht es immer mehr Familien und sogar junge Freiberufler aus den Städten hinaus in ländliche Regionen. Dank der Digitalisierung ist es für viele nicht mehr notwendig, physisch im Büro anwesend zu sein. Ein schnelles Internet vorausgesetzt, lässt sich die Arbeit auch mit Blick auf grüne Wiesen erledigen. Auf dem Land schätzen die Menschen vor allem die Ruhe, die Nähe zur Natur und den stärkeren sozialen Zusammenhalt in der Nachbarschaft. Hier kennt man sich noch, man hilft sich gegenseitig und Kinder können sicher auf der Straße spielen. Zudem sind die Immobilienpreise oft deutlich erschwinglicher als in den gentrifizierten Stadtzentren.",
+    "Dennoch ist das Landleben nicht für jeden geeignet. Die Infrastruktur stellt oft ein großes Hindernis dar. Ohne ein eigenes Auto ist man in vielen Dörfern nahezu aufgeschmissen, da Busse und Bahnen nur unregelmäßig verkehren. Auch das kulturelle Angebot und die Auswahl an Fachärzten können nicht mit dem städtischen Standard mithalten. Für junge Leute, die Abwechslung und Action suchen, kann die ländliche Stille schnell als langweilig empfunden werden. Letztlich ist die Entscheidung zwischen Stadt und Land eine Typfrage. Während die einen die Energie und den Trubel der Stadt brauchen, finden die anderen ihr Glück in der Entschleunigung des Dorflebens. Politisch wird es in Zukunft darauf ankommen, das Land attraktiver zu machen, indem die digitale und verkehrstechnische Infrastruktur ausgebaut wird, um die Städte zu entlasten."
+  ],
+  "vocab": [
+    { "term": "unaufhörlich", "type": "Adjektiv", "meaning_tr": "durmaksızın", "meaning_en": "incessant / non-stop", "example": "Der Regen fiel unaufhörlich." },
+    { "term": "zu wünschen übrig lassen", "type": "Phrase", "meaning_tr": "beklentiyi karşılamamak, yetersiz kalmak", "meaning_en": "to leave a lot to be desired", "example": "Die Sauberkeit lässt zu wünschen übrig." },
+    { "term": "überlaufen", "type": "Adjektiv", "meaning_tr": "aşırı kalabalık", "meaning_en": "overcrowded", "example": "Venedig ist im Sommer völlig überlaufen." },
+    { "term": "aufgeschmissen sein", "type": "Phrase", "meaning_tr": "çaresiz/zor durumda kalmak", "meaning_en": "to be stranded / lost", "example": "Ohne Handy bin ich völlig aufgeschmissen." },
+    { "term": "die Entschleunigung", "type": "Substantiv", "meaning_tr": "yavaşlama, hayatın hızını kesme", "meaning_en": "deceleration", "example": "Urlaub dient der Entschleunigung." },
+    { "term": "erschwinglich", "type": "Adjektiv", "meaning_tr": "maddi olarak karşılanabilir, uygun fiyatlı", "meaning_en": "affordable", "example": "Wohnungen sind kaum noch erschwinglich." },
+    { "term": "der Trubel", "type": "Substantiv", "meaning_tr": "curcuna, kalabalık ve gürültü", "meaning_en": "hustle and bustle", "example": "Ich mag den Trubel auf dem Weihnachtsmarkt." },
+    { "term": "vorausgesetzt", "type": "Konjunktion", "meaning_tr": "şartıyla, -mesi koşuluyla", "meaning_en": "provided that", "example": "Wir kommen, schönes Wetter vorausgesetzt." },
+    { "term": "entlasten", "type": "Verb", "meaning_tr": "yükünü hafifletmek", "meaning_en": "to relieve / unburden", "example": "Die neue Straße soll die Innenstadt entlasten." },
+    { "term": "das Hindernis", "type": "Substantiv", "meaning_tr": "engel", "meaning_en": "obstacle", "example": "Sprachbarrieren sind ein großes Hindernis." }
+  ],
+  "questions": [
+    {
+      "question": "Was sind die größten Nachteile des Stadtlebens laut Text?",
+      "options": ["Zu wenig kulturelle Angebote.", "Hohe Mieten, Lärm ve düşük hava kalitesi.", "Es gibt keine medizinische Versorgung.", "Es ziehen zu viele Menschen weg."],
+      "answer": "Hohe Mieten, Lärm ve düşük hava kalitesi."
+    },
+    {
+      "question": "Welche technische Entwicklung macht das Leben auf dem Land für Berufstätige attraktiver?",
+      "options": ["Die Erfindung des Autos.", "Die Digitalisierung und schnelles Internet.", "Bessere Fernsehprogramme.", "Elektrische Landmaschinen."],
+      "answer": "Die Digitalisierung und schnelles Internet."
+    },
+    {
+      "question": "Was schätzen Menschen am Dorfleben besonders?",
+      "options": ["Die Anonymität der Nachbarn.", "Die Ruhe, Naturnähe und den sozialen Zusammenhalt.", "Dass es dort mehr Fachärzte gibt.", "Die vielen Discos und Kinos."],
+      "answer": "Die Ruhe, Naturnähe und den sozialen Zusammenhalt."
+    },
+    {
+      "question": "Warum ist ein eigenes Auto auf dem Land oft unverzichtbar?",
+      "options": ["Weil man dort schneller fahren darf.", "Weil der öffentliche Nahverkehr oft unregelmäßig und unzureichend ist.", "Weil es keine Parkplätze gibt.", "Um die Nachbarn zu beeindrucken."],
+      "answer": "Weil der öffentliche Nahverkehr oft unregelmäßig und unzureichend ist."
+    },
+    {
+      "question": "Wie kann die Politik laut Text die Städte entlasten?",
+      "options": ["Indem sie das Wohnen in der Stadt verbietet.", "Durch den Ausbau der Infrastruktur in ländlichen Regionen.", "Indem sie mehr Parks in der Stadt baut.", "Durch eine Erhöhung der Mietpreise."],
+      "answer": "Durch den Ausbau der Infrastruktur in ländlichen Regionen."
+    }
+  ]
+}

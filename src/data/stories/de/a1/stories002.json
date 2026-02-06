@@ -1,0 +1,31 @@
+{
+  "id": "storie-002",
+  "title": "Lukas geht einkaufen",
+  "summary": "Lukas braucht Essen für die Woche. Er geht in den Supermarkt.",
+  "text": [
+    "Lukas geht in den Supermarkt 'Netto'. Er braucht viele Dinge.",
+    "Er nimmt drei Äpfel, zwei Liter Milch und ein Kilo Bananen.",
+    "Lukas sucht den Fisch. Er fragt eine Verkäuferin: 'Entschuldigung, wo ist der Fisch?'",
+    "Die Verkäuferin antwortet: 'Dort links, neben dem Fleisch.'",
+    "An der Kasse bezahlt Lukas. Alles kostet achtzehn Euro. Er findet das billig."
+  ],
+  "vocab": [
+    { "term": "einkaufen", "type": "Verb", "meaning_tr": "alışveriş yapmak", "meaning_en": "to shop", "example": "Lukas geht einkaufen." },
+    { "term": "brauchen", "type": "Verb", "meaning_tr": "ihtiyacı olmak", "meaning_en": "to need", "example": "Er braucht viele Dinge." },
+    { "term": "fragen", "type": "Verb", "meaning_tr": "sormak", "meaning_en": "to ask", "example": "Er fragt eine Verkäuferin." },
+    { "term": "billig", "type": "Adjektiv", "meaning_tr": "ucuz", "meaning_en": "cheap", "example": "Er findet das billig." },
+    { "term": "bezahlen", "type": "Verb", "meaning_tr": "ödemek", "meaning_en": "to pay", "example": "Lukas bezahlt an der Kasse." }
+  ],
+  "questions": [
+    {
+      "question": "Wie viele Bananen kauft Lukas?",
+      "options": ["Ein Kilo", "Zwei Kilo", "Drei Kilo", "Keine"],
+      "answer": "Ein Kilo"
+    },
+    {
+      "question": "Wo ist der Fisch?",
+      "options": ["Rechts", "Neben dem Fleisch", "Hinter der Milch", "Vor der Kasse"],
+      "answer": "Neben dem Fleisch"
+    }
+  ]
+}

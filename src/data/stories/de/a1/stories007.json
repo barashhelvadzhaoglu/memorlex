@@ -1,0 +1,31 @@
+{
+  "id": "storie-007",
+  "title": "Lukas ist krank",
+  "summary": "Lukas fühlt sich nicht gut. Er hat Schmerzen und muss zum Arzt.",
+  "text": [
+    "Heute kann Lukas nicht zur Sprachschule gehen. Er hat starke Kopfschmerzen und Fieber.",
+    "Sein Hals tut auch weh. Er ruft in der Arztpraxis an: 'Ich brauche dringend einen Termin.'",
+    "Die Sekretärin sagt: 'Kommen Sie bitte sofort vorbei.'",
+    "Der Arzt untersucht Lukas und sagt: 'Sie haben eine Grippe. Sie müssen drei Tage im Bett bleiben.'",
+    "Lukas bekommt ein Rezept für Medikamente. Er muss die Tabletten nach dem Essen nehmen."
+  ],
+  "vocab": [
+    { "term": "dringend", "type": "Adjektiv", "meaning_tr": "acil", "meaning_en": "urgent", "example": "Ich brauche dringend Hilfe." },
+    { "term": "untersuchen", "type": "Verb", "meaning_tr": "muayene etmek", "meaning_en": "to examine", "example": "Der Arzt untersucht den Patienten." },
+    { "term": "das Rezept", "type": "Nomen", "meaning_tr": "reçete", "meaning_en": "prescription", "example": "Er bekommt ein Rezept für die Apotheke." },
+    { "term": "weh tun", "type": "Verb", "meaning_tr": "ağrımak, acımak", "meaning_en": "to hurt", "example": "Mein Kopf tut weh." },
+    { "term": "die Tablette", "type": "Nomen", "meaning_tr": "hap", "meaning_en": "pill", "example": "Er nimmt zwei Tabletten." }
+  ],
+  "questions": [
+    {
+      "question": "Warum geht Lukas nicht zur Schule?",
+      "options": ["Er hat keine Lust", "Er ist krank", "Die Schule ist geschlossen", "Er hat Urlaub"],
+      "answer": "Er ist krank"
+    },
+    {
+      "question": "Was sagt der Arzt?",
+      "options": ["Er soll Sport machen", "Er soll arbeiten", "Er soll im Bett bleiben", "Er braucht keine Medikamente"],
+      "answer": "Er soll im Bett bleiben"
+    }
+  ]
+}

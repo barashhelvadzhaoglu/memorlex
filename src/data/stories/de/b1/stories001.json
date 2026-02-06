@@ -1,0 +1,49 @@
+{
+  "id": "storie-b1-001",
+  "title": "Die Welt der Fernarbeit – Fluch oder Segen?",
+  "summary": "Ein umfassender Bericht über die Veränderungen der Arbeitswelt durch Homeoffice und die psychologischen Folgen.",
+  "text": [
+    "Noch vor einem Jahrzehnt galt die Arbeit von zu Hause aus als ein Privileg für wenige Spezialisten in der IT-Branche. Doch innerhalb kürzester Zeit hat sich dieses Modell zu einem globalen Standard entwickelt. In Deutschland arbeitet mittlerweile fast jeder dritte Angestellte zumindest zeitweise im Homeoffice. Diese Entwicklung hat die traditionelle Bürostruktur grundlegend erschüttert. Während viele Unternehmen die Kosteneinsparungen durch kleinere Büroflächen schätzen, betonen Mitarbeiter vor allem den Gewinn an Lebensqualität durch den Wegfall des täglichen Arbeitswegs. Wer nicht mehr im Stau steht oder in überfüllten Zügen sitzt, beginnt den Arbeitstag entspannter und verfügt über mehr Zeit für Familie und Hobbys.",
+    "Doch die neue Freiheit hat auch ihre Schattenseiten, die oft erst auf den zweiten Blick sichtbar werden. Psychologen warnen vor der sogenannten 'sozialen Isolation'. Der Mensch ist ein soziales Wesen, und der informelle Austausch in der Kaffeeküche oder beim gemeinsamen Mittagessen lässt sich kaum durch digitale Konferenzen ersetzen. Viele Fernarbeiter klagen zudem über eine zunehmende Entgrenzung von Berufs- und Privatleben. Wenn das Schlafzimmer gleichzeitig das Büro ist, fällt es schwer, nach Feierabend wirklich abzuschalten. Die ständige Erreichbarkeit über Smartphones und Messenger-Dienste führt dazu, dass viele Angestellte sich auch am Wochenende verpflichtet fühlen, auf Nachrichten zu reagieren. Dies kann langfristig zu chronischem Stress und im schlimmsten Fall zu einem Burn-out führen.",
+    "Darüber hinaus stellt das Homeoffice hohe Anforderungen an die Selbstorganisation und Disziplin. Ohne die gewohnte Struktur des Büroalltags und die direkte Präsenz von Vorgesetzten müssen Mitarbeiter lernen, ihre Zeit eigenverantwortlich zu verwalten. Nicht jeder kommt mit dieser Freiheit gleich gut zurecht. Experten fordern daher eine neue Führungskultur, die auf Vertrauen statt auf Kontrolle basiert. Unternehmen müssen sicherstellen, dass ihre Angestellten auch aus der Ferne optimal unterstützt werden, sei es durch moderne technische Ausstattung oder durch regelmäßige Teamevents zur Stärkung des Zusammenhalts. Die Zukunft gehört wahrscheinlich hybriden Modellen, die das Beste aus beiden Welten vereinen: Die Flexibilität des Homeoffices und die soziale Bindung des Büros. Nur so kann eine nachhaltige und gesunde Arbeitswelt geschaffen werden, die den Anforderungen des 21. Jahrhunderts gerecht wird."
+  ],
+  "vocab": [
+    { "term": "grundlegend", "type": "Adjektiv", "meaning_tr": "temel, kökten", "meaning_en": "fundamental", "example": "Die Regeln wurden grundlegend geändert." },
+    { "term": "erschüttern", "type": "Verb", "meaning_tr": "sarsmak", "meaning_en": "to shake / shatter", "example": "Die Krise hat das Vertrauen erschüttert." },
+    { "term": "der Wegfall", "type": "Substantiv", "meaning_tr": "ortadan kalkma, iptal", "meaning_en": "omission / discontinuation", "example": "Der Wegfall der Maskenpflicht freute viele." },
+    { "term": "die Entgrenzung", "type": "Substantiv", "meaning_tr": "sınırların belirsizleşmesi", "meaning_en": "blurring of boundaries", "example": "Wir beobachten eine Entgrenzung der Arbeit." },
+    { "term": "abschalten", "type": "Verb", "meaning_tr": "rahatlamak, işten uzaklaşmak", "meaning_en": "to switch off / relax", "example": "Im Urlaub kann ich gut abschalten." },
+    { "term": "die Erreichbarkeit", "type": "Substantiv", "meaning_tr": "ulaşılabilirlik", "meaning_en": "availability / accessibility", "example": "Ständige Erreichbarkeit verursacht Stress." },
+    { "term": "eigenverantwortlich", "type": "Adjektiv", "meaning_tr": "kendi sorumluluğunda", "meaning_en": "independently responsible", "example": "Sie arbeitet sehr eigenverantwortlich." },
+    { "term": "der Zusammenhalt", "type": "Substantiv", "meaning_tr": "dayanışma, birliktelik", "meaning_en": "cohesion / solidarity", "example": "Der soziale Zusammenhalt ist wichtig." },
+    { "term": "gerecht werden", "type": "Phrase", "meaning_tr": "beklentiyi karşılamak, hakkını vermek", "meaning_en": "to do justice / meet requirements", "example": "Wir wollen den Erwartungen gerecht werden." },
+    { "term": "die Schattenseite", "type": "Substantiv", "meaning_tr": "olumsuz yön", "meaning_en": "downside", "example": "Jede Medaille hat eine Schattenseite." }
+  ],
+  "questions": [
+    {
+      "question": "Welchen Vorteil sehen viele Unternehmen im Homeoffice-Modell?",
+      "options": ["Die Mitarbeiter arbeiten mehr Stunden.", "Sie können Kosten durch kleinere Büroflächen einsparen.", "Die Internetverbindung im Büro wird besser.", "Es gibt weniger Kaffeepausen."],
+      "answer": "Sie können Kosten durch kleinere Büroflächen einsparen."
+    },
+    {
+      "question": "Was wird im Text als 'soziale Isolation' beschrieben?",
+      "options": ["Dass man kein Internet mehr hat.", "Dass der persönliche Kontakt zu Kollegen im Alltag fehlt.", "Dass man in eine einsame Stadt zieht.", "Dass man während der Arbeit nicht sprechen darf."],
+      "answer": "Dass der persönliche Kontakt zu Kollegen im Alltag fehlt."
+    },
+    {
+      "question": "Warum fällt es vielen Fernarbeitern schwer, nach Feierabend abzuschalten?",
+      "options": ["Weil sie zu viel Kaffee trinken.", "Wegen der Vermischung von privatem Wohnraum und Arbeitsplatz sowie ständiger Erreichbarkeit.", "Weil sie kein Wochenende haben.", "Weil ihr Chef sie persönlich zu Hause besucht."],
+      "answer": "Wegen der Vermischung von privatem Wohnraum und Arbeitsplatz sowie ständiger Erreichbarkeit."
+    },
+    {
+      "question": "Was ist eine Voraussetzung für erfolgreiches Arbeiten von zu Hause?",
+      "options": ["Dass der Chef jeden Schritt kontrolliert.", "Ein hohes Maß an Selbstorganisation und Disziplin des Mitarbeiters.", "Dass man nur nachts arbeitet.", "Dass man alle sozialen Netzwerke löscht."],
+      "answer": "Ein hohes Maß an Selbstorganisation und Disziplin des Mitarbeiters."
+    },
+    {
+      "question": "Welches Zukunftsmodell schlägt der Text vor?",
+      "options": ["Die komplette Abschaffung von Büros.", "Dass alle wieder fünf Tage pro Woche im Büro sein müssen.", "Hybride Modelle, die Flexibilität und soziale Bindung kombinieren.", "Dass nur noch Computer die Arbeit erledigen."],
+      "answer": "Hybride Modelle, die Flexibilität und soziale Bindung kombinieren."
+    }
+  ]
+}

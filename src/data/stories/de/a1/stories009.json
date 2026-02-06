@@ -1,0 +1,31 @@
+{
+  "id": "storie-009",
+  "title": "Ein Ausflug zum See",
+  "summary": "Das Wetter ist schön. Lukas und Elena planen eine Reise.",
+  "text": [
+    "Am Wochenende ist das Wetter herrlich. Die Sonne scheint und es ist warm, circa 25 Grad.",
+    "Lukas ruft Elena an: 'Wollen wir einen Ausflug zum Starnberger See machen?'",
+    "Elena findet die Idee toll. Sie packen ihre Taschen mit Handtüchern und Picknick ein.",
+    "Sie fahren mit der S-Bahn zum See. Dort wandern sie ein bisschen und schwimmen im Wasser.",
+    "Am Abend sind sie müde, aber sehr glücklich über den schönen Tag."
+  ],
+  "vocab": [
+    { "term": "der Ausflug", "type": "Nomen", "meaning_tr": "gezi, seyahat", "meaning_en": "excursion/trip", "example": "Wir machen einen Ausflug." },
+    { "term": "scheinen", "type": "Verb", "meaning_tr": "parlamak (güneş)", "meaning_en": "to shine", "example": "Die Sonne scheint." },
+    { "term": "wandern", "type": "Verb", "meaning_tr": "doğa yürüyüşü yapmak", "meaning_en": "to hike", "example": "Sie wandern am See." },
+    { "term": "müde", "type": "Adjektiv", "meaning_tr": "yorgun", "meaning_en": "tired", "example": "Lukas ist am Abend müde." },
+    { "term": "planen", "type": "Verb", "meaning_tr": "planlamak", "meaning_en": "to plan", "example": "Sie planen eine Reise." }
+  ],
+  "questions": [
+    {
+      "question": "Wie ist das Wetter?",
+      "options": ["Es regnet", "Es ist kalt", "Die Sonne scheint", "Es ist windig"],
+      "answer": "Die Sonne scheint"
+    },
+    {
+      "question": "Wie fahren sie zum See?",
+      "options": ["Mit dem Auto", "Mit dem Bus", "Mit der S-Bahn", "Zu Fuß"],
+      "answer": "Mit der S-Bahn"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "storie-008",
+  "title": "Ein Job für Lukas",
+  "summary": "Lukas sucht einen Nebenjob. Er hat ein Vorstellungsgespräch.",
+  "text": [
+    "Lukas möchte Geld verdienen. Er sieht eine Anzeige: Ein Restaurant sucht eine Aushilfe.",
+    "Er schickt seinen Lebenslauf per E-Mail. Am nächsten Tag bekommt er eine Einladung.",
+    "Beim Gespräch fragt der Chef: 'Haben Sie Erfahrung als Kellner?'",
+    "Lukas antwortet: 'Ja, ich habe in Polen zwei Jahre in einem Café gearbeitet.'",
+    "Der Chef ist zufrieden: 'Gut, Sie können am Montag anfangen. Die Arbeitszeit ist von 17 bis 22 Uhr.'"
+  ],
+  "vocab": [
+    { "term": "verdienen", "type": "Verb", "meaning_tr": "para kazanmak", "meaning_en": "to earn", "example": "Lukas möchte Geld verdienen." },
+    { "term": "der Lebenslauf", "type": "Nomen", "meaning_tr": "özgeçmiş (CV)", "meaning_en": "CV", "example": "Er schickt seinen Lebenslauf." },
+    { "term": "die Erfahrung", "type": "Nomen", "meaning_tr": "deneyim", "meaning_en": "experience", "example": "Haben Sie Erfahrung?" },
+    { "term": "anfangen", "type": "Verb", "meaning_tr": "başlamak", "meaning_en": "to start", "example": "Wann können Sie anfangen?" },
+    { "term": "zufrieden", "type": "Adjektiv", "meaning_tr": "memnun", "meaning_en": "satisfied", "example": "Der Chef ist sehr zufrieden." }
+  ],
+  "questions": [
+    {
+      "question": "Was für einen Job sucht das Restaurant?",
+      "options": ["Einen Koch", "Eine Aushilfe", "Einen Manager", "Einen Fahrer"],
+      "answer": "Eine Aushilfe"
+    },
+    {
+      "question": "Hat Lukas schon früher gekellnert?",
+      "options": ["Nein, nie", "Ja, in Deutschland", "Ja, in Polen", "Nur einen Tag"],
+      "answer": "Ja, in Polen"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "storie-003",
+  "title": "Der falsche Bus",
+  "summary": "Lukas möchte zum Marienplatz fahren, aber er macht einen Fehler.",
+  "text": [
+    "Es ist vierzehn Uhr. Lukas möchte zum Marienplatz fahren.",
+    "Er wartet an der Bushaltestelle. Der Bus Nummer 54 kommt.",
+    "Lukas steigt ein und hört Musik. Nach zehn Minuten sieht er: Das ist nicht der Marienplatz!",
+    "Er ist im Norden von München. Er steigt schnell aus. Er muss zurückfahren.",
+    "Ein Mann hilft ihm: 'Nehmen Sie die U-Bahn Linie 6.' Lukas sagt danke."
+  ],
+  "vocab": [
+    { "term": "warten", "type": "Verb", "meaning_tr": "beklemek", "meaning_en": "to wait", "example": "Er wartet an der Haltestelle." },
+    { "term": "einsteigen", "type": "Verb", "meaning_tr": "(araca) binmek", "meaning_en": "to get in/board", "example": "Lukas steigt in den Bus ein." },
+    { "term": "aussteigen", "type": "Verb", "meaning_tr": "(araçtan) inmek", "meaning_en": "to get out", "example": "Er steigt schnell aus." },
+    { "term": "helfen", "type": "Verb", "meaning_tr": "yardım etmek", "meaning_en": "to help", "example": "Ein Mann hilft ihm." }
+  ],
+  "questions": [
+    {
+      "question": "Wohin möchte Lukas fahren?",
+      "options": ["Zum Bahnhof", "Zum Marienplatz", "Nach Hause", "Zum Park"],
+      "answer": "Zum Marienplatz"
+    },
+    {
+      "question": "Welche U-Bahn muss Lukas nehmen?",
+      "options": ["Linie 1", "Linie 3", "Linie 6", "Linie 54"],
+      "answer": "Linie 6"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "storie-b1-006",
+  "title": "Die Zukunft der Mobilität",
+  "summary": "Ein tiefgehender Bericht über den Wandel des Verkehrs in Großstädten und die Rolle von E-Mobilität.",
+  "text": [
+    "In den europäischen Metropolen vollzieht sich derzeit ein bemerkenswerter Wandel. Das eigene Auto, jahrzehntelang das Symbol für Freiheit und individuellen Wohlstand, verliert zunehmend an Attraktivität. Die Gründe hierfür liegen auf der Hand: Staus, die stundenlange Suche nach einem Parkplatz und die steigenden Kosten für Kraftstoff und Versicherungen machen den Besitz eines PKW in der Stadt oft mehr zur Last als zum Vergnügen. Zudem rückt das Umweltbewusstsein immer stärker in das Zentrum der öffentlichen Debatte. Angesichts des Klimawandels fordern viele Bürger und Politiker eine radikale Verkehrswende.",
+    "Das Zauberwort der Stunde heißt 'Mobilität als Dienstleistung'. Anstatt ein eigenes Fahrzeug zu unterhalten, setzen immer mehr Städter auf Carsharing-Modelle, E-Scooter und einen gut ausgebauten öffentlichen Personennahverkehr (ÖPNV). Durch digitale Plattformen und Apps ist es heute so einfach wie nie zuvor, verschiedene Verkehrsmittel miteinander zu kombinieren. Man fährt mit dem Leihfahrrad zur Bahnstation, nimmt den Regionalzug und nutzt für das letzte Stück zum Ziel einen elektrischen Shuttle-Bus. Diese Vernetzung wird oft als 'Intermodalität' bezeichnet und gilt als Schlüssel für die Stadt der Zukunft.",
+    "Doch der Umstieg ist nicht ohne Hürden. Während in den Innenstädten das Angebot an Alternativen boomt, fühlen sich Menschen im ländlichen Raum oft abgehängt. Dort ist der Busverkehr häufig unzureichend getaktet, sodass man ohne eigenes Auto kaum am gesellschaftlichen Leben teilnehmen oder den Arbeitsplatz erreichen kann. Hier liegt eine der größten politischen Herausforderungen: Wie schafft man eine gerechte Mobilität für alle, ohne die Umwelt weiter zu belasten? Experten schlagen vor, vermehrt in die Infrastruktur für Elektroautos zu investieren und autonome On-Demand-Busse einzusetzen, die nur bei Bedarf fahren.",
+    "Ein weiterer Aspekt ist die psychologische Komponente. Für viele ältere Menschen bedeutet das eigene Auto Unabhängigkeit. Die Vorstellung, auf fremde Fahrer oder komplizierte Apps angewiesen zu sein, löst bei ihnen Skepsis aus. Es wird also nicht ausreichen, nur die Technik zu verändern; auch ein Umdenken in der Gesellschaft muss stattfinden. Mobilität darf kein Privileg der jungen, technikaffinen Generation bleiben. Wenn es gelingt, komfortable, preiswerte und ökologische Alternativen für alle Bevölkerungsgruppen zu schaffen, könnte die Vision von der autofreien Stadt bald Realität werden. Der Weg ist noch weit, aber die Richtung stimmt."
+  ],
+  "vocab": [
+    { "term": "vollziehen", "type": "Verb", "meaning_tr": "gerçekleşmek, vuku bulmak", "meaning_en": "to take place / carry out", "example": "Ein Wandel vollzieht sich in der Stadt." },
+    { "term": "bemerkenswert", "type": "Adjektiv", "meaning_tr": "dikkat çekici", "meaning_en": "remarkable", "example": "Das ist ein bemerkenswerter Erfolg." },
+    { "term": "die Last", "type": "Substantiv", "meaning_tr": "yük, ağırlık", "meaning_en": "burden / load", "example": "Das Auto wurde für ihn zur Last." },
+    { "term": "angesichts", "type": "Präposition (+ Gen)", "meaning_tr": "-den dolayı, -in karşısında", "meaning_en": "in view of", "example": "Angesichts der Krise müssen wir sparen." },
+    { "term": "unterhalten", "type": "Verb", "meaning_tr": "bakımını sağlamak (veya eğlendirmek)", "meaning_en": "to maintain / entertain", "example": "Ein Auto zu unterhalten ist teuer." },
+    { "term": "abgehängt sein", "type": "Phrase", "meaning_tr": "geride kalmış olmak / dışlanmak", "meaning_en": "to be left behind", "example": "Dörfer fühlen sich oft abgehängt." },
+    { "term": "unzureichend", "type": "Adjektiv", "meaning_tr": "yetersiz", "meaning_en": "insufficient", "example": "Die Vorbereitung war unzureichend." },
+    { "term": "getaktet", "type": "Adjektiv", "meaning_tr": "zamanlanmış, periyodik", "meaning_en": "timed / scheduled", "example": "Der Bus ist schlecht getaktet." },
+    { "term": "auf jemanden angewiesen sein", "type": "Verb", "meaning_tr": "birine bağımlı/muhtaç olmak", "meaning_en": "to be dependent on someone", "example": "Er ist auf Hilfe angewiesen." },
+    { "term": "die Skepsis", "type": "Substantiv", "meaning_tr": "kuşku, şüphe", "meaning_en": "skepticism", "example": "Es herrscht große Skepsis gegenüber der KI." },
+    { "term": "technikaffin", "type": "Adjektiv", "meaning_tr": "teknolojiye yatkın", "meaning_en": "tech-savvy", "example": "Die junge Generation ist sehr technikaffin." },
+    { "term": "das Privileg", "type": "Substantiv", "meaning_tr": "ayrıcalık", "meaning_en": "privilege", "example": "Bildung sollte kein Privileg sein." },
+    { "term": "die Verkehrswende", "type": "Substantiv", "meaning_tr": "trafik dönüşümü (ekolojik)", "meaning_en": "transport transition", "example": "Die Verkehrswende ist notwendig für das Klima." },
+    { "term": "vermehrt", "type": "Adverb", "meaning_tr": "daha fazla, artan bir şekilde", "meaning_en": "increasingly", "example": "Wir müssen vermehrt Sport treiben." },
+    { "term": "unabhängig", "type": "Adjektiv", "meaning_tr": "bağımsız", "meaning_en": "independent", "example": "Sie ist finanziell unabhängig." }
+  ],
+  "questions": [
+    {
+      "question": "Warum ist der Besitz eines Autos in der Stadt heute oft negativ belegt?",
+      "options": ["Weil Autos heute hässlicher sind als früher.", "Wegen Parkplatznot, Staus ve artan maliyetler.", "Weil man in der Stadt gar nicht mehr fahren darf.", "Weil Versicherungen keine Stadtautos mehr annehmen."],
+      "answer": "Wegen Parkplatznot, Staus ve artan maliyetler."
+    },
+    {
+      "question": "Was versteht man unter dem Begriff 'Intermodalität'?",
+      "options": ["Dass man nur noch mit dem Flugzeug reist.", "Die Kombination verschiedener Verkehrsmittel für eine Reise.", "Das Verbot von Privatautos in der Innenstadt.", "Die Erfindung neuer Elektromotoren."],
+      "answer": "Die Kombination verschiedener Verkehrsmittel für eine Reise."
+    },
+    {
+      "question": "Welches Problem haben Menschen im ländlichen Raum?",
+      "options": ["Es gibt dort zu viele Parkplätze.", "Der öffentliche Verkehr ist oft unzureichend und man braucht zwingend ein Auto.", "Die Apps funktionieren dort nicht.", "Es gibt dort keine E-Scooter."],
+      "answer": "Der öffentliche Verkehr ist oft unzureichend und man braucht zwingend ein Auto."
+    },
+    {
+      "question": "Warum stehen ältere Menschen der Verkehrswende oft skeptisch gegenüber?",
+      "options": ["Weil sie keine Züge mögen.", "Weil das Auto für sie ein Symbol für Unabhängigkeit ist.", "Weil sie nicht mehr reisen wollen.", "Weil sie nur Elektroautos fahren wollen."],
+      "answer": "Weil das Auto für sie ein Symbol für Unabhängigkeit ist."
+    },
+    {
+      "question": "Welches Fazit zieht der Text über die Zukunft der Städte?",
+      "options": ["Autos werden nie verschwinden.", "Technik allein reicht nicht, es braucht auch einen gesellschaftlichen Wandel.", "In Zukunft werden alle Menschen zu Fuß gehen.", "Flugtaxis sind die einzige Lösung."],
+      "answer": "Technik allein reicht nicht, es braucht auch einen gesellschaftlichen Wandel."
+    }
+  ]
+}

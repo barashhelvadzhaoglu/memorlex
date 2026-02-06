@@ -1,0 +1,49 @@
+{
+  "id": "storie-b1-005",
+  "title": "Stressbewältigung",
+  "summary": "Ein Artikel über die Ursachen von modernem Stress und effektive Methoden zur Entspannung.",
+  "text": [
+    "In unserer modernen Leistungsgesellschaft ist Stress zu einer Volkskrankheit geworden. Fast jeder kennt das Gefühl, von Terminen gehetzt zu sein, eine endlose To-do-Liste vor sich zu haben und gleichzeitig den Erwartungen von Familie und Freunden gerecht werden zu müssen. Die ständige Reizüberflutung durch digitale Medien und der Druck, beruflich immer perfekt funktionieren zu müssen, lassen den Körper in einem dauerhaften Alarmzustand verharren. Kurzfristiger Stress kann zwar die Leistungsfähigkeit steigern, doch wer sich nicht regelmäßig Phasen der Erholung gönnt, riskiert seine physische und psychische Gesundheit. Kopfschmerzen, Schlafstörungen und Konzentrationsschwäche sind oft die ersten Warnsignale, die man keinesfalls ignorieren sollte.",
+    "Der Schlüssel zur Stressbewältigung liegt in der Achtsamkeit. Dabei geht es darum, den gegenwärtigen Moment bewusst wahrzunehmen, ohne ihn sofort zu bewerten. Viele Menschen nutzen Meditation oder Yoga, um ihren Geist zu beruhigen und die Verbindung zum eigenen Körper wiederherzustellen. Auch regelmäßige Bewegung an der frischen Luft bewirkt Wunder. Ein einfacher Spaziergang im Wald kann den Cortisolspiegel senken und das Wohlbefinden steigern. Es ist essenziell, im Alltag feste 'Inseln der Ruhe' einzuplanen – Zeiten, in denen das Smartphone ausgeschaltet bleibt und man sich ganz einer entspannenden Tätigkeit widmet, sei es Lesen, Musik hören oder ein Hobby.",
+    "Zudem spielt das Zeitmanagement eine entscheidende Rolle. Oft entsteht Stress durch den Versuch, zu viele Aufgaben gleichzeitig zu erledigen (Multitasking). Experten raten dazu, Prioritäten zu setzen und auch mal 'Nein' zu sagen, wenn die Belastung zu groß wird. Eine gute Planung und realistische Ziele helfen dabei, den Überblick zu behalten und das Gefühl der Überforderung zu vermeiden. Letztlich ist Stressbewältigung ein individueller Prozess. Was den einen entspannt, kann für den anderen zusätzliche Belastung bedeuten. Wichtig ist es, auf die eigenen Bedürfnisse zu hören und rechtzeitig die Notbremse zu ziehen, bevor der Stress chronisch wird. Wahre Produktivität entsteht nicht durch pausenloses Arbeiten, sondern durch ein gesundes Gleichgewicht zwischen Anspannung und Entspannung."
+  ],
+  "vocab": [
+    { "term": "die Reizüberflutung", "type": "Substantiv", "meaning_tr": "uyaran yoğunluğu / duyusal aşırı yükleme", "meaning_en": "sensory overload", "example": "In der Stadt herrscht oft Reizüberflutung." },
+    { "term": "verharren", "type": "Verb", "meaning_tr": "kalmak, olduğu yerde durmak", "meaning_en": "to remain / persist", "example": "Er verharrte lange in tiefer Trauer." },
+    { "term": "die Achtsamkeit", "type": "Substantiv", "meaning_tr": "farkındalık / bilinçli farkındalık", "meaning_en": "mindfulness", "example": "Achtsamkeit hilft gegen Alltagsstress." },
+    { "term": "bewerten", "type": "Verb", "meaning_tr": "değerlendirmek, puanlamak", "meaning_en": "to evaluate / assess", "example": "Kunden können das Produkt online bewerten." },
+    { "term": "essenziell", "type": "Adjektiv", "meaning_tr": "temel, hayati derecede önemli", "meaning_en": "essential", "example": "Wasser ist essenziell für das Überleben." },
+    { "term": "bewirken", "type": "Verb", "meaning_tr": "sağlamak, neden olmak (pozitif genelde)", "meaning_en": "to cause / bring about", "example": "Die Medizin bewirkte eine schnelle Besserung." },
+    { "term": "die Überforderung", "type": "Substantiv", "meaning_tr": "kapasiteyi aşan yüklenme", "meaning_en": "excessive demand / overstrain", "example": "Die neue Aufgabe führte zur Überforderung." },
+    { "term": "die Notbremse ziehen", "type": "Phrase", "meaning_tr": "imdat frenini çekmek (durumu durdurmak)", "meaning_en": "to pull the emergency brake", "example": "Er musste die Notbremse ziehen und kündigen." },
+    { "term": "pausenlos", "type": "Adjektiv", "meaning_tr": "aralıksız", "meaning_en": "non-stop / restless", "example": "Sie hat pausenlos gearbeitet." },
+    { "term": "das Gleichgewicht", "type": "Substantiv", "meaning_tr": "denge", "meaning_en": "balance / equilibrium", "example": "Halte bitte das Gleichgewicht!" }
+  ],
+  "questions": [
+    {
+      "question": "Warum wird Stress im Text als 'Volkskrankheit' bezeichnet?",
+      "options": ["Weil man ihn mit Tabletten heilen kann.", "Weil fast jeder in der modernen Leistungsgesellschaft davon betroffen ist.", "Weil nur alte Menschen Stress haben.", "Weil man Stress im Krankenhaus behandeln muss."],
+      "answer": "Weil fast jeder in der modernen Leistungsgesellschaft davon betroffen ist."
+    },
+    {
+      "question": "Was sind typische erste Warnsignale für zu viel Stress?",
+      "options": ["Gute Laune und viel Energie.", "Kopfschmerzen, Schlafstörungen und Konzentrationsschwäche.", "Dass man plötzlich sehr viel Sport treibt.", "Dass man besser kochen kann."],
+      "answer": "Kopfschmerzen, Schlafstörungen und Konzentrationsschwäche."
+    },
+    {
+      "question": "Was ist das Ziel der Achtsamkeit (Mindfulness)?",
+      "options": ["Den Moment bewusst wahrzunehmen, ohne ihn zu bewerten.", "Möglichst schnell an die Zukunft zu denken.", "Alles im Leben perfekt zu machen.", "Alle Probleme der Welt zu lösen."],
+      "answer": "Den Moment bewusst wahrzunehmen, ohne ihn zu bewerten."
+    },
+    {
+      "question": "Welchen Rat gibt der Text bezüglich Multitasking?",
+      "options": ["Man sollte so viele Dinge wie möglich gleichzeitig tun.", "Man sollte Prioritäten setzen und auch mal 'Nein' sagen.", "Multitasking ist der einzige Weg zum Erfolg.", "Man sollte während der Arbeit schlafen."],
+      "answer": "Man sollte Prioritäten setzen und auch mal 'Nein' sagen."
+    },
+    {
+      "question": "Wie entsteht laut Fazit wahre Produktivität?",
+      "options": ["Durch pausenloses Arbeiten ohne Schlaf.", "Durch ein gesundes Gleichgewicht zwischen Anspannung und Entspannung.", "Indem man nur noch im Homeoffice arbeitet.", "Durch das Ignorieren aller Warnsignale."],
+      "answer": "Durch ein gesundes Gleichgewicht zwischen Anspannung und Entspannung."
+    }
+  ]
+}

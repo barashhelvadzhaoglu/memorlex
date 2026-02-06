@@ -1,0 +1,31 @@
+{
+  "id": "storie-006",
+  "title": "Lukas sucht eine Wohnung",
+  "summary": "Das Zimmer von Lukas ist zu klein. Er braucht eine neue Wohnung in München.",
+  "text": [
+    "Lukas wohnt momentan in einem Hotel, ama das ist sehr teuer. Er sucht eine WG-Zimmer oder eine kleine Wohnung.",
+    "Er liest eine Anzeige in der Zeitung: 'Helle 2-Zimmer-Wohnung, 50 Quadratmeter, mit Balkon und Küche. Die Miete ist 800 Euro kalt.'",
+    "Lukas ruft den Vermieter an: 'Guten Tag, ist die Wohnung noch frei? Ich möchte sie gerne besichtigen.'",
+    "Der Vermieter sagt: 'Ja, kommen Sie morgen um 18 Uhr.'",
+    "Lukas hofft, dass die Wohnung zentral liegt, denn er möchte nicht lange mit dem Bus fahren."
+  ],
+  "vocab": [
+    { "term": "die Anzeige", "type": "Nomen", "meaning_tr": "ilan", "meaning_en": "advertisement", "example": "Er liest eine Anzeige." },
+    { "term": "die Miete", "type": "Nomen", "meaning_tr": "kira", "meaning_en": "rent", "example": "Die Miete ist 800 Euro." },
+    { "term": "besichtigen", "type": "Verb", "meaning_tr": "gezmek, incelemek (ev/müze)", "meaning_en": "to visit/view", "example": "Ich möchte die Wohnung besichtigen." },
+    { "term": "der Vermieter", "type": "Nomen", "meaning_tr": "ev sahibi", "meaning_en": "landlord", "example": "Lukas ruft den Vermieter an." },
+    { "term": "teuer", "type": "Adjektiv", "meaning_tr": "pahalı", "meaning_en": "expensive", "example": "Das Hotel ist zu teuer." }
+  ],
+  "questions": [
+    {
+      "question": "Was sucht Lukas?",
+      "options": ["Ein Auto", "Einen Job", "Eine Wohnung", "Einen Sprachkurs"],
+      "answer": "Eine Wohnung"
+    },
+    {
+      "question": "Wann ist der Termin für die Besichtigung?",
+      "options": ["Heute", "Morgen um acht Uhr", "Morgen um sechs Uhr abends", "Am Samstag"],
+      "answer": "Morgen um sechs Uhr abends"
+    }
+  ]
+}

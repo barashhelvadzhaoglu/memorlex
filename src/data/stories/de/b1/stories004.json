@@ -1,0 +1,49 @@
+{
+  "id": "storie-b1-004",
+  "title": "Nachhaltigkeit im Alltag",
+  "summary": "Ein Leitfaden über umweltbewusstes Leben und die Verantwortung des Einzelnen.",
+  "text": [
+    "Das Thema Klimaschutz dominiert seit Jahren die politischen Debatten und die Schlagzeilen der Weltpresse. Während globale Abkommen und staatliche Regulierungen zweifellos notwendig sind, wird oft die Rolle des Individuums unterschätzt. Viele Menschen fühlen sich angesichts der gewaltigen ökologischen Probleme ohnmächtig und fragen sich: Kann mein persönliches Verhalten überhaupt einen Unterschied machen? Die Antwort der Wissenschaft ist eindeutig: Ja. Die Summe vieler kleiner Entscheidungen im Alltag hat eine enorme Hebelwirkung auf den Ressourcenverbrauch und die CO2-Bilanz eines Landes. Nachhaltigkeit ist kein Luxusgut, sondern eine Notwendigkeit, die tiefgreifende Veränderungen in unserem Konsumverhalten erfordert.",
+    "Ein zentraler Bereich ist die Ernährung. Die Produktion von Fleisch, insbesondere Rindfleisch, verbraucht gigantische Mengen an Wasser und Landfläche und ist für einen erheblichen Teil der Treibhausgasemissionen verantwortlich. Wer seinen Fleischkonsum reduziert oder auf regionale und saisonale Produkte umsteigt, schont die Umwelt massiv. Ein weiterer Aspekt ist die Vermeidung von Plastikmüll. Jedes Jahr landen Millionen Tonnen Kunststoff in den Weltmeeren, was verheerende Folgen für die Tierwelt hat. Einfache Maßnahmen wie der Verzicht auf Einwegflaschen, die Nutzung von Stoffbeuteln und der Kauf von unverpackten Lebensmitteln können hier bereits einen großen Beitrag leisten. Es geht nicht darum, von heute auf morgen perfekt zu leben, sondern bewusster zu wählen.",
+    "Auch im Bereich Mobilität und Energie gibt es viel Potenzial. Der Umstieg vom Auto auf das Fahrrad oder den öffentlichen Nahverkehr spart nicht nur Emissionen, sondern fördert auch die eigene Gesundheit. Im Haushalt lässt sich durch moderne LED-Lampen, Stoßlüften statt Dauerkippen der Fenster und den Verzicht auf Stand-by-Modi bei Elektrogeräten viel Energie sparen. Kritiker behaupten oft, dass nachhaltiges Leben teuer sei. Doch das Gegenteil ist häufig der Fall: Wer weniger konsumiert, Dinge reparieren lässt, statt sie neu zu kaufen, und bewusster einkauft, spart langfristig bares Geld. Nachhaltigkeit bedeutet letztlich eine Rückbesinnung auf Qualität statt Quantität. Wenn wir lernen, den Wert der Dinge wieder zu schätzen, leisten wir den wichtigsten Beitrag zum Schutz unseres Planeten."
+  ],
+  "vocab": [
+    { "term": "unterschätzen", "type": "Verb", "meaning_tr": "küçümsemek, hafife almak", "meaning_en": "to underestimate", "example": "Man sollte den Gegner niemals unterschätzen." },
+    { "term": "ohnmächtig", "type": "Adjektiv", "meaning_tr": "çaresiz (veya baygın)", "meaning_en": "powerless / faint", "example": "Gegen die Naturgewalten sind wir ohnmächtig." },
+    { "term": "die Hebelwirkung", "type": "Substantiv", "meaning_tr": "kaldıraç etkisi", "meaning_en": "leverage effect", "example": "Kleine Investitionen können eine große Hebelwirkung haben." },
+    { "term": "tiefgreifend", "type": "Adjektiv", "meaning_tr": "derin, köklü", "meaning_en": "profound / far-reaching", "example": "Wir brauchen tiefgreifende Reformen." },
+    { "term": "erheblich", "type": "Adjektiv", "meaning_tr": "önemli ölçüde, epey", "meaning_en": "considerable / significant", "example": "Das Projekt verursachte erhebliche Kosten." },
+    { "term": "verheerend", "type": "Adjektiv", "meaning_tr": "yıkıcı, feci", "meaning_en": "devastating", "example": "Das Erdbeben hatte verheerende Folgen." },
+    { "term": "der Verzicht", "type": "Substantiv", "meaning_tr": "feragat, vazgeçme", "meaning_en": "renunciation / waiving", "example": "Der Verzicht auf Zucker ist gesund." },
+    { "term": "potenzial", "type": "Substantiv", "meaning_tr": "potansiyel", "meaning_en": "potential", "example": "Die Solarenergie hat großes Potenzial." },
+    { "term": "bares Geld", "type": "Phrase", "meaning_tr": "nakit para / ciddi tasarruf", "meaning_en": "cold hard cash", "example": "Energiesparen bedeutet bares Geld." },
+    { "term": "die Rückbesinnung", "type": "Substantiv", "meaning_tr": "öze dönüş, yeniden hatırlama", "meaning_en": "recollection / return to", "example": "Eine Rückbesinnung auf alte Werte findet statt." }
+  ],
+  "questions": [
+    {
+      "question": "Warum fühlen sich viele Menschen beim Thema Klimaschutz ohnmächtig?",
+      "options": ["Weil sie keine Nachrichten lesen.", "Wegen der gewaltigen Größe der ökologischen Probleme.", "Weil sie kein Geld für Steuern haben.", "Weil sie die Wissenschaft nicht verstehen."],
+      "answer": "Wegen der gewaltigen Größe der ökologischen Probleme."
+    },
+    {
+      "question": "Welchen Einfluss hat das persönliche Verhalten laut Text?",
+      "options": ["Gar keinen, nur Staaten können etwas ändern.", "Einen sehr geringen, der sich nicht lohnt.", "Eine enorme Hebelwirkung durch die Summe vieler kleiner Entscheidungen.", "Nur wenn man gar nichts mehr isst."],
+      "answer": "Eine enorme Hebelwirkung durch die Summe vieler kleiner Entscheidungen."
+    },
+    {
+      "question": "Warum ist Fleischkonsum ökologisch problematisch?",
+      "options": ["Weil Fleisch zu teuer ist.", "Wegen des hohen Verbrauchs an Wasser und Landfläche sowie Treibhausgasemissionen.", "Weil es in der Stadt kein Fleisch gibt.", "Weil Tiere zu viel Lärm machen."],
+      "answer": "Wegen des hohen Verbrauchs an Wasser und Landfläche sowie Treibhausgasemissionen."
+    },
+    {
+      "question": "Was ist ein Vorteil von nachhaltigem Konsum (wie Reparieren statt Neukaufen)?",
+      "options": ["Man hat immer die neuesten Produkte.", "Es spart langfristig bares Geld.", "Man muss weniger arbeiten.", "Man bekommt Geschenke vom Staat."],
+      "answer": "Es spart langfristig bares Geld."
+    },
+    {
+      "question": "Was ist die Kernbotschaft zum Thema Plastikmüll?",
+      "options": ["Man sollte Plastik im Meer sammeln.", "Einfache Maßnahmen wie Stoffbeutel und unverpackte Produkte helfen massiv.", "Plastik ist gar nicht so schlimm.", "Man sollte nur noch Plastikflaschen kaufen."],
+      "answer": "Einfache Maßnahmen wie Stoffbeutel und unverpackte Produkte helfen massiv."
+    }
+  ]
+}

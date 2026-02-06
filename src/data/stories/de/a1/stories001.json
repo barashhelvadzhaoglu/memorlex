@@ -1,0 +1,36 @@
+{
+  "id": "storie-001",
+  "title": "Lukas in München: Der erste Morgen",
+  "summary": "Lukas ist neu in München. Er beginnt seinen Tag mit einem Plan.",
+  "text": [
+    "Lukas kommt aus Polen und lebt jetzt in München. Heute ist sein erster Tag.",
+    "Er steht um acht Uhr auf. Er ist ein bisschen nervös, aber auch glücklich.",
+    "Zuerst trinkt er einen Kaffee und isst ein Brot mit Käse. Das Frühstück ist sehr wichtig für ihn.",
+    "Dann schreibt er eine Liste. Er möchte heute die Stadt sehen ve Deutsch lernen.",
+    "Lukas sucht seine Tasche. Wo ist sie? Ah, sie liegt unter dem Tisch. Jetzt kann er gehen."
+  ],
+  "vocab": [
+    { "term": "aufstehen", "type": "Verb", "meaning_tr": "ayağa kalkmak, uyanmak", "meaning_en": "to get up", "example": "Lukas steht um acht Uhr auf." },
+    { "term": "nervös", "type": "Adjektiv", "meaning_tr": "heyecanlı, gergin", "meaning_en": "nervous", "example": "Er ist ein bisschen nervös." },
+    { "term": "wichtig", "type": "Adjektiv", "meaning_tr": "önemli", "meaning_en": "important", "example": "Das Frühstück ist sehr wichtig." },
+    { "term": "suchen", "type": "Verb", "meaning_tr": "aramak", "meaning_en": "to search/look for", "example": "Lukas sucht seine Tasche." },
+    { "term": "glücklich", "type": "Adjektiv", "meaning_tr": "mutlu", "meaning_en": "happy", "example": "Lukas ist glücklich." }
+  ],
+  "questions": [
+    {
+      "question": "Woher kommt Lukas?",
+      "options": ["Aus Deutschland", "Aus Polen", "Aus der Türkei", "Aus Italien"],
+      "answer": "Aus Polen"
+    },
+    {
+      "question": "Was isst Lukas zum Frühstück?",
+      "options": ["Ein Ei", "Ein Brot mit Käse", "Obst", "Müsli"],
+      "answer": "Ein Brot mit Käse"
+    },
+    {
+      "question": "Was sucht Lukas?",
+      "options": ["Seine Tasche", "Seinen Schlüssel", "Sein Handy", "Sein Buch"],
+      "answer": "Seine Tasche"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "storie-004",
+  "title": "Lukas lernt Elena kennen",
+  "summary": "Im Sprachkurs trifft Lukas eine neue Person.",
+  "text": [
+    "Lukas geht jetzt zum Deutschkurs. Er ist in der Klasse A1.2.",
+    "Neben ihm sitzt eine Frau. Sie heißt Elena ve kommt aus Spanien.",
+    "Elena ist sehr nett. Sie machen zusammen die Hausaufgaben.",
+    "Lukas fragt: 'Hast du am Samstag Zeit? Wir können im Englischen Garten spazieren gehen.'",
+    "Elena sagt: 'Ja, gerne! Das macht Spaß.' Lukas freut sich."
+  ],
+  "vocab": [
+    { "term": "kennenlernen", "type": "Verb", "meaning_tr": "tanışmak", "meaning_en": "to get to know", "example": "Lukas lernt Elena kennen." },
+    { "term": "zusammen", "type": "Adverb", "meaning_tr": "birlikte", "meaning_en": "together", "example": "Sie machen zusammen Hausaufgaben." },
+    { "term": "spazieren gehen", "type": "Verb", "meaning_tr": "yürüyüşe çıkmak", "meaning_en": "to go for a walk", "example": "Wir gehen im Garten spazieren." },
+    { "term": "nett", "type": "Adjektiv", "meaning_tr": "nazik, hoş", "meaning_en": "nice", "example": "Elena ist sehr nett." }
+  ],
+  "questions": [
+    {
+      "question": "Wer ist Elena?",
+      "options": ["Lukas' Schwester", "Eine Verkäuferin", "Eine Frau im Sprachkurs", "Die Lehrerin"],
+      "answer": "Eine Frau im Sprachkurs"
+    },
+    {
+      "question": "Was machen sie am Samstag?",
+      "options": ["Deutsch lernen", "Spazieren gehen", "Pizza essen", "Fisch kaufen"],
+      "answer": "Spazieren gehen"
+    }
+  ]
+}

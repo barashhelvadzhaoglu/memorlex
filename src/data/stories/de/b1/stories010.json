@@ -1,0 +1,31 @@
+{
+  "id": "storie-010",
+  "title": "Auf der Post",
+  "summary": "Lukas möchte ein Paket schicken. Er muss ein Formular ausfüllen.",
+  "text": [
+    "Lukas möchte seiner Familie in Polen ein Geschenk schicken. Er geht zur Post.",
+    "Das Paket ist schwer. Er fragt den Mitarbeiter: 'Wie viel kostet der Versand nach Polen?'",
+    "Der Mitarbeiter antwortet: 'Fünfzehn Euro. Bitte füllen Sie dieses Formular aus.'",
+    "Lukas schreibt seinen Namen, die Adresse und die Postleitzahl auf das Papier.",
+    "Er muss auch unterschreiben. Dann bezahlt er und bekommt eine Quittung."
+  ],
+  "vocab": [
+    { "term": "ausfüllen", "type": "Verb", "meaning_tr": "doldurmak (form)", "meaning_en": "to fill out", "example": "Bitte füllen Sie das Formular aus." },
+    { "term": "unterschreiben", "type": "Verb", "meaning_tr": "imzalamak", "meaning_en": "to sign", "example": "Er muss hier unterschreiben." },
+    { "term": "die Quittung", "type": "Nomen", "meaning_tr": "makbuz, fiş", "meaning_en": "receipt", "example": "Er bekommt eine Quittung." },
+    { "term": "die Postleitzahl", "type": "Nomen", "meaning_tr": "posta kodu", "meaning_en": "zip code", "example": "Wie ist die Postleitzahl?" },
+    { "term": "schicken", "type": "Verb", "meaning_tr": "göndernek", "meaning_en": "to send", "example": "Ich schicke ein Paket." }
+  ],
+  "questions": [
+    {
+      "question": "Was möchte Lukas machen?",
+      "options": ["Einen Brief lesen", "Ein Paket schicken", "Geld abheben", "Eine Tasche kaufen"],
+      "answer": "Ein Paket schicken"
+    },
+    {
+      "question": "Woher bekommt Lukas die Informationen?",
+      "options": ["Vom Mitarbeiter", "Aus dem Internet", "Von Elena", "Von seinem Vater"],
+      "answer": "Vom Mitarbeiter"
+    }
+  ]
+}
