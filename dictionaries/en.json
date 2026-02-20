@@ -7,6 +7,15 @@
     "german": "German",
     "english": "English"
   },
+  "seoContent": {
+    "title": "Next-Generation Approach to German and English Learning with Memorlex",
+    "p1": "Today, learning a foreign language requires more than just memorizing words; it involves understanding the logic of the language and developing four core skills (reading, writing, listening, and speaking) simultaneously. Memorlex is designed as a scientific, interactive, and exam-oriented study center for German and English learners.",
+    "h2_1": "Integration Course and Exam Preparation",
+    "p2": "In addition to A1, A2, and B1 levels, our site offers content fully compatible with the Integration Course (Integrationkurs) curriculum. For those preparing for Telc, Goethe, or ÖSD exams, we combine reading comprehension, listening exercises, and vocabulary building tools in one platform.",
+    "h2_2": "Scientific \"Writing-to-Learn\" Method",
+    "p3": "What sets Memorlex apart is the integration of the writing-based study method, proven effective by linguists, into a digital environment. The act of writing strengthens neural pathways in the brain, accelerating learning by up to 40%. Our Writing Practice mode allows you to transfer words to long-term memory through active use.",
+    "footerNote": "Whether you are starting from scratch or preparing for an integration exam, language learning is now much easier with our story-based model and interactive flashcards."
+  },
   "levels": {
     "selectTitle": "Select the level you want to study:"
   },
@@ -27,7 +36,7 @@
   "title": "Neu Linie German Learning Center",
   "description": "Interactive vocabulary practice.",
   "practice": "Vocabulary Practice",
-  "flashcards": "Flashcards",
+  "flashcardsLabel": "Flashcards",
   "start": "Start Now",
   "unit": {
     "description": "Choose the mode you want to study:",

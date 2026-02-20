@@ -7,6 +7,15 @@
     "german": "Deutsch",
     "english": "Englisch"
   },
+  "seoContent": {
+    "title": "Ein moderner Ansatz zum Deutsch- und Englischlernen mit Memorlex",
+    "p1": "Heutzutage erfordert das Erlernen einer Fremdsprache mehr als nur das Auswendiglernen von Wörtern. Es geht darum, die Logik der Sprache zu verstehen und die vier Grundfertigkeiten (Lesen, Schreiben, Hören und Sprechen) gleichzeitig zu entwickeln. Memorlex ist ein wissenschaftlich fundiertes, interaktives und prüfungsorientiertes Lernzentrum für Deutsch- und Englischlernende.",
+    "h2_1": "Integrationskurs und Prüfungsvorbereitung",
+    "p2": "Zusätzlich zu den Niveaus A1, A2 und B1 bietet unsere Seite Inhalte, die vollständig auf das Curriculum des Integrationskurses abgestimmt sind. Für die Vorbereitung auf Telc-, Goethe- oder ÖSD-Prüfungen vereinen wir Leseverständnis, Hörverbindungen und Vokabeltraining auf einer Plattform.",
+    "h2_2": "Wissenschaftliche Schreibmethode",
+    "p3": "Das Besondere an Memorlex ist die digitale Integration der schreibbasierten Lernmethode, die von Sprachwissenschaftlern als besonders effektiv eingestuft wird. Das Schreiben stärkt die neuronalen Bahnen im Gehirn und beschleunigt den Lernprozess um bis zu 40 %. Mit unserem Schreibtraining können Sie Vokabeln aktiv in Ihr Langzeitgedächtnis übertragen.",
+    "footerNote": "Egal, ob Sie Anfänger sind oder sich auf eine Integrationsprüfung vorbereiten – mit unserem geschichtenbasierten Modell und interaktiven Karteikarten wird Sprachenlernen zum Erfolg."
+  },
   "levels": {
     "selectTitle": "Wählen Sie das Niveau, das Sie lernen möchten:"
   },
@@ -27,7 +36,7 @@
   "title": "Neu Linie Deutsch-Lernzentrum",
   "description": "Interaktives Vokabeltraining.",
   "practice": "Schreibübung",
-  "flashcards": "Flashcards",
+  "flashcardsLabel": "Flashcards",
   "start": "Jetzt starten",
   "unit": {
     "description": "Wählen Sie den Lernmodus:",
