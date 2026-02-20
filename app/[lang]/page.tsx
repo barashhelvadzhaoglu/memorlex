@@ -25,7 +25,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   };
 }
 
-export default async function LanguagePage({ params }: { params: Promise<{ lang: string }> }): Promise<JSX.Element> {
+// ✅ Düzeltme: Build hatasına neden olan açık JSX.Element tanımı kaldırıldı
+export default async function LanguagePage({ params }: { params: Promise<{ lang: string }> }) {
   const { lang } = await params;
   const dict = await getDictionary(lang as ValidLangs);
 
