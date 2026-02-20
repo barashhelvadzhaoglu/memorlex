@@ -2,14 +2,16 @@ import Link from 'next/link';
 import { getDictionary } from '@/dictionaries';
 import { Metadata } from 'next';
 
-type ValidLangs = "en" | "tr" | "de" | "uk";
+// ✅ "es" eklendi
+type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
 
 export async function generateStaticParams() {
   return [
     { lang: 'en' },
     { lang: 'tr' },
     { lang: 'de' },
-    { lang: 'uk' }
+    { lang: 'uk' },
+    { lang: 'es' }
   ];
 }
 
@@ -23,7 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   };
 }
 
-export default async function LanguagePage({ params }: { params: Promise<{ lang: string }> }) {
+export default async function LanguagePage({ params }: { params: Promise<{ lang: string }> }): Promise<JSX.Element> {
   const { lang } = await params;
   const dict = await getDictionary(lang as ValidLangs);
 
@@ -89,7 +91,7 @@ export default async function LanguagePage({ params }: { params: Promise<{ lang:
         <div className="grid grid-cols-2 gap-4 text-center">
           {[
             { icon: '⌨️', label: dict.practice },
-            { icon: '🖼️', label: dict.flashcards },
+            { icon: '🖼️', label: dict.flashcardsLabel },
             { icon: '📚', label: dict.categories?.integration },
             { icon: '🚀', label: dict.start }
           ].map((item, index) => (

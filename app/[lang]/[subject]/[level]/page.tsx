@@ -4,12 +4,15 @@ import path from 'path';
 import { getDictionary } from '@/dictionaries';
 import { Metadata } from 'next';
 
-type ValidLangs = "en" | "tr" | "de" | "uk";
+// ✅ "es" eklendi
+type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, subject: string, level: string }> }): Promise<Metadata> {
   const { lang, subject, level } = await params;
 
-  const subName = subject === 'german' ? (lang === 'tr' ? 'Almanca' : 'German') : (lang === 'tr' ? 'İngilizce' : 'English');
+  const subName = subject === 'german' 
+    ? (lang === 'tr' ? 'Almanca' : lang === 'es' ? 'Alemán' : 'German') 
+    : (lang === 'tr' ? 'İngilizce' : lang === 'es' ? 'Inglés' : 'English');
   const upperLvl = level.toUpperCase();
 
   const seoData: Record<string, { title: string, description: string }> = {
@@ -28,6 +31,11 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     de: {
       title: `${subName} ${upperLvl} Alle Einheiten | Memorlex`,
       description: `Lerne ${subName} auf dem Niveau ${upperLvl}.`
+    },
+    // ✅ İspanyolca SEO verisi eklendi
+    es: {
+      title: `${subName} ${upperLvl} Todas las Unidades | Memorlex`,
+      description: `Estudia las unidades y listas de vocabulario de ${subName} nivel ${upperLvl}.`
     }
   };
 
@@ -40,7 +48,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 }
 
 export async function generateStaticParams() {
-  const languages = ['en', 'tr', 'de', 'uk'];
+  // ✅ "es" eklendi
+  const languages = ['en', 'tr', 'de', 'uk', 'es'];
   const subjects = ['german', 'english'];
   const levels = ['a1', 'a2', 'b1'];
 
@@ -72,13 +81,13 @@ export default async function LevelPage({ params }: { params: Promise<{ lang: st
     );
   }
 
-  // ✅ TypeScript Build Hatası Çözümü: (dict as any) eklenerek stories anahtarına erişim sağlandı
+  // ✅ İspanyolca Stories başlığı eklendi
   const storiesTitle =
     (dict as any)?.stories?.title ||
-    (lang === "tr" ? "HİKÂYELER" : lang === "de" ? "GESCHICHTEN" : "STORIES");
+    (lang === "tr" ? "HİKÂYELER" : lang === "es" ? "HISTORIAS" : lang === "de" ? "GESCHICHTEN" : "STORIES");
 
   const storiesSub =
-    lang === "tr" ? "stories →" : lang === "de" ? "stories →" : "stories →";
+    lang === "tr" ? "hikayeler →" : lang === "es" ? "historias →" : "stories →";
 
   return (
     <main className="min-h-screen bg-white text-slate-900 dark:bg-slate-950 dark:text-white p-10 transition-colors duration-300">
@@ -89,7 +98,7 @@ export default async function LevelPage({ params }: { params: Promise<{ lang: st
 
         <div className="grid gap-6">
 
-          {/* ✅ STORIES CARD (EN ÜSTTE) */}
+          {/* ✅ STORIES CARD */}
           <Link
             href={`/${lang}/${subject}/${level}/stories`}
             className="p-8 rounded-[32px] transition-all flex justify-between items-center group
@@ -112,10 +121,10 @@ export default async function LevelPage({ params }: { params: Promise<{ lang: st
               key={cat}
               href={`/${lang}/${subject}/${level}/${cat}`}
               className="p-8 rounded-[32px] transition-all flex justify-between items-center group
-                         bg-slate-50 border-slate-200 text-slate-900
-                         dark:bg-slate-900 dark:border-slate-800 dark:text-white
-                         hover:bg-amber-500 hover:text-black hover:border-amber-500
-                         border-2 shadow-sm"
+                       bg-slate-50 border-slate-200 text-slate-900
+                       dark:bg-slate-900 dark:border-slate-800 dark:text-white
+                       hover:bg-amber-500 hover:text-black hover:border-amber-500
+                       border-2 shadow-sm"
             >
               <span className="text-2xl font-black uppercase tracking-widest">
                 {categoriesDict?.[cat] || cat.toUpperCase()}
@@ -127,7 +136,7 @@ export default async function LevelPage({ params }: { params: Promise<{ lang: st
 
         <div className="mt-10">
           <Link href={`/${lang}/${subject}`} className="text-slate-500 dark:text-slate-400 hover:text-amber-500 dark:hover:text-white font-bold italic transition-colors">
-            ← {dict.navigation?.back || 'Back'}
+            ← {dict.navigation?.back || (lang === "es" ? "Volver" : "Back")}
           </Link>
         </div>
       </div>

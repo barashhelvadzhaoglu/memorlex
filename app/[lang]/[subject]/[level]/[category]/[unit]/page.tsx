@@ -7,37 +7,45 @@ import path from 'path';
 import { Suspense } from 'react';
 import { Metadata } from 'next';
 
-type ValidLangs = "en" | "tr" | "de" | "uk";
+// ✅ "es" eklendi
+type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
 
 // SEO - Sayfaya Özel Metadata Üretimi
 export async function generateMetadata({ params }: { params: any }): Promise<Metadata> {
   const { lang, subject, level, unit } = await params;
   const unitName = unit.replace(/-/g, ' ');
-  const subjectName = subject === 'german' ? (lang === 'tr' ? 'Almanca' : 'German') : 'English';
+  
+  // Özne ismini dile göre ayarla
+  const subjectName = subject === 'german' 
+    ? (lang === 'tr' ? 'Almanca' : lang === 'es' ? 'Alemán' : 'German') 
+    : (lang === 'es' ? 'Inglés' : 'English');
 
-  const titles = {
+  const titles: Record<ValidLangs, string> = {
     tr: `${unitName} - ${subjectName} ${level.toUpperCase()} Kelimeleri ve Alıştırmalar`,
     en: `${unitName} - Learn ${subjectName} ${level.toUpperCase()} Vocabulary`,
     uk: `${unitName} - Німецька мова ${level.toUpperCase()} словник`,
-    de: `${unitName} - Vokabeln lernen ${subjectName} ${level.toUpperCase()}`
+    de: `${unitName} - Vokabeln lernen ${subjectName} ${level.toUpperCase()}`,
+    es: `${unitName} - Aprender vocabulario de ${subjectName} ${level.toUpperCase()}` // ✅ Eklendi
   };
 
-  const descriptions = {
+  const descriptions: Record<ValidLangs, string> = {
     tr: `${unitName} ünitesi kelime listesi. Flashcard ve yazarak çalışma modülü ile interaktif ${subjectName} öğrenin.`,
     en: `${unitName} unit vocabulary list. Practice ${subjectName} with interactive flashcards and writing exercises.`,
     uk: `${unitName} - список слів. Вивчайте німецьку за допомогою карток та вправ.`,
-    de: `${unitName} Vokabelliste. Übe Vokabeln mit Karteikarten und Schreibtraining.`
+    de: `${unitName} Vokabelliste. Übe Vokabeln mit Karteikarten und Schreibtraining.`,
+    es: `${unitName} lista de vocabulario. Practica ${subjectName} con tarjetas interactivas y ejercicios de escritura.` // ✅ Eklendi
   };
 
   return {
     title: titles[lang as ValidLangs] || titles.en,
     description: descriptions[lang as ValidLangs] || descriptions.en,
-    keywords: [`${unitName} kelimeleri`, `${subjectName} ${level}`, "yazarak öğrenme", "flashcard", "Memorlex"]
+    keywords: [`${unitName} kelimeleri`, `${subjectName} ${level}`, "yazarak öğrenme", "flashcard", "Memorlex", "aprender alemán"]
   };
 }
 
 export async function generateStaticParams() {
-  const languages = ['en', 'tr', 'de', 'uk'];
+  // ✅ "es" eklendi. Bu sayede build sırasında İspanyolca sayfalar da oluşturulur.
+  const languages = ['en', 'tr', 'de', 'uk', 'es'];
   const baseDir = path.join(process.cwd(), 'src/data/vocabulary');
   const paths: any[] = [];
   
@@ -89,12 +97,12 @@ export default async function UnitPage({
 }) {
   const { lang, subject, level, category, unit } = await params;
   
+  // Tip güvenliği için cast işlemi
   const dict = await getDictionary(lang as ValidLangs);
   const data = await getVocab(lang, subject, level, category, unit);
   
   if (!data) return notFound();
 
-  // SEO İçin Schema.org yapısal verisi (Kurs Ünitesi olarak tanıtıyoruz)
   const schemaMarkup = {
     "@context": "https://schema.org",
     "@type": "EducationalOccupationalCredential",

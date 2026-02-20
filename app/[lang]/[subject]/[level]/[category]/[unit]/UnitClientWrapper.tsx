@@ -10,7 +10,7 @@ export default function UnitClientWrapper({ initialData, dict, lang, unitName }:
 
   const subjectTitle = initialData.title || unitName.replace(/-/g, ' ');
 
-  // Kelimeleri, URL'den gelen dile göre (tr, en, uk) önceden işleyelim.
+  // Kelimeleri, URL'den gelen dile göre (tr, en, uk, es) önceden işleyelim.
   const processedWords = initialData.words.map((word: any) => ({
     ...word,
     meaning: word[`meaning_${lang}`] || word.meaning_en || word.meaning

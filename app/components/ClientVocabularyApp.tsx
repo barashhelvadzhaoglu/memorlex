@@ -20,7 +20,9 @@ interface Props {
 const translations: any = {
   tr: { search: "Ünite ara...", check: "KONTROL ET", next: "SIRADAKİ", back: "Geri dön", start: "BAŞLAT", finished: "TAMAMLANDI!", retry: "SETİ TEKRARLA", main: "ANA MENÜ", nextSet: "SIRADAKİ SET →", wrongRetry: "YANLIŞLARI TEKRAR ET", fastSelect: "HIZLI SEÇİM", rangeSelect: "ARALIK SEÇ", close: "✕ KAPAT", setupLabel: "Çalışmak istediğiniz kelime sayısını seçin" },
   en: { search: "Search unit...", check: "CHECK", next: "NEXT", back: "Go back", start: "START", finished: "COMPLETED!", retry: "REPLAY SET", main: "MAIN MENU", nextSet: "NEXT SET →", wrongRetry: "RETRY MISTAKES", fastSelect: "QUICK SELECT", rangeSelect: "CHOOSE RANGE", close: "✕ CLOSE", setupLabel: "Select the number of words to study" },
-  de: { search: "Lektion suchen...", check: "PRÜFEN", next: "NÄCHSTE", back: "Zurück", start: "STARTEN", finished: "ABGESCHLOSSEN!", retry: "SET WIEDERHOLEN", main: "HAUPTMENÜ", nextSet: "NÄCHSTES SET →", wrongRetry: "FEHLER WIEDERHOLEN", fastSelect: "SCHNELLAUSWAHL", rangeSelect: "BEREICH WÄHLEN", close: "✕ SCHLIESSEN", setupLabel: "Wählen Sie die Anzahl der Wörter" }
+  de: { search: "Lektion suchen...", check: "PRÜFEN", next: "NÄCHSTE", back: "Zurück", start: "STARTEN", finished: "ABGESCHLOSSEN!", retry: "SET WIEDERHOLEN", main: "HAUPTMENÜ", nextSet: "NÄCHSTES SET →", wrongRetry: "FEHLER WIEDERHOLEN", fastSelect: "SCHNELLAUSWAHL", rangeSelect: "BEREICH WÄHLEN", close: "✕ SCHLIESSEN", setupLabel: "Wählen Sie die Anzahl der Wörter" },
+  // ✅ İspanyolca (es) eklendi
+  es: { search: "Buscar unidad...", check: "COMPROBAR", next: "SIGUIENTE", back: "Volver", start: "INICIAR", finished: "¡COMPLETADO!", retry: "REPETIR SET", main: "MENÚ PRINCIPAL", nextSet: "SIGUIENTE SET →", wrongRetry: "REPETIR ERRORES", fastSelect: "SELECCIÓN RÁPIDA", rangeSelect: "ELEGIR RANGO", close: "✕ CERRAR", setupLabel: "Selecciona el número de palabras para estudiar" }
 };
 
 export default function ClientVocabularyApp({ initialWords, lang, subject, dict }: Props) {
@@ -46,14 +48,19 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
   }, [dict, lang]);
   
   const fTypeColors: any = { 
-    "İsim": "#f59e0b", "Noun": "#f59e0b",
-    "Fiil": "#3b82f6", "Verb": "#3b82f6",
-    "Sıfat": "#ec4899", "Adjective": "#ec4899",
-    "Zarf": "#10b981", "Adverb": "#10b981",
+    "İsim": "#f59e0b", "Noun": "#f59e0b", "Sustantivo": "#f59e0b",
+    "Fiil": "#3b82f6", "Verb": "#3b82f6", "Verbo": "#3b82f6",
+    "Sıfat": "#ec4899", "Adjective": "#ec4899", "Adjetivo": "#ec4899",
+    "Zarf": "#10b981", "Adverb": "#10b981", "Adverbio": "#10b981",
     "DEFAULT": "#94a3b8" 
   };
 
-  const germanChars = ['ä', 'ö', 'ü', 'ß', 'Ä', 'Ö', 'Ü'];
+  // ✅ Öğrenilen dile göre klavye karakterlerini belirle
+  const specialChars = useMemo(() => {
+    if (subject === "german") return ['ä', 'ö', 'ü', 'ß', 'Ä', 'Ö', 'Ü'];
+    if (subject === "spanish") return ['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ', '¿', '¡'];
+    return [];
+  }, [subject]);
 
   const shuffle = (array: any[]) => [...array].sort(() => Math.random() - 0.5);
 
@@ -92,7 +99,8 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
     if (!userValue) return;
 
     let isCorrect = false;
-    const isNoun = w.type === "İsim" || w.type === "Noun";
+    // İsimlerde artikeller önemli olduğu için case-sensitive kontrol edilebilir
+    const isNoun = w.type === "İsim" || w.type === "Noun" || w.type === "Sustantivo";
 
     if (isNoun) {
       isCorrect = userValue === w.term;
@@ -103,7 +111,8 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
     if (isCorrect) {
       setAnswered(true);
       setStats(prev => ({ ...prev, correct: prev.correct + 1 }));
-      setFeedback({ text: 'Richtig! 🎉', color: '#16a34a' });
+      const correctMsg = lang === "tr" ? "Doğru! 🎉" : lang === "es" ? "¡Correcto! 🎉" : lang === "de" ? "Richtig! 🎉" : "Correct! 🎉";
+      setFeedback({ text: correctMsg, color: '#16a34a' });
       setTimeout(() => {
           const nextBtn = document.getElementById('next-btn-trigger');
           if (nextBtn) nextBtn.click();
@@ -114,7 +123,8 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
     setAnswered(true);
     setStats(prev => ({ ...prev, wrong: prev.wrong + 1 }));
     setErrorWords(prev => [...prev, w]);
-    setFeedback({ text: `Falsch: ${w.term}`, color: '#dc2626' });
+    const wrongMsg = lang === "tr" ? "Yanlış" : lang === "es" ? "Incorrecto" : lang === "de" ? "Falsch" : "Wrong";
+    setFeedback({ text: `${wrongMsg}: ${w.term}`, color: '#dc2626' });
   };
 
   const handleNext = () => {
@@ -184,7 +194,7 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
           <p className="text-slate-400 dark:text-slate-500 italic mb-6 text-base font-normal">{currentSet[idx]?.example.replace('***', '______')}</p>
           
           <div className="flex flex-wrap justify-center gap-1.5 mb-6">
-            {germanChars.map(char => (
+            {specialChars.map(char => (
               <button key={char} onClick={() => handleCharClick(char)} className="w-9 h-9 flex items-center justify-center bg-slate-100 dark:bg-white/10 hover:bg-blue-600 hover:text-white dark:text-white rounded-lg font-bold text-lg transition-all active:scale-90 cursor-pointer">{char}</button>
             ))}
           </div>

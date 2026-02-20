@@ -50,7 +50,7 @@ export default function Navbar() {
               className="object-contain"
               priority
             />
-            {/* Marka İsmi (İsteğe bağlı, logoda zaten yazıyorsa Home ikonu yerine bunu kullanabilirsiniz) */}
+            {/* Marka İsmi */}
             <span className="font-bold text-slate-800 dark:text-white hidden sm:block">
               Memorlex
             </span>
@@ -60,7 +60,7 @@ export default function Navbar() {
 
       {/* SAĞ: Dil ve Tema */}
       <div className="flex items-center gap-2 pointer-events-auto">
-        <div className="flex items-center gap-1 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md p-1.5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-xl">
+        <div className="flex items-center gap-1 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md p-1.5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-xl overflow-x-auto max-w-[280px] sm:max-w-none">
           
           <button onClick={() => changeLanguage("de")} className="flex items-center gap-1 px-2 py-1.5 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all">
             <span className="text-lg">🇩🇪</span>
@@ -70,6 +70,11 @@ export default function Navbar() {
           <button onClick={() => changeLanguage("en")} className="flex items-center gap-1 px-2 py-1.5 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all">
             <span className="text-lg">🇬🇧</span>
             <span className="text-[9px] font-black text-slate-500">EN</span>
+          </button>
+          <div className="w-px h-3 bg-slate-200 dark:bg-slate-700" />
+          <button onClick={() => changeLanguage("es")} className="flex items-center gap-1 px-2 py-1.5 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all">
+            <span className="text-lg">🇪🇸</span>
+            <span className="text-[9px] font-black text-slate-500">ES</span>
           </button>
           <div className="w-px h-3 bg-slate-200 dark:bg-slate-700" />
           <button onClick={() => changeLanguage("uk")} className="flex items-center gap-1 px-2 py-1.5 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all">

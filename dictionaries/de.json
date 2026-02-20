@@ -14,6 +14,10 @@
     "integration": "📚 UNIT-ORIENTIERT (INTEGRATION)",
     "topic": "📂 NACH THEMEN LERNEN"
   },
+  "stories": {
+    "title": "GESCHICHTEN",
+    "sub": "Lerne durch Lesen und Üben"
+  },
   "units": {
     "listTitle": "Liste"
   },
@@ -29,5 +33,19 @@
     "description": "Wählen Sie den Lernmodus:",
     "flashcards": "Lernkarten",
     "practice": "Schreibtraining"
+  },
+  "flashcards": {
+    "setupLabel": "Wählen Sie die Anzahl der Wörter zum Lernen",
+    "start": "STARTEN",
+    "close": "SCHLIESSEN",
+    "flip": "UMDREHEN",
+    "prev": "ZURÜCK",
+    "next": "WEITER",
+    "finish": "BEENDEN",
+    "doneTitle": "GUT GEMACHT",
+    "doneDesc": "Wörter abgeschlossen",
+    "retry": "WIEDERHOLEN",
+    "nextSet": "NÄCHSTES SET →",
+    "goHome": "ZUR STARTSEITE"
   }
 }

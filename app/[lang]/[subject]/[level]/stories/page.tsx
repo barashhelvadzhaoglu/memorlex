@@ -4,7 +4,8 @@ import path from "path";
 import { getDictionary } from "@/dictionaries";
 import { Metadata } from "next";
 
-type ValidLangs = "en" | "tr" | "de" | "uk";
+// ✅ "es" eklendi
+type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
 
 type StoryMeta = {
   id?: string;
@@ -41,12 +42,19 @@ function getStoriesDir(subject: string, level: string) {
 
 export async function generateMetadata({ params }: { params: Promise<any> }): Promise<Metadata> {
   const { lang, subject, level } = await params;
-  const subName = subject === "german" ? (lang === "tr" ? "Almanca" : "German") : (lang === "tr" ? "İngilizce" : "English");
-  return { title: `${subName} ${level.toUpperCase()} Hikâyeler | Memorlex` };
+  // ✅ İspanyolca (es) için SEO başlık mantığı eklendi
+  const subName = subject === "german" 
+    ? (lang === "tr" ? "Almanca" : lang === "es" ? "Alemán" : "German") 
+    : (lang === "tr" ? "İngilizce" : lang === "es" ? "Inglés" : "English");
+  
+  const titleText = lang === "es" ? `Historias` : lang === "tr" ? "Hikâyeler" : "Stories";
+  
+  return { title: `${subName} ${level.toUpperCase()} ${titleText} | Memorlex` };
 }
 
 export async function generateStaticParams() {
-  const uiLangs = ["en", "tr", "de", "uk"];
+  // ✅ "es" eklendi
+  const uiLangs = ["en", "tr", "de", "uk", "es"];
   const storiesBase = path.join(process.cwd(), "src", "data", "stories");
   if (!fs.existsSync(storiesBase)) return [];
   const params: any[] = [];
@@ -86,9 +94,9 @@ export default async function StoriesLevelPage({ params }: { params: Promise<{ l
     });
   }
 
-  // ✅ KRİTİK DÜZELTME: TypeScript hatasını önlemek için (dict as any) kullanıldı
+  // ✅ KRİTİK DÜZELTME: İspanyolca (es) başlığı eklendi
   const storiesTitle = (dict as any)?.stories?.title || 
-    (lang === "tr" ? "Hikâyeler" : lang === "de" ? "Geschichten" : "Stories");
+    (lang === "tr" ? "Hikâyeler" : lang === "es" ? "Historias" : lang === "de" ? "Geschichten" : "Stories");
 
   return (
     <main className="min-h-screen bg-white text-slate-900 dark:bg-slate-950 dark:text-white p-10">
@@ -101,25 +109,26 @@ export default async function StoriesLevelPage({ params }: { params: Promise<{ l
             <Link key={slug} href={`/${lang}/${subject}/${level}/stories/${slug}`} className="p-8 rounded-[32px] border-2 border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-900 hover:border-amber-500 transition-all group shadow-sm flex justify-between items-center">
               <div>
                 <span className="bg-amber-100 dark:bg-amber-900/50 text-amber-600 dark:text-amber-400 text-[10px] font-black px-2 py-0.5 rounded uppercase">
-                  Bölüm {parseInt(slug.replace(/[^0-9]/g, "")) || "?"}
+                  {/* "Bölüm" etiketi İspanyolca için "Capítulo" yapıldı */}
+                  {lang === "tr" ? "Bölüm" : lang === "es" ? "Capítulo" : "Chapter"} {parseInt(slug.replace(/[^0-9]/g, "")) || "?"}
                 </span>
                 <div className="text-2xl font-black mt-2 group-hover:text-amber-500">{meta.title}</div>
                 <p className="mt-2 text-slate-500 italic text-sm">{meta.summary}</p>
               </div>
               <span className="text-xl font-bold italic opacity-40 group-hover:opacity-100">
-                {lang === "tr" ? "Oku →" : lang === "de" ? "Lesen →" : lang === "uk" ? "Читати →" : "Read →"}
+                {lang === "tr" ? "Oku →" : lang === "es" ? "Leer →" : lang === "de" ? "Lesen →" : lang === "uk" ? "Читати →" : "Read →"}
               </span>
             </Link>
           ))}
           {stories.length === 0 && (
             <div className="text-center py-20 opacity-30 font-black italic uppercase tracking-widest">
-                {lang === "tr" ? "Henüz hikaye eklenmedi" : "No stories yet"}
+                {lang === "tr" ? "Henüz hikaye eklenmedi" : lang === "es" ? "Aún no hay historias" : "No stories yet"}
             </div>
           )}
         </div>
         <div className="mt-10">
           <Link href={`/${lang}/${subject}/${level}`} className="text-slate-500 font-bold italic hover:text-amber-500">
-            ← {dict.navigation?.back || "Geri"}
+            ← {dict.navigation?.back || (lang === "es" ? "Volver" : "Geri")}
           </Link>
         </div>
       </div>

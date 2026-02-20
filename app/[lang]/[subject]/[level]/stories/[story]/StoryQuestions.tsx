@@ -18,7 +18,14 @@ export default function StoryQuestions({ questions, lang }: { questions: any[], 
         className="w-full p-6 flex items-center justify-between bg-slate-50 dark:bg-slate-900/50 hover:bg-slate-100 dark:hover:bg-slate-900 transition-colors"
       >
         <h3 className="text-lg font-black uppercase tracking-tighter text-amber-500">
-          {lang === "tr" ? "🤔 Hikaye Soruları" : lang === "de" ? "🤔 Fragen zur Geschichte" : "🤔 Story Questions"}
+          {/* ✅ İspanyolca (es) eklendi */}
+          {lang === "tr" 
+            ? "🤔 Hikaye Soruları" 
+            : lang === "de" 
+            ? "🤔 Fragen zur Geschichte" 
+            : lang === "es"
+            ? "🤔 Preguntas sobre la historia"
+            : "🤔 Story Questions"}
         </h3>
         <span className={`text-2xl transition-transform duration-300 ${isOpen ? "rotate-180" : ""}`}>
           ↓

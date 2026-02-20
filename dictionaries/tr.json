@@ -27,11 +27,25 @@
   "title": "Neu Linie Almanca Çalışma Merkezi",
   "description": "İnteraktif kelime pratikleri.",
   "practice": "Kelime Pratiği",
-  "flashcards": "Flashcards",
+  "flashcardsLabel": "Flashcards",
   "start": "Hemen Başla",
   "unit": {
     "description": "Çalışmak istediğiniz modu seçin:",
     "flashcards": "Kelime Kartları",
     "practice": "Yazma Pratiği"
+  },
+  "flashcards": {
+    "setupLabel": "Çalışmak istediğiniz kelime sayısını seçin",
+    "start": "BAŞLAT",
+    "close": "KAPAT",
+    "flip": "ÇEVİR",
+    "prev": "GERİ",
+    "next": "İLERİ",
+    "finish": "BİTİR",
+    "doneTitle": "TEBRİKLER",
+    "doneDesc": "kelime tamamlandı",
+    "retry": "TEKRAR ET",
+    "nextSet": "SIRADAKİ SET",
+    "goHome": "ANA SAYFAYA DÖN"
   }
 }

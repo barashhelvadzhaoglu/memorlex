@@ -4,40 +4,46 @@ import path from 'path';
 import { getDictionary } from '@/dictionaries';
 import { Metadata } from 'next';
 
-type ValidLangs = "en" | "tr" | "de" | "uk";
+type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
 
 // SEO İçin Meta Veri Üretici
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, subject: string, level: string, category: string }> }): Promise<Metadata> {
   const { lang, subject, level, category } = await params;
   
-  const subName = subject === 'german' ? (lang === 'tr' ? 'Almanca' : 'German') : (lang === 'tr' ? 'İngilizce' : 'English');
+  const subName = subject === 'german' 
+    ? (lang === 'tr' ? 'Almanca' : lang === 'es' ? 'Alemán' : 'German') 
+    : (lang === 'tr' ? 'İngilizce' : lang === 'es' ? 'Inglés' : 'English');
   const upperLvl = level.toUpperCase();
   
   // Kategori ismini daha okunabilir yapalım (SEO için)
   const catNames: any = {
     tr: { integration: 'Entegrasyon Kursu', topic: 'Konu Bazlı', work: 'İş Dünyası' },
     en: { integration: 'Integration Course', topic: 'Topic Based', work: 'Work & Business' },
-    uk: { integration: 'Інтеграційний курс', topic: 'За темами', work: 'Робота та бізнес' }
+    uk: { integration: 'Інтеграційний курс', topic: 'За темами', work: 'Робота та бізнес' },
+    es: { integration: 'Curso de Integración', topic: 'Basado en Temas', work: 'Trabajo y Negocios' }
   };
 
   const currentCat = catNames[lang]?.[category] || category;
 
-  const titles = {
+  const titles: Record<ValidLangs, string> = {
     tr: `${subName} ${upperLvl} ${currentCat} Üniteleri | Memorlex`,
     en: `${subName} ${upperLvl} ${currentCat} Units & Lessons | Memorlex`,
     uk: `${subName} ${upperLvl} ${currentCat} - Усі уроки | Memorlex`,
-    de: `${subName} ${upperLvl} ${currentCat} Einheiten | Memorlex`
+    de: `${subName} ${upperLvl} ${currentCat} Einheiten | Memorlex`,
+    es: `${subName} ${upperLvl} ${currentCat} Unidades | Memorlex`
   };
 
   return {
     title: titles[lang as ValidLangs] || titles.en,
-    description: `${subName} ${upperLvl} ${currentCat} kategorisindeki tüm üniteler. Kelime listelerini flashcard ve yazarak öğrenme moduyla çalışın.`,
-    keywords: [`${subName} ${category}`, `${subName} ${level} üniteleri`, "kapitel listesi", "yazarak dil öğren"]
+    description: lang === 'es' 
+      ? `Todas las unidades en la categoría ${subName} ${upperLvl} ${currentCat}. Practica vocabulario con tarjetas y modo de escritura.`
+      : `${subName} ${upperLvl} ${currentCat} kategorisindeki tüm üniteler. Kelime listelerini flashcard ve yazarak öğrenme moduyla çalışın.`,
+    keywords: [`${subName} ${category}`, `${subName} ${level} üniteleri`, "lista de capítulos", "aprender idiomas escribiendo"]
   };
 }
 
 export async function generateStaticParams() {
-  const languages = ['en', 'tr', 'de', 'uk'];
+  const languages = ['en', 'tr', 'de', 'uk', 'es'];
   const subjects = ['german', 'english'];
   const levels = ['a1', 'a2', 'b1'];
   const categories = ['integration', 'topic', 'work']; 
@@ -78,11 +84,13 @@ export default async function CategoryPage({ params }: { params: Promise<{ lang:
         {/* Başlık ve SEO Açıklaması */}
         <header className="mb-12">
             <h1 className="text-3xl md:text-4xl font-black mb-4 uppercase italic text-amber-500 tracking-tighter flex items-center gap-3">
-            📚 {categoriesDict?.[category] || category} {dict.units?.listTitle || "Listesi"}
+            📚 {categoriesDict?.[category] || category} {dict.units?.listTitle || (lang === 'es' ? 'Lista' : 'Listesi')}
             </h1>
             <p className="text-slate-500 dark:text-slate-400 font-bold max-w-2xl leading-relaxed">
                 {lang === 'tr' 
                     ? `${level.toUpperCase()} seviyesi ${category} odaklı tüm üniteler aşağıda listelenmiştir. Her bir ünite, sınav müfredatına ve günlük hayattaki kelime ihtiyacına göre hazırlanmıştır.`
+                    : lang === 'es'
+                    ? `Todas las unidades del nivel ${level.toUpperCase()} enfocadas en ${category} se enumeran a continuación. Cada unidad está estructurada según los requisitos del examen.`
                     : `All ${level.toUpperCase()} units for ${category} are listed below. Each unit is structured according to exam requirements.`
                 }
             </p>
@@ -108,11 +116,13 @@ export default async function CategoryPage({ params }: { params: Promise<{ lang:
         {/* SEO Alt Metin (Long-Tail için) */}
         <section className="mt-24 p-8 rounded-[32px] bg-slate-50 dark:bg-slate-900/30 border border-slate-100 dark:border-slate-800">
             <h2 className="text-lg font-black mb-4 uppercase tracking-tight">
-                {lang === 'tr' ? "Yazarak Öğrenme Metodu ile Kalıcı Hafıza" : "Master Vocabulary by Writing"}
+                {lang === 'tr' ? "Yazarak Öğrenme Metodu ile Kalıcı Hafıza" : lang === 'es' ? "Domina el Vocabulario Escribiendo" : "Master Vocabulary by Writing"}
             </h2>
             <p className="text-sm text-slate-500 dark:text-slate-400 leading-relaxed italic">
                 {lang === 'tr' 
                     ? `Memorlex'te ${subject === 'german' ? 'Almanca' : 'İngilizce'} öğrenirken sadece kelime listelerine bakmazsınız. Seçtiğiniz bu ${category} ünitelerindeki her kelimeyi flashcardlar ile görsel olarak pekiştirir, yazma moduyla ise imla hatasız öğrenirsiniz. Özellikle ${level.toUpperCase()} sınavlarına hazırlananlar için en etkili çalışma yöntemidir.`
+                    : lang === 'es'
+                    ? `En Memorlex, aprende ${subject === 'german' ? 'alemán' : 'inglés'} de forma activa. Cada unidad en la categoría ${category} está diseñada para mejorar tu memoria a través de la visualización y la escritura.`
                     : `Learn ${subject} by actively participating. Each unit in the ${category} category is designed to improve your memory through visualization and writing.`
                 }
             </p>
@@ -123,7 +133,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ lang:
             href={`/${lang}/${subject}/${level}`} 
             className="text-slate-500 dark:text-slate-400 hover:text-amber-500 dark:hover:text-white transition-colors font-black uppercase text-xs tracking-widest inline-flex items-center gap-2"
           >
-            ← {dict.navigation?.back || "Geri Dön"}
+            ← {dict.navigation?.back || (lang === 'es' ? "Volver" : "Geri Dön")}
           </Link>
         </div>
       </div>

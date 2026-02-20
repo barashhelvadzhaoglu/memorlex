@@ -14,6 +14,10 @@
     "integration": "📚 UNIT ORIENTED (INTEGRATION)",
     "topic": "📂 STUDY BY TOPIC"
   },
+  "stories": {
+    "title": "STORIES",
+    "sub": "Improve by reading and practicing"
+  },
   "units": {
     "listTitle": "List"
   },
@@ -29,5 +33,19 @@
     "description": "Choose the mode you want to study:",
     "flashcards": "Word Cards",
     "practice": "Writing Practice"
+  },
+  "flashcards": {
+    "setupLabel": "Select the number of words to study",
+    "start": "START",
+    "close": "CLOSE",
+    "flip": "FLIP",
+    "prev": "BACK",
+    "next": "NEXT",
+    "finish": "FINISH",
+    "doneTitle": "WELL DONE",
+    "doneDesc": "words finished",
+    "retry": "RETRY",
+    "nextSet": "NEXT SET →",
+    "goHome": "GO TO HOME"
   }
 }

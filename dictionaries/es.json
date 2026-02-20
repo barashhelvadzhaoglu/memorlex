@@ -1,0 +1,51 @@
+{
+  "home": {
+    "title": "¿Qué idioma quieres aprender?",
+    "sub": "Elige un objetivo para empezar."
+  },
+  "subjects": {
+    "german": "Alemán",
+    "english": "Inglés"
+  },
+  "levels": {
+    "selectTitle": "Selecciona el nivel que quieres estudiar:"
+  },
+  "categories": {
+    "integration": "📚 ENFOQUE EN UNIDADES (INTEGRACIÓN)",
+    "topic": "📂 ESTUDIO POR TEMAS"
+  },
+  "stories": {
+    "title": "HISTORIAS",
+    "sub": "Mejora leyendo y practicando"
+  },
+  "units": {
+    "listTitle": "Lista de"
+  },
+  "navigation": {
+    "back": "Volver"
+  },
+  "title": "Centro de Estudios de Alemán Neu Linie",
+  "description": "Prácticas interactivas de vocabulario.",
+  "practice": "Práctica de Palabras",
+  "flashcardsLabel": "Tarjetas",
+  "start": "Empezar ya",
+  "unit": {
+    "description": "Elige el modo en el que quieres estudiar:",
+    "flashcards": "Tarjetas de Memoria",
+    "practice": "Práctica de Escritura"
+  },
+  "flashcards": {
+    "setupLabel": "Elige el número de palabras que quieres estudiar",
+    "start": "INICIAR",
+    "close": "CERRAR",
+    "flip": "GIRAR",
+    "prev": "ANTERIOR",
+    "next": "SIGUIENTE",
+    "finish": "TERMINAR",
+    "doneTitle": "¡FELICIDADES!",
+    "doneDesc": "palabras completadas",
+    "retry": "REPETIR",
+    "nextSet": "SIGUIENTE SET",
+    "goHome": "VOLVER AL INICIO"
+  }
+}

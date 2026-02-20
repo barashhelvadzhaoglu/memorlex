@@ -8,8 +8,8 @@ export function middleware(request: NextRequest) {
   if (pathname === '/') {
     const acceptLanguage = request.headers.get('accept-language') || '';
     
-    // Tarayıcı dilini kontrol et (A1-A2 seviyesi için basit mantık)
-    let locale = 'en'; // Hiçbir şey bulunamazsa İngilizce
+    // Varsayılan dil
+    let locale = 'en'; 
     
     if (acceptLanguage.includes('tr')) {
       locale = 'tr';
@@ -17,6 +17,8 @@ export function middleware(request: NextRequest) {
       locale = 'de';
     } else if (acceptLanguage.includes('uk')) {
       locale = 'uk';
+    } else if (acceptLanguage.includes('es')) { // ✅ İspanyolca kontrolü eklendi
+      locale = 'es';
     }
 
     // Seçilen dile yönlendir
