@@ -14,9 +14,9 @@ def generate_story():
     weekday = datetime.now().weekday()
     
     # Hafta sonu (Cumartesi=5, Pazar=6) ise üretim yapma
-    if weekday > 4:
-        print(f"Bugün günlerden {datetime.now().strftime('%A')}. Hafta sonu plan gereği üretim yapılmıyor.")
-        return
+    # if weekday > 4:
+      #   print(f"Bugün günlerden {datetime.now().strftime('%A')}. Hafta sonu plan gereği üretim yapılmıyor.")
+      #   return
 
     # Günlere göre seviye eşleşmesi
     levels = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1"}
