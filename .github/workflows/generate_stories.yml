@@ -27,10 +27,12 @@ jobs:
           # ImageMagick güvenlik politikasını metin yazmaya izin verecek şekilde güncelle
           sudo sed -i 's/domain="path" rights="none" pattern="@\*"/domain="path" rights="read|write" pattern="@\*"/g' /etc/ImageMagick-6/policy.xml
 
+    
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install google-generativeai gTTS requests "moviepy>=2.0.0"
+          # Pillow ve imageio eklentilerini açıkça kuruyoruz
+          pip install google-generativeai gTTS requests "moviepy>=2.0.0" Pillow imageio[pyav]
 
       - name: Step 1 - Generate Story (AI)
         id: gen_story
