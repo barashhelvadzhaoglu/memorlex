@@ -1,0 +1,232 @@
+{
+  "id": "storie-005",
+  "youtubeId": "A1_DE_KULTUR_VLOG",
+  "title": "Mein Tag: Oktoberfest und Brot!",
+  "summary": "Hallo! Ich bin Lena, eine Studentin aus Hamburg. Heute erzähle ich von deutschen Festen und Essen. Es ist sehr interessant!",
+  "text": [
+    "Hallo zusammen! Ich bin Lena. Ich studiere in Hamburg. Heute ist ein besonderer Tag. Ich spreche über deutsche Kultur.",
+    "Ich mag das Oktoberfest sehr. Es ist in München. Das Oktoberfest beginnt oft im September. Zum Beispiel, dieses Jahr am 21. September um 12:00 Uhr. Es kostet ungefähr 15 Euro für eine Maß Bier.",
+    "Auch wichtig: der Karneval. In Köln ist der Karneval sehr groß. Er beginnt am 11.11. um 11:11 Uhr. Aber ich mag auch die deutschen Feiertage, wie Weihnachten.",
+    "Wir haben auch Sportkultur. Denken Sie an Olympia! In München 1972 war Olympia. Das war eine große Zeit für Deutschland.",
+    "Und das Essen! Brot ist super. Ich gehe jetzt zur Bäckerei. Ich kaufe ein Brot. Das Brot kostet 3 Euro. Die Bäckerei ist Nummer 4, Tür B."
+  ],
+  "vocab": [
+    {
+      "term": "Oktoberfest",
+      "type": "Nomen",
+      "meaning_tr": "Oktoberfest",
+      "meaning_en": "Oktoberfest",
+      "meaning_es": "Oktoberfest",
+      "meaning_ua": "Октоберфест",
+      "example": "Ich gehe zum Oktoberfest."
+    },
+    {
+      "term": "Karneval",
+      "type": "Nomen",
+      "meaning_tr": "Karnaval",
+      "meaning_en": "Carnival",
+      "meaning_es": "Carnaval",
+      "meaning_ua": "Карнавал",
+      "example": "Der Karneval ist bunt."
+    },
+    {
+      "term": "Feiertage",
+      "type": "Nomen (Plural)",
+      "meaning_tr": "Resmi tatiller",
+      "meaning_en": "Holidays",
+      "meaning_es": "Días festivos",
+      "meaning_ua": "Свята",
+      "example": "Wir haben viele Feiertage."
+    },
+    {
+      "term": "studieren",
+      "type": "Verb",
+      "meaning_tr": "üniversite okumak",
+      "meaning_en": "to study (at university)",
+      "meaning_es": "estudiar",
+      "meaning_ua": "вчитись (в університеті)",
+      "example": "Ich studiere in Hamburg."
+    },
+    {
+      "term": "München",
+      "type": "Nomen",
+      "meaning_tr": "Münih",
+      "meaning_en": "Munich",
+      "meaning_es": "Múnich",
+      "meaning_ua": "Мюнхен",
+      "example": "Das Oktoberfest ist in München."
+    },
+    {
+      "term": "beginnen",
+      "type": "Verb",
+      "meaning_tr": "başlamak",
+      "meaning_en": "to begin/start",
+      "meaning_es": "empezar",
+      "meaning_ua": "починати",
+      "example": "Der Karneval beginnt um 11:11 Uhr."
+    },
+    {
+      "term": "ungefähr",
+      "type": "Adverb",
+      "meaning_tr": "yaklaşık",
+      "meaning_en": "approximately",
+      "meaning_es": "aproximadamente",
+      "meaning_ua": "приблизно",
+      "example": "Das kostet ungefähr 15 Euro."
+    },
+    {
+      "term": "Olympia",
+      "type": "Nomen",
+      "meaning_tr": "Olimpiyatlar",
+      "meaning_en": "Olympics",
+      "meaning_es": "Juegos Olímpicos",
+      "meaning_ua": "Олімпіада",
+      "example": "Olympia war in München 1972."
+    },
+    {
+      "term": "Brotkultur",
+      "type": "Nomen",
+      "meaning_tr": "Ekmek kültürü",
+      "meaning_en": "Bread culture",
+      "meaning_es": "Cultura del pan",
+      "meaning_ua": "Хлібна культура",
+      "example": "Die deutsche Brotkultur ist gut."
+    },
+    {
+      "term": "Bäckerei",
+      "type": "Nomen",
+      "meaning_tr": "Fırın",
+      "meaning_en": "Bakery",
+      "meaning_es": "Panadería",
+      "meaning_ua": "Пекарня",
+      "example": "Ich gehe zur Bäckerei."
+    },
+    {
+      "term": "kosten",
+      "type": "Verb",
+      "meaning_tr": "mal olmak",
+      "meaning_en": "to cost",
+      "meaning_es": "costar",
+      "meaning_ua": "коштувати",
+      "example": "Das Brot kostet 3 Euro."
+    },
+    {
+      "term": "Maß",
+      "type": "Nomen",
+      "meaning_tr": "Büyük bira bardağı (1 Litre)",
+      "meaning_en": "Liter of beer",
+      "meaning_es": "Litro de cerveza",
+      "meaning_ua": "Літр пива",
+      "example": "Eine Maß Bier ist groß."
+    },
+    {
+      "term": "heute",
+      "type": "Adverb",
+      "meaning_tr": "bugün",
+      "meaning_en": "today",
+      "meaning_es": "hoy",
+      "meaning_ua": "сьогодні",
+      "example": "Heute ist ein besonderer Tag."
+    },
+    {
+      "term": "zusammen",
+      "type": "Adverb",
+      "meaning_tr": "birlikte",
+      "meaning_en": "together",
+      "meaning_es": "juntos",
+      "meaning_ua": "разом",
+      "example": "Hallo zusammen!"
+    },
+    {
+      "term": "interessant",
+      "type": "Adjektiv",
+      "meaning_tr": "ilginç",
+      "meaning_en": "interesting",
+      "meaning_es": "interesante",
+      "meaning_ua": "цікавий",
+      "example": "Das ist sehr interessant."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Woher kommt Lena?",
+      "options": [
+        "A) Aus Berlin",
+        "B) Aus Hamburg",
+        "C) Aus München",
+        "D) Aus Köln"
+      ],
+      "answer": "B) Aus Hamburg"
+    },
+    {
+      "question": "Wann beginnt das Oktoberfest in diesem Jahr laut dem Text?",
+      "options": [
+        "A) Am 21. September um 11:11 Uhr",
+        "B) Am 11. November um 11:11 Uhr",
+        "C) Am 21. September um 12:00 Uhr",
+        "D) Immer im Oktober"
+      ],
+      "answer": "C) Am 21. September um 12:00 Uhr"
+    },
+    {
+      "question": "Was kostet ungefähr eine Maß Bier?",
+      "options": [
+        "A) 3 Euro",
+        "B) 11 Euro",
+        "C) 15 Euro",
+        "D) 1 Euro"
+      ],
+      "answer": "C) 15 Euro"
+    },
+    {
+      "question": "Wann beginnt der Karneval in Köln?",
+      "options": [
+        "A) Am 21. September",
+        "B) Um 12:00 Uhr",
+        "C) Am 11.11. um 11:11 Uhr",
+        "D) Immer im Dezember"
+      ],
+      "answer": "C) Am 11.11. um 11:11 Uhr"
+    },
+    {
+      "question": "Welche Stadt war Gastgeber für Olympia 1972?",
+      "options": [
+        "A) Hamburg",
+        "B) Berlin",
+        "C) Köln",
+        "D) München"
+      ],
+      "answer": "D) München"
+    },
+    {
+      "question": "Was kauft Lena in der Bäckerei?",
+      "options": [
+        "A) Eine Maß Bier",
+        "B) Einen Kuchen",
+        "C) Ein Brot",
+        "D) Eine Brezel"
+      ],
+      "answer": "C) Ein Brot"
+    },
+    {
+      "question": "Wie viel kostet das Brot bei Lena?",
+      "options": [
+        "A) 15 Euro",
+        "B) 3 Euro",
+        "C) 11 Euro",
+        "D) Es ist gratis"
+      ],
+      "answer": "B) 3 Euro"
+    },
+    {
+      "question": "Welche Tür hat die Bäckerei, wo Lena hingeht?",
+      "options": [
+        "A) Tür A",
+        "B) Tür 1",
+        "C) Tür B",
+        "D) Tür 4"
+      ],
+      "answer": "C) Tür B"
+    }
+  ]
+}
