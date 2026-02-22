@@ -24,7 +24,6 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick
-          # ImageMagick'in metin yazma iznini aktif et
           sudo sed -i 's/domain="path" rights="none" pattern="@\*"/domain="path" rights="read|write" pattern="@\*"/g' /etc/ImageMagick-6/policy.xml
 
       - name: Install Python dependencies
@@ -37,30 +36,29 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          # Scripti çalıştır ve logları dosyaya kaydet
           python scripts/generate_all_levels.py > output.txt
           cat output.txt
-          # Log içinden yeni oluşturulan JSON dosyasının yolunu yakala
           STORY_PATH=$(grep -o "src/data/stories/de/.*\.json" output.txt | head -1)
           echo "STORY_FILE=$STORY_PATH" >> $GITHUB_ENV
 
       - name: Step 2 - Generate Storybook Video
         if: env.STORY_FILE != ''
         run: |
-          # Video scriptine yeni dosya yolunu parametre olarak ver
           python scripts/make_storybook.py "${{ env.STORY_FILE }}"
 
-      - name: Step 3 - Upload to YouTube (Placeholder)
+      - name: Step 3 - Upload Artifact (Videoyu Buradan İndireceksin)
         if: success() && env.STORY_FILE != ''
-        run: |
-          echo "Video oluşturuldu, YouTube yükleme aşaması tetiklenebilir."
-          # python scripts/upload_to_youtube.py
+        uses: actions/upload-artifact@v4
+        with:
+          name: german-story-video
+          path: ./*.mp4
+          retention-days: 3
 
       - name: Push Changes
+        if: success()
         run: |
           git config --global user.name 'GitHub Action Bot'
           git config --global user.email 'action@github.com'
-          # Sadece JSON dosyalarını ekle, MP4 dosyalarını GitHub'a push etme (kota dolmaması için)
           git add src/data/stories/de/*.json
-          git commit -m "🚀 AI Story & Video Generated: ${{ env.STORY_FILE }}" || exit 0
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          git commit -m "🚀 AI Story Update: ${{ env.STORY_FILE }}" || exit 0
+          git push
