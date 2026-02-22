@@ -4,7 +4,9 @@ import sys
 import requests
 import re
 from gtts import gTTS
-from moviepy.editor import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
+# ESKİ: from moviepy.editor import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
+# YENİ (v2.0 uyumlu):
+from moviepy import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
 
 def create_storybook(json_path):
     # 1. JSON Verisini Yükle
