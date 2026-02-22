@@ -1,0 +1,232 @@
+{
+  "id": "storie-004",
+  "youtubeId": "EXAMPLE_ID",
+  "title": "Mein Wochenende: Wandern, Brot und Fußball!",
+  "summary": "Ich bin Finn, ein Student aus Hamburg. Ich erzähle von meinem Ausflug nach München für das Oktoberfest und dem Besuch eines Bundesliga-Spiels.",
+  "text": [
+    "Hallo zusammen! Ich bin Finn, ein Student aus Hamburg. Heute erzähle ich euch von meinem Wochenende. Ich bin nach München gefahren.",
+    "Am Samstagmorgen war ich früh wach. Mein Zug fährt um **08:15 Uhr** vom Hauptbahnhof ab. Ich habe ein Ticket für **75 Euro** gekauft. Im Zug habe ich ein typisch deutsches Brot gegessen: Schwarzbrot mit Käse.",
+    "In München war ich zuerst beim Wandern im Englischen Garten. Das Wetter war gut. Danach bin ich zum Stadion gegangen. Das Spiel beginnt um **15:30 Uhr**. Mein Platz ist in **Block C, Reihe 5**.",
+    "Am Sonntag war der große Tag: Oktoberfest! Ich habe eine Maß Bier und eine Brezel gegessen. Es war sehr voll. Die Musik war laut. Am Abend habe ich ein traditionelles deutsches Gericht probiert, aber ich weiß den Namen nicht mehr genau.",
+    "Am Montag fahre ich zurück nach Hamburg. Es war ein tolles Wochenende mit Sport und Kultur! Tschüss!"
+  ],
+  "vocab": [
+    {
+      "term": "Student/in",
+      "type": "Nomen",
+      "meaning_tr": "Öğrenci",
+      "meaning_en": "Student",
+      "meaning_es": "Estudiante",
+      "meaning_ua": "Студент/ка",
+      "example": "Ich bin Student in Hamburg."
+    },
+    {
+      "term": "Hauptbahnhof",
+      "type": "Nomen",
+      "meaning_tr": "Ana tren istasyonu",
+      "meaning_en": "Main train station",
+      "meaning_es": "Estación central",
+      "meaning_ua": "Центральний вокзал",
+      "example": "Der Zug fährt vom Hauptbahnhof ab."
+    },
+    {
+      "term": "abfahren",
+      "type": "Verb",
+      "meaning_tr": "Ayrılmak",
+      "meaning_en": "To depart",
+      "meaning_es": "Salir",
+      "meaning_ua": "Відправлятися",
+      "example": "Mein Zug fährt um 08:15 Uhr ab."
+    },
+    {
+      "term": "Ticket",
+      "type": "Nomen",
+      "meaning_tr": "Bilet",
+      "meaning_en": "Ticket",
+      "meaning_es": "Boleto",
+      "meaning_ua": "Квиток",
+      "example": "Das Ticket kostet 75 Euro."
+    },
+    {
+      "term": "Schwarzbrot",
+      "type": "Nomen",
+      "meaning_tr": "Esmer ekmek",
+      "meaning_en": "Dark bread",
+      "meaning_es": "Pan integral oscuro",
+      "meaning_ua": "Чорний хліб",
+      "example": "Ich esse gern Schwarzbrot."
+    },
+    {
+      "term": "wandern",
+      "type": "Verb",
+      "meaning_tr": "Doğa yürüyüşü yapmak",
+      "meaning_en": "To hike",
+      "meaning_es": "Hacer senderismo",
+      "meaning_ua": "Ходити в похід",
+      "example": "Wir gehen im Park wandern."
+    },
+    {
+      "term": "Stadion",
+      "type": "Nomen",
+      "meaning_tr": "Stadyum",
+      "meaning_en": "Stadium",
+      "meaning_es": "Estadio",
+      "meaning_ua": "Стадіон",
+      "example": "Das Spiel ist im Stadion."
+    },
+    {
+      "term": "beginnen",
+      "type": "Verb",
+      "meaning_tr": "Başlamak",
+      "meaning_en": "To begin",
+      "meaning_es": "Comenzar",
+      "meaning_ua": "Починатися",
+      "example": "Das Spiel beginnt um 15:30 Uhr."
+    },
+    {
+      "term": "Oktoberfest",
+      "type": "Nomen",
+      "meaning_tr": "Ekim festivali (Bavyera)",
+      "meaning_en": "Oktoberfest",
+      "meaning_es": "Oktoberfest",
+      "meaning_ua": "Октоберфест",
+      "example": "Ich besuche das Oktoberfest."
+    },
+    {
+      "term": "Maß Bier",
+      "type": "Phrase",
+      "meaning_tr": "Bir litre bira",
+      "meaning_en": "One liter of beer",
+      "meaning_es": "Un litro de cerveza",
+      "meaning_ua": "Літр пива",
+      "example": "Ich trinke eine Maß Bier."
+    },
+    {
+      "term": "Brezel",
+      "type": "Nomen",
+      "meaning_tr": "Pretzel",
+      "meaning_en": "Pretzel",
+      "meaning_es": "Pretzel",
+      "meaning_ua": "Крендель",
+      "example": "Die Brezel ist sehr groß."
+    },
+    {
+      "term": "laut",
+      "type": "Adjektiv",
+      "meaning_tr": "Yüksek sesli",
+      "meaning_en": "Loud",
+      "meaning_es": "Ruidoso",
+      "meaning_ua": "Голосний",
+      "example": "Die Musik ist sehr laut."
+    },
+    {
+      "term": "traditionell",
+      "type": "Adjektiv",
+      "meaning_tr": "Geleneksel",
+      "meaning_en": "Traditional",
+      "meaning_es": "Tradicional",
+      "meaning_ua": "Традиційний",
+      "example": "Das Essen ist traditionell."
+    },
+    {
+      "term": "zurückfahren",
+      "type": "Verb",
+      "meaning_tr": "Geri dönmek (araçla)",
+      "meaning_en": "To drive/travel back",
+      "meaning_es": "Regresar",
+      "meaning_ua": "Повертатися",
+      "example": "Ich fahre am Montag zurück."
+    },
+    {
+      "term": "toll",
+      "type": "Adjektiv",
+      "meaning_tr": "Harika",
+      "meaning_en": "Great",
+      "meaning_es": "Genial",
+      "meaning_ua": "Чудовий",
+      "example": "Das Wochenende war toll."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Woher kommt Finn?",
+      "options": [
+        "A) Aus Berlin",
+        "B) Aus München",
+        "C) Aus Hamburg",
+        "D) Aus Köln"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Wann fährt Finns Zug ab?",
+      "options": [
+        "A) Um 15:30 Uhr",
+        "B) Um 08:00 Uhr",
+        "C) Um 08:15 Uhr",
+        "D) Um 10:00 Uhr"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Wie viel kostet das Ticket?",
+      "options": [
+        "A) 50 Euro",
+        "B) 75 Euro",
+        "C) 80 Euro",
+        "D) 15 Euro"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Was isst Finn im Zug?",
+      "options": [
+        "A) Eine Brezel",
+        "B) Schwarzbrot mit Käse",
+        "C) Weißbrot",
+        "D) Eine Wurst"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Wo war Finn zuerst am Samstag?",
+      "options": [
+        "A) Im Stadion",
+        "B) Auf dem Oktoberfest",
+        "C) Im Englischen Garten",
+        "D) Im Restaurant"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Um wie viel Uhr beginnt das Spiel?",
+      "options": [
+        "A) 15:00 Uhr",
+        "B) 15:30 Uhr",
+        "C) 16:00 Uhr",
+        "D) 17:00 Uhr"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Welche Nummer hat Finns Sitzplatz?",
+      "options": [
+        "A) Block C, Reihe 5",
+        "B) Block A, Reihe 3",
+        "C) Block D, Reihe 1",
+        "D) Block C, Reihe 10"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Was isst Finn auf dem Oktoberfest?",
+      "options": [
+        "A) Currywurst und Pommes",
+        "B) Schwarzbrot",
+        "C) Eine Brezel und eine Maß Bier",
+        "D) Nur Weißbier"
+      ],
+      "answer": "C"
+    }
+  ]
+}
