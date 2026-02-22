@@ -9,23 +9,27 @@ from moviepy import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, 
 from PIL import Image
 
 def download_valid_image(prompt, path, index):
-    """Görseli indirir ve geçerliliğini kontrol eder."""
-    # Daha iyi sonuç için prompt'u optimize edelim
-    search_prompt = f"high quality cinematic illustration, {prompt}, masterpiece, 4k"
+    """Görseli indirir ve gerçek bir dosya olduğunu teyit eder."""
+    # Daha temiz bir görsel için promptu optimize et
+    clean_prompt = re.sub(r'[^a-zA-Z0-9\s]', '', prompt)
+    search_prompt = f"cinematic storybook illustration of {clean_prompt[:60]}"
+    
     for attempt in range(3):
         try:
-            url = f"https://pollinations.ai/p/{requests.utils.quote(search_prompt)}?width=1280&height=720&nologo=true&seed={int(time.time())+index}"
-            response = requests.get(url, timeout=25)
-            if response.status_code == 200 and len(response.content) > 10000: # 10KB altı genelde bozuktur
+            # Seed değerini değiştirerek her seferinde taze görsel istiyoruz
+            url = f"https://pollinations.ai/p/{requests.utils.quote(search_prompt)}?width=1280&height=720&nologo=true&seed={int(time.time())+index+attempt}"
+            response = requests.get(url, timeout=30)
+            
+            if response.status_code == 200 and len(response.content) > 15000:
                 with open(path, 'wb') as f:
                     f.write(response.content)
-                # Dosyanın gerçekten bir resim olduğunu doğrula
+                # Dosyayı Pillow ile açarak doğruluğunu kontrol et
                 with Image.open(path) as img:
                     img.verify()
                 return True
-        except Exception as e:
-            print(f"⚠️ Deneme {attempt+1} başarısız: {e}")
-            time.sleep(3)
+        except:
+            print(f"⚠️ Sahne {index} görsel denemesi {attempt+1} başarısız...")
+            time.sleep(4)
     return False
 
 def create_storybook(json_path):
@@ -44,64 +48,65 @@ def create_storybook(json_path):
     for i, para in enumerate(paragraphs):
         if not para.strip(): continue
         
-        print(f"🔄 Sahne {i+1}/{len(paragraphs)} hazırlanıyor...")
+        print(f"🔄 Sahne {i+1} hazırlanıyor...")
         
-        # 1. Ses
+        # 1. Ses Oluşturma
         audio_path = f"temp_audio_{i}.mp3"
         gTTS(text=para, lang='de').save(audio_path)
         audio_clip = AudioFileClip(audio_path)
         duration = audio_clip.duration
 
-        # 2. Görsel
+        # 2. Görsel İndirme
         img_path = f"temp_img_{i}.jpg"
-        # Paragrafın sadece ilk kısmını prompt yapalım (çok uzun prompt hata verebilir)
-        short_para = " ".join(para.split()[:10])
-        if not download_valid_image(short_para, img_path, i):
-            print(f"🚨 Görsel {i} indirilemedi, renkli yedek oluşturuluyor.")
-            # Tamamen siyah yerine koyu mavi/gri bir renk yapalım ki çalıştığını anlayalım
-            Image.new('RGB', (1280, 720), color=(45, 52, 54)).save(img_path)
+        if not download_valid_image(para, img_path, i):
+            print(f"🚨 Sahne {i} görseli indirilemedi, renkli yedek oluşturuluyor.")
+            # Siyah yerine renkli bir kare oluştur ki çalıştığını görelim
+            Image.new('RGB', (1280, 720), color=(60, 100, 150)).save(img_path)
 
-        # 3. Klipler
-        # Görseli ana katman yapıyoruz
+        # 3. Katmanları Oluşturma
+        # Arkaplan görseli (FPS'i açıkça belirtiyoruz)
         bg_clip = ImageClip(img_path).with_duration(duration).with_fps(24)
         
-        # Metin kutusunu oluşturuyoruz
+        # Metin kutusu (Arkaplanını siyah yapıp şeffaflığı klibin kendisine veriyoruz)
         txt_clip = TextClip(
             text=para, 
-            font_size=30, 
+            font_size=32, 
             color='white', 
             font=FONT_PATH,
             method='caption', 
-            size=(1100, 180), # Sabit yükseklik
+            size=(1100, 200),
             text_align='center',
             bg_color='black'
-        ).with_duration(duration).with_opacity(0.7).with_position(('center', 520))
+        ).with_duration(duration).with_opacity(0.7).with_position(('center', 500))
 
-        # Sahneyi birleştirirken sıralama önemli: [Arkaplan, Üstteki Nesne]
+        # Sahneyi birleştir (Sıralama: bg_clip altta, txt_clip üstte)
         scene = CompositeVideoClip([bg_clip, txt_clip], size=(1280, 720)).with_audio(audio_clip)
         scenes.append(scene)
 
-    print("🎥 Video birleştiriliyor (Final MP4)...")
-    if not scenes: return
-    
+    if not scenes: 
+        print("❌ Hiç sahne oluşturulamadı.")
+        return
+
+    print("🎥 Final videosu birleştiriliyor...")
     final_video = concatenate_videoclips(scenes, method="compose")
     output_name = f"{story_id}.mp4"
     
-    # Render ayarlarını "libx264" ve "high" profile çekelim
+    # Render (codec ve profile ayarları siyah ekranı önlemek için kritiktir)
     final_video.write_videofile(
         output_name, 
         fps=24, 
         codec="libx264", 
-        audio_codec="aac", 
-        temp_audiofile='temp-audio.m4a', 
-        remove_temp=True,
-        preset="ultrafast"
+        audio_codec="aac",
+        preset="ultrafast",
+        ffmpeg_params=["-pix_fmt", "yuv420p"] # Çoğu oynatıcı için standart format
     )
-    
+
     # Temizlik
     for i in range(len(paragraphs)):
         for f in [f"temp_audio_{i}.mp3", f"temp_img_{i}.jpg"]:
-            if os.path.exists(f): os.remove(f)
+            if os.path.exists(f): 
+                try: os.remove(f)
+                except: pass
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
