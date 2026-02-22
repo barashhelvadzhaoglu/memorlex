@@ -35,5 +35,6 @@ jobs:
           git config --global user.name 'GitHub Action Bot'
           git config --global user.email 'action@github.com'
           git add .
-          git commit -m "🚀 AI Story Update: $(date +'%Y-%m-%d')" || exit 0
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@[github.com/$](https://github.com/$){{ github.repository }}.git HEAD:${{ github.ref }}
+          # Hata veren parantezli date komutunu kaldırdık, en sade haliyle commit yapıyoruz
+          git commit -m "🚀 AI Story Update" || exit 0
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
