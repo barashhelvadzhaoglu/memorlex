@@ -1,0 +1,231 @@
+{
+  "id": "storie-006",
+  "youtubeId": "Vlog_Berlin_Reise_A1",
+  "title": "Mein erster Tag in Berlin: Mauer und Zug",
+  "summary": "Lena, eine neue Studentin aus Hamburg, erzählt von ihrer Reise nach Berlin und dem Deutschlandticket. Sie besucht die Berliner Mauer und plant eine Zugfahrt zum Kölner Dom.",
+  "text": [
+    "Hallo zusammen! Ich heiße Lena. Ich komme aus Hamburg. Ich bin neu in Berlin. Ich studiere hier. Meine Wohnung ist klein, aber schön. Heute ist mein erster Tag in Berlin.",
+    "Ich habe das Deutschlandticket. Es kostet 49 Euro. Damit kann ich alle Züge und Busse fahren. Das ist sehr gut für Studenten. Ich möchte jetzt zum Brandenburger Tor. Die U-Bahn fährt in 5 Minuten. Die Linie ist U2.",
+    "Ich bin jetzt an der Berliner Mauer. Die Mauer ist alt. Sie fiel im Jahr 1989. Das war wichtig für Deutschland. Ich sehe viele Fotos von der Mauer.",
+    "Morgen fahre ich nach Köln. Ich möchte den Kölner Dom sehen. Der Zug fährt um 08:15 Uhr ab. Der Bahnsteig ist Nummer 5. Ich muss pünktlich sein. In Köln will ich auch die alten römischen Straßen sehen. Das ist meine Reise-Idee."
+  ],
+  "vocab": [
+    {
+      "term": "zusammen",
+      "type": "Adverb",
+      "meaning_tr": "birlikte",
+      "meaning_en": "together",
+      "meaning_es": "juntos",
+      "meaning_ua": "разом",
+      "example": "Hallo zusammen!"
+    },
+    {
+      "term": "kommen aus",
+      "type": "Verb",
+      "meaning_tr": "gelmek",
+      "meaning_en": "to come from",
+      "meaning_es": "venir de",
+      "meaning_ua": "приїжджати з",
+      "example": "Ich komme aus Hamburg."
+    },
+    {
+      "term": "studieren",
+      "type": "Verb",
+      "meaning_tr": "eğitim görmek/okumak",
+      "meaning_en": "to study",
+      "meaning_es": "estudiar",
+      "meaning_ua": "вчитись",
+      "example": "Ich studiere hier."
+    },
+    {
+      "term": "die Wohnung",
+      "type": "Nomen",
+      "meaning_tr": "daire",
+      "meaning_en": "apartment",
+      "meaning_es": "apartamento",
+      "meaning_ua": "квартира",
+      "example": "Meine Wohnung ist klein."
+    },
+    {
+      "term": "das Deutschlandticket",
+      "type": "Nomen",
+      "meaning_tr": "Almanya bileti",
+      "meaning_en": "Germany ticket",
+      "meaning_es": "billete de Alemania",
+      "meaning_ua": "квиток на Німеччину",
+      "example": "Ich habe das Deutschlandticket."
+    },
+    {
+      "term": "kosten",
+      "type": "Verb",
+      "meaning_tr": "mal olmak",
+      "meaning_en": "to cost",
+      "meaning_es": "costar",
+      "meaning_ua": "коштувати",
+      "example": "Es kostet 49 Euro."
+    },
+    {
+      "term": "die U-Bahn",
+      "type": "Nomen",
+      "meaning_tr": "metro",
+      "meaning_en": "subway",
+      "meaning_es": "metro",
+      "meaning_ua": "метро",
+      "example": "Die U-Bahn fährt in 5 Minuten."
+    },
+    {
+      "term": "abfahren",
+      "type": "Verb",
+      "meaning_tr": "hareket etmek (araç)",
+      "meaning_en": "to depart",
+      "meaning_es": "salir",
+      "meaning_ua": "відправлятися",
+      "example": "Der Zug fährt um 08:15 Uhr ab."
+    },
+    {
+      "term": "der Bahnsteig",
+      "type": "Nomen",
+      "meaning_tr": "peron",
+      "meaning_en": "platform",
+      "meaning_es": "andén",
+      "meaning_ua": "платформа",
+      "example": "Der Bahnsteig ist Nummer 5."
+    },
+    {
+      "term": "pünktlich",
+      "type": "Adjektiv",
+      "meaning_tr": "tam zamanında",
+      "meaning_en": "punctual",
+      "meaning_es": "puntual",
+      "meaning_ua": "пунктуальний",
+      "example": "Ich muss pünktlich sein."
+    },
+    {
+      "term": "die Mauer",
+      "type": "Nomen",
+      "meaning_tr": "duvar",
+      "meaning_en": "wall",
+      "meaning_es": "muro",
+      "meaning_ua": "стіна",
+      "example": "Ich bin an der Berliner Mauer."
+    },
+    {
+      "term": "fallen",
+      "type": "Verb",
+      "meaning_tr": "düşmek",
+      "meaning_en": "to fall",
+      "meaning_es": "caer",
+      "meaning_ua": "падати",
+      "example": "Die Mauer fiel im Jahr 1989."
+    },
+    {
+      "term": "wichtig",
+      "type": "Adjektiv",
+      "meaning_tr": "önemli",
+      "meaning_en": "important",
+      "meaning_es": "importante",
+      "meaning_ua": "важливий",
+      "example": "Das war wichtig für Deutschland."
+    },
+    {
+      "term": "der Dom",
+      "type": "Nomen",
+      "meaning_tr": "katedral",
+      "meaning_en": "cathedral",
+      "meaning_es": "catedral",
+      "meaning_ua": "собор",
+      "example": "Ich möchte den Kölner Dom sehen."
+    },
+    {
+      "term": "die Reise-Idee",
+      "type": "Nomen",
+      "meaning_tr": "seyahat fikri",
+      "meaning_en": "travel idea",
+      "meaning_es": "idea de viaje",
+      "meaning_ua": "ідея подорожі",
+      "example": "Das ist meine Reise-Idee."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Woher kommt Lena?",
+      "options": [
+        "A) Aus Köln",
+        "B) Aus Hamburg",
+        "C) Aus Berlin",
+        "D) Aus Münster"
+      ],
+      "answer": "B) Aus Hamburg"
+    },
+    {
+      "question": "Wie viel kostet das Deutschlandticket?",
+      "options": [
+        "A) 19 Euro",
+        "B) 49 Euro",
+        "C) 89 Euro",
+        "D) 5 Euro"
+      ],
+      "answer": "B) 49 Euro"
+    },
+    {
+      "question": "Welche U-Bahn-Linie nimmt Lena zum Brandenburger Tor?",
+      "options": [
+        "A) U1",
+        "B) U5",
+        "C) U2",
+        "D) U8"
+      ],
+      "answer": "C) U2"
+    },
+    {
+      "question": "Wann fiel die Berliner Mauer?",
+      "options": [
+        "A) 1945",
+        "B) 1989",
+        "C) 2000",
+        "D) 1961"
+      ],
+      "answer": "B) 1989"
+    },
+    {
+      "question": "Wann fährt der Zug nach Köln ab?",
+      "options": [
+        "A) 05:15 Uhr",
+        "B) 15:00 Uhr",
+        "C) 08:15 Uhr",
+        "D) 09:00 Uhr"
+      ],
+      "answer": "C) 08:15 Uhr"
+    },
+    {
+      "question": "Auf welchem Bahnsteig fährt der Zug nach Köln?",
+      "options": [
+        "A) Bahnsteig 1",
+        "B) Bahnsteig 2",
+        "C) Bahnsteig 5",
+        "D) Bahnsteig 8"
+      ],
+      "answer": "C) Bahnsteig 5"
+    },
+    {
+      "question": "Was möchte Lena in Köln sehen?",
+      "options": [
+        "A) Die Berliner Mauer",
+        "B) Den Kölner Dom",
+        "C) Die Autobahn",
+        "D) Münster"
+      ],
+      "answer": "B) Den Kölner Dom"
+    },
+    {
+      "question": "Warum ist das Deutschlandticket gut für Lena?",
+      "options": [
+        "A) Es ist sehr schnell.",
+        "B) Es ist sehr billig für Studenten.",
+        "C) Es fährt nur nach Köln.",
+        "D) Es ist neu."
+      ],
+      "answer": "B) Es ist sehr billig für Studenten."
+    }
+  ]
+}
