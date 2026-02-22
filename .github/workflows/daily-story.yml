@@ -2,14 +2,18 @@ name: Weekly Level-Based Story Generator
 
 on:
   schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
+    - cron: '0 3 * * *' # Her sabah 03:00'te otomatik çalışır
+  workflow_dispatch: # Manuel tetikleme için
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Botun yazma izni olduğunu burada da açıkça belirtiyoruz
+    
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4 # v3 yerine güncel v4 kullanmak daha stabil
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -17,7 +21,9 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install google-generativeai
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-generativeai
 
       - name: Run Script
         env:
@@ -29,5 +35,7 @@ jobs:
           git config --global user.name 'GitHub Action Bot'
           git config --global user.email 'action@github.com'
           git add .
-          git commit -m "🚀 Daily AI Story Update" || echo "No changes"
-          git push
+          # Eğer değişiklik yoksa hata vermemesi için "|| echo" ekledik
+          git commit -m "🚀 Daily AI Story Update - $(date +'%Y-%m-%d')" || exit 0
+          # GITHUB_TOKEN kullanarak yetki sorununu kökten çözüyoruz
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
