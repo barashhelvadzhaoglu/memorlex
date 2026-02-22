@@ -8,29 +8,39 @@ import random
 api_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# 404 hatası için: 'models/' ön ekini kaldırıp en saf haliyle deniyoruz
-# SDK bunu otomatik olarak doğru endpoint'e (v1beta veya v1) yönlendirecektir.
-model = genai.GenerativeModel('gemini-1.5-flash')
+def get_latest_flash_model():
+    """API'deki en güncel flash model ismini bulur."""
+    try:
+        models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+        # Önce 2.0 (Gemini 3 serisi gibi düşünebilirsin), yoksa 1.5 arar
+        flash_models = [n for n in models if 'flash' in n]
+        if flash_models:
+            # En güncelini (genelde listenin başında veya özel isimlendirmede) seçer
+            return sorted(flash_models, reverse=True)[0] 
+        return 'gemini-1.5-flash' # Fallback
+    except:
+        return 'gemini-1.5-flash'
+
+selected_model = get_latest_flash_model()
+print(f"🚀 Seçilen En Yeni Model: {selected_model}")
+model = genai.GenerativeModel(selected_model)
 
 def generate_story():
     weekday = datetime.now().weekday()
-    # Pazar = 6. Hafta sonu hatasını (KeyError: 6) engellemek için:
+    # Pazar = 6 için güvenli geçiş
     levels = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1", 5: "a1", 6: "a1"}
     current_level = levels.get(weekday, "a1")
 
-    # Konu havuzun (Münih ve çocuklarınla ilgili detaylar dahil)
     topic_pool = [
         "Geschichte: Münchens Wiederaufbau, Der Kölner Dom",
-        "Kultur: Die deutsche Brotkultur, Oktoberfest Traditionen",
-        "Alltag: Deutschlandticket Reisen, Sonntagsruhe",
-        "Wissenschaft: Albert Einstein, Automobilgeschichte in Deutschland"
+        "Kultur: Oktoberfest Traditionen, Brotkultur",
+        "Alltag: Deutschlandticket Abenteuer, Sonntagsruhe",
+        "Transport: U-Bahn München, Reisen mit Kindern"
     ]
-
-    selected_topics = random.sample(topic_pool, 1)
 
     prompt = f"""
     Sen bir Almanca uzmanısın. {current_level.upper()} seviyesinde içerik hazırla.
-    KONU: {selected_topics}. 
+    KONU: {random.choice(topic_pool)}. 
     KİŞİSELLEŞTİRME: Münih'te yaşayan, 1 ve 5 yaşlarında çocukları olan bir baba.
     CEVABI SADECE JSON OLARAK VER:
     {{
@@ -47,15 +57,12 @@ def generate_story():
         response = model.generate_content(prompt)
         content = response.text.strip()
         
-        # JSON temizleme
         if "```json" in content:
             content = content.split("```json")[1].split("```")[0].strip()
-        elif "```" in content:
-            content = content.split("```")[1].split("```")[0].strip()
-
+        
         data = json.loads(content)
         
-        # Ekran görüntüsündeki yapıya tam uyum: src/data/stories/de/{level}
+        # Klasör yapısı: src/data/stories/de/{level}
         save_dir = os.path.join("src", "data", "stories", "de", current_level)
         file_name = f"auto-{datetime.now().strftime('%Y-%m-%d')}.json"
         
@@ -65,7 +72,7 @@ def generate_story():
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             
-        print(f"✅ Başarılı: {file_path}")
+        print(f"✅ Başarılı: {file_path} yazıldı.")
 
     except Exception as e:
         print(f"❌ Hata: {str(e)}")
