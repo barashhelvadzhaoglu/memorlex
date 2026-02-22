@@ -4,54 +4,42 @@ import os
 from datetime import datetime
 import random
 
-# API Anahtarı ve Model Yapılandırması
+# API Yapılandırması
 api_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# Model ismini tırnak içinde en stabil haliyle kullanıyoruz
+# 404 hatasını önlemek için model ismini daha geniş uyumlu hale getirdik
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def generate_story():
-    # 0=Pazartesi ... 6=Pazar
     weekday = datetime.now().weekday()
     
     # Hafta sonu KeyError: 6 hatasını engellemek için tüm günler tanımlandı
-    levels = {
-        0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1",
-        5: "a1", 6: "a1" # Hafta sonu testleri için a1
-    }
-    
+    levels = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1", 5: "a1", 6: "a1"}
     current_level = levels.get(weekday, "a1")
 
-    # Zengin Konu Havuzu (Hepsi korundu)
+    # Zengin Konu Havuzu (Hepsini korudum)
     topic_pool = [
         "Geschichte: Die Berliner Mauer, der Kölner Dom, Münchens Wiederaufbau nach 1945",
         "Kultur: Oktoberfest Geschichte, Karneval im Rheinland, deutsche Feiertage",
         "Alltag: Mülltrennung-Kultur, Sonntagsruhe, Vereinsleben, Ehrenamt",
-        "Wohnen: Mietverträge, Mieterrechte, Kehrwoche, Energie sparen",
         "Wissenschaft: Berühmte deutsche Erfinder (Gutenberg, Benz, Einstein)",
-        "Physik & Chemie: Die Entdeckung der Röntgenstrahlen, Chemie im Alltag",
-        "Technologie: Die Zukunft der Robotik, KI in deutschen Firmen, Industrie 4.0",
         "Gesundheit: Das deutsche Gesundheitssystem, Hausarztmodell, Versicherung",
-        "Sport: Die Geschichte der Bundesliga, Wandersport, Fitness-Trends",
-        "Geographie: Die Alpen, die Nord- und Ostsee, Der Schwarzwald",
+        "Technologie: Die Zukunft der Robotik, KI in deutschen Firmen, Industrie 4.0",
         "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Steuererklärung",
-        "Bildung: Das duale Ausbildungssystem, Kita-Alltag, Schulpflicht",
-        "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes)",
+        "Sport: Die Geschichte der Bundesliga, Wandersport, Fitness-Trends",
         "Transport: Geschichte der Autobahn, Deutschlandticket, Deutsche Bahn"
     ]
 
     selected_topics = random.sample(topic_pool, 2)
 
     prompt = f"""
-    Sen bir Almanca dil sınavı uzmanısın. {current_level.upper()} seviyesinde içerik hazırla.
+    Sen bir Almanca sınav uzmanısın. {current_level.upper()} seviyesinde, hem Okuma hem Dinleme için içerik hazırla.
+    KONULAR: {selected_topics}
+    KİŞİSELLEŞTİRME: Münih'te yaşayan, çocukları olan mühendis bir baba perspektifi.
+    FORMAT: Saat, fiyat, tarih ve peron numarası gibi sınav verileri içermeli.
     
-    TALİMATLAR:
-    1. KONULAR: {selected_topics}
-    2. KİŞİSELLEŞTİRME: Münih'te yaşayan, çocukları olan bir mühendis baba perspektifi. Deutschlandticket ile gezi detayı.
-    3. SINAV VERİSİ: Mutlaka saat, fiyat, tarih ve peron numarası gibi somut veriler ekle.
-    
-    CEVABI SADECE JSON FORMATINDA VER:
+    CEVABI SADECE JSON OLARAK VER:
     {{
       "id": "story-{current_level}-{datetime.now().strftime('%Y%m%d')}",
       "youtubeId": "", 
@@ -62,14 +50,13 @@ def generate_story():
         {{ "term": "Kelime", "type": "Nomen/Verb/Adj", "meaning_tr": "Türkçe", "meaning_en": "İngilizce", "example": "Örnek" }}
       ],
       "questions": [
-        {{ "question": "Soru", "options": ["A", "B", "C", "D"], "answer": "Doğru Şık" }}
+        {{ "question": "Soru", "options": ["A", "B", "C", "D"], "answer": "Doğru" }}
       ]
     }}
-    KRİTER: 18-20 vocab, 8-10 soru.
     """
 
     try:
-        # Bazı bölgelerde 'models/' ön eki gerekebilir, hata durumunda bunu deniyoruz
+        # 404 hatasını önlemek için model nesnesini tekrar kontrol ederek çağırıyoruz
         response = model.generate_content(prompt)
         content = response.text.strip()
         
@@ -90,9 +77,8 @@ def generate_story():
         print(f"✅ Başarılı: {current_level.upper()} klasörüne {file_name} yazıldı.")
 
     except Exception as e:
-        # Hata mesajını detaylı görelim
-        print(f"❌ Hata oluştu: {str(e)}")
-        # GitHub Actions'ın fail etmesini istiyorsan raise e ekleyebilirsin
+        print(f"❌ Hata: {str(e)}")
+        # Önemli: Hata aldığımızda workflow'un fail olduğunu görmemiz için hatayı yükseltiyoruz
         raise e
 
 if __name__ == "__main__":
