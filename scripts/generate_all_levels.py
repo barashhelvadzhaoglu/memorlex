@@ -8,31 +8,25 @@ import random
 api_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# Model tanımlaması
+# 404 hatasını önlemek için model ismini doğrudan string olarak ve v1 sürümüyle uyumlu veriyoruz
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def generate_story():
     weekday = datetime.now().weekday()
     
-    # Hafta sonu dahil tüm günleri kapsayan seviye haritası
+    # Seviye Haritası (Hafta sonu için de a1 tanımlandı)
     levels = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1", 5: "a1", 6: "a1"}
     current_level = levels.get(weekday, "a1")
 
-    # Zengin Konu Havuzu (Eğitim, Sağlık, Teknoloji, Tarih vb.)
+    # Senin zengin konu havuzun
     topic_pool = [
-        "Geschichte: Die Berliner Mauer, der Kölner Dom, Münchens Wiederaufbau",
-        "Kultur: Oktoberfest, deutsche Feiertage, Die deutsche Brotkultur",
-        "Alltag: Mülltrennung, Sonntagsruhe, Vereinsleben, Pfandsystem",
-        "Wissenschaft: Berühmte Erfinder (Gutenberg, Einstein), Max-Planck-Institut",
-        "Physik & Chemie: Entdeckung der Röntgenstrahlen, Chemie im Alltag",
-        "Technologie: Robotik, KI in Deutschland, Industrie 4.0",
-        "Gesundheit: Gesundheitssystem, Hausarztmodell, Krankenversicherung",
-        "Sport: Bundesliga, Wandersport, Olympia 1972 in München",
-        "Geographie: Die Alpen, Nordsee, Unterschiede Nord/Süddeutschland",
-        "Bürokratie: KVR Anmeldung, Elterngeld, Steuererklärung",
-        "Bildung: Duales System, Kita-Alltag, Schulpflicht",
-        "Wirtschaft: Automobilgeschichte (BMW, Mercedes), Der Mittelstand",
-        "Transport: Autobahn Geschichte, Deutschlandticket, Deutsche Bahn"
+        "Geschichte: Münchens Wiederaufbau nach 1945, Der Kölner Dom",
+        "Kultur: Oktoberfest Traditionen, Die deutsche Brotkultur",
+        "Alltag: Sonntagsruhe in Deutschland, Vereinsleben",
+        "Wissenschaft: Albert Einstein und Max Planck, Die Automobilgeschichte",
+        "Transport: Das Deutschlandticket, Radfahren in München",
+        "Bürokratie: Das KVR in München, Elterngeld und Kindergeld",
+        "Bildung: Kita-Alltag in Bayern, Das duale Ausbildungssystem"
     ]
 
     selected_topics = random.sample(topic_pool, 2)
@@ -40,7 +34,7 @@ def generate_story():
     prompt = f"""
     Sen bir Almanca sınav uzmanısın. {current_level.upper()} seviyesinde içerik hazırla.
     KONULAR: {selected_topics}
-    KİŞİSELLEŞTİRME: Münih'te yaşayan, çocukları olan bir mühendis baba. Deutschlandticket detayı ekle.
+    KİŞİSELLEŞTİRME: Münih'te yaşayan, 1 ve 5 yaşlarında çocukları olan bir mühendis baba. Deutschlandticket detayı ekle.
     
     CEVABI SADECE JSON FORMATINDA VER:
     {{
@@ -56,7 +50,6 @@ def generate_story():
         {{ "question": "Soru", "options": ["A", "B", "C", "D"], "answer": "Doğru Şık" }}
       ]
     }}
-    KRİTER: 18-20 vocab, 8-10 soru.
     """
 
     try:
@@ -71,14 +64,17 @@ def generate_story():
 
         data = json.loads(content)
         
-        save_dir = f"src/data/stories/de/{current_level}"
+        # GÖRSELDEKİ TAM DOSYA YOLU: src/data/stories/de/{seviye}
+        save_dir = os.path.join("src", "data", "stories", "de", current_level)
         file_name = f"auto-{datetime.now().strftime('%Y-%m-%d')}.json"
         
         os.makedirs(save_dir, exist_ok=True)
-        with open(os.path.join(save_dir, file_name), 'w', encoding='utf-8') as f:
+        file_path = os.path.join(save_dir, file_name)
+        
+        with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             
-        print(f"✅ Başarılı: {current_level.upper()} klasörüne yazıldı.")
+        print(f"✅ Başarılı: {file_path} dosyası oluşturuldu.")
 
     except Exception as e:
         print(f"❌ Hata: {str(e)}")
