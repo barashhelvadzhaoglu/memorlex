@@ -1,0 +1,88 @@
+{
+  "id": "story-a1-20260222",
+  "title": "Zwei Städte, Zwei Geschichten: München und Köln",
+  "summary": "Münih'te yaşayan bir baba, çocuklarına Münih'in savaş sonrası yeniden inşasını ve Köln Katedrali'nin hikayesini basit Almanca ile anlatıyor.",
+  "text": [
+    "Hallo! Ich bin Thomas und ich wohne in München. Ich habe zwei Kinder: Mia (5 Jahre) und Leo (1 Jahr). München ist eine schöne Stadt, aber nach dem Krieg war viel kaputt.",
+    "Nach dem Krieg musste München neu gebaut werden. Das nennt man 'Wiederaufbau'. Es war viel Arbeit für die Menschen. Heute ist München modern und grün.",
+    "Wir sprechen heute auch über Köln. Köln ist weit weg von München. In Köln steht ein sehr, sehr großes Gebäude: Der Kölner Dom. Das ist eine riesige Kirche.",
+    "Der Dom ist sehr alt. Die Menschen haben sehr lange gebaut. Sie wollten einen schönen Dom für Gott. Jetzt ist er wieder schön, auch nach dem Krieg.",
+    "Mia fragt: 'Papa, ist der Dom größer als unser Haus?' Ich sage: 'Ja, Mia! Der Kölner Dom ist viel, viel größer! Er ist sehr hoch.'"
+  ],
+  "vocab": [
+    {
+      "term": "wohnen",
+      "type": "Verb",
+      "meaning_tr": "yaşamak",
+      "meaning_en": "to live",
+      "example": "Ich wohne in München."
+    },
+    {
+      "term": "der Krieg",
+      "type": "Nomen",
+      "meaning_tr": "savaş",
+      "meaning_en": "the war",
+      "example": "Nach dem Krieg war viel kaputt."
+    },
+    {
+      "term": "neu bauen",
+      "type": "Verb (Phrasal)",
+      "meaning_tr": "yeniden inşa etmek",
+      "meaning_en": "to rebuild",
+      "example": "München musste neu gebaut werden."
+    },
+    {
+      "term": "der Wiederaufbau",
+      "type": "Nomen",
+      "meaning_tr": "yeniden inşa etme",
+      "meaning_en": "the reconstruction",
+      "example": "Der Wiederaufbau war schwer."
+    },
+    {
+      "term": "der Dom",
+      "type": "Nomen",
+      "meaning_tr": "katedral",
+      "meaning_en": "the cathedral",
+      "example": "Der Kölner Dom ist sehr groß."
+    },
+    {
+      "term": "alt",
+      "type": "Adjektiv",
+      "meaning_tr": "eski",
+      "meaning_en": "old",
+      "example": "Der Dom ist sehr alt."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Wo wohnt Thomas?",
+      "options": [
+        "In Köln",
+        "In Berlin",
+        "In München",
+        "In Hamburg"
+      ],
+      "answer": "In München"
+    },
+    {
+      "question": "Was ist der Kölner Dom?",
+      "options": [
+        "Ein modernes Haus",
+        "Eine sehr große Kirche",
+        "Ein Museum",
+        "Ein Bahnhof"
+      ],
+      "answer": "Eine sehr große Kirche"
+    },
+    {
+      "question": "Was passierte mit München nach dem Krieg?",
+      "options": [
+        "Es war perfekt.",
+        "Viel war kaputt.",
+        "Es wurde abgerissen.",
+        "Es zog um."
+      ],
+      "answer": "Viel war kaputt."
+    }
+  ]
+}
