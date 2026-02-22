@@ -23,9 +23,7 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          # Gerekli font ve sistem paketlerini kur
-          sudo apt-get install -y imagemagick fonts-liberation fonts-dejavu-core
-          # ImageMagick güvenlik ilkesini güncelle
+          sudo apt-get install -y imagemagick fonts-liberation
           sudo sed -i 's/domain="path" rights="none" pattern="@\*"/domain="path" rights="read|write" pattern="@\*"/g' /etc/ImageMagick-6/policy.xml
 
       - name: Install Python dependencies
@@ -47,7 +45,6 @@ jobs:
       - name: Step 2 - Generate Storybook Video
         if: env.STORY_FILE != ''
         run: |
-          # Video scriptini çalıştır
           python scripts/make_storybook.py "${{ env.STORY_FILE }}"
 
       - name: Step 3 - Upload Artifact
