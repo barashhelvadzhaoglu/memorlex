@@ -23,26 +23,23 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y imagemagick
-          # ImageMagick güvenlik politikasını metin yazmaya izin verecek şekilde güncelle
+          # Font paketini (Liberation) ekliyoruz
+          sudo apt-get install -y imagemagick fonts-liberation
           sudo sed -i 's/domain="path" rights="none" pattern="@\*"/domain="path" rights="read|write" pattern="@\*"/g' /etc/ImageMagick-6/policy.xml
 
-    
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          # Pillow ve imageio eklentilerini açıkça kuruyoruz
-          pip install google-generativeai gTTS requests "moviepy>=2.0.0" Pillow imageio[pyav]
+          pip install google-generativeai gTTS requests Pillow imageio[pyav]
+          pip install "moviepy>=2.0.0"
 
       - name: Step 1 - Generate Story (AI)
         id: gen_story
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          # Hikayeyi oluştur ve çıktıyı logla
           python scripts/generate_all_levels.py > output.txt
           cat output.txt
-          # Log içinden yeni JSON dosyasının yolunu çek
           STORY_PATH=$(grep -o "src/data/stories/de/.*\.json" output.txt | head -1)
           echo "STORY_FILE=$STORY_PATH" >> $GITHUB_ENV
 
