@@ -1,0 +1,231 @@
+{
+  "id": "storie-001",
+  "youtubeId": "VLOG_TRANSPORT_UMWELT_A1",
+  "title": "Mein Tag mit Zug und Fahrrad in Berlin – A1 Deutsch",
+  "summary": "Ein Student aus Hamburg erzählt von seiner Reise nach Berlin und dem neuen Deutschlandticket. Er spricht über Umwelt und Mobilität in der Stadt.",
+  "text": [
+    "Hallo! Ich heiße Tim und ich bin Student. Ich komme aus Hamburg. Heute bin ich in Berlin. Ich fahre mit dem Zug. Das ist gut für die Umwelt. Ich habe das Deutschlandticket für 49 Euro. Das Ticket ist super! Ich fahre oft mit dem Regionalzug.",
+    "In Berlin brauche ich kein Auto. Ich fahre lieber mit dem Fahrrad. Berlin ist eine Fahrradstadt, aber nicht so gut wie Münster. Ich suche den Bahnhof. Mein Zug kommt um 14:30 Uhr am Gleis 5 an. Ich muss schnell sein!",
+    "Ich wohne in einem kleinen Zimmer. Die Miete ist teuer. Wir müssen mehr für erneuerbare Energien machen. Das ist wichtig für unsere Zukunft. Ich sehe hier viele neue Solar-Paneele auf den Dächern. Das ist positiv für den Klimaschutz.",
+    "Ich möchte heute das Brandenburger Tor sehen. Dann esse ich vielleicht ein Eis. Die Deutsche Bahn hat manchmal Probleme, aber heute war alles pünktlich. Gute Reise und Tschüss!"
+  ],
+  "vocab": [
+    {
+      "term": "Student",
+      "type": "Nomen",
+      "meaning_tr": "Öğrenci",
+      "meaning_en": "Student",
+      "meaning_es": "Estudiante",
+      "meaning_ua": "Студент",
+      "example": "Ich bin ein Student."
+    },
+    {
+      "term": "Deutschlandticket",
+      "type": "Nomen",
+      "meaning_tr": "Almanya Bileti (49 Euro)",
+      "meaning_en": "Germany Ticket",
+      "meaning_es": "Boleto de Alemania",
+      "meaning_ua": "Німецький квиток",
+      "example": "Das Deutschlandticket kostet 49 Euro."
+    },
+    {
+      "term": "Umwelt",
+      "type": "Nomen",
+      "meaning_tr": "Çevre",
+      "meaning_en": "Environment",
+      "meaning_es": "Medio ambiente",
+      "meaning_ua": "Навколишнє середовище",
+      "example": "Die Umwelt ist sehr wichtig."
+    },
+    {
+      "term": "Fahrrad",
+      "type": "Nomen",
+      "meaning_tr": "Bisiklet",
+      "meaning_en": "Bicycle",
+      "meaning_es": "Bicicleta",
+      "meaning_ua": "Велосипед",
+      "example": "Ich fahre mit dem Fahrrad."
+    },
+    {
+      "term": "Regionalzug",
+      "type": "Nomen",
+      "meaning_tr": "Bölgesel tren",
+      "meaning_en": "Regional train",
+      "meaning_es": "Tren regional",
+      "meaning_ua": "Регіональний поїзд",
+      "example": "Der Regionalzug ist oft voll."
+    },
+    {
+      "term": "Bahnhof",
+      "type": "Nomen",
+      "meaning_tr": "Tren istasyonu",
+      "meaning_en": "Train station",
+      "meaning_es": "Estación de tren",
+      "meaning_ua": "Вокзал",
+      "example": "Ich bin am Bahnhof."
+    },
+    {
+      "term": "Gleis",
+      "type": "Nomen",
+      "meaning_tr": "Peron, ray",
+      "meaning_en": "Track, platform",
+      "meaning_es": "Vía",
+      "meaning_ua": "Колія",
+      "example": "Mein Zug ist auf Gleis 5."
+    },
+    {
+      "term": "erneuerbare Energien",
+      "type": "Phrase",
+      "meaning_tr": "Yenilenebilir enerji",
+      "meaning_en": "Renewable energies",
+      "meaning_es": "Energías renovables",
+      "meaning_ua": "Відновлювана енергія",
+      "example": "Wir brauchen mehr erneuerbare Energien."
+    },
+    {
+      "term": "Klimaschutz",
+      "type": "Nomen",
+      "meaning_tr": "İklim koruması",
+      "meaning_en": "Climate protection",
+      "meaning_es": "Protección del clima",
+      "meaning_ua": "Захист клімату",
+      "example": "Klimaschutz ist wichtig."
+    },
+    {
+      "term": "pünktlich",
+      "type": "Adjektiv",
+      "meaning_tr": "Zamanında",
+      "meaning_en": "On time",
+      "meaning_es": "Puntual",
+      "meaning_ua": "Вчасно",
+      "example": "Der Zug war pünktlich."
+    },
+    {
+      "term": "teuer",
+      "type": "Adjektiv",
+      "meaning_tr": "Pahalı",
+      "meaning_en": "Expensive",
+      "meaning_es": "Caro",
+      "meaning_ua": "Дорогий",
+      "example": "Die Miete ist sehr teuer."
+    },
+    {
+      "term": "Münster",
+      "type": "Nomen",
+      "meaning_tr": "Münster (şehir adı)",
+      "meaning_en": "Münster (city name)",
+      "meaning_es": "Münster (nombre de ciudad)",
+      "meaning_ua": "Мюнстер (назва міста)",
+      "example": "Münster ist eine Fahrradstadt."
+    },
+    {
+      "term": "Solar-Paneele",
+      "type": "Nomen",
+      "meaning_tr": "Güneş panelleri",
+      "meaning_en": "Solar panels",
+      "meaning_es": "Paneles solares",
+      "meaning_ua": "Сонячні панелі",
+      "example": "Ich sehe viele Solar-Paneele."
+    },
+    {
+      "term": "Deutsche Bahn",
+      "type": "Nomen",
+      "meaning_tr": "Alman Demiryolları",
+      "meaning_en": "German Rail",
+      "meaning_es": "Ferrocarriles Alemanes",
+      "meaning_ua": "Німецька залізниця",
+      "example": "Die Deutsche Bahn hat Probleme."
+    },
+    {
+      "term": "Brandenburger Tor",
+      "type": "Nomen",
+      "meaning_tr": "Brandenburg Kapısı",
+      "meaning_en": "Brandenburg Gate",
+      "meaning_es": "Puerta de Brandeburgo",
+      "meaning_ua": "Бранденбурзькі ворота",
+      "example": "Ich möchte das Brandenburger Tor sehen."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Woher kommt Tim?",
+      "options": [
+        "A) Aus Berlin",
+        "B) Aus Hamburg",
+        "C) Aus Münster",
+        "D) Aus München"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Was ist Tim in Berlin wichtig für die Umwelt?",
+      "options": [
+        "A) Das Auto",
+        "B) Das Flugzeug",
+        "C) Der Zug und das Fahrrad",
+        "D) Die Autobahn"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Wie viel kostet das Deutschlandticket?",
+      "options": [
+        "A) 9 Euro",
+        "B) 49 Euro",
+        "C) 55 Euro",
+        "D) 100 Euro"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Wann kommt Tims Zug an?",
+      "options": [
+        "A) Um 13:30 Uhr",
+        "B) Um 14:00 Uhr",
+        "C) Um 14:30 Uhr",
+        "D) Um 15:30 Uhr"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Auf welchem Gleis kommt der Zug an?",
+      "options": [
+        "A) Gleis 4",
+        "B) Gleis 5",
+        "C) Gleis 1",
+        "D) Gleis 10"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Welche Stadt wird als gute Fahrradstadt genannt?",
+      "options": [
+        "A) Berlin",
+        "B) Hamburg",
+        "C) Köln",
+        "D) Münster"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Was sieht Tim in Berlin?",
+      "options": [
+        "A) Den Wald",
+        "B) Den Rhein",
+        "C) Das Brandenburger Tor",
+        "D) Die Autobahn"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Was meint Tim mit 'Das ist positiv für den Klimaschutz'?",
+      "options": [
+        "A) Er mag die teuren Autos.",
+        "B) Er sieht viele Solar-Paneele.",
+        "C) Er fährt immer mit dem Flugzeug.",
+        "D) Er mag die Probleme der Deutschen Bahn."
+      ],
+      "answer": "B"
+    }
+  ]
+}
