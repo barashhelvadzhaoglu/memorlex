@@ -10,26 +10,26 @@ genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def generate_story():
-    # 0=Pazartesi, 1=Salı, 2=Çarşamba, 3=Perşembe, 4=Cuma, 5=Cumartesi, 6=Pazar
+    # 0=Pazartesi ... 6=Pazar
     weekday = datetime.now().weekday()
     
-    # Günlere göre seviye eşleşmesi (Hafta sonu için hata almamak adına a1 eklendi)
+    # Seviye Eşleşmesi (KeyError: 6 hatasını önlemek için 5 ve 6 eklendi)
     levels = {
         0: "a1", 
         1: "a2", 
         2: "b1", 
         3: "b2", 
         4: "c1",
-        5: "a1", # Cumartesi testi için
-        6: "a1"  # Pazar testi için
+        5: "a1", # Cumartesi için test seviyesi
+        6: "a1"  # Bugün (Pazar) için test seviyesi
     }
     
     current_level = levels[weekday]
 
-    # Dev Konu Havuzu: Tarih, Bilim, Spor, Teknoloji ve Günlük Yaşam
+    # Zengin Konu Havuzu (Eski tanımlar korundu)
     topic_pool = [
         "Geschichte: Die Berliner Mauer, der Kölner Dom, Münchens Wiederaufbau nach 1945, Das Römische Reich am Rhein",
-        "Städte: Hamburgs Speicherstadt, Industriekultur im Ruhrgebiet, Die Schlösser in Potsdam",
+        "Städte: Hamburgs Speicherstadt, Industkultur im Ruhrgebiet, Die Schlösser in Potsdam",
         "Kultur: Oktoberfest Geschichte, Karneval im Rheinland, deutsche Feiertage, Die deutsche Brotkultur",
         "Traditionen: Weihnachtsmärkte, Schützenfeste, Brauchtum in den Alpen (Almabtrieb)",
         "Alltag: Mülltrennung-Kultur, Sonntagsruhe, Vereinsleben, Ehrenamt, Pfandsystem in Deutschland",
@@ -50,7 +50,6 @@ def generate_story():
         "Transport: Geschichte der Autobahn, Deutschlandticket, Fahrradstädte wie Münster, Deutsche Bahn Herausforderungen"
     ]
 
-    # Rastgele 2 konu seçimi
     selected_topics = random.sample(topic_pool, 2)
 
     prompt = f"""
@@ -72,7 +71,7 @@ def generate_story():
     - B2: Gazete makalesi, radyo programı veya profesyonel bir sunum tadında zengin anlatım (~550 kelime).
     - C1: Akademik analiz, tarihsel perspektif, toplumsal değişimler ve üst düzey deyimsel ifadeler (~750 kelime).
 
-    SADECE VE SADECE ŞU JSON FORMATINDA CEVAP VER (Başka açıklama ekleme):
+    SADECE VE SADECE ŞU JSON FORMATINDA CEVAP VER:
     {{
       "id": "story-{current_level}-{datetime.now().strftime('%Y%m%d')}",
       "youtubeId": "", 
@@ -94,7 +93,6 @@ def generate_story():
         response = model.generate_content(prompt)
         content = response.text.strip()
         
-        # Markdown kod bloklarını temizleme
         if "```json" in content:
             content = content.split("```json")[1].split("```")[0].strip()
         elif "```" in content:
@@ -102,7 +100,6 @@ def generate_story():
 
         data = json.loads(content)
         
-        # Dosya yolu oluşturma
         save_dir = f"src/data/stories/de/{current_level}"
         file_name = f"auto-{datetime.now().strftime('%Y-%m-%d')}.json"
         
