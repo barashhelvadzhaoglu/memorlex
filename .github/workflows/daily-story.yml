@@ -2,15 +2,15 @@ name: Weekly Level-Based Story Generator
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Her gün 03:00'te çalışır
-  workflow_dispatch: # Manuel test butonu
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -19,15 +19,15 @@ jobs:
       - name: Install dependencies
         run: pip install google-generativeai
 
-      - name: Run Level Script
+      - name: Run Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate_all_levels.py
 
-      - name: Commit and Push
+      - name: Push Changes
         run: |
-          git config --global user.name 'Memorlex Bot'
-          git config --global user.email 'bot@memorlex.com'
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'action@github.com'
           git add .
-          git commit -m "🚀 Günlük Hikaye Güncellemesi" || echo "Değişiklik yok veya bugün hafta sonu"
+          git commit -m "🚀 Daily AI Story Update" || echo "No changes"
           git push
