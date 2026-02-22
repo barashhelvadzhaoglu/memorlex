@@ -34,7 +34,7 @@ def create_storybook(json_path):
     story_id = data['id']
     scenes = []
 
-    # Ubuntu'da kesin bulunan font yolu
+    # Ubuntu'daki kesin font yolu (Önceki hatayı çözer)
     FONT_PATH = "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
 
     for i, para in enumerate(paragraphs):
@@ -50,10 +50,9 @@ def create_storybook(json_path):
         if not download_valid_image(f"Germany {para[:50]}", img_path, i):
             Image.new('RGB', (1280, 720), color=(40, 40, 40)).save(img_path)
 
-        # 3. Klip Oluşturma (v2.0 syntax)
+        # 3. Klip Oluşturma (v2.0 syntax + Renk Fix)
         img_clip = ImageClip(img_path).with_duration(audio_clip.duration)
         
-        # Fontu doğrudan dosya yolundan çağırıyoruz
         txt_clip = TextClip(
             text=para, 
             font_size=32, 
@@ -62,8 +61,9 @@ def create_storybook(json_path):
             method='caption', 
             size=(1100, None), 
             text_align='center',
-            bg_color='rgba(0,0,0,0.6)'
-        ).with_duration(audio_clip.duration).with_position(('center', 780))
+            # RGBA hatasını çözmek için Hex ve opacity kullanıyoruz
+            bg_color='#000000' 
+        ).with_duration(audio_clip.duration).with_position(('center', 780)).with_opacity(0.7)
 
         scenes.append(CompositeVideoClip([img_clip, txt_clip]).with_audio(audio_clip))
 
