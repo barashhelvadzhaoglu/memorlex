@@ -9,7 +9,6 @@ from moviepy import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, 
 from PIL import Image
 
 def download_valid_image(prompt, path, index):
-    """Görseli indirir ve bozuk olup olmadığını kontrol eder."""
     for attempt in range(3):
         try:
             url = f"https://pollinations.ai/p/{requests.utils.quote(prompt)}?width=1280&height=720&nologo=true&seed={int(time.time())+index}"
@@ -34,10 +33,13 @@ def create_storybook(json_path):
     story_id = data['id']
     scenes = []
 
-    # Ubuntu'daki kesin font yolu (Önceki hatayı çözer)
+    # Ubuntu'daki kesin font yolu
     FONT_PATH = "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
 
     for i, para in enumerate(paragraphs):
+        # Boş paragraf kontrolü
+        if not para or len(para.strip()) == 0: continue
+        
         print(f"🔄 Sahne {i+1}/{len(paragraphs)} hazırlanıyor...")
         
         # 1. Ses
@@ -47,27 +49,32 @@ def create_storybook(json_path):
 
         # 2. Görsel
         img_path = f"temp_img_{i}.jpg"
-        if not download_valid_image(f"Germany {para[:50]}", img_path, i):
+        if not download_valid_image(f"Germany {para[:40]}", img_path, i):
             Image.new('RGB', (1280, 720), color=(40, 40, 40)).save(img_path)
 
-        # 3. Klip Oluşturma (v2.0 syntax + Renk Fix)
+        # 3. Klipler
         img_clip = ImageClip(img_path).with_duration(audio_clip.duration)
         
+        # HATA ÇÖZÜMÜ: 
+        # size parametresinde yüksekliği None yerine sabit vererek broadcast hatasını önlüyoruz.
+        # bg_color formatını 'black' yaparak ValueError: unknown color'ı çözüyoruz.
         txt_clip = TextClip(
             text=para, 
-            font_size=32, 
+            font_size=28, 
             color='white', 
             font=FONT_PATH,
             method='caption', 
-            size=(1100, None), 
+            size=(1000, 200), # Sabit yükseklik broadcast hatasını engeller
             text_align='center',
-            # RGBA hatasını çözmek için Hex ve opacity kullanıyoruz
-            bg_color='#000000' 
-        ).with_duration(audio_clip.duration).with_position(('center', 780)).with_opacity(0.7)
+            bg_color='black' 
+        ).with_duration(audio_clip.duration).with_position(('center', 500)).with_opacity(0.8)
 
-        scenes.append(CompositeVideoClip([img_clip, txt_clip]).with_audio(audio_clip))
+        scene = CompositeVideoClip([img_clip, txt_clip]).with_audio(audio_clip)
+        scenes.append(scene)
 
     print("🎥 Video birleştiriliyor...")
+    if not scenes: return print("❌ Sahne oluşturulamadı.")
+    
     final_video = concatenate_videoclips(scenes, method="compose")
     output_name = f"{story_id}.mp4"
     final_video.write_videofile(output_name, fps=24, codec="libx264", audio_codec="aac", preset="ultrafast")
