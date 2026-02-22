@@ -1,0 +1,225 @@
+{
+  "id": "storie-003",
+  "youtubeId": "placeholder_vlog_id_a1_1",
+  "title": "Mein erster Tag in Berlin: Universität und Arztbesuch!",
+  "summary": "Anna, eine neue Studentin in Berlin, erzählt von ihrem ersten Tag. Sie lernt über das Max-Planck-Institut und geht zum Hausarzt wegen einer Erkältung.",
+  "text": [
+    "Hallo zusammen! Ich bin Anna. Ich komme aus Hamburg und wohne jetzt in Berlin. Heute ist mein erster Tag an der Universität. Ich bin sehr aufgeregt!",
+    "Ich lerne viel über Wissenschaft. Gestern habe ich im Internet gelesen: Max Planck war ein berühmter Physiker. Die Forschung ist wichtig. Viele Studenten arbeiten im Max-Planck-Institut.",
+    "Am Morgen hatte ich Kopfschmerzen. Ich bin zum Hausarzt gegangen. In Deutschland gibt es die Krankenkasse, meine ist die TK. Das System ist gut.",
+    "Die Sprechstunde beginnt um 08:30 Uhr. Der Arzt sagt: 'Sie haben eine leichte Erkältung.' Die Behandlung kostet mich nur 10 Euro. Das ist normal für die Praxisgebühr.",
+    "Später möchte ich meinen Freund treffen. Er kommt um 15:00 Uhr am Hauptbahnhof an. Er fährt mit dem ICE. Sein Zug hat Gleis 14.",
+    "Wir wollen vielleicht das Gutenberg Museum besuchen, aber heute ist es zu spät. Wir essen Pizza und lernen Deutsch. Tschüss!"
+  ],
+  "vocab": [
+    {
+      "term": "aufgeregt",
+      "type": "Adjektiv",
+      "meaning_tr": "heyecanlı",
+      "meaning_en": "excited",
+      "meaning_es": "emocionado",
+      "meaning_ua": "схвильований",
+      "example": "Ich bin heute sehr aufgeregt."
+    },
+    {
+      "term": "die Wissenschaft",
+      "type": "Nomen",
+      "meaning_tr": "bilim",
+      "meaning_en": "science",
+      "meaning_es": "ciencia",
+      "meaning_ua": "наука",
+      "example": "Ich studiere die Wissenschaft."
+    },
+    {
+      "term": "berühmt",
+      "type": "Adjektiv",
+      "meaning_tr": "ünlü",
+      "meaning_en": "famous",
+      "meaning_es": "famoso",
+      "meaning_ua": "відомий",
+      "example": "Einstein ist ein berühmter Mann."
+    },
+    {
+      "term": "das Max-Planck-Institut",
+      "type": "Nomen",
+      "meaning_tr": "Max Planck Enstitüsü",
+      "meaning_en": "Max Planck Institute",
+      "meaning_es": "Instituto Max Planck",
+      "meaning_ua": "Інститут Макса Планка",
+      "example": "Das Institut ist groß."
+    },
+    {
+      "term": "die Erkältung",
+      "type": "Nomen",
+      "meaning_tr": "nezle, soğuk algınlığı",
+      "meaning_en": "cold",
+      "meaning_es": "resfriado",
+      "meaning_ua": "застуда",
+      "example": "Ich habe eine Erkältung."
+    },
+    {
+      "term": "der Hausarzt",
+      "type": "Nomen",
+      "meaning_tr": "aile hekimi",
+      "meaning_en": "general practitioner",
+      "meaning_es": "médico de cabecera",
+      "meaning_ua": "сімейний лікар",
+      "example": "Ich gehe zum Hausarzt."
+    },
+    {
+      "term": "die Krankenkasse",
+      "type": "Nomen",
+      "meaning_tr": "sağlık sigortası",
+      "meaning_en": "health insurance",
+      "meaning_es": "seguro de salud",
+      "meaning_ua": "страхова компанія",
+      "example": "Meine Krankenkasse ist die TK."
+    },
+    {
+      "term": "die Sprechstunde",
+      "type": "Nomen",
+      "meaning_tr": "muayene saati",
+      "meaning_en": "consultation hours",
+      "meaning_es": "horas de consulta",
+      "meaning_ua": "прийом",
+      "example": "Die Sprechstunde beginnt um 08:30 Uhr."
+    },
+    {
+      "term": "kosten",
+      "type": "Verb",
+      "meaning_tr": "mal olmak",
+      "meaning_en": "to cost",
+      "meaning_es": "costar",
+      "meaning_ua": "коштувати",
+      "example": "Das Essen kostet 5 Euro."
+    },
+    {
+      "term": "die Praxisgebühr",
+      "type": "Nomen",
+      "meaning_tr": "muayene ücreti",
+      "meaning_en": "practice fee",
+      "meaning_es": "tasa de consulta",
+      "meaning_ua": "плата за прийом",
+      "example": "Die Praxisgebühr ist 10 Euro."
+    },
+    {
+      "term": "der Hauptbahnhof",
+      "type": "Nomen",
+      "meaning_tr": "ana tren istasyonu",
+      "meaning_en": "main train station",
+      "meaning_es": "estación central",
+      "meaning_ua": "головний вокзал",
+      "example": "Der Zug kommt am Hauptbahnhof an."
+    },
+    {
+      "term": "das Gleis",
+      "type": "Nomen",
+      "meaning_tr": "peron, ray",
+      "meaning_en": "track, platform",
+      "meaning_es": "vía",
+      "meaning_ua": "колія",
+      "example": "Wir warten auf Gleis 14."
+    },
+    {
+      "term": "die Forschung",
+      "type": "Nomen",
+      "meaning_tr": "araştırma",
+      "meaning_en": "research",
+      "meaning_es": "investigación",
+      "meaning_ua": "дослідження",
+      "example": "Die Forschung ist wichtig für die Wissenschaftler."
+    },
+    {
+      "term": "die Pizza",
+      "type": "Nomen",
+      "meaning_tr": "pizza",
+      "meaning_en": "pizza",
+      "meaning_es": "pizza",
+      "meaning_ua": "піца",
+      "example": "Wir essen heute Pizza."
+    },
+    {
+      "term": "der ICE",
+      "type": "Nomen",
+      "meaning_tr": "hızlı tren",
+      "meaning_en": "high-speed train",
+      "meaning_es": "tren de alta velocidad",
+      "meaning_ua": "швидкісний потяг",
+      "example": "Der ICE fährt schnell."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Woher kommt Anna?",
+      "options": [
+        "A) Aus Berlin",
+        "B) Aus Hamburg",
+        "C) Aus München"
+      ],
+      "answer": "B) Aus Hamburg"
+    },
+    {
+      "question": "Wann beginnt die Sprechstunde beim Hausarzt?",
+      "options": [
+        "A) Um 15:00 Uhr",
+        "B) Um 08:30 Uhr",
+        "C) Um 10:00 Uhr"
+      ],
+      "answer": "B) Um 08:30 Uhr"
+    },
+    {
+      "question": "Welche Krankenkasse hat Anna?",
+      "options": [
+        "A) AOK",
+        "B) Barmer",
+        "C) TK"
+      ],
+      "answer": "C) TK"
+    },
+    {
+      "question": "Was kostet die Behandlung für Anna beim Arzt (Praxisgebühr)?",
+      "options": [
+        "A) 5 Euro",
+        "B) 15 Euro",
+        "C) 10 Euro"
+      ],
+      "answer": "C) 10 Euro"
+    },
+    {
+      "question": "Wann kommt Annas Freund am Hauptbahnhof an?",
+      "options": [
+        "A) Um 15:00 Uhr",
+        "B) Um 08:30 Uhr",
+        "C) Um 13:00 Uhr"
+      ],
+      "answer": "A) Um 15:00 Uhr"
+    },
+    {
+      "question": "Welches Gleis benutzt Annas Freund für die Fahrt?",
+      "options": [
+        "A) Gleis 15",
+        "B) Gleis 10",
+        "C) Gleis 14"
+      ],
+      "answer": "C) Gleis 14"
+    },
+    {
+      "question": "Was war Anna am Morgen? (Was hatte sie?)",
+      "options": [
+        "A) Hunger",
+        "B) Kopfschmerzen",
+        "C) Durst"
+      ],
+      "answer": "B) Kopfschmerzen"
+    },
+    {
+      "question": "Welche berühmte Person wird im Text genannt, die mit Physik zu tun hat?",
+      "options": [
+        "A) Gutenberg",
+        "B) Benz",
+        "C) Max Planck"
+      ],
+      "answer": "C) Max Planck"
+    }
+  ]
+}
