@@ -10,16 +10,20 @@ genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def generate_story():
-    # 0=Pazartesi (A1), 1=Salı (A2), 2=Çarşamba (B1), 3=Perşembe (B2), 4=Cuma (C1)
+    # 0=Pazartesi, 1=Salı, 2=Çarşamba, 3=Perşembe, 4=Cuma, 5=Cumartesi, 6=Pazar
     weekday = datetime.now().weekday()
     
-    # Hafta sonu (Cumartesi=5, Pazar=6) ise üretim yapma
-    # if weekday > 4:
-      #   print(f"Bugün günlerden {datetime.now().strftime('%A')}. Hafta sonu plan gereği üretim yapılmıyor.")
-      #   return
-
-    # Günlere göre seviye eşleşmesi
-    levels = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1"}
+    # Günlere göre seviye eşleşmesi (Hafta sonu için hata almamak adına a1 eklendi)
+    levels = {
+        0: "a1", 
+        1: "a2", 
+        2: "b1", 
+        3: "b2", 
+        4: "c1",
+        5: "a1", # Cumartesi testi için
+        6: "a1"  # Pazar testi için
+    }
+    
     current_level = levels[weekday]
 
     # Dev Konu Havuzu: Tarih, Bilim, Spor, Teknoloji ve Günlük Yaşam
@@ -42,7 +46,7 @@ def generate_story():
         "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Rundfunkbeitrag (GEZ), Steuererklärung",
         "Bildung: Das duale Ausbildungssystem, Studium an einer TU (Technische Universität), Schulpflicht und Abitur",
         "Kinder: Kita-Alltag in Bayern, Märchen der Gebrüder Grimm, Kinderrechte in Deutschland",
-        "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand olarak Rückgrat",
+        "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand als Rückgrat",
         "Transport: Geschichte der Autobahn, Deutschlandticket, Fahrradstädte wie Münster, Deutsche Bahn Herausforderungen"
     ]
 
@@ -98,7 +102,7 @@ def generate_story():
 
         data = json.loads(content)
         
-        # Dosya yolu oluşturma: src/data/stories/de/{level}/auto-YYYY-MM-DD.json
+        # Dosya yolu oluşturma
         save_dir = f"src/data/stories/de/{current_level}"
         file_name = f"auto-{datetime.now().strftime('%Y-%m-%d')}.json"
         
