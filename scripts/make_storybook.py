@@ -9,18 +9,23 @@ from moviepy import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, 
 from PIL import Image
 
 def download_valid_image(prompt, path, index):
+    """Görseli indirir ve geçerliliğini kontrol eder."""
+    # Daha iyi sonuç için prompt'u optimize edelim
+    search_prompt = f"high quality cinematic illustration, {prompt}, masterpiece, 4k"
     for attempt in range(3):
         try:
-            url = f"https://pollinations.ai/p/{requests.utils.quote(prompt)}?width=1280&height=720&nologo=true&seed={int(time.time())+index}"
-            response = requests.get(url, timeout=20)
-            if response.status_code == 200 and len(response.content) > 5000:
+            url = f"https://pollinations.ai/p/{requests.utils.quote(search_prompt)}?width=1280&height=720&nologo=true&seed={int(time.time())+index}"
+            response = requests.get(url, timeout=25)
+            if response.status_code == 200 and len(response.content) > 10000: # 10KB altı genelde bozuktur
                 with open(path, 'wb') as f:
                     f.write(response.content)
+                # Dosyanın gerçekten bir resim olduğunu doğrula
                 with Image.open(path) as img:
                     img.verify()
                 return True
-        except:
-            time.sleep(2)
+        except Exception as e:
+            print(f"⚠️ Deneme {attempt+1} başarısız: {e}")
+            time.sleep(3)
     return False
 
 def create_storybook(json_path):
@@ -37,8 +42,7 @@ def create_storybook(json_path):
     FONT_PATH = "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
 
     for i, para in enumerate(paragraphs):
-        # Boş paragraf kontrolü
-        if not para or len(para.strip()) == 0: continue
+        if not para.strip(): continue
         
         print(f"🔄 Sahne {i+1}/{len(paragraphs)} hazırlanıyor...")
         
@@ -46,38 +50,53 @@ def create_storybook(json_path):
         audio_path = f"temp_audio_{i}.mp3"
         gTTS(text=para, lang='de').save(audio_path)
         audio_clip = AudioFileClip(audio_path)
+        duration = audio_clip.duration
 
         # 2. Görsel
         img_path = f"temp_img_{i}.jpg"
-        if not download_valid_image(f"Germany {para[:40]}", img_path, i):
-            Image.new('RGB', (1280, 720), color=(40, 40, 40)).save(img_path)
+        # Paragrafın sadece ilk kısmını prompt yapalım (çok uzun prompt hata verebilir)
+        short_para = " ".join(para.split()[:10])
+        if not download_valid_image(short_para, img_path, i):
+            print(f"🚨 Görsel {i} indirilemedi, renkli yedek oluşturuluyor.")
+            # Tamamen siyah yerine koyu mavi/gri bir renk yapalım ki çalıştığını anlayalım
+            Image.new('RGB', (1280, 720), color=(45, 52, 54)).save(img_path)
 
         # 3. Klipler
-        img_clip = ImageClip(img_path).with_duration(audio_clip.duration)
+        # Görseli ana katman yapıyoruz
+        bg_clip = ImageClip(img_path).with_duration(duration).with_fps(24)
         
-        # HATA ÇÖZÜMÜ: 
-        # size parametresinde yüksekliği None yerine sabit vererek broadcast hatasını önlüyoruz.
-        # bg_color formatını 'black' yaparak ValueError: unknown color'ı çözüyoruz.
+        # Metin kutusunu oluşturuyoruz
         txt_clip = TextClip(
             text=para, 
-            font_size=28, 
+            font_size=30, 
             color='white', 
             font=FONT_PATH,
             method='caption', 
-            size=(1000, 200), # Sabit yükseklik broadcast hatasını engeller
+            size=(1100, 180), # Sabit yükseklik
             text_align='center',
-            bg_color='black' 
-        ).with_duration(audio_clip.duration).with_position(('center', 500)).with_opacity(0.8)
+            bg_color='black'
+        ).with_duration(duration).with_opacity(0.7).with_position(('center', 520))
 
-        scene = CompositeVideoClip([img_clip, txt_clip]).with_audio(audio_clip)
+        # Sahneyi birleştirirken sıralama önemli: [Arkaplan, Üstteki Nesne]
+        scene = CompositeVideoClip([bg_clip, txt_clip], size=(1280, 720)).with_audio(audio_clip)
         scenes.append(scene)
 
-    print("🎥 Video birleştiriliyor...")
-    if not scenes: return print("❌ Sahne oluşturulamadı.")
+    print("🎥 Video birleştiriliyor (Final MP4)...")
+    if not scenes: return
     
     final_video = concatenate_videoclips(scenes, method="compose")
     output_name = f"{story_id}.mp4"
-    final_video.write_videofile(output_name, fps=24, codec="libx264", audio_codec="aac", preset="ultrafast")
+    
+    # Render ayarlarını "libx264" ve "high" profile çekelim
+    final_video.write_videofile(
+        output_name, 
+        fps=24, 
+        codec="libx264", 
+        audio_codec="aac", 
+        temp_audiofile='temp-audio.m4a', 
+        remove_temp=True,
+        preset="ultrafast"
+    )
     
     # Temizlik
     for i in range(len(paragraphs)):
