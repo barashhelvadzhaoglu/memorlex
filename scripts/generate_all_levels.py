@@ -8,47 +8,38 @@ import random
 api_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# 404 hatasını önlemek için model ismini doğrudan string olarak ve v1 sürümüyle uyumlu veriyoruz
+# 404 hatası için: 'models/' ön ekini kaldırıp en saf haliyle deniyoruz
+# SDK bunu otomatik olarak doğru endpoint'e (v1beta veya v1) yönlendirecektir.
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def generate_story():
     weekday = datetime.now().weekday()
-    
-    # Seviye Haritası (Hafta sonu için de a1 tanımlandı)
+    # Pazar = 6. Hafta sonu hatasını (KeyError: 6) engellemek için:
     levels = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1", 5: "a1", 6: "a1"}
     current_level = levels.get(weekday, "a1")
 
-    # Senin zengin konu havuzun
+    # Konu havuzun (Münih ve çocuklarınla ilgili detaylar dahil)
     topic_pool = [
-        "Geschichte: Münchens Wiederaufbau nach 1945, Der Kölner Dom",
-        "Kultur: Oktoberfest Traditionen, Die deutsche Brotkultur",
-        "Alltag: Sonntagsruhe in Deutschland, Vereinsleben",
-        "Wissenschaft: Albert Einstein und Max Planck, Die Automobilgeschichte",
-        "Transport: Das Deutschlandticket, Radfahren in München",
-        "Bürokratie: Das KVR in München, Elterngeld und Kindergeld",
-        "Bildung: Kita-Alltag in Bayern, Das duale Ausbildungssystem"
+        "Geschichte: Münchens Wiederaufbau, Der Kölner Dom",
+        "Kultur: Die deutsche Brotkultur, Oktoberfest Traditionen",
+        "Alltag: Deutschlandticket Reisen, Sonntagsruhe",
+        "Wissenschaft: Albert Einstein, Automobilgeschichte in Deutschland"
     ]
 
-    selected_topics = random.sample(topic_pool, 2)
+    selected_topics = random.sample(topic_pool, 1)
 
     prompt = f"""
-    Sen bir Almanca sınav uzmanısın. {current_level.upper()} seviyesinde içerik hazırla.
-    KONULAR: {selected_topics}
-    KİŞİSELLEŞTİRME: Münih'te yaşayan, 1 ve 5 yaşlarında çocukları olan bir mühendis baba. Deutschlandticket detayı ekle.
-    
-    CEVABI SADECE JSON FORMATINDA VER:
+    Sen bir Almanca uzmanısın. {current_level.upper()} seviyesinde içerik hazırla.
+    KONU: {selected_topics}. 
+    KİŞİSELLEŞTİRME: Münih'te yaşayan, 1 ve 5 yaşlarında çocukları olan bir baba.
+    CEVABI SADECE JSON OLARAK VER:
     {{
       "id": "story-{current_level}-{datetime.now().strftime('%Y%m%d')}",
-      "youtubeId": "", 
       "title": "Almanca Başlık",
       "summary": "Türkçe özet",
-      "text": ["Paragraf 1", "Paragraf 2"],
-      "vocab": [
-        {{ "term": "Kelime", "type": "Nomen/Verb/Adj", "meaning_tr": "Türkçe", "meaning_en": "İngilizce", "example": "Örnek" }}
-      ],
-      "questions": [
-        {{ "question": "Soru", "options": ["A", "B", "C", "D"], "answer": "Doğru Şık" }}
-      ]
+      "text": ["Paragraf 1"],
+      "vocab": [{{ "term": "Kelime", "type": "Nomen", "meaning_tr": "TR", "meaning_en": "EN", "example": "Örnek" }}],
+      "questions": [{{ "question": "Soru", "options": ["A", "B", "C", "D"], "answer": "A" }}]
     }}
     """
 
@@ -64,7 +55,7 @@ def generate_story():
 
         data = json.loads(content)
         
-        # GÖRSELDEKİ TAM DOSYA YOLU: src/data/stories/de/{seviye}
+        # Ekran görüntüsündeki yapıya tam uyum: src/data/stories/de/{level}
         save_dir = os.path.join("src", "data", "stories", "de", current_level)
         file_name = f"auto-{datetime.now().strftime('%Y-%m-%d')}.json"
         
@@ -74,7 +65,7 @@ def generate_story():
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             
-        print(f"✅ Başarılı: {file_path} dosyası oluşturuldu.")
+        print(f"✅ Başarılı: {file_path}")
 
     except Exception as e:
         print(f"❌ Hata: {str(e)}")
