@@ -1,0 +1,231 @@
+{
+  "id": "storie-007",
+  "youtubeId": "VLOG_KITA_MÄRCHEN_XRAY",
+  "title": "Mein erster Tag: Kita und spannende Strahlen!",
+  "summary": "Ich bin Leo aus Hamburg und besuche heute die Kita in München. Wir hören ein Märchen und lernen etwas über ein altes physikalisches Experiment.",
+  "text": [
+    "Hallo! Ich heiße Leo. Ich komme aus Hamburg. Heute bin ich in München. Ich bin neu hier. Ich gehe in die Kita 'Sonnenschein'. Die Kita öffnet um 7:30 Uhr.",
+    "Im Morgenkreis sprechen wir über Kinderrechte. Das ist wichtig! Danach hören wir ein Märchen. Heute ist es 'Hänsel und Gretel' von den Gebrüder Grimm. Es ist sehr spannend.",
+    "Nach dem Mittagessen (es kostet 4,50 Euro) machen wir ein Experiment. Die Lehrerin, Frau Schmidt, zeigt uns eine alte Lampe. Sie sagt: 'Das ist wie Röntgenstrahlen!'. Wir sehen das Licht, aber nicht die Strahlen.",
+    "Wir lernen: Röntgenstrahlen sind unsichtbar. Frau Schmidt sagt, Röntgen hat das 1895 entdeckt. Die Kita schließt um 16:00 Uhr. Ich mag die Kita!"
+  ],
+  "vocab": [
+    {
+      "term": "die Kita",
+      "type": "Nomen",
+      "meaning_tr": "Çocuk yuvası/Kreş",
+      "meaning_en": "Daycare",
+      "meaning_es": "Guardería",
+      "meaning_ua": "Дитячий садок",
+      "example": "Ich gehe in die Kita."
+    },
+    {
+      "term": "der Alltag",
+      "type": "Nomen",
+      "meaning_tr": "Günlük yaşam",
+      "meaning_en": "Daily routine",
+      "meaning_es": "Vida diaria",
+      "meaning_ua": "Буденність",
+      "example": "Der Kita-Alltag ist toll."
+    },
+    {
+      "term": "das Märchen",
+      "type": "Nomen",
+      "meaning_tr": "Masal",
+      "meaning_en": "Fairy tale",
+      "meaning_es": "Cuento de hadas",
+      "meaning_ua": "Казка",
+      "example": "Wir lesen ein Märchen."
+    },
+    {
+      "term": "die Entdeckung",
+      "type": "Nomen",
+      "meaning_tr": "Keşif",
+      "meaning_en": "Discovery",
+      "meaning_es": "Descubrimiento",
+      "meaning_ua": "Відкриття",
+      "example": "Das ist eine wichtige Entdeckung."
+    },
+    {
+      "term": "die Röntgenstrahlen",
+      "type": "Nomen (Plural)",
+      "meaning_tr": "Röntgen ışınları",
+      "meaning_en": "X-rays",
+      "meaning_es": "Rayos X",
+      "meaning_ua": "Рентгенівські промені",
+      "example": "Die Röntgenstrahlen sind unsichtbar."
+    },
+    {
+      "term": "unsichtbar",
+      "type": "Adjektiv",
+      "meaning_tr": "Görünmez",
+      "meaning_en": "Invisible",
+      "meaning_es": "Invisible",
+      "meaning_ua": "Невидимий",
+      "example": "Licht ist sichtbar, Strahlen sind unsichtbar."
+    },
+    {
+      "term": "der Morgenkreis",
+      "type": "Nomen",
+      "meaning_tr": "Sabah dairesi/toplantısı",
+      "meaning_en": "Morning circle/meeting",
+      "meaning_es": "Círculo matutino",
+      "meaning_ua": "Ранкове коло",
+      "example": "Wir sitzen im Morgenkreis."
+    },
+    {
+      "term": "das Recht",
+      "type": "Nomen",
+      "meaning_tr": "Hak",
+      "meaning_en": "Right",
+      "meaning_es": "Derecho",
+      "meaning_ua": "Право",
+      "example": "Kinder haben Rechte."
+    },
+    {
+      "term": "neu",
+      "type": "Adjektiv",
+      "meaning_tr": "Yeni",
+      "meaning_en": "New",
+      "meaning_es": "Nuevo",
+      "meaning_ua": "Новий",
+      "example": "Ich bin neu in München."
+    },
+    {
+      "term": "kosten",
+      "type": "Verb",
+      "meaning_tr": "Mal olmak",
+      "meaning_en": "To cost",
+      "meaning_es": "Costar",
+      "meaning_ua": "Коштувати",
+      "example": "Das Mittagessen kostet 4,50 Euro."
+    },
+    {
+      "term": "öffnen",
+      "type": "Verb",
+      "meaning_tr": "Açılmak",
+      "meaning_en": "To open",
+      "meaning_es": "Abrir",
+      "meaning_ua": "Відкриватися",
+      "example": "Die Kita öffnet um 7:30 Uhr."
+    },
+    {
+      "term": "schließen",
+      "type": "Verb",
+      "meaning_tr": "Kapanmak",
+      "meaning_en": "To close",
+      "meaning_es": "Cerrar",
+      "meaning_ua": "Закриватися",
+      "example": "Die Kita schließt um 16:00 Uhr."
+    },
+    {
+      "term": "spannend",
+      "type": "Adjektiv",
+      "meaning_tr": "Heyecan verici",
+      "meaning_en": "Exciting",
+      "meaning_es": "Emocionante",
+      "meaning_ua": "Захоплюючий",
+      "example": "Das Märchen ist sehr spannend."
+    },
+    {
+      "term": "das Mittagessen",
+      "type": "Nomen",
+      "meaning_tr": "Öğle yemeği",
+      "meaning_en": "Lunch",
+      "meaning_es": "Almuerzo",
+      "meaning_ua": "Обід",
+      "example": "Wir essen das Mittagessen."
+    },
+    {
+      "term": "die Lehrerin",
+      "type": "Nomen",
+      "meaning_tr": "Kadın öğretmen",
+      "meaning_en": "Female teacher",
+      "meaning_es": "Maestra",
+      "meaning_ua": "Вчителька",
+      "example": "Frau Schmidt ist die Lehrerin."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Woher kommt Leo?",
+      "options": [
+        "A) Aus Berlin",
+        "B) Aus München",
+        "C) Aus Hamburg",
+        "D) Aus Bayern"
+      ],
+      "answer": "C) Aus Hamburg"
+    },
+    {
+      "question": "Wann öffnet die Kita 'Sonnenschein'?",
+      "options": [
+        "A) Um 16:00 Uhr",
+        "B) Um 7:30 Uhr",
+        "C) Um 9:00 Uhr",
+        "D) Um 10:00 Uhr"
+      ],
+      "answer": "B) Um 7:30 Uhr"
+    },
+    {
+      "question": "Welches Märchen hören sie heute?",
+      "options": [
+        "A) Rotkäppchen",
+        "B) Schneewittchen",
+        "C) Hänsel und Gretel",
+        "D) Der Froschkönig"
+      ],
+      "answer": "C) Hänsel und Gretel"
+    },
+    {
+      "question": "Was kostet das Mittagessen in der Kita?",
+      "options": [
+        "A) 7,30 Euro",
+        "B) 4,50 Euro",
+        "C) 18,95 Euro",
+        "D) Es kostet nichts"
+      ],
+      "answer": "B) 4,50 Euro"
+    },
+    {
+      "question": "Was zeigen Frau Schmidt und die Kinder?",
+      "options": [
+        "A) Eine alte Lampe",
+        "B) Einen neuen Computer",
+        "C) Ein Glas Wasser",
+        "D) Ein Buch über Physik"
+      ],
+      "answer": "A) Eine alte Lampe"
+    },
+    {
+      "question": "Was ist mit Röntgenstrahlen? Sie sind...",
+      "options": [
+        "A) Laut",
+        "B) Sichtbar",
+        "C) Unsichtbar",
+        "D) Heiß"
+      ],
+      "answer": "C) Unsichtbar"
+    },
+    {
+      "question": "Wann hat Röntgen die Strahlen entdeckt?",
+      "options": [
+        "A) 1999",
+        "B) 1895",
+        "C) 2024",
+        "D) Vor 50 Jahren"
+      ],
+      "answer": "B) 1895"
+    },
+    {
+      "question": "Um wie viel Uhr schließt die Kita?",
+      "options": [
+        "A) Um 7:30 Uhr",
+        "B) Um 10:00 Uhr",
+        "C) Um 16:00 Uhr",
+        "D) Um 12:00 Uhr"
+      ],
+      "answer": "C) Um 16:00 Uhr"
+    }
+  ]
+}
