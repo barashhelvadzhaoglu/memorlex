@@ -1,0 +1,230 @@
+{
+  "id": "storie-001",
+  "youtubeId": "A2_Wissenschafl_Olympia_Vlog_001",
+  "title": "Mein Tag in München: Von Gutenberg bis Olympia '72!",
+  "summary": "Heute erzähle ich euch von meinem spannenden Tag in München. Ich habe das Deutsche Museum besucht und über berühmte Erfinder wie Gutenberg gesprochen, danach bin ich zur Olympia-Geschichte gegangen.",
+  "text": [
+    "Hallo Leute! Ich bin Lena und ich bin neu in Berlin, aber heute bin ich in München. Ich wollte unbedingt das Deutsche Museum sehen. Es war wirklich groß! Ich bin um 9:30 Uhr mit der S-Bahn angekommen. Am Bahnhof musste ich schnell den Bahnsteig wechseln, weil mein Zug von Gleis 5 nach Gleis 12 ging. Das war ein bisschen stressig!",
+    "Im Museum habe ich zuerst die Ausstellung über Wissenschaft gesehen. Ich habe viel über Johannes Gutenberg gelernt. Er hat den Buchdruck erfunden, das war sehr wichtig für die Bildung! Wir haben auch über Albert Einstein gesprochen, der ein bisschen verrückt aussah, aber sehr klug war. Der Eintritt hat 15 Euro gekostet, aber es war das Geld wert.",
+    "Später bin ich zum Olympiapark gelaufen. Ich liebe Sport! Ich habe die Geschichte der Olympischen Spiele von 1972 in München studiert. Damals war alles sehr friedlich, aber dann gab es leider das traurige Ereignis. Heute ist der Park sehr ruhig, und ich habe ein Eis am See gegessen. Es war ein schöner Tag, aber ich bin müde. Morgen muss ich früh aufstehen, um meine neue Wohnung anzuschauen."
+  ],
+  "vocab": [
+    {
+      "term": "der Buchdruck",
+      "type": "Nomen",
+      "meaning_tr": "Kitap baskısı",
+      "meaning_en": "Book printing",
+      "meaning_es": "Impresión de libros",
+      "meaning_ua": "Друкування книг",
+      "example": "Gutenberg hat den Buchdruck erfunden."
+    },
+    {
+      "term": "die Erfindung",
+      "type": "Nomen",
+      "meaning_tr": "İcat",
+      "meaning_en": "Invention",
+      "meaning_es": "Invención",
+      "meaning_ua": "Винахід",
+      "example": "Seine Erfindung war sehr nützlich."
+    },
+    {
+      "term": "die Ausstellung",
+      "type": "Nomen",
+      "meaning_tr": "Sergi, fuar",
+      "meaning_en": "Exhibition",
+      "meaning_es": "Exposición",
+      "meaning_ua": "Виставка",
+      "example": "Wir haben die neue Ausstellung besucht."
+    },
+    {
+      "term": "der Eintritt",
+      "type": "Nomen",
+      "meaning_tr": "Giriş (ücret)",
+      "meaning_en": "Entrance fee",
+      "meaning_es": "Entrada",
+      "meaning_ua": "Вхід",
+      "example": "Der Eintritt kostet 15 Euro."
+    },
+    {
+      "term": "der Bahnsteig",
+      "type": "Nomen",
+      "meaning_tr": "Peron",
+      "meaning_en": "Platform",
+      "meaning_es": "Andén",
+      "meaning_ua": "Платформа",
+      "example": "Ich war auf dem falschen Bahnsteig."
+    },
+    {
+      "term": "das Gleis",
+      "type": "Nomen",
+      "meaning_tr": "Ray hattı",
+      "meaning_en": "Track",
+      "meaning_es": "Vía",
+      "meaning_ua": "Колія",
+      "example": "Der Zug fährt von Gleis 12 ab."
+    },
+    {
+      "term": "der Bahnhof",
+      "type": "Nomen",
+      "meaning_tr": "Tren istasyonu",
+      "meaning_en": "Train station",
+      "meaning_es": "Estación de tren",
+      "meaning_ua": "Залізничний вокзал",
+      "example": "Am Bahnhof habe ich Kaffee getrunken."
+    },
+    {
+      "term": "der Olympiapark",
+      "type": "Nomen",
+      "meaning_tr": "Olimpiyat parkı",
+      "meaning_en": "Olympic Park",
+      "meaning_es": "Parque Olímpico",
+      "meaning_ua": "Олімпійський парк",
+      "example": "Wir sind durch den Olympiapark gelaufen."
+    },
+    {
+      "term": "an|kommen",
+      "type": "Verb",
+      "meaning_tr": "Varmak (ulaşmak)",
+      "meaning_en": "To arrive",
+      "meaning_es": "Llegar",
+      "meaning_ua": "Прибувати",
+      "example": "Ich bin um 9:30 Uhr angekommen."
+    },
+    {
+      "term": "lernen",
+      "type": "Verb",
+      "meaning_tr": "Öğrenmek",
+      "meaning_en": "To learn",
+      "meaning_es": "Aprender",
+      "meaning_ua": "Вчитися",
+      "example": "Ich habe viel über Einstein gelernt."
+    },
+    {
+      "term": "bequem",
+      "type": "Adjektiv",
+      "meaning_tr": "Rahat",
+      "meaning_en": "Comfortable",
+      "meaning_es": "Cómodo",
+      "meaning_ua": "Зручний",
+      "example": "Der Zug war nicht sehr bequem."
+    },
+    {
+      "term": "stressig",
+      "type": "Adjektiv",
+      "meaning_tr": "Stresli",
+      "meaning_en": "Stressful",
+      "meaning_es": "Estresante",
+      "meaning_ua": "Напружений",
+      "example": "Der Wechsel war ein bisschen stressig."
+    },
+    {
+      "term": "leider",
+      "type": "Adverb",
+      "meaning_tr": "Ne yazık ki",
+      "meaning_en": "Unfortunately",
+      "meaning_es": "Desafortunadamente",
+      "meaning_ua": "На жаль",
+      "example": "Leider hat es geregnet."
+    },
+    {
+      "term": "früh aufstehen",
+      "type": "Phrase",
+      "meaning_tr": "Erken kalkmak",
+      "meaning_en": "To get up early",
+      "meaning_es": "Levantarse temprano",
+      "meaning_ua": "Рано вставати",
+      "example": "Morgen muss ich früh aufstehen."
+    },
+    {
+      "term": "die Bildung",
+      "type": "Nomen",
+      "meaning_tr": "Eğitim",
+      "meaning_en": "Education",
+      "meaning_es": "Educación",
+      "meaning_ua": "Освіта",
+      "example": "Gutenbergs Erfindung half der Bildung."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Um wie viel Uhr ist Lena am Deutschen Museum angekommen?",
+      "options": [
+        "A) Um 15:00 Uhr",
+        "B) Um 9:30 Uhr",
+        "C) Um 12:00 Uhr",
+        "D) Um 10:00 Uhr"
+      ],
+      "answer": "B) Um 9:30 Uhr"
+    },
+    {
+      "question": "Wie viel hat der Eintritt für das Museum gekostet?",
+      "options": [
+        "A) 9 Euro",
+        "B) 19 Euro",
+        "C) 15 Euro",
+        "D) 30 Euro"
+      ],
+      "answer": "C) 15 Euro"
+    },
+    {
+      "question": "Lena musste den Zug vom Bahnsteig 5 auf welchen Bahnsteig wechseln?",
+      "options": [
+        "A) Gleis 10",
+        "B) Gleis 15",
+        "C) Gleis 20",
+        "D) Gleis 12"
+      ],
+      "answer": "D) Gleis 12"
+    },
+    {
+      "question": "Welche berühmte Person hat laut Lena den Buchdruck erfunden?",
+      "options": [
+        "A) Albert Einstein",
+        "B) Carl Benz",
+        "C) Johannes Gutenberg",
+        "D) Max Planck"
+      ],
+      "answer": "C) Johannes Gutenberg"
+    },
+    {
+      "question": "Was hat Lena im Olympiapark gemacht?",
+      "options": [
+        "A) Ein Rennen gelaufen",
+        "B) Ein Eis am See gegessen",
+        "C) Ein Museum besucht",
+        "D) Einen Freund getroffen"
+      ],
+      "answer": "B) Ein Eis am See gegessen"
+    },
+    {
+      "question": "Was ist das Hauptthema des ersten Absatzes (Paragraph 1)?",
+      "options": [
+        "A) Ein Konzert in Berlin",
+        "B) Die Ankunft und das Problem am Bahnhof in München",
+        "C) Ein Gespräch mit Einstein",
+        "D) Die Geschichte des Buches"
+      ],
+      "answer": "B) Die Ankunft und das Problem am Bahnhof in München"
+    },
+    {
+      "question": "Warum war der Bahnwechsel für Lena stressig?",
+      "options": [
+        "A) Weil der Zug zu spät war",
+        "B) Weil sie den Bahnsteig schnell wechseln musste",
+        "C) Weil es sehr kalt war",
+        "D) Weil der Eintritt zu teuer war"
+      ],
+      "answer": "B) Weil sie den Bahnsteig schnell wechseln musste"
+    },
+    {
+      "question": "Was ist Lenas Plan für morgen?",
+      "options": [
+        "A) Nach Berlin zurückfahren",
+        "B) Wieder das Museum besuchen",
+        "C) Ihre neue Wohnung anschauen",
+        "D) Nach Olympia fahren"
+      ],
+      "answer": "C) Ihre neue Wohnung anschauen"
+    }
+  ]
+}
