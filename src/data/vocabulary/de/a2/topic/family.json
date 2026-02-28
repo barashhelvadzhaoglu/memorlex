@@ -1,0 +1,186 @@
+{
+  "title": "Familie & Beziehungen A2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Eltern",
+      "type": "Noun (pl.)",
+      "meaning_tr": "ebeveynler",
+      "meaning_en": "the parents",
+      "meaning_uk": "батьки",
+      "meaning_es": "los padres",
+      "example": "Meine ***Eltern*** wohnen in Berlin."
+    },
+    {
+      "term": "der Bruder",
+      "type": "Noun (m.)",
+      "meaning_tr": "erkek kardeş",
+      "meaning_en": "the brother",
+      "meaning_uk": "брат",
+      "meaning_es": "el hermano",
+      "example": "Ich habe einen ***Bruder*** und eine Schwester."
+    },
+    {
+      "term": "die Schwester",
+      "type": "Noun (f.)",
+      "meaning_tr": "kız kardeş",
+      "meaning_en": "the sister",
+      "meaning_uk": "сестра",
+      "meaning_es": "la hermana",
+      "example": "Meine ***Schwester*** ist Studentin."
+    },
+    {
+      "term": "das Kind",
+      "type": "Noun (n.)",
+      "meaning_tr": "çocuk",
+      "meaning_en": "the child",
+      "meaning_uk": "дитина",
+      "meaning_es": "el niño/la niña",
+      "example": "Sie haben zwei ***Kinder***."
+    },
+    {
+      "term": "der Großvater",
+      "type": "Noun (m.)",
+      "meaning_tr": "büyükbaba",
+      "meaning_en": "the grandfather",
+      "meaning_uk": "дід",
+      "meaning_es": "el abuelo",
+      "example": "Mein ***Großvater*** wird achtzig."
+    },
+    {
+      "term": "die Großmutter",
+      "type": "Noun (f.)",
+      "meaning_tr": "büyükanne",
+      "meaning_en": "the grandmother",
+      "meaning_uk": "бабуся",
+      "meaning_es": "la abuela",
+      "example": "Ich besuche meine ***Großmutter*** am Wochenende."
+    },
+    {
+      "term": "heiraten",
+      "type": "Verb",
+      "meaning_tr": "evlenmek",
+      "meaning_en": "to marry",
+      "meaning_uk": "одружуватися/виходити заміж",
+      "meaning_es": "casarse",
+      "example": "Sie wollen nächstes Jahr ***heiraten***."
+    },
+    {
+      "term": "der Ehemann",
+      "type": "Noun (m.)",
+      "meaning_tr": "koca",
+      "meaning_en": "the husband",
+      "meaning_uk": "чоловік",
+      "meaning_es": "el marido",
+      "example": "Mein ***Ehemann*** arbeitet viel."
+    },
+    {
+      "term": "die Ehefrau",
+      "type": "Noun (f.)",
+      "meaning_tr": "karı",
+      "meaning_en": "the wife",
+      "meaning_uk": "дружина",
+      "meaning_es": "la esposa",
+      "example": "Seine ***Ehefrau*** ist Ärztin."
+    },
+    {
+      "term": "getrennt leben",
+      "type": "Phrase",
+      "meaning_tr": "ayrı yaşamak",
+      "meaning_en": "to live separately",
+      "meaning_uk": "жити окремо",
+      "meaning_es": "vivir separados",
+      "example": "Sie ***leben getrennt***, aber sie sind nicht geschieden."
+    },
+    {
+      "term": "die Scheidung",
+      "type": "Noun (f.)",
+      "meaning_tr": "boşanma",
+      "meaning_en": "the divorce",
+      "meaning_uk": "розлучення",
+      "meaning_es": "el divorcio",
+      "example": "Nach der ***Scheidung*** wohnt er allein."
+    },
+    {
+      "term": "der Cousin / die Cousine",
+      "type": "Noun",
+      "meaning_tr": "erkek/kız kuzen",
+      "meaning_en": "the cousin (male/female)",
+      "meaning_uk": "двоюрідний брат/сестра",
+      "meaning_es": "el primo / la prima",
+      "example": "Ich treffe meinen ***Cousin*** morgen."
+    },
+    {
+      "term": "der Neffe / die Nichte",
+      "type": "Noun",
+      "meaning_tr": "erkek/kız yeğen",
+      "meaning_en": "the nephew / the niece",
+      "meaning_uk": "племінник / племінниця",
+      "meaning_es": "el sobrino / la sobrina",
+      "example": "Meine ***Nichte*** ist fünf Jahre alt."
+    },
+    {
+      "term": "verheiratet",
+      "type": "Adjective",
+      "meaning_tr": "evli",
+      "meaning_en": "married",
+      "meaning_uk": "одружений/заміжня",
+      "meaning_es": "casado/a",
+      "example": "Ist er schon ***verheiratet***?"
+    },
+    {
+      "term": "ledig",
+      "type": "Adjective",
+      "meaning_tr": "bekar",
+      "meaning_en": "single",
+      "meaning_uk": "неодружений/незаміжня",
+      "meaning_es": "soltero/a",
+      "example": "Ich bin noch ***ledig***."
+    },
+    {
+      "term": "die Beziehung",
+      "type": "Noun (f.)",
+      "meaning_tr": "ilişki",
+      "meaning_en": "the relationship",
+      "meaning_uk": "стосунки",
+      "meaning_es": "la relación",
+      "example": "Sie haben eine ernste ***Beziehung***."
+    },
+    {
+      "term": "der Partner / die Partnerin",
+      "type": "Noun",
+      "meaning_tr": "partner (e/k)",
+      "meaning_en": "the partner (m./f.)",
+      "meaning_uk": "партнер / партнерка",
+      "meaning_es": "el compañero / la compañera",
+      "example": "Wer ist dein neuer ***Partner***?"
+    },
+    {
+      "term": "alleine wohnen",
+      "type": "Phrase",
+      "meaning_tr": "yalnız yaşamak",
+      "meaning_en": "to live alone",
+      "meaning_uk": "жити самому/самостійно",
+      "meaning_es": "vivir solo/a",
+      "example": "Nach dem Studium wollte ich ***alleine wohnen***."
+    },
+    {
+      "term": "sich verstehen (mit)",
+      "type": "Verb (reflexive)",
+      "meaning_tr": "anlaşmak",
+      "meaning_en": "to get along (with)",
+      "meaning_uk": "розуміти/ладнати (з)",
+      "meaning_es": "entenderse (con)",
+      "example": "Ich ***verstehe mich gut mit*** meinen Schwiegereltern."
+    },
+    {
+      "term": "die Verwandten",
+      "type": "Noun (pl.)",
+      "meaning_tr": "akrabalar",
+      "meaning_en": "the relatives",
+      "meaning_uk": "родичі",
+      "meaning_es": "los parientes",
+      "example": "Wir besuchen unsere ***Verwandten*** zu Weihnachten."
+    }
+  ]
+}

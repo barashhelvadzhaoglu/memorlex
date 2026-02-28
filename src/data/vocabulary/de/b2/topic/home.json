@@ -1,0 +1,392 @@
+{
+  "title": "Haus & Wohnen B2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Eigentumswohnung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "mülkiyet dairesi",
+      "meaning_en": "condominium",
+      "meaning_uk": "квартира у власності",
+      "meaning_es": "apartamento en propiedad",
+      "example": "Sie überlegen, ob sie eine *** kaufen oder lieber mieten sollen."
+    },
+    {
+      "term": "das Einfamilienhaus",
+      "type": "substantiv, neutrum",
+      "meaning_tr": "müstakil ev",
+      "meaning_en": "single-family house",
+      "meaning_uk": "односімейний будинок",
+      "meaning_es": "casa unifamiliar",
+      "example": "Viele Familien bevorzugen ein *** mit Garten."
+    },
+    {
+      "term": "die Wohnfläche",
+      "type": "substantiv, feminin",
+      "meaning_tr": "yaşam alanı yüzölçümü",
+      "meaning_en": "living space",
+      "meaning_uk": "житлова площа",
+      "meaning_es": "superficie habitable",
+      "example": "Die *** der Wohnung beträgt 85 Quadratmeter."
+    },
+    {
+      "term": "der Mietvertrag",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "kira sözleşmesi",
+      "meaning_en": "lease agreement",
+      "meaning_uk": "договір оренди",
+      "meaning_es": "contrato de alquiler",
+      "example": "Bevor Sie unterschreiben, lesen Sie den *** sorgfältig durch."
+    },
+    {
+      "term": "die Nebenkosten",
+      "type": "substantiv, feminin (Plural)",
+      "meaning_tr": "ek masraflar",
+      "meaning_en": "additional costs/utilities",
+      "meaning_uk": "комунальні послуги",
+      "meaning_es": "gastos adicionales",
+      "example": "Strom und Heizung sind in den *** oft nicht enthalten."
+    },
+    {
+      "term": "die Kaution",
+      "type": "substantiv, feminin",
+      "meaning_tr": "depozito",
+      "meaning_en": "security deposit",
+      "meaning_uk": "застава",
+      "meaning_es": "fianza",
+      "example": "Die Vermieterin verlangt drei Monatsmieten als ***."
+    },
+    {
+      "term": "die Einbauküche (EBK)",
+      "type": "substantiv, feminin",
+      "meaning_tr": "hazır mutfak",
+      "meaning_en": "fitted kitchen",
+      "meaning_uk": "вбудована кухня",
+      "meaning_es": "cocina amueblada",
+      "example": "Ist eine *** im Preis inbegriffen oder muss sie separat erworben werden?"
+    },
+    {
+      "term": "die Renovierung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "tadilat",
+      "meaning_en": "renovation",
+      "meaning_uk": "ремонт",
+      "meaning_es": "reforma",
+      "example": "Die komplette *** des Altbaus dauerte fast ein Jahr."
+    },
+    {
+      "term": "der Hausmeister",
+      "type": "substantiv, maskulin",
+      "meaning_en": "caretaker/janitor",
+      "meaning_uk": "двірник/управитель",
+      "meaning_es": "conserje",
+      "example": "Der *** kümmert sich um kleinere Reparaturen im Treppenhaus."
+    },
+    {
+      "term": "das Mehrfamilienhaus",
+      "type": "substantiv, neutrum",
+      "meaning_tr": "apartman dairesi",
+      "meaning_en": "apartment building",
+      "meaning_uk": "багатоквартирний будинок",
+      "meaning_es": "bloque de apartamentos",
+      "example": "In einem *** gibt es viele verschiedene Parteien."
+    },
+    {
+      "term": "die Grundstücksgrenze",
+      "type": "substantiv, feminin",
+      "meaning_tr": "arsa sınırı",
+      "meaning_en": "property boundary",
+      "meaning_uk": "межа ділянки",
+      "meaning_es": "límite de la propiedad",
+      "example": "Wir müssen sicherstellen, dass der neue Zaun genau an der *** steht."
+    },
+    {
+      "term": "die Wohnungsübergabe",
+      "type": "substantiv, feminin",
+      "meaning_tr": "daire teslimi",
+      "meaning_en": "handover of the apartment",
+      "meaning_uk": "передача квартири",
+      "meaning_es": "entrega del piso",
+      "example": "Bei der *** müssen alle Mängel protokolliert werden."
+    },
+    {
+      "term": "die Wohngemeinschaft (WG)",
+      "type": "substantiv, feminin",
+      "meaning_tr": "ev arkadaşlığı",
+      "meaning_en": "shared flat/house",
+      "meaning_uk": "спільне проживання",
+      "meaning_es": "piso compartido",
+      "example": "Viele Studenten gründen eine ***, um Kosten zu sparen."
+    },
+    {
+      "term": "der Eigenheimbesitzer",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "ev sahibi",
+      "meaning_en": "homeowner",
+      "meaning_uk": "власник будинку",
+      "meaning_es": "propietario de una vivienda",
+      "example": "Als *** ist man für alle Reparaturen selbst verantwortlich."
+    },
+    {
+      "term": "der Hausverkauf",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "ev satışı",
+      "meaning_en": "house sale",
+      "meaning_uk": "продаж будинку",
+      "meaning_es": "venta de la casa",
+      "example": "Nach langer Überlegung haben sie sich für den *** entschieden."
+    },
+    {
+      "term": "die Grundsteuer",
+      "type": "substantiv, feminin",
+      "meaning_tr": "emlak vergisi",
+      "meaning_en": "property tax",
+      "meaning_uk": "податок на нерухомість",
+      "meaning_es": "impuesto sobre bienes inmuebles",
+      "example": "Die *** muss jedes Jahr an das Finanzamt gezahlt werden."
+    },
+    {
+      "term": "der Hauskauf",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "ev satın alma",
+      "meaning_en": "house purchase",
+      "meaning_uk": "купівля будинку",
+      "meaning_es": "compra de casa",
+      "example": "Der *** erfordert eine langfristige Finanzplanung."
+    },
+    {
+      "term": "die Sanierung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "restorasyon/iyileştirme",
+      "meaning_en": "refurbishment/remediation",
+      "meaning_uk": "капітальний ремонт",
+      "meaning_es": "rehabilitación",
+      "example": "Das alte Gebäude wird energetisch ***."
+    },
+    {
+      "term": "der Bebauungsplan",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "imar planı",
+      "meaning_en": "development plan/zoning plan",
+      "meaning_uk": "план забудови",
+      "meaning_es": "plan de desarrollo urbano",
+      "example": "Laut *** darf hier maximal ein dreistöckiges Haus gebaut werden."
+    },
+    {
+      "term": "das Eigenheim",
+      "type": "substantiv, neutrum",
+      "meaning_tr": "özel konut",
+      "meaning_en": "owner-occupied home",
+      "meaning_uk": "власне житло",
+      "meaning_es": "vivienda propia",
+      "example": "Der Traum vom *** ist für viele Deutsche ein wichtiges Lebensziel."
+    },
+    {
+      "term": "die Ablöse",
+      "type": "substantiv, feminin",
+      "meaning_tr": "tazminat/bedel",
+      "meaning_en": "buyout fee (for fixtures)",
+      "meaning_uk": "викупна сума",
+      "meaning_es": "pago de traspaso",
+      "example": "Für die neuwertige Küche musste der Nachmieter eine hohe *** zahlen."
+    },
+    {
+      "term": "die Mietminderung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "kira indirimi",
+      "meaning_en": "rent reduction",
+      "meaning_uk": "зниження орендної плати",
+      "meaning_es": "reducción del alquiler",
+      "example": "Wegen des ständigen Baulärms forderte er eine ***."
+    },
+    {
+      "term": "das Eigenkapital",
+      "type": "substantiv, neutrum",
+      "meaning_tr": "öz sermaye",
+      "meaning_en": "equity capital",
+      "meaning_uk": "власний капітал",
+      "meaning_es": "capital propio",
+      "example": "Banken verlangen meist einen hohen Anteil an *** für eine Baufinanzierung."
+    },
+    {
+      "term": "die Hypothek",
+      "type": "substantiv, feminin",
+      "meaning_tr": "ipotek",
+      "meaning_en": "mortgage",
+      "meaning_uk": "іпотека",
+      "meaning_es": "hipoteca",
+      "example": "Sie nehmen eine lange *** auf, um das Haus zu finanzieren."
+    },
+    {
+      "term": "der Grundriss",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "kat planı",
+      "meaning_en": "floor plan",
+      "meaning_uk": "план поверху",
+      "meaning_es": "plano de planta",
+      "example": "Der *** des Hauses gefällt uns sehr gut, es ist sehr offen gestaltet."
+    },
+    {
+      "term": "die Parzelle",
+      "type": "substantiv, feminin",
+      "meaning_tr": "parsel",
+      "meaning_en": "plot of land",
+      "meaning_uk": "ділянка",
+      "meaning_es": "parcela",
+      "example": "Sie haben eine schöne *** in einer ruhigen Wohngegend gefunden."
+    },
+    {
+      "term": "das Reihenhaus",
+      "type": "substantiv, neutrum",
+      "meaning_tr": "sıra ev",
+      "meaning_en": "terraced house",
+      "meaning_uk": "рядний будинок",
+      "meaning_es": "casa adosada",
+      "example": "*** sind oft eine gute Alternative zum Einfamilienhaus."
+    },
+    {
+      "term": "die Wohnungsbesichtigung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "daire gösterimi",
+      "meaning_en": "apartment viewing",
+      "meaning_uk": "огляд квартири",
+      "meaning_es": "visita al piso",
+      "example": "Aufgrund der hohen Nachfrage gab es am Samstag fünf Termine für die ***."
+    },
+    {
+      "term": "der Makler",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "emlakçı",
+      "meaning_en": "real estate agent",
+      "meaning_uk": "ріелтор",
+      "meaning_es": "agente inmobiliario",
+      "example": "Unser *** hat uns den gesamten Papierkram abgenommen."
+    },
+    {
+      "term": "die Wertermittlung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "değer tespiti",
+      "meaning_en": "appraisal/valuation",
+      "meaning_uk": "оцінка вартості",
+      "meaning_es": "tasación",
+      "example": "Vor dem Verkauf muss eine professionelle *** durchgeführt werden."
+    },
+    {
+      "term": "die Umlagefähigkeit",
+      "type": "substantiv, feminin",
+      "meaning_tr": "giderlerin kiracıya yansıtılabilmesi",
+      "meaning_en": "recurrent cost transferability (to tenants)",
+      "meaning_uk": "можливість перекладання витрат",
+      "meaning_es": "capacidad de repercutir costes",
+      "example": "Prüfen Sie die *** der Heizkosten im Mietvertrag."
+    },
+    {
+      "term": "die Eigenleistung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "öz katkı",
+      "meaning_en": "owner's contribution (in construction/renovation)",
+      "meaning_uk": "власні роботи",
+      "meaning_es": "aportación personal",
+      "example": "Durch viel *** konnten wir die Baukosten deutlich senken."
+    },
+    {
+      "term": "die Vermögensanlage",
+      "type": "substantiv, feminin",
+      "meaning_tr": "varlık yatırımı",
+      "meaning_en": "asset investment",
+      "meaning_uk": "інвестиція в активи",
+      "meaning_es": "inversión patrimonial",
+      "example": "Der Kauf einer Immobilie gilt oft als sichere ***."
+    },
+    {
+      "term": "der Wohntraum",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "yaşam hayali",
+      "meaning_en": "dream home",
+      "meaning_uk": "мрія про житло",
+      "meaning_es": "sueño de vivienda",
+      "example": "Nach Jahren des Sparens konnten sie sich endlich ihren *** erfüllen."
+    },
+    {
+      "term": "die Raumaufteilung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "oda düzeni",
+      "meaning_en": "room layout",
+      "meaning_uk": "планування кімнат",
+      "meaning_es": "distribución de las habitaciones",
+      "example": "Die *** ist für eine große Familie ideal."
+    },
+    {
+      "term": "der Mietausfall",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "kira kaybı",
+      "meaning_en": "defaulted rent",
+      "meaning_uk": "недоотримання орендної плати",
+      "meaning_es": "impago del alquiler",
+      "example": "Um sich vor dem *** zu schützen, verlangen Vermieter oft eine Bürgschaft."
+    },
+    {
+      "term": "die Instandhaltung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "bakım",
+      "meaning_en": "maintenance",
+      "meaning_uk": "утримання",
+      "meaning_es": "mantenimiento",
+      "example": "Regelmäßige *** sichert den Wert der Immobilie."
+    },
+    {
+      "term": "der Kreditrahmen",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "kredi limiti",
+      "meaning_en": "credit limit",
+      "meaning_uk": "кредитний ліміт",
+      "meaning_es": "línea de crédito",
+      "example": "Der Bauträger hat einen großzügigen *** für unvorhergesehene Kosten."
+    },
+    {
+      "term": "die Bauabnahme",
+      "type": "substantiv, feminin",
+      "meaning_tr": "inşaat kabulü",
+      "meaning_en": "acceptance of construction work",
+      "meaning_uk": "приймання будівництва",
+      "meaning_es": "recepción de la obra",
+      "example": "Nach der *** beginnt die Gewährleistungsfrist."
+    },
+    {
+      "term": "der Luxusimmobilie",
+      "type": "substantiv, feminin",
+      "meaning_tr": "lüks gayrimenkul",
+      "meaning_en": "luxury property",
+      "meaning_uk": "елітна нерухомість",
+      "meaning_es": "propiedad de lujo",
+      "example": "Die *** auf Sylt wurden dieses Jahr besonders teuer."
+    },
+    {
+      "term": "die Zwangsversteigerung",
+      "type": "substantiv, feminin",
+      "meaning_tr": "zorla satış (icra)",
+      "meaning_en": "foreclosure auction",
+      "meaning_uk": "примусовий продаж",
+      "meaning_es": "subasta forzosa",
+      "example": "Interessenten müssen sich genau über die rechtliche Situation vor der *** informieren."
+    },
+    {
+      "term": "das Wohngeld",
+      "type": "substantiv, neutrum",
+      "meaning_tr": "konut yardımı",
+      "meaning_en": "housing benefit",
+      "meaning_uk": "житлова субсидія",
+      "meaning_es": "subsidio de vivienda",
+      "example": "Mit ihrem geringen Einkommen hat sie Anspruch auf staatliches ***."
+    },
+    {
+      "term": "die Erbbaurechtsvertrag",
+      "type": "substantiv, maskulin",
+      "meaning_tr": "arsa üzerinde inşaat hakkı sözleşmesi",
+      "meaning_en": "hereditary building right contract",
+      "meaning_uk": "договір про право забудови",
+      "meaning_es": "contrato de derecho de superficie",
+      "example": "Beim *** gehört das Haus dem Besitzer, aber das Land bleibt dem Erbpachtgeber."
+    }
+  ]
+}

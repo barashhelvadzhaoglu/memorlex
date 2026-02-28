@@ -1,0 +1,555 @@
+{
+  "title": "Farben & Zahlen C1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "akribisch",
+      "type": "Adjektiv",
+      "meaning_tr": "titiz, özenli",
+      "meaning_en": "meticulous, scrupulous",
+      "meaning_uk": "педантичний, старанний",
+      "meaning_es": "meticuloso, escrupuloso",
+      "example": "Er ging bei der Zählung der Farben ***akribisch*** vor, um keine Nuance zu übersehen."
+    },
+    {
+      "term": "Nuance",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ton, ince ayrım",
+      "meaning_en": "nuance, subtle difference",
+      "meaning_uk": "нюанс, відтінок",
+      "meaning_es": "matiz, sutileza",
+      "example": "Die Künstlerin konnte selbst die feinste ***Nuance*** des Ultramarins erkennen."
+    },
+    {
+      "term": "spektral",
+      "type": "Adjektiv",
+      "meaning_tr": "spektral, tayfsal",
+      "meaning_en": "spectral",
+      "meaning_uk": "спектральний",
+      "meaning_es": "espectral",
+      "example": "Die Analyse zeigte eine ***spektrale*** Verteilung aller sichtbaren Farben."
+    },
+    {
+      "term": "korrelieren",
+      "type": "Verb",
+      "meaning_tr": "ilişkili olmak, korelasyon göstermek",
+      "meaning_en": "to correlate",
+      "meaning_uk": "корелювати",
+      "meaning_es": "correlacionar",
+      "example": "Die Häufigkeit bestimmter Farbwörter ***korreliert*** oft mit dem Bildungsniveau der Sprecher."
+    },
+    {
+      "term": "Quantifizierung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "miktarsallaştırma",
+      "meaning_en": "quantification",
+      "meaning_uk": "кількісна оцінка",
+      "meaning_es": "cuantificación",
+      "example": "Die ***Quantifizierung*** von Farbtönen in der digitalen Kunst ist komplex."
+    },
+    {
+      "term": "monochrom",
+      "type": "Adjektiv",
+      "meaning_tr": "tek renkli",
+      "meaning_en": "monochromatic",
+      "meaning_uk": "монохромний",
+      "meaning_es": "monocromático",
+      "example": "Das gesamte Gemälde war in ***monochromen*** Graustufen gehalten."
+    },
+    {
+      "term": "disparates",
+      "type": "Adjektiv",
+      "meaning_tr": "uyumsuz, dağınık",
+      "meaning_en": "disparate, incongruous",
+      "meaning_uk": "неоднорідний, невідповідний",
+      "meaning_es": "dispar, inconexo",
+      "example": "Die ***disparaten*** Zahlen auf dem Dokument ergaben keinen Sinn."
+    },
+    {
+      "term": "Summierung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "toplama, özetleme",
+      "meaning_en": "summation, totaling",
+      "meaning_uk": "підсумовування",
+      "meaning_es": "sumatoria",
+      "example": "Die abschließende ***Summierung*** aller einzelnen Farbwerte war erforderlich."
+    },
+    {
+      "term": "proportional",
+      "type": "Adjektiv",
+      "meaning_tr": "orantılı",
+      "meaning_en": "proportional",
+      "meaning_uk": "пропорційний",
+      "meaning_es": "proporcional",
+      "example": "Die Helligkeit der Farbe war ***proportional*** zur Menge des verwendeten Pigments."
+    },
+    {
+      "term": "diskret",
+      "type": "Adjektiv",
+      "meaning_tr": "ayrık, ayrı",
+      "meaning_en": "discrete, separate",
+      "meaning_uk": "дискретний, окремий",
+      "meaning_es": "discreto, separado",
+      "example": "Wir behandelten jede Ziffer als eine ***diskrete*** Einheit in der Zahlenreihe."
+    },
+    {
+      "term": "verzehnfachen",
+      "type": "Verb",
+      "meaning_tr": "on katına çıkarmak",
+      "meaning_en": "to multiply by ten, to increase tenfold",
+      "meaning_uk": "збільшувати вдесятеро",
+      "meaning_es": "multiplicar por diez",
+      "example": "Die Ergebnisse haben sich seit dem letzten Bericht ***verzehnfacht***."
+    },
+    {
+      "term": "dezimal",
+      "type": "Adjektiv",
+      "meaning_tr": "ondalık",
+      "meaning_en": "decimal",
+      "meaning_uk": "десятковий",
+      "meaning_es": "decimal",
+      "example": "Die genaue Messung erforderte eine Angabe mit mehreren ***dezimalen*** Stellen."
+    },
+    {
+      "term": "exponentiell",
+      "type": "Adverb/Adjektiv",
+      "meaning_tr": "üstel olarak",
+      "meaning_en": "exponentially",
+      "meaning_uk": "експоненційно",
+      "meaning_es": "exponencialmente",
+      "example": "Die Anzahl der möglichen Farbkombinationen wächst ***exponentiell***."
+    },
+    {
+      "term": "interdependen",
+      "type": "Adjektiv",
+      "meaning_tr": "karşılıklı bağımlı",
+      "meaning_en": "interdependent",
+      "meaning_uk": "взаємозалежний",
+      "meaning_es": "interdependiente",
+      "example": "Die Wahrnehmung von Rot und Grün ist ***interdependen*** von der Beleuchtung."
+    },
+    {
+      "term": "subtil",
+      "type": "Adjektiv",
+      "meaning_tr": "ince, zarif",
+      "meaning_en": "subtle",
+      "meaning_uk": "тонкий, ледь помітний",
+      "meaning_es": "sutil",
+      "example": "Der Übergang von Indigo zu Violett war nur ***subtil*** erkennbar."
+    },
+    {
+      "term": "okkupieren",
+      "type": "Verb",
+      "meaning_tr": "işgal etmek, kaplamak",
+      "meaning_en": "to occupy",
+      "meaning_uk": "зайняти, окупувати",
+      "meaning_es": "ocupar",
+      "example": "Das tiefdunkle Blau ***okkupierte*** fast die gesamte Leinwand."
+    },
+    {
+      "term": "sättigen",
+      "type": "Verb",
+      "meaning_tr": "doygunluğa ulaştırmak",
+      "meaning_en": "to saturate",
+      "meaning_uk": "насичувати",
+      "meaning_es": "saturar",
+      "example": "Man kann ein Bild durch Hinzufügen von mehr Farbe ***sättigen***."
+    },
+    {
+      "term": "Dreiundzwanzig",
+      "type": "Zahl",
+      "meaning_tr": "yirmi üç",
+      "meaning_en": "twenty-three",
+      "meaning_uk": "двадцять три",
+      "meaning_es": "veintitrés",
+      "example": "Die Forschung umfasste ***dreiundzwanzig*** verschiedene Farbtestgruppen."
+    },
+    {
+      "term": "Sechsundachtzigtausend",
+      "type": "Zahl",
+      "meaning_tr": "seksen altı bin",
+      "meaning_en": "eighty-six thousand",
+      "meaning_uk": "вісімдесят шість тисяч",
+      "meaning_es": "ochenta y seis mil",
+      "example": "Die Kosten beliefen sich auf ***sechsundachtzigtausend*** Euro für das Pigment."
+    },
+    {
+      "term": "halbtönig",
+      "type": "Adjektiv",
+      "meaning_tr": "yarım tonlu",
+      "meaning_en": "halftone, mezzo-tinted",
+      "meaning_uk": "напівтоновий",
+      "meaning_es": "semitono",
+      "example": "Die alten Drucke zeigten oft einen ***halbtönigen*** Effekt."
+    },
+    {
+      "term": "Transparenz",
+      "type": "Substantiv (f)",
+      "meaning_tr": "şeffaflık",
+      "meaning_en": "transparency",
+      "meaning_uk": "прозорість",
+      "meaning_es": "transparencia",
+      "example": "Die ***Transparenz*** des Glases beeinflusst die Farbwahrnehmung enorm."
+    },
+    {
+      "term": "Ambiguität",
+      "type": "Substantiv (f)",
+      "meaning_tr": "belirsizlik, muğlaklık",
+      "meaning_en": "ambiguity",
+      "meaning_uk": "неоднозначність",
+      "meaning_es": "ambigüedad",
+      "example": "Die ***Ambiguität*** zwischen Blau und Grün in dieser Wellenlänge ist bekannt."
+    },
+    {
+      "term": "Konvergenz",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yakınsama",
+      "meaning_en": "convergence",
+      "meaning_uk": "конвергенція",
+      "meaning_es": "convergencia",
+      "example": "Die ***Konvergenz*** der Farbtemperaturen führte zu einem warmen Gesamtbild."
+    },
+    {
+      "term": "divergieren",
+      "type": "Verb",
+      "meaning_tr": "uzaklaşmak, ayrılmak",
+      "meaning_en": "to diverge",
+      "meaning_uk": "розбігатися",
+      "meaning_es": "divergir",
+      "example": "Die Meinungen über die genaue Zahl der Schattierungen ***divergierten*** stark."
+    },
+    {
+      "term": "Oktillion",
+      "type": "Zahl",
+      "meaning_tr": "oktilyon",
+      "meaning_en": "octillion",
+      "meaning_uk": "октильйон",
+      "meaning_es": "octillón",
+      "example": "Theoretisch gibt es eine fast unvorstellbare Anzahl von Farben, die ins ***Oktillion*** geht."
+    },
+    {
+      "term": "fraktal",
+      "type": "Adjektiv/Substantiv (n)",
+      "meaning_tr": "fraktal",
+      "meaning_en": "fractal",
+      "meaning_uk": "фрактальний",
+      "meaning_es": "fractal",
+      "example": "Die Muster in der Natur zeigen oft ***fraktale*** Farbanordnungen."
+    },
+    {
+      "term": "additive Farbmischung",
+      "type": "Phrase",
+      "meaning_tr": "katkısal renk karıştırma",
+      "meaning_en": "additive color mixing",
+      "meaning_uk": "адитивне змішування кольорів",
+      "meaning_es": "mezcla aditiva de colores",
+      "example": "Bei Bildschirmen nutzen wir die ***additive Farbmischung*** (RGB)."
+    },
+    {
+      "term": "subtraktive Farbmischung",
+      "type": "Phrase",
+      "meaning_tr": "çıkarımsal renk karıştırma",
+      "meaning_en": "subtractive color mixing",
+      "meaning_uk": "субтрактивне змішування кольорів",
+      "meaning_es": "mezcla sustractiva de colores",
+      "example": "Der Druckprozess basiert auf der ***subtraktiven Farbmischung*** (CMYK)."
+    },
+    {
+      "term": "transluzent",
+      "type": "Adjektiv",
+      "meaning_tr": "yarı saydam",
+      "meaning_en": "translucent",
+      "meaning_uk": "напівпрозорий",
+      "meaning_es": "translúcido",
+      "example": "Das ***transluzente*** Material ließ das Licht sanft durchscheinen."
+    },
+    {
+      "term": "luminös",
+      "type": "Adjektiv",
+      "meaning_tr": "parlak, ışık saçan",
+      "meaning_en": "luminous",
+      "meaning_uk": "світлоносний",
+      "meaning_es": "luminoso",
+      "example": "Die ***luminösen*** Grüntöne zogen sofort die Blicke auf sich."
+    },
+    {
+      "term": "irideszent",
+      "type": "Adjektiv",
+      "meaning_tr": "yanardöner",
+      "meaning_en": "iridescent",
+      "meaning_uk": "райдужний, переливчастий",
+      "meaning_es": "iridiscente",
+      "example": "Die Oberfläche des Käfers zeigte einen ***irideszenten*** Schimmer."
+    },
+    {
+      "term": "Primzahl",
+      "type": "Substantiv (f)",
+      "meaning_tr": "asal sayı",
+      "meaning_en": "prime number",
+      "meaning_uk": "просте число",
+      "meaning_es": "número primo",
+      "example": "Die Zahl Sieben ist eine bekannte ***Primzahl***, die oft in Symbolik vorkommt."
+    },
+    {
+      "term": "Vielfaches",
+      "type": "Substantiv (n)",
+      "meaning_tr": "kat",
+      "meaning_en": "multiple",
+      "meaning_uk": "кратне",
+      "meaning_es": "múltiplo",
+      "example": "Die Wiederholung des Musters war ein ***Vielfaches*** der Basisgröße."
+    },
+    {
+      "term": "Ordinalzahl",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sıra sayısı",
+      "meaning_en": "ordinal number",
+      "meaning_uk": "порядковий числівник",
+      "meaning_es": "número ordinal",
+      "example": "Der ***Ordinalzahl*** nach war es die fünfte Schattierung von Blau in der Serie."
+    },
+    {
+      "term": "Numerologie",
+      "type": "Substantiv (f)",
+      "meaning_tr": "numeroloji",
+      "meaning_en": "numerology",
+      "meaning_uk": "нумерологія",
+      "meaning_es": "numerología",
+      "example": "In der ***Numerologie*** werden Farben oft bestimmten Zahlen zugeordnet."
+    },
+    {
+      "term": "Farbwert",
+      "type": "Substantiv (m)",
+      "meaning_tr": "renk değeri",
+      "meaning_en": "color value",
+      "meaning_uk": "колірне значення",
+      "meaning_es": "valor de color",
+      "example": "Jeder Pixel hat einen spezifischen ***Farbwert*** (RGB)."
+    },
+    {
+      "term": "Schattierung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "gölge, ton",
+      "meaning_en": "shade, shading",
+      "meaning_uk": "відтінок, тінь",
+      "meaning_es": "matiz, sombra",
+      "example": "Wir untersuchten dreißig verschiedene ***Schattierungen*** von Grün."
+    },
+    {
+      "term": "Abstufung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "kademe, derecelendirme",
+      "meaning_en": "gradation, step",
+      "meaning_uk": "градуювання, ступінь",
+      "meaning_es": "gradación",
+      "example": "Die feine ***Abstufung*** zwischen den Nummern machte die Unterscheidung schwer."
+    },
+    {
+      "term": "unendlich",
+      "type": "Adjektiv",
+      "meaning_tr": "sonsuz",
+      "meaning_en": "infinite",
+      "meaning_uk": "нескінченний",
+      "meaning_es": "infinito",
+      "example": "Die Anzahl der potenziell wahrnehmbaren Farbtöne ist ***unendlich***."
+    },
+    {
+      "term": "Prozentsatz",
+      "type": "Substantiv (m)",
+      "meaning_tr": "yüzde",
+      "meaning_en": "percentage",
+      "meaning_uk": "відсоток",
+      "meaning_es": "porcentaje",
+      "example": "Der ***Prozentsatz*** des roten Pigments wurde auf 15% festgelegt."
+    },
+    {
+      "term": "dezimieren",
+      "type": "Verb",
+      "meaning_tr": "onda birini yok etmek",
+      "meaning_en": "to decimate (historically: reduce by a tenth)",
+      "meaning_uk": "децимувати (зменшувати вдесятеро)",
+      "meaning_es": "diezmar",
+      "example": "Die Helligkeitswerte schienen sich auf ein Zehntel zu ***dezimieren***."
+    },
+    {
+      "term": "millionenfach",
+      "type": "Adverb",
+      "meaning_tr": "milyonlarca kez",
+      "meaning_en": "millions of times",
+      "meaning_uk": "мільйони разів",
+      "meaning_es": "millones de veces",
+      "example": "Digitale Bilder werden ***millionenfach*** aus winzigen Farbpunkten zusammengesetzt."
+    },
+    {
+      "term": "approximieren",
+      "type": "Verb",
+      "meaning_tr": "yaklaşık olarak hesaplamak",
+      "meaning_en": "to approximate",
+      "meaning_uk": "апроксимувати",
+      "meaning_es": "aproximar",
+      "example": "Wir müssen die exakte Zahl ***approximieren***, da eine präzise Zählung unmöglich ist."
+    },
+    {
+      "term": "komplementär",
+      "type": "Adjektiv",
+      "meaning_tr": "tamamlayıcı",
+      "meaning_en": "complementary",
+      "meaning_uk": "додатковий, комплементарний",
+      "meaning_es": "complementario",
+      "example": "Gelb und Violett sind ***komplementäre*** Farben im traditionellen Farbrad."
+    },
+    {
+      "term": "analytisch",
+      "type": "Adjektiv",
+      "meaning_tr": "analitik",
+      "meaning_en": "analytical",
+      "meaning_uk": "аналітичний",
+      "meaning_es": "analítico",
+      "example": "Eine ***analytische*** Herangehensweise ist nötig, um die Zahlen korrekt zu interpretieren."
+    },
+    {
+      "term": "synthetisch",
+      "type": "Adjektiv",
+      "meaning_tr": "sentetik",
+      "meaning_en": "synthetic",
+      "meaning_uk": "синтетичний",
+      "meaning_es": "sintético",
+      "example": "Die neuen Pigmente basierten auf ***synthetischen*** Farbstoffen."
+    },
+    {
+      "term": "kalibrieren",
+      "type": "Verb",
+      "meaning_tr": "kalibre etmek",
+      "meaning_en": "to calibrate",
+      "meaning_uk": "калібрувати",
+      "meaning_es": "calibrar",
+      "example": "Die Geräte mussten mehrmals ***kalibriert*** werden, um die Farbtreue zu gewährleisten."
+    },
+    {
+      "term": "Obligatorium",
+      "type": "Substantiv (n)",
+      "meaning_tr": "zorunluluk",
+      "meaning_en": "compulsion, obligation",
+      "meaning_uk": "обов'язковий елемент",
+      "meaning_es": "obligatorio",
+      "example": "Die strenge Einhaltung der nummerischen Reihenfolge war ein ***Obligatorium***."
+    },
+    {
+      "term": "Zweiundfünfzig",
+      "type": "Zahl",
+      "meaning_tr": "elli iki",
+      "meaning_en": "fifty-two",
+      "meaning_uk": "п'ятдесят два",
+      "meaning_es": "cincuenta y dos",
+      "example": "Die ***zweiundfünfzig*** Muster unterschieden sich nur minimal in der Helligkeit."
+    },
+    {
+      "term": "Millionär",
+      "type": "Substantiv (m)",
+      "meaning_tr": "milyoner",
+      "meaning_en": "millionaire",
+      "meaning_uk": "мільйонер",
+      "meaning_es": "millonario",
+      "example": "Er sammelte Kunstwerke mit Zahlen im Titel, manche kosteten einen ***Millionär***."
+    },
+    {
+      "term": "Perzeption",
+      "type": "Substantiv (f)",
+      "meaning_tr": "algı",
+      "meaning_en": "perception",
+      "meaning_uk": "сприйняття",
+      "meaning_es": "percepción",
+      "example": "Die ***Perzeption*** von Farbe ist hochgradig subjektiv."
+    },
+    {
+      "term": "Triadisch",
+      "type": "Adjektiv",
+      "meaning_tr": "üçlü",
+      "meaning_en": "triadic",
+      "meaning_uk": "трійний",
+      "meaning_es": "triádico",
+      "example": "Rot, Gelb und Blau bilden das ***triadische*** System der Primärfarben."
+    },
+    {
+      "term": "konkret",
+      "type": "Adjektiv",
+      "meaning_tr": "somut",
+      "meaning_en": "concrete",
+      "meaning_uk": "конкретний",
+      "meaning_es": "concreto",
+      "example": "Wir konzentrierten uns auf die ***konkreten*** Zahlen und nicht auf abstrakte Konzepte."
+    },
+    {
+      "term": "implizit",
+      "type": "Adjektiv",
+      "meaning_tr": "örtük, üstü kapalı",
+      "meaning_en": "implicit",
+      "meaning_uk": "неявний, імпліцитний",
+      "meaning_es": "implícito",
+      "example": "Die ***implizite*** Farbcodierung war nur Eingeweihten bekannt."
+    },
+    {
+      "term": "Signifikanz",
+      "type": "Substantiv (f)",
+      "meaning_tr": "anlamlılık",
+      "meaning_en": "significance",
+      "meaning_uk": "значущість",
+      "meaning_es": "significado",
+      "example": "Die statistische ***Signifikanz*** der Farbhäufigkeit wurde bestätigt."
+    },
+    {
+      "term": "Bikolore",
+      "type": "Adjektiv/Substantiv (n)",
+      "meaning_tr": "iki renkli",
+      "meaning_en": "bicolor",
+      "meaning_uk": "двоколірний",
+      "meaning_es": "bicolor",
+      "example": "Das Tuch war auffällig ***bikolore*** in Schwarz und leuchtendem Gelb."
+    },
+    {
+      "term": "Äquivalenz",
+      "type": "Substantiv (f)",
+      "meaning_tr": "eşdeğerlik",
+      "meaning_en": "equivalence",
+      "meaning_uk": "еквівалентність",
+      "meaning_es": "equivalencia",
+      "example": "Man suchte nach der ***Äquivalenz*** zwischen der alten und der neuen Farbpalette."
+    },
+    {
+      "term": "Metrik",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ölçüt",
+      "meaning_en": "metric",
+      "meaning_uk": "метрика",
+      "meaning_es": "métrica",
+      "example": "Die verwendete ***Metrik*** erlaubte eine genaue Messung der Farbabweichungen."
+    },
+    {
+      "term": "Nullwert",
+      "type": "Substantiv (m)",
+      "meaning_tr": "sıfır değeri",
+      "meaning_en": "zero value",
+      "meaning_uk": "нульове значення",
+      "meaning_es": "valor cero",
+      "example": "Ein ***Nullwert*** im Rotkanal bedeutet reines Cyan."
+    },
+    {
+      "term": "Prozenteil",
+      "type": "Substantiv (m)",
+      "meaning_tr": "yüzde payı",
+      "meaning_en": "percentage share",
+      "meaning_uk": "відсоткова частка",
+      "meaning_es": "parte porcentual",
+      "example": "Der ***Prozenteil*** der dunklen Farben überstieg den der hellen deutlich."
+    },
+    {
+      "term": "Septillion",
+      "type": "Zahl",
+      "meaning_tr": "septilyon",
+      "meaning_en": "septillion",
+      "meaning_uk": "септильйон",
+      "meaning_es": "septillón",
+      "example": "Die möglichen Muster gehen weit über die Zahl einer ***Septillion*** hinaus."
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "title": "Zeit & Datum B2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Zeitspanne",
+      "type": "Noun, feminine",
+      "meaning_tr": "zaman aralığı",
+      "meaning_en": "time span",
+      "meaning_uk": "проміжок часу",
+      "meaning_es": "lapso de tiempo",
+      "example": "Die Bauarbeiten werden eine beträchtliche ***Zeitspanne*** in Anspruch nehmen."
+    },
+    {
+      "term": "die Ewigkeit",
+      "type": "Noun, feminine",
+      "meaning_tr": "sonsuzluk",
+      "meaning_en": "eternity",
+      "meaning_uk": "вічність",
+      "meaning_es": "eternidad",
+      "example": "Er fühlte sich, als würde er in der Warteschlange eine ***Ewigkeit*** verbringen."
+    },
+    {
+      "term": "der Augenblick",
+      "type": "Noun, masculine",
+      "meaning_tr": "an, lahza",
+      "meaning_en": "moment, instant",
+      "meaning_uk": "мить, момент",
+      "meaning_es": "instante, momento",
+      "example": "In diesem ***Augenblick*** erkannte sie die Wahrheit."
+    },
+    {
+      "term": "die Vorsilbe",
+      "type": "Noun, feminine",
+      "meaning_tr": "ön ek",
+      "meaning_en": "prefix (time-related)",
+      "meaning_uk": "префікс (часовий)",
+      "meaning_es": "prefijo (de tiempo)",
+      "example": "Die Vorsilbe 'vor-' in 'voraussehen' deutet auf die Zukunft hin."
+    },
+    {
+      "term": "der Nachklang",
+      "type": "Noun, masculine",
+      "meaning_tr": "yankı, hatıra",
+      "meaning_en": "reverberation, aftereffect (of time)",
+      "meaning_uk": "відлуння, наслідок",
+      "meaning_es": "reverberación, secuela",
+      "example": "Der Erfolg des Projekts hat noch lange ***Nachklang***."
+    },
+    {
+      "term": "die Verzögerung",
+      "type": "Noun, feminine",
+      "meaning_tr": "gecikme",
+      "meaning_en": "delay",
+      "meaning_uk": "затримка",
+      "meaning_es": "retraso, dilación",
+      "example": "Wegen des schlechten Wetters kam es zu einer erheblichen ***Verzögerung*** des Abflugs."
+    },
+    {
+      "term": "die Frist",
+      "type": "Noun, feminine",
+      "meaning_tr": "son tarih, müddet",
+      "meaning_en": "deadline, time limit",
+      "meaning_uk": "термін, дедлайн",
+      "meaning_es": "plazo, fecha límite",
+      "example": "Sie muss die Unterlagen vor Ablauf der ***Frist*** einreichen."
+    },
+    {
+      "term": "die Verspätung",
+      "type": "Noun, feminine",
+      "meaning_tr": "gecikme (ulaşım)",
+      "meaning_en": "lateness, tardiness",
+      "meaning_uk": "запізнення",
+      "meaning_es": "retraso, tardanza",
+      "example": "Ich entschuldige mich für meine ***Verspätung***, der Zug hatte Verspätung."
+    },
+    {
+      "term": "die Pünktlichkeit",
+      "type": "Noun, feminine",
+      "meaning_tr": "dakiklik",
+      "meaning_en": "punctuality",
+      "meaning_uk": "пунктуальність",
+      "meaning_es": "puntualidad",
+      "example": "Seine ***Pünktlichkeit*** ist bemerkenswert."
+    },
+    {
+      "term": "der Jahreswechsel",
+      "type": "Noun, masculine",
+      "meaning_tr": "yılbaşı geçişi",
+      "meaning_en": "turn of the year",
+      "meaning_uk": "перехід року",
+      "meaning_es": "cambio de año",
+      "example": "Wir feiern den ***Jahreswechsel*** traditionell mit Feuerwerk."
+    },
+    {
+      "term": "die Vorweihnachtszeit",
+      "type": "Noun, feminine",
+      "meaning_tr": "noel öncesi dönem",
+      "meaning_en": "pre-Christmas season (Advent)",
+      "meaning_uk": "передріздвяний час",
+      "meaning_es": "tiempo previo a la Navidad",
+      "example": "In der ***Vorweihnachtszeit*** duftet es überall nach Zimt."
+    },
+    {
+      "term": "die Ära",
+      "type": "Noun, feminine",
+      "meaning_tr": "devir, çağ",
+      "meaning_en": "era",
+      "meaning_uk": "ера",
+      "meaning_es": "era",
+      "example": "Die Menschheit trat in eine neue technologische ***Ära*** ein."
+    },
+    {
+      "term": "der Zeitpunkt",
+      "type": "Noun, masculine",
+      "meaning_tr": "zaman noktası, an",
+      "meaning_en": "point in time",
+      "meaning_uk": "момент часу",
+      "meaning_es": "momento preciso",
+      "example": "Wir müssen den optimalen ***Zeitpunkt*** für die Veröffentlichung finden."
+    },
+    {
+      "term": "die Zwischenzeit",
+      "type": "Noun, feminine",
+      "meaning_tr": "ara zaman",
+      "meaning_en": "interval, meanwhile",
+      "meaning_uk": "міжчасся",
+      "meaning_es": "interín, mientras tanto",
+      "example": "In der ***Zwischenzeit*** können Sie sich die Ausstellung ansehen."
+    },
+    {
+      "term": "die Saisonalität",
+      "type": "Noun, feminine",
+      "meaning_tr": "mevsimsellik",
+      "meaning_en": "seasonality",
+      "meaning_uk": "сезонність",
+      "meaning_es": "estacionalidad",
+      "example": "Die ***Saisonalität*** der Früchte beeinflusst die Preise."
+    },
+    {
+      "term": "kontinuierlich",
+      "type": "Adjective",
+      "meaning_tr": "sürekli, kesintisiz",
+      "meaning_en": "continuous",
+      "meaning_uk": "безперервний",
+      "meaning_es": "continuo",
+      "example": "Die Überwachung erfolgt ***kontinuierlich***, rund um die Uhr."
+    },
+    {
+      "term": "unverzüglich",
+      "type": "Adverb",
+      "meaning_tr": "derhal, gecikmeksizin",
+      "meaning_en": "immediately, without delay",
+      "meaning_uk": "негайно",
+      "meaning_es": "sin demora, inmediatamente",
+      "example": "Bitte melden Sie technische Probleme ***unverzüglich***."
+    },
+    {
+      "term": "zurückliegend",
+      "type": "Adjective",
+      "meaning_tr": "geçmişe ait",
+      "meaning_en": "past, previous",
+      "meaning_uk": "минулий",
+      "meaning_es": "pasado, anterior",
+      "example": "Wir analysieren die Daten der ***zurückliegenden*** Jahre."
+    },
+    {
+      "term": "verjähren",
+      "type": "Verb (intransitive)",
+      "meaning_tr": "zaman aşımına uğramak",
+      "meaning_en": "to become statute-barred, to expire (time)",
+      "meaning_uk": "спливати (про термін давності)",
+      "meaning_es": "prescribir",
+      "example": "Diese Forderung wird in fünf Jahren ***verjähren***."
+    },
+    {
+      "term": "zeitnah",
+      "type": "Adverb",
+      "meaning_tr": "yakın zamanda",
+      "meaning_en": "soon, promptly",
+      "meaning_uk": "невдовзі",
+      "meaning_es": "a corto plazo, pronto",
+      "example": "Wir erwarten eine Antwort ***zeitnah*** auf unsere Anfrage."
+    },
+    {
+      "term": "die Halbwertszeit",
+      "type": "Noun, feminine",
+      "meaning_tr": "yarı ömür",
+      "meaning_en": "half-life (time)",
+      "meaning_uk": "період напіврозпаду",
+      "meaning_es": "vida media",
+      "example": "Die ***Halbwertszeit*** dieses radioaktiven Isotops ist sehr lang."
+    },
+    {
+      "term": "der Jahrestag",
+      "type": "Noun, masculine",
+      "meaning_tr": "yıldönümü",
+      "meaning_en": "anniversary",
+      "meaning_uk": "річниця",
+      "meaning_es": "aniversario",
+      "example": "Wir feiern den ***Jahrestag*** unserer Gründung."
+    },
+    {
+      "term": "die Zeit vergeht wie im Flug",
+      "type": "Idiom",
+      "meaning_tr": "zaman su gibi akmak",
+      "meaning_en": "time flies",
+      "meaning_uk": "час летить непомітно",
+      "meaning_es": "el tiempo vuela",
+      "example": "Kaum zu glauben, dass schon Weihnachten ist, ***die Zeit vergeht wie im Flug***!"
+    },
+    {
+      "term": "die Zeitebene",
+      "type": "Noun, feminine",
+      "meaning_tr": "zaman düzlemi",
+      "meaning_en": "time frame, time level",
+      "meaning_uk": "часовий рівень",
+      "meaning_es": "plano temporal",
+      "example": "Die Handlung des Romans wechselt zwischen verschiedenen ***Zeitebenen***."
+    },
+    {
+      "term": "die Verfallsdatum",
+      "type": "Noun, neuter",
+      "meaning_tr": "son kullanma tarihi",
+      "meaning_en": "expiry date",
+      "meaning_uk": "термін придатності",
+      "meaning_es": "fecha de caducidad",
+      "example": "Bitte prüfen Sie das ***Verfallsdatum*** auf der Verpackung."
+    },
+    {
+      "term": "die Epoche",
+      "type": "Noun, feminine",
+      "meaning_tr": "çağ, dönem",
+      "meaning_en": "epoch",
+      "meaning_uk": "епоха",
+      "meaning_es": "época",
+      "example": "Das Ende des Mittelalters markierte den Beginn einer neuen ***Epoche***."
+    },
+    {
+      "term": "in Echtzeit",
+      "type": "Adverbial phrase",
+      "meaning_tr": "gerçek zamanlı olarak",
+      "meaning_en": "in real time",
+      "meaning_uk": "у реальному часі",
+      "meaning_es": "en tiempo real",
+      "example": "Die Datenübertragung erfolgt ***in Echtzeit***."
+    },
+    {
+      "term": "die Dauer",
+      "type": "Noun, feminine",
+      "meaning_tr": "süre",
+      "meaning_en": "duration",
+      "meaning_uk": "тривалість",
+      "meaning_es": "duración",
+      "example": "Die gesamte ***Dauer*** der Veranstaltung beträgt drei Stunden."
+    },
+    {
+      "term": "der Sonnenaufgang",
+      "type": "Noun, masculine",
+      "meaning_tr": "gün doğumu",
+      "meaning_en": "sunrise",
+      "meaning_uk": "схід сонця",
+      "meaning_es": "amanecer",
+      "example": "Wir standen früh auf, um den ***Sonnenaufgang*** zu beobachten."
+    },
+    {
+      "term": "der Sonnenuntergang",
+      "type": "Noun, masculine",
+      "meaning_tr": "gün batımı",
+      "meaning_en": "sunset",
+      "meaning_uk": "захід сонця",
+      "meaning_es": "atardecer",
+      "example": "Der ***Sonnenuntergang*** färbte den Himmel rot."
+    },
+    {
+      "term": "die Vergänglichkeit",
+      "type": "Noun, feminine",
+      "meaning_tr": "geçicilik",
+      "meaning_en": "transience, impermanence",
+      "meaning_uk": "плинність",
+      "meaning_es": "fugacidad, transitoriedad",
+      "example": "Philosophen reflektieren oft über die ***Vergänglichkeit*** des Lebens."
+    },
+    {
+      "term": "abgelaufen",
+      "type": "Adjective/Past Participle",
+      "meaning_tr": "süresi dolmuş",
+      "meaning_en": "expired",
+      "meaning_uk": "термін дії якого закінчився",
+      "meaning_es": "caducado",
+      "example": "Das Ticket ist leider schon ***abgelaufen***."
+    },
+    {
+      "term": "die Tagundnachtgleiche",
+      "type": "Noun, feminine",
+      "meaning_tr": "ekinoks",
+      "meaning_en": "equinox",
+      "meaning_uk": "рівнодення",
+      "meaning_es": "equinoccio",
+      "example": "Die Frühjahrs***tagundnachtgleiche*** markiert den offiziellen Beginn des Frühlings."
+    },
+    {
+      "term": "zeitversetzt",
+      "type": "Adjective/Adverb",
+      "meaning_tr": "gecikmeli",
+      "meaning_en": "time-delayed",
+      "meaning_uk": "із затримкою в часі",
+      "meaning_es": "con retraso temporal",
+      "example": "Die Übertragung der Rede wird ***zeitversetzt*** gesendet."
+    },
+    {
+      "term": "die Dämmerung",
+      "type": "Noun, feminine",
+      "meaning_tr": "alacakaranlık",
+      "meaning_en": "twilight (dawn or dusk)",
+      "meaning_uk": "сутінки",
+      "meaning_es": "crepúsculo",
+      "example": "Im Schutz der ***Dämmerung*** konnten sie unbemerkt fliehen."
+    },
+    {
+      "term": "die Vorsorge",
+      "type": "Noun, feminine",
+      "meaning_tr": "önlem, tedbir",
+      "meaning_en": "provision, precaution (for the future)",
+      "meaning_uk": "забезпечення, запобіжний захід",
+      "meaning_es": "prevención, provisión",
+      "example": "Finanzielle ***Vorsorge*** ist wichtig für den Ruhestand."
+    },
+    {
+      "term": "die Intervallzeit",
+      "type": "Noun, feminine",
+      "meaning_tr": "aralık süresi",
+      "meaning_en": "interval time",
+      "meaning_uk": "інтервальний час",
+      "meaning_es": "tiempo de intervalo",
+      "example": "Die ***Intervallzeit*** zwischen den Zügen beträgt zehn Minuten."
+    },
+    {
+      "term": "überdauern",
+      "type": "Verb (transitive/intransitive)",
+      "meaning_tr": "hayatta kalmak, sürmek",
+      "meaning_en": "to survive, to last (through time)",
+      "meaning_uk": "пережити, витримати",
+      "meaning_es": "sobrevivir, perdurar",
+      "example": "Diese Tradition hat viele Jahrhunderte ***überdauert***."
+    },
+    {
+      "term": "der Turnus",
+      "type": "Noun, masculine",
+      "meaning_tr": "dönüş, periyot",
+      "meaning_en": "cycle, rotation",
+      "meaning_uk": "цикл, чергування",
+      "meaning_es": "turno, ciclo",
+      "example": "Die Besprechungen finden im wöchentlichen ***Turnus*** statt."
+    },
+    {
+      "term": "die Gezeit",
+      "type": "Noun, feminine",
+      "meaning_tr": "gelgit",
+      "meaning_en": "tide (time-related)",
+      "meaning_uk": "приплив/відплив",
+      "meaning_es": "marea",
+      "example": "Die ***Gezeiten*** des Meeres ändern sich regelmäßig."
+    },
+    {
+      "term": "unaufhaltsam",
+      "type": "Adjective",
+      "meaning_tr": "durmak bilmez, durdurulamaz",
+      "meaning_en": "unstoppable, relentless",
+      "meaning_uk": "невпинний",
+      "meaning_es": "implacable, imparable",
+      "example": "Der technologische Fortschritt scheint ***unaufhaltsam*** zu sein."
+    },
+    {
+      "term": "zeitlich begrenzt",
+      "type": "Adjective phrase",
+      "meaning_tr": "zamansal olarak sınırlı",
+      "meaning_en": "time-limited",
+      "meaning_uk": "обмежений у часі",
+      "meaning_es": "limitado en el tiempo",
+      "example": "Das Angebot ist nur für einen ***zeitlich begrenzten*** Zeitraum gültig."
+    }
+  ]
+}

@@ -2,102 +2,878 @@
   "title": "Integration A2 - Kapitel 4",
   "language": "de",
   "words": [
-    {"term": "die Kleidung", "type": "Noun", "meaning_tr": "Giysi, Kıyafet", "meaning_en": "clothing, clothes", "meaning_uk": "одяг, речі", "example": "Im Winter brauche ich warme ***, sonst friere ich."},
-    {"term": "das Kleidungsstück", "type": "Noun", "meaning_tr": "Kıyafet parçası", "meaning_en": "item of clothing", "meaning_uk": "елемент одягу", "example": "Dieses *** ist sehr bequem."},
-    {"term": "der Anzug", "type": "Noun", "meaning_tr": "Takım elbise", "meaning_en": "suit, formal wear", "meaning_uk": "костюм", "example": "Für das Vorstellungsgespräch trage ich einen ***."},
-    {"term": "die Bluse", "type": "Noun", "meaning_tr": "Bluz", "meaning_en": "women's blouse", "meaning_uk": "блузка", "example": "Sie kauft eine neue *** fürs Büro."},
-    {"term": "der Gürtel", "type": "Noun", "meaning_tr": "Kemer", "meaning_en": "belt, waist belt", "meaning_uk": "ремінь", "example": "Meine Hose rutscht, ich brauche einen ***."},
-    {"term": "das Hemd", "type": "Noun", "meaning_tr": "Gömlek", "meaning_en": "shirt, men's shirt", "meaning_uk": "сорочка", "example": "Zum Anzug ziehe ich ein weißes *** an."},
-    {"term": "die Hose", "type": "Noun", "meaning_tr": "Pantolon", "meaning_en": "trousers, pants", "meaning_uk": "штани", "example": "Diese *** ist mir zu eng."},
-    {"term": "die Jacke", "type": "Noun", "meaning_tr": "Ceket / Mont", "meaning_en": "jacket, coat", "meaning_uk": "куртка", "example": "Nimm deine ***, es ist kalt."},
-    {"term": "das Jackett", "type": "Noun", "meaning_tr": "Ceket (Erkek)", "meaning_en": "men's jacket", "meaning_uk": "піджак", "example": "Das *** passt gut zur Hose."},
-    {"term": "das Kleid", "type": "Noun", "meaning_tr": "Elbise", "meaning_en": "dress, gown", "meaning_uk": "сукня", "example": "Sie trägt ein schönes ***."},
-    {"term": "die Krawatte", "type": "Noun", "meaning_tr": "Kravat", "meaning_en": "tie, necktie", "meaning_uk": "краватка", "example": "Er bindet morgens seine ***."},
-    {"term": "der Mantel", "type": "Noun", "meaning_tr": "Palto / Manto", "meaning_en": "coat, overcoat", "meaning_uk": "пальто", "example": "Im Winter trage ich einen dicken ***."},
-    {"term": "der Pullover", "type": "Noun", "meaning_tr": "Kazak", "meaning_en": "sweater, jumper", "meaning_uk": "светр", "example": "Dieser *** hält mich warm."},
-    {"term": "der Rock", "type": "Noun", "meaning_tr": "Etek", "meaning_en": "skirt", "meaning_uk": "спідниця", "example": "Der *** ist heute sehr modern."},
-    {"term": "die Socke", "type": "Noun", "meaning_tr": "Çorap", "meaning_en": "sock", "meaning_uk": "шкарпетка", "example": "Ich finde meine zweite *** nicht."},
-    {"term": "der Strumpf", "type": "Noun", "meaning_tr": "Uzun çorap", "meaning_en": "stocking, long sock", "meaning_uk": "панчоха", "example": "Im Winter trage ich warme ***."},
-    {"term": "das T-Shirt", "type": "Noun", "meaning_tr": "Tişört", "meaning_en": "t-shirt", "meaning_uk": "футболка", "example": "Im Sommer trage ich oft ein ***."},
-    {"term": "der BH", "type": "Noun", "meaning_tr": "Sütyen", "meaning_en": "bra, underwear", "meaning_uk": "бюстгальтер", "example": "Sie kauft einen neuen ***."},
-    {"term": "das Unterhemd", "type": "Noun", "meaning_tr": "Atlet", "meaning_en": "undershirt", "meaning_uk": "майка", "example": "Im Winter ziehe ich ein *** an."},
-    {"term": "die Unterhose", "type": "Noun", "meaning_tr": "Külot", "meaning_en": "underpants", "meaning_uk": "спідня білизна", "example": "Ich brauche saubere ***."},
-    {"term": "der Schuh", "type": "Noun", "meaning_tr": "Ayakkabı", "meaning_en": "shoe", "meaning_uk": "взуття", "example": "Dieser *** ist sehr bequem."},
-    {"term": "der Stiefel", "type": "Noun", "meaning_tr": "Çizme", "meaning_en": "boot", "meaning_uk": "чобіт", "example": "Bei Schnee trage ich ***."},
-    {"term": "der Gummistiefel", "type": "Noun", "meaning_tr": "Lastik çizme", "meaning_en": "rubber boots", "meaning_uk": "гумові чоботи", "example": "Bei Regen ziehe ich *** an."},
-    {"term": "der Handschuh", "type": "Noun", "meaning_tr": "Eldiven", "meaning_en": "glove", "meaning_uk": "рукавичка", "example": "Ich habe einen *** verloren."},
-    {"term": "der Schal", "type": "Noun", "meaning_tr": "Atkı", "meaning_en": "scarf", "meaning_uk": "шарф", "example": "Im Winter trage ich einen ***."},
-    {"term": "der Hut", "type": "Noun", "meaning_tr": "Şapka", "meaning_en": "hat", "meaning_uk": "капелюх", "example": "Er trägt einen schwarzen ***."},
-    {"term": "der Badeanzug", "type": "Noun", "meaning_tr": "Mayo", "meaning_en": "swimsuit", "meaning_uk": "купальник", "example": "Im Urlaub trage ich meinen ***."},
-    {"term": "die Badehose", "type": "Noun", "meaning_tr": "Deniz şortu", "meaning_en": "swim shorts", "meaning_uk": "плавки", "example": "Er kauft eine neue ***."},
-    {"term": "die Kette", "type": "Noun", "meaning_tr": "Kolye", "meaning_en": "necklace, chain", "meaning_uk": "ланцюжок", "example": "Die *** passt gut zum Kleid."},
-    {"term": "der Schirm", "type": "Noun", "meaning_tr": "Şemsiye", "meaning_en": "umbrella", "meaning_uk": "парасоля", "example": "Es regnet, nimm einen *** mit."},
-    {"term": "tragen", "type": "Verb", "meaning_tr": "Giymek, taşımak", "meaning_en": "to wear, carry", "meaning_uk": "носити", "example": "Ich *** heute neue Schuhe."},
-    {"term": "anziehen", "type": "Verb", "meaning_tr": "Üzerine giymek", "meaning_en": "to put on", "meaning_uk": "одягати", "example": "Zieh deine Jacke ***."},
-    {"term": "im Kaufhaus", "type": "Phrase", "meaning_tr": "Büyük mağazada", "meaning_en": "in department store", "meaning_uk": "у великому магазині", "example": "Ich kaufe Kleidung gern ***."},
-    {"term": "die Orientierungstafel", "type": "Noun", "meaning_tr": "Yönlendirme tabelası", "meaning_en": "direction board", "meaning_uk": "інформаційна табличка", "example": "Auf der *** finde ich alle Abteilungen."},
-    {"term": "die Damenmode", "type": "Noun", "meaning_tr": "Kadın modası", "meaning_en": "women's fashion", "meaning_uk": "жіноча мода", "example": "Diese Etage ist für ***."},
-    {"term": "die Herrenmode", "type": "Noun", "meaning_tr": "Erkek modası", "meaning_en": "men's fashion", "meaning_uk": "чоловіча мода", "example": "Die *** ist im zweiten Stock."},
-    {"term": "die Kinderabteilung", "type": "Noun", "meaning_tr": "Çocuk departmanı", "meaning_en": "children's section", "meaning_uk": "дитячий відділ", "example": "Die *** ist ganz oben."},
-    {"term": "die Unterwäsche", "type": "Noun", "meaning_tr": "İç çamaşırı", "meaning_en": "underwear", "meaning_uk": "спідня білизна", "example": "Ich kaufe neue ***."},
-    {"term": "das Fundbüro", "type": "Noun", "meaning_tr": "Kayıp eşya bürosu", "meaning_en": "lost and found", "meaning_uk": "бюро знахідок", "example": "Meine Tasche liegt im ***."},
-    {"term": "die Parfümerie", "type": "Noun", "meaning_tr": "Parfümeri", "meaning_en": "perfume shop", "meaning_uk": "парфумерія", "example": "Ich kaufe ein Geschenk in der ***."},
-    {"term": "das Erdgeschoss", "type": "Noun", "meaning_tr": "Giriş kat", "meaning_en": "ground floor", "meaning_uk": "перший поверх", "example": "Die Parfümerie ist im ***."},
-    {"term": "das Untergeschoss", "type": "Noun", "meaning_tr": "Bodrum katı", "meaning_en": "basement", "meaning_uk": "підвал", "example": "Das Lager ist im ***."},
-    {"term": "der Stock", "type": "Noun", "meaning_tr": "Kat", "meaning_en": "floor, level", "meaning_uk": "поверх", "example": "Wir wohnen im dritten ***."},
-    {"term": "anprobieren", "type": "Verb", "meaning_tr": "Denemek (giysi)", "meaning_en": "try on", "meaning_uk": "приміряти", "example": "Ich möchte die Schuhe ***."},
-    {"term": "die Größe", "type": "Noun", "meaning_tr": "Beden / Boyut", "meaning_en": "size", "meaning_uk": "розмір", "example": "Welche *** brauchen Sie?"},
-    {"term": "stehen", "type": "Verb", "meaning_tr": "Yakışmak", "meaning_en": "to suit", "meaning_uk": "личити", "example": "Das Kleid *** dir gut."},
-    {"term": "der Stoff", "type": "Noun", "meaning_tr": "Kumaş", "meaning_en": "fabric", "meaning_uk": "тканина", "example": "Der *** fühlt sich weich an."},
-    {"term": "die Qualität", "type": "Noun", "meaning_tr": "Kalite", "meaning_en": "quality", "meaning_uk": "якість", "example": "Die *** ist sehr gut."},
-    {"term": "passen", "type": "Verb", "meaning_tr": "Uygun olmak", "meaning_en": "to fit", "meaning_uk": "підходити", "example": "Die Hose *** perfekt."},
-    {"term": "der Verkäufer / die Verkäuferin", "type": "Noun", "meaning_tr": "Satıcı", "meaning_en": "seller", "meaning_uk": "продавець", "example": "Der *** hilft mir."},
-    {"term": "der Kunde / die Kundin", "type": "Noun", "meaning_tr": "Müşteri", "meaning_en": "customer", "meaning_uk": "клієнт", "example": "Der *** wartet an der Kasse."},
-    {"term": "die Anprobe", "type": "Noun", "meaning_tr": "Deneme (prova)", "meaning_en": "fitting", "meaning_uk": "примірка", "example": "Die *** ist dort links."},
-    {"term": "eng <-> weit", "type": "Adjective", "meaning_tr": "Dar <-> Geniş", "meaning_en": "tight <-> wide", "meaning_uk": "тісний <-> широкий", "example": "Die Hose ist zu ***."},
-    {"term": "der Pulli", "type": "Noun", "meaning_tr": "Kazak (kısa ad)", "meaning_en": "sweater", "meaning_uk": "светр", "example": "Der *** ist sehr bequem."},
-    {"term": "nachher", "type": "Adverb", "meaning_tr": "Daha sonra", "meaning_en": "later", "meaning_uk": "пізніше", "example": "Wir sprechen *** darüber."},
-    {"term": "die Klamotten", "type": "Noun", "meaning_tr": "Giysiler (günlük dil)", "meaning_en": "clothes (casual)", "meaning_uk": "одяг", "example": "Meine *** liegen im Schrank."},
-    {"term": "schick", "type": "Adjective", "meaning_tr": "Şık", "meaning_en": "stylish", "meaning_uk": "стильний", "example": "Das Outfit ist sehr ***."},
-    {"term": "doof", "type": "Adjective", "meaning_tr": "Saçma / Aptalca", "meaning_en": "stupid", "meaning_uk": "дурний", "example": "Die Idee ist echt ***."},
-    {"term": "auffallen", "type": "Verb", "meaning_tr": "Dikkat çekmek", "meaning_en": "stand out", "meaning_uk": "кидатися в очі", "example": "Mit dem Kleid wirst du ***."},
-    {"term": "skaten", "type": "Verb", "meaning_tr": "Kaykay yapmak", "meaning_en": "to skateboard", "meaning_uk": "кататися на скейті", "example": "Er geht am Wochenende ***."},
-    {"term": "der Turnschuh", "type": "Noun", "meaning_tr": "Spor ayakkabı", "meaning_en": "sports shoe", "meaning_uk": "кросівок", "example": "Ich trage bequeme ***."},
-    {"term": "Was für ein ...", "type": "Phrase", "meaning_tr": "Nasıl bir / Ne tür bir", "meaning_en": "what kind of", "meaning_uk": "який", "example": "*** Schuh suchst du?"},
-    {"term": "bestellen", "type": "Verb", "meaning_tr": "Sipariş etmek", "meaning_en": "to order", "meaning_uk": "замовляти", "example": "Ich möchte online ***."},
-    {"term": "elegant", "type": "Adjective", "meaning_tr": "Zarif / Şık", "meaning_en": "elegant", "meaning_uk": "елегантний", "example": "Das Kleid sieht *** aus."},
-    {"term": "unsicher", "type": "Adjective", "meaning_tr": "Emin olmayan / Güvensiz", "meaning_en": "insecure", "meaning_uk": "невпевнений", "example": "Er ist noch ***."},
-    {"term": "hellblond", "type": "Adjective", "meaning_tr": "Açık sarışın", "meaning_en": "light blond", "meaning_uk": "світло-русявий", "example": "Sie hat ***e Haare."},
-    {"term": "egal", "type": "Adjective", "meaning_tr": "Fark etmez / Önemsiz", "meaning_en": "doesn't matter", "meaning_uk": "байдуже", "example": "Die Farbe ist mir ***."},
-    {"term": "die Hauptsache", "type": "Noun", "meaning_tr": "En önemli şey", "meaning_en": "main thing", "meaning_uk": "головне", "example": "Die *** ist, dass es passt."},
-    {"term": "der Arbeitskollege / die Arbeitskollegin", "type": "Noun", "meaning_tr": "İş arkadaşı", "meaning_en": "colleague", "meaning_uk": "колега", "example": "Mein *** hilft mir oft."},
-    {"term": "bunt", "type": "Adjective", "meaning_tr": "Renkli", "meaning_en": "colorful", "meaning_uk": "барвистий", "example": "Die Socken sind ***."},
-    {"term": "würfeln", "type": "Verb", "meaning_tr": "Zar atmak", "meaning_en": "roll dice", "meaning_uk": "кидати кубик", "example": "Wir *** im Spiel."},
-    {"term": "die Schneiderei", "type": "Noun", "meaning_tr": "Terzi dükkanı", "meaning_en": "tailor shop", "meaning_uk": "кравець", "example": "Die *** ändert die Hose."},
-    {"term": "zusammenpassen", "type": "Verb", "meaning_tr": "Birbirine uymak", "meaning_en": "match", "meaning_uk": "пасувати", "example": "Schuhe und Hose *** gut."},
-    {"term": "gestreift", "type": "Adjective", "meaning_tr": "Çizgili", "meaning_en": "striped", "meaning_uk": "смугастий", "example": "Das T-Shirt ist ***."},
-    {"term": "kariert", "type": "Adjective", "meaning_tr": "Kareli / Ekose", "meaning_en": "checkered", "meaning_uk": "клітинчастий", "example": "Das Hemd ist ***."},
-    {"term": "der Beitrag", "type": "Noun", "meaning_tr": "Yazı / Katkı", "meaning_en": "post, contribution", "meaning_uk": "внесок", "example": "Sein *** war sehr gut."},
-    {"term": "das Forum", "type": "Noun", "meaning_tr": "Forum", "meaning_en": "forum", "meaning_uk": "форум", "example": "Ich schreibe im ***."},
-    {"term": "die Stellensuche", "type": "Noun", "meaning_tr": "İş arama", "meaning_en": "job search", "meaning_uk": "пошук роботи", "example": "Die *** ist anstrengend."},
-    {"term": "die Hilfe", "type": "Noun", "meaning_tr": "Yardım", "meaning_en": "help", "meaning_uk": "допомога", "example": "Danke für deine ***."},
-    {"term": "das Vorstellungsgespräch", "type": "Noun", "meaning_tr": "İş görüşmesi", "meaning_en": "job interview", "meaning_uk": "співбесіда", "example": "Morgen habe ich ein ***."},
-    {"term": "die Branche", "type": "Noun", "meaning_tr": "Branş / Sektör", "meaning_en": "industry", "meaning_uk": "галузь", "example": "Die IT-*** wächst."},
-    {"term": "das Job-Interview", "type": "Noun", "meaning_tr": "İş mülakatı", "meaning_en": "job interview", "meaning_uk": "співбесіда", "example": "Das *** war erfolgreich."},
-    {"term": "gepflegt", "type": "Adjective", "meaning_tr": "Bakımlı", "meaning_en": "well-groomed", "meaning_uk": "доглянутий", "example": "Er sieht sehr *** aus."},
-    {"term": "aussehen", "type": "Verb", "meaning_tr": "Görünmek", "meaning_en": "to look", "meaning_uk": "виглядати", "example": "Du *** müde."},
-    {"term": "die Erinnerung", "type": "Noun", "meaning_tr": "Anı / Hatıra", "meaning_en": "memory", "meaning_uk": "спогад", "example": "Das Foto ist eine ***."},
-    {"term": "die Vorsicht", "type": "Noun", "meaning_tr": "Dikkat / Tedbir", "meaning_en": "caution", "meaning_uk": "обережність", "example": "Bitte mit *** fahren."},
-    {"term": "verrückt", "type": "Adjective", "meaning_tr": "Çılgın / Deli", "meaning_en": "crazy", "meaning_uk": "божевільний", "example": "Die Idee ist ***."},
-    {"term": "blond", "type": "Adjective", "meaning_tr": "Sarı (saç)", "meaning_en": "blond", "meaning_uk": "білявий", "example": "Er ist ***."},
-    {"term": "achtjährig", "type": "Adjective", "meaning_tr": "Sekiz yaşında", "meaning_en": "eight-year-old", "meaning_uk": "восьмирічний", "example": "Mein Sohn ist ***."},
-    {"term": "der Ring", "type": "Noun", "meaning_tr": "Yüzük", "meaning_en": "ring", "meaning_uk": "каблучка", "example": "Der *** ist aus Gold."},
-    {"term": "das Make-up", "type": "Noun", "meaning_tr": "Makyaj", "meaning_en": "make-up", "meaning_uk": "макіяж", "example": "Sie trägt dezentes ***."},
-    {"term": "die Mode", "type": "Noun", "meaning_tr": "Moda", "meaning_en": "fashion", "meaning_uk": "мода", "example": "Die *** ändert sich."},
-    {"term": "der Schmuck", "type": "Noun", "meaning_tr": "Mücevher / Takı", "meaning_en": "jewelry", "meaning_uk": "прикраси", "example": "Sie liebt ***."},
-    {"term": "die Kosmetik", "type": "Noun", "meaning_tr": "Kozmetik", "meaning_en": "cosmetics", "meaning_uk": "косметика", "example": "Ich kaufe neue ***."},
-    {"term": "der Koffer", "type": "Noun", "meaning_tr": "Valiz / Bavul", "meaning_en": "suitcase", "meaning_uk": "валіза", "example": "Der *** ist schwer."},
-    {"term": "der Second-Hand-Laden", "type": "Noun", "meaning_tr": "İkinci el dükkanı", "meaning_en": "second-hand shop", "meaning_uk": "секонд-хенд", "example": "Ich kaufe dort ***."},
-    {"term": "das Schuhgeschäft", "type": "Noun", "meaning_tr": "Ayakkabı dükkanı", "meaning_en": "shoe shop", "meaning_uk": "взуттєвий магазин", "example": "Das *** ist gleich hier."}
+    {
+      "term": "die Kleidung",
+      "type": "Noun",
+      "meaning_tr": "Giysi - Kıyafetler",
+      "meaning_en": "clothing - apparel - garments",
+      "meaning_uk": "одяг - област одягу",
+      "example": "Im Winter brauche ich warme ***, sonst friere ich.",
+      "meaning_es": "ropa - vestimenta - prendas"
+    },
+    {
+      "term": "das Kleidungsstück",
+      "type": "Noun",
+      "meaning_tr": "Kıyafet parçası - Tek parça giysi",
+      "meaning_en": "item of clothing - garment",
+      "meaning_uk": "елемент одягу - предмет одягу",
+      "example": "Dieses *** ist sehr bequem.",
+      "meaning_es": "prenda de vestir - artículo de ropa"
+    },
+    {
+      "term": "der Anzug",
+      "type": "Noun",
+      "meaning_tr": "Takım elbise - Resmi takım",
+      "meaning_en": "suit - formal wear",
+      "meaning_uk": "костюм - формальний костюм",
+      "example": "Für das Vorstellungsgespräch trage ich einen ***.",
+      "meaning_es": "traje - demanda - vestimenta formal"
+    },
+    {
+      "term": "die Bluse",
+      "type": "Noun",
+      "meaning_tr": "Bluz - Kadın gömleği",
+      "meaning_en": "women's blouse - blouse",
+      "meaning_uk": "блюзка - жіноча сорочка",
+      "example": "Sie kauft eine neue *** fürs Büro.",
+      "meaning_es": "blusa - camisa de mujer"
+    },
+    {
+      "term": "der Gürtel",
+      "type": "Noun",
+      "meaning_tr": "Kemer - Bel kemeri",
+      "meaning_en": "belt - waist belt",
+      "meaning_uk": "ремінь - поясовий ремінь",
+      "example": "Meine Hose rutscht, ich brauche einen ***.",
+      "meaning_es": "cinturón - fajín"
+    },
+    {
+      "term": "das Hemd",
+      "type": "Noun",
+      "meaning_tr": "Gömlek - Erkek gömleği",
+      "meaning_en": "shirt - men's shirt",
+      "meaning_uk": "сорочка - чоловіча сорочка",
+      "example": "Zum Anzug ziehe ich ein weißes *** an.",
+      "meaning_es": "camisa - camisa de hombre"
+    },
+    {
+      "term": "die Hose",
+      "type": "Noun",
+      "meaning_tr": "Pantolon - Alt giysi",
+      "meaning_en": "trousers - pants",
+      "meaning_uk": "штани - брюки",
+      "example": "Diese *** ist mir zu eng.",
+      "meaning_es": "pantalones - pantalones largos"
+    },
+    {
+      "term": "die Jacke",
+      "type": "Noun",
+      "meaning_tr": "Ceket - Mont",
+      "meaning_en": "jacket - coat",
+      "meaning_uk": "куртка - жакет",
+      "example": "Nimm deine ***, es ist kalt.",
+      "meaning_es": "chaqueta - saco - abrigo corto"
+    },
+    {
+      "term": "das Jackett",
+      "type": "Noun",
+      "meaning_tr": "Ceket (Erkek) - Ceket",
+      "meaning_en": "men's jacket - blazer",
+      "meaning_uk": "піджак - чоловічий жакет",
+      "example": "Das *** passt gut zur Hose.",
+      "meaning_es": "saco - chaqueta de traje"
+    },
+    {
+      "term": "das Kleid",
+      "type": "Noun",
+      "meaning_tr": "Elbise - Kadın elbisesi",
+      "meaning_en": "dress - gown",
+      "meaning_uk": "сукня - вечірнё одяг",
+      "example": "Sie trägt ein schönes ***.",
+      "meaning_es": "vestido - traje (femenino)"
+    },
+    {
+      "term": "die Krawatte",
+      "type": "Noun",
+      "meaning_tr": "Kravat - Boyun bağı",
+      "meaning_en": "tie - necktie",
+      "meaning_uk": "краватка - шийний галстук",
+      "example": "Er bindet morgens seine ***.",
+      "meaning_es": "corbata - corbatín"
+    },
+    {
+      "term": "der Mantel",
+      "type": "Noun",
+      "meaning_tr": "Palto - Manto - Dış giysi",
+      "meaning_en": "coat - overcoat",
+      "meaning_uk": "пальто - довгий облекало",
+      "example": "Im Winter trage ich einen dicken ***.",
+      "meaning_es": "abrigo - sobretodo"
+    },
+    {
+      "term": "der Pullover",
+      "type": "Noun",
+      "meaning_tr": "Kazak - Üst giysi",
+      "meaning_en": "sweater - jumper",
+      "meaning_uk": "светр - воловка",
+      "example": "Dieser *** hält mich warm.",
+      "meaning_es": "suéter - jersey"
+    },
+    {
+      "term": "der Rock",
+      "type": "Noun",
+      "meaning_tr": "Etek - Kadın alt giysisi",
+      "meaning_en": "skirt",
+      "meaning_uk": "спідниця - жіночий низ",
+      "example": "Der *** ist heute sehr modern.",
+      "meaning_es": "falda - sayo"
+    },
+    {
+      "term": "die Socke",
+      "type": "Noun",
+      "meaning_tr": "Çorap - Ayak çorabı",
+      "meaning_en": "sock",
+      "meaning_uk": "шкарпетка - карпатка",
+      "example": "Ich finde meine zweite *** nicht.",
+      "meaning_es": "calcetín"
+    },
+    {
+      "term": "der Strumpf",
+      "type": "Noun",
+      "meaning_tr": "Uzun çorap - Jartiyer",
+      "meaning_en": "stocking - long sock",
+      "meaning_uk": "панчоха - високий чорок",
+      "example": "Im Winter trage ich warme ***.",
+      "meaning_es": "media - calcetín largo"
+    },
+    {
+      "term": "das T-Shirt",
+      "type": "Noun",
+      "meaning_tr": "Tişört - Tşört",
+      "meaning_en": "t-shirt",
+      "meaning_uk": "футболка - теніска",
+      "example": "Im Sommer trage ich oft ein ***.",
+      "meaning_es": "camiseta"
+    },
+    {
+      "term": "der BH",
+      "type": "Noun",
+      "meaning_tr": "Sütyen - Kadın iç çamaşırı",
+      "meaning_en": "bra - brassiere",
+      "meaning_uk": "бюстгальтер - бюстгальтер для жінок",
+      "example": "Sie kauft einen neuen ***.",
+      "meaning_es": "sujetador - sostén"
+    },
+    {
+      "term": "das Unterhemd",
+      "type": "Noun",
+      "meaning_tr": "Atlet - Fanila",
+      "meaning_en": "undershirt - vest",
+      "meaning_uk": "майка - підкотримка",
+      "example": "Im Winter ziehe ich ein *** an.",
+      "meaning_es": "camiseta interior - camisilla"
+    },
+    {
+      "term": "die Unterhose",
+      "type": "Noun",
+      "meaning_tr": "Külot - Çamaşır",
+      "meaning_en": "underpants - underwear",
+      "meaning_uk": "спідня білизна - панчохи",
+      "example": "Ich brauche saubere ***.",
+      "meaning_es": "calzoncillos - ropa interior"
+    },
+    {
+      "term": "der Schuh",
+      "type": "Noun",
+      "meaning_tr": "Ayakkabı",
+      "meaning_en": "shoe",
+      "meaning_uk": "взуття - взуття вмісто",
+      "example": "Dieser *** ist sehr bequem.",
+      "meaning_es": "zapato"
+    },
+    {
+      "term": "der Stiefel",
+      "type": "Noun",
+      "meaning_tr": "Çizme - Bot",
+      "meaning_en": "boot",
+      "meaning_uk": "чобіт - високий чобіт",
+      "example": "Bei Schnee trage ich ***.",
+      "meaning_es": "bota"
+    },
+    {
+      "term": "der Gummistiefel",
+      "type": "Noun",
+      "meaning_tr": "Lastik çizme - Yağmur çizmesi",
+      "meaning_en": "rubber boots - wellington boots",
+      "meaning_uk": "гумові чоботи - дощовики",
+      "example": "Bei Regen ziehe ich *** an.",
+      "meaning_es": "botas de goma - katiuskas"
+    },
+    {
+      "term": "der Handschuh",
+      "type": "Noun",
+      "meaning_tr": "Eldiven",
+      "meaning_en": "glove",
+      "meaning_uk": "рукавичка - берчатка",
+      "example": "Ich habe einen *** verloren.",
+      "meaning_es": "guante"
+    },
+    {
+      "term": "der Schal",
+      "type": "Noun",
+      "meaning_tr": "Atkı - Boyun atkısı",
+      "meaning_en": "scarf",
+      "meaning_uk": "шарф - шийний платок",
+      "example": "Im Winter trage ich einen ***.",
+      "meaning_es": "bufanda - pañuelo"
+    },
+    {
+      "term": "der Hut",
+      "type": "Noun",
+      "meaning_tr": "Şapka - Kasket",
+      "meaning_en": "hat",
+      "meaning_uk": "капелюх - шляпа",
+      "example": "Er trägt einen schwarzen ***.",
+      "meaning_es": "sombrero - gorra"
+    },
+    {
+      "term": "der Badeanzug",
+      "type": "Noun",
+      "meaning_tr": "Mayo - Yüzme forması",
+      "meaning_en": "swimsuit - bathing suit",
+      "meaning_uk": "купальник - плавчик",
+      "example": "Im Urlaub trage ich meinen ***.",
+      "meaning_es": "bañador - traje de baño"
+    },
+    {
+      "term": "die Badehose",
+      "type": "Noun",
+      "meaning_tr": "Deniz şortu - Yüzme şortusu",
+      "meaning_en": "swim shorts - swimming trunks",
+      "meaning_uk": "плавки - короткі для плавання",
+      "example": "Er kauft eine neue ***.",
+      "meaning_es": "bañador corto - calzoncillos de baño"
+    },
+    {
+      "term": "die Kette",
+      "type": "Noun",
+      "meaning_tr": "Kolye - Zincir",
+      "meaning_en": "necklace - chain",
+      "meaning_uk": "ланцюжок - ланцюг",
+      "example": "Die *** passt gut zum Kleid.",
+      "meaning_es": "collar - cadena"
+    },
+    {
+      "term": "der Schirm",
+      "type": "Noun",
+      "meaning_tr": "Şemsiye - Yağmurluk",
+      "meaning_en": "umbrella - parasol",
+      "meaning_uk": "парасоля - зонтик",
+      "example": "Es regnet, nimm einen *** mit.",
+      "meaning_es": "paraguas - sombrilla"
+    },
+    {
+      "term": "tragen",
+      "type": "Verb",
+      "meaning_tr": "Giymek - Taşımak - Kullanmak",
+      "meaning_en": "to wear - to carry - to bear",
+      "meaning_uk": "носити - перенести",
+      "example": "Ich *** heute neue Schuhe.",
+      "meaning_es": "llevar - usar - vestir"
+    },
+    {
+      "term": "anziehen",
+      "type": "Verb",
+      "meaning_tr": "Üzerine giymek - Giysiyi giymek",
+      "meaning_en": "to put on - to dress",
+      "meaning_uk": "одягати - одягнутися",
+      "example": "Zieh deine Jacke ***.",
+      "meaning_es": "ponerse - vestirse"
+    },
+    {
+      "term": "im Kaufhaus",
+      "type": "Phrase",
+      "meaning_tr": "Büyük mağazada - Mağaza içinde",
+      "meaning_en": "in department store - in the mall",
+      "meaning_uk": "у великому магазині - у торговому магазині",
+      "example": "Ich kaufe Kleidung gern ***.",
+      "meaning_es": "en grandes almacenes - en la tienda por departamentos"
+    },
+    {
+      "term": "die Orientierungstafel",
+      "type": "Noun",
+      "meaning_tr": "Yönlendirme tabelası - Yol göstergesi",
+      "meaning_en": "direction board - information panel",
+      "meaning_uk": "інформаційна табличка - вказатель напрямкування",
+      "example": "Auf der *** finde ich alle Abteilungen.",
+      "meaning_es": "panel de dirección - señalización"
+    },
+    {
+      "term": "die Damenmode",
+      "type": "Noun",
+      "meaning_tr": "Kadın modası - Bayan giyim",
+      "meaning_en": "women's fashion - ladies' wear",
+      "meaning_uk": "жіноча мода - жіночий одяг",
+      "example": "Diese Etage ist für ***.",
+      "meaning_es": "moda femenina - moda de señoras"
+    },
+    {
+      "term": "die Herrenmode",
+      "type": "Noun",
+      "meaning_tr": "Erkek modası - Bay giyim",
+      "meaning_en": "men's fashion - menswear",
+      "meaning_uk": "чоловіча мода - чоловічий одяг",
+      "example": "Die *** ist im zweiten Stock.",
+      "meaning_es": "moda masculina - moda de caballeros"
+    },
+    {
+      "term": "die Kinderabteilung",
+      "type": "Noun",
+      "meaning_tr": "Çocuk departmanı - Çocuk bölümü",
+      "meaning_en": "children's section - kids' department",
+      "meaning_uk": "дитячий відділ - дитячий відділ одягу",
+      "example": "Die *** ist ganz oben.",
+      "meaning_es": "sección infantil - departamento de niños"
+    },
+    {
+      "term": "die Unterwäsche",
+      "type": "Noun",
+      "meaning_tr": "İç çamaşırı - Çamaşır",
+      "meaning_en": "underwear - lingerie",
+      "meaning_uk": "спідня білизна - ніжня білизна",
+      "example": "Ich kaufe neue ***.",
+      "meaning_es": "ropa interior - lencería"
+    },
+    {
+      "term": "das Fundbüro",
+      "type": "Noun",
+      "meaning_tr": "Kayıp eşya bürosu - Buluntu eşya ofisi",
+      "meaning_en": "lost and found - lost property office",
+      "meaning_uk": "бюро знахідок - бюро знахід речей",
+      "example": "Meine Tasche liegt im ***.",
+      "meaning_es": "objetos perdidos - oficina de objetos extraviados"
+    },
+    {
+      "term": "die Parfümerie",
+      "type": "Noun",
+      "meaning_tr": "Parfümeri - Parfüm mağazası",
+      "meaning_en": "perfume shop - perfumery",
+      "meaning_uk": "парфумерія - магазин парфюмів",
+      "example": "Ich kaufe ein Geschenk in der ***.",
+      "meaning_es": "perfumería"
+    },
+    {
+      "term": "das Erdgeschoss",
+      "type": "Noun",
+      "meaning_tr": "Giriş kat - Zemin kat",
+      "meaning_en": "ground floor - street level",
+      "meaning_uk": "перший поверх - земляний поверх",
+      "example": "Die Parfümerie ist im ***.",
+      "meaning_es": "planta baja - nivel de la calle"
+    },
+    {
+      "term": "das Untergeschoss",
+      "type": "Noun",
+      "meaning_tr": "Bodrum katı - Zemin altı kat",
+      "meaning_en": "basement - cellar",
+      "meaning_uk": "підвал - підземельний поверх",
+      "example": "Das Lager ist im ***.",
+      "meaning_es": "sótano - semisótano"
+    },
+    {
+      "term": "der Stock",
+      "type": "Noun",
+      "meaning_tr": "Kat - Katman",
+      "meaning_en": "floor - level",
+      "meaning_uk": "поверх - рівень",
+      "example": "Wir wohnen im dritten ***.",
+      "meaning_es": "piso - planta"
+    },
+    {
+      "term": "anprobieren",
+      "type": "Verb",
+      "meaning_tr": "Denemek (giysi) - Ölçmek",
+      "meaning_en": "to try on - to fit",
+      "meaning_uk": "приміряти - приміряти одяг",
+      "example": "Ich möchte die Schuhe ***.",
+      "meaning_es": "probarse - medir"
+    },
+    {
+      "term": "die Größe",
+      "type": "Noun",
+      "meaning_tr": "Beden - Boyut - Numara",
+      "meaning_en": "size - measurement",
+      "meaning_uk": "розмір - розміри",
+      "example": "Welche *** brauchen Sie?",
+      "meaning_es": "talla - tamaño"
+    },
+    {
+      "term": "stehen",
+      "type": "Verb",
+      "meaning_tr": "Yakışmak - Uyumlu olmak",
+      "meaning_en": "to suit - to look good",
+      "meaning_uk": "личити - пасувати з возрастом",
+      "example": "Das Kleid *** dir gut.",
+      "meaning_es": "quedar bien - sentar bien"
+    },
+    {
+      "term": "der Stoff",
+      "type": "Noun",
+      "meaning_tr": "Kumaş - Materyal",
+      "meaning_en": "fabric - material",
+      "meaning_uk": "тканина - матеріал",
+      "example": "Der *** fühlt sich weich an.",
+      "meaning_es": "tela - tejido - material"
+    },
+    {
+      "term": "die Qualität",
+      "type": "Noun",
+      "meaning_tr": "Kalite - Nitelik",
+      "meaning_en": "quality",
+      "meaning_uk": "якість - якості",
+      "example": "Die *** ist sehr gut.",
+      "meaning_es": "calidad"
+    },
+    {
+      "term": "passen",
+      "type": "Verb",
+      "meaning_tr": "Uygun olmak - Tam gelmek",
+      "meaning_en": "to fit - to match",
+      "meaning_uk": "підходити - бути в порядку",
+      "example": "Die Hose *** perfekt.",
+      "meaning_es": "quedar - encajar - ser adecuado"
+    },
+    {
+      "term": "der Verkäufer / die Verkäuferin",
+      "type": "Noun",
+      "meaning_tr": "Satıcı - Satış görevlisi",
+      "meaning_en": "seller - salesperson",
+      "meaning_uk": "продавець - продавечиця",
+      "example": "Der *** hilft mir.",
+      "meaning_es": "vendedor - vendedora"
+    },
+    {
+      "term": "der Kunde / die Kundin",
+      "type": "Noun",
+      "meaning_tr": "Müşteri",
+      "meaning_en": "customer - client",
+      "meaning_uk": "клієнт - покупач",
+      "example": "Der *** wartet an der Kasse.",
+      "meaning_es": "cliente - clienta"
+    },
+    {
+      "term": "die Anprobe",
+      "type": "Noun",
+      "meaning_tr": "Deneme (prova) - Giysi deneme",
+      "meaning_en": "fitting - trial",
+      "meaning_uk": "примірка - приміркальний кімната",
+      "example": "Die *** ist dort links.",
+      "meaning_es": "probador - sesión de prueba"
+    },
+    {
+      "term": "eng <-> weit",
+      "type": "Adjective",
+      "meaning_tr": "Dar <-> Geniş - Sıkı <-> Bol",
+      "meaning_en": "tight <-> wide - narrow <-> loose",
+      "meaning_uk": "тісний <-> широкий - стягий <-> вільний",
+      "example": "Die Hose ist zu ***.",
+      "meaning_es": "apretado <-> ancho - estrecho <-> holgado"
+    },
+    {
+      "term": "der Pulli",
+      "type": "Noun",
+      "meaning_tr": "Kazak (kısa ad) - Svetör",
+      "meaning_en": "sweater - jumper (short form)",
+      "meaning_uk": "светр - короткий светер",
+      "example": "Der *** ist sehr bequem.",
+      "meaning_es": "jersey - suéter (forma corta)"
+    },
+    {
+      "term": "nachher",
+      "type": "Adverb",
+      "meaning_tr": "Daha sonra - Ardından",
+      "meaning_en": "later - afterwards",
+      "meaning_uk": "пізніше - після",
+      "example": "Wir sprechen *** darüber.",
+      "meaning_es": "después - más tarde"
+    },
+    {
+      "term": "die Klamotten",
+      "type": "Noun",
+      "meaning_tr": "Giysiler (günlük dil) - Pabuçlar",
+      "meaning_en": "clothes (casual) - gear",
+      "meaning_uk": "одяг - речі (повсякденний)",
+      "example": "Meine *** liegen im Schrank.",
+      "meaning_es": "ropa (coloquial) - prendas"
+    },
+    {
+      "term": "schick",
+      "type": "Adjective",
+      "meaning_tr": "Şık - Zarif",
+      "meaning_en": "stylish - chic - smart",
+      "meaning_uk": "стильний - елегантний",
+      "example": "Das Outfit ist sehr ***.",
+      "meaning_es": "elegante - con estilo"
+    },
+    {
+      "term": "doof",
+      "type": "Adjective",
+      "meaning_tr": "Saçma - Aptalca - Kötü",
+      "meaning_en": "stupid - silly - dumb",
+      "meaning_uk": "дурний - нелогичний",
+      "example": "Die Idee ist echt ***.",
+      "meaning_es": "tonto - estúpido - bobo"
+    },
+    {
+      "term": "auffallen",
+      "type": "Verb",
+      "meaning_tr": "Dikkat çekmek - Sürpriz yapmak",
+      "meaning_en": "stand out - attract attention",
+      "meaning_uk": "кидатися в очі - привлекати увагу",
+      "example": "Mit dem Kleid wirst du ***.",
+      "meaning_es": "llamar la atención - destacar"
+    },
+    {
+      "term": "skaten",
+      "type": "Verb",
+      "meaning_tr": "Kaykay yapmak - Paten kaymak",
+      "meaning_en": "to skateboard - to skate",
+      "meaning_uk": "кататися на скейті - кольоватися",
+      "example": "Er geht am Wochenende ***.",
+      "meaning_es": "patinar - montar en monopatín"
+    },
+    {
+      "term": "der Turnschuh",
+      "type": "Noun",
+      "meaning_tr": "Spor ayakkabı - Koşu ayakkabısı",
+      "meaning_en": "sports shoe - trainer",
+      "meaning_uk": "кросівок - спортивний взуття",
+      "example": "Ich trage bequeme ***.",
+      "meaning_es": "zapatilla deportiva - tenis"
+    },
+    {
+      "term": "Was für ein ...",
+      "type": "Phrase",
+      "meaning_tr": "Nasıl bir - Ne tür bir",
+      "meaning_en": "what kind of - what sort of",
+      "meaning_uk": "який - яког виду",
+      "example": "*** Schuh suchst du?",
+      "meaning_es": "¿Qué tipo de - Qué clase de"
+    },
+    {
+      "term": "bestellen",
+      "type": "Verb",
+      "meaning_tr": "Sipariş etmek - Emretmek",
+      "meaning_en": "to order - to command",
+      "meaning_uk": "замовляти - замовляти замовлення",
+      "example": "Ich möchte online ***.",
+      "meaning_es": "pedir - ordenar - encargar"
+    },
+    {
+      "term": "elegant",
+      "type": "Adjective",
+      "meaning_tr": "Zarif - Şık - Gösterişli",
+      "meaning_en": "elegant - stylish",
+      "meaning_uk": "елегантний - стильний",
+      "example": "Das Kleid sieht *** aus.",
+      "meaning_es": "elegante - refinado"
+    },
+    {
+      "term": "unsicher",
+      "type": "Adjective",
+      "meaning_tr": "Emin olmayan - Güvensiz - Belirsiz",
+      "meaning_en": "insecure - uncertain - unsure",
+      "meaning_uk": "невпевнений - невпевний у себе",
+      "example": "Er ist noch ***.",
+      "meaning_es": "inseguro - incierto"
+    },
+    {
+      "term": "hellblond",
+      "type": "Adjective",
+      "meaning_tr": "Açık sarışın - Platin sarısı",
+      "meaning_en": "light blond - platinum blond",
+      "meaning_uk": "світло-русявий - світлий блонд",
+      "example": "Sie hat ***e Haare.",
+      "meaning_es": "rubio claro - rubio platino"
+    },
+    {
+      "term": "egal",
+      "type": "Adjective",
+      "meaning_tr": "Fark etmez - Önemsiz - Fark etmiyor",
+      "meaning_en": "doesn't matter - indifferent",
+      "meaning_uk": "байдуже - немає значення",
+      "example": "Die Farbe ist mir ***.",
+      "meaning_es": "da igual - no importa"
+    },
+    {
+      "term": "die Hauptsache",
+      "type": "Noun",
+      "meaning_tr": "En önemli şey - Ana konu",
+      "meaning_en": "main thing - principal matter",
+      "meaning_uk": "головне - основное",
+      "example": "Die *** ist, dass es passt.",
+      "meaning_es": "lo principal - lo más importante"
+    },
+    {
+      "term": "der Arbeitskollege / die Arbeitskollegin",
+      "type": "Noun",
+      "meaning_tr": "İş arkadaşı - Meslektaş",
+      "meaning_en": "colleague - coworker",
+      "meaning_uk": "колега - співробітник",
+      "example": "Mein *** hilft mir oft.",
+      "meaning_es": "colega - compañero de trabajo"
+    },
+    {
+      "term": "bunt",
+      "type": "Adjective",
+      "meaning_tr": "Renkli - Çok renkli",
+      "meaning_en": "colorful - multi-colored",
+      "meaning_uk": "барвистий - різноколірний",
+      "example": "Die Socken sind ***.",
+      "meaning_es": "colorido - vistoso"
+    },
+    {
+      "term": "würfeln",
+      "type": "Verb",
+      "meaning_tr": "Zar atmak - Zar oynamak",
+      "meaning_en": "roll dice - gamble",
+      "meaning_uk": "кидати кубик - грати в кості",
+      "example": "Wir *** im Spiel.",
+      "meaning_es": "tirar los dados - jugar a los dados"
+    },
+    {
+      "term": "die Schneiderei",
+      "type": "Noun",
+      "meaning_tr": "Terzi dükkanı - Terzi",
+      "meaning_en": "tailor shop - tailor's",
+      "meaning_uk": "кравець - швейна мастерня",
+      "example": "Die *** ändert die Hose.",
+      "meaning_es": "sastrería"
+    },
+    {
+      "term": "zusammenpassen",
+      "type": "Verb",
+      "meaning_tr": "Birbirine uymak - Uyum sağlamak",
+      "meaning_en": "match - go well together",
+      "meaning_uk": "пасувати - підходити разом",
+      "example": "Schuhe und Hose *** gut.",
+      "meaning_es": "combinar - hacer juego"
+    },
+    {
+      "term": "gestreift",
+      "type": "Adjective",
+      "meaning_tr": "Çizgili - Bantlı",
+      "meaning_en": "striped",
+      "meaning_uk": "смугастий - в смугах",
+      "example": "Das T-Shirt ist ***.",
+      "meaning_es": "a rayas"
+    },
+    {
+      "term": "kariert",
+      "type": "Adjective",
+      "meaning_tr": "Kareli - Ekose",
+      "meaning_en": "checkered - plaid",
+      "meaning_uk": "клітинчастий - в клітинки",
+      "example": "Das Hemd ist ***.",
+      "meaning_es": "a cuadros - cuadriculado"
+    },
+    {
+      "term": "der Beitrag",
+      "type": "Noun",
+      "meaning_tr": "Yazı - Katkı - Mesaj",
+      "meaning_en": "post - contribution",
+      "meaning_uk": "внесок - доповнення",
+      "example": "Sein *** war sehr gut.",
+      "meaning_es": "publicación - contribución"
+    },
+    {
+      "term": "das Forum",
+      "type": "Noun",
+      "meaning_tr": "Forum - Tartışma platformu",
+      "meaning_en": "forum - discussion board",
+      "meaning_uk": "форум - обговорення",
+      "example": "Ich schreibe im ***.",
+      "meaning_es": "foro - tablón de anuncios"
+    },
+    {
+      "term": "die Stellensuche",
+      "type": "Noun",
+      "meaning_tr": "İş arama - Kariyer arayışı",
+      "meaning_en": "job search - employment search",
+      "meaning_uk": "пошук роботи - пошук працевлаштування",
+      "example": "Die *** ist anstrengend.",
+      "meaning_es": "búsqueda de empleo"
+    },
+    {
+      "term": "die Hilfe",
+      "type": "Noun",
+      "meaning_tr": "Yardım - Destek",
+      "meaning_en": "help - assistance",
+      "meaning_uk": "допомога - підтримка",
+      "example": "Danke für deine ***.",
+      "meaning_es": "ayuda - asistencia"
+    },
+    {
+      "term": "das Vorstellungsgespräch",
+      "type": "Noun",
+      "meaning_tr": "İş görüşmesi - Mülakat",
+      "meaning_en": "job interview - interview",
+      "meaning_uk": "співбесіда - субесіда про роботу",
+      "example": "Morgen habe ich ein ***.",
+      "meaning_es": "entrevista de trabajo - entrevista"
+    },
+    {
+      "term": "die Branche",
+      "type": "Noun",
+      "meaning_tr": "Branş - Sektör",
+      "meaning_en": "industry - sector",
+      "meaning_uk": "галузь - сектор",
+      "example": "Die IT-*** wächst.",
+      "meaning_es": "industria - sector"
+    },
+    {
+      "term": "das Job-Interview",
+      "type": "Noun",
+      "meaning_tr": "İş mülakatı - Mülakat",
+      "meaning_en": "job interview",
+      "meaning_uk": "співбесіда за роботу",
+      "example": "Das *** war erfolgreich.",
+      "meaning_es": "entrevista de trabajo"
+    },
+    {
+      "term": "gepflegt",
+      "type": "Adjective",
+      "meaning_tr": "Bakımlı - Özenli",
+      "meaning_en": "well-groomed - neat",
+      "meaning_uk": "доглянутий - охайний",
+      "example": "Er sieht sehr *** aus.",
+      "meaning_es": "bien cuidado - aseado"
+    },
+    {
+      "term": "aussehen",
+      "type": "Verb",
+      "meaning_tr": "Görünmek - Çalışmak",
+      "meaning_en": "to look - to appear",
+      "meaning_uk": "виглядати - глядетися",
+      "example": "Du *** müde.",
+      "meaning_es": "verse - tener aspecto"
+    },
+    {
+      "term": "die Erinnerung",
+      "type": "Noun",
+      "meaning_tr": "Anı - Hatıra - Hafıza",
+      "meaning_en": "memory - recollection",
+      "meaning_uk": "спогад - пам'ять",
+      "example": "Das Foto ist eine ***.",
+      "meaning_es": "recuerdo - memoria"
+    },
+    {
+      "term": "die Vorsicht",
+      "type": "Noun",
+      "meaning_tr": "Dikkat - Tedbir - Dikkatli olma",
+      "meaning_en": "caution - care",
+      "meaning_uk": "обережність - осторожність",
+      "example": "Bitte mit *** fahren.",
+      "meaning_es": "precaución - cuidado"
+    },
+    {
+      "term": "verrückt",
+      "type": "Adjective",
+      "meaning_tr": "Çılgın - Deli - Manyak",
+      "meaning_en": "crazy - mad",
+      "meaning_uk": "божевільний - божевомний",
+      "example": "Die Idee ist ***.",
+      "meaning_es": "loco - chiflado - demente"
+    },
+    {
+      "term": "blond",
+      "type": "Adjective",
+      "meaning_tr": "Sarı (saç) - Sarışın",
+      "meaning_en": "blond - fair-haired",
+      "meaning_uk": "білявий - світловолосий",
+      "example": "Er ist ***.",
+      "meaning_es": "rubio - rubia"
+    },
+    {
+      "term": "achtjährig",
+      "type": "Adjective",
+      "meaning_tr": "Sekiz yaşında - Sekiz yıllık",
+      "meaning_en": "eight-year-old",
+      "meaning_uk": "восьмирічний",
+      "example": "Mein Sohn ist ***.",
+      "meaning_es": "de ocho años"
+    },
+    {
+      "term": "der Ring",
+      "type": "Noun",
+      "meaning_tr": "Yüzük - Yüzükle",
+      "meaning_en": "ring",
+      "meaning_uk": "каблучка - кольцо",
+      "example": "Der *** ist aus Gold.",
+      "meaning_es": "anillo - sortija"
+    },
+    {
+      "term": "das Make-up",
+      "type": "Noun",
+      "meaning_tr": "Makyaj - Kozmetik",
+      "meaning_en": "make-up - cosmetics",
+      "meaning_uk": "макіяж - косметика",
+      "example": "Sie trägt dezentes ***.",
+      "meaning_es": "maquillaje"
+    },
+    {
+      "term": "die Mode",
+      "type": "Noun",
+      "meaning_tr": "Moda - Trend",
+      "meaning_en": "fashion - style",
+      "meaning_uk": "мода - стиль",
+      "example": "Die *** ändert sich.",
+      "meaning_es": "moda - estilo"
+    },
+    {
+      "term": "der Schmuck",
+      "type": "Noun",
+      "meaning_tr": "Mücevher - Takı - Süs",
+      "meaning_en": "jewelry - ornaments",
+      "meaning_uk": "прикраси - прибори",
+      "example": "Sie liebt ***.",
+      "meaning_es": "joyería - adornos"
+    },
+    {
+      "term": "die Kosmetik",
+      "type": "Noun",
+      "meaning_tr": "Kozmetik - Güzellik ürünleri",
+      "meaning_en": "cosmetics - beauty products",
+      "meaning_uk": "косметика - засоби для красоти",
+      "example": "Ich kaufe neue ***.",
+      "meaning_es": "cosméticos"
+    },
+    {
+      "term": "der Koffer",
+      "type": "Noun",
+      "meaning_tr": "Valiz - Bavul",
+      "meaning_en": "suitcase - trunk",
+      "meaning_uk": "валіза - чемодан",
+      "example": "Der *** ist schwer.",
+      "meaning_es": "maleta"
+    },
+    {
+      "term": "der Second-Hand-Laden",
+      "type": "Noun",
+      "meaning_tr": "İkinci el dükkanı - Bit pazarları",
+      "meaning_en": "second-hand shop - thrift store",
+      "meaning_uk": "секонд-хенд - магазин ввторичної руки",
+      "example": "Ich kaufe dort ***.",
+      "meaning_es": "tienda de segunda mano - baratillo"
+    },
+    {
+      "term": "das Schuhgeschäft",
+      "type": "Noun",
+      "meaning_tr": "Ayakkabı dükkanı - Ayakkabı mağazası",
+      "meaning_en": "shoe shop - shoe store",
+      "meaning_uk": "взуттєвий магазин",
+      "example": "Das *** ist gleich hier.",
+      "meaning_es": "zapatería"
+    }
   ]
 }

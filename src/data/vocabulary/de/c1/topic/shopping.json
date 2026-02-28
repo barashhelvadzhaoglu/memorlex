@@ -1,0 +1,528 @@
+{
+  "title": "Einkaufen & Geld C1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Kaufkraft",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "satın alma gücü",
+      "meaning_en": "purchasing power",
+      "meaning_uk": "купівельна спроможність",
+      "meaning_es": "poder adquisitivo",
+      "example": "Die hohe Inflation mindert die Kaufkraft der Bürger. ***"
+    },
+    {
+      "term": "das Konsumverhalten",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "tüketim davranışı",
+      "meaning_en": "consumer behavior",
+      "meaning_uk": "споживча поведінка",
+      "meaning_es": "comportamiento del consumidor",
+      "example": "Das veränderte Konsumverhalten nach der Krise ist bemerkenswert. ***"
+    },
+    {
+      "term": "die Preisbindung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "fiyat sabitleme",
+      "meaning_en": "price fixing / fixed pricing",
+      "meaning_uk": "фіксування ціни",
+      "meaning_es": "fijación de precios",
+      "example": "In manchen Branchen herrscht eine strenge Preisbindung. ***"
+    },
+    {
+      "term": "der Discounter",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "indirim mağazası",
+      "meaning_en": "discount store",
+      "meaning_uk": "дискаунтер",
+      "meaning_es": "tienda de descuento",
+      "example": "Ich kaufe meine Grundnahrungsmittel meistens beim Discounter. ***"
+    },
+    {
+      "term": "die Warenhauskette",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "department store zinciri",
+      "meaning_en": "department store chain",
+      "meaning_uk": "мережа універмагів",
+      "meaning_es": "cadena de grandes almacenes",
+      "example": "Die Schließung der bekannten Warenhauskette sorgte für Aufsehen. ***"
+    },
+    {
+      "term": "die Rabattaktion",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "indirim kampanyası",
+      "meaning_en": "discount campaign / special offer",
+      "meaning_uk": "акція знижок",
+      "meaning_es": "campaña de descuentos",
+      "example": "Wegen der aktuellen Rabattaktion habe ich viel mehr gekauft als geplant. ***"
+    },
+    {
+      "term": "der Gutschein",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "kupon",
+      "meaning_en": "voucher / coupon",
+      "meaning_uk": "купон",
+      "meaning_es": "vale / cupón",
+      "example": "Kann ich diesen Gutschein auch online einlösen? ***"
+    },
+    {
+      "term": "die Quittung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "fiş",
+      "meaning_en": "receipt",
+      "meaning_uk": "квитанція",
+      "meaning_es": "recibo",
+      "example": "Heben Sie die Quittung gut auf, falls Sie den Artikel umtauschen möchten. ***"
+    },
+    {
+      "term": "die Rückgabefrist",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "iade süresi",
+      "meaning_en": "return period",
+      "meaning_uk": "термін повернення",
+      "meaning_es": "plazo de devolución",
+      "example": "Die Rückgabefrist für Elektronikartikel beträgt nur 14 Tage. ***"
+    },
+    {
+      "term": "der Umtausch",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "değişim, iade",
+      "meaning_en": "exchange",
+      "meaning_uk": "обмін",
+      "meaning_es": "cambio",
+      "example": "Ein Umtausch ist nur gegen Vorlage des Originalbelegs möglich. ***"
+    },
+    {
+      "term": "die Lieferschwierigkeiten",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "tedarik zorlukları",
+      "meaning_en": "supply difficulties",
+      "meaning_uk": "проблеми з постачанням",
+      "meaning_es": "dificultades de suministro",
+      "example": "Wegen globaler Engpässe gibt es derzeit erhebliche Lieferschwierigkeiten. ***"
+    },
+    {
+      "term": "die Monopolstellung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "tekel konumu",
+      "meaning_en": "monopoly position",
+      "meaning_uk": "монопольне становище",
+      "meaning_es": "situación de monopolio",
+      "example": "Der Konzern genießt eine fast unangefochtene Monopolstellung auf diesem Markt. ***"
+    },
+    {
+      "term": "der Wettbewerbsvorteil",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "rekabet avantajı",
+      "meaning_en": "competitive advantage",
+      "meaning_uk": "конкурентна перевага",
+      "meaning_es": "ventaja competitiva",
+      "example": "Durch Innovation sichert sich das Unternehmen einen klaren Wettbewerbsvorteil. ***"
+    },
+    {
+      "term": "die Wertschöpfungskette",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "değer yaratma zinciri",
+      "meaning_en": "value chain",
+      "meaning_uk": "ланцюг створення вартості",
+      "meaning_es": "cadena de valor",
+      "example": "Die Globalisierung hat die Wertschöpfungskette vieler Industrien verändert. ***"
+    },
+    {
+      "term": "die Subvention",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "sübvansiyon, destek",
+      "meaning_en": "subsidy",
+      "meaning_uk": "субсидія",
+      "meaning_es": "subvención",
+      "example": "Die Regierung plant höhere Subventionen für erneuerbare Energien. ***"
+    },
+    {
+      "term": "die Abgabe",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "vergi, harç",
+      "meaning_en": "levy / excise duty",
+      "meaning_uk": "податок / збір",
+      "meaning_es": "tasa / impuesto especial",
+      "example": "Auf diese Produkte wird eine spezielle Öko-Abgabe erhoben. ***"
+    },
+    {
+      "term": "die Steuererklärung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "vergi beyannamesi",
+      "meaning_en": "tax return",
+      "meaning_uk": "податкова декларація",
+      "meaning_es": "declaración de impuestos",
+      "example": "Ich muss die Steuererklärung bis Ende Juli einreichen. ***"
+    },
+    {
+      "term": "die Rückerstattung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "geri ödeme",
+      "meaning_en": "refund",
+      "meaning_uk": "відшкодування",
+      "meaning_es": "reembolso",
+      "example": "Nach der Prüfung erhalte ich hoffentlich die zu viel gezahlten Steuern zurück. ***"
+    },
+    {
+      "term": "der Zinssatz",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "faiz oranı",
+      "meaning_en": "interest rate",
+      "meaning_uk": "відсоткова ставка",
+      "meaning_es": "tipo de interés",
+      "example": "Die Zentralbank hat den Zinssatz erneut angehoben. ***"
+    },
+    {
+      "term": "die Bonität",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kredi uygunluğu, ödeme gücü",
+      "meaning_en": "creditworthiness",
+      "meaning_uk": "кредитоспроможність",
+      "meaning_es": "solvencia",
+      "example": "Seine schlechte Bonität erschwert es ihm, einen Kredit zu bekommen. ***"
+    },
+    {
+      "term": "die Tilgung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "borç ödemesi, itfa",
+      "meaning_en": "redemption / repayment of a loan",
+      "meaning_uk": "погашення (боргу)",
+      "meaning_es": "amortización",
+      "example": "Wir müssen die monatliche Rate für die Tilgung des Darlehens pünktlich überweisen. ***"
+    },
+    {
+      "term": "die Überschuldung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "aşırı borçlanma",
+      "meaning_en": "over-indebtedness",
+      "meaning_uk": "надмірна заборгованість",
+      "meaning_es": "sobreendeudamiento",
+      "example": "Experten warnen vor einer drohenden Überschuldung vieler Haushalte. ***"
+    },
+    {
+      "term": "die Staatsverschuldung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "devlet borcu",
+      "meaning_en": "national debt",
+      "meaning_uk": "державний борг",
+      "meaning_es": "deuda pública",
+      "example": "Die Staatsverschuldung ist in den letzten Jahren rapide angestiegen. ***"
+    },
+    {
+      "term": "die Bilanz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "bilanço",
+      "meaning_en": "balance sheet",
+      "meaning_uk": "баланс",
+      "meaning_es": "balance",
+      "example": "Die Bilanz des Unternehmens für das letzte Quartal ist positiv ausgefallen. ***"
+    },
+    {
+      "term": "der Jahresüberschuss",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "yıllık kâr fazlası",
+      "meaning_en": "annual surplus / net profit",
+      "meaning_uk": "річний надлишок",
+      "meaning_es": "superávit anual",
+      "example": "Trotz schwieriger Märkte konnte der Konzern einen hohen Jahresüberschuss erzielen. ***"
+    },
+    {
+      "term": "die Insolvenz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "iflas",
+      "meaning_en": "insolvency / bankruptcy",
+      "meaning_uk": "неплатоспроможність / банкрутство",
+      "meaning_es": "insolvencia / quiebra",
+      "example": "Nach langem Kampf musste die Firma Insolvenz anmelden. ***"
+    },
+    {
+      "term": "die Pleite",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "iflas",
+      "meaning_en": "bust / bankruptcy (colloquial)",
+      "meaning_uk": "крах / банкрутство",
+      "meaning_es": "quiebra",
+      "example": "Viele Kleinunternehmen sind nach der Krise pleite gegangen. ***"
+    },
+    {
+      "term": "der Aktienmarkt",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "borsa",
+      "meaning_en": "stock market",
+      "meaning_uk": "фондовий ринок",
+      "meaning_es": "mercado de valores",
+      "example": "Die Turbulenzen am Aktienmarkt sorgen für Nervosität bei den Anlegern. ***"
+    },
+    {
+      "term": "die Spekulation",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "spekülasyon",
+      "meaning_en": "speculation",
+      "meaning_uk": "спекуляція",
+      "meaning_es": "especulación",
+      "example": "Finanzexperten raten von hochriskanten Spekulationen ab. ***"
+    },
+    {
+      "term": "die Währungsabwertung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "para biriminin değer kaybetmesi",
+      "meaning_en": "currency devaluation",
+      "meaning_uk": "знецінення валюти",
+      "meaning_es": "devaluación de la moneda",
+      "example": "Die Währungsabwertung macht Importe deutlich teurer. ***"
+    },
+    {
+      "term": "die Inflationsrate",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "enflasyon oranı",
+      "meaning_en": "inflation rate",
+      "meaning_uk": "рівень інфляції",
+      "meaning_es": "tasa de inflación",
+      "example": "Die Inflationsrate hat im letzten Monat einen Höchststand erreicht. ***"
+    },
+    {
+      "term": "die Deflation",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "deflasyon",
+      "meaning_en": "deflation",
+      "meaning_uk": "дефляція",
+      "meaning_es": "deflación",
+      "example": "Eine anhaltende Deflation kann zu Wirtschaftsstagnation führen. ***"
+    },
+    {
+      "term": "das Haushaltsdefizit",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "bütçe açığı",
+      "meaning_en": "budget deficit",
+      "meaning_uk": "бюджетний дефіцит",
+      "meaning_es": "déficit presupuestario",
+      "example": "Der Staat versucht, das Haushaltsdefizit durch Sparmaßnahmen zu reduzieren. ***"
+    },
+    {
+      "term": "der Spitzensteuersatz",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "en yüksek vergi oranı",
+      "meaning_en": "top tax rate",
+      "meaning_uk": "найвища податкова ставка",
+      "meaning_es": "tipo impositivo máximo",
+      "example": "Die Diskussion um die Anhebung des Spitzensteuersatzes ist eröffnet. ***"
+    },
+    {
+      "term": "die Besteuerung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "vergilendirme",
+      "meaning_en": "taxation",
+      "meaning_uk": "оподаткування",
+      "meaning_es": "tributación",
+      "example": "Experten fordern eine gerechtere Besteuerung von Kapitalerträgen. ***"
+    },
+    {
+      "term": "die Vermögenssteuer",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "servet vergisi",
+      "meaning_en": "wealth tax",
+      "meaning_uk": "податок на багатство",
+      "meaning_es": "impuesto sobre el patrimonio",
+      "example": "Die Einführung einer Vermögenssteuer wird kontrovers diskutiert. ***"
+    },
+    {
+      "term": "die Mehrwertsteuer (MwSt.)",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "katma değer vergisi (KDV)",
+      "meaning_en": "Value Added Tax (VAT)",
+      "meaning_uk": "податок на додану вартість (ПДВ)",
+      "meaning_es": "Impuesto sobre el Valor Añadido (IVA)",
+      "example": "Der ermäßigte Satz der Mehrwertsteuer gilt für Lebensmittel. ***"
+    },
+    {
+      "term": "der Mindestlohn",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "asgari ücret",
+      "meaning_en": "minimum wage",
+      "meaning_uk": "мінімальна заробітна плата",
+      "meaning_es": "salario mínimo",
+      "example": "Die Anhebung des Mindestlohns war ein zentrales politisches Versprechen. ***"
+    },
+    {
+      "term": "die Lohnerhöhung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "maaş artışı",
+      "meaning_en": "wage increase",
+      "meaning_uk": "підвищення заробітної плати",
+      "meaning_es": "aumento salarial",
+      "example": "Nach langen Verhandlungen gab es eine geringfügige Lohnerhöhung. ***"
+    },
+    {
+      "term": "die Tarifverhandlungen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "toplu sözleşme görüşmeleri",
+      "meaning_en": "collective bargaining negotiations",
+      "meaning_uk": "колективні переговори",
+      "meaning_es": "negociaciones colectivas",
+      "example": "Die Gewerkschaft forderte bei den Tarifverhandlungen mehr Urlaubstage. ***"
+    },
+    {
+      "term": "die Konjunkturbelebung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "ekonomik canlanma",
+      "meaning_en": "economic upswing / revitalization",
+      "meaning_uk": "економічне пожвавлення",
+      "meaning_es": "reactivación económica",
+      "example": "Die Regierung hofft auf eine baldige Konjunkturbelebung nach der Flaute. ***"
+    },
+    {
+      "term": "der Konjunkturzyklus",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "iş döngüsü",
+      "meaning_en": "economic cycle",
+      "meaning_uk": "економічний цикл",
+      "meaning_es": "ciclo económico",
+      "example": "Wir befinden uns momentan am Ende eines langen Konjunkturzyklus. ***"
+    },
+    {
+      "term": "die Rezession",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "resesyon",
+      "meaning_en": "recession",
+      "meaning_uk": "рецесія",
+      "meaning_es": "recesión",
+      "example": "Die meisten Ökonomen befürchten eine bevorstehende Rezession. ***"
+    },
+    {
+      "term": "die Stagflation",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "stagflasyon",
+      "meaning_en": "stagflation",
+      "meaning_uk": "стагфляція",
+      "meaning_es": "estanflación",
+      "example": "Das schwierige Szenario der Stagflation macht die Zentralbankpolitik kompliziert. ***"
+    },
+    {
+      "term": "die Spekulationsblase",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "spekülasyon balonu",
+      "meaning_en": "speculative bubble",
+      "meaning_uk": "спекулятивна бульбашка",
+      "meaning_es": "burbuja especulativa",
+      "example": "Der Zusammenbruch der Dotcom-Blase war das Platzen einer riesigen Spekulationsblase. ***"
+    },
+    {
+      "term": "die Anleger",
+      "type": "Substantiv, maskulin (Plural)",
+      "meaning_tr": "yatırımcılar",
+      "meaning_en": "investors",
+      "meaning_uk": "інвестори",
+      "meaning_es": "inversores",
+      "example": "Die Anleger reagieren empfindlich auf jede negative Nachricht. ***"
+    },
+    {
+      "term": "die Rendite",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "getiri",
+      "meaning_en": "yield / return (on investment)",
+      "meaning_uk": "прибутковість / дохідність",
+      "meaning_es": "rendimiento",
+      "example": "Obwohl das Risiko hoch ist, verspricht diese Anlage eine hohe Rendite. ***"
+    },
+    {
+      "term": "der Vermögensaufbau",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "servet birikimi",
+      "meaning_en": "wealth accumulation",
+      "meaning_uk": "накопичення активів",
+      "meaning_es": "creación de patrimonio",
+      "example": "Regelmäßiges Sparen ist der Schlüssel zum langfristigen Vermögensaufbau. ***"
+    },
+    {
+      "term": "die Sparquote",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "tasarruf oranı",
+      "meaning_en": "saving rate",
+      "meaning_uk": "норма заощаджень",
+      "meaning_es": "tasa de ahorro",
+      "example": "Die sinkende Sparquote in der Bevölkerung bereitet den Ökonomen Sorgen. ***"
+    },
+    {
+      "term": "die Kreditaufnahme",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kredi çekme",
+      "meaning_en": "taking out a loan",
+      "meaning_uk": "отримання кредиту",
+      "meaning_es": "obtención de crédito",
+      "example": "Die hohe Kreditaufnahme privater Haushalte ist besorgniserregend. ***"
+    },
+    {
+      "term": "die Verschuldungsgrenze",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "borçlanma sınırı",
+      "meaning_en": "debt ceiling / debt limit",
+      "meaning_uk": "межа боргу",
+      "meaning_es": "techo de deuda",
+      "example": "Die Verhandlungen über die Verschuldungsgrenze stehen kurz vor dem Abschluss. ***"
+    },
+    {
+      "term": "der Warenkorb",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "alışveriş sepeti",
+      "meaning_en": "shopping basket (for price indices)",
+      "meaning_uk": "споживчий кошик",
+      "meaning_es": "cesta de la compra",
+      "example": "Die Preisentwicklung wird anhand eines repräsentativen Warenkorbs gemessen. ***"
+    },
+    {
+      "term": "die Preisschwankung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "fiyat dalgalanması",
+      "meaning_en": "price fluctuation",
+      "meaning_uk": "коливання ціни",
+      "meaning_es": "fluctuación de precios",
+      "example": "Aufgrund der Ernteausfälle kam es zu starken Preisschwankungen bei Gemüse. ***"
+    },
+    {
+      "term": "der Wuchermarkt",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "fahiş fiyat piyasası",
+      "meaning_en": "profiteering market",
+      "meaning_uk": "ринок спекулятивних цін",
+      "meaning_es": "mercado de usura",
+      "example": "In Krisenzeiten entstehen oft illegale Wuchermärkte für lebenswichtige Güter. ***"
+    },
+    {
+      "term": "die Preiskalkulation",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "fiyat hesaplaması",
+      "meaning_en": "price calculation",
+      "meaning_uk": "калькуляція цін",
+      "meaning_es": "cálculo de precios",
+      "example": "Eine genaue Preiskalkulation ist für die Rentabilität entscheidend. ***"
+    },
+    {
+      "term": "die Verhandlungsmacht",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "pazarlık gücü",
+      "meaning_en": "bargaining power",
+      "meaning_uk": "сила переговорів",
+      "meaning_es": "poder de negociación",
+      "example": "Als Einzelkunde hat man oft eine geringere Verhandlungsmacht als große Konzerne. ***"
+    },
+    {
+      "term": "der Zahlungsverkehr",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "ödeme trafiği",
+      "meaning_en": "payment transactions",
+      "meaning_uk": "платіжний обіг",
+      "meaning_es": "tráfico de pagos",
+      "example": "Die Einführung des digitalen Euro soll den grenzüberschreitenden Zahlungsverkehr vereinfachen. ***"
+    },
+    {
+      "term": "die Bargeldlosigkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "nakitsizlik",
+      "meaning_en": "cashlessness",
+      "meaning_uk": "безготівковість",
+      "meaning_es": "ausencia de efectivo",
+      "example": "Die zunehmende Bargeldlosigkeit wirft Fragen zum Datenschutz auf. ***"
+    }
+  ]
+}

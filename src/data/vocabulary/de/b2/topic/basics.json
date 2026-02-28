@@ -1,0 +1,393 @@
+{
+  "title": "Grundlagen & Begrüßung B2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "sich vorstellen",
+      "type": "reflexives Verb",
+      "meaning_tr": "Kendini tanıtmak",
+      "meaning_en": "to introduce oneself",
+      "meaning_uk": "представитися",
+      "meaning_es": "presentarse",
+      "example": "Darf ich mich Ihnen kurz ***vorstellen***?"
+    },
+    {
+      "term": "die Vorstellung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Tanıtma; fikir",
+      "meaning_en": "introduction; idea",
+      "meaning_uk": "знайомство; уявлення",
+      "meaning_es": "la presentación; la idea",
+      "example": "Ihre ***Vorstellung*** des Projekts war sehr überzeugend."
+    },
+    {
+      "term": "die Begrüßung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Selamlaşma",
+      "meaning_en": "greeting",
+      "meaning_uk": "привітання",
+      "meaning_es": "el saludo",
+      "example": "Die formelle ***Begrüßung*** ist bei Geschäftstreffen wichtig."
+    },
+    {
+      "term": "wie geht es Ihnen?",
+      "type": "Frase (formell)",
+      "meaning_tr": "Nasılsınız?",
+      "meaning_en": "How are you? (formal)",
+      "meaning_uk": "Як у Вас справи? (формально)",
+      "meaning_es": "¿Cómo está usted?",
+      "example": "Guten Tag, Herr Schmidt, ***wie geht es Ihnen?***"
+    },
+    {
+      "term": "es geht mir gut/schlecht",
+      "type": "Frase",
+      "meaning_tr": "İyiyim/Kötüyüm",
+      "meaning_en": "I am fine/bad",
+      "meaning_uk": "У мене все добре/погано",
+      "meaning_es": "Estoy bien/mal",
+      "example": "Danke der Nachfrage, ***es geht mir gut***."
+    },
+    {
+      "term": "angenehm",
+      "type": "Adjektiv",
+      "meaning_tr": "Hoş, keyifli",
+      "meaning_en": "pleasant, agreeable",
+      "meaning_uk": "приємний",
+      "meaning_es": "agradable",
+      "example": "Das Gespräch war sehr ***angenehm***."
+    },
+    {
+      "term": "unerlässlich",
+      "type": "Adjektiv",
+      "meaning_tr": "Zorunlu, vazgeçilmez",
+      "meaning_en": "essential, indispensable",
+      "meaning_uk": "незамінний, нагальний",
+      "meaning_es": "esencial, indispensable",
+      "example": "Für diese Aufgabe sind Grundkenntnisse ***unerlässlich***."
+    },
+    {
+      "term": "die Verabschiedung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Vedalaşma",
+      "meaning_en": "farewell",
+      "meaning_uk": "прощання",
+      "meaning_es": "la despedida",
+      "example": "Nach der Konferenz fand eine herzliche ***Verabschiedung*** statt."
+    },
+    {
+      "term": "auf Wiedersehen",
+      "type": "Frase (formell)",
+      "meaning_tr": "Hoşça kalın",
+      "meaning_en": "goodbye (formal)",
+      "meaning_uk": "до побачення (формально)",
+      "meaning_es": "adiós (formal)",
+      "example": "Ich wünsche Ihnen einen schönen Tag und ***auf Wiedersehen!***"
+    },
+    {
+      "term": "bis bald",
+      "type": "Frase (informell)",
+      "meaning_tr": "Yakında görüşürüz",
+      "meaning_en": "see you soon",
+      "meaning_uk": "до скорої зустрічі",
+      "meaning_es": "hasta pronto",
+      "example": "Ich muss jetzt gehen, ***bis bald***!"
+    },
+    {
+      "term": "die Umgangsformen",
+      "type": "Nomen (Plural)",
+      "meaning_tr": "Görgü kuralları",
+      "meaning_en": "etiquette, manners",
+      "meaning_uk": "манери, етикет",
+      "meaning_es": "las formas de trato, la etiqueta",
+      "example": "Im beruflichen Kontext sind gute ***Umgangsformen*** entscheidend."
+    },
+    {
+      "term": "das Du/Sie",
+      "type": "Pronomen",
+      "meaning_tr": "Sen/Siz",
+      "meaning_en": "you (informal/formal)",
+      "meaning_uk": "ти/Ви",
+      "meaning_es": "tú/usted",
+      "example": "Wann ist es angemessen, vom ***Sie*** zum ***Du*** zu wechseln?"
+    },
+    {
+      "term": "jemanden siezen/duzen",
+      "type": "Verb",
+      "meaning_tr": "Biriyle resmi/samimi konuşmak",
+      "meaning_en": "to address someone formally/informally",
+      "meaning_uk": "звертатися на 'Ви'/'ти'",
+      "meaning_es": "tutear/tratar de usted a alguien",
+      "example": "Es ist höflich, ältere Kollegen zunächst ***zu siezen***."
+    },
+    {
+      "term": "die Höflichkeit",
+      "type": "Nomen (f)",
+      "meaning_tr": "Nezaket",
+      "meaning_en": "politeness",
+      "meaning_uk": "ввічливість",
+      "meaning_es": "la cortesía",
+      "example": "Sein Verhalten zeigte ein hohes Maß an ***Höflichkeit***."
+    },
+    {
+      "term": "sich erkundigen",
+      "type": "Verb",
+      "meaning_tr": "Sormak, bilgi almak",
+      "meaning_en": "to inquire",
+      "meaning_uk": "допитуватися, дізнаватися",
+      "meaning_es": "preguntar, informarse",
+      "example": "Ich möchte ***mich*** nach dem Fahrplan ***erkundigen***."
+    },
+    {
+      "term": "die Klärung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Açıklığa kavuşturma",
+      "meaning_en": "clarification",
+      "meaning_uk": "уточнення",
+      "meaning_es": "la aclaración",
+      "example": "Wir brauchen eine sofortige ***Klärung*** dieser Angelegenheit."
+    },
+    {
+      "term": "die Formalität",
+      "type": "Nomen (f)",
+      "meaning_tr": "Resmiyet",
+      "meaning_en": "formality",
+      "meaning_uk": "формальність",
+      "meaning_es": "la formalidad",
+      "example": "In diesem Rahmen sollten wir die ***Formalitäten*** beachten."
+    },
+    {
+      "term": "die Anrede",
+      "type": "Nomen (f)",
+      "meaning_tr": "Hitap şekli",
+      "meaning_en": "form of address",
+      "meaning_uk": "звертання",
+      "meaning_es": "el tratamiento (forma de dirigirse)",
+      "example": "Welche ***Anrede*** ist in dieser E-Mail passend?"
+    },
+    {
+      "term": "die Verständigung",
+      "type": "Nomen (f)",
+      "meaning_tr": "İletişim, anlaşma",
+      "meaning_en": "communication, understanding",
+      "meaning_uk": "порозуміння, зв'язок",
+      "meaning_es": "la comunicación, el entendimiento",
+      "example": "Eine gute ***Verständigung*** ist die Basis jeder Zusammenarbeit."
+    },
+    {
+      "term": "der Smalltalk",
+      "type": "Nomen (m)",
+      "meaning_tr": "Kısa, yüzeysel sohbet",
+      "meaning_en": "small talk",
+      "meaning_uk": "світська бесіда",
+      "meaning_es": "la charla trivial",
+      "example": "Beim Kaffee gibt es oft Gelegenheit für ***Smalltalk***."
+    },
+    {
+      "term": "die Konversation",
+      "type": "Nomen (f)",
+      "meaning_tr": "Sohbet",
+      "meaning_en": "conversation",
+      "meaning_uk": "розмова",
+      "meaning_es": "la conversación",
+      "example": "Die ***Konversation*** verlief flüssig und interessant."
+    },
+    {
+      "term": "etwas ansprechen",
+      "type": "Phrase",
+      "meaning_tr": "Bir konuyu gündeme getirmek",
+      "meaning_en": "to bring something up",
+      "meaning_uk": "порушити щось (тему)",
+      "meaning_es": "mencionar, abordar un tema",
+      "example": "Ich muss leider ein sensibles Thema ***ansprechen***."
+    },
+    {
+      "term": "beiderseitig",
+      "type": "Adverb/Adjektiv",
+      "meaning_tr": "İki taraflı",
+      "meaning_en": "mutual, reciprocal",
+      "meaning_uk": "взаємний",
+      "meaning_es": "mutuo",
+      "example": "Es war ein ***beiderseitiges*** Einverständnis."
+    },
+    {
+      "term": "die Etikette",
+      "type": "Nomen (f)",
+      "meaning_tr": "Protokol, görgü",
+      "meaning_en": "etiquette",
+      "meaning_uk": "етикет",
+      "meaning_es": "la etiqueta",
+      "example": "Er kennt die internationalen ***Etikette***-Regeln genau."
+    },
+    {
+      "term": "die Rücksichtnahme",
+      "type": "Nomen (f)",
+      "meaning_tr": "Saygı, düşüncelilik",
+      "meaning_en": "consideration (for others)",
+      "meaning_uk": "увага до інших",
+      "meaning_es": "la consideración",
+      "example": "***Rücksichtnahme*** auf andere ist ein Zeichen von Reife."
+    },
+    {
+      "term": "eine Bemerkung machen",
+      "type": "Phrase",
+      "meaning_tr": "Bir yorum yapmak",
+      "meaning_en": "to make a remark",
+      "meaning_uk": "зробити зауваження",
+      "meaning_es": "hacer un comentario",
+      "example": "Ich möchte nur eine kurze ***Bemerkung machen***."
+    },
+    {
+      "term": "die Kontaktaufnahme",
+      "type": "Nomen (f)",
+      "meaning_tr": "İletişim kurma",
+      "meaning_en": "making contact",
+      "meaning_uk": "встановлення контакту",
+      "meaning_es": "el contacto inicial",
+      "example": "Die erste ***Kontaktaufnahme*** verlief äußerst positiv."
+    },
+    {
+      "term": "die Erwiderung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Yanıt, cevap",
+      "meaning_en": "reply, response",
+      "meaning_uk": "відповідь",
+      "meaning_es": "la respuesta",
+      "example": "Auf seine Frage folgte keine ***Erwiderung***."
+    },
+    {
+      "term": "zur Sprache bringen",
+      "type": "Phrase",
+      "meaning_tr": "Konuşmak, dile getirmek",
+      "meaning_en": "to bring up (topic)",
+      "meaning_uk": "порушити (тему)",
+      "meaning_es": "sacar a colación",
+      "example": "Es ist Zeit, dieses Problem ***zur Sprache zu bringen***."
+    },
+    {
+      "term": "die Verständlichkeit",
+      "type": "Nomen (f)",
+      "meaning_tr": "Anlaşılırlık",
+      "meaning_en": "intelligibility, clarity",
+      "meaning_uk": "зрозумілість",
+      "meaning_es": "la claridad, la inteligibilidad",
+      "example": "Achten Sie auf die ***Verständlichkeit*** Ihrer Aussagen."
+    },
+    {
+      "term": "der Gesprächspartner",
+      "type": "Nomen (m)",
+      "meaning_tr": "Konuşma partneri",
+      "meaning_en": "conversation partner",
+      "meaning_uk": "співрозмовник",
+      "meaning_es": "el interlocutor",
+      "example": "Mein ***Gesprächspartner*** war sehr kompetent."
+    },
+    {
+      "term": "die Missverständnisse",
+      "type": "Nomen (Plural)",
+      "meaning_tr": "Yanlış anlaşılmalar",
+      "meaning_en": "misunderstandings",
+      "meaning_uk": "непорозуміння",
+      "meaning_es": "los malentendidos",
+      "example": "Wir müssen ***Missverständnisse*** sofort ausräumen."
+    },
+    {
+      "term": "abschließend",
+      "type": "Adverb",
+      "meaning_tr": "Son olarak",
+      "meaning_en": "in conclusion, finally",
+      "meaning_uk": "насамкінець",
+      "meaning_es": "finalmente, para concluir",
+      "example": "***Abschließend*** möchte ich mich bedanken."
+    },
+    {
+      "term": "die Respektbekundung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Saygı gösterme",
+      "meaning_en": "expression of respect",
+      "meaning_uk": "вияв поваги",
+      "meaning_es": "la muestra de respeto",
+      "example": "Sein Händedruck war eine ***Respektbekundung***."
+    },
+    {
+      "term": "der Smalltalk-Einstieg",
+      "type": "Nomen (m)",
+      "meaning_tr": "Sohbete başlama",
+      "meaning_en": "conversation starter",
+      "meaning_uk": "початок світської бесіди",
+      "meaning_es": "el tema de conversación inicial",
+      "example": "Das Wetter ist oft ein beliebter ***Smalltalk-Einstieg***."
+    },
+    {
+      "term": "zur Sache kommen",
+      "type": "Phrase",
+      "meaning_tr": "Konuya gelmek",
+      "meaning_en": "to get down to business",
+      "meaning_uk": "перейти до суті",
+      "meaning_es": "ir al grano",
+      "example": "Lassen Sie uns nicht lange reden, ***kommen wir zur Sache***."
+    },
+    {
+      "term": "die Zurückhaltung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Çekingenlik, kısıtlama",
+      "meaning_en": "reserve, restraint",
+      "meaning_uk": "стриманість",
+      "meaning_es": "la reserva",
+      "example": "Manche Kulturen pflegen eine größere ***Zurückhaltung*** bei der Begrüßung."
+    },
+    {
+      "term": "das gegenseitige Verständnis",
+      "type": "Phrase",
+      "meaning_tr": "Karşılıklı anlayış",
+      "meaning_en": "mutual understanding",
+      "meaning_uk": "взаєморозуміння",
+      "meaning_es": "el entendimiento mutuo",
+      "example": "Ziel ist immer ***das gegenseitige Verständnis***."
+    },
+    {
+      "term": "die Etikettenverletzung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Görgü kuralı ihlali",
+      "meaning_en": "breach of etiquette",
+      "meaning_uk": "порушення етикету",
+      "meaning_es": "la falta de etiqueta",
+      "example": "Er befürchtete eine unabsichtliche ***Etikettenverletzung***."
+    },
+    {
+      "term": "sich entschuldigen",
+      "type": "Verb",
+      "meaning_tr": "Özür dilemek",
+      "meaning_en": "to apologize",
+      "meaning_uk": "вибачатися",
+      "meaning_es": "disculparse",
+      "example": "Ich muss mich für meine Verspätung ***entschuldigen***."
+    },
+    {
+      "term": "die Verspätung",
+      "type": "Nomen (f)",
+      "meaning_tr": "Gecikme",
+      "meaning_en": "lateness, delay",
+      "meaning_uk": "запізнення",
+      "meaning_es": "la tardanza, el retraso",
+      "example": "Bitte entschuldigen Sie die ***Verspätung***."
+    },
+    {
+      "term": "die Ungezwungenheit",
+      "type": "Nomen (f)",
+      "meaning_tr": "Rahatlık, samimiyet",
+      "meaning_en": "informality, ease",
+      "meaning_uk": "невимушеність",
+      "meaning_es": "la desenvoltura, la informalidad",
+      "example": "Er schätzte die ***Ungezwungenheit*** der Atmosphäre."
+    },
+    {
+      "term": "die Gebärdensprache",
+      "type": "Nomen (f)",
+      "meaning_tr": "İşaret dili",
+      "meaning_en": "sign language",
+      "meaning_uk": "мова жестів",
+      "meaning_es": "la lengua de signos",
+      "example": "In einigen Fällen ist ***die Gebärdensprache*** die einzige Kommunikationsform."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "title": "Körper & Aussehen A2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "der Arm",
+      "type": "Nomen (m)",
+      "meaning_tr": "kol",
+      "meaning_en": "arm",
+      "meaning_uk": "рука",
+      "meaning_es": "brazo",
+      "example": "Er hat sich den *** verletzt."
+    },
+    {
+      "term": "das Bein",
+      "type": "Nomen (n)",
+      "meaning_tr": "bacak",
+      "meaning_en": "leg",
+      "meaning_uk": "нога",
+      "meaning_es": "pierna",
+      "example": "Sie hat ein langes ***."
+    },
+    {
+      "term": "das Auge",
+      "type": "Nomen (n)",
+      "meaning_tr": "göz",
+      "meaning_en": "eye",
+      "meaning_uk": "око",
+      "meaning_es": "ojo",
+      "example": "Sie hat schöne blaue ***."
+    },
+    {
+      "term": "der Bauch",
+      "type": "Nomen (m)",
+      "meaning_tr": "karın",
+      "meaning_en": "stomach/belly",
+      "meaning_uk": "живіт",
+      "meaning_es": "vientre/estómago",
+      "example": "Nach dem Essen tut mir der *** weh."
+    },
+    {
+      "term": "der Bart",
+      "type": "Nomen (m)",
+      "meaning_tr": "sakal",
+      "meaning_en": "beard",
+      "meaning_uk": "борода",
+      "meaning_es": "barba",
+      "example": "Mein Vater rasiert seinen *** jeden Tag."
+    },
+    {
+      "term": "das Haar / die Haare",
+      "type": "Nomen (n/pl)",
+      "meaning_tr": "saç",
+      "meaning_en": "hair",
+      "meaning_uk": "волосся",
+      "meaning_es": "pelo",
+      "example": "Ich möchte meine *** schneiden lassen."
+    },
+    {
+      "term": "die Hand",
+      "type": "Nomen (f)",
+      "meaning_tr": "el",
+      "meaning_en": "hand",
+      "meaning_uk": "рука",
+      "meaning_es": "mano",
+      "example": "Gib mir deine ***."
+    },
+    {
+      "term": "der Kopf",
+      "type": "Nomen (m)",
+      "meaning_tr": "baş",
+      "meaning_en": "head",
+      "meaning_uk": "голова",
+      "meaning_es": "cabeza",
+      "example": "Ich habe Schmerzen im ***."
+    },
+    {
+      "term": "der Mund",
+      "type": "Nomen (m)",
+      "meaning_tr": "ağız",
+      "meaning_en": "mouth",
+      "meaning_uk": "рот",
+      "meaning_es": "boca",
+      "example": "Mach bitte den *** zu!"
+    },
+    {
+      "term": "die Nase",
+      "type": "Nomen (f)",
+      "meaning_tr": "burun",
+      "meaning_en": "nose",
+      "meaning_uk": "ніс",
+      "meaning_es": "nariz",
+      "example": "Er hat eine große ***."
+    },
+    {
+      "term": "die Schulter",
+      "type": "Nomen (f)",
+      "meaning_tr": "omuz",
+      "meaning_en": "shoulder",
+      "meaning_uk": "плече",
+      "meaning_es": "hombro",
+      "example": "Er trägt die Tasche auf der ***."
+    },
+    {
+      "term": "der Zahn",
+      "type": "Nomen (m)",
+      "meaning_tr": "diş",
+      "meaning_en": "tooth",
+      "meaning_uk": "зуб",
+      "meaning_es": "diente",
+      "example": "Ich muss zum ***arzt."
+    },
+    {
+      "term": "schlank",
+      "type": "Adjektiv",
+      "meaning_tr": "zayıf, ince",
+      "meaning_en": "slim, slender",
+      "meaning_uk": "стрункий",
+      "meaning_es": "delgado/a",
+      "example": "Sie ist sehr sportlich und ***."
+    },
+    {
+      "term": "dick",
+      "type": "Adjektiv",
+      "meaning_tr": "şişman, kalın",
+      "meaning_en": "fat, thick",
+      "meaning_uk": "товстий",
+      "meaning_es": "gordo/a, grueso/a",
+      "example": "Er hat zugenommen und ist etwas *** geworden."
+    },
+    {
+      "term": "groß",
+      "type": "Adjektiv",
+      "meaning_tr": "uzun, büyük",
+      "meaning_en": "tall, big",
+      "meaning_uk": "високий, великий",
+      "meaning_es": "alto/a, grande",
+      "example": "Mein Bruder ist sehr ***."
+    },
+    {
+      "term": "klein",
+      "type": "Adjektiv",
+      "meaning_tr": "kısa, küçük",
+      "meaning_en": "short, small",
+      "meaning_uk": "маленький, низький",
+      "meaning_es": "pequeño/a, bajo/a",
+      "example": "Das Kind ist noch sehr ***."
+    },
+    {
+      "term": "alt",
+      "type": "Adjektiv",
+      "meaning_tr": "yaşlı, eski",
+      "meaning_en": "old",
+      "meaning_uk": "старий",
+      "meaning_es": "viejo/a",
+      "example": "Meine Großmutter ist schon 90 Jahre ***."
+    },
+    {
+      "term": "jung",
+      "type": "Adjektiv",
+      "meaning_tr": "genç",
+      "meaning_en": "young",
+      "meaning_uk": "молодий",
+      "meaning_es": "joven",
+      "example": "Sie ist eine sehr *** Studentin."
+    },
+    {
+      "term": "braun",
+      "type": "Adjektiv",
+      "meaning_tr": "kahverengi",
+      "meaning_en": "brown",
+      "meaning_uk": "коричневий",
+      "meaning_es": "marrón",
+      "example": "Er hat ***e Augen."
+    },
+    {
+      "term": "blond",
+      "type": "Adjektiv",
+      "meaning_tr": "sarışın",
+      "meaning_en": "blond",
+      "meaning_uk": "блондин",
+      "meaning_es": "rubio/a",
+      "example": "Meine Schwester hat ***e Haare."
+    }
+  ]
+}

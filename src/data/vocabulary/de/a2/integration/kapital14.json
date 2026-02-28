@@ -2,98 +2,842 @@
   "title": "Integration A2 - Kapitel 14",
   "language": "de",
   "words": [
-    {"term": "die Ausnahme", "type": "Noun", "meaning_tr": "istisna", "meaning_en": "exception", "meaning_uk": "виняток", "example": "Normalerweise arbeite ich samstags nicht, aber heute mache ich eine ***."},
-    {"term": "ewig", "type": "Adjective", "meaning_tr": "sonsuz, ebedi", "meaning_en": "eternal", "meaning_uk": "вічний", "example": "Wir mussten *** auf den Bus warten."},
-    {"term": "der Schokoriegel", "type": "Noun", "meaning_tr": "çikolata barı", "meaning_en": "chocolate bar", "meaning_uk": "шоколадний батончик", "example": "Ich esse nach dem Sport gerne einen ***."},
-    {"term": "der Schulfreund", "type": "Noun", "meaning_tr": "okul arkadaşı (erkek)", "meaning_en": "school friend", "meaning_uk": "шкільний друг", "example": "Mein bester *** kommt aus meiner Grundschulzeit."},
-    {"term": "die Schulfreundin", "type": "Noun", "meaning_tr": "okul arkadaşı (kadın)", "meaning_en": "school friend", "meaning_uk": "шкільна подруга", "example": "Gestern habe ich meine alte *** im Supermarkt getroffen."},
-    {"term": "sogar", "type": "Adverb", "meaning_tr": "hatta, bile", "meaning_en": "even", "meaning_uk": "навіть", "example": "Es war so kalt, dass *** der See gefroren ist."},
-    {"term": "teilen", "type": "Verb", "meaning_tr": "paylaşmak", "meaning_en": "to share", "meaning_uk": "ділитися", "example": "Wir *** uns die Pizza, weil sie sehr groß ist."},
-    {"term": "die Eigenschaft", "type": "Noun", "meaning_tr": "özellik, nitelik", "meaning_en": "quality, trait", "meaning_uk": "властивість", "example": "Welche *** findest du bei einem Freund am wichtigsten?"},
-    {"term": "die Sympathie", "type": "Noun", "meaning_tr": "sempati", "meaning_en": "sympathy", "meaning_uk": "симпатія", "example": "Zwischen den beiden herrscht eine große ***."},
-    {"term": "sympathisch", "type": "Adjective", "meaning_tr": "sempatik", "meaning_en": "likable", "meaning_uk": "симпатичний", "example": "Unsere neue Nachbarin wirkt sehr ***."},
-    {"term": "die Ehrlichkeit", "type": "Noun", "meaning_tr": "dürüstlük", "meaning_en": "honesty", "meaning_uk": "чесність", "example": "In einer Freundschaft ist *** die wichtigste Basis."},
-    {"term": "ehrlich", "type": "Adjective", "meaning_tr": "dürüst", "meaning_en": "honest", "meaning_uk": "чесний", "example": "Sei bitte *** zu mir: Gefällt dir mein neues Kleid?"},
-    {"term": "die Hilfsbereitschaft", "type": "Noun", "meaning_tr": "yardımseverlik", "meaning_en": "readiness to help", "meaning_uk": "готовність допомогти", "example": "Seine große *** wird von allen Kollegen geschätzt."},
-    {"term": "hilfsbereit", "type": "Adjective", "meaning_tr": "yardımsever", "meaning_en": "helpful", "meaning_uk": "готовий допомогти", "example": "Wenn ich Probleme habe, ist mein Bruder immer sehr ***."},
-    {"term": "der Humor", "type": "Noun", "meaning_tr": "mizah", "meaning_en": "humor", "meaning_uk": "гумор", "example": "Ich mag Menschen, die einen guten *** haben."},
-    {"term": "humorvoll", "type": "Adjective", "meaning_tr": "mizahi, esprili", "meaning_en": "humorous", "meaning_uk": "гумористичний", "example": "Er erzählte eine sehr ***e Geschichte."},
-    {"term": "die Geduld", "type": "Noun", "meaning_tr": "sabır", "meaning_en": "patience", "meaning_uk": "терпіння", "example": "Mit kleinen Kindern braucht man viel ***."},
-    {"term": "geduldig", "type": "Adjective", "meaning_tr": "sabırlı", "meaning_en": "patient", "meaning_uk": "терплячий", "example": "Wir müssen *** warten, bis der Arzt Zeit hat."},
-    {"term": "die Intelligenz", "type": "Noun", "meaning_tr": "zeka", "meaning_en": "intelligence", "meaning_uk": "інтелект", "example": "Sie beeindruckte alle mit ihrer ***."},
-    {"term": "intelligent", "type": "Adjective", "meaning_tr": "zeki", "meaning_en": "intelligent", "meaning_uk": "розумний", "example": "Hunde sind sehr ***e Tiere."},
-    {"term": "die Zuverlässigkeit", "type": "Noun", "meaning_tr": "güvenilirlik", "meaning_en": "reliability", "meaning_uk": "надійність", "example": "Auf seine *** kann man sich immer verlassen."},
-    {"term": "zuverlässig", "type": "Adjective", "meaning_tr": "güvenilir", "meaning_en": "reliable", "meaning_uk": "надійний", "example": "Mein altes Auto ist immer noch sehr ***."},
-    {"term": "die Toleranz", "type": "Noun", "meaning_tr": "hoşgörü, tolerans", "meaning_en": "tolerance", "meaning_uk": "толерантність", "example": "In einer Großstadt ist *** gegenüber anderen Kulturen wichtig."},
-    {"term": "tolerant", "type": "Adjective", "meaning_tr": "hoşgörülü", "meaning_en": "tolerant", "meaning_uk": "толерантний", "example": "Meine Eltern sind sehr *** und lassen mir meine Freiheit."},
-    {"term": "die Offenheit", "type": "Noun", "meaning_tr": "açıklık, içtenlik", "meaning_en": "openness", "meaning_uk": "відкритість", "example": "Ihre *** macht es einfach, mit ihr zu reden."},
-    {"term": "offen", "type": "Adjective", "meaning_tr": "açık, içten", "meaning_en": "open", "meaning_uk": "відкритий", "example": "Wir haben sehr *** über unsere Probleme gesprochen."},
-    {"term": "der Hund", "type": "Noun", "meaning_tr": "köpek", "meaning_en": "dog", "meaning_uk": "собака", "example": "Jeden Morgen gehe ich mit meinem *** spazieren."},
-    {"term": "der Blindenhund", "type": "Noun", "meaning_tr": "rehber köpek", "meaning_en": "guide dog", "meaning_uk": "собака-поводир", "example": "Ein *** hilft blinden Menschen im Alltag."},
-    {"term": "der Schäferhund", "type": "Noun", "meaning_tr": "alman kurdu", "meaning_en": "shepherd dog", "meaning_uk": "вівчарка", "example": "Der *** ist eine sehr bekannte Hunderasse."},
-    {"term": "der Pudel", "type": "Noun", "meaning_tr": "kaniş köpek", "meaning_en": "poodle", "meaning_uk": "пудель", "example": "Meine Tante hat einen kleinen, weißen ***."},
-    {"term": "die Hundeschule", "type": "Noun", "meaning_tr": "köpek eğitim okulu", "meaning_en": "dog school", "meaning_uk": "школа для собак", "example": "Wir gehen jeden Samstag mit unserem Welpen in die ***."},
-    {"term": "erziehen", "type": "Verb", "meaning_tr": "eğitmek, yetiştirmek", "meaning_en": "to raise, educate", "meaning_uk": "виховувати", "example": "Es ist nicht einfach, Kinder richtig zu ***."},
-    {"term": "genügend", "type": "Adjective", "meaning_tr": "yeterli", "meaning_en": "sufficient", "meaning_uk": "достатньо", "example": "Haben wir *** Brot für das Frühstück?"},
-    {"term": "sterben", "type": "Verb", "meaning_tr": "ölmek", "meaning_en": "to die", "meaning_uk": "помирати", "example": "Pflanzen ***, wenn sie kein Wasser bekommen."},
-    {"term": "das Tierheim", "type": "Noun", "meaning_tr": "hayvan barınağı", "meaning_en": "animal shelter", "meaning_uk": "притулок для тварин", "example": "Wir haben unsere Katze aus dem *** geholt."},
-    {"term": "der Zahn", "type": "Noun", "meaning_tr": "diş", "meaning_en": "tooth", "meaning_uk": "зуб", "example": "Ich muss zum Zahnarzt, mein *** tut weh."},
-    {"term": "lassen", "type": "Verb", "meaning_tr": "bırakmak, izin vermek", "meaning_en": "to let, leave", "meaning_uk": "залишати", "example": "Ich *** mein Auto heute in der Garage."},
-    {"term": "hierlassen", "type": "Verb", "meaning_tr": "burada bırakmak", "meaning_en": "to leave here", "meaning_uk": "залишити тут", "example": "Du kannst deine Tasche einfach ***."},
-    {"term": "dalassen", "type": "Verb", "meaning_tr": "orada bırakmak", "meaning_en": "to leave there", "meaning_uk": "залишити там", "example": "Ich habe meinen Schirm im Restaurant ***."},
-    {"term": "das Fahrrad", "type": "Noun", "meaning_tr": "bisiklet", "meaning_en": "bicycle", "meaning_uk": "велосипед", "example": "Im Sommer fahre ich oft mit dem *** zur Arbeit."},
-    {"term": "das Rücklicht", "type": "Noun", "meaning_tr": "arka lamba", "meaning_en": "rear light", "meaning_uk": "задній ліхтар", "example": "Bei meinem Fahrrad ist das *** kaputt."},
-    {"term": "die Schaltung", "type": "Noun", "meaning_tr": "vites", "meaning_en": "gear shift", "meaning_uk": "коробка передач", "example": "Dieses Fahrrad hat eine sehr gute ***."},
-    {"term": "die Bremse", "type": "Noun", "meaning_tr": "fren", "meaning_en": "brake", "meaning_uk": "гальмо", "example": "Du musst die *** kontrollieren, sie funktioniert nicht richtig."},
-    {"term": "funktionieren", "type": "Verb", "meaning_tr": "çalışmak, işlemek", "meaning_en": "to function", "meaning_uk": "функціонувати", "example": "Mein neues Handy *** einwandfrei."},
-    {"term": "reparieren", "type": "Verb", "meaning_tr": "tamir etmek", "meaning_en": "to repair", "meaning_uk": "ремонтувати", "example": "Kannst du mein Fahrrad ***?"},
-    {"term": "kontrollieren", "type": "Verb", "meaning_tr": "kontrol etmek", "meaning_en": "to check", "meaning_uk": "контролювати", "example": "Der Lehrer *** die Hausaufgaben."},
-    {"term": "bewundern", "type": "Verb", "meaning_tr": "hayran kalmak", "meaning_en": "to admire", "meaning_uk": "милуватися", "example": "Ich *** dich für deinen Mut."},
-    {"term": "kritisieren", "type": "Verb", "meaning_tr": "eleştirmek", "meaning_en": "to criticize", "meaning_uk": "критикувати", "example": "Es ist leicht, andere zu ***."},
-    {"term": "lügen", "type": "Verb", "meaning_tr": "yalan söylemek", "meaning_en": "to lie", "meaning_uk": "брехати", "example": "Gute Freunde *** sich niemals an."},
-    {"term": "versprechen", "type": "Verb", "meaning_tr": "söz vermek", "meaning_en": "to promise", "meaning_uk": "обіцяти", "example": "Ich *** dir, dass ich pünktlich bin."},
-    {"term": "der Forumsbeitrag", "type": "Noun", "meaning_tr": "forum paylaşımı", "meaning_en": "forum post", "meaning_uk": "повідомлення на форумі", "example": "Ich habe einen interessanten *** gelesen."},
-    {"term": "übermorgen", "type": "Adverb", "meaning_tr": "yarından sonra", "meaning_en": "day after tomorrow", "meaning_uk": "післязавтра", "example": "Morgen habe ich frei, aber *** muss ich arbeiten."},
-    {"term": "irgendwie", "type": "Adverb", "meaning_tr": "bir şekilde", "meaning_en": "somehow", "meaning_uk": "якось", "example": "Wir werden das Problem *** lösen."},
-    {"term": "wieso", "type": "Adverb", "meaning_tr": "neden, niçin", "meaning_en": "why", "meaning_uk": "чому", "example": "*** hast du mir das nicht früher gesagt?"},
-    {"term": "annähen", "type": "Verb", "meaning_tr": "dikmek (düğme vb.)", "meaning_en": "to sew on", "meaning_uk": "пришивати", "example": "Kannst du mir diesen Knopf ***?"},
-    {"term": "bügeln", "type": "Verb", "meaning_tr": "ütü yapmak", "meaning_en": "to iron", "meaning_uk": "прасувати", "example": "Ich muss heute noch meine Hemden ***."},
-    {"term": "geizig", "type": "Adjective", "meaning_tr": "cimri", "meaning_en": "stingy", "meaning_uk": "скупий", "example": "Er gibt nie Trinkgeld, er ist sehr ***."},
-    {"term": "kaum", "type": "Adverb", "meaning_tr": "neredeyse hiç, zar zor", "meaning_en": "hardly", "meaning_uk": "навряд чи", "example": "Ich kann dich *** hören, es ist zu laut."},
-    {"term": "die Grenze", "type": "Noun", "meaning_tr": "sınır", "meaning_en": "border, limit", "meaning_uk": "кордон", "example": "Wir sind gestern über die *** nach Frankreich gefahren."},
-    {"term": "der Knopf", "type": "Noun", "meaning_tr": "düğme", "meaning_en": "button", "meaning_uk": "гудзик", "example": "An meiner Jacke fehlt ein ***."},
-    {"term": "das Loch", "type": "Noun", "meaning_tr": "delik", "meaning_en": "hole", "meaning_uk": "дірка", "example": "Meine Socke hat ein großes ***."},
-    {"term": "der Mitbewohner", "type": "Noun", "meaning_tr": "ev arkadaşı (erkek)", "meaning_en": "roommate", "meaning_uk": "сусід по кімнаті", "example": "Mein *** kocht sehr gerne für uns."},
-    {"term": "die Mitbewohnerin", "type": "Noun", "meaning_tr": "ev arkadaşı (kadın)", "meaning_en": "roommate", "meaning_uk": "сусідка по кімнаті", "example": "Meine *** ist gerade im Urlaub."},
-    {"term": "sparsam", "type": "Adjective", "meaning_tr": "tutumlu", "meaning_en": "thrifty", "meaning_uk": "економний", "example": "Wir müssen diesen Monat *** leben."},
-    {"term": "vorkommen", "type": "Verb", "meaning_tr": "meydana gelmek, bulunmak", "meaning_en": "to occur, happen", "meaning_uk": "відбуватися", "example": "Solche Fehler können leider immer wieder ***."},
-    {"term": "die Wäsche", "type": "Noun", "meaning_tr": "çamaşır", "meaning_en": "laundry", "meaning_uk": "білизна", "example": "Ich muss heute die weiße *** waschen."},
-    {"term": "die Freundschaft", "type": "Noun", "meaning_tr": "dostluk", "meaning_en": "friendship", "meaning_uk": "дружба", "example": "Unsere *** hält schon seit 20 Jahren."},
-    {"term": "freiwillig", "type": "Adjective", "meaning_tr": "gönüllü", "meaning_en": "voluntary", "meaning_uk": "добровільний", "example": "Er arbeitet *** am Wochenende im Tierheim."},
-    {"term": "wissenschaftlich", "type": "Adjective", "meaning_tr": "bilimsel", "meaning_en": "scientific", "meaning_uk": "науковий", "example": "Es gibt keine ***e Erklärung für dieses Phänomen."},
-    {"term": "die Untersuchung", "type": "Noun", "meaning_tr": "inceleme, araştırma", "meaning_en": "investigation", "meaning_uk": "дослідження", "example": "Der Arzt führt eine gründliche *** durch."},
-    {"term": "bereit", "type": "Adjective", "meaning_tr": "hazır", "meaning_en": "ready", "meaning_uk": "готовий", "example": "Bist du *** für den Ausflug?"},
-    {"term": "der Einfluss", "type": "Noun", "meaning_tr": "etki", "meaning_en": "influence", "meaning_uk": "вплив", "example": "Freunde haben einen großen *** auf uns."},
-    {"term": "emotional", "type": "Adjective", "meaning_tr": "duygusal", "meaning_en": "emotional", "meaning_uk": "емоційний", "example": "Der Film war sehr ***."},
-    {"term": "körperlich", "type": "Adjective", "meaning_tr": "fiziksel, bedensel", "meaning_en": "physical", "meaning_uk": "тілесний", "example": "Sport ist gut für die ***e Gesundheit."},
-    {"term": "verwirklichen", "type": "Verb", "meaning_tr": "gerçekleştirmek", "meaning_en": "to realize, fulfill", "meaning_uk": "реалізувати", "example": "Er möchte endlich seinen Traum ***."},
-    {"term": "entstehen", "type": "Verb", "meaning_tr": "oluşmak, ortaya çıkmak", "meaning_en": "to arise, develop", "meaning_uk": "виникати", "example": "Hier *** gerade ein neues Wohnviertel."},
-    {"term": "das Selbstbewusstsein", "type": "Noun", "meaning_tr": "özgüven", "meaning_en": "self-confidence", "meaning_uk": "самовпевненість", "example": "Erfolge stärken das ***."},
-    {"term": "fit halten", "type": "Verb", "meaning_tr": "formda tutmak", "meaning_en": "to keep fit", "meaning_uk": "тримати у формі", "example": "Tägliches Joggen hilft mir, mich *** zu ***."},
-    {"term": "stärken", "type": "Verb", "meaning_tr": "güçlendirmek", "meaning_en": "to strengthen", "meaning_uk": "зміцнювати", "example": "Wir müssen unsere Abwehrkräfte ***."},
-    {"term": "pflegen", "type": "Verb", "meaning_tr": "bakmak, özen göstermek", "meaning_en": "to care for, maintain", "meaning_uk": "доглядати", "example": "Man muss eine Freundschaft gut ***."},
-    {"term": "der Sporttermin", "type": "Noun", "meaning_tr": "spor randevusu", "meaning_en": "sports appointment", "meaning_uk": "спортивна зустріч", "example": "Ich darf meinen *** heute nicht verpassen."},
-    {"term": "der Trost", "type": "Noun", "meaning_tr": "teselli", "meaning_en": "comfort, consolation", "meaning_uk": "втіха", "example": "Deine Worte waren mir ein großer ***."},
-    {"term": "die Krankheit", "type": "Noun", "meaning_tr": "hastalık", "meaning_en": "illness", "meaning_uk": "хвороба", "example": "Gegen diese *** gibt es leider noch kein Medikament."},
-    {"term": "die Unterstützung", "type": "Noun", "meaning_tr": "destek", "meaning_en": "support", "meaning_uk": "підтримка", "example": "Vielen Dank für deine Hilfe und ***."},
-    {"term": "zusammenhängen", "type": "Verb", "meaning_tr": "bağlantılı olmak", "meaning_en": "to be connected", "meaning_uk": "бути пов'язаним", "example": "Diese beiden Probleme *** eng ***."},
-    {"term": "sich aussuchen", "type": "Verb", "meaning_tr": "seçmek", "meaning_en": "to pick, choose", "meaning_uk": "вибирати", "example": "Du darfst dir ein Geschenk ***."},
-    {"term": "das Alltagsproblem", "type": "Noun", "meaning_tr": "günlük sorun", "meaning_en": "everyday problem", "meaning_uk": "буденна проблема", "example": "Wir reden oft über unsere kleinen ***."},
-    {"term": "komplett", "type": "Adjective", "meaning_tr": "tamamen, tam", "meaning_en": "complete", "meaning_uk": "повністю", "example": "Die Arbeit ist nun *** fertig."},
-    {"term": "loben", "type": "Verb", "meaning_tr": "övmek", "meaning_en": "to praise", "meaning_uk": "хвалити", "example": "Der Chef hat meine Arbeit sehr ge***."},
-    {"term": "das Puzzleteil", "type": "Noun", "meaning_tr": "yapboz parçası", "meaning_en": "puzzle piece", "meaning_uk": "частина пазла", "example": "Mir fehlt noch ein ***, um das Bild fertigzumachen."},
-    {"term": "das Sprichwort", "type": "Noun", "meaning_tr": "atasözü", "meaning_en": "proverb", "meaning_uk": "прислів'я", "example": "Kennst du ein deutsches ***?"},
-    {"term": "das Vertrauen", "type": "Noun", "meaning_tr": "güven", "meaning_en": "trust", "meaning_uk": "довіра", "example": "Ich habe volles *** zu dir."},
-    {"term": "der Duft", "type": "Noun", "meaning_tr": "koku, hoş koku", "meaning_en": "scent, fragrance", "meaning_uk": "аромат", "example": "Der *** von frischem Kaffee ist wunderbar."}
+    {
+      "term": "die Ausnahme",
+      "type": "Noun",
+      "meaning_tr": "istisna - ayrık durum",
+      "meaning_en": "exception - oddity",
+      "meaning_uk": "виняток - виключення",
+      "example": "Normalerweise arbeite ich samstags nicht, aber heute mache ich eine ***.",
+      "meaning_es": "excepción - rareza"
+    },
+    {
+      "term": "ewig",
+      "type": "Adjective",
+      "meaning_tr": "sonsuz - ebedi",
+      "meaning_en": "eternal - everlasting",
+      "meaning_uk": "вічний - нескінчений",
+      "example": "Wir mussten *** auf den Bus warten.",
+      "meaning_es": "eterno - perpetuo"
+    },
+    {
+      "term": "der Schokoriegel",
+      "type": "Noun",
+      "meaning_tr": "çikolata barı",
+      "meaning_en": "chocolate bar",
+      "meaning_uk": "шоколадний батончик",
+      "example": "Ich esse nach dem Sport gerne einen ***.",
+      "meaning_es": "barra de chocolate"
+    },
+    {
+      "term": "der Schulfreund",
+      "type": "Noun",
+      "meaning_tr": "okul arkadaşı (erkek)",
+      "meaning_en": "school friend - male schoolmate",
+      "meaning_uk": "шкільний друг - товариш у читанні",
+      "example": "Mein bester *** kommt aus meiner Grundschulzeit.",
+      "meaning_es": "amigo de la escuela - compañero de clase"
+    },
+    {
+      "term": "die Schulfreundin",
+      "type": "Noun",
+      "meaning_tr": "okul arkadaşı (kadın)",
+      "meaning_en": "school friend - female schoolmate",
+      "meaning_uk": "шкільна подруга - товаришка у читанні",
+      "example": "Gestern habe ich meine alte *** im Supermarkt getroffen.",
+      "meaning_es": "amiga de la escuela - compañera de clase"
+    },
+    {
+      "term": "sogar",
+      "type": "Adverb",
+      "meaning_tr": "hatta - bile",
+      "meaning_en": "even - to the extent",
+      "meaning_uk": "навіть - навіть-то",
+      "example": "Es war so kalt, dass *** der See gefroren ist.",
+      "meaning_es": "incluso - hasta"
+    },
+    {
+      "term": "teilen",
+      "type": "Verb",
+      "meaning_tr": "paylaşmak - bölüşmek",
+      "meaning_en": "to share - to divide",
+      "meaning_uk": "ділитися - поділятися",
+      "example": "Wir *** uns die Pizza, weil sie sehr groß ist.",
+      "meaning_es": "compartir - dividir"
+    },
+    {
+      "term": "die Eigenschaft",
+      "type": "Noun",
+      "meaning_tr": "özellik - nitelik - vasıf",
+      "meaning_en": "quality - trait - characteristic",
+      "meaning_uk": "властивість - риса - властивості",
+      "example": "Welche *** findest du bei einem Freund am wichtigsten?",
+      "meaning_es": "cualidad - rasgo - propiedad"
+    },
+    {
+      "term": "die Sympathie",
+      "type": "Noun",
+      "meaning_tr": "sempati - yakınlık",
+      "meaning_en": "sympathy - rapport",
+      "meaning_uk": "симпатія - схвилювання",
+      "example": "Zwischen den beiden herrscht eine große ***.",
+      "meaning_es": "simpatía - afinidad"
+    },
+    {
+      "term": "sympathisch",
+      "type": "Adjective",
+      "meaning_tr": "sempatik - hoş",
+      "meaning_en": "likable - pleasant",
+      "meaning_uk": "симпатичний - пријемний",
+      "example": "Unsere neue Nachbarin wirkt sehr ***.",
+      "meaning_es": "simpático - agradable"
+    },
+    {
+      "term": "die Ehrlichkeit",
+      "type": "Noun",
+      "meaning_tr": "dürüstlük - samimiyet",
+      "meaning_en": "honesty - sincerity",
+      "meaning_uk": "чесність - прямість",
+      "example": "In einer Freundschaft ist *** die wichtigste Basis.",
+      "meaning_es": "honestidad - sinceridad"
+    },
+    {
+      "term": "ehrlich",
+      "type": "Adjective",
+      "meaning_tr": "dürüst - samimi",
+      "meaning_en": "honest - sincere",
+      "meaning_uk": "чесний - прямий",
+      "example": "Sei bitte *** zu mir: Gefällt dir mein neues Kleid?",
+      "meaning_es": "honesto - sincero"
+    },
+    {
+      "term": "die Hilfsbereitschaft",
+      "type": "Noun",
+      "meaning_tr": "yardımseverlik - yardıma isteklilik",
+      "meaning_en": "readiness to help - helpfulness",
+      "meaning_uk": "готовність допомогти - помічність",
+      "example": "Seine große *** wird von allen Kollegen geschätzt.",
+      "meaning_es": "disposición a ayudar - servicialidad"
+    },
+    {
+      "term": "hilfsbereit",
+      "type": "Adjective",
+      "meaning_tr": "yardımsever - yardımcı",
+      "meaning_en": "helpful - willing to help",
+      "meaning_uk": "готовий допомогти - помічний",
+      "example": "Wenn ich Probleme habe, ist mein Bruder immer sehr ***.",
+      "meaning_es": "servicial - dispuesto a ayudar"
+    },
+    {
+      "term": "der Humor",
+      "type": "Noun",
+      "meaning_tr": "mizah - espri anlayışı",
+      "meaning_en": "humor - wit",
+      "meaning_uk": "гумор - чутність",
+      "example": "Ich mag Menschen, die einen guten *** haben.",
+      "meaning_es": "humor - gracia"
+    },
+    {
+      "term": "humorvoll",
+      "type": "Adjective",
+      "meaning_tr": "mizahi - esprili",
+      "meaning_en": "humorous - witty",
+      "meaning_uk": "гумористичний - закономирний",
+      "example": "Er erzählte eine sehr ***e Geschichte.",
+      "meaning_es": "cómico - ingenioso"
+    },
+    {
+      "term": "die Geduld",
+      "type": "Noun",
+      "meaning_tr": "sabır",
+      "meaning_en": "patience",
+      "meaning_uk": "терпіння - видримання",
+      "example": "Mit kleinen Kindern braucht man viel ***.",
+      "meaning_es": "paciencia"
+    },
+    {
+      "term": "geduldig",
+      "type": "Adjective",
+      "meaning_tr": "sabırlı",
+      "meaning_en": "patient",
+      "meaning_uk": "терплячий - видриманий",
+      "example": "Wir müssen *** warten, bis der Arzt Zeit hat.",
+      "meaning_es": "paciente"
+    },
+    {
+      "term": "die Intelligenz",
+      "type": "Noun",
+      "meaning_tr": "zeka - idrak",
+      "meaning_en": "intelligence - intellect",
+      "meaning_uk": "інтелект - розум",
+      "example": "Sie beeindruckte alle mit ihrer ***.",
+      "meaning_es": "inteligencia - intelecto"
+    },
+    {
+      "term": "intelligent",
+      "type": "Adjective",
+      "meaning_tr": "zeki - zeki kimse",
+      "meaning_en": "intelligent - bright",
+      "meaning_uk": "розумний - скмоторий",
+      "example": "Hunde sind sehr ***e Tiere.",
+      "meaning_es": "inteligente - listo"
+    },
+    {
+      "term": "die Zuverlässigkeit",
+      "type": "Noun",
+      "meaning_tr": "güvenilirlik - sağlamlık",
+      "meaning_en": "reliability - dependability",
+      "meaning_uk": "надійність - опірність",
+      "example": "Auf seine *** kann man sich immer verlassen.",
+      "meaning_es": "fiabilidad - confianza"
+    },
+    {
+      "term": "zuverlässig",
+      "type": "Adjective",
+      "meaning_tr": "güvenilir - sağlam",
+      "meaning_en": "reliable - dependable",
+      "meaning_uk": "надійний - опірний",
+      "example": "Mein altes Auto ist immer noch sehr ***.",
+      "meaning_es": "fiable - confiable"
+    },
+    {
+      "term": "die Toleranz",
+      "type": "Noun",
+      "meaning_tr": "hoşgörü - tolerans",
+      "meaning_en": "tolerance - forbearance",
+      "meaning_uk": "толерантність - витримання",
+      "example": "In einer Großstadt ist *** gegenüber anderen Kulturen wichtig.",
+      "meaning_es": "tolerancia - tolerancia"
+    },
+    {
+      "term": "tolerant",
+      "type": "Adjective",
+      "meaning_tr": "hoşgörülü - toleranslı",
+      "meaning_en": "tolerant - broad-minded",
+      "meaning_uk": "толерантний - вибливий",
+      "example": "Meine Eltern sind sehr *** und lassen mir meine Freiheit.",
+      "meaning_es": "tolerante - abierto"
+    },
+    {
+      "term": "die Offenheit",
+      "type": "Noun",
+      "meaning_tr": "açıklık - içtenlik",
+      "meaning_en": "openness - candor",
+      "meaning_uk": "відкритість - обкритість",
+      "example": "Ihre *** macht es einfach, mit ihr zu reden.",
+      "meaning_es": "apertura - franqueza"
+    },
+    {
+      "term": "offen",
+      "type": "Adjective",
+      "meaning_tr": "açık - içten",
+      "meaning_en": "open - candid",
+      "meaning_uk": "відкритий - прямий",
+      "example": "Wir haben sehr *** über unsere Probleme gesprochen.",
+      "meaning_es": "abierto - franco"
+    },
+    {
+      "term": "der Hund",
+      "type": "Noun",
+      "meaning_tr": "köpek",
+      "meaning_en": "dog",
+      "meaning_uk": "собака",
+      "example": "Jeden Morgen gehe ich mit meinem *** spazieren.",
+      "meaning_es": "perro"
+    },
+    {
+      "term": "der Blindenhund",
+      "type": "Noun",
+      "meaning_tr": "rehber köpek",
+      "meaning_en": "guide dog - assistance dog",
+      "meaning_uk": "собака-поводир - помічник",
+      "example": "Ein *** hilft blinden Menschen im Alltag.",
+      "meaning_es": "perro guía - perro de asistencia"
+    },
+    {
+      "term": "der Schäferhund",
+      "type": "Noun",
+      "meaning_tr": "alman kurdu - çoban köpeği",
+      "meaning_en": "shepherd dog - German Shepherd",
+      "meaning_uk": "вівчарка - поводир вівчарка",
+      "example": "Der *** ist eine sehr bekannte Hunderasse.",
+      "meaning_es": "perro pastor - pastor alemán"
+    },
+    {
+      "term": "der Pudel",
+      "type": "Noun",
+      "meaning_tr": "kaniş köpek",
+      "meaning_en": "poodle",
+      "meaning_uk": "пудель",
+      "example": "Meine Tante hat einen kleinen, weißen ***.",
+      "meaning_es": "caniche - poodle"
+    },
+    {
+      "term": "die Hundeschule",
+      "type": "Noun",
+      "meaning_tr": "köpek eğitim okulu",
+      "meaning_en": "dog school - obedience school",
+      "meaning_uk": "школа для собак - кінологічна школа",
+      "example": "Wir gehen jeden Samstag mit unserem Welpen in die ***.",
+      "meaning_es": "escuela de perros - escuela de adiestramiento"
+    },
+    {
+      "term": "erziehen",
+      "type": "Verb",
+      "meaning_tr": "eğitmek - yetiştirmek",
+      "meaning_en": "to raise - to educate",
+      "meaning_uk": "виховувати - вихововати",
+      "example": "Es ist nicht einfach, Kinder richtig zu ***.",
+      "meaning_es": "criar - educar"
+    },
+    {
+      "term": "genügend",
+      "type": "Adjective",
+      "meaning_tr": "yeterli - kafi",
+      "meaning_en": "sufficient - enough",
+      "meaning_uk": "достатньо - достатній",
+      "example": "Haben wir *** Brot für das Frühstück?",
+      "meaning_es": "suficiente - bastante"
+    },
+    {
+      "term": "sterben",
+      "type": "Verb",
+      "meaning_tr": "ölmek",
+      "meaning_en": "to die",
+      "meaning_uk": "помирати",
+      "example": "Pflanzen ***, wenn sie kein Wasser bekommen.",
+      "meaning_es": "morir"
+    },
+    {
+      "term": "das Tierheim",
+      "type": "Noun",
+      "meaning_tr": "hayvan barınağı",
+      "meaning_en": "animal shelter - refuge",
+      "meaning_uk": "притулок для тварин - защита для тварин",
+      "example": "Wir haben unsere Katze aus dem *** geholt.",
+      "meaning_es": "refugio de animales - albergue para animales"
+    },
+    {
+      "term": "der Zahn",
+      "type": "Noun",
+      "meaning_tr": "diş",
+      "meaning_en": "tooth",
+      "meaning_uk": "зуб",
+      "example": "Ich muss zum Zahnarzt, mein *** tut weh.",
+      "meaning_es": "diente"
+    },
+    {
+      "term": "lassen",
+      "type": "Verb",
+      "meaning_tr": "bırakmak - izin vermek",
+      "meaning_en": "to let - to leave",
+      "meaning_uk": "залишати - дозволити",
+      "example": "Ich *** mein Auto heute in der Garage.",
+      "meaning_es": "dejar - permitir"
+    },
+    {
+      "term": "hierlassen",
+      "type": "Verb",
+      "meaning_tr": "burada bırakmak",
+      "meaning_en": "to leave here",
+      "meaning_uk": "залишити тут",
+      "example": "Du kannst deine Tasche einfach ***.",
+      "meaning_es": "dejar aquí"
+    },
+    {
+      "term": "dalassen",
+      "type": "Verb",
+      "meaning_tr": "orada bırakmak",
+      "meaning_en": "to leave there",
+      "meaning_uk": "залишити там",
+      "example": "Ich habe meinen Schirm im Restaurant ***.",
+      "meaning_es": "dejar allí"
+    },
+    {
+      "term": "das Fahrrad",
+      "type": "Noun",
+      "meaning_tr": "bisiklet",
+      "meaning_en": "bicycle - bike",
+      "meaning_uk": "велосипед",
+      "example": "Im Sommer fahre ich oft mit dem *** zur Arbeit.",
+      "meaning_es": "bicicleta - bici"
+    },
+    {
+      "term": "das Rücklicht",
+      "type": "Noun",
+      "meaning_tr": "arka lamba - stop lambası",
+      "meaning_en": "rear light - tail light",
+      "meaning_uk": "задній ліхтар - стоп-аварійний ліхтар",
+      "example": "Bei meinem Fahrrad ist das *** kaputt.",
+      "meaning_es": "luz trasera - faro trasero"
+    },
+    {
+      "term": "die Schaltung",
+      "type": "Noun",
+      "meaning_tr": "vites - şanzıman",
+      "meaning_en": "gear shift - gear mechanism",
+      "meaning_uk": "коробка передач - механізм передач",
+      "example": "Dieses Fahrrad hat eine sehr gute ***.",
+      "meaning_es": "cambio de marchas - sistema de engranajes"
+    },
+    {
+      "term": "die Bremse",
+      "type": "Noun",
+      "meaning_tr": "fren",
+      "meaning_en": "brake",
+      "meaning_uk": "гальмо",
+      "example": "Du musst die *** kontrollieren, sie funktioniert nicht richtig.",
+      "meaning_es": "freno"
+    },
+    {
+      "term": "funktionieren",
+      "type": "Verb",
+      "meaning_tr": "çalışmak - işlemek",
+      "meaning_en": "to function - to work",
+      "meaning_uk": "функціонувати - працювати",
+      "example": "Mein neues Handy *** einwandfrei.",
+      "meaning_es": "funcionar - operar"
+    },
+    {
+      "term": "reparieren",
+      "type": "Verb",
+      "meaning_tr": "tamir etmek - onarmak",
+      "meaning_en": "to repair - to fix",
+      "meaning_uk": "ремонтувати - відновити",
+      "example": "Kannst du mein Fahrrad ***?",
+      "meaning_es": "reparar - arreglar"
+    },
+    {
+      "term": "kontrollieren",
+      "type": "Verb",
+      "meaning_tr": "kontrol etmek - denetlemek",
+      "meaning_en": "to check - to verify",
+      "meaning_uk": "контролювати - перевірити",
+      "example": "Der Lehrer *** die Hausaufgaben.",
+      "meaning_es": "controlar - verificar"
+    },
+    {
+      "term": "bewundern",
+      "type": "Verb",
+      "meaning_tr": "hayran kalmak - takdir etmek",
+      "meaning_en": "to admire - to gaze at",
+      "meaning_uk": "милуватися - захочувати",
+      "example": "Ich *** dich für deinen Mut.",
+      "meaning_es": "admirar - contemplar"
+    },
+    {
+      "term": "kritisieren",
+      "type": "Verb",
+      "meaning_tr": "eleştirmek - tenkit etmek",
+      "meaning_en": "to criticize - to find fault",
+      "meaning_uk": "критикувати - задавати зауваження",
+      "example": "Es ist leicht, andere zu ***.",
+      "meaning_es": "criticar - censurar"
+    },
+    {
+      "term": "lügen",
+      "type": "Verb",
+      "meaning_tr": "yalan söylemek",
+      "meaning_en": "to lie - to tell untruths",
+      "meaning_uk": "брехати - казати неправду",
+      "example": "Gute Freunde *** sich niemals an.",
+      "meaning_es": "mentir - decir mentiras"
+    },
+    {
+      "term": "versprechen",
+      "type": "Verb",
+      "meaning_tr": "söz vermek - vaat etmek",
+      "meaning_en": "to promise - to pledge",
+      "meaning_uk": "обіцяти - дати обіть",
+      "example": "Ich *** dir, dass ich pünktlich bin.",
+      "meaning_es": "prometer - asegurar"
+    },
+    {
+      "term": "der Forumsbeitrag",
+      "type": "Noun",
+      "meaning_tr": "forum paylaşımı - forum mesajı",
+      "meaning_en": "forum post - thread contribution",
+      "meaning_uk": "повідомлення на форумі - пост на форумі",
+      "example": "Ich habe einen interessanten *** gelesen.",
+      "meaning_es": "publicación en el foro - mensaje del foro"
+    },
+    {
+      "term": "übermorgen",
+      "type": "Adverb",
+      "meaning_tr": "yarından sonra",
+      "meaning_en": "day after tomorrow",
+      "meaning_uk": "післязавтра",
+      "example": "Morgen habe ich frei, aber *** muss ich arbeiten.",
+      "meaning_es": "pasado mañana"
+    },
+    {
+      "term": "irgendwie",
+      "type": "Adverb",
+      "meaning_tr": "bir şekilde - nasılsa",
+      "meaning_en": "somehow - in some way",
+      "meaning_uk": "якось - якимсь способом",
+      "example": "Wir werden das Problem *** lösen.",
+      "meaning_es": "de alguna manera - algún modo"
+    },
+    {
+      "term": "wieso",
+      "type": "Adverb",
+      "meaning_tr": "neden - niçin",
+      "meaning_en": "why - for what reason",
+      "meaning_uk": "чому - заякого причини",
+      "example": "*** hast du mir das nicht früher gesagt?",
+      "meaning_es": "por qué - cuál es la razón"
+    },
+    {
+      "term": "annähen",
+      "type": "Verb",
+      "meaning_tr": "dikmek (düğme vb.) - eklemek",
+      "meaning_en": "to sew on - to attach by sewing",
+      "meaning_uk": "пришивати - прикріпити",
+      "example": "Kannst du mir diesen Knopf ***?",
+      "meaning_es": "coser (un botón) - adjuntar cosiendo"
+    },
+    {
+      "term": "bügeln",
+      "type": "Verb",
+      "meaning_tr": "ütü yapmak - ütülemek",
+      "meaning_en": "to iron - to press (clothes)",
+      "meaning_uk": "прасувати - прассувати",
+      "example": "Ich muss heute noch meine Hemden ***.",
+      "meaning_es": "planchar - alisar"
+    },
+    {
+      "term": "geizig",
+      "type": "Adjective",
+      "meaning_tr": "cimri - elisı sıkı",
+      "meaning_en": "stingy - greedy",
+      "meaning_uk": "скупий - жадибний",
+      "example": "Er gibt nie Trinkgeld, er ist sehr ***.",
+      "meaning_es": "tacaño - avaro"
+    },
+    {
+      "term": "kaum",
+      "type": "Adverb",
+      "meaning_tr": "neredeyse hiç - zar zor",
+      "meaning_en": "hardly - scarcely",
+      "meaning_uk": "навряд чи - заякодобо",
+      "example": "Ich kann dich *** hören, es ist zu laut.",
+      "meaning_es": "apenas - difícilmente"
+    },
+    {
+      "term": "die Grenze",
+      "type": "Noun",
+      "meaning_tr": "sınır - hudut",
+      "meaning_en": "border - limit - boundary",
+      "meaning_uk": "кордон - межа - границя",
+      "example": "Wir sind gestern über die *** nach Frankreich gefahren.",
+      "meaning_es": "frontera - límite"
+    },
+    {
+      "term": "der Knopf",
+      "type": "Noun",
+      "meaning_tr": "düğme - buton",
+      "meaning_en": "button - knob",
+      "meaning_uk": "гудзик - кнопка",
+      "example": "An meiner Jacke fehlt ein ***.",
+      "meaning_es": "botón - perilla"
+    },
+    {
+      "term": "das Loch",
+      "type": "Noun",
+      "meaning_tr": "delik - boşluk",
+      "meaning_en": "hole - gap",
+      "meaning_uk": "дірка - отвір",
+      "example": "Meine Socke hat ein großes ***.",
+      "meaning_es": "agujero - hueco"
+    },
+    {
+      "term": "der Mitbewohner",
+      "type": "Noun",
+      "meaning_tr": "ev arkadaşı (erkek)",
+      "meaning_en": "roommate - male flatmate",
+      "meaning_uk": "сусід по кімнаті - співмешканець",
+      "example": "Mein *** kocht sehr gerne für uns.",
+      "meaning_es": "compañero de piso - inquilino"
+    },
+    {
+      "term": "die Mitbewohnerin",
+      "type": "Noun",
+      "meaning_tr": "ev arkadaşı (kadın)",
+      "meaning_en": "roommate - female flatmate",
+      "meaning_uk": "сусідка по кімнаті - співмешканка",
+      "example": "Meine *** ist gerade im Urlaub.",
+      "meaning_es": "compañera de piso - inquilina"
+    },
+    {
+      "term": "sparsam",
+      "type": "Adjective",
+      "meaning_tr": "tutumlu - idareli",
+      "meaning_en": "thrifty - economical",
+      "meaning_uk": "економний - ощедливий",
+      "example": "Wir müssen diesen Monat *** leben.",
+      "meaning_es": "ahorrativo - económico"
+    },
+    {
+      "term": "vorkommen",
+      "type": "Verb",
+      "meaning_tr": "meydana gelmek - bulunmak",
+      "meaning_en": "to occur - to happen - to be found",
+      "meaning_uk": "відбуватися - зустрічатися",
+      "example": "Solche Fehler können leider immer wieder ***.",
+      "meaning_es": "ocurrir - suceder - presentarse"
+    },
+    {
+      "term": "die Wäsche",
+      "type": "Noun",
+      "meaning_tr": "çamaşır - yıkanacaklar",
+      "meaning_en": "laundry - washing",
+      "meaning_uk": "білизна - прання",
+      "example": "Ich muss heute die weiße *** waschen.",
+      "meaning_es": "ropa sucia - colada"
+    },
+    {
+      "term": "die Freundschaft",
+      "type": "Noun",
+      "meaning_tr": "dostluk - arkadaşlık",
+      "meaning_en": "friendship - amity",
+      "meaning_uk": "дружба - приятельство",
+      "example": "Unsere *** hält schon seit 20 Jahren.",
+      "meaning_es": "amistad - compañerismo"
+    },
+    {
+      "term": "freiwillig",
+      "type": "Adjective",
+      "meaning_tr": "gönüllü - isteyerek",
+      "meaning_en": "voluntary - willingly",
+      "meaning_uk": "добровільний - за власний почату",
+      "example": "Er arbeitet *** am Wochenende im Tierheim.",
+      "meaning_es": "voluntario - de forma voluntaria"
+    },
+    {
+      "term": "wissenschaftlich",
+      "type": "Adjective",
+      "meaning_tr": "bilimsel - ilmi",
+      "meaning_en": "scientific - academic",
+      "meaning_uk": "науковий - методологічний",
+      "example": "Es gibt keine ***e Erklärung für dieses Phänomen.",
+      "meaning_es": "científico - académico"
+    },
+    {
+      "term": "die Untersuchung",
+      "type": "Noun",
+      "meaning_tr": "inceleme - araştırma - soruşturma",
+      "meaning_en": "investigation - examination - study",
+      "meaning_uk": "дослідження - дослідження",
+      "example": "Der Arzt führt eine gründliche *** durch.",
+      "meaning_es": "investigación - examen"
+    },
+    {
+      "term": "bereit",
+      "type": "Adjective",
+      "meaning_tr": "hazır",
+      "meaning_en": "ready - prepared",
+      "meaning_uk": "готовий - приготований",
+      "example": "Bist du *** für den Ausflug?",
+      "meaning_es": "listo - preparado"
+    },
+    {
+      "term": "der Einfluss",
+      "type": "Noun",
+      "meaning_tr": "etki - tesir",
+      "meaning_en": "influence - effect",
+      "meaning_uk": "вплив - вришення",
+      "example": "Freunde haben einen großen *** auf uns.",
+      "meaning_es": "influencia - efecto"
+    },
+    {
+      "term": "emotional",
+      "type": "Adjective",
+      "meaning_tr": "duygusal",
+      "meaning_en": "emotional - sentimental",
+      "meaning_uk": "емоційний - чуттєвий",
+      "example": "Der Film war sehr ***.",
+      "meaning_es": "emocional - sentimental"
+    },
+    {
+      "term": "körperlich",
+      "type": "Adjective",
+      "meaning_tr": "fiziksel - bedensel",
+      "meaning_en": "physical - bodily",
+      "meaning_uk": "тілесний - фізичний",
+      "example": "Sport ist gut für die ***e Gesundheit.",
+      "meaning_es": "físico - corporal"
+    },
+    {
+      "term": "verwirklichen",
+      "type": "Verb",
+      "meaning_tr": "gerçekleştirmek - hayata geçirmek",
+      "meaning_en": "to realize - to fulfill - to achieve",
+      "meaning_uk": "реалізувати - збутити",
+      "example": "Er möchte endlich seinen Traum ***.",
+      "meaning_es": "realizar - cumplir"
+    },
+    {
+      "term": "entstehen",
+      "type": "Verb",
+      "meaning_tr": "oluşmak - ortaya çıkmak",
+      "meaning_en": "to arise - to develop - to originate",
+      "meaning_uk": "виникати - поступати",
+      "example": "Hier *** gerade ein neues Wohnviertel.",
+      "meaning_es": "surgir - originarse - desarrollarse"
+    },
+    {
+      "term": "das Selbstbewusstsein",
+      "type": "Noun",
+      "meaning_tr": "özgüven - özbilinç",
+      "meaning_en": "self-confidence - self-esteem",
+      "meaning_uk": "самовпевненість - самоцінка",
+      "example": "Erfolge stärken das ***.",
+      "meaning_es": "autoconfianza - autoestima"
+    },
+    {
+      "term": "fit halten",
+      "type": "Verb",
+      "meaning_tr": "formda tutmak",
+      "meaning_en": "to keep fit - to stay in shape",
+      "meaning_uk": "тримати у формі - підтримувати в тонусі",
+      "example": "Tägliches Joggen hilft mir, mich *** zu ***.",
+      "meaning_es": "mantenerse en forma"
+    },
+    {
+      "term": "stärken",
+      "type": "Verb",
+      "meaning_tr": "güçlendirmek - kuvvetlendirmek",
+      "meaning_en": "to strengthen - to reinforce",
+      "meaning_uk": "зміцнювати - підсилити",
+      "example": "Wir müssen unsere Abwehrkräfte ***.",
+      "meaning_es": "fortalecer - reforzar"
+    },
+    {
+      "term": "pflegen",
+      "type": "Verb",
+      "meaning_tr": "bakmak - özen göstermek",
+      "meaning_en": "to care for - to maintain - to tend",
+      "meaning_uk": "доглядати - підтримувати",
+      "example": "Man muss eine Freundschaft gut ***.",
+      "meaning_es": "cuidar - mantener"
+    },
+    {
+      "term": "der Sporttermin",
+      "type": "Noun",
+      "meaning_tr": "spor randevusu - antrenman saati",
+      "meaning_en": "sports appointment - training session",
+      "meaning_uk": "спортивна зустріч - тренування",
+      "example": "Ich darf meinen *** heute nicht verpassen.",
+      "meaning_es": "cita deportiva - compromiso deportivo"
+    },
+    {
+      "term": "der Trost",
+      "type": "Noun",
+      "meaning_tr": "teselli - avutma",
+      "meaning_en": "comfort - consolation",
+      "meaning_uk": "втіха - заспокоїдження",
+      "example": "Deine Worte waren mir ein großer ***.",
+      "meaning_es": "consuelo - consuelo"
+    },
+    {
+      "term": "die Krankheit",
+      "type": "Noun",
+      "meaning_tr": "hastalık - maraz",
+      "meaning_en": "illness - sickness",
+      "meaning_uk": "хвороба - хвороби",
+      "example": "Gegen diese *** gibt es leider noch kein Medikament.",
+      "meaning_es": "enfermedad - dolencia"
+    },
+    {
+      "term": "die Unterstützung",
+      "type": "Noun",
+      "meaning_tr": "destek - yardım",
+      "meaning_en": "support - aid",
+      "meaning_uk": "підтримка - підтримка",
+      "example": "Vielen Dank für deine Hilfe und ***.",
+      "meaning_es": "apoyo - asistencia"
+    },
+    {
+      "term": "zusammenhängen",
+      "type": "Verb",
+      "meaning_tr": "bağlantılı olmak - ilişkili olmak",
+      "meaning_en": "to be connected - to relate to",
+      "meaning_uk": "бути пов'язаним - бути пов'язаним",
+      "example": "Diese beiden Probleme *** eng ***.",
+      "meaning_es": "estar conectado - estar relacionado"
+    },
+    {
+      "term": "sich aussuchen",
+      "type": "Verb",
+      "meaning_tr": "seçmek - tercih etmek",
+      "meaning_en": "to pick - to choose - to select",
+      "meaning_uk": "вибирати - обрати в вибор",
+      "example": "Du darfst dir ein Geschenk ***.",
+      "meaning_es": "escoger - seleccionar"
+    },
+    {
+      "term": "das Alltagsproblem",
+      "type": "Noun",
+      "meaning_tr": "günlük sorun - güncel problem",
+      "meaning_en": "everyday problem - daily issue",
+      "meaning_uk": "буденна проблема - повсякденна проблема",
+      "example": "Wir reden oft über unsere kleinen ***.",
+      "meaning_es": "problema cotidiano - cuestión diaria"
+    },
+    {
+      "term": "komplett",
+      "type": "Adjective",
+      "meaning_tr": "tamamen - tam",
+      "meaning_en": "complete - entirely",
+      "meaning_uk": "повністю - повний",
+      "example": "Die Arbeit ist nun *** fertig.",
+      "meaning_es": "completo - totalmente"
+    },
+    {
+      "term": "loben",
+      "type": "Verb",
+      "meaning_tr": "övmek - takdir etmek",
+      "meaning_en": "to praise - to commend",
+      "meaning_uk": "хвалити - захвалити",
+      "example": "Der Chef hat meine Arbeit sehr ge***.",
+      "meaning_es": "elogiar - alabar"
+    },
+    {
+      "term": "das Puzzleteil",
+      "type": "Noun",
+      "meaning_tr": "yapboz parçası",
+      "meaning_en": "puzzle piece",
+      "meaning_uk": "частина пазла",
+      "example": "Mir fehlt noch ein ***, um das Bild fertigzumachen.",
+      "meaning_es": "pieza de rompecabezas"
+    },
+    {
+      "term": "das Sprichwort",
+      "type": "Noun",
+      "meaning_tr": "atasözü - deyim",
+      "meaning_en": "proverb - saying",
+      "meaning_uk": "прислів'я - прислівка",
+      "example": "Kennst du ein deutsches ***?",
+      "meaning_es": "proverbio - refrán"
+    },
+    {
+      "term": "das Vertrauen",
+      "type": "Noun",
+      "meaning_tr": "güven - itimat",
+      "meaning_en": "trust - confidence",
+      "meaning_uk": "довіра - довірювання",
+      "example": "Ich habe volles *** zu dir.",
+      "meaning_es": "confianza - fe"
+    },
+    {
+      "term": "der Duft",
+      "type": "Noun",
+      "meaning_tr": "koku - hoş koku",
+      "meaning_en": "scent - fragrance - aroma",
+      "meaning_uk": "аромат - пахощі",
+      "example": "Der *** von frischem Kaffee ist wunderbar.",
+      "meaning_es": "aroma - fragancia"
+    }
   ]
 }

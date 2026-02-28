@@ -1,0 +1,186 @@
+{
+  "title": "Einkaufen & Geld A2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "der Einkauf",
+      "type": "noun",
+      "meaning_tr": "alışveriş",
+      "meaning_en": "the shopping",
+      "meaning_uk": "покупка",
+      "meaning_es": "la compra",
+      "example": "Ich mache ***jeden Samstag den Einkauf*** für die Woche."
+    },
+    {
+      "term": "die Rechnung",
+      "type": "noun",
+      "meaning_tr": "hesap, fatura",
+      "meaning_en": "the bill, the invoice",
+      "meaning_uk": "рахунок",
+      "meaning_es": "la cuenta, la factura",
+      "example": "Können wir bitte ***die Rechnung*** haben?"
+    },
+    {
+      "term": "bezahlen",
+      "type": "verb",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to pay",
+      "meaning_uk": "платити",
+      "meaning_es": "pagar",
+      "example": "Ich muss an der Kasse ***bezahlen***."
+    },
+    {
+      "term": "das Bargeld",
+      "type": "noun",
+      "meaning_tr": "nakit para",
+      "meaning_en": "the cash",
+      "meaning_uk": "готівка",
+      "meaning_es": "el efectivo",
+      "example": "Zahlen Sie mit Karte oder ***mit Bargeld***?"
+    },
+    {
+      "term": "die Kreditkarte",
+      "type": "noun",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "the credit card",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "la tarjeta de crédito",
+      "example": "Ich bevorzuge es, mit ***der Kreditkarte*** zu zahlen."
+    },
+    {
+      "term": "der Preis",
+      "type": "noun",
+      "meaning_tr": "fiyat",
+      "meaning_en": "the price",
+      "meaning_uk": "ціна",
+      "meaning_es": "el precio",
+      "example": "Wie hoch ist ***der Preis*** für dieses Buch?"
+    },
+    {
+      "term": "günstig",
+      "type": "adjective",
+      "meaning_tr": "uygun fiyatlı, ucuz",
+      "meaning_en": "cheap, affordable",
+      "meaning_uk": "дешевий, вигідний",
+      "meaning_es": "barato, económico",
+      "example": "Diese Äpfel sind sehr ***günstig***."
+    },
+    {
+      "term": "teuer",
+      "type": "adjective",
+      "meaning_tr": "pahalı",
+      "meaning_en": "expensive",
+      "meaning_uk": "дорогий",
+      "meaning_es": "caro",
+      "example": "Das neue Handy ist leider ***sehr teuer***."
+    },
+    {
+      "term": "das Angebot",
+      "type": "noun",
+      "meaning_tr": "kampanya, teklif",
+      "meaning_en": "the special offer, the deal",
+      "meaning_uk": "пропозиція, акція",
+      "meaning_es": "la oferta",
+      "example": "Im Supermarkt gibt es gerade ein tolles ***Angebot***."
+    },
+    {
+      "term": "der Rabatt",
+      "type": "noun",
+      "meaning_tr": "indirim",
+      "meaning_en": "the discount",
+      "meaning_uk": "знижка",
+      "meaning_es": "el descuento",
+      "example": "Ich habe ***zehn Prozent Rabatt*** bekommen."
+    },
+    {
+      "term": "die Tüte",
+      "type": "noun",
+      "meaning_tr": "poşet",
+      "meaning_en": "the bag",
+      "meaning_uk": "пакет",
+      "meaning_es": "la bolsa",
+      "example": "Brauchen Sie ***eine Tüte*** für Ihren Einkauf?"
+    },
+    {
+      "term": "der Supermarkt",
+      "type": "noun",
+      "meaning_tr": "süpermarket",
+      "meaning_en": "the supermarket",
+      "meaning_uk": "супермаркет",
+      "meaning_es": "el supermercado",
+      "example": "Wir gehen heute Abend in ***den Supermarkt***."
+    },
+    {
+      "term": "die Obst- und Gemüseabteilung",
+      "type": "noun",
+      "meaning_tr": "meyve ve sebze reyonu",
+      "meaning_en": "the fruit and vegetable department",
+      "meaning_uk": "відділ фруктів та овочів",
+      "meaning_es": "la sección de frutas y verduras",
+      "example": "Ich kaufe mein Gemüse in ***der Obst- und Gemüseabteilung***."
+    },
+    {
+      "term": "die Kasse",
+      "type": "noun",
+      "meaning_tr": "kasa",
+      "meaning_en": "the checkout counter",
+      "meaning_uk": "каса",
+      "meaning_es": "la caja",
+      "example": "Bitte stellen Sie sich an ***der Kasse*** an."
+    },
+    {
+      "term": "das Wechselgeld",
+      "type": "noun",
+      "meaning_tr": "para üstü",
+      "meaning_en": "the change (money)",
+      "meaning_uk": "решта",
+      "meaning_es": "el cambio",
+      "example": "Der Verkäufer gibt mir ***das Wechselgeld*** zurück."
+    },
+    {
+      "term": "das Geschäft",
+      "type": "noun",
+      "meaning_tr": "dükkan",
+      "meaning_en": "the shop, the store",
+      "meaning_uk": "магазин",
+      "meaning_es": "la tienda",
+      "example": "Welches ***Geschäft*** hat heute geöffnet?"
+    },
+    {
+      "term": "die Menge",
+      "type": "noun",
+      "meaning_tr": "miktar",
+      "meaning_en": "the quantity, the amount",
+      "meaning_uk": "кількість",
+      "meaning_es": "la cantidad",
+      "example": "Ich brauche nur ***eine kleine Menge*** Salz."
+    },
+    {
+      "term": "umtauschen",
+      "type": "verb",
+      "meaning_tr": "değiştirmek",
+      "meaning_en": "to exchange",
+      "meaning_uk": "обмінювати",
+      "meaning_es": "cambiar",
+      "example": "Kann ich diese Hose ***umtauschen***?"
+    },
+    {
+      "term": "der Geldautomat",
+      "type": "noun",
+      "meaning_tr": "ATM, para çekme makinesi",
+      "meaning_en": "the ATM (cash machine)",
+      "meaning_uk": "банкомат",
+      "meaning_es": "el cajero automático",
+      "example": "Ich muss zuerst Geld am ***Geldautomat*** holen."
+    },
+    {
+      "term": "kosten",
+      "type": "verb",
+      "meaning_tr": "mal olmak, fiyatı olmak",
+      "meaning_en": "to cost",
+      "meaning_uk": "коштувати",
+      "meaning_es": "costar",
+      "example": "Wie viel ***kostet*** das Brot?"
+    }
+  ]
+}

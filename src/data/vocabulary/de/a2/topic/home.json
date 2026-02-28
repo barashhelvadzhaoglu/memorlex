@@ -1,0 +1,186 @@
+{
+  "title": "Haus & Wohnen A2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "das Haus",
+      "type": "Noun",
+      "meaning_tr": "ev",
+      "meaning_en": "house",
+      "meaning_uk": "будинок",
+      "meaning_es": "casa",
+      "example": "Wir kaufen ***ein neues Haus***."
+    },
+    {
+      "term": "die Wohnung",
+      "type": "Noun",
+      "meaning_tr": "daire",
+      "meaning_en": "apartment",
+      "meaning_uk": "квартира",
+      "meaning_es": "apartamento",
+      "example": "Meine ***Wohnung*** ist im dritten Stock."
+    },
+    {
+      "term": "das Zimmer",
+      "type": "Noun",
+      "meaning_tr": "oda",
+      "meaning_en": "room",
+      "meaning_uk": "кімната",
+      "meaning_es": "habitación",
+      "example": "Ich habe ein eigenes ***Zimmer***."
+    },
+    {
+      "term": "die Küche",
+      "type": "Noun",
+      "meaning_tr": "mutfak",
+      "meaning_en": "kitchen",
+      "meaning_uk": "кухня",
+      "meaning_es": "cocina",
+      "example": "Ich koche gern in ***der Küche***."
+    },
+    {
+      "term": "das Badezimmer",
+      "type": "Noun",
+      "meaning_tr": "banyo",
+      "meaning_en": "bathroom",
+      "meaning_uk": "ванна кімната",
+      "meaning_es": "baño",
+      "example": "Ich putze ***das Badezimmer*** am Samstag."
+    },
+    {
+      "term": "das Schlafzimmer",
+      "type": "Noun",
+      "meaning_tr": "yatak odası",
+      "meaning_en": "bedroom",
+      "meaning_uk": "спальня",
+      "meaning_es": "dormitorio",
+      "example": "In ***dem Schlafzimmer*** steht ein großes Bett."
+    },
+    {
+      "term": "der Garten",
+      "type": "Noun",
+      "meaning_tr": "bahçe",
+      "meaning_en": "garden",
+      "meaning_uk": "сад",
+      "meaning_es": "jardín",
+      "example": "Wir sitzen oft im ***Garten***."
+    },
+    {
+      "term": "mieten",
+      "type": "Verb",
+      "meaning_tr": "kiralamak",
+      "meaning_en": "to rent",
+      "meaning_uk": "орендувати",
+      "meaning_es": "alquilar",
+      "example": "Wir wollen eine Wohnung ***mieten***."
+    },
+    {
+      "term": "kaufen",
+      "type": "Verb",
+      "meaning_tr": "satın almak",
+      "meaning_en": "to buy",
+      "meaning_uk": "купувати",
+      "meaning_es": "comprar",
+      "example": "Möchtest du dieses Haus ***kaufen***?"
+    },
+    {
+      "term": "die Miete",
+      "type": "Noun",
+      "meaning_tr": "kira",
+      "meaning_en": "rent (money)",
+      "meaning_uk": "плата за оренду",
+      "meaning_es": "alquiler",
+      "example": "***Die Miete*** ist diesen Monat sehr hoch."
+    },
+    {
+      "term": "die Möbel",
+      "type": "Noun (Plural)",
+      "meaning_tr": "mobilyalar",
+      "meaning_en": "furniture",
+      "meaning_uk": "меблі",
+      "meaning_es": "muebles",
+      "example": "Wir brauchen neue ***Möbel*** für das Wohnzimmer."
+    },
+    {
+      "term": "die Einrichtung",
+      "type": "Noun",
+      "meaning_tr": "dekorasyon/döşeme",
+      "meaning_en": "furnishing/interior design",
+      "meaning_uk": "облаштування",
+      "meaning_es": "decoración/mobiliario",
+      "example": "Die ***Einrichtung*** ist sehr modern."
+    },
+    {
+      "term": "die Rechnung",
+      "type": "Noun",
+      "meaning_tr": "fatura",
+      "meaning_en": "bill (invoice)",
+      "meaning_uk": "рахунок",
+      "meaning_es": "factura",
+      "example": "Ich muss noch ***die Stromrechnung*** bezahlen."
+    },
+    {
+      "term": "die Heizung",
+      "type": "Noun",
+      "meaning_tr": "ısıtma",
+      "meaning_en": "heating",
+      "meaning_uk": "опалення",
+      "meaning_es": "calefacción",
+      "example": "***Die Heizung*** funktioniert nicht mehr."
+    },
+    {
+      "term": "der Strom",
+      "type": "Noun",
+      "meaning_tr": "elektrik",
+      "meaning_en": "electricity",
+      "meaning_uk": "електрика",
+      "meaning_es": "electricidad",
+      "example": "Wir haben keinen ***Strom*** mehr."
+    },
+    {
+      "term": "der Nachbar / die Nachbarin",
+      "type": "Noun",
+      "meaning_tr": "komşu",
+      "meaning_en": "neighbor",
+      "meaning_uk": "сусід / сусідка",
+      "meaning_es": "vecino / vecina",
+      "example": "***Der Nachbar*** hat uns beim Umzug geholfen."
+    },
+    {
+      "term": "der Keller",
+      "type": "Noun",
+      "meaning_tr": "bodrum",
+      "meaning_en": "basement",
+      "meaning_uk": "підвал",
+      "meaning_es": "sótano",
+      "example": "Ich lagere meine alten Sachen im ***Keller***."
+    },
+    {
+      "term": "der Balkon",
+      "type": "Noun",
+      "meaning_tr": "balkon",
+      "meaning_en": "balcony",
+      "meaning_uk": "балкон",
+      "meaning_es": "balcón",
+      "example": "Auf ***dem Balkon*** kann man gut sitzen."
+    },
+    {
+      "term": "der Umzug",
+      "type": "Noun",
+      "meaning_tr": "taşınma",
+      "meaning_en": "moving (house)",
+      "meaning_uk": "переїзд",
+      "meaning_es": "mudanza",
+      "example": "Nächste Woche haben wir ***den Umzug***."
+    },
+    {
+      "term": "reinigen",
+      "type": "Verb",
+      "meaning_tr": "temizlemek",
+      "meaning_en": "to clean",
+      "meaning_uk": "прибирати",
+      "meaning_es": "limpiar",
+      "example": "Ich muss das Fenster ***reinigen***."
+    }
+  ]
+}

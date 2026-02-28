@@ -1,0 +1,276 @@
+{
+  "title": "Zeit & Datum B1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Uhrzeit",
+      "type": "Noun (f)",
+      "meaning_tr": "saat",
+      "meaning_en": "time (of day)",
+      "meaning_uk": "час",
+      "meaning_es": "la hora",
+      "example": "Können Sie mir bitte ***die Uhrzeit*** sagen?"
+    },
+    {
+      "term": "die Minute",
+      "type": "Noun (f)",
+      "meaning_tr": "dakika",
+      "meaning_en": "minute",
+      "meaning_uk": "хвилина",
+      "meaning_es": "el minuto",
+      "example": "Der Zug hat zehn ***Minuten*** Verspätung."
+    },
+    {
+      "term": "die Sekunde",
+      "type": "Noun (f)",
+      "meaning_tr": "saniye",
+      "meaning_en": "second",
+      "meaning_uk": "секунда",
+      "meaning_es": "el segundo",
+      "example": "Das dauerte nur eine ***Sekunde***."
+    },
+    {
+      "term": "der Vormittag",
+      "type": "Noun (m)",
+      "meaning_tr": "sabah (öğlene kadar)",
+      "meaning_en": "morning (forenoon)",
+      "meaning_uk": "передполудень",
+      "meaning_es": "la mañana (antes del mediodía)",
+      "example": "Ich habe den Termin am ***Vormittag***."
+    },
+    {
+      "term": "der Nachmittag",
+      "type": "Noun (m)",
+      "meaning_tr": "öğleden sonra",
+      "meaning_en": "afternoon",
+      "meaning_uk": "пополудні",
+      "meaning_es": "la tarde",
+      "example": "Wir treffen uns am ***Nachmittag*** im Café."
+    },
+    {
+      "term": "der Abend",
+      "type": "Noun (m)",
+      "meaning_tr": "akşam",
+      "meaning_en": "evening",
+      "meaning_uk": "вечір",
+      "meaning_es": "la tarde/noche",
+      "example": "Was machst du heute ***Abend***?"
+    },
+    {
+      "term": "die Nacht",
+      "type": "Noun (f)",
+      "meaning_tr": "gece",
+      "meaning_en": "night",
+      "meaning_uk": "ніч",
+      "meaning_es": "la noche",
+      "example": "Ich habe die ganze ***Nacht*** durchgearbeitet."
+    },
+    {
+      "term": "viertel nach",
+      "type": "Adverbial Phrase",
+      "meaning_tr": "çeyrek geçe",
+      "meaning_en": "quarter past",
+      "meaning_uk": "п'ятнадцять хвилин по",
+      "meaning_es": "y cuarto",
+      "example": "Es ist ***viertel nach*** drei."
+    },
+    {
+      "term": "halb",
+      "type": "Adverbial Phrase",
+      "meaning_tr": "buçuk",
+      "meaning_en": "half (past)",
+      "meaning_uk": "половина",
+      "meaning_es": "y media",
+      "example": "Wir beginnen um ***halb*** acht."
+    },
+    {
+      "term": "vor",
+      "type": "Preposition",
+      "meaning_tr": "kala",
+      "meaning_en": "to (before)",
+      "meaning_uk": "до",
+      "meaning_es": "para (antes de)",
+      "example": "Es ist zehn ***vor*** elf."
+    },
+    {
+      "term": "der Tag",
+      "type": "Noun (m)",
+      "meaning_tr": "gün",
+      "meaning_en": "day",
+      "meaning_uk": "день",
+      "meaning_es": "el día",
+      "example": "Wie war dein ***Tag***?"
+    },
+    {
+      "term": "die Woche",
+      "type": "Noun (f)",
+      "meaning_tr": "hafta",
+      "meaning_en": "week",
+      "meaning_uk": "тиждень",
+      "meaning_es": "la semana",
+      "example": "Nächste ***Woche*** fahre ich in den Urlaub."
+    },
+    {
+      "term": "der Monat",
+      "type": "Noun (m)",
+      "meaning_tr": "ay",
+      "meaning_en": "month",
+      "meaning_uk": "місяць",
+      "meaning_es": "el mes",
+      "example": "Der ***Monat*** hat 30 Tage."
+    },
+    {
+      "term": "das Jahr",
+      "type": "Noun (n)",
+      "meaning_tr": "yıl",
+      "meaning_en": "year",
+      "meaning_uk": "рік",
+      "meaning_es": "el año",
+      "example": "In diesem ***Jahr*** wird es heiß."
+    },
+    {
+      "term": "die Vergangenheit",
+      "type": "Noun (f)",
+      "meaning_tr": "geçmiş",
+      "meaning_en": "the past",
+      "meaning_uk": "минуле",
+      "meaning_es": "el pasado",
+      "example": "Wir sollten in die ***Vergangenheit*** blicken, um zu lernen."
+    },
+    {
+      "term": "die Gegenwart",
+      "type": "Noun (f)",
+      "meaning_tr": "şimiki zaman",
+      "meaning_en": "the present",
+      "meaning_uk": "теперішнє",
+      "meaning_es": "el presente",
+      "example": "Wir leben in der ***Gegenwart***."
+    },
+    {
+      "term": "die Zukunft",
+      "type": "Noun (f)",
+      "meaning_tr": "gelecek",
+      "meaning_en": "the future",
+      "meaning_uk": "майбутнє",
+      "meaning_es": "el futuro",
+      "example": "Er plant für die ***Zukunft***."
+    },
+    {
+      "term": "der Termin",
+      "type": "Noun (m)",
+      "meaning_tr": "randevu",
+      "meaning_en": "appointment",
+      "meaning_uk": "зустріч/призначення",
+      "meaning_es": "la cita",
+      "example": "Ich habe morgen einen wichtigen ***Termin***."
+    },
+    {
+      "term": "die Verspätung",
+      "type": "Noun (f)",
+      "meaning_tr": "gecikme",
+      "meaning_en": "delay",
+      "meaning_uk": "запізнення",
+      "meaning_es": "el retraso",
+      "example": "Wegen des Wetters gibt es ***Verspätungen***."
+    },
+    {
+      "term": "pünktlich",
+      "type": "Adjective",
+      "meaning_tr": "tam zamanında",
+      "meaning_en": "punctual, on time",
+      "meaning_uk": "пунктуальний",
+      "meaning_es": "puntual",
+      "example": "Er kommt immer ***pünktlich*** zur Arbeit."
+    },
+    {
+      "term": "später",
+      "type": "Adverb",
+      "meaning_tr": "daha sonra",
+      "meaning_en": "later",
+      "meaning_uk": "пізніше",
+      "meaning_es": "más tarde",
+      "example": "Wir können das ***später*** besprechen."
+    },
+    {
+      "term": "vorhin",
+      "type": "Adverb",
+      "meaning_tr": "biraz önce",
+      "meaning_en": "a little while ago",
+      "meaning_uk": "щойно",
+      "meaning_es": "hace un momento",
+      "example": "Ich habe ***vorhin*** jemanden gesehen."
+    },
+    {
+      "term": "der Feierabend",
+      "type": "Noun (m)",
+      "meaning_tr": "mesai bitimi",
+      "meaning_en": "end of the workday",
+      "meaning_uk": "кінець робочого дня",
+      "meaning_es": "el fin de la jornada laboral",
+      "example": "Endlich ist ***Feierabend***!"
+    },
+    {
+      "term": "das Wochenende",
+      "type": "Noun (n)",
+      "meaning_tr": "hafta sonu",
+      "meaning_en": "weekend",
+      "meaning_uk": "вихідні",
+      "meaning_es": "el fin de semana",
+      "example": "Was machst du am ***Wochenende***?"
+    },
+    {
+      "term": "der Feiertag",
+      "type": "Noun (m)",
+      "meaning_tr": "resmi tatil",
+      "meaning_en": "public holiday",
+      "meaning_uk": "свято",
+      "meaning_es": "el día festivo",
+      "example": "Morgen ist ein ***Feiertag***, wir arbeiten nicht."
+    },
+    {
+      "term": "übermorgen",
+      "type": "Adverb",
+      "meaning_tr": "yarından sonra",
+      "meaning_en": "the day after tomorrow",
+      "meaning_uk": "післязавтра",
+      "meaning_es": "pasado mañana",
+      "example": "Der Kurs beginnt ***übermorgen***."
+    },
+    {
+      "term": "gestern",
+      "type": "Adverb",
+      "meaning_tr": "dün",
+      "meaning_en": "yesterday",
+      "meaning_uk": "вчора",
+      "meaning_es": "ayer",
+      "example": "***Gestern** habe ich meine Großeltern besucht."
+    },
+    {
+      "term": "bald",
+      "type": "Adverb",
+      "meaning_tr": "yakında",
+      "meaning_en": "soon",
+      "meaning_uk": "скоро",
+      "meaning_es": "pronto",
+      "example": "Es wird ***bald*** dunkel."
+    },
+    {
+      "term": "die Jahreszeit",
+      "type": "Noun (f)",
+      "meaning_tr": "mevsim",
+      "meaning_en": "season",
+      "meaning_uk": "пора року",
+      "meaning_es": "la estación",
+      "example": "Welche ***Jahreszeit*** magst du am liebsten?"
+    },
+    {
+      "term": "die Dauer",
+      "type": "Noun (f)",
+      "meaning_tr": "süre",
+      "meaning_en": "duration",
+      "meaning_uk": "тривалість",
+      "meaning_es": "la duración",
+      "example": "Die ***Dauer*** der Prüfung beträgt 90 Minuten."
+    }
+  ]
+}

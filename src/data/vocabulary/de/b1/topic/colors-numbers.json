@@ -1,0 +1,276 @@
+{
+  "title": "Farben & Zahlen B1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "rot",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "kırmızı",
+      "meaning_en": "red",
+      "meaning_uk": "червоний",
+      "meaning_es": "rojo",
+      "example": "Die Ampel zeigt ***rot*** an."
+    },
+    {
+      "term": "blau",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "mavi",
+      "meaning_en": "blue",
+      "meaning_uk": "синій",
+      "meaning_es": "azul",
+      "example": "Der Himmel ist heute strahlend ***blau***."
+    },
+    {
+      "term": "grün",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "yeşil",
+      "meaning_en": "green",
+      "meaning_uk": "зелений",
+      "meaning_es": "verde",
+      "example": "Wir brauchen mehr ***grüne*** Energie."
+    },
+    {
+      "term": "gelb",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "sarı",
+      "meaning_en": "yellow",
+      "meaning_uk": "жовтий",
+      "meaning_es": "amarillo",
+      "example": "Die Sonnenblume ist leuchtend ***gelb***."
+    },
+    {
+      "term": "schwarz",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "siyah",
+      "meaning_en": "black",
+      "meaning_uk": "чорний",
+      "meaning_es": "negro",
+      "example": "Er trägt einen ***schwarzen*** Anzug."
+    },
+    {
+      "term": "weiß",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "beyaz",
+      "meaning_en": "white",
+      "meaning_uk": "білий",
+      "meaning_es": "blanco",
+      "example": "Der Schnee macht die Landschaft ***weiß***."
+    },
+    {
+      "term": "braun",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "kahverengi",
+      "meaning_en": "brown",
+      "meaning_uk": "коричневий",
+      "meaning_es": "marrón",
+      "example": "Die meisten Bäume haben ***braune*** Stämme."
+    },
+    {
+      "term": "orange",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "turuncu",
+      "meaning_en": "orange",
+      "meaning_uk": "помаранчевий",
+      "meaning_es": "naranja",
+      "example": "Im Herbst färben sich die Blätter ***orange***."
+    },
+    {
+      "term": "lila / violett",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "lila / mor",
+      "meaning_en": "purple / violet",
+      "meaning_uk": "фіолетовий",
+      "meaning_es": "morado / violeta",
+      "example": "Die Lavendelblüten sind ***lila***."
+    },
+    {
+      "term": "grau",
+      "type": "Adjektiv/Nomen",
+      "meaning_tr": "gri",
+      "meaning_en": "grey",
+      "meaning_uk": "сірий",
+      "meaning_es": "gris",
+      "example": "Der Nebel macht den Tag ***grau***."
+    },
+    {
+      "term": "eins",
+      "type": "Numerale",
+      "meaning_tr": "bir",
+      "meaning_en": "one",
+      "meaning_uk": "один",
+      "meaning_es": "uno",
+      "example": "Ich habe nur ***eins*** Brot gekauft."
+    },
+    {
+      "term": "zwei",
+      "type": "Numerale",
+      "meaning_tr": "iki",
+      "meaning_en": "two",
+      "meaning_uk": "два",
+      "meaning_es": "dos",
+      "example": "Wir brauchen ***zwei*** Stühle mehr."
+    },
+    {
+      "term": "drei",
+      "type": "Numerale",
+      "meaning_tr": "üç",
+      "meaning_en": "three",
+      "meaning_uk": "три",
+      "meaning_es": "tres",
+      "example": "Sie hat ***drei*** Schwestern."
+    },
+    {
+      "term": "vier",
+      "type": "Numerale",
+      "meaning_tr": "dört",
+      "meaning_en": "four",
+      "meaning_uk": "чотири",
+      "meaning_es": "cuatro",
+      "example": "Das Auto hat ***vier*** Räder."
+    },
+    {
+      "term": "fünf",
+      "type": "Numerale",
+      "meaning_tr": "beş",
+      "meaning_en": "five",
+      "meaning_uk": "п'ять",
+      "meaning_es": "cinco",
+      "example": "Die Kinder stehen in ***fünf*** Reihen."
+    },
+    {
+      "term": "sechs",
+      "type": "Numerale",
+      "meaning_tr": "altı",
+      "meaning_en": "six",
+      "meaning_uk": "шість",
+      "meaning_es": "seis",
+      "example": "Wir treffen uns um ***sechs*** Uhr."
+    },
+    {
+      "term": "sieben",
+      "type": "Numerale",
+      "meaning_tr": "yedi",
+      "meaning_en": "seven",
+      "meaning_uk": "сім",
+      "meaning_es": "siete",
+      "example": "Diese Woche hat ***sieben*** Tage."
+    },
+    {
+      "term": "acht",
+      "type": "Numerale",
+      "meaning_tr": "sekiz",
+      "meaning_en": "eight",
+      "meaning_uk": "вісім",
+      "meaning_es": "ocho",
+      "example": "Er hat ***acht*** Jahre hier gelebt."
+    },
+    {
+      "term": "neun",
+      "type": "Numerale",
+      "meaning_tr": "dokuz",
+      "meaning_en": "nine",
+      "meaning_uk": "дев'ять",
+      "meaning_es": "nueve",
+      "example": "Die Hausnummer ist die ***neun***."
+    },
+    {
+      "term": "zehn",
+      "type": "Numerale",
+      "meaning_tr": "on",
+      "meaning_en": "ten",
+      "meaning_uk": "десять",
+      "meaning_es": "diez",
+      "example": "Er kann bis ***zehn*** zählen."
+    },
+    {
+      "term": "elf",
+      "type": "Numerale",
+      "meaning_tr": "on bir",
+      "meaning_en": "eleven",
+      "meaning_uk": "одинадцять",
+      "meaning_es": "once",
+      "example": "Das Konzert beginnt um ***elf*** Uhr."
+    },
+    {
+      "term": "zwölf",
+      "type": "Numerale",
+      "meaning_tr": "on iki",
+      "meaning_en": "twelve",
+      "meaning_uk": "дванадцять",
+      "meaning_es": "doce",
+      "example": "Es ist halb ***zwölf***."
+    },
+    {
+      "term": "zwanzig",
+      "type": "Numerale",
+      "meaning_tr": "yirmi",
+      "meaning_en": "twenty",
+      "meaning_uk": "двадцять",
+      "meaning_es": "veinte",
+      "example": "Der Preis beträgt ***zwanzig*** Euro."
+    },
+    {
+      "term": "dreißig",
+      "type": "Numerale",
+      "meaning_tr": "otuz",
+      "meaning_en": "thirty",
+      "meaning_uk": "тридцять",
+      "meaning_es": "treinta",
+      "example": "Die Geschwindigkeit ist ***dreißig*** km/h."
+    },
+    {
+      "term": "hundert",
+      "type": "Numerale",
+      "meaning_tr": "yüz",
+      "meaning_en": "one hundred",
+      "meaning_uk": "сто",
+      "meaning_es": "cien",
+      "example": "Ich habe ***hundert*** Seiten gelesen."
+    },
+    {
+      "term": "tausend",
+      "type": "Numerale",
+      "meaning_tr": "bin",
+      "meaning_en": "one thousand",
+      "meaning_uk": "тисяча",
+      "meaning_es": "mil",
+      "example": "Die Stadt hat mehr als ***tausend*** Einwohner."
+    },
+    {
+      "term": "hell",
+      "type": "Adjektiv",
+      "meaning_tr": "açık (renk)",
+      "meaning_en": "light (in color)",
+      "meaning_uk": "світлий",
+      "meaning_es": "claro",
+      "example": "Sie bevorzugt ***helle*** Farben für ihr Zimmer."
+    },
+    {
+      "term": "dunkel",
+      "type": "Adjektiv",
+      "meaning_tr": "koyu (renk)",
+      "meaning_en": "dark (in color)",
+      "meaning_uk": "темний",
+      "meaning_es": "oscuro",
+      "example": "Er trägt lieber ***dunkle*** Jeans."
+    },
+    {
+      "term": "die Farbe",
+      "type": "Nomen (f.)",
+      "meaning_tr": "renk",
+      "meaning_en": "the color",
+      "meaning_uk": "колір",
+      "meaning_es": "el color",
+      "example": "Was ist deine Lieblings***farbe***?"
+    },
+    {
+      "term": "die Zahl",
+      "type": "Nomen (f.)",
+      "meaning_tr": "sayı",
+      "meaning_en": "the number",
+      "meaning_uk": "число",
+      "meaning_es": "el número",
+      "example": "Können Sie diese ***Zahl*** wiederholen?"
+    }
+  ]
+}

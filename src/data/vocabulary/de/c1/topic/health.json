@@ -1,0 +1,528 @@
+{
+  "title": "Gesundheit & Krankheit C1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Akupunktur",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "akupunktur",
+      "meaning_en": "acupuncture",
+      "meaning_uk": "акупунктура",
+      "meaning_es": "acupuntura",
+      "example": "Viele Patienten schwören auf *** zur Linderung chronischer Schmerzen."
+    },
+    {
+      "term": "die Anamnese",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "anamnez",
+      "meaning_en": "medical history",
+      "meaning_uk": "анамнез",
+      "meaning_es": "anamnesis",
+      "example": "Der Arzt erfasste sorgfältig die gesamte *** des Patienten."
+    },
+    {
+      "term": "die Antibiotikaresistenz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "antibiyotik direnci",
+      "meaning_en": "antibiotic resistance",
+      "meaning_uk": "антибіотикорезистентність",
+      "meaning_es": "resistencia a los antibióticos",
+      "example": "Die wachsende *** stellt eine große Bedrohung für die moderne Medizin dar."
+    },
+    {
+      "term": "der Behandlungsplan",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "tedavi planı",
+      "meaning_en": "treatment plan",
+      "meaning_uk": "план лікування",
+      "meaning_es": "plan de tratamiento",
+      "example": "Gemeinsam mit dem Spezialisten erstellten wir einen detaillierten ***."
+    },
+    {
+      "term": "die Bioinformatik",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "biyoinformatik",
+      "meaning_en": "bioinformatics",
+      "meaning_uk": "біоінформатика",
+      "meaning_es": "bioinformática",
+      "example": "In der *** werden große Datenmengen aus der Genomforschung analysiert."
+    },
+    {
+      "term": "chronisch",
+      "type": "Adjektiv",
+      "meaning_tr": "kronik",
+      "meaning_en": "chronic",
+      "meaning_uk": "хронічний",
+      "meaning_es": "crónico",
+      "example": "Er leidet seit Jahren an einer ***en rheumatischen Erkrankung."
+    },
+    {
+      "term": "die Diagnose",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "teşhis",
+      "meaning_en": "diagnosis",
+      "meaning_uk": "діагноз",
+      "meaning_es": "diagnóstico",
+      "example": "Nach umfangreichen Tests stand endlich die *** fest."
+    },
+    {
+      "term": "degenerativ",
+      "type": "Adjektiv",
+      "meaning_tr": "dejeneratif",
+      "meaning_en": "degenerative",
+      "meaning_uk": "дегенеративний",
+      "meaning_es": "degenerativo",
+      "example": "Die Alzheimer-Krankheit ist eine ***e Erkrankung des Gehirns."
+    },
+    {
+      "term": "die Desinfektion",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "dezenfeksiyon",
+      "meaning_en": "disinfection",
+      "meaning_uk": "дезінфекція",
+      "meaning_es": "desinfección",
+      "example": "Strengste *** ist in Operationssälen unerlässlich."
+    },
+    {
+      "term": "die Diätetik",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "diyetetik",
+      "meaning_en": "dietetics",
+      "meaning_uk": "дієтологія",
+      "meaning_es": "dietética",
+      "example": "Sie berät Patienten hinsichtlich der Optimierung ihrer Ernährung durch ***."
+    },
+    {
+      "term": "die Durchblutungsstörung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "dolaşım bozukluğu",
+      "meaning_en": "circulatory disorder",
+      "meaning_uk": "порушення кровообігу",
+      "meaning_es": "trastorno circulatorio",
+      "example": "Die kalten Füße sind ein Symptom einer leichten ***."
+    },
+    {
+      "term": "die Epidemiologie",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "epidemiyoloji",
+      "meaning_en": "epidemiology",
+      "meaning_uk": "епідеміологія",
+      "meaning_es": "epidemiología",
+      "example": "Forscher untersuchen in der *** die Ausbreitung neuer Viren."
+    },
+    {
+      "term": "die Erhebung (von Daten)",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "veri toplama",
+      "meaning_en": "data collection",
+      "meaning_uk": "збір (даних)",
+      "meaning_es": "recopilación (de datos)",
+      "example": "Die jährliche *** der Gesundheitsstatistiken ist abgeschlossen."
+    },
+    {
+      "term": "die Euthanasie",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "ötanazi",
+      "meaning_en": "euthanasia",
+      "meaning_uk": "евтаназія",
+      "meaning_es": "eutanasia",
+      "example": "Das Thema *** wirft tiefgreifende ethische Fragen auf."
+    },
+    {
+      "term": "die Falldiagnose",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "vaka teşhisi",
+      "meaning_en": "case diagnosis",
+      "meaning_uk": "діагностика випадку",
+      "meaning_es": "diagnóstico del caso",
+      "example": "Der seltene Krankheitsverlauf erforderte eine minutiöse ***."
+    },
+    {
+      "term": "die Fibrose",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "fibroz",
+      "meaning_en": "fibrosis",
+      "meaning_uk": "фіброз",
+      "meaning_es": "fibrosis",
+      "example": "Nach der Entzündung bildete sich eine Vernarbung, eine *** des Gewebes."
+    },
+    {
+      "term": "die Genesung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "iyileşme",
+      "meaning_en": "recovery",
+      "meaning_uk": "одужання",
+      "meaning_es": "recuperación",
+      "example": "Er befindet sich auf dem Weg der *** und wird bald das Krankenhaus verlassen."
+    },
+    {
+      "term": "die Genomsequenzierung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "genom dizileme",
+      "meaning_en": "genome sequencing",
+      "meaning_uk": "секвенування геному",
+      "meaning_es": "secuenciación del genoma",
+      "example": "Dank *** können wir genetische Prädispositionen besser verstehen."
+    },
+    {
+      "term": "genesungsfähig",
+      "type": "Adjektiv",
+      "meaning_tr": "iyileşebilir",
+      "meaning_en": "capable of recovery",
+      "meaning_uk": "здатний до одужання",
+      "meaning_es": "recuperable",
+      "example": "Trotz der Schwere der Verletzung ist der Patient ***."
+    },
+    {
+      "term": "die Heilungschance",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "iyileşme şansı",
+      "meaning_en": "prognosis for recovery",
+      "meaning_uk": "шанс на одужання",
+      "meaning_es": "posibilidad de curación",
+      "example": "Die Ärzte gaben ihm nur geringe ***."
+    },
+    {
+      "term": "die Homöopathie",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "homeopati",
+      "meaning_en": "homeopathy",
+      "meaning_uk": "гомеопатія",
+      "meaning_es": "homeopatía",
+      "example": "Sie bevorzugt alternative Methoden wie die *** gegenüber der konventionellen Medizin."
+    },
+    {
+      "term": "immunisieren",
+      "type": "Verb",
+      "meaning_tr": "bağışıklamak",
+      "meaning_en": "to immunize",
+      "meaning_uk": "імунізувати",
+      "meaning_es": "inmunizar",
+      "example": "Es ist wichtig, Kinder frühzeitig gegen Masern zu ***."
+    },
+    {
+      "term": "die Immunität",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "bağışıklık",
+      "meaning_en": "immunity",
+      "meaning_uk": "імунітет",
+      "meaning_es": "inmunidad",
+      "example": "Nach der Impfung entwickelte er eine starke *** gegen das Virus."
+    },
+    {
+      "term": "induzieren",
+      "type": "Verb",
+      "meaning_tr": "tetiklemek, indüklemek",
+      "meaning_en": "to induce",
+      "meaning_uk": "індукувати",
+      "meaning_es": "inducir",
+      "example": "Das Medikament soll eine therapeutische Reaktion ***."
+    },
+    {
+      "term": "infektiös",
+      "type": "Adjektiv",
+      "meaning_tr": "bulaşıcı",
+      "meaning_en": "infectious",
+      "meaning_uk": "інфекційний",
+      "meaning_es": "infeccioso",
+      "example": "Die Krankheit wurde als hochansteckend und *** eingestuft."
+    },
+    {
+      "term": "die Infusion",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "infüzyon",
+      "meaning_en": "infusion/drip",
+      "meaning_uk": "інфузія",
+      "meaning_es": "infusión",
+      "example": "Er musste stundenlang eine Flüssigkeit per *** erhalten."
+    },
+    {
+      "term": "innovativ",
+      "type": "Adjektiv",
+      "meaning_tr": "yenilikçi",
+      "meaning_en": "innovative",
+      "meaning_uk": "інноваційний",
+      "meaning_es": "innovador",
+      "example": "Die Klinik setzt ***e Verfahren in der Krebsbehandlung ein."
+    },
+    {
+      "term": "die Komorbidität",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "eş hastalık",
+      "meaning_en": "comorbidity",
+      "meaning_uk": "супутня хвороба",
+      "meaning_es": "comorbilidad",
+      "example": "Seine Diabetes verschlechterte die Prognose wegen der *** mit Herzproblemen."
+    },
+    {
+      "term": "die Latenzphase",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kuluçka/gizli evre",
+      "meaning_en": "latent phase",
+      "meaning_uk": "латентна фаза",
+      "meaning_es": "fase latente",
+      "example": "Die Krankheit zeigte sich erst nach einer langen ***."
+    },
+    {
+      "term": "maligne",
+      "type": "Adjektiv",
+      "meaning_tr": "malign",
+      "meaning_en": "malignant",
+      "meaning_uk": "злоякісний",
+      "meaning_es": "maligno",
+      "example": "Der Tumor wurde als *** eingestuft und erforderte sofortige Operation."
+    },
+    {
+      "term": "die Medikation",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "ilaç tedavisi",
+      "meaning_en": "medication/drug therapy",
+      "meaning_uk": "медикаментозне лікування",
+      "meaning_es": "medicación",
+      "example": "Die tägliche *** muss pünktlich eingenommen werden."
+    },
+    {
+      "term": "die Nebenwirkung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "yan etki",
+      "meaning_en": "side effect",
+      "meaning_uk": "побічний ефект",
+      "meaning_es": "efecto secundario",
+      "example": "Schwindel ist eine häufige *** dieses Schmerzmittels."
+    },
+    {
+      "term": "neurodegenerativ",
+      "type": "Adjektiv",
+      "meaning_tr": "nörodejeneratif",
+      "meaning_en": "neurodegenerative",
+      "meaning_uk": "нейродегенеративний",
+      "meaning_es": "neurodegenerativo",
+      "example": "ALS ist eine fortschreitende ***e Erkrankung."
+    },
+    {
+      "term": "die Pathogenese",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "patogenez",
+      "meaning_en": "pathogenesis",
+      "meaning_uk": "патогенез",
+      "meaning_es": "patogénesis",
+      "example": "Die genaue *** der Autoimmunerkrankung ist noch Gegenstand der Forschung."
+    },
+    {
+      "term": "die Pathologie",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "patoloji",
+      "meaning_en": "pathology",
+      "meaning_uk": "патологія",
+      "meaning_es": "patología",
+      "example": "Das Gewebestück wurde zur weiteren Analyse an die *** geschickt."
+    },
+    {
+      "term": "phlebotomieren",
+      "type": "Verb",
+      "meaning_tr": "kan almak",
+      "meaning_en": "to draw blood (phlebotomize)",
+      "meaning_uk": "брати кров",
+      "meaning_es": "flebotomizar",
+      "example": "Die Pflegekraft musste Blut für die Laboruntersuchungen ***."
+    },
+    {
+      "term": "die Prävention",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "önleme",
+      "meaning_en": "prevention",
+      "meaning_uk": "профілактика",
+      "meaning_es": "prevención",
+      "example": "Regelmäßige Vorsorgeuntersuchungen dienen der *** von Krankheiten."
+    },
+    {
+      "term": "prognostizieren",
+      "type": "Verb",
+      "meaning_tr": "tahmin etmek, prognoz vermek",
+      "meaning_en": "to prognosticate",
+      "meaning_uk": "прогнозувати",
+      "meaning_es": "pronosticar",
+      "example": "Es ist schwierig, den genauen Verlauf der seltenen Krankheit zu ***."
+    },
+    {
+      "term": "prophylaktisch",
+      "type": "Adjektiv",
+      "meaning_tr": "koruyucu",
+      "meaning_en": "prophylactic",
+      "meaning_uk": "профілактичний",
+      "meaning_es": "profiláctico",
+      "example": "Er erhielt eine ***e Behandlung gegen Malaria."
+    },
+    {
+      "term": "rezidivierend",
+      "type": "Adjektiv",
+      "meaning_tr": "tekrarlayan",
+      "meaning_en": "recurrent",
+      "meaning_uk": "рецидивуючий",
+      "meaning_es": "recurrent",
+      "example": "Die Hautausschläge waren *** und schwer zu kontrollieren."
+    },
+    {
+      "term": "rehabilitieren",
+      "type": "Verb",
+      "meaning_tr": "rehabilitasyon sağlamak",
+      "meaning_en": "to rehabilitate",
+      "meaning_uk": "реабілітувати",
+      "meaning_es": "rehabilitar",
+      "example": "Nach dem Schlaganfall musste er intensive Physiotherapie zur *** beginnen."
+    },
+    {
+      "term": "die Remission",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "remisyon",
+      "meaning_en": "remission",
+      "meaning_uk": "ремісія",
+      "meaning_es": "remisión",
+      "example": "Der Patient befindet sich seit sechs Monaten in vollständiger ***."
+    },
+    {
+      "term": "sanieren",
+      "type": "Verb",
+      "meaning_tr": "iyileştirmek, ıslah etmek",
+      "meaning_en": "to remediate/to restore health (to tissues)",
+      "meaning_uk": "оздоровлювати",
+      "meaning_es": "sanear",
+      "example": "Ziel der Therapie ist es, das entzündete Gewebe ***."
+    },
+    {
+      "term": "selektiv",
+      "type": "Adjektiv",
+      "meaning_tr": "seçici",
+      "meaning_en": "selective",
+      "meaning_uk": "селективний",
+      "meaning_es": "selectivo",
+      "example": "Das neue Medikament wirkt sehr *** auf die Zielzellen."
+    },
+    {
+      "term": "somatisch",
+      "type": "Adjektiv",
+      "meaning_tr": "somatik",
+      "meaning_en": "somatic",
+      "meaning_uk": "соматичний",
+      "meaning_es": "somático",
+      "example": "Wir müssen klären, ob es sich um ein psychisches oder ***es Problem handelt."
+    },
+    {
+      "term": "spezialisiert",
+      "type": "Adjektiv",
+      "meaning_tr": "uzmanlaşmış",
+      "meaning_en": "specialized",
+      "meaning_uk": "спеціалізований",
+      "meaning_es": "especializado",
+      "example": "Er sucht einen ***en Kardiologen auf."
+    },
+    {
+      "term": "sterilisieren",
+      "type": "Verb",
+      "meaning_tr": "sterilize etmek",
+      "meaning_en": "to sterilize",
+      "meaning_uk": "стерилізувати",
+      "meaning_es": "esterilizar",
+      "example": "Alle chirurgischen Instrumente müssen vor dem Eingriff *** werden."
+    },
+    {
+      "term": "subtil",
+      "type": "Adjektiv",
+      "meaning_tr": "ince, narin",
+      "meaning_en": "subtle",
+      "meaning_uk": "тонкий",
+      "meaning_es": "sutil",
+      "example": "Die ersten Symptome waren so ***, dass sie lange ignoriert wurden."
+    },
+    {
+      "term": "systemisch",
+      "type": "Adjektiv",
+      "meaning_tr": "sistemik",
+      "meaning_en": "systemic",
+      "meaning_uk": "системний",
+      "meaning_es": "sistémico",
+      "example": "Die Erkrankung zeigt ***e Symptome, die den ganzen Körper betreffen."
+    },
+    {
+      "term": "therapeutisch",
+      "type": "Adjektiv",
+      "meaning_tr": "terapötik",
+      "meaning_en": "therapeutic",
+      "meaning_uk": "терапевтичний",
+      "meaning_es": "terapéutico",
+      "example": "Die Ergebnisse der Studie waren klinisch und *** hochrelevant."
+    },
+    {
+      "term": "transplantieren",
+      "type": "Verb",
+      "meaning_tr": "nakletmek",
+      "meaning_en": "to transplant",
+      "meaning_uk": "трансплантувати",
+      "meaning_es": "trasplantar",
+      "example": "Die Ärzte bereiteten sich darauf vor, die Niere des Spenders zu ***."
+    },
+    {
+      "term": "übertragbar",
+      "type": "Adjektiv",
+      "meaning_tr": "bulaşabilir",
+      "meaning_en": "transmissible",
+      "meaning_uk": "переданий",
+      "meaning_es": "transmisible",
+      "example": "Die Krankheit gilt als kaum *** auf den Menschen."
+    },
+    {
+      "term": "unkompliziert",
+      "type": "Adjektiv",
+      "meaning_tr": "komplikasyonsuz",
+      "meaning_en": "uncomplicated",
+      "meaning_uk": "неускладнений",
+      "meaning_es": "sin complicaciones",
+      "example": "Es handelt sich glücklicherweise um einen ***en Verlauf der Grippe."
+    },
+    {
+      "term": "validieren",
+      "type": "Verb",
+      "meaning_tr": "geçerlemek",
+      "meaning_en": "to validate",
+      "meaning_uk": "валідувати",
+      "meaning_es": "validar",
+      "example": "Klinische Studien dienen dazu, neue Behandlungsmethoden zu ***."
+    },
+    {
+      "term": "verabreichen",
+      "type": "Verb",
+      "meaning_tr": "uygulamak, vermek",
+      "meaning_en": "to administer (medicine)",
+      "meaning_uk": "вводити, призначати",
+      "meaning_es": "administrar",
+      "example": "Die Krankenschwester musste das starke Schmerzmittel langsam ***."
+    },
+    {
+      "term": "die Verschlechterung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kötüleşme",
+      "meaning_en": "deterioration/worsening",
+      "meaning_uk": "погіршення",
+      "meaning_es": "empeoramiento",
+      "example": "Trotz aller Maßnahmen kam es zu einer schnellen *** seines Zustands."
+    },
+    {
+      "term": "die Vorsorgeuntersuchung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "önleyici muayene",
+      "meaning_en": "preventive check-up",
+      "meaning_uk": "профілактичний огляд",
+      "meaning_es": "chequeo preventivo",
+      "example": "Jeder Bürger sollte regelmäßig eine *** wahrnehmen."
+    },
+    {
+      "term": "die Zyanose",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "siyanoz",
+      "meaning_en": "cyanosis",
+      "meaning_uk": "ціаноз",
+      "meaning_es": "cianosis",
+      "example": "Die blaue Färbung der Lippen deutet auf eine *** hin."
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "title": "Familie & Beziehungen C1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Patchworkfamilie",
+      "type": "Substantiv (f)",
+      "meaning_tr": "karma aile",
+      "meaning_en": "blended family",
+      "meaning_uk": "змішана сім'я",
+      "meaning_es": "familia ensamblada",
+      "example": "Nach der Scheidung gründeten beide Partner *** eine Patchworkfamilie mit Kindern aus früheren Beziehungen."
+    },
+    {
+      "term": "der Familienclan",
+      "type": "Substantiv (m)",
+      "meaning_tr": "aile klanı",
+      "meaning_en": "family clan",
+      "meaning_uk": "родинний клан",
+      "meaning_es": "clan familiar",
+      "example": "Der jährliche Urlaub wird immer als großes Treffen des gesamten *** organisiert."
+    },
+    {
+      "term": "die Sippe",
+      "type": "Substantiv (f)",
+      "meaning_tr": "soy, akraba topluluğu",
+      "meaning_en": "kin, relatives",
+      "meaning_uk": "рід, родина",
+      "meaning_es": "parentela, parientes",
+      "example": "Manchmal ist es ermüdend, sich um die gesamte *** kümmern zu müssen."
+    },
+    {
+      "term": "etwas vererben",
+      "type": "Verb",
+      "meaning_tr": "miras bırakmak",
+      "meaning_en": "to bequeath, to inherit (as an object)",
+      "meaning_uk": "заповідати, передавати у спадок",
+      "meaning_es": "legar, heredar (un bien)",
+      "example": "Der Großvater hat seiner Enkelin sein altes Haus ***."
+    },
+    {
+      "term": "die Erbfolge",
+      "type": "Substantiv (f)",
+      "meaning_tr": "veraset sırası",
+      "meaning_en": "line of succession, inheritance order",
+      "meaning_uk": "порядок спадкування",
+      "meaning_es": "orden de sucesión hereditaria",
+      "example": "Bei großen Vermögen ist die korrekte Klärung der *** entscheidend."
+    },
+    {
+      "term": "der Alleinerziehende",
+      "type": "Substantiv (m/f)",
+      "meaning_tr": "tek ebeveyn",
+      "meaning_en": "single parent",
+      "meaning_uk": "одинак (батько/мати)",
+      "meaning_es": "padre/madre soltero/a",
+      "example": "Als *** jongliert sie täglich zwischen Beruf und Kinderbetreuung."
+    },
+    {
+      "term": "die Verwandschaftsbeziehung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "akrabalık ilişkisi",
+      "meaning_en": "kinship relation",
+      "meaning_uk": "родинний зв'язок",
+      "meaning_es": "relación de parentesco",
+      "example": "Trotz der Distanz pflegen sie eine enge ***."
+    },
+    {
+      "term": "die Geborgenheit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "güvenlik, emniyet duygusu",
+      "meaning_en": "sense of security, feeling of safety",
+      "meaning_uk": "почуття захищеності",
+      "meaning_es": "sensación de seguridad, amparo",
+      "example": "Kinder suchen in der Familie nach *** und emotionaler Stabilität."
+    },
+    {
+      "term": "etwas beisteuern",
+      "type": "Verb",
+      "meaning_tr": "katkıda bulunmak",
+      "meaning_en": "to contribute (financially or otherwise)",
+      "meaning_uk": "додавати, робити внесок",
+      "meaning_es": "contribuir",
+      "example": "Jedes Mitglied soll einen kleinen Teil zum Familienbudget ***."
+    },
+    {
+      "term": "die Scheidungsrate",
+      "type": "Substantiv (f)",
+      "meaning_tr": "boşanma oranı",
+      "meaning_en": "divorce rate",
+      "meaning_uk": "рівень розлучень",
+      "meaning_es": "tasa de divorcios",
+      "example": "In manchen Regionen ist die *** alarmierend hoch."
+    },
+    {
+      "term": "der Wohnsitz",
+      "type": "Substantiv (m)",
+      "meaning_tr": "ikametgah",
+      "meaning_en": "residence",
+      "meaning_uk": "місце проживання",
+      "meaning_es": "residencia",
+      "example": "Die Kinder sollen nach der Trennung ihren *** beim Vater haben."
+    },
+    {
+      "term": "die Versöhnung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "uzlaşma, barışma",
+      "meaning_en": "reconciliation",
+      "meaning_uk": "примирення",
+      "meaning_es": "reconciliación",
+      "example": "Nach jahrelangem Streit gab es endlich eine *** zwischen den Brüdern."
+    },
+    {
+      "term": "die Entfremdung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yabancılaşma, uzaklaşma",
+      "meaning_en": "alienation, estrangement",
+      "meaning_uk": "відчуження",
+      "meaning_es": "alienación, distanciamiento",
+      "example": "Die *** zwischen den Generationen wird oft durch unterschiedliche Werte verursacht."
+    },
+    {
+      "term": "sich abnabeln",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "anne babadan ayrılmak, bağımsızlaşmak",
+      "meaning_en": "to become independent (from parents)",
+      "meaning_uk": "відділятися (від батьків)",
+      "meaning_es": "independizarse (de los padres)",
+      "example": "Er ist Ende zwanzig und hat es immer noch nicht geschafft, sich richtig ***."
+    },
+    {
+      "term": "die Patenschaft",
+      "type": "Substantiv (f)",
+      "meaning_tr": "himaye, vekillik",
+      "meaning_en": "godparenthood, patronage",
+      "meaning_uk": "покровительство, хрещення",
+      "meaning_es": "padrinazgo",
+      "example": "Die Tante übernahm die *** für das neugeborene Kind."
+    },
+    {
+      "term": "die Fürsorgepflicht",
+      "type": "Substantiv (f)",
+      "meaning_tr": "koruma yükümlülüğü",
+      "meaning_en": "duty of care",
+      "meaning_uk": "обов'язок опіки",
+      "meaning_es": "deber de cuidado",
+      "example": "Eltern haben die gesetzliche *** für das Wohlergehen ihrer Kinder."
+    },
+    {
+      "term": "die Lebensabschnittsgefährtin",
+      "type": "Substantiv (f)",
+      "meaning_tr": "hayat arkadaşı (kadın)",
+      "meaning_en": "life partner (female)",
+      "meaning_uk": "співмешканка, партнерка по життю",
+      "meaning_es": "compañera de vida",
+      "example": "Er stellte seine neue *** der gesamten Familie vor."
+    },
+    {
+      "term": "die Stiefgeschwister",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "üvey kardeşler",
+      "meaning_en": "step-siblings",
+      "meaning_uk": "зведені брати/сестри",
+      "meaning_es": "hermanastros",
+      "example": "Die *** verstanden sich auf Anhieb ausgezeichnet."
+    },
+    {
+      "term": "die Blutsverwandtschaft",
+      "type": "Substantiv (f)",
+      "meaning_tr": "kan bağı",
+      "meaning_en": "blood relationship",
+      "meaning_uk": "кровна спорідненість",
+      "meaning_es": "parentesco de sangre",
+      "example": "Manche halten *** für wichtiger als soziale Bindungen."
+    },
+    {
+      "term": "die Trauung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "resmi nikah töreni",
+      "meaning_en": "wedding ceremony",
+      "meaning_uk": "церемонія одруження",
+      "meaning_es": "ceremonia de boda",
+      "example": "Die Feier nach der *** fand in einem großen Schloss statt."
+    },
+    {
+      "term": "die Heiratsschwindlerin",
+      "type": "Substantiv (f)",
+      "meaning_tr": "evlilik dolandırıcısı",
+      "meaning_en": "marriage swindler (female)",
+      "meaning_uk": "шахрайка, що вступає у шлюб заради вигоди",
+      "meaning_es": "estafadora matrimonial",
+      "example": "Die Polizei fahndete nach der berüchtigten ***."
+    },
+    {
+      "term": "der Ehevertrag",
+      "type": "Substantiv (m)",
+      "meaning_tr": "evlilik sözleşmesi",
+      "meaning_en": "prenuptial agreement",
+      "meaning_uk": "шлюбний контракт",
+      "meaning_es": "contrato prenupcial",
+      "example": "Sie entschieden sich, vor der Hochzeit einen *** aufzusetzen."
+    },
+    {
+      "term": "die Gütertrennung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "mal ayrılığı rejimi",
+      "meaning_en": "separation of assets (in marriage)",
+      "meaning_uk": "розділ майна",
+      "meaning_es": "separación de bienes",
+      "example": "Im Falle einer Scheidung regelt die *** die Vermögensaufteilung."
+    },
+    {
+      "term": "die Unterhaltszahlung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "nafaka ödemesi",
+      "meaning_en": "alimony payment, maintenance payment",
+      "meaning_uk": "виплата аліментів",
+      "meaning_es": "pago de manutención/pensión alimenticia",
+      "example": "Er muss weiterhin monatliche *** für seine Kinder leisten."
+    },
+    {
+      "term": "der Sorgerechtsstreit",
+      "type": "Substantiv (m)",
+      "meaning_tr": "velayet davası",
+      "meaning_en": "custody battle",
+      "meaning_uk": "суперечка за право опіки",
+      "meaning_es": "disputa por la custodia",
+      "example": "Der *** zog sich über ein Jahr hinweg und belastete die Familie sehr."
+    },
+    {
+      "term": "die Vormundschaft",
+      "type": "Substantiv (f)",
+      "meaning_tr": "vasilik",
+      "meaning_en": "guardianship",
+      "meaning_uk": "опіка",
+      "meaning_es": "tutela",
+      "example": "Nach dem Tod der Eltern wurde dem Onkel die *** über die Minderjährigen übertragen."
+    },
+    {
+      "term": "die Schwiegereltern",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "kayınpeder ve kayınvalide",
+      "meaning_en": "parents-in-law",
+      "meaning_uk": "тесть/свекруха та теща/свекор",
+      "meaning_es": "suegros",
+      "example": "Die Beziehung zu den *** war anfangs etwas angespannt."
+    },
+    {
+      "term": "die Generationskonflikte",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "kuşak çatışmaları",
+      "meaning_en": "generation gaps/conflicts",
+      "meaning_uk": "конфлікти поколінь",
+      "meaning_es": "conflictos generacionales",
+      "example": "Traditionelle Werte führen oft zu heftigen ***."
+    },
+    {
+      "term": "die Adoption",
+      "type": "Substantiv (f)",
+      "meaning_tr": "evlat edinme",
+      "meaning_en": "adoption",
+      "meaning_uk": "усиновлення",
+      "meaning_es": "adopción",
+      "example": "Nach Jahren des Wartens konnten sie endlich ihr Wunschkind adoptieren."
+    },
+    {
+      "term": "die leibliche Mutter",
+      "type": "Substantiv (f)",
+      "meaning_tr": "öz anne",
+      "meaning_en": "biological mother",
+      "meaning_uk": "біологічна мати",
+      "meaning_es": "madre biológica",
+      "example": "Das Kind hatte das Bedürfnis, seine *** kennenzulernen."
+    },
+    {
+      "term": "die Patchwork-Elternschaft",
+      "type": "Substantiv (f)",
+      "meaning_tr": "karma ebeveynlik",
+      "meaning_en": "blended parenting",
+      "meaning_uk": "змішане батьківство",
+      "meaning_es": "paternidad mixta",
+      "example": "Die Koordination der Erziehungsstile ist bei der *** eine Herausforderung."
+    },
+    {
+      "term": "die Verwandtschaftslinien",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "akrabalık hatları",
+      "meaning_en": "lines of kinship",
+      "meaning_uk": "родинні лінії",
+      "meaning_es": "líneas de parentesco",
+      "example": "Die komplexen *** wurden im Stammbaum visualisiert."
+    },
+    {
+      "term": "das Erbe",
+      "type": "Substantiv (n)",
+      "meaning_tr": "miras",
+      "meaning_en": "heritage, legacy, inheritance",
+      "meaning_uk": "спадщина, спадок",
+      "meaning_es": "herencia",
+      "example": "Er fühlte sich verpflichtet, das kulturelle *** seiner Vorfahren zu bewahren."
+    },
+    {
+      "term": "der Ehegatte/die Ehegattin",
+      "type": "Substantiv (m/f)",
+      "meaning_tr": "eş",
+      "meaning_en": "spouse",
+      "meaning_uk": "подружжя",
+      "meaning_es": "cónyuge",
+      "example": "Offizielle Dokumente verlangen oft die Nennung des ***."
+    },
+    {
+      "term": "die Trennung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ayrılık",
+      "meaning_en": "separation (of partners)",
+      "meaning_uk": "розлука",
+      "meaning_es": "separación",
+      "example": "Die Phase nach der *** war emotional sehr belastend."
+    },
+    {
+      "term": "die Verwandten ersten Grades",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "birinci derece akrabalar",
+      "meaning_en": "first-degree relatives",
+      "meaning_uk": "родичі першого ступеня споріднення",
+      "meaning_es": "parientes de primer grado",
+      "example": "Nur die *** durften an der Beerdigung teilnehmen."
+    },
+    {
+      "term": "die Verantwortung übernehmen",
+      "type": "Phrase",
+      "meaning_tr": "sorumluluk üstlenmek",
+      "meaning_en": "to take responsibility",
+      "meaning_uk": "брати відповідальність",
+      "meaning_es": "asumir la responsabilidad",
+      "example": "Er musste nach dem Unfall die volle *** für die Familie übernehmen."
+    },
+    {
+      "term": "die Schwangerschaft",
+      "type": "Substantiv (f)",
+      "meaning_tr": "hamilelik",
+      "meaning_en": "pregnancy",
+      "meaning_uk": "вагітність",
+      "meaning_es": "embarazo",
+      "example": "Die unplanmäßige *** führte zu großen Veränderungen in ihren Lebensplänen."
+    },
+    {
+      "term": "die Ehelosigkeit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "bekarlık/dul kalma durumu",
+      "meaning_en": "celibacy, unmarried status",
+      "meaning_uk": "незаміжність/неодруженість",
+      "meaning_es": "soltería",
+      "example": "Sie entschied sich bewusst für ein Leben in ***."
+    },
+    {
+      "term": "die Erbmasse",
+      "type": "Substantiv (f)",
+      "meaning_tr": "miras malı",
+      "meaning_en": "estate, inherited assets",
+      "meaning_uk": "спадкова маса",
+      "meaning_es": "masa hereditaria",
+      "example": "Die Verteilung der *** gestaltete sich kompliziert."
+    },
+    {
+      "term": "die emotionale Abhängigkeit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "duygusal bağımlılık",
+      "meaning_en": "emotional dependency",
+      "meaning_uk": "емоційна залежність",
+      "meaning_es": "dependencia emocional",
+      "example": "Ihre Beziehung litt unter der starken *** von ihm."
+    },
+    {
+      "term": "die Großelternschaft",
+      "type": "Substantiv (f)",
+      "meaning_tr": "büyükanne/büyükbaba olma durumu",
+      "meaning_en": "grandparenthood",
+      "meaning_uk": "бабусі та дідусі",
+      "meaning_es": "la abuelidad",
+      "example": "Die *** erfüllte sie mit einer neuen Art von Freude."
+    },
+    {
+      "term": "die Lebensgefährtenschaft",
+      "type": "Substantiv (f)",
+      "meaning_tr": "birlikte yaşama (evlilik dışı)",
+      "meaning_en": "domestic partnership",
+      "meaning_uk": "співмешкання",
+      "meaning_es": "unión de hecho",
+      "example": "Sie führten eine lange *** ohne formelle Trauung."
+    },
+    {
+      "term": "der Familienrat",
+      "type": "Substantiv (m)",
+      "meaning_tr": "aile konseyi",
+      "meaning_en": "family council",
+      "meaning_uk": "сімейна рада",
+      "meaning_es": "consejo familiar",
+      "example": "Wichtige Entscheidungen wurden immer im *** getroffen."
+    },
+    {
+      "term": "die Patchwork-Kinder",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "karma aile çocukları",
+      "meaning_en": "children in a blended family",
+      "meaning_uk": "діти у змішаній сім'ї",
+      "meaning_es": "hijos de familias mixtas",
+      "example": "Die *** mussten sich erst an die neuen Bezugspersonen gewöhnen."
+    },
+    {
+      "term": "die Erbansprüche",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "miras hakları",
+      "meaning_en": "claims to inheritance",
+      "meaning_uk": "претензії на спадщину",
+      "meaning_es": "derechos hereditarios",
+      "example": "Er legte seine *** offiziell beim Notar dar."
+    },
+    {
+      "term": "die Verwandtschaftsbande",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "akrabalık bağları",
+      "meaning_en": "ties of kinship",
+      "meaning_uk": "родинні зв'язки",
+      "meaning_es": "lazos de parentesco",
+      "example": "Trotz aller Meinungsverschiedenheiten halten die ***."
+    },
+    {
+      "term": "die Tante mütterlicherseits",
+      "type": "Substantiv (f)",
+      "meaning_tr": "anne tarafı teyze",
+      "meaning_en": "maternal aunt",
+      "meaning_uk": "тітка по матері",
+      "meaning_es": "tía materna",
+      "example": "Meine *** wohnt in Österreich und wir besuchen sie selten."
+    },
+    {
+      "term": "die Obsorge",
+      "type": "Substantiv (f)",
+      "meaning_tr": "velayet, bakımı üstlenme (Österreichisch)",
+      "meaning_en": "custody (esp. Austrian term)",
+      "meaning_uk": "опіка (австрійський термін)",
+      "meaning_es": "custodia (término austriaco)",
+      "example": "In Österreich wird der Begriff *** häufig anstelle von 'Sorgerecht' verwendet."
+    },
+    {
+      "term": "die Großfamilie",
+      "type": "Substantiv (f)",
+      "meaning_tr": "geniş aile",
+      "meaning_en": "extended family",
+      "meaning_uk": "велика родина",
+      "meaning_es": "familia extensa",
+      "example": "Für viele Menschen ist die Unterstützung durch die *** unerlässlich."
+    },
+    {
+      "term": "die Trennungsphase",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ayrılık dönemi",
+      "meaning_en": "separation period",
+      "meaning_uk": "період розлуки",
+      "meaning_es": "fase de separación",
+      "example": "Die Kinder brauchten in der *** besondere Aufmerksamkeit."
+    },
+    {
+      "term": "die Patenonkel",
+      "type": "Substantiv (m)",
+      "meaning_tr": "vaftiz babası",
+      "meaning_en": "godfather",
+      "meaning_uk": "божий батько",
+      "meaning_es": "padrino",
+      "example": "Der *** hatte eine sehr enge Bindung zu seinem Patenkind."
+    },
+    {
+      "term": "die Loyalität",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sadakat",
+      "meaning_en": "loyalty",
+      "meaning_uk": "лояльність, вірність",
+      "meaning_es": "lealtad",
+      "example": "Seine *** zur Familie stand nie in Frage."
+    },
+    {
+      "term": "die eheliche Untreue",
+      "type": "Substantiv (f)",
+      "meaning_tr": "evlilik dışı sadakatsizlik",
+      "meaning_en": "marital infidelity",
+      "meaning_uk": "подружня невірність",
+      "meaning_es": "infidelidad conyugal",
+      "example": "Die *** war der Hauptgrund für die Scheidung."
+    },
+    {
+      "term": "die Versippung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "akrabalık ilişkileri ağı",
+      "meaning_en": "network of in-laws/relatives (often used loosely)",
+      "meaning_uk": "мережі родичів",
+      "meaning_es": "red de parientes (a menudo peyorativo)",
+      "example": "In der kleinen Gemeinde herrschte eine starke ***, was Entscheidungen erschwerte."
+    },
+    {
+      "term": "die Sorgeberechtigung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "velayet hakkı",
+      "meaning_en": "custodial rights",
+      "meaning_uk": "право на опіку",
+      "meaning_es": "derecho de custodia",
+      "example": "Nach der Scheidung wurde die alleinige *** dem Vater zugesprochen."
+    },
+    {
+      "term": "etwas verwahren",
+      "type": "Verb",
+      "meaning_tr": "saklamak, muhafaza etmek",
+      "meaning_en": "to keep safe, to safeguard (e.g., an object or a memory)",
+      "meaning_uk": "зберігати",
+      "meaning_es": "guardar, custodiar",
+      "example": "Sie musste die alten Briefe ihrer Großmutter sorgfältig ***."
+    },
+    {
+      "term": "die Ahnenforschung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "soy araştırması",
+      "meaning_en": "genealogy",
+      "meaning_uk": "родознавство",
+      "meaning_es": "genealogía",
+      "example": "Viele Menschen widmen sich in ihrer Freizeit der ***."
+    },
+    {
+      "term": "die Verwandtschaft dritten Grades",
+      "type": "Substantiv (f)",
+      "meaning_tr": "üçüncü derece akrabalık",
+      "meaning_en": "third-degree relative",
+      "meaning_uk": "родич третього ступеня споріднення",
+      "meaning_es": "pariente de tercer grado",
+      "example": "Nur die engsten Verwandten wurden zum Testament geladen, kein ***."
+    },
+    {
+      "term": "die Heiratswilligkeit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "evlenme istekliliği",
+      "meaning_en": "willingness to marry",
+      "meaning_uk": "готовність до шлюбу",
+      "meaning_es": "disposición a casarse",
+      "example": "Trotz der langen Beziehung zeigte er keine ***."
+    },
+    {
+      "term": "die Lebensgemeinschaft",
+      "type": "Substantiv (f)",
+      "meaning_tr": "birlikte yaşam",
+      "meaning_en": "cohabitation, community of life",
+      "meaning_uk": "спільне життя",
+      "meaning_es": "comunidad de vida",
+      "example": "Sie lebten seit zehn Jahren in einer festen ***."
+    }
+  ]
+}

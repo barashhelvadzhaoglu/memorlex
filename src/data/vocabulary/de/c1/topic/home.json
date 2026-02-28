@@ -1,0 +1,563 @@
+{
+  "title": "Haus & Wohnen C1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Anschaffung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Satın alma, edinme",
+      "meaning_en": "purchase, acquisition",
+      "meaning_uk": "придбання",
+      "meaning_es": "la adquisición",
+      "example": "Die Anschaffung eines Eigenheims ist eine langfristige finanzielle Verpflichtung. ***"
+    },
+    {
+      "term": "die Hypothek",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "ipotek",
+      "meaning_en": "mortgage",
+      "meaning_uk": "іпотека",
+      "meaning_es": "la hipoteca",
+      "example": "Aufgrund hoher Zinsen ist die Finanzierung einer Hypothek momentan schwierig. ***"
+    },
+    {
+      "term": "das Eigenheim",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "Öz ev, müstakil ev",
+      "meaning_en": "owner-occupied home",
+      "meaning_uk": "власне житло",
+      "meaning_es": "la vivienda propia",
+      "example": "Viele streben den Traum vom Eigenheim an, um unabhängig zu sein. ***"
+    },
+    {
+      "term": "die Nebenkostenabrechnung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Yan gider bildirimi",
+      "meaning_en": "utility bill statement (for tenants)",
+      "meaning_uk": "розрахунок за комунальні послуги",
+      "meaning_es": "la liquidación de gastos adicionales",
+      "example": "Ich muss die Nebenkostenabrechnung dieses Jahr genauer prüfen, da sie sehr hoch war. ***"
+    },
+    {
+      "term": "die Instandhaltung",
+      "type": "Substantiv, feminin",
+      "meaning_en": "maintenance, upkeep",
+      "meaning_uk": "утримання, технічне обслуговування",
+      "meaning_es": "el mantenimiento",
+      "example": "Regelmäßige Instandhaltung sichert den Wert einer Immobilie. ***"
+    },
+    {
+      "term": "die Wohnfläche",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Yaşam alanı yüzölçümü",
+      "meaning_en": "living space (area)",
+      "meaning_uk": "житлова площа",
+      "meaning_es": "la superficie habitable",
+      "example": "Die Wohnfläche beträgt beeindruckende 150 Quadratmeter. ***"
+    },
+    {
+      "term": "die Bausubstanz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Yapı maddesi, yapısal bütünlük",
+      "meaning_en": "building structure, substance of the building",
+      "meaning_uk": "будівельна конструкція",
+      "meaning_es": "la estructura del edificio",
+      "example": "Trotz des Alters ist die Bausubstanz dieses Altbaus noch in einem sehr guten Zustand. ***"
+    },
+    {
+      "term": "der Grundriss",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Kat planı",
+      "meaning_en": "floor plan",
+      "meaning_uk": "план поверху",
+      "meaning_es": "el plano de planta",
+      "example": "Wir haben den Grundriss angepasst, um ein offeneres Wohnkonzept zu schaffen. ***"
+    },
+    {
+      "term": "die Sanierung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Islah etme, yenileme (genellikle eski yapılar için)",
+      "meaning_en": "renovation, refurbishment",
+      "meaning_uk": "реконструкція, капітальний ремонт",
+      "meaning_es": "la rehabilitación, la renovación",
+      "example": "Die vollständige Sanierung des historischen Gebäudes dauerte fast drei Jahre. ***"
+    },
+    {
+      "term": "die Eigenleistung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Öz katkı, kendi emeği",
+      "meaning_en": "own contribution (of work)",
+      "meaning_uk": "власні зусилля, особиста праця",
+      "meaning_es": "la contribución personal",
+      "example": "Durch Eigenleistung konnten wir die Kosten für den Innenausbau erheblich senken. ***"
+    },
+    {
+      "term": "die Rendite",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Getiri",
+      "meaning_en": "return on investment",
+      "meaning_uk": "рентабельність, прибутковість",
+      "meaning_es": "el rendimiento",
+      "example": "Als Kapitalanlage soll die Immobilie eine stabile Rendite erwirtschaften. ***"
+    },
+    {
+      "term": "die Zwangsversteigerung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Zorla satış, haciz yoluyla satış",
+      "meaning_en": "forced sale, foreclosure auction",
+      "meaning_uk": "примусовий продаж з аукціону",
+      "meaning_es": "la subasta forzosa",
+      "example": "Die Bank kündigte die Zwangsversteigerung an, nachdem die Raten nicht mehr gezahlt wurden. ***"
+    },
+    {
+      "term": "der Wohneigentümer",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Ev sahibi",
+      "meaning_en": "homeowner",
+      "meaning_uk": "власник житла",
+      "meaning_es": "el propietario de vivienda",
+      "example": "Als Wohneigentümer trägt man die volle Verantwortung für Reparaturen. ***"
+    },
+    {
+      "term": "das Mietrecht",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "Kira hukuku",
+      "meaning_en": "tenancy law",
+      "meaning_uk": "житлове право, орендне право",
+      "meaning_es": "el derecho de arrendamiento",
+      "example": "Bei Streitigkeiten mit dem Vermieter muss man sich über das Mietrecht informieren. ***"
+    },
+    {
+      "term": "die Kündigungsfrist",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "İhbar süresi",
+      "meaning_en": "notice period",
+      "meaning_uk": "термін повідомлення про розірвання",
+      "meaning_es": "el plazo de preaviso",
+      "example": "Die gesetzliche Kündigungsfrist für einen unbefristeten Mietvertrag beträgt drei Monate. ***"
+    },
+    {
+      "term": "die Kaution",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Depozito",
+      "meaning_en": "security deposit",
+      "meaning_uk": "застава",
+      "meaning_es": "la fianza",
+      "example": "Die Kaution wird nach Auszug zurückgezahlt, sofern keine Schäden vorliegen. ***"
+    },
+    {
+      "term": "die Mängelanzeige",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Hata bildirimi, kusur beyanı",
+      "meaning_en": "notice of defects",
+      "meaning_uk": "повідомлення про дефекти",
+      "meaning_es": "el aviso de defectos",
+      "example": "Nach der Übergabe der Wohnung machte ich sofort eine Mängelanzeige bezüglich des feuchten Kellers. ***"
+    },
+    {
+      "term": "die Modernisierung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Modernizasyon",
+      "meaning_en": "modernization",
+      "meaning_uk": "модернізація",
+      "meaning_es": "la modernización",
+      "example": "Der Vermieter kann nach einer Modernisierung die Miete erhöhen. ***"
+    },
+    {
+      "term": "die Wohnungsübergabe",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Daire teslimi",
+      "meaning_en": "handover of the apartment",
+      "meaning_uk": "передача квартири",
+      "meaning_es": "la entrega del piso",
+      "example": "Bei der Wohnungsübergabe sollte man genau auf alle Vorschäden achten. ***"
+    },
+    {
+      "term": "der Mieterhöhungswiderspruch",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Kira artışına itiraz",
+      "meaning_en": "objection to a rent increase",
+      "meaning_uk": "заперечення проти підвищення орендної плати",
+      "meaning_es": "la objeción al aumento de alquiler",
+      "example": "Wenn die Miete über die ortsübliche Vergleichsmiete steigt, ist ein Mieterhöhungswiderspruch möglich. ***"
+    },
+    {
+      "term": "die Belegungsquote",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Doluluk oranı",
+      "meaning_en": "occupancy rate",
+      "meaning_uk": "коефіцієнт заповнення",
+      "meaning_es": "la tasa de ocupación",
+      "example": "In dieser neuen Wohnsiedlung ist die Belegungsquote überraschend niedrig. ***"
+    },
+    {
+      "term": "die Abrissgenehmigung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Yıkım izni",
+      "meaning_en": "demolition permit",
+      "meaning_uk": "дозвіл на знесення",
+      "meaning_es": "el permiso de demolición",
+      "example": "Bevor der Bagger startet, muss die Abrissgenehmigung vorliegen. ***"
+    },
+    {
+      "term": "der Architekturentwurf",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Mimari tasarım",
+      "meaning_en": "architectural design",
+      "meaning_uk": "архітектурний проєкт",
+      "meaning_es": "el diseño arquitectónico",
+      "example": "Der Architekt präsentierte einen mutigen, aber funktionalen Entwurf. ***"
+    },
+    {
+      "term": "das Raumkonzept",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "Mekansal konsept",
+      "meaning_en": "spatial concept",
+      "meaning_uk": "просторове рішення",
+      "meaning_es": "el concepto espacial",
+      "example": "Das offene Raumkonzept integriert Küche und Wohnbereich nahtlos. ***"
+    },
+    {
+      "term": "die Bauleitung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Şantiye yönetimi, inşaat denetimi",
+      "meaning_en": "construction management",
+      "meaning_uk": "керівництво будівництвом",
+      "meaning_es": "la dirección de obra",
+      "example": "Die Bauleitung überwacht die Einhaltung der Sicherheitsvorschriften auf der Baustelle. ***"
+    },
+    {
+      "term": "die Erschließung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Altyapı sağlama",
+      "meaning_en": "development (of infrastructure)",
+      "meaning_uk": "розвиток інфраструктури",
+      "meaning_es": "el desarrollo de infraestructuras",
+      "example": "Die Erschließung des neuen Baugebiets mit Straßen und Leitungen ist abgeschlossen. ***"
+    },
+    {
+      "term": "der Bauträger",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Yapı geliştiricisi",
+      "meaning_en": "property developer",
+      "meaning_uk": "забудовник",
+      "meaning_es": "el promotor inmobiliario",
+      "example": "Der Bauträger musste Insolvenz anmelden, was viele Käufer betraf. ***"
+    },
+    {
+      "term": "die Eigenkapitalquote",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Öz sermaye oranı",
+      "meaning_en": "equity ratio",
+      "meaning_uk": "коефіцієнт власного капіталу",
+      "meaning_es": "el ratio de capital propio",
+      "example": "Banken verlangen oft eine hohe Eigenkapitalquote für die Kreditvergabe. ***"
+    },
+    {
+      "term": "die Wertsteigerung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Değer artışı",
+      "meaning_en": "appreciation in value",
+      "meaning_uk": "зростання вартості",
+      "meaning_es": "la apreciación del valor",
+      "example": "Dank der guten Lage erfreut sich die Immobilie einer stetigen Wertsteigerung. ***"
+    },
+    {
+      "term": "der Grundbucheintrag",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Tapu kaydı",
+      "meaning_en": "land register entry",
+      "meaning_uk": "запис у земельному кадастрі",
+      "meaning_es": "la inscripción en el registro de la propiedad",
+      "example": "Der Kauf ist erst rechtskräftig mit dem offiziellen Grundbucheintrag. ***"
+    },
+    {
+      "term": "das Altbausanierungsobjekt",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "Eski bina yenileme nesnesi",
+      "meaning_en": "old building renovation project",
+      "meaning_uk": "об'єкт для реновації старого будинку",
+      "meaning_es": "el proyecto de renovación de edificio antiguo",
+      "example": "Diese Immobilie ist ein typisches Altbausanierungsobjekt mit viel Potenzial. ***"
+    },
+    {
+      "term": "der Sanierungsbedarf",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Yenileme ihtiyacı",
+      "meaning_en": "need for renovation",
+      "meaning_uk": "потреба в ремонті/реконструкції",
+      "meaning_es": "la necesidad de renovación",
+      "example": "Der Gutachter hat einen erheblichen Sanierungsbedarf festgestellt. ***"
+    },
+    {
+      "term": "die Zwangsräumung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Tahliye",
+      "meaning_en": "eviction",
+      "meaning_uk": "примусове виселення",
+      "meaning_es": "el desalojo forzoso",
+      "example": "Nach langem Rechtsstreit kam es zur Zwangsräumung der Mietwohnung. ***"
+    },
+    {
+      "term": "das Erbbaurecht",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "İnşaat hakkı (arsa üzerinde)",
+      "meaning_en": "hereditary building right (right to build on land owned by another)",
+      "meaning_uk": "право забудови (на чужій землі)",
+      "meaning_es": "el derecho de superficie",
+      "example": "Der Kaufpreis ist niedriger, da das Grundstück nur im Erbbaurecht erworben wird. ***"
+    },
+    {
+      "term": "die Vermögensanlage",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Varlık yatırımı",
+      "meaning_en": "asset investment",
+      "meaning_uk": "інвестування активів",
+      "meaning_es": "la inversión patrimonial",
+      "example": "Immobilien gelten oft als sichere Form der Vermögensanlage. ***"
+    },
+    {
+      "term": "der Flächennutzungsplan",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Alan kullanım planı",
+      "meaning_en": "land use plan",
+      "meaning_uk": "генеральний план зонування",
+      "meaning_es": "el plan de uso del suelo",
+      "example": "Der neue Flächennutzungsplan könnte die Bebaubarkeit dieses Areals einschränken. ***"
+    },
+    {
+      "term": "die Mietpreisbremse",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Kira fiyat freni",
+      "meaning_en": "rent price brake",
+      "meaning_uk": "обмеження зростання орендної плати",
+      "meaning_es": "el freno de los precios de alquiler",
+      "example": "In Ballungszentren gilt oft die Mietpreisbremse, um die Wohnkosten zu dämpfen. ***"
+    },
+    {
+      "term": "der Leerstand",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Boş durma, atıl kalma",
+      "meaning_en": "vacancy",
+      "meaning_uk": "наявність вакансій, порожнеча",
+      "meaning_es": "la vacancia",
+      "example": "Ein hoher Leerstand in der Innenstadt signalisiert eine fehlende Nachfrage. ***"
+    },
+    {
+      "term": "das Energieeffizienzhaus",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "Enerji verimliliği evi",
+      "meaning_en": "energy-efficient house",
+      "meaning_uk": "енергоефективний будинок",
+      "meaning_es": "la casa de alta eficiencia energética",
+      "example": "Der Bau eines Energieeffizienzhauses wird staatlich gefördert. ***"
+    },
+    {
+      "term": "die Abrissbirne",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Yıkım topu",
+      "meaning_en": "demolition ball",
+      "meaning_uk": "руйнівна куля",
+      "meaning_es": "la bola de demolición",
+      "example": "Die Abrissbirne traf die Fassade mit voller Wucht. ***"
+    },
+    {
+      "term": "die Bauabnahme",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "İnşaat kabulü",
+      "meaning_en": "acceptance of construction work",
+      "meaning_uk": "приймання будівництва",
+      "meaning_es": "la recepción de la obra",
+      "example": "Nach der Bauabnahme beginnt die Gewährleistungsfrist zu laufen. ***"
+    },
+    {
+      "term": "der Sachmangel",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Maddi kusur",
+      "meaning_en": "material defect",
+      "meaning_uk": "матеріальний дефект",
+      "meaning_es": "el defecto material",
+      "example": "Der Sachmangel am Dach musste umgehend behoben werden. ***"
+    },
+    {
+      "term": "die Maklerprovision",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Emlakçı komisyonu",
+      "meaning_en": "real estate agent's commission",
+      "meaning_uk": "комісія ріелтора",
+      "meaning_es": "la comisión del agente inmobiliario",
+      "example": "Seit der Gesetzesänderung zahlt meistens der Verkäufer die Maklerprovision. ***"
+    },
+    {
+      "term": "der Grundstückserwerb",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Arsa edinimi",
+      "meaning_en": "land acquisition",
+      "meaning_uk": "придбання земельної ділянки",
+      "meaning_es": "la adquisición de terreno",
+      "example": "Der Grundstückserwerb ist der erste Schritt zum Hausbau. ***"
+    },
+    {
+      "term": "die Wohnraumförderung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Konut desteği",
+      "meaning_en": "housing promotion/subsidy",
+      "meaning_uk": "підтримка житлового фонду",
+      "meaning_es": "la promoción de vivienda",
+      "example": "Niedrigverdiener haben Anspruch auf staatliche Wohnraumförderung. ***"
+    },
+    {
+      "term": "die Umnutzung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Yeniden kullanım, amaç değişikliği",
+      "meaning_en": "change of use (of a building)",
+      "meaning_uk": "зміна призначення",
+      "meaning_es": "el cambio de uso",
+      "example": "Die Umnutzung einer alten Fabrikhalle zu Lofts ist ein beliebter Trend. ***"
+    },
+    {
+      "term": "die Mehrfachanlage",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Çoklu yatırım",
+      "meaning_en": "multiple investment (e.g., several properties)",
+      "meaning_uk": "багаторазове інвестування",
+      "meaning_es": "la inversión múltiple",
+      "example": "Er verfolgt die Strategie der Mehrfachanlage in urbanen Lagen. ***"
+    },
+    {
+      "term": "der Bebauungsplan",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "İmar planı",
+      "meaning_en": "development plan (zoning plan)",
+      "meaning_uk": "детальний план забудови",
+      "meaning_es": "el plan de desarrollo urbanístico",
+      "example": "Der Bebauungsplan legt fest, wie hoch und wie dicht gebaut werden darf. ***"
+    },
+    {
+      "term": "die Eigenleistungsgrenze",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Öz katkı sınırı",
+      "meaning_en": "limit for own contribution (in financing/construction)",
+      "meaning_uk": "межа особистої праці",
+      "meaning_es": "el límite de contribución propia",
+      "example": "Die Bank setzte die Eigenleistungsgrenze bei 20 Prozent der Baukosten an. ***"
+    },
+    {
+      "term": "die Verwertung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Değerlendirme, tasfiye",
+      "meaning_en": "realization, exploitation (of assets)",
+      "meaning_uk": "реалізація, використання",
+      "meaning_es": "la realización, la explotación",
+      "example": "Nach der Sanierung folgt die schnelle Verwertung der Luxuswohnungen. ***"
+    },
+    {
+      "term": "der Eigentumsvorbehalt",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Mülkiyetin saklı tutulması",
+      "meaning_en": "retention of title",
+      "meaning_uk": "застереження права власності",
+      "meaning_es": "la reserva de dominio",
+      "example": "Beim Ratenkauf bleibt der Eigentumsvorbehalt bis zur letzten Zahlung bestehen. ***"
+    },
+    {
+      "term": "die Nutzungsdauer",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Kullanım ömrü",
+      "meaning_en": "useful life (of a building/fixture)",
+      "meaning_uk": "термін експлуатації",
+      "meaning_es": "la vida útil",
+      "example": "Die kalkulierte Nutzungsdauer der neuen Heizungsanlage beträgt 20 Jahre. ***"
+    },
+    {
+      "term": "der Bebauungsrechtsstreit",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "İmar hukuku davası",
+      "meaning_en": "dispute over building rights",
+      "meaning_uk": "суперечка щодо права забудови",
+      "meaning_es": "litigio sobre el derecho de edificación",
+      "example": "Der Bebauungsrechtsstreit verzögert das gesamte Bauvorhaben um ein Jahr. ***"
+    },
+    {
+      "term": "die Wohngenossenschaft",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Konut kooperatifi",
+      "meaning_en": "housing cooperative",
+      "meaning_uk": "житловий кооператив",
+      "meaning_es": "la cooperativa de viviendas",
+      "example": "Mitglieder einer Wohngenossenschaft sind Miteigentümer der Gemeinschaft. ***"
+    },
+    {
+      "term": "der Mietzuschuss",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Kira yardımı",
+      "meaning_en": "rent subsidy",
+      "meaning_uk": "субсидія на оренду",
+      "meaning_es": "la subvención de alquiler",
+      "example": "Personen mit geringem Einkommen können einen Mietzuschuss beantragen. ***"
+    },
+    {
+      "term": "die Vermögensaufstellung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Varlık beyanı",
+      "meaning_en": "statement of assets",
+      "meaning_uk": "перелік активів",
+      "meaning_es": "la declaración de patrimonio",
+      "example": "Für die Kreditprüfung musste eine detaillierte Vermögensaufstellung eingereicht werden. ***"
+    },
+    {
+      "term": "die Zwangsverwaltung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Zorunlu yönetim",
+      "meaning_en": "receivership (of a property)",
+      "meaning_uk": "примусове управління",
+      "meaning_es": "la administración forzosa",
+      "example": "Wegen anhaltender Konflikte wurde das Mietshaus unter Zwangsverwaltung gestellt. ***"
+    },
+    {
+      "term": "die Rücklage",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Rezerv",
+      "meaning_en": "reserve fund (especially for apartment buildings)",
+      "meaning_uk": "резервний фонд",
+      "meaning_es": "el fondo de reserva",
+      "example": "Die Eigentümergemeinschaft bildet eine Rücklage für größere Reparaturen. ***"
+    },
+    {
+      "term": "die Zwangsliquidation",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Zorunlu tasfiye",
+      "meaning_en": "forced liquidation",
+      "meaning_uk": "примусова ліквідація",
+      "meaning_es": "la liquidación forzosa",
+      "example": "Die Zwangsliquidation der Immobiliengesellschaft war unvermeidlich. ***"
+    },
+    {
+      "term": "die Erbpacht",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Kiralama hakkı (uzun dönemli)",
+      "meaning_en": "leasehold (long-term lease)",
+      "meaning_uk": "довгострокова оренда",
+      "meaning_es": "el arrendamiento a largo plazo",
+      "example": "Das Land wird nur im Rahmen eines Erbpachtvertrages zur Verfügung gestellt. ***"
+    },
+    {
+      "term": "der Wohnungsmix",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Konut karması",
+      "meaning_en": "mix of apartment types (in a development)",
+      "meaning_uk": "житловий мікс",
+      "meaning_es": "la mezcla de viviendas",
+      "example": "Der Investor achtet auf einen ausgewogenen Wohnungsmix aus kleinen und großen Einheiten. ***"
+    },
+    {
+      "term": "die Bodenversiegelung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Zemin mühürleme",
+      "meaning_en": "soil sealing (covering ground with impermeable surfaces)",
+      "meaning_uk": "запечатування ґрунту",
+      "meaning_es": "el sellado del suelo",
+      "example": "Umweltschützer kritisieren die fortschreitende Bodenversiegelung durch neue Bauprojekte. ***"
+    }
+  ]
+}

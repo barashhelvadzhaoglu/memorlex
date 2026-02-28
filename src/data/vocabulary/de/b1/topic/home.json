@@ -1,0 +1,276 @@
+{
+  "title": "Haus & Wohnen B1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Einbauküche",
+      "type": "Noun (f)",
+      "meaning_tr": "Ankastre mutfak",
+      "meaning_en": "Fitted kitchen",
+      "meaning_uk": "Вбудована кухня",
+      "meaning_es": "Cocina empotrada",
+      "example": "Wir müssen uns entscheiden, ob wir die *** mitkaufen."
+    },
+    {
+      "term": "das Mietverhältnis",
+      "type": "Noun (n)",
+      "meaning_tr": "Kira ilişkisi",
+      "meaning_en": "Tenancy agreement",
+      "meaning_uk": "Договір оренди",
+      "meaning_es": "Contrato de arrendamiento",
+      "example": "Das *** wurde für mindestens ein Jahr geschlossen."
+    },
+    {
+      "term": "die Nebenkosten",
+      "type": "Noun (pl)",
+      "meaning_tr": "Yan masraflar",
+      "meaning_en": "Additional costs (utilities, etc.)",
+      "meaning_uk": "Додаткові витрати",
+      "meaning_es": "Gastos adicionales",
+      "example": "Im Winter sind die *** für Heizung immer höher."
+    },
+    {
+      "term": "die Kaution",
+      "type": "Noun (f)",
+      "meaning_tr": "Depozito",
+      "meaning_en": "Security deposit",
+      "meaning_uk": "Завдаток",
+      "meaning_es": "Fianza",
+      "example": "Bevor wir einziehen, müssen wir die *** hinterlegen."
+    },
+    {
+      "term": "möbliert",
+      "type": "Adjective",
+      "meaning_tr": "Eşyalı",
+      "meaning_en": "Furnished",
+      "meaning_uk": "Мебльований",
+      "meaning_es": "Amueblado",
+      "example": "Ich suche eine *** Wohnung in der Innenstadt."
+    },
+    {
+      "term": "die Wohnfläche",
+      "type": "Noun (f)",
+      "meaning_tr": "Yaşam alanı yüzölçümü",
+      "meaning_en": "Living space area",
+      "meaning_uk": "Житлова площа",
+      "meaning_es": "Superficie habitable",
+      "example": "Die *** der Wohnung beträgt 80 Quadratmeter."
+    },
+    {
+      "term": "das Eigenheim",
+      "type": "Noun (n)",
+      "meaning_tr": "Kendi evi (ipotekli/tapulu)",
+      "meaning_en": "Owner-occupied home",
+      "meaning_uk": "Власне житло",
+      "meaning_es": "Vivienda propia",
+      "example": "Viele Deutsche sparen lange für ihr ***."
+    },
+    {
+      "term": "die Hausordnung",
+      "type": "Noun (f)",
+      "meaning_tr": "Ev kuralları/Yönetim talimatnamesi",
+      "meaning_en": "House rules",
+      "meaning_uk": "Правила будинку",
+      "meaning_es": "Reglamento de la casa",
+      "example": "Bitte beachten Sie die *** bezüglich Lärmbelästigung."
+    },
+    {
+      "term": "die Eigentumswohnung",
+      "type": "Noun (f)",
+      "meaning_tr": "Kat mülkiyeti dairesi",
+      "meaning_en": "Condominium / Apartment for sale",
+      "meaning_uk": "Квартира у власності",
+      "meaning_es": "Apartamento en propiedad",
+      "example": "Nach zehn Jahren zahlt er die Hypothek für seine *** ab."
+    },
+    {
+      "term": "die Miete",
+      "type": "Noun (f)",
+      "meaning_tr": "Kira",
+      "meaning_en": "Rent",
+      "meaning_uk": "Орендна плата",
+      "meaning_es": "Alquiler",
+      "example": "Die *** ist jeden ersten Tag des Monats fällig."
+    },
+    {
+      "term": "kündigen",
+      "type": "Verb",
+      "meaning_tr": "İptal etmek, feshetmek",
+      "meaning_en": "To terminate (a contract)",
+      "meaning_uk": "Розірвати (контракт)",
+      "meaning_es": "Rescindir, cancelar",
+      "example": "Ich muss meinen Mietvertrag drei Monate im Voraus ***."
+    },
+    {
+      "term": "die Wohnungsübergabe",
+      "type": "Noun (f)",
+      "meaning_tr": "Daire teslimi",
+      "meaning_en": "Apartment handover (inspection)",
+      "meaning_uk": "Передача квартири",
+      "meaning_es": "Entrega del piso",
+      "example": "Bei der *** wird der Zustand der Wohnung überprüft."
+    },
+    {
+      "term": "der Hausmeister",
+      "type": "Noun (m)",
+      "meaning_tr": "Kapıcı, site görevlisi",
+      "meaning_en": "Caretaker, janitor",
+      "meaning_uk": "Двірник, консьєрж",
+      "meaning_es": "Conserje, portero",
+      "example": "Der *** kümmert sich um die Reparaturen im Haus."
+    },
+    {
+      "term": "die Renovierung",
+      "type": "Noun (f)",
+      "meaning_tr": "Tadilat",
+      "meaning_en": "Renovation",
+      "meaning_uk": "Ремонт",
+      "meaning_es": "Renovación",
+      "example": "Die ganze Wohnung braucht dringend eine ***."
+    },
+    {
+      "term": "die Hypothek",
+      "type": "Noun (f)",
+      "meaning_tr": "İpotek",
+      "meaning_en": "Mortgage",
+      "meaning_uk": "Іпотека",
+      "meaning_es": "Hipoteca",
+      "example": "Sie haben eine lange *** auf das Haus aufgenommen."
+    },
+    {
+      "term": "die Immobilie",
+      "type": "Noun (f)",
+      "meaning_tr": "Gayrimenkul",
+      "meaning_en": "Real estate property",
+      "meaning_uk": "Нерухомість",
+      "meaning_es": "Inmueble",
+      "example": "Wir überlegen, in eine neue *** zu investieren."
+    },
+    {
+      "term": "die Renovierungsarbeiten",
+      "type": "Noun (pl)",
+      "meaning_tr": "Tadilat işleri",
+      "meaning_en": "Renovation work",
+      "meaning_uk": "Ремонтні роботи",
+      "meaning_es": "Trabajos de renovación",
+      "example": "Wegen der *** war es letzte Woche sehr laut."
+    },
+    {
+      "term": "die Nebanwohnung",
+      "type": "Noun (f)",
+      "meaning_tr": "Yan konut/ek daire",
+      "meaning_en": "Secondary residence/annex apartment",
+      "meaning_uk": "Додаткова квартира",
+      "meaning_es": "Residencia secundaria",
+      "example": "Er vermietet die ***, um die Kosten zu decken."
+    },
+    {
+      "term": "der Balkon",
+      "type": "Noun (m)",
+      "meaning_tr": "Balkon",
+      "meaning_en": "Balcony",
+      "meaning_uk": "Балкон",
+      "meaning_es": "Balcón",
+      "example": "Am Abend sitzen wir gerne auf dem ***."
+    },
+    {
+      "term": "der Keller",
+      "type": "Noun (m)",
+      "meaning_tr": "Kiler, bodrum",
+      "meaning_en": "Basement, cellar",
+      "meaning_uk": "Підвал",
+      "meaning_es": "Sótano",
+      "example": "Ich lagere meine alten Möbel im ***."
+    },
+    {
+      "term": "die Zentralheizung",
+      "type": "Noun (f)",
+      "meaning_tr": "Merkezi ısıtma",
+      "meaning_en": "Central heating",
+      "meaning_uk": "Центральне опалення",
+      "meaning_es": "Calefacción central",
+      "example": "Die Wohnung hat eine moderne ***."
+    },
+    {
+      "term": "die Mülltrennung",
+      "type": "Noun (f)",
+      "meaning_tr": "Çöp ayrıştırma",
+      "meaning_en": "Waste separation/recycling",
+      "meaning_uk": "Сортування сміття",
+      "meaning_es": "Separación de basura",
+      "example": "Die korrekte *** ist in Deutschland sehr wichtig."
+    },
+    {
+      "term": "der Hausbesitzer",
+      "type": "Noun (m)",
+      "meaning_tr": "Ev sahibi",
+      "meaning_en": "Homeowner",
+      "meaning_uk": "Власник будинку",
+      "meaning_es": "Propietario de la vivienda",
+      "example": "Der *** entscheidet über größere Reparaturen."
+    },
+    {
+      "term": "die Grundfläche",
+      "type": "Noun (f)",
+      "meaning_tr": "Taban alanı",
+      "meaning_en": "Footprint (of a building)",
+      "meaning_uk": "Площа основи",
+      "meaning_es": "Superficie de base",
+      "example": "Die *** des Hauses ist recht groß."
+    },
+    {
+      "term": "einziehen",
+      "type": "Verb",
+      "meaning_tr": "Yerleşmek, taşınmak",
+      "meaning_en": "To move in",
+      "meaning_uk": "Заселятися",
+      "meaning_es": "Mudarse (a)",
+      "example": "Nächsten Monat werden wir in unser neues Haus ***."
+    },
+    {
+      "term": "ausziehen",
+      "type": "Verb",
+      "meaning_tr": "Taşınmak (evden)",
+      "meaning_en": "To move out",
+      "meaning_uk": "Виселятися",
+      "meaning_es": "Mudarse (de)",
+      "example": "Sie mussten letzte Woche aus beruflichen Gründen ***."
+    },
+    {
+      "term": "die Wohnungsanzeige",
+      "type": "Noun (f)",
+      "meaning_tr": "Emlak ilanı",
+      "meaning_en": "Housing advertisement",
+      "meaning_uk": "Оголошення про оренду",
+      "meaning_es": "Anuncio de vivienda",
+      "example": "Ich habe die perfekte Wohnung in einer *** gefunden."
+    },
+    {
+      "term": "die Hausverwaltung",
+      "type": "Noun (f)",
+      "meaning_tr": "Site yönetimi",
+      "meaning_en": "Property management",
+      "meaning_uk": "Управління будинком",
+      "meaning_es": "Administración de propiedades",
+      "example": "Bei Problemen kontaktieren Sie bitte die ***."
+    },
+    {
+      "term": "die Stromrechnung",
+      "type": "Noun (f)",
+      "meaning_tr": "Elektrik faturası",
+      "meaning_en": "Electricity bill",
+      "meaning_uk": "Рахунок за електроенергію",
+      "meaning_es": "Factura de electricidad",
+      "example": "Im Sommer ist die *** niedriger als im Winter."
+    },
+    {
+      "term": "die Grundstücksgrenze",
+      "type": "Noun (f)",
+      "meaning_tr": "Arsa sınırı",
+      "meaning_en": "Property boundary",
+      "meaning_uk": "Межа ділянки",
+      "meaning_es": "Límite de la propiedad",
+      "example": "Der Zaun markiert die *** zum Nachbargrundstück."
+    }
+  ]
+}

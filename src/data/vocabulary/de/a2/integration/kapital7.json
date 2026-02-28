@@ -2,93 +2,797 @@
   "title": "Integration A2 - Kapitel 7b",
   "language": "de",
   "words": [
-    {"term": "der Ausflug", "type": "Noun", "meaning_tr": "Gezi", "meaning_en": "trip, excursion", "meaning_uk": "поїздка, екскурсія", "example": "Der *** mit der Klasse war sehr schön."},
-    {"term": "der Betriebsausflug", "type": "Noun", "meaning_tr": "İş yeri gezisi", "meaning_en": "company outing", "meaning_uk": "службова поїздка", "example": "Der *** findet im Sommer statt."},
-    {"term": "der Schulausflug", "type": "Noun", "meaning_tr": "Okul gezisi", "meaning_en": "school trip", "meaning_uk": "шкільна поїздка", "example": "Der *** geht ins Museum."},
-    {"term": "der Kursausflug", "type": "Noun", "meaning_tr": "Kurs gezisi", "meaning_en": "course trip", "meaning_uk": "поїздка курсу", "example": "Der *** ist am Freitag."},
-    {"term": "besichtigen", "type": "Verb", "meaning_tr": "Gezip görmek", "meaning_en": "visit, tour", "meaning_uk": "відвідувати", "example": "Wir *** die Altstadt."},
-    {"term": "eine Stadt besichtigen", "type": "Phrase", "meaning_tr": "Bir şehri gezmek", "meaning_en": "visit a city", "meaning_uk": "відвідати місто", "example": "Wir möchten ***."},
-    {"term": "das Bowling", "type": "Noun", "meaning_tr": "Bowling", "meaning_en": "bowling", "meaning_uk": "боулінг", "example": "Wir gehen *** spielen."},
-    {"term": "zum Bowling gehen", "type": "Phrase", "meaning_tr": "Bowlinge gitmek", "meaning_en": "go bowling", "meaning_uk": "йти в боулінг", "example": "Am Abend wollen wir ***."},
-    {"term": "entspannen", "type": "Verb", "meaning_tr": "Dinlenmek", "meaning_en": "relax", "meaning_uk": "відпочивати", "example": "Ich möchte heute ***."},
-    {"term": "in der Natur entspannen", "type": "Phrase", "meaning_tr": "Doğada dinlenmek", "meaning_en": "relax in nature", "meaning_uk": "відпочивати на природі", "example": "Am Wochenende wollen wir ***."},
-    {"term": "der Kletterpark", "type": "Noun", "meaning_tr": "Tırmanma parkı", "meaning_en": "climbing park", "meaning_uk": "мотузковий парк", "example": "Der *** ist spannend."},
-    {"term": "in den Kletterpark gehen", "type": "Phrase", "meaning_tr": "Tırmanma parkına gitmek", "meaning_en": "go to climbing park", "meaning_uk": "йти в мотузковий парк", "example": "Wir wollen ***."},
-    {"term": "der Zoo", "type": "Noun", "meaning_tr": "Hayvanat bahçesi", "meaning_en": "zoo", "meaning_uk": "зоопарк", "example": "Der *** ist sehr groß."},
-    {"term": "den Zoo besuchen", "type": "Phrase", "meaning_tr": "Hayvanat bahçesini ziyaret etmek", "meaning_en": "visit the zoo", "meaning_uk": "відвідати зоопарк", "example": "Wir möchten ***."},
-    {"term": "streicheln", "type": "Verb", "meaning_tr": "Sevmek / Okşamak", "meaning_en": "pet, stroke", "meaning_uk": "гладити", "example": "Man darf Tiere nicht ***."},
-    {"term": "Tiere im Zoo streicheln", "type": "Phrase", "meaning_tr": "Hayvanat bahçesinde hayvanları sevmek", "meaning_en": "pet animals in zoo", "meaning_uk": "гладити тварин у зоопарку", "example": "Kinder wollen ***."},
-    {"term": "die Puppe", "type": "Noun", "meaning_tr": "Oyuncak bebek", "meaning_en": "doll", "meaning_uk": "лялька", "example": "Das Kind spielt mit der ***."},
-    {"term": "erleben", "type": "Verb", "meaning_tr": "Deneyimlemek", "meaning_en": "experience", "meaning_uk": "переживати", "example": "Wir *** etwas Neues."},
-    {"term": "etwas Besonderes erleben", "type": "Phrase", "meaning_tr": "Özel bir şey deneyimlemek", "meaning_en": "experience something special", "meaning_uk": "пережити щось особливе", "example": "Im Urlaub wollen wir ***."},
-    {"term": "regional", "type": "Adjective", "meaning_tr": "Bölgesel", "meaning_en": "regional", "meaning_uk": "регіональний", "example": "Wir essen ***e Produkte."},
-    {"term": "regionale Spezialitäten probieren", "type": "Phrase", "meaning_tr": "Bölgesel lezzetleri denemek", "meaning_en": "try regional specialties", "meaning_uk": "скуштувати місцеві страви", "example": "Touristen möchten ***."},
-    {"term": "die Sehenswürdigkeit", "type": "Noun", "meaning_tr": "Turistik yer", "meaning_en": "sight", "meaning_uk": "пам’ятка", "example": "Die Stadt hat viele ***en."},
-    {"term": "der Berg", "type": "Noun", "meaning_tr": "Dağ", "meaning_en": "mountain", "meaning_uk": "гора", "example": "Der *** ist hoch."},
-    {"term": "die Tour", "type": "Noun", "meaning_tr": "Tur", "meaning_en": "tour", "meaning_uk": "тур", "example": "Die *** dauert zwei Stunden."},
-    {"term": "die Bustour", "type": "Noun", "meaning_tr": "Otobüs turu", "meaning_en": "bus tour", "meaning_uk": "автобусний тур", "example": "Wir machen eine ***."},
-    {"term": "die Schiffstour", "type": "Noun", "meaning_tr": "Gemi turu", "meaning_en": "boat tour", "meaning_uk": "прогулянка човном", "example": "Die *** ist beliebt."},
-    {"term": "die Fahrradtour", "type": "Noun", "meaning_tr": "Bisiklet turu", "meaning_en": "bike tour", "meaning_uk": "велотур", "example": "Die *** macht Spaß."},
-    {"term": "diskutieren", "type": "Verb", "meaning_tr": "Tartışmak", "meaning_en": "discuss", "meaning_uk": "обговорювати", "example": "Wir *** das Thema."},
-    {"term": "das Musical", "type": "Noun", "meaning_tr": "Müzikal", "meaning_en": "musical", "meaning_uk": "мюзикл", "example": "Das *** ist sehr bekannt."},
-    {"term": "in ein Musical gehen", "type": "Phrase", "meaning_tr": "Bir müzikale gitmek", "meaning_en": "go to a musical", "meaning_uk": "піти на мюзикл", "example": "Wir wollen ***."},
-    {"term": "reden", "type": "Verb", "meaning_tr": "Konuşmak", "meaning_en": "talk", "meaning_uk": "говорити", "example": "Wir müssen ***."},
-    {"term": "die Stadtführung", "type": "Noun", "meaning_tr": "Şehir turu", "meaning_en": "city tour", "meaning_uk": "екскурсія містом", "example": "Die *** beginnt um zehn."},
-    {"term": "der Vergnügungspark", "type": "Noun", "meaning_tr": "Lunapark", "meaning_en": "amusement park", "meaning_uk": "парк розваг", "example": "Der *** ist voll."},
-    {"term": "in einen Vergnügungspark gehen", "type": "Phrase", "meaning_tr": "Bir lunaparka gitmek", "meaning_en": "go to amusement park", "meaning_uk": "йти в парк розваг", "example": "Kinder wollen ***."},
-    {"term": "das Vorbereitungsteam", "type": "Noun", "meaning_tr": "Hazırlık ekibi", "meaning_en": "preparation team", "meaning_uk": "підготовча команда", "example": "Das *** arbeitet viel."},
-    {"term": "der Vorschlag", "type": "Noun", "meaning_tr": "Öneri", "meaning_en": "suggestion", "meaning_uk": "пропозиція", "example": "Das ist ein guter ***."},
-    {"term": "einen Vorschlag machen", "type": "Phrase", "meaning_tr": "Bir öneride bulunmak", "meaning_en": "make a suggestion", "meaning_uk": "зробити пропозицію", "example": "Er möchte ***."},
-    {"term": "vorschlagen", "type": "Verb", "meaning_tr": "Öneride bulunmak", "meaning_en": "suggest", "meaning_uk": "пропонувати", "example": "Ich ***e etwas."},
-    {"term": "zuschauen", "type": "Verb", "meaning_tr": "İzlemek", "meaning_en": "watch", "meaning_uk": "спостерігати", "example": "Wir *** dem Spiel."},
-    {"term": "auswählen", "type": "Verb", "meaning_tr": "Seçmek", "meaning_en": "choose", "meaning_uk": "обирати", "example": "Bitte *** ein Bild."},
-    {"term": "der Gegenvorschlag", "type": "Noun", "meaning_tr": "Karşı öneri", "meaning_en": "counterproposal", "meaning_uk": "зустрічна пропозиція", "example": "Er macht einen ***."},
-    {"term": "der Widerspruch", "type": "Noun", "meaning_tr": "İtiraz", "meaning_en": "objection", "meaning_uk": "заперечення", "example": "Das ist ein ***."},
-    {"term": "die Zustimmung", "type": "Noun", "meaning_tr": "Onay", "meaning_en": "approval", "meaning_uk": "згода", "example": "Wir brauchen deine ***."},
-    {"term": "die Burg", "type": "Noun", "meaning_tr": "Kale", "meaning_en": "castle", "meaning_uk": "замок", "example": "Die *** ist alt."},
-    {"term": "eine Burg besichtigen", "type": "Phrase", "meaning_tr": "Bir kaleyi gezmek", "meaning_en": "visit a castle", "meaning_uk": "відвідати замок", "example": "Touristen wollen ***."},
-    {"term": "bewölkt", "type": "Adjective", "meaning_tr": "Bulutlu", "meaning_en": "cloudy", "meaning_uk": "хмарно", "example": "Heute ist es ***."},
-    {"term": "die Wolke", "type": "Noun", "meaning_tr": "Bulut", "meaning_en": "cloud", "meaning_uk": "хмара", "example": "Eine *** ist am Himmel."},
-    {"term": "windig", "type": "Adjective", "meaning_tr": "Rüzgarlı", "meaning_en": "windy", "meaning_uk": "вітряно", "example": "Es ist sehr ***."},
-    {"term": "der Wind", "type": "Noun", "meaning_tr": "Rüzgar", "meaning_en": "wind", "meaning_uk": "вітер", "example": "Der *** ist stark."},
-    {"term": "der Nebel", "type": "Noun", "meaning_tr": "Sis", "meaning_en": "fog", "meaning_uk": "туман", "example": "Der *** ist dicht."},
-    {"term": "heiß", "type": "Adjective", "meaning_tr": "Sıcak", "meaning_en": "hot", "meaning_uk": "спекотно", "example": "Es ist sehr ***."},
-    {"term": "neblig", "type": "Adjective", "meaning_tr": "Sisli", "meaning_en": "foggy", "meaning_uk": "туманно", "example": "Es ist *** heute."},
-    {"term": "trocken", "type": "Adjective", "meaning_tr": "Kuru", "meaning_en": "dry", "meaning_uk": "сухий", "example": "Das Wetter ist ***."},
-    {"term": "sonnig", "type": "Adjective", "meaning_tr": "Güneşli", "meaning_en": "sunny", "meaning_uk": "сонячно", "example": "Heute ist es ***."},
-    {"term": "glatt", "type": "Adjective", "meaning_tr": "Kaygan", "meaning_en": "slippery", "meaning_uk": "слизький", "example": "Die Straße ist ***."},
-    {"term": "das Gewitter", "type": "Noun", "meaning_tr": "Fırtına", "meaning_en": "thunderstorm", "meaning_uk": "гроза", "example": "Das *** kommt."},
-    {"term": "blitzen", "type": "Verb", "meaning_tr": "Şimşek çakmak", "meaning_en": "lightning", "meaning_uk": "блискавка", "example": "Es ***t."},
-    {"term": "donnern", "type": "Verb", "meaning_tr": "Gök gürlemek", "meaning_en": "thunder", "meaning_uk": "гриміти", "example": "Es ***t laut."},
-    {"term": "nerven", "type": "Verb", "meaning_tr": "Sinir bozmak", "meaning_en": "annoy", "meaning_uk": "дратувати", "example": "Das Geräusch ***t mich."},
-    {"term": "der Regenschirm", "type": "Noun", "meaning_tr": "Şemsiye", "meaning_en": "umbrella", "meaning_uk": "парасолька", "example": "Ich nehme einen ***."},
-    {"term": "die Region", "type": "Noun", "meaning_tr": "Bölge", "meaning_en": "region", "meaning_uk": "регіон", "example": "Die *** ist schön."},
-    {"term": "der Zoobesuch", "type": "Noun", "meaning_tr": "Hayvanat bahçesi ziyareti", "meaning_en": "zoo visit", "meaning_uk": "відвідування зоопарку", "example": "Der *** war toll."},
-    {"term": "der Affe", "type": "Noun", "meaning_tr": "Maymun", "meaning_en": "monkey", "meaning_uk": "мавпа", "example": "Der *** klettert."},
-    {"term": "das Aquarium", "type": "Noun", "meaning_tr": "Akvaryum", "meaning_en": "aquarium", "meaning_uk": "акваріум", "example": "Das *** ist groß."},
-    {"term": "der Elefant", "type": "Noun", "meaning_tr": "Fil", "meaning_en": "elephant", "meaning_uk": "слон", "example": "Der *** ist riesig."},
-    {"term": "der Tierpfleger", "type": "Noun", "meaning_tr": "Hayvan bakıcısı", "meaning_en": "zookeeper", "meaning_uk": "доглядач тварин", "example": "Der *** füttert Tiere."},
-    {"term": "die Tierpflegerin", "type": "Noun", "meaning_tr": "Hayvan bakıcısı (k)", "meaning_en": "female zookeeper", "meaning_uk": "доглядачка тварин", "example": "Die *** arbeitet hier."},
-    {"term": "der Tiger", "type": "Noun", "meaning_tr": "Kaplan", "meaning_en": "tiger", "meaning_uk": "тигр", "example": "Der *** schläft."},
-    {"term": "das Highlight", "type": "Noun", "meaning_tr": "En önemli nokta", "meaning_en": "highlight", "meaning_uk": "родзинка", "example": "Das *** war super."},
-    {"term": "hinfahren", "type": "Verb", "meaning_tr": "Araçla gitmek", "meaning_en": "go there", "meaning_uk": "їхати туди", "example": "Wir *** morgen."},
-    {"term": "der Imbiss", "type": "Noun", "meaning_tr": "Büfe", "meaning_en": "snack bar", "meaning_uk": "закусочна", "example": "Der *** ist offen."},
-    {"term": "die Mayonnaise", "type": "Noun", "meaning_tr": "Mayonez", "meaning_en": "mayonnaise", "meaning_uk": "майонез", "example": "Ich mag ***."},
-    {"term": "wunderschön", "type": "Adjective", "meaning_tr": "Harika", "meaning_en": "beautiful", "meaning_uk": "чудовий", "example": "Die Stadt ist ***."},
-    {"term": "die Organisation", "type": "Noun", "meaning_tr": "Organizasyon", "meaning_en": "organization", "meaning_uk": "організація", "example": "Die *** ist wichtig."},
-    {"term": "bummeln", "type": "Verb", "meaning_tr": "Gezinmek", "meaning_en": "stroll", "meaning_uk": "гуляти", "example": "Wir *** durch die Stadt."},
-    {"term": "einige", "type": "Determiner", "meaning_tr": "Birkaç", "meaning_en": "some", "meaning_uk": "деякі", "example": "Ich habe *** Fragen."},
-    {"term": "mitten", "type": "Adverb", "meaning_tr": "Ortasında", "meaning_en": "in the middle", "meaning_uk": "посередині", "example": "Er steht *** im Raum."},
-    {"term": "weitergehen", "type": "Verb", "meaning_tr": "Devam etmek", "meaning_en": "continue", "meaning_uk": "продовжувати", "example": "Wir müssen ***."},
-    {"term": "füttern", "type": "Verb", "meaning_tr": "Beslemek", "meaning_en": "feed", "meaning_uk": "годувати", "example": "Man darf Tiere nicht ***."},
-    {"term": "die Sesselbahn", "type": "Noun", "meaning_tr": "Telesiyej", "meaning_en": "chairlift", "meaning_uk": "канатна дорога", "example": "Die *** fährt hoch."},
-    {"term": "der Löwe", "type": "Noun", "meaning_tr": "Aslan", "meaning_en": "lion", "meaning_uk": "лев", "example": "Der *** brüllt."},
-    {"term": "brüllen", "type": "Verb", "meaning_tr": "Kükremek", "meaning_en": "roar", "meaning_uk": "ревіти", "example": "Der Löwe ***t."},
-    {"term": "die Angst", "type": "Noun", "meaning_tr": "Korku", "meaning_en": "fear", "meaning_uk": "страх", "example": "Ich habe ***."},
-    {"term": "dabeihaben", "type": "Verb", "meaning_tr": "Yanında bulundurmak", "meaning_en": "have with you", "meaning_uk": "мати при собі", "example": "Ich *** meinen Ausweis."},
-    {"term": "die Kirche", "type": "Noun", "meaning_tr": "Kilise", "meaning_en": "church", "meaning_uk": "церква", "example": "Die *** ist alt."},
-    {"term": "der Reiseleiter", "type": "Noun", "meaning_tr": "Tur rehberi", "meaning_en": "tour guide", "meaning_uk": "гід", "example": "Der *** erklärt alles."},
-    {"term": "die Reiseleiterin", "type": "Noun", "meaning_tr": "Tur rehberi (k)", "meaning_en": "female tour guide", "meaning_uk": "гідка", "example": "Die *** spricht viel."},
-    {"term": "die Alternative", "type": "Noun", "meaning_tr": "Alternatif", "meaning_en": "alternative", "meaning_uk": "альтернатива", "example": "Das ist eine ***."}
+    {
+      "term": "der Ausflug",
+      "type": "Noun",
+      "meaning_tr": "Gezi - tur - seyahat",
+      "meaning_en": "trip - excursion - outing",
+      "meaning_uk": "поїздка - екскурсія - подорож",
+      "example": "Der *** mit der Klasse war sehr schön.",
+      "meaning_es": "excursión - viaje corto - salida"
+    },
+    {
+      "term": "der Betriebsausflug",
+      "type": "Noun",
+      "meaning_tr": "İş yeri gezisi - şirket gezisi",
+      "meaning_en": "company outing - corporate excursion",
+      "meaning_uk": "службова поїздка - корпоративний виїзд",
+      "example": "Der *** findet im Sommer statt.",
+      "meaning_es": "excursión de empresa - viaje corporativo"
+    },
+    {
+      "term": "der Schulausflug",
+      "type": "Noun",
+      "meaning_tr": "Okul gezisi - okul turu",
+      "meaning_en": "school trip - class excursion",
+      "meaning_uk": "шкільна поїздка - шкільна екскурсія",
+      "example": "Der *** geht ins Museum.",
+      "meaning_es": "excursión escolar - viaje de estudios"
+    },
+    {
+      "term": "der Kursausflug",
+      "type": "Noun",
+      "meaning_tr": "Kurs gezisi - kurs turu",
+      "meaning_en": "course trip - course outing",
+      "meaning_uk": "поїздка курсу - екскурсія курсу",
+      "example": "Der *** ist am Freitag.",
+      "meaning_es": "viaje del curso - excursión del curso"
+    },
+    {
+      "term": "besichtigen",
+      "type": "Verb",
+      "meaning_tr": "Gezip görmek - ziyaret etmek - incelemek",
+      "meaning_en": "visit - tour - inspect",
+      "meaning_uk": "відвідати - оглянути - інспектувати",
+      "example": "Wir *** die Altstadt.",
+      "meaning_es": "visitar - recorrer - inspeccionar"
+    },
+    {
+      "term": "eine Stadt besichtigen",
+      "type": "Phrase",
+      "meaning_tr": "Bir şehri gezmek - bir kenti ziyaret etmek",
+      "meaning_en": "visit a city - tour a town",
+      "meaning_uk": "відвідати місто - оглянути місто",
+      "example": "Wir möchten ***.",
+      "meaning_es": "visitar una ciudad - recorrer una urbe"
+    },
+    {
+      "term": "das Bowling",
+      "type": "Noun",
+      "meaning_tr": "Bowling - top yuvarlama",
+      "meaning_en": "bowling",
+      "meaning_uk": "боулінг",
+      "example": "Wir gehen *** spielen.",
+      "meaning_es": "bolos - juego de bolos"
+    },
+    {
+      "term": "zum Bowling gehen",
+      "type": "Phrase",
+      "meaning_tr": "Bowlinge gitmek - bowling oynamaya gitmek",
+      "meaning_en": "go bowling - play bowling",
+      "meaning_uk": "йти в боулінг - грати в боулінг",
+      "example": "Am Abend wollen wir ***.",
+      "meaning_es": "ir a jugar a los bolos - ir a bowling"
+    },
+    {
+      "term": "entspannen",
+      "type": "Verb",
+      "meaning_tr": "Dinlenmek - rahatlamak",
+      "meaning_en": "relax - unwind",
+      "meaning_uk": "відпочивати - розслаблятися",
+      "example": "Ich möchte heute ***.",
+      "meaning_es": "relajarse - descansar"
+    },
+    {
+      "term": "in der Natur entspannen",
+      "type": "Phrase",
+      "meaning_tr": "Doğada dinlenmek - doğada rahatlamak",
+      "meaning_en": "relax in nature - unwind outdoors",
+      "meaning_uk": "відпочивати на природі - розслаблятися на свіжому повітрі",
+      "example": "Am Wochenende wollen wir ***.",
+      "meaning_es": "relajarse en la naturaleza - descansar al aire libre"
+    },
+    {
+      "term": "der Kletterpark",
+      "type": "Noun",
+      "meaning_tr": "Tırmanma parkı - ip parkuru",
+      "meaning_en": "climbing park - ropes course",
+      "meaning_uk": "мотузковий парк - скеледром",
+      "example": "Der *** ist spannend.",
+      "meaning_es": "parque de escalada - parque de cuerdas"
+    },
+    {
+      "term": "in den Kletterpark gehen",
+      "type": "Phrase",
+      "meaning_tr": "Tırmanma parkına gitmek - ip parkuruna gitmek",
+      "meaning_en": "go to climbing park - visit the ropes course",
+      "meaning_uk": "йти в мотузковий парк - відвідати скеледром",
+      "example": "Wir wollen ***.",
+      "meaning_es": "ir al parque de escalada - ir al parque de cuerdas"
+    },
+    {
+      "term": "der Zoo",
+      "type": "Noun",
+      "meaning_tr": "Hayvanat bahçesi - hayvanat parkı",
+      "meaning_en": "zoo - zoological garden",
+      "meaning_uk": "зоопарк",
+      "example": "Der *** ist sehr groß.",
+      "meaning_es": "zoológico - parque zoológico"
+    },
+    {
+      "term": "den Zoo besuchen",
+      "type": "Phrase",
+      "meaning_tr": "Hayvanat bahçesini ziyaret etmek - hayvanat bahçesine gitmek",
+      "meaning_en": "visit the zoo - go to the zoo",
+      "meaning_uk": "відвідати зоопарк - гуляти в зоопарку",
+      "example": "Wir möchten ***.",
+      "meaning_es": "visitar el zoológico - ir al zoológico"
+    },
+    {
+      "term": "streicheln",
+      "type": "Verb",
+      "meaning_tr": "Sevmek - okşamak - ellemek",
+      "meaning_en": "pet - stroke - caress",
+      "meaning_uk": "гладити - пестити",
+      "example": "Man darf Tiere nicht ***.",
+      "meaning_es": "acariciar - toquetear"
+    },
+    {
+      "term": "Tiere im Zoo streicheln",
+      "type": "Phrase",
+      "meaning_tr": "Hayvanat bahçesinde hayvanları sevmek - hayvanları okşamak",
+      "meaning_en": "pet animals in zoo - caress zoo animals",
+      "meaning_uk": "гладити тварин у зоопарку",
+      "example": "Kinder wollen ***.",
+      "meaning_es": "acariciar animales en el zoológico"
+    },
+    {
+      "term": "die Puppe",
+      "type": "Noun",
+      "meaning_tr": "Oyuncak bebek - bebek",
+      "meaning_en": "doll - figure",
+      "meaning_uk": "лялька - лялька",
+      "example": "Das Kind spielt mit der ***.",
+      "meaning_es": "muñeca - figura de juguete"
+    },
+    {
+      "term": "erleben",
+      "type": "Verb",
+      "meaning_tr": "Deneyimlemek - tecrübe etmek - yaşamak",
+      "meaning_en": "experience - undergo - live through",
+      "meaning_uk": "пережити - досвідчити",
+      "example": "Wir *** etwas Neues.",
+      "meaning_es": "experimentar - vivir - gozar de"
+    },
+    {
+      "term": "etwas Besonderes erleben",
+      "type": "Phrase",
+      "meaning_tr": "Özel bir şey deneyimlemek - özel bir şey yaşamak",
+      "meaning_en": "experience something special - go through something unique",
+      "meaning_uk": "пережити щось особливе",
+      "example": "Im Urlaub wollen wir ***.",
+      "meaning_es": "experimentar algo especial - vivir algo único"
+    },
+    {
+      "term": "regional",
+      "type": "Adjective",
+      "meaning_tr": "Bölgesel - yerel",
+      "meaning_en": "regional - local",
+      "meaning_uk": "регіональний - місцевий",
+      "example": "Wir essen ***e Produkte.",
+      "meaning_es": "regional - local"
+    },
+    {
+      "term": "regionale Spezialitäten probieren",
+      "type": "Phrase",
+      "meaning_tr": "Bölgesel lezzetleri denemek - yöresel tatları tatmak",
+      "meaning_en": "try regional specialties - taste local delicacies",
+      "meaning_uk": "скуштувати місцеві страви - спробувати регіональні делікатеси",
+      "example": "Touristen möchten ***.",
+      "meaning_es": "probar especialidades regionales - degustar manjares locales"
+    },
+    {
+      "term": "die Sehenswürdigkeit",
+      "type": "Noun",
+      "meaning_tr": "Turistik yer - görülecek yer",
+      "meaning_en": "sight - place of interest",
+      "meaning_uk": "пам'ятка - визначна пам'ятка",
+      "example": "Die Stadt hat viele ***en.",
+      "meaning_es": "atracción turística - lugar de interés"
+    },
+    {
+      "term": "der Berg",
+      "type": "Noun",
+      "meaning_tr": "Dağ - tepe",
+      "meaning_en": "mountain - hill",
+      "meaning_uk": "гора",
+      "example": "Der *** ist hoch.",
+      "meaning_es": "montaña - monte"
+    },
+    {
+      "term": "die Tour",
+      "type": "Noun",
+      "meaning_tr": "Tur - gezi",
+      "meaning_en": "tour - trip",
+      "meaning_uk": "тур - екскурсія",
+      "example": "Die *** dauert zwei Stunden.",
+      "meaning_es": "tour - recorrido - excursión"
+    },
+    {
+      "term": "die Bustour",
+      "type": "Noun",
+      "meaning_tr": "Otobüs turu - otobüsle gezi",
+      "meaning_en": "bus tour",
+      "meaning_uk": "автобусний тур",
+      "example": "Wir machen eine ***.",
+      "meaning_es": "tour en autobús - paseo en bus"
+    },
+    {
+      "term": "die Schiffstour",
+      "type": "Noun",
+      "meaning_tr": "Gemi turu - tekne gezisi",
+      "meaning_en": "boat tour - ship tour",
+      "meaning_uk": "прогулянка човном - екскурсія на кораблі",
+      "example": "Die *** ist beliebt.",
+      "meaning_es": "tour en barco - paseo en barco"
+    },
+    {
+      "term": "die Fahrradtour",
+      "type": "Noun",
+      "meaning_tr": "Bisiklet turu - bisiklet gezisi",
+      "meaning_en": "bike tour - cycling tour",
+      "meaning_uk": "велотур - велосипедна прогулянка",
+      "example": "Die *** macht Spaß.",
+      "meaning_es": "tour en bicicleta - paseo en bici"
+    },
+    {
+      "term": "diskutieren",
+      "type": "Verb",
+      "meaning_tr": "Tartışmak - müzakere etmek",
+      "meaning_en": "discuss - debate",
+      "meaning_uk": "обговорювати - дискутувати",
+      "example": "Wir *** das Thema.",
+      "meaning_es": "discutir - debatir"
+    },
+    {
+      "term": "das Musical",
+      "type": "Noun",
+      "meaning_tr": "Müzikal - müzikli tiyatro",
+      "meaning_en": "musical - musical show",
+      "meaning_uk": "мюзикл",
+      "example": "Das *** ist sehr bekannt.",
+      "meaning_es": "musical - obra musical"
+    },
+    {
+      "term": "in ein Musical gehen",
+      "type": "Phrase",
+      "meaning_tr": "Bir müzikale gitmek - müzikal izlemeye gitmek",
+      "meaning_en": "go to a musical - attend a musical",
+      "meaning_uk": "піти на мюзикл",
+      "example": "Wir wollen ***.",
+      "meaning_es": "ir a un musical - asistir a un musical"
+    },
+    {
+      "term": "reden",
+      "type": "Verb",
+      "meaning_tr": "Konuşmak - söylemek",
+      "meaning_en": "talk - speak",
+      "meaning_uk": "говорити - розмовляти",
+      "example": "Wir müssen ***.",
+      "meaning_es": "hablar - charlar"
+    },
+    {
+      "term": "die Stadtführung",
+      "type": "Noun",
+      "meaning_tr": "Şehir turu - şehir rehberliği",
+      "meaning_en": "city tour - guided city walk",
+      "meaning_uk": "екскурсія містом - тур по місту",
+      "example": "Die *** beginnt um zehn.",
+      "meaning_es": "tour de la ciudad - visita guiada urbana"
+    },
+    {
+      "term": "der Vergnügungspark",
+      "type": "Noun",
+      "meaning_tr": "Lunapark - eğlence parkı",
+      "meaning_en": "amusement park - theme park",
+      "meaning_uk": "парк розваг",
+      "example": "Der *** ist voll.",
+      "meaning_es": "parque de atracciones - parque temático"
+    },
+    {
+      "term": "in einen Vergnügungspark gehen",
+      "type": "Phrase",
+      "meaning_tr": "Bir lunaparka gitmek - eğlence parkına gitmek",
+      "meaning_en": "go to amusement park - visit a theme park",
+      "meaning_uk": "йти в парк розваг",
+      "example": "Kinder wollen ***.",
+      "meaning_es": "ir a un parque de atracciones"
+    },
+    {
+      "term": "das Vorbereitungsteam",
+      "type": "Noun",
+      "meaning_tr": "Hazırlık ekibi - organizasyon ekibi",
+      "meaning_en": "preparation team - organizing committee",
+      "meaning_uk": "підготовча команда - група підготовки",
+      "example": "Das *** arbeitet viel.",
+      "meaning_es": "equipo de preparación - comité organizador"
+    },
+    {
+      "term": "der Vorschlag",
+      "type": "Noun",
+      "meaning_tr": "Öneri - teklif",
+      "meaning_en": "suggestion - proposal",
+      "meaning_uk": "пропозиція - рекомендація",
+      "example": "Das ist ein guter ***.",
+      "meaning_es": "sugerencia - propuesta"
+    },
+    {
+      "term": "einen Vorschlag machen",
+      "type": "Phrase",
+      "meaning_tr": "Bir öneride bulunmak - teklif yapmak",
+      "meaning_en": "make a suggestion - put forward a proposal",
+      "meaning_uk": "зробити пропозицію",
+      "example": "Er möchte ***.",
+      "meaning_es": "hacer una sugerencia - presentar una propuesta"
+    },
+    {
+      "term": "vorschlagen",
+      "type": "Verb",
+      "meaning_tr": "Öneride bulunmak - teklif etmek",
+      "meaning_en": "suggest - propose",
+      "meaning_uk": "пропонувати - радити",
+      "example": "Ich ***e etwas.",
+      "meaning_es": "sugerir - proponer"
+    },
+    {
+      "term": "zuschauen",
+      "type": "Verb",
+      "meaning_tr": "İzlemek - seyretmek",
+      "meaning_en": "watch - observe",
+      "meaning_uk": "спостерігати - дивитися",
+      "example": "Wir *** dem Spiel.",
+      "meaning_es": "mirar - observar"
+    },
+    {
+      "term": "auswählen",
+      "type": "Verb",
+      "meaning_tr": "Seçmek - tercih etmek",
+      "meaning_en": "choose - select",
+      "meaning_uk": "обирати - вибирати",
+      "example": "Bitte *** ein Bild.",
+      "meaning_es": "elegir - seleccionar"
+    },
+    {
+      "term": "der Gegenvorschlag",
+      "type": "Noun",
+      "meaning_tr": "Karşı öneri - karşı teklif",
+      "meaning_en": "counterproposal - alternative suggestion",
+      "meaning_uk": "зустрічна пропозиція - контрпропозиція",
+      "example": "Er macht einen ***.",
+      "meaning_es": "contrapropuesta - sugerencia alternativa"
+    },
+    {
+      "term": "der Widerspruch",
+      "type": "Noun",
+      "meaning_tr": "İtiraz - karşı çıkma",
+      "meaning_en": "objection - dissent",
+      "meaning_uk": "заперечення - незгода",
+      "example": "Das ist ein ***.",
+      "meaning_es": "objeción - desacuerdo"
+    },
+    {
+      "term": "die Zustimmung",
+      "type": "Noun",
+      "meaning_tr": "Onay - razı olma",
+      "meaning_en": "approval - consent",
+      "meaning_uk": "згода - схвалення",
+      "example": "Wir brauchen deine ***.",
+      "meaning_es": "aprobación - consentimiento"
+    },
+    {
+      "term": "die Burg",
+      "type": "Noun",
+      "meaning_tr": "Kale - hisar",
+      "meaning_en": "castle - fortress",
+      "meaning_uk": "замок",
+      "example": "Die *** ist alt.",
+      "meaning_es": "castillo - fortaleza"
+    },
+    {
+      "term": "eine Burg besichtigen",
+      "type": "Phrase",
+      "meaning_tr": "Bir kaleyi gezmek - bir kaleyi ziyaret etmek",
+      "meaning_en": "visit a castle - tour a fortress",
+      "meaning_uk": "відвідати замок",
+      "example": "Touristen wollen ***.",
+      "meaning_es": "visitar un castillo"
+    },
+    {
+      "term": "bewölkt",
+      "type": "Adjective",
+      "meaning_tr": "Bulutlu - kapalı",
+      "meaning_en": "cloudy - overcast",
+      "meaning_uk": "хмарно",
+      "example": "Heute ist es ***.",
+      "meaning_es": "nublado - cubierto"
+    },
+    {
+      "term": "die Wolke",
+      "type": "Noun",
+      "meaning_tr": "Bulut - bulutcuk",
+      "meaning_en": "cloud",
+      "meaning_uk": "хмара",
+      "example": "Eine *** ist am Himmel.",
+      "meaning_es": "nube"
+    },
+    {
+      "term": "windig",
+      "type": "Adjective",
+      "meaning_tr": "Rüzgarlı - havanın rüzgarlı olduğu",
+      "meaning_en": "windy",
+      "meaning_uk": "вітряно",
+      "example": "Es ist sehr ***.",
+      "meaning_es": "ventoso - con viento"
+    },
+    {
+      "term": "der Wind",
+      "type": "Noun",
+      "meaning_tr": "Rüzgar - yel",
+      "meaning_en": "wind",
+      "meaning_uk": "вітер",
+      "example": "Der *** ist stark.",
+      "meaning_es": "viento"
+    },
+    {
+      "term": "der Nebel",
+      "type": "Noun",
+      "meaning_tr": "Sis - pus",
+      "meaning_en": "fog - mist",
+      "meaning_uk": "туман",
+      "example": "Der *** ist dicht.",
+      "meaning_es": "niebla - bruma"
+    },
+    {
+      "term": "heiß",
+      "type": "Adjective",
+      "meaning_tr": "Sıcak - ateşli",
+      "meaning_en": "hot - warm",
+      "meaning_uk": "спекотно - гаряче",
+      "example": "Es ist sehr ***.",
+      "meaning_es": "caluroso - caliente"
+    },
+    {
+      "term": "neblig",
+      "type": "Adjective",
+      "meaning_tr": "Sisli - puslu",
+      "meaning_en": "foggy - misty",
+      "meaning_uk": "туманно",
+      "example": "Es ist *** heute.",
+      "meaning_es": "neblinoso - con niebla"
+    },
+    {
+      "term": "trocken",
+      "type": "Adjective",
+      "meaning_tr": "Kuru - nemsiz",
+      "meaning_en": "dry - arid",
+      "meaning_uk": "сухий",
+      "example": "Das Wetter ist ***.",
+      "meaning_es": "seco"
+    },
+    {
+      "term": "sonnig",
+      "type": "Adjective",
+      "meaning_tr": "Güneşli - güneşli hava",
+      "meaning_en": "sunny",
+      "meaning_uk": "сонячно",
+      "example": "Heute ist es ***.",
+      "meaning_es": "soleado"
+    },
+    {
+      "term": "glatt",
+      "type": "Adjective",
+      "meaning_tr": "Kaygan - pürüzsüz",
+      "meaning_en": "slippery - smooth",
+      "meaning_uk": "слизький - гладкий",
+      "example": "Die Straße ist ***.",
+      "meaning_es": "resbaladizo - liso"
+    },
+    {
+      "term": "das Gewitter",
+      "type": "Noun",
+      "meaning_tr": "Fırtına - gök gürültülü sağanak",
+      "meaning_en": "thunderstorm - storm",
+      "meaning_uk": "гроза",
+      "example": "Das *** kommt.",
+      "meaning_es": "tormenta - tormenta eléctrica"
+    },
+    {
+      "term": "blitzen",
+      "type": "Verb",
+      "meaning_tr": "Şimşek çakmak - parlamak",
+      "meaning_en": "lightning - to flash",
+      "meaning_uk": "блискавка - блискати",
+      "example": "Es ***t.",
+      "meaning_es": "relámpago - tronar (referido a la luz)"
+    },
+    {
+      "term": "donnern",
+      "type": "Verb",
+      "meaning_tr": "Gök gürlemek - gürültü yapmak",
+      "meaning_en": "thunder - to boom",
+      "meaning_uk": "грім - гриміти",
+      "example": "Es ***t laut.",
+      "meaning_es": "trueno - retumbar"
+    },
+    {
+      "term": "nerven",
+      "type": "Verb",
+      "meaning_tr": "Sinir bozmak - rahatsız etmek",
+      "meaning_en": "annoy - bother - irritate",
+      "meaning_uk": "дратувати - нервувати",
+      "example": "Das Geräusch ***t mich.",
+      "meaning_es": "molestar - irritar"
+    },
+    {
+      "term": "der Regenschirm",
+      "type": "Noun",
+      "meaning_tr": "Şemsiye - yağmurluk",
+      "meaning_en": "umbrella",
+      "meaning_uk": "парасолька",
+      "example": "Ich nehme einen ***.",
+      "meaning_es": "paraguas - sombrilla"
+    },
+    {
+      "term": "die Region",
+      "type": "Noun",
+      "meaning_tr": "Bölge - mıntıka",
+      "meaning_en": "region - area",
+      "meaning_uk": "регіон - область",
+      "example": "Die *** ist schön.",
+      "meaning_es": "región - zona"
+    },
+    {
+      "term": "der Zoobesuch",
+      "type": "Noun",
+      "meaning_tr": "Hayvanat bahçesi ziyareti - hayvanat bahçesine gitme",
+      "meaning_en": "zoo visit",
+      "meaning_uk": "відвідування зоопарку",
+      "example": "Der *** war toll.",
+      "meaning_es": "visita al zoológico"
+    },
+    {
+      "term": "der Affe",
+      "type": "Noun",
+      "meaning_tr": "Maymun",
+      "meaning_en": "monkey - ape",
+      "meaning_uk": "мавпа",
+      "example": "Der *** klettert.",
+      "meaning_es": "mono - simio"
+    },
+    {
+      "term": "das Aquarium",
+      "type": "Noun",
+      "meaning_tr": "Akvaryum",
+      "meaning_en": "aquarium - fish tank",
+      "meaning_uk": "акваріум",
+      "example": "Das *** ist groß.",
+      "meaning_es": "pecera - acuario"
+    },
+    {
+      "term": "der Elefant",
+      "type": "Noun",
+      "meaning_tr": "Fil",
+      "meaning_en": "elephant",
+      "meaning_uk": "слон",
+      "example": "Der *** ist riesig.",
+      "meaning_es": "elefante"
+    },
+    {
+      "term": "der Tierpfleger",
+      "type": "Noun",
+      "meaning_tr": "Hayvan bakıcısı (e.) - hayvanat bahçesi görevlisi",
+      "meaning_en": "zookeeper - animal keeper",
+      "meaning_uk": "доглядач тварин",
+      "example": "Der *** füttert Tiere.",
+      "meaning_es": "cuidador de animales - encargado del zoológico"
+    },
+    {
+      "term": "die Tierpflegerin",
+      "type": "Noun",
+      "meaning_tr": "Hayvan bakıcısı (k.) - hayvanat bahçesi görevlisi (kadın)",
+      "meaning_en": "female zookeeper - woman animal keeper",
+      "meaning_uk": "доглядачка тварин",
+      "example": "Die *** arbeitet hier.",
+      "meaning_es": "cuidadora de animales - encargada del zoológico"
+    },
+    {
+      "term": "der Tiger",
+      "type": "Noun",
+      "meaning_tr": "Kaplan",
+      "meaning_en": "tiger",
+      "meaning_uk": "тигр",
+      "example": "Der *** schläft.",
+      "meaning_es": "tigre"
+    },
+    {
+      "term": "das Highlight",
+      "type": "Noun",
+      "meaning_tr": "En önemli nokta - zirve - öne çıkan unsur",
+      "meaning_en": "highlight - main attraction",
+      "meaning_uk": "родзинка - головна подія",
+      "example": "Das *** war super.",
+      "meaning_es": "lo más destacado - punto culminante"
+    },
+    {
+      "term": "hinfahren",
+      "type": "Verb",
+      "meaning_tr": "Araçla gitmek - oraya gitmek",
+      "meaning_en": "go there (by vehicle) - travel to a place",
+      "meaning_uk": "їхати туди",
+      "example": "Wir *** morgen.",
+      "meaning_es": "ir allí (en vehículo)"
+    },
+    {
+      "term": "der Imbiss",
+      "type": "Noun",
+      "meaning_tr": "Büfe - ayaküstü lokanta",
+      "meaning_en": "snack bar - snack stand",
+      "meaning_uk": "закусочна - буфет",
+      "example": "Der *** ist offen.",
+      "meaning_es": "bar de aperitivos - puesto de comida rápida"
+    },
+    {
+      "term": "die Mayonnaise",
+      "type": "Noun",
+      "meaning_tr": "Mayonez",
+      "meaning_en": "mayonnaise",
+      "meaning_uk": "майонез",
+      "example": "Ich mag ***.",
+      "meaning_es": "mayonesa"
+    },
+    {
+      "term": "wunderschön",
+      "type": "Adjective",
+      "meaning_tr": "Harika - çok güzel - muhteşem",
+      "meaning_en": "beautiful - gorgeous - wonderful",
+      "meaning_uk": "чудовий - прекрасний",
+      "example": "Die Stadt ist ***.",
+      "meaning_es": "maravilloso - precioso - hermosísimo"
+    },
+    {
+      "term": "die Organisation",
+      "type": "Noun",
+      "meaning_tr": "Organizasyon - düzenleme",
+      "meaning_en": "organization - arrangement",
+      "meaning_uk": "організація",
+      "example": "Die *** ist wichtig.",
+      "meaning_es": "organización - estructura"
+    },
+    {
+      "term": "bummeln",
+      "type": "Verb",
+      "meaning_tr": "Gezinmek - amaçsızca dolaşmak",
+      "meaning_en": "stroll - wander",
+      "meaning_uk": "гуляти - прогулюватися",
+      "example": "Wir *** durch die Stadt.",
+      "meaning_es": "pasear - deambular"
+    },
+    {
+      "term": "einige",
+      "type": "Determiner",
+      "meaning_tr": "Birkaç - bazıları",
+      "meaning_en": "some - a few",
+      "meaning_uk": "деякі - кілька",
+      "example": "Ich habe *** Fragen.",
+      "meaning_es": "algunos - unos cuantos"
+    },
+    {
+      "term": "mitten",
+      "type": "Adverb",
+      "meaning_tr": "Ortasında - tam ortada",
+      "meaning_en": "in the middle - centrally",
+      "meaning_uk": "посередині - у центрі",
+      "example": "Er steht *** im Raum.",
+      "meaning_es": "en medio de - justo en el centro"
+    },
+    {
+      "term": "weitergehen",
+      "type": "Verb",
+      "meaning_tr": "Devam etmek - ilerlemek",
+      "meaning_en": "continue - go on",
+      "meaning_uk": "продовжувати - іти далі",
+      "example": "Wir müssen ***.",
+      "meaning_es": "continuar - seguir adelante"
+    },
+    {
+      "term": "füttern",
+      "type": "Verb",
+      "meaning_tr": "Beslemek - yem vermek",
+      "meaning_en": "feed - give food to",
+      "meaning_uk": "годувати",
+      "example": "Man darf Tiere nicht ***.",
+      "meaning_es": "alimentar - dar de comer"
+    },
+    {
+      "term": "die Sesselbahn",
+      "type": "Noun",
+      "meaning_tr": "Telesiyej - koltuklu teleferik",
+      "meaning_en": "chairlift",
+      "meaning_uk": "канатно-крісельна дорога",
+      "example": "Die *** fährt hoch.",
+      "meaning_es": "telesilla - telesquí"
+    },
+    {
+      "term": "der Löwe",
+      "type": "Noun",
+      "meaning_tr": "Aslan",
+      "meaning_en": "lion",
+      "meaning_uk": "лев",
+      "example": "Der *** brüllt.",
+      "meaning_es": "león"
+    },
+    {
+      "term": "brüllen",
+      "type": "Verb",
+      "meaning_tr": "Kükremek - ulumak",
+      "meaning_en": "roar - bellow",
+      "meaning_uk": "ревіти",
+      "example": "Der Löwe ***t.",
+      "meaning_es": "rugir"
+    },
+    {
+      "term": "die Angst",
+      "type": "Noun",
+      "meaning_tr": "Korku - dehşet",
+      "meaning_en": "fear - fright",
+      "meaning_uk": "страх - боязнь",
+      "example": "Ich habe ***.",
+      "meaning_es": "miedo - temor"
+    },
+    {
+      "term": "dabeihaben",
+      "type": "Verb",
+      "meaning_tr": "Yanında bulundurmak - yanında olmak",
+      "meaning_en": "have with you - possess",
+      "meaning_uk": "мати при собі",
+      "example": "Ich *** meinen Ausweis.",
+      "meaning_es": "tener consigo - llevar encima"
+    },
+    {
+      "term": "die Kirche",
+      "type": "Noun",
+      "meaning_tr": "Kilise - ibadethane",
+      "meaning_en": "church",
+      "meaning_uk": "церква",
+      "example": "Die *** ist alt.",
+      "meaning_es": "iglesia"
+    },
+    {
+      "term": "der Reiseleiter",
+      "type": "Noun",
+      "meaning_tr": "Tur rehberi (e.)",
+      "meaning_en": "tour guide (male)",
+      "meaning_uk": "гід - туристичний гід",
+      "example": "Der *** erklärt alles.",
+      "meaning_es": "guía turístico (masculino)"
+    },
+    {
+      "term": "die Reiseleiterin",
+      "type": "Noun",
+      "meaning_tr": "Tur rehberi (k.)",
+      "meaning_en": "female tour guide",
+      "meaning_uk": "гідка - туристична гідка",
+      "example": "Die *** spricht viel.",
+      "meaning_es": "guía turística (femenina)"
+    },
+    {
+      "term": "die Alternative",
+      "type": "Noun",
+      "meaning_tr": "Alternatif - seçenek",
+      "meaning_en": "alternative - option",
+      "meaning_uk": "альтернатива - варіант",
+      "example": "Das ist eine ***.",
+      "meaning_es": "alternativa - opción"
+    }
   ]
 }

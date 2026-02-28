@@ -1,0 +1,384 @@
+{
+  "title": "Einkaufen & Geld B2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Quittung",
+      "type": "Noun (f)",
+      "meaning_tr": "makbuz",
+      "meaning_en": "receipt",
+      "meaning_uk": "квитанція",
+      "meaning_es": "el recibo",
+      "example": "Ich habe meine *** verloren, aber ich brauche sie für die Garantie."
+    },
+    {
+      "term": "der Gutschein",
+      "type": "Noun (m)",
+      "meaning_tr": "kupon, hediye çeki",
+      "meaning_en": "voucher, coupon",
+      "meaning_uk": "ваучер, купон",
+      "meaning_es": "el vale, el cupón",
+      "example": "Kann ich diesen Rabatt mit meinem *** kombinieren?"
+    },
+    {
+      "term": "der Wochenmarkt",
+      "type": "Noun (m)",
+      "meaning_tr": "haftalık pazar",
+      "meaning_en": "weekly market",
+      "meaning_uk": "щотижневий ринок",
+      "meaning_es": "el mercado semanal",
+      "example": "Frisches Gemüse kaufe ich am liebsten auf dem ***."
+    },
+    {
+      "term": "die Tiefkühlkost",
+      "type": "Noun (f)",
+      "meaning_tr": "dondurulmuş gıda",
+      "meaning_en": "frozen food",
+      "meaning_uk": "заморожені продукти",
+      "meaning_es": "los alimentos congelados",
+      "example": "Sie hat wenig Zeit zum Kochen, deshalb kauft sie oft ***."
+    },
+    {
+      "term": "etwas aushändigen",
+      "type": "Verb",
+      "meaning_tr": "teslim etmek, vermek",
+      "meaning_en": "to hand over, to give",
+      "meaning_uk": "передати",
+      "meaning_es": "entregar",
+      "example": "Der Kassierer musste mir die Einkaufstüte ***."
+    },
+    {
+      "term": "der Sonderpreis",
+      "type": "Noun (m)",
+      "meaning_tr": "özel fiyat",
+      "meaning_en": "special price",
+      "meaning_uk": "спеціальна ціна",
+      "meaning_es": "el precio especial",
+      "example": "Diese Milch ist heute im *** erhältlich."
+    },
+    {
+      "term": "die Werbeaktion",
+      "type": "Noun (f)",
+      "meaning_tr": "reklam kampanyası",
+      "meaning_en": "promotional campaign",
+      "meaning_uk": "рекламна акція",
+      "meaning_es": "la promoción",
+      "example": "Wegen der *** sind die Preise stark gesunken."
+    },
+    {
+      "term": "die Mehrwertsteuer (MwSt)",
+      "type": "Noun (f)",
+      "meaning_tr": "katma değer vergisi",
+      "meaning_en": "Value Added Tax (VAT)",
+      "meaning_uk": "податок на додану вартість (ПДВ)",
+      "meaning_es": "el IVA (Impuesto sobre el Valor Añadido)",
+      "example": "Ist die *** im Endpreis schon enthalten?"
+    },
+    {
+      "term": "die Rechnung begleichen",
+      "type": "Phrase",
+      "meaning_tr": "hesabı ödemek",
+      "meaning_en": "to settle the bill/invoice",
+      "meaning_uk": "оплатити рахунок",
+      "meaning_es": "saldar la factura",
+      "example": "Ich werde die Rechnung sofort ***."
+    },
+    {
+      "term": "das Wechselgeld",
+      "type": "Noun (n)",
+      "meaning_tr": "para üstü",
+      "meaning_en": "change (money)",
+      "meaning_uk": "решта",
+      "meaning_es": "el cambio",
+      "example": "Ich habe zu viel gegeben, können Sie mir bitte das *** geben?"
+    },
+    {
+      "term": "etwas umtauschen",
+      "type": "Verb",
+      "meaning_tr": "değiştirmek (mal)",
+      "meaning_en": "to exchange (goods)",
+      "meaning_uk": "обміняти",
+      "meaning_es": "cambiar",
+      "example": "Kann ich diesen Pullover zurückgeben oder ***?"
+    },
+    {
+      "term": "die Auswahl",
+      "type": "Noun (f)",
+      "meaning_tr": "seçim, çeşitlilik",
+      "meaning_en": "selection, range",
+      "meaning_uk": "вибір, асортимент",
+      "meaning_es": "la selección, la gama",
+      "example": "Der Supermarkt bietet eine riesige *** an Bio-Produkten."
+    },
+    {
+      "term": "die Aktionsware",
+      "type": "Noun (f)",
+      "meaning_tr": "kampanya ürünü",
+      "meaning_en": "promotional item",
+      "meaning_uk": "акційний товар",
+      "meaning_es": "el artículo en promoción",
+      "example": "Die *** war schnell ausverkauft."
+    },
+    {
+      "term": "der Preisnachlass",
+      "type": "Noun (m)",
+      "meaning_tr": "indirim",
+      "meaning_en": "discount",
+      "meaning_uk": "знижка",
+      "meaning_es": "el descuento",
+      "example": "Für Studenten gibt es einen zusätzlichen ***."
+    },
+    {
+      "term": "die Barzahlung",
+      "type": "Noun (f)",
+      "meaning_tr": "nakit ödeme",
+      "meaning_en": "cash payment",
+      "meaning_uk": "готівковий розрахунок",
+      "meaning_es": "el pago en efectivo",
+      "example": "Bevorzugen Sie *** oder Kartenzahlung?"
+    },
+    {
+      "term": "die Kreditkarte",
+      "type": "Noun (f)",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "credit card",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "la tarjeta de crédito",
+      "example": "Ich zahle lieber mit ***, um Punkte zu sammeln."
+    },
+    {
+      "term": "der Kassenbon",
+      "type": "Noun (m)",
+      "meaning_tr": "fiş",
+      "meaning_en": "till receipt (short)",
+      "meaning_uk": "чек",
+      "meaning_es": "el ticket de caja",
+      "example": "Bitte bewahren Sie den *** für eventuelle Reklamationen auf."
+    },
+    {
+      "term": "die Rechnung erhalten",
+      "type": "Phrase",
+      "meaning_tr": "hesabı istemek/almak",
+      "meaning_en": "to ask for the bill (in a restaurant)",
+      "meaning_uk": "отримати рахунок",
+      "meaning_es": "pedir la cuenta",
+      "example": "Nach dem Essen wollten wir ***."
+    },
+    {
+      "term": "das Wechselgeld herausgeben",
+      "type": "Phrase",
+      "meaning_tr": "para üstünü vermek",
+      "meaning_en": "to give change",
+      "meaning_uk": "видавати решту",
+      "meaning_es": "dar el cambio",
+      "example": "Der Verkäufer hat mir leider zu wenig *** gegeben."
+    },
+    {
+      "term": "der Großhändler",
+      "type": "Noun (m)",
+      "meaning_tr": "toptancı",
+      "meaning_en": "wholesaler",
+      "meaning_uk": "гуртовик",
+      "meaning_es": "el mayorista",
+      "example": "Wir beziehen unsere Waren direkt vom ***."
+    },
+    {
+      "term": "der Einzelhandel",
+      "type": "Noun (m)",
+      "meaning_tr": "perakende",
+      "meaning_en": "retail trade",
+      "meaning_uk": "роздрібна торгівля",
+      "meaning_es": "el comercio minorista",
+      "example": "Der *** spielt eine wichtige Rolle in der Wirtschaft."
+    },
+    {
+      "term": "die Selbstbedienung",
+      "type": "Noun (f)",
+      "meaning_tr": "self-servis",
+      "meaning_en": "self-service",
+      "meaning_uk": "самообслуговування",
+      "meaning_es": "el autoservicio",
+      "example": "In diesem Supermarkt herrscht reine ***."
+    },
+    {
+      "term": "der Wucherpreis",
+      "type": "Noun (m)",
+      "meaning_tr": "fahiş fiyat",
+      "meaning_en": "exorbitant price, price gouging",
+      "meaning_uk": "грабіжна ціна",
+      "meaning_es": "el precio abusivo",
+      "example": "Touristen werden oft mit *** konfrontiert."
+    },
+    {
+      "term": "etwas in Raten zahlen",
+      "type": "Phrase",
+      "meaning_tr": "taksitle ödemek",
+      "meaning_en": "to pay in installments",
+      "meaning_uk": "платити на виплат",
+      "meaning_es": "pagar a plazos",
+      "example": "Das teure Sofa können wir nur ***."
+    },
+    {
+      "term": "die Anzahlung",
+      "type": "Noun (f)",
+      "meaning_tr": "peşinat",
+      "meaning_en": "down payment, deposit",
+      "meaning_uk": "аванс, перший внесок",
+      "meaning_es": "el anticipo, el depósito",
+      "example": "Für das Auto mussten wir eine hohe *** leisten."
+    },
+    {
+      "term": "die Rückerstattung",
+      "type": "Noun (f)",
+      "meaning_tr": "geri ödeme",
+      "meaning_en": "refund",
+      "meaning_uk": "відшкодування",
+      "meaning_es": "el reembolso",
+      "example": "Nach der Reklamation erhielt ich die volle ***."
+    },
+    {
+      "term": "das Wechselgeld wechseln",
+      "type": "Phrase",
+      "meaning_tr": "bozuk para yapmak",
+      "meaning_en": "to make change",
+      "meaning_uk": "розміняти гроші",
+      "meaning_es": "cambiar monedas",
+      "example": "Ich brauche Kleingeld, können Sie mir 50 Euro ***?"
+    },
+    {
+      "term": "der Feilschen",
+      "type": "Verb",
+      "meaning_tr": "pazarlık etmek",
+      "meaning_en": "to haggle, to bargain",
+      "meaning_uk": "торгуватися",
+      "meaning_es": "regatear",
+      "example": "Auf dem Flohmarkt ist es üblich, ein wenig *** zu müssen."
+    },
+    {
+      "term": "die Sonderedition",
+      "type": "Noun (f)",
+      "meaning_tr": "özel basım/sürüm",
+      "meaning_en": "special edition",
+      "meaning_uk": "спеціальне видання",
+      "meaning_es": "la edición especial",
+      "example": "Diese limitierte *** ist bald vergriffen."
+    },
+    {
+      "term": "das Bargeld",
+      "type": "Noun (n)",
+      "meaning_tr": "nakit para",
+      "meaning_en": "cash money",
+      "meaning_uk": "готівка",
+      "meaning_es": "el dinero en efectivo",
+      "example": "Einige kleine Läden akzeptieren nur ***."
+    },
+    {
+      "term": "der Schalter",
+      "type": "Noun (m)",
+      "meaning_tr": "gişe",
+      "meaning_en": "counter, window (for service)",
+      "meaning_uk": "каса, вікно",
+      "meaning_es": "el mostrador, la ventanilla",
+      "example": "Bitte gehen Sie zum Kundenservice ***, um das umzutauschen."
+    },
+    {
+      "term": "der Preisvergleich",
+      "type": "Noun (m)",
+      "meaning_tr": "fiyat karşılaştırması",
+      "meaning_en": "price comparison",
+      "meaning_uk": "порівняння цін",
+      "meaning_es": "la comparación de precios",
+      "example": "Vor dem Kauf mache ich immer einen ausführlichen ***."
+    },
+    {
+      "term": "die Lieferkosten",
+      "type": "Noun (pl)",
+      "meaning_tr": "teslimat ücretleri",
+      "meaning_en": "delivery costs",
+      "meaning_uk": "витрати на доставку",
+      "meaning_es": "los gastos de envío",
+      "example": "Ab 50 Euro sind die *** kostenlos."
+    },
+    {
+      "term": "etwas ist vergriffen",
+      "type": "Phrase",
+      "meaning_tr": "tükenmiş olmak",
+      "meaning_en": "to be sold out",
+      "meaning_uk": "бути розпроданим",
+      "meaning_es": "estar agotado",
+      "example": "Tut mir leid, der Artikel *** schon."
+    },
+    {
+      "term": "die Kaufkraft",
+      "type": "Noun (f)",
+      "meaning_tr": "alım gücü",
+      "meaning_en": "purchasing power",
+      "meaning_uk": "купівельна спроможність",
+      "meaning_es": "el poder adquisitivo",
+      "example": "Die Inflation senkt unsere ***."
+    },
+    {
+      "term": "die Konsumgüter",
+      "type": "Noun (pl)",
+      "meaning_tr": "tüketim malları",
+      "meaning_en": "consumer goods",
+      "meaning_uk": "споживчі товари",
+      "meaning_es": "los bienes de consumo",
+      "example": "Der Markt für *** ist sehr volatil."
+    },
+    {
+      "term": "die Mehrkosten",
+      "type": "Noun (pl)",
+      "meaning_tr": "ek masraflar",
+      "meaning_en": "additional costs",
+      "meaning_uk": "додаткові витрати",
+      "meaning_es": "los costes adicionales",
+      "example": "Seien Sie sich bewusst, dass dies zu *** führen kann."
+    },
+    {
+      "term": "das Kleingeld",
+      "type": "Noun (n)",
+      "meaning_tr": "bozuk para",
+      "meaning_en": "small change",
+      "meaning_uk": "дрібні гроші",
+      "meaning_es": "el cambio (monedas)",
+      "example": "Ich habe nur *** für den Kaffee."
+    },
+    {
+      "term": "die Saisonware",
+      "type": "Noun (f)",
+      "meaning_tr": "mevsimlik ürün",
+      "meaning_en": "seasonal goods",
+      "meaning_uk": "сезонні товари",
+      "meaning_es": "los productos de temporada",
+      "example": "Nach der Saison gibt es große Rabatte auf ***."
+    },
+    {
+      "term": "der Sonderposten",
+      "type": "Noun (m)",
+      "meaning_tr": "özel kalem, indirimli ürün",
+      "meaning_en": "special item, clearance item",
+      "meaning_uk": "товар зі знижкою",
+      "meaning_es": "el artículo especial",
+      "example": "Im Ausverkauf finden Sie viele tolle ***."
+    },
+    {
+      "term": "der Zahlungsverkehr",
+      "type": "Noun (m)",
+      "meaning_tr": "ödeme trafiği",
+      "meaning_en": "payment transactions",
+      "meaning_uk": "платіжний обіг",
+      "meaning_es": "el tráfico de pagos",
+      "example": "Die Einführung neuer Zahlungsmethoden vereinfacht den ***."
+    },
+    {
+      "term": "die Reklamation",
+      "type": "Noun (f)",
+      "meaning_tr": "şikayet, iade talebi",
+      "meaning_en": "complaint, claim",
+      "meaning_uk": "претензія",
+      "meaning_es": "la reclamación",
+      "example": "Ich muss ein defektes Gerät zur *** zurückbringen."
+    }
+  ]
+}

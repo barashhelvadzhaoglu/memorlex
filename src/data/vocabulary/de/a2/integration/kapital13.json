@@ -2,116 +2,1003 @@
   "title": "Integration A2 - Kapitel 13",
   "language": "de",
   "words": [
-    {"term": "das Handwerk", "type": "Noun", "meaning_tr": "zanaat, el sanatları", "meaning_en": "craft, trade", "meaning_uk": "ремесло", "example": "Das goldene *** hat in Deutschland eine lange Tradition."},
-    {"term": "der Handwerker", "type": "Noun", "meaning_tr": "zanaatkar (erkek)", "meaning_en": "craftsman", "meaning_uk": "ремісник", "example": "Wir haben einen *** bestellt, um das Fenster zu reparieren."},
-    {"term": "die Handwerkerin", "type": "Noun", "meaning_tr": "zanaatkar (kadın)", "meaning_en": "craftswoman", "meaning_uk": "ремісниця", "example": "Meine Schwester arbeitet als *** in einer Tischlerei."},
-    {"term": "der Dachdecker", "type": "Noun", "meaning_tr": "çatı ustası (erkek)", "meaning_en": "roofer", "meaning_uk": "покрівельник", "example": "Der *** arbeitet heute oben auf dem Haus."},
-    {"term": "die Dachdeckerin", "type": "Noun", "meaning_tr": "çatı ustası (kadın)", "meaning_en": "roofer (female)", "meaning_uk": "покрівельниця", "example": "Als *** muss man schwindelfrei sein."},
-    {"term": "der Maler", "type": "Noun", "meaning_tr": "boyacı/ressam (erkek)", "meaning_en": "painter", "meaning_uk": "маляр", "example": "Der *** streicht die Wände im Wohnzimmer weiß."},
-    {"term": "die Malerin", "type": "Noun", "meaning_tr": "boyacı/ressam (kadın)", "meaning_en": "painter (female)", "meaning_uk": "художниця", "example": "Die *** hat ein wunderschönes Porträt gemalt."},
-    {"term": "der Schneider", "type": "Noun", "meaning_tr": "terzi (erkek)", "meaning_en": "tailor", "meaning_uk": "кравець", "example": "Der *** kürzt meine neue Hose."},
-    {"term": "die Schneiderin", "type": "Noun", "meaning_tr": "terzi (kadın)", "meaning_en": "tailor (female)", "meaning_uk": "кравчиня", "example": "Die *** näht ein Kleid für die Hochzeit."},
-    {"term": "der Tischler", "type": "Noun", "meaning_tr": "marangoz (erkek)", "meaning_en": "carpenter", "meaning_uk": "столяр", "example": "Ein guter *** kann Möbel aus Massivholz bauen."},
-    {"term": "die Tischlerin", "type": "Noun", "meaning_tr": "marangoz (kadın)", "meaning_en": "carpenter (female)", "meaning_uk": "столярка", "example": "Sie macht eine Ausbildung als ***."},
-    {"term": "der Elektroniker", "type": "Noun", "meaning_tr": "elektronik teknisyeni (erkek)", "meaning_en": "electronics technician", "meaning_uk": "електронік", "example": "Der *** repariert die komplexe Steuerung der Maschine."},
-    {"term": "die Elektronikerin", "type": "Noun", "meaning_tr": "elektronik teknisyeni (kadın)", "meaning_en": "electronics technician (female)", "meaning_uk": "електронік (жінка)", "example": "Als *** arbeitet sie in einem großen Industriebetrieb."},
-    {"term": "der Installateur", "type": "Noun", "meaning_tr": "tesisatçı (erkek)", "meaning_en": "plumber", "meaning_uk": "сантехнік", "example": "Der *** repariert das kaputte Rohr im Bad."},
-    {"term": "die Installateurin", "type": "Noun", "meaning_tr": "tesisatçı (kadın)", "meaning_en": "plumber (female)", "meaning_uk": "сантехнік (жінка)", "example": "Die *** installiert die neue Heizungsanlage."},
-    {"term": "der Optiker", "type": "Noun", "meaning_tr": "gözlükçü (erkek)", "meaning_en": "optician", "meaning_uk": "оптик", "example": "Ich gehe zum ***, um einen Sehtest zu machen."},
-    {"term": "die Optikerin", "type": "Noun", "meaning_tr": "gözlükçü (kadın)", "meaning_en": "optician (female)", "meaning_uk": "оптик (жінка)", "example": "Die *** hat mir eine sehr schöne Brille empfohlen."},
-    {"term": "der Katalog", "type": "Noun", "meaning_tr": "katalog", "meaning_en": "catalog", "meaning_uk": "каталог", "example": "Hast du den neuen *** für die Büromöbel gesehen?"},
-    {"term": "das Dach", "type": "Noun", "meaning_tr": "çatı", "meaning_en": "roof", "meaning_uk": "дах", "example": "Nach dem Sturm muss das *** repariert werden."},
-    {"term": "das Dach decken", "type": "Phrase", "meaning_tr": "çatıyı kaplamak", "meaning_en": "to roof", "meaning_uk": "крити дах", "example": "Die Handwerker werden morgen das *** ***."},
-    {"term": "abdrehen", "type": "Verb", "meaning_tr": "kapatmak (musluk vb.)", "meaning_en": "to turn off", "meaning_uk": "вимкнути", "example": "Bitte *** das Wasser ***, bevor du gehst."},
-    {"term": "die Wasserleitung", "type": "Noun", "meaning_tr": "su borusu/tesisatı", "meaning_en": "water pipe", "meaning_uk": "водопровід", "example": "Die alte *** ist leider verrostet."},
-    {"term": "verlegen", "type": "Verb", "meaning_tr": "döşemek", "meaning_en": "to lay (pipes/cables)", "meaning_uk": "прокладати", "example": "Wir müssen im Garten neue Kabel ***."},
-    {"term": "Wasserleitungen verlegen", "type": "Phrase", "meaning_tr": "su boruları döşemek", "meaning_en": "to lay water pipes", "meaning_uk": "прокладати водопровід", "example": "Der Installateur hilft uns dabei, die *** zu ***."},
-    {"term": "die Anlage", "type": "Noun", "meaning_tr": "tesis, sistem", "meaning_en": "system, facility", "meaning_uk": "установка", "example": "Die elektrische *** im Haus ist veraltet."},
-    {"term": "elektrisch", "type": "Adjective", "meaning_tr": "elektrikli", "meaning_en": "electrical", "meaning_uk": "електричний", "example": "Wir haben eine ***e Zahnbürste gekauft."},
-    {"term": "installieren", "type": "Verb", "meaning_tr": "kurmak, monte etmek", "meaning_en": "to install", "meaning_uk": "встановлювати", "example": "Der Techniker wird morgen die Software ***."},
-    {"term": "elektrische Anlagen installieren", "type": "Phrase", "meaning_tr": "elektrikli sistemler kurmak", "meaning_en": "to install electrical systems", "meaning_uk": "встановлювати електрообладнання", "example": "Er ist Fachmann dafür, *** *** zu ***."},
-    {"term": "der Strom", "type": "Noun", "meaning_tr": "elektrik, akım", "meaning_en": "electricity", "meaning_uk": "струм", "example": "Ohne *** funktionieren keine Lampen."},
-    {"term": "tapezieren", "type": "Verb", "meaning_tr": "duvar kağıdı kaplamak", "meaning_en": "to wallpaper", "meaning_uk": "клеїти шпалери", "example": "Wir wollen das Schlafzimmer am Wochenende neu ***."},
-    {"term": "färben", "type": "Verb", "meaning_tr": "boyamak", "meaning_en": "to dye", "meaning_uk": "фарбувати", "example": "Ich möchte mir meine Haare dunkelblau ***."},
-    {"term": "die Haare färben", "type": "Phrase", "meaning_tr": "saç boyamak", "meaning_en": "to dye hair", "meaning_uk": "фарбувати волосся", "example": "Sie geht zum Friseur, um sich *** *** zu ***."},
-    {"term": "nähen", "type": "Verb", "meaning_tr": "dikiş dikmek", "meaning_en": "to sew", "meaning_uk": "шити", "example": "Kannst du mir einen Knopf an die Jacke ***?"},
-    {"term": "zufrieden / unzufrieden", "type": "Adjective", "meaning_tr": "memnun / memnun değil", "meaning_en": "satisfied / dissatisfied", "meaning_uk": "задоволений / незадоволений", "example": "Bist du mit deinem neuen Job ***?"},
-    {"term": "neulich", "type": "Adverb", "meaning_tr": "geçenlerde", "meaning_en": "recently", "meaning_uk": "нещодавно", "example": "Ich habe *** einen alten Freund im Park getroffen."},
-    {"term": "unglaublich", "type": "Adjective", "meaning_tr": "inanılmaz", "meaning_en": "incredible", "meaning_uk": "неймовірний", "example": "Es ist ***, wie schnell die Zeit vergeht."},
-    {"term": "die Katastrophe", "type": "Noun", "meaning_tr": "felaket", "meaning_en": "catastrophe", "meaning_uk": "катастрофа", "example": "Das schlechte Wetter war eine *** für das Gartenfest."},
-    {"term": "der Beruf", "type": "Noun", "meaning_tr": "meslek", "meaning_en": "profession", "meaning_uk": "професія", "example": "Was bist du von ***?"},
-    {"term": "der Traumberuf", "type": "Noun", "meaning_tr": "hayalindeki meslek", "meaning_en": "dream job", "meaning_uk": "робота мрії", "example": "Mein *** war als Kind immer Feuerwehrmann."},
-    {"term": "der Ratschlag", "type": "Noun", "meaning_tr": "tavsiye, öğüt", "meaning_en": "advice", "meaning_uk": "порада", "example": "Vielen Dank für deinen hilfreichen ***."},
-    {"term": "der Astronaut", "type": "Noun", "meaning_tr": "astronot (erkek)", "meaning_en": "astronaut", "meaning_uk": "астронавт", "example": "Ein *** fliegt ins Weltall."},
-    {"term": "die Astronautin", "type": "Noun", "meaning_tr": "astronot (kadın)", "meaning_en": "astronaut (female)", "meaning_uk": "астронавтка", "example": "Die *** trainiert hart für die Mission."},
-    {"term": "der Architekt", "type": "Noun", "meaning_tr": "mimar (erkek)", "meaning_en": "architect", "meaning_uk": "архітектор", "example": "Der *** zeichnet die Pläne für das neue Haus."},
-    {"term": "die Architektin", "type": "Noun", "meaning_tr": "mimar (kadın)", "meaning_en": "architect (female)", "meaning_uk": "архітекторка", "example": "Als *** plant sie moderne Bürogebäude."},
-    {"term": "der Chemiker", "type": "Noun", "meaning_tr": "kimyager (erkek)", "meaning_en": "chemist", "meaning_uk": "хімік", "example": "Der *** arbeitet im Labor an neuen Medikamenten."},
-    {"term": "die Chemikerin", "type": "Noun", "meaning_tr": "kimyager (kadın)", "meaning_en": "chemist (female)", "meaning_uk": "хімікиня", "example": "Die *** erforscht neue Materialien."},
-    {"term": "der Mechaniker", "type": "Noun", "meaning_tr": "tamirci (erkek)", "meaning_en": "mechanic", "meaning_uk": "механік", "example": "Der *** repariert den Motor meines Autos."},
-    {"term": "die Mechanikerin", "type": "Noun", "meaning_tr": "tamirci (kadın)", "meaning_en": "mechanic (female)", "meaning_uk": "механікиня", "example": "Die *** prüft die Bremsen des Lastwagens."},
-    {"term": "wahr", "type": "Adjective", "meaning_tr": "gerçek, doğru", "meaning_en": "true", "meaning_uk": "істинний", "example": "Ist es ***, dass du umziehst?"},
-    {"term": "kündigen", "type": "Verb", "meaning_tr": "istifa etmek/işten çıkarmak", "meaning_en": "to resign / terminate", "meaning_uk": "звільнятися", "example": "Ich habe meinen Job ge***, weil ich etwas Neues will."},
-    {"term": "der Fußballplatz", "type": "Noun", "meaning_tr": "futbol sahası", "meaning_en": "football pitch", "meaning_uk": "футбольне поле", "example": "Am Wochenende treffen wir uns auf dem ***."},
-    {"term": "der Vorteil", "type": "Noun", "meaning_tr": "avantaj", "meaning_en": "advantage", "meaning_uk": "перевага", "example": "Ein großer *** der Wohnung ist der Balkon."},
-    {"term": "der Nachteil", "type": "Noun", "meaning_tr": "dezavantaj", "meaning_en": "disadvantage", "meaning_uk": "недолік", "example": "Der einzige *** ist die laute Straße."},
-    {"term": "die Karriere", "type": "Noun", "meaning_tr": "kariyer", "meaning_en": "career", "meaning_uk": "кар'єра", "example": "Sie macht schnell *** in ihrer Firma."},
-    {"term": "die Schicht", "type": "Noun", "meaning_tr": "vardiya", "meaning_en": "shift", "meaning_uk": "зміна", "example": "Meine *** beginnt heute erst um 22 Uhr."},
-    {"term": "Schicht arbeiten", "type": "Phrase", "meaning_tr": "vardiyalı çalışmak", "meaning_en": "to work shifts", "meaning_uk": "працювати позмінно", "example": "In der Fabrik muss man oft *** ***."},
-    {"term": "das Gehalt", "type": "Noun", "meaning_tr": "maaş", "meaning_en": "salary", "meaning_uk": "зарплата", "example": "Ich bin mit meinem *** sehr zufrieden."},
-    {"term": "der Zeitdruck", "type": "Noun", "meaning_tr": "zaman baskısı", "meaning_en": "time pressure", "meaning_uk": "дефіцит часу", "example": "Wir müssen das Projekt unter großem *** fertigstellen."},
-    {"term": "der Privatkunde", "type": "Noun", "meaning_tr": "özel müşteri (erkek)", "meaning_en": "private customer", "meaning_uk": "приватний клієнт", "example": "Unser Betrieb arbeitet hauptsächlich für ***."},
-    {"term": "die Privatkundin", "type": "Noun", "meaning_tr": "özel müşteri (kadın)", "meaning_en": "private customer (female)", "meaning_uk": "приватна клієнтка", "example": "Die *** möchte ein neues Angebot haben."},
-    {"term": "insgesamt", "type": "Adverb", "meaning_tr": "toplamda, genelde", "meaning_en": "altogether", "meaning_uk": "загалом", "example": "Wir sind *** zehn Personen beim Abendessen."},
-    {"term": "abwechslungsreich", "type": "Adjective", "meaning_tr": "çeşitli, hareketli", "meaning_en": "varied", "meaning_uk": "різноманітний", "example": "Mein Job ist sehr ***, es wird nie langweilig."},
-    {"term": "anstrengend", "type": "Adjective", "meaning_tr": "yorucu", "meaning_en": "strenuous", "meaning_uk": "виснажливий", "example": "Die Wanderung in den Bergen war sehr ***."},
-    {"term": "dreijährig", "type": "Adjective", "meaning_tr": "üç yıllık", "meaning_en": "three-year", "meaning_uk": "трирічний", "example": "Er macht eine ***e Ausbildung zum Bäcker."},
-    {"term": "stundenlang", "type": "Adjective", "meaning_tr": "saatlerce süren", "meaning_en": "for hours", "meaning_uk": "годинами", "example": "Wir mussten *** am Bahnhof warten."},
-    {"term": "die Berufsberatung", "type": "Noun", "meaning_tr": "meslek danışmanlığı", "meaning_en": "career counseling", "meaning_uk": "профорієнтація", "example": "Die *** hilft Schülern bei der Jobsuche."},
-    {"term": "der Eignungstest", "type": "Noun", "meaning_tr": "yetenek/uygunluk testi", "meaning_en": "aptitude test", "meaning_uk": "тест на професійну придатність", "example": "Für die Ausbildung muss man einen *** machen."},
-    {"term": "der Job-Coach", "type": "Noun", "meaning_tr": "iş koçu", "meaning_en": "job coach", "meaning_uk": "коуч з працевлаштування", "example": "Ein *** bereitet mich auf das Vorstellungsgespräch vor."},
-    {"term": "die Karikatur", "type": "Noun", "meaning_tr": "karikatür", "meaning_en": "caricature", "meaning_uk": "карикатура", "example": "In der Zeitung war eine lustige *** vom Politiker."},
-    {"term": "schälen", "type": "Verb", "meaning_tr": "kabuğunu soymak", "meaning_en": "to peel", "meaning_uk": "чистити (від шкірки)", "example": "Kannst du bitte die Kartoffeln ***?"},
-    {"term": "derselbe", "type": "Pronoun", "meaning_tr": "aynı kişi/şey", "meaning_en": "the same", "meaning_uk": "той самий", "example": "Wir tragen heute genau *** Hemd."},
-    {"term": "gerecht", "type": "Adjective", "meaning_tr": "adil", "meaning_en": "just, fair", "meaning_uk": "справедливий", "example": "Der Lehrer ist sehr *** zu allen Schülern."},
-    {"term": "analysieren", "type": "Verb", "meaning_tr": "analiz etmek", "meaning_en": "to analyze", "meaning_uk": "аналізувати", "example": "Wir müssen die Daten genau ***."},
-    {"term": "zutreffen", "type": "Verb", "meaning_tr": "doğru olmak, uymak", "meaning_en": "to apply, be true", "meaning_uk": "відповідати дійсності", "example": "Diese Beschreibung würde genau auf ihn ***."},
-    {"term": "die Stärke", "type": "Noun", "meaning_tr": "güçlü yan", "meaning_en": "strength", "meaning_uk": "сильна сторона", "example": "Meine größte *** ist meine Geduld."},
-    {"term": "ordentlich", "type": "Adjective", "meaning_tr": "düzenli, tertipli", "meaning_en": "tidy", "meaning_uk": "акуратний", "example": "Dein Schreibtisch sieht heute sehr *** aus."},
-    {"term": "teamfähig", "type": "Adjective", "meaning_tr": "ekip çalışmasına yatkın", "meaning_en": "able to work in a team", "meaning_uk": "здатний працювати в команді", "example": "In diesem Beruf muss man vor allem *** sein."},
-    {"term": "kreativ", "type": "Adjective", "meaning_tr": "yaratıcı", "meaning_en": "creative", "meaning_uk": "творчий", "example": "Sie hat viele ***e Ideen für das Projekt."},
-    {"term": "motiviert", "type": "Adjective", "meaning_tr": "motivasyonu yüksek", "meaning_en": "motivated", "meaning_uk": "мотивований", "example": "Die Mitarbeiter sind heute sehr ***."},
-    {"term": "geduldig", "type": "Adjective", "meaning_tr": "sabırlı", "meaning_en": "patient", "meaning_uk": "терплячий", "example": "Mit Kindern muss man sehr *** sein."},
-    {"term": "selbstständig", "type": "Adjective", "meaning_tr": "bağımsız/kendi başına çalışan", "meaning_en": "independent", "meaning_uk": "самостійний", "example": "Er arbeitet seit zehn Jahren als ***er Grafiker."},
-    {"term": "der Konditor", "type": "Noun", "meaning_tr": "pastacı (erkek)", "meaning_en": "confectioner", "meaning_uk": "кондитер", "example": "Der *** backt heute eine große Torte."},
-    {"term": "die Konditorin", "type": "Noun", "meaning_tr": "pastacı (kadın)", "meaning_en": "confectioner (female)", "meaning_uk": "кондитерка", "example": "Die *** verziert die Pralinen sehr fein."},
-    {"term": "technisch", "type": "Adjective", "meaning_tr": "teknik", "meaning_en": "technical", "meaning_uk": "технічний", "example": "Hast du ein ***es Verständnis für Motoren?"},
-    {"term": "die Voraussetzung", "type": "Noun", "meaning_tr": "ön koşul, şart", "meaning_en": "requirement", "meaning_uk": "передумова", "example": "Gute Noten sind eine *** für das Studium."},
-    {"term": "die Kreativität", "type": "Noun", "meaning_tr": "yaratıcılık", "meaning_en": "creativity", "meaning_uk": "творчість", "example": "In der Werbung braucht man viel ***."},
-    {"term": "die Selbstständigkeit", "type": "Noun", "meaning_tr": "bağımsızlık", "meaning_en": "independence", "meaning_uk": "самостійність", "example": "Die *** ist für viele Unternehmer wichtig."},
-    {"term": "die Motivation", "type": "Noun", "meaning_tr": "motivasyon", "meaning_en": "motivation", "meaning_uk": "мотивація", "example": "Ohne *** ist die Arbeit sehr schwer."},
-    {"term": "die Teamfähigkeit", "type": "Noun", "meaning_tr": "takım çalışması yeteneği", "meaning_en": "teamwork skills", "meaning_uk": "здатність працювати в команді", "example": "In der Anzeige wird *** gefordert."},
-    {"term": "der Bewerber", "type": "Noun", "meaning_tr": "aday/başvuran (erkek)", "meaning_en": "applicant", "meaning_uk": "претендент", "example": "Wir haben heute fünf *** eingeladen."},
-    {"term": "die Bewerberin", "type": "Noun", "meaning_tr": "aday/başvuran (kadın)", "meaning_en": "applicant (female)", "meaning_uk": "претендентка", "example": "Die *** hat einen sehr guten Lebenslauf."},
-    {"term": "der Hörer", "type": "Noun", "meaning_tr": "dinleyici (erkek)", "meaning_en": "listener", "meaning_uk": "слухач", "example": "Viele *** rufen beim Radio an."},
-    {"term": "die Hörerin", "type": "Noun", "meaning_tr": "dinleyici (kadın)", "meaning_en": "listener (female)", "meaning_uk": "слухачка", "example": "Eine *** hat die richtige Antwort gewusst."},
-    {"term": "restaurieren", "type": "Verb", "meaning_tr": "restore etmek", "meaning_en": "to restore", "meaning_uk": "реставрувати", "example": "Er will den alten Schrank fachgerecht ***."},
-    {"term": "ausbilden", "type": "Verb", "meaning_tr": "eğitmek", "meaning_en": "to train", "meaning_uk": "навчати", "example": "Unsere Firma wird dieses Jahr drei Lehrlinge ***."},
-    {"term": "das Gebäude", "type": "Noun", "meaning_tr": "bina", "meaning_en": "building", "meaning_uk": "будівля", "example": "Das historische *** wird gerade renoviert."},
-    {"term": "großartig", "type": "Adjective", "meaning_tr": "harika, muhteşem", "meaning_en": "great, magnificent", "meaning_uk": "чудовий", "example": "Das Konzert gestern war einfach ***."},
-    {"term": "nun", "type": "Adverb", "meaning_tr": "şimdi", "meaning_en": "now", "meaning_uk": "тепер", "example": "Was wollen wir *** machen?"},
-    {"term": "die Innenstadt", "type": "Noun", "meaning_tr": "şehir merkezi", "meaning_en": "city center", "meaning_uk": "центр міста", "example": "In der *** gibt es viele Geschäfte."},
-    {"term": "die Tischlerei", "type": "Noun", "meaning_tr": "marangozluk atölyesi", "meaning_en": "joinery / carpentry shop", "meaning_uk": "столярна майстерня", "example": "Die *** stellt hochwertige Fenster her."},
-    {"term": "führen", "type": "Verb", "meaning_tr": "yönetmek, liderlik etmek", "meaning_en": "to lead, manage", "meaning_uk": "керувати", "example": "Sie will das kleine Unternehmen erfolgreich ***."},
-    {"term": "eine Tischlerei führen", "type": "Phrase", "meaning_tr": "bir marangozhaneyi yönetmek", "meaning_en": "to run a carpentry shop", "meaning_uk": "керувати столярною майстернею", "example": "Es ist viel Arbeit, *** *** zu ***."},
-    {"term": "der Familienbetrieb", "type": "Noun", "meaning_tr": "aile işletmesi", "meaning_en": "family business", "meaning_uk": "сімейне підприємство", "example": "Unser Restaurant ist ein echter ***."},
-    {"term": "der Handwerksbetrieb", "type": "Noun", "meaning_tr": "zanaat işletmesi", "meaning_en": "craft business", "meaning_uk": "ремісниче підприємство", "example": "Ein kleiner *** hat oft treue Kunden."},
-    {"term": "die Generation", "type": "Noun", "meaning_tr": "nesil, kuşak", "meaning_en": "generation", "meaning_uk": "покоління", "example": "Wir arbeiten hier schon in der dritten ***."},
-    {"term": "emtzern", "type": "Verb", "meaning_tr": "uzaklaştırmak/ayırmak", "meaning_en": "to remove (technical term)", "meaning_uk": "видаляти", "example": "Man muss die alte Farbe vorsichtig ***."},
-    {"term": "der Restaurator", "type": "Noun", "meaning_tr": "restoratör (erkek)", "meaning_en": "restorer", "meaning_uk": "реставратор", "example": "Der *** arbeitet an dem alten Gemälde."},
-    {"term": "die Restauratorin", "type": "Noun", "meaning_tr": "restoratör (kadın)", "meaning_en": "restorer (female)", "meaning_uk": "реставраторка", "example": "Die *** hat viel Erfahrung mit antiken Möbeln."},
-    {"term": "die Werkstatt", "type": "Noun", "meaning_tr": "atölye", "meaning_en": "workshop", "meaning_uk": "майстерня", "example": "In der *** riecht es nach frischem Holz."},
-    {"term": "die Privatleute", "type": "Noun", "meaning_tr": "şahıslar, özel kişiler", "meaning_en": "private people", "meaning_uk": "приватні особи", "example": "Viele *** lassen ihre Häuser renovieren."},
-    {"term": "der Stadtrand", "type": "Noun", "meaning_tr": "şehir dışı/kenarı", "meaning_en": "outskirts", "meaning_uk": "окраїна міста", "example": "Wir wohnen lieber am ***, da ist es ruhiger."}
+    {
+      "term": "das Handwerk",
+      "type": "Noun",
+      "meaning_tr": "zanaat - el sanatları - sanatkârlık",
+      "meaning_en": "craft - trade - manual skill",
+      "meaning_uk": "ремесло - товариство",
+      "example": "Das goldene *** hat in Deutschland eine lange Tradition.",
+      "meaning_es": "artesanía - oficio - habilidad manual"
+    },
+    {
+      "term": "der Handwerker",
+      "type": "Noun",
+      "meaning_tr": "zanaatkar (erkek) - usta",
+      "meaning_en": "craftsman - artisan",
+      "meaning_uk": "ремісник - технік",
+      "example": "Wir haben einen *** bestellt, um das Fenster zu reparieren.",
+      "meaning_es": "artesano - operario calificado"
+    },
+    {
+      "term": "die Handwerkerin",
+      "type": "Noun",
+      "meaning_tr": "zanaatkar (kadın) - usta (kadın)",
+      "meaning_en": "craftswoman - female artisan",
+      "meaning_uk": "ремісниця - технікиня",
+      "example": "Meine Schwester arbeitet als *** in einer Tischlerei.",
+      "meaning_es": "artesana - operaria calificada"
+    },
+    {
+      "term": "der Dachdecker",
+      "type": "Noun",
+      "meaning_tr": "çatı ustası (erkek) - çatıcı",
+      "meaning_en": "roofer - roof tiler",
+      "meaning_uk": "покрівельник - шейбер",
+      "example": "Der *** arbeitet heute oben auf dem Haus.",
+      "meaning_es": "techador - tejador"
+    },
+    {
+      "term": "die Dachdeckerin",
+      "type": "Noun",
+      "meaning_tr": "çatı ustası (kadın) - çatıcı (kadın)",
+      "meaning_en": "roofer (female) - female roof tiler",
+      "meaning_uk": "покрівельниця - шейберка",
+      "example": "Als *** muss man schwindelfrei sein.",
+      "meaning_es": "techadora - tejedora"
+    },
+    {
+      "term": "der Maler",
+      "type": "Noun",
+      "meaning_tr": "boyacı (erkek) - ressam (erkek)",
+      "meaning_en": "painter - house painter",
+      "meaning_uk": "маляр - художник",
+      "example": "Der *** streicht die Wände im Wohnzimmer weiß.",
+      "meaning_es": "pintor - pintor de casas"
+    },
+    {
+      "term": "die Malerin",
+      "type": "Noun",
+      "meaning_tr": "boyacı (kadın) - ressam (kadın)",
+      "meaning_en": "painter (female) - female house painter",
+      "meaning_uk": "малярка - художниця",
+      "example": "Die *** hat ein wunderschönes Porträt gemalt.",
+      "meaning_es": "pintora - pintora de casas"
+    },
+    {
+      "term": "der Schneider",
+      "type": "Noun",
+      "meaning_tr": "terzi (erkek) - dikişçi (erkek)",
+      "meaning_en": "tailor - clothier",
+      "meaning_uk": "кравець - швеїць",
+      "example": "Der *** kürzt meine neue Hose.",
+      "meaning_es": "sastre - modisto"
+    },
+    {
+      "term": "die Schneiderin",
+      "type": "Noun",
+      "meaning_tr": "terzi (kadın) - dikişçi (kadın)",
+      "meaning_en": "tailor (female) - female clothier",
+      "meaning_uk": "кравчиня - швеїця",
+      "example": "Die *** näht ein Kleid für die Hochzeit.",
+      "meaning_es": "sastra - modista"
+    },
+    {
+      "term": "der Tischler",
+      "type": "Noun",
+      "meaning_tr": "marangoz (erkek) - doğramacı (erkek)",
+      "meaning_en": "carpenter - joiner",
+      "meaning_uk": "столяр - тесляр",
+      "example": "Ein guter *** kann Möbel aus Massivholz bauen.",
+      "meaning_es": "carpintero - ebanista"
+    },
+    {
+      "term": "die Tischlerin",
+      "type": "Noun",
+      "meaning_tr": "marangoz (kadın) - doğramacı (kadın)",
+      "meaning_en": "carpenter (female) - female joiner",
+      "meaning_uk": "столярка - теслярка",
+      "example": "Sie macht eine Ausbildung als ***.",
+      "meaning_es": "carpentera - ebanista (femenino)"
+    },
+    {
+      "term": "der Elektroniker",
+      "type": "Noun",
+      "meaning_tr": "elektronik teknisyeni (erkek) - elektronikçi (erkek)",
+      "meaning_en": "electronics technician - electrician (electronics)",
+      "meaning_uk": "електронік - майстер з електроніки",
+      "example": "Der *** repariert die komplexe Steuerung der Maschine.",
+      "meaning_es": "técnico en electrónica - electricista (electrónica)"
+    },
+    {
+      "term": "die Elektronikerin",
+      "type": "Noun",
+      "meaning_tr": "elektronik teknisyeni (kadın) - elektronikçi (kadın)",
+      "meaning_en": "electronics technician (female) - female electrician (electronics)",
+      "meaning_uk": "електронік (жінка) - майстер з електроніки (жінка)",
+      "example": "Als *** arbeitet sie in einem großen Industriebetrieb.",
+      "meaning_es": "técnica en electrónica - electricista (electrónica femenina)"
+    },
+    {
+      "term": "der Installateur",
+      "type": "Noun",
+      "meaning_tr": "tesisatçı (erkek) - tesisat işletmecisi (erkek)",
+      "meaning_en": "plumber - fitter",
+      "meaning_uk": "сантехнік - технік з установок",
+      "example": "Der *** repariert das kaputte Rohr im Bad.",
+      "meaning_es": "fontanero - instalador"
+    },
+    {
+      "term": "die Installateurin",
+      "type": "Noun",
+      "meaning_tr": "tesisatçı (kadın) - tesisat işletmecisi (kadın)",
+      "meaning_en": "plumber (female) - female fitter",
+      "meaning_uk": "сантехнік (жінка) - технікиня",
+      "example": "Die *** installiert die neue Heizungsanlage.",
+      "meaning_es": "fontanera - instaladora"
+    },
+    {
+      "term": "der Optiker",
+      "type": "Noun",
+      "meaning_tr": "gözlükçü (erkek) - optisyen (erkek)",
+      "meaning_en": "optician - spectacle maker",
+      "meaning_uk": "оптик - оптичний майстер",
+      "example": "Ich gehe zum ***, um einen Sehtest zu machen.",
+      "meaning_es": "óptico - optometrista"
+    },
+    {
+      "term": "die Optikerin",
+      "type": "Noun",
+      "meaning_tr": "gözlükçü (kadın) - optisyen (kadın)",
+      "meaning_en": "optician (female) - female spectacle maker",
+      "meaning_uk": "оптик (жінка) - оптичниця",
+      "example": "Die *** hat mir eine sehr schöne Brille empfohlen.",
+      "meaning_es": "óptica - optometrista (femenino)"
+    },
+    {
+      "term": "der Katalog",
+      "type": "Noun",
+      "meaning_tr": "katalog - list",
+      "meaning_en": "catalog - catalogue",
+      "meaning_uk": "каталог - перелік",
+      "example": "Hast du den neuen *** für die Büromöbel gesehen?",
+      "meaning_es": "catálogo - lista"
+    },
+    {
+      "term": "das Dach",
+      "type": "Noun",
+      "meaning_tr": "çatı - tavan",
+      "meaning_en": "roof - roofing",
+      "meaning_uk": "дах - покрівля",
+      "example": "Nach dem Sturm muss das *** repariert werden.",
+      "meaning_es": "techo - tejado"
+    },
+    {
+      "term": "das Dach decken",
+      "type": "Phrase",
+      "meaning_tr": "çatıyı kaplamak - çatı yapmak",
+      "meaning_en": "to roof - to tile a roof",
+      "meaning_uk": "крити дах - покривати дах",
+      "example": "Die Handwerker werden morgen das *** ***.",
+      "meaning_es": "techar - cubrir el techo"
+    },
+    {
+      "term": "abdrehen",
+      "type": "Verb",
+      "meaning_tr": "kapatmak (musluk vb.) - vanayı kapamak",
+      "meaning_en": "to turn off - to shut off (valve)",
+      "meaning_uk": "вимкнути - закрити кран",
+      "example": "Bitte *** das Wasser ***, bevor du gehst.",
+      "meaning_es": "cerrar - cortar el suministro"
+    },
+    {
+      "term": "die Wasserleitung",
+      "type": "Noun",
+      "meaning_tr": "su borusu - su tesisatı",
+      "meaning_en": "water pipe - water line",
+      "meaning_uk": "водопровід - водопроводна труба",
+      "example": "Die alte *** ist leider verrostet.",
+      "meaning_es": "tubería de agua - conducción de agua"
+    },
+    {
+      "term": "verlegen",
+      "type": "Verb",
+      "meaning_tr": "döşemek - yerleştirmek",
+      "meaning_en": "to lay - to install (pipes/cables)",
+      "meaning_uk": "прокладати - установити",
+      "example": "Wir müssen im Garten neue Kabel ***.",
+      "meaning_es": "tender - instalar (tuberías/cables)"
+    },
+    {
+      "term": "Wasserleitungen verlegen",
+      "type": "Phrase",
+      "meaning_tr": "su boruları döşemek - su tesisatı kurmak",
+      "meaning_en": "to lay water pipes - to install water lines",
+      "meaning_uk": "прокладати водопровід - займатися з водопроводом",
+      "example": "Der Installateur hilft uns dabei, die *** zu ***.",
+      "meaning_es": "tender tuberías de agua - instalar conducciones de agua"
+    },
+    {
+      "term": "die Anlage",
+      "type": "Noun",
+      "meaning_tr": "tesis - sistem - kurulum",
+      "meaning_en": "system - facility - installation",
+      "meaning_uk": "установка - система - об'єкт",
+      "example": "Die elektrische *** im Haus ist veraltet.",
+      "meaning_es": "instalación - sistema - complejo"
+    },
+    {
+      "term": "elektrisch",
+      "type": "Adjective",
+      "meaning_tr": "elektrikli - elektriksel",
+      "meaning_en": "electrical - electric",
+      "meaning_uk": "електричний - електричний",
+      "example": "Wir haben eine ***e Zahnbürste gekauft.",
+      "meaning_es": "eléctrico - de electricidad"
+    },
+    {
+      "term": "installieren",
+      "type": "Verb",
+      "meaning_tr": "kurmak - monte etmek - tesisat yapmak",
+      "meaning_en": "to install - to fit",
+      "meaning_uk": "встановлювати - монтувати",
+      "example": "Der Techniker wird morgen die Software ***.",
+      "meaning_es": "instalar - montar"
+    },
+    {
+      "term": "elektrische Anlagen installieren",
+      "type": "Phrase",
+      "meaning_tr": "elektrikli sistemler kurmak - elektrik tesisatı yapmak",
+      "meaning_en": "to install electrical systems - to wire up",
+      "meaning_uk": "встановлювати електрообладнання - займатися з електромережами",
+      "example": "Er ist Fachmann dafür, *** *** zu ***.",
+      "meaning_es": "instalar sistemas eléctricos - cablear"
+    },
+    {
+      "term": "der Strom",
+      "type": "Noun",
+      "meaning_tr": "elektrik - akım - elektrik enerjisi",
+      "meaning_en": "electricity - current",
+      "meaning_uk": "струм - електричний струм",
+      "example": "Ohne *** funktionieren keine Lampen.",
+      "meaning_es": "electricidad - corriente"
+    },
+    {
+      "term": "tapezieren",
+      "type": "Verb",
+      "meaning_tr": "duvar kağıdı kaplamak - duvar kağıdı yapmak",
+      "meaning_en": "to wallpaper - to paper a wall",
+      "meaning_uk": "клеїти шпалери - облеювати стіни",
+      "example": "Wir wollen das Schlafzimmer am Wochenende neu ***.",
+      "meaning_es": "empapelar - poner papel pintado"
+    },
+    {
+      "term": "färben",
+      "type": "Verb",
+      "meaning_tr": "boyamak - renklendirmek",
+      "meaning_en": "to dye - to color",
+      "meaning_uk": "фарбувати - барвити",
+      "example": "Ich möchte mir meine Haare dunkelblau ***.",
+      "meaning_es": "teñir - colorear"
+    },
+    {
+      "term": "die Haare färben",
+      "type": "Phrase",
+      "meaning_tr": "saç boyamak - saç rengini değiştirmek",
+      "meaning_en": "to dye hair - to color hair",
+      "meaning_uk": "фарбувати волосся - барвити волосся",
+      "example": "Sie geht zum Friseur, um sich *** *** zu ***.",
+      "meaning_es": "teñir el pelo - pintar el cabello"
+    },
+    {
+      "term": "nähen",
+      "type": "Verb",
+      "meaning_tr": "dikiş dikmek - dikmek",
+      "meaning_en": "to sew - to stitch",
+      "meaning_uk": "шити - зашивати",
+      "example": "Kannst du mir einen Knopf an die Jacke ***?",
+      "meaning_es": "coser - zurcir"
+    },
+    {
+      "term": "zufrieden / unzufrieden",
+      "type": "Adjective",
+      "meaning_tr": "memnun / memnun değil - tatmin olmuş / tatmin olmamış",
+      "meaning_en": "satisfied / dissatisfied - content / discontent",
+      "meaning_uk": "задоволений / незадоволений - задоволений / незадоволений",
+      "example": "Bist du mit deinem neuen Job ***?",
+      "meaning_es": "satisfecho / insatisfecho - contento / descontento"
+    },
+    {
+      "term": "neulich",
+      "type": "Adverb",
+      "meaning_tr": "geçenlerde - yakın zamanda",
+      "meaning_en": "recently - the other day",
+      "meaning_uk": "нещодавно - недавно",
+      "example": "Ich habe *** einen alten Freund im Park getroffen.",
+      "meaning_es": "recientemente - hace poco"
+    },
+    {
+      "term": "unglaublich",
+      "type": "Adjective",
+      "meaning_tr": "inanılmaz - akıl almaz",
+      "meaning_en": "incredible - unbelievable",
+      "meaning_uk": "неймовірний - сташний",
+      "example": "Es ist ***, wie schnell die Zeit vergeht.",
+      "meaning_es": "increíble - asombroso"
+    },
+    {
+      "term": "die Katastrophe",
+      "type": "Noun",
+      "meaning_tr": "felaket - facia",
+      "meaning_en": "catastrophe - disaster",
+      "meaning_uk": "катастрофа - лихо",
+      "example": "Das schlechte Wetter war eine *** für das Gartenfest.",
+      "meaning_es": "catástrofe - desastre"
+    },
+    {
+      "term": "der Beruf",
+      "type": "Noun",
+      "meaning_tr": "meslek - iş",
+      "meaning_en": "profession - occupation",
+      "meaning_uk": "професія - робота",
+      "example": "Was bist du von ***?",
+      "meaning_es": "profesión - ocupación"
+    },
+    {
+      "term": "der Traumberuf",
+      "type": "Noun",
+      "meaning_tr": "hayalindeki meslek - ideal meslek",
+      "meaning_en": "dream job - ideal profession",
+      "meaning_uk": "робота мрії - мрія професії",
+      "example": "Mein *** war als Kind immer Feuerwehrmann.",
+      "meaning_es": "trabajo soñado - profesión ideal"
+    },
+    {
+      "term": "der Ratschlag",
+      "type": "Noun",
+      "meaning_tr": "tavsiye - öğüt - nasihat",
+      "meaning_en": "advice - counsel",
+      "meaning_uk": "порада - рада",
+      "example": "Vielen Dank für deinen hilfreichen ***.",
+      "meaning_es": "consejo - recomendación"
+    },
+    {
+      "term": "der Astronaut",
+      "type": "Noun",
+      "meaning_tr": "astronot (erkek) - uzay kaçışçı (erkek)",
+      "meaning_en": "astronaut - spaceman",
+      "meaning_uk": "астронавт - космонавт",
+      "example": "Ein *** fliegt ins Weltall.",
+      "meaning_es": "astronauta - cosmonauta"
+    },
+    {
+      "term": "die Astronautin",
+      "type": "Noun",
+      "meaning_tr": "astronot (kadın) - uzay kaçışçı (kadın)",
+      "meaning_en": "astronaut (female) - spacewoman",
+      "meaning_uk": "астронавтка - космонавтка",
+      "example": "Die *** trainiert hart für die Mission.",
+      "meaning_es": "astronauta (femenino) - cosmonauta (femenino)"
+    },
+    {
+      "term": "der Architekt",
+      "type": "Noun",
+      "meaning_tr": "mimar (erkek) - yapı mimarı (erkek)",
+      "meaning_en": "architect - designer",
+      "meaning_uk": "архітектор - проектувальник",
+      "example": "Der *** zeichnet die Pläne für das neue Haus.",
+      "meaning_es": "arquitecto - diseñador"
+    },
+    {
+      "term": "die Architektin",
+      "type": "Noun",
+      "meaning_tr": "mimar (kadın) - yapı mimarı (kadın)",
+      "meaning_en": "architect (female) - female designer",
+      "meaning_uk": "архітекторка - проектувальниця",
+      "example": "Als *** plant sie moderne Bürogebäude.",
+      "meaning_es": "arquitecta - diseñadora"
+    },
+    {
+      "term": "der Chemiker",
+      "type": "Noun",
+      "meaning_tr": "kimyager (erkek) - kimya mühendisi (erkek)",
+      "meaning_en": "chemist - chemical scientist",
+      "meaning_uk": "хімік - хімічний инженер",
+      "example": "Der *** arbeitet im Labor an neuen Medikamenten.",
+      "meaning_es": "químico - científico químico"
+    },
+    {
+      "term": "die Chemikerin",
+      "type": "Noun",
+      "meaning_tr": "kimyager (kadın) - kimya mühendisi (kadın)",
+      "meaning_en": "chemist (female) - female chemical scientist",
+      "meaning_uk": "хімікиня - хімічна інженерка",
+      "example": "Die *** erforscht neue Materialien.",
+      "meaning_es": "química - científica química"
+    },
+    {
+      "term": "der Mechaniker",
+      "type": "Noun",
+      "meaning_tr": "tamirci (erkek) - mekanikçi (erkek)",
+      "meaning_en": "mechanic - repairman",
+      "meaning_uk": "механік - ремонтник",
+      "example": "Der *** repariert den Motor meines Autos.",
+      "meaning_es": "mecánico - reparador"
+    },
+    {
+      "term": "die Mechanikerin",
+      "type": "Noun",
+      "meaning_tr": "tamirci (kadın) - mekanikçi (kadın)",
+      "meaning_en": "mechanic (female) - female repairman",
+      "meaning_uk": "механікиня - ремонтниця",
+      "example": "Die *** prüft die Bremsen des Lastwagens.",
+      "meaning_es": "mecánica - reparadora"
+    },
+    {
+      "term": "wahr",
+      "type": "Adjective",
+      "meaning_tr": "gerçek - doğru - hakiki",
+      "meaning_en": "true - real - accurate",
+      "meaning_uk": "істинний - правдивий",
+      "example": "Ist es ***, dass du umziehst?",
+      "meaning_es": "verdadero - cierto - real"
+    },
+    {
+      "term": "kündigen",
+      "type": "Verb",
+      "meaning_tr": "istifa etmek - işten çıkarmak - feshetmek",
+      "meaning_en": "to resign - to terminate - to give notice",
+      "meaning_uk": "звільнятися - розірвати контракт",
+      "example": "Ich habe meinen Job ge***, weil ich etwas Neues will.",
+      "meaning_es": "renunciar - despedir - rescindir"
+    },
+    {
+      "term": "der Fußballplatz",
+      "type": "Noun",
+      "meaning_tr": "futbol sahası - futbol alanı",
+      "meaning_en": "football pitch - soccer field",
+      "meaning_uk": "футбольне поле - футбольне поледо",
+      "example": "Am Wochenende treffen wir uns auf dem ***.",
+      "meaning_es": "campo de fútbol - cancha de fútbol"
+    },
+    {
+      "term": "der Vorteil",
+      "type": "Noun",
+      "meaning_tr": "avantaj - yarar - olumlu yön",
+      "meaning_en": "advantage - benefit - plus point",
+      "meaning_uk": "перевага - перевага",
+      "example": "Ein großer *** der Wohnung ist der Balkon.",
+      "meaning_es": "ventaja - beneficio"
+    },
+    {
+      "term": "der Nachteil",
+      "type": "Noun",
+      "meaning_tr": "dezavantaj - eksiklik - olumsuz yön",
+      "meaning_en": "disadvantage - drawback - minus point",
+      "meaning_uk": "недолік - недостаток",
+      "example": "Der einzige *** ist die laute Straße.",
+      "meaning_es": "desventaja - inconveniente"
+    },
+    {
+      "term": "die Karriere",
+      "type": "Noun",
+      "meaning_tr": "kariyer - mesleki gelişim",
+      "meaning_en": "career - professional development",
+      "meaning_uk": "кар'єра - професійний шлях",
+      "example": "Sie macht schnell *** in ihrer Firma.",
+      "meaning_es": "carrera - trayectoria profesional"
+    },
+    {
+      "term": "die Schicht",
+      "type": "Noun",
+      "meaning_tr": "vardiya - katman",
+      "meaning_en": "shift - layer",
+      "meaning_uk": "зміна - шар",
+      "example": "Meine *** beginnt heute erst um 22 Uhr.",
+      "meaning_es": "turno - capa"
+    },
+    {
+      "term": "Schicht arbeiten",
+      "type": "Phrase",
+      "meaning_tr": "vardiyalı çalışmak - dönemli çalışmak",
+      "meaning_en": "to work shifts - to work in rotation",
+      "meaning_uk": "працювати позмінно - роботати змінами",
+      "example": "In der Fabrik muss man oft *** ***.",
+      "meaning_es": "trabajar por turnos - trabajar en rotación"
+    },
+    {
+      "term": "das Gehalt",
+      "type": "Noun",
+      "meaning_tr": "maaş - aylık ücret",
+      "meaning_en": "salary - wages",
+      "meaning_uk": "зарплата - зарплатна плата",
+      "example": "Ich bin mit meinem *** sehr zufrieden.",
+      "meaning_es": "salario - sueldo"
+    },
+    {
+      "term": "der Zeitdruck",
+      "type": "Noun",
+      "meaning_tr": "zaman baskısı - sıkıştırılmış zaman",
+      "meaning_en": "time pressure - deadline stress",
+      "meaning_uk": "дефіцит часу - тиск з часу",
+      "example": "Wir müssen das Projekt unter großem *** fertigstellen.",
+      "meaning_es": "presión de tiempo - estrés por el tiempo"
+    },
+    {
+      "term": "der Privatkunde",
+      "type": "Noun",
+      "meaning_tr": "özel müşteri (erkek) - bireysel müşteri (erkek)",
+      "meaning_en": "private customer - individual client",
+      "meaning_uk": "приватний клієнт - фізична особа",
+      "example": "Unser Betrieb arbeitet hauptsächlich für ***.",
+      "meaning_es": "cliente particular - cliente individual"
+    },
+    {
+      "term": "die Privatkundin",
+      "type": "Noun",
+      "meaning_tr": "özel müşteri (kadın) - bireysel müşteri (kadın)",
+      "meaning_en": "private customer (female) - individual client (female)",
+      "meaning_uk": "приватна клієнтка - фізична особа (жінка)",
+      "example": "Die *** möchte ein neues Angebot haben.",
+      "meaning_es": "clienta particular - clienta individual"
+    },
+    {
+      "term": "insgesamt",
+      "type": "Adverb",
+      "meaning_tr": "toplamda - genel olarak - hepsini kapsayacak şekilde",
+      "meaning_en": "altogether - in total - overall",
+      "meaning_uk": "загалом - в загальном",
+      "example": "Wir sind *** zehn Personen beim Abendessen.",
+      "meaning_es": "en total - en conjunto - globalmente"
+    },
+    {
+      "term": "abwechslungsreich",
+      "type": "Adjective",
+      "meaning_tr": "çeşitli - hareketli - çeşitlilik gösteren",
+      "meaning_en": "varied - diverse - full of variety",
+      "meaning_uk": "різноманітний - різноманіття",
+      "example": "Mein Job ist sehr ***, es wird nie langweilig.",
+      "meaning_es": "variado - diverso"
+    },
+    {
+      "term": "anstrengend",
+      "type": "Adjective",
+      "meaning_tr": "yorucu - zahmetli - gayret gerektiren",
+      "meaning_en": "strenuous - exhausting - demanding",
+      "meaning_uk": "виснажливий - тяжкий",
+      "example": "Die Wanderung in den Bergen war sehr ***.",
+      "meaning_es": "agotador - extenuante - arduo"
+    },
+    {
+      "term": "dreijährig",
+      "type": "Adjective",
+      "meaning_tr": "üç yıllık - üç yıl süren",
+      "meaning_en": "three-year - lasting three years",
+      "meaning_uk": "трирічний - трирічний",
+      "example": "Er macht eine ***e Ausbildung zum Bäcker.",
+      "meaning_es": "de tres años - trienal"
+    },
+    {
+      "term": "stundenlang",
+      "type": "Adjective",
+      "meaning_tr": "saatlerce süren - saatlerce",
+      "meaning_en": "for hours - lasting hours",
+      "meaning_uk": "годинами - протягом годин",
+      "example": "Wir mussten *** am Bahnhof warten.",
+      "meaning_es": "durante horas - por horas"
+    },
+    {
+      "term": "die Berufsberatung",
+      "type": "Noun",
+      "meaning_tr": "meslek danışmanlığı - kariyer danışmanlığı",
+      "meaning_en": "career counseling - vocational guidance",
+      "meaning_uk": "профорієнтація - кар'єрне консультація",
+      "example": "Die *** hilft Schülern bei der Jobsuche.",
+      "meaning_es": "orientación profesional - asesoramiento de carrera"
+    },
+    {
+      "term": "der Eignungstest",
+      "type": "Noun",
+      "meaning_tr": "yetenek testi - uygunluk sınavı",
+      "meaning_en": "aptitude test - suitability test",
+      "meaning_uk": "тест на професійну придатність - испитання придатності",
+      "example": "Für die Ausbildung muss man einen *** machen.",
+      "meaning_es": "prueba de aptitud - test de idoneidad"
+    },
+    {
+      "term": "der Job-Coach",
+      "type": "Noun",
+      "meaning_tr": "iş koçu - kariyer koçu",
+      "meaning_en": "job coach - career coach",
+      "meaning_uk": "коуч з працевлаштування - кар'єрний коуч",
+      "example": "Ein *** bereitet mich auf das Vorstellungsgespräch vor.",
+      "meaning_es": "entrenador laboral - coach de carrera"
+    },
+    {
+      "term": "die Karikatur",
+      "type": "Noun",
+      "meaning_tr": "karikatür - yüz karikatürü",
+      "meaning_en": "caricature - cartoon",
+      "meaning_uk": "карикатура - сатиричний малюнок",
+      "example": "In der Zeitung war eine lustige *** vom Politiker.",
+      "meaning_es": "caricatura - retrato satírico"
+    },
+    {
+      "term": "schälen",
+      "type": "Verb",
+      "meaning_tr": "kabuğunu soymak - soymak",
+      "meaning_en": "to peel - to pare",
+      "meaning_uk": "чистити (від шкірки) - зняти шкірку",
+      "example": "Kannst du bitte die Kartoffeln ***?",
+      "meaning_es": "pelar - mondar"
+    },
+    {
+      "term": "derselbe",
+      "type": "Pronoun",
+      "meaning_tr": "aynı kişi/ey - aynı",
+      "meaning_en": "the same - identical",
+      "meaning_uk": "той самий - одинаковий",
+      "example": "Wir tragen heute genau *** Hemd.",
+      "meaning_es": "el mismo - idéntico"
+    },
+    {
+      "term": "gerecht",
+      "type": "Adjective",
+      "meaning_tr": "adil - hakçı - doğru",
+      "meaning_en": "just - fair - equitable",
+      "meaning_uk": "справедливий - судний",
+      "example": "Der Lehrer ist sehr *** zu allen Schülern.",
+      "meaning_es": "justo - equitativo"
+    },
+    {
+      "term": "analysieren",
+      "type": "Verb",
+      "meaning_tr": "analiz etmek - incelemek",
+      "meaning_en": "to analyze - to examine",
+      "meaning_uk": "аналізувати - досліджувати",
+      "example": "Wir müssen die Daten genau ***.",
+      "meaning_es": "analizar - examinar"
+    },
+    {
+      "term": "zutreffen",
+      "type": "Verb",
+      "meaning_tr": "doğru olmak - uymak - geçerli olmak",
+      "meaning_en": "to apply - to be true - to be valid",
+      "meaning_uk": "відповідати дійсності - бути правдимим",
+      "example": "Diese Beschreibung würde genau auf ihn ***.",
+      "meaning_es": "aplicarse - ser cierto - ser válido"
+    },
+    {
+      "term": "die Stärke",
+      "type": "Noun",
+      "meaning_tr": "güçlü yan - kuvvetli yön",
+      "meaning_en": "strength - strong point - asset",
+      "meaning_uk": "сильна сторона - перевага",
+      "example": "Meine größte *** ist meine Geduld.",
+      "meaning_es": "fortaleza - punto fuerte - cualidad"
+    },
+    {
+      "term": "ordentlich",
+      "type": "Adjective",
+      "meaning_tr": "düzenli - tertipli - düzgün",
+      "meaning_en": "tidy - orderly - neat",
+      "meaning_uk": "акуратний - порядоковий",
+      "example": "Dein Schreibtisch sieht heute sehr *** aus.",
+      "meaning_es": "ordenado - pulcro - aseado"
+    },
+    {
+      "term": "teamfähig",
+      "type": "Adjective",
+      "meaning_tr": "ekip çalışmasına yatkın - takım oyuncusu",
+      "meaning_en": "able to work in a team - good team player",
+      "meaning_uk": "здатний працювати в команді - командник",
+      "example": "In diesem Beruf muss man vor allem *** sein.",
+      "meaning_es": "capaz de trabajar en equipo - colaborador"
+    },
+    {
+      "term": "kreativ",
+      "type": "Adjective",
+      "meaning_tr": "yaratıcı - orijinal",
+      "meaning_en": "creative - inventive",
+      "meaning_uk": "творчий - винахідливий",
+      "example": "Sie hat viele ***e Ideen für das Projekt.",
+      "meaning_es": "creativo - ingenioso"
+    },
+    {
+      "term": "motiviert",
+      "type": "Adjective",
+      "meaning_tr": "motivasyonu yüksek - istekli",
+      "meaning_en": "motivated - eager",
+      "meaning_uk": "мотивований - захочеть",
+      "example": "Die Mitarbeiter sind heute sehr ***.",
+      "meaning_es": "motivado - entusiasta"
+    },
+    {
+      "term": "geduldig",
+      "type": "Adjective",
+      "meaning_tr": "sabırlı - tahammülü yüksek",
+      "meaning_en": "patient - forbearing",
+      "meaning_uk": "терплячий - вибливий",
+      "example": "Mit Kindern muss man sehr *** sein.",
+      "meaning_es": "paciente - tolerante"
+    },
+    {
+      "term": "selbstständig",
+      "type": "Adjective",
+      "meaning_tr": "bağımsız - kendi başına çalışan",
+      "meaning_en": "independent - autonomous - self-employed",
+      "meaning_uk": "самостійний - незалежний",
+      "example": "Er arbeitet seit zehn Jahren als ***er Grafiker.",
+      "meaning_es": "independiente - autónomo"
+    },
+    {
+      "term": "der Konditor",
+      "type": "Noun",
+      "meaning_tr": "pastacı (erkek) - şarkteri (erkek)",
+      "meaning_en": "confectioner - pastry chef",
+      "meaning_uk": "кондитер - пекар",
+      "example": "Der *** backt heute eine große Torte.",
+      "meaning_es": "pastelero - confitero"
+    },
+    {
+      "term": "die Konditorin",
+      "type": "Noun",
+      "meaning_tr": "pastacı (kadın) - şarkteri (kadın)",
+      "meaning_en": "confectioner (female) - female pastry chef",
+      "meaning_uk": "кондитерка - пекарка",
+      "example": "Die *** verziert die Pralinen sehr fein.",
+      "meaning_es": "pastelera - confitera"
+    },
+    {
+      "term": "technisch",
+      "type": "Adjective",
+      "meaning_tr": "teknik - teknolojik",
+      "meaning_en": "technical - technological",
+      "meaning_uk": "технічний - технологічний",
+      "example": "Hast du ein ***es Verständnis für Motoren?",
+      "meaning_es": "técnico - tecnológico"
+    },
+    {
+      "term": "die Voraussetzung",
+      "type": "Noun",
+      "meaning_tr": "ön koşul - şart - gereklilik",
+      "meaning_en": "requirement - prerequisite - condition",
+      "meaning_uk": "передумова - умова - условія",
+      "example": "Gute Noten sind eine *** für das Studium.",
+      "meaning_es": "requisito - condición - premisa"
+    },
+    {
+      "term": "die Kreativität",
+      "type": "Noun",
+      "meaning_tr": "yaratıcılık - orijinallik",
+      "meaning_en": "creativity - inventiveness",
+      "meaning_uk": "творчість - оригінальність",
+      "example": "In der Werbung braucht man viel ***.",
+      "meaning_es": "creatividad - ingenio"
+    },
+    {
+      "term": "die Selbstständigkeit",
+      "type": "Noun",
+      "meaning_tr": "bağımsızlık - özerklik",
+      "meaning_en": "independence - autonomy",
+      "meaning_uk": "самостійність - незалежність",
+      "example": "Die *** ist für viele Unternehmer wichtig.",
+      "meaning_es": "independencia - autonomía"
+    },
+    {
+      "term": "die Motivation",
+      "type": "Noun",
+      "meaning_tr": "motivasyon - gödükleyici güç",
+      "meaning_en": "motivation - drive",
+      "meaning_uk": "мотивація - спонукання",
+      "example": "Ohne *** ist die Arbeit sehr schwer.",
+      "meaning_es": "motivación - impulso"
+    },
+    {
+      "term": "die Teamfähigkeit",
+      "type": "Noun",
+      "meaning_tr": "takım çalışması yeteneği - ekip çalışması",
+      "meaning_en": "teamwork skills - team spirit",
+      "meaning_uk": "здатність працювати в команді - командний дух",
+      "example": "In der Anzeige wird *** gefordert.",
+      "meaning_es": "capacidad de trabajo en equipo - espíritu de equipo"
+    },
+    {
+      "term": "der Bewerber",
+      "type": "Noun",
+      "meaning_tr": "aday/başvuran (erkek) - iş başvurusu yapan (erkek)",
+      "meaning_en": "applicant - candidate",
+      "meaning_uk": "претендент - кандидат",
+      "example": "Wir haben heute fünf *** eingeladen.",
+      "meaning_es": "candidato - aspirante"
+    },
+    {
+      "term": "die Bewerberin",
+      "type": "Noun",
+      "meaning_tr": "aday/başvuran (kadın) - iş başvurusu yapan (kadın)",
+      "meaning_en": "applicant (female) - female candidate",
+      "meaning_uk": "претендентка - кандидатка",
+      "example": "Die *** hat einen sehr guten Lebenslauf.",
+      "meaning_es": "candidata - aspirante (femenino)"
+    },
+    {
+      "term": "der Hörer",
+      "type": "Noun",
+      "meaning_tr": "dinleyici (erkek) - dinleyen (erkek)",
+      "meaning_en": "listener - auditor",
+      "meaning_uk": "слухач - слухаючий",
+      "example": "Viele *** rufen beim Radio an.",
+      "meaning_es": "oyente - escucha"
+    },
+    {
+      "term": "die Hörerin",
+      "type": "Noun",
+      "meaning_tr": "dinleyici (kadın) - dinleyen (kadın)",
+      "meaning_en": "listener (female) - female auditor",
+      "meaning_uk": "слухачка - слухаюча",
+      "example": "Eine *** hat die richtige Antwort gewusst.",
+      "meaning_es": "oyente (femenino) - escucha (femenina)"
+    },
+    {
+      "term": "restaurieren",
+      "type": "Verb",
+      "meaning_tr": "restore etmek - yenilemek - onarmak",
+      "meaning_en": "to restore - to refurbish",
+      "meaning_uk": "реставрувати - відновити",
+      "example": "Er will den alten Schrank fachgerecht ***.",
+      "meaning_es": "restaurar - rehabilitar"
+    },
+    {
+      "term": "ausbilden",
+      "type": "Verb",
+      "meaning_tr": "eğitmek - yetiştirmek",
+      "meaning_en": "to train - to educate - to apprentice",
+      "meaning_uk": "навчати - підготовити",
+      "example": "Unsere Firma wird dieses Jahr drei Lehrlinge ***.",
+      "meaning_es": "formar - capacitar - adiestrar"
+    },
+    {
+      "term": "das Gebäude",
+      "type": "Noun",
+      "meaning_tr": "bina - yapı",
+      "meaning_en": "building - structure",
+      "meaning_uk": "будівля - будівлиця",
+      "example": "Das historische *** wird gerade renoviert.",
+      "meaning_es": "edificio - construcción"
+    },
+    {
+      "term": "großartig",
+      "type": "Adjective",
+      "meaning_tr": "harika - muhteşem - şahane",
+      "meaning_en": "great - magnificent - splendid",
+      "meaning_uk": "чудовий - величний",
+      "example": "Das Konzert gestern war einfach ***.",
+      "meaning_es": "genial - magnífico - estupendo"
+    },
+    {
+      "term": "nun",
+      "type": "Adverb",
+      "meaning_tr": "şimdi - bu anda",
+      "meaning_en": "now - at present",
+      "meaning_uk": "тепер - зараз",
+      "example": "Was wollen wir *** machen?",
+      "meaning_es": "ahora - en este momento"
+    },
+    {
+      "term": "die Innenstadt",
+      "type": "Noun",
+      "meaning_tr": "şehir merkezi - kent merkezi",
+      "meaning_en": "city center - downtown",
+      "meaning_uk": "центр міста - середина міста",
+      "example": "In der *** gibt es viele Geschäfte.",
+      "meaning_es": "centro de la ciudad - centro urbano"
+    },
+    {
+      "term": "die Tischlerei",
+      "type": "Noun",
+      "meaning_tr": "marangozluk atölyesi - doğrama atölyesi",
+      "meaning_en": "joinery - carpentry shop",
+      "meaning_uk": "столярна майстерня - шейберська майстерня",
+      "example": "Die *** stellt hochwertige Fenster her.",
+      "meaning_es": "carpintería - ebanistería"
+    },
+    {
+      "term": "führen",
+      "type": "Verb",
+      "meaning_tr": "yönetmek - liderlik etmek - idare etmek",
+      "meaning_en": "to lead - to manage - to run (a business)",
+      "meaning_uk": "керувати - управляти",
+      "example": "Sie will das kleine Unternehmen erfolgreich ***.",
+      "meaning_es": "dirigir - gestionar - liderar"
+    },
+    {
+      "term": "eine Tischlerei führen",
+      "type": "Phrase",
+      "meaning_tr": "bir marangozhaneyi yönetmek - bir marangozhaneyi idare etmek",
+      "meaning_en": "to run a carpentry shop - to manage a joinery",
+      "meaning_uk": "керувати столярною майстернею - управляти шейберською майстернею",
+      "example": "Es ist viel Arbeit, *** *** zu ***.",
+      "meaning_es": "dirigir una carpintería - gestionar un taller de ebanistería"
+    },
+    {
+      "term": "der Familienbetrieb",
+      "type": "Noun",
+      "meaning_tr": "aile işletmesi - aile şirketi",
+      "meaning_en": "family business - family-run company",
+      "meaning_uk": "сімейне підприємство - сімейне підприятво",
+      "example": "Unser Restaurant ist ein echter ***.",
+      "meaning_es": "empresa familiar - negocio familiar"
+    },
+    {
+      "term": "der Handwerksbetrieb",
+      "type": "Noun",
+      "meaning_tr": "zanaat işletmesi - usta işiletmesi",
+      "meaning_en": "craft business - trade enterprise",
+      "meaning_uk": "ремісниче підприємство - товарне підприємство",
+      "example": "Ein kleiner *** hat oft treue Kunden.",
+      "meaning_es": "empresa de artesanía - negocio artesanal"
+    },
+    {
+      "term": "die Generation",
+      "type": "Noun",
+      "meaning_tr": "nesil - kuşak",
+      "meaning_en": "generation - cohort",
+      "meaning_uk": "покоління - рід",
+      "example": "Wir arbeiten hier schon in der dritten ***.",
+      "meaning_es": "generación - camada"
+    },
+    {
+      "term": "emtzern",
+      "type": "Verb",
+      "meaning_tr": "uzaklaştırmak/ayırmak",
+      "meaning_en": "to remove (technical term)",
+      "meaning_uk": "видаляти",
+      "example": "Man muss die alte Farbe vorsichtig ***."
+    },
+    {
+      "term": "der Restaurator",
+      "type": "Noun",
+      "meaning_tr": "restoratör (erkek) - onarcı (erkek)",
+      "meaning_en": "restorer - conservationist",
+      "meaning_uk": "реставратор - майстер з реставрації",
+      "example": "Der *** arbeitet an dem alten Gemälde.",
+      "meaning_es": "restaurador - conservador"
+    },
+    {
+      "term": "die Restauratorin",
+      "type": "Noun",
+      "meaning_tr": "restoratör (kadın) - onarcı (kadın)",
+      "meaning_en": "restorer (female) - female conservationist",
+      "meaning_uk": "реставраторка - майстерка з реставрації",
+      "example": "Die *** hat viel Erfahrung mit antiken Möbeln.",
+      "meaning_es": "restauradora - conservadora"
+    },
+    {
+      "term": "die Werkstatt",
+      "type": "Noun",
+      "meaning_tr": "atölye - imalathane",
+      "meaning_en": "workshop - repair shop",
+      "meaning_uk": "майстерня - семінарія",
+      "example": "In der *** riecht es nach frischem Holz.",
+      "meaning_es": "taller - obrador"
+    },
+    {
+      "term": "die Privatleute",
+      "type": "Noun",
+      "meaning_tr": "şahıslar - özel kişiler - halk",
+      "meaning_en": "private people - individuals - the public",
+      "meaning_uk": "приватні особи - приватні люди",
+      "example": "Viele *** lassen ihre Häuser renovieren.",
+      "meaning_es": "particulares - gente privada - público"
+    },
+    {
+      "term": "der Stadtrand",
+      "type": "Noun",
+      "meaning_tr": "şehir dışı - şehir kenarı",
+      "meaning_en": "outskirts - edge of the city",
+      "meaning_uk": "окраїна міста - примістя",
+      "example": "Wir wohnen lieber am ***, da ist es ruhiger.",
+      "meaning_es": "periferia - afueras de la ciudad"
+    }
   ]
 }

@@ -1,0 +1,114 @@
+{
+  "title": "Farben & Zahlen A1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "rot",
+      "type": "Farbe",
+      "meaning_tr": "kırmızı",
+      "meaning_en": "red",
+      "meaning_uk": "червоний",
+      "meaning_es": "rojo",
+      "example": "Die Blume ist ***rot***."
+    },
+    {
+      "term": "blau",
+      "type": "Farbe",
+      "meaning_tr": "mavi",
+      "meaning_en": "blue",
+      "meaning_uk": "синій",
+      "meaning_es": "azul",
+      "example": "Der Himmel ist ***blau***."
+    },
+    {
+      "term": "grün",
+      "type": "Farbe",
+      "meaning_tr": "yeşil",
+      "meaning_en": "green",
+      "meaning_uk": "зелений",
+      "meaning_es": "verde",
+      "example": "Ich mag die ***grünen*** Äpfel."
+    },
+    {
+      "term": "gelb",
+      "type": "Farbe",
+      "meaning_tr": "sarı",
+      "meaning_en": "yellow",
+      "meaning_uk": "жовтий",
+      "meaning_es": "amarillo",
+      "example": "Die Sonne ist ***gelb***."
+    },
+    {
+      "term": "schwarz",
+      "type": "Farbe",
+      "meaning_tr": "siyah",
+      "meaning_en": "black",
+      "meaning_uk": "чорний",
+      "meaning_es": "negro",
+      "example": "Die Katze ist ***schwarz***."
+    },
+    {
+      "term": "weiß",
+      "type": "Farbe",
+      "meaning_tr": "beyaz",
+      "meaning_en": "white",
+      "meaning_uk": "білий",
+      "meaning_es": "blanco",
+      "example": "Das Blatt Papier ist ***weiß***."
+    },
+    {
+      "term": "eins",
+      "type": "Zahl",
+      "meaning_tr": "bir",
+      "meaning_en": "one",
+      "meaning_uk": "один",
+      "meaning_es": "uno",
+      "example": "Ich habe ***eins*** Buch."
+    },
+    {
+      "term": "zwei",
+      "type": "Zahl",
+      "meaning_tr": "iki",
+      "meaning_en": "two",
+      "meaning_uk": "два",
+      "meaning_es": "dos",
+      "example": "Wir sehen ***zwei*** Hunde."
+    },
+    {
+      "term": "drei",
+      "type": "Zahl",
+      "meaning_tr": "üç",
+      "meaning_en": "three",
+      "meaning_uk": "три",
+      "meaning_es": "tres",
+      "example": "Sie kauft ***drei*** Brote."
+    },
+    {
+      "term": "vier",
+      "type": "Zahl",
+      "meaning_tr": "dört",
+      "meaning_en": "four",
+      "meaning_uk": "чотири",
+      "meaning_es": "cuatro",
+      "example": "Es gibt ***vier*** Stühle."
+    },
+    {
+      "term": "fünf",
+      "type": "Zahl",
+      "meaning_tr": "beş",
+      "meaning_en": "five",
+      "meaning_uk": "п'ять",
+      "meaning_es": "cinco",
+      "example": "Mutter hat ***fünf*** Kinder."
+    },
+    {
+      "term": "zehn",
+      "type": "Zahl",
+      "meaning_tr": "on",
+      "meaning_en": "ten",
+      "meaning_uk": "десять",
+      "meaning_es": "diez",
+      "example": "Ich lerne bis ***zehn***."
+    }
+  ]
+}

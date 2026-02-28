@@ -1,0 +1,609 @@
+{
+  "title": "Grundlagen & Begrüßung C1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Annäherung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yakınlaşma, yaklaşım",
+      "meaning_en": "approach, rapprochement",
+      "meaning_uk": "наближення, зближення",
+      "meaning_es": "acercamiento, aproximación",
+      "example": "Nach anfänglichen Differenzen kam es zu einer konstruktiven ***."
+    },
+    {
+      "term": "die Bekundung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "açıklama, ifade",
+      "meaning_en": "declaration, expression (of feeling)",
+      "meaning_uk": "висловлення, декларація",
+      "meaning_es": "declaración, manifestación",
+      "example": "Seine *** der Wertschätzung war sehr herzlich."
+    },
+    {
+      "term": "die Ehrerbietung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "saygı, hürmet",
+      "meaning_en": "reverence, homage",
+      "meaning_uk": "шана, поклоніння",
+      "meaning_es": "reverencia, homenaje",
+      "example": "Die Zuhörer empfingen den Geehrten mit tiefer ***."
+    },
+    {
+      "term": "die Verständigung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "anlayış, uzlaşma",
+      "meaning_en": "understanding, communication, agreement",
+      "meaning_uk": "взаєморозуміння, порозуміння",
+      "meaning_es": "entendimiento, comunicación",
+      "example": "Eine gelungene *** ist die Basis jeder Beziehung."
+    },
+    {
+      "term": "die Inaugenscheinnahme",
+      "type": "Substantiv (f)",
+      "meaning_tr": "gözden geçirme, inceleme",
+      "meaning_en": "inspection, personal viewing",
+      "meaning_uk": "огляд, інспекція",
+      "meaning_es": "inspección, examen visual",
+      "example": "Wir bitten um die *** des Vertrags vor der Unterzeichnung."
+    },
+    {
+      "term": "das Einvernehmen",
+      "type": "Substantiv (n)",
+      "meaning_tr": "uzlaşma, mutabakat",
+      "meaning_en": "agreement, concurrence, harmony",
+      "meaning_uk": "згода, порозуміння",
+      "meaning_es": "acuerdo, consenso",
+      "example": "Die Entscheidung wurde im *** aller Beteiligten getroffen."
+    },
+    {
+      "term": "die Verflechtung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "iç içe geçme, bağlantı",
+      "meaning_en": "interconnection, entanglement",
+      "meaning_uk": "переплетення, залучення",
+      "meaning_es": "entrelazamiento, interconexión",
+      "example": "Die wirtschaftlichen *** zwischen den beiden Nationen sind komplex."
+    },
+    {
+      "term": "der Respekt gebieten",
+      "type": "Phrase",
+      "meaning_tr": "saygı uyandırmak",
+      "meaning_en": "to command respect",
+      "meaning_uk": "надихати повагу",
+      "meaning_es": "inspirar respeto, exigir respeto",
+      "example": "Seine Erfahrung und Integrität *** er ***."
+    },
+    {
+      "term": "sich verständigen",
+      "type": "Verb",
+      "meaning_tr": "anlaşmak, haberleşmek",
+      "meaning_en": "to communicate, to come to an understanding",
+      "meaning_uk": "порозумітися, спілкуватися",
+      "meaning_es": "comunicarse, ponerse de acuerdo",
+      "example": "Wir müssen uns über die nächsten Schritte ***."
+    },
+    {
+      "term": "die Entschuldigung (formell)",
+      "type": "Substantiv (f)",
+      "meaning_tr": "özür (resmi)",
+      "meaning_en": "apology (formal)",
+      "meaning_uk": "вибачення (формальне)",
+      "meaning_es": "disculpa (formal)",
+      "example": "Er sprach eine formelle *** für die Verzögerung aus."
+    },
+    {
+      "term": "der Austausch (intellektuell)",
+      "type": "Substantiv (m)",
+      "meaning_tr": "müzakere, alışveriş (fikri)",
+      "meaning_en": "exchange (intellectual)",
+      "meaning_uk": "обмін (інтелектуальний)",
+      "meaning_es": "intercambio (intelectual)",
+      "example": "Der *** von Ideen war sehr anregend."
+    },
+    {
+      "term": "die Interaktion",
+      "type": "Substantiv (f)",
+      "meaning_tr": "etkileşim",
+      "meaning_en": "interaction",
+      "meaning_uk": "взаємодія",
+      "meaning_es": "interacción",
+      "example": "Die Qualität der *** bestimmt den Erfolg des Projekts."
+    },
+    {
+      "term": "die Unverbindlichkeit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "bağlayıcılık olmaması",
+      "meaning_en": "non-binding nature, informality",
+      "meaning_uk": "необов'язковість",
+      "meaning_es": "falta de compromiso, informalidad",
+      "example": "Das erste Treffen soll bewusst unter Zeichen der *** stehen."
+    },
+    {
+      "term": "die Huldigung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "saygı gösterme, övgü",
+      "meaning_en": "homage, tribute",
+      "meaning_uk": "вшанування, віддання шани",
+      "meaning_es": "homenaje, tributo",
+      "example": "Die Rede war eine lobende *** seiner Lebensleistung."
+    },
+    {
+      "term": "das Entgegenkommen",
+      "type": "Substantiv (n)",
+      "meaning_tr": "uzlaşmacılık, nezaket",
+      "meaning_en": "accommodation, courtesy, willingness to meet halfway",
+      "meaning_uk": "поступливість, люб'язність",
+      "meaning_es": "deferencia, complacencia",
+      "example": "Sein *** bei den Verhandlungen erleichterte die Einigung."
+    },
+    {
+      "term": "die Konversationsebene",
+      "type": "Substantiv (f)",
+      "meaning_tr": "iletişim düzeyi",
+      "meaning_en": "level of conversation",
+      "meaning_uk": "рівень розмови",
+      "meaning_es": "nivel de conversación",
+      "example": "Wir mussten unsere *** an das Publikum anpassen."
+    },
+    {
+      "term": "die Gebärde",
+      "type": "Substantiv (f)",
+      "meaning_tr": "jest, işaret",
+      "meaning_en": "gesture, sign",
+      "meaning_uk": "жест, знак",
+      "meaning_es": "gesto, seña",
+      "example": "Eine abfällige *** konnte man ihm nicht nachsagen."
+    },
+    {
+      "term": "die Vertrautheit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "samimiyet, yakınlık",
+      "meaning_en": "familiarity, intimacy",
+      "meaning_uk": "близькість, знайомість",
+      "meaning_es": "familiaridad, confianza",
+      "example": "Trotz der kurzen Bekanntschaft herrschte große ***."
+    },
+    {
+      "term": "die Prozedur",
+      "type": "Substantiv (f)",
+      "meaning_tr": "usul, yöntem",
+      "meaning_en": "procedure, formality",
+      "meaning_uk": "процедура, формальність",
+      "meaning_es": "procedimiento, formalidad",
+      "example": "Es ist wichtig, die korrekte *** bei der Begrüßung einzuhalten."
+    },
+    {
+      "term": "die Ambivalenz",
+      "type": "Substantiv (f)",
+      "meaning_tr": "iki anlamlılık, çelişki",
+      "meaning_en": "ambivalence",
+      "meaning_uk": "амбівалентність",
+      "meaning_es": "ambivalencia",
+      "example": "Seine anfängliche Reaktion zeigte eine deutliche ***."
+    },
+    {
+      "term": "das Entgegenwirken",
+      "type": "Substantiv (n)",
+      "meaning_tr": "karşı koyma, engelleme",
+      "meaning_en": "counteraction, opposing effect",
+      "meaning_uk": "протидія",
+      "meaning_es": "contrarresto, acción contraria",
+      "example": "Sofortiges *** war nötig, um die Eskalation zu verhindern."
+    },
+    {
+      "term": "die Höflichkeitsfloskel",
+      "type": "Substantiv (f)",
+      "meaning_tr": "nezaket sözü, kalıp ifade",
+      "meaning_en": "politeness formula, platitude",
+      "meaning_uk": "ввічлива фраза, кліше",
+      "meaning_es": "fórmula de cortesía",
+      "example": "Er nutzte die üblichen ***, um das Gespräch zu beenden."
+    },
+    {
+      "term": "die Konkretisierung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "somutlaştırma",
+      "meaning_en": "concreteness, specification",
+      "meaning_uk": "конкретизація",
+      "meaning_es": "concreción, especificación",
+      "example": "Nach der allgemeinen Besprechung folgte die *** der Aufgaben."
+    },
+    {
+      "term": "die Akzeptanz (sozial)",
+      "type": "Substantiv (f)",
+      "meaning_tr": "kabul görme, onay",
+      "meaning_en": "acceptance (social)",
+      "meaning_uk": "прийняття (соціальне)",
+      "meaning_es": "aceptación (social)",
+      "example": "Seine unorthodoxen Methoden fanden zunächst keine ***."
+    },
+    {
+      "term": "der Diskurs",
+      "type": "Substantiv (m)",
+      "meaning_tr": "söylem, tartışma",
+      "meaning_en": "discourse",
+      "meaning_uk": "дискурс",
+      "meaning_es": "discurso",
+      "example": "Der politische *** ist momentan sehr aufgeheizt."
+    },
+    {
+      "term": "die Divergenz",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sapma, ayrışma",
+      "meaning_en": "divergence, discrepancy",
+      "meaning_uk": "розбіжність, дивергенція",
+      "meaning_es": "divergencia, disparidad",
+      "example": "Es gab eine deutliche *** zwischen den Berichten der beiden Zeugen."
+    },
+    {
+      "term": "die Empathie",
+      "type": "Substantiv (f)",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "empatía",
+      "example": "Ohne *** können wir die Situation des anderen nicht verstehen."
+    },
+    {
+      "term": "die Kongruenz",
+      "type": "Substantiv (f)",
+      "meaning_tr": "uygunluk, örtüşme",
+      "meaning_en": "congruence",
+      "meaning_uk": "конгруентність, відповідність",
+      "meaning_es": "congruencia",
+      "example": "Die *** zwischen Wort und Tat ist ein Zeichen von Charakter."
+    },
+    {
+      "term": "die Reziprozität",
+      "type": "Substantiv (f)",
+      "meaning_tr": "karşılıklılık",
+      "meaning_en": "reciprocity",
+      "meaning_uk": "взаємність, реципрокність",
+      "meaning_es": "reciprocidad",
+      "example": "Beziehungen basieren auf dem Prinzip der ***."
+    },
+    {
+      "term": "die Nonchalance",
+      "type": "Substantiv (f)",
+      "meaning_tr": "kayıtsızlık, rahatlık",
+      "meaning_en": "nonchalance, casualness",
+      "meaning_uk": "невимушеність, недбалість",
+      "meaning_es": "chulería, indiferencia",
+      "example": "Er begegnete der Kritik mit bemerkenswerter ***."
+    },
+    {
+      "term": "die Floskelhaftigkeit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "klişeleşmiş olma",
+      "meaning_en": "cliché-ridden nature, formulaic quality",
+      "meaning_uk": "шаблонність, клішованість",
+      "meaning_es": "carácter tópico, formulismo",
+      "example": "Die *** seiner Rede machte sie wenig überzeugend."
+    },
+    {
+      "term": "die Diskretion wahren",
+      "type": "Phrase",
+      "meaning_tr": "gizliliği korumak",
+      "meaning_en": "to maintain discretion",
+      "meaning_uk": "зберігати дискретність",
+      "meaning_es": "guardar discreción",
+      "example": "Als Vertrauensperson müssen Sie unbedingt ***."
+    },
+    {
+      "term": "sich distanzieren",
+      "type": "Verb",
+      "meaning_tr": "uzak durmak, mesafeli olmak",
+      "meaning_en": "to distance oneself",
+      "meaning_uk": "дистанціюватися",
+      "meaning_es": "distanciarse",
+      "example": "Er musste *** von den extremen Ansichten seiner Kollegen."
+    },
+    {
+      "term": "die Konnotation",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yan anlam, çağrışım",
+      "meaning_en": "connotation",
+      "meaning_uk": "конотація",
+      "meaning_es": "connotación",
+      "example": "Das Wort hat positive ***, obwohl seine Definition neutral ist."
+    },
+    {
+      "term": "die Paraphrase",
+      "type": "Substantiv (f)",
+      "meaning_tr": "açıklama, yeniden ifade etme",
+      "meaning_en": "paraphrase",
+      "meaning_uk": "парафраз, переказ",
+      "meaning_es": "paráfrasis",
+      "example": "Bitte geben Sie mir die Kernaussage in einer *** wieder."
+    },
+    {
+      "term": "die Synthese",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sentez, birleştirme",
+      "meaning_en": "synthesis",
+      "meaning_uk": "синтез",
+      "meaning_es": "síntesis",
+      "example": "Die Diskussion führte zu einer neuen *** der Positionen."
+    },
+    {
+      "term": "der Vorbehalt",
+      "type": "Substantiv (m)",
+      "meaning_tr": "çekince, koşul",
+      "meaning_en": "reservation, caveat",
+      "meaning_uk": "застереження, сумнів",
+      "meaning_es": "reserva, salvedad",
+      "example": "Er stimmte zu, jedoch mit einem *** bezüglich der Finanzierung."
+    },
+    {
+      "term": "das Missverständnis",
+      "type": "Substantiv (n)",
+      "meaning_tr": "yanlış anlama",
+      "meaning_en": "misunderstanding",
+      "meaning_uk": "непорозуміння",
+      "meaning_es": "malentendido",
+      "example": "Ein kleines *** führte fast zu einem Streit."
+    },
+    {
+      "term": "die Abgrenzung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sınır koyma, ayırma",
+      "meaning_en": "demarcation, differentiation",
+      "meaning_uk": "розмежування, відмежування",
+      "meaning_es": "delimitación, diferenciación",
+      "example": "Die klare *** zwischen Fakten und Meinungen ist essenziell."
+    },
+    {
+      "term": "die Akklamation",
+      "type": "Substantiv (f)",
+      "meaning_tr": "tezahürat, alkış",
+      "meaning_en": "acclamation, loud approval",
+      "meaning_uk": "акламація, схвалення",
+      "meaning_es": "aclamación",
+      "example": "Der neue Vorsitzende wurde mit lauter *** gewählt."
+    },
+    {
+      "term": "die Eloquenz",
+      "type": "Substantiv (f)",
+      "meaning_tr": "hitabet, söz ustalığı",
+      "meaning_en": "eloquence",
+      "meaning_uk": "високомовність, красномовство",
+      "meaning_es": "eloquencia",
+      "example": "Seine *** überzeugte selbst seine Gegner."
+    },
+    {
+      "term": "die Implikation",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ima, çıkarım",
+      "meaning_en": "implication, consequence",
+      "meaning_uk": "імплікація, наслідок",
+      "meaning_es": "implicación, consecuencia",
+      "example": "Die *** dieser Entscheidung sind noch nicht absehbar."
+    },
+    {
+      "term": "die Persuasion",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ikna etme, telkin",
+      "meaning_en": "persuasion",
+      "meaning_uk": "переконання",
+      "meaning_es": "persuasión",
+      "example": "Er setzte auf reine *** statt auf Zwang."
+    },
+    {
+      "term": "das Resümee",
+      "type": "Substantiv (n)",
+      "meaning_tr": "özet, sonuç",
+      "meaning_en": "summary, conclusion",
+      "meaning_uk": "резюме, підсумок",
+      "meaning_es": "resumen, conclusión",
+      "example": "Zum Schluss zog er ein kurzes *** aus der Debatte."
+    },
+    {
+      "term": "die Ambivalenz verdeutlichen",
+      "type": "Phrase",
+      "meaning_tr": "çift anlamlılığı açıklığa kavuşturmak",
+      "meaning_en": "to clarify the ambivalence",
+      "meaning_uk": "уточнити амбівалентність",
+      "meaning_es": "clarificar la ambivalencia",
+      "example": "Wir müssen diese widersprüchlichen Gefühle ***."
+    },
+    {
+      "term": "sich verständnisvoll zeigen",
+      "type": "Phrase",
+      "meaning_tr": "anlayışlı davranmak",
+      "meaning_en": "to show understanding",
+      "meaning_uk": "проявляти розуміння",
+      "meaning_es": "mostrar comprensión",
+      "example": "In dieser schwierigen Situation ist es wichtig, ***."
+    },
+    {
+      "term": "die Formalität lockern",
+      "type": "Phrase",
+      "meaning_tr": "resmiyeti gevşetmek",
+      "meaning_en": "to loosen the formality",
+      "meaning_uk": "пом'якшити формальність",
+      "meaning_es": "relajar la formalidad",
+      "example": "Nach dem ersten Kaffee konnten wir die ***."
+    },
+    {
+      "term": "die Konzession",
+      "type": "Substantiv (f)",
+      "meaning_tr": "taviz, ödün",
+      "meaning_en": "concession",
+      "meaning_uk": "поступка, концесія",
+      "meaning_es": "concesión",
+      "example": "Ohne gegenseitige *** wird keine Einigung erzielt."
+    },
+    {
+      "term": "das Einleitungsritual",
+      "type": "Substantiv (n)",
+      "meaning_tr": "başlangıç ritüeli",
+      "meaning_en": "introductory ritual",
+      "meaning_uk": "вступний ритуал",
+      "meaning_es": "ritual de introducción",
+      "example": "Jede Sitzung begann mit einem kurzen ***."
+    },
+    {
+      "term": "die Nonverbalität",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sözsüz iletişim",
+      "meaning_en": "non-verbal communication",
+      "meaning_uk": "невербальність",
+      "meaning_es": "no verbalidad",
+      "example": "Die *** verriet mehr als seine Worte."
+    },
+    {
+      "term": "die Intention",
+      "type": "Substantiv (f)",
+      "meaning_tr": "niyet",
+      "meaning_en": "intention",
+      "meaning_uk": "намір, інтенція",
+      "meaning_es": "intención",
+      "example": "Es ist wichtig, die wahre *** hinter der Anfrage zu erkennen."
+    },
+    {
+      "term": "der Konsens",
+      "type": "Substantiv (m)",
+      "meaning_tr": "fikir birliği, uzlaşma",
+      "meaning_en": "consensus",
+      "meaning_uk": "консенсус",
+      "meaning_es": "consenso",
+      "example": "Wir strebten einen breiten *** aller Fraktionen an."
+    },
+    {
+      "term": "die Diskretion",
+      "type": "Substantiv (f)",
+      "meaning_tr": "gizlilik, tedbirlilik",
+      "meaning_en": "discretion",
+      "meaning_uk": "дискретність",
+      "meaning_es": "discreción",
+      "example": "Er bat um absolute *** bezüglich des Meetings."
+    },
+    {
+      "term": "die Nuance",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ton, ince fark",
+      "meaning_en": "nuance",
+      "meaning_uk": "нюанс",
+      "meaning_es": "matiz, sutileza",
+      "example": "Nur geschulte Ohren können diese feine *** im Tonfall erkennen."
+    },
+    {
+      "term": "das Appellativ",
+      "type": "Substantiv (n)",
+      "meaning_tr": "hitap şekli",
+      "meaning_en": "appellation, term of address",
+      "meaning_uk": "апелятив, звертання",
+      "meaning_es": "apelativo",
+      "example": "Die Wahl des richtigen *** ist in diesem kulturellen Kontext entscheidend."
+    },
+    {
+      "term": "die Relativierung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "göreli hale getirme, küçümseme",
+      "meaning_en": "relativization, contextualization",
+      "meaning_uk": "релятивізація",
+      "meaning_es": "relativización",
+      "example": "Seine drastische Kritik bedurfte einer sofortigen ***."
+    },
+    {
+      "term": "die Interpersonelle",
+      "type": "Adjektiv/Substantiv (f)",
+      "meaning_tr": "kişilerarası",
+      "meaning_en": "interpersonal",
+      "meaning_uk": "міжперсональний",
+      "meaning_es": "interpersonal",
+      "example": "Die *** Kommunikation brach schnell ab."
+    },
+    {
+      "term": "das Entschuldigungsschreiben",
+      "type": "Substantiv (n)",
+      "meaning_tr": "özür mektubu",
+      "meaning_en": "letter of apology",
+      "meaning_uk": "лист з вибаченнями",
+      "meaning_es": "carta de disculpa",
+      "example": "Er sandte ein formelles *** an die Geschäftsleitung."
+    },
+    {
+      "term": "die Deeskalation",
+      "type": "Substantiv (f)",
+      "meaning_tr": "gerilimi düşürme",
+      "meaning_en": "de-escalation",
+      "meaning_uk": "деескалація",
+      "meaning_es": "desescalada",
+      "example": "Seine ruhige Art trug zur *** der Situation bei."
+    },
+    {
+      "term": "die Explizierung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "açıkça belirtme",
+      "meaning_en": "explicit statement, clarification",
+      "meaning_uk": "експлікація, пояснення",
+      "meaning_es": "explicación, explicitación",
+      "example": "Nach der *** seiner Absichten gab es keine Zweifel mehr."
+    },
+    {
+      "term": "die Verve",
+      "type": "Substantiv (f)",
+      "meaning_tr": "coşku, canlılık",
+      "meaning_en": "verve, enthusiasm",
+      "meaning_uk": "запал, енергія",
+      "meaning_es": "brío, entusiasmo",
+      "example": "Sie präsentierte ihre Ideen mit neuer ***."
+    },
+    {
+      "term": "die Zurückhaltung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "çekingenlik, ihtiyat",
+      "meaning_en": "restraint, reserve",
+      "meaning_uk": "стриманість, резерв",
+      "meaning_es": "reserva, moderación",
+      "example": "Sein anfängliches Schweigen war Ausdruck seiner ***."
+    },
+    {
+      "term": "die Interjektion",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ünlem",
+      "meaning_en": "interjection",
+      "meaning_uk": "вигук, інтер'єкція",
+      "meaning_es": "interjección",
+      "example": "Ein überraschtes 'Ach!' ist eine klassische ***."
+    },
+    {
+      "term": "die Befangenheit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "tedirginlik, önyargı",
+      "meaning_en": "bias, awkwardness, reserve",
+      "meaning_uk": "упередженість, скутість",
+      "meaning_es": "parcialidad, timidez",
+      "example": "Er überwand seine anfängliche *** schnell."
+    },
+    {
+      "term": "die Artikulation",
+      "type": "Substantiv (f)",
+      "meaning_tr": "telaffuz, ifade",
+      "meaning_en": "articulation, expression",
+      "meaning_uk": "артикуляція, висловлення",
+      "meaning_es": "articulación, expresión",
+      "example": "Die klare *** seiner Worte war beeindruckend."
+    },
+    {
+      "term": "die Konfrontation (verbal)",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yüzleşme",
+      "meaning_en": "confrontation (verbal)",
+      "meaning_uk": "конфронтація",
+      "meaning_es": "confrontación",
+      "example": "Die direkte verbale *** musste vermieden werden."
+    },
+    {
+      "term": "die Versöhnung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "barışma",
+      "meaning_en": "reconciliation",
+      "meaning_uk": "примирення",
+      "meaning_es": "reconciliación",
+      "example": "Ein ehrliches Gespräch führte zur ***."
+    }
+  ]
+}

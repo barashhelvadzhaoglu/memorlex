@@ -1,0 +1,275 @@
+{
+  "title": "Familie & Beziehungen B1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "der Angehörige",
+      "type": "Nomen, maskulin",
+      "meaning_tr": "qohul",
+      "meaning_en": "relative, family member",
+      "meaning_uk": "родич",
+      "meaning_es": "pariente",
+      "example": "Er kümmert sich liebevoll um seine ***."
+    },
+    {
+      "term": "die Verwandtschaft",
+      "type": "Nomen, feminin",
+      "meaning_tr": "qohumluq",
+      "meaning_en": "kinship, relatives (as a group)",
+      "meaning_uk": "родичі (сукупність)",
+      "meaning_es": "parentesco, parientes",
+      "example": "Die ganze *** feierte Weihnachten zusammen."
+    },
+    {
+      "term": "der Ehepartner",
+      "type": "Nomen, maskulin",
+      "meaning_tr": "ər yoldaşı",
+      "meaning_en": "spouse",
+      "meaning_uk": "супруг/супруга",
+      "meaning_es": "cónyuge",
+      "example": "Sie ist die erste Person, die er nach der Arbeit anruft, sein ***."
+    },
+    {
+      "term": "ledig",
+      "type": "Adjektiv",
+      "meaning_tr": "subay",
+      "meaning_en": "single (unmarried)",
+      "meaning_uk": "неодружений/незаміжня",
+      "meaning_es": "soltero/a",
+      "example": "Er ist 35 und immer noch ***."
+    },
+    {
+      "term": "verheiratet",
+      "type": "Adjektiv",
+      "meaning_tr": "evli",
+      "meaning_en": "married",
+      "meaning_uk": "одружений/заміжня",
+      "meaning_es": "casado/a",
+      "example": "Sind Sie geschieden oder noch ***?"
+    },
+    {
+      "term": "geschieden",
+      "type": "Adjektiv",
+      "meaning_tr": "boşanmış",
+      "meaning_en": "divorced",
+      "meaning_uk": "розлучений/розлучена",
+      "meaning_es": "divorciado/a",
+      "example": "Nach zehn Jahren Ehe ließen sie sich ***."
+    },
+    {
+      "term": "die Schwiegereltern",
+      "type": "Nomen, Plural",
+      "meaning_tr": "qayınana-qayınata",
+      "meaning_en": "parents-in-law",
+      "meaning_uk": "теща/свекор (батьки дружини/чоловіка)",
+      "meaning_es": "suegros",
+      "example": "Wir besuchen unsere *** am Wochenende."
+    },
+    {
+      "term": "der Schwager / die Schwägerin",
+      "type": "Nomen",
+      "meaning_tr": "qayn/qaynanı",
+      "meaning_en": "brother-in-law / sister-in-law",
+      "meaning_uk": "шурин/зовиця або брат/сестра дружини/чоловіка",
+      "meaning_es": "cuñado/a",
+      "example": "Mein *** kommt uns nächste Woche besuchen."
+    },
+    {
+      "term": "der Neffe / die Nichte",
+      "type": "Nomen",
+      "meaning_tr": "filə / bacıoğlu qızı",
+      "meaning_en": "nephew / niece",
+      "meaning_uk": "племінник / племінниця",
+      "meaning_es": "sobrino/a",
+      "example": "Ich habe zwei *** und drei Nichten."
+    },
+    {
+      "term": "der Cousin / die Cousine",
+      "type": "Nomen",
+      "meaning_tr": "əmiuşağı / bibişaqısı",
+      "meaning_en": "cousin (male/female)",
+      "meaning_uk": "двоюрідний брат / двоюрідна сестра",
+      "meaning_es": "primo/a",
+      "example": "Meine *** wohnt in Berlin."
+    },
+    {
+      "term": "die Patchworkfamilie",
+      "type": "Nomen, feminin",
+      "meaning_tr": "yamaq ailəsi",
+      "meaning_en": "blended family, patchwork family",
+      "meaning_uk": "змішана родина",
+      "meaning_es": "familia ensamblada",
+      "example": "Nach der Scheidung gründeten beide eine neue ***."
+    },
+    {
+      "term": "alleinerziehend",
+      "type": "Adjektiv",
+      "meaning_tr": "tək valideynli",
+      "meaning_en": "single-parent",
+      "meaning_uk": "один виховує дитину",
+      "meaning_es": "monoparental",
+      "example": "Sie ist *** und arbeitet Vollzeit."
+    },
+    {
+      "term": "sich trennen",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "ayrılmaq",
+      "meaning_en": "to separate (as a couple)",
+      "meaning_uk": "розлучатися, розходитися",
+      "meaning_es": "separarse",
+      "example": "Nach dem Streit haben sie beschlossen, ***."
+    },
+    {
+      "term": "sich scheiden lassen",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "boşanmaq",
+      "meaning_en": "to get divorced",
+      "meaning_uk": "розлучатися (офіційно)",
+      "meaning_es": "divorciarse",
+      "example": "Sie haben ihre Scheidung letzte Woche offiziell ***."
+    },
+    {
+      "term": "die Schwangerschaft",
+      "type": "Nomen, feminin",
+      "meaning_en": "pregnancy",
+      "meaning_uk": "вагітність",
+      "meaning_es": "embarazo",
+      "example": "Die *** dauerte neun Monate."
+    },
+    {
+      "term": "das Neugeborene",
+      "type": "Nomen, Neutrum",
+      "meaning_tr": "yeni doğan",
+      "meaning_en": "newborn baby",
+      "meaning_uk": "новонароджений",
+      "meaning_es": "recién nacido",
+      "example": "Das *** schläft meistens."
+    },
+    {
+      "term": "adoptieren",
+      "type": "Verb",
+      "meaning_tr": "övladaq götürmək",
+      "meaning_en": "to adopt",
+      "meaning_uk": "усиновлювати",
+      "meaning_es": "adoptar",
+      "example": "Sie haben sich entschieden, ein Kind ***."
+    },
+    {
+      "term": "die Patentante / der Pate",
+      "type": "Nomen",
+      "meaning_tr": "xa-qardaş (qadın/kişi)",
+      "meaning_en": "godmother / godfather",
+      "meaning_uk": "хрещена мати / хрещений батько",
+      "meaning_es": "madrina / padrino",
+      "example": "Wer soll die *** eures Kindes werden?"
+    },
+    {
+      "term": "die Bindung",
+      "type": "Nomen, feminin",
+      "meaning_tr": "bağ",
+      "meaning_en": "bond, connection",
+      "meaning_uk": "зв'язок, зв'язок",
+      "meaning_es": "vínculo, lazo",
+      "example": "Die *** zwischen Mutter und Kind ist sehr stark."
+    },
+    {
+      "term": "sich einigen (auf)",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "razılaşmaq",
+      "meaning_en": "to agree on (a decision)",
+      "meaning_uk": "домовитися про",
+      "meaning_es": "ponerse de acuerdo (en)",
+      "example": "Die Eltern mussten *** den Umgangsregelungen."
+    },
+    {
+      "term": "die Trennung",
+      "type": "Nomen, feminin",
+      "meaning_tr": "ayrılma",
+      "meaning_en": "separation (of a couple)",
+      "meaning_uk": "розлука, розрив",
+      "meaning_es": "separación",
+      "example": "Die *** fiel den Kindern schwer."
+    },
+    {
+      "term": "die Trauung",
+      "type": "Nomen, feminin",
+      "meaning_tr": "toy mərasimi",
+      "meaning_en": "wedding ceremony",
+      "meaning_uk": "вінчання, весільний обряд",
+      "meaning_es": "ceremonia nupcial",
+      "example": "Die *** findet am Samstag statt."
+    },
+    {
+      "term": "die Geburtsurkunde",
+      "type": "Nomen, feminin",
+      "meaning_tr": "doğum sənədi",
+      "meaning_en": "birth certificate",
+      "meaning_uk": "свідоцтво про народження",
+      "meaning_es": "certificado de nacimiento",
+      "example": "Für die Anmeldung brauchen wir die ***."
+    },
+    {
+      "term": "die Erziehung",
+      "type": "Nomen, feminin",
+      "meaning_tr": "tərbiyə",
+      "meaning_en": "upbringing, education",
+      "meaning_uk": "виховання",
+      "meaning_es": "crianza, educación",
+      "example": "Die *** der Kinder ist sehr wichtig für sie."
+    },
+    {
+      "term": "der Lebensgefährte",
+      "type": "Nomen, maskulin",
+      "meaning_tr": "həyat yoldaşı (qeyri-rəsmi)",
+      "meaning_en": "life partner, companion (unmarried)",
+      "meaning_uk": "співмешканець, цивільний чоловік",
+      "meaning_es": "compañero/a de vida",
+      "example": "Sie lebt seit fünf Jahren mit ihrem *** zusammen."
+    },
+    {
+      "term": "die Scheidungspapiere",
+      "type": "Nomen, Plural",
+      "meaning_tr": "boşanma sənədləri",
+      "meaning_en": "divorce papers",
+      "meaning_uk": "документи на розлучення",
+      "meaning_es": "papeles de divorcio",
+      "example": "Er muss nur noch die *** unterschreiben."
+    },
+    {
+      "term": "der Unterhalt",
+      "type": "Nomen, maskulin",
+      "meaning_tr": "aliment",
+      "meaning_en": "alimony, child support",
+      "meaning_uk": "утримання (аліменти)",
+      "meaning_es": "manutención",
+      "example": "Er zahlt jeden Monat *** für seine Kinder."
+    },
+    {
+      "term": "der Schwur",
+      "type": "Nomen, maskulin",
+      "meaning_tr": "and",
+      "meaning_en": "oath, vow (often marriage vow)",
+      "meaning_uk": "клятва, обітниця",
+      "meaning_es": "juramento",
+      "example": "Beim Ja-Wort geben sie sich einen feierlichen ***."
+    },
+    {
+      "term": "die Enkelkinder",
+      "type": "Nomen, Plural",
+      "meaning_tr": "nəvələr",
+      "meaning_en": "grandchildren",
+      "meaning_uk": "онуки",
+      "meaning_es": "nietos",
+      "example": "Ihre *** besuchen sie jedes Wochenende."
+    },
+    {
+      "term": "die Sippe",
+      "type": "Nomen, feminin",
+      "meaning_tr": "tayfa, böyük qohumluq",
+      "meaning_en": "clan, large extended family",
+      "meaning_uk": "рід, велика родина",
+      "meaning_es": "linaje, clan",
+      "example": "Die ganze *** versammelt sich zum Ahnenforschen."
+    }
+  ]
+}

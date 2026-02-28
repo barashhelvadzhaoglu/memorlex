@@ -1,0 +1,186 @@
+{
+  "title": "Essen & Trinken A2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "das Brot",
+      "type": "Noun (n)",
+      "meaning_tr": "şarküteri",
+      "meaning_en": "the bread",
+      "meaning_uk": "хліб",
+      "meaning_es": "el pan",
+      "example": "Ich möchte ein frisches ***Brot*** kaufen."
+    },
+    {
+      "term": "der Käse",
+      "type": "Noun (m)",
+      "meaning_tr": "peynir",
+      "meaning_en": "the cheese",
+      "meaning_uk": "сир",
+      "meaning_es": "el queso",
+      "example": "Magst du ***Käse*** auf deinem Sandwich?"
+    },
+    {
+      "term": "das Fleisch",
+      "type": "Noun (n)",
+      "meaning_tr": "et",
+      "meaning_en": "the meat",
+      "meaning_uk": "м'ясо",
+      "meaning_es": "la carne",
+      "example": "Wir essen heute Abend kein ***Fleisch***."
+    },
+    {
+      "term": "der Fisch",
+      "type": "Noun (m)",
+      "meaning_tr": "balık",
+      "meaning_en": "the fish",
+      "meaning_uk": "риба",
+      "meaning_es": "el pescado",
+      "example": "Der ***Fisch*** schmeckt sehr gut."
+    },
+    {
+      "term": "das Gemüse",
+      "type": "Noun (n)",
+      "meaning_tr": "sebze",
+      "meaning_en": "the vegetables",
+      "meaning_uk": "овочі",
+      "meaning_es": "las verduras",
+      "example": "Ich brauche mehr ***Gemüse*** für den Salat."
+    },
+    {
+      "term": "das Obst",
+      "type": "Noun (n)",
+      "meaning_tr": "meyve",
+      "meaning_en": "the fruit",
+      "meaning_uk": "фрукти",
+      "meaning_es": "la fruta",
+      "example": "Isst du jeden Tag ***Obst***?"
+    },
+    {
+      "term": "die Milch",
+      "type": "Noun (f)",
+      "meaning_tr": "süt",
+      "meaning_en": "the milk",
+      "meaning_uk": "молоко",
+      "meaning_es": "la leche",
+      "example": "Ich trinke meine Kaffeepause mit ***Milch***."
+    },
+    {
+      "term": "das Ei",
+      "type": "Noun (n)",
+      "meaning_tr": "yumurta",
+      "meaning_en": "the egg",
+      "meaning_uk": "яйце",
+      "meaning_es": "el huevo",
+      "example": "Ich habe zwei ***Eier*** zum Frühstück."
+    },
+    {
+      "term": "die Kartoffel",
+      "type": "Noun (f)",
+      "meaning_tr": "patates",
+      "meaning_en": "the potato",
+      "meaning_uk": "картопля",
+      "meaning_es": "la patata",
+      "example": "Kochen wir ***Kartoffeln*** als Beilage?"
+    },
+    {
+      "term": "die Tomate",
+      "type": "Noun (f)",
+      "meaning_tr": "domates",
+      "meaning_en": "the tomato",
+      "meaning_uk": "помідор",
+      "meaning_es": "el tomate",
+      "example": "Ich mag ***Tomaten*** im Salat."
+    },
+    {
+      "term": "die Zwiebel",
+      "type": "Noun (f)",
+      "meaning_tr": "soğan",
+      "meaning_en": "the onion",
+      "meaning_uk": "цибуля",
+      "meaning_es": "la cebolla",
+      "example": "Für die Suppe brauche ich eine ***Zwiebel***."
+    },
+    {
+      "term": "der Reis",
+      "type": "Noun (m)",
+      "meaning_tr": "pirinç",
+      "meaning_en": "the rice",
+      "meaning_uk": "рис",
+      "meaning_es": "el arroz",
+      "example": "Als Hauptgericht gibt es Huhn mit ***Reis***."
+    },
+    {
+      "term": "die Wurst",
+      "type": "Noun (f)",
+      "meaning_tr": "sosis",
+      "meaning_en": "the sausage",
+      "meaning_uk": "ковбаса",
+      "meaning_es": "la salchicha",
+      "example": "Zum Abendessen essen wir ***Wurst*** und Brot."
+    },
+    {
+      "term": "der Saft",
+      "type": "Noun (m)",
+      "meaning_tr": "meyve suyu",
+      "meaning_en": "the juice",
+      "meaning_uk": "сік",
+      "meaning_es": "el zumo",
+      "example": "Ich trinke gerne Orangensaft oder Apfel***saft***."
+    },
+    {
+      "term": "das Wasser",
+      "type": "Noun (n)",
+      "meaning_tr": "su",
+      "meaning_en": "the water",
+      "meaning_uk": "вода",
+      "meaning_es": "el agua",
+      "example": "Bitte bringen Sie mir ein Glas ***Wasser***."
+    },
+    {
+      "term": "der Kaffee",
+      "type": "Noun (m)",
+      "meaning_tr": "kahve",
+      "meaning_en": "the coffee",
+      "meaning_uk": "кава",
+      "meaning_es": "el café",
+      "example": "Möchtest du einen ***Kaffee*** trinken?"
+    },
+    {
+      "term": "der Tee",
+      "type": "Noun (m)",
+      "meaning_tr": "çay",
+      "meaning_en": "the tea",
+      "meaning_uk": "чай",
+      "meaning_es": "el té",
+      "example": "Ich trinke lieber grünen ***Tee***."
+    },
+    {
+      "term": "das Abendessen",
+      "type": "Noun (n)",
+      "meaning_tr": "akşam yemeği",
+      "meaning_en": "the dinner",
+      "meaning_uk": "вечеря",
+      "meaning_es": "la cena",
+      "example": "Wann gibt es heute ***Abendessen***?"
+    },
+    {
+      "term": "das Mittagessen",
+      "type": "Noun (n)",
+      "meaning_tr": "öğle yemeği",
+      "meaning_en": "the lunch",
+      "meaning_uk": "обід",
+      "meaning_es": "el almuerzo",
+      "example": "Wir essen um 13 Uhr ***Mittagessen***."
+    },
+    {
+      "term": "der Nachtisch",
+      "type": "Noun (m)",
+      "meaning_tr": "tatlı",
+      "meaning_en": "the dessert",
+      "meaning_uk": "десерт",
+      "meaning_es": "el postre",
+      "example": "Zum ***Nachtisch*** gibt es Kuchen."
+    }
+  ]
+}

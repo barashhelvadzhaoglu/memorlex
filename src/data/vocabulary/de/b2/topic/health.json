@@ -1,0 +1,384 @@
+{
+  "title": "Gesundheit & Krankheit B2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Genesung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "iyileşme",
+      "meaning_en": "recovery",
+      "meaning_uk": "відновлення",
+      "meaning_es": "recuperación",
+      "example": "Nach der Operation brauchte er einige Wochen für ***die Genesung***."
+    },
+    {
+      "term": "die Vorsorgeuntersuchung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "önleyici muayene",
+      "meaning_en": "preventive check-up",
+      "meaning_uk": "профілактичний огляд",
+      "meaning_es": "chequeo preventivo",
+      "example": "Regelmäßige ***Vorsorgeuntersuchungen*** sind wichtig, um Krankheiten frühzeitig zu erkennen."
+    },
+    {
+      "term": "chronisch",
+      "type": "Adjektiv",
+      "meaning_tr": "kronik",
+      "meaning_en": "chronic",
+      "meaning_uk": "хронічний",
+      "meaning_es": "crónico",
+      "example": "Er leidet an einer ***chronischen*** Erkrankung, die ständige Behandlung erfordert."
+    },
+    {
+      "term": "akut",
+      "type": "Adjektiv",
+      "meaning_tr": "akut, ani",
+      "meaning_en": "acute",
+      "meaning_uk": "гострий",
+      "meaning_es": "agudo",
+      "example": "Die Symptome der Grippe waren sehr ***akut*** und traten plötzlich auf."
+    },
+    {
+      "term": "die Nebenwirkung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "yan etki",
+      "meaning_en": "side effect",
+      "meaning_uk": "побічний ефект",
+      "meaning_es": "efecto secundario",
+      "example": "Eines der häufigsten ***Nebenwirkungen*** des Medikaments ist leichte Müdigkeit."
+    },
+    {
+      "term": "ansteckend",
+      "type": "Adjektiv",
+      "meaning_tr": "bulaşıcı",
+      "meaning_en": "contagious",
+      "meaning_uk": "заразний",
+      "meaning_es": "contagioso",
+      "example": "Bleiben Sie zu Hause, wenn Sie glauben, ***ansteckend*** zu sein."
+    },
+    {
+      "term": "die Immunität",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "bağışıklık",
+      "meaning_en": "immunity",
+      "meaning_uk": "імунітет",
+      "meaning_es": "inmunidad",
+      "example": "Nach der Impfung entwickelte er eine starke ***Immunität*** gegen das Virus."
+    },
+    {
+      "term": "die Rehabilitation",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "rehabilitasyon",
+      "meaning_en": "rehabilitation",
+      "meaning_uk": "реабілітація",
+      "meaning_es": "rehabilitación",
+      "example": "Die Physiotherapie ist ein wichtiger Teil seiner ***Rehabilitation***."
+    },
+    {
+      "term": "die Selbstheilungskräfte",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "vücudun kendini iyileştirme gücü",
+      "meaning_en": "self-healing powers",
+      "meaning_uk": "сили самовідновлення",
+      "meaning_es": "poderes de autocuración",
+      "example": "Der Arzt betonte, wie wichtig es sei, auf ***die Selbstheilungskräfte*** des Körpers zu vertrauen."
+    },
+    {
+      "term": "der Heilpraktiker",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "alternatif tıp uygulayıcısı",
+      "meaning_en": "naturopath/alternative practitioner",
+      "meaning_uk": "натуропат",
+      "meaning_es": "naturópata",
+      "example": "Viele Menschen suchen einen ***Heilpraktiker*** auf, wenn traditionelle Methoden nicht helfen."
+    },
+    {
+      "term": "die Erkrankung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "hastalık, rahatsızlık",
+      "meaning_en": "illness/disease",
+      "meaning_uk": "захворювання",
+      "meaning_es": "enfermedad",
+      "example": "Die ***Erkrankung*** wurde durch eine Blutuntersuchung bestätigt."
+    },
+    {
+      "term": "die Symptomatik",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "belirti tablosu",
+      "meaning_en": "symptomatology",
+      "meaning_uk": "симптоматика",
+      "meaning_es": "sintomatología",
+      "example": "Der Arzt analysierte die gesamte ***Symptomatik***, bevor er eine Diagnose stellte."
+    },
+    {
+      "term": "die Übertragung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "bulaşma, aktarım",
+      "meaning_en": "transmission/transfer",
+      "meaning_uk": "передача",
+      "meaning_es": "transmisión",
+      "example": "Die ***Übertragung*** des Virus erfolgt meist durch Tröpfcheninfektion."
+    },
+    {
+      "term": "die Belastbarkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "dayanıklılık, stres kapasitesi",
+      "meaning_en": "resilience/capacity to cope",
+      "meaning_uk": "стійкість",
+      "meaning_es": "resistencia/capacidad de afrontamiento",
+      "example": "Psychische ***Belastbarkeit*** ist in diesem Beruf von großer Bedeutung."
+    },
+    {
+      "term": "die Prävention",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "önleme, koruma",
+      "meaning_en": "prevention",
+      "meaning_uk": "профілактика",
+      "meaning_es": "prevención",
+      "example": "Gesunde Ernährung spielt eine Schlüsselrolle bei der ***Prävention*** von Herz-Kreislauf-Erkrankungen."
+    },
+    {
+      "term": "die Linderung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "hafifletme, dindirici",
+      "meaning_en": "relief/alleviation",
+      "meaning_uk": "полегшення",
+      "meaning_es": "alivio",
+      "example": "Die Salbe versprach schnelle ***Linderung*** der Hautirritationen."
+    },
+    {
+      "term": "die Nachsorge",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "takip bakımı",
+      "meaning_en": "aftercare",
+      "meaning_uk": "післядогляд",
+      "meaning_es": "cuidados posteriores",
+      "example": "Die ***Nachsorge*** nach dem Krankenhausaufenthalt ist entscheidend für eine vollständige Heilung."
+    },
+    {
+      "term": "die Langzeitfolge",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "uzun vadeli sonuç",
+      "meaning_en": "long-term consequence",
+      "meaning_uk": "довгострокові наслідки",
+      "meaning_es": "consecuencia a largo plazo",
+      "example": "Experten diskutieren noch die möglichen ***Langzeitfolgen*** dieser Infektion."
+    },
+    {
+      "term": "der Heilungsprozess",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "iyileşme süreci",
+      "meaning_en": "healing process",
+      "meaning_uk": "процес одужання",
+      "meaning_es": "proceso de curación",
+      "example": "Geduld ist während ***des Heilungsprozesses*** unerlässlich."
+    },
+    {
+      "term": "die Verabreichung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "verme, uygulama (ilaç)",
+      "meaning_en": "administration (of medication)",
+      "meaning_uk": "введення/призначення",
+      "meaning_es": "administración",
+      "example": "Die ***Verabreichung*** des Medikaments erfolgt zweimal täglich."
+    },
+    {
+      "term": "die Resilienz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "dayanıklılık, toparlanma gücü",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість (психологічна)",
+      "meaning_es": "resiliencia",
+      "example": "Seine hohe ***Resilienz*** half ihm, die schwere Krankheit zu überwinden."
+    },
+    {
+      "term": "die Remission",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "remisyon",
+      "meaning_en": "remission",
+      "meaning_uk": "ремісія",
+      "meaning_es": "remisión",
+      "example": "Der Patient befindet sich seit sechs Monaten in vollständiger ***Remission***."
+    },
+    {
+      "term": "die Pathologie",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "patoloji",
+      "meaning_en": "pathology",
+      "meaning_uk": "патологія",
+      "meaning_es": "patología",
+      "example": "Die Gewebeprobe wurde zur weiteren Analyse an ***die Pathologie*** geschickt."
+    },
+    {
+      "term": "der Heilungsgrad",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "iyileşme derecesi",
+      "meaning_en": "degree of healing",
+      "meaning_uk": "ступінь одужання",
+      "meaning_es": "grado de curación",
+      "example": "Der Arzt schätzte ***den Heilungsgrad*** der Wunde auf über 80 Prozent."
+    },
+    {
+      "term": "die Einnahme",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "alınması (ilaç)",
+      "meaning_en": "intake/taking (medicine)",
+      "meaning_uk": "прийом",
+      "meaning_es": "toma",
+      "example": "Die tägliche ***Einnahme*** des Vitamins ist zwingend erforderlich."
+    },
+    {
+      "term": "die Prophylaxe",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "koruyucu tedavi, profilaksi",
+      "meaning_en": "prophylaxis",
+      "meaning_uk": "профілактика",
+      "meaning_es": "profilaxis",
+      "example": "Zahnarztbesuche dienen hauptsächlich der ***Prophylaxe*** von Karies."
+    },
+    {
+      "term": "sich erholen",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "iyileşmek, toparlanmak",
+      "meaning_en": "to recover",
+      "meaning_uk": "відновлюватися",
+      "meaning_es": "recuperarse",
+      "example": "Nach der Grippe musste er sich zwei Tage lang ***erholen***."
+    },
+    {
+      "term": "die Genesungszeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "iyileşme süresi",
+      "meaning_en": "convalescence period",
+      "meaning_uk": "період одужання",
+      "meaning_es": "tiempo de convalecencia",
+      "example": "Die ***Genesungszeit*** für diese Art von Verletzung ist oft langwierig."
+    },
+    {
+      "term": "die Facharztpraxis",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "uzman doktor muayenehanesi",
+      "meaning_en": "specialist's practice",
+      "meaning_uk": "кабінет спеціаліста",
+      "meaning_es": "consulta de especialista",
+      "example": "Für die spezielle Behandlung überwies er mich an ***die Facharztpraxis*** für Kardiologie."
+    },
+    {
+      "term": "die Stabilität",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "istikrar, denge",
+      "meaning_en": "stability",
+      "meaning_uk": "стабільність",
+      "meaning_es": "estabilidad",
+      "example": "Sein Blutdruck hat sich nach der Behandlung stabilisiert und zeigt ***Stabilität***."
+    },
+    {
+      "term": "der Befund",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "tespit, bulgu (tıbbi)",
+      "meaning_en": "finding/report (medical)",
+      "meaning_uk": "висновок/результат обстеження",
+      "meaning_es": "hallazgo/informe",
+      "example": "Der Radiologe besprach ***den Befund*** des MRTs mit dem Patienten."
+    },
+    {
+      "term": "die Wechselwirkung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "etkileşim (ilaçlar arası)",
+      "meaning_en": "interaction (drug)",
+      "meaning_uk": "взаємодія",
+      "meaning_es": "interacción",
+      "example": "Man muss auf mögliche ***Wechselwirkungen*** zwischen den verschriebenen Medikamenten achten."
+    },
+    {
+      "term": "die Entzündung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "iltihaplanma, enfeksiyon",
+      "meaning_en": "inflammation",
+      "meaning_uk": "запалення",
+      "meaning_es": "inflamación",
+      "example": "Die rote Schwellung deutet auf eine ***Entzündung*** hin."
+    },
+    {
+      "term": "die Diagnose",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "teşhis",
+      "meaning_en": "diagnosis",
+      "meaning_uk": "діагноз",
+      "meaning_es": "diagnóstico",
+      "example": "Nach umfangreichen Tests konnte der Arzt endlich ***die Diagnose*** stellen."
+    },
+    {
+      "term": "die Erschöpfung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "tükenmişlik, bitkinlik",
+      "meaning_en": "exhaustion",
+      "meaning_uk": "виснаження",
+      "meaning_es": "agotamiento",
+      "example": "Nach der stressigen Arbeitsphase litt sie unter tiefer ***Erschöpfung***."
+    },
+    {
+      "term": "die Nachuntersuchung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kontrol muayenesi",
+      "meaning_en": "follow-up examination",
+      "meaning_uk": "повторний огляд",
+      "meaning_es": "examen de seguimiento",
+      "example": "Bitte vereinbaren Sie in vier Wochen einen Termin für ***die Nachuntersuchung***."
+    },
+    {
+      "term": "die Lebenserwartung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "yaşam beklentisi",
+      "meaning_en": "life expectancy",
+      "meaning_uk": "тривалість життя",
+      "meaning_es": "esperanza de vida",
+      "example": "Dank besserer medizinischer Versorgung steigt ***die Lebenserwartung*** weltweit."
+    },
+    {
+      "term": "behandlungsresistent",
+      "type": "Adjektiv",
+      "meaning_tr": "tedaviye dirençli",
+      "meaning_en": "treatment-resistant",
+      "meaning_uk": "резистентний до лікування",
+      "meaning_es": "resistente al tratamiento",
+      "example": "Die Ärzte kämpfen gegen ***behandlungsresistente*** Bakterienstämme."
+    },
+    {
+      "term": "der Verzicht",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "vazgeçme, feragat",
+      "meaning_en": "giving up/abstinence",
+      "meaning_uk": "відмова",
+      "meaning_es": "renuncia/abstinencia",
+      "example": "Gesundheit erfordert oft ***den Verzicht*** auf ungesunde Gewohnheiten."
+    },
+    {
+      "term": "die Unverträglichkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "toleranssızlık",
+      "meaning_en": "intolerance (allergy/food)",
+      "meaning_uk": "непереносимість",
+      "meaning_es": "intolerancia",
+      "example": "Er hat eine starke ***Unverträglichkeit*** gegenüber Gluten."
+    },
+    {
+      "term": "die Latenzphase",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "gizli dönem",
+      "meaning_en": "latency phase",
+      "meaning_uk": "латентна фаза",
+      "meaning_es": "fase de latencia",
+      "example": "In ***der Latenzphase*** zeigt die Krankheit noch keine offensichtlichen Symptome."
+    },
+    {
+      "term": "die Heilmethode",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "tedavi yöntemi",
+      "meaning_en": "healing method/therapy",
+      "meaning_uk": "метод лікування",
+      "meaning_es": "método de curación",
+      "example": "Die moderne Medizin bietet viele verschiedene ***Heilmethoden*** an."
+    }
+  ]
+}

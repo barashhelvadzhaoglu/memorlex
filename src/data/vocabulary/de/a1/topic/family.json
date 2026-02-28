@@ -1,0 +1,114 @@
+{
+  "title": "Familie & Beziehungen A1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Familie",
+      "type": "Noun (f)",
+      "meaning_tr": "aile",
+      "meaning_en": "family",
+      "meaning_uk": "сім'я",
+      "meaning_es": "familia",
+      "example": "Ich habe eine große ***Familie***."
+    },
+    {
+      "term": "der Vater",
+      "type": "Noun (m)",
+      "meaning_tr": "baba",
+      "meaning_en": "father",
+      "meaning_uk": "батько",
+      "meaning_es": "padre",
+      "example": "Mein ***Vater*** arbeitet viel."
+    },
+    {
+      "term": "die Mutter",
+      "type": "Noun (f)",
+      "meaning_tr": "anne",
+      "meaning_en": "mother",
+      "meaning_uk": "мати",
+      "meaning_es": "madre",
+      "example": "Meine ***Mutter*** kocht gut."
+    },
+    {
+      "term": "der Bruder",
+      "type": "Noun (m)",
+      "meaning_tr": "erkek kardeş",
+      "meaning_en": "brother",
+      "meaning_uk": "брат",
+      "meaning_es": "hermano",
+      "example": "Ich habe einen ***Bruder***."
+    },
+    {
+      "term": "die Schwester",
+      "type": "Noun (f)",
+      "meaning_tr": "kız kardeş",
+      "meaning_en": "sister",
+      "meaning_uk": "сестра",
+      "meaning_es": "hermana",
+      "example": "Sie hat zwei ***Schwestern***."
+    },
+    {
+      "term": "das Kind",
+      "type": "Noun (n)",
+      "meaning_tr": "çocuk",
+      "meaning_en": "child",
+      "meaning_uk": "дитина",
+      "meaning_es": "niño/a",
+      "example": "Wir haben zwei ***Kinder***."
+    },
+    {
+      "term": "die Eltern",
+      "type": "Noun (pl)",
+      "meaning_tr": "ebeveynler",
+      "meaning_en": "parents",
+      "meaning_uk": "батьки",
+      "meaning_es": "padres",
+      "example": "Meine ***Eltern*** wohnen in Berlin."
+    },
+    {
+      "term": "der Freund",
+      "type": "Noun (m)",
+      "meaning_tr": "erkek arkadaş",
+      "meaning_en": "friend (male)",
+      "meaning_uk": "друг",
+      "meaning_es": "amigo",
+      "example": "Er ist mein bester ***Freund***."
+    },
+    {
+      "term": "die Freundin",
+      "type": "Noun (f)",
+      "meaning_tr": "kız arkadaş",
+      "meaning_en": "friend (female)",
+      "meaning_uk": "подруга",
+      "meaning_es": "amiga",
+      "example": "Das ist meine neue ***Freundin***."
+    },
+    {
+      "term": "heiraten",
+      "type": "Verb",
+      "meaning_tr": "evlenmek",
+      "meaning_en": "to marry",
+      "meaning_uk": "одружуватися/виходити заміж",
+      "meaning_es": "casarse",
+      "example": "Sie wollen nächstes Jahr ***heiraten***."
+    },
+    {
+      "term": "verheiratet sein",
+      "type": "Phrase",
+      "meaning_tr": "evli olmak",
+      "meaning_en": "to be married",
+      "meaning_uk": "бути одруженим/заміжньою",
+      "meaning_es": "estar casado/a",
+      "example": "Sind Sie schon ***verheiratet***?"
+    },
+    {
+      "term": "allein",
+      "type": "Adverb",
+      "meaning_tr": "yalnız",
+      "meaning_en": "alone",
+      "meaning_uk": "сам/сама",
+      "meaning_es": "solo/a",
+      "example": "Er lebt ***allein***."
+    }
+  ]
+}

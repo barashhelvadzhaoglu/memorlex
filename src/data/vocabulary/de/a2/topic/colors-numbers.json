@@ -1,0 +1,186 @@
+{
+  "title": "Farben & Zahlen A2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "rot",
+      "type": "Adjektiv",
+      "meaning_tr": "kırmızı",
+      "meaning_en": "red",
+      "meaning_uk": "червоний",
+      "meaning_es": "rojo",
+      "example": "Die Äpfel sind ***rot***."
+    },
+    {
+      "term": "blau",
+      "type": "Adjektiv",
+      "meaning_tr": "mavi",
+      "meaning_en": "blue",
+      "meaning_uk": "синій",
+      "meaning_es": "azul",
+      "example": "Der Himmel ist heute ***blau***."
+    },
+    {
+      "term": "grün",
+      "type": "Adjektiv",
+      "meaning_tr": "yeşil",
+      "meaning_en": "green",
+      "meaning_uk": "зелений",
+      "meaning_es": "verde",
+      "example": "Ich habe eine ***grüne*** Tasche."
+    },
+    {
+      "term": "gelb",
+      "type": "Adjektiv",
+      "meaning_tr": "sarı",
+      "meaning_en": "yellow",
+      "meaning_uk": "жовтий",
+      "meaning_es": "amarillo",
+      "example": "Die Banane ist ***gelb***."
+    },
+    {
+      "term": "schwarz",
+      "type": "Adjektiv",
+      "meaning_tr": "siyah",
+      "meaning_en": "black",
+      "meaning_uk": "чорний",
+      "meaning_es": "negro",
+      "example": "Meine Schuhe sind ***schwarz***."
+    },
+    {
+      "term": "weiß",
+      "type": "Adjektiv",
+      "meaning_tr": "beyaz",
+      "meaning_en": "white",
+      "meaning_uk": "білий",
+      "meaning_es": "blanco",
+      "example": "Das Kleid meiner Schwester ist ***weiß***."
+    },
+    {
+      "term": "braun",
+      "type": "Adjektiv",
+      "meaning_tr": "kahverengi",
+      "meaning_en": "brown",
+      "meaning_uk": "коричневий",
+      "meaning_es": "marrón",
+      "example": "Er hat ***braune*** Haare."
+    },
+    {
+      "term": "orange",
+      "type": "Adjektiv",
+      "meaning_tr": "turuncu",
+      "meaning_en": "orange",
+      "meaning_uk": "помаранчевий",
+      "meaning_es": "naranja",
+      "example": "Wir essen ***orange*** Karotten."
+    },
+    {
+      "term": "lila / violett",
+      "type": "Adjektiv",
+      "meaning_tr": "mor",
+      "meaning_en": "purple / violet",
+      "meaning_uk": "фіолетовий",
+      "meaning_es": "morado",
+      "example": "Ich mag die Farbe ***lila***."
+    },
+    {
+      "term": "grau",
+      "type": "Adjektiv",
+      "meaning_tr": "gri",
+      "meaning_en": "grey",
+      "meaning_uk": "сірий",
+      "meaning_es": "gris",
+      "example": "Der Regen macht alles ***grau***."
+    },
+    {
+      "term": "eins",
+      "type": "Numerale",
+      "meaning_tr": "bir",
+      "meaning_en": "one",
+      "meaning_uk": "один",
+      "meaning_es": "uno",
+      "example": "Ich habe ***eins*** Brot gekauft."
+    },
+    {
+      "term": "zwei",
+      "type": "Numerale",
+      "meaning_tr": "iki",
+      "meaning_en": "two",
+      "meaning_uk": "два",
+      "meaning_es": "dos",
+      "example": "Wir sind ***zwei*** Personen."
+    },
+    {
+      "term": "drei",
+      "type": "Numerale",
+      "meaning_tr": "üç",
+      "meaning_en": "three",
+      "meaning_uk": "три",
+      "meaning_es": "tres",
+      "example": "Sie hat ***drei*** Katzen."
+    },
+    {
+      "term": "vier",
+      "type": "Numerale",
+      "meaning_tr": "dört",
+      "meaning_en": "four",
+      "meaning_uk": "чотири",
+      "meaning_es": "cuatro",
+      "example": "Das Auto hat ***vier*** Räder."
+    },
+    {
+      "term": "fünf",
+      "type": "Numerale",
+      "meaning_tr": "beş",
+      "meaning_en": "five",
+      "meaning_uk": "п'ять",
+      "meaning_es": "cinco",
+      "example": "Ich kann bis ***fünf*** zählen."
+    },
+    {
+      "term": "zehn",
+      "type": "Numerale",
+      "meaning_tr": "on",
+      "meaning_en": "ten",
+      "meaning_uk": "десять",
+      "meaning_es": "diez",
+      "example": "Bitte gib mir ***zehn*** Euro."
+    },
+    {
+      "term": "zwanzig",
+      "type": "Numerale",
+      "meaning_tr": "yirmi",
+      "meaning_en": "twenty",
+      "meaning_uk": "двадцять",
+      "meaning_es": "veinte",
+      "example": "Mein Bruder ist ***zwanzig*** Jahre alt."
+    },
+    {
+      "term": "hundert",
+      "type": "Numerale",
+      "meaning_tr": "yüz",
+      "meaning_en": "one hundred",
+      "meaning_uk": "сто",
+      "meaning_es": "cien",
+      "example": "Es sind noch ***hundert*** Meter bis zum Ziel."
+    },
+    {
+      "term": "viel / viele",
+      "type": "Quantifikator",
+      "meaning_tr": "çok",
+      "meaning_en": "much / many",
+      "meaning_uk": "багато",
+      "meaning_es": "mucho / muchos",
+      "example": "Ich habe ***viele*** Bücher."
+    },
+    {
+      "term": "wenig / wenige",
+      "type": "Quantifikator",
+      "meaning_tr": "az",
+      "meaning_en": "little / few",
+      "meaning_uk": "мало",
+      "meaning_es": "poco / pocos",
+      "example": "Wir haben nur ***wenig*** Zeit."
+    }
+  ]
+}

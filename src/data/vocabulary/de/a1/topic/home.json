@@ -1,0 +1,114 @@
+{
+  "title": "Haus & Wohnen A1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "das Haus",
+      "type": "noun (n)",
+      "meaning_tr": "ev",
+      "meaning_en": "house",
+      "meaning_uk": "будинок",
+      "meaning_es": "casa",
+      "example": "Das Haus ist groß. ***"
+    },
+    {
+      "term": "die Wohnung",
+      "type": "noun (f)",
+      "meaning_tr": "daire",
+      "meaning_en": "apartment",
+      "meaning_uk": "квартира",
+      "meaning_es": "apartamento",
+      "example": "Ich wohne in einer Wohnung. ***"
+    },
+    {
+      "term": "das Zimmer",
+      "type": "noun (n)",
+      "meaning_tr": "oda",
+      "meaning_en": "room",
+      "meaning_uk": "кімната",
+      "meaning_es": "habitación",
+      "example": "Ich habe ein kleines Zimmer. ***"
+    },
+    {
+      "term": "die Küche",
+      "type": "noun (f)",
+      "meaning_tr": "mutfak",
+      "meaning_en": "kitchen",
+      "meaning_uk": "кухня",
+      "meaning_es": "cocina",
+      "example": "Die Küche ist hell. ***"
+    },
+    {
+      "term": "das Bad",
+      "type": "noun (n)",
+      "meaning_tr": "banyo",
+      "meaning_en": "bathroom",
+      "meaning_uk": "ванна кімната",
+      "meaning_es": "baño",
+      "example": "Das Bad hat eine Dusche. ***"
+    },
+    {
+      "term": "das Bett",
+      "type": "noun (n)",
+      "meaning_tr": "yatak",
+      "meaning_en": "bed",
+      "meaning_uk": "ліжко",
+      "meaning_es": "cama",
+      "example": "Ich gehe ins Bett. ***"
+    },
+    {
+      "term": "der Tisch",
+      "type": "noun (m)",
+      "meaning_tr": "masa",
+      "meaning_en": "table",
+      "meaning_uk": "стіл",
+      "meaning_es": "mesa",
+      "example": "Der Tisch ist aus Holz. ***"
+    },
+    {
+      "term": "der Stuhl",
+      "type": "noun (m)",
+      "meaning_tr": "sandalye",
+      "meaning_en": "chair",
+      "meaning_uk": "стілець",
+      "meaning_es": "silla",
+      "example": "Der Stuhl ist rot. ***"
+    },
+    {
+      "term": "die Tür",
+      "type": "noun (f)",
+      "meaning_tr": "kapı",
+      "meaning_en": "door",
+      "meaning_uk": "двері",
+      "meaning_es": "puerta",
+      "example": "Mach bitte die Tür auf. ***"
+    },
+    {
+      "term": "das Fenster",
+      "type": "noun (n)",
+      "meaning_tr": "pencere",
+      "meaning_en": "window",
+      "meaning_uk": "вікно",
+      "meaning_es": "ventana",
+      "example": "Das Fenster ist offen. ***"
+    },
+    {
+      "term": "wohnen",
+      "type": "verb",
+      "meaning_tr": "yaşamak",
+      "meaning_en": "to live/reside",
+      "meaning_uk": "жити",
+      "meaning_es": "vivir",
+      "example": "Wo wohnst du? ***"
+    },
+    {
+      "term": "mieten",
+      "type": "verb",
+      "meaning_tr": "kiralamak",
+      "meaning_en": "to rent",
+      "meaning_uk": "орендувати",
+      "meaning_es": "alquilar",
+      "example": "Wir mieten eine Wohnung. ***"
+    }
+  ]
+}

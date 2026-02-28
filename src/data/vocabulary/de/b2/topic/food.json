@@ -1,0 +1,384 @@
+{
+  "title": "Essen & Trinken B2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "zubereiten",
+      "type": "Verb",
+      "meaning_tr": "to prepare",
+      "meaning_en": "to prepare",
+      "meaning_uk": "готувати",
+      "meaning_es": "preparar",
+      "example": "Die Köchin muss das Abendessen für 50 Gäste ***zubereiten***."
+    },
+    {
+      "term": "abschmecken",
+      "type": "Verb",
+      "meaning_tr": "to taste and season",
+      "meaning_en": "to taste and season",
+      "meaning_uk": "додавати смаку",
+      "meaning_es": "sazonar, probar",
+      "example": "Bevor er die Suppe serviert, muss er sie noch einmal ***abschmecken***."
+    },
+    {
+      "term": "nährstoffreich",
+      "type": "Adjektiv",
+      "meaning_tr": "rich in nutrients",
+      "meaning_en": "nutrient-rich",
+      "meaning_uk": "багатий на поживні речовини",
+      "meaning_es": "rico en nutrientes",
+      "example": "Gemüse und Vollkornprodukte sind sehr ***nährstoffreich***."
+    },
+    {
+      "term": "sättigend",
+      "type": "Adjektiv",
+      "meaning_tr": "filling, satiating",
+      "meaning_en": "filling, satiating",
+      "meaning_uk": "насичуючий",
+      "meaning_es": "saciente",
+      "example": "Haferflocken sind ein sehr ***sättigendes*** Frühstück."
+    },
+    {
+      "term": "fad schmecken",
+      "type": "Phrase",
+      "meaning_tr": "to taste bland",
+      "meaning_en": "to taste bland",
+      "meaning_uk": "мати прісний смак",
+      "meaning_es": "saber soso",
+      "example": "Ohne Salz und Pfeffer schmeckt das Gericht leider ***fad***."
+    },
+    {
+      "term": "verfeinern",
+      "type": "Verb",
+      "meaning_tr": "to refine, to enhance",
+      "meaning_en": "to refine, to enhance",
+      "meaning_uk": "удосконалювати, покращувати (смак)",
+      "meaning_es": "refinar, mejorar",
+      "example": "Ein Spritzer Zitrone kann den Fischgeschmack wunderbar ***verfeinern***."
+    },
+    {
+      "term": "die Konsistenz",
+      "type": "Substantiv",
+      "meaning_tr": "the consistency",
+      "meaning_en": "the consistency",
+      "meaning_uk": "консистенція",
+      "meaning_es": "la consistencia",
+      "example": "Die Soße hat die perfekte ***Konsistenz***, sie ist weder zu flüssig noch zu fest."
+    },
+    {
+      "term": "die Zubereitung",
+      "type": "Substantiv",
+      "meaning_tr": "the preparation",
+      "meaning_en": "the preparation",
+      "meaning_uk": "приготування",
+      "meaning_es": "la preparación",
+      "example": "Die ***Zubereitung*** dieses Rezepts dauert etwa eine Stunde."
+    },
+    {
+      "term": "ausgewogen",
+      "type": "Adjektiv",
+      "meaning_tr": "balanced",
+      "meaning_en": "balanced",
+      "meaning_uk": "збалансований",
+      "meaning_es": "equilibrado",
+      "example": "Eine ***ausgewogene*** Ernährung ist wichtig für die Gesundheit."
+    },
+    {
+      "term": "die Kalorienbilanz",
+      "type": "Substantiv",
+      "meaning_tr": "the calorie balance",
+      "meaning_en": "the calorie balance",
+      "meaning_uk": "баланс калорій",
+      "meaning_es": "el balance calórico",
+      "example": "Beim Abnehmen muss man auf eine positive ***Kalorienbilanz*** achten."
+    },
+    {
+      "term": "schmoren",
+      "type": "Verb",
+      "meaning_tr": "to braise, to simmer slowly",
+      "meaning_en": "to braise, to simmer slowly",
+      "meaning_uk": "тушкувати",
+      "meaning_es": "estofar",
+      "example": "Das Fleisch muss mindestens zwei Stunden lang sanft ***schmoren***, damit es zart wird."
+    },
+    {
+      "term": "die Delikatesse",
+      "type": "Substantiv",
+      "meaning_tr": "the delicacy",
+      "meaning_en": "the delicacy",
+      "meaning_uk": "делікатес",
+      "meaning_es": "la delicadeza",
+      "example": "Trüffel gelten als eine wahre ***Delikatesse***."
+    },
+    {
+      "term": "die Säure",
+      "type": "Substantiv",
+      "meaning_tr": "the acidity",
+      "meaning_en": "the acidity",
+      "meaning_uk": "кислотність",
+      "meaning_es": "la acidez",
+      "example": "Die ***Säure*** der Tomaten harmoniert gut mit dem Käse."
+    },
+    {
+      "term": "der Blutzuckerspiegel",
+      "type": "Substantiv",
+      "meaning_tr": "the blood sugar level",
+      "meaning_en": "the blood sugar level",
+      "meaning_uk": "рівень цукру в крові",
+      "meaning_es": "el nivel de azúcar en sangre",
+      "example": "Wer Diabetes hat, muss seinen ***Blutzuckerspiegel*** regelmäßig kontrollieren."
+    },
+    {
+      "term": "überbacken",
+      "type": "Verb",
+      "meaning_tr": "to bake with a crust (usually cheese)",
+      "meaning_en": "to bake with a crust",
+      "meaning_uk": "запікати (з скоринкою)",
+      "meaning_es": "gratinar",
+      "example": "Wir bestellen heute Abend Kartoffeln, die mit Käse ***überbacken*** sind."
+    },
+    {
+      "term": "die Aromen",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "the aromas, the flavors",
+      "meaning_en": "the aromas, the flavors",
+      "meaning_uk": "аромати, смаки",
+      "meaning_es": "los aromas",
+      "example": "Die verschiedenen Gewürze entfalten ihre vollen ***Aromen*** beim Kochen."
+    },
+    {
+      "term": "verhungern",
+      "type": "Verb",
+      "meaning_tr": "to starve to death",
+      "meaning_en": "to starve to death",
+      "meaning_uk": "померти з голоду",
+      "meaning_es": "morir de hambre",
+      "example": "In vielen Teilen der Welt drohen Menschen ***zu verhungern***."
+    },
+    {
+      "term": "die Ballaststoffe",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "dietary fibers",
+      "meaning_en": "dietary fibers",
+      "meaning_uk": "харчові волокна",
+      "meaning_es": "la fibra dietética",
+      "example": "Vollkornprodukte sind reich an ***Ballaststoffen***, was gut für die Verdauung ist."
+    },
+    {
+      "term": "würzen",
+      "type": "Verb",
+      "meaning_tr": "to season",
+      "meaning_en": "to season",
+      "meaning_uk": "приправляти",
+      "meaning_es": "sazonar, condimentar",
+      "example": "Man sollte Fleisch nicht zu früh ***würzen***."
+    },
+    {
+      "term": "die Verdauung",
+      "type": "Substantiv",
+      "meaning_tr": "the digestion",
+      "meaning_en": "the digestion",
+      "meaning_uk": "травлення",
+      "meaning_es": "la digestión",
+      "example": "Ein Spaziergang nach dem Essen fördert die ***Verdauung***."
+    },
+    {
+      "term": "reduziert",
+      "type": "Adjektiv/Partizip",
+      "meaning_tr": "reduced",
+      "meaning_en": "reduced",
+      "meaning_uk": "зменшений",
+      "meaning_es": "reducido",
+      "example": "Ich achte auf Produkte mit ***reduziertem*** Zuckergehalt."
+    },
+    {
+      "term": "die Kalorienzahl",
+      "type": "Substantiv",
+      "meaning_tr": "the calorie count",
+      "meaning_en": "the calorie count",
+      "meaning_uk": "кількість калорій",
+      "meaning_es": "el recuento de calorías",
+      "example": "Die ***Kalorienzahl*** dieser Fertigmahlzeit ist überraschend hoch."
+    },
+    {
+      "term": "die Textur",
+      "type": "Substantiv",
+      "meaning_tr": "the texture",
+      "meaning_en": "the texture",
+      "meaning_uk": "текстура",
+      "meaning_es": "la textura",
+      "example": "Die ***Textur*** des Kuchens war perfekt – innen saftig und außen knusprig."
+    },
+    {
+      "term": "die Kochexpertise",
+      "type": "Substantiv",
+      "meaning_tr": "cooking expertise",
+      "meaning_en": "cooking expertise",
+      "meaning_uk": "кулінарний досвід",
+      "meaning_es": "la pericia culinaria",
+      "example": "Seine ***Kochexpertise*** zeigt sich in der Komplexität der Gewürze."
+    },
+    {
+      "term": "das Gericht",
+      "type": "Substantiv",
+      "meaning_tr": "the dish",
+      "meaning_en": "the dish",
+      "meaning_uk": "страва",
+      "meaning_es": "el plato",
+      "example": "Das Haupt***gericht*** war ein Lammkarree mit Rosmarinkartoffeln."
+    },
+    {
+      "term": "übermäßig",
+      "type": "Adverb",
+      "meaning_tr": "excessively",
+      "meaning_en": "excessively",
+      "meaning_uk": "надмірно",
+      "meaning_es": "excesivamente",
+      "example": "Man sollte ***übermäßig*** gesalzene Speisen meiden."
+    },
+    {
+      "term": "konsumieren",
+      "type": "Verb",
+      "meaning_tr": "to consume",
+      "meaning_en": "to consume",
+      "meaning_uk": "споживати",
+      "meaning_es": "consumir",
+      "example": "Experten empfehlen, täglich mindestens zwei Liter Wasser zu ***konsumieren***."
+    },
+    {
+      "term": "die Aufnahme",
+      "type": "Substantiv",
+      "meaning_tr": "the intake (of food/nutrients)",
+      "meaning_en": "the intake",
+      "meaning_uk": "споживання",
+      "meaning_es": "la ingesta",
+      "example": "Die tägliche ***Aufnahme*** von Vitamin D ist besonders im Winter wichtig."
+    },
+    {
+      "term": "raffiniert",
+      "type": "Adjektiv",
+      "meaning_tr": "refined, sophisticated",
+      "meaning_en": "refined, sophisticated",
+      "meaning_uk": "вишуканий, витончений",
+      "meaning_es": "refinado, sofisticado",
+      "example": "Der Chefkoch präsentierte ein ***raffiniertes*** Dessert aus Schokolade und Beeren."
+    },
+    {
+      "term": "der Nährwert",
+      "type": "Substantiv",
+      "meaning_tr": "the nutritional value",
+      "meaning_en": "the nutritional value",
+      "meaning_uk": "поживна цінність",
+      "meaning_es": "el valor nutricional",
+      "example": "Dieses Bio-Gemüse hat einen höheren ***Nährwert*** als Importware."
+    },
+    {
+      "term": "übermäßig süß",
+      "type": "Phrase",
+      "meaning_tr": "overly sweet",
+      "meaning_en": "overly sweet",
+      "meaning_uk": "надмірно солодкий",
+      "meaning_es": "demasiado dulce",
+      "example": "Die Limonade war leider ***übermäßig süß*** für meinen Geschmack."
+    },
+    {
+      "term": "fermentieren",
+      "type": "Verb",
+      "meaning_tr": "to ferment",
+      "meaning_en": "to ferment",
+      "meaning_uk": "ферментувати",
+      "meaning_es": "fermentar",
+      "example": "Sauerkraut entsteht durch den Prozess des ***Fermentierens*** von Kohl."
+    },
+    {
+      "term": "die Sättigungsbeilage",
+      "type": "Substantiv",
+      "meaning_tr": "the starchy side dish",
+      "meaning_en": "the starchy side dish",
+      "meaning_uk": "гарнір, що насичує",
+      "meaning_es": "la guarnición saciante",
+      "example": "Zu dem Steak wählen wir als ***Sättigungsbeilage*** Kartoffelpüree."
+    },
+    {
+      "term": "die Kost",
+      "type": "Substantiv (veraltet/formell)",
+      "meaning_tr": "food, diet",
+      "meaning_en": "food, diet (often light or special)",
+      "meaning_uk": "їжа, харчування (легке)",
+      "meaning_es": "la dieta, la comida",
+      "example": "Nach der Operation durfte er nur leichte ***Kost*** zu sich nehmen."
+    },
+    {
+      "term": "die Maillard-Reaktion",
+      "type": "Substantiv",
+      "meaning_tr": "the Maillard reaction",
+      "meaning_en": "the Maillard reaction",
+      "meaning_uk": "реакція Майяра",
+      "meaning_es": "la reacción de Maillard",
+      "example": "Das Braten von Fleisch erzeugt durch die ***Maillard-Reaktion*** seine charakteristischen Röstaromen."
+    },
+    {
+      "term": "blanchieren",
+      "type": "Verb",
+      "meaning_tr": "to blanch",
+      "meaning_en": "to blanch",
+      "meaning_uk": "бланшувати",
+      "meaning_es": "escaldar, blanquear",
+      "example": "Grünes Gemüse sollte kurz ***blanchiert*** werden, um die Farbe zu erhalten."
+    },
+    {
+      "term": "reichhaltig",
+      "type": "Adjektiv",
+      "meaning_tr": "rich, substantial",
+      "meaning_en": "rich, substantial",
+      "meaning_uk": "багатий, поживний",
+      "meaning_es": "rico, sustancioso",
+      "example": "Omas Eintopf war sehr ***reichhaltig*** und hat uns alle gut genährt."
+    },
+    {
+      "term": "die Kohlenhydrate",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "carbohydrates",
+      "meaning_en": "carbohydrates",
+      "meaning_uk": "вуглеводи",
+      "meaning_es": "los carbohidratos",
+      "example": "In Nudeln und Reis sind viele ***Kohlenhydrate*** enthalten."
+    },
+    {
+      "term": "unverträglichkeit",
+      "type": "Substantiv",
+      "meaning_tr": "intolerance",
+      "meaning_en": "intolerance",
+      "meaning_uk": "непереносимість",
+      "meaning_es": "la intolerancia",
+      "example": "Wegen seiner Laktose***unverträglichkeit*** muss er auf Milchprodukte verzichten."
+    },
+    {
+      "term": "garnieren",
+      "type": "Verb",
+      "meaning_tr": "to garnish",
+      "meaning_en": "to garnish",
+      "meaning_uk": "прикрашати (їжу)",
+      "meaning_es": "adornar, guarnecer",
+      "example": "Zum Schluss sollte der Teller mit frischer Petersilie ***garniert*** werden."
+    },
+    {
+      "term": "schonend garen",
+      "type": "Phrase",
+      "meaning_tr": "to cook gently",
+      "meaning_en": "to cook gently",
+      "meaning_uk": "готувати делікатно",
+      "meaning_es": "cocinar suavemente",
+      "example": "Um Vitamine zu erhalten, sollte man Gemüse ***schonend garen***."
+    },
+    {
+      "term": "der Blähbauch",
+      "type": "Substantiv",
+      "meaning_tr": "bloated stomach",
+      "meaning_en": "bloated stomach",
+      "meaning_uk": "здуття живота",
+      "meaning_es": "hinchazón abdominal",
+      "example": "Bohnen führen bei manchen Menschen schnell zu ***Blähbauch***."
+    }
+  ]
+}

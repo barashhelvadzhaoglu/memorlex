@@ -1,0 +1,186 @@
+{
+  "title": "Gesundheit & Krankheit A2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Gesundheit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sağlık",
+      "meaning_en": "health",
+      "meaning_uk": "здоров'я",
+      "meaning_es": "la salud",
+      "example": "Ich wünsche Ihnen gute ***."
+    },
+    {
+      "term": "die Krankheit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "hastalık",
+      "meaning_en": "illness, sickness",
+      "meaning_uk": "хвороба",
+      "meaning_es": "la enfermedad",
+      "example": "Er hat eine leichte ***."
+    },
+    {
+      "term": "krank sein",
+      "type": "Verb",
+      "meaning_tr": "hasta olmak",
+      "meaning_en": "to be ill",
+      "meaning_uk": "бути хворим",
+      "meaning_es": "estar enfermo",
+      "example": "Ich kann heute nicht kommen, ich ***."
+    },
+    {
+      "term": "gesund sein",
+      "type": "Verb",
+      "meaning_tr": "sağlıklı olmak",
+      "meaning_en": "to be healthy",
+      "meaning_uk": "бути здоровим",
+      "meaning_es": "estar sano",
+      "example": "Meine Oma ist sehr ***."
+    },
+    {
+      "term": "der Arzt / die Ärztin",
+      "type": "Substantiv (m/f)",
+      "meaning_tr": "doktor",
+      "meaning_en": "doctor",
+      "meaning_uk": "лікар",
+      "meaning_es": "el médico / la médica",
+      "example": "Ich muss zum *** gehen."
+    },
+    {
+      "term": "die Apotheke",
+      "type": "Substantiv (f)",
+      "meaning_tr": "eczane",
+      "meaning_en": "pharmacy",
+      "meaning_uk": "аптека",
+      "meaning_es": "la farmacia",
+      "example": "Die *** ist gleich um die Ecke."
+    },
+    {
+      "term": "das Medikament",
+      "type": "Substantiv (n)",
+      "meaning_tr": "ilaç",
+      "meaning_en": "medicine, medication",
+      "meaning_uk": "ліки",
+      "meaning_es": "el medicamento",
+      "example": "Nimm bitte dieses *** dreimal täglich."
+    },
+    {
+      "term": "die Schmerzen",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "ağrılar",
+      "meaning_en": "pain(s)",
+      "meaning_uk": "біль (болі)",
+      "meaning_es": "el dolor (los dolores)",
+      "example": "Ich habe starke *** im Rücken."
+    },
+    {
+      "term": "husten",
+      "type": "Verb",
+      "meaning_tr": "öksürmek",
+      "meaning_en": "to cough",
+      "meaning_uk": "кашляти",
+      "meaning_es": "toser",
+      "example": "Er muss seit gestern ***."
+    },
+    {
+      "term": "niesen",
+      "type": "Verb",
+      "meaning_tr": "aksırmak",
+      "meaning_en": "to sneeze",
+      "meaning_uk": "чхати",
+      "meaning_es": "estornudar",
+      "example": "Wenn ich Blumen sehe, muss ich ***."
+    },
+    {
+      "term": "die Erkältung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "soğuk algınlığı",
+      "meaning_en": "a cold",
+      "meaning_uk": "застуда",
+      "meaning_es": "el resfriado",
+      "example": "Ich glaube, ich habe eine ***."
+    },
+    {
+      "term": "Fieber haben",
+      "type": "Phrase",
+      "meaning_tr": "ateşi olmak",
+      "meaning_en": "to have a fever",
+      "meaning_uk": "мати температуру",
+      "meaning_es": "tener fiebre",
+      "example": "Gemessen Sie bitte, ob das Kind ***."
+    },
+    {
+      "term": "sich verletzen",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "kendini yaralamak",
+      "meaning_en": "to injure oneself",
+      "meaning_uk": "поранитися",
+      "meaning_es": "lastimarse",
+      "example": "Pass auf, du könntest dich ***."
+    },
+    {
+      "term": "die Wunde",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yara",
+      "meaning_en": "wound",
+      "meaning_uk": "рана",
+      "meaning_es": "la herida",
+      "example": "Die *** blutet leicht."
+    },
+    {
+      "term": "der Verband",
+      "type": "Substantiv (m)",
+      "meaning_tr": "sargı bezi",
+      "meaning_en": "bandage",
+      "meaning_uk": "пов'язка",
+      "meaning_es": "el vendaje",
+      "example": "Der Arzt macht einen neuen ***."
+    },
+    {
+      "term": "die Grippe",
+      "type": "Substantiv (f)",
+      "meaning_tr": "grip",
+      "meaning_en": "flu",
+      "meaning_uk": "грип",
+      "meaning_es": "la gripe",
+      "example": "Im Winter gibt es oft ***."
+    },
+    {
+      "term": "müde sein",
+      "type": "Phrase",
+      "meaning_tr": "yorgun olmak",
+      "meaning_en": "to be tired",
+      "meaning_uk": "бути втомленим",
+      "meaning_es": "estar cansado",
+      "example": "Ich bin heute sehr *** und brauche Ruhe."
+    },
+    {
+      "term": "der Schnupfen",
+      "type": "Substantiv (m)",
+      "meaning_tr": "nezle",
+      "meaning_en": "cold (runny nose)",
+      "meaning_uk": "нежить",
+      "meaning_es": "el catarro",
+      "example": "Er hat starken *** und eine verstopfte Nase."
+    },
+    {
+      "term": "sich ausruhen",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "dinlenmek",
+      "meaning_en": "to rest",
+      "meaning_uk": "відпочивати",
+      "meaning_es": "descansar",
+      "example": "Du solltest dich mehr ***."
+    },
+    {
+      "term": "die Untersuchung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "muayene",
+      "meaning_en": "examination, check-up",
+      "meaning_uk": "огляд",
+      "meaning_es": "el examen médico",
+      "example": "Ich habe morgen einen Termin zur jährlichen ***."
+    }
+  ]
+}

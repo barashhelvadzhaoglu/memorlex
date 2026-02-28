@@ -2,96 +2,824 @@
   "title": "Integration A2 - Kapitel 8",
   "language": "de",
   "words": [
-    {"term": "das Tor", "type": "Noun", "meaning_tr": "Kapı (anıtsal)", "meaning_en": "gate, monumental gate", "meaning_uk": "ворота", "example": "Das *** ist sehr alt."},
-    {"term": "das Stadion", "type": "Noun", "meaning_tr": "Stadyum", "meaning_en": "stadium", "meaning_uk": "стадіон", "example": "Das *** ist heute voll."},
-    {"term": "der Rest", "type": "Noun", "meaning_tr": "Kalıntı / Artık", "meaning_en": "rest, remainder", "meaning_uk": "залишок", "example": "Der *** bleibt hier."},
-    {"term": "die Mauer", "type": "Noun", "meaning_tr": "Duvar", "meaning_en": "wall", "meaning_uk": "стіна", "example": "Die *** ist hoch."},
-    {"term": "die Hauptstadt", "type": "Noun", "meaning_tr": "Başkent", "meaning_en": "capital city", "meaning_uk": "столиця", "example": "Berlin ist die *** von Deutschland."},
-    {"term": "fließen", "type": "Verb", "meaning_tr": "Akmak", "meaning_en": "flow", "meaning_uk": "текти", "example": "Der Fluss *** durch die Stadt."},
-    {"term": "der Einwohner / die Einwohnerin", "type": "Noun", "meaning_tr": "Yerel halk / sakin", "meaning_en": "inhabitant", "meaning_uk": "мешканець", "example": "Viele *** leben hier."},
-    {"term": "ca.", "type": "Adverb", "meaning_tr": "Yaklaşık", "meaning_en": "approx.", "meaning_uk": "приблизно", "example": "Es sind *** 10 km."},
-    {"term": "die Million", "type": "Noun", "meaning_tr": "Milyon", "meaning_en": "million", "meaning_uk": "мільйон", "example": "Eine *** Menschen wohnen hier."},
-    {"term": "das Prozent", "type": "Noun", "meaning_tr": "Yüzde", "meaning_en": "percent", "meaning_uk": "відсоток", "example": "Das sind zehn ***."},
-    {"term": "das Gericht", "type": "Noun", "meaning_tr": "Yemek / Mahkeme", "meaning_en": "dish / court", "meaning_uk": "страва / суд", "example": "Das *** schmeckt gut."},
-    {"term": "die Brücke", "type": "Noun", "meaning_tr": "Köprü", "meaning_en": "bridge", "meaning_uk": "міст", "example": "Die *** ist neu."},
-    {"term": "starten", "type": "Verb", "meaning_tr": "Başlamak / havalanmak", "meaning_en": "start, take off", "meaning_uk": "починати / злітати", "example": "Das Flugzeug *** gleich."},
-    {"term": "landen", "type": "Verb", "meaning_tr": "İnmek", "meaning_en": "land", "meaning_uk": "приземлятися", "example": "Das Flugzeug *** pünktlich."},
-    {"term": "verbringen", "type": "Verb", "meaning_tr": "Vakit geçirmek", "meaning_en": "spend (time)", "meaning_uk": "проводити", "example": "Wir *** den Tag hier."},
-    {"term": "demonstrieren", "type": "Verb", "meaning_tr": "Gösteri yapmak", "meaning_en": "demonstrate", "meaning_uk": "демонструвати", "example": "Viele Menschen ***."},
-    {"term": "die Zukunft", "type": "Noun", "meaning_tr": "Gelecek", "meaning_en": "future", "meaning_uk": "майбутнє", "example": "Die *** ist wichtig."},
-    {"term": "die Reservierung", "type": "Noun", "meaning_tr": "Rezervasyon", "meaning_en": "reservation", "meaning_uk": "бронювання", "example": "Ich habe eine ***."},
-    {"term": "die Führung", "type": "Noun", "meaning_tr": "Rehberli tur", "meaning_en": "guided tour", "meaning_uk": "екскурсія", "example": "Die *** dauert eine Stunde."},
-    {"term": "der Imbiss", "type": "Noun", "meaning_tr": "Atıştırmalık", "meaning_en": "snack bar", "meaning_uk": "закусочна", "example": "Der *** ist offen."},
-    {"term": "der Klimaschutz", "type": "Noun", "meaning_tr": "İklim koruma", "meaning_en": "climate protection", "meaning_uk": "захист клімату", "example": "*** ist wichtig."},
-    {"term": "der / die Auszubildende", "type": "Noun", "meaning_tr": "Stajyer", "meaning_en": "trainee", "meaning_uk": "учень", "example": "Der *** lernt viel."},
-    {"term": "der Fernsehturm", "type": "Noun", "meaning_tr": "Televizyon kulesi", "meaning_en": "TV tower", "meaning_uk": "телевежа", "example": "Der *** ist berühmt."},
-    {"term": "der Stadtteil", "type": "Noun", "meaning_tr": "Semt / mahalle", "meaning_en": "district", "meaning_uk": "район", "example": "Ich wohne in diesem ***."},
-    {"term": "die Sportveranstaltung", "type": "Noun", "meaning_tr": "Spor etkinliği", "meaning_en": "sports event", "meaning_uk": "спортивний захід", "example": "Die *** ist morgen."},
-    {"term": "die Klassenfahrt", "type": "Noun", "meaning_tr": "Okul gezisi", "meaning_en": "class trip", "meaning_uk": "шкільна поїздка", "example": "Die *** macht Spaß."},
-    {"term": "die Stadtbesichtigung", "type": "Noun", "meaning_tr": "Şehir gezisi", "meaning_en": "city tour", "meaning_uk": "огляд міста", "example": "Wir machen eine ***."},
-    {"term": "entdecken", "type": "Verb", "meaning_tr": "Keşfetmek", "meaning_en": "discover", "meaning_uk": "відкривати", "example": "Wir *** neue Orte."},
-    {"term": "die Dauer", "type": "Noun", "meaning_tr": "Süre", "meaning_en": "duration", "meaning_uk": "тривалість", "example": "Die *** ist kurz."},
-    {"term": "täglich", "type": "Adverb", "meaning_tr": "Günlük", "meaning_en": "daily", "meaning_uk": "щодня", "example": "Ich arbeite ***."},
-    {"term": "zentral", "type": "Adjective", "meaning_tr": "Merkezi", "meaning_en": "central", "meaning_uk": "центральний", "example": "Die Lage ist ***."},
-    {"term": "die Wegbeschreibung", "type": "Noun", "meaning_tr": "Yol tarifi", "meaning_en": "directions", "meaning_uk": "опис шляху", "example": "Die *** ist klar."},
-    {"term": "gegenüber", "type": "Preposition", "meaning_tr": "Karşısında", "meaning_en": "opposite", "meaning_uk": "навпроти", "example": "Das Haus ist ***."},
-    {"term": "da vorne", "type": "Adverb", "meaning_tr": "İleride", "meaning_en": "over there", "meaning_uk": "там попереду", "example": "Der Laden ist ***."},
-    {"term": "geradeaus", "type": "Adverb", "meaning_tr": "Dümdüz", "meaning_en": "straight ahead", "meaning_uk": "прямо", "example": "Geh ***."},
-    {"term": "die Ampel", "type": "Noun", "meaning_tr": "Trafik lambası", "meaning_en": "traffic light", "meaning_uk": "світлофор", "example": "Die *** ist rot."},
-    {"term": "die Kreuzung", "type": "Noun", "meaning_tr": "Kavşak", "meaning_en": "intersection", "meaning_uk": "перехрестя", "example": "An der *** links."},
-    {"term": "die Bundesliga", "type": "Noun", "meaning_tr": "Federal lig", "meaning_en": "Bundesliga", "meaning_uk": "Бундесліга", "example": "Die *** ist spannend."},
-    {"term": "der Verein", "type": "Noun", "meaning_tr": "Kulüp", "meaning_en": "club", "meaning_uk": "клуб", "example": "Der *** ist bekannt."},
-    {"term": "der Fan", "type": "Noun", "meaning_tr": "Taraftar", "meaning_en": "fan", "meaning_uk": "фанат", "example": "Er ist ein großer ***."},
-    {"term": "die Mannschaft", "type": "Noun", "meaning_tr": "Takım", "meaning_en": "team", "meaning_uk": "команда", "example": "Die *** gewinnt."},
-    {"term": "der Trainer / die Trainerin", "type": "Noun", "meaning_tr": "Antrenör", "meaning_en": "coach", "meaning_uk": "тренер", "example": "Der *** motiviert."},
-    {"term": "der Spieler / die Spielerin", "type": "Noun", "meaning_tr": "Oyuncu", "meaning_en": "player", "meaning_uk": "гравець", "example": "Der *** spielt gut."},
-    {"term": "der Profi", "type": "Noun", "meaning_tr": "Profesyonel", "meaning_en": "professional", "meaning_uk": "професіонал", "example": "Er ist ein ***."},
-    {"term": "der Fußballer / die Fußballerin", "type": "Noun", "meaning_tr": "Futbolcu", "meaning_en": "footballer", "meaning_uk": "футболіст", "example": "Der *** trainiert."},
-    {"term": "genial", "type": "Adjective", "meaning_tr": "Harika", "meaning_en": "brilliant", "meaning_uk": "геніальний", "example": "Das ist ***."},
-    {"term": "motivieren", "type": "Verb", "meaning_tr": "Motive etmek", "meaning_en": "motivate", "meaning_uk": "мотивувати", "example": "Der Lehrer *** uns."},
-    {"term": "schaffen", "type": "Verb", "meaning_tr": "Başarmak", "meaning_en": "achieve", "meaning_uk": "досягати", "example": "Wir *** das."},
-    {"term": "wunderbar", "type": "Adjective", "meaning_tr": "Harika", "meaning_en": "wonderful", "meaning_uk": "чудовий", "example": "Ein ***er Tag."},
-    {"term": "der Arbeiter / die Arbeiterin", "type": "Noun", "meaning_tr": "İşçi", "meaning_en": "worker", "meaning_uk": "робітник", "example": "Der *** arbeitet hier."},
-    {"term": "die Industrie", "type": "Noun", "meaning_tr": "Sanayi", "meaning_en": "industry", "meaning_uk": "промисловість", "example": "Die *** wächst."},
-    {"term": "berühmt", "type": "Adjective", "meaning_tr": "Ünlü", "meaning_en": "famous", "meaning_uk": "відомий", "example": "Er ist ***."},
-    {"term": "das Gefühl", "type": "Noun", "meaning_tr": "Duygu", "meaning_en": "feeling", "meaning_uk": "почуття", "example": "Ein gutes ***."},
-    {"term": "das Projekt", "type": "Noun", "meaning_tr": "Proje", "meaning_en": "project", "meaning_uk": "проєкт", "example": "Das *** ist neu."},
-    {"term": "die Integration", "type": "Noun", "meaning_tr": "Entegrasyon", "meaning_en": "integration", "meaning_uk": "інтеграція", "example": "*** ist wichtig."},
-    {"term": "der Rassismus", "type": "Noun", "meaning_tr": "Irkçılık", "meaning_en": "racism", "meaning_uk": "расизм", "example": "*** ist verboten."},
-    {"term": "engagiert sein", "type": "Phrase", "meaning_tr": "Aktif olmak", "meaning_en": "be engaged", "meaning_uk": "бути активним", "example": "Er ist sehr ***."},
-    {"term": "sozial", "type": "Adjective", "meaning_tr": "Sosyal", "meaning_en": "social", "meaning_uk": "соціальний", "example": "Ein ***es Projekt."},
-    {"term": "das Stück", "type": "Noun", "meaning_tr": "Parça", "meaning_en": "piece", "meaning_uk": "шматок", "example": "Ein *** Kuchen."},
-    {"term": "übernachten", "type": "Verb", "meaning_tr": "Gecelemek", "meaning_en": "stay overnight", "meaning_uk": "ночувати", "example": "Wir *** hier."},
-    {"term": "zurechtkommen", "type": "Verb", "meaning_tr": "Başa çıkmak", "meaning_en": "cope", "meaning_uk": "справлятися", "example": "Ich komme gut ***."},
-    {"term": "ablehnen", "type": "Verb", "meaning_tr": "Reddetmek", "meaning_en": "reject", "meaning_uk": "відмовляти", "example": "Ich *** das Angebot."},
-    {"term": "vorhaben", "type": "Verb", "meaning_tr": "Planlamak", "meaning_en": "intend", "meaning_uk": "планувати", "example": "Ich *** etwas."},
-    {"term": "die Abteilung", "type": "Noun", "meaning_tr": "Departman", "meaning_en": "department", "meaning_uk": "відділ", "example": "Die *** ist groß."},
-    {"term": "die Technik", "type": "Noun", "meaning_tr": "Teknik", "meaning_en": "technology", "meaning_uk": "техніка", "example": "Die *** hilft."},
-    {"term": "der Ausbilder / die Ausbilderin", "type": "Noun", "meaning_tr": "Eğitmen", "meaning_en": "trainer", "meaning_uk": "інструктор", "example": "Der *** erklärt viel."},
-    {"term": "die Mittagspause", "type": "Noun", "meaning_tr": "Öğle tatili", "meaning_en": "lunch break", "meaning_uk": "обідня перерва", "example": "In der *** esse ich."},
-    {"term": "erhalten", "type": "Verb", "meaning_tr": "Almak", "meaning_en": "receive", "meaning_uk": "отримувати", "example": "Ich *** Geld."},
-    {"term": "notwendig", "type": "Adjective", "meaning_tr": "Gerekli", "meaning_en": "necessary", "meaning_uk": "необхідний", "example": "Das ist ***."},
-    {"term": "die Arbeitskleidung", "type": "Noun", "meaning_tr": "İş kıyafeti", "meaning_en": "work clothes", "meaning_uk": "робочий одяг", "example": "Die *** ist sauber."},
-    {"term": "die Personalabteilung", "type": "Noun", "meaning_tr": "İK", "meaning_en": "HR department", "meaning_uk": "відділ кадрів", "example": "Die *** hilft."},
-    {"term": "der Personalausweis", "type": "Noun", "meaning_tr": "Kimlik", "meaning_en": "ID card", "meaning_uk": "посвідчення", "example": "Ich brauche den ***."},
-    {"term": "das Bankkonto", "type": "Noun", "meaning_tr": "Banka hesabı", "meaning_en": "bank account", "meaning_uk": "банківський рахунок", "example": "Ich habe ein ***."},
-    {"term": "selbstständig", "type": "Adjective", "meaning_tr": "Serbest", "meaning_en": "self-employed", "meaning_uk": "самозайнятий", "example": "Er ist ***."},
-    {"term": "die Berufserfahrung", "type": "Noun", "meaning_tr": "Mesleki deneyim", "meaning_en": "work experience", "meaning_uk": "досвід роботи", "example": "*** ist wichtig."},
-    {"term": "der Elektroniker / die Elektronikerin", "type": "Noun", "meaning_tr": "Elektronikçi", "meaning_en": "electronics technician", "meaning_uk": "електронік", "example": "Der *** repariert."},
-    {"term": "der Ingenieur / die Ingenieurin", "type": "Noun", "meaning_tr": "Mühendis", "meaning_en": "engineer", "meaning_uk": "інженер", "example": "Die *** plant."},
-    {"term": "der Journalist / die Journalistin", "type": "Noun", "meaning_tr": "Gazeteci", "meaning_en": "journalist", "meaning_uk": "журналіст", "example": "Der *** schreibt."},
-    {"term": "der Künstler / die Künstlerin", "type": "Noun", "meaning_tr": "Sanatçı", "meaning_en": "artist", "meaning_uk": "художник", "example": "Die *** malt."},
-    {"term": "der Musiker / die Musikerin", "type": "Noun", "meaning_tr": "Müzisyen", "meaning_en": "musician", "meaning_uk": "музикант", "example": "Der *** spielt."},
-    {"term": "der Pförtner / die Pförtnerin", "type": "Noun", "meaning_tr": "Kapıcı", "meaning_en": "doorkeeper", "meaning_uk": "вахтер", "example": "Der *** hilft."},
-    {"term": "der Politiker / die Politikerin", "type": "Noun", "meaning_tr": "Politikacı", "meaning_en": "politician", "meaning_uk": "політик", "example": "Der *** spricht."},
-    {"term": "der Rechtsanwalt / die Rechtsanwältin", "type": "Noun", "meaning_tr": "Avukat", "meaning_en": "lawyer", "meaning_uk": "адвокат", "example": "Der *** berät."},
-    {"term": "der Sänger / die Sängerin", "type": "Noun", "meaning_tr": "Şarkıcı", "meaning_en": "singer", "meaning_uk": "співак", "example": "Die *** singt."},
-    {"term": "der Schauspieler / die Schauspielerin", "type": "Noun", "meaning_tr": "Oyuncu", "meaning_en": "actor", "meaning_uk": "актор", "example": "Der *** spielt."},
-    {"term": "der Sportler / die Sportlerin", "type": "Noun", "meaning_tr": "Sporcu", "meaning_en": "athlete", "meaning_uk": "спортсмен", "example": "Die *** trainiert."},
-    {"term": "die Anrede", "type": "Noun", "meaning_tr": "Hitap", "meaning_en": "salutation", "meaning_uk": "звертання", "example": "Die *** ist wichtig."},
-    {"term": "der Gruß", "type": "Noun", "meaning_tr": "Selam", "meaning_en": "greeting", "meaning_uk": "привітання", "example": "Viele ***e."},
-    {"term": "HG", "type": "Abbreviation", "meaning_tr": "Kalpten selamlar", "meaning_en": "kind regards", "meaning_uk": "щирі вітання", "example": "*** aus Berlin."},
-    {"term": "VG", "type": "Abbreviation", "meaning_tr": "Çok selamlar", "meaning_en": "best regards", "meaning_uk": "вітання", "example": "*** aus München."},
-    {"term": "LG", "type": "Abbreviation", "meaning_tr": "Sevgilerle", "meaning_en": "love, regards", "meaning_uk": "з любов’ю", "example": "*** dein Freund."}
+    {
+      "term": "das Tor",
+      "type": "Noun",
+      "meaning_tr": "kapı - giriş - geçit",
+      "meaning_en": "gate - doorway - archway",
+      "meaning_uk": "ворота - вхід - арка",
+      "example": "Das *** ist sehr alt.",
+      "meaning_es": "puerta - portal - arco"
+    },
+    {
+      "term": "das Stadion",
+      "type": "Noun",
+      "meaning_tr": "stadyum - spor alanı",
+      "meaning_en": "stadium - sports arena",
+      "meaning_uk": "стадіон - спортивна арена",
+      "example": "Das *** ist heute voll.",
+      "meaning_es": "estadio - recinto deportivo"
+    },
+    {
+      "term": "der Rest",
+      "type": "Noun",
+      "meaning_tr": "kalıntı - artık - geri kalan",
+      "meaning_en": "remainder - rest - leftover",
+      "meaning_uk": "залишок - решта - надлишок",
+      "example": "Der *** bleibt hier.",
+      "meaning_es": "resto - sobrante - remanente"
+    },
+    {
+      "term": "die Mauer",
+      "type": "Noun",
+      "meaning_tr": "duvar - set",
+      "meaning_en": "wall - masonry",
+      "meaning_uk": "стіна - мур",
+      "example": "Die *** ist hoch.",
+      "meaning_es": "muro - pared"
+    },
+    {
+      "term": "die Hauptstadt",
+      "type": "Noun",
+      "meaning_tr": "başkent - ana şehir",
+      "meaning_en": "capital city - metropolis",
+      "meaning_uk": "столиця - головне місто",
+      "example": "Berlin ist die *** von Deutschland.",
+      "meaning_es": "capital - ciudad principal"
+    },
+    {
+      "term": "fließen",
+      "type": "Verb",
+      "meaning_tr": "akmak - süzülmek",
+      "meaning_en": "flow - stream - run",
+      "meaning_uk": "текти - литися",
+      "example": "Der Fluss *** durch die Stadt.",
+      "meaning_es": "fluir - correr - deslizarse"
+    },
+    {
+      "term": "der Einwohner / die Einwohnerin",
+      "type": "Noun",
+      "meaning_tr": "sakin - yerli halk",
+      "meaning_en": "inhabitant - resident",
+      "meaning_uk": "мешканець - житель",
+      "example": "Viele *** leben hier.",
+      "meaning_es": "habitante - residente"
+    },
+    {
+      "term": "ca.",
+      "type": "Adverb",
+      "meaning_tr": "yaklaşık - tahminen",
+      "meaning_en": "approximately - circa",
+      "meaning_uk": "приблизно - близько",
+      "example": "Es sind *** 10 km.",
+      "meaning_es": "aproximadamente - cerca de"
+    },
+    {
+      "term": "die Million",
+      "type": "Noun",
+      "meaning_tr": "milyon",
+      "meaning_en": "million",
+      "meaning_uk": "мільйон",
+      "example": "Eine *** Menschen wohnen hier.",
+      "meaning_es": "millón"
+    },
+    {
+      "term": "das Prozent",
+      "type": "Noun",
+      "meaning_tr": "yüzde",
+      "meaning_en": "percent",
+      "meaning_uk": "відсоток",
+      "example": "Das sind zehn ***.",
+      "meaning_es": "porcentaje - por ciento"
+    },
+    {
+      "term": "das Gericht",
+      "type": "Noun",
+      "meaning_tr": "yemek - mahkeme",
+      "meaning_en": "dish - meal - court of law",
+      "meaning_uk": "страва - їжа - суд",
+      "example": "Das *** schmeckt gut.",
+      "meaning_es": "plato - comida - corte judicial"
+    },
+    {
+      "term": "die Brücke",
+      "type": "Noun",
+      "meaning_tr": "köprü",
+      "meaning_en": "bridge",
+      "meaning_uk": "міст",
+      "example": "Die *** ist neu.",
+      "meaning_es": "puente"
+    },
+    {
+      "term": "starten",
+      "type": "Verb",
+      "meaning_tr": "başlamak - kalkış yapmak",
+      "meaning_en": "start - launch - take off",
+      "meaning_uk": "починати - стартувати - злітати",
+      "example": "Das Flugzeug *** gleich.",
+      "meaning_es": "comenzar - despegar - iniciar"
+    },
+    {
+      "term": "landen",
+      "type": "Verb",
+      "meaning_tr": "inmek - karaya çıkmak",
+      "meaning_en": "land - arrive",
+      "meaning_uk": "приземлятися - сідати",
+      "example": "Das Flugzeug *** pünktlich.",
+      "meaning_es": "aterrizar - llegar"
+    },
+    {
+      "term": "verbringen",
+      "type": "Verb",
+      "meaning_tr": "vakit geçirmek - harcamak",
+      "meaning_en": "spend (time) - pass (time)",
+      "meaning_uk": "проводити - витрачати (час)",
+      "example": "Wir *** den Tag hier.",
+      "meaning_es": "pasar - invertir (tiempo)"
+    },
+    {
+      "term": "demonstrieren",
+      "type": "Verb",
+      "meaning_tr": "göstermek - protesto etmek",
+      "meaning_en": "demonstrate - protest",
+      "meaning_uk": "демонструвати - протестувати",
+      "example": "Viele Menschen ***.",
+      "meaning_es": "demostrar - manifestar"
+    },
+    {
+      "term": "die Zukunft",
+      "type": "Noun",
+      "meaning_tr": "gelecek",
+      "meaning_en": "future",
+      "meaning_uk": "майбутнє",
+      "example": "Die *** ist wichtig.",
+      "meaning_es": "futuro"
+    },
+    {
+      "term": "die Reservierung",
+      "type": "Noun",
+      "meaning_tr": "rezervasyon - yer ayırtma",
+      "meaning_en": "reservation - booking",
+      "meaning_uk": "бронювання - резервування",
+      "example": "Ich habe eine ***.",
+      "meaning_es": "reserva - reservación"
+    },
+    {
+      "term": "die Führung",
+      "type": "Noun",
+      "meaning_tr": "rehberli tur - rehberlik",
+      "meaning_en": "guided tour - leadership",
+      "meaning_uk": "екскурсія з гідом - керівництво",
+      "example": "Die *** dauert eine Stunde.",
+      "meaning_es": "tour guiado - dirección"
+    },
+    {
+      "term": "der Imbiss",
+      "type": "Noun",
+      "meaning_tr": "atıştırmalık - büfe",
+      "meaning_en": "snack bar - takeaway food",
+      "meaning_uk": "закусочна - снек-бар",
+      "example": "Der *** ist offen.",
+      "meaning_es": "bar de tapas - puesto de comida rápida"
+    },
+    {
+      "term": "der Klimaschutz",
+      "type": "Noun",
+      "meaning_tr": "iklim koruma - iklimi koruma",
+      "meaning_en": "climate protection - climate conservation",
+      "meaning_uk": "захист клімату - охорона клімату",
+      "example": "*** ist wichtig.",
+      "meaning_es": "protección climática - conservación del clima"
+    },
+    {
+      "term": "der / die Auszubildende",
+      "type": "Noun",
+      "meaning_tr": "stajyer - çırak",
+      "meaning_en": "trainee - apprentice",
+      "meaning_uk": "стажер - учень",
+      "example": "Der *** lernt viel.",
+      "meaning_es": "aprendiz - becario"
+    },
+    {
+      "term": "der Fernsehturm",
+      "type": "Noun",
+      "meaning_tr": "televizyon kulesi",
+      "meaning_en": "TV tower - television tower",
+      "meaning_uk": "телевежа - телевізійна вежа",
+      "example": "Der *** ist berühmt.",
+      "meaning_es": "torre de televisión"
+    },
+    {
+      "term": "der Stadtteil",
+      "type": "Noun",
+      "meaning_tr": "semt - mahalle",
+      "meaning_en": "district - neighborhood",
+      "meaning_uk": "район - квартал",
+      "example": "Ich wohne in diesem ***.",
+      "meaning_es": "distrito - barrio"
+    },
+    {
+      "term": "die Sportveranstaltung",
+      "type": "Noun",
+      "meaning_tr": "spor etkinliği",
+      "meaning_en": "sports event - athletic competition",
+      "meaning_uk": "спортивна подія - змагання",
+      "example": "Die *** ist morgen.",
+      "meaning_es": "evento deportivo - competición deportiva"
+    },
+    {
+      "term": "die Klassenfahrt",
+      "type": "Noun",
+      "meaning_tr": "okul gezisi - sınıf gezisi",
+      "meaning_en": "class trip - school excursion",
+      "meaning_uk": "шкільна поїздка - класний похід",
+      "example": "Die *** macht Spaß.",
+      "meaning_es": "viaje escolar - excursión de clase"
+    },
+    {
+      "term": "die Stadtbesichtigung",
+      "type": "Noun",
+      "meaning_tr": "şehir turu - şehir gezisi",
+      "meaning_en": "city tour - sightseeing",
+      "meaning_uk": "оглядова екскурсія містом",
+      "example": "Wir machen eine ***.",
+      "meaning_es": "recorrido turístico por la ciudad - visita guiada"
+    },
+    {
+      "term": "entdecken",
+      "type": "Verb",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "discover - explore",
+      "meaning_uk": "відкривати - досліджувати",
+      "example": "Wir *** neue Orte.",
+      "meaning_es": "descubrir - explorar"
+    },
+    {
+      "term": "die Dauer",
+      "type": "Noun",
+      "meaning_tr": "süre - müddet",
+      "meaning_en": "duration - length",
+      "meaning_uk": "тривалість - час",
+      "example": "Die *** ist kurz.",
+      "meaning_es": "duración - tiempo"
+    },
+    {
+      "term": "täglich",
+      "type": "Adverb",
+      "meaning_tr": "günlük - her gün",
+      "meaning_en": "daily - every day",
+      "meaning_uk": "щоденний - щодня",
+      "example": "Ich arbeite ***.",
+      "meaning_es": "diario - cotidianamente"
+    },
+    {
+      "term": "zentral",
+      "type": "Adjective",
+      "meaning_tr": "merkezi",
+      "meaning_en": "central",
+      "meaning_uk": "центральний",
+      "example": "Die Lage ist ***.",
+      "meaning_es": "central"
+    },
+    {
+      "term": "die Wegbeschreibung",
+      "type": "Noun",
+      "meaning_tr": "yol tarifi - yol gösterme",
+      "meaning_en": "directions - route description",
+      "meaning_uk": "опис маршруту - вказівки",
+      "example": "Die *** ist klar.",
+      "meaning_es": "indicaciones - descripción de la ruta"
+    },
+    {
+      "term": "gegenüber",
+      "type": "Preposition",
+      "meaning_tr": "karşısında",
+      "meaning_en": "opposite - across from",
+      "meaning_uk": "навпроти",
+      "example": "Das Haus ist ***.",
+      "meaning_es": "enfrente de - opuesto a"
+    },
+    {
+      "term": "da vorne",
+      "type": "Adverb",
+      "meaning_tr": "ileride - şurada",
+      "meaning_en": "over there - up ahead",
+      "meaning_uk": "там попереду - он там",
+      "example": "Der Laden ist ***.",
+      "meaning_es": "allá - por allí adelante"
+    },
+    {
+      "term": "geradeaus",
+      "type": "Adverb",
+      "meaning_tr": "dümdüz - ileriye doğru",
+      "meaning_en": "straight ahead",
+      "meaning_uk": "прямо - рівно вперед",
+      "example": "Geh ***.",
+      "meaning_es": "todo recto - derecho"
+    },
+    {
+      "term": "die Ampel",
+      "type": "Noun",
+      "meaning_tr": "trafik lambası - ışık",
+      "meaning_en": "traffic light - signal light",
+      "meaning_uk": "світлофор",
+      "example": "Die *** ist rot.",
+      "meaning_es": "semáforo"
+    },
+    {
+      "term": "die Kreuzung",
+      "type": "Noun",
+      "meaning_tr": "kavşak - kesişim",
+      "meaning_en": "intersection - crossing",
+      "meaning_uk": "перехрестя",
+      "example": "An der *** links.",
+      "meaning_es": "intersección - cruce"
+    },
+    {
+      "term": "die Bundesliga",
+      "type": "Noun",
+      "meaning_tr": "Bundesliga - federal lig",
+      "meaning_en": "Bundesliga - Federal League",
+      "meaning_uk": "Бундесліга - Федеральна ліга",
+      "example": "Die *** ist spannend.",
+      "meaning_es": "Bundesliga - Liga Federal"
+    },
+    {
+      "term": "der Verein",
+      "type": "Noun",
+      "meaning_tr": "kulüp - dernek",
+      "meaning_en": "club - association",
+      "meaning_uk": "клуб - товариство",
+      "example": "Der *** ist bekannt.",
+      "meaning_es": "club - asociación"
+    },
+    {
+      "term": "der Fan",
+      "type": "Noun",
+      "meaning_tr": "taraftar - hayran",
+      "meaning_en": "fan - supporter",
+      "meaning_uk": "фанат - прихильник",
+      "example": "Er ist ein großer ***.",
+      "meaning_es": "aficionado - fanático"
+    },
+    {
+      "term": "die Mannschaft",
+      "type": "Noun",
+      "meaning_tr": "takım",
+      "meaning_en": "team - squad",
+      "meaning_uk": "команда",
+      "example": "Die *** gewinnt.",
+      "meaning_es": "equipo"
+    },
+    {
+      "term": "der Trainer / die Trainerin",
+      "type": "Noun",
+      "meaning_tr": "antrenör",
+      "meaning_en": "coach - trainer",
+      "meaning_uk": "тренер",
+      "example": "Der *** motiviert.",
+      "meaning_es": "entrenador - técnico"
+    },
+    {
+      "term": "der Spieler / die Spielerin",
+      "type": "Noun",
+      "meaning_tr": "oyuncu",
+      "meaning_en": "player - participant",
+      "meaning_uk": "гравець",
+      "example": "Der *** spielt gut.",
+      "meaning_es": "jugador"
+    },
+    {
+      "term": "der Profi",
+      "type": "Noun",
+      "meaning_tr": "profesyonel",
+      "meaning_en": "professional",
+      "meaning_uk": "професіонал",
+      "example": "Er ist ein ***.",
+      "meaning_es": "profesional"
+    },
+    {
+      "term": "der Fußballer / die Fußballerin",
+      "type": "Noun",
+      "meaning_tr": "futbolcu",
+      "meaning_en": "footballer - soccer player",
+      "meaning_uk": "футболіст",
+      "example": "Der *** trainiert.",
+      "meaning_es": "futbolista"
+    },
+    {
+      "term": "genial",
+      "type": "Adjective",
+      "meaning_tr": "harika - dâhiyane",
+      "meaning_en": "brilliant - ingenious",
+      "meaning_uk": "геніальний - чудовий",
+      "example": "Das ist ***.",
+      "meaning_es": "genial - brillante"
+    },
+    {
+      "term": "motivieren",
+      "type": "Verb",
+      "meaning_tr": "motive etmek - teşvik etmek",
+      "meaning_en": "motivate - encourage",
+      "meaning_uk": "мотивувати - надихати",
+      "example": "Der Lehrer *** uns.",
+      "meaning_es": "motivar - alentar"
+    },
+    {
+      "term": "schaffen",
+      "type": "Verb",
+      "meaning_tr": "başarmak - yapmak",
+      "meaning_en": "achieve - manage - accomplish",
+      "meaning_uk": "досягати - створювати",
+      "example": "Wir *** das.",
+      "meaning_es": "lograr - conseguir - crear"
+    },
+    {
+      "term": "wunderbar",
+      "type": "Adjective",
+      "meaning_tr": "harika - şahane",
+      "meaning_en": "wonderful - marvelous",
+      "meaning_uk": "чудовий - дивовижний",
+      "example": "Ein ***er Tag.",
+      "meaning_es": "maravilloso - estupendo"
+    },
+    {
+      "term": "der Arbeiter / die Arbeiterin",
+      "type": "Noun",
+      "meaning_tr": "işçi",
+      "meaning_en": "worker - laborer",
+      "meaning_uk": "робітник",
+      "example": "Der *** arbeitet hier.",
+      "meaning_es": "trabajador"
+    },
+    {
+      "term": "die Industrie",
+      "type": "Noun",
+      "meaning_tr": "sanayi - endüstri",
+      "meaning_en": "industry - manufacturing",
+      "meaning_uk": "промисловість - індустрія",
+      "example": "Die *** wächst.",
+      "meaning_es": "industria"
+    },
+    {
+      "term": "berühmt",
+      "type": "Adjective",
+      "meaning_tr": "ünlü - meşhur",
+      "meaning_en": "famous - renowned",
+      "meaning_uk": "відомий - знаменитий",
+      "example": "Er ist ***.",
+      "meaning_es": "famoso - célebre"
+    },
+    {
+      "term": "das Gefühl",
+      "type": "Noun",
+      "meaning_tr": "duygu - his",
+      "meaning_en": "feeling - emotion",
+      "meaning_uk": "почуття - емоція",
+      "example": "Ein gutes ***.",
+      "meaning_es": "sentimiento - emoción"
+    },
+    {
+      "term": "das Projekt",
+      "type": "Noun",
+      "meaning_tr": "proje",
+      "meaning_en": "project",
+      "meaning_uk": "проєкт",
+      "example": "Das *** ist neu.",
+      "meaning_es": "proyecto"
+    },
+    {
+      "term": "die Integration",
+      "type": "Noun",
+      "meaning_tr": "entegrasyon - bütünleşme",
+      "meaning_en": "integration - assimilation",
+      "meaning_uk": "інтеграція - злиття",
+      "example": "*** ist wichtig.",
+      "meaning_es": "integración"
+    },
+    {
+      "term": "der Rassismus",
+      "type": "Noun",
+      "meaning_tr": "ırkçılık",
+      "meaning_en": "racism",
+      "meaning_uk": "расизм",
+      "example": "*** ist verboten.",
+      "meaning_es": "racismo"
+    },
+    {
+      "term": "engagiert sein",
+      "type": "Phrase",
+      "meaning_tr": "aktif olmak - kendini adamak",
+      "meaning_en": "be engaged - be committed",
+      "meaning_uk": "бути залученим - бути відданим",
+      "example": "Er ist sehr ***.",
+      "meaning_es": "estar comprometido - participar activamente"
+    },
+    {
+      "term": "sozial",
+      "type": "Adjective",
+      "meaning_tr": "sosyal",
+      "meaning_en": "social",
+      "meaning_uk": "соціальний",
+      "example": "Ein ***es Projekt.",
+      "meaning_es": "social"
+    },
+    {
+      "term": "das Stück",
+      "type": "Noun",
+      "meaning_tr": "parça - kesim",
+      "meaning_en": "piece - part",
+      "meaning_uk": "шматок - частина",
+      "example": "Ein *** Kuchen.",
+      "meaning_es": "pieza - trozo"
+    },
+    {
+      "term": "übernachten",
+      "type": "Verb",
+      "meaning_tr": "gecelemek - gece kalmak",
+      "meaning_en": "stay overnight - lodge",
+      "meaning_uk": "ночувати - пере കивати",
+      "example": "Wir *** hier.",
+      "meaning_es": "pasar la noche - alojarse"
+    },
+    {
+      "term": "zurechtkommen",
+      "type": "Verb",
+      "meaning_tr": "başa çıkmak - halletmek",
+      "meaning_en": "cope - manage",
+      "meaning_uk": "справлятися - впоратися",
+      "example": "Ich komme gut ***.",
+      "meaning_es": "arreglárselas - manejar"
+    },
+    {
+      "term": "ablehnen",
+      "type": "Verb",
+      "meaning_tr": "reddetmek - geri çevirmek",
+      "meaning_en": "reject - refuse",
+      "meaning_uk": "відхиляти - відмовляти",
+      "example": "Ich *** das Angebot.",
+      "meaning_es": "rechazar - denegar"
+    },
+    {
+      "term": "vorhaben",
+      "type": "Verb",
+      "meaning_tr": "planlamak - niyet etmek",
+      "meaning_en": "intend - plan - have in mind",
+      "meaning_uk": "планувати - мати намір",
+      "example": "Ich *** etwas.",
+      "meaning_es": "tener la intención - planear"
+    },
+    {
+      "term": "die Abteilung",
+      "type": "Noun",
+      "meaning_tr": "departman - bölüm",
+      "meaning_en": "department - section",
+      "meaning_uk": "відділ - департамент",
+      "example": "Die *** ist groß.",
+      "meaning_es": "departamento - sección"
+    },
+    {
+      "term": "die Technik",
+      "type": "Noun",
+      "meaning_tr": "teknik - teknoloji",
+      "meaning_en": "technology - engineering",
+      "meaning_uk": "техніка - технологія",
+      "example": "Die *** hilft.",
+      "meaning_es": "tecnología - técnica"
+    },
+    {
+      "term": "der Ausbilder / die Ausbilderin",
+      "type": "Noun",
+      "meaning_tr": "eğitmen - usta",
+      "meaning_en": "trainer - instructor",
+      "meaning_uk": "інструктор - наставник",
+      "example": "Der *** erklärt viel.",
+      "meaning_es": "instructor - formador"
+    },
+    {
+      "term": "die Mittagspause",
+      "type": "Noun",
+      "meaning_tr": "öğle arası - öğle yemeği molası",
+      "meaning_en": "lunch break",
+      "meaning_uk": "обідня перерва",
+      "example": "In der *** esse ich.",
+      "meaning_es": "pausa para el almuerzo"
+    },
+    {
+      "term": "erhalten",
+      "type": "Verb",
+      "meaning_tr": "almak - elde etmek",
+      "meaning_en": "receive - obtain",
+      "meaning_uk": "отримувати - здобувати",
+      "example": "Ich *** Geld.",
+      "meaning_es": "recibir - obtener"
+    },
+    {
+      "term": "notwendig",
+      "type": "Adjective",
+      "meaning_tr": "gerekli - lazım",
+      "meaning_en": "necessary - essential",
+      "meaning_uk": "необхідний - потрібний",
+      "example": "Das ist ***.",
+      "meaning_es": "necesario - imprescindible"
+    },
+    {
+      "term": "die Arbeitskleidung",
+      "type": "Noun",
+      "meaning_tr": "iş kıyafeti - iş önlüğü",
+      "meaning_en": "work clothes - uniform",
+      "meaning_uk": "робочий одяг - уніформа",
+      "example": "Die *** ist sauber.",
+      "meaning_es": "ropa de trabajo - uniforme"
+    },
+    {
+      "term": "die Personalabteilung",
+      "type": "Noun",
+      "meaning_tr": "İnsan Kaynakları - personel departmanı",
+      "meaning_en": "HR department - personnel department",
+      "meaning_uk": "відділ кадрів - відділ персоналу",
+      "example": "Die *** hilft.",
+      "meaning_es": "departamento de recursos humanos"
+    },
+    {
+      "term": "der Personalausweis",
+      "type": "Noun",
+      "meaning_tr": "kimlik kartı",
+      "meaning_en": "ID card - identity card",
+      "meaning_uk": "посвідчення особи - ідентифікаційна картка",
+      "example": "Ich brauche den ***.",
+      "meaning_es": "documento de identidad - carné de identidad"
+    },
+    {
+      "term": "das Bankkonto",
+      "type": "Noun",
+      "meaning_tr": "banka hesabı",
+      "meaning_en": "bank account",
+      "meaning_uk": "банківський рахунок",
+      "example": "Ich habe ein ***.",
+      "meaning_es": "cuenta bancaria"
+    },
+    {
+      "term": "selbstständig",
+      "type": "Adjective",
+      "meaning_tr": "serbest - bağımsız",
+      "meaning_en": "self-employed - independent",
+      "meaning_uk": "самозайнятий - незалежний",
+      "example": "Er ist ***.",
+      "meaning_es": "autónomo - independiente"
+    },
+    {
+      "term": "die Berufserfahrung",
+      "type": "Noun",
+      "meaning_tr": "mesleki deneyim - iş tecrübesi",
+      "meaning_en": "work experience - professional experience",
+      "meaning_uk": "досвід роботи - професійний досвід",
+      "example": "*** ist wichtig.",
+      "meaning_es": "experiencia laboral"
+    },
+    {
+      "term": "der Elektroniker / die Elektronikerin",
+      "type": "Noun",
+      "meaning_tr": "elektronikçi",
+      "meaning_en": "electronics technician",
+      "meaning_uk": "електронік - технік з електроніки",
+      "example": "Der *** repariert.",
+      "meaning_es": "técnico en electrónica"
+    },
+    {
+      "term": "der Ingenieur / die Ingenieurin",
+      "type": "Noun",
+      "meaning_tr": "mühendis",
+      "meaning_en": "engineer",
+      "meaning_uk": "інженер",
+      "example": "Die *** plant.",
+      "meaning_es": "ingeniero"
+    },
+    {
+      "term": "der Journalist / die Journalistin",
+      "type": "Noun",
+      "meaning_tr": "gazeteci - muhabir",
+      "meaning_en": "journalist - reporter",
+      "meaning_uk": "журналіст",
+      "example": "Der *** schreibt.",
+      "meaning_es": "periodista"
+    },
+    {
+      "term": "der Künstler / die Künstlerin",
+      "type": "Noun",
+      "meaning_tr": "sanatçı",
+      "meaning_en": "artist",
+      "meaning_uk": "митець - художник",
+      "example": "Die *** malt.",
+      "meaning_es": "artista"
+    },
+    {
+      "term": "der Musiker / die Musikerin",
+      "type": "Noun",
+      "meaning_tr": "müzisyen",
+      "meaning_en": "musician",
+      "meaning_uk": "музикант",
+      "example": "Der *** spielt.",
+      "meaning_es": "músico"
+    },
+    {
+      "term": "der Pförtner / die Pförtnerin",
+      "type": "Noun",
+      "meaning_tr": "kapıcı - bekçi",
+      "meaning_en": "doorkeeper - gatekeeper",
+      "meaning_uk": "двірник - охоронець",
+      "example": "Der *** hilft.",
+      "meaning_es": "portero - conserje"
+    },
+    {
+      "term": "der Politiker / die Politikerin",
+      "type": "Noun",
+      "meaning_tr": "politikacı",
+      "meaning_en": "politician",
+      "meaning_uk": "політик",
+      "example": "Der *** spricht.",
+      "meaning_es": "político"
+    },
+    {
+      "term": "der Rechtsanwalt / die Rechtsanwältin",
+      "type": "Noun",
+      "meaning_tr": "avukat",
+      "meaning_en": "lawyer - attorney",
+      "meaning_uk": "адвокат - юрист",
+      "example": "Der *** berät.",
+      "meaning_es": "abogado"
+    },
+    {
+      "term": "der Sänger / die Sängerin",
+      "type": "Noun",
+      "meaning_tr": "şarkıcı",
+      "meaning_en": "singer",
+      "meaning_uk": "співак",
+      "example": "Die *** singt.",
+      "meaning_es": "cantante"
+    },
+    {
+      "term": "der Schauspieler / die Schauspielerin",
+      "type": "Noun",
+      "meaning_tr": "oyuncu - aktör",
+      "meaning_en": "actor - performer",
+      "meaning_uk": "актор - виконавець",
+      "example": "Der *** spielt.",
+      "meaning_es": "actor - intérprete"
+    },
+    {
+      "term": "der Sportler / die Sportlerin",
+      "type": "Noun",
+      "meaning_tr": "sporcu",
+      "meaning_en": "athlete - sportsman",
+      "meaning_uk": "спортсмен",
+      "example": "Die *** trainiert.",
+      "meaning_es": "atleta - deportista"
+    },
+    {
+      "term": "die Anrede",
+      "type": "Noun",
+      "meaning_tr": "hitap - selamlama",
+      "meaning_en": "salutation - form of address",
+      "meaning_uk": "звертання - привітання",
+      "example": "Die *** ist wichtig.",
+      "meaning_es": "saludo - tratamiento"
+    },
+    {
+      "term": "der Gruß",
+      "type": "Noun",
+      "meaning_tr": "selam - tebrik",
+      "meaning_en": "greeting - regards",
+      "meaning_uk": "привітання - вітання",
+      "example": "Viele ***e.",
+      "meaning_es": "saludo - cortesía"
+    },
+    {
+      "term": "HG",
+      "type": "Abbreviation",
+      "meaning_tr": "kalpten selamlar - saygılarımla",
+      "meaning_en": "kind regards - sincerely",
+      "meaning_uk": "щирі вітання - з повагою",
+      "example": "*** aus Berlin.",
+      "meaning_es": "cordiales saludos - atentamente"
+    },
+    {
+      "term": "VG",
+      "type": "Abbreviation",
+      "meaning_tr": "çok selamlar - saygılarımla",
+      "meaning_en": "best regards - regards",
+      "meaning_uk": "найкращі побажання - з повагою",
+      "example": "*** aus München.",
+      "meaning_es": "mejores deseos - saludos"
+    },
+    {
+      "term": "LG",
+      "type": "Abbreviation",
+      "meaning_tr": "sevgilerle",
+      "meaning_en": "love - regards",
+      "meaning_uk": "з любов'ю",
+      "example": "*** dein Freund.",
+      "meaning_es": "con cariño - saludos afectuosos"
+    }
   ]
 }

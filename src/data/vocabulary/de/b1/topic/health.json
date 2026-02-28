@@ -1,0 +1,276 @@
+{
+  "title": "Gesundheit & Krankheit B1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Gesundheit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sağlık",
+      "meaning_en": "health",
+      "meaning_uk": "здоров'я",
+      "meaning_es": "la salud",
+      "example": "Regelmäßige Bewegung fördert ***die Gesundheit***."
+    },
+    {
+      "term": "die Krankheit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "hastalık",
+      "meaning_en": "illness, sickness",
+      "meaning_uk": "хвороба",
+      "meaning_es": "la enfermedad",
+      "example": "Er hat sich eine schwere ***Krankheit*** zugezogen."
+    },
+    {
+      "term": "der Arzt / die Ärztin",
+      "type": "Substantiv (m/f)",
+      "meaning_tr": "doktor",
+      "meaning_en": "doctor, physician",
+      "meaning_uk": "лікар",
+      "meaning_es": "el médico / la médica",
+      "example": "Ich muss nächste Woche ***zum Arzt*** gehen."
+    },
+    {
+      "term": "die Apotheke",
+      "type": "Substantiv (f)",
+      "meaning_tr": "eczane",
+      "meaning_en": "pharmacy, chemist's",
+      "meaning_uk": "аптека",
+      "meaning_es": "la farmacia",
+      "example": "Das Medikament bekommst du nur in ***der Apotheke***."
+    },
+    {
+      "term": "das Medikament",
+      "type": "Substantiv (n)",
+      "meaning_tr": "ilaç",
+      "meaning_en": "medication, drug",
+      "meaning_uk": "ліки",
+      "meaning_es": "el medicamento",
+      "example": "Nimm dieses ***Medikament*** dreimal täglich ein."
+    },
+    {
+      "term": "der Schmerz",
+      "type": "Substantiv (m)",
+      "meaning_tr": "ağrı",
+      "meaning_en": "pain",
+      "meaning_uk": "біль",
+      "meaning_es": "el dolor",
+      "example": "Ich habe starke ***Schmerzen*** im Rücken."
+    },
+    {
+      "term": "sich untersuchen lassen",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "kontrol olmak",
+      "meaning_en": "to get examined",
+      "meaning_uk": "пройти обстеження",
+      "meaning_es": "hacerse examinar",
+      "example": "Es ist wichtig, ***sich regelmäßig untersuchen zu lassen***."
+    },
+    {
+      "term": "die Verschnupfung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "nezle",
+      "meaning_en": "a cold (slight cold)",
+      "meaning_uk": "застуда",
+      "meaning_es": "el resfriado",
+      "example": "Wegen ***einer leichten Verschnupfung*** bleibe ich heute zu Hause."
+    },
+    {
+      "term": "husten",
+      "type": "Verb",
+      "meaning_tr": "öksürmek",
+      "meaning_en": "to cough",
+      "meaning_uk": "кашляти",
+      "meaning_es": "toser",
+      "example": "Seit gestern ***huste*** ich sehr viel."
+    },
+    {
+      "term": "die Grippe",
+      "type": "Substantiv (f)",
+      "meaning_tr": "grip",
+      "meaning_en": "flu, influenza",
+      "meaning_uk": "грип",
+      "meaning_es": "la gripe",
+      "example": "Viele Menschen bekommen im Winter ***die Grippe***."
+    },
+    {
+      "term": "fieberhaft",
+      "type": "Adjektiv",
+      "meaning_tr": "ateşli",
+      "meaning_en": "feverish",
+      "meaning_uk": "гарячковий",
+      "meaning_es": "febril",
+      "example": "Das Kind ist sehr krank und ***fieberhaft***."
+    },
+    {
+      "term": "die Wunde",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yara",
+      "meaning_en": "wound",
+      "meaning_uk": "рана",
+      "meaning_es": "la herida",
+      "example": "Die ***Wunde*** muss desinfiziert werden."
+    },
+    {
+      "term": "verbinden",
+      "type": "Verb",
+      "meaning_tr": "sarmak, bandaj yapmak",
+      "meaning_en": "to bandage, to dress (a wound)",
+      "meaning_uk": "перев'язувати",
+      "meaning_es": "vendar",
+      "example": "Der Sanitäter musste den Arm ***verbinden***."
+    },
+    {
+      "term": "die Nebenwirkung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yan etki",
+      "meaning_en": "side effect",
+      "meaning_uk": "побічний ефект",
+      "meaning_es": "el efecto secundario",
+      "example": "Zu den ***Nebenwirkungen*** gehören Müdigkeit und Kopfschmerzen."
+    },
+    {
+      "term": "die Behandlung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "tedavi",
+      "meaning_en": "treatment, therapy",
+      "meaning_uk": "лікування",
+      "meaning_es": "el tratamiento",
+      "example": "Seine ***Behandlung*** dauert noch mehrere Wochen."
+    },
+    {
+      "term": "sich erholen",
+      "type": "Verb (reflexiv)",
+      "meaning_tr": "iyileşmek, dinlenmek",
+      "meaning_en": "to recover, to recuperate",
+      "meaning_uk": "одужувати",
+      "meaning_es": "recuperarse",
+      "example": "Er braucht Zeit, ***um sich*** vollständig ***zu erholen***."
+    },
+    {
+      "term": "die Übelkeit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "mide bulantısı",
+      "meaning_en": "nausea",
+      "meaning_uk": "нудота",
+      "meaning_es": "la náusea",
+      "example": "Nach der Fahrt hatte sie ***Übelkeit***."
+    },
+    {
+      "term": "erbrechen",
+      "type": "Verb (intransitiv)",
+      "meaning_tr": "kusmak",
+      "meaning_en": "to vomit",
+      "meaning_uk": "блювати",
+      "meaning_es": "vomitar",
+      "example": "Er musste sich mehrmals ***erbrechen***."
+    },
+    {
+      "term": "der Blutdruck",
+      "type": "Substantiv (m)",
+      "meaning_tr": "tansiyon",
+      "meaning_en": "blood pressure",
+      "meaning_uk": "артеріальний тиск",
+      "meaning_es": "la presión arterial",
+      "example": "Mein ***Blutdruck*** ist heute etwas zu hoch."
+    },
+    {
+      "term": "die Ernährung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "beslenme",
+      "meaning_en": "nutrition, diet",
+      "meaning_uk": "харчування",
+      "meaning_es": "la nutrición, la dieta",
+      "example": "Eine gesunde ***Ernährung*** ist wichtig für die Fitness."
+    },
+    {
+      "term": "die Impfung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "aşı",
+      "meaning_en": "vaccination, immunization",
+      "meaning_uk": "щеплення",
+      "meaning_es": "la vacunación",
+      "example": "Ist die ***Impfung*** gegen Tetanus aktuell?"
+    },
+    {
+      "term": "chronisch",
+      "type": "Adjektiv",
+      "meaning_tr": "kronik",
+      "meaning_en": "chronic",
+      "meaning_uk": "хронічний",
+      "meaning_es": "crónico",
+      "example": "Er leidet an einer ***chronischen*** Erkrankung der Gelenke."
+    },
+    {
+      "term": "akut",
+      "type": "Adjektiv",
+      "meaning_tr": "akut, ani",
+      "meaning_en": "acute",
+      "meaning_uk": "гострий",
+      "meaning_es": "agudo",
+      "example": "Die Situation ist momentan ***akut*** und muss sofort behandelt werden."
+    },
+    {
+      "term": "die Diagnose",
+      "type": "Substantiv (f)",
+      "meaning_tr": "teşhis",
+      "meaning_en": "diagnosis",
+      "meaning_uk": "діагноз",
+      "meaning_es": "el diagnóstico",
+      "example": "Nach langer Wartezeit erhielt er endlich ***die Diagnose***."
+    },
+    {
+      "term": "die Verletzung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yaralanma",
+      "meaning_en": "injury, lesion",
+      "meaning_uk": "травма",
+      "meaning_es": "la lesión, la herida",
+      "example": "Beim Sport zog er sich eine schwere ***Verletzung*** zu."
+    },
+    {
+      "term": "der Verband",
+      "type": "Substantiv (m)",
+      "meaning_tr": "sargı, bandaj",
+      "meaning_en": "bandage, dressing",
+      "meaning_uk": "пов'язка",
+      "meaning_es": "el vendaje",
+      "example": "Der Arzt wechselt morgen ***den Verband***."
+    },
+    {
+      "term": "die Verschreibung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "reçete",
+      "meaning_en": "prescription",
+      "meaning_uk": "рецепт",
+      "meaning_es": "la receta médica",
+      "example": "Ohne ***Verschreibung*** kann ich Ihnen das nicht geben."
+    },
+    {
+      "term": "der Notfall",
+      "type": "Substantiv (m)",
+      "meaning_tr": "acil durum",
+      "meaning_en": "emergency",
+      "meaning_uk": "надзвичайна ситуація",
+      "meaning_es": "la emergencia",
+      "example": "Bei ***einem Notfall*** rufen Sie bitte 112 an."
+    },
+    {
+      "term": "blass",
+      "type": "Adjektiv",
+      "meaning_tr": "solgun, benizsiz",
+      "meaning_en": "pale",
+      "meaning_uk": "блідий",
+      "meaning_es": "pálido",
+      "example": "Sie sah nach dem Unfall sehr ***blass*** aus."
+    },
+    {
+      "term": "müde",
+      "type": "Adjektiv",
+      "meaning_tr": "yorgun",
+      "meaning_en": "tired",
+      "meaning_uk": "втомлений",
+      "meaning_es": "cansado",
+      "example": "Ich bin wegen der Erkältung besonders ***müde***."
+    }
+  ]
+}

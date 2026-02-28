@@ -1,0 +1,276 @@
+{
+  "title": "Essen & Trinken B1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Vorspeise",
+      "type": "Substantiv (f)",
+      "meaning_tr": "başlangıç yemeği",
+      "meaning_en": "appetizer",
+      "meaning_uk": "закуска",
+      "meaning_es": "el entrante",
+      "example": "Als *** bestellen wir eine gemischte Platte."
+    },
+    {
+      "term": "der Hauptgang",
+      "type": "Substantiv (m)",
+      "meaning_tr": "ana yemek",
+      "meaning_en": "main course",
+      "meaning_uk": "основна страва",
+      "meaning_es": "el plato principal",
+      "example": "Nach der Suppe folgt ***."
+    },
+    {
+      "term": "das Dessert",
+      "type": "Substantiv (n)",
+      "meaning_tr": "tatlı",
+      "meaning_en": "dessert",
+      "meaning_uk": "десерт",
+      "meaning_es": "el postre",
+      "example": "Zum Abschluss gibt es ein leckeres ***."
+    },
+    {
+      "term": "die Zutat",
+      "type": "Substantiv (f)",
+      "meaning_tr": "içindekiler",
+      "meaning_en": "ingredient",
+      "meaning_uk": "інгредієнт",
+      "meaning_es": "el ingrediente",
+      "example": "Welche *** brauchen wir für diesen Kuchen?"
+    },
+    {
+      "term": "die Speisekarte",
+      "type": "Substantiv (f)",
+      "meaning_tr": "menü",
+      "meaning_en": "menu",
+      "meaning_uk": "меню",
+      "meaning_es": "la carta",
+      "example": "Könnten wir bitte *** bekommen?"
+    },
+    {
+      "term": "zubereiten",
+      "type": "Verb",
+      "meaning_tr": "hazırlamak",
+      "meaning_en": "to prepare",
+      "meaning_uk": "готувати",
+      "meaning_es": "preparar",
+      "example": "Sie muss das Abendessen noch ***."
+    },
+    {
+      "term": "würzen",
+      "type": "Verb",
+      "meaning_tr": "baharatlamak",
+      "meaning_en": "to season",
+      "meaning_uk": "приправляти",
+      "meaning_es": "sazonar",
+      "example": "Vergiss nicht, die Soße richtig zu ***."
+    },
+    {
+      "term": "abschmecken",
+      "type": "Verb",
+      "meaning_tr": "tadına bakmak, tadını ayarlamak",
+      "meaning_en": "to taste and season",
+      "meaning_uk": "доводити до смаку",
+      "meaning_es": "probar y ajustar el sabor",
+      "example": "Ich muss die Suppe noch einmal ***, bevor ich sie serviere."
+    },
+    {
+      "term": "die Nachspeise",
+      "type": "Substantiv (f)",
+      "meaning_tr": "tatlı",
+      "meaning_en": "dessert (often more formal than 'Dessert')",
+      "meaning_uk": "десерт",
+      "meaning_es": "el postre",
+      "example": "Möchten Sie noch eine kleine ***?"
+    },
+    {
+      "term": "die Beilage",
+      "type": "Substantiv (f)",
+      "meaning_tr": "yan ürün, garnitür",
+      "meaning_en": "side dish",
+      "meaning_uk": "гарнір",
+      "meaning_es": "la guarnición",
+      "example": "Dazu servieren wir Kartoffeln als ***."
+    },
+    {
+      "term": "der Wein",
+      "type": "Substantiv (m)",
+      "meaning_tr": "şarap",
+      "meaning_en": "wine",
+      "meaning_uk": "вино",
+      "meaning_es": "el vino",
+      "example": "Welchen *** empfehlen Sie zum Steak?"
+    },
+    {
+      "term": "das Mineralwasser",
+      "type": "Substantiv (n)",
+      "meaning_tr": "maden suyu",
+      "meaning_en": "mineral water",
+      "meaning_uk": "мінеральна вода",
+      "meaning_es": "el agua mineral",
+      "example": "Ich trinke lieber stilles Wasser als ***."
+    },
+    {
+      "term": "der Saft",
+      "type": "Substantiv (m)",
+      "meaning_tr": "meyve suyu",
+      "meaning_en": "juice",
+      "meaning_uk": "сік",
+      "meaning_es": "el zumo/jugo",
+      "example": "Zum Frühstück trinke ich immer Orangensaft oder ***."
+    },
+    {
+      "term": "der Aperitif",
+      "type": "Substantiv (m)",
+      "meaning_tr": "iştah açıcı",
+      "meaning_en": "aperitif",
+      "meaning_uk": "аперитив",
+      "meaning_es": "el aperitivo",
+      "example": "Vor dem Essen nehmen wir einen kleinen ***."
+    },
+    {
+      "term": "der Digestif",
+      "type": "Substantiv (m)",
+      "meaning_tr": "sindirime yardımcı içki",
+      "meaning_en": "digestif",
+      "meaning_uk": "дижестив",
+      "meaning_es": "el digestivo",
+      "example": "Ein Schnaps nach dem Essen wird oft als *** serviert."
+    },
+    {
+      "term": "die Nachbestellung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "ek sipariş",
+      "meaning_en": "reorder",
+      "meaning_uk": "повторне замовлення",
+      "meaning_es": "el nuevo pedido",
+      "example": "Wir brauchen noch ein Getränk, können wir eine *** aufgeben?"
+    },
+    {
+      "term": "der Nachtisch",
+      "type": "Substantiv (m)",
+      "meaning_tr": "tatlı",
+      "meaning_en": "dessert (common term)",
+      "meaning_uk": "десерт",
+      "meaning_es": "el postre",
+      "example": "Was gibt es heute als ***?"
+    },
+    {
+      "term": "die Konservendose",
+      "type": "Substantiv (f)",
+      "meaning_tr": "konserve kutusu",
+      "meaning_en": "tin can",
+      "meaning_uk": "консервна банка",
+      "meaning_es": "la lata de conservas",
+      "example": "Ich habe noch eine *** Erbsen im Schrank."
+    },
+    {
+      "term": "überbacken",
+      "type": "Verb (Partizip II)",
+      "meaning_tr": "fırında üzeri kızartılmış",
+      "meaning_en": "au gratin / baked over",
+      "meaning_uk": "запечений під скоринкою",
+      "meaning_es": "gratinado",
+      "example": "Der Auflauf ist schön *** und goldbraun."
+    },
+    {
+      "term": "dämpfen",
+      "type": "Verb",
+      "meaning_tr": "buharda pişirmek",
+      "meaning_en": "to steam",
+      "meaning_uk": "готувати на пару",
+      "meaning_es": "cocinar al vapor",
+      "example": "Gemüse sollte man am besten ***, um Vitamine zu erhalten."
+    },
+    {
+      "term": "mischen",
+      "type": "Verb",
+      "meaning_tr": "karıştırmak",
+      "meaning_en": "to mix",
+      "meaning_uk": "змішувати",
+      "meaning_es": "mezclar",
+      "example": "Bitte alle Zutaten gut ***."
+    },
+    {
+      "term": "die Mehlspeise",
+      "type": "Substantiv (f)",
+      "meaning_tr": "unlu mamül",
+      "meaning_en": "flour-based dish (often sweet)",
+      "meaning_uk": "страва з борошна",
+      "meaning_es": "plato de harina",
+      "example": "Kaiserschmarrn ist eine beliebte österreichische ***."
+    },
+    {
+      "term": "die Reste",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "artıkları, kalanlar",
+      "meaning_en": "leftovers",
+      "meaning_uk": "залишки",
+      "meaning_es": "las sobras",
+      "example": "Wir essen heute Abend einfach *** vom Vortag."
+    },
+    {
+      "term": "sättigend",
+      "type": "Adjektiv",
+      "meaning_tr": "doyurucu",
+      "meaning_en": "filling, satisfying",
+      "meaning_uk": "ситий",
+      "meaning_es": "saciente",
+      "example": "Kartoffeln sind sehr ***."
+    },
+    {
+      "term": "der Schuss (Alkohol)",
+      "type": "Substantiv (m)",
+      "meaning_tr": "bir tutam (alkol)",
+      "meaning_en": "a dash (of alcohol)",
+      "meaning_uk": "трохи (алкоголю)",
+      "meaning_es": "un chorrito (de alcohol)",
+      "example": "In den Kaffee kommt nur ein kleiner *** Rum."
+    },
+    {
+      "term": "die Kalorien",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "kaloriler",
+      "meaning_en": "calories",
+      "meaning_uk": "калорії",
+      "meaning_es": "las calorías",
+      "example": "Ich versuche, Lebensmittel mit wenigen *** zu essen."
+    },
+    {
+      "term": "das Gebäck",
+      "type": "Substantiv (n)",
+      "meaning_tr": "pişmiş ürün, hamur işi",
+      "meaning_en": "pastry, baked goods",
+      "meaning_uk": "випічка",
+      "meaning_es": "la bollería/los pasteles",
+      "example": "Zum Kaffee gibt es immer frisches ***."
+    },
+    {
+      "term": "die Reife",
+      "type": "Substantiv (f)",
+      "meaning_tr": "olgunluk",
+      "meaning_en": "ripeness",
+      "meaning_uk": "стиглість",
+      "meaning_es": "la madurez",
+      "example": "Der Käse hat die perfekte ***."
+    },
+    {
+      "term": "der Geschmackssinn",
+      "type": "Substantiv (m)",
+      "meaning_tr": "tat alma duyusu",
+      "meaning_en": "sense of taste",
+      "meaning_uk": "смак",
+      "meaning_es": "el sentido del gusto",
+      "example": "Nach der Erkältung war mein *** beeinträchtigt."
+    },
+    {
+      "term": "die Verzehrsempfehlung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "tüketim önerisi",
+      "meaning_en": "recommended consumption",
+      "meaning_uk": "рекомендація до вживання",
+      "meaning_es": "la recomendación de consumo",
+      "example": "Die *** auf der Packung sollte man beachten."
+    }
+  ]
+}

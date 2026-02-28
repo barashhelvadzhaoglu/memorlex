@@ -2,87 +2,742 @@
   "title": "Integration A2 - Kapitel 10: Gefühle, Konflikte & Zusammenarbeit",
   "language": "de",
   "words": [
-    {"term": "die Stimmung", "type": "Noun", "meaning_tr": "ruh hali / atmosfer", "meaning_en": "mood / atmosphere", "meaning_uk": "настрій / атмосфера", "example": "Die *** auf der Party war gestern sehr gut."},
-    {"term": "gemütlich", "type": "Adjective", "meaning_tr": "rahat / keyifli / samimi", "meaning_en": "cozy / comfortable", "meaning_uk": "затишний", "example": "In diesem kleinen Café ist es sehr ***."},
-    {"term": "stolz", "type": "Adjective", "meaning_tr": "gururlu", "meaning_en": "proud", "meaning_uk": "гордий", "example": "Er ist sehr *** auf seine gute Note in der Prüfung."},
-    {"term": "sauer", "type": "Adjective", "meaning_tr": "kızgın / dargın", "meaning_en": "angry / cross", "meaning_uk": "сердитий", "example": "Bist du immer noch *** auf mich?"},
-    {"term": "genervt", "type": "Adjective", "meaning_tr": "sinirli / rahatsız olmuş", "meaning_en": "annoyed", "meaning_uk": "роздратований", "example": "Ich bin von dem lauten Lärm im Büro total ***."},
-    {"term": "froh", "type": "Adjective", "meaning_tr": "mutlu / memnun", "meaning_en": "glad / happy", "meaning_uk": "радісний", "example": "Ich bin ***, dass du mir geholfen hast."},
-    {"term": "entspannt", "type": "Adjective", "meaning_tr": "rahatlamış / gevşemiş", "meaning_en": "relaxed", "meaning_uk": "розслаблений", "example": "Nach dem Urlaub fühle ich mich sehr ***."},
-    {"term": "das Fieberthermometer", "type": "Noun", "meaning_tr": "ateş ölçer", "meaning_en": "thermometer", "meaning_uk": "термометр", "example": "Ich muss mit dem *** meine Temperatur messen."},
-    {"term": "zurücklegen", "type": "Verb", "meaning_tr": "yerine koymak / geri koymak", "meaning_en": "to put back", "meaning_uk": "покласти назад", "example": "Kannst du das Buch bitte ins Regal ***?"},
-    {"term": "unpünktlich", "type": "Adjective", "meaning_tr": "dakik olmayan", "meaning_en": "unpunctual", "meaning_uk": "непунктуальний", "example": "Er kommt leider oft *** zum Unterricht."},
-    {"term": "gleich", "type": "Adverb", "meaning_tr": "aynı / birazdan", "meaning_en": "same / soon", "meaning_uk": "однаковий / зараз", "example": "Warte kurz, ich komme *** zu dir."},
-    {"term": "streiten", "type": "Verb", "meaning_tr": "kavga etmek / tartışmak", "meaning_en": "to argue", "meaning_uk": "сперечатися", "example": "Wir *** uns manchmal über den Abwasch."},
-    {"term": "einfach", "type": "Adjective", "meaning_tr": "basit / kolay", "meaning_en": "simple / easy", "meaning_uk": "простий", "example": "Die Aufgabe war gar nicht so ***."},
-    {"term": "Urlaub eintragen", "type": "Phrase", "meaning_tr": "tatil (izni) yazdırmak", "meaning_en": "to sign up for vacation", "meaning_uk": "записувати відпустку", "example": "Hast du deinen *** schon in den Kalender ge***?"},
-    {"term": "schreien", "type": "Verb", "meaning_tr": "bağırmak", "meaning_en": "to scream", "meaning_uk": "кричати", "example": "Bitte *** nicht so laut, das Baby schläft."},
-    {"term": "ausreden lassen", "type": "Phrase", "meaning_tr": "sözünü bitirmesine izin vermek", "meaning_en": "to let someone finish speaking", "meaning_uk": "дати висловитися", "example": "Es ist höflich, wenn man andere Personen *** ***."},
-    {"term": "aufwachen", "type": "Verb", "meaning_tr": "uyanmak", "meaning_en": "to wake up", "meaning_uk": "прокидатися", "example": "Ich bin heute erst um neun Uhr ge***."},
-    {"term": "wütend", "type": "Adjective", "meaning_tr": "öfkeli", "meaning_en": "furious", "meaning_uk": "лютий", "example": "Er war sehr *** über die schlechte Nachricht."},
-    {"term": "unordentlich", "type": "Adjective", "meaning_tr": "dağınık / düzensiz", "meaning_en": "messy", "meaning_uk": "неохайний", "example": "In seinem Zimmer sieht es immer sehr *** aus."},
-    {"term": "stören", "type": "Verb", "meaning_tr": "rahatsız etmek", "meaning_en": "to disturb", "meaning_uk": "заважати", "example": "Entschuldigung, darf ich Sie kurz ***?"},
-    {"term": "in Ruhe", "type": "Phrase", "meaning_tr": "huzurla / kendi başına", "meaning_en": "in peace / quiet", "meaning_uk": "у спокої", "example": "Ich möchte mein Buch ganz *** *** lesen."},
-    {"term": "besprechen", "type": "Verb", "meaning_tr": "üzerinde konuşmak / tartışmak", "meaning_en": "to discuss", "meaning_uk": "обговорювати", "example": "Wir müssen das Problem morgen im Meeting ***."},
-    {"term": "öffnen", "type": "Verb", "meaning_tr": "açmak", "meaning_en": "to open", "meaning_uk": "відчиняти", "example": "Kannst du bitte das Fenster ***?"},
-    {"term": "springen", "type": "Verb", "meaning_tr": "atlamak / zıplamak", "meaning_en": "to jump", "meaning_uk": "стрибати", "example": "Die Kinder *** gerne auf dem Trampolin."},
-    {"term": "der Rauch", "type": "Noun", "meaning_tr": "duman", "meaning_en": "smoke", "meaning_uk": "дим", "example": "In der Küche gibt es viel ***, weil das Essen brennt."},
-    {"term": "weich", "type": "Adjective", "meaning_tr": "yumuşak", "meaning_en": "soft", "meaning_uk": "м'який", "example": "Das Kissen auf dem Sofa ist sehr ***."},
-    {"term": "sich legen", "type": "Verb", "meaning_tr": "uzanmak / yatmak", "meaning_en": "to lie down", "meaning_uk": "лягати", "example": "Nach der Arbeit muss ich mich kurz aufs Sofa ***."},
-    {"term": "das Futter", "type": "Noun", "meaning_tr": "hayvan yemi / mama", "meaning_en": "animal feed", "meaning_uk": "корм", "example": "Hast du schon gecheckt, ob die Katze noch *** hat?"},
-    {"term": "das Stück", "type": "Noun", "meaning_tr": "parça / tane", "meaning_en": "piece", "meaning_uk": "шматок", "example": "Möchtest du noch ein *** Kuchen?"},
-    {"term": "deshalb", "type": "Adverb", "meaning_tr": "bu yüzden", "meaning_en": "therefore", "meaning_uk": "тому", "example": "Es hat geregnet, *** sind wir zu Hause geblieben."},
-    {"term": "das Missverständnis", "type": "Noun", "meaning_tr": "yanlış anlaşılma", "meaning_en": "misunderstanding", "meaning_uk": "непорозуміння", "example": "Entschuldigung, das war wohl ein ***."},
-    {"term": "die Vermutung", "type": "Noun", "meaning_tr": "tahmin", "meaning_en": "assumption", "meaning_uk": "припущення", "example": "Ich habe nur eine ***, aber ich weiß es nicht genau."},
-    {"term": "die Lösung", "type": "Noun", "meaning_tr": "çözüm", "meaning_en": "solution", "meaning_uk": "рішення", "example": "Wir haben endlich eine *** für das Problem gefunden."},
-    {"term": "der Putzplan", "type": "Noun", "meaning_tr": "temizlik planı", "meaning_en": "cleaning schedule", "meaning_uk": "графік прибирання", "example": "Wer steht heute auf dem ***?"},
-    {"term": "einteilen", "type": "Verb", "meaning_tr": "bölüştürmek / ayırmak", "meaning_en": "to divide / organize", "meaning_uk": "розподіляти", "example": "Wir müssen die Arbeit fair ***."},
-    {"term": "sich kümmern um", "type": "Verb", "meaning_tr": "... ile ilgilenmek", "meaning_en": "to take care of", "meaning_uk": "піклуватися про", "example": "Ich muss *** heute *** meine kranke Schwester ***."},
-    {"term": "erledigen", "type": "Verb", "meaning_tr": "tamamlamak / halletmek", "meaning_en": "to deal with / finish", "meaning_uk": "виконувати", "example": "Ich muss heute noch viele Aufgaben ***."},
-    {"term": "nächstes Mal", "type": "Phrase", "meaning_tr": "bir dahaki sefere", "meaning_en": "next time", "meaning_uk": "наступного разу", "example": "Machen wir es *** *** besser?"},
-    {"term": "versuchen", "type": "Verb", "meaning_tr": "denemek", "meaning_en": "to try", "meaning_uk": "пробувати", "example": "Ich *** schon lange, ihn anzurufen."},
-    {"term": "kurzfristig", "type": "Adjective", "meaning_tr": "kısa süreli", "meaning_en": "short-term", "meaning_uk": "короткостроковий", "example": "Er hat den Termin leider *** abgesagt."},
-    {"term": "übernächste Woche", "type": "Phrase", "meaning_tr": "gelecek haftadan sonraki hafta", "meaning_en": "the week after next", "meaning_uk": "через тиждень", "example": "Ich fahre erst *** *** in den Urlaub."},
-    {"term": "die Spätschicht", "type": "Noun", "meaning_tr": "geç vardiya", "meaning_en": "late shift", "meaning_uk": "пізня зміна", "example": "Diese Woche habe ich leider ***."},
-    {"term": "übernehmen", "type": "Verb", "meaning_tr": "üstlenmek / devralmak", "meaning_en": "to take over", "meaning_uk": "брати на себе", "example": "Kannst du meine Schicht am Freitag ***?"},
-    {"term": "der Gefallen", "type": "Noun", "meaning_tr": "iyilik", "meaning_en": "favor", "meaning_uk": "послуга", "example": "Kannst du mir bitte einen *** tun?"},
-    {"term": "in Ordnung", "type": "Phrase", "meaning_tr": "yolunda / tamam", "meaning_en": "alright", "meaning_uk": "гаразд", "example": "Alles ist ***, mach dir keine Sorgen."},
-    {"term": "telefonisch", "type": "Adverb", "meaning_tr": "telefonla", "meaning_en": "by phone", "meaning_uk": "телефоном", "example": "Man kann den Termin auch *** vereinbaren."},
-    {"term": "der Auftrag", "type": "Noun", "meaning_tr": "görev / sipariş", "meaning_en": "order / task", "meaning_uk": "замовлення", "example": "Die Firma hat einen großen *** bekommen."},
-    {"term": "der Zettel", "type": "Noun", "meaning_tr": "not kağıdı", "meaning_en": "note / slip of paper", "meaning_uk": "записка", "example": "Ich schreibe dir die Nummer auf einen ***."},
-    {"term": "hinlegen", "type": "Verb", "meaning_tr": "koymak / bırakmak", "meaning_en": "to put down", "meaning_uk": "покласти", "example": "Bitte *** den Schlüssel auf den Tisch ***."},
-    {"term": "verzeihung", "type": "Noun", "meaning_tr": "affedersiniz / özür dilerim", "meaning_en": "pardon / forgiveness", "meaning_uk": "вибачення", "example": "Ich bitte um *** für meine Verspätung."},
-    {"term": "sich beschweren", "type": "Verb", "meaning_tr": "şikayet etmek", "meaning_en": "to complain", "meaning_uk": "скаржитися", "example": "Der Gast möchte *** über das kalte Essen ***."},
-    {"term": "in Zukunft", "type": "Phrase", "meaning_tr": "gelecekte", "meaning_en": "in the future", "meaning_uk": "у майбутньому", "example": "Bitte sei *** *** pünktlicher."},
-    {"term": "sich gewöhnen an", "type": "Verb", "meaning_tr": "...-e alışmak", "meaning_en": "to get used to", "meaning_uk": "звикати до", "example": "Man muss *** erst *** das Wetter hier ***."},
-    {"term": "wenigstens", "type": "Adverb", "meaning_tr": "en azından", "meaning_en": "at least", "meaning_uk": "принаймні", "example": "Es ist kalt, aber *** regnet es nicht."},
-    {"term": "klingeln", "type": "Verb", "meaning_tr": "zil çalmak", "meaning_en": "to ring", "meaning_uk": "дзвонити", "example": "Es hat an der Tür ge***."},
-    {"term": "die Probe", "type": "Noun", "meaning_tr": "deneme / prova", "meaning_en": "rehearsal / trial", "meaning_uk": "репетиція", "example": "Der Chor hat heute Abend eine wichtige ***."},
-    {"term": "sich bedanken bei", "type": "Verb", "meaning_tr": "...-e teşekkür etmek", "meaning_en": "to thank someone", "meaning_uk": "дякувати комусь", "example": "Ich möchte *** *** dir für deine Hilfe ***."},
-    {"term": "die Zusammenarbeit", "type": "Noun", "meaning_tr": "işbirliği", "meaning_en": "cooperation", "meaning_uk": "співпраця", "example": "Die *** in unserem Team funktioniert sehr gut."},
-    {"term": "zusammenarbeiten", "type": "Verb", "meaning_tr": "birlikte çalışmak", "meaning_en": "to work together", "meaning_uk": "працювати разом", "example": "Wir müssen für dieses Projekt eng ***."},
-    {"term": "unterstützen", "type": "Verb", "meaning_tr": "desteklemek", "meaning_en": "to support", "meaning_uk": "підтримувати", "example": "Meine Familie hat mich immer ge***."},
-    {"term": "der Roboter", "type": "Noun", "meaning_tr": "robot", "meaning_en": "robot", "meaning_uk": "робот", "example": "In der Fabrik arbeiten viele ***."},
-    {"term": "kreativ", "type": "Adjective", "meaning_tr": "yaratıcı", "meaning_en": "creative", "meaning_uk": "творчий", "example": "Sie ist sehr *** und malt tolle Bilder."},
-    {"term": "kompliziert", "type": "Adjective", "meaning_tr": "karmaşık", "meaning_en": "complicated", "meaning_uk": "складний", "example": "Das ist eine sehr ***e Frage."},
-    {"term": "effektiv", "type": "Adjective", "meaning_tr": "etkili", "meaning_en": "effective", "meaning_uk": "ефективний", "example": "Wir müssen eine ***e Lösung finden."},
-    {"term": "miteinander", "type": "Adverb", "meaning_tr": "birbiriyle / birlikte", "meaning_en": "with each other", "meaning_uk": "один з одним", "example": "Wir sollten mehr *** sprechen."},
-    {"term": "sich engagieren", "type": "Verb", "meaning_tr": "dahil olmak / aktif olmak", "meaning_en": "to get involved", "meaning_uk": "брати активну участь", "example": "Er möchte *** in einem Verein ***."},
-    {"term": "ehrenamtlich", "type": "Adjective", "meaning_tr": "gönüllü olarak", "meaning_en": "voluntary", "meaning_uk": "добровільний (на громадських засадах)", "example": "Sie arbeitet *** in einem Seniorenheim."},
-    {"term": "die Geduld", "type": "Noun", "meaning_tr": "sabır", "meaning_en": "patience", "meaning_uk": "терпіння", "example": "Beim Lernen einer Sprache braucht man viel ***."},
-    {"term": "positiv", "type": "Adjective", "meaning_tr": "pozitif", "meaning_en": "positive", "meaning_uk": "позитивний", "example": "Bleib immer ***, egal was passiert."},
-    {"term": "faszinierend", "type": "Adjective", "meaning_tr": "büyüleyici", "meaning_en": "fascinating", "meaning_uk": "захоплюючий", "example": "Die Geschichte des Landes ist absolut ***."},
-    {"term": "international", "type": "Adjective", "meaning_tr": "uluslararası", "meaning_en": "international", "meaning_uk": "міжнародний", "example": "Berlin ist eine sehr ***e Stadt."},
-    {"term": "der Kontinent", "type": "Noun", "meaning_tr": "kıta", "meaning_en": "continent", "meaning_uk": "континент", "example": "Europa ist ein kleiner ***."},
-    {"term": "die Art", "type": "Noun", "meaning_tr": "tür / tarz", "meaning_en": "kind / type / way", "meaning_uk": "вид / спосіб", "example": "Ich mag seine *** zu arbeiten."},
-    {"term": "zur Sache kommen", "type": "Phrase", "meaning_tr": "sadede gelmek", "meaning_en": "to get to the point", "meaning_uk": "переходити до справи", "example": "Bitte nicht so viel reden, wir sollten jetzt *** *** ***."},
-    {"term": "sich persönlich näher kommen", "type": "Phrase", "meaning_tr": "kişisel olarak yakınlaşmak", "meaning_en": "to get closer personally", "meaning_uk": "зближуватися особисто", "example": "Bei der Arbeit können sich Kollegen auch *** *** ***."},
-    {"term": "gleichzeitig", "type": "Adverb", "meaning_tr": "aynı zamanda", "meaning_en": "at the same time", "meaning_uk": "одночасно", "example": "Man kann nicht zwei Dinge *** machen."},
-    {"term": "relativ", "type": "Adverb", "meaning_tr": "nispeten / göreceli", "meaning_en": "relatively", "meaning_uk": "відносно", "example": "Das Haus war *** günstig."},
-    {"term": "geduldig", "type": "Adjective", "meaning_tr": "sabırlı", "meaning_en": "patient", "meaning_uk": "терплячий", "example": "Ein Lehrer muss sehr *** sein."},
-    {"term": "die Bezahlung", "type": "Noun", "meaning_tr": "ödeme", "meaning_en": "payment", "meaning_uk": "оплата", "example": "Die *** erfolgt am Ende des Monats."},
-    {"term": "der Betrieb", "type": "Noun", "meaning_tr": "işletme / firma", "meaning_en": "company / business", "meaning_uk": "підприємство", "example": "In diesem *** arbeiten über 200 Leute."},
-    {"term": "die Verschiedenheit", "type": "Noun", "meaning_tr": "farklılık", "meaning_en": "diversity / difference", "meaning_uk": "відмінність", "example": "Die *** der Kulturen bereichert unsere Gesellschaft."},
-    {"term": "höflich", "type": "Adjective", "meaning_tr": "nazik / kibar", "meaning_en": "polite", "meaning_uk": "ввічливий", "example": "Sei bitte *** zu den Gästen."}
+    {
+      "term": "die Stimmung",
+      "type": "Noun",
+      "meaning_tr": "ruh hali - atmosfer - hava",
+      "meaning_en": "mood - atmosphere - vibe",
+      "meaning_uk": "настрій - атмосфера - вдача",
+      "example": "Die *** auf der Party war gestern sehr gut.",
+      "meaning_es": "estado de ánimo - ambiente - humor"
+    },
+    {
+      "term": "gemütlich",
+      "type": "Adjective",
+      "meaning_tr": "rahat - keyifli - samimi",
+      "meaning_en": "cozy - comfortable - snug",
+      "meaning_uk": "затишний - приємний",
+      "example": "In diesem kleinen Café ist es sehr ***.",
+      "meaning_es": "acogedor - confortable - hogareño"
+    },
+    {
+      "term": "stolz",
+      "type": "Adjective",
+      "meaning_tr": "gururlu - iftihar eden",
+      "meaning_en": "proud - boastful",
+      "meaning_uk": "гордий - гордовитий",
+      "example": "Er ist sehr *** auf seine gute Note in der Prüfung.",
+      "meaning_es": "orgulloso - ufano"
+    },
+    {
+      "term": "sauer",
+      "type": "Adjective",
+      "meaning_tr": "kızgın - dargın - ekşi",
+      "meaning_en": "angry - cross - sour",
+      "meaning_uk": "сердитий - злий - кислий",
+      "example": "Bist du immer noch *** auf mich?",
+      "meaning_es": "enfadado - enojado - agrio"
+    },
+    {
+      "term": "genervt",
+      "type": "Adjective",
+      "meaning_tr": "sinirli - rahatsız olmuş - bıkkın",
+      "meaning_en": "annoyed - irritated",
+      "meaning_uk": "роздратований - нервовий",
+      "example": "Ich bin von dem lauten Lärm im Büro total ***.",
+      "meaning_es": "molesto - irritado - fastidiado"
+    },
+    {
+      "term": "froh",
+      "type": "Adjective",
+      "meaning_tr": "mutlu - memnun - sevinçli",
+      "meaning_en": "glad - happy - joyful",
+      "meaning_uk": "радісний - щасливий",
+      "example": "Ich bin ***, dass du mir geholfen hast.",
+      "meaning_es": "contento - feliz - alegre"
+    },
+    {
+      "term": "entspannt",
+      "type": "Adjective",
+      "meaning_tr": "rahatlamış - gevşemiş - sakinleşmiş",
+      "meaning_en": "relaxed - chilled out",
+      "meaning_uk": "розслаблений - спокійний",
+      "example": "Nach dem Urlaub fühle ich mich sehr ***.",
+      "meaning_es": "relajado - tranquilo"
+    },
+    {
+      "term": "das Fieberthermometer",
+      "type": "Noun",
+      "meaning_tr": "ateş ölçer - termometre",
+      "meaning_en": "thermometer - fever thermometer",
+      "meaning_uk": "термометр - градусник",
+      "example": "Ich muss mit dem *** meine Temperatur messen.",
+      "meaning_es": "termómetro - termómetro para la fiebre"
+    },
+    {
+      "term": "zurücklegen",
+      "type": "Verb",
+      "meaning_tr": "yerine koymak - geri koymak",
+      "meaning_en": "to put back - to return",
+      "meaning_uk": "покласти назад - повернути",
+      "example": "Kannst du das Buch bitte ins Regal ***?",
+      "meaning_es": "devolver - poner de vuelta"
+    },
+    {
+      "term": "unpünktlich",
+      "type": "Adjective",
+      "meaning_tr": "dakik olmayan - geç kalan",
+      "meaning_en": "unpunctual - late",
+      "meaning_uk": "непунктуальний - запізнілий",
+      "example": "Er kommt leider oft *** zum Unterricht.",
+      "meaning_es": "impuntual - tardío"
+    },
+    {
+      "term": "gleich",
+      "type": "Adverb",
+      "meaning_tr": "aynı - birazdan - hemen",
+      "meaning_en": "same - soon - immediately",
+      "meaning_uk": "однаковий - зараз - незабаром",
+      "example": "Warte kurz, ich komme *** zu dir.",
+      "meaning_es": "igual - mismo - pronto"
+    },
+    {
+      "term": "streiten",
+      "type": "Verb",
+      "meaning_tr": "kavga etmek - tartışmak",
+      "meaning_en": "to argue - to quarrel",
+      "meaning_uk": "сперечатися - сваритися",
+      "example": "Wir *** uns manchmal über den Abwasch.",
+      "meaning_es": "discutir - pelear"
+    },
+    {
+      "term": "einfach",
+      "type": "Adjective",
+      "meaning_tr": "basit - kolay - sade",
+      "meaning_en": "simple - easy - straightforward",
+      "meaning_uk": "простий - легкий",
+      "example": "Die Aufgabe war gar nicht so ***.",
+      "meaning_es": "simple - fácil - sencillo"
+    },
+    {
+      "term": "Urlaub eintragen",
+      "type": "Phrase",
+      "meaning_tr": "tatil (izni) yazdırmak - tatil kaydı yapmak",
+      "meaning_en": "to sign up for vacation - to register leave",
+      "meaning_uk": "записувати відпустку - реєструвати вихідний",
+      "example": "Hast du deinen *** schon in den Kalender ge***?",
+      "meaning_es": "inscribirse para vacaciones - registrar el permiso"
+    },
+    {
+      "term": "schreien",
+      "type": "Verb",
+      "meaning_tr": "bağırmak - haykırmak",
+      "meaning_en": "to scream - to shout",
+      "meaning_uk": "кричати - волати",
+      "example": "Bitte *** nicht so laut, das Baby schläft.",
+      "meaning_es": "gritar - chillar"
+    },
+    {
+      "term": "ausreden lassen",
+      "type": "Phrase",
+      "meaning_tr": "sözünü bitirmesine izin vermek - lafını kesmemek",
+      "meaning_en": "to let someone finish speaking - to allow to complete",
+      "meaning_uk": "дати висловитись - дозволити договорити",
+      "example": "Es ist höflich, wenn man andere Personen *** ***.",
+      "meaning_es": "dejar terminar de hablar - permitir acabar"
+    },
+    {
+      "term": "aufwachen",
+      "type": "Verb",
+      "meaning_tr": "uyanmak - kendine gelmek",
+      "meaning_en": "to wake up - to awaken",
+      "meaning_uk": "прокидатися - будитися",
+      "example": "Ich bin heute erst um neun Uhr ge***.",
+      "meaning_es": "despertarse - despertar"
+    },
+    {
+      "term": "wütend",
+      "type": "Adjective",
+      "meaning_tr": "öfkeli - kızgın",
+      "meaning_en": "furious - enraged",
+      "meaning_uk": "лютий - розлючений",
+      "example": "Er war sehr *** über die schlechte Nachricht.",
+      "meaning_es": "furioso - enojadísimo"
+    },
+    {
+      "term": "unordentlich",
+      "type": "Adjective",
+      "meaning_tr": "dağınık - düzensiz - titiz olmayan",
+      "meaning_en": "messy - untidy",
+      "meaning_uk": "неохайний - безладний",
+      "example": "In seinem Zimmer sieht es immer sehr *** aus.",
+      "meaning_es": "desordenado - sucio"
+    },
+    {
+      "term": "stören",
+      "type": "Verb",
+      "meaning_tr": "rahatsız etmek - bölmek",
+      "meaning_en": "to disturb - to bother",
+      "meaning_uk": "заважати - турбувати",
+      "example": "Entschuldigung, darf ich Sie kurz ***?",
+      "meaning_es": "molestar - interrumpir"
+    },
+    {
+      "term": "in Ruhe",
+      "type": "Phrase",
+      "meaning_tr": "huzurla - kendi başına - sessizce",
+      "meaning_en": "in peace - quietly - undisturbed",
+      "meaning_uk": "у спокої - тихо",
+      "example": "Ich möchte mein Buch ganz *** *** lesen.",
+      "meaning_es": "en paz - tranquilamente"
+    },
+    {
+      "term": "besprechen",
+      "type": "Verb",
+      "meaning_tr": "üzerinde konuşmak - tartışmak - müzakere etmek",
+      "meaning_en": "to discuss - to confer",
+      "meaning_uk": "обговорювати - радитися",
+      "example": "Wir müssen das Problem morgen im Meeting ***.",
+      "meaning_es": "discutir - tratar - conversar"
+    },
+    {
+      "term": "öffnen",
+      "type": "Verb",
+      "meaning_tr": "açmak - aralamak",
+      "meaning_en": "to open - to unseal",
+      "meaning_uk": "відчиняти - відкривати",
+      "example": "Kannst du bitte das Fenster ***?",
+      "meaning_es": "abrir - destapar"
+    },
+    {
+      "term": "springen",
+      "type": "Verb",
+      "meaning_tr": "atlamak - zıplamak",
+      "meaning_en": "to jump - to leap",
+      "meaning_uk": "стрибати - підстрибувати",
+      "example": "Die Kinder *** gerne auf dem Trampolin.",
+      "meaning_es": "saltar - brincar"
+    },
+    {
+      "term": "der Rauch",
+      "type": "Noun",
+      "meaning_tr": "duman - is",
+      "meaning_en": "smoke - fumes",
+      "meaning_uk": "дим",
+      "example": "In der Küche gibt es viel ***, weil das Essen brennt.",
+      "meaning_es": "humo"
+    },
+    {
+      "term": "weich",
+      "type": "Adjective",
+      "meaning_tr": "yumuşak - kolay ezilen",
+      "meaning_en": "soft - tender",
+      "meaning_uk": "м'який - ніжний",
+      "example": "Das Kissen auf dem Sofa ist sehr ***.",
+      "meaning_es": "suave - blando"
+    },
+    {
+      "term": "sich legen",
+      "type": "Verb",
+      "meaning_tr": "uzanmak - yatmak",
+      "meaning_en": "to lie down - to recline",
+      "meaning_uk": "лягати - покластися",
+      "example": "Nach der Arbeit muss ich mich kurz aufs Sofa ***.",
+      "meaning_es": "tumbarse - acostarse"
+    },
+    {
+      "term": "das Futter",
+      "type": "Noun",
+      "meaning_tr": "hayvan yemi - mama - yem",
+      "meaning_en": "animal feed - fodder - pet food",
+      "meaning_uk": "корм - фураж",
+      "example": "Hast du schon gecheckt, ob die Katze noch *** hat?",
+      "meaning_es": "alimento para animales - pienso"
+    },
+    {
+      "term": "das Stück",
+      "type": "Noun",
+      "meaning_tr": "parça - tane - bölüm",
+      "meaning_en": "piece - item - portion",
+      "meaning_uk": "шматок - частина",
+      "example": "Möchtest du noch ein *** Kuchen?",
+      "meaning_es": "pieza - trozo"
+    },
+    {
+      "term": "deshalb",
+      "type": "Adverb",
+      "meaning_tr": "bu yüzden - bu sebeple",
+      "meaning_en": "therefore - for that reason",
+      "meaning_uk": "тому - отже",
+      "example": "Es hat geregnet, *** sind wir zu Hause geblieben.",
+      "meaning_es": "por eso - por lo tanto"
+    },
+    {
+      "term": "das Missverständnis",
+      "type": "Noun",
+      "meaning_tr": "yanlış anlaşılma - yanlış anlama",
+      "meaning_en": "misunderstanding - misinterpretation",
+      "meaning_uk": "непорозуміння",
+      "example": "Entschuldigung, das war wohl ein ***.",
+      "meaning_es": "malentendido - incomprensión"
+    },
+    {
+      "term": "die Vermutung",
+      "type": "Noun",
+      "meaning_tr": "tahmin - varsayım",
+      "meaning_en": "assumption - conjecture",
+      "meaning_uk": "припущення - здогад",
+      "example": "Ich habe nur eine ***, aber ich weiß es nicht genau.",
+      "meaning_es": "suposición - presunción"
+    },
+    {
+      "term": "die Lösung",
+      "type": "Noun",
+      "meaning_tr": "çözüm - çözüm yolu",
+      "meaning_en": "solution - resolution",
+      "meaning_uk": "рішення - розв'язок",
+      "example": "Wir haben endlich eine *** für das Problem gefunden.",
+      "meaning_es": "solución - resolución"
+    },
+    {
+      "term": "der Putzplan",
+      "type": "Noun",
+      "meaning_tr": "temizlik planı - temizlik çizelgesi",
+      "meaning_en": "cleaning schedule - cleaning roster",
+      "meaning_uk": "графік прибирання - план чистки",
+      "example": "Wer steht heute auf dem ***?",
+      "meaning_es": "horario de limpieza - plan de aseo"
+    },
+    {
+      "term": "einteilen",
+      "type": "Verb",
+      "meaning_tr": "bölüştürmek - ayırmak - sınıflandırmak",
+      "meaning_en": "to divide - to organize - to allocate",
+      "meaning_uk": "розподіляти - класифікувати",
+      "example": "Wir müssen die Arbeit fair ***.",
+      "meaning_es": "dividir - organizar - asignar"
+    },
+    {
+      "term": "sich kümmern um",
+      "type": "Verb",
+      "meaning_tr": "... ile ilgilenmek - ...e bakmak",
+      "meaning_en": "to take care of - to look after",
+      "meaning_uk": "піклуватися про - займатися",
+      "example": "Ich muss *** heute *** meine kranke Schwester ***.",
+      "meaning_es": "cuidar de - ocuparse de"
+    },
+    {
+      "term": "erledigen",
+      "type": "Verb",
+      "meaning_tr": "tamamlamak - halletmek - bitirmek",
+      "meaning_en": "to deal with - to finish - to take care of",
+      "meaning_uk": "виконувати - зробити",
+      "example": "Ich muss heute noch viele Aufgaben ***.",
+      "meaning_es": "terminar - hacer - encargarse de"
+    },
+    {
+      "term": "nächstes Mal",
+      "type": "Phrase",
+      "meaning_tr": "bir dahaki sefere - bir sonraki sefer",
+      "meaning_en": "next time - on the next occasion",
+      "meaning_uk": "наступного разу",
+      "example": "Machen wir es *** *** besser?",
+      "meaning_es": "la próxima vez - a la siguiente"
+    },
+    {
+      "term": "versuchen",
+      "type": "Verb",
+      "meaning_tr": "denemek - uğraşmak",
+      "meaning_en": "to try - to attempt",
+      "meaning_uk": "пробувати - намагатися",
+      "example": "Ich *** schon lange, ihn anzurufen.",
+      "meaning_es": "intentar - tratar de"
+    },
+    {
+      "term": "kurzfristig",
+      "type": "Adjective",
+      "meaning_tr": "kısa süreli - kısa vadeli",
+      "meaning_en": "short-term - immediate",
+      "meaning_uk": "короткостроковий",
+      "example": "Er hat den Termin leider *** abgesagt.",
+      "meaning_es": "a corto plazo - inmediato"
+    },
+    {
+      "term": "übernächste Woche",
+      "type": "Phrase",
+      "meaning_tr": "gelecek haftadan sonraki hafta - sonraki hafta",
+      "meaning_en": "the week after next - over the next week",
+      "meaning_uk": "через тиждень - після наступного тижня",
+      "example": "Ich fahre erst *** *** in den Urlaub.",
+      "meaning_es": "pasado mañana - la semana que viene después"
+    },
+    {
+      "term": "die Spätschicht",
+      "type": "Noun",
+      "meaning_tr": "geç vardiya - akşam vardiyası",
+      "meaning_en": "late shift - evening shift",
+      "meaning_uk": "пізня зміна",
+      "example": "Diese Woche habe ich leider ***.",
+      "meaning_es": "turno de tarde - turno de noche"
+    },
+    {
+      "term": "übernehmen",
+      "type": "Verb",
+      "meaning_tr": "üstlenmek - devralmak - almak",
+      "meaning_en": "to take over - to assume",
+      "meaning_uk": "брати на себе - перебирати",
+      "example": "Kannst du meine Schicht am Freitag ***?",
+      "meaning_es": "asumir - hacerse cargo de"
+    },
+    {
+      "term": "der Gefallen",
+      "type": "Noun",
+      "meaning_tr": "iyilik - lütuf",
+      "meaning_en": "favor - kindness",
+      "meaning_uk": "послуга - прихильність",
+      "example": "Kannst du mir bitte einen *** tun?",
+      "meaning_es": "favor - cortesía"
+    },
+    {
+      "term": "in Ordnung",
+      "type": "Phrase",
+      "meaning_tr": "yolunda - tamam - sorun yok",
+      "meaning_en": "alright - okay - in order",
+      "meaning_uk": "гаразд - у порядку",
+      "example": "Alles ist ***, mach dir keine Sorgen.",
+      "meaning_es": "de acuerdo - bien - en orden"
+    },
+    {
+      "term": "telefonisch",
+      "type": "Adverb",
+      "meaning_tr": "telefonla - telefon aracılığıyla",
+      "meaning_en": "by phone - telephonically",
+      "meaning_uk": "телефоном",
+      "example": "Man kann den Termin auch *** vereinbaren.",
+      "meaning_es": "por teléfono - telefónicamente"
+    },
+    {
+      "term": "der Auftrag",
+      "type": "Noun",
+      "meaning_tr": "görev - sipariş - emir",
+      "meaning_en": "order - task - assignment",
+      "meaning_uk": "замовлення - доручення",
+      "example": "Die Firma hat einen großen *** bekommen.",
+      "meaning_es": "encargo - pedido - tarea"
+    },
+    {
+      "term": "der Zettel",
+      "type": "Noun",
+      "meaning_tr": "not kağıdı - kâğıt parçası",
+      "meaning_en": "note - slip of paper - memo",
+      "meaning_uk": "записка - аркушик",
+      "example": "Ich schreibe dir die Nummer auf einen ***.",
+      "meaning_es": "nota - trozo de papel"
+    },
+    {
+      "term": "hinlegen",
+      "type": "Verb",
+      "meaning_tr": "koymak - bırakmak - sermek",
+      "meaning_en": "to put down - to lay down",
+      "meaning_uk": "покласти - стелити",
+      "example": "Bitte *** den Schlüssel auf den Tisch ***.",
+      "meaning_es": "dejar - poner"
+    },
+    {
+      "term": "verzeihung",
+      "type": "Noun",
+      "meaning_tr": "affedersiniz / özür dilerim",
+      "meaning_en": "pardon / forgiveness",
+      "meaning_uk": "вибачення",
+      "example": "Ich bitte um *** für meine Verspätung."
+    },
+    {
+      "term": "sich beschweren",
+      "type": "Verb",
+      "meaning_tr": "şikayet etmek - sızlanmak",
+      "meaning_en": "to complain - to grumble",
+      "meaning_uk": "скаржитися",
+      "example": "Der Gast möchte *** über das kalte Essen ***.",
+      "meaning_es": "quejarse - lamentarse"
+    },
+    {
+      "term": "in Zukunft",
+      "type": "Phrase",
+      "meaning_tr": "gelecekte - bundan sonra",
+      "meaning_en": "in the future - henceforth",
+      "meaning_uk": "у майбутньому - надалі",
+      "example": "Bitte sei *** *** pünktlicher.",
+      "meaning_es": "en el futuro - de ahora en adelante"
+    },
+    {
+      "term": "sich gewöhnen an",
+      "type": "Verb",
+      "meaning_tr": "...-e alışmak - adapte olmak",
+      "meaning_en": "to get used to - to become accustomed to",
+      "meaning_uk": "звикати до",
+      "example": "Man muss *** erst *** das Wetter hier ***.",
+      "meaning_es": "acostumbrarse a"
+    },
+    {
+      "term": "wenigstens",
+      "type": "Adverb",
+      "meaning_tr": "en azından - asgari",
+      "meaning_en": "at least - at minimum",
+      "meaning_uk": "принаймні - щонайменше",
+      "example": "Es ist kalt, aber *** regnet es nicht.",
+      "meaning_es": "por lo menos - al menos"
+    },
+    {
+      "term": "klingeln",
+      "type": "Verb",
+      "meaning_tr": "zil çalmak - çınlamak",
+      "meaning_en": "to ring - to chime",
+      "meaning_uk": "дзвеніти - дзвонити",
+      "example": "Es hat an der Tür ge***.",
+      "meaning_es": "sonar - timbrar"
+    },
+    {
+      "term": "die Probe",
+      "type": "Noun",
+      "meaning_tr": "deneme - prova - test",
+      "meaning_en": "rehearsal - trial - test run",
+      "meaning_uk": "репетиція - випробування",
+      "example": "Der Chor hat heute Abend eine wichtige ***.",
+      "meaning_es": "ensayo - prueba"
+    },
+    {
+      "term": "sich bedanken bei",
+      "type": "Verb",
+      "meaning_tr": "...-e teşekkür etmek - minnettar olmak",
+      "meaning_en": "to thank someone - to express gratitude",
+      "meaning_uk": "дякувати комусь",
+      "example": "Ich möchte *** *** dir für deine Hilfe ***.",
+      "meaning_es": "agradecer a alguien"
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "type": "Noun",
+      "meaning_tr": "işbirliği - ortak çalışma",
+      "meaning_en": "cooperation - collaboration",
+      "meaning_uk": "співпраця - спільна робота",
+      "example": "Die *** in unserem Team funktioniert sehr gut.",
+      "meaning_es": "cooperación - colaboración"
+    },
+    {
+      "term": "zusammenarbeiten",
+      "type": "Verb",
+      "meaning_tr": "birlikte çalışmak - işbirliği yapmak",
+      "meaning_en": "to work together - to collaborate",
+      "meaning_uk": "працювати разом",
+      "example": "Wir müssen für dieses Projekt eng ***.",
+      "meaning_es": "trabajar juntos - colaborar"
+    },
+    {
+      "term": "unterstützen",
+      "type": "Verb",
+      "meaning_tr": "desteklemek - yardım etmek",
+      "meaning_en": "to support - to back",
+      "meaning_uk": "підтримувати - сприяти",
+      "example": "Meine Familie hat mich immer ge***.",
+      "meaning_es": "apoyar - respaldar"
+    },
+    {
+      "term": "der Roboter",
+      "type": "Noun",
+      "meaning_tr": "robot",
+      "meaning_en": "robot - automaton",
+      "meaning_uk": "робот",
+      "example": "In der Fabrik arbeiten viele ***.",
+      "meaning_es": "robot"
+    },
+    {
+      "term": "kreativ",
+      "type": "Adjective",
+      "meaning_tr": "yaratıcı - özgün",
+      "meaning_en": "creative - inventive",
+      "meaning_uk": "творчий - креативний",
+      "example": "Sie ist sehr *** und malt tolle Bilder.",
+      "meaning_es": "creativo - imaginativo"
+    },
+    {
+      "term": "kompliziert",
+      "type": "Adjective",
+      "meaning_tr": "karmaşık - zor",
+      "meaning_en": "complicated - complex",
+      "meaning_uk": "складний - заплутаний",
+      "example": "Das ist eine sehr ***e Frage.",
+      "meaning_es": "complicado - complejo"
+    },
+    {
+      "term": "effektiv",
+      "type": "Adjective",
+      "meaning_tr": "etkili - verimli",
+      "meaning_en": "effective - efficient",
+      "meaning_uk": "ефективний - дієвий",
+      "example": "Wir müssen eine ***e Lösung finden.",
+      "meaning_es": "efectivo - eficaz"
+    },
+    {
+      "term": "miteinander",
+      "type": "Adverb",
+      "meaning_tr": "birbiriyle - birlikte - karşılıklı",
+      "meaning_en": "with each other - together",
+      "meaning_uk": "один з одним - разом",
+      "example": "Wir sollten mehr *** sprechen.",
+      "meaning_es": "entre sí - juntos"
+    },
+    {
+      "term": "sich engagieren",
+      "type": "Verb",
+      "meaning_tr": "dahil olmak - aktif olmak - kendini adamak",
+      "meaning_en": "to get involved - to commit oneself",
+      "meaning_uk": "брати активну участь - долучатися",
+      "example": "Er möchte *** in einem Verein ***.",
+      "meaning_es": "comprometerse - involucrarse"
+    },
+    {
+      "term": "ehrenamtlich",
+      "type": "Adjective",
+      "meaning_tr": "gönüllü olarak - fahri",
+      "meaning_en": "voluntary - pro bono",
+      "meaning_uk": "добровільний - на громадських засадах",
+      "example": "Sie arbeitet *** in einem Seniorenheim.",
+      "meaning_es": "voluntario - honorario"
+    },
+    {
+      "term": "die Geduld",
+      "type": "Noun",
+      "meaning_tr": "sabır",
+      "meaning_en": "patience - endurance",
+      "meaning_uk": "терпіння",
+      "example": "Beim Lernen einer Sprache braucht man viel ***.",
+      "meaning_es": "paciencia"
+    },
+    {
+      "term": "positiv",
+      "type": "Adjective",
+      "meaning_tr": "pozitif - olumlu",
+      "meaning_en": "positive - optimistic",
+      "meaning_uk": "позитивний - сприятливий",
+      "example": "Bleib immer ***, egal was passiert.",
+      "meaning_es": "positivo - optimista"
+    },
+    {
+      "term": "faszinierend",
+      "type": "Adjective",
+      "meaning_tr": "büyüleyici - hayranlık uyandıran",
+      "meaning_en": "fascinating - captivating",
+      "meaning_uk": "захоплюючий - чарівний",
+      "example": "Die Geschichte des Landes ist absolut ***.",
+      "meaning_es": "fascinante - cautivador"
+    },
+    {
+      "term": "international",
+      "type": "Adjective",
+      "meaning_tr": "uluslararası - memleketler arası",
+      "meaning_en": "international - worldwide",
+      "meaning_uk": "міжнародний",
+      "example": "Berlin ist eine sehr ***e Stadt.",
+      "meaning_es": "internacional"
+    },
+    {
+      "term": "der Kontinent",
+      "type": "Noun",
+      "meaning_tr": "kıta",
+      "meaning_en": "continent",
+      "meaning_uk": "континент - материк",
+      "example": "Europa ist ein kleiner ***.",
+      "meaning_es": "continente"
+    },
+    {
+      "term": "die Art",
+      "type": "Noun",
+      "meaning_tr": "tür - tarz - şekil",
+      "meaning_en": "kind - type - manner",
+      "meaning_uk": "вид - спосіб - рід",
+      "example": "Ich mag seine *** zu arbeiten.",
+      "meaning_es": "tipo - clase - manera"
+    },
+    {
+      "term": "zur Sache kommen",
+      "type": "Phrase",
+      "meaning_tr": "sadede gelmek - konuya girmek",
+      "meaning_en": "to get to the point - to come to the issue",
+      "meaning_uk": "переходити до справи",
+      "example": "Bitte nicht so viel reden, wir sollten jetzt *** *** ***.",
+      "meaning_es": "ir al grano - ir al asunto"
+    },
+    {
+      "term": "sich persönlich näher kommen",
+      "type": "Phrase",
+      "meaning_tr": "kişisel olarak yakınlaşmak - samimileşmek",
+      "meaning_en": "to get closer personally - to become close",
+      "meaning_uk": "зближуватися особисто",
+      "example": "Bei der Arbeit können sich Kollegen auch *** *** ***.",
+      "meaning_es": "acercarse personalmente - entrar en confianza"
+    },
+    {
+      "term": "gleichzeitig",
+      "type": "Adverb",
+      "meaning_tr": "aynı zamanda - eş zamanlı",
+      "meaning_en": "at the same time - simultaneously",
+      "meaning_uk": "одночасно",
+      "example": "Man kann nicht zwei Dinge *** machen.",
+      "meaning_es": "al mismo tiempo - simultáneamente"
+    },
+    {
+      "term": "relativ",
+      "type": "Adverb",
+      "meaning_tr": "nispeten - göreceli",
+      "meaning_en": "relatively - comparative",
+      "meaning_uk": "відносно - порівняно",
+      "example": "Das Haus war *** günstig.",
+      "meaning_es": "relativamente - comparativamente"
+    },
+    {
+      "term": "geduldig",
+      "type": "Adjective",
+      "meaning_tr": "sabırlı",
+      "meaning_en": "patient - forbearing",
+      "meaning_uk": "терплячий",
+      "example": "Ein Lehrer muss sehr *** sein.",
+      "meaning_es": "paciente"
+    },
+    {
+      "term": "die Bezahlung",
+      "type": "Noun",
+      "meaning_tr": "ödeme - ücret",
+      "meaning_en": "payment - remuneration",
+      "meaning_uk": "оплата - платіж",
+      "example": "Die *** erfolgt am Ende des Monats.",
+      "meaning_es": "pago - remuneración"
+    },
+    {
+      "term": "der Betrieb",
+      "type": "Noun",
+      "meaning_tr": "işletme - firma - operasyon",
+      "meaning_en": "company - business - operation",
+      "meaning_uk": "підприємство - експлуатація",
+      "example": "In diesem *** arbeiten über 200 Leute.",
+      "meaning_es": "empresa - explotación - operación"
+    },
+    {
+      "term": "die Verschiedenheit",
+      "type": "Noun",
+      "meaning_tr": "farklılık - çeşitlilik",
+      "meaning_en": "diversity - difference - variety",
+      "meaning_uk": "відмінність - різноманітність",
+      "example": "Die *** der Kulturen bereichert unsere Gesellschaft.",
+      "meaning_es": "diversidad - diferencia"
+    },
+    {
+      "term": "höflich",
+      "type": "Adjective",
+      "meaning_tr": "nazik - kibar - görgülü",
+      "meaning_en": "polite - courteous",
+      "meaning_uk": "ввічливий - люб'язний",
+      "example": "Sei bitte *** zu den Gästen.",
+      "meaning_es": "educado - cortés"
+    }
   ]
 }

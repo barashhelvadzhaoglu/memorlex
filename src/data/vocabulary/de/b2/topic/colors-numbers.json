@@ -1,0 +1,384 @@
+{
+  "title": "Farben & Zahlen B2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Farbpalette",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "renk paleti",
+      "meaning_en": "color palette",
+      "meaning_uk": "колірна палітра",
+      "meaning_es": "paleta de colores",
+      "example": "Der Künstler wählte eine ungewöhnliche ***, um die Stimmung des Bildes zu unterstreichen."
+    },
+    {
+      "term": "leuchtend",
+      "type": "Adjektiv",
+      "meaning_tr": "parlak, canlı",
+      "meaning_en": "bright, vivid",
+      "meaning_uk": "яскравий, сяючий",
+      "meaning_es": "brillante, vivo",
+      "example": "Die ***en Farben des Sonnenuntergangs waren atemberaubend."
+    },
+    {
+      "term": "gedämpft",
+      "type": "Adjektiv",
+      "meaning_tr": "soluk, boğuk (renk)",
+      "meaning_en": "muted, subdued",
+      "meaning_uk": "приглушений, тьмяний",
+      "meaning_es": "apagado, tenue",
+      "example": "Für das Herbstthema wurden vorwiegend ***e Töne verwendet."
+    },
+    {
+      "term": "schillern",
+      "type": "Verb",
+      "meaning_tr": "yanar döner olmak, parlamak",
+      "meaning_en": "to shimmer, to iridesce",
+      "meaning_uk": "мерехтіти, переливатися",
+      "meaning_es": "iridiscer, relucir",
+      "example": "Die Oberfläche des Pfaus verstand es, in allen Regenbogenfarben zu ***."
+    },
+    {
+      "term": "der Farbton",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "ton, renk tonu",
+      "meaning_en": "shade, tone (of color)",
+      "meaning_uk": "відтінок",
+      "meaning_es": "tono",
+      "example": "Dieser *** Blau ist mir etwas zu dunkel; ich bevorzuge eine hellere Nuance."
+    },
+    {
+      "term": "die Nuance",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "nüans, ince fark",
+      "meaning_en": "nuance",
+      "meaning_uk": "нюанс",
+      "meaning_es": "matiz",
+      "example": "Man muss die ***en zwischen Grün und Türkis genau unterscheiden können."
+    },
+    {
+      "term": "akzentuieren",
+      "type": "Verb",
+      "meaning_tr": "vurgulamak",
+      "meaning_en": "to accentuate, to emphasize",
+      "meaning_uk": "акцентувати",
+      "meaning_es": "acentuar",
+      "example": "Mit einem roten Kissen können Sie die neutrale Couch ***."
+    },
+    {
+      "term": "kontrastieren",
+      "type": "Verb",
+      "meaning_tr": "zıtlık oluşturmak, tezat teşkil etmek",
+      "meaning_en": "to contrast",
+      "meaning_uk": "контрастувати",
+      "meaning_es": "contrastar",
+      "example": "Die dunkle Schrift *** stark mit dem weißen Hintergrund."
+    },
+    {
+      "term": "der Kontrast",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "kontrast",
+      "meaning_en": "contrast",
+      "meaning_uk": "контраст",
+      "meaning_es": "contraste",
+      "example": "Ein starker *** erhöht die Lesbarkeit von Texten."
+    },
+    {
+      "term": "eine Mischung aus",
+      "type": "Phrase",
+      "meaning_tr": "... karışımı",
+      "meaning_en": "a mixture of",
+      "meaning_uk": "суміш із",
+      "meaning_es": "una mezcla de",
+      "example": "Violett ist *** Rot und Blau."
+    },
+    {
+      "term": "die Sättigung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "doygunluk",
+      "meaning_en": "saturation",
+      "meaning_uk": "насиченість",
+      "meaning_es": "saturación",
+      "example": "Die hohe *** der Farben ließ das Bild fast künstlich wirken."
+    },
+    {
+      "term": "die Farblosigkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "renksizlik",
+      "meaning_en": "colorlessness",
+      "meaning_uk": "безбарвність",
+      "meaning_es": "la falta de color",
+      "example": "Die monotone Architektur strahlte eine gewisse *** aus."
+    },
+    {
+      "term": "durchscheinend",
+      "type": "Adjektiv",
+      "meaning_tr": "şeffaf, yarı saydam",
+      "meaning_en": "translucent, transparent",
+      "meaning_uk": "напівпрозорий",
+      "meaning_es": "translúcido",
+      "example": "Das ***e Glas des Fensters filterte das Licht sanft."
+    },
+    {
+      "term": "der Primärfarbton",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "ana renk tonu",
+      "meaning_en": "primary color tone",
+      "meaning_uk": "основний тон кольору",
+      "meaning_es": "tono de color primario",
+      "example": "Rot, Gelb und Blau sind die klassischen ***."
+    },
+    {
+      "term": "die Sekundärfarbe",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "ikincil renk",
+      "meaning_en": "secondary color",
+      "meaning_uk": "вторинний колір",
+      "meaning_es": "color secundario",
+      "example": "Grün ist eine ***, die durch das Mischen von Gelb und Blau entsteht."
+    },
+    {
+      "term": "eine Zahl darstellen",
+      "type": "Phrase",
+      "meaning_tr": "bir sayıyı temsil etmek",
+      "meaning_en": "to represent a number",
+      "meaning_uk": "представляти число",
+      "meaning_es": "representar un número",
+      "example": "Die Münze sollte die *** von vierzig symbolisieren."
+    },
+    {
+      "term": "die Dezimalstelle",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "ondalık basamak",
+      "meaning_en": "decimal place",
+      "meaning_uk": "десяткове місце",
+      "meaning_es": "cifra decimal",
+      "example": "Bitte runden Sie das Ergebnis auf zwei ***."
+    },
+    {
+      "term": "die Größenordnung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "büyüklük derecesi",
+      "meaning_en": "order of magnitude",
+      "meaning_uk": "порядок величини",
+      "meaning_es": "orden de magnitud",
+      "example": "Der Unterschied zwischen den beiden Werten liegt in der *** Zehntausend."
+    },
+    {
+      "term": "die Summe",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "toplam",
+      "meaning_en": "sum, total",
+      "meaning_uk": "сума",
+      "meaning_es": "suma, total",
+      "example": "Die *** aller Ausgaben übersteigt das Budget bei Weitem."
+    },
+    {
+      "term": "die Differenz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "fark",
+      "meaning_en": "difference",
+      "meaning_uk": "різниця",
+      "meaning_es": "diferencia",
+      "example": "Wir müssen die *** zwischen Soll- und Ist-Zahlen analysieren."
+    },
+    {
+      "term": "der Vielfache",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "kat",
+      "meaning_en": "multiple",
+      "meaning_uk": "кратне",
+      "meaning_es": "múltiplo",
+      "example": "Zehn ist ein *** von fünf."
+    },
+    {
+      "term": "die Verhältniszahl",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "oran sayısı",
+      "meaning_en": "ratio number",
+      "meaning_uk": "показник співвідношення",
+      "meaning_es": "cifra de proporción",
+      "example": "Die *** von Angebot und Nachfrage ist entscheidend für den Markt."
+    },
+    {
+      "term": "die Quadratwurzel",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "karekök",
+      "meaning_en": "square root",
+      "meaning_uk": "квадратний корінь",
+      "meaning_es": "raíz cuadrada",
+      "example": "Die *** von 81 ist neun."
+    },
+    {
+      "term": "erheblich",
+      "type": "Adjektiv/Adverb",
+      "meaning_tr": "önemli ölçüde, kayda değer",
+      "meaning_en": "considerable, significant",
+      "meaning_uk": "істотний, значний",
+      "meaning_es": "considerable, significativo",
+      "example": "Es gab eine *** Verbesserung der Testergebnisse nach der Schulung."
+    },
+    {
+      "term": "prozentual",
+      "type": "Adjektiv/Adverb",
+      "meaning_tr": "yüzdesel",
+      "meaning_en": "percentage-wise, proportional",
+      "meaning_uk": "відсотковий",
+      "meaning_es": "porcentual",
+      "example": "Der Anstieg der Produktion war *** überraschend hoch."
+    },
+    {
+      "term": "die Näherung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "yaklaşım",
+      "meaning_en": "approximation",
+      "meaning_uk": "наближення",
+      "meaning_es": "aproximación",
+      "example": "Wir arbeiten mit einer ersten *** des Endergebnisses."
+    },
+    {
+      "term": "die statistische Relevanz",
+      "type": "Phrase",
+      "meaning_tr": "istatistiksel önem",
+      "meaning_en": "statistical relevance",
+      "meaning_uk": "статистична значущість",
+      "meaning_es": "relevancia estadística",
+      "example": "Die Ergebnisse erreichten nicht die nötige *** für eine Veröffentlichung."
+    },
+    {
+      "term": "das Verhältnis",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "oran, ilişki",
+      "meaning_en": "ratio, relation",
+      "meaning_uk": "співвідношення, відношення",
+      "meaning_es": "relación, proporción",
+      "example": "Das *** von Männern zu Frauen in der Abteilung ist ausgeglichen."
+    },
+    {
+      "term": "sich verzehnfachen",
+      "type": "Verb",
+      "meaning_tr": "on katına çıkmak",
+      "meaning_en": "to increase tenfold",
+      "meaning_uk": "збільшитися вдесятеро",
+      "meaning_es": "multiplicarse por diez",
+      "example": "Nach der Kampagne schien sich die Kundenzahl zu ***."
+    },
+    {
+      "term": "die Billion (eine Tausend Milliarden)",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "trilyon (bin milyar)",
+      "meaning_en": "trillion (one thousand billion)",
+      "meaning_uk": "трильйон (тисяча мільярдів)",
+      "meaning_es": "billón (mil millardos)",
+      "example": "Das Projekt kostet mehrere *** Euro."
+    },
+    {
+      "term": "die Million",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "milyon",
+      "meaning_en": "million",
+      "meaning_uk": "мільйон",
+      "meaning_es": "millón",
+      "example": "Über eine *** Menschen nahmen an der Veranstaltung teil."
+    },
+    {
+      "term": "der Tausender",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "binlik (sayı)",
+      "meaning_en": "the thousands (digit group)",
+      "meaning_uk": "тисяча",
+      "meaning_es": "el millar",
+      "example": "Wir haben die Zahlen nach *** getrennt, um die Lesbarkeit zu verbessern."
+    },
+    {
+      "term": "die Einerstelle",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "birler basamağı",
+      "meaning_en": "units place",
+      "meaning_uk": "розряд одиниць",
+      "meaning_es": "unidad (lugar)",
+      "example": "Die Zahl endet auf Null, was bedeutet, dass die *** Null ist."
+    },
+    {
+      "term": "durchschnittlich",
+      "type": "Adjektiv/Adverb",
+      "meaning_tr": "ortalama",
+      "meaning_en": "average, on average",
+      "meaning_uk": "середній",
+      "meaning_es": "promedio, medio",
+      "example": "Der ***e Wasserverbrauch pro Haushalt ist gestiegen."
+    },
+    {
+      "term": "abstrahieren",
+      "type": "Verb",
+      "meaning_tr": "soyutlamak",
+      "meaning_en": "to abstract",
+      "meaning_uk": "абстрагувати",
+      "meaning_es": "abstraer",
+      "example": "Es ist schwierig, dieses komplexe Problem auf seine Kernelemente zu ***."
+    },
+    {
+      "term": "die Abstraktheit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "soyutluk",
+      "meaning_en": "abstractness",
+      "meaning_uk": "абстрактність",
+      "meaning_es": "abstracción",
+      "example": "Die *** der modernen Kunst verwirrt manche Betrachter."
+    },
+    {
+      "term": "das Spektrum",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "spektrum",
+      "meaning_en": "spectrum",
+      "meaning_uk": "спектр",
+      "meaning_es": "espectro",
+      "example": "Wir müssen das gesamte *** an möglichen Lösungen in Betracht ziehen."
+    },
+    {
+      "term": "die Farbintensität",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "renk yoğunluğu",
+      "meaning_en": "color intensity",
+      "meaning_uk": "інтенсивність кольору",
+      "meaning_es": "intensidad del color",
+      "example": "Experten diskutieren über die optimale *** für die neue Verpackung."
+    },
+    {
+      "term": "die Farbskala",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "renk skalası",
+      "meaning_en": "color scale",
+      "meaning_uk": "колірна гама",
+      "meaning_es": "escala de colores",
+      "example": "Die neue Broschüre nutzt eine breitere *** an Farben."
+    },
+    {
+      "term": "die Potenz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kuvvet, üs",
+      "meaning_en": "power (mathematical)",
+      "meaning_uk": "степінь",
+      "meaning_es": "potencia",
+      "example": "Zwei hoch drei ist die *** von zwei mit dem Exponenten drei."
+    },
+    {
+      "term": "die Ganzzahl",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "tam sayı",
+      "meaning_en": "integer",
+      "meaning_uk": "ціле число",
+      "meaning_es": "número entero",
+      "example": "In dieser Rechnung sind nur ***en erlaubt, keine Brüche."
+    },
+    {
+      "term": "unzählig",
+      "type": "Adjektiv",
+      "meaning_tr": "sayısız",
+      "meaning_en": "countless, innumerable",
+      "meaning_uk": "незліченний",
+      "meaning_es": "incontable",
+      "example": "Es gibt *** Möglichkeiten, dieses Problem zu lösen."
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "title": "Grundlagen & Begrüßung B1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "sich vorstellen",
+      "type": "verb (reflexive)",
+      "meaning_tr": "kendini tanıtmak",
+      "meaning_en": "to introduce oneself",
+      "meaning_uk": "представитися",
+      "meaning_es": "presentarse",
+      "example": "Ich muss mich bei der neuen Gruppe ***."
+    },
+    {
+      "term": "die Vorstellung",
+      "type": "noun (f)",
+      "meaning_tr": "tanıtma",
+      "meaning_en": "the introduction",
+      "meaning_uk": "представлення",
+      "meaning_es": "la presentación",
+      "example": "Die kurze *** dauerte nur eine Minute."
+    },
+    {
+      "term": "die Begrüßung",
+      "type": "noun (f)",
+      "meaning_tr": "selamlama",
+      "meaning_en": "the greeting",
+      "meaning_uk": "вітання",
+      "meaning_es": "el saludo",
+      "example": "Die formelle *** fand um 9 Uhr statt."
+    },
+    {
+      "term": "der Vorname",
+      "type": "noun (m)",
+      "meaning_tr": "ad",
+      "meaning_en": "the first name",
+      "meaning_uk": "ім'я",
+      "meaning_es": "el nombre de pila",
+      "example": "Wie ist Ihr ***, Herr Schmidt?"
+    },
+    {
+      "term": "der Nachname",
+      "type": "noun (m)",
+      "meaning_tr": "soyadı",
+      "meaning_en": "the surname",
+      "meaning_uk": "прізвище",
+      "meaning_es": "el apellido",
+      "example": "Könnten Sie bitte Ihren *** buchstabieren?"
+    },
+    {
+      "term": "die Herkunft",
+      "type": "noun (f)",
+      "meaning_tr": "köken",
+      "meaning_en": "the origin",
+      "meaning_uk": "походження",
+      "meaning_es": "el origen",
+      "example": "Er fragte mich nach meiner ***."
+    },
+    {
+      "term": "der Beruf",
+      "type": "noun (m)",
+      "meaning_tr": "meslek",
+      "meaning_en": "the profession",
+      "meaning_uk": "професія",
+      "meaning_es": "la profesión",
+      "example": "Was ist Ihr ***, wenn ich fragen darf?"
+    },
+    {
+      "term": "die Tätigkeit",
+      "type": "noun (f)",
+      "meaning_tr": "faaliyet, iş",
+      "meaning_en": "the activity, occupation",
+      "meaning_uk": "діяльність",
+      "meaning_es": "la actividad, ocupación",
+      "example": "Seine Haupttätigkeit im Büro ist die Organisation."
+    },
+    {
+      "term": "die Staatsangehörigkeit",
+      "type": "noun (f)",
+      "meaning_tr": "vatandaşlık",
+      "meaning_en": "the nationality",
+      "meaning_uk": "громадянство",
+      "meaning_es": "la nacionalidad",
+      "example": "Welche *** besitzen Sie?"
+    },
+    {
+      "term": "verheiratet",
+      "type": "adjective",
+      "meaning_tr": "evli",
+      "meaning_en": "married",
+      "meaning_uk": "одружений/заміжня",
+      "meaning_es": "casado/a",
+      "example": "Sind Sie ledig oder ***?"
+    },
+    {
+      "term": "ledig",
+      "type": "adjective",
+      "meaning_tr": "bekar",
+      "meaning_en": "single",
+      "meaning_uk": "неодружений",
+      "meaning_es": "soltero/a",
+      "example": "Er ist seit drei Jahren ***."
+    },
+    {
+      "term": "sich verabschieden",
+      "type": "verb (reflexive)",
+      "meaning_tr": "vedalaşmak",
+      "meaning_en": "to say goodbye",
+      "meaning_uk": "прощатися",
+      "meaning_es": "despedirse",
+      "example": "Wir müssen uns jetzt ***, wir haben es eilig."
+    },
+    {
+      "term": "auf Wiedersehen",
+      "type": "phrase",
+      "meaning_tr": "hoşça kalın",
+      "meaning_en": "goodbye (formal)",
+      "meaning_uk": "до побачення",
+      "meaning_es": "adiós (formal)",
+      "example": "*** und bis morgen!"
+    },
+    {
+      "term": "Tschüss",
+      "type": "phrase",
+      "meaning_tr": "güle güle (gayri resmi)",
+      "meaning_en": "bye (informal)",
+      "meaning_uk": "па-па (неформально)",
+      "meaning_es": "chao (informal)",
+      "example": "Mach's gut, ***!"
+    },
+    {
+      "term": "Wie geht es Ihnen?",
+      "type": "phrase (formal)",
+      "meaning_tr": "Nasılsınız?",
+      "meaning_en": "How are you? (formal)",
+      "meaning_uk": "Як справи? (формально)",
+      "meaning_es": "¿Cómo está usted?",
+      "example": "Guten Tag, Herr Müller. ***?"
+    },
+    {
+      "term": "Wie geht's?",
+      "type": "phrase (informal)",
+      "meaning_tr": "Naber?",
+      "meaning_en": "How's it going? (informal)",
+      "meaning_uk": "Як справи? (неформально)",
+      "meaning_es": "¿Qué tal?",
+      "example": "Hallo Anna, *** dir?"
+    },
+    {
+      "term": "Es geht mir gut.",
+      "type": "phrase",
+      "meaning_tr": "İyiyim.",
+      "meaning_en": "I am well.",
+      "meaning_uk": "У мене все добре.",
+      "meaning_es": "Estoy bien.",
+      "example": "Danke der Nachfrage, ***."
+    },
+    {
+      "term": "ganz gut",
+      "type": "adverbial phrase",
+      "meaning_tr": "oldukça iyi",
+      "meaning_en": "quite well",
+      "meaning_uk": "цілком добре",
+      "meaning_es": "bastante bien",
+      "example": "Mir geht es heute ***."
+    },
+    {
+      "term": "nicht schlecht",
+      "type": "adverbial phrase",
+      "meaning_tr": "fena değil",
+      "meaning_en": "not bad",
+      "meaning_uk": "непогано",
+      "meaning_es": "no está mal",
+      "example": "Das Wetter ist *** für diese Jahreszeit."
+    },
+    {
+      "term": "entschuldigen Sie bitte",
+      "type": "phrase (formal)",
+      "meaning_tr": "lütfen özür dilerim",
+      "meaning_en": "excuse me, please (formal)",
+      "meaning_uk": "перепрошуйте, будь ласка (формально)",
+      "meaning_es": "disculpe, por favor (formal)",
+      "example": "***, wo finde ich die Bibliothek?"
+    },
+    {
+      "term": "die Entschuldigung",
+      "type": "noun (f)",
+      "meaning_tr": "özür",
+      "meaning_en": "the apology, excuse",
+      "meaning_uk": "вибачення",
+      "meaning_es": "la disculpa",
+      "example": "Nehmen Sie bitte meine *** für die Verspätung an."
+    },
+    {
+      "term": "die Freude",
+      "type": "noun (f)",
+      "meaning_tr": "memnuniyet, sevinç",
+      "meaning_en": "the pleasure, joy",
+      "meaning_uk": "радість, задоволення",
+      "meaning_es": "el placer, la alegría",
+      "example": "Es ist mir eine große ***, Sie kennenzulernen."
+    },
+    {
+      "term": "gern geschehen",
+      "type": "phrase",
+      "meaning_tr": "rica ederim",
+      "meaning_en": "you're welcome (it happened gladly)",
+      "meaning_uk": "будь ласка (з радістю)",
+      "meaning_es": "de nada (con gusto)",
+      "example": "- Danke für die Hilfe. - ***."
+    },
+    {
+      "term": "angenehm",
+      "type": "adjective",
+      "meaning_tr": "hoş, keyifli",
+      "meaning_en": "pleasant, agreeable",
+      "meaning_uk": "приємний",
+      "meaning_es": "agradable",
+      "example": "Wir hatten ein sehr *** Gespräch."
+    },
+    {
+      "term": "die Umgangssprache",
+      "type": "noun (f)",
+      "meaning_tr": "günlük konuşma dili",
+      "meaning_en": "colloquial language",
+      "meaning_uk": "розмовна мова",
+      "meaning_es": "el lenguaje coloquial",
+      "example": "Im Alltag benutzen wir oft ***."
+    },
+    {
+      "term": "förmlich",
+      "type": "adjective",
+      "meaning_tr": "resmi",
+      "meaning_en": "formal",
+      "meaning_uk": "формальний",
+      "meaning_es": "formal",
+      "example": "Die E-Mail musste *** formuliert werden."
+    },
+    {
+      "term": "die Höflichkeit",
+      "type": "noun (f)",
+      "meaning_tr": "nezaket",
+      "meaning_en": "politeness",
+      "meaning_uk": "ввічливість",
+      "meaning_es": "la cortesía",
+      "example": "Sein Verhalten zeugt von großer ***."
+    },
+    {
+      "term": "sich erkundigen",
+      "type": "verb (reflexive)",
+      "meaning_tr": "sormak, bilgi almak",
+      "meaning_en": "to inquire",
+      "meaning_uk": "довідуватися, запитувати",
+      "meaning_es": "informarse, preguntar",
+      "example": "Ich möchte mich nach den Öffnungszeiten ***."
+    },
+    {
+      "term": "die Unterkunft",
+      "type": "noun (f)",
+      "meaning_tr": "konaklama",
+      "meaning_en": "accommodation",
+      "meaning_uk": "житло, помешкання",
+      "meaning_es": "el alojamiento",
+      "example": "Haben Sie schon eine feste *** für den Urlaub?"
+    },
+    {
+      "term": "die Reise",
+      "type": "noun (f)",
+      "meaning_tr": "seyahat",
+      "meaning_en": "the journey, trip",
+      "meaning_uk": "подорож",
+      "meaning_es": "el viaje",
+      "example": "Wie war Ihre letzte ***?"
+    },
+    {
+      "term": "der Eindruck",
+      "type": "noun (m)",
+      "meaning_tr": "izlenim",
+      "meaning_en": "the impression",
+      "meaning_uk": "враження",
+      "meaning_es": "la impresión",
+      "example": "Mein erster *** von der Stadt war sehr positiv."
+    }
+  ]
+}

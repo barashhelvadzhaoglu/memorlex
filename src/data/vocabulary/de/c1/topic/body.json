@@ -1,0 +1,591 @@
+{
+  "title": "Körper & Aussehen C1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Statur",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "vücut yapısı, yapı",
+      "meaning_en": "physique, build",
+      "meaning_uk": "статура, будова тіла",
+      "meaning_es": "estatura, complexión",
+      "example": "Trotz seines Alters besitzt er eine beachtliche Statur."
+    },
+    {
+      "term": "die Konstitution",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "vücut yapısı, sağlık durumu",
+      "meaning_en": "constitution, physical state",
+      "meaning_uk": "конституція, фізичний стан",
+      "meaning_es": "constitución, complexión física",
+      "example": "Seine robuste Konstitution erlaubte ihm, die Strapazen der Expedition zu überstehen."
+    },
+    {
+      "term": "schlank",
+      "type": "Adjektiv",
+      "meaning_tr": "zayıf, ince",
+      "meaning_en": "slim, slender",
+      "meaning_uk": "стрункий, тонкий",
+      "meaning_es": "esbelto, delgado",
+      "example": "Sie ist von Natur aus sehr schlank und braucht kaum auf ihre Ernährung zu achten."
+    },
+    {
+      "term": "drahtig",
+      "type": "Adjektiv",
+      "meaning_tr": "ince ve güçlü, tel gibi",
+      "meaning_en": "wiry, sinewy",
+      "meaning_uk": "жилавий, сухорлявий",
+      "meaning_es": "fibroso, nervioso",
+      "example": "Der alte Bergsteiger hatte einen drahtigen Körperbau."
+    },
+    {
+      "term": "untersetzt",
+      "type": "Adjektiv",
+      "meaning_tr": "bodur, kısa ve yapılı",
+      "meaning_en": "stocky, compact",
+      "meaning_uk": "кремезний, низькорослий",
+      "meaning_es": "bajito y corpulento, robusto",
+      "example": "Er war ein untersetzter Mann mit breiten Schultern."
+    },
+    {
+      "term": "die Leibesfülle",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "şişmanlık, iri yapı",
+      "meaning_en": "plumpness, fullness of figure",
+      "meaning_uk": "повнота, огрядність",
+      "meaning_es": "corpulencia, gordura",
+      "example": "Sie nahm ihre Leibesfülle mit Humor und Gelassenheit."
+    },
+    {
+      "term": "abgemagert",
+      "type": "Adjektiv",
+      "meaning_tr": "çok zayıflamış, sıska",
+      "meaning_en": "emaciated, gaunt",
+      "meaning_uk": "виснажений, схудлий",
+      "meaning_es": "demacrado, consumido",
+      "example": "Nach der langen Krankheit sah er völlig abgemagert aus."
+    },
+    {
+      "term": "die Haltung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "duruş, postür",
+      "meaning_en": "posture, bearing",
+      "meaning_uk": "постава, вираз",
+      "meaning_es": "postura, porte",
+      "example": "Eine stolze Haltung zeichnete ihn aus."
+    },
+    {
+      "term": "gebeugt",
+      "type": "Adjektiv",
+      "meaning_tr": "eğilmiş, kambur",
+      "meaning_en": "stooped, bent",
+      "meaning_uk": "зігнутий, сгорблений",
+      "meaning_es": "encorvado, agachado",
+      "example": "Der alte Mann ging mit gebeugtem Rücken durch den Park."
+    },
+    {
+      "term": "die Wuchsform",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "büyüme şekli, gelişim",
+      "meaning_en": "growth form, build",
+      "meaning_uk": "форма росту, статура",
+      "meaning_es": "forma de crecimiento, complexión",
+      "example": "Seine Wuchsform war typisch für seine familiäre Vorbelastung."
+    },
+    {
+      "term": "das Antlitz",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "yüz (edebi)",
+      "meaning_en": "countenance, face (literary)",
+      "meaning_uk": "обличчя (поетичне)",
+      "meaning_es": "rostro, semblante",
+      "example": "Sein zerfurchtes Antlitz erzählte Geschichten von vielen Jahren harter Arbeit."
+    },
+    {
+      "term": "die Züge",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "yüz hatları",
+      "meaning_en": "features (of the face)",
+      "meaning_uk": "риси обличчя",
+      "meaning_es": "rasgos (faciales)",
+      "example": "Sie hatte feine, aristokratische Züge."
+    },
+    {
+      "term": "die Stirn",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "alın",
+      "meaning_en": "forehead",
+      "meaning_uk": "лоб",
+      "meaning_es": "frente",
+      "example": "Seine hohe Stirn deutete auf große Intelligenz hin."
+    },
+    {
+      "term": "die Schläfen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "şakaklar",
+      "meaning_en": "temples (of the head)",
+      "meaning_uk": "скроні",
+      "meaning_es": "sienes",
+      "example": "An den Schläfen bemerkte man erste graue Haare."
+    },
+    {
+      "term": "markant",
+      "type": "Adjektiv",
+      "meaning_tr": "belirgin, çarpıcı",
+      "meaning_en": "striking, pronounced",
+      "meaning_uk": "виразний, помітний",
+      "meaning_es": "marcado, notable",
+      "example": "Er hatte eine sehr markante Nase."
+    },
+    {
+      "term": "die Wangenknochen",
+      "type": "Substantiv, maskulin (Plural)",
+      "meaning_tr": "elmacık kemikleri",
+      "meaning_en": "cheekbones",
+      "meaning_uk": "вилиці",
+      "meaning_es": "pómulos",
+      "example": "Dank ihrer hohen Wangenknochen wirkte sie immer leicht geschminkt."
+    },
+    {
+      "term": "die Kinnpartie",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "çene bölgesi",
+      "meaning_en": "chin area",
+      "meaning_uk": "ділянка підборіддя",
+      "meaning_es": "zona de la barbilla",
+      "example": "Seine kräftige Kinnpartie verlieh seinem Gesicht Entschlossenheit."
+    },
+    {
+      "term": "die Lippen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "dudaklar",
+      "meaning_en": "lips",
+      "meaning_uk": "губи",
+      "meaning_es": "labios",
+      "example": "Sie umspielte ihre vollen Lippen mit einem Lächeln."
+    },
+    {
+      "term": "die Mundwinkel",
+      "type": "Substantiv, maskulin (Plural)",
+      "meaning_tr": "ağız köşeleri",
+      "meaning_en": "corners of the mouth",
+      "meaning_uk": "кутики рота",
+      "meaning_es": "comisuras de los labios",
+      "example": "Seine Mundwinkel zogen sich stets leicht nach unten."
+    },
+    {
+      "term": "die Augenbrauen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "kaşlar",
+      "meaning_en": "eyebrows",
+      "meaning_uk": "брови",
+      "meaning_es": "cejas",
+      "example": "Seine dunklen, buschigen Augenbrauen gaben seinem Blick Intensität."
+    },
+    {
+      "term": "die Augenlider",
+      "type": "Substantiv, neutrum (Plural)",
+      "meaning_tr": "göz kapakları",
+      "meaning_en": "eyelids",
+      "meaning_uk": "повіки",
+      "meaning_es": "párpados",
+      "example": "Er rieb sich die müden Augenlider."
+    },
+    {
+      "term": "der Augenschlag",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "bakış, göz ifadesi",
+      "meaning_en": "gaze, look in the eyes",
+      "meaning_uk": "погляд",
+      "meaning_es": "mirada, aspecto de los ojos",
+      "example": "Ihr Augenschlag war wach und intelligent."
+    },
+    {
+      "term": "die Iris",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "göz bebeği, iris",
+      "meaning_en": "iris",
+      "meaning_uk": "райдужна оболонка",
+      "meaning_es": "iris",
+      "example": "Er hatte eine ungewöhnlich helle blaue Iris."
+    },
+    {
+      "term": "die Pupille",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "göz bebeği",
+      "meaning_en": "pupil",
+      "meaning_uk": "зіниця",
+      "meaning_es": "pupila",
+      "example": "Seine Pupillen weiteten sich in der Dunkelheit."
+    },
+    {
+      "term": "die Wimpern",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "kirpikler",
+      "meaning_en": "eyelashes",
+      "meaning_uk": "вії",
+      "meaning_es": "pestañas",
+      "example": "Sie hatte lange, dichte Wimpern, die ihre Augen betonten."
+    },
+    {
+      "term": "die Haarpracht",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "gür saç",
+      "meaning_en": "magnificent head of hair",
+      "meaning_uk": "пишне волосся",
+      "meaning_es": "magnífica cabellera",
+      "example": "Im Alter bewahrte sie sich eine beeindruckende Haarpracht."
+    },
+    {
+      "term": "die Krause",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kıvırcık saç, peruk (eski)",
+      "meaning_en": "frizzy hair, ruff (archaic)",
+      "meaning_uk": "кучері, комір (застаріле)",
+      "meaning_es": "rizos, gorguera (arcaico)",
+      "example": "Sein afroartiges Haar bildete eine dichte Krause."
+    },
+    {
+      "term": "die Tonsur",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "tonsür (rahiplerin tıraşlı baş kısmı)",
+      "meaning_en": "tonsure",
+      "meaning_uk": "тонзура",
+      "meaning_es": "tonsura",
+      "example": "Der Mönch zeigte die traditionelle Tonsur."
+    },
+    {
+      "term": "der Ansatz",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "saçın başlangıcı, dipleri",
+      "meaning_en": "hairline, roots",
+      "meaning_uk": "лінія росту волосся, коріння",
+      "meaning_es": "línea del cabello, raíces",
+      "example": "Der Friseur musste den Ansatz sorgfältig färben."
+    },
+    {
+      "term": "der Schopf",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "tepe saç",
+      "meaning_en": "tuft of hair, forelock",
+      "meaning_uk": "чуб, жмут волосся",
+      "meaning_es": "mechón, penacho",
+      "example": "Er hatte einen markanten Schopf, der immer etwas abstand."
+    },
+    {
+      "term": "die Stirnglatze",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "alın açıklığı, tepe dökülmesi",
+      "meaning_en": "receding hairline, bald spot on the forehead",
+      "meaning_uk": "залисини на лобі",
+      "meaning_es": "entradas, calvicie frontal",
+      "example": "Die Stirnglatze machte ihn optisch älter."
+    },
+    {
+      "term": "die Geheimratsecken",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "saçların geriye çekildiği köşeler (taç)",
+      "meaning_en": "receding corners of the hairline",
+      "meaning_uk": "залисини по скронях",
+      "meaning_es": "entradas (en las sienes)",
+      "example": "Mit dreißig bekam er schon deutliche Geheimratsecken."
+    },
+    {
+      "term": "die Krause",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kıvırcık saç/peruk",
+      "meaning_en": "frizzy hair/ruff",
+      "meaning_uk": "кучері/комір",
+      "meaning_es": "cabello crespo/gorguera",
+      "example": "Sie trug eine hochgesteckte, künstliche Krause."
+    },
+    {
+      "term": "gekräuselt",
+      "type": "Adjektiv",
+      "meaning_tr": "kıvrılmış, bukleli",
+      "meaning_en": "curled, crinkled",
+      "meaning_uk": "завит, накручений",
+      "meaning_es": "rizado, encrespado",
+      "example": "Sein Haar war von Natur aus leicht gekräuselt."
+    },
+    {
+      "term": "die Haarfarbe",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "saç rengi",
+      "meaning_en": "hair color",
+      "meaning_uk": "колір волосся",
+      "meaning_es": "color de pelo",
+      "example": "Ihre Haarfarbe wechselte häufig zwischen Rot und Kastanienbraun."
+    },
+    {
+      "term": "gebleicht",
+      "type": "Adjektiv",
+      "meaning_tr": "ağartılmış, rengi açılmış",
+      "meaning_en": "bleached",
+      "meaning_uk": "знебарвлений, освітлений",
+      "meaning_es": "decolorado, blanqueado",
+      "example": "Die Enden ihrer blondierten Haare waren strohig und gebleicht."
+    },
+    {
+      "term": "die Schläfen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "şakaklar",
+      "meaning_en": "temples",
+      "meaning_uk": "скроні",
+      "meaning_es": "sienes",
+      "example": "Das erste Grau zeigte sich deutlich an den Schläfen."
+    },
+    {
+      "term": "der Bartwuchs",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "sakal çıkışı",
+      "meaning_en": "beard growth",
+      "meaning_uk": "розіст бороди",
+      "meaning_es": "crecimiento de la barba",
+      "example": "Er beklagte seinen spärlichen Bartwuchs."
+    },
+    {
+      "term": "die Gesichtsbehaarung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "yüz kılları",
+      "meaning_en": "facial hair",
+      "meaning_uk": "волосся на обличчі",
+      "meaning_es": "vello facial",
+      "example": "Er pflegte seine sorgfältig getrimmte Gesichtsbehaarung."
+    },
+    {
+      "term": "die Sommersprossen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "çiller",
+      "meaning_en": "freckles",
+      "meaning_uk": "веснянки",
+      "meaning_es": "pecas",
+      "example": "Im Sommer bedeckten Sommersprossen ihre Nase und Wangen."
+    },
+    {
+      "term": "die Sommersprossen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "çiller",
+      "meaning_en": "freckles",
+      "meaning_uk": "веснянки",
+      "meaning_es": "pecas",
+      "example": "Im Sommer bedeckten Sommersprossen ihre Nase und Wangen."
+    },
+    {
+      "term": "der Teint",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "ten rengi",
+      "meaning_en": "complexion",
+      "meaning_uk": "колір обличчя",
+      "meaning_es": "tez",
+      "example": "Sie hatte einen sehr blassen, fast porzellanartigen Teint."
+    },
+    {
+      "term": "uneben",
+      "type": "Adjektiv",
+      "meaning_tr": "düzensiz, pürüzlü (cilt)",
+      "meaning_en": "uneven, rough (skin)",
+      "meaning_uk": "нерівний, шорсткий (шкіра)",
+      "meaning_es": "irregular, áspero (piel)",
+      "example": "Nach dem Sonnenbrand war ihre Haut sehr rau und uneben."
+    },
+    {
+      "term": "die Narbe",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "yara izi",
+      "meaning_en": "scar",
+      "meaning_uk": "шрам",
+      "meaning_es": "cicatriz",
+      "example": "Eine kleine Narbe zog sich über seine Augenbraue."
+    },
+    {
+      "term": "der Hautton",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "ten rengi",
+      "meaning_en": "skin tone",
+      "meaning_uk": "відтінок шкіри",
+      "meaning_es": "tono de piel",
+      "example": "Es war schwierig, den exakten Hautton für die Statue zu treffen."
+    },
+    {
+      "term": "die Hautrötung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "cilt kızarıklığı",
+      "meaning_en": "skin redness",
+      "meaning_uk": "почервоніння шкіри",
+      "meaning_es": "enrojecimiento de la piel",
+      "example": "Nach dem Sport zeigte sich eine leichte Hautrötung auf seinen Wangen."
+    },
+    {
+      "term": "die Gliedmaßen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "uzuvlar, kollar ve bacaklar",
+      "meaning_en": "limbs (arms and legs)",
+      "meaning_uk": "кінцівки",
+      "meaning_es": "extremidades",
+      "example": "Die Hitze machte ihm zu schaffen, besonders in den Gliedmaßen."
+    },
+    {
+      "term": "die Sehnen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "tendonlar",
+      "meaning_en": "tendons",
+      "meaning_uk": "сухожилля",
+      "meaning_es": "tendones",
+      "example": "Seine trainierten Arme zeigten deutlich die gespannten Sehnen."
+    },
+    {
+      "term": "die Muskulatur",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kas yapısı",
+      "meaning_en": "musculature",
+      "meaning_uk": "мускулатура",
+      "meaning_es": "musculatura",
+      "example": "Nach Jahren des Trainings war seine Muskulatur beeindruckend definiert."
+    },
+    {
+      "term": "durchtrainiert",
+      "type": "Adjektiv",
+      "meaning_tr": "iyi antrenman yapmış, fit",
+      "meaning_en": "very fit, well-trained",
+      "meaning_uk": "добре тренований",
+      "meaning_es": "muy en forma, bien entrenado",
+      "example": "Der Athlet präsentierte seinen durchtrainierten Körper."
+    },
+    {
+      "term": "die Gelenke",
+      "type": "Substantiv, neutrum (Plural)",
+      "meaning_tr": "eklemler",
+      "meaning_en": "joints",
+      "meaning_uk": "суглоби",
+      "meaning_es": "articulaciones",
+      "example": "Mit zunehmendem Alter begannen seine Gelenke zu schmerzen."
+    },
+    {
+      "term": "die Wirbelsäule",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "omurga",
+      "meaning_en": "spine, vertebral column",
+      "meaning_uk": "хребет",
+      "meaning_es": "columna vertebral",
+      "example": "Ein Bandscheibenvorfall beeinträchtigte seine Wirbelsäule."
+    },
+    {
+      "term": "die Schulterpartie",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "omuz bölgesi",
+      "meaning_en": "shoulder area",
+      "meaning_uk": "ділянка плечей",
+      "meaning_es": "zona de los hombros",
+      "example": "Er hatte breite Schulterpartien, die ihm Stärke verliehen."
+    },
+    {
+      "term": "die Brust",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "göğüs",
+      "meaning_en": "chest",
+      "meaning_uk": "груди",
+      "meaning_es": "pecho",
+      "example": "Seine Brust hob und senkte sich rhythmisch beim Schlafen."
+    },
+    {
+      "term": "der Rippenbogen",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "kaburga kemeri",
+      "meaning_en": "rib cage",
+      "meaning_uk": "ребра, грудна клітка",
+      "meaning_es": "caja torácica",
+      "example": "Man konnte seinen Rippenbogen unter der dünnen Kleidung erahnen."
+    },
+    {
+      "term": "die Taille",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "bel",
+      "meaning_en": "waist",
+      "meaning_uk": "талія",
+      "meaning_es": "cintura",
+      "example": "Ihre Taille war so schmal, dass sie kaum atmen konnte."
+    },
+    {
+      "term": "die Hüfte",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "kalça",
+      "meaning_en": "hip",
+      "meaning_uk": "стегно, таз",
+      "meaning_es": "cadera",
+      "example": "Sie hatte breite Hüften, was ihr einen femininen Gang verlieh."
+    },
+    {
+      "term": "die Waden",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "baldırlar",
+      "meaning_en": "calves",
+      "meaning_uk": "литкові м'язи",
+      "meaning_es": "pantorrillas",
+      "example": "Langes Laufen hatte seine Wadenmuskulatur gestärkt."
+    },
+    {
+      "term": "die Fußsohle",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "ayak tabanı",
+      "meaning_en": "sole of the foot",
+      "meaning_uk": "підошва стопи",
+      "meaning_es": "planta del pie",
+      "example": "Er spürte den kalten Stein direkt auf der Fußsohle."
+    },
+    {
+      "term": "das Fußgewölbe",
+      "type": "Substantiv, neutrum",
+      "meaning_tr": "ayak kemeri",
+      "meaning_en": "arch of the foot",
+      "meaning_uk": "зворот стопи",
+      "meaning_es": "arco del pie",
+      "example": "Seine gesunden Füße hatten ein ausgeprägtes Fußgewölbe."
+    },
+    {
+      "term": "die Handflächen",
+      "type": "Substantiv, feminin (Plural)",
+      "meaning_tr": "avuç içleri",
+      "meaning_en": "palms (of the hands)",
+      "meaning_uk": "долоні",
+      "meaning_es": "palmas (de las manos)",
+      "example": "Seine Handflächen waren rau von der Arbeit."
+    },
+    {
+      "term": "die Gelenkigkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "esneklik",
+      "meaning_en": "flexibility, agility",
+      "meaning_uk": "гнучкість",
+      "meaning_es": "flexibilidad, agilidad",
+      "example": "Obwohl alt, bewahrte sie eine erstaunliche Gelenkigkeit."
+    },
+    {
+      "term": "geschmeidig",
+      "type": "Adjektiv",
+      "meaning_tr": "yumuşak, esnek, akıcı",
+      "meaning_en": "supple, smooth, agile",
+      "meaning_uk": "гнучкий, плавний",
+      "meaning_es": "flexible, ágil",
+      "example": "Ihre Bewegungen waren geschmeidig wie die einer Katze."
+    },
+    {
+      "term": "die Körpersprache",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "beden dili",
+      "meaning_en": "body language",
+      "meaning_uk": "мова тіла",
+      "meaning_es": "lenguaje corporal",
+      "example": "Seine Körpersprache verriet seine Nervosität, obwohl er lächelte."
+    },
+    {
+      "term": "ausstrahlen",
+      "type": "Verb",
+      "meaning_tr": "yaymak, yaymak (aura)",
+      "meaning_en": "to radiate, to exude",
+      "meaning_uk": "випромінювати",
+      "meaning_es": "irradiar, exudar",
+      "example": "Er strahlte eine ruhige Autorität aus."
+    }
+  ]
+}

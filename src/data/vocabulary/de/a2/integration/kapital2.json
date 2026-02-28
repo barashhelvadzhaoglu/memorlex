@@ -2,110 +2,950 @@
   "title": "Integration A2 - Kapital 2)",
   "language": "de",
   "words": [
-    { "term": "die Möbel", "type": "Noun", "meaning_tr": "Mobilyalar", "meaning_en": "Furniture", "meaning_uk": "Меблі", "example": "Wir ziehen um ve brauchen neue *** für das Wohnzimmer." },
-    { "term": "die Einrichtung", "type": "Noun", "meaning_tr": "Döşeme, ekipman", "meaning_en": "Furnishings", "meaning_uk": "Обстановка", "example": "Die *** in diesem Hotel ist sehr modern und gemütlich." },
-    { "term": "das Ding", "type": "Noun", "meaning_tr": "Şey, eşya", "meaning_en": "Thing", "meaning_uk": "Річ", "example": "Wie heißt dieses *** auf Deutsch? Ich habe das Wort vergessen." },
-    { "term": "die Couch", "type": "Noun", "meaning_tr": "Kanepe, koltuk", "meaning_en": "Couch", "meaning_uk": "Диван", "example": "Am Abend liege ich gern auf der *** und sehe fern." },
-    { "term": "die Matratze", "type": "Noun", "meaning_tr": "Yatak, minder", "meaning_en": "Mattress", "meaning_uk": "Матрац", "example": "Mein Rücken tut weh, weil die *** im Bett zu weich ist." },
-    { "term": "das Kissen", "type": "Noun", "meaning_tr": "Yastık", "meaning_en": "Pillow", "meaning_uk": "Подушка", "example": "Ich kann ohne mein weiches *** nicht gut schlafen." },
-    { "term": "der Schreibtisch", "type": "Noun", "meaning_tr": "Yazı masası", "meaning_en": "Desk", "meaning_uk": "Письмовий стіл", "example": "Mein Computer und meine Lampe stehen auf dem ***." },
-    { "term": "die Stehlampe", "type": "Noun", "meaning_tr": "Lambader", "meaning_en": "Floor lamp", "meaning_uk": "Торшер", "example": "Stell die *** neben das Sofa, damit ich dort lesen kann." },
-    { "term": "der Teppich", "type": "Noun", "meaning_tr": "Halı", "meaning_en": "Carpet", "meaning_uk": "Килим", "example": "Bitte zieh deine Schuhe aus, wir haben einen neuen *** im Wohnzimmer." },
-    { "term": "der Vorhang", "type": "Noun", "meaning_tr": "Perde", "meaning_en": "Curtain", "meaning_uk": "Штора", "example": "Es ist zu hell im Zimmer, mach bitte den *** zu." },
-    { "term": "die Spülmaschine", "type": "Noun", "meaning_tr": "Bulaşık makinesi", "meaning_en": "Dishwasher", "meaning_uk": "Посудомийна машина", "example": "Das Geschirr ist sauber, kannst du die *** ausräumen?" },
-    { "term": "das Geschirr", "type": "Noun", "meaning_tr": "Bulaşık, kap kacak", "meaning_en": "Dishes", "meaning_uk": "Посуд", "example": "Nach dem Essen müssen wir das *** waschen." },
-    { "term": "das Besteck", "type": "Noun", "meaning_tr": "Çatal bıçak takımı", "meaning_en": "Cutlery", "meaning_uk": "Столові прибори", "example": "Leg bitte Messer, Gabel und Löffel als *** auf den Tisch." },
-    { "term": "der Staubsauger", "type": "Noun", "meaning_tr": "Elektrikli süpürge", "meaning_en": "Vacuum cleaner", "meaning_uk": "Пилосос", "example": "Der Boden ist schmutzig, ich hole den *** aus dem Schrank." },
-    { "term": "der Umzug", "type": "Noun", "meaning_tr": "Taşınma", "meaning_en": "Move", "meaning_uk": "Переїзд", "example": "Ein *** ist stressig, man muss viele Kartons packen." },
-    { "term": "der Karton", "type": "Noun", "meaning_tr": "Karton kutu, koli", "meaning_en": "Box", "meaning_uk": "Коробка", "example": "Ich packe meine Bücher in einen großen ***." },
-    { "term": "ausziehen", "type": "Verb", "meaning_tr": "(Evden) taşınmak, çıkmak", "meaning_en": "To move out", "meaning_uk": "Виїжджати", "example": "Ich habe eine neue Wohnung gefunden und werde nächste Woche ***." },
-    { "term": "mitnehmen", "type": "Verb", "meaning_tr": "Yanına almak", "meaning_en": "To take along", "meaning_uk": "Брати з собою", "example": "Vergiss deinen Regenschirm nicht, du solltest ihn ***." },
-    { "term": "Wie oft?", "type": "Phrase", "meaning_tr": "Ne sıklıkla?", "meaning_en": "How often?", "meaning_uk": "Як часто?", "example": "*** gehst du in der Woche zum Deutschkurs?" },
-    { "term": "abgeben", "type": "Verb", "meaning_tr": "Teslim etmek, vermek", "meaning_en": "To hand in", "meaning_uk": "Здавати", "example": "Ich muss den Schlüssel beim Vermieter ***." },
-    { "term": "allein", "type": "Adjective", "meaning_tr": "Yalnız, tek başına", "meaning_en": "Alone", "meaning_uk": "Самотній", "example": "Er möchte nicht *** wohnen, deshalb sucht er eine WG." },
-    { "term": "außerdem", "type": "Adverb", "meaning_tr": "Ayrıca, bundan başka", "meaning_en": "Besides", "meaning_uk": "Крім того", "example": "Die Wohnung ist teuer ve *** ist sie viel zu klein." },
-    { "term": "die Badewanne", "type": "Noun", "meaning_tr": "Banyo küveti", "meaning_en": "Bathtub", "meaning_uk": "Ванна", "example": "Nach der Arbeit nehme ich ein heißes Bad in der ***." },
-    { "term": "glücklich", "type": "Adjective", "meaning_tr": "Mutlu", "meaning_en": "Happy", "meaning_uk": "Щасливий", "example": "Sie ist sehr ***, weil sie die Prüfung bestanden hat." },
-    { "term": "nämlich", "type": "Adverb", "meaning_tr": "Yani, çünkü", "meaning_en": "Namely / Because", "meaning_uk": "А саме", "example": "Ich kann nicht kommen, ich habe *** heute keine Zeit." },
-    { "term": "das Tier", "type": "Noun", "meaning_tr": "Hayvan", "meaning_en": "Animal", "meaning_uk": "Тварина", "example": "Der Hund ist ein sehr treues ***." },
-    { "term": "zurückgehen", "type": "Verb", "meaning_tr": "Geri gitmek", "meaning_en": "To go back", "meaning_uk": "Повертатися", "example": "Ich habe meinen Schlüssel vergessen, ich muss noch mal kurz ***." },
-    { "term": "beschreiben", "type": "Verb", "meaning_tr": "Betimlemek, tarif etmek", "meaning_en": "To describe", "meaning_uk": "Описувати", "example": "Können Sie mir den Weg zum Bahnhof bitte genau ***?" },
-    { "term": "die Bettdecke", "type": "Noun", "meaning_tr": "Yorgan", "meaning_en": "Duvet", "meaning_uk": "Ковдра", "example": "Im Winter brauche ich eine dicke ***, weil mir kalt ist." },
-    { "term": "der Boden", "type": "Noun", "meaning_tr": "Yer, zemin", "meaning_en": "Floor", "meaning_uk": "Підлога", "example": "Pass auf! Das Glas ist kaputt und liegt auf dem ***." },
-    { "term": "die Decke", "type": "Noun", "meaning_tr": "Tavan / Örtü", "meaning_en": "Ceiling / Blanket", "meaning_uk": "Стеля / Покривало", "example": "Die Lampe hängt oben an der ***." },
-    { "term": "die Jeans", "type": "Noun", "meaning_tr": "Kot pantolon", "meaning_en": "Jeans", "meaning_uk": "Джинси", "example": "Ich trage bei der Arbeit keine Anzughose, sondern eine blaue ***." },
-    { "term": "die Leiter", "type": "Noun", "meaning_tr": "Merdiven", "meaning_en": "Ladder", "meaning_uk": "Драбина", "example": "Ich bin zu klein, ich brauche eine ***, um die Lampe zu reparieren." },
-    { "term": "hinter", "type": "Preposition", "meaning_tr": "Arkasında", "meaning_en": "Behind", "meaning_uk": "За", "example": "Das Auto parkt direkt *** dem Haus." },
-    { "term": "neben", "type": "Preposition", "meaning_tr": "Yanında", "meaning_en": "Next to", "meaning_uk": "Поряд з", "example": "Die Apotheke liegt direkt *** der Post." },
-    { "term": "der Papierkorb", "type": "Noun", "meaning_tr": "Çöp sepeti", "meaning_en": "Wastepaper basket", "meaning_uk": "Кошик для паперів", "example": "Wirf das alte Papier bitte in den ***." },
-    { "term": "üben", "type": "Verb", "meaning_tr": "Alıştırma yapmak", "meaning_en": "To practice", "meaning_uk": "Практикувати", "example": "Du musst jeden Tag Deutsch ***, um besser zu werden." },
-    { "term": "das Werkzeug", "type": "Noun", "meaning_tr": "Araç gereç, alet", "meaning_en": "Tool", "meaning_uk": "Інструмент", "example": "Um den Schrank aufzubauen, brauche ich das richtige ***." },
-    { "term": "darauf", "type": "Adverb", "meaning_tr": "Üzerine, buna", "meaning_en": "On it", "meaning_uk": "На цьому", "example": "Dort steht ein Tisch ve *** liegt ein Buch." },
-    { "term": "einrichten", "type": "Verb", "meaning_tr": "Döşemek, kurmak", "meaning_en": "To furnish", "meaning_uk": "Облаштовувати", "example": "Wir wollen unser neues Wohnzimmer gemütlich ***." },
-    { "term": "der Grundriss", "type": "Noun", "meaning_tr": "Kat planı", "meaning_en": "Floor plan", "meaning_uk": "План поверху", "example": "Auf dem *** kann man sehen, wie groß die Zimmer sind." },
-    { "term": "hängen", "type": "Verb", "meaning_tr": "Asmak", "meaning_en": "To hang", "meaning_uk": "Вішати", "example": "Ich möchte das Familienfoto an die Wand ***." },
-    { "term": "die Kiste", "type": "Noun", "meaning_tr": "Sandık, koli", "meaning_en": "Box / Crate", "meaning_uk": "Ящик", "example": "In dieser *** liegen meine alten Spielzeuge." },
-    { "term": "der Müll", "type": "Noun", "meaning_tr": "Çöp", "meaning_en": "Trash", "meaning_uk": "Сміття", "example": "Es riecht schlecht, bring bitte den *** nach draußen." },
-    { "term": "stellen", "type": "Verb", "meaning_tr": "Koymak (dik)", "meaning_en": "To put", "meaning_uk": "Ставити", "example": "Soll ich die Vase auf den Tisch veya ins Regal ***?" },
-    { "term": "die Vase", "type": "Noun", "meaning_tr": "Vazo", "meaning_en": "Vase", "meaning_uk": "Ваза", "example": "Stell die Blumen bitte in die *** mit Wasser." },
-    { "term": "die Wand", "type": "Noun", "meaning_tr": "Duvar", "meaning_en": "Wall", "meaning_uk": "Стіна", "example": "Wir wollen die *** im Schlafzimmer blau streichen." },
-    { "term": "werfen", "type": "Verb", "meaning_tr": "Atmak, fırlatmak", "meaning_en": "To throw", "meaning_uk": "Кидати", "example": "Du darfst den Ball nicht im Haus ***." },
-    { "term": "der Mitbewohner", "type": "Noun", "meaning_tr": "Ev arkadaşı (m)", "meaning_en": "Flatmate (m)", "meaning_uk": "Співмешканець", "example": "Ich teile mir die Wohnung mit einem netten ***." },
-    { "term": "die Mitbewohnerin", "type": "Noun", "meaning_tr": "Ev arkadaşı (f)", "meaning_en": "Flatmate (f)", "meaning_uk": "Співмешканка", "example": "Meine neue *** kocht sehr gerne." },
-    { "term": "die Musikgruppe", "type": "Noun", "meaning_tr": "Müzik grubu", "meaning_en": "Music group", "meaning_uk": "Музична група", "example": "Meine liebste *** gibt morgen ein Konzert." },
-    { "term": "die Nähe", "type": "Noun", "meaning_tr": "Yakınlık", "meaning_en": "Proximity", "meaning_uk": "Близькість", "example": "Gibt es hier in der *** einen Supermarkt?" },
-    { "term": "neugierig", "type": "Adjective", "meaning_tr": "Meraklı", "meaning_en": "Curious", "meaning_uk": "Цікавий", "example": "Ich bin ***, wie deine neue Wohnung aussieht." },
-    { "term": "niedrig", "type": "Adjective", "meaning_tr": "Düşük, alçak", "meaning_en": "Low", "meaning_uk": "Низький", "example": "Der Tisch ist zu ***, ich kann nicht bequem daran sitzen." },
-    { "term": "schön", "type": "Adjective", "meaning_tr": "Güzel", "meaning_en": "Beautiful", "meaning_uk": "Гарний", "example": "Die Aussicht vom Balkon ist wirklich ***." },
-    { "term": "groß", "type": "Adjective", "meaning_tr": "Büyük", "meaning_en": "Big", "meaning_uk": "Великий", "example": "Wir brauchen einen *** Tisch für zehn Personen." },
-    { "term": "das Badregal", "type": "Noun", "meaning_tr": "Banyo rafı", "meaning_en": "Bathroom shelf", "meaning_uk": "Полиця для ванної", "example": "Ich stelle mein Shampoo ve meine Seife ins ***." },
-    { "term": "der Kühlschrank", "type": "Noun", "meaning_tr": "Buzdolabı", "meaning_en": "Refrigerator", "meaning_uk": "Холодильник", "example": "Stell die Milch bitte sofort in den ***." },
-    { "term": "das Gefrierfach", "type": "Noun", "meaning_tr": "Dondurucu bölmesi", "meaning_en": "Freezer compartment", "meaning_uk": "Морозилка", "example": "Das Eis ist im *** ganz oben." },
-    { "term": "aufhängen", "type": "Verb", "meaning_tr": "Asmak (çamaşır)", "meaning_en": "To hang up", "meaning_uk": "Вішати", "example": "Nach dem Waschen muss ich die nassen Kleider ***." },
-    { "term": "die Energie", "type": "Noun", "meaning_tr": "Enerji", "meaning_en": "Energy", "meaning_uk": "Енергія", "example": "Wir müssen *** sparen ve das Licht ausschalten." },
-    { "term": "verbrauchen", "type": "Verb", "meaning_tr": "Tüketmek", "meaning_en": "To consume", "meaning_uk": "Споживати", "example": "Alte Elektrogeräte *** oft zu viel Strom." },
-    { "term": "breit", "type": "Adjective", "meaning_tr": "Geniş", "meaning_en": "Wide", "meaning_uk": "Широкий", "example": "Der Flur ist nicht *** genug für diesen großen Schrank." },
-    { "term": "die Breite", "type": "Noun", "meaning_tr": "Genişlik", "meaning_en": "Width", "meaning_uk": "Ширина", "example": "Die *** des Zimmers beträgt vier Meter." },
-    { "term": "die Höhe", "type": "Noun", "meaning_tr": "Yükseklik", "meaning_en": "Height", "meaning_uk": "Висота", "example": "Die *** der Tür ist für ihn ein Problem, er ist sehr groß." },
-    { "term": "die Tiefe", "type": "Noun", "meaning_tr": "Derinlik", "meaning_en": "Depth", "meaning_uk": "Глибина", "example": "Bei diesem Regal ist die *** wichtig für meine Bücher." },
-    { "term": "cm", "type": "Unit", "meaning_tr": "Santimetre", "meaning_en": "Centimeter", "meaning_uk": "Сантиметр", "example": "Das Brett ist 80 *** lang." },
-    { "term": "gebraucht", "type": "Adjective", "meaning_tr": "İkinci el", "meaning_en": "Used", "meaning_uk": "Вживаний", "example": "Ich habe kein neues Auto gekauft, sondern ein ***." },
-    { "term": "benutzt", "type": "Adjective", "meaning_tr": "Kullanılmış", "meaning_en": "Used", "meaning_uk": "Використаний", "example": "Dieses Handtuch ist nass, es wurde schon ***." },
-    { "term": "geschehen", "type": "Verb", "meaning_tr": "Meydana gelmek", "meaning_en": "To happen", "meaning_uk": "Статися", "example": "Was ist hier ***? Warum liegt alles auf dem Boden?" },
-    { "term": "das Material", "type": "Noun", "meaning_tr": "Malzeme", "meaning_en": "Material", "meaning_uk": "Матеріал", "example": "Dieses hochwertige *** hält sehr lange." },
-    { "term": "das Holz", "type": "Noun", "meaning_tr": "Tahta, ahşap", "meaning_en": "Wood", "meaning_uk": "Деревина", "example": "Dieser antike Stuhl ist aus schwerem *** gemacht." },
-    { "term": "das Metall", "type": "Noun", "meaning_tr": "Metal", "meaning_en": "Metal", "meaning_uk": "Метал", "example": "Das Gestell vom Bett ist aus stabilem ***." },
-    { "term": "das Plastik", "type": "Noun", "meaning_tr": "Plastik", "meaning_en": "Plastic", "meaning_uk": "Пластик", "example": "Wir sollten weniger Flaschen aus *** kaufen." },
-    { "term": "der Edelstahl", "type": "Noun", "meaning_tr": "Paslanmaz çelik", "meaning_en": "Stainless steel", "meaning_uk": "Нержавіюча сталь", "example": "Die Töpfe in der Profiküche sind aus ***." },
-    { "term": "der Käufer", "type": "Noun", "meaning_tr": "Alıcı (m)", "meaning_en": "Buyer (m)", "meaning_uk": "Покупець", "example": "Der *** möchte das Auto morgen abholen." },
-    { "term": "die Käuferin", "type": "Noun", "meaning_tr": "Alıcı (f)", "meaning_en": "Buyer (f)", "meaning_uk": "Покупчиня", "example": "Die *** hat den Preis bereits bezahlt." },
-    { "term": "der Verkäufer", "type": "Noun", "meaning_tr": "Satıcı (m)", "meaning_en": "Seller (m)", "meaning_uk": "Продавець", "example": "Der *** ist sehr freundlich ve hilft mir." },
-    { "term": "die Verkäuferin", "type": "Noun", "meaning_tr": "Satıcı (f)", "meaning_en": "Seller (f)", "meaning_uk": "Продавчиня", "example": "Fragen Sie die *** nach einem Rabatt." },
-    { "term": "verhandeln", "type": "Verb", "meaning_tr": "Pazarlık etmek", "meaning_en": "To negotiate", "meaning_uk": "Вести переговори", "example": "Auf dem Flohmarkt kann man über den Preis ***." },
-    { "term": "das Schnäppchen", "type": "Noun", "meaning_tr": "Kelepir", "meaning_en": "Bargain", "meaning_uk": "Вигідна покупка", "example": "Das Handy war sehr billig, ein echtes ***!" },
-    { "term": "das Gebot", "type": "Noun", "meaning_tr": "Teklif (fiyat)", "meaning_en": "Bid", "meaning_uk": "Ставка", "example": "Mein *** für das Fahrrad liegt bei 50 Euro." },
-    { "term": "einverstanden", "type": "Adjective", "meaning_tr": "Hemfikir", "meaning_en": "Agreed", "meaning_uk": "Згоден", "example": "50 Euro ist okay, ich bin damit ***." },
-    { "term": "akzeptieren", "type": "Verb", "meaning_tr": "Kabul etmek", "meaning_en": "To accept", "meaning_uk": "Приймати", "example": "Ich kann diesen niedrigen Preis leider nicht ***." },
-    { "term": "der Versand", "type": "Noun", "meaning_tr": "Gönderim, sevkiyat", "meaning_en": "Shipping", "meaning_uk": "Доставка", "example": "Der Artikel kostet 10 Euro plus 5 Euro für den ***." },
-    { "term": "verschicken", "type": "Verb", "meaning_tr": "Göndermek", "meaning_en": "To send off", "meaning_uk": "Відправляти", "example": "Ich werde das Paket heute noch per Post ***." },
-    { "term": "niemand", "type": "Pronoun", "meaning_tr": "Hiç kimse", "meaning_en": "Nobody", "meaning_uk": "Ніхто", "example": "Ich habe an der Tür geklingelt, aber *** hat aufgemacht." },
-    { "term": "der Haushalt", "type": "Noun", "meaning_tr": "Ev işleri", "meaning_en": "Household", "meaning_uk": "Домашнє господарство", "example": "In einem großen *** gibt es immer viel zu tun." },
-    { "term": "die Küche", "type": "Noun", "meaning_tr": "Mutfak", "meaning_en": "Kitchen", "meaning_uk": "Кухня", "example": "Ich koche das Abendessen in der ***." },
-    { "term": "die Arbeitsplatte", "type": "Noun", "meaning_tr": "Mutfak tezgahı", "meaning_en": "Worktop", "meaning_uk": "Стільниця", "example": "Bitte schneide das Gemüse auf der ***." },
-    { "term": "aufräumen", "type": "Verb", "meaning_tr": "Toplamak", "meaning_en": "To clean up", "meaning_uk": "Прибирати", "example": "Dein Zimmer ist so chaotisch, du musst endlich ***." },
-    { "term": "ausräumen", "type": "Verb", "meaning_tr": "Boşaltmak", "meaning_en": "To empty", "meaning_uk": "Вивантажувати", "example": "Die Spülmaschine ist fertig, kannst du sie bitte ***?" },
-    { "term": "einkaufen", "type": "Verb", "meaning_tr": "Alışveriş yapmak", "meaning_en": "To shop", "meaning_uk": "Робити покупки", "example": "Wir haben keine Milch mehr, ich muss *** gehen." },
-    { "term": "gießen", "type": "Verb", "meaning_tr": "Sulamak", "meaning_en": "To water", "meaning_uk": "Поливати", "example": "Im Sommer muss ich die Blumen jeden Tag ***." },
-    { "term": "reinigen", "type": "Verb", "meaning_tr": "Temizlemek", "meaning_en": "To clean", "meaning_uk": "Очищати", "example": "Man sollte die Fenster regelmäßig ***." },
-    { "term": "der Topf", "type": "Noun", "meaning_tr": "Tencere", "meaning_en": "Pot", "meaning_uk": "Каструля", "example": "Die Suppe kocht in einem großen *** auf dem Herd." },
-    { "term": "spülen", "type": "Verb", "meaning_tr": "Bulaşık yıkamak", "meaning_en": "To wash dishes", "meaning_uk": "Мити посуд", "example": "Ich koche und du musst danach das Geschirr ***." },
-    { "term": "staubsaugen", "type": "Verb", "meaning_tr": "Süpürmek", "meaning_en": "To vacuum", "meaning_uk": "Пилососити", "example": "Wegen meiner Allergie muss ich jeden Tag ***." },
-    { "term": "der Staub", "type": "Noun", "meaning_tr": "Toz", "meaning_en": "Dust", "meaning_uk": "Пил", "example": "Unter dem Bett liegt sehr viel ***." },
-    { "term": "Staub wischen", "type": "Phrase", "meaning_tr": "Toz almak", "meaning_en": "To dust", "meaning_uk": "Витирати пил", "example": "Auf dem Fernseher liegt viel Dreck, ich muss mal wieder *** ***." },
-    { "term": "wegbringen", "type": "Verb", "meaning_tr": "Götürmek, atmak", "meaning_en": "To take away", "meaning_uk": "Відносити", "example": "Kannst du bitte die leeren Flaschen ***?" },
-    { "term": "wegwerfen", "type": "Verb", "meaning_tr": "Atmak, çöpe atmak", "meaning_en": "To throw away", "meaning_uk": "Викидати", "example": "Das Brot ist alt und schimmelig, du musst es ***." },
-    { "term": "dran", "type": "Adverb", "meaning_tr": "Sıra (bende/sende)", "meaning_en": "One's turn", "meaning_uk": "Черга", "example": "Gestern habe ich geputzt, heute bist du ***." },
-    { "term": "sonstiges", "type": "Adjective", "meaning_tr": "Diğerleri", "meaning_en": "Other", "meaning_uk": "Інше", "example": "Hast du noch *** Wünsche veya ist das alles?" },
-    { "term": "verteilen", "type": "Verb", "meaning_tr": "Dağıtmak", "meaning_en": "To distribute", "meaning_uk": "Розподіляти", "example": "Wir müssen die Hausarbeit gerecht unter uns ***." }
+    {
+      "term": "die Möbel",
+      "type": "Noun",
+      "meaning_tr": "Mobilyalar - Ev mobilyaları",
+      "meaning_en": "Furniture - Household goods",
+      "meaning_uk": "Меблі - Предмети меблів",
+      "example": "Wir ziehen um ve brauchen neue *** für das Wohnzimmer.",
+      "meaning_es": "Muebles - Mobiliario"
+    },
+    {
+      "term": "die Einrichtung",
+      "type": "Noun",
+      "meaning_tr": "Döşeme - Ekipman - Dekorasyon",
+      "meaning_en": "Furnishings - Fixtures - Interior design",
+      "meaning_uk": "Обстановка - Устаткування - Декор",
+      "example": "Die *** in diesem Hotel ist sehr modern und gemütlich.",
+      "meaning_es": "Ajuar - Instalaciones - Decoración"
+    },
+    {
+      "term": "das Ding",
+      "type": "Noun",
+      "meaning_tr": "Şey - Eşya - Nesne",
+      "meaning_en": "Thing - Object - Item",
+      "meaning_uk": "Річ - Предмет - Об'єкт",
+      "example": "Wie heißt dieses *** auf Deutsch? Ich habe das Wort vergessen.",
+      "meaning_es": "Cosa - Artículo - Objeto"
+    },
+    {
+      "term": "die Couch",
+      "type": "Noun",
+      "meaning_tr": "Kanepe - Koltuk - Sofa",
+      "meaning_en": "Couch - Sofa - Settee",
+      "meaning_uk": "Диван - Канапа - Софа",
+      "example": "Am Abend liege ich gern auf der *** und sehe fern.",
+      "meaning_es": "Sofá - Diván - Canapé"
+    },
+    {
+      "term": "die Matratze",
+      "type": "Noun",
+      "meaning_tr": "Yatak - Minder",
+      "meaning_en": "Mattress - Bedding",
+      "meaning_uk": "Матрац - Подушка для сну",
+      "example": "Mein Rücken tut weh, weil die *** im Bett zu weich ist.",
+      "meaning_es": "Colchón - Lecho"
+    },
+    {
+      "term": "das Kissen",
+      "type": "Noun",
+      "meaning_tr": "Yastık",
+      "meaning_en": "Pillow - Cushion",
+      "meaning_uk": "Подушка",
+      "example": "Ich kann ohne mein weiches *** nicht gut schlafen.",
+      "meaning_es": "Almohada - Cojín"
+    },
+    {
+      "term": "der Schreibtisch",
+      "type": "Noun",
+      "meaning_tr": "Yazı masası - Çalışma masası",
+      "meaning_en": "Desk - Writing table",
+      "meaning_uk": "Письмовий стіл - Робочий стіл",
+      "example": "Mein Computer und meine Lampe stehen auf dem ***.",
+      "meaning_es": "Escritorio - Mesa de trabajo"
+    },
+    {
+      "term": "die Stehlampe",
+      "type": "Noun",
+      "meaning_tr": "Lambader - Ayaklı lamba",
+      "meaning_en": "Floor lamp - Standard lamp",
+      "meaning_uk": "Торшер - Підлоговий світильник",
+      "example": "Stell die *** neben das Sofa, damit ich dort lesen kann.",
+      "meaning_es": "Lámpara de pie - Farol de pie"
+    },
+    {
+      "term": "der Teppich",
+      "type": "Noun",
+      "meaning_tr": "Halı",
+      "meaning_en": "Carpet - Rug",
+      "meaning_uk": "Килим - Килимове покриття",
+      "example": "Bitte zieh deine Schuhe aus, wir haben einen neuen *** im Wohnzimmer.",
+      "meaning_es": "Alfombra - Tapete"
+    },
+    {
+      "term": "der Vorhang",
+      "type": "Noun",
+      "meaning_tr": "Perde",
+      "meaning_en": "Curtain - Drapery",
+      "meaning_uk": "Штора - Завіса",
+      "example": "Es ist zu hell im Zimmer, mach bitte den *** zu.",
+      "meaning_es": "Cortina - Telón"
+    },
+    {
+      "term": "die Spülmaschine",
+      "type": "Noun",
+      "meaning_tr": "Bulaşık makinesi",
+      "meaning_en": "Dishwasher",
+      "meaning_uk": "Посудомийна машина",
+      "example": "Das Geschirr ist sauber, kannst du die *** ausräumen?",
+      "meaning_es": "Lavavajillas - Lavaplatos"
+    },
+    {
+      "term": "das Geschirr",
+      "type": "Noun",
+      "meaning_tr": "Bulaşık - Kap kacak",
+      "meaning_en": "Dishes - Tableware",
+      "meaning_uk": "Посуд",
+      "example": "Nach dem Essen müssen wir das *** waschen.",
+      "meaning_es": "Vajilla - Platos"
+    },
+    {
+      "term": "das Besteck",
+      "type": "Noun",
+      "meaning_tr": "Çatal bıçak takımı - Sofra takımı",
+      "meaning_en": "Cutlery - Silverware",
+      "meaning_uk": "Столові прибори",
+      "example": "Leg bitte Messer, Gabel und Löffel als *** auf den Tisch.",
+      "meaning_es": "Cubiertos - Cubertería"
+    },
+    {
+      "term": "der Staubsauger",
+      "type": "Noun",
+      "meaning_tr": "Elektrikli süpürge - Süpürge",
+      "meaning_en": "Vacuum cleaner",
+      "meaning_uk": "Пилосос",
+      "example": "Der Boden ist schmutzig, ich hole den *** aus dem Schrank.",
+      "meaning_es": "Aspiradora - Limpiador a vapor"
+    },
+    {
+      "term": "der Umzug",
+      "type": "Noun",
+      "meaning_tr": "Taşınma - Nakil",
+      "meaning_en": "Move - Relocation",
+      "meaning_uk": "Переїзд - Зміна місця проживання",
+      "example": "Ein *** ist stressig, man muss viele Kartons packen.",
+      "meaning_es": "Mudanza - Traslado"
+    },
+    {
+      "term": "der Karton",
+      "type": "Noun",
+      "meaning_tr": "Karton kutu - Koli",
+      "meaning_en": "Box - Carton",
+      "meaning_uk": "Коробка - Картонна скринька",
+      "example": "Ich packe meine Bücher in einen großen ***.",
+      "meaning_es": "Caja - Cartón"
+    },
+    {
+      "term": "ausziehen",
+      "type": "Verb",
+      "meaning_tr": "(Evden) taşınmak - Çıkmak",
+      "meaning_en": "To move out - To vacate",
+      "meaning_uk": "Виїжджати - Виселятися",
+      "example": "Ich habe eine neue Wohnung gefunden und werde nächste Woche ***.",
+      "meaning_es": "Mudarse - Desalojar"
+    },
+    {
+      "term": "mitnehmen",
+      "type": "Verb",
+      "meaning_tr": "Yanına almak - Beraberinde götürmek",
+      "meaning_en": "To take along - To carry with",
+      "meaning_uk": "Брати з собою - Забирати",
+      "example": "Vergiss deinen Regenschirm nicht, du solltest ihn ***.",
+      "meaning_es": "Llevar consigo - Acompañar"
+    },
+    {
+      "term": "Wie oft?",
+      "type": "Phrase",
+      "meaning_tr": "Ne sıklıkla? - Ne kadar sık?",
+      "meaning_en": "How often? - Frequency",
+      "meaning_uk": "Як часто? - Як часто?",
+      "example": "*** gehst du in der Woche zum Deutschkurs?",
+      "meaning_es": "¿Con qué frecuencia? - ¿A menudo?"
+    },
+    {
+      "term": "abgeben",
+      "type": "Verb",
+      "meaning_tr": "Teslim etmek - Vermek - Sunmak",
+      "meaning_en": "To hand in - To submit - To surrender",
+      "meaning_uk": "Здавати - Передавати",
+      "example": "Ich muss den Schlüssel beim Vermieter ***.",
+      "meaning_es": "Entregar - Rendirse"
+    },
+    {
+      "term": "allein",
+      "type": "Adjective",
+      "meaning_tr": "Yalnız - Tek başına",
+      "meaning_en": "Alone - Solely",
+      "meaning_uk": "Самотні - Наодинці",
+      "example": "Er möchte nicht *** wohnen, deshalb sucht er eine WG.",
+      "meaning_es": "Solo - Solamente"
+    },
+    {
+      "term": "außerdem",
+      "type": "Adverb",
+      "meaning_tr": "Ayrıca - Bundan başka",
+      "meaning_en": "Besides - Moreover - Furthermore",
+      "meaning_uk": "Крім того - До того ж",
+      "example": "Die Wohnung ist teuer ve *** ist sie viel zu klein.",
+      "meaning_es": "Además - Aparte"
+    },
+    {
+      "term": "die Badewanne",
+      "type": "Noun",
+      "meaning_tr": "Banyo küveti - Küvet",
+      "meaning_en": "Bathtub - Bath",
+      "meaning_uk": "Ванна",
+      "example": "Nach der Arbeit nehme ich ein heißes Bad in der ***.",
+      "meaning_es": "Bañera - Tina"
+    },
+    {
+      "term": "glücklich",
+      "type": "Adjective",
+      "meaning_tr": "Mutlu - Mesut",
+      "meaning_en": "Happy - Joyful - Fortunate",
+      "meaning_uk": "Щасливий - Радісний",
+      "example": "Sie ist sehr ***, weil sie die Prüfung bestanden hat.",
+      "meaning_es": "Feliz - Contento"
+    },
+    {
+      "term": "nämlich",
+      "type": "Adverb",
+      "meaning_tr": "Yani - Çünkü - Meğerse",
+      "meaning_en": "Namely - Specifically - Because",
+      "meaning_uk": "А саме - Тому що",
+      "example": "Ich kann nicht kommen, ich habe *** heute keine Zeit.",
+      "meaning_es": "Es decir - O sea"
+    },
+    {
+      "term": "das Tier",
+      "type": "Noun",
+      "meaning_tr": "Hayvan",
+      "meaning_en": "Animal - Beast",
+      "meaning_uk": "Тварина",
+      "example": "Der Hund ist ein sehr treues ***.",
+      "meaning_es": "Animal - Bestia"
+    },
+    {
+      "term": "zurückgehen",
+      "type": "Verb",
+      "meaning_tr": "Geri gitmek - Geri dönmek",
+      "meaning_en": "To go back - To return",
+      "meaning_uk": "Повертатися - Йти назад",
+      "example": "Ich habe meinen Schlüssel vergessen, ich muss noch mal kurz ***.",
+      "meaning_es": "Volver - Regresar"
+    },
+    {
+      "term": "beschreiben",
+      "type": "Verb",
+      "meaning_tr": "Betimlemek - Tarif etmek",
+      "meaning_en": "To describe - To portray",
+      "meaning_uk": "Описувати - Змальовувати",
+      "example": "Können Sie mir den Weg zum Bahnhof bitte genau ***?",
+      "meaning_es": "Describir - Detallar"
+    },
+    {
+      "term": "die Bettdecke",
+      "type": "Noun",
+      "meaning_tr": "Yorgan - Battaniye",
+      "meaning_en": "Duvet - Comforter - Bedcover",
+      "meaning_uk": "Ковдра",
+      "example": "Im Winter brauche ich eine dicke ***, weil mir kalt ist.",
+      "meaning_es": "Edredón - Manta"
+    },
+    {
+      "term": "der Boden",
+      "type": "Noun",
+      "meaning_tr": "Yer - Zemin - Taban",
+      "meaning_en": "Floor - Ground",
+      "meaning_uk": "Підлога - Земля",
+      "example": "Pass auf! Das Glas ist kaputt und liegt auf dem ***.",
+      "meaning_es": "Suelo - Piso - Base"
+    },
+    {
+      "term": "die Decke",
+      "type": "Noun",
+      "meaning_tr": "Tavan - Örtü - Battaniye",
+      "meaning_en": "Ceiling - Blanket - Cover",
+      "meaning_uk": "Стеля - Покривало - Ковдра",
+      "example": "Die Lampe hängt oben an der ***.",
+      "meaning_es": "Techo - Manta - Cubierta"
+    },
+    {
+      "term": "die Jeans",
+      "type": "Noun",
+      "meaning_tr": "Kot pantolon",
+      "meaning_en": "Jeans - Denim trousers",
+      "meaning_uk": "Джинси",
+      "example": "Ich trage bei der Arbeit keine Anzughose, sondern eine blaue ***.",
+      "meaning_es": "Vaqueros - Pantalones vaqueros"
+    },
+    {
+      "term": "die Leiter",
+      "type": "Noun",
+      "meaning_tr": "Merdiven",
+      "meaning_en": "Ladder - Stepladder",
+      "meaning_uk": "Драбина",
+      "example": "Ich bin zu klein, ich brauche eine ***, um die Lampe zu reparieren.",
+      "meaning_es": "Escalera - Trampolín"
+    },
+    {
+      "term": "hinter",
+      "type": "Preposition",
+      "meaning_tr": "Arkasında",
+      "meaning_en": "Behind - Following",
+      "meaning_uk": "За - Після",
+      "example": "Das Auto parkt direkt *** dem Haus.",
+      "meaning_es": "Detrás de - Tras"
+    },
+    {
+      "term": "neben",
+      "type": "Preposition",
+      "meaning_tr": "Yanında - Bitişiğinde",
+      "meaning_en": "Next to - Beside",
+      "meaning_uk": "Поруч з - Біля",
+      "example": "Die Apotheke liegt direkt *** der Post.",
+      "meaning_es": "Al lado de - Junto a"
+    },
+    {
+      "term": "der Papierkorb",
+      "type": "Noun",
+      "meaning_tr": "Çöp sepeti - Kağıt sepeti",
+      "meaning_en": "Wastepaper basket - Trash bin",
+      "meaning_uk": "Кошик для паперів",
+      "example": "Wirf das alte Papier bitte in den ***.",
+      "meaning_es": "Papelera - Cesto de basura"
+    },
+    {
+      "term": "üben",
+      "type": "Verb",
+      "meaning_tr": "Alıştırma yapmak - Pratik etmek",
+      "meaning_en": "To practice - To rehearse",
+      "meaning_uk": "Практикувати - Тренуватися",
+      "example": "Du musst jeden Tag Deutsch ***, um besser zu werden.",
+      "meaning_es": "Practicar - Ensayar"
+    },
+    {
+      "term": "das Werkzeug",
+      "type": "Noun",
+      "meaning_tr": "Araç gereç - Alet",
+      "meaning_en": "Tool - Implement",
+      "meaning_uk": "Інструмент",
+      "example": "Um den Schrank aufzubauen, brauche ich das richtige ***.",
+      "meaning_es": "Herramienta - Utensilio"
+    },
+    {
+      "term": "darauf",
+      "type": "Adverb",
+      "meaning_tr": "Üzerine - Buna",
+      "meaning_en": "On it - Thereupon",
+      "meaning_uk": "На цьому - Після цього",
+      "example": "Dort steht ein Tisch ve *** liegt ein Buch.",
+      "meaning_es": "Sobre eso - Encima"
+    },
+    {
+      "term": "einrichten",
+      "type": "Verb",
+      "meaning_tr": "Döşemek - Kurmak - Yerleştirmek",
+      "meaning_en": "To furnish - To set up - To decorate",
+      "meaning_uk": "Облаштовувати - Меблювати",
+      "example": "Wir wollen unser neues Wohnzimmer gemütlich ***.",
+      "meaning_es": "Amueblar - Instalar"
+    },
+    {
+      "term": "der Grundriss",
+      "type": "Noun",
+      "meaning_tr": "Kat planı - Yerleşim planı",
+      "meaning_en": "Floor plan - Layout",
+      "meaning_uk": "План поверху - Розташування",
+      "example": "Auf dem *** kann man sehen, wie groß die Zimmer sind.",
+      "meaning_es": "Plano de planta - Distribución"
+    },
+    {
+      "term": "hängen",
+      "type": "Verb",
+      "meaning_tr": "Asmak",
+      "meaning_en": "To hang",
+      "meaning_uk": "Вішати",
+      "example": "Ich möchte das Familienfoto an die Wand ***.",
+      "meaning_es": "Colgar - Suspender"
+    },
+    {
+      "term": "die Kiste",
+      "type": "Noun",
+      "meaning_tr": "Sandık - Koli",
+      "meaning_en": "Box - Crate",
+      "meaning_uk": "Ящик",
+      "example": "In dieser *** liegen meine alten Spielzeuge.",
+      "meaning_es": "Caja - Cajón"
+    },
+    {
+      "term": "der Müll",
+      "type": "Noun",
+      "meaning_tr": "Çöp - Atık",
+      "meaning_en": "Trash - Rubbish - Garbage",
+      "meaning_uk": "Сміття",
+      "example": "Es riecht schlecht, bring bitte den *** nach draußen.",
+      "meaning_es": "Basura - Desechos"
+    },
+    {
+      "term": "stellen",
+      "type": "Verb",
+      "meaning_tr": "Koymak (dik) - Yerleştirmek",
+      "meaning_en": "To put - To place upright",
+      "meaning_uk": "Ставити - Розміщувати",
+      "example": "Soll ich die Vase auf den Tisch veya ins Regal ***?",
+      "meaning_es": "Poner - Colocar de pie"
+    },
+    {
+      "term": "die Vase",
+      "type": "Noun",
+      "meaning_tr": "Vazo",
+      "meaning_en": "Vase",
+      "meaning_uk": "Ваза",
+      "example": "Stell die Blumen bitte in die *** mit Wasser.",
+      "meaning_es": "Jarrón - Florero"
+    },
+    {
+      "term": "die Wand",
+      "type": "Noun",
+      "meaning_tr": "Duvar",
+      "meaning_en": "Wall",
+      "meaning_uk": "Стіна",
+      "example": "Wir wollen die *** im Schlafzimmer blau streichen.",
+      "meaning_es": "Pared - Muro"
+    },
+    {
+      "term": "werfen",
+      "type": "Verb",
+      "meaning_tr": "Atmak - Fırlatmak",
+      "meaning_en": "To throw - To toss",
+      "meaning_uk": "Кидати - Кинути",
+      "example": "Du darfst den Ball nicht im Haus ***.",
+      "meaning_es": "Tirar - Lanzar"
+    },
+    {
+      "term": "der Mitbewohner",
+      "type": "Noun",
+      "meaning_tr": "Ev arkadaşı (erkek)",
+      "meaning_en": "Flatmate (male) - Roommate (male)",
+      "meaning_uk": "Співмешканець (чоловік)",
+      "example": "Ich teile mir die Wohnung mit einem netten ***.",
+      "meaning_es": "Compañero de piso (m) - Colono (m)"
+    },
+    {
+      "term": "die Mitbewohnerin",
+      "type": "Noun",
+      "meaning_tr": "Ev arkadaşı (kadın)",
+      "meaning_en": "Flatmate (female) - Roommate (female)",
+      "meaning_uk": "Співмешканка (жінка)",
+      "example": "Meine neue *** kocht sehr gerne.",
+      "meaning_es": "Compañera de piso (f) - Colona (f)"
+    },
+    {
+      "term": "die Musikgruppe",
+      "type": "Noun",
+      "meaning_tr": "Müzik grubu - Müzik topluluğu",
+      "meaning_en": "Music group - Band",
+      "meaning_uk": "Музична група",
+      "example": "Meine liebste *** gibt morgen ein Konzert.",
+      "meaning_es": "Grupo musical - Banda"
+    },
+    {
+      "term": "die Nähe",
+      "type": "Noun",
+      "meaning_tr": "Yakınlık - Civar",
+      "meaning_en": "Proximity - Nearness",
+      "meaning_uk": "Близькість - Сусідство",
+      "example": "Gibt es hier in der *** einen Supermarkt?",
+      "meaning_es": "Cercanía - Proximidad"
+    },
+    {
+      "term": "neugierig",
+      "type": "Adjective",
+      "meaning_tr": "Meraklı",
+      "meaning_en": "Curious - Inquisitive",
+      "meaning_uk": "Цікавий - Допитливий",
+      "example": "Ich bin ***, wie deine neue Wohnung aussieht.",
+      "meaning_es": "Curioso - Entrometido"
+    },
+    {
+      "term": "niedrig",
+      "type": "Adjective",
+      "meaning_tr": "Düşük - Alçak",
+      "meaning_en": "Low - Short",
+      "meaning_uk": "Низький",
+      "example": "Der Tisch ist zu ***, ich kann nicht bequem daran sitzen.",
+      "meaning_es": "Bajo - Poco alto"
+    },
+    {
+      "term": "schön",
+      "type": "Adjective",
+      "meaning_tr": "Güzel - Hoş",
+      "meaning_en": "Beautiful - Nice - Pretty",
+      "meaning_uk": "Гарний - Прекрасний",
+      "example": "Die Aussicht vom Balkon ist wirklich ***.",
+      "meaning_es": "Hermoso - Bonito - Bello"
+    },
+    {
+      "term": "groß",
+      "type": "Adjective",
+      "meaning_tr": "Büyük - Koca",
+      "meaning_en": "Big - Large - Great",
+      "meaning_uk": "Великий - Гігантський",
+      "example": "Wir brauchen einen *** Tisch für zehn Personen.",
+      "meaning_es": "Grande - Enorme"
+    },
+    {
+      "term": "das Badregal",
+      "type": "Noun",
+      "meaning_tr": "Banyo rafı",
+      "meaning_en": "Bathroom shelf",
+      "meaning_uk": "Полиця для ванної",
+      "example": "Ich stelle mein Shampoo ve meine Seife ins ***.",
+      "meaning_es": "Estante de baño - Repisa de baño"
+    },
+    {
+      "term": "der Kühlschrank",
+      "type": "Noun",
+      "meaning_tr": "Buzdolabı",
+      "meaning_en": "Refrigerator - Fridge",
+      "meaning_uk": "Холодильник",
+      "example": "Stell die Milch bitte sofort in den ***.",
+      "meaning_es": "Refrigerador - Nevera"
+    },
+    {
+      "term": "das Gefrierfach",
+      "type": "Noun",
+      "meaning_tr": "Dondurucu bölmesi - Derin dondurucu",
+      "meaning_en": "Freezer compartment",
+      "meaning_uk": "Морозильна камера - Морозилка",
+      "example": "Das Eis ist im *** ganz oben.",
+      "meaning_es": "Compartimento del congelador"
+    },
+    {
+      "term": "aufhängen",
+      "type": "Verb",
+      "meaning_tr": "Asmak (çamaşır) - Yerleştirmek",
+      "meaning_en": "To hang up - To suspend",
+      "meaning_uk": "Вішати - Повісити",
+      "example": "Nach dem Waschen muss ich die nassen Kleider ***.",
+      "meaning_es": "Colgar - Suspender"
+    },
+    {
+      "term": "die Energie",
+      "type": "Noun",
+      "meaning_tr": "Enerji",
+      "meaning_en": "Energy - Power",
+      "meaning_uk": "Енергія",
+      "example": "Wir müssen *** sparen ve das Licht ausschalten.",
+      "meaning_es": "Energía"
+    },
+    {
+      "term": "verbrauchen",
+      "type": "Verb",
+      "meaning_tr": "Tüketmek - Harcamak",
+      "meaning_en": "To consume - To use up",
+      "meaning_uk": "Споживати - Витрачати",
+      "example": "Alte Elektrogeräte *** oft zu viel Strom.",
+      "meaning_es": "Consumir - Gastar"
+    },
+    {
+      "term": "breit",
+      "type": "Adjective",
+      "meaning_tr": "Geniş",
+      "meaning_en": "Wide - Broad",
+      "meaning_uk": "Широкий",
+      "example": "Der Flur ist nicht *** genug für diesen großen Schrank.",
+      "meaning_es": "Ancho - Extenso"
+    },
+    {
+      "term": "die Breite",
+      "type": "Noun",
+      "meaning_tr": "Genişlik",
+      "meaning_en": "Width - Breadth",
+      "meaning_uk": "Ширина",
+      "example": "Die *** des Zimmers beträgt vier Meter.",
+      "meaning_es": "Anchura - Amplitud"
+    },
+    {
+      "term": "die Höhe",
+      "type": "Noun",
+      "meaning_tr": "Yükseklik",
+      "meaning_en": "Height - Altitude",
+      "meaning_uk": "Висота",
+      "example": "Die *** der Tür ist für ihn ein Problem, er ist sehr groß.",
+      "meaning_es": "Altura - Elevación"
+    },
+    {
+      "term": "die Tiefe",
+      "type": "Noun",
+      "meaning_tr": "Derinlik",
+      "meaning_en": "Depth - Deepness",
+      "meaning_uk": "Глибина",
+      "example": "Bei diesem Regal ist die *** wichtig für meine Bücher.",
+      "meaning_es": "Profundidad"
+    },
+    {
+      "term": "cm",
+      "type": "Unit",
+      "meaning_tr": "Santimetre",
+      "meaning_en": "Centimeter",
+      "meaning_uk": "Сантиметр",
+      "example": "Das Brett ist 80 *** lang.",
+      "meaning_es": "Centímetro"
+    },
+    {
+      "term": "gebraucht",
+      "type": "Adjective",
+      "meaning_tr": "İkinci el - Kullanılmış",
+      "meaning_en": "Used - Second-hand",
+      "meaning_uk": "Вживаний - Колишній у користуванні",
+      "example": "Ich habe kein neues Auto gekauft, sondern ein ***.",
+      "meaning_es": "Usado - De segunda mano"
+    },
+    {
+      "term": "benutzt",
+      "type": "Adjective",
+      "meaning_tr": "Kullanılmış",
+      "meaning_en": "Used - Utilized",
+      "meaning_uk": "Використаний",
+      "example": "Dieses Handtuch ist nass, es wurde schon ***.",
+      "meaning_es": "Utilizado - Empleado"
+    },
+    {
+      "term": "geschehen",
+      "type": "Verb",
+      "meaning_tr": "Meydana gelmek - Olmak",
+      "meaning_en": "To happen - To occur",
+      "meaning_uk": "Статися - Відбуватися",
+      "example": "Was ist hier ***? Warum liegt alles auf dem Boden?",
+      "meaning_es": "Suceder - Acontecer"
+    },
+    {
+      "term": "das Material",
+      "type": "Noun",
+      "meaning_tr": "Malzeme - Madde",
+      "meaning_en": "Material - Substance",
+      "meaning_uk": "Матеріал - Речовина",
+      "example": "Dieses hochwertige *** hält sehr lange.",
+      "meaning_es": "Material - Materia"
+    },
+    {
+      "term": "das Holz",
+      "type": "Noun",
+      "meaning_tr": "Tahta - Ahşap",
+      "meaning_en": "Wood - Timber",
+      "meaning_uk": "Деревина",
+      "example": "Dieser antike Stuhl ist aus schwerem *** gemacht.",
+      "meaning_es": "Madera"
+    },
+    {
+      "term": "das Metall",
+      "type": "Noun",
+      "meaning_tr": "Metal",
+      "meaning_en": "Metal",
+      "meaning_uk": "Метал",
+      "example": "Das Gestell vom Bett ist aus stabilem ***.",
+      "meaning_es": "Metal"
+    },
+    {
+      "term": "das Plastik",
+      "type": "Noun",
+      "meaning_tr": "Plastik - Plastik malzeme",
+      "meaning_en": "Plastic - Synthetic material",
+      "meaning_uk": "Пластик",
+      "example": "Wir sollten weniger Flaschen aus *** kaufen.",
+      "meaning_es": "Plástico"
+    },
+    {
+      "term": "der Edelstahl",
+      "type": "Noun",
+      "meaning_tr": "Paslanmaz çelik",
+      "meaning_en": "Stainless steel",
+      "meaning_uk": "Нержавіюча сталь",
+      "example": "Die Töpfe in der Profiküche sind aus ***.",
+      "meaning_es": "Acero inoxidable"
+    },
+    {
+      "term": "der Käufer",
+      "type": "Noun",
+      "meaning_tr": "Alıcı (erkek)",
+      "meaning_en": "Buyer (male) - Purchaser (m)",
+      "meaning_uk": "Покупець (чоловік)",
+      "example": "Der *** möchte das Auto morgen abholen.",
+      "meaning_es": "Comprador (m)"
+    },
+    {
+      "term": "die Käuferin",
+      "type": "Noun",
+      "meaning_tr": "Alıcı (kadın)",
+      "meaning_en": "Buyer (female) - Purchaser (f)",
+      "meaning_uk": "Покупчиня (жінка)",
+      "example": "Die *** hat den Preis bereits bezahlt.",
+      "meaning_es": "Compradora (f)"
+    },
+    {
+      "term": "der Verkäufer",
+      "type": "Noun",
+      "meaning_tr": "Satıcı (erkek)",
+      "meaning_en": "Seller (male) - Vendor (m)",
+      "meaning_uk": "Продавець (чоловік)",
+      "example": "Der *** ist sehr freundlich ve hilft mir.",
+      "meaning_es": "Vendedor (m)"
+    },
+    {
+      "term": "die Verkäuferin",
+      "type": "Noun",
+      "meaning_tr": "Satıcı (kadın)",
+      "meaning_en": "Seller (female) - Vendor (f)",
+      "meaning_uk": "Продавчиня (жінка)",
+      "example": "Fragen Sie die *** nach einem Rabatt.",
+      "meaning_es": "Vendedora (f)"
+    },
+    {
+      "term": "verhandeln",
+      "type": "Verb",
+      "meaning_tr": "Pazarlık etmek - Müzakere etmek",
+      "meaning_en": "To negotiate - To bargain",
+      "meaning_uk": "Вести переговори - Торгуватися",
+      "example": "Auf dem Flohmarkt kann man über den Preis ***.",
+      "meaning_es": "Negociar - Regatear"
+    },
+    {
+      "term": "das Schnäppchen",
+      "type": "Noun",
+      "meaning_tr": "Kelepir - Fırsat ürünü",
+      "meaning_en": "Bargain - Steal",
+      "meaning_uk": "Вигідна покупка - Угода",
+      "example": "Das Handy war sehr billig, ein echtes ***!",
+      "meaning_es": "Gangas - Oferta"
+    },
+    {
+      "term": "das Gebot",
+      "type": "Noun",
+      "meaning_tr": "Teklif (fiyat) - İhale",
+      "meaning_en": "Bid - Offer",
+      "meaning_uk": "Ставка - Пропозиція",
+      "example": "Mein *** für das Fahrrad liegt bei 50 Euro.",
+      "meaning_es": "Puja - Oferta"
+    },
+    {
+      "term": "einverstanden",
+      "type": "Adjective",
+      "meaning_tr": "Hemfikir - Aynı fikirde",
+      "meaning_en": "Agreed - In agreement",
+      "meaning_uk": "Згоден - Погоджуюсь",
+      "example": "50 Euro ist okay, ich bin damit ***.",
+      "meaning_es": "De acuerdo - Conforme"
+    },
+    {
+      "term": "akzeptieren",
+      "type": "Verb",
+      "meaning_tr": "Kabul etmek - Onaylamak",
+      "meaning_en": "To accept - To approve",
+      "meaning_uk": "Приймати - Погоджуватися",
+      "example": "Ich kann diesen niedrigen Preis leider nicht ***.",
+      "meaning_es": "Aceptar - Admitir"
+    },
+    {
+      "term": "der Versand",
+      "type": "Noun",
+      "meaning_tr": "Gönderim - Sevkiyat - Posta",
+      "meaning_en": "Shipping - Dispatch - Mailing",
+      "meaning_uk": "Доставка - Відправка",
+      "example": "Der Artikel kostet 10 Euro plus 5 Euro für den ***.",
+      "meaning_es": "Envío - Expedición"
+    },
+    {
+      "term": "verschicken",
+      "type": "Verb",
+      "meaning_tr": "Göndermek - Postalamak",
+      "meaning_en": "To send off - To mail",
+      "meaning_uk": "Відправляти",
+      "example": "Ich werde das Paket heute noch per Post ***.",
+      "meaning_es": "Enviar - Expedir"
+    },
+    {
+      "term": "niemand",
+      "type": "Pronoun",
+      "meaning_tr": "Hiç kimse",
+      "meaning_en": "Nobody - No one",
+      "meaning_uk": "Ніхто",
+      "example": "Ich habe an der Tür geklingelt, aber *** hat aufgemacht.",
+      "meaning_es": "Nadie"
+    },
+    {
+      "term": "der Haushalt",
+      "type": "Noun",
+      "meaning_tr": "Ev işleri - Hane",
+      "meaning_en": "Household - Housekeeping",
+      "meaning_uk": "Домашнє господарство",
+      "example": "In einem großen *** gibt es immer viel zu tun.",
+      "meaning_es": "Hogar - Doméstico"
+    },
+    {
+      "term": "die Küche",
+      "type": "Noun",
+      "meaning_tr": "Mutfak",
+      "meaning_en": "Kitchen",
+      "meaning_uk": "Кухня",
+      "example": "Ich koche das Abendessen in der ***.",
+      "meaning_es": "Cocina"
+    },
+    {
+      "term": "die Arbeitsplatte",
+      "type": "Noun",
+      "meaning_tr": "Mutfak tezgahı",
+      "meaning_en": "Worktop - Countertop",
+      "meaning_uk": "Стільниця",
+      "example": "Bitte schneide das Gemüse auf der ***.",
+      "meaning_es": "Encimera - Superficie de trabajo"
+    },
+    {
+      "term": "aufräumen",
+      "type": "Verb",
+      "meaning_tr": "Toplamak - Düzenlemek",
+      "meaning_en": "To clean up - To tidy",
+      "meaning_uk": "Прибирати - Наводити лад",
+      "example": "Dein Zimmer ist so chaotisch, du musst endlich ***.",
+      "meaning_es": "Ordenar - Limpiar"
+    },
+    {
+      "term": "ausräumen",
+      "type": "Verb",
+      "meaning_tr": "Boşaltmak - Çıkarmak",
+      "meaning_en": "To empty - To clear out",
+      "meaning_uk": "Вивантажувати - Спорожнювати",
+      "example": "Die Spülmaschine ist fertig, kannst du sie bitte ***?",
+      "meaning_es": "Vaciar - Desalojar"
+    },
+    {
+      "term": "einkaufen",
+      "type": "Verb",
+      "meaning_tr": "Alışveriş yapmak",
+      "meaning_en": "To shop - To purchase goods",
+      "meaning_uk": "Робити покупки - Купувати",
+      "example": "Wir haben keine Milch mehr, ich muss *** gehen.",
+      "meaning_es": "Hacer la compra - Comprar"
+    },
+    {
+      "term": "gießen",
+      "type": "Verb",
+      "meaning_tr": "Sulamak - Dökme yapmak",
+      "meaning_en": "To water - To pour",
+      "meaning_uk": "Поливати",
+      "example": "Im Sommer muss ich die Blumen jeden Tag ***.",
+      "meaning_es": "Regar - Verter"
+    },
+    {
+      "term": "reinigen",
+      "type": "Verb",
+      "meaning_tr": "Temizlemek - Paklamak",
+      "meaning_en": "To clean - To purify",
+      "meaning_uk": "Очищати - Прибирати",
+      "example": "Man sollte die Fenster regelmäßig ***.",
+      "meaning_es": "Limpiar - Purificar"
+    },
+    {
+      "term": "der Topf",
+      "type": "Noun",
+      "meaning_tr": "Tencere",
+      "meaning_en": "Pot - Cooking vessel",
+      "meaning_uk": "Каструля",
+      "example": "Die Suppe kocht in einem großen *** auf dem Herd.",
+      "meaning_es": "Olla - Recipiente"
+    },
+    {
+      "term": "spülen",
+      "type": "Verb",
+      "meaning_tr": "Bulaşık yıkamak - Durulamak",
+      "meaning_en": "To wash dishes - To rinse",
+      "meaning_uk": "Мити посуд - Полоскати",
+      "example": "Ich koche und du musst danach das Geschirr ***.",
+      "meaning_es": "Lavar platos - Enjuagar"
+    },
+    {
+      "term": "staubsaugen",
+      "type": "Verb",
+      "meaning_tr": "Süpürmek - Elektrikli süpürge ile temizlemek",
+      "meaning_en": "To vacuum",
+      "meaning_uk": "Пилососити",
+      "example": "Wegen meiner Allergie muss ich jeden Tag ***.",
+      "meaning_es": "Aspirar"
+    },
+    {
+      "term": "der Staub",
+      "type": "Noun",
+      "meaning_tr": "Toz",
+      "meaning_en": "Dust",
+      "meaning_uk": "Пил",
+      "example": "Unter dem Bett liegt sehr viel ***.",
+      "meaning_es": "Polvo"
+    },
+    {
+      "term": "Staub wischen",
+      "type": "Phrase",
+      "meaning_tr": "Toz almak",
+      "meaning_en": "To dust",
+      "meaning_uk": "Витирати пил",
+      "example": "Auf dem Fernseher liegt viel Dreck, ich muss mal wieder *** ***.",
+      "meaning_es": "Quitar el polvo - Desempolvar"
+    },
+    {
+      "term": "wegbringen",
+      "type": "Verb",
+      "meaning_tr": "Götürmek - Uzaklaştırmak",
+      "meaning_en": "To take away - To remove",
+      "meaning_uk": "Відносити - Забирати",
+      "example": "Kannst du bitte die leeren Flaschen ***?",
+      "meaning_es": "Llevarse - Retirar"
+    },
+    {
+      "term": "wegwerfen",
+      "type": "Verb",
+      "meaning_tr": "Atmak - Çöpe atmak",
+      "meaning_en": "To throw away - To discard",
+      "meaning_uk": "Викидати",
+      "example": "Das Brot ist alt und schimmelig, du musst es ***.",
+      "meaning_es": "Tirar - Desechar"
+    },
+    {
+      "term": "dran",
+      "type": "Adverb",
+      "meaning_tr": "Sıra (bende/sende) - Sırası gelmek",
+      "meaning_en": "One's turn - Next up",
+      "meaning_uk": "Черга",
+      "example": "Gestern habe ich geputzt, heute bist du ***.",
+      "meaning_es": "Tuno - Turno"
+    },
+    {
+      "term": "sonstiges",
+      "type": "Adjective",
+      "meaning_tr": "Diğerleri - Çeşitli",
+      "meaning_en": "Other - Miscellaneous",
+      "meaning_uk": "Інше - Різне",
+      "example": "Hast du noch *** Wünsche veya ist das alles?",
+      "meaning_es": "Otros - Misceláneo"
+    },
+    {
+      "term": "verteilen",
+      "type": "Verb",
+      "meaning_tr": "Dağıtmak - Paylaştırmak",
+      "meaning_en": "To distribute - To hand out",
+      "meaning_uk": "Розподіляти",
+      "example": "Wir müssen die Hausarbeit gerecht unter uns ***.",
+      "meaning_es": "Distribuir - Repartir"
+    }
   ]
 }

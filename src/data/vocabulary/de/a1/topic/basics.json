@@ -1,0 +1,114 @@
+{
+  "title": "Grundlagen & Begrüßung A1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "Hallo",
+      "type": "Interjection",
+      "meaning_tr": "Merhaba",
+      "meaning_en": "Hello",
+      "meaning_uk": "Привіт",
+      "meaning_es": "Hola",
+      "example": "***Hallo***, wie geht es dir?"
+    },
+    {
+      "term": "Guten Tag",
+      "type": "Greeting",
+      "meaning_tr": "İyi günler",
+      "meaning_en": "Good day",
+      "meaning_uk": "Доброго дня",
+      "meaning_es": "Buenos días",
+      "example": "Ich wünsche Ihnen einen ***guten Tag***."
+    },
+    {
+      "term": "Tschüss",
+      "type": "Farewell",
+      "meaning_tr": "Hoşça kal",
+      "meaning_en": "Bye",
+      "meaning_uk": "Бувай",
+      "meaning_es": "Adiós",
+      "example": "Wir sehen uns morgen, ***tschüss***!"
+    },
+    {
+      "term": "Auf Wiedersehen",
+      "type": "Farewell",
+      "meaning_tr": "Güle güle",
+      "meaning_en": "Goodbye",
+      "meaning_uk": "До побачення",
+      "meaning_es": "Adiós",
+      "example": "Es war schön, ***auf Wiedersehen***."
+    },
+    {
+      "term": "Ja",
+      "type": "Affirmation",
+      "meaning_tr": "Evet",
+      "meaning_en": "Yes",
+      "meaning_uk": "Так",
+      "meaning_es": "Sí",
+      "example": "***Ja***, ich verstehe."
+    },
+    {
+      "term": "Nein",
+      "type": "Negation",
+      "meaning_tr": "Hayır",
+      "meaning_en": "No",
+      "meaning_uk": "Ні",
+      "meaning_es": "No",
+      "example": "***Nein***, das ist falsch."
+    },
+    {
+      "term": "Bitte",
+      "type": "Politeness",
+      "meaning_tr": "Lütfen / Rica ederim",
+      "meaning_en": "Please / You're welcome",
+      "meaning_uk": "Будь ласка",
+      "meaning_es": "Por favor / De nada",
+      "example": "***Bitte***, gib mir das Buch."
+    },
+    {
+      "term": "Danke",
+      "type": "Politeness",
+      "meaning_tr": "Teşekkürler",
+      "meaning_en": "Thank you",
+      "meaning_uk": "Дякую",
+      "meaning_es": "Gracias",
+      "example": "***Danke*** für deine Hilfe."
+    },
+    {
+      "term": "Entschuldigung",
+      "type": "Apology",
+      "meaning_tr": "Özür dilerim",
+      "meaning_en": "Excuse me / Sorry",
+      "meaning_uk": "Вибачте",
+      "meaning_es": "Perdón / Disculpe",
+      "example": "***Entschuldigung***, wo ist die Toilette?"
+    },
+    {
+      "term": "Wie heißen Sie?",
+      "type": "Question",
+      "meaning_tr": "Adınız nedir?",
+      "meaning_en": "What is your name? (formal)",
+      "meaning_uk": "Як Вас звати?",
+      "meaning_es": "¿Cómo se llama usted?",
+      "example": "***Wie heißen Sie***?"
+    },
+    {
+      "term": "Ich heiße...",
+      "type": "Statement",
+      "meaning_tr": "Benim adım...",
+      "meaning_en": "My name is...",
+      "meaning_uk": "Мене звати...",
+      "meaning_es": "Me llamo...",
+      "example": "***Ich heiße*** Anna."
+    },
+    {
+      "term": "Wie geht es Ihnen?",
+      "type": "Question",
+      "meaning_tr": "Nasılsınız?",
+      "meaning_en": "How are you? (formal)",
+      "meaning_uk": "Як справи у Вас?",
+      "meaning_es": "¿Cómo está usted?",
+      "example": "***Wie geht es Ihnen*** heute?"
+    }
+  ]
+}

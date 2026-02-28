@@ -2,92 +2,788 @@
   "title": "Integration A2 - Kapitel 6",
   "language": "de",
   "words": [
-    {"term": "der Verwandte", "type": "Noun", "meaning_tr": "Akraba", "meaning_en": "relative", "meaning_uk": "родич", "example": "Ein *** kommt heute zu Besuch."},
-    {"term": "der Cousin", "type": "Noun", "meaning_tr": "Erkek kuzen", "meaning_en": "cousin (male)", "meaning_uk": "двоюрідний брат", "example": "Mein *** wohnt in Berlin."},
-    {"term": "die Cousine", "type": "Noun", "meaning_tr": "Kız kuzen", "meaning_en": "cousin (female)", "meaning_uk": "двоюрідна сестра", "example": "Meine *** studiert Medizin."},
-    {"term": "der Großvater", "type": "Noun", "meaning_tr": "Büyükbaba / Dede", "meaning_en": "grandfather", "meaning_uk": "дідусь", "example": "Mein *** lebt auf dem Land."},
-    {"term": "die Großmutter", "type": "Noun", "meaning_tr": "Büyükanne", "meaning_en": "grandmother", "meaning_uk": "бабуся", "example": "Meine *** backt Kuchen."},
-    {"term": "der Vater", "type": "Noun", "meaning_tr": "Baba", "meaning_en": "father", "meaning_uk": "батько", "example": "Mein *** arbeitet viel."},
-    {"term": "die Mutter", "type": "Noun", "meaning_tr": "Anne", "meaning_en": "mother", "meaning_uk": "мати", "example": "Meine *** kocht gern."},
-    {"term": "der Opa", "type": "Noun", "meaning_tr": "Dede (samimi)", "meaning_en": "grandpa", "meaning_uk": "дідусь", "example": "Mein *** erzählt Geschichten."},
-    {"term": "die Oma", "type": "Noun", "meaning_tr": "Büyükanne (samimi)", "meaning_en": "grandma", "meaning_uk": "бабуся", "example": "Meine *** ist lieb."},
-    {"term": "der Onkel", "type": "Noun", "meaning_tr": "Amca / Dayı", "meaning_en": "uncle", "meaning_uk": "дядько", "example": "Mein *** wohnt hier."},
-    {"term": "die Tante", "type": "Noun", "meaning_tr": "Hala / Teyze", "meaning_en": "aunt", "meaning_uk": "тітка", "example": "Meine *** ruft an."},
-    {"term": "der Schwager", "type": "Noun", "meaning_tr": "Enişte / Kayınbirader", "meaning_en": "brother-in-law", "meaning_uk": "шваґро", "example": "Mein *** hilft mir."},
-    {"term": "die Schwägerin", "type": "Noun", "meaning_tr": "Görümce / Baldız / Elti", "meaning_en": "sister-in-law", "meaning_uk": "невістка", "example": "Meine *** ist nett."},
-    {"term": "der Schwiegervater", "type": "Noun", "meaning_tr": "Kayınpeder", "meaning_en": "father-in-law", "meaning_uk": "тесть", "example": "Mein *** ist streng."},
-    {"term": "die Schwiegermutter", "type": "Noun", "meaning_tr": "Kayınvalide", "meaning_en": "mother-in-law", "meaning_uk": "теща", "example": "Meine *** besucht uns."},
-    {"term": "die Schwiegereltern", "type": "Noun", "meaning_tr": "Kayınvalide ve Kayınpeder", "meaning_en": "parents-in-law", "meaning_uk": "батьки чоловіка/дружини", "example": "Meine *** kommen morgen."},
-    {"term": "der Sohn", "type": "Noun", "meaning_tr": "Oğul", "meaning_en": "son", "meaning_uk": "син", "example": "Ihr *** ist fünf."},
-    {"term": "die Tochter", "type": "Noun", "meaning_tr": "Kız evlat", "meaning_en": "daughter", "meaning_uk": "донька", "example": "Ihre *** geht zur Schule."},
-    {"term": "der Trauzeuge", "type": "Noun", "meaning_tr": "Nikah şahidi (erkek)", "meaning_en": "best man", "meaning_uk": "свідок", "example": "Er ist mein ***."},
-    {"term": "die Trauzeugin", "type": "Noun", "meaning_tr": "Nikah şahidi (kadın)", "meaning_en": "maid of honor", "meaning_uk": "свідок", "example": "Sie ist meine ***."},
-    {"term": "verlassen", "type": "Verb", "meaning_tr": "Terk etmek / Ayrılmak", "meaning_en": "to leave", "meaning_uk": "залишати", "example": "Er hat die Stadt ***."},
-    {"term": "der Krieg", "type": "Noun", "meaning_tr": "Savaş", "meaning_en": "war", "meaning_uk": "війна", "example": "Der *** ist vorbei."},
-    {"term": "fliehen", "type": "Verb", "meaning_tr": "Kaçmak", "meaning_en": "to flee", "meaning_uk": "тікати", "example": "Viele Menschen ***."},
-    {"term": "auswandern", "type": "Verb", "meaning_tr": "Göç etmek", "meaning_en": "to emigrate", "meaning_uk": "емігрувати", "example": "Sie will ***."},
-    {"term": "vermissen", "type": "Verb", "meaning_tr": "Özlemek", "meaning_en": "to miss", "meaning_uk": "сумувати", "example": "Ich *** meine Familie."},
-    {"term": "arm", "type": "Adjective", "meaning_tr": "Fakir", "meaning_en": "poor", "meaning_uk": "бідний", "example": "Er ist sehr ***."},
-    {"term": "damals", "type": "Adverb", "meaning_tr": "O zamanlar", "meaning_en": "back then", "meaning_uk": "тоді", "example": "*** war alles anders."},
-    {"term": "die Berufsausbildung", "type": "Noun", "meaning_tr": "Mesleki eğitim", "meaning_en": "vocational training", "meaning_uk": "професійна освіта", "example": "Die *** dauert drei Jahre."},
-    {"term": "der Blumenladen", "type": "Noun", "meaning_tr": "Çiçekçi dükkanı", "meaning_en": "flower shop", "meaning_uk": "квітковий магазин", "example": "Der *** ist neu."},
-    {"term": "die DDR", "type": "Noun", "meaning_tr": "Doğu Almanya", "meaning_en": "East Germany", "meaning_uk": "НДР", "example": "Er lebte in der ***."},
-    {"term": "die Autofabrik", "type": "Noun", "meaning_tr": "Araba fabrikası", "meaning_en": "car factory", "meaning_uk": "автозавод", "example": "Die *** ist groß."},
-    {"term": "die Textilfabrik", "type": "Noun", "meaning_tr": "Tekstil fabrikası", "meaning_en": "textile factory", "meaning_uk": "текстильна фабрика", "example": "Die *** schließt."},
-    {"term": "die Autofirma", "type": "Noun", "meaning_tr": "Araba firması", "meaning_en": "car company", "meaning_uk": "автокомпанія", "example": "Die *** exportiert viel."},
-    {"term": "der Autohändler", "type": "Noun", "meaning_tr": "Araba satıcısı", "meaning_en": "car dealer", "meaning_uk": "автодилер", "example": "Der *** berät uns."},
-    {"term": "die Autohändlerin", "type": "Noun", "meaning_tr": "Araba satıcısı (kadın)", "meaning_en": "car dealer (f)", "meaning_uk": "автодилерка", "example": "Die *** verkauft Autos."},
-    {"term": "gegenseitig", "type": "Adjective", "meaning_tr": "Karşılıklı", "meaning_en": "mutual", "meaning_uk": "взаємний", "example": "Wir helfen uns ***."},
-    {"term": "das Heimatland", "type": "Noun", "meaning_tr": "Anavatan", "meaning_en": "homeland", "meaning_uk": "батьківщина", "example": "Mein *** fehlt mir."},
-    {"term": "das Heimweh", "type": "Noun", "meaning_tr": "Memleket özlemi", "meaning_en": "homesickness", "meaning_uk": "туга за домом", "example": "Ich habe ***."},
-    {"term": "zukünftig", "type": "Adjective", "meaning_tr": "Gelecekteki", "meaning_en": "future", "meaning_uk": "майбутній", "example": "*** Pläne sind wichtig."},
-    {"term": "die Rente", "type": "Noun", "meaning_tr": "Emeklilik / Maaş", "meaning_en": "pension", "meaning_uk": "пенсія", "example": "Er bekommt ***."},
-    {"term": "in Rente gehen", "type": "Phrase", "meaning_tr": "Emekli olmak", "meaning_en": "retire", "meaning_uk": "вийти на пенсію", "example": "Er will ***."},
-    {"term": "endgültig", "type": "Adjective", "meaning_tr": "Kesin", "meaning_en": "final", "meaning_uk": "остаточний", "example": "Das ist ***."},
-    {"term": "das Wohnheim", "type": "Noun", "meaning_tr": "Yurt", "meaning_en": "dormitory", "meaning_uk": "гуртожиток", "example": "Ich wohne im ***."},
-    {"term": "das Zuhause", "type": "Noun", "meaning_tr": "Yuva", "meaning_en": "home", "meaning_uk": "дім", "example": "Das ist mein ***."},
-    {"term": "dringend", "type": "Adjective", "meaning_tr": "Acil", "meaning_en": "urgent", "meaning_uk": "терміновий", "example": "Das ist ***."},
-    {"term": "recht haben", "type": "Phrase", "meaning_tr": "Haklı olmak", "meaning_en": "be right", "meaning_uk": "мати рацію", "example": "Du hast ***."},
-    {"term": "lassen", "type": "Verb", "meaning_tr": "İzin vermek", "meaning_en": "to let", "meaning_uk": "дозволяти", "example": "Lass mich gehen."},
-    {"term": "im Freien", "type": "Phrase", "meaning_tr": "Açık havada", "meaning_en": "outdoors", "meaning_uk": "надворі", "example": "Wir essen ***."},
-    {"term": "die Wanderung", "type": "Noun", "meaning_tr": "Doğa yürüyüşü", "meaning_en": "hike", "meaning_uk": "похід", "example": "Die *** war schön."},
-    {"term": "abwechselnd", "type": "Adverb", "meaning_tr": "Dönüşümlü", "meaning_en": "alternately", "meaning_uk": "почергово", "example": "Wir arbeiten ***."},
-    {"term": "betonen", "type": "Verb", "meaning_tr": "Vurgulamak", "meaning_en": "emphasize", "meaning_uk": "наголошувати", "example": "Bitte *** das Wort."},
-    {"term": "hassen", "type": "Verb", "meaning_tr": "Nefret etmek", "meaning_en": "hate", "meaning_uk": "ненавидіти", "example": "Ich *** Krieg."},
-    {"term": "die Jugend", "type": "Noun", "meaning_tr": "Gençlik", "meaning_en": "youth", "meaning_uk": "молодь", "example": "In der *** war ich sportlich."},
-    {"term": "die Kindheit", "type": "Noun", "meaning_tr": "Çocukluk", "meaning_en": "childhood", "meaning_uk": "дитинство", "example": "Meine *** war schön."},
-    {"term": "gleichzeitig", "type": "Adverb", "meaning_tr": "Aynı zamanda", "meaning_en": "at the same time", "meaning_uk": "одночасно", "example": "Beides ***."},
-    {"term": "brasilianisch", "type": "Adjective", "meaning_tr": "Brezilyalı", "meaning_en": "Brazilian", "meaning_uk": "бразильський", "example": "Er ist ***."},
-    {"term": "Portugal", "type": "Noun", "meaning_tr": "Portekiz", "meaning_en": "Portugal", "meaning_uk": "Португалія", "example": "*** ist schön."},
-    {"term": "Portugiesisch", "type": "Noun", "meaning_tr": "Portekizce", "meaning_en": "Portuguese", "meaning_uk": "португальська", "example": "Ich lerne ***."},
-    {"term": "der Eiffelturm", "type": "Noun", "meaning_tr": "Eyfel Kulesi", "meaning_en": "Eiffel Tower", "meaning_uk": "Ейфелева вежа", "example": "Der *** ist in Paris."},
-    {"term": "froh", "type": "Adjective", "meaning_tr": "Mutlu", "meaning_en": "glad", "meaning_uk": "радий", "example": "Ich bin ***."},
-    {"term": "die Fußballweltmeisterschaft", "type": "Noun", "meaning_tr": "Dünya Kupası", "meaning_en": "World Cup", "meaning_uk": "чемпіонат світу", "example": "Die *** beginnt."},
-    {"term": "inzwischen", "type": "Adverb", "meaning_tr": "Bu arada", "meaning_en": "meanwhile", "meaning_uk": "тим часом", "example": "*** ist es spät."},
-    {"term": "sportlich", "type": "Adjective", "meaning_tr": "Sportif", "meaning_en": "sporty", "meaning_uk": "спортивний", "example": "Er ist ***."},
-    {"term": "verlieren", "type": "Verb", "meaning_tr": "Kaybetmek", "meaning_en": "lose", "meaning_uk": "втрачати", "example": "Wir *** das Spiel."},
-    {"term": "mehrmals", "type": "Adverb", "meaning_tr": "Birkaç kez", "meaning_en": "several times", "meaning_uk": "кілька разів", "example": "Ich war *** dort."},
-    {"term": "nervös", "type": "Adjective", "meaning_tr": "Heyecanlı", "meaning_en": "nervous", "meaning_uk": "нервовий", "example": "Ich bin ***."},
-    {"term": "die Vergangenheit", "type": "Noun", "meaning_tr": "Geçmiş", "meaning_en": "past", "meaning_uk": "минуле", "example": "Die *** ist wichtig."},
-    {"term": "die Migration", "type": "Noun", "meaning_tr": "Göç", "meaning_en": "migration", "meaning_uk": "міграція", "example": "Die *** steigt."},
-    {"term": "der Migrant", "type": "Noun", "meaning_tr": "Göçmen (erkek)", "meaning_en": "migrant", "meaning_uk": "мігрант", "example": "Der *** arbeitet hier."},
-    {"term": "die Migrantin", "type": "Noun", "meaning_tr": "Göçmen (kadın)", "meaning_en": "migrant (f)", "meaning_uk": "мігрантка", "example": "Die *** lebt hier."},
-    {"term": "der Vietnamese", "type": "Noun", "meaning_tr": "Vietnamlı (erkek)", "meaning_en": "Vietnamese", "meaning_uk": "в'єтнамець", "example": "Der *** kocht gut."},
-    {"term": "die Vietnamesin", "type": "Noun", "meaning_tr": "Vietnamlı (kadın)", "meaning_en": "Vietnamese (f)", "meaning_uk": "в'єтнамка", "example": "Die *** studiert."},
-    {"term": "die Umgebung", "type": "Noun", "meaning_tr": "Çevre", "meaning_en": "surroundings", "meaning_uk": "околиця", "example": "Die *** ist ruhig."},
-    {"term": "der Barbershop", "type": "Noun", "meaning_tr": "Berber dükkanı", "meaning_en": "barbershop", "meaning_uk": "барбершоп", "example": "Der *** ist modern."},
-    {"term": "rasieren", "type": "Verb", "meaning_tr": "Tıraş etmek", "meaning_en": "shave", "meaning_uk": "голити", "example": "Ich *** mich."},
-    {"term": "die Shishabar", "type": "Noun", "meaning_tr": "Nargile bar", "meaning_en": "shisha bar", "meaning_uk": "кальян-бар", "example": "Die *** ist voll."},
-    {"term": "die Wasserpfeife", "type": "Noun", "meaning_tr": "Nargile", "meaning_en": "water pipe", "meaning_uk": "кальян", "example": "Ich rauche keine ***."},
-    {"term": "das Nagelstudio", "type": "Noun", "meaning_tr": "Tırnak stüdyosu", "meaning_en": "nail salon", "meaning_uk": "манікюрний салон", "example": "Das *** ist neu."},
-    {"term": "der Nagel", "type": "Noun", "meaning_tr": "Çivi / Tırnak", "meaning_en": "nail", "meaning_uk": "ніготь", "example": "Der *** ist lang."},
-    {"term": "das Halal-Fleisch", "type": "Noun", "meaning_tr": "Helal et", "meaning_en": "halal meat", "meaning_uk": "халяльне м'ясо", "example": "Ich kaufe ***."},
-    {"term": "der Drogerieartikel", "type": "Noun", "meaning_tr": "Kozmetik ürünü", "meaning_en": "drugstore item", "meaning_uk": "товар дрогерії", "example": "Der *** ist teuer."},
-    {"term": "der Trend", "type": "Noun", "meaning_tr": "Trend", "meaning_en": "trend", "meaning_uk": "тренд", "example": "Das ist ein ***."},
-    {"term": "die Gewohnheit", "type": "Noun", "meaning_tr": "Alışkanlık", "meaning_en": "habit", "meaning_uk": "звичка", "example": "Das ist meine ***."},
-    {"term": "die Werbung", "type": "Noun", "meaning_tr": "Reklam", "meaning_en": "advertising", "meaning_uk": "реклама", "example": "Die *** ist überall."},
-    {"term": "beliebt", "type": "Adjective", "meaning_tr": "Popüler", "meaning_en": "popular", "meaning_uk": "популярний", "example": "Das Café ist ***."},
-    {"term": "eröffnen", "type": "Verb", "meaning_tr": "Açmak", "meaning_en": "open", "meaning_uk": "відкривати", "example": "Sie *** ein Geschäft."},
-    {"term": "verändern", "type": "Verb", "meaning_tr": "Değiştirmek", "meaning_en": "change", "meaning_uk": "змінювати", "example": "Das Leben *** sich."}
+    {
+      "term": "der Verwandte",
+      "type": "Noun",
+      "meaning_tr": "Akraba - Hısım",
+      "meaning_en": "relative - kin",
+      "meaning_uk": "родич - співнесений",
+      "example": "Ein *** kommt heute zu Besuch.",
+      "meaning_es": "pariente - familiar"
+    },
+    {
+      "term": "der Cousin",
+      "type": "Noun",
+      "meaning_tr": "Erkek kuzen",
+      "meaning_en": "cousin (male)",
+      "meaning_uk": "двоюрідний брат - кузен мужчинського роду",
+      "example": "Mein *** wohnt in Berlin.",
+      "meaning_es": "primo"
+    },
+    {
+      "term": "die Cousine",
+      "type": "Noun",
+      "meaning_tr": "Kız kuzen",
+      "meaning_en": "cousin (female)",
+      "meaning_uk": "двоюрідна сестра - кузина",
+      "example": "Meine *** studiert Medizin.",
+      "meaning_es": "prima"
+    },
+    {
+      "term": "der Großvater",
+      "type": "Noun",
+      "meaning_tr": "Büyükbaba - Dede",
+      "meaning_en": "grandfather - granddad",
+      "meaning_uk": "дідусь - дідусько",
+      "example": "Mein *** lebt auf dem Land.",
+      "meaning_es": "abuelo"
+    },
+    {
+      "term": "die Großmutter",
+      "type": "Noun",
+      "meaning_tr": "Büyükanne",
+      "meaning_en": "grandmother - granny",
+      "meaning_uk": "бабуся - бабуся жінка",
+      "example": "Meine *** backt Kuchen.",
+      "meaning_es": "abuela"
+    },
+    {
+      "term": "der Vater",
+      "type": "Noun",
+      "meaning_tr": "Baba",
+      "meaning_en": "father - dad",
+      "meaning_uk": "батько - татусь",
+      "example": "Mein *** arbeitet viel.",
+      "meaning_es": "padre"
+    },
+    {
+      "term": "die Mutter",
+      "type": "Noun",
+      "meaning_tr": "Anne",
+      "meaning_en": "mother - mom",
+      "meaning_uk": "мати - мама",
+      "example": "Meine *** kocht gern.",
+      "meaning_es": "madre"
+    },
+    {
+      "term": "der Opa",
+      "type": "Noun",
+      "meaning_tr": "Dede (samimi)",
+      "meaning_en": "grandpa - granddad",
+      "meaning_uk": "дідусь - дідусько",
+      "example": "Mein *** erzählt Geschichten.",
+      "meaning_es": "abuelo (cariñoso)"
+    },
+    {
+      "term": "die Oma",
+      "type": "Noun",
+      "meaning_tr": "Büyükanne (samimi)",
+      "meaning_en": "grandma - granny",
+      "meaning_uk": "бабуся - бабусяка",
+      "example": "Meine *** ist lieb.",
+      "meaning_es": "abuela (cariñosa)"
+    },
+    {
+      "term": "der Onkel",
+      "type": "Noun",
+      "meaning_tr": "Amca - Dayı",
+      "meaning_en": "uncle",
+      "meaning_uk": "д'ядько - стрийко",
+      "example": "Mein *** wohnt hier.",
+      "meaning_es": "tío"
+    },
+    {
+      "term": "die Tante",
+      "type": "Noun",
+      "meaning_tr": "Hala - Teyze",
+      "meaning_en": "aunt",
+      "meaning_uk": "тітка - стрийна",
+      "example": "Meine *** ruft an.",
+      "meaning_es": "tía"
+    },
+    {
+      "term": "der Schwager",
+      "type": "Noun",
+      "meaning_tr": "Enişte - Kayınbirader",
+      "meaning_en": "brother-in-law",
+      "meaning_uk": "шваґро - брат другої суродини",
+      "example": "Mein *** hilft mir.",
+      "meaning_es": "cuñado"
+    },
+    {
+      "term": "die Schwägerin",
+      "type": "Noun",
+      "meaning_tr": "Görümce - Baldız - Elti",
+      "meaning_en": "sister-in-law",
+      "meaning_uk": "невістка - сестра мужа",
+      "example": "Meine *** ist nett.",
+      "meaning_es": "cuñada"
+    },
+    {
+      "term": "der Schwiegervater",
+      "type": "Noun",
+      "meaning_tr": "Kayınpeder",
+      "meaning_en": "father-in-law",
+      "meaning_uk": "тесть - батько другої суродини",
+      "example": "Mein *** ist streng.",
+      "meaning_es": "suegro"
+    },
+    {
+      "term": "die Schwiegermutter",
+      "type": "Noun",
+      "meaning_tr": "Kayınvalide",
+      "meaning_en": "mother-in-law",
+      "meaning_uk": "теща - матир другої суродини",
+      "example": "Meine *** besucht uns.",
+      "meaning_es": "suegra"
+    },
+    {
+      "term": "die Schwiegereltern",
+      "type": "Noun",
+      "meaning_tr": "Kayınvalide ve Kayınpeder",
+      "meaning_en": "parents-in-law",
+      "meaning_uk": "батьки чоловіка - родителі подвородні",
+      "example": "Meine *** kommen morgen.",
+      "meaning_es": "suegros"
+    },
+    {
+      "term": "der Sohn",
+      "type": "Noun",
+      "meaning_tr": "Oğul",
+      "meaning_en": "son",
+      "meaning_uk": "син",
+      "example": "Ihr *** ist fünf.",
+      "meaning_es": "hijo"
+    },
+    {
+      "term": "die Tochter",
+      "type": "Noun",
+      "meaning_tr": "Kız evlat",
+      "meaning_en": "daughter",
+      "meaning_uk": "донька",
+      "example": "Ihre *** geht zur Schule.",
+      "meaning_es": "hija"
+    },
+    {
+      "term": "der Trauzeuge",
+      "type": "Noun",
+      "meaning_tr": "Nikah şahidi (erkek)",
+      "meaning_en": "best man - groomsman",
+      "meaning_uk": "свідок - бест помічник",
+      "example": "Er ist mein ***.",
+      "meaning_es": "padrino de boda"
+    },
+    {
+      "term": "die Trauzeugin",
+      "type": "Noun",
+      "meaning_tr": "Nikah şahidi (kadın)",
+      "meaning_en": "maid of honor - matron of honor",
+      "meaning_uk": "свідок (жіночій) - помічниця",
+      "example": "Sie ist meine ***.",
+      "meaning_es": "dama de honor"
+    },
+    {
+      "term": "verlassen",
+      "type": "Verb",
+      "meaning_tr": "Terk etmek - Ayrılmak",
+      "meaning_en": "to leave - to abandon",
+      "meaning_uk": "залишати - покинути",
+      "example": "Er hat die Stadt ***.",
+      "meaning_es": "abandonar - dejar"
+    },
+    {
+      "term": "der Krieg",
+      "type": "Noun",
+      "meaning_tr": "Savaş",
+      "meaning_en": "war - conflict",
+      "meaning_uk": "війна - боїві дії",
+      "example": "Der *** ist vorbei.",
+      "meaning_es": "guerra"
+    },
+    {
+      "term": "fliehen",
+      "type": "Verb",
+      "meaning_tr": "Kaçmak",
+      "meaning_en": "to flee - to escape",
+      "meaning_uk": "тікати - втікати",
+      "example": "Viele Menschen ***.",
+      "meaning_es": "huir - escapar"
+    },
+    {
+      "term": "auswandern",
+      "type": "Verb",
+      "meaning_tr": "Göç etmek",
+      "meaning_en": "to emigrate",
+      "meaning_uk": "емігрувати - виїхати за кордон",
+      "example": "Sie will ***.",
+      "meaning_es": "emigrar"
+    },
+    {
+      "term": "vermissen",
+      "type": "Verb",
+      "meaning_tr": "Özlemek",
+      "meaning_en": "to miss - to yearn for",
+      "meaning_uk": "сумувати - сумкувати",
+      "example": "Ich *** meine Familie.",
+      "meaning_es": "echar de menos - extrañar"
+    },
+    {
+      "term": "arm",
+      "type": "Adjective",
+      "meaning_tr": "Fakir - Yoksul",
+      "meaning_en": "poor - needy",
+      "meaning_uk": "бідний - безбагатний",
+      "example": "Er ist sehr ***.",
+      "meaning_es": "pobre - necesitado"
+    },
+    {
+      "term": "damals",
+      "type": "Adverb",
+      "meaning_tr": "O zamanlar - O devirde",
+      "meaning_en": "back then - at that time",
+      "meaning_uk": "тоді - у тий час",
+      "example": "*** war alles anders.",
+      "meaning_es": "en aquel entonces - antiguamente"
+    },
+    {
+      "term": "die Berufsausbildung",
+      "type": "Noun",
+      "meaning_tr": "Mesleki eğitim - Ustalık eğitimi",
+      "meaning_en": "vocational training - professional training",
+      "meaning_uk": "професійна освіта - професійна підготовка",
+      "example": "Die *** dauert drei Jahre.",
+      "meaning_es": "formación profesional"
+    },
+    {
+      "term": "der Blumenladen",
+      "type": "Noun",
+      "meaning_tr": "Çiçekçi dükkanı",
+      "meaning_en": "flower shop - florist's",
+      "meaning_uk": "квітковий магазин - цвіточний",
+      "example": "Der *** ist neu.",
+      "meaning_es": "floristería"
+    },
+    {
+      "term": "die DDR",
+      "type": "Noun",
+      "meaning_tr": "Doğu Almanya",
+      "meaning_en": "East Germany - GDR",
+      "meaning_uk": "НДР - Східня Німеччина",
+      "example": "Er lebte in der ***.",
+      "meaning_es": "RDA (República Democrática Alemana)"
+    },
+    {
+      "term": "die Autofabrik",
+      "type": "Noun",
+      "meaning_tr": "Araba fabrikası",
+      "meaning_en": "car factory - automobile plant",
+      "meaning_uk": "автозавод - автомобільний завод",
+      "example": "Die *** ist groß.",
+      "meaning_es": "fábrica de automóviles"
+    },
+    {
+      "term": "die Textilfabrik",
+      "type": "Noun",
+      "meaning_tr": "Tekstil fabrikası",
+      "meaning_en": "textile factory - textile mill",
+      "meaning_uk": "текстильна фабрика",
+      "example": "Die *** schließt.",
+      "meaning_es": "fábrica textil"
+    },
+    {
+      "term": "die Autofirma",
+      "type": "Noun",
+      "meaning_tr": "Araba firması",
+      "meaning_en": "car company - automobile manufacturer",
+      "meaning_uk": "автокомпанія",
+      "example": "Die *** exportiert viel.",
+      "meaning_es": "empresa automotriz"
+    },
+    {
+      "term": "der Autohändler",
+      "type": "Noun",
+      "meaning_tr": "Araba satıcısı",
+      "meaning_en": "car dealer - auto dealer",
+      "meaning_uk": "автодилер",
+      "example": "Der *** berät uns.",
+      "meaning_es": "concesionario de automóviles"
+    },
+    {
+      "term": "die Autohändlerin",
+      "type": "Noun",
+      "meaning_tr": "Araba satıcısı (kadın)",
+      "meaning_en": "car dealer (f)",
+      "meaning_uk": "автодилерка",
+      "example": "Die *** verkauft Autos.",
+      "meaning_es": "concesionaria de automóviles"
+    },
+    {
+      "term": "gegenseitig",
+      "type": "Adjective",
+      "meaning_tr": "Karşılıklı",
+      "meaning_en": "mutual - reciprocal",
+      "meaning_uk": "взаємний - взаємосторонний",
+      "example": "Wir helfen uns ***.",
+      "meaning_es": "mutuo - recíproco"
+    },
+    {
+      "term": "das Heimatland",
+      "type": "Noun",
+      "meaning_tr": "Anavatan",
+      "meaning_en": "homeland - native country",
+      "meaning_uk": "батьківщина - рідна земля",
+      "example": "Mein *** fehlt mir.",
+      "meaning_es": "patria - país natal"
+    },
+    {
+      "term": "das Heimweh",
+      "type": "Noun",
+      "meaning_tr": "Memleket özlemi",
+      "meaning_en": "homesickness - nostalgia",
+      "meaning_uk": "туга за домом - ностальгія",
+      "example": "Ich habe ***.",
+      "meaning_es": "morriña"
+    },
+    {
+      "term": "zukünftig",
+      "type": "Adjective",
+      "meaning_tr": "Gelecekteki - Müstakbel",
+      "meaning_en": "future - forthcoming",
+      "meaning_uk": "майбутній - майдешній",
+      "example": "*** Pläne sind wichtig.",
+      "meaning_es": "futuro - venidero"
+    },
+    {
+      "term": "die Rente",
+      "type": "Noun",
+      "meaning_tr": "Emeklilik - Maaş",
+      "meaning_en": "pension - retirement pay",
+      "meaning_uk": "пенсія - пенсійний забезпечення",
+      "example": "Er bekommt ***.",
+      "meaning_es": "pensíon"
+    },
+    {
+      "term": "in Rente gehen",
+      "type": "Phrase",
+      "meaning_tr": "Emekli olmak",
+      "meaning_en": "retire - step down",
+      "meaning_uk": "вийти на пенсію - виходити на пенсію",
+      "example": "Er will ***.",
+      "meaning_es": "jubilarse - retirarse"
+    },
+    {
+      "term": "endgültig",
+      "type": "Adjective",
+      "meaning_tr": "Kesin - Nihai",
+      "meaning_en": "final - definitive",
+      "meaning_uk": "остаточний - окончательний",
+      "example": "Das ist ***.",
+      "meaning_es": "definitivo - final"
+    },
+    {
+      "term": "das Wohnheim",
+      "type": "Noun",
+      "meaning_tr": "Yurt - Yatıphane",
+      "meaning_en": "dormitory - residence hall",
+      "meaning_uk": "гуртожиток - студентський гуртожиток",
+      "example": "Ich wohne im ***.",
+      "meaning_es": "residencia - internado"
+    },
+    {
+      "term": "das Zuhause",
+      "type": "Noun",
+      "meaning_tr": "Yuva - Ev",
+      "meaning_en": "home - dwelling",
+      "meaning_uk": "дім - оселя",
+      "example": "Das ist mein ***.",
+      "meaning_es": "hogar - casa"
+    },
+    {
+      "term": "dringend",
+      "type": "Adjective",
+      "meaning_tr": "Acil - Mâcbur",
+      "meaning_en": "urgent - pressing",
+      "meaning_uk": "терміновий - негайний",
+      "example": "Das ist ***.",
+      "meaning_es": "urgente - apremiante"
+    },
+    {
+      "term": "recht haben",
+      "type": "Phrase",
+      "meaning_tr": "Haklı olmak",
+      "meaning_en": "be right - to be correct",
+      "meaning_uk": "мати рацію - бути правим",
+      "example": "Du hast ***.",
+      "meaning_es": "tener razón"
+    },
+    {
+      "term": "lassen",
+      "type": "Verb",
+      "meaning_tr": "İzin vermek - Bırakmak",
+      "meaning_en": "to let - to allow",
+      "meaning_uk": "дозволяти - дати можливість",
+      "example": "Lass mich gehen.",
+      "meaning_es": "dejar - permitir"
+    },
+    {
+      "term": "im Freien",
+      "type": "Phrase",
+      "meaning_tr": "Açık havada",
+      "meaning_en": "outdoors - in the open air",
+      "meaning_uk": "надворі - під відкритим небесом",
+      "example": "Wir essen ***.",
+      "meaning_es": "al aire libre"
+    },
+    {
+      "term": "die Wanderung",
+      "type": "Noun",
+      "meaning_tr": "Doğa yürüyüşü - Yürüyüş",
+      "meaning_en": "hike - trek",
+      "meaning_uk": "похід - трекінг",
+      "example": "Die *** war schön.",
+      "meaning_es": "excursión - caminata"
+    },
+    {
+      "term": "abwechselnd",
+      "type": "Adverb",
+      "meaning_tr": "Dönüşümlü - Aralıklı",
+      "meaning_en": "alternately - alternatively",
+      "meaning_uk": "почергово - через один один",
+      "example": "Wir arbeiten ***.",
+      "meaning_es": "alternativamente"
+    },
+    {
+      "term": "betonen",
+      "type": "Verb",
+      "meaning_tr": "Vurgulamak - Änemini belirtmek",
+      "meaning_en": "emphasize - stress",
+      "meaning_uk": "наголошувати - підкреслити",
+      "example": "Bitte *** das Wort.",
+      "meaning_es": "enfatizar - recalcar"
+    },
+    {
+      "term": "hassen",
+      "type": "Verb",
+      "meaning_tr": "Nefret etmek",
+      "meaning_en": "hate - detest",
+      "meaning_uk": "ненавидіти",
+      "example": "Ich *** Krieg.",
+      "meaning_es": "odiar - aborrecer"
+    },
+    {
+      "term": "die Jugend",
+      "type": "Noun",
+      "meaning_tr": "Gençlik",
+      "meaning_en": "youth - young people",
+      "meaning_uk": "молодь - молодеж",
+      "example": "In der *** war ich sportlich.",
+      "meaning_es": "juventud"
+    },
+    {
+      "term": "die Kindheit",
+      "type": "Noun",
+      "meaning_tr": "Çocukluk",
+      "meaning_en": "childhood",
+      "meaning_uk": "дитинство",
+      "example": "Meine *** war schön.",
+      "meaning_es": "infancia"
+    },
+    {
+      "term": "gleichzeitig",
+      "type": "Adverb",
+      "meaning_tr": "Aynı zamanda",
+      "meaning_en": "at the same time - simultaneously",
+      "meaning_uk": "одночасно - водночас",
+      "example": "Beides ***.",
+      "meaning_es": "al mismo tiempo - simultáneamente"
+    },
+    {
+      "term": "brasilianisch",
+      "type": "Adjective",
+      "meaning_tr": "Brezilyalı",
+      "meaning_en": "Brazilian",
+      "meaning_uk": "бразильський",
+      "example": "Er ist ***.",
+      "meaning_es": "brasileño"
+    },
+    {
+      "term": "Portugal",
+      "type": "Noun",
+      "meaning_tr": "Portekiz",
+      "meaning_en": "Portugal",
+      "meaning_uk": "Португалія",
+      "example": "*** ist schön.",
+      "meaning_es": "Portugal"
+    },
+    {
+      "term": "Portugiesisch",
+      "type": "Noun",
+      "meaning_tr": "Portekizce",
+      "meaning_en": "Portuguese",
+      "meaning_uk": "португальська",
+      "example": "Ich lerne ***.",
+      "meaning_es": "portugués"
+    },
+    {
+      "term": "der Eiffelturm",
+      "type": "Noun",
+      "meaning_tr": "Eyfel Kulesi",
+      "meaning_en": "Eiffel Tower",
+      "meaning_uk": "Ейфелева вежа",
+      "example": "Der *** ist in Paris.",
+      "meaning_es": "Torre Eiffel"
+    },
+    {
+      "term": "froh",
+      "type": "Adjective",
+      "meaning_tr": "Mutlu - Sevinçli",
+      "meaning_en": "glad - happy",
+      "meaning_uk": "радий - веселий",
+      "example": "Ich bin ***.",
+      "meaning_es": "contento - feliz"
+    },
+    {
+      "term": "die Fußballweltmeisterschaft",
+      "type": "Noun",
+      "meaning_tr": "Dünya Kupası",
+      "meaning_en": "World Cup - Football World Championship",
+      "meaning_uk": "чемпіонат світу - Світовий чемпіонат з футболу",
+      "example": "Die *** beginnt.",
+      "meaning_es": "Copa del Mundo de Fútbol"
+    },
+    {
+      "term": "inzwischen",
+      "type": "Adverb",
+      "meaning_tr": "Bu arada - O esnada",
+      "meaning_en": "meanwhile - in the meantime",
+      "meaning_uk": "тим часом - посередини",
+      "example": "*** ist es spät.",
+      "meaning_es": "mientras tanto - entretanto"
+    },
+    {
+      "term": "sportlich",
+      "type": "Adjective",
+      "meaning_tr": "Sportif",
+      "meaning_en": "sporty - athletic",
+      "meaning_uk": "спортивний",
+      "example": "Er ist ***.",
+      "meaning_es": "deportivo"
+    },
+    {
+      "term": "verlieren",
+      "type": "Verb",
+      "meaning_tr": "Kaybetmek",
+      "meaning_en": "lose - be defeated",
+      "meaning_uk": "втрачати - програти",
+      "example": "Wir *** das Spiel.",
+      "meaning_es": "perder"
+    },
+    {
+      "term": "mehrmals",
+      "type": "Adverb",
+      "meaning_tr": "Birkaç kez - Tekrarlı",
+      "meaning_en": "several times - repeatedly",
+      "meaning_uk": "кілька разів - багаторазово",
+      "example": "Ich war *** dort.",
+      "meaning_es": "varias veces - repetidamente"
+    },
+    {
+      "term": "nervös",
+      "type": "Adjective",
+      "meaning_tr": "Heyecanlı - Sinirli",
+      "meaning_en": "nervous - anxious",
+      "meaning_uk": "нервовий - хвилюваний",
+      "example": "Ich bin ***.",
+      "meaning_es": "nervioso"
+    },
+    {
+      "term": "die Vergangenheit",
+      "type": "Noun",
+      "meaning_tr": "Geçmiş",
+      "meaning_en": "past - history",
+      "meaning_uk": "минуле - минуле времена",
+      "example": "Die *** ist wichtig.",
+      "meaning_es": "pasado"
+    },
+    {
+      "term": "die Migration",
+      "type": "Noun",
+      "meaning_tr": "Göç",
+      "meaning_en": "migration - movement",
+      "meaning_uk": "міграція",
+      "example": "Die *** steigt.",
+      "meaning_es": "migración"
+    },
+    {
+      "term": "der Migrant",
+      "type": "Noun",
+      "meaning_tr": "Göçmen (erkek)",
+      "meaning_en": "migrant (m)",
+      "meaning_uk": "мігрант - мігрант чоловік",
+      "example": "Der *** arbeitet hier.",
+      "meaning_es": "migrante (m)"
+    },
+    {
+      "term": "die Migrantin",
+      "type": "Noun",
+      "meaning_tr": "Göçmen (kadın)",
+      "meaning_en": "migrant (f)",
+      "meaning_uk": "мігрантка - мігрантка жінка",
+      "example": "Die *** lebt hier.",
+      "meaning_es": "migrante (f)"
+    },
+    {
+      "term": "der Vietnamese",
+      "type": "Noun",
+      "meaning_tr": "Vietnamlı (erkek)",
+      "meaning_en": "Vietnamese (m)",
+      "meaning_uk": "в'єтнамець - в'єтнамець чоловік",
+      "example": "Der *** kocht gut.",
+      "meaning_es": "vietnamita (m)"
+    },
+    {
+      "term": "die Vietnamesin",
+      "type": "Noun",
+      "meaning_tr": "Vietnamlı (kadın)",
+      "meaning_en": "Vietnamese (f)",
+      "meaning_uk": "в'єтнамка - в'єтнамка жінка",
+      "example": "Die *** studiert.",
+      "meaning_es": "vietnamita (f)"
+    },
+    {
+      "term": "die Umgebung",
+      "type": "Noun",
+      "meaning_tr": "Çevre - Muhit",
+      "meaning_en": "surroundings - environment",
+      "meaning_uk": "околиця - оточення",
+      "example": "Die *** ist ruhig.",
+      "meaning_es": "entorno - alrededores"
+    },
+    {
+      "term": "der Barbershop",
+      "type": "Noun",
+      "meaning_tr": "Berber dükkanı",
+      "meaning_en": "barbershop",
+      "meaning_uk": "барбершоп - барберська перукарня",
+      "example": "Der *** ist modern.",
+      "meaning_es": "barbería"
+    },
+    {
+      "term": "rasieren",
+      "type": "Verb",
+      "meaning_tr": "Tıraş etmek",
+      "meaning_en": "shave",
+      "meaning_uk": "голити - брити бороду",
+      "example": "Ich *** mich.",
+      "meaning_es": "afeitarse"
+    },
+    {
+      "term": "die Shishabar",
+      "type": "Noun",
+      "meaning_tr": "Nargile bar",
+      "meaning_en": "shisha bar - hookah lounge",
+      "meaning_uk": "кальян-бар - бар з кальяною водою",
+      "example": "Die *** ist voll.",
+      "meaning_es": "bar de shisha"
+    },
+    {
+      "term": "die Wasserpfeife",
+      "type": "Noun",
+      "meaning_tr": "Nargile",
+      "meaning_en": "water pipe - hookah",
+      "meaning_uk": "кальян - шиша",
+      "example": "Ich rauche keine ***.",
+      "meaning_es": "narguile - pipa de agua"
+    },
+    {
+      "term": "das Nagelstudio",
+      "type": "Noun",
+      "meaning_tr": "Tırnak stüdyosu",
+      "meaning_en": "nail salon - nail studio",
+      "meaning_uk": "манікюрний салон",
+      "example": "Das *** ist neu.",
+      "meaning_es": "salón de uñas"
+    },
+    {
+      "term": "der Nagel",
+      "type": "Noun",
+      "meaning_tr": "Çivi - Tırnak",
+      "meaning_en": "nail - fingernail",
+      "meaning_uk": "ніготь - фреза",
+      "example": "Der *** ist lang.",
+      "meaning_es": "clavo - uña"
+    },
+    {
+      "term": "das Halal-Fleisch",
+      "type": "Noun",
+      "meaning_tr": "Helal et",
+      "meaning_en": "halal meat",
+      "meaning_uk": "халяльне м'ясо",
+      "example": "Ich kaufe ***.",
+      "meaning_es": "carne halal"
+    },
+    {
+      "term": "der Drogerieartikel",
+      "type": "Noun",
+      "meaning_tr": "Kozmetik ürünü - Temizlik malzemesi",
+      "meaning_en": "drugstore item - toiletry",
+      "meaning_uk": "товар дрогерії - косметичний товар",
+      "example": "Der *** ist teuer.",
+      "meaning_es": "artículo de droguería"
+    },
+    {
+      "term": "der Trend",
+      "type": "Noun",
+      "meaning_tr": "Trend",
+      "meaning_en": "trend - tendency",
+      "meaning_uk": "тренд - мода",
+      "example": "Das ist ein ***.",
+      "meaning_es": "tendencia - moda"
+    },
+    {
+      "term": "die Gewohnheit",
+      "type": "Noun",
+      "meaning_tr": "Alışkanlık - Adet",
+      "meaning_en": "habit - custom",
+      "meaning_uk": "звичка - звичай",
+      "example": "Das ist meine ***.",
+      "meaning_es": "hábito - costumbre"
+    },
+    {
+      "term": "die Werbung",
+      "type": "Noun",
+      "meaning_tr": "Reklam - Tanıtım",
+      "meaning_en": "advertising - advertisement",
+      "meaning_uk": "реклама - рекламний матеріал",
+      "example": "Die *** ist überall.",
+      "meaning_es": "publicidad - anuncio"
+    },
+    {
+      "term": "beliebt",
+      "type": "Adjective",
+      "meaning_tr": "Popüler - Sevilen",
+      "meaning_en": "popular - well-liked",
+      "meaning_uk": "популярний - улюблений",
+      "example": "Das Café ist ***.",
+      "meaning_es": "popular"
+    },
+    {
+      "term": "eröffnen",
+      "type": "Verb",
+      "meaning_tr": "Açmak - Hizmete girmek",
+      "meaning_en": "open - inaugurate",
+      "meaning_uk": "відкривати - запустити",
+      "example": "Sie *** ein Geschäft.",
+      "meaning_es": "abrir - inaugurar"
+    },
+    {
+      "term": "verändern",
+      "type": "Verb",
+      "meaning_tr": "Değiştirmek - Değişime uğratmak",
+      "meaning_en": "change - alter",
+      "meaning_uk": "змінювати - змінити",
+      "example": "Das Leben *** sich.",
+      "meaning_es": "cambiar - modificar"
+    }
   ]
 }

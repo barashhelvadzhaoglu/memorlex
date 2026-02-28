@@ -2,92 +2,788 @@
   "title": "Integration A2 - Kapitel 15",
   "language": "de",
   "words": [
-    {"term": "das Amt", "type": "Noun", "meaning_tr": "makam, ofis, daire", "meaning_en": "office, department", "meaning_uk": "відомство", "example": "Ich muss heute zum ***, um meinen Pass zu verlängern."},
-    {"term": "die Behörde", "type": "Noun", "meaning_tr": "resmi makam, merci", "meaning_en": "authority", "meaning_uk": "орган влади", "example": "Jede *** hat unterschiedliche Sprechzeiten."},
-    {"term": "die Ausländerbehörde", "type": "Noun", "meaning_tr": "yabancılar dairesi", "meaning_en": "immigration office", "meaning_uk": "відомство у справах іноземців", "example": "In der *** muss man oft lange warten."},
-    {"term": "das Einwohnermeldeamt", "type": "Noun", "meaning_tr": "nüfus kayıt dairesi", "meaning_en": "resident registration office", "meaning_uk": "відділ реєстрації мешканців", "example": "Nach dem Umzug muss man zum *** gehen."},
-    {"term": "das Gesundheitsamt", "type": "Noun", "meaning_tr": "sağlık müdürlüğü", "meaning_en": "health department", "meaning_uk": "департамент охорони здоров'я", "example": "Das *** kontrolliert die Hygiene im Restaurant."},
-    {"term": "das Fundbüro", "type": "Noun", "meaning_tr": "kayıp eşya bürosu", "meaning_en": "lost and found", "meaning_uk": "бюро знахідок", "example": "Ich habe meine Tasche verloren und gehe zum ***."},
-    {"term": "das Konsulat", "type": "Noun", "meaning_tr": "konsolosluk", "meaning_en": "consulate", "meaning_uk": "консульство", "example": "Für ein Visum muss er zum türkischen ***."},
-    {"term": "das Ordnungsamt", "type": "Noun", "meaning_tr": "kamu düzeni dairesi", "meaning_en": "public order office", "meaning_uk": "служба правопорядку", "example": "Das *** achtet darauf, dass niemand falsch parkt."},
-    {"term": "das Standesamt", "type": "Noun", "meaning_tr": "nüfus müdürlüğü (evlendirme dairesi)", "meaning_en": "registry office", "meaning_uk": "РАЦС", "example": "Wir wollen heiraten und brauchen einen Termin beim ***."},
-    {"term": "die Aufenthaltserlaubnis", "type": "Noun", "meaning_tr": "oturma izni", "meaning_en": "residence permit", "meaning_uk": "дозвіл на проживання", "example": "Meine *** ist noch zwei Jahre gültig."},
-    {"term": "der Antrag", "type": "Noun", "meaning_tr": "dilekçe, başvuru", "meaning_en": "application", "meaning_uk": "заява", "example": "Ich muss diesen *** noch unterschreiben."},
-    {"term": "einen Antrag stellen", "type": "Phrase", "meaning_tr": "başvuru yapmak", "meaning_en": "to submit an application", "meaning_uk": "подати заяву", "example": "Sie möchte *** für Kindergeld ***."},
-    {"term": "beantragen", "type": "Verb", "meaning_tr": "başvuruda bulunmak", "meaning_en": "to apply for", "meaning_uk": "подавати запит", "example": "Er möchte einen neuen Reisepass ***."},
-    {"term": "die Abmeldung", "type": "Noun", "meaning_tr": "kaydını sildirme", "meaning_en": "deregistration", "meaning_uk": "зняття з реєстрації", "example": "Vor meiner Abreise brauche ich die ***."},
-    {"term": "die Ummeldung", "type": "Noun", "meaning_tr": "kayıt değişikliği (adres vb.)", "meaning_en": "change of registration", "meaning_uk": "перереєстрація", "example": "Die *** nach dem Umzug kostet nichts."},
-    {"term": "sich ummelden", "type": "Verb", "meaning_tr": "ikametgahını aldırmak", "meaning_en": "to change registration", "meaning_uk": "змінити реєстрацію", "example": "Wir sind umgezogen und müssen uns jetzt ***."},
-    {"term": "der Sterbefall", "type": "Noun", "meaning_tr": "ölüm vakası", "meaning_en": "death case", "meaning_uk": "смерть", "example": "Bei einem *** hilft das Bestattungsinstitut."},
-    {"term": "die Schulung", "type": "Noun", "meaning_tr": "eğitim, kurs", "meaning_en": "training", "meaning_uk": "навчання", "example": "Morgen habe ich eine *** für das neue System."},
-    {"term": "die Hygiene", "type": "Noun", "meaning_tr": "hijyen", "meaning_en": "hygiene", "meaning_uk": "гігієна", "example": "In der Küche ist *** sehr wichtig."},
-    {"term": "die Hygieneschulung", "type": "Noun", "meaning_tr": "hijyen eğitimi", "meaning_en": "hygiene training", "meaning_uk": "інструктаж з гігієни", "example": "Alle Mitarbeiter brauchen eine ***."},
-    {"term": "die Fundsache", "type": "Noun", "meaning_tr": "bulunan eşya", "meaning_en": "found item", "meaning_uk": "знахідка", "example": "Man kann eine *** online melden."},
-    {"term": "die Brieftasche", "type": "Noun", "meaning_tr": "cüzdan", "meaning_en": "wallet", "meaning_uk": "гаманець", "example": "Oh nein, ich habe meine *** im Bus vergessen."},
-    {"term": "die Fahrzeugpapiere", "type": "Noun", "meaning_tr": "araç belgeleri", "meaning_en": "vehicle documents", "meaning_uk": "документи на автомобіль", "example": "Bitte zeigen Sie mir Ihre Führerschein und die ***."},
-    {"term": "die Heirat", "type": "Noun", "meaning_tr": "evlilik", "meaning_en": "marriage", "meaning_uk": "одруження", "example": "Die *** fand im kleinen Kreis statt."},
-    {"term": "Einspruch einlegen", "type": "Phrase", "meaning_tr": "itiraz etmek", "meaning_en": "to lodge an appeal", "meaning_uk": "подавати апеляцію", "example": "Sie möchte gegen das Bußgeld ***."},
-    {"term": "das Visum", "type": "Noun", "meaning_tr": "vize", "meaning_en": "visa", "meaning_uk": "віза", "example": "Wie lange dauert es, bis ich das *** bekomme?"},
-    {"term": "der Wegweiser", "type": "Noun", "meaning_tr": "yol gösterici, tabela", "meaning_en": "signpost", "meaning_uk": "вказівник", "example": "Folgen Sie dem *** zur Ausfahrt."},
-    {"term": "der Wartebereich", "type": "Noun", "meaning_tr": "bekleme alanı", "meaning_en": "waiting area", "meaning_uk": "зона очікування", "example": "Bitte nehmen Sie im *** Platz."},
-    {"term": "die Wartenummer", "type": "Noun", "meaning_tr": "sıra numarası", "meaning_en": "waiting number", "meaning_uk": "номер у черзі", "example": "Welche *** hast du?"},
-    {"term": "eine Wartenummer ziehen", "type": "Phrase", "meaning_tr": "sıra numarası almak", "meaning_en": "to pull a waiting number", "meaning_uk": "брати талончик", "example": "Zuerst müssen Sie am Automaten ***."},
-    {"term": "der Sachbearbeiter", "type": "Noun", "meaning_tr": "dosya memuru (erkek)", "meaning_en": "clerk (male)", "meaning_uk": "працівник", "example": "Der *** prüft jetzt meinen Antrag."},
-    {"term": "die Sachbearbeiterin", "type": "Noun", "meaning_tr": "dosya memuru (kadın)", "meaning_en": "clerk (female)", "meaning_uk": "працівниця", "example": "Die *** war sehr freundlich und hilfsbereit."},
-    {"term": "der Stempel", "type": "Noun", "meaning_tr": "mühür, kaşe", "meaning_en": "stamp", "meaning_uk": "печать", "example": "Ohne diesen *** ist das Dokument nicht gültig."},
-    {"term": "zuletzt", "type": "Adverb", "meaning_tr": "son olarak", "meaning_en": "lastly", "meaning_uk": "востаннє", "example": "Wann waren Sie *** beim Arzt?"},
-    {"term": "betrunken", "type": "Adjective", "meaning_tr": "sarhoş", "meaning_en": "drunk", "meaning_uk": "п'яний", "example": "Man darf nicht fahren, wenn man *** ist."},
-    {"term": "das Bremslicht", "type": "Noun", "meaning_tr": "fren lambası", "meaning_en": "brake light", "meaning_uk": "стоп-сигнал", "example": "Dein linkes *** funktioniert nicht."},
-    {"term": "die Fahrstunde", "type": "Noun", "meaning_tr": "direksiyon dersi", "meaning_en": "driving lesson", "meaning_uk": "урок водіння", "example": "Ich habe heute meine erste ***."},
-    {"term": "der Theorie-Kurs", "type": "Noun", "meaning_tr": "teorik kurs", "meaning_en": "theory course", "meaning_uk": "теоретичний курс", "example": "Der *** findet immer montags statt."},
-    {"term": "das Bußgeld", "type": "Noun", "meaning_tr": "para cezası", "meaning_en": "fine", "meaning_uk": "штраф", "example": "Ich musste 50 Euro *** bezahlen."},
-    {"term": "der Bußgeldbescheid", "type": "Noun", "meaning_tr": "para cezası tebligatı", "meaning_en": "notice of fine", "meaning_uk": "повідомлення про штраф", "example": "Heute kam der *** mit der Post."},
-    {"term": "der Blitzer", "type": "Noun", "meaning_tr": "radar (hız kamerası)", "meaning_en": "speed camera", "meaning_uk": "радар", "example": "Ich bin zu schnell gefahren und der *** hat mich erwischt."},
-    {"term": "das Fahrverbot", "type": "Noun", "meaning_tr": "sürüş yasağı", "meaning_en": "driving ban", "meaning_uk": "заборона водіння", "example": "Nach dem Alkoholtest bekam er ein ***."},
-    {"term": "der Einspruch", "type": "Noun", "meaning_tr": "itiraz", "meaning_en": "objection", "meaning_uk": "заперечення", "example": "Gegen das Urteil kann man *** einlegen."},
-    {"term": "protestieren", "type": "Verb", "meaning_tr": "protesto etmek", "meaning_en": "to protest", "meaning_uk": "протестувати", "example": "Die Leute *** gegen die hohen Preise."},
-    {"term": "der Betrag", "type": "Noun", "meaning_tr": "tutar, miktar", "meaning_en": "amount", "meaning_uk": "сума", "example": "Bitte überweisen Sie den *** bis Freitag."},
-    {"term": "die Frist", "type": "Noun", "meaning_tr": "mühlet, süre", "meaning_en": "deadline", "meaning_uk": "термін", "example": "Die *** für die Anmeldung läuft morgen ab."},
-    {"term": "jedenfalls", "type": "Adverb", "meaning_tr": "her halükarda", "meaning_en": "in any case", "meaning_uk": "у всякому разі", "example": "Ich werde *** dort anrufen."},
-    {"term": "ob", "type": "Conjunction", "meaning_tr": "... olup olmadığını", "meaning_en": "whether", "meaning_uk": "чи", "example": "Ich weiß nicht, *** das Amt heute offen hat."},
-    {"term": "die Goldkette", "type": "Noun", "meaning_tr": "altın kolye", "meaning_en": "gold necklace", "meaning_uk": "золотий ланцюжок", "example": "Sie hat eine schöne *** zum Geburtstag bekommen."},
-    {"term": "verschwinden", "type": "Verb", "meaning_tr": "ortadan kaybolmak", "meaning_en": "to disappear", "meaning_uk": "зникати", "example": "Mein Schlüssel ist einfach ge***."},
-    {"term": "stehlen", "type": "Verb", "meaning_tr": "çalmak", "meaning_en": "to steal", "meaning_uk": "красти", "example": "Jemand hat mein Fahrrad ge***."},
-    {"term": "die Fundsuche", "type": "Noun", "meaning_tr": "buluntu araması", "meaning_en": "lost item search", "meaning_uk": "пошук знахідки", "example": "Die *** im Internet war erfolgreich."},
-    {"term": "die Online-Fundsuche", "type": "Noun", "meaning_tr": "çevrimiçi kayıp eşya araması", "meaning_en": "online lost and found", "meaning_uk": "онлайн пошук знахідок", "example": "Nutzen Sie die *** der Stadt Berlin."},
-    {"term": "der Finderlohn", "type": "Noun", "meaning_tr": "bulana verilen ödül", "meaning_en": "finder's reward", "meaning_uk": "винагорода за знахідку", "example": "Er hat 20 Euro *** bekommen."},
-    {"term": "behalten", "type": "Verb", "meaning_tr": "muhafaza etmek, tutmak", "meaning_en": "to keep", "meaning_uk": "зберігати", "example": "Darf ich das Buch ***?"},
-    {"term": "der Besitzer", "type": "Noun", "meaning_tr": "sahip (erkek)", "meaning_en": "owner", "meaning_uk": "власник", "example": "Der *** des Autos wurde informiert."},
-    {"term": "die Besitzerin", "type": "Noun", "meaning_tr": "sahip (kadın)", "meaning_en": "owner (female)", "meaning_uk": "власниця", "example": "Die *** der Tasche hat sich gemeldet."},
-    {"term": "nirgends", "type": "Adverb", "meaning_tr": "hiçbir yerde", "meaning_en": "nowhere", "meaning_uk": "ніде", "example": "Ich kann meine Brille *** finden."},
-    {"term": "die Beschreibung", "type": "Noun", "meaning_tr": "tarif, tanımlama", "meaning_en": "description", "meaning_uk": "опис", "example": "Die *** des Diebes war sehr genau."},
-    {"term": "der Inhalt", "type": "Noun", "meaning_tr": "içerik", "meaning_en": "content", "meaning_uk": "зміст", "example": "Der *** der Tasche war sehr wertvoll."},
-    {"term": "die Reisetasche", "type": "Noun", "meaning_tr": "seyahat çantası", "meaning_en": "travel bag", "meaning_uk": "дорожня сумка", "example": "Ich packe meine *** für den Urlaub."},
-    {"term": "die Bankkarte", "type": "Noun", "meaning_tr": "banka kartı", "meaning_en": "bank card", "meaning_uk": "банківська картка", "example": "Ich habe meine *** im Automaten vergessen."},
-    {"term": "das Deutschbuch", "type": "Noun", "meaning_tr": "Almanca kitabı", "meaning_en": "German book", "meaning_uk": "підручник з німецької мови", "example": "Haben Sie Ihr *** dabei?"},
-    {"term": "der Behördenbrief", "type": "Noun", "meaning_tr": "resmi makam mektubu", "meaning_en": "official letter", "meaning_uk": "офіційний лист", "example": "Ich habe heute einen wichtigen *** bekommen."},
-    {"term": "die Behördensprache", "type": "Noun", "meaning_tr": "resmi dil", "meaning_en": "official language", "meaning_uk": "офіційна мова", "example": "Ich verstehe die *** oft nicht."},
-    {"term": "die Beschäftigung", "type": "Noun", "meaning_tr": "meşguliyet, istihdam", "meaning_en": "employment", "meaning_uk": "зайнятість", "example": "Haben Sie eine feste ***?"},
-    {"term": "eine Beschäftigung ausüben", "type": "Phrase", "meaning_tr": "bir işte çalışmak", "meaning_en": "to have a job", "meaning_uk": "працювати", "example": "Er darf in Deutschland *** *** ***."},
-    {"term": "bearbeiten", "type": "Verb", "meaning_tr": "işlemek, üzerinde çalışmak", "meaning_en": "to process", "meaning_uk": "опрацьовувати", "example": "Die Behörde muss den Fall noch ***."},
-    {"term": "einen Antrag bearbeiten", "type": "Phrase", "meaning_tr": "bir başvuruyu işleme koymak", "meaning_en": "to process an application", "meaning_uk": "опрацьовувати заяву", "example": "Wie lange dauert es, *** *** zu ***?"},
-    {"term": "beifügen", "type": "Verb", "meaning_tr": "eklemek, iliştirmek", "meaning_en": "to attach", "meaning_uk": "додавати", "example": "Bitte *** Sie eine Kopie Ihres Passes bei."},
-    {"term": "die Leistung", "type": "Noun", "meaning_tr": "performans, hizmet, sosyal yardım", "meaning_en": "benefit, performance", "meaning_uk": "послуга, допомога", "example": "Das Amt zahlt soziale ***en."},
-    {"term": "Leistungen beziehen", "type": "Phrase", "meaning_tr": "sosyal yardım almak", "meaning_en": "to receive benefits", "meaning_uk": "отримувати допомогу", "example": "Er möchte staatliche *** ***."},
-    {"term": "die Unterlage", "type": "Noun", "meaning_tr": "belge, evrak", "meaning_en": "document", "meaning_uk": "документ", "example": "Bringen Sie bitte alle ***n zum Termin mit."},
-    {"term": "Unterlagen einreichen", "type": "Phrase", "meaning_tr": "belgeleri sunmak", "meaning_en": "to submit documents", "meaning_uk": "подати документи", "example": "Sie müssen die *** bis morgen ***."},
-    {"term": "der Beratungstermin", "type": "Noun", "meaning_tr": "danışma randevusu", "meaning_en": "consultation appointment", "meaning_uk": "консультація", "example": "Ich habe einen *** beim Arbeitsamt."},
-    {"term": "einen Beratungstermin wahrnehmen", "type": "Phrase", "meaning_tr": "danışma randevusuna gitmek", "meaning_en": "to attend an appointment", "meaning_uk": "відвідати консультацію", "example": "Es ist wichtig, *** *** ***."},
-    {"term": "die Bescheinigung", "type": "Noun", "meaning_tr": "belge, sertifika", "meaning_en": "certificate", "meaning_uk": "свідчення", "example": "Haben Sie eine *** vom Arzt?"},
-    {"term": "das Ergebnis", "type": "Noun", "meaning_tr": "sonuç", "meaning_en": "result", "meaning_uk": "результат", "example": "Das *** der Prüfung war sehr gut."},
-    {"term": "der Eissalon", "type": "Noun", "meaning_tr": "dondurmacı", "meaning_en": "ice cream parlor", "meaning_uk": "кафе-морозиво", "example": "Gehen wir heute in den ***?"},
-    {"term": "klären", "type": "Verb", "meaning_tr": "netleştirmek", "meaning_en": "to clarify", "meaning_uk": "з'ясовувати", "example": "Wir müssen das Problem sofort ***."},
-    {"term": "der / die Angestellte", "type": "Noun", "meaning_tr": "çalışan, memur", "meaning_en": "employee", "meaning_uk": "службовець", "example": "Die *** im Rathaus sind sehr nett."},
-    {"term": "die Wiederholung", "type": "Noun", "meaning_tr": "tekrar", "meaning_en": "repetition", "meaning_uk": "повторення", "example": "Übung macht den Meister durch ***."},
-    {"term": "die Mappe", "type": "Noun", "meaning_tr": "dosya, klasör", "meaning_en": "folder", "meaning_uk": "папка", "example": "Alle Dokumente liegen in dieser ***."},
-    {"term": "da sein", "type": "Verb", "meaning_tr": "orada olmak", "meaning_en": "to be there", "meaning_uk": "бути присутнім", "example": "Ich werde pünktlich *** ***."},
-    {"term": "die Rolle", "type": "Noun", "meaning_tr": "rol", "meaning_en": "role", "meaning_uk": "роль", "example": "Sie spielt eine wichtige *** im Team."},
-    {"term": "die Station", "type": "Noun", "meaning_tr": "istasyon, durak", "meaning_en": "station", "meaning_uk": "станція", "example": "Die nächste *** ist der Hauptbahnhof."},
-    {"term": "die Verkehrskontrolle", "type": "Noun", "meaning_tr": "trafik kontrolü", "meaning_en": "traffic check", "meaning_uk": "дорожній контроль", "example": "Ich kam in eine *** der Polizei."}
+    {
+      "term": "das Amt",
+      "type": "Noun",
+      "meaning_tr": "makam - ofis - daire",
+      "meaning_en": "office - post - authority",
+      "meaning_uk": "вídomostí - post - uryadovyy vídстанова",
+      "example": "Ich muss heute zum ***, um meinen Pass zu verlängern.",
+      "meaning_es": "oficina - cargo - puesto"
+    },
+    {
+      "term": "die Behörde",
+      "type": "Noun",
+      "meaning_tr": "resmi makam - merci - idare",
+      "meaning_en": "authority - agency - administration",
+      "meaning_uk": "organ vladi - ustanova - administraciya",
+      "example": "Jede *** hat unterschiedliche Sprechzeiten.",
+      "meaning_es": "autoridad - organismo - dependencia"
+    },
+    {
+      "term": "die Ausländerbehörde",
+      "type": "Noun",
+      "meaning_tr": "yabancılar dairesi - yabancı işleri müdürlüğü",
+      "meaning_en": "immigration office - foreigner's office",
+      "meaning_uk": "vídомство u sprvakh inozemtsiv - migratsiyna sluzhba",
+      "example": "In der *** muss man oft lange warten.",
+      "meaning_es": "oficina de extranjería - departamento de inmigración"
+    },
+    {
+      "term": "das Einwohnermeldeamt",
+      "type": "Noun",
+      "meaning_tr": "nüfus kayıt dairesi - ikametgah kayıt ofisi",
+      "meaning_en": "resident registration office - registry office",
+      "meaning_uk": "víddíl reyestratsiyi meshkantsiv - sluzhba reєestratsiyi hromadyan",
+      "example": "Nach dem Umzug muss man zum *** gehen.",
+      "meaning_es": "oficina de registro de residentes - registro civil"
+    },
+    {
+      "term": "das Gesundheitsamt",
+      "type": "Noun",
+      "meaning_tr": "sağlık müdürlüğü - sıhhiye dairesi",
+      "meaning_en": "health department - public health office",
+      "meaning_uk": "departament okhorony zdorov'ya - sanitarna sluzhba",
+      "example": "Das *** kontrolliert die Hygiene im Restaurant.",
+      "meaning_es": "departamento de salud - sanidad pública"
+    },
+    {
+      "term": "das Fundbüro",
+      "type": "Noun",
+      "meaning_tr": "kayıp eşya bürosu - emanet",
+      "meaning_en": "lost and found - lost property office",
+      "meaning_uk": "byuro znakhidok - stolytsya nakhodok",
+      "example": "Ich habe meine Tasche verloren und gehe zum ***.",
+      "meaning_es": "oficina de objetos perdidos - objetos encontrados"
+    },
+    {
+      "term": "das Konsulat",
+      "type": "Noun",
+      "meaning_tr": "konsolosluk",
+      "meaning_en": "consulate",
+      "meaning_uk": "konsulstvo",
+      "example": "Für ein Visum muss er zum türkischen ***.",
+      "meaning_es": "consulado"
+    },
+    {
+      "term": "das Ordnungsamt",
+      "type": "Noun",
+      "meaning_tr": "kamu düzeni dairesi - asayiş dairesi",
+      "meaning_en": "public order office - municipal regulation office",
+      "meaning_uk": "sluzhba pravoporyadku - vídдiл hromads'koho poryadku",
+      "example": "Das *** achtet darauf, dass niemand falsch parkt.",
+      "meaning_es": "oficina de orden público - policía municipal"
+    },
+    {
+      "term": "das Standesamt",
+      "type": "Noun",
+      "meaning_tr": "nüfus müdürlüğü - evlendirme dairesi",
+      "meaning_en": "registry office - civil registry",
+      "meaning_uk": "RATS - vídдil reєestratsiyi hromadyan",
+      "example": "Wir wollen heiraten und brauchen einen Termin beim ***.",
+      "meaning_es": "registro civil - oficina de registro"
+    },
+    {
+      "term": "die Aufenthaltserlaubnis",
+      "type": "Noun",
+      "meaning_tr": "oturma izni - ikamet izni",
+      "meaning_en": "residence permit - residency visa",
+      "meaning_uk": "dozvíl na prozhivannya - dozhil na postíyne prozhivannya",
+      "example": "Meine *** ist noch zwei Jahre gültig.",
+      "meaning_es": "permiso de residencia - autorización de estancia"
+    },
+    {
+      "term": "der Antrag",
+      "type": "Noun",
+      "meaning_tr": "dilekçe - başvuru - istek",
+      "meaning_en": "application - request - petition",
+      "meaning_uk": "zayava - klopotannya",
+      "example": "Ich muss diesen *** noch unterschreiben.",
+      "meaning_es": "solicitud - petición - instancia"
+    },
+    {
+      "term": "einen Antrag stellen",
+      "type": "Phrase",
+      "meaning_tr": "başvuru yapmak - dilekçe vermek",
+      "meaning_en": "to submit an application - to file a request",
+      "meaning_uk": "podaty zayavu - zvernutysya iz zayavoyu",
+      "example": "Sie möchte *** für Kindergeld ***.",
+      "meaning_es": "presentar una solicitud - interponer una petición"
+    },
+    {
+      "term": "beantragen",
+      "type": "Verb",
+      "meaning_tr": "başvuruda bulunmak - istemek",
+      "meaning_en": "to apply for - to request",
+      "meaning_uk": "podavaty zapyt - vistupaty iz prokhannyam",
+      "example": "Er möchte einen neuen Reisepass ***.",
+      "meaning_es": "solicitar - pedir - requerir"
+    },
+    {
+      "term": "die Abmeldung",
+      "type": "Noun",
+      "meaning_tr": "kaydını sildirme - kayıt iptali",
+      "meaning_en": "deregistration - cancellation of registration",
+      "meaning_uk": "znyattya z reyestratsiyi - vysişka z reєestru",
+      "example": "Vor meiner Abreise brauche ich die ***.",
+      "meaning_es": "baja de registro - cancelación de inscripción"
+    },
+    {
+      "term": "die Ummeldung",
+      "type": "Noun",
+      "meaning_tr": "kayıt değişikliği (adres vb.) - adres değişikliği",
+      "meaning_en": "change of registration - address change",
+      "meaning_uk": "perereyestratsiya - zminy reєestratsiyi",
+      "example": "Die *** nach dem Umzug kostet nichts.",
+      "meaning_es": "cambio de registro - cambio de domicilio"
+    },
+    {
+      "term": "sich ummelden",
+      "type": "Verb",
+      "meaning_tr": "ikametgahını aldırmak - kayıt değiştirmek",
+      "meaning_en": "to change registration - to re-register",
+      "meaning_uk": "zminyty reyestratsiyu - pereyeşstrakhuvatysya",
+      "example": "Wir sind umgezogen und müssen uns jetzt ***.",
+      "meaning_es": "cambiar de domicilio - registrarse de nuevo"
+    },
+    {
+      "term": "der Sterbefall",
+      "type": "Noun",
+      "meaning_tr": "ölüm vakası - vefat",
+      "meaning_en": "death case - fatality",
+      "meaning_uk": "smert' - vipadok smerti",
+      "example": "Bei einem *** hilft das Bestattungsinstitut.",
+      "meaning_es": "caso de defunción - fallecimiento"
+    },
+    {
+      "term": "die Schulung",
+      "type": "Noun",
+      "meaning_tr": "eğitim - kurs - eğretim",
+      "meaning_en": "training - course - instruction",
+      "meaning_uk": "navchannya - kurs",
+      "example": "Morgen habe ich eine *** für das neue System.",
+      "meaning_es": "capacitación - formación - curso"
+    },
+    {
+      "term": "die Hygiene",
+      "type": "Noun",
+      "meaning_tr": "hijyen - temizlik",
+      "meaning_en": "hygiene - sanitation",
+      "meaning_uk": "hihyena",
+      "example": "In der Küche ist *** sehr wichtig.",
+      "meaning_es": "higiene"
+    },
+    {
+      "term": "die Hygieneschulung",
+      "type": "Noun",
+      "meaning_tr": "hijyen eğitimi - hijyen kursu",
+      "meaning_en": "hygiene training - sanitation course",
+      "meaning_uk": "instruktazh z hyhiyeny - navchannya z sanitariyi",
+      "example": "Alle Mitarbeiter brauchen eine ***.",
+      "meaning_es": "capacitación en higiene - curso de higiene"
+    },
+    {
+      "term": "die Fundsache",
+      "type": "Noun",
+      "meaning_tr": "bulunan eşya - kayıp eşya",
+      "meaning_en": "found item - lost property",
+      "meaning_uk": "znakhidka - znakhidka",
+      "example": "Man kann eine *** online melden.",
+      "meaning_es": "objeto encontrado - artículo perdido"
+    },
+    {
+      "term": "die Brieftasche",
+      "type": "Noun",
+      "meaning_tr": "cüzdan - para kesesi",
+      "meaning_en": "wallet - billfold",
+      "meaning_uk": "hamants' - portmone",
+      "example": "Oh nein, ich habe meine *** im Bus vergessen.",
+      "meaning_es": "cartera - billetera"
+    },
+    {
+      "term": "die Fahrzeugpapiere",
+      "type": "Noun",
+      "meaning_tr": "araç belgeleri - araç ruhsatı",
+      "meaning_en": "vehicle documents - car papers",
+      "meaning_uk": "dokumenty na avtomobil' - tekhpasport",
+      "example": "Bitte zeigen Sie mir Ihre Führerschein und die ***.",
+      "meaning_es": "documentos del vehículo - papeles del coche"
+    },
+    {
+      "term": "die Heirat",
+      "type": "Noun",
+      "meaning_tr": "evlilik - nikah",
+      "meaning_en": "marriage - wedding",
+      "meaning_uk": "odruzhennya - shlyub",
+      "example": "Die *** fand im kleinen Kreis statt.",
+      "meaning_es": "matrimonio - boda"
+    },
+    {
+      "term": "Einspruch einlegen",
+      "type": "Phrase",
+      "meaning_tr": "itiraz etmek - karşı koymak",
+      "meaning_en": "to lodge an appeal - to object",
+      "meaning_uk": "podaty apelyatsiyu - zayavyty pro protest",
+      "example": "Sie möchte gegen das Bußgeld ***.",
+      "meaning_es": "presentar un recurso - apelar - oponerse"
+    },
+    {
+      "term": "das Visum",
+      "type": "Noun",
+      "meaning_tr": "vize",
+      "meaning_en": "visa",
+      "meaning_uk": "víza",
+      "example": "Wie lange dauert es, bis ich das *** bekomme?",
+      "meaning_es": "visado - visa"
+    },
+    {
+      "term": "der Wegweiser",
+      "type": "Noun",
+      "meaning_tr": "yol gösterici - tabela",
+      "meaning_en": "signpost - directional sign",
+      "meaning_uk": "vkazívnyk - dorozhniy znak",
+      "example": "Folgen Sie dem *** zur Ausfahrt.",
+      "meaning_es": "indicador - señal de tráfico"
+    },
+    {
+      "term": "der Wartebereich",
+      "type": "Noun",
+      "meaning_tr": "bekleme alanı - bekleyiş yeri",
+      "meaning_en": "waiting area - waiting room",
+      "meaning_uk": "zona ochikuvannya - zal ochikuvannya",
+      "example": "Bitte nehmen Sie im *** Platz.",
+      "meaning_es": "área de espera - sala de espera"
+    },
+    {
+      "term": "die Wartenummer",
+      "type": "Noun",
+      "meaning_tr": "sıra numarası - bekleme numarası",
+      "meaning_en": "waiting number - queue number",
+      "meaning_uk": "nomer u cherzi - elektronnyy vymikach",
+      "example": "Welche *** hast du?",
+      "meaning_es": "número de turno - número de espera"
+    },
+    {
+      "term": "eine Wartenummer ziehen",
+      "type": "Phrase",
+      "meaning_tr": "sıra numarası almak - numara çekmek",
+      "meaning_en": "to pull a waiting number - to take a queue number",
+      "meaning_uk": "braty talonchyk - otrimaty cherhovyy nomer",
+      "example": "Zuerst müssen Sie am Automaten ***.",
+      "meaning_es": "coger un número - tomar un ticket de turno"
+    },
+    {
+      "term": "der Sachbearbeiter",
+      "type": "Noun",
+      "meaning_tr": "dosya memuru (erkek) - işlemci (erkek)",
+      "meaning_en": "clerk (male) - case worker (male)",
+      "meaning_uk": "pratsívnyk - spetsialist (cholovik)",
+      "example": "Der *** prüft jetzt meinen Antrag.",
+      "meaning_es": "funcionario (m) - gestor (m)"
+    },
+    {
+      "term": "die Sachbearbeiterin",
+      "type": "Noun",
+      "meaning_tr": "dosya memuru (kadın) - işlemci (kadın)",
+      "meaning_en": "clerk (female) - case worker (female)",
+      "meaning_uk": "pratsívnytsya - spetsialist (zhinka)",
+      "example": "Die *** war sehr freundlich und hilfsbereit.",
+      "meaning_es": "funcionaria (f) - gestora (f)"
+    },
+    {
+      "term": "der Stempel",
+      "type": "Noun",
+      "meaning_tr": "mühür - kaşe - damga",
+      "meaning_en": "stamp - seal",
+      "meaning_uk": "pechatka - shtamp",
+      "example": "Ohne diesen *** ist das Dokument nicht gültig.",
+      "meaning_es": "sello - estampilla"
+    },
+    {
+      "term": "zuletzt",
+      "type": "Adverb",
+      "meaning_tr": "son olarak - en son",
+      "meaning_en": "lastly - recently",
+      "meaning_uk": "vostannye - naprykinets'",
+      "example": "Wann waren Sie *** beim Arzt?",
+      "meaning_es": "últimamente - por último"
+    },
+    {
+      "term": "betrunken",
+      "type": "Adjective",
+      "meaning_tr": "sarhoş - mest olan",
+      "meaning_en": "drunk - intoxicated",
+      "meaning_uk": "p'yanyy - khmel'nyy",
+      "example": "Man darf nicht fahren, wenn man *** ist.",
+      "meaning_es": "borracho - ebrio"
+    },
+    {
+      "term": "das Bremslicht",
+      "type": "Noun",
+      "meaning_tr": "fren lambası - durma ışığı",
+      "meaning_en": "brake light - stop light",
+      "meaning_uk": "stop-signal - hal'muvalnyy signál",
+      "example": "Dein linkes *** funktioniert nicht.",
+      "meaning_es": "luz de freno - faro de freno"
+    },
+    {
+      "term": "die Fahrstunde",
+      "type": "Noun",
+      "meaning_tr": "direksiyon dersi - araba kullanma dersi",
+      "meaning_en": "driving lesson - road lesson",
+      "meaning_uk": "urok vodinnya - praktychnyy urokh",
+      "example": "Ich habe heute meine erste ***.",
+      "meaning_es": "clase de conducción - lección práctica"
+    },
+    {
+      "term": "der Theorie-Kurs",
+      "type": "Noun",
+      "meaning_tr": "teorik kurs - teori eğitimi",
+      "meaning_en": "theory course - theoretical class",
+      "meaning_uk": "teoretychnyy kurs - kurs teoriyi",
+      "example": "Der *** findet immer montags statt.",
+      "meaning_es": "curso de teoría - curso teórico"
+    },
+    {
+      "term": "das Bußgeld",
+      "type": "Noun",
+      "meaning_tr": "para cezası - idari para cezası",
+      "meaning_en": "fine - penalty",
+      "meaning_uk": "shtraf - hromads'ka kara",
+      "example": "Ich musste 50 Euro *** bezahlen.",
+      "meaning_es": "multa - sanción pecuniaria"
+    },
+    {
+      "term": "der Bußgeldbescheid",
+      "type": "Noun",
+      "meaning_tr": "para cezası tebligatı - ceza bildirimi",
+      "meaning_en": "notice of fine - fine notification",
+      "meaning_uk": "povidomlennya pro shtraf - postanova pro shtraf",
+      "example": "Heute kam der *** mit der Post.",
+      "meaning_es": "notificación de multa - aviso de sanción"
+    },
+    {
+      "term": "der Blitzer",
+      "type": "Noun",
+      "meaning_tr": "radar (hız kamerası) - radar",
+      "meaning_en": "speed camera - traffic radar",
+      "meaning_uk": "radar - fotofiksator",
+      "example": "Ich bin zu schnell gefahren und der *** hat mich erwischt.",
+      "meaning_es": "radar de velocidad - cámara de fotos"
+    },
+    {
+      "term": "das Fahrverbot",
+      "type": "Noun",
+      "meaning_tr": "sürüş yasağı - araç kullanma yasağı",
+      "meaning_en": "driving ban - driving prohibition",
+      "meaning_uk": "zaborona vodinnya - tymchasove prypynennya prav",
+      "example": "Nach dem Alkoholtest bekam er ein ***.",
+      "meaning_es": "prohibición de conducir - retirada del permiso de conducir"
+    },
+    {
+      "term": "der Einspruch",
+      "type": "Noun",
+      "meaning_tr": "itiraz - muhalefet",
+      "meaning_en": "objection - appeal",
+      "meaning_uk": "zaperechennya - apelyatsiya",
+      "example": "Gegen das Urteil kann man *** einlegen.",
+      "meaning_es": "objeción - recurso - reclamación"
+    },
+    {
+      "term": "protestieren",
+      "type": "Verb",
+      "meaning_tr": "protesto etmek - karşı çıkmak",
+      "meaning_en": "to protest - to object",
+      "meaning_uk": "protestuvaty - vyholoshyty protest",
+      "example": "Die Leute *** gegen die hohen Preise.",
+      "meaning_es": "protestar - manifestarse"
+    },
+    {
+      "term": "der Betrag",
+      "type": "Noun",
+      "meaning_tr": "tutar - miktar",
+      "meaning_en": "amount - sum",
+      "meaning_uk": "suma - rozmir",
+      "example": "Bitte überweisen Sie den *** bis Freitag.",
+      "meaning_es": "importe - cantidad"
+    },
+    {
+      "term": "die Frist",
+      "type": "Noun",
+      "meaning_tr": "mühlet - süre - son tarih",
+      "meaning_en": "deadline - time limit - term",
+      "meaning_uk": "termin - vika",
+      "example": "Die *** für die Anmeldung läuft morgen ab.",
+      "meaning_es": "plazo - fecha límite"
+    },
+    {
+      "term": "jedenfalls",
+      "type": "Adverb",
+      "meaning_tr": "her halükarda - kesinlikle",
+      "meaning_en": "in any case - at any rate",
+      "meaning_uk": "u vsyakomu razi - bezperechno",
+      "example": "Ich werde *** dort anrufen.",
+      "meaning_es": "en cualquier caso - de todos modos"
+    },
+    {
+      "term": "ob",
+      "type": "Conjunction",
+      "meaning_tr": "... olup olmadığını - -ip -mediği",
+      "meaning_en": "whether - if",
+      "meaning_uk": "chy - chi zh",
+      "example": "Ich weiß nicht, *** das Amt heute offen hat.",
+      "meaning_es": "si (conjunción condicional)"
+    },
+    {
+      "term": "die Goldkette",
+      "type": "Noun",
+      "meaning_tr": "altın kolye",
+      "meaning_en": "gold necklace",
+      "meaning_uk": "zolotyy lantsyuzhok - zolotse",
+      "example": "Sie hat eine schöne *** zum Geburtstag bekommen.",
+      "meaning_es": "collar de oro - cadena de oro"
+    },
+    {
+      "term": "verschwinden",
+      "type": "Verb",
+      "meaning_tr": "ortadan kaybolmak - yok olmak",
+      "meaning_en": "to disappear - to vanish",
+      "meaning_uk": "znykaty - znikaty bez slydu",
+      "example": "Mein Schlüssel ist einfach ge***.",
+      "meaning_es": "desaparecer - esfumarse"
+    },
+    {
+      "term": "stehlen",
+      "type": "Verb",
+      "meaning_tr": "çalmak - hirsizlik yapmak",
+      "meaning_en": "to steal - to thieve",
+      "meaning_uk": "kraty - vykrasdene",
+      "example": "Jemand hat mein Fahrrad ge***.",
+      "meaning_es": "robar - hurtar"
+    },
+    {
+      "term": "die Fundsuche",
+      "type": "Noun",
+      "meaning_tr": "buluntu araması - kayıp eşya arama",
+      "meaning_en": "lost item search - search for lost property",
+      "meaning_uk": "poshuk znakhidky - poshuk vtrachenoho",
+      "example": "Die *** im Internet war erfolgreich.",
+      "meaning_es": "búsqueda de objetos perdidos"
+    },
+    {
+      "term": "die Online-Fundsuche",
+      "type": "Noun",
+      "meaning_tr": "çevrimiçi kayıp eşya araması",
+      "meaning_en": "online lost and found - internet search for found items",
+      "meaning_uk": "onlayn poshuk znakhidok - internet-poshuk",
+      "example": "Nutzen Sie die *** der Stadt Berlin.",
+      "meaning_es": "búsqueda de objetos perdidos en línea"
+    },
+    {
+      "term": "der Finderlohn",
+      "type": "Noun",
+      "meaning_tr": "bulana verilen ödül - buluntu müaşıriyesi",
+      "meaning_en": "finder's reward - reward for finding",
+      "meaning_uk": "vynahoroda za znakhidku - platnya znakhidka",
+      "example": "Er hat 20 Euro *** bekommen.",
+      "meaning_es": "recompensa por encontrar - premio al descubridor"
+    },
+    {
+      "term": "behalten",
+      "type": "Verb",
+      "meaning_tr": "muhafaza etmek - tutmak - saklamak",
+      "meaning_en": "to keep - to retain",
+      "meaning_uk": "zberihaty - trymaty",
+      "example": "Darf ich das Buch ***?",
+      "meaning_es": "guardar - conservar - retener"
+    },
+    {
+      "term": "der Besitzer",
+      "type": "Noun",
+      "meaning_tr": "sahip (erkek) - malik (erkek)",
+      "meaning_en": "owner (male) - proprietor",
+      "meaning_uk": "vlasnyk (cholovik)",
+      "example": "Der *** des Autos wurde informiert.",
+      "meaning_es": "dueño (m)"
+    },
+    {
+      "term": "die Besitzerin",
+      "type": "Noun",
+      "meaning_tr": "sahip (kadın) - malik (kadın)",
+      "meaning_en": "owner (female) - proprietress",
+      "meaning_uk": "vlasnytsya (zhinka)",
+      "example": "Die *** der Tasche hat sich gemeldet.",
+      "meaning_es": "dueña (f)"
+    },
+    {
+      "term": "nirgends",
+      "type": "Adverb",
+      "meaning_tr": "hiçbir yerde - yok yerde",
+      "meaning_en": "nowhere - in no place",
+      "meaning_uk": "níkde - vnyakomu mistsi",
+      "example": "Ich kann meine Brille *** finden.",
+      "meaning_es": "en ninguna parte - ningún sitio"
+    },
+    {
+      "term": "die Beschreibung",
+      "type": "Noun",
+      "meaning_tr": "tarif - tanımlama - betimleme",
+      "meaning_en": "description - account",
+      "meaning_uk": "opys - kharakterystyka",
+      "example": "Die *** des Diebes war sehr genau.",
+      "meaning_es": "descripción"
+    },
+    {
+      "term": "der Inhalt",
+      "type": "Noun",
+      "meaning_tr": "içerik - kapsayıcı",
+      "meaning_en": "content - substance",
+      "meaning_uk": "zmist - vmist",
+      "example": "Der *** der Tasche war sehr wertvoll.",
+      "meaning_es": "contenido"
+    },
+    {
+      "term": "die Reisetasche",
+      "type": "Noun",
+      "meaning_tr": "seyahat çantası - bavul",
+      "meaning_en": "travel bag - holdall",
+      "meaning_uk": "dorozhnya sumka - valiza",
+      "example": "Ich packe meine *** für den Urlaub.",
+      "meaning_es": "bolso de viaje - maleta"
+    },
+    {
+      "term": "die Bankkarte",
+      "type": "Noun",
+      "meaning_tr": "banka kartı",
+      "meaning_en": "bank card - debit card",
+      "meaning_uk": "bankivs'ka karta",
+      "example": "Ich habe meine *** im Automaten vergessen.",
+      "meaning_es": "tarjeta bancaria - tarjeta de débito"
+    },
+    {
+      "term": "das Deutschbuch",
+      "type": "Noun",
+      "meaning_tr": "Almanca kitabı",
+      "meaning_en": "German book",
+      "meaning_uk": "pidruchnyk z nimets'koyi movy",
+      "example": "Haben Sie Ihr *** dabei?",
+      "meaning_es": "libro de alemán"
+    },
+    {
+      "term": "der Behördenbrief",
+      "type": "Noun",
+      "meaning_tr": "resmi makam mektubu - daire yazışması",
+      "meaning_en": "official letter - administrative correspondence",
+      "meaning_uk": "ofitsiynyy lyst - uraydova korespondentsiya",
+      "example": "Ich habe heute einen wichtigen *** bekommen.",
+      "meaning_es": "carta oficial - correspondencia administrativa"
+    },
+    {
+      "term": "die Behördensprache",
+      "type": "Noun",
+      "meaning_tr": "resmi dil - idari dil",
+      "meaning_en": "official language - bureaucratic language",
+      "meaning_uk": "ofitsiyna mova - biurokratychna mova",
+      "example": "Ich verstehe die *** oft nicht.",
+      "meaning_es": "lenguaje burocrático - idioma oficial"
+    },
+    {
+      "term": "die Beschäftigung",
+      "type": "Noun",
+      "meaning_tr": "meşguliyet - istihdam - iş",
+      "meaning_en": "employment - occupation - job",
+      "meaning_uk": "zaynyatist' - robota",
+      "example": "Haben Sie eine feste ***?",
+      "meaning_es": "empleo - ocupación"
+    },
+    {
+      "term": "eine Beschäftigung ausüben",
+      "type": "Phrase",
+      "meaning_tr": "bir işte çalışmak - istihdam edilmek",
+      "meaning_en": "to have a job - to be employed",
+      "meaning_uk": "pratsyuvaty - buty zaynyatym",
+      "example": "Er darf in Deutschland *** *** ***.",
+      "meaning_es": "tener un empleo - estar empleado"
+    },
+    {
+      "term": "bearbeiten",
+      "type": "Verb",
+      "meaning_tr": "işlemek - üzerinde çalışmak - halletmek",
+      "meaning_en": "to process - to work on - to handle",
+      "meaning_uk": "opratsyovuvaty - rozhlyadaty",
+      "example": "Die Behörde muss den Fall noch ***.",
+      "meaning_es": "procesar - tramitar - trabajar en"
+    },
+    {
+      "term": "einen Antrag bearbeiten",
+      "type": "Phrase",
+      "meaning_tr": "bir başvuruyu işleme koymak - bir başvuruyu ele almak",
+      "meaning_en": "to process an application - to handle a request",
+      "meaning_uk": "opratsyovuvaty zayavu - rozhlyadaty zayavu",
+      "example": "Wie lange dauert es, *** *** zu ***?",
+      "meaning_es": "tramitar una solicitud - procesar una petición"
+    },
+    {
+      "term": "beifügen",
+      "type": "Verb",
+      "meaning_tr": "eklemek - iliştirmek - dahil etmek",
+      "meaning_en": "to attach - to append - to add",
+      "meaning_uk": "dodavaty - pryyednuvaty",
+      "example": "Bitte *** Sie eine Kopie Ihres Passes bei.",
+      "meaning_es": "adjuntar - anadir"
+    },
+    {
+      "term": "die Leistung",
+      "type": "Noun",
+      "meaning_tr": "performans - hizmet - sosyal yardım",
+      "meaning_en": "benefit - service - performance",
+      "meaning_uk": "posluha - dopomoha - efektyvnist'",
+      "example": "Das Amt zahlt soziale ***en.",
+      "meaning_es": "prestación - servicio - rendimiento"
+    },
+    {
+      "term": "Leistungen beziehen",
+      "type": "Phrase",
+      "meaning_tr": "sosyal yardım almak - fayda sağlamak",
+      "meaning_en": "to receive benefits - to draw benefits",
+      "meaning_uk": "otrymuvaty dopomohu - koristuvatysya posluhamy",
+      "example": "Er möchte staatliche *** ***.",
+      "meaning_es": "recibir prestaciones - percibir ayudas"
+    },
+    {
+      "term": "die Unterlage",
+      "type": "Noun",
+      "meaning_tr": "belge - evrak - dayanak",
+      "meaning_en": "document - supporting paper",
+      "meaning_uk": "dokument - pidtverdzhennya",
+      "example": "Bringen Sie bitte alle ***n zum Termin mit.",
+      "meaning_es": "documento - soporte"
+    },
+    {
+      "term": "Unterlagen einreichen",
+      "type": "Phrase",
+      "meaning_tr": "belgeleri sunmak - evrak teslim etmek",
+      "meaning_en": "to submit documents - to file papers",
+      "meaning_uk": "podaty dokumenty - nadaty papiery",
+      "example": "Sie müssen die *** bis morgen ***.",
+      "meaning_es": "presentar documentos - entregar documentación"
+    },
+    {
+      "term": "der Beratungstermin",
+      "type": "Noun",
+      "meaning_tr": "danışma randevusu - müşvere randevusu",
+      "meaning_en": "consultation appointment - advisory meeting",
+      "meaning_uk": "konsul'tatsiya - zustrich dlya porady",
+      "example": "Ich habe einen *** beim Arbeitsamt.",
+      "meaning_es": "cita de consulta - cita asesora"
+    },
+    {
+      "term": "einen Beratungstermin wahrnehmen",
+      "type": "Phrase",
+      "meaning_tr": "danışma randevusuna gitmek - randevuya katılmak",
+      "meaning_en": "to attend an appointment - to keep a consultation",
+      "meaning_uk": "vidvidaty konsul'tatsiyu - buth na zustrichi",
+      "example": "Es ist wichtig, *** *** ***.",
+      "meaning_es": "asistir a una cita - acudir a una consulta"
+    },
+    {
+      "term": "die Bescheinigung",
+      "type": "Noun",
+      "meaning_tr": "belge - sertifika - tasdikname",
+      "meaning_en": "certificate - attestation",
+      "meaning_uk": "svidchennya - sertífikat",
+      "example": "Haben Sie eine *** vom Arzt?",
+      "meaning_es": "certificado - constancia"
+    },
+    {
+      "term": "das Ergebnis",
+      "type": "Noun",
+      "meaning_tr": "sonuç - netice",
+      "meaning_en": "result - outcome",
+      "meaning_uk": "rezul'tat - pidsumok",
+      "example": "Das *** der Prüfung war sehr gut.",
+      "meaning_es": "resultado"
+    },
+    {
+      "term": "der Eissalon",
+      "type": "Noun",
+      "meaning_tr": "dondurmacı - dondurma salonu",
+      "meaning_en": "ice cream parlor - gelateria",
+      "meaning_uk": "kafe-morozivo - prapatsyuvannya z morozyvom",
+      "example": "Gehen wir heute in den ***?",
+      "meaning_es": "heladería"
+    },
+    {
+      "term": "klären",
+      "type": "Verb",
+      "meaning_tr": "netleştirmek - aydınlatmak",
+      "meaning_en": "to clarify - to clear up",
+      "meaning_uk": "z'yasovuvaty - proyasnyty",
+      "example": "Wir müssen das Problem sofort ***.",
+      "meaning_es": "aclarar - dilucidar"
+    },
+    {
+      "term": "der / die Angestellte",
+      "type": "Noun",
+      "meaning_tr": "çalışan - memur - çalışan personel",
+      "meaning_en": "employee - staff member",
+      "meaning_uk": "sluzhbovets' - napivsлuzhbyvets'",
+      "example": "Die *** im Rathaus sind sehr nett.",
+      "meaning_es": "empleado(a) - funcionario(a)"
+    },
+    {
+      "term": "die Wiederholung",
+      "type": "Noun",
+      "meaning_tr": "tekrar - yinelme",
+      "meaning_en": "repetition - recurrence",
+      "meaning_uk": "povtorennya - retsydyv",
+      "example": "Übung macht den Meister durch ***.",
+      "meaning_es": "repeticiones - reiteración"
+    },
+    {
+      "term": "die Mappe",
+      "type": "Noun",
+      "meaning_tr": "dosya - klasör - kap",
+      "meaning_en": "folder - portfolio - file",
+      "meaning_uk": "papka - dos'ye",
+      "example": "Alle Dokumente liegen in dieser ***.",
+      "meaning_es": "carpeta - archivador"
+    },
+    {
+      "term": "da sein",
+      "type": "Verb",
+      "meaning_tr": "orada olmak - hazır bulunmak",
+      "meaning_en": "to be there - to be present",
+      "meaning_uk": "buty pryсутnim - buty tam",
+      "example": "Ich werde pünktlich *** ***.",
+      "meaning_es": "estar allí - estar presente"
+    },
+    {
+      "term": "die Rolle",
+      "type": "Noun",
+      "meaning_tr": "rol - görev",
+      "meaning_en": "role - part",
+      "meaning_uk": "rol' - funktsiya",
+      "example": "Sie spielt eine wichtige *** im Team.",
+      "meaning_es": "rol - papel"
+    },
+    {
+      "term": "die Station",
+      "type": "Noun",
+      "meaning_tr": "istasyon - durak - bölüm",
+      "meaning_en": "station - department - stop",
+      "meaning_uk": "stantsiya - vídдil",
+      "example": "Die nächste *** ist der Hauptbahnhof.",
+      "meaning_es": "estación - parada - sección"
+    },
+    {
+      "term": "die Verkehrskontrolle",
+      "type": "Noun",
+      "meaning_tr": "trafik kontrolü - yol kontrolü",
+      "meaning_en": "traffic check - police check",
+      "meaning_uk": "dorozhniy kontrol' - perevirka transportu",
+      "example": "Ich kam in eine *** der Polizei.",
+      "meaning_es": "control de tráfico - inspección vehicular"
+    }
   ]
 }

@@ -1,0 +1,546 @@
+{
+  "title": "Essen & Trinken C1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "die Leibspeise",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Lieblingsgericht",
+      "meaning_en": "favorite dish",
+      "meaning_uk": "улюблена страва",
+      "meaning_es": "plato favorito",
+      "example": "Nach langer Reise freute er sich auf seine Leibspeise, den Königsberger Klops.***"
+    },
+    {
+      "term": "die Delikatesse",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Feinkost, etwas besonders Leckeres",
+      "meaning_en": "delicacy",
+      "meaning_uk": "делікатес",
+      "meaning_es": "delicadeza",
+      "example": "Trüffel gelten als eine kulinarische Delikatesse.***"
+    },
+    {
+      "term": "etwas (akk.) schlemmen",
+      "type": "Verb",
+      "meaning_tr": "genussvoll und reichlich essen",
+      "meaning_en": "to feast, to indulge in good food",
+      "meaning_uk": "ласувати, бенкетувати",
+      "meaning_es": "deleitarse comiendo",
+      "example": "Am Wochenende schlemmen wir gerne in einem Sterne-Restaurant.***"
+    },
+    {
+      "term": "die Raffinesse",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Finesse, geistreiche Besonderheit (oft im Geschmack)",
+      "meaning_en": "refinement, subtlety",
+      "meaning_uk": "витонченість, вишуканість",
+      "meaning_es": "refinamiento, sutileza",
+      "example": "Die Raffinesse dieser Sauce liegt in der geheimen Gewürzmischung.***"
+    },
+    {
+      "term": "die Konsistenz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Beschaffenheit eines Stoffes, Festigkeit",
+      "meaning_en": "consistency, texture",
+      "meaning_uk": "консистенція, текстура",
+      "meaning_es": "consistencia, textura",
+      "example": "Die perfekte Konsistenz von Sahne ist cremig, aber nicht zu flüssig.***"
+    },
+    {
+      "term": "abschmecken",
+      "type": "Verb",
+      "meaning_tr": "den Geschmack einer Speise prüfen und ggf. nachwürzen",
+      "meaning_en": "to taste (and season)",
+      "meaning_uk": "пробувати на смак, доводити до смаку",
+      "meaning_es": "sazonar, probar el punto",
+      "example": "Bevor sie die Suppe serviert, muss sie sie noch einmal abschmecken.***"
+    },
+    {
+      "term": "die Mundfülle",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "die Menge an Speise im Mund (sensorisches Gefühl)",
+      "meaning_en": "mouthfeel, bulk in the mouth",
+      "meaning_uk": "наповненість рота (текстура їжі)",
+      "meaning_es": "sensación en boca",
+      "example": "Der Rotwein zeichnete sich durch eine bemerkenswerte Mundfülle aus.***"
+    },
+    {
+      "term": "die Säurenote",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "der saure Geschmackseindruck",
+      "meaning_en": "acidic note",
+      "meaning_uk": "нотка кислоти",
+      "meaning_es": "nota ácida",
+      "example": "Ein guter Weißwein hat eine frische Säurenote, die belebt.***"
+    },
+    {
+      "term": "das Mundgefühl",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "wie sich das Essen im Mund anfühlt (Textur, Temperatur)",
+      "meaning_en": "mouthfeel",
+      "meaning_uk": "відчуття в роті",
+      "meaning_es": "sensación en boca",
+      "example": "Das Mundgefühl des Mousses war unglaublich leicht und luftig.***"
+    },
+    {
+      "term": "die Würze",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "das, was Geschmack verleiht (Gewürz, Kräuter etc.)",
+      "meaning_en": "spice, seasoning",
+      "meaning_uk": "пряність, приправа",
+      "meaning_es": "condimento, especia",
+      "example": "Ohne die richtige Würze wäre das Gericht fad geblieben.***"
+    },
+    {
+      "term": "das Aroma",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "der charakteristische Duft eines Lebensmittels",
+      "meaning_en": "aroma",
+      "meaning_uk": "аромат",
+      "meaning_es": "aroma",
+      "example": "Das Rösten der Kaffeebohnen setzt ein intensives Aroma frei.***"
+    },
+    {
+      "term": "die Terroir",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "Gesamtheit der Umwelteinflüsse auf den Geschmack (Wein, Käse)",
+      "meaning_en": "terroir (the environment's effect on taste)",
+      "meaning_uk": "терруар (вплив довкілля на смак)",
+      "meaning_es": "terroir",
+      "example": "Dieser Wein spiegelt das Terroir der südfranzösischen Hügel wider.***"
+    },
+    {
+      "term": "der Gaumenkitzel",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "etwas, das den Geschmackssinn besonders erfreut",
+      "meaning_en": "a treat for the palate",
+      "meaning_uk": "утіха для смаку",
+      "meaning_es": "delicia para el paladar",
+      "example": "Die feine Schokolade war ein wahrer Gaumenkitzel.***"
+    },
+    {
+      "term": "fade",
+      "type": "Adjektiv",
+      "meaning_tr": "geschmacklos, langweilig im Geschmack",
+      "meaning_en": "bland, insipid",
+      "meaning_uk": "прісний, несмачний",
+      "meaning_es": "soso, insípido",
+      "example": "Die Soße war leider etwas zu fade und brauchte Salz.***"
+    },
+    {
+      "term": "die Mürbheit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Zartheit, leichte Zerbrechlichkeit (Teig, Gebäck)",
+      "meaning_en": "tenderness, crumbliness",
+      "meaning_uk": "крихкість, розсипчастість",
+      "meaning_es": "ternura, fragilidad (de masa)",
+      "example": "Der Kuchen hatte eine perfekte Mürbheit, er zerfiel förmlich im Mund.***"
+    },
+    {
+      "term": "etwas (akk.) verfeinern",
+      "type": "Verb",
+      "meaning_tr": "etwas durch Zugabe besonderer Zutaten verbessern/edler machen",
+      "meaning_en": "to refine, to enhance",
+      "meaning_uk": "вдосконалювати, підносити (смак)",
+      "meaning_es": "refinar, mejorar (sabor)",
+      "example": "Er verfeinerte die Vinaigrette mit einem Schuss Balsamico-Essig.***"
+    },
+    {
+      "term": "die Süffigkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "leichte Trinkbarkeit (Wein, Bier)",
+      "meaning_en": "drinkability, easy-drinking quality",
+      "meaning_uk": "питковість (про напої)",
+      "meaning_es": "facilidad para beber",
+      "example": "Der junge Wein beeindruckte durch seine hohe Süffigkeit.***"
+    },
+    {
+      "term": "die Veredelung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "der Prozess der Qualitätsverbesserung (z.B. bei Kaffee oder Schokolade)",
+      "meaning_en": "refinement, upgrading",
+      "meaning_uk": "удосконалення, обробка для підвищення якості",
+      "meaning_es": "refinamiento, nobleza",
+      "example": "Die Veredelung der Kakaobohnen bestimmt den späteren Schokoladengeschmack.***"
+    },
+    {
+      "term": "der Biss",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Festigkeit beim Kauen (z.B. von Gemüse oder Pasta)",
+      "meaning_en": "bite, firmness (al dente)",
+      "meaning_uk": "твердість (при жуванні), аль денте",
+      "meaning_es": "mordida, firmeza",
+      "example": "Die Pasta hatte genau den richtigen Biss, sie war perfekt al dente.***"
+    },
+    {
+      "term": "etwas (akk.) zentrifugieren",
+      "type": "Verb",
+      "meaning_tr": "durch Zentrifugalkraft trennen (Saft gewinnen)",
+      "meaning_en": "to centrifuge",
+      "meaning_uk": "центрифугувати",
+      "meaning_es": "centrifugar",
+      "example": "Um den reinen Saft zu gewinnen, muss Obst zentrifugiert werden.***"
+    },
+    {
+      "term": "das Degustieren",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "gezieltes Probieren und Bewerten (Wein, Käse)",
+      "meaning_en": "tasting, savouring",
+      "meaning_uk": "дегустація",
+      "meaning_es": "cata, degustación",
+      "example": "Das Degustieren alter Käsesorten war ein Erlebnis für sich.***"
+    },
+    {
+      "term": "das Bouquet",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "Gesamtheit der Geruchsstoffe (besonders Wein)",
+      "meaning_en": "bouquet (of wine)",
+      "meaning_uk": "букет (аромат вина)",
+      "meaning_es": "bouquet, aroma",
+      "example": "Der Sommelier beschrieb das Bouquet des Bordeaux als komplex und vielschichtig.***"
+    },
+    {
+      "term": "adstringierend",
+      "type": "Adjektiv",
+      "meaning_tr": "zusammenziehend im Mund (oft bei sehr jungen Rotweinen oder unreifen Früchten)",
+      "meaning_en": "astringent",
+      "meaning_uk": "в'яжучий",
+      "meaning_es": "astringente",
+      "example": "Der junge Tannin-reiche Wein war leicht adstringierend auf der Zunge.***"
+    },
+    {
+      "term": "die Balance",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Harmonie zwischen Süße, Säure, Bitterkeit etc.",
+      "meaning_en": "balance",
+      "meaning_uk": "баланс",
+      "meaning_es": "equilibrio",
+      "example": "Die perfekte Balance von Süße und Säure machte den Nachtisch unwiderstehlich.***"
+    },
+    {
+      "term": "die Persistenz",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "die Länge des Nachgeschmacks (Wein)",
+      "meaning_en": "persistence, finish (aftertaste)",
+      "meaning_uk": "довготривалість (післясмаку)",
+      "meaning_es": "persistencia, retrogusto",
+      "example": "Ein guter Wein zeichnet sich durch eine lange Persistenz aus.***"
+    },
+    {
+      "term": "die Textur",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Oberflächenbeschaffenheit, Haptik des Essens",
+      "meaning_en": "texture",
+      "meaning_uk": "текстура",
+      "meaning_es": "textura",
+      "example": "Die Textur des Risottos muss cremig sein, nicht klebrig.***"
+    },
+    {
+      "term": "kandieren",
+      "type": "Verb",
+      "meaning_tr": "in Zuckersirup kochen, um sie haltbar und süß zu machen",
+      "meaning_en": "to candy",
+      "meaning_uk": "кандувати, зацукровувати",
+      "meaning_es": "confitar, azucarar",
+      "example": "Die Orangenschalen wurden in Sirup kandiert.***"
+    },
+    {
+      "term": "die Komplexität",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Vielschichtigkeit der Aromen",
+      "meaning_en": "complexity",
+      "meaning_uk": "складність, багатогранність (смаку)",
+      "meaning_es": "complejidad",
+      "example": "Der gereifte Käse zeigte eine unerwartete Komplexität im Geschmacksprofil.***"
+    },
+    {
+      "term": "reduzieren",
+      "type": "Verb",
+      "meaning_tr": "Flüssigkeit durch Kochen eindicken",
+      "meaning_en": "to reduce (liquid)",
+      "meaning_uk": "уварювати, редукувати",
+      "meaning_es": "reducir",
+      "example": "Die Sauce musste noch etwas einkochen, sie musste reduziert werden.***"
+    },
+    {
+      "term": "die Gerbstoffe",
+      "type": "Substantiv, Plural",
+      "meaning_tr": "Tannine, die für das trockene Gefühl im Mund verantwortlich sind",
+      "meaning_en": "tannins",
+      "meaning_uk": "дубильні речовини, таніни",
+      "meaning_es": "taninos",
+      "example": "Die hohen Gerbstoffe im Wein binden sich an Proteine im Fleisch.***"
+    },
+    {
+      "term": "das Püree",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "fein zerdrücktes Gemüse oder Obst",
+      "meaning_en": "purée",
+      "meaning_uk": "пюре",
+      "meaning_es": "puré",
+      "example": "Dazu servierten wir ein samtiges Selleriepüree.***"
+    },
+    {
+      "term": "der Schmelz",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "die Art, wie etwas auf der Zunge zergeht (z.B. Fett oder Schokolade)",
+      "meaning_en": "melt, smoothness (of fat/chocolate)",
+      "meaning_uk": "здатність танути, плавкість",
+      "meaning_es": "capacidad de fundirse",
+      "example": "Hochwertige Schokolade zeichnet sich durch ihren feinen Schmelz aus.***"
+    },
+    {
+      "term": "die Emulsion",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "stabile Mischung aus zwei nicht mischbaren Flüssigkeiten (z.B. Mayonnaise)",
+      "meaning_en": "emulsion",
+      "meaning_uk": "емульсія",
+      "meaning_es": "emulsión",
+      "example": "Eine stabile Emulsion ist die Grundlage jeder guten Mayonnaise.***"
+    },
+    {
+      "term": "etwas (akk.) mazerieren",
+      "type": "Verb",
+      "meaning_tr": "in Flüssigkeit einlegen, um Aromen freizusetzen",
+      "meaning_en": "to macerate",
+      "meaning_uk": "мацерирувати, настоювати",
+      "meaning_es": "macerar",
+      "example": "Die Beeren wurden in Rum eingelegt, um sie für den Kuchen zu mazerieren.***"
+    },
+    {
+      "term": "die Viskosität",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Zähflüssigkeit",
+      "meaning_en": "viscosity",
+      "meaning_uk": "в'язкість",
+      "meaning_es": "viscosidad",
+      "example": "Die hohe Viskosität der Honigsorte machte das Portionieren schwierig.***"
+    },
+    {
+      "term": "die Kruste",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "die feste Außenschicht (Brot, Braten)",
+      "meaning_en": "crust",
+      "meaning_uk": "скоринка",
+      "meaning_es": "corteza",
+      "example": "Die Kruste des Sauerteigbrotes war schön dick und knusprig.***"
+    },
+    {
+      "term": "herb",
+      "type": "Adjektiv",
+      "meaning_tr": "leicht bitter, säuerlich und erfrischend (z.B. Grapefruit, Bier)",
+      "meaning_en": "tart, sharp, astringent",
+      "meaning_uk": "терпкий, гіркуватий",
+      "meaning_es": "ácido, áspero",
+      "example": "Ich mag den herben Geschmack von Tonic Water lieber als süße Limonaden.***"
+    },
+    {
+      "term": "die Aromatisierung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "die gezielte Zugabe von Geruchs- und Geschmacksstoffen",
+      "meaning_en": "flavoring",
+      "meaning_uk": "ароматизація",
+      "meaning_es": "aromatización",
+      "example": "Die Aromatisierung des Tees mit Bergamotteöl ist charakteristisch für Earl Grey.***"
+    },
+    {
+      "term": "durchziehen lassen",
+      "type": "Phrasenverb",
+      "meaning_tr": "Marinaden oder Gewürze einwirken lassen",
+      "meaning_en": "to let marinate, to let flavors infuse",
+      "meaning_uk": "давати настоятися",
+      "meaning_es": "dejar marinar, dejar reposar",
+      "example": "Der Braten muss mindestens zwölf Stunden im Rotweinbad durchziehen.***"
+    },
+    {
+      "term": "die Infusion",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Aufguss (Kräuter, Tee)",
+      "meaning_en": "infusion",
+      "meaning_uk": "настій, заварка",
+      "meaning_es": "infusión",
+      "example": "Nach dem Essen trank sie eine beruhigende Kräuterinfusion.***"
+    },
+    {
+      "term": "der Nachgeschmack",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Geschmackseindruck, der nach dem Schlucken im Mund verbleibt",
+      "meaning_en": "aftertaste, finish",
+      "meaning_uk": "післясмак",
+      "meaning_es": "regusto, retrogusto",
+      "example": "Der dunkle Schokolade hinterließ einen lang anhaltenden, würzigen Nachgeschmack.***"
+    },
+    {
+      "term": "die Konservierung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Haltbarmachung von Lebensmitteln (Pökeln, Einlegen)",
+      "meaning_en": "preservation",
+      "meaning_uk": "консервація",
+      "meaning_es": "conservación",
+      "example": "Die traditionelle Methode der Konservierung war das Einlegen in Essig.***"
+    },
+    {
+      "term": "die Körnigkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "das Vorhandensein kleiner Partikel (Textur)",
+      "meaning_en": "graininess",
+      "meaning_uk": "зернистість",
+      "meaning_es": "granulosidad",
+      "example": "Er mochte die leichte Körnigkeit des selbstgemachten Senfs.***"
+    },
+    {
+      "term": "die Sämigkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "cremige, dicke Konsistenz",
+      "meaning_en": "creaminess",
+      "meaning_uk": "вершковість, густота",
+      "meaning_es": "cremosidad",
+      "example": "Die Sämigkeit der Sauce war perfekt, sie haftete gut am Fleisch.***"
+    },
+    {
+      "term": "etwas (akk.) aufschlagen",
+      "type": "Verb",
+      "meaning_tr": "durch schnelles Rühren Luft einarbeiten (Eischnee, Sahne)",
+      "meaning_en": "to whip",
+      "meaning_uk": "збивати",
+      "meaning_es": "batir",
+      "example": "Man muss das Eiweiß steif schlagen, um festen Eischnee zu erhalten.***"
+    },
+    {
+      "term": "die Mazeration",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "das Einlegen von Früchten in Alkohol oder Sirup",
+      "meaning_en": "maceration",
+      "meaning_uk": "мацерація, настоювання",
+      "meaning_es": "maceración",
+      "example": "Die Mazeration der Kirschen im Kirschwasser dauert mehrere Wochen.***"
+    },
+    {
+      "term": "die Würzigkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Intensität des Gewürzgeschmacks",
+      "meaning_en": "spiciness, savoriness",
+      "meaning_uk": "пряність, пікантність",
+      "meaning_es": "sabor especiado, intensidad",
+      "example": "Er lobte die angenehme Würzigkeit des Currys.***"
+    },
+    {
+      "term": "etwas (akk.) temperieren",
+      "type": "Verb",
+      "meaning_tr": "auf eine bestimmte, konstante Temperatur bringen (z.B. Schokolade oder Wein)",
+      "meaning_en": "to temper",
+      "meaning_uk": "темперувати",
+      "meaning_es": "atemperar",
+      "example": "Um glänzende Tafeln zu erhalten, muss man die Kuvertüre richtig temperieren.***"
+    },
+    {
+      "term": "die Kohlensäure",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "Gas in Sprudelgetränken",
+      "meaning_en": "carbonic acid, carbonation",
+      "meaning_uk": "вуглекислота, газ",
+      "meaning_es": "dióxido de carbono, gasificación",
+      "example": "Manche Menschen vertragen die hohe Kohlensäure im Mineralwasser nicht.***"
+    },
+    {
+      "term": "die Reifung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "der Prozess der Geschmacksentwicklung (Käse, Wein, Fleisch)",
+      "meaning_en": "maturation, aging",
+      "meaning_uk": "дозрівання",
+      "meaning_es": "maduración",
+      "example": "Die Qualität des Käses hängt stark von der Dauer der Reifung ab.***"
+    },
+    {
+      "term": "das Coulis",
+      "type": "Substantiv, neutral",
+      "meaning_tr": "pürierter, gesüßter Fruchtspiegel",
+      "meaning_en": "coulis (fruit sauce)",
+      "meaning_uk": "кулі (фруктовий соус)",
+      "meaning_es": "coulis",
+      "example": "Zum Abschluss gab es Vanilleeis mit einem frischen Himbeer-Coulis.***"
+    },
+    {
+      "term": "der Geschmacksträger",
+      "type": "Substantiv, maskulin",
+      "meaning_tr": "Bestandteil, der Aromen transportiert (Fett, Alkohol)",
+      "meaning_en": "flavor carrier",
+      "meaning_uk": "носій смаку",
+      "meaning_es": "portador de sabor",
+      "example": "Fett ist ein wichtiger Geschmacksträger für viele Aromen.***"
+    },
+    {
+      "term": "die Garzeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "die Zeit, die zum Kochen eines Lebensmittels benötigt wird",
+      "meaning_en": "cooking time",
+      "meaning_uk": "час приготування",
+      "meaning_es": "tiempo de cocción",
+      "example": "Um die Zartheit zu garantieren, sollte man die empfohlene Garzeit einhalten.***"
+    },
+    {
+      "term": "die Aromafreisetzung",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "der Moment, in dem Geruchsstoffe wahrgenommen werden",
+      "meaning_en": "flavor release",
+      "meaning_uk": "вивільнення аромату",
+      "meaning_es": "liberación de aroma",
+      "example": "Die Aromafreisetzung beim Kauen ist entscheidend für das Geschmackserlebnis.***"
+    },
+    {
+      "term": "die Konfektionsgröße",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "die standardisierte Größe von Süßwaren oder Gebäck",
+      "meaning_en": "standard size (of confectionery)",
+      "meaning_uk": "стандартний розмір (кондитерських виробів)",
+      "meaning_es": "talla estándar (de confitería)",
+      "example": "Die Pralinen wurden in einer speziellen Konfektionsgröße angeboten.***"
+    },
+    {
+      "term": "die Tiefe",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "geschmackliche Komplexität und Intensität",
+      "meaning_en": "depth (of flavor)",
+      "meaning_uk": "глибина (смаку)",
+      "meaning_es": "profundidad (de sabor)",
+      "example": "Der alte Balsamico-Essig hatte eine unglaubliche geschmackliche Tiefe.***"
+    },
+    {
+      "term": "die Reduktion",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "eingekochte Flüssigkeit (oft intensiv im Geschmack)",
+      "meaning_en": "reduction",
+      "meaning_uk": "увар",
+      "meaning_es": "reducción",
+      "example": "Wir beträufelten das Fleisch mit einer kräftigen Rotwein-Reduktion.***"
+    },
+    {
+      "term": "die Tannin-Struktur",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "die Art und Weise, wie die Gerbstoffe im Wein wahrgenommen werden",
+      "meaning_en": "tannin structure",
+      "meaning_uk": "танінна структура",
+      "meaning_es": "estructura tánica",
+      "example": "Experten diskutierten über die feine, seidige Tannin-Struktur dieses Barolos.***"
+    },
+    {
+      "term": "die Fruchtigkeit",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "das Vorhandensein von deutlichen Fruchtaromen",
+      "meaning_en": "fruitiness",
+      "meaning_uk": "фруктовість",
+      "meaning_es": "frutalidad",
+      "example": "Der junge Wein zeichnete sich durch seine ausgeprägte Fruchtigkeit aus.***"
+    },
+    {
+      "term": "die Aromatik",
+      "type": "Substantiv, feminin",
+      "meaning_tr": "die Gesamtheit der wahrnehmbaren Duft- und Geschmacksstoffe",
+      "meaning_en": "aromatics",
+      "meaning_uk": "ароматичний профіль",
+      "meaning_es": "aromática",
+      "example": "Die komplexe Aromatik des gereiften Käses war beeindruckend.***"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "title": "Grundlagen & Begrüßung A2",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "Wie geht es Ihnen?",
+      "type": "Phrase",
+      "meaning_tr": "Nasılsınız?",
+      "meaning_en": "How are you? (formal)",
+      "meaning_uk": "Як справи? (формально)",
+      "meaning_es": "¿Cómo está usted?",
+      "example": "Guten Tag, Herr Schmidt. ***Wie geht es Ihnen?***"
+    },
+    {
+      "term": "Mir geht es gut.",
+      "type": "Phrase",
+      "meaning_tr": "İyiyim.",
+      "meaning_en": "I am fine.",
+      "meaning_uk": "Мені добре.",
+      "meaning_es": "Estoy bien.",
+      "example": "Danke der Nachfrage, ***mir geht es gut.***"
+    },
+    {
+      "term": "Auf Wiedersehen",
+      "type": "Greeting",
+      "meaning_tr": "Hoşça kalın",
+      "meaning_en": "Goodbye (formal)",
+      "meaning_uk": "До побачення (формально)",
+      "meaning_es": "Adiós (formal)",
+      "example": "Ich muss jetzt gehen. ***Auf Wiedersehen!***"
+    },
+    {
+      "term": "Tschüss",
+      "type": "Greeting",
+      "meaning_tr": "Güle güle",
+      "meaning_en": "Bye (informal)",
+      "meaning_uk": "Бувай (неформально)",
+      "meaning_es": "Chao / Hasta luego (informal)",
+      "example": "Bis morgen, Anna! ***Tschüss!***"
+    },
+    {
+      "term": "Entschuldigung",
+      "type": "Interjection",
+      "meaning_tr": "Affedersiniz",
+      "meaning_en": "Excuse me / Sorry",
+      "meaning_uk": "Вибачте",
+      "meaning_es": "Disculpe / Perdón",
+      "example": "***Entschuldigung***, könnten Sie mir helfen?"
+    },
+    {
+      "term": "die Vorstellung",
+      "type": "Noun (f)",
+      "meaning_tr": "tanıtma, sunum",
+      "meaning_en": "introduction",
+      "meaning_uk": "представлення",
+      "meaning_es": "la presentación",
+      "example": "Die ***Vorstellung*** dauert ungefähr zehn Minuten."
+    },
+    {
+      "term": "sich vorstellen",
+      "type": "Verb (reflexive)",
+      "meaning_tr": "kendini tanıtmak",
+      "meaning_en": "to introduce oneself",
+      "meaning_uk": "представлятися",
+      "meaning_es": "presentarse",
+      "example": "Darf ich ***mich vorstellen***?"
+    },
+    {
+      "term": "der Name",
+      "type": "Noun (m)",
+      "meaning_tr": "isim",
+      "meaning_en": "name",
+      "meaning_uk": "ім'я",
+      "meaning_es": "el nombre",
+      "example": "Wie ist ***Ihr Name***, bitte?"
+    },
+    {
+      "term": "heißen",
+      "type": "Verb",
+      "meaning_tr": "adı olmak",
+      "meaning_en": "to be called",
+      "meaning_uk": "зватися",
+      "meaning_es": "llamarse",
+      "example": "Ich ***heiße*** Markus und Sie?"
+    },
+    {
+      "term": "woher",
+      "type": "Adverb",
+      "meaning_tr": "nereden",
+      "meaning_en": "from where",
+      "meaning_uk": "звідки",
+      "meaning_es": "de dónde",
+      "example": "***Woher*** kommen Sie?"
+    },
+    {
+      "term": "die Herkunft",
+      "type": "Noun (f)",
+      "meaning_tr": "köken",
+      "meaning_en": "origin",
+      "meaning_uk": "походження",
+      "meaning_es": "el origen",
+      "example": "Können Sie mir etwas über ***Ihre Herkunft*** erzählen?"
+    },
+    {
+      "term": "die Sprache",
+      "type": "Noun (f)",
+      "meaning_tr": "dil",
+      "meaning_en": "language",
+      "meaning_uk": "мова",
+      "meaning_es": "el idioma",
+      "example": "Welche ***Sprachen*** sprechen Sie?"
+    },
+    {
+      "term": "sprechen",
+      "type": "Verb",
+      "meaning_tr": "konuşmak",
+      "meaning_en": "to speak",
+      "meaning_uk": "говорити",
+      "meaning_es": "hablar",
+      "example": "Ich kann nur ein bisschen Deutsch ***sprechen***."
+    },
+    {
+      "term": "verstehen",
+      "type": "Verb",
+      "meaning_tr": "anlamak",
+      "meaning_en": "to understand",
+      "meaning_uk": "розуміти",
+      "meaning_es": "entender",
+      "example": "Verstehen Sie mich gut? ***Verstehen Sie mich gut?***"
+    },
+    {
+      "term": "noch einmal",
+      "type": "Phrase",
+      "meaning_tr": "bir daha",
+      "meaning_en": "once again",
+      "meaning_uk": "ще раз",
+      "meaning_es": "otra vez",
+      "example": "Könnten Sie das bitte ***noch einmal*** sagen?"
+    },
+    {
+      "term": "die Bitte",
+      "type": "Noun (f)",
+      "meaning_tr": "rica",
+      "meaning_en": "request / favor",
+      "meaning_uk": "прохання",
+      "meaning_es": "la petición",
+      "example": "Ich habe eine kleine ***Bitte*** an Sie."
+    },
+    {
+      "term": "der Platz",
+      "type": "Noun (m)",
+      "meaning_tr": "yer",
+      "meaning_en": "seat / place",
+      "meaning_uk": "місце",
+      "meaning_es": "el asiento / lugar",
+      "example": "Ist ***dieser Platz*** noch frei?"
+    },
+    {
+      "term": "sich bedanken",
+      "type": "Verb (reflexive)",
+      "meaning_tr": "teşekkür etmek",
+      "meaning_en": "to thank (someone)",
+      "meaning_uk": "дякувати",
+      "meaning_es": "agradecer",
+      "example": "Ich möchte ***mich*** bei Ihnen ***bedanken***."
+    },
+    {
+      "term": "gern geschehen",
+      "type": "Phrase",
+      "meaning_tr": "rica ederim",
+      "meaning_en": "You're welcome (happily done)",
+      "meaning_uk": "Будь ласка (із задоволенням)",
+      "meaning_es": "De nada (con gusto)",
+      "example": "Danke für die Hilfe! – ***Gern geschehen!***"
+    },
+    {
+      "term": "wie viel",
+      "type": "Question word",
+      "meaning_tr": "ne kadar",
+      "meaning_en": "how much",
+      "meaning_uk": "скільки",
+      "meaning_es": "cuánto",
+      "example": "***Wie viel*** kostet das?"
+    }
+  ]
+}

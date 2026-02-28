@@ -1,0 +1,276 @@
+{
+  "title": "Einkaufen & Geld B1",
+  "language": "de",
+  "vocabulary": [
+    {
+      "term": "der Einkauf",
+      "type": "Noun, masculine",
+      "meaning_tr": "alışveriş",
+      "meaning_en": "the shopping",
+      "meaning_uk": "шопінг",
+      "meaning_es": "la compra",
+      "example": "Ich mache heute Abend ***den Einkauf*** für die ganze Woche."
+    },
+    {
+      "term": "einkaufen gehen",
+      "type": "Verb, separable",
+      "meaning_tr": "alışverişe gitmek",
+      "meaning_en": "to go shopping",
+      "meaning_uk": "ходити за покупками",
+      "meaning_es": "ir de compras",
+      "example": "Wir müssen morgen früh ***einkaufen gehen***."
+    },
+    {
+      "term": "der Supermarkt",
+      "type": "Noun, masculine",
+      "meaning_tr": "süpermarket",
+      "meaning_en": "the supermarket",
+      "meaning_uk": "супермаркет",
+      "meaning_es": "el supermercado",
+      "example": "Der neue ***Supermarkt*** hat eine tolle Obstabteilung."
+    },
+    {
+      "term": "das Geschäft / die Geschäfte",
+      "type": "Noun, neuter/plural",
+      "meaning_tr": "dükkan",
+      "meaning_en": "the shop / store",
+      "meaning_uk": "магазин",
+      "meaning_es": "la tienda",
+      "example": "Alle ***Geschäfte*** sind sonntags geschlossen."
+    },
+    {
+      "term": "die Rechnung",
+      "type": "Noun, feminine",
+      "meaning_tr": "hesap",
+      "meaning_en": "the bill / invoice",
+      "meaning_uk": "рахунок",
+      "meaning_es": "la factura",
+      "example": "Können wir bitte ***die Rechnung*** haben?"
+    },
+    {
+      "term": "bezahlen",
+      "type": "Verb",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to pay",
+      "meaning_uk": "платити",
+      "meaning_es": "pagar",
+      "example": "Ich möchte bar ***bezahlen***."
+    },
+    {
+      "term": "mit Karte zahlen",
+      "type": "Phrase",
+      "meaning_tr": "kartla ödemek",
+      "meaning_en": "to pay by card",
+      "meaning_uk": "платити карткою",
+      "meaning_es": "pagar con tarjeta",
+      "example": "Ist es möglich, hier ***mit Karte zu zahlen***?"
+    },
+    {
+      "term": "das Bargeld",
+      "type": "Noun, neuter",
+      "meaning_tr": "nakit para",
+      "meaning_en": "the cash",
+      "meaning_uk": "готівка",
+      "meaning_es": "el efectivo",
+      "example": "Ich habe leider kein ***Bargeld*** dabei."
+    },
+    {
+      "term": "der Preis",
+      "type": "Noun, masculine",
+      "meaning_tr": "fiyat",
+      "meaning_en": "the price",
+      "meaning_uk": "ціна",
+      "meaning_es": "el precio",
+      "example": "Was ist ***der Preis*** für dieses T-Shirt?"
+    },
+    {
+      "term": "billig",
+      "type": "Adjective",
+      "meaning_tr": "ucuz",
+      "meaning_en": "cheap",
+      "meaning_uk": "дешевий",
+      "meaning_es": "barato",
+      "example": "Diese Äpfel sind heute sehr ***billig***."
+    },
+    {
+      "term": "teuer",
+      "type": "Adjective",
+      "meaning_tr": "pahalı",
+      "meaning_en": "expensive",
+      "meaning_uk": "дорогий",
+      "meaning_es": "caro",
+      "example": "Das neue Handy ist mir zu ***teuer***."
+    },
+    {
+      "term": "das Angebot / die Angebote",
+      "type": "Noun, neuter/plural",
+      "meaning_tr": "indirim, kampanya",
+      "meaning_en": "the special offer / deal",
+      "meaning_uk": "акція",
+      "meaning_es": "la oferta",
+      "example": "Achten Sie auf die aktuellen ***Angebote*** in der Zeitung."
+    },
+    {
+      "term": "reduziert",
+      "type": "Adjective / Participle",
+      "meaning_tr": "indirimli",
+      "meaning_en": "reduced (in price)",
+      "meaning_uk": "зі знижкою",
+      "meaning_es": "rebajado",
+      "example": "Alle Wintersachen sind jetzt ***reduziert***."
+    },
+    {
+      "term": "die Quittung",
+      "type": "Noun, feminine",
+      "meaning_tr": "fiş",
+      "meaning_en": "the receipt",
+      "meaning_uk": "чек",
+      "meaning_es": "el recibo",
+      "example": "Heben Sie ***die Quittung*** gut auf, falls Sie umtauschen müssen."
+    },
+    {
+      "term": "das Wechselgeld",
+      "type": "Noun, neuter",
+      "meaning_tr": "para üstü",
+      "meaning_en": "the change (money)",
+      "meaning_uk": "решта",
+      "meaning_es": "el cambio",
+      "example": "Ich habe Ihnen 50 Euro gegeben, hier ist ***das Wechselgeld***."
+    },
+    {
+      "term": "umtauschen",
+      "type": "Verb, separable",
+      "meaning_tr": "değiştirmek",
+      "meaning_en": "to exchange (goods)",
+      "meaning_uk": "обміняти",
+      "meaning_es": "cambiar",
+      "example": "Kann ich diese Hose im Laden ***umtauschen***?"
+    },
+    {
+      "term": "die Größe",
+      "type": "Noun, feminine",
+      "meaning_tr": "beden",
+      "meaning_en": "the size",
+      "meaning_uk": "розмір",
+      "meaning_es": "la talla",
+      "example": "Haben Sie dieses Hemd in einer größeren ***Größe***?"
+    },
+    {
+      "term": "die Auswahl",
+      "type": "Noun, feminine",
+      "meaning_tr": "seçim, çeşitlilik",
+      "meaning_en": "the selection / choice",
+      "meaning_uk": "вибір",
+      "meaning_es": "la selección",
+      "example": "Dieser Laden hat eine riesige ***Auswahl*** an Käse."
+    },
+    {
+      "term": "der Kunde / die Kunden",
+      "type": "Noun, masculine/plural",
+      "meaning_tr": "müşteri",
+      "meaning_en": "the customer",
+      "meaning_uk": "клієнт",
+      "meaning_es": "el cliente",
+      "example": "Der ***Kunde*** beschwerte sich über die lange Wartezeit."
+    },
+    {
+      "term": "die Warteschlange",
+      "type": "Noun, feminine",
+      "meaning_tr": "sıra",
+      "meaning_en": "the queue / line",
+      "meaning_uk": "черга",
+      "meaning_es": "la cola",
+      "example": "Es gab eine lange ***Warteschlange*** an der Kasse."
+    },
+    {
+      "term": "der Geldautomat",
+      "type": "Noun, masculine",
+      "meaning_tr": "ATM, para çekme makinesi",
+      "meaning_en": "the ATM (Automatic Teller Machine)",
+      "meaning_uk": "банкомат",
+      "meaning_es": "el cajero automático",
+      "example": "Ich muss noch Geld abheben am ***Geldautomat***."
+    },
+    {
+      "term": "abheben",
+      "type": "Verb, separable",
+      "meaning_tr": "para çekmek",
+      "meaning_en": "to withdraw (money)",
+      "meaning_uk": "зняти (гроші)",
+      "meaning_es": "retirar",
+      "example": "Ich möchte 200 Euro ***abheben***."
+    },
+    {
+      "term": "einzahlen",
+      "type": "Verb, separable",
+      "meaning_tr": "para yatırmak",
+      "meaning_en": "to deposit (money)",
+      "meaning_uk": "внести (гроші)",
+      "meaning_es": "depositar",
+      "example": "Ich muss morgen etwas Geld auf mein Konto ***einzahlen***."
+    },
+    {
+      "term": "das Konto",
+      "type": "Noun, neuter",
+      "meaning_tr": "hesap",
+      "meaning_en": "the bank account",
+      "meaning_uk": "рахунок (в банку)",
+      "meaning_es": "la cuenta",
+      "example": "Ich habe mein ***Konto** online geprüft."
+    },
+    {
+      "term": "die Kreditkarte",
+      "type": "Noun, feminine",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "the credit card",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "la tarjeta de crédito",
+      "example": "Ich benutze fast immer meine ***Kreditkarte***."
+    },
+    {
+      "term": "der Rabatt",
+      "type": "Noun, masculine",
+      "meaning_tr": "indirim",
+      "meaning_en": "the discount",
+      "meaning_uk": "знижка",
+      "meaning_es": "el descuento",
+      "example": "Als Student bekommst du 10% ***Rabatt***."
+    },
+    {
+      "term": "die Einkaufstasche",
+      "type": "Noun, feminine",
+      "meaning_tr": "alışveriş çantası",
+      "meaning_en": "the shopping bag",
+      "meaning_uk": "сумка для покупок",
+      "meaning_es": "la bolsa de la compra",
+      "example": "Vergessen Sie nicht, Ihre wiederverwendbare ***Einkaufstasche*** mitzubringen!"
+    },
+    {
+      "term": "das Sonderangebot",
+      "type": "Noun, neuter",
+      "meaning_tr": "özel teklif",
+      "meaning_en": "the special promotion",
+      "meaning_uk": "спеціальна пропозиція",
+      "meaning_es": "la promoción especial",
+      "example": "Dieses Produkt ist nur diese Woche im ***Sonderangebot***."
+    },
+    {
+      "term": "die Bedienung",
+      "type": "Noun, feminine",
+      "meaning_tr": "servis (garson)",
+      "meaning_en": "the service (restaurant context)",
+      "meaning_uk": "обслуговування",
+      "meaning_es": "el servicio",
+      "example": "Die ***Bedienung*** war sehr freundlich und schnell."
+    },
+    {
+      "term": "die Beratung",
+      "type": "Noun, feminine",
+      "meaning_tr": "danışmanlık",
+      "meaning_en": "the advice / consultation",
+      "meaning_uk": "консультація",
+      "meaning_es": "el asesoramiento",
+      "example": "Ich brauche eine kurze ***Beratung*** wegen des neuen Smartphones."
+    }
+  ]
+}
