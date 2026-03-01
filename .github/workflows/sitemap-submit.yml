@@ -1,0 +1,21 @@
+name: Submit Sitemap to Google
+
+on:
+  push:
+    branches:
+      - main  # Sadece main branch'e push yapıldığında çalışır
+  workflow_dispatch: # Manuel olarak da tetikleyebilmen için
+
+jobs:
+  submit-sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Google Search Console
+        run: |
+          # Sitemap URL'ni buraya yaz (kendi domaininle değiştir)
+          SITEMAP_URL="https://memorlex.com/sitemap.xml"
+          
+          # Google'a ping atar
+          curl "https://www.google.com/ping?sitemap=$SITEMAP_URL"
+          
+          echo "Sitemap submitted successfully for $SITEMAP_URL"

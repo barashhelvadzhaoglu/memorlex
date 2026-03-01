@@ -1,132 +1,121 @@
 import os
 import json
 import time
-import google.generativeai as genai
+import requests
 from pathlib import Path
+from dotenv import load_dotenv
 
-# 1. API Yapılandırması
-api_key = "AIzaSyBocHnYJMTwWYVzclSyvOsHn4MYyHMGJbM"
-genai.configure(api_key=api_key)
+# .env dosyasındaki verileri yükle
+load_dotenv()
 
-def get_best_model():
-    """Sistemde çalışan en güncel flash modelini bulur."""
-    try:
-        models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
-        # Önce 1.5 flash, bulamazsa 1.0 flash, o da yoksa varsayılan
-        flash_models = [n for n in models if 'flash' in n]
-        return sorted(flash_models, reverse=True)[0] if flash_models else 'models/gemini-1.5-flash'
-    except Exception:
-        return 'models/gemini-1.5-flash'
+# 1. API Yapılandırması (Environment Variables)
+API_KEYS = [
+    os.getenv("GEMINI_API_KEY_1"),
+    os.getenv("GEMINI_API_KEY_2")
+]
+# None olanları temizle
+API_KEYS = [key for key in API_KEYS if key]
+current_key_index = 0
 
-# Dinamik model seçimi
-SELECTED_MODEL = get_best_model()
-model = genai.GenerativeModel(SELECTED_MODEL)
+def get_latest_flash_model(api_key):
+    """Kullanılabilir en güncel Gemini Flash modelini bulur."""
+    for ver in ["v1", "v1beta"]:
+        url = f"https://generativelanguage.googleapis.com/{ver}/models?key={api_key}"
+        try:
+            response = requests.get(url, timeout=10)
+            if response.status_code == 200:
+                models = response.json().get('models', [])
+                flash_models = [m['name'] for m in models if 'flash' in m['name'].lower()]
+                if flash_models:
+                    return sorted(flash_models, reverse=True)[0]
+        except: continue
+    return "models/gemini-1.5-flash"
 
-# 2. Dosya Yolları ve Dil Ayarları
-BASE_PATH = Path("src/data")
-VOCAB_PATH = BASE_PATH / "vocabulary"
-STORY_PATH = BASE_PATH / "stories"
-ALL_MEANINGS = ["tr", "en", "uk", "es", "de"]
-
-def ask_gemini_json(prompt):
-    """Gemini'den temiz JSON çıktısı alır."""
-    try:
-        time.sleep(1.5) # Rate limit koruması
-        response = model.generate_content(
-            prompt, 
-            generation_config={"response_mime_type": "application/json"}
-        )
-        return json.loads(response.text)
-    except Exception as e:
-        print(f"❌ Gemini Hatası: {e}")
-        return None
-
-def sync_all():
-    print(f"🚀 Mega Sync & Optimization System Activated...")
-    print(f"🤖 Kullanılan Model: {SELECTED_MODEL}")
+def translate_dictionary():
+    global current_key_index
     
-    # Hem vocabulary hem stories klasörlerini tara
-    for base_type in [VOCAB_PATH, STORY_PATH]:
-        if not base_type.exists():
+    base_dir = Path(__file__).parent.parent
+    # Almanca sözlük dosyasının yolu
+    dict_path = base_dir / "src" / "data" / "dictionary" / "de" / "dictionary.json"
+    
+    if not dict_path.exists():
+        print(f"❌ Sözlük dosyası bulunamadı: {dict_path}")
+        return
+
+    with open(dict_path, 'r', encoding='utf-8') as f:
+        words = json.load(f)
+
+    print(f"🔄 Toplam {len(words)} kelime kontrol ediliyor...")
+
+    for i, word_data in enumerate(words):
+        # Eğer tüm diller zaten varsa atla
+        required_keys = ['meaning_tr', 'meaning_en', 'meaning_uk', 'meaning_es']
+        if all(key in word_data for key in required_keys) and word_data.get('example'):
             continue
-        
-        # de, tr, en, es klasörlerini tek tek gez
-        for lang_folder in ["de", "tr", "en", "es"]:
-            current_path = base_type / lang_folder
-            if not current_path.exists():
-                continue
 
-            for root, _, files in os.walk(current_path):
-                for file in files:
-                    if not file.endswith(".json"):
-                        continue
-                    
-                    file_path = Path(root) / file
-                    
-                    with open(file_path, 'r', encoding='utf-8') as f:
-                        data = json.load(f)
-                    
-                    # Dosya formatına göre listeyi bul (words veya vocab)
-                    items = data.get('words') or data.get('vocab', [])
-                    if not items:
-                        continue
+        word = word_data.get('term')
+        print(f"🌐 Çevriliyor ({i+1}/{len(words)}): {word}")
 
-                    # Klasörün dilini hariç tut (Gereksiz veri tekrarını önler)
-                    target_langs = [m for m in ALL_MEANINGS if m != lang_folder]
-                    
-                    print(f"🔄 İşleniyor: {lang_folder.upper()} / {file}...")
+        success = False
+        while not success:
+            if not API_KEYS:
+                print("❌ API anahtarı bulunamadı! .env dosyasını kontrol edin.")
+                return
 
-                    # F-string hatasını önlemek için veriyi dışarıda hazırlayalım
-                    input_data = []
-                    for i in items:
-                        input_data.append({
-                            "term": i['term'],
-                            "current": {k: i.get(f'meaning_{k}') for k in target_langs}
-                        })
+            key = API_KEYS[current_key_index]
+            model_name = get_latest_flash_model(key)
+            url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={key}"
 
-                    # GÜÇLENDİRİLMİŞ PROMPT: 'meaning_es' ve 'meaning_uk' zorunlu hale getirildi.
-                    prompt = f"""
-                    Role: Professional Polyglot Linguist.
-                    Task: REVISE and ENRICH the dictionary terms.
-                    
-                    Mandatory Target Languages: {target_langs}
-                    
-                    Instructions:
-                    1. For each term, you MUST provide a meaning for ALL these languages: {target_langs}.
-                    2. MISSING FIELDS: If 'meaning_es' or 'meaning_uk' is missing in the input, you MUST create them.
-                    3. SYNONYM RULE: Use 2-3 synonyms where a single word is insufficient.
-                    4. FORMAT RULE: Strictly DO NOT use commas (,). Use ' - ' (dash with spaces) instead. (Example: 'stop - station').
-                    5. CONSISTENCY: Ensure all results are high-quality and context-appropriate.
-                    6. OUTPUT: Return ONLY a JSON object where each key is the 'term' and the value contains the translations.
-                    
-                    Input JSON: {json.dumps(input_data)}
-                    """
-                    
-                    translations = ask_gemini_json(prompt)
-                    
-                    if translations:
-                        for item in items:
-                            term = item['term']
-                            if term in translations:
-                                for lang_code in target_langs:
-                                    # Gemini'den gelen veriyi dile göre al (Örn: 'es' veya 'meaning_es')
-                                    # Hem 'es' hem 'meaning_es' anahtarlarını kontrol ederek esneklik sağlıyoruz.
-                                    val = translations[term].get(lang_code) or translations[term].get(f'meaning_{lang_code}')
-                                    if val:
-                                        item[f'meaning_{lang_code}'] = val
-                        
-                        # Data Integrity: Dosyanın kendi diline ait 'meaning_xx' alanı varsa sil (Temizlik)
-                        redundant_key = f'meaning_{lang_folder}'
-                        for item in items:
-                            if redundant_key in item:
-                                del item[redundant_key]
+            prompt = f"""
+            Translate the German word '{word}' and provide details in JSON format.
+            Required fields:
+            - meaning_tr: Turkish translation
+            - meaning_en: English translation
+            - meaning_uk: Ukrainian translation
+            - meaning_es: Spanish translation
+            - type: word type (noun, verb, adj, etc.)
+            - example: A short German example sentence.
+            
+            Return ONLY raw JSON.
+            """
 
-                        # Dosyayı orijinal formatında (indent=2) ve Türkçe karakterleri bozmadan kaydet
-                        with open(file_path, 'w', encoding='utf-8') as f:
-                            json.dump(data, f, ensure_ascii=False, indent=2)
-                        
-                        print(f"✅ {file} başarıyla zenginleştirildi (ES/UK eklendi).")
+            try:
+                response = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=30)
+                
+                if response.status_code == 200:
+                    raw_res = response.json()['candidates'][0]['content']['parts'][0]['text']
+                    clean_res = raw_res.replace("```json", "").replace("```", "").strip()
+                    translated_data = json.loads(clean_res)
+                    
+                    # Mevcut veriyi güncelle
+                    words[i].update(translated_data)
+                    
+                    # Her 5 kelimede bir dosyayı kaydet (güvenlik için)
+                    if i % 5 == 0:
+                        with open(dict_path, 'w', encoding='utf-8') as f:
+                            json.dump(words, f, ensure_ascii=False, indent=2)
+                    
+                    success = True
+                    print(f"✅ Tamamlandı: {word}")
+                
+                elif response.status_code == 429:
+                    print("⚠️ Kota doldu, anahtar değiştiriliyor...")
+                    current_key_index = (current_key_index + 1) % len(API_KEYS)
+                    time.sleep(10)
+                else:
+                    print(f"❌ Hata {response.status_code}, bekleniyor...")
+                    time.sleep(5)
+                    success = True # Hatalı kelimeyi geçmek için
+
+            except Exception as e:
+                print(f"❌ Beklenmedik Hata: {e}")
+                time.sleep(5)
+                success = True
+
+    # Final Kayıt
+    with open(dict_path, 'w', encoding='utf-8') as f:
+        json.dump(words, f, ensure_ascii=False, indent=2)
+    print("✨ Sözlük başarıyla güncellendi!")
 
 if __name__ == "__main__":
-    sync_all()
-    print("🏁 Tüm işlemler başarıyla tamamlandı.")
+    translate_dictionary()

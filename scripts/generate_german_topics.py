@@ -3,12 +3,20 @@ import json
 import time
 import requests
 from pathlib import Path
+from dotenv import load_dotenv
 
-# 1. API Yapılandırması
+# .env dosyasındaki verileri (GEMINI_API_KEY_1 vb.) sisteme yükler
+load_dotenv()
+
+# 1. API Yapılandırması (Environment Variables'dan çekiliyor)
+# Network Security Notu: Anahtarlar artık kodda değil, .env dosyasında gizli.
 API_KEYS = [
-    "AIzaSyBocHnYJMTwWYVzclSyvOsHn4MYyHMGJbM", 
-    "AIzaSyCpSxIzrwsrDCPmrH-o2D8PAZvz7axHMHE"
+    os.getenv("GEMINI_API_KEY_1"),
+    os.getenv("GEMINI_API_KEY_2")
 ]
+# Boş olanları (None) temizle
+API_KEYS = [key for key in API_KEYS if key]
+
 current_key_index = 0
 
 TOPICS = [
@@ -25,7 +33,7 @@ TOPICS = [
     ("environment", "Umwelt & Natur"), ("climate-change", "Klimawandel"),
     ("culture-traditions", "Kultur & Traditionen"), ("politics", "Politik & Staat"),
     ("law-justice", "Recht & Justiz"), ("history", "Geschichte"),
-    ("art-literature", "Kunst & Literatur"), ("music-cinema", "Musik & Kino"),
+    ("art-literature", "Kunst & Literature"), ("music-cinema", "Musik & Kino"),
     ("psychology", "Psychologie & Gefühle"), ("philosophy", "Philosophie & Werte"),
     ("religion-spirituality", "Religion & Spiritualität"), ("science-research", "Wissenschaft & Forschung"),
     ("society-problems", "Gesellschaftliche Probleme"), ("globalization", "Globalisierung"),
@@ -56,12 +64,10 @@ def is_file_valid(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            # Eğer liste boşsa veya içinde gerekli dillerden biri bile eksikse False döner
             if not isinstance(data, list) or len(data) == 0:
                 return False
             
             required_keys = ['meaning_tr', 'meaning_en', 'meaning_uk', 'meaning_es', 'example']
-            # İlk 3 kelimeyi örneklem olarak kontrol etmesi yeterli (hız için)
             for item in data[:3]:
                 if not all(key in item for key in required_keys):
                     return False
@@ -77,18 +83,18 @@ def generate_unit(lang, topic_key, topic_name, level):
     save_path.mkdir(parents=True, exist_ok=True)
     file_path = save_path / f"{topic_key}.json"
 
-    # ✅ DOSYA KONTROLÜ (İÇERİK ANALİZİ)
     if is_file_valid(file_path):
-        print(f"⏩ Atlanıyor (Veri Tam): {topic_key} ({level})")
+        print(f"⏩ Atlanıyor: {topic_key} ({level})")
         return
-    else:
-        print(f"🔄 Eksik veya Hatalı Veri Tespit Edildi: {topic_key} ({level}) Yenileniyor...")
 
-    # Seviyeye göre kelime sayıları
     word_count = {"a1": 15, "a2": 25, "b1": 35, "b2": 45, "c1": 60}.get(level.lower(), 30)
     success = False
     
     while not success:
+        if not API_KEYS:
+            print("❌ HATA: API_KEYS listesi boş! .env dosyasını kontrol et.")
+            return
+
         key = API_KEYS[current_key_index]
         model_name = get_latest_flash_model(key)
         url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={key}"
@@ -99,27 +105,13 @@ def generate_unit(lang, topic_key, topic_name, level):
         1. Include exactly {word_count} unique items.
         2. 'term' field MUST include articles for nouns (der/die/das).
         3. Provide meanings in 4 languages: 'meaning_tr' (Turkish), 'meaning_en' (English), 'meaning_uk' (Ukrainian), 'meaning_es' (Spanish).
-        4. Include 'type' (noun, verb, etc.) and a German 'example' sentence.
         Return ONLY a raw JSON array.
-        Format:
-        [
-          {{
-            "term": "das Beispiel",
-            "type": "noun",
-            "meaning_tr": "örnek",
-            "meaning_en": "example",
-            "meaning_uk": "приклад",
-            "meaning_es": "ejemplo",
-            "example": "Dies ist ein gutes Beispiel."
-          }}
-        ]
         """
 
         try:
             response = requests.post(url, json={"contents": [{"parts": [{"text": prompt_text}]}]}, timeout=60)
-            res_json = response.json()
-
             if response.status_code == 200:
+                res_json = response.json()
                 raw_text = res_json['candidates'][0]['content']['parts'][0]['text']
                 clean_json = raw_text.replace("```json", "").replace("```", "").strip()
                 data = json.loads(clean_json)
