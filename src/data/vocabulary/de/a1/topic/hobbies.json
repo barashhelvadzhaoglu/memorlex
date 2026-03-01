@@ -1,77 +1,141 @@
 {
-  "title": "Hobbys & Freizeit",
-  "items": [
+  "title": "Hobbys & Freizeit (A1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Hobby",
+      "type": "Noun",
+      "example": "Mein Lieblings-*** ist Lesen.",
+      "meaning_tr": "Hobi",
+      "meaning_en": "Hobby",
+      "meaning_uk": "Хобі",
+      "meaning_es": "Afición"
+    },
+    {
+      "term": "die Freizeit",
+      "type": "Noun",
+      "example": "Was machst du in deiner ***?",
+      "meaning_tr": "Boş zaman",
+      "meaning_en": "Free time",
+      "meaning_uk": "Вільний час",
+      "meaning_es": "Tiempo libre"
+    },
+    {
+      "term": "spielen",
+      "type": "Verb",
+      "example": "Er kann gut Fußball ***.",
+      "meaning_tr": "Oynamak",
+      "meaning_en": "To play",
+      "meaning_uk": "Грати",
+      "meaning_es": "Jugar"
+    },
     {
       "term": "lesen",
       "type": "Verb",
-      "meaning_tr": "to read",
-      "example": "Ich lese gern Bücher."
+      "example": "Ich möchte ein gutes Buch ***.",
+      "meaning_tr": "Okumak",
+      "meaning_en": "To read",
+      "meaning_uk": "Читати",
+      "meaning_es": "Leer"
     },
     {
-      "term": "Musik hören",
-      "type": "Phrase",
-      "meaning_tr": "to listen to music",
-      "example": "Sie hört oft Musik."
-    },
-    {
-      "term": "schwimmen",
+      "term": "hören",
       "type": "Verb",
-      "meaning_tr": "to swim",
-      "example": "Wir gehen ins Schwimmbad."
+      "example": "Sie *** gern Musik.",
+      "meaning_tr": "Dinlemek",
+      "meaning_en": "To listen",
+      "meaning_uk": "Слухати",
+      "meaning_es": "Escuchar"
     },
     {
-      "term": "Fußball spielen",
-      "type": "Phrase",
-      "meaning_tr": "to play soccer/football",
-      "example": "Er spielt Fußball am Wochenende."
-    },
-    {
-      "term": "malen",
+      "term": "sehen",
       "type": "Verb",
-      "meaning_tr": "to paint",
-      "example": "Das Kind malt ein Bild."
+      "example": "Wir *** am Abend einen Film.",
+      "meaning_tr": "Görmek/İzlemek",
+      "meaning_en": "To see/watch",
+      "meaning_uk": "Бачити/Дивитися",
+      "meaning_es": "Ver"
     },
     {
-      "term": "kochen",
+      "term": "machen",
       "type": "Verb",
-      "meaning_tr": "to cook",
-      "example": "Ich koche gern italienisch."
+      "example": "Was *** wir heute Abend?",
+      "meaning_tr": "Yapmak",
+      "meaning_en": "To do/make",
+      "meaning_uk": "Робити",
+      "meaning_es": "Hacer"
     },
     {
-      "term": "tanzen",
+      "term": "treffen",
       "type": "Verb",
-      "meaning_tr": "to dance",
-      "example": "Möchtest du tanzen?"
+      "example": "Ich möchte meine Freunde ***.",
+      "meaning_tr": "Buluşmak",
+      "meaning_en": "To meet",
+      "meaning_uk": "Зустрічати",
+      "meaning_es": "Encontrarse/Reunirse"
     },
     {
-      "term": "reisen",
+      "term": "gehen",
       "type": "Verb",
-      "meaning_tr": "to travel",
-      "example": "Wir reisen gern nach Spanien."
+      "example": "Wir *** oft ins Kino.",
+      "meaning_tr": "Gitmek",
+      "meaning_en": "To go",
+      "meaning_uk": "Іти",
+      "meaning_es": "Ir"
     },
     {
-      "term": "die Pause",
+      "term": "der Sport",
       "type": "Noun",
-      "meaning_tr": "the break/recess",
-      "example": "In der Pause trinke ich Kaffee."
+      "example": "*** ist sehr gesund.",
+      "meaning_tr": "Spor",
+      "meaning_en": "Sport",
+      "meaning_uk": "Спорт",
+      "meaning_es": "Deporte"
     },
     {
-      "term": "der Film",
+      "term": "die Musik",
       "type": "Noun",
-      "meaning_tr": "the movie/film",
-      "example": "Der Film ist sehr interessant."
+      "example": "Hörst du gern ***?",
+      "meaning_tr": "Müzik",
+      "meaning_en": "Music",
+      "meaning_uk": "Музика",
+      "meaning_es": "Música"
     },
     {
-      "term": "Freizeit",
+      "term": "das Buch",
       "type": "Noun",
-      "meaning_tr": "free time",
-      "example": "Was machst du in deiner Freizeit?"
+      "example": "Ich lese gerade ein spannendes ***.",
+      "meaning_tr": "Kitap",
+      "meaning_en": "Book",
+      "meaning_uk": "Книга",
+      "meaning_es": "Libro"
     },
     {
-      "term": "spazieren gehen",
-      "type": "Phrase",
-      "meaning_tr": "to go for a walk",
-      "example": "Wir gehen jeden Abend spazieren."
+      "term": "gern",
+      "type": "Adverb",
+      "example": "Ich schwimme *** im Sommer.",
+      "meaning_tr": "Severek/Memnuniyetle",
+      "meaning_en": "Gladly/Like (to do something)",
+      "meaning_uk": "Охоче/Любити (робити щось)",
+      "meaning_es": "Con gusto/Gustar"
+    },
+    {
+      "term": "am Wochenende",
+      "type": "Adverb",
+      "example": "Was machst du ***?",
+      "meaning_tr": "Hafta sonu",
+      "meaning_en": "On the weekend",
+      "meaning_uk": "На вихідних",
+      "meaning_es": "El fin de semana"
+    },
+    {
+      "term": "zusammen",
+      "type": "Adverb",
+      "example": "Wir lernen Deutsch ***.",
+      "meaning_tr": "Birlikte",
+      "meaning_en": "Together",
+      "meaning_uk": "Разом",
+      "meaning_es": "Juntos"
     }
   ]
 }

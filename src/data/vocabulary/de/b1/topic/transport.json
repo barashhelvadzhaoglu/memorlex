@@ -1,185 +1,247 @@
-{
-  "title": "Verkehr & Transport (B1)",
-  "items": [
-    {
-      "term": "der Verkehr",
-      "type": "Substantiv",
-      "meaning_tr": "traffic",
-      "example": "Der Verkehr ist heute sehr dicht."
-    },
-    {
-      "term": "die Ampel",
-      "type": "Substantiv",
-      "meaning_tr": "traffic light",
-      "example": "An der nächsten Ampel müssen wir halten."
-    },
-    {
-      "term": "die Straße",
-      "type": "Substantiv",
-      "meaning_tr": "street, road",
-      "example": "Wir überqueren die Straße an der Fußgängerzone."
-    },
-    {
-      "term": "der LKW (Lastkraftwagen)",
-      "type": "Substantiv",
-      "meaning_tr": "truck, lorry",
-      "example": "Ein großer LKW parkte vor dem Geschäft."
-    },
-    {
-      "term": "der Bus",
-      "type": "Substantiv",
-      "meaning_tr": "bus",
-      "example": "Ich nehme den Bus zur Arbeit."
-    },
-    {
-      "term": "die U-Bahn",
-      "type": "Substantiv",
-      "meaning_tr": "subway, underground train",
-      "example": "Die U-Bahn fährt alle fünf Minuten."
-    },
-    {
-      "term": "die Straßenbahn",
-      "type": "Substantiv",
-      "meaning_tr": "tram",
-      "example": "Die Straßenbahn ist oft langsamer als die U-Bahn."
-    },
-    {
-      "term": "das Fahrrad",
-      "type": "Substantiv",
-      "meaning_tr": "bicycle",
-      "example": "Er fährt jeden Tag mit dem Fahrrad zur Schule."
-    },
-    {
-      "term": "die Autobahn",
-      "type": "Substantiv",
-      "meaning_tr": "highway, motorway",
-      "example": "Auf der Autobahn gibt es kein Tempolimit."
-    },
-    {
-      "term": "der Zug",
-      "type": "Substantiv",
-      "meaning_tr": "train",
-      "example": "Der Zug nach Berlin hat Verspätung."
-    },
-    {
-      "term": "der Bahnhof",
-      "type": "Substantiv",
-      "meaning_tr": "train station",
-      "example": "Treffen wir uns am Hauptbahnhof?"
-    },
-    {
-      "term": "das Flugzeug",
-      "type": "Substantiv",
-      "meaning_tr": "airplane",
-      "example": "Das Flugzeug hebt in einer Stunde ab."
-    },
-    {
-      "term": "der Flughafen",
-      "type": "Substantiv",
-      "meaning_tr": "airport",
-      "example": "Wir müssen früh zum Flughafen fahren."
-    },
-    {
-      "term": "das Schiff",
-      "type": "Substantiv",
-      "meaning_tr": "ship",
-      "example": "Die Fähre bringt uns auf die Insel."
-    },
-    {
-      "term": "die Fahrkarte",
-      "type": "Substantiv",
-      "meaning_tr": "ticket (for transport)",
-      "example": "Haben Sie Ihre Fahrkarte schon gekauft?"
-    },
-    {
-      "term": "das Ticket",
-      "type": "Substantiv",
-      "meaning_tr": "ticket",
-      "example": "Ich brauche ein Hin- und Rückflugticket."
-    },
-    {
-      "term": "die Verspätung",
-      "type": "Substantiv",
-      "meaning_tr": "delay",
-      "example": "Wegen des Schnees gibt es eine Verspätung."
-    },
-    {
-      "term": "der Fahrplan",
-      "type": "Substantiv",
-      "meaning_tr": "timetable, schedule",
-      "example": "Schau mal im Fahrplan nach, wann der nächste Zug kommt."
-    },
-    {
-      "term": "umsteigen",
-      "type": "Verb",
-      "meaning_tr": "to change (train, bus)",
-      "example": "In Frankfurt müssen wir in den ICE umsteigen."
-    },
-    {
-      "term": "abfahren",
-      "type": "Verb",
-      "meaning_tr": "to depart",
-      "example": "Der Zug fährt pünktlich um 14:30 Uhr ab."
-    },
-    {
-      "term": "ankommen",
-      "type": "Verb",
-      "meaning_tr": "to arrive",
-      "example": "Wann kommen wir am Zielbahnhof an?"
-    },
-    {
-      "term": "einsteigen",
-      "type": "Verb",
-      "meaning_tr": "to get on, to board",
-      "example": "Bitte alle einsteigen, die Türen schließen gleich."
-    },
-    {
-      "term": "aussteigen",
-      "type": "Verb",
-      "meaning_tr": "to get off, to alight",
-      "example": "An der nächsten Haltestelle müssen Sie aussteigen."
-    },
-    {
-      "term": "mieten",
-      "type": "Verb",
-      "meaning_tr": "to rent",
-      "example": "Wir wollen uns für den Urlaub ein Auto mieten."
-    },
-    {
-      "term": "der Kilometer",
-      "type": "Substantiv",
-      "meaning_tr": "kilometer",
-      "example": "Die Entfernung beträgt etwa 50 Kilometer."
-    },
-    {
-      "term": "die Geschwindigkeit",
-      "type": "Substantiv",
-      "meaning_tr": "speed",
-      "example": "Die erlaubte Geschwindigkeit ist 50 km/h."
-    },
-    {
-      "term": "der Stau",
-      "type": "Substantiv",
-      "meaning_tr": "traffic jam",
-      "example": "Wir standen eine Stunde im Stau."
-    },
-    {
-      "term": "der Hafen",
-      "type": "Substantiv",
-      "meaning_tr": "harbor, port",
-      "example": "Das Containerschiff liegt im Hafen."
-    },
-    {
-      "term": "die Strecke",
-      "type": "Substantiv",
-      "meaning_tr": "route, stretch (of road/track)",
-      "example": "Die Zugstrecke zwischen diesen Städten ist sehr beliebt."
-    },
-    {
-      "term": "der Fahrgast",
-      "type": "Substantiv",
-      "meaning_tr": "passenger",
-      "example": "Alle Fahrgäste werden gebeten, ihre Plätze einzunehmen."
-    }
-  ]
-}
+[
+  {
+    "term": "der Verkehr",
+    "meaning_tr": "trafik",
+    "meaning_en": "traffic",
+    "meaning_uk": "трафік",
+    "meaning_es": "tráfico"
+  },
+  {
+    "term": "der Transport",
+    "meaning_tr": "nakliye, taşıma",
+    "meaning_en": "transport, transportation",
+    "meaning_uk": "транспорт, перевезення",
+    "meaning_es": "transporte"
+  },
+  {
+    "term": "das Fahrzeug",
+    "meaning_tr": "araç",
+    "meaning_en": "vehicle",
+    "meaning_uk": "транспортний засіб",
+    "meaning_es": "vehículo"
+  },
+  {
+    "term": "das Auto",
+    "meaning_tr": "araba",
+    "meaning_en": "car",
+    "meaning_uk": "автомобіль",
+    "meaning_es": "coche"
+  },
+  {
+    "term": "der LKW",
+    "meaning_tr": "kamyon",
+    "meaning_en": "truck",
+    "meaning_uk": "вантажівка",
+    "meaning_es": "camión"
+  },
+  {
+    "term": "der Bus",
+    "meaning_tr": "otobüs",
+    "meaning_en": "bus",
+    "meaning_uk": "автобус",
+    "meaning_es": "autobús"
+  },
+  {
+    "term": "die Bahn",
+    "meaning_tr": "tren, ray",
+    "meaning_en": "train, railway",
+    "meaning_uk": "потяг, залізниця",
+    "meaning_es": "tren, vía"
+  },
+  {
+    "term": "der Zug",
+    "meaning_tr": "tren",
+    "meaning_en": "train",
+    "meaning_uk": "потяг",
+    "meaning_es": "tren"
+  },
+  {
+    "term": "die U-Bahn",
+    "meaning_tr": "metro",
+    "meaning_en": "subway, underground train",
+    "meaning_uk": "метро",
+    "meaning_es": "metro"
+  },
+  {
+    "term": "die Straßenbahn",
+    "meaning_tr": "tramvay",
+    "meaning_en": "tram",
+    "meaning_uk": "трамвай",
+    "meaning_es": "tranvía"
+  },
+  {
+    "term": "das Fahrrad",
+    "meaning_tr": "bisiklet",
+    "meaning_en": "bicycle",
+    "meaning_uk": "велосипед",
+    "meaning_es": "bicicleta"
+  },
+  {
+    "term": "das Motorrad",
+    "meaning_tr": "motosiklet",
+    "meaning_en": "motorcycle",
+    "meaning_uk": "мотоцикл",
+    "meaning_es": "motocicleta"
+  },
+  {
+    "term": "das Flugzeug",
+    "meaning_tr": "uçak",
+    "meaning_en": "airplane",
+    "meaning_uk": "літак",
+    "meaning_es": "avión"
+  },
+  {
+    "term": "das Schiff",
+    "meaning_tr": "gemi",
+    "meaning_en": "ship",
+    "meaning_uk": "корабель",
+    "meaning_es": "barco"
+  },
+  {
+    "term": "der Hafen",
+    "meaning_tr": "liman",
+    "meaning_en": "harbor, port",
+    "meaning_uk": "порт",
+    "meaning_es": "puerto"
+  },
+  {
+    "term": "der Flughafen",
+    "meaning_tr": "havaalanı",
+    "meaning_en": "airport",
+    "meaning_uk": "аеропорт",
+    "meaning_es": "aeropuerto"
+  },
+  {
+    "term": "die Straße",
+    "meaning_tr": "sokak, cadde, yol",
+    "meaning_en": "street, road",
+    "meaning_uk": "вулиця, дорога",
+    "meaning_es": "calle, carretera"
+  },
+  {
+    "term": "die Autobahn",
+    "meaning_tr": "otoyol",
+    "meaning_en": "highway, motorway",
+    "meaning_uk": "автомагістраль",
+    "meaning_es": "autopista"
+  },
+  {
+    "term": "die Kreuzung",
+    "meaning_tr": "kavşak",
+    "meaning_en": "intersection, crossroads",
+    "meaning_uk": "перехрестя",
+    "meaning_es": "cruce"
+  },
+  {
+    "term": "die Ampel",
+    "meaning_tr": "trafik ışığı",
+    "meaning_en": "traffic light",
+    "meaning_uk": "світлофор",
+    "meaning_es": "semáforo"
+  },
+  {
+    "term": "der Parkplatz",
+    "meaning_tr": "park yeri",
+    "meaning_en": "parking lot",
+    "meaning_uk": "парковка",
+    "meaning_es": "estacionamiento"
+  },
+  {
+    "term": "die Haltestelle",
+    "meaning_tr": "durak",
+    "meaning_en": "bus stop, stop",
+    "meaning_uk": "зупинка",
+    "meaning_es": "parada"
+  },
+  {
+    "term": "der Bahnhof",
+    "meaning_tr": "tren istasyonu",
+    "meaning_en": "train station",
+    "meaning_uk": "вокзал",
+    "meaning_es": "estación de tren"
+  },
+  {
+    "term": "der Führerschein",
+    "meaning_tr": "ehliyet",
+    "meaning_en": "driver's license",
+    "meaning_uk": "водійське посвідчення",
+    "meaning_es": "licencia de conducir"
+  },
+  {
+    "term": "das Ticket",
+    "meaning_tr": "bilet",
+    "meaning_en": "ticket",
+    "meaning_uk": "квиток",
+    "meaning_es": "boleto"
+  },
+  {
+    "term": "der Fahrplan",
+    "meaning_tr": "tarife, sefer listesi",
+    "meaning_en": "timetable, schedule",
+    "meaning_uk": "розклад",
+    "meaning_es": "horario"
+  },
+  {
+    "term": "die Verspätung",
+    "meaning_tr": "gecikme",
+    "meaning_en": "delay",
+    "meaning_uk": "затримка",
+    "meaning_es": "retraso"
+  },
+  {
+    "term": "die Abfahrt",
+    "meaning_tr": "kalkış, hareket",
+    "meaning_en": "departure",
+    "meaning_uk": "відправлення",
+    "meaning_es": "salida"
+  },
+  {
+    "term": "die Ankunft",
+    "meaning_tr": "varış",
+    "meaning_en": "arrival",
+    "meaning_uk": "прибуття",
+    "meaning_es": "llegada"
+  },
+  {
+    "term": "die Reise",
+    "meaning_tr": "seyahat, yolculuk",
+    "meaning_en": "journey, trip",
+    "meaning_uk": "подорож",
+    "meaning_es": "viaje"
+  },
+  {
+    "term": "die Verbindung",
+    "meaning_tr": "bağlantı, hat",
+    "meaning_en": "connection, link",
+    "meaning_uk": "з'єднання, маршрут",
+    "meaning_es": "conexión"
+  },
+  {
+    "term": "der Stau",
+    "meaning_tr": "trafik sıkışıklığı",
+    "meaning_en": "traffic jam",
+    "meaning_uk": "затор",
+    "meaning_es": "atasco"
+  },
+  {
+    "term": "die Ladung",
+    "meaning_tr": "yük, kargo",
+    "meaning_en": "load, cargo",
+    "meaning_uk": "вантаж",
+    "meaning_es": "carga"
+  },
+  {
+    "term": "der Umstieg",
+    "meaning_tr": "aktarma, geçiş",
+    "meaning_en": "transfer, change (trains/buses)",
+    "meaning_uk": "пересадка",
+    "meaning_es": "transbordo"
+  },
+  {
+    "term": "die Maut",
+    "meaning_tr": "geçiş ücreti, harç",
+    "meaning_en": "toll",
+    "meaning_uk": "платний проїзд",
+    "meaning_es": "peaje"
+  }
+]

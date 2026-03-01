@@ -1,185 +1,247 @@
-{
-  "title": "Hobbys & Freizeit (B1)",
-  "items": [
-    {
-      "term": "die Freizeit",
-      "type": "Noun, fem.",
-      "meaning_tr": "Leisure time, free time",
-      "example": "In meiner Freizeit lese ich gerne Bücher."
-    },
-    {
-      "term": "das Hobby",
-      "type": "Noun, neut.",
-      "meaning_tr": "Hobby",
-      "example": "Was sind deine Lieblingshobbys?"
-    },
-    {
-      "term": "die Aktivität",
-      "type": "Noun, fem.",
-      "meaning_tr": "Activity",
-      "example": "Wir planen einige Outdoor-Aktivitäten für das Wochenende."
-    },
-    {
-      "term": "sich entspannen",
-      "type": "Verb (reflexive)",
-      "meaning_tr": "To relax",
-      "example": "Nach der Arbeit muss ich mich entspannen."
-    },
-    {
-      "term": "die Musik hören",
-      "type": "Phrase",
-      "meaning_tr": "To listen to music",
-      "example": "Ich höre am liebsten klassische Musik."
-    },
-    {
-      "term": "ein Buch lesen",
-      "type": "Phrase",
-      "meaning_tr": "To read a book",
-      "example": "Er liest jeden Abend vor dem Schlafengehen."
-    },
-    {
-      "term": "ins Kino gehen",
-      "type": "Phrase",
-      "meaning_tr": "To go to the cinema",
-      "example": "Wollen wir dieses Wochenende ins Kino gehen?"
-    },
-    {
-      "term": "Sport treiben",
-      "type": "Phrase",
-      "meaning_tr": "To do sports",
-      "example": "Ich versuche, dreimal pro Woche Sport zu treiben."
-    },
-    {
-      "term": "joggen",
-      "type": "Verb",
-      "meaning_tr": "To jog",
-      "example": "Sie geht jeden Morgen im Park joggen."
-    },
-    {
-      "term": "schwimmen",
-      "type": "Verb",
-      "meaning_tr": "To swim",
-      "example": "Ich kann gut schwimmen, aber nicht tauchen."
-    },
-    {
-      "term": "Fahrrad fahren",
-      "type": "Phrase",
-      "meaning_tr": "To ride a bicycle",
-      "example": "Am Sonntag fahren wir eine lange Radtour."
-    },
-    {
-      "term": "kochen",
-      "type": "Verb",
-      "meaning_tr": "To cook",
-      "example": "Ich koche gerne exotische Gerichte."
-    },
-    {
-      "term": "backen",
-      "type": "Verb",
-      "meaning_tr": "To bake",
-      "example": "Meine Großmutter kann wunderbare Kuchen backen."
-    },
-    {
-      "term": "malen",
-      "type": "Verb",
-      "meaning_tr": "To paint",
-      "example": "Er hat das Malen als Hobby für sich entdeckt."
-    },
-    {
-      "term": "fotografieren",
-      "type": "Verb",
-      "meaning_tr": "To take photos",
-      "example": "Ich fotografiere am liebsten Landschaften."
-    },
-    {
-      "term": "reisen",
-      "type": "Verb",
-      "meaning_tr": "To travel",
-      "example": "Wir planen eine Reise nach Italien im Sommer."
-    },
-    {
-      "term": "wandern",
-      "type": "Verb",
-      "meaning_tr": "To hike",
-      "example": "Am Wochenende wandern wir oft in den Bergen."
-    },
-    {
-      "term": "gärtnern",
-      "type": "Verb",
-      "meaning_tr": "To garden",
-      "example": "Im Frühling verbringe ich viel Zeit im Garten, ich gärtnere."
-    },
-    {
-      "term": "sich treffen (mit)",
-      "type": "Verb (reflexive)",
-      "meaning_tr": "To meet (with)",
-      "example": "Ich treffe mich oft mit Freunden im Café."
-    },
-    {
-      "term": "ein Instrument spielen",
-      "type": "Phrase",
-      "meaning_tr": "To play an instrument",
-      "example": "Sie spielt seit fünf Jahren Klavier."
-    },
-    {
-      "term": "die Aufführung",
-      "type": "Noun, fem.",
-      "meaning_tr": "Performance, show",
-      "example": "Wir haben eine Theateraufführung besucht."
-    },
-    {
-      "term": "das Brettspiel",
-      "type": "Noun, neut.",
-      "meaning_tr": "Board game",
-      "example": "Am Abend spielen wir oft ein strategisches Brettspiel."
-    },
-    {
-      "term": "stricken",
-      "type": "Verb",
-      "meaning_tr": "To knit",
-      "example": "Meine Tante kann tolle Pullover stricken."
-    },
-    {
-      "term": "basteln",
-      "type": "Verb",
-      "meaning_tr": "To do crafts, DIY",
-      "example": "Kinder basteln gerne mit Papier und Kleber."
-    },
-    {
-      "term": "die Ausstellung",
-      "type": "Noun, fem.",
-      "meaning_tr": "Exhibition, show",
-      "example": "Wir besuchen die neue Kunstausstellung im Museum."
-    },
-    {
-      "term": "die Serie (im Fernsehen)",
-      "type": "Noun, fem.",
-      "meaning_tr": "TV series",
-      "example": "Ich schaue gerade eine spannende Krimiserie."
-    },
-    {
-      "term": "der Verein",
-      "type": "Noun, masc.",
-      "meaning_tr": "Club, association",
-      "example": "Er ist Mitglied in einem Fußballverein."
-    },
-    {
-      "term": "üben",
-      "type": "Verb",
-      "meaning_tr": "To practice",
-      "example": "Man muss viel üben, um gut zu werden."
-    },
-    {
-      "term": "die Freizeitaktivität",
-      "type": "Noun, fem.",
-      "meaning_tr": "Leisure activity",
-      "example": "Welche Freizeitaktivitäten machen dir am meisten Spaß?"
-    },
-    {
-      "term": "sich beschäftigen (mit)",
-      "type": "Verb (reflexive)",
-      "meaning_tr": "To occupy oneself (with)",
-      "example": "Ich beschäftige mich gerne mit Sprachen."
-    }
-  ]
-}
+[
+  {
+    "term": "das Basteln",
+    "meaning_tr": "el işi yapmak, hobiler",
+    "meaning_en": "crafting, hobbies",
+    "meaning_uk": "виготовлення виробів, рукоділля",
+    "meaning_es": "manualidades"
+  },
+  {
+    "term": "der Drachenflug",
+    "meaning_tr": "uçurtma uçurmak",
+    "meaning_en": "kite flying",
+    "meaning_uk": "польоти на повітряному змії",
+    "meaning_es": "vuelo de cometas"
+  },
+  {
+    "term": "das Einradfahren",
+    "meaning_tr": "tek tekerlekli bisiklet sürmek",
+    "meaning_en": "unicycling",
+    "meaning_uk": "катання на одноколісному велосипеді",
+    "meaning_es": "andar en monociclo"
+  },
+  {
+    "term": "die Fotografie",
+    "meaning_tr": "fotoğrafçılık",
+    "meaning_en": "photography",
+    "meaning_uk": "фотографія",
+    "meaning_es": "fotografía"
+  },
+  {
+    "term": "das Gärtnern",
+    "meaning_tr": "bahçıvanlık",
+    "meaning_en": "gardening",
+    "meaning_uk": "садівництво",
+    "meaning_es": "jardinería"
+  },
+  {
+    "term": "das Geocaching",
+    "meaning_tr": "coğrafi konum tabanlı hazine avı oyunu",
+    "meaning_en": "geocaching",
+    "meaning_uk": "геокешинг",
+    "meaning_es": "geocaching"
+  },
+  {
+    "term": "das Geräteturnen",
+    "meaning_tr": "aletli jimnastik",
+    "meaning_en": "gymnastics with apparatus",
+    "meaning_uk": "спортивна гімнастика з предметами",
+    "meaning_es": "gimnasia con aparatos"
+  },
+  {
+    "term": "das Gleitschirmfliegen",
+    "meaning_tr": "yamaç paraşütü",
+    "meaning_en": "paragliding",
+    "meaning_uk": "парапланеризм",
+    "meaning_es": "parapente"
+  },
+  {
+    "term": "der Hallensport",
+    "meaning_tr": "salonda yapılan spor",
+    "meaning_en": "indoor sport",
+    "meaning_uk": "закритий вид спорту",
+    "meaning_es": "deporte de interior"
+  },
+  {
+    "term": "das Heiraten",
+    "meaning_tr": "evlenmek",
+    "meaning_en": "getting married",
+    "meaning_uk": "одруження",
+    "meaning_es": "casarse"
+  },
+  {
+    "term": "das Hobby",
+    "meaning_tr": "hobi",
+    "meaning_en": "hobby",
+    "meaning_uk": "хобі",
+    "meaning_es": "pasatiempo"
+  },
+  {
+    "term": "das Holzschnitzen",
+    "meaning_tr": "ahşap oyma",
+    "meaning_en": "wood carving",
+    "meaning_uk": "різьблення по дереву",
+    "meaning_es": "tallado en madera"
+  },
+  {
+    "term": "das Instrumentalspiel",
+    "meaning_tr": "enstrüman çalmak",
+    "meaning_en": "playing a musical instrument",
+    "meaning_uk": "гра на музичному інструменті",
+    "meaning_es": "tocar un instrumento musical"
+  },
+  {
+    "term": "das Joggen",
+    "meaning_tr": "tempolu koşu",
+    "meaning_en": "jogging",
+    "meaning_uk": "біг підтюпцем",
+    "meaning_es": "trotar"
+  },
+  {
+    "term": "der Kampsport",
+    "meaning_tr": "dövüş sporları",
+    "meaning_en": "martial arts",
+    "meaning_uk": "бойові мистецтва",
+    "meaning_es": "artes marciales"
+  },
+  {
+    "term": "das Kochen",
+    "meaning_tr": "yemek pişirmek",
+    "meaning_en": "cooking",
+    "meaning_uk": "готування їжі",
+    "meaning_es": "cocinar"
+  },
+  {
+    "term": "der Konzertsbesuch",
+    "meaning_tr": "konsere gitmek",
+    "meaning_en": "attending a concert",
+    "meaning_uk": "відвідування концерту",
+    "meaning_es": "asistir a un concierto"
+  },
+  {
+    "term": "das Kreuzworträtsel",
+    "meaning_tr": "bulmaca",
+    "meaning_en": "crossword puzzle",
+    "meaning_uk": "кросворд",
+    "meaning_es": "crucigrama"
+  },
+  {
+    "term": "der Laufsport",
+    "meaning_tr": "koşu sporu",
+    "meaning_en": "running sport",
+    "meaning_uk": "біговий спорт",
+    "meaning_es": "deporte de carrera"
+  },
+  {
+    "term": "das Malen",
+    "meaning_tr": "boyama yapmak",
+    "meaning_en": "painting",
+    "meaning_uk": "малювання",
+    "meaning_es": "pintar"
+  },
+  {
+    "term": "das Modellbauen",
+    "meaning_tr": "maket yapmak",
+    "meaning_en": "model building",
+    "meaning_uk": "створення моделей",
+    "meaning_es": "construcción de maquetas"
+  },
+  {
+    "term": "das Museumsbesuch",
+    "meaning_tr": "müze ziyareti",
+    "meaning_en": "visiting a museum",
+    "meaning_uk": "відвідування музею",
+    "meaning_es": "visitar un museo"
+  },
+  {
+    "term": "das Nähen",
+    "meaning_tr": "dikiş dikmek",
+    "meaning_en": "sewing",
+    "meaning_uk": "шиття",
+    "meaning_es": "coser"
+  },
+  {
+    "term": "das Outdoorsport",
+    "meaning_tr": "açık hava sporu",
+    "meaning_en": "outdoor sport",
+    "meaning_uk": "відкритий вид спорту",
+    "meaning_es": "deporte al aire libre"
+  },
+  {
+    "term": "das Radfahren",
+    "meaning_tr": "bisiklete binmek",
+    "meaning_en": "cycling",
+    "meaning_uk": "велоспорт",
+    "meaning_es": "andar en bicicleta"
+  },
+  {
+    "term": "das Reiten",
+    "meaning_tr": "at binmek",
+    "meaning_en": "horseback riding",
+    "meaning_uk": "верхова їзда",
+    "meaning_es": "montar a caballo"
+  },
+  {
+    "term": "das Reisen",
+    "meaning_tr": "seyahat etmek",
+    "meaning_en": "traveling",
+    "meaning_uk": "подорожувати",
+    "meaning_es": "viajar"
+  },
+  {
+    "term": "das Schwimmen",
+    "meaning_tr": "yüzmek",
+    "meaning_en": "swimming",
+    "meaning_uk": "плавання",
+    "meaning_es": "nadar"
+  },
+  {
+    "term": "das Skatspielen",
+    "meaning_tr": "iskambil oyunları oynamak (Skat)",
+    "meaning_en": "playing Skat (card game)",
+    "meaning_uk": "грати в Скаут (карткова гра)",
+    "meaning_es": "jugar al Skat (juego de cartas)"
+  },
+  {
+    "term": "das Skifahren",
+    "meaning_tr": "kayak yapmak",
+    "meaning_en": "skiing",
+    "meaning_uk": "катання на лижах",
+    "meaning_es": "esquiar"
+  },
+  {
+    "term": "das Tanzen",
+    "meaning_tr": "dans etmek",
+    "meaning_en": "dancing",
+    "meaning_uk": "танці",
+    "meaning_es": "bailar"
+  },
+  {
+    "term": "das Telefonieren",
+    "meaning_tr": "telefonla konuşmak",
+    "meaning_en": "talking on the phone",
+    "meaning_uk": "розмовляти по телефону",
+    "meaning_es": "hablar por teléfono"
+  },
+  {
+    "term": "der Tierparkbesuch",
+    "meaning_tr": "hayvanat bahçesi ziyareti",
+    "meaning_en": "visiting a zoo",
+    "meaning_uk": "відвідування зоопарку",
+    "meaning_es": "visitar un zoológico"
+  },
+  {
+    "term": "das Wandern",
+    "meaning_tr": "yürüyüş yapmak",
+    "meaning_en": "hiking",
+    "meaning_uk": "походи",
+    "meaning_es": "hacer senderismo"
+  },
+  {
+    "term": "das Zeitunglesen",
+    "meaning_tr": "gazete okumak",
+    "meaning_en": "reading the newspaper",
+    "meaning_uk": "читати газету",
+    "meaning_es": "leer el periódico"
+  }
+]

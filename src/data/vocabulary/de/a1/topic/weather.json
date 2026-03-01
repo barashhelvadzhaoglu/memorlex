@@ -1,77 +1,141 @@
 {
   "title": "Wetter & Jahreszeiten (A1)",
-  "items": [
+  "language": "de",
+  "words": [
+    {
+      "term": "das Wetter",
+      "type": "Noun",
+      "example": "Wie ist heute ***?",
+      "meaning_tr": "hava",
+      "meaning_en": "the weather",
+      "meaning_uk": "погода",
+      "meaning_es": "el tiempo"
+    },
     {
       "term": "die Sonne",
-      "type": "Nomen (f)",
-      "meaning_tr": "the sun",
-      "example": "Die Sonne scheint."
+      "type": "Noun",
+      "example": "*** scheint.",
+      "meaning_tr": "güneş",
+      "meaning_en": "the sun",
+      "meaning_uk": "сонце",
+      "meaning_es": "el sol"
     },
     {
-      "term": "der Regen",
-      "type": "Nomen (m)",
-      "meaning_tr": "the rain",
-      "example": "Es gibt Regen."
-    },
-    {
-      "term": "der Schnee",
-      "type": "Nomen (m)",
-      "meaning_tr": "the snow",
-      "example": "Es schneit viel Schnee."
-    },
-    {
-      "term": "die Wolke",
-      "type": "Nomen (f)",
-      "meaning_tr": "the cloud",
-      "example": "Eine weiße Wolke."
-    },
-    {
-      "term": "warm",
-      "type": "Adjektiv",
-      "meaning_tr": "warm",
-      "example": "Das Wetter ist warm."
+      "term": "regnen",
+      "type": "Verb",
+      "example": "Es wird bald ***.",
+      "meaning_tr": "yağmur yağmak",
+      "meaning_en": "to rain",
+      "meaning_uk": "дощити",
+      "meaning_es": "llover"
     },
     {
       "term": "kalt",
-      "type": "Adjektiv",
-      "meaning_tr": "cold",
-      "example": "Es ist sehr kalt."
+      "type": "Adjective",
+      "example": "Heute ist es sehr ***.",
+      "meaning_tr": "soğuk",
+      "meaning_en": "cold",
+      "meaning_uk": "холодно",
+      "meaning_es": "frío"
     },
     {
-      "term": "heiß",
-      "type": "Adjektiv",
-      "meaning_tr": "hot",
-      "example": "Im Sommer ist es heiß."
+      "term": "warm",
+      "type": "Adjective",
+      "example": "Im Sommer ist es oft ***.",
+      "meaning_tr": "sıcak",
+      "meaning_en": "warm",
+      "meaning_uk": "тепло",
+      "meaning_es": "cálido"
     },
     {
-      "term": "der Sommer",
-      "type": "Nomen (m)",
-      "meaning_tr": "the summer",
-      "example": "Ich mag den Sommer."
+      "term": "der Regen",
+      "type": "Noun",
+      "example": "Ich mag den *** nicht.",
+      "meaning_tr": "yağmur",
+      "meaning_en": "the rain",
+      "meaning_uk": "дощ",
+      "meaning_es": "la lluvia"
     },
     {
-      "term": "der Winter",
-      "type": "Nomen (m)",
-      "meaning_tr": "the winter",
-      "example": "Im Winter ist es dunkel."
-    },
-    {
-      "term": "das Wetter",
-      "type": "Nomen (n)",
-      "meaning_tr": "the weather",
-      "example": "Wie ist das Wetter heute?"
+      "term": "der Wind",
+      "type": "Noun",
+      "example": "Der *** weht stark.",
+      "meaning_tr": "rüzgar",
+      "meaning_en": "the wind",
+      "meaning_uk": "вітер",
+      "meaning_es": "el viento"
     },
     {
       "term": "scheinen",
       "type": "Verb",
-      "meaning_tr": "to shine",
-      "example": "Die Sonne scheint."
+      "example": "Die Sonne beginnt zu ***.",
+      "meaning_tr": "parlamak",
+      "meaning_en": "to shine",
+      "meaning_uk": "світити",
+      "meaning_es": "brillar"
     },
     {
-      "term": "es ist windig",
-      "type": "Phrase",
-      "meaning_tr": "it is windy",
-      "example": "Heute ist es windig draußen."
+      "term": "der Frühling",
+      "type": "Noun",
+      "example": "*** ist meine Lieblingsjahreszeit.",
+      "meaning_tr": "ilkbahar",
+      "meaning_en": "the spring",
+      "meaning_uk": "весна",
+      "meaning_es": "la primavera"
+    },
+    {
+      "term": "der Sommer",
+      "type": "Noun",
+      "example": "Wir fahren im *** in den Urlaub.",
+      "meaning_tr": "yaz",
+      "meaning_en": "the summer",
+      "meaning_uk": "літо",
+      "meaning_es": "el verano"
+    },
+    {
+      "term": "der Herbst",
+      "type": "Noun",
+      "example": "Im *** fallen die Blätter.",
+      "meaning_tr": "sonbahar",
+      "meaning_en": "the autumn/fall",
+      "meaning_uk": "осінь",
+      "meaning_es": "el otoño"
+    },
+    {
+      "term": "der Winter",
+      "type": "Noun",
+      "example": "Im *** schneit es oft.",
+      "meaning_tr": "kış",
+      "meaning_en": "the winter",
+      "meaning_uk": "зима",
+      "meaning_es": "el invierno"
+    },
+    {
+      "term": "schneien",
+      "type": "Verb",
+      "example": "Es hat die ganze Nacht ***.",
+      "meaning_tr": "kar yağmak",
+      "meaning_en": "to snow",
+      "meaning_uk": "сніжити",
+      "meaning_es": "nevar"
+    },
+    {
+      "term": "bewölkt",
+      "type": "Adjective",
+      "example": "Der Himmel ist heute ***.",
+      "meaning_tr": "bulutlu",
+      "meaning_en": "cloudy",
+      "meaning_uk": "хмарно",
+      "meaning_es": "nublado"
+    },
+    {
+      "term": "heiter",
+      "type": "Adjective",
+      "example": "Morgen wird es ***.",
+      "meaning_tr": "açık (hava)",
+      "meaning_en": "clear/bright (weather)",
+      "meaning_uk": "ясно",
+      "meaning_es": "despejado"
     }
   ]
 }

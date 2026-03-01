@@ -1,389 +1,422 @@
-{
-  "title": "Wetter & Jahreszeiten (C1)",
-  "items": [
-    {
-      "term": "die Wettervorhersage",
-      "type": "Substantiv (f)",
-      "meaning_tr": "weather forecast",
-      "example": "Die Wettervorhersage kündigt für morgen starken Schneefall an."
-    },
-    {
-      "term": "der Niederschlag",
-      "type": "Substantiv (m)",
-      "meaning_tr": "precipitation (rain, snow, hail)",
-      "example": "Der anhaltende Niederschlag hat zu Überschwemmungen geführt."
-    },
-    {
-      "term": "die Sonneneinstrahlung",
-      "type": "Substantiv (f)",
-      "meaning_tr": "solar radiation/sunshine duration",
-      "example": "Trotz der tiefen Temperaturen war die Sonneneinstrahlung heute bemerkenswert."
-    },
-    {
-      "term": "die Luftfeuchtigkeit",
-      "type": "Substantiv (f)",
-      "meaning_tr": "humidity",
-      "example": "Bei dieser hohen Luftfeuchtigkeit fühlt sich die Hitze drückender an."
-    },
-    {
-      "term": "der Taupunkt",
-      "type": "Substantiv (m)",
-      "meaning_tr": "dew point",
-      "example": "Sobald der Taupunkt erreicht ist, bildet sich Nebel."
-    },
-    {
-      "term": "der Luftdruck",
-      "type": "Substantiv (m)",
-      "meaning_tr": "air pressure",
-      "example": "Ein abfallender Luftdruck signalisiert oft eine Wetterverschlechterung."
-    },
-    {
-      "term": "die Wetterfront",
-      "type": "Substantiv (f)",
-      "meaning_tr": "weather front (cold/warm)",
-      "example": "Die herannahende Kaltfront brachte eine deutliche Temperatursenkung mit sich."
-    },
-    {
-      "term": "die Böe",
-      "type": "Substantiv (f)",
-      "meaning_tr": "gust (of wind)",
-      "example": "Plötzlich kam eine starke Böe auf und riss mir fast den Schirm weg."
-    },
-    {
-      "term": "der Schneeregen",
-      "type": "Substantiv (m)",
-      "meaning_tr": "sleet",
-      "example": "Morgens fiel leichter Schneeregen, der später in festen Schnee überging."
-    },
-    {
-      "term": "der Graupel",
-      "type": "Substantiv (m)",
-      "meaning_tr": "graupel/soft hail",
-      "example": "Nach dem Gewitter hagelte es kurzzeitig kleinen Graupel."
-    },
-    {
-      "term": "der Dunst",
-      "type": "Substantiv (m)",
-      "meaning_tr": "haze/mist",
-      "example": "Am Morgen lag ein leichter Dunst über den Feldern."
-    },
-    {
-      "term": "der Nebel",
-      "type": "Substantiv (m)",
-      "meaning_tr": "fog",
-      "example": "Wegen des dichten Nebels kam es zu erheblichen Behinderungen im Flugverkehr."
-    },
-    {
-      "term": "der Hochnebel",
-      "type": "Substantiv (m)",
-      "meaning_tr": "stratus cloud/low fog",
-      "example": "Der Hochnebel hielt sich den ganzen Tag und ließ die Sonne nicht durch."
-    },
-    {
-      "term": "die Sichtweite",
-      "type": "Substantiv (f)",
-      "meaning_tr": "visibility",
-      "example": "Wegen des starken Schneefalls reduzierte sich die Sichtweite auf unter 50 Meter."
-    },
-    {
-      "term": "der Föhn",
-      "type": "Substantiv (m)",
-      "meaning_tr": "Föhn wind (warm, dry, down-slope wind)",
-      "example": "Wenn der Föhn weht, steigen die Temperaturen hier rasant an."
-    },
-    {
-      "term": "die Gewitterfront",
-      "type": "Substantiv (f)",
-      "meaning_tr": "thunderstorm front",
-      "example": "Die Gewitterfront zog schnell auf und brachte heftige Regenfälle."
-    },
-    {
-      "term": "der Hagel",
-      "type": "Substantiv (m)",
-      "meaning_tr": "hail",
-      "example": "Ein heftiger Hagelschauer hat die Obsternte gefährdet."
-    },
-    {
-      "term": "der Platzregen",
-      "type": "Substantiv (m)",
-      "meaning_tr": "downpour/cloudburst",
-      "example": "Nachmittags kam es zu einem kurzen, aber heftigen Platzregen."
-    },
-    {
-      "term": "die Windstille",
-      "type": "Substantiv (f)",
-      "meaning_tr": "calm/absence of wind",
-      "example": "Die Windstille machte die Hitze am See besonders unerträglich."
-    },
-    {
-      "term": "der Eisregen",
-      "type": "Substantiv (m)",
-      "meaning_tr": "freezing rain",
-      "example": "Achtung, Eisregen kann zu spiegelglatten Straßen führen!"
-    },
-    {
-      "term": "die Glätte",
-      "type": "Substantiv (f)",
-      "meaning_tr": "slipperiness (due to ice/snow)",
-      "example": "Aufgrund der morgendlichen Glätte kam es zu vielen Unfällen."
-    },
-    {
-      "term": "die Hitzewelle",
-      "type": "Substantiv (f)",
-      "meaning_tr": "heatwave",
-      "example": "Die anhaltende Hitzewelle erforderte spezielle Vorsichtsmaßnahmen für ältere Menschen."
-    },
-    {
-      "term": "die Dürreperiode",
-      "type": "Substantiv (f)",
-      "meaning_tr": "drought period",
-      "example": "Die Dürreperiode im letzten Sommer hatte verheerende Folgen für die Landwirtschaft."
-    },
-    {
-      "term": "die Überschwemmung",
-      "type": "Substantiv (f)",
-      "meaning_tr": "flood",
-      "example": "Die Flusspegel stiegen so stark an, dass Teile der Stadt unter Wasser standen, eine Überschwemmung war die Folge."
-    },
-    {
-      "term": "der Sturm",
-      "type": "Substantiv (m)",
-      "meaning_tr": "storm",
-      "example": "Orkanböen führten zu weitreichenden Stromausfällen."
-    },
-    {
-      "term": "orkanartig",
-      "type": "Adjektiv",
-      "meaning_tr": "hurricane-force",
-      "example": "Der Wind wehte orkanartig durch das Tal."
-    },
-    {
-      "term": "die Gewitterwarnung",
-      "type": "Substantiv (f)",
-      "meaning_tr": "thunderstorm warning",
-      "example": "Es wurde eine strenge Gewitterwarnung für den gesamten südlichen Landesteil herausgegeben."
-    },
-    {
-      "term": "die Laubfall",
-      "type": "Substantiv (m)",
-      "meaning_tr": "leaf fall",
-      "example": "Der frühe Laubfall deutet auf einen baldigen Wintereinbruch hin."
-    },
-    {
-      "term": "der Frühlingseinbruch",
-      "type": "Substantiv (m)",
-      "meaning_tr": "sudden onset of spring",
-      "example": "Nach dem langen Winter begrüßten wir den plötzlichen Frühlingseinbruch mit Freude."
-    },
-    {
-      "term": "die Schönwetterperiode",
-      "type": "Substantiv (f)",
-      "meaning_tr": "period of fine weather",
-      "example": "Wir nutzen die aktuelle Schönwetterperiode für ausgedehnte Wanderungen."
-    },
-    {
-      "term": "die Trübung",
-      "type": "Substantiv (f)",
-      "meaning_tr": "turbidity/haze",
-      "example": "Die vulkanische Asche verursachte eine globale Trübung der Atmosphäre."
-    },
-    {
-      "term": "der Temperatursturz",
-      "type": "Substantiv (m)",
-      "meaning_tr": "sharp drop in temperature",
-      "example": "Nach dem Regen folgte ein dramatischer Temperatursturz um zehn Grad."
-    },
-    {
-      "term": "die Schneegrenze",
-      "type": "Substantiv (f)",
-      "meaning_tr": "snow line (altitude)",
-      "example": "Die Schneegrenze sank durch die Kaltfront deutlich ab."
-    },
-    {
-      "term": "die Wetterlage",
-      "type": "Substantiv (f)",
-      "meaning_tr": "weather situation/pattern",
-      "example": "Die aktuelle Wetterlage ist sehr wechselhaft und unbeständig."
-    },
-    {
-      "term": "der Hochdruckgebiet",
-      "type": "Substantiv (m)",
-      "meaning_tr": "high-pressure area",
-      "example": "Unter dem Einfluss des Hochdruckgebiets erwarten wir stabiles, schönes Wetter."
-    },
-    {
-      "term": "das Tiefdruckgebiet",
-      "type": "Substantiv (m)",
-      "meaning_tr": "low-pressure area",
-      "example": "Das Tiefdruckgebiet bringt uns Unwetter und anhaltenden Regen."
-    },
-    {
-      "term": "die Monsunzeit",
-      "type": "Substantiv (f)",
-      "meaning_tr": "monsoon season",
-      "example": "In Südostasien beginnt bald die feuchte Monsunzeit."
-    },
-    {
-      "term": "der Monsunregen",
-      "type": "Substantiv (m)",
-      "meaning_tr": "monsoon rain",
-      "example": "Der Monsunregen fällt dort oft tagelang ohne Unterbrechung."
-    },
-    {
-      "term": "die Eiskristalle",
-      "type": "Substantiv (Plural)",
-      "meaning_tr": "ice crystals",
-      "example": "Die feinen Eiskristalle glitzerten im Sonnenlicht."
-    },
-    {
-      "term": "der Frost",
-      "type": "Substantiv (m)",
-      "meaning_tr": "frost",
-      "example": "In dieser Höhenlage muss man selbst im Sommer mit leichtem Frost rechnen."
-    },
-    {
-      "term": "der Dauerregen",
-      "type": "Substantiv (m)",
-      "meaning_tr": "persistent/continuous rain",
-      "example": "Der Dauerregen hat die Böden komplett durchnässt."
-    },
-    {
-      "term": "die Wetterkapriole",
-      "type": "Substantiv (f)",
-      "meaning_tr": "caprice of the weather",
-      "example": "Wegen der heutigen Wetterkapriolen mussten wir unseren Ausflug verschieben."
-    },
-    {
-      "term": "die Schwüle",
-      "type": "Substantiv (f)",
-      "meaning_tr": "sultriness/muggy heat",
-      "example": "Die schwüle Luft vor dem Gewitter war kaum auszuhalten."
-    },
-    {
-      "term": "die Wetterberuhigung",
-      "type": "Substantiv (f)",
-      "meaning_tr": "calming down of the weather",
-      "example": "Nach dem heftigen Sturm setzte endlich eine Wetterberuhigung ein."
-    },
-    {
-      "term": "der Schneefallgrenze",
-      "type": "Substantiv (f)",
-      "meaning_tr": "snowfall limit (altitude)",
-      "example": "Die Schneefallgrenze liegt momentan bei 1200 Metern."
-    },
-    {
-      "term": "die Windböe",
-      "type": "Substantiv (f)",
-      "meaning_tr": "gust of wind",
-      "example": "Eine unerwartete Windböe ließ die Segel flattern."
-    },
-    {
-      "term": "die Tiefsttemperatur",
-      "type": "Substantiv (f)",
-      "meaning_tr": "lowest temperature",
-      "example": "Die Tiefsttemperatur wurde letzte Nacht um 4 Uhr gemessen."
-    },
-    {
-      "term": "die Höchsttemperatur",
-      "type": "Substantiv (f)",
-      "meaning_tr": "highest temperature",
-      "example": "Wir erwarten heute Nachmittag die Höchsttemperatur des Jahres."
-    },
-    {
-      "term": "die Äquinoktium",
-      "type": "Substantiv (n)",
-      "meaning_tr": "equinox",
-      "example": "Beim Herbstäquinoktium sind Tag und Nacht fast gleich lang."
-    },
-    {
-      "term": "die Sonnenwende",
-      "type": "Substantiv (f)",
-      "meaning_tr": "solstice",
-      "example": "Die Sommersonnenwende markiert den längsten Tag des Jahres."
-    },
-    {
-      "term": "der Dauerfrost",
-      "type": "Substantiv (m)",
-      "meaning_tr": "prolonged frost",
-      "example": "Der Dauerfrost hält sich nun schon seit über zwei Wochen."
-    },
-    {
-      "term": "die Bewölkung",
-      "type": "Substantiv (f)",
-      "meaning_tr": "cloud cover",
-      "example": "Die Bewölkung lockerte sich gegen Abend allmählich auf."
-    },
-    {
-      "term": "die Wettertür",
-      "type": "Substantiv (f)",
-      "meaning_tr": "weather door (metaphor for changeable weather)",
-      "example": "Im Frühling schlägt das Wetter oft mehrmals täglich zu und schließt die 'Wettertür' schnell wieder."
-    },
-    {
-      "term": "unbeständig",
-      "type": "Adjektiv",
-      "meaning_tr": "changeable/unsettled (weather)",
-      "example": "Die nächsten Tage bleiben aufgrund der atlantischen Tiefs sehr unbeständig."
-    },
-    {
-      "term": "die Windstärken",
-      "type": "Substantiv (Plural)",
-      "meaning_tr": "wind strengths (Beaufort scale)",
-      "example": "Die Windstärken auf See erreichten heute Morgen die Stufe 9."
-    },
-    {
-      "term": "der Schneesturm",
-      "type": "Substantiv (m)",
-      "meaning_tr": "blizzard/snowstorm",
-      "example": "Der Schneesturm legte den Verkehr in der gesamten Region lahm."
-    },
-    {
-      "term": "die Wetterküche",
-      "type": "Substantiv (f)",
-      "meaning_tr": "weather factory (where weather systems form, often used figuratively)",
-      "example": "Über dem Meer brodelt es, die Wetterküche scheint wieder aktiv zu sein."
-    },
-    {
-      "term": "die Luftmasse",
-      "type": "Substantiv (f)",
-      "meaning_tr": "air mass",
-      "example": "Eine polare Luftmasse sorgte für einen drastischen Temperaturrückgang."
-    },
-    {
-      "term": "der Eiszapfen",
-      "type": "Substantiv (m)",
-      "meaning_tr": "icicle",
-      "example": "An der Dachrinne hingen lange, gefährliche Eiszapfen."
-    },
-    {
-      "term": "die Regenschauer",
-      "type": "Substantiv (Plural)",
-      "meaning_tr": "rain showers",
-      "example": "Wir erlebten heute Vormittag mehrere kurze, heftige Regenschauer."
-    },
-    {
-      "term": "die Nebeldecke",
-      "type": "Substantiv (f)",
-      "meaning_tr": "blanket of fog",
-      "example": "Die Nebeldecke hielt sich hartnäckig über dem Tal."
-    },
-    {
-      "term": "die Gewitterzelle",
-      "type": "Substantiv (f)",
-      "meaning_tr": "thunderstorm cell",
-      "example": "Die isolierte Gewitterzelle zog langsam in östliche Richtung."
-    },
-    {
-      "term": "die Wolkenbildung",
-      "type": "Substantiv (f)",
-      "meaning_tr": "cloud formation",
-      "example": "Die starke Erwärmung begünstigte die intensive Wolkenbildung am Nachmittag."
-    },
-    {
-      "term": "die Tropennacht",
-      "type": "Substantiv (f)",
-      "meaning_tr": "tropical night (night where temperature stays above 20°C)",
-      "example": "Die dritte Tropennacht in Folge zehrt an den Kräften."
-    }
-  ]
-}
+[
+  {
+    "term": "der Niederschlag",
+    "meaning_tr": "yağış",
+    "meaning_en": "precipitation",
+    "meaning_uk": "опади",
+    "meaning_es": "precipitación"
+  },
+  {
+    "term": "der Hagel",
+    "meaning_tr": "dolu",
+    "meaning_en": "hail",
+    "meaning_uk": "град",
+    "meaning_es": "granizo"
+  },
+  {
+    "term": "die Glätte",
+    "meaning_tr": "buzlanma, kayganlık",
+    "meaning_en": "ice, slipperiness",
+    "meaning_uk": "ожеледиця, слизькість",
+    "meaning_es": "hielo, resbaladizo"
+  },
+  {
+    "term": "der Schneefall",
+    "meaning_tr": "kar yağışı",
+    "meaning_en": "snowfall",
+    "meaning_uk": "снігопад",
+    "meaning_es": "nevada"
+  },
+  {
+    "term": "der Regenfall",
+    "meaning_tr": "yağmur yağışı",
+    "meaning_en": "rainfall",
+    "meaning_uk": "дощ",
+    "meaning_es": "lluvia"
+  },
+  {
+    "term": "der Sprühregen",
+    "meaning_tr": "çiseleme",
+    "meaning_en": "drizzle",
+    "meaning_uk": "мряка",
+    "meaning_es": "llovizna"
+  },
+  {
+    "term": "der Wolkenbruch",
+    "meaning_tr": "sağanak",
+    "meaning_en": "downpour",
+    "meaning_uk": "злива",
+    "meaning_es": "aguacero"
+  },
+  {
+    "term": "die Gewitterwolke",
+    "meaning_tr": "gök gürültüsü bulutu",
+    "meaning_en": "thundercloud",
+    "meaning_uk": "грозова хмара",
+    "meaning_es": "nube de tormenta"
+  },
+  {
+    "term": "der Donner",
+    "meaning_tr": "gök gürültüsü",
+    "meaning_en": "thunder",
+    "meaning_uk": "грім",
+    "meaning_es": "trueno"
+  },
+  {
+    "term": "der Blitz",
+    "meaning_tr": "şimşek",
+    "meaning_en": "lightning",
+    "meaning_uk": "блискавка",
+    "meaning_es": "relámpago"
+  },
+  {
+    "term": "die Luftfeuchtigkeit",
+    "meaning_tr": "nem",
+    "meaning_en": "humidity",
+    "meaning_uk": "вологість",
+    "meaning_es": "humedad"
+  },
+  {
+    "term": "der Tau",
+    "meaning_tr": "çiy",
+    "meaning_en": "dew",
+    "meaning_uk": "роса",
+    "meaning_es": "rocío"
+  },
+  {
+    "term": "der Nebel",
+    "meaning_tr": "sis",
+    "meaning_en": "fog",
+    "meaning_uk": "туман",
+    "meaning_es": "niebla"
+  },
+  {
+    "term": "der Bodennebel",
+    "meaning_tr": "yer seviyesi sisi",
+    "meaning_en": "ground fog",
+    "meaning_uk": "приземний туман",
+    "meaning_es": "niebla baja"
+  },
+  {
+    "term": "der Dunst",
+    "meaning_tr": "haze",
+    "meaning_en": "haze",
+    "meaning_uk": "димка",
+    "meaning_es": "calima"
+  },
+  {
+    "term": "der Wind",
+    "meaning_tr": "rüzgar",
+    "meaning_en": "wind",
+    "meaning_uk": "вітер",
+    "meaning_es": "viento"
+  },
+  {
+    "term": "die Brise",
+    "meaning_tr": "meltem",
+    "meaning_en": "breeze",
+    "meaning_uk": "бриз",
+    "meaning_es": "brisa"
+  },
+  {
+    "term": "der Sturm",
+    "meaning_tr": "fırtına",
+    "meaning_en": "storm",
+    "meaning_uk": "шторм",
+    "meaning_es": "tormenta"
+  },
+  {
+    "term": "der Orkan",
+    "meaning_tr": "kasırga",
+    "meaning_en": "hurricane",
+    "meaning_uk": "ураган",
+    "meaning_es": "huracán"
+  },
+  {
+    "term": "die Böe",
+    "meaning_tr": "rüzgar esintisi",
+    "meaning_en": "gust",
+    "meaning_uk": "порив вітру",
+    "meaning_es": "ráfaga"
+  },
+  {
+    "term": "die Windstärke",
+    "meaning_tr": "rüzgar gücü",
+    "meaning_en": "wind force",
+    "meaning_uk": "сила вітру",
+    "meaning_es": "fuerza del viento"
+  },
+  {
+    "term": "die Dürre",
+    "meaning_tr": "kuraklık",
+    "meaning_en": "drought",
+    "meaning_uk": "посуха",
+    "meaning_es": "sequía"
+  },
+  {
+    "term": "die Flut",
+    "meaning_tr": "sel",
+    "meaning_en": "flood",
+    "meaning_uk": "повінь",
+    "meaning_es": "inundación"
+  },
+  {
+    "term": "die Hitzewelle",
+    "meaning_tr": "sıcak hava dalgası",
+    "meaning_en": "heatwave",
+    "meaning_uk": "хвиля спеки",
+    "meaning_es": "ola de calor"
+  },
+  {
+    "term": "die Kältewelle",
+    "meaning_tr": "soğuk hava dalgası",
+    "meaning_en": "cold wave",
+    "meaning_uk": "хвиля холоду",
+    "meaning_es": "ola de frío"
+  },
+  {
+    "term": "die Frostperiode",
+    "meaning_tr": "donma dönemi",
+    "meaning_en": "frost period",
+    "meaning_uk": "період заморозків",
+    "meaning_es": "período de heladas"
+  },
+  {
+    "term": "der Sonnenaufgang",
+    "meaning_tr": "gün doğumu",
+    "meaning_en": "sunrise",
+    "meaning_uk": "схід сонця",
+    "meaning_es": "amanecer"
+  },
+  {
+    "term": "der Sonnenuntergang",
+    "meaning_tr": "gün batımı",
+    "meaning_en": "sunset",
+    "meaning_uk": "захід сонця",
+    "meaning_es": "atardecer"
+  },
+  {
+    "term": "der Sonnenschein",
+    "meaning_tr": "güneş ışığı",
+    "meaning_en": "sunshine",
+    "meaning_uk": "сонячне світло",
+    "meaning_es": "luz del sol"
+  },
+  {
+    "term": "die Bewölkung",
+    "meaning_tr": "bulutluluk",
+    "meaning_en": "cloudiness",
+    "meaning_uk": "хмарність",
+    "meaning_es": "nubosidad"
+  },
+  {
+    "term": "der Himmel",
+    "meaning_tr": "gökyüzü",
+    "meaning_en": "sky",
+    "meaning_uk": "небо",
+    "meaning_es": "cielo"
+  },
+  {
+    "term": "die Wettervorhersage",
+    "meaning_tr": "hava durumu tahmini",
+    "meaning_en": "weather forecast",
+    "meaning_uk": "прогноз погоди",
+    "meaning_es": "pronóstico del tiempo"
+  },
+  {
+    "term": "der Wetterumschwung",
+    "meaning_tr": "hava değişimi",
+    "meaning_en": "change in weather",
+    "meaning_uk": "зміна погоди",
+    "meaning_es": "cambio de tiempo"
+  },
+  {
+    "term": "die Wetterbedingungen",
+    "meaning_tr": "hava koşulları",
+    "meaning_en": "weather conditions",
+    "meaning_uk": "погодні умови",
+    "meaning_es": "condiciones meteorológicas"
+  },
+  {
+    "term": "die Jahreszeit",
+    "meaning_tr": "mevsim",
+    "meaning_en": "season",
+    "meaning_uk": "пора року",
+    "meaning_es": "estación"
+  },
+  {
+    "term": "der Frühling",
+    "meaning_tr": "ilkbahar",
+    "meaning_en": "spring",
+    "meaning_uk": "весна",
+    "meaning_es": "primavera"
+  },
+  {
+    "term": "der Sommer",
+    "meaning_tr": "yaz",
+    "meaning_en": "summer",
+    "meaning_uk": "літо",
+    "meaning_es": "verano"
+  },
+  {
+    "term": "der Herbst",
+    "meaning_tr": "sonbahar",
+    "meaning_en": "autumn, fall",
+    "meaning_uk": "осінь",
+    "meaning_es": "otoño"
+  },
+  {
+    "term": "der Winter",
+    "meaning_tr": "kış",
+    "meaning_en": "winter",
+    "meaning_uk": "зима",
+    "meaning_es": "invierno"
+  },
+  {
+    "term": "der Neuschnee",
+    "meaning_tr": "yeni kar",
+    "meaning_en": "fresh snow",
+    "meaning_uk": "новий сніг",
+    "meaning_es": "nieve fresca"
+  },
+  {
+    "term": "der Raureif",
+    "meaning_tr": "kırağı",
+    "meaning_en": "hoarfrost",
+    "meaning_uk": "іній",
+    "meaning_es": "escarcha"
+  },
+  {
+    "term": "das Tauwetter",
+    "meaning_tr": "çözülme havası",
+    "meaning_en": "thaw",
+    "meaning_uk": "відлига",
+    "meaning_es": "deshielo"
+  },
+  {
+    "term": "die Schneeschmelze",
+    "meaning_tr": "kar erimesi",
+    "meaning_en": "snowmelt",
+    "meaning_uk": "танення снігу",
+    "meaning_es": "deshielo de nieve"
+  },
+  {
+    "term": "die Pollenbelastung",
+    "meaning_tr": "polen yükü",
+    "meaning_en": "pollen count",
+    "meaning_uk": "вміст пилку",
+    "meaning_es": "recuento de polen"
+  },
+  {
+    "term": "der Laubfall",
+    "meaning_tr": "yaprak dökümü",
+    "meaning_en": "leaf fall",
+    "meaning_uk": "опадання листя",
+    "meaning_es": "caída de hojas"
+  },
+  {
+    "term": "die Schneedecke",
+    "meaning_tr": "kar örtüsü",
+    "meaning_en": "snow cover",
+    "meaning_uk": "сніговий покрив",
+    "meaning_es": "cobertura de nieve"
+  },
+  {
+    "term": "die Eisschicht",
+    "meaning_tr": "buz tabakası",
+    "meaning_en": "layer of ice",
+    "meaning_uk": "шар льоду",
+    "meaning_es": "capa de hielo"
+  },
+  {
+    "term": "die Frostgrenze",
+    "meaning_tr": "don sınırı",
+    "meaning_en": "frost line",
+    "meaning_uk": "лінія морозу",
+    "meaning_es": "línea de escarcha"
+  },
+  {
+    "term": "der Blizzard",
+    "meaning_tr": "kar fırtınası",
+    "meaning_en": "blizzard",
+    "meaning_uk": "хуртовина",
+    "meaning_es": "ventisca"
+  },
+  {
+    "term": "der Monsun",
+    "meaning_tr": "muson",
+    "meaning_en": "monsoon",
+    "meaning_uk": "мусон",
+    "meaning_es": "monzón"
+  },
+  {
+    "term": "die Schneeflocke",
+    "meaning_tr": "kar tanesi",
+    "meaning_en": "snowflake",
+    "meaning_uk": "сніжинка",
+    "meaning_es": "copo de nieve"
+  },
+  {
+    "term": "der Taupunkt",
+    "meaning_tr": "çiy noktası",
+    "meaning_en": "dew point",
+    "meaning_uk": "точка роси",
+    "meaning_es": "punto de rocío"
+  },
+  {
+    "term": "die Gluthitze",
+    "meaning_tr": "yakıcı sıcaklık",
+    "meaning_en": "scorching heat",
+    "meaning_uk": "пекуча спека",
+    "meaning_es": "calor abrasador"
+  },
+  {
+    "term": "der Schneesturm",
+    "meaning_tr": "kar fırtınası",
+    "meaning_en": "snowstorm",
+    "meaning_uk": "снігова буря",
+    "meaning_es": "tormenta de nieve"
+  },
+  {
+    "term": "die Hochdruckzone",
+    "meaning_tr": "yüksek basınç bölgesi",
+    "meaning_en": "high-pressure zone",
+    "meaning_uk": "зона високого тиску",
+    "meaning_es": "zona de alta presión"
+  },
+  {
+    "term": "die Tiefdruckzone",
+    "meaning_tr": "alçak basınç bölgesi",
+    "meaning_en": "low-pressure zone",
+    "meaning_uk": "зона низького тиску",
+    "meaning_es": "zona de baja presión"
+  },
+  {
+    "term": "die Frostschäden",
+    "meaning_tr": "don hasarı",
+    "meaning_en": "frost damage",
+    "meaning_uk": "пошкодження від морозу",
+    "meaning_es": "daños por heladas"
+  },
+  {
+    "term": "die Hitzeerschöpfung",
+    "meaning_tr": "sıcak çarpması",
+    "meaning_en": "heat exhaustion",
+    "meaning_uk": "тепловий удар",
+    "meaning_es": "agotamiento por calor"
+  },
+  {
+    "term": "der Wetterfrosch",
+    "meaning_tr": "hava durumu tahmincisi (argo)",
+    "meaning_en": "weather forecaster (slang)",
+    "meaning_uk": "синоптик (сленг)",
+    "meaning_es": "pronosticador del tiempo (jerga)"
+  },
+  {
+    "term": "die Wetterküche",
+    "meaning_tr": "hava durumu oluşum alanı",
+    "meaning_en": "weather kitchen (area where weather is formed)",
+    "meaning_uk": "кухня погоди (місце формування погоди)",
+    "meaning_es": "cocina meteorológica (zona de formación del tiempo)"
+  }
+]

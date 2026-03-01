@@ -1,77 +1,141 @@
 {
   "title": "Verkehr & Transport (A1)",
-  "items": [
+  "language": "de",
+  "words": [
     {
       "term": "das Auto",
-      "type": "Nomen (n)",
-      "meaning_tr": "car",
-      "example": "Ich fahre mit dem Auto."
+      "type": "Noun",
+      "example": "Ich fahre mit *** zur Arbeit.",
+      "meaning_tr": "araba",
+      "meaning_en": "car",
+      "meaning_uk": "автомобіль",
+      "meaning_es": "coche"
     },
     {
       "term": "der Bus",
-      "type": "Nomen (m)",
-      "meaning_tr": "bus",
-      "example": "Der Bus kommt um zehn Uhr."
+      "type": "Noun",
+      "example": "Wir nehmen *** zum Stadtzentrum.",
+      "meaning_tr": "otobüs",
+      "meaning_en": "bus",
+      "meaning_uk": "автобус",
+      "meaning_es": "autobús"
     },
     {
-      "term": "die Bahn",
-      "type": "Nomen (f)",
-      "meaning_tr": "train (often used for public transport in general or railway)",
-      "example": "Wir nehmen die Bahn nach Berlin."
+      "term": "der Zug",
+      "type": "Noun",
+      "example": "*** nach Berlin fährt um 10 Uhr ab.",
+      "meaning_tr": "tren",
+      "meaning_en": "train",
+      "meaning_uk": "потяг",
+      "meaning_es": "tren"
     },
     {
       "term": "das Fahrrad",
-      "type": "Nomen (n)",
-      "meaning_tr": "bicycle",
-      "example": "Ich fahre gern Fahrrad."
+      "type": "Noun",
+      "example": "Er fährt jeden Tag mit *** zur Schule.",
+      "meaning_tr": "bisiklet",
+      "meaning_en": "bicycle",
+      "meaning_uk": "велосипед",
+      "meaning_es": "bicicleta"
     },
     {
-      "term": "zu Fuß",
-      "type": "Adverbiale Bestimmung",
-      "meaning_tr": "on foot",
-      "example": "Ich gehe zur Arbeit zu Fuß."
+      "term": "die Straße",
+      "type": "Noun",
+      "example": "Bitte überqueren Sie *** vorsichtig.",
+      "meaning_tr": "cadde, yol",
+      "meaning_en": "street, road",
+      "meaning_uk": "вулиця, дорога",
+      "meaning_es": "calle, carretera"
+    },
+    {
+      "term": "die Ampel",
+      "type": "Noun",
+      "example": "An *** müssen wir warten.",
+      "meaning_tr": "trafik ışığı",
+      "meaning_en": "traffic light",
+      "meaning_uk": "світлофор",
+      "meaning_es": "semáforo"
+    },
+    {
+      "term": "der Bahnhof",
+      "type": "Noun",
+      "example": "Wo ist ***?",
+      "meaning_tr": "tren istasyonu",
+      "meaning_en": "train station",
+      "meaning_uk": "вокзал",
+      "meaning_es": "estación de tren"
+    },
+    {
+      "term": "die Haltestelle",
+      "type": "Noun",
+      "example": "*** ist gleich um die Ecke.",
+      "meaning_tr": "durak",
+      "meaning_en": "bus stop",
+      "meaning_uk": "зупинка",
+      "meaning_es": "parada de autobús"
     },
     {
       "term": "fahren",
       "type": "Verb",
-      "meaning_tr": "to drive, to go (by vehicle)",
-      "example": "Er fährt schnell."
+      "example": "Ich *** jeden Tag zur Arbeit.",
+      "meaning_tr": "sürmek, gitmek (araçla)",
+      "meaning_en": "to drive, to go (by vehicle)",
+      "meaning_uk": "їхати",
+      "meaning_es": "conducir, ir (en vehículo)"
     },
     {
       "term": "gehen",
       "type": "Verb",
-      "meaning_tr": "to walk, to go",
-      "example": "Wir gehen jetzt."
+      "example": "Wir *** zu Fuß zum Park.",
+      "meaning_tr": "yürümek",
+      "meaning_en": "to walk",
+      "meaning_uk": "йти пішки",
+      "meaning_es": "caminar, ir a pie"
     },
     {
-      "term": "die Straße",
-      "type": "Nomen (f)",
-      "meaning_tr": "street, road",
-      "example": "Die Straße ist nass."
-    },
-    {
-      "term": "der Bahnhof",
-      "type": "Nomen (m)",
-      "meaning_tr": "train station",
-      "example": "Wo ist der Bahnhof?"
-    },
-    {
-      "term": "die Haltestelle",
-      "type": "Nomen (f)",
-      "meaning_tr": "stop (bus/tram stop)",
-      "example": "Die Bushaltestelle ist hier."
-    },
-    {
-      "term": "fliegen",
+      "term": "abfahren",
       "type": "Verb",
-      "meaning_tr": "to fly",
-      "example": "Wir fliegen nach Spanien."
+      "example": "Der Zug wird pünktlich ***.",
+      "meaning_tr": "kalkmak, hareket etmek (araç)",
+      "meaning_en": "to depart (vehicle)",
+      "meaning_uk": "відправлятись (транспорт)",
+      "meaning_es": "salir, partir (vehículo)"
     },
     {
-      "term": "das Flugzeug",
-      "type": "Nomen (n)",
-      "meaning_tr": "airplane",
-      "example": "Das Flugzeug ist groß."
+      "term": "einsteigen",
+      "type": "Verb",
+      "example": "Bitte ***! Die Türen schließen gleich.",
+      "meaning_tr": "binmek (araç)",
+      "meaning_en": "to get on, to board (vehicle)",
+      "meaning_uk": "сідати (в транспорт)",
+      "meaning_es": "subir (a un vehículo)"
+    },
+    {
+      "term": "aussteigen",
+      "type": "Verb",
+      "example": "An der nächsten Station müssen wir ***.",
+      "meaning_tr": "inmek (araçtan)",
+      "meaning_en": "to get off (vehicle)",
+      "meaning_uk": "виходити (з транспорту)",
+      "meaning_es": "bajar (de un vehículo)"
+    },
+    {
+      "term": "hier",
+      "type": "Adverb",
+      "example": "Ist *** die Bushaltestelle?",
+      "meaning_tr": "burada",
+      "meaning_en": "here",
+      "meaning_uk": "тут",
+      "meaning_es": "aquí"
+    },
+    {
+      "term": "geradeaus",
+      "type": "Adverb",
+      "example": "Gehen Sie bitte ***.",
+      "meaning_tr": "dümdüz",
+      "meaning_en": "straight ahead",
+      "meaning_uk": "прямо",
+      "meaning_es": "todo recto"
     }
   ]
 }

@@ -1,125 +1,177 @@
-{
-  "title": "Wetter & Jahreszeiten (A2)",
-  "items": [
-    {
-      "term": "die Sonne",
-      "type": "Nomen",
-      "meaning_tr": "the sun",
-      "example": "Heute scheint die Sonne."
-    },
-    {
-      "term": "der Regen",
-      "type": "Nomen",
-      "meaning_tr": "the rain",
-      "example": "Es gibt leichten Regen."
-    },
-    {
-      "term": "der Schnee",
-      "type": "Nomen",
-      "meaning_tr": "the snow",
-      "example": "Im Winter fällt viel Schnee."
-    },
-    {
-      "term": "die Wolke",
-      "type": "Nomen",
-      "meaning_tr": "the cloud",
-      "example": "Der Himmel ist voller Wolken."
-    },
-    {
-      "term": "der Wind",
-      "type": "Nomen",
-      "meaning_tr": "the wind",
-      "example": "Es weht ein starker Wind."
-    },
-    {
-      "term": "warm",
-      "type": "Adjektiv",
-      "meaning_tr": "warm",
-      "example": "Die Temperaturen sind heute warm."
-    },
-    {
-      "term": "kalt",
-      "type": "Adjektiv",
-      "meaning_tr": "cold",
-      "example": "Mir ist kalt, es ist sehr kalt draußen."
-    },
-    {
-      "term": "heiß",
-      "type": "Adjektiv",
-      "meaning_tr": "hot",
-      "example": "Im Sommer ist es oft sehr heiß."
-    },
-    {
-      "term": "kühl",
-      "type": "Adjektiv",
-      "meaning_tr": "cool",
-      "example": "Ein kühler Morgen im Herbst."
-    },
-    {
-      "term": "das Wetter",
-      "type": "Nomen",
-      "meaning_tr": "the weather",
-      "example": "Wie ist das Wetter heute?"
-    },
-    {
-      "term": "die Jahreszeit",
-      "type": "Nomen",
-      "meaning_tr": "the season",
-      "example": "Welche Jahreszeit mögen Sie am liebsten?"
-    },
-    {
-      "term": "der Frühling",
-      "type": "Nomen",
-      "meaning_tr": "the spring",
-      "example": "Im Frühling blühen die Blumen."
-    },
-    {
-      "term": "der Sommer",
-      "type": "Nomen",
-      "meaning_tr": "the summer",
-      "example": "Wir fahren im Sommer ans Meer."
-    },
-    {
-      "term": "der Herbst",
-      "type": "Nomen",
-      "meaning_tr": "the autumn/fall",
-      "example": "Im Herbst fallen die Blätter von den Bäumen."
-    },
-    {
-      "term": "der Winter",
-      "type": "Nomen",
-      "meaning_tr": "the winter",
-      "example": "Im Winter gehe ich Schlittschuhlaufen."
-    },
-    {
-      "term": "regnen",
-      "type": "Verb",
-      "meaning_tr": "to rain",
-      "example": "Es regnet stark."
-    },
-    {
-      "term": "schneien",
-      "type": "Verb",
-      "meaning_tr": "to snow",
-      "example": "Es schneit seit heute Morgen."
-    },
-    {
-      "term": "die Temperatur",
-      "type": "Nomen",
-      "meaning_tr": "the temperature",
-      "example": "Die Temperatur liegt bei 15 Grad."
-    },
-    {
-      "term": "gewittern",
-      "type": "Verb",
-      "meaning_tr": "to thunder/storm",
-      "example": "Achtung, es kann heute Abend gewittern."
-    },
-    {
-      "term": "die Vorhersage",
-      "type": "Nomen",
-      "meaning_tr": "the forecast",
-      "example": "Die Wettervorhersage sagt Sonne voraus."
-    }
-  ]
-}
+[
+  {
+    "term": "der Regen",
+    "meaning_tr": "yağmur",
+    "meaning_en": "rain",
+    "meaning_uk": "дощ",
+    "meaning_es": "la lluvia"
+  },
+  {
+    "term": "die Sonne",
+    "meaning_tr": "güneş",
+    "meaning_en": "sun",
+    "meaning_uk": "сонце",
+    "meaning_es": "el sol"
+  },
+  {
+    "term": "der Schnee",
+    "meaning_tr": "kar",
+    "meaning_en": "snow",
+    "meaning_uk": "сніг",
+    "meaning_es": "la nieve"
+  },
+  {
+    "term": "der Wind",
+    "meaning_tr": "rüzgar",
+    "meaning_en": "wind",
+    "meaning_uk": "вітер",
+    "meaning_es": "el viento"
+  },
+  {
+    "term": "die Wolke",
+    "meaning_tr": "bulut",
+    "meaning_en": "cloud",
+    "meaning_uk": "хмара",
+    "meaning_es": "la nube"
+  },
+  {
+    "term": "das Wetter",
+    "meaning_tr": "hava durumu",
+    "meaning_en": "weather",
+    "meaning_uk": "погода",
+    "meaning_es": "el tiempo"
+  },
+  {
+    "term": "der Himmel",
+    "meaning_tr": "gökyüzü",
+    "meaning_en": "sky",
+    "meaning_uk": "небо",
+    "meaning_es": "el cielo"
+  },
+  {
+    "term": "die Temperatur",
+    "meaning_tr": "sıcaklık",
+    "meaning_en": "temperature",
+    "meaning_uk": "температура",
+    "meaning_es": "la temperatura"
+  },
+  {
+    "term": "warm",
+    "meaning_tr": "ılık, sıcak",
+    "meaning_en": "warm, hot",
+    "meaning_uk": "теплий, гарячий",
+    "meaning_es": "cálido, caliente"
+  },
+  {
+    "term": "kalt",
+    "meaning_tr": "soğuk",
+    "meaning_en": "cold",
+    "meaning_uk": "холодний",
+    "meaning_es": "frío"
+  },
+  {
+    "term": "sonnig",
+    "meaning_tr": "güneşli",
+    "meaning_en": "sunny",
+    "meaning_uk": "сонячний",
+    "meaning_es": "soleado"
+  },
+  {
+    "term": "bewölkt",
+    "meaning_tr": "bulutlu",
+    "meaning_en": "cloudy",
+    "meaning_uk": "хмарний",
+    "meaning_es": "nublado"
+  },
+  {
+    "term": "der Frühling",
+    "meaning_tr": "ilkbahar",
+    "meaning_en": "spring",
+    "meaning_uk": "весна",
+    "meaning_es": "la primavera"
+  },
+  {
+    "term": "der Sommer",
+    "meaning_tr": "yaz",
+    "meaning_en": "summer",
+    "meaning_uk": "літо",
+    "meaning_es": "el verano"
+  },
+  {
+    "term": "der Herbst",
+    "meaning_tr": "sonbahar",
+    "meaning_en": "autumn",
+    "meaning_uk": "осінь",
+    "meaning_es": "el otoño"
+  },
+  {
+    "term": "der Winter",
+    "meaning_tr": "kış",
+    "meaning_en": "winter",
+    "meaning_uk": "зима",
+    "meaning_es": "el invierno"
+  },
+  {
+    "term": "die Jahreszeit",
+    "meaning_tr": "mevsim",
+    "meaning_en": "season",
+    "meaning_uk": "пора року",
+    "meaning_es": "la estación"
+  },
+  {
+    "term": "der Sturm",
+    "meaning_tr": "fırtına",
+    "meaning_en": "storm",
+    "meaning_uk": "буря",
+    "meaning_es": "la tormenta"
+  },
+  {
+    "term": "der Hagel",
+    "meaning_tr": "dolu",
+    "meaning_en": "hail",
+    "meaning_uk": "град",
+    "meaning_es": "el granizo"
+  },
+  {
+    "term": "der Nebel",
+    "meaning_tr": "sis",
+    "meaning_en": "fog",
+    "meaning_uk": "туман",
+    "meaning_es": "la niebla"
+  },
+  {
+    "term": "der Blitz",
+    "meaning_tr": "şimşek",
+    "meaning_en": "lightning",
+    "meaning_uk": "блискавка",
+    "meaning_es": "el rayo"
+  },
+  {
+    "term": "der Donner",
+    "meaning_tr": "gök gürültüsü",
+    "meaning_en": "thunder",
+    "meaning_uk": "грім",
+    "meaning_es": "el trueno"
+  },
+  {
+    "term": "die Hitze",
+    "meaning_tr": "sıcak, bunaltıcı hava",
+    "meaning_en": "heat, hot weather",
+    "meaning_uk": "спека, гаряча погода",
+    "meaning_es": "el calor, tiempo caluroso"
+  },
+  {
+    "term": "der Frost",
+    "meaning_tr": "don",
+    "meaning_en": "frost",
+    "meaning_uk": "мороз",
+    "meaning_es": "la escarcha"
+  },
+  {
+    "term": "klar",
+    "meaning_tr": "açık (hava)",
+    "meaning_en": "clear (weather)",
+    "meaning_uk": "ясний (погода)",
+    "meaning_es": "despejado (tiempo)"
+  }
+]

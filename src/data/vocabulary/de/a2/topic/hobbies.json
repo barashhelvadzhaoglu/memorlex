@@ -1,126 +1,177 @@
-{
-  "title": "Hobbys & Freizeit (A2)",
-  "items": [
-    {
-      "term": "das Hobby",
-      "type": "Noun (n)",
-      "meaning_tr": "Hobby",
-      "example": "Mein Hobby ist das Lesen."
-    },
-    {
-      "term": "die Freizeit",
-      "type": "Noun (f)",
-      "meaning_tr": "Leisure time",
-      "example": "Was machst du in deiner Freizeit?"
-    },
-    {
-      "term": "lesen",
-      "type": "Verb",
-      "meaning_tr": "to read",
-      "example": "Ich lese gern Bücher."
-    },
-    {
-      "term": "Musik hören",
-      "type": "Verb phrase",
-      "meaning_tr": "to listen to music",
-      "example": "Wir hören oft Musik zusammen."
-    },
-    {
-      "term": "schwimmen",
-      "type": "Verb",
-      "meaning_tr": "to swim",
-      "example": "Im Sommer gehe ich schwimmen."
-    },
-    {
-      "term": "Sport machen",
-      "type": "Verb phrase",
-      "meaning_tr": "to do sports",
-      "example": "Er macht jeden Tag Sport."
-    },
-    {
-      "term": "kochen",
-      "type": "Verb",
-      "meaning_tr": "to cook",
-      "example": "Ich lerne, wie man gut kocht."
-    },
-    {
-      "term": "malen",
-      "type": "Verb",
-      "meaning_tr": "to paint",
-      "example": "Sie kann sehr schön malen."
-    },
-    {
-      "term": "spielen",
-      "type": "Verb",
-      "meaning_tr": "to play",
-      "example": "Kinder spielen im Garten."
-    },
-    {
-      "term": "tanzen",
-      "type": "Verb",
-      "meaning_tr": "to dance",
-      "example": "Möchtest du tanzen gehen?"
-    },
-    {
-      "term": "singen",
-      "type": "Verb",
-      "meaning_tr": "to sing",
-      "example": "Er singt im Chor."
-    },
-    {
-      "term": "fernsehen",
-      "type": "Verb",
-      "meaning_tr": "to watch TV",
-      "example": "Wir sehen jeden Abend fern."
-    },
-    {
-      "term": "reisen",
-      "type": "Verb",
-      "meaning_tr": "to travel",
-      "example": "Ich möchte gern nach Italien reisen."
-    },
-    {
-      "term": "fotografieren",
-      "type": "Verb",
-      "meaning_tr": "to take photos",
-      "example": "Sie fotografiert gerne Landschaften."
-    },
-    {
-      "term": "gärtnern",
-      "type": "Verb",
-      "meaning_tr": "to garden",
-      "example": "Mein Opa liebt es zu gärtnern."
-    },
-    {
-      "term": "die Zeitung",
-      "type": "Noun (f)",
-      "meaning_tr": "Newspaper",
-      "example": "Liest du jeden Morgen die Zeitung?"
-    },
-    {
-      "term": "das Fahrrad",
-      "type": "Noun (n)",
-      "meaning_tr": "Bicycle",
-      "example": "Ich fahre gerne Fahrrad am Wochenende."
-    },
-    {
-      "term": "ein Freund / eine Freundin",
-      "type": "Noun (m/f)",
-      "meaning_tr": "A friend (male/female)",
-      "example": "Ich treffe mich mit einem Freund."
-    },
-    {
-      "term": "die Musik",
-      "type": "Noun (f)",
-      "meaning_tr": "Music",
-      "example": "Welche Musik magst du?",
-      "Note": "Often used with 'hören'"
-    },
-    {
-      "term": "der Film",
-      "type": "Noun (m)",
-      "meaning_tr": "Movie",
-      "example": "Wir schauen heute einen neuen Film."
-    }
-  ]
-}
+[
+  {
+    "term": "das Hobby",
+    "meaning_tr": "hobi",
+    "meaning_en": "hobby",
+    "meaning_uk": "хобі",
+    "meaning_es": "pasatiempo"
+  },
+  {
+    "term": "die Freizeit",
+    "meaning_tr": "boş zaman",
+    "meaning_en": "leisure time",
+    "meaning_uk": "вільний час",
+    "meaning_es": "tiempo libre"
+  },
+  {
+    "term": "der Sport",
+    "meaning_tr": "spor",
+    "meaning_en": "sport",
+    "meaning_uk": "спорт",
+    "meaning_es": "deporte"
+  },
+  {
+    "term": "das Kino",
+    "meaning_tr": "sinema",
+    "meaning_en": "cinema",
+    "meaning_uk": "кінотеатр",
+    "meaning_es": "cine"
+  },
+  {
+    "term": "das Museum",
+    "meaning_tr": "müze",
+    "meaning_en": "museum",
+    "meaning_uk": "музей",
+    "meaning_es": "museo"
+  },
+  {
+    "term": "das Konzert",
+    "meaning_tr": "konser",
+    "meaning_en": "concert",
+    "meaning_uk": "концерт",
+    "meaning_es": "concierto"
+  },
+  {
+    "term": "das Theater",
+    "meaning_tr": "tiyatro",
+    "meaning_en": "theater",
+    "meaning_uk": "театр",
+    "meaning_es": "teatro"
+  },
+  {
+    "term": "das Restaurant",
+    "meaning_tr": "restoran",
+    "meaning_en": "restaurant",
+    "meaning_uk": "ресторан",
+    "meaning_es": "restaurante"
+  },
+  {
+    "term": "der Park",
+    "meaning_tr": "park",
+    "meaning_en": "park",
+    "meaning_uk": "парк",
+    "meaning_es": "parque"
+  },
+  {
+    "term": "die Musik",
+    "meaning_tr": "müzik",
+    "meaning_en": "music",
+    "meaning_uk": "музика",
+    "meaning_es": "música"
+  },
+  {
+    "term": "das Buch",
+    "meaning_tr": "kitap",
+    "meaning_en": "book",
+    "meaning_uk": "книга",
+    "meaning_es": "libro"
+  },
+  {
+    "term": "der Film",
+    "meaning_tr": "film",
+    "meaning_en": "film",
+    "meaning_uk": "фільм",
+    "meaning_es": "película"
+  },
+  {
+    "term": "das Internet",
+    "meaning_tr": "internet",
+    "meaning_en": "internet",
+    "meaning_uk": "інтернет",
+    "meaning_es": "internet"
+  },
+  {
+    "term": "das Handy",
+    "meaning_tr": "cep telefonu",
+    "meaning_en": "mobile phone",
+    "meaning_uk": "мобільний телефон",
+    "meaning_es": "teléfono móvil"
+  },
+  {
+    "term": "das Fernsehen",
+    "meaning_tr": "televizyon",
+    "meaning_en": "television",
+    "meaning_uk": "телебачення",
+    "meaning_es": "televisión"
+  },
+  {
+    "term": "die Reise",
+    "meaning_tr": "seyahat, yolculuk",
+    "meaning_en": "trip, journey",
+    "meaning_uk": "подорож",
+    "meaning_es": "viaje"
+  },
+  {
+    "term": "das Schwimmen",
+    "meaning_tr": "yüzme",
+    "meaning_en": "swimming",
+    "meaning_uk": "плавання",
+    "meaning_es": "natación"
+  },
+  {
+    "term": "das Laufen",
+    "meaning_tr": "koşma",
+    "meaning_en": "running",
+    "meaning_uk": "біг",
+    "meaning_es": "correr"
+  },
+  {
+    "term": "das Radfahren",
+    "meaning_tr": "bisiklete binme",
+    "meaning_en": "cycling",
+    "meaning_uk": "велоспорт",
+    "meaning_es": "ciclismo"
+  },
+  {
+    "term": "das Tanzen",
+    "meaning_tr": "dans etme",
+    "meaning_en": "dancing",
+    "meaning_uk": "танці",
+    "meaning_es": "bailar"
+  },
+  {
+    "term": "das Kochen",
+    "meaning_tr": "yemek pişirme",
+    "meaning_en": "cooking",
+    "meaning_uk": "кулінарія",
+    "meaning_es": "cocinar"
+  },
+  {
+    "term": "das Lesen",
+    "meaning_tr": "okuma",
+    "meaning_en": "reading",
+    "meaning_uk": "читання",
+    "meaning_es": "leer"
+  },
+  {
+    "term": "das Malen",
+    "meaning_tr": "resim yapma",
+    "meaning_en": "painting",
+    "meaning_uk": "малювання",
+    "meaning_es": "pintar"
+  },
+  {
+    "term": "das Spielen",
+    "meaning_tr": "oynama",
+    "meaning_en": "playing",
+    "meaning_uk": "грати",
+    "meaning_es": "jugar"
+  },
+  {
+    "term": "der Spaziergang",
+    "meaning_tr": "yürüyüş",
+    "meaning_en": "walk",
+    "meaning_uk": "прогулянка",
+    "meaning_es": "paseo"
+  }
+]

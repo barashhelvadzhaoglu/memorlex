@@ -1,377 +1,898 @@
-{
-  "title": "Verkehr & Transport (C1)",
-  "items": [
-    {
-      "term": "die Verkehrsdichte",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "traffic density",
-      "example": "In der Innenstadt herrschte zur Hauptverkehrszeit eine extrem hohe Verkehrsdichte."
-    },
-    {
-      "term": "die Verkehrsinfrastruktur",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "transport infrastructure",
-      "example": "Der Ausbau der Verkehrsinfrastruktur ist entscheidend für das Wirtschaftswachstum."
-    },
-    {
-      "term": "die Stauprognose",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "traffic jam forecast",
-      "example": "Laut der Stauprognose wird es am Wochenende auf der Autobahn A5 zu Verzögerungen kommen."
-    },
-    {
-      "term": "der Güterverkehr",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "freight transport",
-      "example": "Der Güterverkehr verlagert sich zunehmend auf die Schiene, um CO2 zu reduzieren."
-    },
-    {
-      "term": "der Personenfernverkehr",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "long-distance passenger transport",
-      "example": "Der Personenfernverkehr der Bahn bietet eine umweltfreundliche Alternative zum Flugzeug."
-    },
-    {
-      "term": "die Pünktlichkeitsquote",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "punctuality rate",
-      "example": "Die Bahn arbeitet daran, die Pünktlichkeitsquote im Regionalverkehr deutlich zu erhöhen."
-    },
-    {
-      "term": "die Verkehrsflussoptimierung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "traffic flow optimization",
-      "example": "Intelligente Ampelschaltungen dienen der Verkehrsflussoptimierung in urbanen Gebieten."
-    },
-    {
-      "term": "die emissionsfreie Mobilität",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "zero-emission mobility",
-      "example": "Die Stadt fördert aktiv die Umstellung auf emissionsfreie Mobilität durch E-Ladeinfrastruktur."
-    },
-    {
-      "term": "die Multimodalität",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "multimodality (using different modes of transport)",
-      "example": "Das Konzept der Multimodalität integriert Bahn, Bus und Fahrradwege nahtlos."
-    },
-    {
-      "term": "die Rücksichtnahme",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "consideration, attentiveness (in traffic)",
-      "example": "Mehr Rücksichtnahme im Straßenverkehr könnte Unfälle mit Radfahrern verhindern."
-    },
-    {
-      "term": "die Verkehrslage",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "traffic situation",
-      "example": "Vor der Abfahrt sollte man immer die aktuelle Verkehrslage überprüfen."
-    },
-    {
-      "term": "die Verkehrsberuhigung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "traffic calming",
-      "example": "Die Einführung von Tempo-30-Zonen dient der Verkehrsberuhigung in Wohngebieten."
-    },
-    {
-      "term": "die Ladeinfrastruktur",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "charging infrastructure (for EVs)",
-      "example": "Der Mangel an flächendeckender Ladeinfrastruktur bremst die E-Mobilität."
-    },
-    {
-      "term": "die Fahrgastzelle",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "passenger cell (in a vehicle)",
-      "example": "Moderne Autos legen großen Wert auf die Stabilität der Fahrgastzelle bei Kollisionen."
-    },
-    {
-      "term": "die aerodynamische Optimierung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "aerodynamic optimization",
-      "example": "Die aerodynamische Optimierung des Zuges senkt den Energieverbrauch bei hohen Geschwindigkeiten."
-    },
-    {
-      "term": "der innerstädtische Pendlerverkehr",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "inner-city commuter traffic",
-      "example": "Der innerstädtische Pendlerverkehr stellt eine enorme Belastung für die Metropolregion dar."
-    },
-    {
-      "term": "die Erreichbarkeit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "accessibility",
-      "example": "Die gute Erreichbarkeit des neuen Businessparks ist ein Standortvorteil."
-    },
-    {
-      "term": "die Betriebszeit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "operating time",
-      "example": "Die Betriebszeit der Fähre wird wetterabhängig angepasst."
-    },
-    {
-      "term": "die Fahrgastfrequenz",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "passenger frequency",
-      "example": "Die Fahrgastfrequenz im U-Bahn-Netz ist nach der Pandemie noch nicht wieder vollständig erreicht."
-    },
-    {
-      "term": "die LKW-Maut",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "truck toll",
-      "example": "Die Einführung einer höheren LKW-Maut soll den Anreiz für Bahnverladungen steigern."
-    },
-    {
-      "term": "der autonom fahrende LKW",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "self-driving truck",
-      "example": "Die Erprobung autonom fahrender LKWs auf Teststrecken läuft auf Hochtouren."
-    },
-    {
-      "term": "die Telematik",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "telematics",
-      "example": "Telematiksysteme helfen Speditionen, ihre Routen effizient zu planen und zu überwachen."
-    },
-    {
-      "term": "die Verspätungsursache",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "cause of delay",
-      "example": "Die genaue Analyse der Verspätungsursache ist essenziell für zukünftige Planungen."
-    },
-    {
-      "term": "die Luftfracht",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "air freight",
-      "example": "Aufgrund der Dringlichkeit wurde die empfindliche Ware per Luftfracht transportiert."
-    },
-    {
-      "term": "die Verladekapazität",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "loading capacity",
-      "example": "Der Hafen muss seine Verladekapazität erweitern, um den wachsenden Containerverkehr zu bewältigen."
-    },
-    {
-      "term": "das Intermodalkonzept",
-      "type": "Substantiv, neutrum",
-      "meaning_tr": "intermodal concept",
-      "example": "Das Intermodalkonzept sieht vor, Güter auf der ersten und letzten Meile per LKW, den Hauptteil per Bahn zu befördern."
-    },
-    {
-      "term": "die Ladezeitenoptimierung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "loading time optimization",
-      "example": "Durch digitale Check-ins konnte die Ladezeitenoptimierung im Güterverkehr erreicht werden."
-    },
-    {
-      "term": "die Fahrbahnsanierung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "road surface renovation",
-      "example": "Die nächtliche Fahrbahnsanierung führt zu kurzfristigen Sperrungen."
-    },
-    {
-      "term": "die Ausweichroute",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "detour, alternative route",
-      "example": "Wegen des Unfalls mussten alle Fahrer auf die ausgeschilderte Ausweichroute ausweichen."
-    },
-    {
-      "term": "die Nachfragebündelung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "demand aggregation",
-      "example": "Durch Nachfragebündelung bei Ride-Sharing-Diensten kann der Leerstand der Fahrzeuge reduziert werden."
-    },
-    {
-      "term": "der Spurbruch",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "track defect/break (rail)",
-      "example": "Ein technischer Defekt am Gleis, ein sogenannter Spurbruch, führte zur sofortigen Streckensperrung."
-    },
-    {
-      "term": "die Fahrgastinformation",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "passenger information",
-      "example": "Die Echtzeit-Fahrgastinformation über die App ist sehr zuverlässig geworden."
-    },
-    {
-      "term": "die Streckenbelegung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "line occupancy/utilization (rail)",
-      "example": "Eine höhere Streckenbelegung kann nur durch dichtere Taktzeiten realisiert werden."
-    },
-    {
-      "term": "die Verkehrsader",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "major traffic artery",
-      "example": "Die A7 gilt als eine der wichtigsten Verkehrsachsen Norddeutschlands."
-    },
-    {
-      "term": "die Verzögerungstoleranz",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "delay tolerance",
-      "example": "Für den Hochgeschwindigkeitsverkehr muss die Verzögerungstoleranz extrem gering sein."
-    },
-    {
-      "term": "die Fahrgastzuwachs",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "passenger growth",
-      "example": "Trotz des Trends zum Homeoffice verzeichnen die städtischen Nahverkehrsbetriebe einen Fahrgastzuwachs."
-    },
-    {
-      "term": "die Kapazitätsauslastung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "capacity utilization",
-      "example": "In den Ferien erreicht die Kapazitätsauslastung der Fluggesellschaften ihren Höhepunkt."
-    },
-    {
-      "term": "die Leihfahrräder (E-Bikes)",
-      "type": "Substantiv, feminin (Plural)",
-      "meaning_tr": "rental bikes (e-bikes)",
-      "example": "Das Angebot an Leihfahrrädern erleichtert die sogenannte 'letzte Meile' zur Wohnung."
-    },
-    {
-      "term": "die automatisiertes Fahren",
-      "type": "Substantiv, neutrum",
-      "meaning_tr": "automated driving",
-      "example": "Die rechtlichen Rahmenbedingungen für automatisiertes Fahren müssen noch geschaffen werden."
-    },
-    {
-      "term": "die Streckenplanung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "route planning",
-      "example": "Die Streckenplanung für die neue Hochgeschwindigkeitsstrecke war politisch umstritten."
-    },
-    {
-      "term": "die Emissionsgrenzwerte",
-      "type": "Substantiv, maskulin (Plural)",
-      "meaning_tr": "emission limits",
-      "example": "Die neuen EU-Emissionsgrenzwerte zwingen die Automobilhersteller zum Umdenken."
-    },
-    {
-      "term": "die Streckenunterbrechung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "line interruption/suspension",
-      "example": "Wegen eines medizinischen Notfalls kam es zu einer kurzfristigen Streckenunterbrechung."
-    },
-    {
-      "term": "der Schienenersatzverkehr (SEV)",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "rail replacement service",
-      "example": "Wegen Bauarbeiten wurde für die nächsten drei Wochen ein Schienenersatzverkehr eingerichtet."
-    },
-    {
-      "term": "die Parkraumbewirtschaftung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "parking space management",
-      "example": "Die kommunale Parkraumbewirtschaftung soll den Durchgangsverkehr reduzieren."
-    },
-    {
-      "term": "die Reiserücktrittsversicherung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "travel cancellation insurance",
-      "example": "Angesichts der unsicheren Lage empfiehlt sich der Abschluss einer Reiserücktrittsversicherung."
-    },
-    {
-      "term": "der Liniennetzplan",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "network plan (routes)",
-      "example": "Der neue Liniennetzplan sieht eine bessere Anbindung des Industriegebiets vor."
-    },
-    {
-      "term": "die Fahrplanstabilität",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "timetable stability",
-      "example": "Die Fahrplanstabilität hat oberste Priorität bei der morgendlichen Rushhour."
-    },
-    {
-      "term": "die Abgasnorm",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "emission standard",
-      "example": "Ältere Dieselfahrzeuge erfüllen die aktuellen Abgasnormen nicht mehr."
-    },
-    {
-      "term": "die Störungsbehebung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "fault clearance/troubleshooting",
-      "example": "Die schnelle Störungsbehebung an der Signaltechnik verhinderte einen kompletten Kollaps."
-    },
-    {
-      "term": "der Nahverkehrstarif",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "local transport tariff/fare",
-      "example": "Die Einführung eines einheitlichen Nahverkehrstarifs für die gesamte Region wird diskutiert."
-    },
-    {
-      "term": "die Verkehrssicherheit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "road safety/traffic safety",
-      "example": "Investitionen in bessere Beleuchtung erhöhen die Verkehrssicherheit auf Landstraßen."
-    },
-    {
-      "term": "die Routenkorrektur",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "route correction",
-      "example": "Aufgrund von Bauarbeiten musste eine sofortige Routenkorrektur für die Buslinien erfolgen."
-    },
-    {
-      "term": "die Transitstrecke",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "transit route",
-      "example": "Die Gemeinde wehrt sich gegen die Umwandlung ihrer ruhigen Straße in eine laute Transitstrecke."
-    },
-    {
-      "term": "der ÖPNV-Ausbau",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "expansion of public local transport",
-      "example": "Der ÖPNV-Ausbau ist eine zentrale Forderung der Umweltverbände."
-    },
-    {
-      "term": "die Reisezeitoptimierung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "travel time optimization",
-      "example": "Durch die neue Direktverbindung konnte die Reisezeitoptimierung um 45 Minuten erzielt werden."
-    },
-    {
-      "term": "die Fahrbahnmarkierung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "road marking",
-      "example": "Die verblasste Fahrbahnmarkierung erschwerte die Orientierung bei Nebel."
-    },
-    {
-      "term": "die Fahrzeugflotte",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "vehicle fleet",
-      "example": "Die städtische Busgesellschaft plant die schrittweise Erneuerung ihrer Fahrzeugflotte."
-    },
-    {
-      "term": "die Versorgungslogistik",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "supply chain logistics",
-      "example": "Die Versorgungslogistik für die Messe musste perfekt koordiniert werden."
-    },
-    {
-      "term": "der Verkehrsträger",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "mode of transport",
-      "example": "Die Regierung fördert den Wechsel von der Straße auf umweltfreundlichere Verkehrsträger."
-    },
-    {
-      "term": "die Ankunftszeitprognose",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "estimated time of arrival (ETA)",
-      "example": "Die Ankunftszeitprognose des nächsten Zuges ist aufgrund des Wetters unsicher."
-    },
-    {
-      "term": "der Mautpflichtige",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "person/vehicle subject to toll",
-      "example": "Alle LKW über 7,5 Tonnen sind in Deutschland Mautpflichtige."
-    },
-    {
-      "term": "die Verkehrssimulation",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "traffic simulation",
-      "example": "Mithilfe einer Verkehrssimulation wurden die Auswirkungen neuer Bauprojekte getestet."
-    }
-  ]
-}
+[
+  {
+    "term": "der Anhalter",
+    "meaning_tr": "otostopçu",
+    "meaning_en": "hitchhiker",
+    "meaning_uk": "автостопник",
+    "meaning_es": "autoestopista"
+  },
+  {
+    "term": "die Autobahnraststätte",
+    "meaning_tr": "otoban dinlenme tesisi",
+    "meaning_en": "motorway service area",
+    "meaning_uk": "автозаправна станція / зона відпочинку на автобані",
+    "meaning_es": "área de servicio de autopista"
+  },
+  {
+    "term": "die Auspuffanlage",
+    "meaning_tr": "egzoz sistemi",
+    "meaning_en": "exhaust system",
+    "meaning_uk": "вихлопна система",
+    "meaning_es": "sistema de escape"
+  },
+  {
+    "term": "der Ausweichverkehr",
+    "meaning_tr": "kaçış trafiği",
+    "meaning_en": "evasive traffic",
+    "meaning_uk": "об'їздний трафік",
+    "meaning_es": "tráfico de desvío"
+  },
+  {
+    "term": "der Bahndamm",
+    "meaning_tr": "demiryolu dolgu setti",
+    "meaning_en": "railway embankment",
+    "meaning_uk": "залізничний насип",
+    "meaning_es": "terraplén ferroviario"
+  },
+  {
+    "term": "die Beförderung",
+    "meaning_tr": "nakliye, taşıma",
+    "meaning_en": "transport, carriage",
+    "meaning_uk": "перевезення, транспортування",
+    "meaning_es": "transporte, traslado"
+  },
+  {
+    "term": "der Beifahrer",
+    "meaning_tr": "yolcu (arabada)",
+    "meaning_en": "passenger (in a car)",
+    "meaning_uk": "пасажир (в автомобілі)",
+    "meaning_es": "copiloto, pasajero (en coche)"
+  },
+  {
+    "term": "die Bergstrecke",
+    "meaning_tr": "dağ yolu",
+    "meaning_en": "mountain route",
+    "meaning_uk": "гірська дорога / маршрут",
+    "meaning_es": "ruta de montaña"
+  },
+  {
+    "term": "die Blockade",
+    "meaning_tr": "abluka, engelleme",
+    "meaning_en": "blockade, obstruction",
+    "meaning_uk": "блокада, перешкода",
+    "meaning_es": "bloqueo, obstrucción"
+  },
+  {
+    "term": "der Bremsbelag",
+    "meaning_tr": "fren balatası",
+    "meaning_en": "brake pad",
+    "meaning_uk": "гальмівна колодка",
+    "meaning_es": "pastilla de freno"
+  },
+  {
+    "term": "die Brückenauffahrt",
+    "meaning_tr": "köprüye giriş",
+    "meaning_en": "bridge approach",
+    "meaning_uk": "під'їзд до мосту",
+    "meaning_es": "rampa de acceso al puente"
+  },
+  {
+    "term": "die Durchfahrt",
+    "meaning_tr": "geçiş, yol",
+    "meaning_en": "passage, driveway",
+    "meaning_uk": "проїзд, прохід",
+    "meaning_es": "paso, vía de acceso"
+  },
+  {
+    "term": "der Einbahnstraßenverkehr",
+    "meaning_tr": "tek yönlü trafik",
+    "meaning_en": "one-way traffic",
+    "meaning_uk": "односторонній рух",
+    "meaning_es": "tráfico de sentido único"
+  },
+  {
+    "term": "die Einsatzfahrzeuge",
+    "meaning_tr": "acil durum araçları",
+    "meaning_en": "emergency vehicles",
+    "meaning_uk": "екстрені транспортні засоби",
+    "meaning_es": "vehículos de emergencia"
+  },
+  {
+    "term": "die Eisenbahnstrecke",
+    "meaning_tr": "demiryolu hattı",
+    "meaning_en": "railway line",
+    "meaning_uk": "залізнична лінія",
+    "meaning_es": "línea ferroviaria"
+  },
+  {
+    "term": "der Fernbus",
+    "meaning_tr": "şehirlerarası otobüs",
+    "meaning_en": "long-distance bus",
+    "meaning_uk": "дальній автобус",
+    "meaning_es": "autobús de larga distancia"
+  },
+  {
+    "term": "die Fähre",
+    "meaning_tr": "feribot",
+    "meaning_en": "ferry",
+    "meaning_uk": "пором",
+    "meaning_es": "ferry, transbordador"
+  },
+  {
+    "term": "der Güterverkehr",
+    "meaning_tr": "yük taşımacılığı",
+    "meaning_en": "freight transport",
+    "meaning_uk": "вантажні перевезення",
+    "meaning_es": "transporte de mercancías"
+  },
+  {
+    "term": "der Hauptbahnhof",
+    "meaning_tr": "ana tren istasyonu",
+    "meaning_en": "main train station",
+    "meaning_uk": "головний залізничний вокзал",
+    "meaning_es": "estación central de tren"
+  },
+  {
+    "term": "die Helling",
+    "meaning_tr": "kızak (gemiler için)",
+    "meaning_en": "slipway (for ships)",
+    "meaning_uk": "слип (для суден)",
+    "meaning_es": " grada (para barcos)"
+  },
+  {
+    "term": "der Hubschrauberlandeplatz",
+    "meaning_tr": "helikopter pisti",
+    "meaning_en": "helipad",
+    "meaning_uk": "гелікоптерний майданчик",
+    "meaning_es": "helipuerto"
+  },
+  {
+    "term": "die Infrastruktur",
+    "meaning_tr": "altyapı",
+    "meaning_en": "infrastructure",
+    "meaning_uk": "інфраструктура",
+    "meaning_es": "infraestructura"
+  },
+  {
+    "term": "die Irrfahrt",
+    "meaning_tr": "yanlış yolculuk, sapma",
+    "meaning_en": "erratic journey, deviation",
+    "meaning_uk": "блукання, відхилення від маршруту",
+    "meaning_es": "viaje errante, desvío"
+  },
+  {
+    "term": "der Kabinenroller",
+    "meaning_tr": "kapalı motosiklet",
+    "meaning_en": "enclosed scooter",
+    "meaning_uk": "закритий скутер",
+    "meaning_es": "scooter cerrado"
+  },
+  {
+    "term": "die Kanaldurchfahrt",
+    "meaning_tr": "kanal geçişi",
+    "meaning_en": "canal transit",
+    "meaning_uk": "прохід через канал",
+    "meaning_es": "tránsito por canal"
+  },
+  {
+    "term": "die Kapazität",
+    "meaning_tr": "kapasite",
+    "meaning_en": "capacity",
+    "meaning_uk": "місткість, потужність",
+    "meaning_es": "capacidad"
+  },
+  {
+    "term": "die Kohlendioxidemission",
+    "meaning_tr": "karbondioksit emisyonu",
+    "meaning_en": "carbon dioxide emission",
+    "meaning_uk": "викиди вуглекислого газу",
+    "meaning_es": "emisión de dióxido de carbono"
+  },
+  {
+    "term": "der Korridorverkehr",
+    "meaning_tr": "koridor trafiği",
+    "meaning_en": "corridor traffic",
+    "meaning_uk": "коридорний рух",
+    "meaning_es": "tráfico de corredor"
+  },
+  {
+    "term": "die Ladefläche",
+    "meaning_tr": "yükleme alanı",
+    "meaning_en": "loading area, cargo bed",
+    "meaning_uk": "вантажна платформа, кузов",
+    "meaning_es": "plataforma de carga"
+  },
+  {
+    "term": "die Landebahn",
+    "meaning_tr": "pisti",
+    "meaning_en": "runway",
+    "meaning_uk": "злітно-посадкова смуга",
+    "meaning_es": "pista de aterrizaje"
+  },
+  {
+    "term": "die Lastwagenkolonne",
+    "meaning_tr": "kamyon konvoyu",
+    "meaning_en": "lorry convoy",
+    "meaning_uk": "колона вантажівок",
+    "meaning_es": "convoy de camiones"
+  },
+  {
+    "term": "die Lebensader",
+    "meaning_tr": "can damarı, ana ulaşım yolu",
+    "meaning_en": "lifeline, main transport artery",
+    "meaning_uk": "життєва артерія, головний транспортний шлях",
+    "meaning_es": "arteria vital, vía principal de transporte"
+  },
+  {
+    "term": "der Linienbus",
+    "meaning_tr": "hat otobüsü",
+    "meaning_en": "scheduled bus",
+    "meaning_uk": "маршрутний автобус",
+    "meaning_es": "autobús de línea"
+  },
+  {
+    "term": "die Luftfracht",
+    "meaning_tr": "hava kargo",
+    "meaning_en": "air freight",
+    "meaning_uk": "авіавантаж",
+    "meaning_es": "carga aérea"
+  },
+  {
+    "term": "der Lokführer",
+    "meaning_tr": "makinist",
+    "meaning_en": "train driver, engine driver",
+    "meaning_uk": "машиніст",
+    "meaning_es": "maquinista"
+  },
+  {
+    "term": "die Manövrierfähigkeit",
+    "meaning_tr": "manevra kabiliyeti",
+    "meaning_en": "maneuverability",
+    "meaning_uk": "маневреність",
+    "meaning_es": "maniobrabilidad"
+  },
+  {
+    "term": "der Marschweg",
+    "meaning_tr": "yürüyüş yolu",
+    "meaning_en": "marching route, pathway",
+    "meaning_uk": "шлях маршу, пішохідна доріжка",
+    "meaning_es": "ruta de marcha, sendero peatonal"
+  },
+  {
+    "term": "der Massentransport",
+    "meaning_tr": "toplu taşıma",
+    "meaning_en": "mass transport",
+    "meaning_uk": "масове перевезення",
+    "meaning_es": "transporte masivo"
+  },
+  {
+    "term": "die Meeresstraße",
+    "meaning_tr": "deniz boğazı",
+    "meaning_en": "strait",
+    "meaning_uk": "морська протока",
+    "meaning_es": "estrecho de mar"
+  },
+  {
+    "term": "der metrische Tonne",
+    "meaning_tr": "metrik ton",
+    "meaning_en": "metric ton",
+    "meaning_uk": "метрична тонна",
+    "meaning_es": "tonelada métrica"
+  },
+  {
+    "term": "der Mittelstreifen",
+    "meaning_tr": "orta şerit (yolda)",
+    "meaning_en": "median strip",
+    "meaning_uk": "розділова смуга (на дорозі)",
+    "meaning_es": "medianera"
+  },
+  {
+    "term": "die Mobilität",
+    "meaning_tr": "hareketlilik",
+    "meaning_en": "mobility",
+    "meaning_uk": "мобільність",
+    "meaning_es": "movilidad"
+  },
+  {
+    "term": "der Motorradständer",
+    "meaning_tr": "motosiklet sehpası",
+    "meaning_en": "motorcycle stand",
+    "meaning_uk": "мотоциклетна підніжка",
+    "meaning_es": "caballete de motocicleta"
+  },
+  {
+    "term": "die Nothaltestelle",
+    "meaning_tr": "acil durak",
+    "meaning_en": "emergency stop",
+    "meaning_uk": "аварійна зупинка",
+    "meaning_es": "parada de emergencia"
+  },
+  {
+    "term": "die ÖPNV-Anbindung",
+    "meaning_tr": "toplu taşıma bağlantısı",
+    "meaning_en": "public transport connection",
+    "meaning_uk": "зв'язок з громадським транспортом",
+    "meaning_es": "conexión de transporte público"
+  },
+  {
+    "term": "der Oberleitungsmast",
+    "meaning_tr": "üst direk (elektrik)",
+    "meaning_en": "overhead line pole",
+    "meaning_uk": "опора контактної мережі",
+    "meaning_es": "poste de catenaria"
+  },
+  {
+    "term": "der ÖPNV-Tarif",
+    "meaning_tr": "toplu taşıma tarifesi",
+    "meaning_en": "public transport tariff",
+    "meaning_uk": "тариф на громадський транспорт",
+    "meaning_es": "tarifa de transporte público"
+  },
+  {
+    "term": "die Parkplatzbewirtschaftung",
+    "meaning_tr": "otopark yönetimi",
+    "meaning_en": "parking management",
+    "meaning_uk": "керування паркуванням",
+    "meaning_es": "gestión de aparcamiento"
+  },
+  {
+    "term": "der Pannenstreifen",
+    "meaning_tr": "emniyet şeridi",
+    "meaning_en": "hard shoulder",
+    "meaning_uk": "узбіччя",
+    "meaning_es": "arcén"
+  },
+  {
+    "term": "die Passagierfluggesellschaft",
+    "meaning_tr": "yolcu havayolu şirketi",
+    "meaning_en": "passenger airline",
+    "meaning_uk": "пасажирська авіакомпанія",
+    "meaning_es": "aerolínea de pasajeros"
+  },
+  {
+    "term": "der Personenverkehr",
+    "meaning_tr": "yolcu taşımacılığı",
+    "meaning_en": "passenger transport",
+    "meaning_uk": "пасажирські перевезення",
+    "meaning_es": "transporte de pasajeros"
+  },
+  {
+    "term": "die Rückfahrkarte",
+    "meaning_tr": "gidiş-dönüş bileti",
+    "meaning_en": "return ticket",
+    "meaning_uk": "квиток туди й назад",
+    "meaning_es": "billete de ida y vuelta"
+  },
+  {
+    "term": "die Schiffbarkeit",
+    "meaning_tr": "seyredilebilirlik",
+    "meaning_en": "navigability",
+    "meaning_uk": "судноплавність",
+    "meaning_es": "navegabilidad"
+  },
+  {
+    "term": "der Schiffsverkehr",
+    "meaning_tr": "gemi trafiği",
+    "meaning_en": "shipping traffic",
+    "meaning_uk": "судноплавство, морський рух",
+    "meaning_es": "tráfico marítimo"
+  },
+  {
+    "term": "die Schieneninfrastruktur",
+    "meaning_tr": "ray altyapısı",
+    "meaning_en": "rail infrastructure",
+    "meaning_uk": "залізнична інфраструктура",
+    "meaning_es": "infraestructura ferroviaria"
+  },
+  {
+    "term": "der Schiffsrumpf",
+    "meaning_tr": "gemi gövdesi",
+    "meaning_en": "ship's hull",
+    "meaning_uk": "корпус судна",
+    "meaning_es": "casco de barco"
+  },
+  {
+    "term": "der Schrottplatz",
+    "meaning_tr": "hurdalık",
+    "meaning_en": "scrapyard",
+    "meaning_uk": "пункт прийому металобрухту",
+    "meaning_es": "desguace, chatarrería"
+  },
+  {
+    "term": "der Schwenkarm",
+    "meaning_tr": "dönme kolu",
+    "meaning_en": "pivot arm",
+    "meaning_uk": "поворотний важіль",
+    "meaning_es": "brazo giratorio"
+  },
+  {
+    "term": "die Seilbahn",
+    "meaning_tr": "teleferik",
+    "meaning_en": "cable car, ropeway",
+    "meaning_uk": "канатна дорога",
+    "meaning_es": "teleférico"
+  },
+  {
+    "term": "die Stauung",
+    "meaning_tr": "sıkışıklık, tıkanıklık",
+    "meaning_en": "congestion, jam",
+    "meaning_uk": "затор, перевантаження",
+    "meaning_es": "atasco, congestión"
+  },
+  {
+    "term": "die Streckenführung",
+    "meaning_tr": "rota, güzergah",
+    "meaning_en": "route, routing",
+    "meaning_uk": "траса, маршрут",
+    "meaning_es": "trazado de la ruta"
+  },
+  {
+    "term": "die Tankstelle",
+    "meaning_tr": "benzin istasyonu",
+    "meaning_en": "gas station, petrol station",
+    "meaning_uk": "автозаправна станція",
+    "meaning_es": "estación de servicio, gasolinera"
+  },
+  {
+    "term": "der Tankstellenpächter",
+    "meaning_tr": "benzin istasyonu işletmecisi",
+    "meaning_en": "gas station operator",
+    "meaning_uk": "орендар/оператор АЗС",
+    "meaning_es": "concesionario de gasolinera"
+  },
+  {
+    "term": "die Tiefsee",
+    "meaning_tr": "derin deniz",
+    "meaning_en": "deep sea",
+    "meaning_uk": "глибоке море",
+    "meaning_es": "altamar, mar profundo"
+  },
+  {
+    "term": "die Tiefgarage",
+    "meaning_tr": "kapalı otopark",
+    "meaning_en": "underground car park",
+    "meaning_uk": "підземний паркінг",
+    "meaning_es": "aparcamiento subterráneo"
+  },
+  {
+    "term": "der Todesfall",
+    "meaning_tr": "ölüm olayı",
+    "meaning_en": "fatal accident, death",
+    "meaning_uk": "смертельний випадок",
+    "meaning_es": "accidente mortal"
+  },
+  {
+    "term": "der Tonnage",
+    "meaning_tr": "tonaj",
+    "meaning_en": "tonnage",
+    "meaning_uk": "тоннаж",
+    "meaning_es": "tonelaje"
+  },
+  {
+    "term": "die Torpedoboot",
+    "meaning_tr": "torpido botu",
+    "meaning_en": "torpedo boat",
+    "meaning_uk": "торпедний катер",
+    "meaning_es": "lancha torpedera"
+  },
+  {
+    "term": "die Tourenwagen",
+    "meaning_tr": "tur otobüsü",
+    "meaning_en": "touring car",
+    "meaning_uk": "туристичний автобус",
+    "meaning_es": "autobús turístico"
+  },
+  {
+    "term": "der Trajekt",
+    "meaning_tr": "feribot (demiryolu)",
+    "meaning_en": "train ferry",
+    "meaning_uk": "залізничний паром",
+    "meaning_es": "ferry de tren"
+  },
+  {
+    "term": "der Transporter",
+    "meaning_tr": "kamyonet, van",
+    "meaning_en": "van, transporter",
+    "meaning_uk": "фургон, транспортер",
+    "meaning_es": "furgoneta, transporter"
+  },
+  {
+    "term": "die Überführungsfahrt",
+    "meaning_tr": "nakliye sürüşü (araba)",
+    "meaning_en": "delivery drive (car)",
+    "meaning_uk": "перегін автомобіля",
+    "meaning_es": "viaje de entrega (coche)"
+  },
+  {
+    "term": "die Überlandstrecke",
+    "meaning_tr": "şehirlerarası hat",
+    "meaning_en": "interurban route",
+    "meaning_uk": "міжміський маршрут",
+    "meaning_es": "ruta interurbana"
+  },
+  {
+    "term": "die Uferbefestigung",
+    "meaning_tr": "kıyı tahkimatı",
+    "meaning_en": "embankment, revetment",
+    "meaning_uk": "берегоукріплення",
+    "meaning_es": "revestimiento de orilla"
+  },
+  {
+    "term": "die Umgehungsstraße",
+    "meaning_tr": "çevre yolu",
+    "meaning_en": "bypass road",
+    "meaning_uk": "об'їзна дорога",
+    "meaning_es": "carretera de circunvalación"
+  },
+  {
+    "term": "die Umleitung",
+    "meaning_tr": "yönlendirme, sapma",
+    "meaning_en": "diversion, detour",
+    "meaning_uk": "об'їзд, зміна маршруту",
+    "meaning_es": "desvío"
+  },
+  {
+    "term": "der Unterbau",
+    "meaning_tr": "alt yapı (yol için)",
+    "meaning_en": "substructure, foundation (road)",
+    "meaning_uk": "основа, фундамент (дороги)",
+    "meaning_es": "subestructura, cimiento (carretera)"
+  },
+  {
+    "term": "die Unterführung",
+    "meaning_tr": "alt geçit",
+    "meaning_en": "underpass",
+    "meaning_uk": "підземний перехід",
+    "meaning_es": "paso subterráneo"
+  },
+  {
+    "term": "der Unfallhergang",
+    "meaning_tr": "kaza oluş şekli",
+    "meaning_en": "course of the accident",
+    "meaning_uk": "хід подій аварії",
+    "meaning_es": "secuencia del accidente"
+  },
+  {
+    "term": "die Verkehrsdichte",
+    "meaning_tr": "trafik yoğunluğu",
+    "meaning_en": "traffic density",
+    "meaning_uk": "щільність руху",
+    "meaning_es": "densidad de tráfico"
+  },
+  {
+    "term": "die Verkehrsdurchsage",
+    "meaning_tr": "trafik anonsu",
+    "meaning_en": "traffic announcement",
+    "meaning_uk": "оголошення по радіо про дорожню ситуацію",
+    "meaning_es": "anuncio de tráfico"
+  },
+  {
+    "term": "die Verkehrsfrequenz",
+    "meaning_tr": "trafik frekansı",
+    "meaning_en": "traffic frequency",
+    "meaning_uk": "частота руху",
+    "meaning_es": "frecuencia de tráfico"
+  },
+  {
+    "term": "die Verkehrserziehung",
+    "meaning_tr": "trafik eğitimi",
+    "meaning_en": "traffic education",
+    "meaning_uk": "дорожнє виховання",
+    "meaning_es": "educación vial"
+  },
+  {
+    "term": "die Verkehrsführung",
+    "meaning_tr": "trafik yönetimi",
+    "meaning_en": "traffic management, traffic flow",
+    "meaning_uk": "керування дорожнім рухом",
+    "meaning_es": "gestión del tráfico"
+  },
+  {
+    "term": "die Verkehrskontrolle",
+    "meaning_tr": "trafik kontrolü",
+    "meaning_en": "traffic control",
+    "meaning_uk": "контроль дорожнього руху",
+    "meaning_es": "control de tráfico"
+  },
+  {
+    "term": "die Verkehrslage",
+    "meaning_tr": "trafik durumu",
+    "meaning_en": "traffic situation",
+    "meaning_uk": "дорожня ситуація",
+    "meaning_es": "situación del tráfico"
+  },
+  {
+    "term": "die Verkehrsmeldung",
+    "meaning_tr": "trafik haberi",
+    "meaning_en": "traffic report",
+    "meaning_uk": "повідомлення про дорожню ситуацію",
+    "meaning_es": "parte de tráfico"
+  },
+  {
+    "term": "die Verkehrssicherheit",
+    "meaning_tr": "trafik güvenliği",
+    "meaning_en": "road safety",
+    "meaning_uk": "безпека дорожнього руху",
+    "meaning_es": "seguridad vial"
+  },
+  {
+    "term": "die Verkehrssperrung",
+    "meaning_tr": "trafik kapatılması",
+    "meaning_en": "road closure",
+    "meaning_uk": "закриття дороги",
+    "meaning_es": "cierre de carretera"
+  },
+  {
+    "term": "die Verkehrswende",
+    "meaning_tr": "trafik dönüşümü",
+    "meaning_en": "transport transition",
+    "meaning_uk": "транспортна трансформація",
+    "meaning_es": "transición del transporte"
+  },
+  {
+    "term": "die Verkehrszählung",
+    "meaning_tr": "trafik sayımı",
+    "meaning_en": "traffic count",
+    "meaning_uk": "підрахунок трафіку",
+    "meaning_es": "recuento de tráfico"
+  },
+  {
+    "term": "der Verkehrsträger",
+    "meaning_tr": "taşıma şekli",
+    "meaning_en": "mode of transport",
+    "meaning_uk": "вид транспорту",
+    "meaning_es": "medio de transporte"
+  },
+  {
+    "term": "der Verkehrsweg",
+    "meaning_tr": "ulaşım yolu",
+    "meaning_en": "transport route, traffic route",
+    "meaning_uk": "транспортний шлях",
+    "meaning_es": "vía de transporte"
+  },
+  {
+    "term": "der Verladekran",
+    "meaning_tr": "yükleme vinci",
+    "meaning_en": "loading crane",
+    "meaning_uk": "вантажний кран",
+    "meaning_es": "grúa de carga"
+  },
+  {
+    "term": "die Verladerampe",
+    "meaning_tr": "yükleme rampası",
+    "meaning_en": "loading ramp",
+    "meaning_uk": "вантажна рампа",
+    "meaning_es": "rampa de carga"
+  },
+  {
+    "term": "der Verlust",
+    "meaning_tr": "kayıp",
+    "meaning_en": "loss",
+    "meaning_uk": "втрата",
+    "meaning_es": "pérdida"
+  },
+  {
+    "term": "die Veredelung",
+    "meaning_tr": "iyileştirme, geliştirme (yol)",
+    "meaning_en": "improvement, upgrading (road)",
+    "meaning_uk": "поліпшення, модернізація (дороги)",
+    "meaning_es": "mejora, modernización (carretera)"
+  },
+  {
+    "term": "die Verschiffung",
+    "meaning_tr": "gemiyle nakliye",
+    "meaning_en": "shipping",
+    "meaning_uk": "перевезення морем",
+    "meaning_es": "embarque, envío marítimo"
+  },
+  {
+    "term": "der Verschleiß",
+    "meaning_tr": "aşınma, yıpranma",
+    "meaning_en": "wear and tear",
+    "meaning_uk": "зношування",
+    "meaning_es": "desgaste"
+  },
+  {
+    "term": "der Vierspurstreifen",
+    "meaning_tr": "dört şeritli şerit",
+    "meaning_en": "four-lane lane",
+    "meaning_uk": "чотирисмугова смуга",
+    "meaning_es": "carril de cuatro vías"
+  },
+  {
+    "term": "die Vorfahrtsregel",
+    "meaning_tr": "öncelik kuralı",
+    "meaning_en": "right-of-way rule",
+    "meaning_uk": "правило пріоритету",
+    "meaning_es": "regla de prioridad"
+  },
+  {
+    "term": "der Vorderradantrieb",
+    "meaning_tr": "ön tekerlekten çekiş",
+    "meaning_en": "front-wheel drive",
+    "meaning_uk": "передньопривідний",
+    "meaning_es": "tracción delantera"
+  },
+  {
+    "term": "die Vorortbahn",
+    "meaning_tr": "banliyö treni",
+    "meaning_en": "suburban train",
+    "meaning_uk": "приміський поїзд",
+    "meaning_es": "tren de cercanías"
+  },
+  {
+    "term": "der Vorzugspreis",
+    "meaning_tr": "avantajlı fiyat",
+    "meaning_en": "preferential price",
+    "meaning_uk": "пільгова ціна",
+    "meaning_es": "precio preferencial"
+  },
+  {
+    "term": "der Waggon",
+    "meaning_tr": "vagon",
+    "meaning_en": "wagon, carriage",
+    "meaning_uk": "вагон",
+    "meaning_es": "vagón"
+  },
+  {
+    "term": "die Wartezeit",
+    "meaning_tr": "bekleme süresi",
+    "meaning_en": "waiting time",
+    "meaning_uk": "час очікування",
+    "meaning_es": "tiempo de espera"
+  },
+  {
+    "term": "der Wasserweg",
+    "meaning_tr": "su yolu",
+    "meaning_en": "waterway",
+    "meaning_uk": "водний шлях",
+    "meaning_es": "vía fluvial, canal navegable"
+  },
+  {
+    "term": "der Wegekredit",
+    "meaning_tr": "yol kredisi",
+    "meaning_en": "road loan",
+    "meaning_uk": "кредит на будівництво дороги",
+    "meaning_es": "crédito para carreteras"
+  },
+  {
+    "term": "der Weichensteller",
+    "meaning_tr": "makasçı (tren)",
+    "meaning_en": "pointsman, switchman",
+    "meaning_uk": "стрілочник",
+    "meaning_es": "cambiador de agujas"
+  },
+  {
+    "term": "der Werksverkehr",
+    "meaning_tr": "fabrika içi ulaşım",
+    "meaning_en": "internal factory transport",
+    "meaning_uk": "внутрішньозаводський транспорт",
+    "meaning_es": "transporte interno de fábrica"
+  },
+  {
+    "term": "die Wendeplatte",
+    "meaning_tr": "dönüş alanı",
+    "meaning_en": "turning area",
+    "meaning_uk": "зона розвороту",
+    "meaning_es": "área de giro"
+  },
+  {
+    "term": "der Wiesenweg",
+    "meaning_tr": "çayır yolu",
+    "meaning_en": "meadow path",
+    "meaning_uk": "лугова стежка",
+    "meaning_es": "sendero de prado"
+  },
+  {
+    "term": "die Wirtschaftlichkeit",
+    "meaning_tr": "ekonomiklik",
+    "meaning_en": "economic viability",
+    "meaning_uk": "економічна доцільність",
+    "meaning_es": "viabilidad económica"
+  },
+  {
+    "term": "der Widerspruch",
+    "meaning_tr": "itiraz, karşı çıkma",
+    "meaning_en": "objection, contradiction",
+    "meaning_uk": "заперечення, суперечність",
+    "meaning_es": "objeción, contradicción"
+  },
+  {
+    "term": "die Willkommenskultur",
+    "meaning_tr": "karşılama kültürü",
+    "meaning_en": "culture of welcome",
+    "meaning_uk": "культура гостинності",
+    "meaning_es": "cultura de bienvenida"
+  },
+  {
+    "term": "der Windschutzscheibenwischer",
+    "meaning_tr": "ön cam silecek",
+    "meaning_en": "windscreen wiper",
+    "meaning_uk": "двірник лобового скла",
+    "meaning_es": "limpiaparabrisas"
+  },
+  {
+    "term": "der Winterdienst",
+    "meaning_tr": "kış hizmetleri (yol)",
+    "meaning_en": "winter service (road)",
+    "meaning_uk": "зимове обслуговування (дороги)",
+    "meaning_es": "servicio de invierno (carretera)"
+  },
+  {
+    "term": "der Wohnwagen",
+    "meaning_tr": "karavan",
+    "meaning_en": "caravan, trailer",
+    "meaning_uk": "будинок на колесах",
+    "meaning_es": "caravana, remolque"
+  },
+  {
+    "term": "die Wohnmobil",
+    "meaning_tr": "karavan (motorlu)",
+    "meaning_en": "motorhome, campervan",
+    "meaning_uk": "кемпер, автодім",
+    "meaning_es": "autocaravana, casa rodante"
+  },
+  {
+    "term": "die Zementierung",
+    "meaning_tr": "çimentolama",
+    "meaning_en": "cementation",
+    "meaning_uk": "цементування",
+    "meaning_es": "cementación"
+  },
+  {
+    "term": "der Zementwerk",
+    "meaning_tr": "çimento fabrikası",
+    "meaning_en": "cement plant",
+    "meaning_uk": "цементний завод",
+    "meaning_es": "planta de cemento"
+  },
+  {
+    "term": "die Zierleiste",
+    "meaning_tr": "süs çıtası",
+    "meaning_en": "decorative strip, molding",
+    "meaning_uk": "декоративна планка",
+    "meaning_es": "listón decorativo"
+  },
+  {
+    "term": "der Zielort",
+    "meaning_tr": "varış noktası",
+    "meaning_en": "destination",
+    "meaning_uk": "пункт призначення",
+    "meaning_es": "destino"
+  },
+  {
+    "term": "der Zufallstreffer",
+    "meaning_tr": "şans eseri bulunan şey",
+    "meaning_en": "lucky find, fluke",
+    "meaning_uk": "випадкова знахідка",
+    "meaning_es": "hallazgo fortuito"
+  },
+  {
+    "term": "der Zufahrtsweg",
+    "meaning_tr": "giriş yolu",
+    "meaning_en": "access road, driveway",
+    "meaning_uk": "під'їзна дорога",
+    "meaning_es": "camino de acceso"
+  },
+  {
+    "term": "der Zustellungsbezirk",
+    "meaning_tr": "teslimat bölgesi",
+    "meaning_en": "delivery district",
+    "meaning_uk": "зона доставки",
+    "meaning_es": "distrito de entrega"
+  },
+  {
+    "term": "der Zwang",
+    "meaning_tr": "zorlama, mecburiyet",
+    "meaning_en": "coercion, compulsion",
+    "meaning_uk": "примус, необхідність",
+    "meaning_es": "coerción, obligación"
+  },
+  {
+    "term": "der Zwischenstopp",
+    "meaning_tr": "aktarma, ara durak",
+    "meaning_en": "layover, intermediate stop",
+    "meaning_uk": "зупинка, проміжна зупинка",
+    "meaning_es": "escala, parada intermedia"
+  }
+]

@@ -1,245 +1,324 @@
-{
-  "title": "Verkehr & Transport (B2)",
-  "items": [
-    {
-      "term": "die Autobahn",
-      "type": "Nomen (f)",
-      "meaning_tr": "motorway, freeway",
-      "example": "Auf der Autobahn herrschte dichter Verkehr."
-    },
-    {
-      "term": "die Umleitung",
-      "type": "Nomen (f)",
-      "meaning_tr": "detour",
-      "example": "Wegen Bauarbeiten mussten wir eine lange Umleitung fahren."
-    },
-    {
-      "term": "der Stau",
-      "type": "Nomen (m)",
-      "meaning_tr": "traffic jam",
-      "example": "Wir standen eine Stunde im Stau."
-    },
-    {
-      "term": "die Fahrbahn",
-      "type": "Nomen (f)",
-      "meaning_tr": "roadway, carriageway",
-      "example": "Die rechte Fahrbahn war wegen eines Unfalls gesperrt."
-    },
-    {
-      "term": "überholen",
-      "type": "Verb",
-      "meaning_tr": "to overtake",
-      "example": "Er hat das langsame Auto auf der Landstraße überholt."
-    },
-    {
-      "term": "die Geschwindigkeit",
-      "type": "Nomen (f)",
-      "meaning_tr": "speed",
-      "example": "Die erlaubte Geschwindigkeit beträgt hier 50 km/h."
-    },
-    {
-      "term": "der Verkehrsfluss",
-      "type": "Nomen (m)",
-      "meaning_tr": "traffic flow",
-      "example": "Die neue Ampelschaltung soll den Verkehrsfluss verbessern."
-    },
-    {
-      "term": "die Vorfahrt",
-      "type": "Nomen (f)",
-      "meaning_tr": "right of way",
-      "example": "An dieser Kreuzung hat der Querverkehr Vorfahrt."
-    },
-    {
-      "term": "die Radarfalle",
-      "type": "Nomen (f)",
-      "meaning_tr": "speed trap",
-      "example": "Achtung, hier gibt es oft eine Radarfalle."
-    },
-    {
-      "term": "der Fahrplan",
-      "type": "Nomen (m)",
-      "meaning_tr": "timetable, schedule",
-      "example": "Ich habe den Fahrplan der Bahn studiert."
-    },
-    {
-      "term": "die Verspätung",
-      "type": "Nomen (f)",
-      "meaning_tr": "delay",
-      "example": "Aufgrund von technischen Problemen hatte der Zug zehn Minuten Verspätung."
-    },
-    {
-      "term": "der Anschluss",
-      "type": "Nomen (m)",
-      "meaning_tr": "connection (for transport)",
-      "example": "Haben Sie meinen Anschlusszug noch erreicht?"
-    },
-    {
-      "term": "die Verspätung melden",
-      "type": "Phrase",
-      "meaning_tr": "to report a delay",
-      "example": "Bitte melden Sie jede größere Verspätung sofort dem Personal."
-    },
-    {
-      "term": "der Güterverkehr",
-      "type": "Nomen (m)",
-      "meaning_tr": "freight traffic",
-      "example": "Der Güterverkehr spielt eine wichtige Rolle in der Logistik."
-    },
-    {
-      "term": "der Nahverkehr",
-      "type": "Nomen (m)",
-      "meaning_tr": "local public transport",
-      "example": "In der Stadt nutzen viele Menschen den Nahverkehr."
-    },
-    {
-      "term": "der Fernverkehr",
-      "type": "Nomen (m)",
-      "meaning_tr": "long-distance transport",
-      "example": "Der ICE ist für den schnellen Fernverkehr konzipiert."
-    },
-    {
-      "term": "die Pendelei",
-      "type": "Nomen (f)",
-      "meaning_tr": "commuting",
-      "example": "Seine tägliche Pendelei zur Arbeit dauert zwei Stunden."
-    },
-    {
-      "term": "die Abfertigung",
-      "type": "Nomen (f)",
-      "meaning_tr": "handling, processing (e.g., luggage)",
-      "example": "Die Abfertigung am Flughafen dauerte ungewöhnlich lange."
-    },
-    {
-      "term": "der Bordsteig",
-      "type": "Nomen (m)",
-      "meaning_tr": "sidewalk, pavement",
-      "example": "Bitte warten Sie hinter der Haltelinie auf dem Bordstein."
-    },
-    {
-      "term": "die Spur wechseln",
-      "type": "Phrase",
-      "meaning_tr": "to change lanes",
-      "example": "Er musste plötzlich die Spur wechseln, um einen Unfall zu vermeiden."
-    },
-    {
-      "term": "der Zoll",
-      "type": "Nomen (m)",
-      "meaning_tr": "customs",
-      "example": "Reisende müssen ihre Waren beim Zoll anmelden."
-    },
-    {
-      "term": "das Kennzeichen",
-      "type": "Nomen (n)",
-      "meaning_tr": "license plate",
-      "example": "Das gestohlene Auto hatte ein falsches Kennzeichen."
-    },
-    {
-      "term": "die Maut",
-      "type": "Nomen (f)",
-      "meaning_tr": "toll",
-      "example": "In vielen europäischen Ländern wird eine Autobahnmaut erhoben."
-    },
-    {
-      "term": "die Tankstelle",
-      "type": "Nomen (f)",
-      "meaning_tr": "gas station, petrol station",
-      "example": "Wir müssen bald an der nächsten Tankstelle halten."
-    },
-    {
-      "term": "der Fahrersitz",
-      "type": "Nomen (m)",
-      "meaning_tr": "driver's seat",
-      "example": "Bitte nehmen Sie auf dem Fahrersitz Platz."
-    },
-    {
-      "term": "der Laderaum",
-      "type": "Nomen (m)",
-      "meaning_tr": "cargo hold, loading space",
-      "example": "Der LKW hatte einen sehr großen Laderaum."
-    },
-    {
-      "term": "die Durchfahrt",
-      "type": "Nomen (f)",
-      "meaning_tr": "passage, thoroughfare",
-      "example": "Die Durchfahrt unter der Brücke ist nur für Fahrzeuge unter drei Metern erlaubt."
-    },
-    {
-      "term": "der Schwerverkehr",
-      "type": "Nomen (m)",
-      "meaning_tr": "heavy traffic (trucks)",
-      "example": "Die Anwohner beschweren sich über den Lärm des Schwerverkehrs."
-    },
-    {
-      "term": "die Rücksichtnahme",
-      "type": "Nomen (f)",
-      "meaning_tr": "consideration (for others)",
-      "example": "Im Straßenverkehr ist gegenseitige Rücksichtnahme wichtig."
-    },
-    {
-      "term": "die Ladezone",
-      "type": "Nomen (f)",
-      "meaning_tr": "loading zone",
-      "example": "Halten Sie bitte nicht in der Ladezone, das ist verboten."
-    },
-    {
-      "term": "die Ankunftszeit",
-      "type": "Nomen (f)",
-      "meaning_tr": "arrival time",
-      "example": "Die geschätzte Ankunftszeit wurde um eine halbe Stunde korrigiert."
-    },
-    {
-      "term": "der Flugsteig",
-      "type": "Nomen (m)",
-      "meaning_tr": "boarding gate",
-      "example": "Bitte begeben Sie sich zum Flugsteig B42."
-    },
-    {
-      "term": "die Umsteigemöglichkeit",
-      "type": "Nomen (f)",
-      "meaning_tr": "transfer possibility",
-      "example": "Prüfen Sie die Umsteigemöglichkeiten am Hauptbahnhof."
-    },
-    {
-      "term": "die Fahrberechtigung",
-      "type": "Nomen (f)",
-      "meaning_tr": "driving authorization/license",
-      "example": "Ohne gültige Fahrberechtigung darf er kein Fahrzeug führen."
-    },
-    {
-      "term": "der Mietwagen",
-      "type": "Nomen (m)",
-      "meaning_tr": "rental car",
-      "example": "Wir haben am Flughafen einen Mietwagen reserviert."
-    },
-    {
-      "term": "die Reichweite",
-      "type": "Nomen (f)",
-      "meaning_tr": "range, reach",
-      "example": "Die Reichweite dieses Elektroautos ist beeindruckend."
-    },
-    {
-      "term": "die Spurbreite",
-      "type": "Nomen (f)",
-      "meaning_tr": "lane width",
-      "example": "Die extrem schmale Spurbreite machte das Fahren schwierig."
-    },
-    {
-      "term": "der Pannendienst",
-      "type": "Nomen (m)",
-      "meaning_tr": "breakdown service",
-      "example": "Ich habe den Pannendienst angerufen, weil mein Auto liegen geblieben ist."
-    },
-    {
-      "term": "die Wartezeit",
-      "type": "Nomen (f)",
-      "meaning_tr": "waiting time",
-      "example": "Die Wartezeit an der Grenze war heute erfreulich kurz."
-    },
-    {
-      "term": "die ÖPNV-Verbindung",
-      "type": "Nomen (f)",
-      "meaning_tr": "public transport connection",
-      "example": "Die ÖPNV-Verbindung zwischen den Vororten ist schlecht ausgebaut."
-    }
-  ]
-}
+[
+  {
+    "term": "der Stau",
+    "meaning_tr": "trafik sıkışıklığı",
+    "meaning_en": "traffic jam",
+    "meaning_uk": "затор",
+    "meaning_es": "atasco"
+  },
+  {
+    "term": "die Umleitung",
+    "meaning_tr": "yönlendirme, sapma",
+    "meaning_en": "detour",
+    "meaning_uk": "об'їзд",
+    "meaning_es": "desvío"
+  },
+  {
+    "term": "der Führerschein",
+    "meaning_tr": "ehliyet",
+    "meaning_en": "driver's license",
+    "meaning_uk": "водійське посвідчення",
+    "meaning_es": "permiso de conducir"
+  },
+  {
+    "term": "die Geschwindigkeitsbegrenzung",
+    "meaning_tr": "hız sınırı",
+    "meaning_en": "speed limit",
+    "meaning_uk": "обмеження швидкості",
+    "meaning_es": "límite de velocidad"
+  },
+  {
+    "term": "der Bußgeldbescheid",
+    "meaning_tr": "para cezası bildirimi",
+    "meaning_en": "fine notice",
+    "meaning_uk": "повідомлення про штраф",
+    "meaning_es": "notificación de multa"
+  },
+  {
+    "term": "das Tempolimit",
+    "meaning_tr": "hız limiti",
+    "meaning_en": "speed limit",
+    "meaning_uk": "швидкісне обмеження",
+    "meaning_es": "límite de velocidad"
+  },
+  {
+    "term": "die Verkehrsregeln",
+    "meaning_tr": "trafik kuralları",
+    "meaning_en": "traffic rules",
+    "meaning_uk": "правила дорожнього руху",
+    "meaning_es": "normas de tráfico"
+  },
+  {
+    "term": "die Vorfahrt",
+    "meaning_tr": "geçiş hakkı",
+    "meaning_en": "right of way",
+    "meaning_uk": "право проїзду",
+    "meaning_es": "prioridad de paso"
+  },
+  {
+    "term": "der Kraftfahrzeugschein",
+    "meaning_tr": "ruhsat",
+    "meaning_en": "vehicle registration document",
+    "meaning_uk": "техпаспорт транспортного засобу",
+    "meaning_es": "permiso de circulación"
+  },
+  {
+    "term": "das Tanken",
+    "meaning_tr": "yakıt ikmali",
+    "meaning_en": "refueling",
+    "meaning_uk": "заправка",
+    "meaning_es": "repostar"
+  },
+  {
+    "term": "die Autobahn",
+    "meaning_tr": "otoban",
+    "meaning_en": "motorway",
+    "meaning_uk": "автомагістраль",
+    "meaning_es": "autopista"
+  },
+  {
+    "term": "der Pendler",
+    "meaning_tr": "işe gidip gelen kişi",
+    "meaning_en": "commuter",
+    "meaning_uk": "той, хто їздить на роботу",
+    "meaning_es": "viajero habitual"
+  },
+  {
+    "term": "die Verspätung",
+    "meaning_tr": "gecikme",
+    "meaning_en": "delay",
+    "meaning_uk": "затримка",
+    "meaning_es": "retraso"
+  },
+  {
+    "term": "die Pünktlichkeit",
+    "meaning_tr": "dakiklik",
+    "meaning_en": "punctuality",
+    "meaning_uk": "пунктуальність",
+    "meaning_es": "puntualidad"
+  },
+  {
+    "term": "der Fahrplan",
+    "meaning_tr": "tarife",
+    "meaning_en": "timetable",
+    "meaning_uk": "розклад руху",
+    "meaning_es": "horario"
+  },
+  {
+    "term": "die Fluggesellschaft",
+    "meaning_tr": "havayolu şirketi",
+    "meaning_en": "airline company",
+    "meaning_uk": "авіакомпанія",
+    "meaning_es": "compañía aérea"
+  },
+  {
+    "term": "der Flughafen",
+    "meaning_tr": "havaalanı",
+    "meaning_en": "airport",
+    "meaning_uk": "аеропорт",
+    "meaning_es": "aeropuerto"
+  },
+  {
+    "term": "die Landebahn",
+    "meaning_tr": "pist",
+    "meaning_en": "runway",
+    "meaning_uk": "злітно-посадкова смуга",
+    "meaning_es": "pista de aterrizaje"
+  },
+  {
+    "term": "die Abfertigung",
+    "meaning_tr": "işlem, bilet kesme",
+    "meaning_en": "processing, check-in",
+    "meaning_uk": "обслуговування, реєстрація",
+    "meaning_es": "trámite, facturación"
+  },
+  {
+    "term": "der Flugsteig",
+    "meaning_tr": "peron",
+    "meaning_en": "gate",
+    "meaning_uk": "вихід на посадку",
+    "meaning_es": "puerta de embarque"
+  },
+  {
+    "term": "das Gepäck",
+    "meaning_tr": "bagaj",
+    "meaning_en": "luggage",
+    "meaning_uk": "багаж",
+    "meaning_es": "equipaje"
+  },
+  {
+    "term": "der Zoll",
+    "meaning_tr": "gümrük",
+    "meaning_en": "customs",
+    "meaning_uk": "митниця",
+    "meaning_es": "aduana"
+  },
+  {
+    "term": "die Bordkarte",
+    "meaning_tr": "biniş kartı",
+    "meaning_en": "boarding pass",
+    "meaning_uk": "посадковий талон",
+    "meaning_es": "tarjeta de embarque"
+  },
+  {
+    "term": "der Seehafen",
+    "meaning_tr": "deniz limanı",
+    "meaning_en": "seaport",
+    "meaning_uk": "морський порт",
+    "meaning_es": "puerto marítimo"
+  },
+  {
+    "term": "der Frachter",
+    "meaning_tr": "yük gemisi",
+    "meaning_en": "cargo ship",
+    "meaning_uk": "вантажне судно",
+    "meaning_es": "buque de carga"
+  },
+  {
+    "term": "die Fähre",
+    "meaning_tr": "feribot",
+    "meaning_en": "ferry",
+    "meaning_uk": "пором",
+    "meaning_es": "ferry"
+  },
+  {
+    "term": "der Güterverkehr",
+    "meaning_tr": "yük taşımacılığı",
+    "meaning_en": "freight transport",
+    "meaning_uk": "вантажні перевезення",
+    "meaning_es": "transporte de mercancías"
+  },
+  {
+    "term": "die Schiene",
+    "meaning_tr": "ray",
+    "meaning_en": "rail",
+    "meaning_uk": "рейка",
+    "meaning_es": "riel"
+  },
+  {
+    "term": "die Eisenbahn",
+    "meaning_tr": "demiryolu",
+    "meaning_en": "railway",
+    "meaning_uk": "залізниця",
+    "meaning_es": "ferrocarril"
+  },
+  {
+    "term": "der Waggon",
+    "meaning_tr": "vagon",
+    "meaning_en": "railway car",
+    "meaning_uk": "вагон",
+    "meaning_es": "vagón"
+  },
+  {
+    "term": "die Straßenbahn",
+    "meaning_tr": "tramvay",
+    "meaning_en": "tram",
+    "meaning_uk": "трамвай",
+    "meaning_es": "tranvía"
+  },
+  {
+    "term": "die U-Bahn",
+    "meaning_tr": "metro",
+    "meaning_en": "subway",
+    "meaning_uk": "метро",
+    "meaning_es": "metro"
+  },
+  {
+    "term": "der Radweg",
+    "meaning_tr": "bisiklet yolu",
+    "meaning_en": "cycle path",
+    "meaning_uk": "велодоріжка",
+    "meaning_es": "carril bici"
+  },
+  {
+    "term": "die Fußgängerzone",
+    "meaning_tr": "yayalar bölgesi",
+    "meaning_en": "pedestrian zone",
+    "meaning_uk": "пішохідна зона",
+    "meaning_es": "zona peatonal"
+  },
+  {
+    "term": "der Linienbus",
+    "meaning_tr": "şehir içi otobüs",
+    "meaning_en": "public bus",
+    "meaning_uk": "громадський автобус",
+    "meaning_es": "autobús de línea"
+  },
+  {
+    "term": "die Haltestelle",
+    "meaning_tr": "durak",
+    "meaning_en": "bus stop",
+    "meaning_uk": "зупинка",
+    "meaning_es": "parada"
+  },
+  {
+    "term": "der Nahverkehr",
+    "meaning_tr": "şehir içi ulaşım",
+    "meaning_en": "local transport",
+    "meaning_uk": "місцевий транспорт",
+    "meaning_es": "transporte local"
+  },
+  {
+    "term": "der Fernverkehr",
+    "meaning_tr": "şehirlerarası ulaşım",
+    "meaning_en": " long-distance transport",
+    "meaning_uk": "далекі перевезення",
+    "meaning_es": "transporte de larga distancia"
+  },
+  {
+    "term": "die Mobilität",
+    "meaning_tr": "hareketlilik",
+    "meaning_en": "mobility",
+    "meaning_uk": "мобільність",
+    "meaning_es": "movilidad"
+  },
+  {
+    "term": "die Umweltverschmutzung",
+    "meaning_tr": "çevre kirliliği",
+    "meaning_en": "environmental pollution",
+    "meaning_uk": "забруднення довкілля",
+    "meaning_es": "contaminación ambiental"
+  },
+  {
+    "term": "die Emissionen",
+    "meaning_tr": "emisyonlar",
+    "meaning_en": "emissions",
+    "meaning_uk": "викиди",
+    "meaning_es": "emisiones"
+  },
+  {
+    "term": "die Nachhaltigkeit",
+    "meaning_tr": "sürdürülebilirlik",
+    "meaning_en": "sustainability",
+    "meaning_uk": "стійкість",
+    "meaning_es": "sostenibilidad"
+  },
+  {
+    "term": "der ÖPNV (Öffentlicher Personennahverkehr)",
+    "meaning_tr": "toplu taşıma",
+    "meaning_en": "public transport",
+    "meaning_uk": "громадський транспорт",
+    "meaning_es": "transporte público"
+  },
+  {
+    "term": "die Verkehrswende",
+    "meaning_tr": "ulaşım dönüşümü",
+    "meaning_en": "transport transition",
+    "meaning_uk": "транспортний переворот",
+    "meaning_es": "transición del transporte"
+  },
+  {
+    "term": "die Carsharing-App",
+    "meaning_tr": "araç paylaşım uygulaması",
+    "meaning_en": "car-sharing app",
+    "meaning_uk": "додаток для спільного використання автомобіля",
+    "meaning_es": "aplicación de coche compartido"
+  },
+  {
+    "term": "das Ladekabel",
+    "meaning_tr": "şarj kablosu",
+    "meaning_en": "charging cable",
+    "meaning_uk": "кабель для зарядки",
+    "meaning_es": "cable de carga"
+  }
+]

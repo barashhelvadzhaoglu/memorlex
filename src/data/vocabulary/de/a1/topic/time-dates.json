@@ -1,137 +1,126 @@
-[
-  {
-    "term": "der Tag",
-    "type": "noun",
-    "meaning_tr": "gün",
-    "meaning_en": "day",
-    "meaning_uk": "день",
-    "meaning_es": "día",
-    "example": "Heute ist ein schöner Tag."
-  },
-  {
-    "term": "die Woche",
-    "type": "noun",
-    "meaning_tr": "hafta",
-    "meaning_en": "week",
-    "meaning_uk": "тиждень",
-    "meaning_es": "semana",
-    "example": "Diese Woche ist kurz."
-  },
-  {
-    "term": "der Monat",
-    "type": "noun",
-    "meaning_tr": "ay",
-    "meaning_en": "month",
-    "meaning_uk": "місяць",
-    "meaning_es": "mes",
-    "example": "Der Monat hat viele Tage."
-  },
-  {
-    "term": "das Jahr",
-    "type": "noun",
-    "meaning_tr": "yıl",
-    "meaning_en": "year",
-    "meaning_uk": "рік",
-    "meaning_es": "año",
-    "example": "Das Jahr hat zwölf Monate."
-  },
-  {
-    "term": "die Stunde",
-    "type": "noun",
-    "meaning_tr": "saat (zaman dilimi)",
-    "meaning_en": "hour",
-    "meaning_uk": "година",
-    "meaning_es": "hora",
-    "example": "Eine Stunde hat 60 Minuten."
-  },
-  {
-    "term": "die Minute",
-    "type": "noun",
-    "meaning_tr": "dakika",
-    "meaning_en": "minute",
-    "meaning_uk": "хвилина",
-    "meaning_es": "minuto",
-    "example": "Warte eine Minute!"
-  },
-  {
-    "term": "die Sekunde",
-    "type": "noun",
-    "meaning_tr": "saniye",
-    "meaning_en": "second",
-    "meaning_uk": "секунда",
-    "meaning_es": "segundo",
-    "example": "Das dauert nur eine Sekunde."
-  },
-  {
-    "term": "heute",
-    "type": "adverb",
-    "meaning_tr": "bugün",
-    "meaning_en": "today",
-    "meaning_uk": "сьогодні",
-    "meaning_es": "hoy",
-    "example": "Heute ist Montag."
-  },
-  {
-    "term": "morgen",
-    "type": "adverb",
-    "meaning_tr": "yarın",
-    "meaning_en": "tomorrow",
-    "meaning_uk": "завтра",
-    "meaning_es": "mañana",
-    "example": "Wir sehen uns morgen."
-  },
-  {
-    "term": "gestern",
-    "type": "adverb",
-    "meaning_tr": "dün",
-    "meaning_en": "yesterday",
-    "meaning_uk": "учора",
-    "meaning_es": "ayer",
-    "example": "Gestern war ich zu Hause."
-  },
-  {
-    "term": "der Morgen",
-    "type": "noun",
-    "meaning_tr": "sabah",
-    "meaning_en": "morning",
-    "meaning_uk": "ранок",
-    "meaning_es": "mañana",
-    "example": "Guten Morgen!"
-  },
-  {
-    "term": "der Mittag",
-    "type": "noun",
-    "meaning_tr": "öğle",
-    "meaning_en": "noon/afternoon",
-    "meaning_uk": "полудень/день",
-    "meaning_es": "mediodía/tarde",
-    "example": "Um Mittag essen wir."
-  },
-  {
-    "term": "der Abend",
-    "type": "noun",
-    "meaning_tr": "akşam",
-    "meaning_en": "evening",
-    "meaning_uk": "вечір",
-    "meaning_es": "tarde/noche",
-    "example": "Guten Abend!"
-  },
-  {
-    "term": "die Nacht",
-    "type": "noun",
-    "meaning_tr": "gece",
-    "meaning_en": "night",
-    "meaning_uk": "ніч",
-    "meaning_es": "noche",
-    "example": "Schlaf gut in der Nacht."
-  },
-  {
-    "term": "die Zeit",
-    "type": "noun",
-    "meaning_tr": "zaman, saat (vakit)",
-    "meaning_en": "time",
-    "meaning_uk": "час",
-    "meaning_es": "tiempo",
-    "example": "Wie spät ist es? Ich habe keine Zeit."
-  }
-]
+{
+  "title": "Zeit & Datum (A1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Tag",
+      "type": "Noun",
+      "example": "Heute ist ein schöner ***.",
+      "meaning_tr": "gün",
+      "meaning_en": "day",
+      "meaning_uk": "день"
+    },
+    {
+      "term": "die Woche",
+      "type": "Noun",
+      "example": "Eine *** hat sieben Tage.",
+      "meaning_tr": "hafta",
+      "meaning_en": "week",
+      "meaning_uk": "тиждень"
+    },
+    {
+      "term": "der Monat",
+      "type": "Noun",
+      "example": "Ein Jahr hat zwölf ***.",
+      "meaning_tr": "ay",
+      "meaning_en": "month",
+      "meaning_uk": "місяць"
+    },
+    {
+      "term": "das Jahr",
+      "type": "Noun",
+      "example": "Nächstes *** reise ich nach Deutschland.",
+      "meaning_tr": "yıl",
+      "meaning_en": "year",
+      "meaning_uk": "рік"
+    },
+    {
+      "term": "die Uhr",
+      "type": "Noun",
+      "example": "Es ist sieben ***.",
+      "meaning_tr": "saat (zaman anlamında)",
+      "meaning_en": "o'clock, clock",
+      "meaning_uk": "година, годинник"
+    },
+    {
+      "term": "die Zeit",
+      "type": "Noun",
+      "example": "Hast du *** für mich?",
+      "meaning_tr": "zaman",
+      "meaning_en": "time",
+      "meaning_uk": "час"
+    },
+    {
+      "term": "das Datum",
+      "type": "Noun",
+      "example": "Welches *** haben wir heute?",
+      "meaning_tr": "tarih",
+      "meaning_en": "date",
+      "meaning_uk": "дата"
+    },
+    {
+      "term": "der Morgen",
+      "type": "Noun",
+      "example": "Am *** trinke ich Kaffee.",
+      "meaning_tr": "sabah",
+      "meaning_en": "morning",
+      "meaning_uk": "ранок"
+    },
+    {
+      "term": "der Abend",
+      "type": "Noun",
+      "example": "Wir treffen uns am ***.",
+      "meaning_tr": "akşam",
+      "meaning_en": "evening",
+      "meaning_uk": "вечір"
+    },
+    {
+      "term": "sein",
+      "type": "Verb",
+      "example": "Es *** neun Uhr.",
+      "meaning_tr": "olmak",
+      "meaning_en": "to be",
+      "meaning_uk": "бути"
+    },
+    {
+      "term": "haben",
+      "type": "Verb",
+      "example": "Ich *** heute keine Zeit.",
+      "meaning_tr": "sahip olmak",
+      "meaning_en": "to have",
+      "meaning_uk": "мати"
+    },
+    {
+      "term": "um",
+      "type": "Preposition",
+      "example": "Der Zug fährt *** acht Uhr ab.",
+      "meaning_tr": "saat (için), civarında",
+      "meaning_en": "at (for time)",
+      "meaning_uk": "о (для часу)"
+    },
+    {
+      "term": "am",
+      "type": "Preposition",
+      "example": "Wir gehen *** Sonntag ins Kino.",
+      "meaning_tr": "...de, ...da (günler için)",
+      "meaning_en": "on (for days/weekends)",
+      "meaning_uk": "у (для днів/вихідних)"
+    },
+    {
+      "term": "früh",
+      "type": "Adjective",
+      "example": "Ich stehe jeden Tag *** auf.",
+      "meaning_tr": "erken",
+      "meaning_en": "early",
+      "meaning_uk": "рано"
+    },
+    {
+      "term": "spät",
+      "type": "Adjective",
+      "example": "Entschuldigung, ich bin ***.",
+      "meaning_tr": "geç",
+      "meaning_en": "late",
+      "meaning_uk": "пізно"
+    }
+  ]
+}

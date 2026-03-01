@@ -1,77 +1,141 @@
 {
   "title": "Reisen & Urlaub (A1)",
-  "items": [
-    {
-      "term": "die Reise",
-      "type": "Substantiv (f)",
-      "meaning_tr": "the trip, the journey",
-      "example": "Ich mache eine Reise nach Berlin."
-    },
+  "language": "de",
+  "words": [
     {
       "term": "der Urlaub",
-      "type": "Substantiv (m)",
-      "meaning_tr": "the holiday, the vacation",
-      "example": "Wir haben Urlaub im Sommer."
+      "type": "Noun",
+      "example": "Ich mache im Sommer ***.",
+      "meaning_tr": "tatil",
+      "meaning_en": "vacation",
+      "meaning_uk": "відпустка",
+      "meaning_es": "vacaciones"
     },
     {
-      "term": "fliegen",
+      "term": "reisen",
       "type": "Verb",
-      "meaning_tr": "to fly",
-      "example": "Wir fliegen nach Spanien."
+      "example": "Ich möchte nach Spanien ***.",
+      "meaning_tr": "seyahat etmek",
+      "meaning_en": "to travel",
+      "meaning_uk": "подорожувати",
+      "meaning_es": "viajar"
+    },
+    {
+      "term": "das Hotel",
+      "type": "Noun",
+      "example": "Wir schlafen in einem ***.",
+      "meaning_tr": "otel",
+      "meaning_en": "hotel",
+      "meaning_uk": "готель",
+      "meaning_es": "hotel"
     },
     {
       "term": "fahren",
       "type": "Verb",
-      "meaning_tr": "to drive, to go (by vehicle)",
-      "example": "Ich fahre mit dem Auto."
+      "example": "Er kann gut Auto ***.",
+      "meaning_tr": "sürmek/gitmek (araçla)",
+      "meaning_en": "to drive/go (by vehicle)",
+      "meaning_uk": "їхати",
+      "meaning_es": "conducir/ir (en vehículo)"
     },
     {
-      "term": "das Hotel",
-      "type": "Substantiv (n)",
-      "meaning_tr": "the hotel",
-      "example": "Wir wohnen in einem schönen Hotel."
+      "term": "die Stadt",
+      "type": "Noun",
+      "example": "Berlin ist eine große ***.",
+      "meaning_tr": "şehir",
+      "meaning_en": "city",
+      "meaning_uk": "місто",
+      "meaning_es": "ciudad"
     },
     {
-      "term": "der Strand",
-      "type": "Substantiv (m)",
-      "meaning_tr": "the beach",
-      "example": "Am Strand ist es warm."
+      "term": "besuchen",
+      "type": "Verb",
+      "example": "Ich will meine Familie ***.",
+      "meaning_tr": "ziyaret etmek",
+      "meaning_en": "to visit",
+      "meaning_uk": "відвідувати",
+      "meaning_es": "visitar"
     },
     {
-      "term": "das Meer",
-      "type": "Substantiv (n)",
-      "meaning_tr": "the sea",
-      "example": "Ich mag das blaue Meer."
+      "term": "der Koffer",
+      "type": "Noun",
+      "example": "Mein *** ist sehr schwer.",
+      "meaning_tr": "bavul",
+      "meaning_en": "suitcase",
+      "meaning_uk": "валіза",
+      "meaning_es": "maleta"
     },
     {
       "term": "packen",
       "type": "Verb",
-      "meaning_tr": "to pack",
-      "example": "Ich muss meinen Koffer packen."
+      "example": "Ich muss meine Kleidung ***.",
+      "meaning_tr": "paketlemek/toplamak (bavul)",
+      "meaning_en": "to pack",
+      "meaning_uk": "пакувати",
+      "meaning_es": "empacar"
     },
     {
-      "term": "die Koffer",
-      "type": "Substantiv (pl)",
-      "meaning_tr": "the suitcases",
-      "example": "Wo sind unsere Koffer?"
+      "term": "der Strand",
+      "type": "Noun",
+      "example": "Am *** gibt es viel Sand.",
+      "meaning_tr": "plaj",
+      "meaning_en": "beach",
+      "meaning_uk": "пляж",
+      "meaning_es": "playa"
     },
     {
-      "term": "buchen",
+      "term": "schwimmen",
       "type": "Verb",
-      "meaning_tr": "to book",
-      "example": "Wir wollen das Ticket buchen."
+      "example": "Er kann gut ***.",
+      "meaning_tr": "yüzmek",
+      "meaning_en": "to swim",
+      "meaning_uk": "плавати",
+      "meaning_es": "nadar"
     },
     {
-      "term": "der Pass",
-      "type": "Substantiv (m)",
-      "meaning_tr": "the passport",
-      "example": "Haben Sie Ihren Pass dabei?"
+      "term": "die Sonne",
+      "type": "Noun",
+      "example": "Die *** scheint heute.",
+      "meaning_tr": "güneş",
+      "meaning_en": "sun",
+      "meaning_uk": "сонце",
+      "meaning_es": "sol"
     },
     {
-      "term": "wohnen",
+      "term": "warm",
+      "type": "Adjective",
+      "example": "Es ist heute sehr ***.",
+      "meaning_tr": "sıcak",
+      "meaning_en": "warm",
+      "meaning_uk": "теплий",
+      "meaning_es": "cálido"
+    },
+    {
+      "term": "der Flughafen",
+      "type": "Noun",
+      "example": "Wir fahren zum ***.",
+      "meaning_tr": "havalimanı",
+      "meaning_en": "airport",
+      "meaning_uk": "аеропорт",
+      "meaning_es": "aeropuerto"
+    },
+    {
+      "term": "fliegen",
       "type": "Verb",
-      "meaning_tr": "to live, to stay",
-      "example": "Wir wohnen bei Freunden."
+      "example": "Möchten Sie mit dem Flugzeug ***?",
+      "meaning_tr": "uçmak",
+      "meaning_en": "to fly",
+      "meaning_uk": "літати",
+      "meaning_es": "volar"
+    },
+    {
+      "term": "die Karte",
+      "type": "Noun",
+      "example": "Ich brauche eine *** von der Stadt.",
+      "meaning_tr": "harita/bilet",
+      "meaning_en": "map/ticket",
+      "meaning_uk": "карта/квиток",
+      "meaning_es": "mapa/billete"
     }
   ]
 }

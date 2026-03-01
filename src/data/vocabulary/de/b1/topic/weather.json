@@ -1,185 +1,247 @@
-{
-  "title": "Wetter & Jahreszeiten (B1)",
-  "items": [
-    {
-      "term": "die Vorhersage",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "tahmin, öngörü",
-      "example": "Die Wettervorhersage sagt für morgen Regen voraus."
-    },
-    {
-      "term": "der Sonnenschein",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "güneş ışığı",
-      "example": "Nach dem Sturm hatten wir wieder viel Sonnenschein."
-    },
-    {
-      "term": "der Nebel",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "sis",
-      "example": "Morgens liegt oft dichter Nebel über dem Tal."
-    },
-    {
-      "term": "der Hagel",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "dolu",
-      "example": "Achtung, es hagelt! Das kann gefährlich sein."
-    },
-    {
-      "term": "der Schauer",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "sağanak yağış",
-      "example": "Es war nur ein kurzer Regenschauer, jetzt scheint wieder die Sonne."
-    },
-    {
-      "term": "der Blitz",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "şimşek",
-      "example": "Nach dem Blitz hörte man kurz darauf den Donner."
-    },
-    {
-      "term": "der Donner",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "gök gürültüsü",
-      "example": "Der laute Donner ließ die Fenster vibrieren."
-    },
-    {
-      "term": "der Sturm",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "fırtına",
-      "example": "Wegen des starken Sturms wurden Flüge gestrichen."
-    },
-    {
-      "term": "schwül",
-      "type": "Adjektiv",
-      "meaning_tr": "nemli ve boğucu",
-      "example": "Die Luft war heute sehr schwül vor dem Gewitter."
-    },
-    {
-      "term": "der Tau",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "çiy",
-      "example": "Am frühen Morgen glitzerte der Tau auf dem Gras."
-    },
-    {
-      "term": "die Brise",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "esinti",
-      "example": "Eine leichte Brise wehte vom Meer herüber."
-    },
-    {
-      "term": "der Frost",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "don",
-      "example": "In dieser Nacht erwarten wir starken Frost."
-    },
-    {
-      "term": "einfrieren",
-      "type": "Verb",
-      "meaning_tr": "donmak (hareketsiz hale gelmek)",
-      "example": "Die Rohre drohen bei diesen Temperaturen einzufrieren."
-    },
-    {
-      "term": "die Jahreszeit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "mevsim",
-      "example": "Welche Jahreszeit magst du am liebsten?"
-    },
-    {
-      "term": "der Frühling",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "ilkbahar",
-      "example": "Im Frühling blühen die Bäume und Blumen."
-    },
-    {
-      "term": "der Sommer",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "yaz",
-      "example": "Im Sommer verbringen wir viel Zeit am See."
-    },
-    {
-      "term": "der Herbst",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "sonbahar",
-      "example": "Im Herbst fallen die Blätter von den Bäumen."
-    },
-    {
-      "term": "der Winter",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "kış",
-      "example": "Wir fahren im Winter oft Ski fahren."
-    },
-    {
-      "term": "die Jahreswende",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "yıl dönümü, yılbaşı dönemi",
-      "example": "Um die Jahreswende wird viel gefeiert."
-    },
-    {
-      "term": "die Schneeflocke",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "kar tanesi",
-      "example": "Jede Schneeflocke ist einzigartig."
-    },
-    {
-      "term": "die Eiskälte",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "dondurucu soğuk",
-      "example": "Wir mussten wegen der Eiskälte zu Hause bleiben."
-    },
-    {
-      "term": "gemäßigt",
-      "type": "Adjektiv",
-      "meaning_tr": "ılıman",
-      "example": "Diese Region hat ein gemäßigtes Klima."
-    },
-    {
-      "term": "der Temperaturabfall",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "sıcaklık düşüşü",
-      "example": "Wir erwarten einen starken Temperaturabfall über Nacht."
-    },
-    {
-      "term": "die Dürre",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "kuraklık",
-      "example": "Wegen der langen Dürre gibt es Ernteausfälle."
-    },
-    {
-      "term": "die Überschwemmung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "sel, su baskını",
-      "example": "Die starken Regenfälle führten zu einer großen Überschwemmung."
-    },
-    {
-      "term": "die Hitzeperiode",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "sıcak hava dönemi",
-      "example": "Die letzte Hitzeperiode dauerte fast drei Wochen."
-    },
-    {
-      "term": "die Luftfeuchtigkeit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "nem oranı",
-      "example": "Die hohe Luftfeuchtigkeit macht das Wetter drückend."
-    },
-    {
-      "term": "der Sturmwarnung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "fırtına uyarısı",
-      "example": "Es gibt eine aktuelle Sturmwarnung für die Küstenregion."
-    },
-    {
-      "term": "wechselhaft",
-      "type": "Adjektiv",
-      "meaning_tr": "değişken, değişken hava",
-      "example": "Das Wetter ist im Frühling oft sehr wechselhaft."
-    },
-    {
-      "term": "der Gefrierpunkt",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "donma noktası",
-      "example": "Die Temperatur liegt heute knapp unter dem Gefrierpunkt."
-    }
-  ]
-}
+[
+  {
+    "term": "der Regen",
+    "meaning_tr": "yağmur",
+    "meaning_en": "rain",
+    "meaning_uk": "дощ",
+    "meaning_es": "lluvia"
+  },
+  {
+    "term": "der Sonnenschein",
+    "meaning_tr": "güneş ışığı",
+    "meaning_en": "sunshine",
+    "meaning_uk": "сонячне світло",
+    "meaning_es": "sol"
+  },
+  {
+    "term": "die Sonne",
+    "meaning_tr": "güneş",
+    "meaning_en": "sun",
+    "meaning_uk": "сонце",
+    "meaning_es": "sol"
+  },
+  {
+    "term": "der Schnee",
+    "meaning_tr": "kar",
+    "meaning_en": "snow",
+    "meaning_uk": "сніг",
+    "meaning_es": "nieve"
+  },
+  {
+    "term": "der Wind",
+    "meaning_tr": "rüzgar",
+    "meaning_en": "wind",
+    "meaning_uk": "вітер",
+    "meaning_es": "viento"
+  },
+  {
+    "term": "der Sturm",
+    "meaning_tr": "fırtına",
+    "meaning_en": "storm",
+    "meaning_uk": "шторм",
+    "meaning_es": "tormenta"
+  },
+  {
+    "term": "der Nebel",
+    "meaning_tr": "sis",
+    "meaning_en": "fog",
+    "meaning_uk": "туман",
+    "meaning_es": "niebla"
+  },
+  {
+    "term": "die Wolke",
+    "meaning_tr": "bulut",
+    "meaning_en": "cloud",
+    "meaning_uk": "хмара",
+    "meaning_es": "nube"
+  },
+  {
+    "term": "die Temperatur",
+    "meaning_tr": "sıcaklık",
+    "meaning_en": "temperature",
+    "meaning_uk": "температура",
+    "meaning_es": "temperatura"
+  },
+  {
+    "term": "warm",
+    "meaning_tr": "ılık, sıcak",
+    "meaning_en": "warm",
+    "meaning_uk": "теплий",
+    "meaning_es": "cálido"
+  },
+  {
+    "term": "heiß",
+    "meaning_tr": "çok sıcak",
+    "meaning_en": "hot",
+    "meaning_uk": "спекотний",
+    "meaning_es": "caliente"
+  },
+  {
+    "term": "kalt",
+    "meaning_tr": "soğuk",
+    "meaning_en": "cold",
+    "meaning_uk": "холодний",
+    "meaning_es": "frío"
+  },
+  {
+    "term": "kühl",
+    "meaning_tr": "serin",
+    "meaning_en": "cool",
+    "meaning_uk": "прохолодний",
+    "meaning_es": "fresco"
+  },
+  {
+    "term": "das Wetter",
+    "meaning_tr": "hava durumu",
+    "meaning_en": "weather",
+    "meaning_uk": "погода",
+    "meaning_es": "tiempo"
+  },
+  {
+    "term": "der Frühling",
+    "meaning_tr": "ilkbahar",
+    "meaning_en": "spring",
+    "meaning_uk": "весна",
+    "meaning_es": "primavera"
+  },
+  {
+    "term": "der Sommer",
+    "meaning_tr": "yaz",
+    "meaning_en": "summer",
+    "meaning_uk": "літо",
+    "meaning_es": "verano"
+  },
+  {
+    "term": "der Herbst",
+    "meaning_tr": "sonbahar",
+    "meaning_en": "autumn",
+    "meaning_uk": "осінь",
+    "meaning_es": "otoño"
+  },
+  {
+    "term": "der Winter",
+    "meaning_tr": "kış",
+    "meaning_en": "winter",
+    "meaning_uk": "зима",
+    "meaning_es": "invierno"
+  },
+  {
+    "term": "der Himmel",
+    "meaning_tr": "gökyüzü",
+    "meaning_en": "sky",
+    "meaning_uk": "небо",
+    "meaning_es": "cielo"
+  },
+  {
+    "term": "die Jahreszeit",
+    "meaning_tr": "mevsim",
+    "meaning_en": "season",
+    "meaning_uk": "пора року",
+    "meaning_es": "estación"
+  },
+  {
+    "term": "bewölkt",
+    "meaning_tr": "bulutlu",
+    "meaning_en": "cloudy",
+    "meaning_uk": "хмарно",
+    "meaning_es": "nublado"
+  },
+  {
+    "term": "sonnig",
+    "meaning_tr": "güneşli",
+    "meaning_en": "sunny",
+    "meaning_uk": "сонячно",
+    "meaning_es": "soleado"
+  },
+  {
+    "term": "regnerisch",
+    "meaning_tr": "yağmurlu",
+    "meaning_en": "rainy",
+    "meaning_uk": "дощиво",
+    "meaning_es": "lluvioso"
+  },
+  {
+    "term": "windig",
+    "meaning_tr": "rüzgarlı",
+    "meaning_en": "windy",
+    "meaning_uk": "вітряно",
+    "meaning_es": "ventoso"
+  },
+  {
+    "term": "stürmisch",
+    "meaning_tr": "fırtınalı",
+    "meaning_en": "stormy",
+    "meaning_uk": "штормовий",
+    "meaning_es": "tormentoso"
+  },
+  {
+    "term": "neblig",
+    "meaning_tr": "sislidir",
+    "meaning_en": "foggy",
+    "meaning_uk": "туманно",
+    "meaning_es": "neblinoso"
+  },
+  {
+    "term": "das Gewitter",
+    "meaning_tr": "gök gürültülü fırtına",
+    "meaning_en": "thunderstorm",
+    "meaning_uk": "гроза",
+    "meaning_es": "tormenta eléctrica"
+  },
+  {
+    "term": "der Donner",
+    "meaning_tr": "gök gürültüsü",
+    "meaning_en": "thunder",
+    "meaning_uk": "грім",
+    "meaning_es": "trueno"
+  },
+  {
+    "term": "der Blitz",
+    "meaning_tr": "şimşek",
+    "meaning_en": "lightning",
+    "meaning_uk": "блискавка",
+    "meaning_es": "relámpago"
+  },
+  {
+    "term": "der Hagel",
+    "meaning_tr": "dolu",
+    "meaning_en": "hail",
+    "meaning_uk": "град",
+    "meaning_es": "granizo"
+  },
+  {
+    "term": "die Dürre",
+    "meaning_tr": "kuraklık",
+    "meaning_en": "drought",
+    "meaning_uk": "посуха",
+    "meaning_es": "sequía"
+  },
+  {
+    "term": "die Überschwemmung",
+    "meaning_tr": "sel",
+    "meaning_en": "flood",
+    "meaning_uk": "повінь",
+    "meaning_es": "inundación"
+  },
+  {
+    "term": "die Vorhersage",
+    "meaning_tr": "tahmin",
+    "meaning_en": "forecast",
+    "meaning_uk": "прогноз",
+    "meaning_es": "pronóstico"
+  },
+  {
+    "term": "der Frost",
+    "meaning_tr": "don",
+    "meaning_en": "frost",
+    "meaning_uk": "мороз",
+    "meaning_es": "escarcha"
+  },
+  {
+    "term": "die Glätte",
+    "meaning_tr": "buzlanma, kayganlık",
+    "meaning_en": "icy conditions",
+    "meaning_uk": "ожеледиця",
+    "meaning_es": "hielo negro"
+  }
+]

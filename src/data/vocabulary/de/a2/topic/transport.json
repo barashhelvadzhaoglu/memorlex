@@ -1,125 +1,177 @@
-{
-  "title": "Verkehr & Transport (A2)",
-  "items": [
-    {
-      "term": "das Auto",
-      "type": "Noun (n)",
-      "meaning_tr": "the car",
-      "example": "Ich fahre mit dem Auto zur Arbeit."
-    },
-    {
-      "term": "der Bus",
-      "type": "Noun (m)",
-      "meaning_tr": "the bus",
-      "example": "Wir nehmen den Bus, weil er billiger ist."
-    },
-    {
-      "term": "die Bahn",
-      "type": "Noun (f)",
-      "meaning_tr": "the train",
-      "example": "Die Bahn kommt pünktlich an."
-    },
-    {
-      "term": "das Fahrrad",
-      "type": "Noun (n)",
-      "meaning_tr": "the bicycle",
-      "example": "Ich fahre jeden Tag mit dem Fahrrad zur Schule."
-    },
-    {
-      "term": "fliegen",
-      "type": "Verb",
-      "meaning_tr": "to fly",
-      "example": "Wir werden im Sommer nach Spanien fliegen."
-    },
-    {
-      "term": "fahren",
-      "type": "Verb",
-      "meaning_tr": "to drive, to travel (by vehicle)",
-      "example": "Wie lange muss ich noch fahren?"
-    },
-    {
-      "term": "die Haltestelle",
-      "type": "Noun (f)",
-      "meaning_tr": "the stop (bus/tram stop)",
-      "example": "Warte bitte an der nächsten Haltestelle."
-    },
-    {
-      "term": "der Bahnhof",
-      "type": "Noun (m)",
-      "meaning_tr": "the train station",
-      "example": "Der Zug fährt vom Hauptbahnhof ab."
-    },
-    {
-      "term": "der Flughafen",
-      "type": "Noun (m)",
-      "meaning_tr": "the airport",
-      "example": "Wir müssen früh zum Flughafen fahren."
-    },
-    {
-      "term": "das Ticket",
-      "type": "Noun (n)",
-      "meaning_tr": "the ticket",
-      "example": "Hast du schon ein Ticket für die U-Bahn gekauft?"
-    },
-    {
-      "term": "die Fahrkarte",
-      "type": "Noun (f)",
-      "meaning_tr": "the travel ticket (general)",
-      "example": "Ich brauche eine einfache Fahrkarte nach Berlin."
-    },
-    {
-      "term": "die U-Bahn",
-      "type": "Noun (f)",
-      "meaning_tr": "the subway/underground",
-      "example": "In München nehmen wir oft die U-Bahn."
-    },
-    {
-      "term": "die Straßenbahn",
-      "type": "Noun (f)",
-      "meaning_tr": "the tram",
-      "example": "Die Straßenbahn Linie 5 fährt an meinem Haus vorbei."
-    },
-    {
-      "term": "die Richtung",
-      "type": "Noun (f)",
-      "meaning_tr": "the direction",
-      "example": "In welche Richtung muss ich gehen?"
-    },
-    {
-      "term": "einsteigen",
-      "type": "Verb",
-      "meaning_tr": "to get in, to board",
-      "example": "Bitte steigen Sie an der nächsten Station ein."
-    },
-    {
-      "term": "aussteigen",
-      "type": "Verb",
-      "meaning_tr": "to get off, to alight",
-      "example": "An dieser Station müssen wir aussteigen."
-    },
-    {
-      "term": "umsteigen",
-      "type": "Verb",
-      "meaning_tr": "to change (trains, buses)",
-      "example": "Wir müssen in Köln umsteigen."
-    },
-    {
-      "term": "die Verspätung",
-      "type": "Noun (f)",
-      "meaning_tr": "the delay",
-      "example": "Der Zug hat leider zehn Minuten Verspätung."
-    },
-    {
-      "term": "die Abfahrt",
-      "type": "Noun (f)",
-      "meaning_tr": "the departure",
-      "example": "Die Abfahrt des Flugzeugs ist um 14 Uhr."
-    },
-    {
-      "term": "die Ankunft",
-      "type": "Noun (f)",
-      "meaning_tr": "the arrival",
-      "example": "Wann ist die Ankunft in Hamburg?"
-    }
-  ]
-}
+[
+  {
+    "term": "der Bus",
+    "meaning_tr": "otobüs",
+    "meaning_en": "bus",
+    "meaning_uk": "автобус",
+    "meaning_es": "autobús"
+  },
+  {
+    "term": "die Bahn",
+    "meaning_tr": "tren, hat",
+    "meaning_en": "train, track",
+    "meaning_uk": "потяг, колія",
+    "meaning_es": "tren, vía"
+  },
+  {
+    "term": "das Auto",
+    "meaning_tr": "araba",
+    "meaning_en": "car",
+    "meaning_uk": "автомобіль",
+    "meaning_es": "coche"
+  },
+  {
+    "term": "das Fahrrad",
+    "meaning_tr": "bisiklet",
+    "meaning_en": "bicycle",
+    "meaning_uk": "велосипед",
+    "meaning_es": "bicicleta"
+  },
+  {
+    "term": "der Zug",
+    "meaning_tr": "tren",
+    "meaning_en": "train",
+    "meaning_uk": "потяг",
+    "meaning_es": "tren"
+  },
+  {
+    "term": "der Flughafen",
+    "meaning_tr": "havaalanı",
+    "meaning_en": "airport",
+    "meaning_uk": "аеропорт",
+    "meaning_es": "aeropuerto"
+  },
+  {
+    "term": "der Bahnhof",
+    "meaning_tr": "istasyon",
+    "meaning_en": "station",
+    "meaning_uk": "станція",
+    "meaning_es": "estación"
+  },
+  {
+    "term": "die Bushaltestelle",
+    "meaning_tr": "otobüs durağı",
+    "meaning_en": "bus stop",
+    "meaning_uk": "автобусна зупинка",
+    "meaning_es": "parada de autobús"
+  },
+  {
+    "term": "die Straße",
+    "meaning_tr": "sokak, cadde",
+    "meaning_en": "street, road",
+    "meaning_uk": "вулиця, дорога",
+    "meaning_es": "calle, carretera"
+  },
+  {
+    "term": "die Ampel",
+    "meaning_tr": "trafik ışığı",
+    "meaning_en": "traffic light",
+    "meaning_uk": "світлофор",
+    "meaning_es": "semáforo"
+  },
+  {
+    "term": "der Fußgänger",
+    "meaning_tr": "yaya",
+    "meaning_en": "pedestrian",
+    "meaning_uk": "пішохід",
+    "meaning_es": "peatón"
+  },
+  {
+    "term": "die Kreuzung",
+    "meaning_tr": "kavşak",
+    "meaning_en": "intersection",
+    "meaning_uk": "перехрестя",
+    "meaning_es": "cruce"
+  },
+  {
+    "term": "der Parkplatz",
+    "meaning_tr": "otopark",
+    "meaning_en": "parking lot",
+    "meaning_uk": "парковка",
+    "meaning_es": "aparcamiento"
+  },
+  {
+    "term": "das Ticket",
+    "meaning_tr": "bilet",
+    "meaning_en": "ticket",
+    "meaning_uk": "квиток",
+    "meaning_es": "billete"
+  },
+  {
+    "term": "die Fahrkarte",
+    "meaning_tr": "seyahat bileti",
+    "meaning_en": "travel ticket",
+    "meaning_uk": "проїзний квиток",
+    "meaning_es": "boleto de viaje"
+  },
+  {
+    "term": "der Führerschein",
+    "meaning_tr": "ehliyet",
+    "meaning_en": "driver's license",
+    "meaning_uk": "водійське посвідчення",
+    "meaning_es": "carné de conducir"
+  },
+  {
+    "term": "die Geschwindigkeit",
+    "meaning_tr": "hız",
+    "meaning_en": "speed",
+    "meaning_uk": "швидкість",
+    "meaning_es": "velocidad"
+  },
+  {
+    "term": "der Verkehr",
+    "meaning_tr": "trafik",
+    "meaning_en": "traffic",
+    "meaning_uk": "рух транспорту",
+    "meaning_es": "tráfico"
+  },
+  {
+    "term": "transportieren",
+    "meaning_tr": "taşımak",
+    "meaning_en": "to transport",
+    "meaning_uk": "транспортувати",
+    "meaning_es": "transportar"
+  },
+  {
+    "term": "fahren",
+    "meaning_tr": "gitmek, sürmek",
+    "meaning_en": "to drive, to go",
+    "meaning_uk": "їхати, керувати",
+    "meaning_es": "conducir, ir"
+  },
+  {
+    "term": "steigen",
+    "meaning_tr": "binmek",
+    "meaning_en": "to get on/into",
+    "meaning_uk": "сідати (у транспорт)",
+    "meaning_es": "subir(se)"
+  },
+  {
+    "term": "aussteigen",
+    "meaning_tr": "inmek",
+    "meaning_en": "to get off/out of",
+    "meaning_uk": "виходити (з транспорту)",
+    "meaning_es": "bajar(se)"
+  },
+  {
+    "term": "einsteigen",
+    "meaning_tr": "binmek",
+    "meaning_en": "to get in/on",
+    "meaning_uk": "сідати (у транспорт)",
+    "meaning_es": "entrar(se)"
+  },
+  {
+    "term": "umsteigen",
+    "meaning_tr": "aktarma yapmak",
+    "meaning_en": "to change (train, bus etc.)",
+    "meaning_uk": "пересідати",
+    "meaning_es": "hacer transbordo"
+  },
+  {
+    "term": "die Abfahrt",
+    "meaning_tr": "kalkış",
+    "meaning_en": "departure",
+    "meaning_uk": "відправлення",
+    "meaning_es": "salida"
+  }
+]

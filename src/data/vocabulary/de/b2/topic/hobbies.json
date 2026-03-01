@@ -1,245 +1,331 @@
-{
-  "title": "Hobbys & Freizeit (B2)",
-  "items": [
-    {
-      "term": "die ehrenamtliche Tätigkeit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "voluntary work",
-      "example": "Sie engagiert sich ehrenamtlich im örtlichen Tierheim."
-    },
-    {
-      "term": "das Handwerk",
-      "type": "Substantiv, neutrum",
-      "meaning_tr": "craftsmanship, manual skill",
-      "example": "Sein Hobby ist die Holzschnitzerei, ein altes Handwerk."
-    },
-    {
-      "term": "die Muße",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "leisure, repose (time for relaxation)",
-      "example": "Endlich hatte sie wieder Muße gefunden, um ein Buch zu lesen."
-    },
-    {
-      "term": "sich ausleben",
-      "type": "Verb (reflexiv)",
-      "meaning_tr": "to let off steam, to fully express oneself",
-      "example": "Beim Tanzen kann ich mich kreativ richtig ausleben."
-    },
-    {
-      "term": "der Gleichgesinnte",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "like-minded person",
-      "example": "Er sucht Gleichgesinnte für seine Wandergruppe."
-    },
-    {
-      "term": "das Repertoire erweitern",
-      "type": "Phrase",
-      "meaning_tr": "to expand one's repertoire",
-      "example": "Der Musiker möchte sein Repertoire an klassischen Stücken erweitern."
-    },
-    {
-      "term": "der Zeitvertreib",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "pastime, way to pass the time",
-      "example": "Für viele ist das Lesen ein angenehmer Zeitvertreib."
-    },
-    {
-      "term": "die Entschleunigung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "deceleration, slowing down",
-      "example": "Ein Yoga-Retreat dient oft der Entschleunigung des Alltags."
-    },
-    {
-      "term": "die Sammelleidenschaft",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "passion for collecting",
-      "example": "Seine Sammelleidenschaft gilt seltenen Münzen."
-    },
-    {
-      "term": "etwas frönen",
-      "type": "Verb",
-      "meaning_tr": "to indulge in something",
-      "example": "Am Wochenende frönt er seiner Leidenschaft, dem Kochen."
-    },
-    {
-      "term": "die Fertigkeit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "skill, proficiency",
-      "example": "Durch regelmäßiges Üben verbessert man seine Fertigkeiten."
-    },
-    {
-      "term": "die Improvisation",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "improvisation",
-      "example": "Im Jazz ist die Fähigkeit zur Improvisation sehr wichtig."
-    },
-    {
-      "term": "die Improvisationsgabe",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "talent for improvisation",
-      "example": "Sie bewunderte seine Improvisationsgabe beim Theaterspielen."
-    },
-    {
-      "term": "die Geselligkeit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "sociability, conviviality",
-      "example": "Er schätzt an seinem Verein vor allem die Geselligkeit."
-    },
-    {
-      "term": "das Wandern",
-      "type": "Substantiv, neutrum",
-      "meaning_tr": "hiking, rambling",
-      "example": "Wandern in den Bergen ist seine liebste Freizeitbeschäftigung."
-    },
-    {
-      "term": "die Achtsamkeit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "mindfulness",
-      "example": "Achtsamkeitsübungen helfen, den Moment bewusst wahrzunehmen."
-    },
-    {
-      "term": "der Ausgleich",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "balance, compensation (often used for stress relief)",
-      "example": "Sport bietet den nötigen Ausgleich zum Büroalltag."
-    },
-    {
-      "term": "die geistige Fitness",
-      "type": "Phrase",
-      "meaning_tr": "mental fitness",
-      "example": "Rätsel und Sudokus fördern die geistige Fitness."
-    },
-    {
-      "term": "die Kontemplation",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "contemplation, deep reflective thought",
-      "example": "Nach der langen Wanderung genoss er die tiefe Kontemplation am Gipfel."
-    },
-    {
-      "term": "der Tagesausflug",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "day trip",
-      "example": "Am Wochenende planen wir einen Tagesausflug in die nächste Stadt."
-    },
-    {
-      "term": "das kreative Schaffen",
-      "type": "Phrase",
-      "meaning_tr": "creative endeavor/work",
-      "example": "Malen ist sein Ventil für das kreative Schaffen."
-    },
-    {
-      "term": "die Kettenbriefe",
-      "type": "Substantiv, feminin (Plural)",
-      "meaning_tr": "chain letters (used contextually for mail art/exchange)",
-      "example": "Sie tauscht mit Freunden handgemachte Kettenbriefe aus."
-    },
-    {
-      "term": "die Versenkung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "deep absorption, immersion (in an activity)",
-      "example": "Beim Lesen versinkt sie oft in tiefer Versenkung."
-    },
-    {
-      "term": "der künstlerische Ausdruck",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "artistic expression",
-      "example": "Fotografie ist für ihn eine Form des künstlerischen Ausdrucks."
-    },
-    {
-      "term": "die Muße finden",
-      "type": "Phrase",
-      "meaning_tr": "to find time/leisure",
-      "example": "Es ist schwer, im stressigen Alltag Muße zu finden."
-    },
-    {
-      "term": "die gesellige Runde",
-      "type": "Phrase",
-      "meaning_tr": "social circle/group",
-      "example": "Am Wochenende trifft er sich gerne mit seiner geselligen Runde zum Kartenspielen."
-    },
-    {
-      "term": "die Improvisationstalent",
-      "type": "Substantiv, neutrum",
-      "meaning_tr": "talent for improvisation",
-      "example": "Seine Improvisationstalent beeindruckte das Publikum."
-    },
-    {
-      "term": "die Verfeinerung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "refinement, perfecting (of a skill)",
-      "example": "Er arbeitet ständig an der Verfeinerung seiner Kochtechnik."
-    },
-    {
-      "term": "sich betätigen",
-      "type": "Verb (reflexiv)",
-      "meaning_tr": "to occupy oneself, to engage in (an activity)",
-      "example": "Sie betätigt sich gerne im Garten, wenn das Wetter gut ist."
-    },
-    {
-      "term": "die Improvisationskunst",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "the art of improvisation",
-      "example": "Die Improvisationskunst des Schauspielers war unübertroffen."
-    },
-    {
-      "term": "der Gedankenaustausch",
-      "type": "Substantiv, maskulin",
-      "meaning_tr": "exchange of ideas/thoughts",
-      "example": "Die Diskussionsrunde förderte einen regen Gedankenaustausch."
-    },
-    {
-      "term": "die Freizeitgestaltung",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "leisure time planning/organization",
-      "example": "Wie planen Sie Ihre Freizeitgestaltung für die kommenden Feiertage?"
-    },
-    {
-      "term": "die Gelassenheit",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "composure, serenity",
-      "example": "Meditation verhilft zu mehr Gelassenheit im Alltag."
-    },
-    {
-      "term": "die kreative Ader",
-      "type": "Phrase",
-      "meaning_tr": "creative streak/inclination",
-      "example": "Sie hat eine starke kreative Ader, besonders beim Schreiben."
-    },
-    {
-      "term": "die Improvisationstheater",
-      "type": "Substantiv, neutrum",
-      "meaning_tr": "improv theatre",
-      "example": "Er besucht regelmäßig Kurse im Improvisationstheater."
-    },
-    {
-      "term": "die Entspannungstechnik",
-      "type": "Substantiv, feminin",
-      "meaning_tr": "relaxation technique",
-      "example": "Progressive Muskelentspannung ist eine beliebte Entspannungstechnik."
-    },
-    {
-      "term": "die künstlerische Betätigung",
-      "type": "Phrase",
-      "meaning_tr": "artistic activity/pursuit",
-      "example": "Seine künstlerische Betätigung hilft ihm, Stress abzubauen."
-    },
-    {
-      "term": "die Auszeit nehmen",
-      "type": "Phrase",
-      "meaning_tr": "to take a break/time out",
-      "example": "Nach der stressigen Phase musste sie sich eine Auszeit nehmen."
-    },
-    {
-      "term": "der Sinn für Ästhetik",
-      "type": "Phrase",
-      "meaning_tr": "sense of aesthetics",
-      "example": "Ihr Garten zeugt von einem ausgeprägten Sinn für Ästhetik."
-    },
-    {
-      "term": "die intellektuelle Herausforderung",
-      "type": "Phrase",
-      "meaning_tr": "intellectual challenge",
-      "example": "Schach bietet ihm eine ständige intellektuelle Herausforderung."
-    }
-  ]
-}
+[
+  {
+    "term": "das Brettspiel",
+    "meaning_tr": "kutu oyunu",
+    "meaning_en": "board game",
+    "meaning_uk": "настільна гра",
+    "meaning_es": "juego de mesa"
+  },
+  {
+    "term": "das Hobby",
+    "meaning_tr": "hobi",
+    "meaning_en": "hobby",
+    "meaning_uk": "хобі",
+    "meaning_es": "pasatiempo"
+  },
+  {
+    "term": "die Freizeit",
+    "meaning_tr": "boş zaman",
+    "meaning_en": "leisure time",
+    "meaning_uk": "вільний час",
+    "meaning_es": "tiempo libre"
+  },
+  {
+    "term": "die Veranstaltung",
+    "meaning_tr": "etkinlik, organizasyon",
+    "meaning_en": "event, organization",
+    "meaning_uk": "подія, захід, організація",
+    "meaning_es": "evento, organización"
+  },
+  {
+    "term": "das Vereinswesen",
+    "meaning_tr": "kulüpçülük, dernekçilik",
+    "meaning_en": "club life, association system",
+    "meaning_uk": "клубне життя, асоціативна діяльність",
+    "meaning_es": "vida asociativa, sistema de clubes"
+  },
+  {
+    "term": "das Ehrenamt",
+    "meaning_tr": "gönüllülük, fahri görev",
+    "meaning_en": "voluntary work, honorary office",
+    "meaning_uk": "волонтерство, почесна посада",
+    "meaning_es": "trabajo voluntario, cargo honorífico"
+  },
+  {
+    "term": "das Engagement",
+    "meaning_tr": "katılım, bağlılık, adanmışlık",
+    "meaning_en": "commitment, involvement, dedication",
+    "meaning_uk": "залученість, відданість, зобов'язання",
+    "meaning_es": "compromiso, participación, dedicación"
+  },
+  {
+    "term": "die Entspannung",
+    "meaning_tr": "rahatlama, dinlenme",
+    "meaning_en": "relaxation",
+    "meaning_uk": "розслаблення",
+    "meaning_es": "relajación"
+  },
+  {
+    "term": "die Erholung",
+    "meaning_tr": "dinlenme, iyileşme",
+    "meaning_en": "recreation, recovery",
+    "meaning_uk": "відпочинок, відновлення",
+    "meaning_es": "recreación, recuperación"
+  },
+  {
+    "term": "das Ausgehen",
+    "meaning_tr": "dışarı çıkma, gezme",
+    "meaning_en": "going out",
+    "meaning_uk": "виходити (гуляти, в кафе тощо)",
+    "meaning_es": "salir"
+  },
+  {
+    "term": "der Zeitvertreib",
+    "meaning_tr": "zaman geçirme, oyalanma",
+    "meaning_en": "pastime",
+    "meaning_uk": "заняття для проведення часу",
+    "meaning_es": "pasatiempo"
+  },
+  {
+    "term": "die Ausdauer",
+    "meaning_tr": "dayanıklılık, kondisyon",
+    "meaning_en": "endurance, stamina",
+    "meaning_uk": "витривалість",
+    "meaning_es": "resistencia"
+  },
+  {
+    "term": "die Geschicklichkeit",
+    "meaning_tr": "beceri, el çabukluğu",
+    "meaning_en": "dexterity, skillfulness",
+    "meaning_uk": "спритність, вправність",
+    "meaning_es": "destreza, habilidad"
+  },
+  {
+    "term": "die Kreativität",
+    "meaning_tr": "yaratıcılık",
+    "meaning_en": "creativity",
+    "meaning_uk": "креативність",
+    "meaning_es": "creatividad"
+  },
+  {
+    "term": "die Teamfähigkeit",
+    "meaning_tr": "takım çalışması becerisi",
+    "meaning_en": "teamwork ability",
+    "meaning_uk": "здатність до командної роботи",
+    "meaning_es": "capacidad de trabajo en equipo"
+  },
+  {
+    "term": "die Leidenschaft",
+    "meaning_tr": "tutku, tutkuyla bağlılık",
+    "meaning_en": "passion",
+    "meaning_uk": "пристрасть, захоплення",
+    "meaning_es": "pasión"
+  },
+  {
+    "term": "das Interesse",
+    "meaning_tr": "ilgi, alaka",
+    "meaning_en": "interest",
+    "meaning_uk": "інтерес",
+    "meaning_es": "interés"
+  },
+  {
+    "term": "die Sammlung",
+    "meaning_tr": "koleksiyon, toplama",
+    "meaning_en": "collection",
+    "meaning_uk": "колекція",
+    "meaning_es": "colección"
+  },
+  {
+    "term": "der Sammler",
+    "meaning_tr": "koleksiyoncu",
+    "meaning_en": "collector",
+    "meaning_uk": "колекціонер",
+    "meaning_es": "coleccionista"
+  },
+  {
+    "term": "die Ausrüstung",
+    "meaning_tr": "ekipman, donanım",
+    "meaning_en": "equipment",
+    "meaning_uk": "обладнання, спорядження",
+    "meaning_es": "equipo"
+  },
+  {
+    "term": "der Reiseführer",
+    "meaning_tr": "rehber kitap, gezi rehberi",
+    "meaning_en": "guidebook",
+    "meaning_uk": "путівник",
+    "meaning_es": "guía turística"
+  },
+  {
+    "term": "die Wanderung",
+    "meaning_tr": "doğa yürüyüşü",
+    "meaning_en": "hike, trek",
+    "meaning_uk": "похід",
+    "meaning_es": "senderismo"
+  },
+  {
+    "term": "das Bergsteigen",
+    "meaning_tr": "dağcılık",
+    "meaning_en": "mountain climbing",
+    "meaning_uk": "альпінізм",
+    "meaning_es": "alpinismo"
+  },
+  {
+    "term": "das Radfahren",
+    "meaning_tr": "bisiklete binme",
+    "meaning_en": "cycling",
+    "meaning_uk": "велосипедна прогулянка",
+    "meaning_es": "ciclismo"
+  },
+  {
+    "term": "das Schwimmen",
+    "meaning_tr": "yüzme",
+    "meaning_en": "swimming",
+    "meaning_uk": "плавання",
+    "meaning_es": "natación"
+  },
+  {
+    "term": "das Joggen",
+    "meaning_tr": "koşma, tempolu yürüme",
+    "meaning_en": "jogging",
+    "meaning_uk": "біг підтюпцем",
+    "meaning_es": "trotar"
+  },
+  {
+    "term": "das Tanzen",
+    "meaning_tr": "dans etme",
+    "meaning_en": "dancing",
+    "meaning_uk": "танці",
+    "meaning_es": "bailar"
+  },
+  {
+    "term": "das Singen",
+    "meaning_tr": "şarkı söyleme",
+    "meaning_en": "singing",
+    "meaning_uk": "спів",
+    "meaning_es": "cantar"
+  },
+  {
+    "term": "das Musizieren",
+    "meaning_tr": "müzik yapma",
+    "meaning_en": "making music",
+    "meaning_uk": "грати на музичних інструментах",
+    "meaning_es": "hacer música"
+  },
+  {
+    "term": "das Malen",
+    "meaning_tr": "resim yapma",
+    "meaning_en": "painting",
+    "meaning_uk": "малювання",
+    "meaning_es": "pintar"
+  },
+  {
+    "term": "das Zeichnen",
+    "meaning_tr": "çizim yapma",
+    "meaning_en": "drawing",
+    "meaning_uk": "креслення",
+    "meaning_es": "dibujar"
+  },
+  {
+    "term": "das Basteln",
+    "meaning_tr": "el işi yapma",
+    "meaning_en": "crafting, DIY",
+    "meaning_uk": "ремесло, рукоділля",
+    "meaning_es": "manualidades"
+  },
+  {
+    "term": "das Kochen",
+    "meaning_tr": "yemek yapma",
+    "meaning_en": "cooking",
+    "meaning_uk": "готувати їжу",
+    "meaning_es": "cocinar"
+  },
+  {
+    "term": "das Backen",
+    "meaning_tr": "fırında pişirme, pasta yapma",
+    "meaning_en": "baking",
+    "meaning_uk": "випікання",
+    "meaning_es": "hornear"
+  },
+  {
+    "term": "das Gärtnern",
+    "meaning_tr": "bahçıvanlık",
+    "meaning_en": "gardening",
+    "meaning_uk": "садівництво",
+    "meaning_es": "jardinería"
+  },
+  {
+    "term": "das Lesen",
+    "meaning_tr": "okuma",
+    "meaning_en": "reading",
+    "meaning_uk": "читання",
+    "meaning_es": "leer"
+  },
+  {
+    "term": "das Schreiben",
+    "meaning_tr": "yazma",
+    "meaning_en": "writing",
+    "meaning_uk": "письмо",
+    "meaning_es": "escribir"
+  },
+  {
+    "term": "das Fotografieren",
+    "meaning_tr": "fotoğraf çekme",
+    "meaning_en": "photography",
+    "meaning_uk": "фотографія",
+    "meaning_es": "fotografía"
+  },
+  {
+    "term": "das Filmen",
+    "meaning_tr": "film çekme",
+    "meaning_en": "filming",
+    "meaning_uk": "кінозйомка",
+    "meaning_es": "filmación"
+  },
+  {
+    "term": "das Programmieren",
+    "meaning_tr": "programlama",
+    "meaning_en": "programming",
+    "meaning_uk": "програмування",
+    "meaning_es": "programación"
+  },
+  {
+    "term": "das Spielen",
+    "meaning_tr": "oynama",
+    "meaning_en": "playing",
+    "meaning_uk": "грати",
+    "meaning_es": "jugar"
+  },
+  {
+    "term": "das Theater",
+    "meaning_tr": "tiyatro",
+    "meaning_en": "theater",
+    "meaning_uk": "театр",
+    "meaning_es": "teatro"
+  },
+  {
+    "term": "das Kino",
+    "meaning_tr": "sinema",
+    "meaning_en": "cinema",
+    "meaning_uk": "кінотеатр",
+    "meaning_es": "cine"
+  },
+  {
+    "term": "das Museum",
+    "meaning_tr": "müze",
+    "meaning_en": "museum",
+    "meaning_uk": "музей",
+    "meaning_es": "museo"
+  },
+  {
+    "term": "der Zoo",
+    "meaning_tr": "hayvanat bahçesi",
+    "meaning_en": "zoo",
+    "meaning_uk": "зоопарк",
+    "meaning_es": "zoológico"
+  },
+  {
+    "term": "der Park",
+    "meaning_tr": "park",
+    "meaning_en": "park",
+    "meaning_uk": "парк",
+    "meaning_es": "parque"
+  },
+  {
+    "term": "der Wald",
+    "meaning_tr": "orman",
+    "meaning_en": "forest",
+    "meaning_uk": "ліс",
+    "meaning_es": "bosque"
+  }
+]
