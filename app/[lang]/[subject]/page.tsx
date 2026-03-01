@@ -5,7 +5,10 @@ import { Metadata } from 'next';
 // Desteklenen diller
 type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
 
-// SEO İçerik Havuzu (Genişletilmiş Hashtag ve Keyword Listesi)
+// ✅ Seviye listesini A1-C1 (hatta C2) olarak genişlettik
+const ALL_LEVELS = ['a1', 'a2', 'b1', 'b2', 'c1'];
+
+// SEO İçerik Havuzu (Genişletilmiş Hashtag ve Keyword Listesi - Orijinal Fonksiyonun)
 const getDynamicKeywords = (subject: string, lang: string) => {
   const common = ["memorlex", "language learning", "flashcards", "vocabulary builder", "online course"];
   const regions = ["germany", "usa", "canada", "europe", "india", "egypt", "spain", "mexico", "turkey"];
@@ -32,7 +35,7 @@ const getDynamicKeywords = (subject: string, lang: string) => {
   return [...(subjectSpecific[subject] || []), ...common, ...regions, ...methods];
 };
 
-// SEO İçerik Üretimi
+// SEO İçerik Üretimi (A1-C1 Güncellemeli)
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, subject: string }> }): Promise<Metadata> {
   const { lang, subject } = await params;
   const baseUrl = 'https://memorlex.com';
@@ -43,24 +46,24 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   
   const seoData: Record<string, { title: string, description: string }> = {
     tr: {
-      title: `${subName} Kelime Listeleri A1, A2, B1 | Memorlex`,
-      description: `${subName} öğrenmek için seviye bazlı (A1-B1) kelime listeleri, flashcardlar ve yazma alıştırmaları. Entegrasyon kursu, podcast ve hikayelerle dil öğrenin.`
+      title: `${subName} Kelime Listeleri A1-C1 | Memorlex`,
+      description: `${subName} öğrenmek için seviye bazlı (A1-C1) kelime listeleri, flashcardlar ve yazma alıştırmaları. Entegrasyon kursu, podcast ve hikayelerle dil öğrenin.`
     },
     en: {
-      title: `${subName} Vocabulary Lists A1, A2, B1 | Memorlex`,
-      description: `Learn ${subName} with level-based vocabulary lists, flashcards, and writing exercises. Explore ${subName} podcasts and stories.`
+      title: `${subName} Vocabulary Lists A1-C1 | Memorlex`,
+      description: `Learn ${subName} with level-based vocabulary lists (A1-C1), flashcards, and writing exercises. Explore ${subName} podcasts and stories.`
     },
     uk: {
-      title: `${subName} Словниковий запас A1, A2, B1 | Memorlex`,
-      description: `Вивчайте ${subName} мову за рівнями A1-B1. Списки слів, картки та вправи для швидкого навчання та подкасти.`
+      title: `${subName} Словниковий запас A1-C1 | Memorlex`,
+      description: `Вивчайте ${subName} мову за рівнями A1-C1. Списки слів, картки та вправи для швидкого навчання та подкасти.`
     },
     de: {
-      title: `${subName} Vokabellisten A1, A2, B1 | Memorlex`,
-      description: `Lerne ${subName} mit Vokabellisten für die Niveaus A1 bis B1. Übe mit Karteikarten, Podcasts und Schreibtraining.`
+      title: `${subName} Vokabellisten A1-C1 | Memorlex`,
+      description: `Lerne ${subName} mit Vokabellisten für die Niveaus A1 bis C1. Übe mit Karteikarten, Podcasts und Schreibtraining.`
     },
     es: {
-      title: `${subName} Listas de Vocabulario A1, A2, B1 | Memorlex`,
-      description: `Aprende ${subName} con listas de vocabulario por niveles, tarjetas, podcasts y ejercicios de escritura.`
+      title: `${subName} Listas de Vocabulario A1-C1 | Memorlex`,
+      description: `Aprende ${subName} con listas de vocabulario por niveles (A1-C1), tarjetas, podcasts y ejercicios de escritura.`
     }
   };
 
@@ -110,8 +113,6 @@ export default async function SubjectPage({ params }: { params: Promise<{ lang: 
   const subjectsDict = dict.subjects as Record<string, string> | undefined;
   const currentSubjectName = subjectsDict?.[subject] || subject;
 
-  const levels = ['a1', 'a2', 'b1'];
-
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -125,7 +126,7 @@ export default async function SubjectPage({ params }: { params: Promise<{ lang: 
     "@context": "https://schema.org",
     "@type": "Course",
     "name": `${currentSubjectName} Learning Program - Memorlex`,
-    "description": `Comprehensive ${currentSubjectName} course featuring A1, A2, B1 levels, podcasts, stories, and vocabulary practice.`,
+    "description": `Comprehensive ${currentSubjectName} course featuring A1 to C1 levels, podcasts, stories, and vocabulary practice.`,
     "educationalCredentialAwarded": "Language Proficiency",
     "occupationalCategory": "Language Learning",
     "hasCourseInstance": {
@@ -142,7 +143,7 @@ export default async function SubjectPage({ params }: { params: Promise<{ lang: 
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(courseJsonLd) }} />
 
-      <div className="max-w-4xl w-full">
+      <div className="max-w-6xl w-full">
         <h1 className="text-5xl md:text-6xl font-black mb-4 uppercase italic tracking-tighter text-amber-500">
           {lang === 'tr' ? `${currentSubjectName} Öğren` : 
            lang === 'es' ? `Aprender ${currentSubjectName}` : 
@@ -150,11 +151,12 @@ export default async function SubjectPage({ params }: { params: Promise<{ lang: 
         </h1>
         
         <p className="text-slate-500 dark:text-slate-400 mb-12 font-bold italic text-xl">
-          {dict.levels?.selectTitle || "Please select a level to start learning:"}
+          {dict.levels?.selectTitle || (lang === 'es' ? "Selecciona un nivel para empezar:" : "Please select a level to start learning:") }
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {levels.map((lvl) => (
+        {/* ✅ Grid yapısını lg:grid-cols-5 yaptık ki 5 kart yan yana sığsın */}
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6">
+          {ALL_LEVELS.map((lvl) => (
             <Link 
               key={lvl} 
               href={`/${lang}/${subject}/${lvl}`} 
@@ -170,7 +172,7 @@ export default async function SubjectPage({ params }: { params: Promise<{ lang: 
                 {currentSubjectName} {lvl.toUpperCase()}
               </p>
               <span className="text-sm text-amber-500 block mt-4 opacity-0 group-hover:opacity-100 transition-all font-black">
-                {dict.start || "START"} →
+                {dict.start || (lang === 'es' ? "EMPEZAR" : "START")} →
               </span>
             </Link>
           ))}
@@ -184,10 +186,10 @@ export default async function SubjectPage({ params }: { params: Promise<{ lang: 
           </h2>
           <p className="text-slate-500 dark:text-slate-400 text-sm max-w-2xl mx-auto leading-relaxed italic">
             {lang === 'tr' 
-              ? `${currentSubjectName} dilinde uzmanlaşmak için A1, A2 ve B1 seviyelerine özel hazırlanan kelime listelerimizi kullanın. Flashcard yöntemi, yazarak çalışma, podcast dinleme ve güncel haberler ile öğrenme sürecinizi hızlandırın.`
+              ? `${currentSubjectName} dilinde uzmanlaşmak için A1'den C1 seviyesine kadar hazırlanan kelime listelerimizi kullanın. Flashcard yöntemi, yazarak çalışma, podcast dinleme ve güncel haberler ile öğrenme sürecinizi hızlandırın.`
               : lang === 'es'
-              ? `Para dominar el ${currentSubjectName}, utiliza nuestras listas de vocabulario especialmente preparadas para los niveles A1, A2 y B1. Acelera tu aprendizaje con nuestras tarjetas, modo de escritura, podcasts y noticias actuales.`
-              : `Master ${currentSubjectName} by using our specialized A1, A2, and B1 vocabulary lists. Speed up your learning process with our flashcard and writing modes, along with podcasts and daily news.`}
+              ? `Para dominar el ${currentSubjectName}, utiliza nuestras listas de vocabulario desde el nivel A1 hasta el C1. Acelera tu aprendizaje con nuestras tarjetas, modo de escritura, podcasts y noticias actuales.`
+              : `Master ${currentSubjectName} by using our specialized A1 to C1 vocabulary lists. Speed up your learning process with our flashcard and writing modes, along with podcasts and daily news.`}
           </p>
         </section>
 
