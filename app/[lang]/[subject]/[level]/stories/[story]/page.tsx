@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getDictionary } from "@/dictionaries";
 import StoryQuestions from "./StoryQuestions";
+import { Metadata } from "next";
 
 // ✅ "es" eklendi
 type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
@@ -16,6 +17,7 @@ function normalizeStorySlug(slug: string) {
 function getTargetLearningLang(subject: string) {
   if (subject === "german") return "de";
   if (subject === "english") return "en";
+  if (subject === "spanish") return "es";
   return subject;
 }
 
@@ -24,9 +26,70 @@ function getStoriesDir(subject: string, level: string) {
   return path.join(process.cwd(), "src", "data", "stories", targetLang, level);
 }
 
-// --- 🔑 STATIC EXPORT İÇİN ŞART ---
+// SEO İçerik Havuzu - Hikaye ve Video Odaklı
+const getStoryKeywords = (title: string, subject: string, level: string, lang: string) => {
+  const common = ["memorlex", "interactive stories", "reading comprehension", "language learning podcast", "learn with subtitles", "daily news"];
+  const hashtags = ["#shortstories", "#languagelearning", "#vocabulary", "#fluentreading", "#esl", "#deutschlernen", "#aprenderespanol"];
+  
+  return [
+    title,
+    `${title} ${subject}`,
+    `${subject} ${level} stories`,
+    `${subject} reading practice`,
+    ...common,
+    ...hashtags
+  ];
+};
+
+// --- 🔑 METADATA ÜRETİMİ ---
+export async function generateMetadata({ params }: { params: Promise<any> }): Promise<Metadata> {
+  const { lang, subject, level, story } = await params;
+  const baseUrl = 'https://memorlex.com';
+  const dir = getStoriesDir(subject, level);
+  
+  if (!fs.existsSync(dir)) return {};
+  const files = fs.readdirSync(dir).filter(f => f.endsWith(".json"));
+  const matchedFile = files.find(f => normalizeStorySlug(f) === story);
+  if (!matchedFile) return {};
+
+  const data = JSON.parse(fs.readFileSync(path.join(dir, matchedFile), "utf8"));
+  const upperLvl = level.toUpperCase();
+  
+  const subName = subject === "german" 
+    ? (lang === "tr" ? "Almanca" : lang === "es" ? "Alemán" : "German") 
+    : (subject === "spanish" ? (lang === "tr" ? "İspanyolca" : "Spanish") : (lang === "tr" ? "İngilizce" : "English"));
+
+  const seoTitle = `${data.title} - ${subName} ${upperLvl} Hikayesi | Memorlex`;
+  const seoDesc = lang === 'tr' 
+    ? `${data.title} hikayesi ile ${subName} öğrenin. Okuma parçası, interaktif sorular ve kelime çalışma modülleri.` 
+    : `Learn ${subName} with the story "${data.title}". Includes reading text, interactive questions, and vocabulary practice.`;
+
+  return {
+    title: seoTitle,
+    description: seoDesc,
+    keywords: getStoryKeywords(data.title, subject, level, lang),
+    alternates: {
+      canonical: `${baseUrl}/${lang}/${subject}/${level}/stories/${story}`,
+      languages: {
+        'tr': `${baseUrl}/tr/${subject}/${level}/stories/${story}`,
+        'en': `${baseUrl}/en/${subject}/${level}/stories/${story}`,
+        'de': `${baseUrl}/de/${subject}/${level}/stories/${story}`,
+        'uk': `${baseUrl}/uk/${subject}/${level}/stories/${story}`,
+        'es': `${baseUrl}/es/${subject}/${level}/stories/${story}`,
+        'x-default': `${baseUrl}/en/${subject}/${level}/stories/${story}`
+      }
+    },
+    openGraph: {
+      title: seoTitle,
+      description: seoDesc,
+      type: 'article',
+      locale: lang
+    }
+  };
+}
+
+// --- 🔑 STATIC EXPORT ---
 export async function generateStaticParams() {
-  // ✅ "es" eklendi
   const uiLangs: ValidLangs[] = ["en", "tr", "de", "uk", "es"];
   const base = path.join(process.cwd(), "src", "data", "stories");
   if (!fs.existsSync(base)) return [];
@@ -37,7 +100,7 @@ export async function generateStaticParams() {
   );
 
   for (const ll of learningLangDirs) {
-    const subject = ll === "de" ? "german" : ll === "en" ? "english" : ll;
+    const subject = ll === "de" ? "german" : ll === "en" ? "english" : ll === "es" ? "spanish" : ll;
     const subjectDir = path.join(base, ll);
     const levels = fs.readdirSync(subjectDir).filter((lvl) => 
       fs.lstatSync(path.join(subjectDir, lvl)).isDirectory()
@@ -85,6 +148,18 @@ export default async function StoryDetailPage({
   const nextStorySlug = nextFile ? normalizeStorySlug(nextFile) : null;
   const nextNum = matchedIndex + 2;
 
+  // Video Schema (Google Video Search için)
+  const videoSchema = data.youtubeId ? {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": data.title,
+    "description": `Language learning story for ${subject} ${level}`,
+    "thumbnailUrl": `https://img.youtube.com/vi/${data.youtubeId}/maxresdefault.jpg`,
+    "contentUrl": `https://www.youtube.com/watch?v=${data.youtubeId}`,
+    "embedUrl": `https://www.youtube.com/embed/${data.youtubeId}`,
+    "uploadDate": "2026-01-14T08:00:00+08:00"
+  } : null;
+
   // Çeviri yardımcıları
   const chapterLabel = lang === 'tr' ? 'BÖLÜM' : lang === 'es' ? 'CAPÍTULO' : 'CHAPTER';
   const studyVocabLabel = lang === 'tr' 
@@ -99,7 +174,12 @@ export default async function StoryDetailPage({
   const finishedLabel = lang === 'tr' ? 'Tüm hikaye serisini tamamladın!' : lang === 'es' ? '¡Has completado toda la serie!' : 'You completed the entire series!';
 
   return (
-    <main className="min-h-screen p-6 md:p-10 bg-white dark:bg-slate-950 dark:text-white">
+    <main className="min-h-screen p-6 md:p-10 bg-white dark:bg-slate-950 dark:text-white transition-colors duration-300">
+      
+      {videoSchema && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchema) }} />
+      )}
+
       <div className="max-w-3xl mx-auto">
         
         <div className="flex justify-between items-center mb-10">
@@ -186,6 +266,12 @@ export default async function StoryDetailPage({
                <span className="text-sm font-black text-slate-300 italic uppercase tracking-[0.3em]">{finishedLabel}</span>
             </div>
           )}
+        </div>
+        
+        <div className="mt-12 text-center">
+          <Link href={`/${lang}/${subject}/${level}/stories`} className="text-slate-500 font-bold italic hover:text-amber-500 transition-colors uppercase text-xs tracking-widest">
+            ← {lang === "es" ? "Volver a Historias" : lang === "tr" ? "Hikayelere Dön" : "Back to Stories"}
+          </Link>
         </div>
       </div>
     </main>

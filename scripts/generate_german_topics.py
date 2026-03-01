@@ -1,34 +1,17 @@
 import os
 import json
 import time
-import google.generativeai as genai
+import requests
 from pathlib import Path
 
 # 1. API Yapılandırması
-api_key = "AIzaSyBocHnYJMTwWYVzclSyvOsHn4MYyHMGJbM"
-genai.configure(api_key=api_key)
-
-def get_best_model():
-    try:
-        models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
-        flash_models = [n for n in models if 'flash' in n]
-        return sorted(flash_models, reverse=True)[0] if flash_models else 'models/gemini-1.5-flash'
-    except Exception:
-        return 'models/gemini-1.5-flash'
-
-active_model_name = get_best_model()
-model = genai.GenerativeModel(active_model_name)
-print(f"🤖 Aktif Model: {active_model_name}")
-
-def get_word_count(level):
-    counts = {"a1": 12, "a2": 20, "b1": 30, "b2": 40, "c1": 55}
-    return counts.get(level.lower(), 25)
+API_KEYS = [
+    "AIzaSyBocHnYJMTwWYVzclSyvOsHn4MYyHMGJbM", 
+    "AIzaSyCpSxIzrwsrDCPmrH-o2D8PAZvz7axHMHE"
+]
+current_key_index = 0
 
 TOPICS = [
-    ("basics", "Grundlagen & Begrüßung"), ("family", "Familie & Beziehungen"),
-    ("food", "Essen & Trinken"), ("shopping", "Einkaufen & Geld"),
-    ("home", "Haus & Wohnen"), ("body", "Körper & Aussehen"),
-    ("health", "Gesundheit & Krankheit"), ("colors-numbers", "Farben & Zahlen"),
     ("time-dates", "Zeit & Datum"), ("weather", "Wetter & Jahreszeiten"),
     ("hobbies", "Hobbys & Freizeit"), ("transport", "Verkehr & Transport"),
     ("travel", "Reisen & Urlaub"), ("clothing", "Kleidung & Mode"),
@@ -52,60 +35,115 @@ TOPICS = [
     ("sports-nutrition", "Leistungssport & Ernährung"), ("tourism-impact", "Massentourismus & Folgen")
 ]
 
+def get_latest_flash_model(api_key):
+    """Kullanılabilir en güncel modeli bulur."""
+    for ver in ["v1", "v1beta"]:
+        url = f"https://generativelanguage.googleapis.com/{ver}/models?key={api_key}"
+        try:
+            response = requests.get(url, timeout=10)
+            if response.status_code == 200:
+                models = response.json().get('models', [])
+                flash_models = [m['name'] for m in models if 'flash' in m['name'].lower()]
+                if flash_models:
+                    return sorted(flash_models, reverse=True)[0]
+        except: continue
+    return "models/gemini-1.5-flash"
+
+def is_file_valid(file_path):
+    """Dosyayı açar ve TR, EN, UK, ES dillerinin varlığını kontrol eder."""
+    if not file_path.exists():
+        return False
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            # Eğer liste boşsa veya içinde gerekli dillerden biri bile eksikse False döner
+            if not isinstance(data, list) or len(data) == 0:
+                return False
+            
+            required_keys = ['meaning_tr', 'meaning_en', 'meaning_uk', 'meaning_es', 'example']
+            # İlk 3 kelimeyi örneklem olarak kontrol etmesi yeterli (hız için)
+            for item in data[:3]:
+                if not all(key in item for key in required_keys):
+                    return False
+            return True
+    except:
+        return False
+
 def generate_unit(lang, topic_key, topic_name, level):
+    global current_key_index
+    
     base_dir = Path(__file__).parent.parent 
     save_path = base_dir / "src" / "data" / "vocabulary" / lang / level.lower() / "topic"
     save_path.mkdir(parents=True, exist_ok=True)
     file_path = save_path / f"{topic_key}.json"
 
-    if file_path.exists(): 
-        print(f"⏩ Atlanıyor (Dosya Mevcut): {topic_key} ({level})")
+    # ✅ DOSYA KONTROLÜ (İÇERİK ANALİZİ)
+    if is_file_valid(file_path):
+        print(f"⏩ Atlanıyor (Veri Tam): {topic_key} ({level})")
         return
+    else:
+        print(f"🔄 Eksik veya Hatalı Veri Tespit Edildi: {topic_key} ({level}) Yenileniyor...")
 
-    word_count = get_word_count(level)
-    
-    # ✅ RETRY LOGIC: Dosya başarıyla yazılana kadar döngüden çıkmaz
+    # Seviyeye göre kelime sayıları
+    word_count = {"a1": 15, "a2": 25, "b1": 35, "b2": 45, "c1": 60}.get(level.lower(), 30)
     success = False
+    
     while not success:
-        print(f"🚀 Üretiliyor: {topic_name} - {level.upper()}...")
+        key = API_KEYS[current_key_index]
+        model_name = get_latest_flash_model(key)
+        url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={key}"
         
-        prompt = f"""
-        Create a German (de) vocabulary JSON for '{topic_name}' at {level.upper()} level.
-        Include {word_count} items.
-        Format: JSON only, title: '{topic_name} {level.upper()}', language: 'de'.
-        Fields: term, type, meaning_tr, meaning_en, meaning_uk, meaning_es, example (with ***).
+        prompt_text = f"""
+        Act as a professional German teacher. Create a vocabulary JSON for '{topic_name}' at {level.upper()} level.
+        Requirements:
+        1. Include exactly {word_count} unique items.
+        2. 'term' field MUST include articles for nouns (der/die/das).
+        3. Provide meanings in 4 languages: 'meaning_tr' (Turkish), 'meaning_en' (English), 'meaning_uk' (Ukrainian), 'meaning_es' (Spanish).
+        4. Include 'type' (noun, verb, etc.) and a German 'example' sentence.
+        Return ONLY a raw JSON array.
+        Format:
+        [
+          {{
+            "term": "das Beispiel",
+            "type": "noun",
+            "meaning_tr": "örnek",
+            "meaning_en": "example",
+            "meaning_uk": "приклад",
+            "meaning_es": "ejemplo",
+            "example": "Dies ist ein gutes Beispiel."
+          }}
+        ]
         """
 
         try:
-            response = model.generate_content(
-                prompt, 
-                generation_config={"response_mime_type": "application/json"}
-            )
-            
-            data = json.loads(response.text.strip())
-            
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-            
-            print(f"✅ KAYDEDİLDİ: {file_path.relative_to(base_dir)}")
-            success = True # İşlem başarılı, döngü kırılır
-            
-        except Exception as e:
-            err = str(e)
-            if "429" in err:
-                print(f"⏳ KOTA DOLDU: {topic_key} ({level}) kaydedilemedi. 70sn bekleniyor ve TEKRAR denenecek...")
-                time.sleep(70) # Kota sıfırlanması için logdaki süreden biraz fazla bekliyoruz
+            response = requests.post(url, json={"contents": [{"parts": [{"text": prompt_text}]}]}, timeout=60)
+            res_json = response.json()
+
+            if response.status_code == 200:
+                raw_text = res_json['candidates'][0]['content']['parts'][0]['text']
+                clean_json = raw_text.replace("```json", "").replace("```", "").strip()
+                data = json.loads(clean_json)
+                
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(data, f, ensure_ascii=False, indent=2)
+                
+                print(f"✅ BAŞARIYLA GÜNCELLENDİ: {topic_key} ({level})")
+                success = True
+            elif response.status_code == 429:
+                print(f"⚠️ Kota Doldu. Anahtar değiştiriliyor...")
+                current_key_index = (current_key_index + 1) % len(API_KEYS)
+                time.sleep(15)
             else:
-                print(f"❌ HATA: {err[:100]}. 10sn sonra aynı dosya tekrar denenecek...")
-                time.sleep(10)
+                print(f"❌ API Hatası ({response.status_code})...")
+                current_key_index = (current_key_index + 1) % len(API_KEYS)
+                time.sleep(5)
+        except Exception as e:
+            print(f"❌ Hata: {str(e)[:50]}")
+            time.sleep(10)
 
 if __name__ == "__main__":
-    current_lang = "de"
-    target_levels = ["a1", "a2", "b1", "b2", "c1"]
-
+    print(f"🏁 Operasyon Başladı... (Münih - Deutschlandticket Modu)")
     for t_key, t_name in TOPICS:
-        for lvl in target_levels:
-            generate_unit(current_lang, t_key, t_name, lvl)
-            time.sleep(5.0) # Her başarılı dosyadan sonra 5sn mola
-
-    print("\n🏁 İşlem bitti, tüm dosyalar eksiksiz oluşturuldu!")
+        for lvl in ["a1", "a2", "b1", "b2", "c1"]:
+            generate_unit("de", t_key, t_name, lvl)
+            time.sleep(1.2)

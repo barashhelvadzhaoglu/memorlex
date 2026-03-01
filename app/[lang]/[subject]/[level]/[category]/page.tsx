@@ -4,47 +4,114 @@ import path from 'path';
 import { getDictionary } from '@/dictionaries';
 import { Metadata } from 'next';
 
+// ✅ "es" eklendi
 type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
 
-// SEO İçin Meta Veri Üretici
+// SEO İçerik Havuzu (Kategori ve Seviye Bazlı Genişletilmiş Liste)
+const getCategoryKeywords = (subject: string, level: string, category: string, lang: string) => {
+  const upperLvl = level.toUpperCase();
+  const common = ["memorlex", "flashcards", "vocabulary list", "language exercises", "writing mode", "daily news", "podcast"];
+  
+  // Kategoriye özel anahtar kelimeler
+  const catSpecific: Record<string, string[]> = {
+    integration: ["integration course", "integrationkurs", "orientierungskurs", "leben in deutschland", "official exam", "citizenship test", "entegrasyon kursu", "almanya yaşam"],
+    work: ["business vocabulary", "work and business", "job interview", "office language", "professional communication", "iş dünyası", "iş görüşmesi", "almanca iş hayatı"],
+    topic: ["daily life", "conversational language", "themed vocabulary", "common phrases", "günlük hayat", "tematik kelimeler", "ispanyolca konuşma"]
+  };
+
+  // Dile özel hashtag ve keyword setleri (Senin verdiğin geniş liste)
+  const subjectSpecific: Record<string, string[]> = {
+    german: [
+      "#learngerman", "#germanlanguage", "#germanpodcast", "#germanforbeginners", "#germany", "#deutschkurs", 
+      "#germangrammar", "#germanvocabulary", "#learninggerman", "#studygerman", "#germanlessons", "#speakgerman",
+      "deutschlernen", "vokabeln", "goetheinstitut", "telc", "testdaf", "munich", "berlin", "canada", "usa", "india"
+    ],
+    english: [
+      "#learnenglish", "#englishlanguage", "#englishpodcast", "#usa", "#uk", "#canada", "#englishcourse", 
+      "#englishgrammar", "#englishvocabulary", "#learningenglish", "#studyenglish", "#englishlessons", 
+      "ielts", "toefl", "businessenglish", "esl", "vocabularybuilding", "dailyenglish"
+    ],
+    spanish: [
+      "#learnspanish", "#spanishlanguage", "#spanishpodcast", "#spain", "#mexico", "#spanishcourse", 
+      "#spanishgrammar", "#spanishvocabulary", "#learningspanish", "#studyspanish", "#spanishlessons", 
+      "aprenderespanol", "dele", "vocabulario", "hablarespanol", "cursodeespanol"
+    ]
+  };
+
+  return [
+    ...(catSpecific[category] || []),
+    ...(subjectSpecific[subject] || []),
+    ...common,
+    `${subject} ${level} ${category}`,
+    `${subject} ${level} units`
+  ];
+};
+
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, subject: string, level: string, category: string }> }): Promise<Metadata> {
   const { lang, subject, level, category } = await params;
+  const baseUrl = 'https://memorlex.com';
   
   const subName = subject === 'german' 
     ? (lang === 'tr' ? 'Almanca' : lang === 'es' ? 'Alemán' : 'German') 
-    : (lang === 'tr' ? 'İngilizce' : lang === 'es' ? 'Inglés' : 'English');
+    : (subject === 'spanish' ? (lang === 'tr' ? 'İspanyolca' : lang === 'en' ? 'Spanish' : 'Español') : (lang === 'tr' ? 'İngilizce' : lang === 'es' ? 'Inglés' : 'English'));
   const upperLvl = level.toUpperCase();
   
-  // Kategori ismini daha okunabilir yapalım (SEO için)
   const catNames: any = {
     tr: { integration: 'Entegrasyon Kursu', topic: 'Konu Bazlı', work: 'İş Dünyası' },
     en: { integration: 'Integration Course', topic: 'Topic Based', work: 'Work & Business' },
     uk: { integration: 'Інтеграційний курс', topic: 'За темами', work: 'Робота та бізнес' },
-    es: { integration: 'Curso de Integración', topic: 'Basado en Temas', work: 'Trabajo y Negocios' }
+    es: { integration: 'Curso de Integración', topic: 'Basado en Temas', work: 'Trabajo y Negocios' },
+    de: { integration: 'Integrationskurs', topic: 'Themenbasiert', work: 'Arbeit & Beruf' }
   };
 
   const currentCat = catNames[lang]?.[category] || category;
 
-  const titles: Record<ValidLangs, string> = {
-    tr: `${subName} ${upperLvl} ${currentCat} Üniteleri | Memorlex`,
-    en: `${subName} ${upperLvl} ${currentCat} Units & Lessons | Memorlex`,
-    uk: `${subName} ${upperLvl} ${currentCat} - Усі уроки | Memorlex`,
-    de: `${subName} ${upperLvl} ${currentCat} Einheiten | Memorlex`,
-    es: `${subName} ${upperLvl} ${currentCat} Unidades | Memorlex`
+  const seoData: Record<string, { title: string, description: string }> = {
+    tr: {
+      title: `${subName} ${upperLvl} ${currentCat} Üniteleri | Memorlex`,
+      description: `${subName} ${upperLvl} ${currentCat} kategorisindeki tüm üniteler. Kelime listelerini flashcard, podcast ve yazarak öğrenme moduyla çalışın.`
+    },
+    en: {
+      title: `${subName} ${upperLvl} ${currentCat} Units & Lessons | Memorlex`,
+      description: `All ${subName} ${upperLvl} units in the ${currentCat} category. Study vocabulary with flashcards and writing mode.`
+    },
+    uk: {
+      title: `${subName} ${upperLvl} ${currentCat} - Усі уроки | Memorlex`,
+      description: `Усі уроки ${subName} ${upperLvl} у категорії ${currentCat}. Вивчайте слова за допомогою карток та вправ.`
+    },
+    de: {
+      title: `${subName} ${upperLvl} ${currentCat} Einheiten | Memorlex`,
+      description: `Alle Einheiten für ${subName} ${upperLvl} in der Kategorie ${currentCat}. Lerne Vokabeln mit Karteikarten.`
+    },
+    es: {
+      title: `${subName} ${upperLvl} ${currentCat} Unidades | Memorlex`,
+      description: `Todas las unidades de ${subName} ${upperLvl} en la categoría ${currentCat}. Practica vocabulario con tarjetas e historias.`
+    }
   };
 
+  const current = seoData[lang as ValidLangs] || seoData.en;
+
   return {
-    title: titles[lang as ValidLangs] || titles.en,
-    description: lang === 'es' 
-      ? `Todas las unidades en la categoría ${subName} ${upperLvl} ${currentCat}. Practica vocabulario con tarjetas y modo de escritura.`
-      : `${subName} ${upperLvl} ${currentCat} kategorisindeki tüm üniteler. Kelime listelerini flashcard ve yazarak öğrenme moduyla çalışın.`,
-    keywords: [`${subName} ${category}`, `${subName} ${level} üniteleri`, "lista de capítulos", "aprender idiomas escribiendo"]
+    title: current.title,
+    description: current.description,
+    keywords: getCategoryKeywords(subject, level, category, lang),
+    alternates: {
+      canonical: `${baseUrl}/${lang}/${subject}/${level}/${category}`,
+      languages: {
+        'tr': `${baseUrl}/tr/${subject}/${level}/${category}`,
+        'en': `${baseUrl}/en/${subject}/${level}/${category}`,
+        'de': `${baseUrl}/de/${subject}/${level}/${category}`,
+        'uk': `${baseUrl}/uk/${subject}/${level}/${category}`,
+        'es': `${baseUrl}/es/${subject}/${level}/${category}`,
+        'x-default': `${baseUrl}/en/${subject}/${level}/${category}`
+      }
+    }
   };
 }
 
 export async function generateStaticParams() {
   const languages = ['en', 'tr', 'de', 'uk', 'es'];
-  const subjects = ['german', 'english'];
+  const subjects = ['german', 'english', 'spanish'];
   const levels = ['a1', 'a2', 'b1'];
   const categories = ['integration', 'topic', 'work']; 
 
@@ -65,7 +132,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ lang:
   const { lang, subject, level, category } = await params;
   const dict = await getDictionary(lang as ValidLangs);
 
-  const targetLang = subject === 'german' ? 'de' : subject;
+  const targetLang = subject === 'german' ? 'de' : (subject === 'spanish' ? 'es' : subject);
   const dataPath = path.join(process.cwd(), 'src', 'data', 'vocabulary', targetLang, level, category);
   
   let units: string[] = [];
@@ -77,11 +144,24 @@ export default async function CategoryPage({ params }: { params: Promise<{ lang:
 
   const categoriesDict = dict.categories as Record<string, string> | undefined;
 
+  // ✅ Yapısal Veri (Breadcrumb Schema)
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Memorlex", "item": `https://memorlex.com/${lang}` },
+      { "@type": "ListItem", "position": 2, "name": subject.toUpperCase(), "item": `https://memorlex.com/${lang}/${subject}` },
+      { "@type": "ListItem", "position": 3, "name": level.toUpperCase(), "item": `https://memorlex.com/${lang}/${subject}/${level}` },
+      { "@type": "ListItem", "position": 4, "name": categoriesDict?.[category] || category, "item": `https://memorlex.com/${lang}/${subject}/${level}/${category}` }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-white text-slate-950 dark:bg-slate-950 dark:text-white p-6 md:p-10 transition-colors duration-300">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      
       <div className="max-w-6xl mx-auto">
         
-        {/* Başlık ve SEO Açıklaması */}
         <header className="mb-12">
             <h1 className="text-3xl md:text-4xl font-black mb-4 uppercase italic text-amber-500 tracking-tighter flex items-center gap-3">
             📚 {categoriesDict?.[category] || category} {dict.units?.listTitle || (lang === 'es' ? 'Lista' : 'Listesi')}
@@ -96,7 +176,6 @@ export default async function CategoryPage({ params }: { params: Promise<{ lang:
             </p>
         </header>
 
-        {/* Ünite Kartları */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4">
           {units.map((unit) => (
             <Link 
@@ -113,7 +192,6 @@ export default async function CategoryPage({ params }: { params: Promise<{ lang:
           ))}
         </div>
         
-        {/* SEO Alt Metin (Long-Tail için) */}
         <section className="mt-24 p-8 rounded-[32px] bg-slate-50 dark:bg-slate-900/30 border border-slate-100 dark:border-slate-800">
             <h2 className="text-lg font-black mb-4 uppercase tracking-tight">
                 {lang === 'tr' ? "Yazarak Öğrenme Metodu ile Kalıcı Hafıza" : lang === 'es' ? "Domina el Vocabulario Escribiendo" : "Master Vocabulary by Writing"}

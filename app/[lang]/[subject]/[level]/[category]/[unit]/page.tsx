@@ -7,57 +7,109 @@ import path from 'path';
 import { Suspense } from 'react';
 import { Metadata } from 'next';
 
-// ✅ "es" eklendi
+// ✅ Desteklenen diller
 type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
+
+// Dinamik ve Devasa Keyword Üretici
+const getUnitKeywords = (unitName: string, subject: string, level: string, lang: string) => {
+  const common = ["memorlex", "flashcards", "vocabulary builder", "language learning app", "writing practice", "daily news", "podcast"];
+  const regions = ["germany", "usa", "uk", "canada", "europe", "turkey", "spain", "mexico", "munich", "berlin"];
+  
+  const subjectSpecific: Record<string, string[]> = {
+    german: [
+      "#learngerman", "#deutschkurs", "#germangrammar", "#germanvocabulary", "#learninggerman", "#studygerman", 
+      "#germanlessons", "#languagelearning", "#speakgerman", "deutschlernen", "vokabeln", "integrationkurs", 
+      "goetheinstitut", "telc", "testdaf", "dw_deutsch", "almanca kelimeler", "almanca öğren"
+    ],
+    english: [
+      "#learnenglish", "#englishcourse", "#englishgrammar", "#englishvocabulary", "#learningenglish", "#studyenglish", 
+      "#englishlessons", "#speakenglish", "ielts", "toefl", "esl", "businessenglish", "cambridgeenglish", "vocabularybuilding"
+    ],
+    spanish: [
+      "#learnspanish", "#spanishcourse", "#spanishgrammar", "#spanishvocabulary", "#learningspanish", "#studyspanish", 
+      "#spanishlessons", "#speakspanish", "aprenderespanol", "dele", "vocabulario", "hablarespanol", "cursodeespanol"
+    ]
+  };
+
+  return [
+    unitName, 
+    `${unitName} ${subject}`, 
+    `${subject} ${level}`, 
+    ...(subjectSpecific[subject] || []), 
+    ...common, 
+    ...regions
+  ];
+};
 
 // SEO - Sayfaya Özel Metadata Üretimi
 export async function generateMetadata({ params }: { params: any }): Promise<Metadata> {
   const { lang, subject, level, unit } = await params;
+  const baseUrl = 'https://memorlex.com';
   const unitName = unit.replace(/-/g, ' ');
   
-  // Özne ismini dile göre ayarla
   const subjectName = subject === 'german' 
     ? (lang === 'tr' ? 'Almanca' : lang === 'es' ? 'Alemán' : 'German') 
-    : (lang === 'es' ? 'Inglés' : 'English');
+    : (subject === 'spanish' ? (lang === 'tr' ? 'İspanyolca' : lang === 'es' ? 'Español' : 'Spanish') : (lang === 'tr' ? 'İngilizce' : lang === 'es' ? 'Inglés' : 'English'));
 
   const titles: Record<ValidLangs, string> = {
-    tr: `${unitName} - ${subjectName} ${level.toUpperCase()} Kelimeleri ve Alıştırmalar`,
-    en: `${unitName} - Learn ${subjectName} ${level.toUpperCase()} Vocabulary`,
-    uk: `${unitName} - Німецька мова ${level.toUpperCase()} словник`,
-    de: `${unitName} - Vokabeln lernen ${subjectName} ${level.toUpperCase()}`,
-    es: `${unitName} - Aprender vocabulario de ${subjectName} ${level.toUpperCase()}` // ✅ Eklendi
+    tr: `${unitName} - ${subjectName} ${level.toUpperCase()} Kelimeleri | Memorlex`,
+    en: `${unitName} - Learn ${subjectName} ${level.toUpperCase()} Vocabulary | Memorlex`,
+    uk: `${unitName} - Німецька мова ${level.toUpperCase()} словник | Memorlex`,
+    de: `${unitName} - Vokabeln lernen ${subjectName} ${level.toUpperCase()} | Memorlex`,
+    es: `${unitName} - Aprender vocabulario de ${subjectName} ${level.toUpperCase()} | Memorlex`
   };
 
   const descriptions: Record<ValidLangs, string> = {
-    tr: `${unitName} ünitesi kelime listesi. Flashcard ve yazarak çalışma modülü ile interaktif ${subjectName} öğrenin.`,
-    en: `${unitName} unit vocabulary list. Practice ${subjectName} with interactive flashcards and writing exercises.`,
-    uk: `${unitName} - список слів. Вивчайте німецьку за допомогою карток та вправ.`,
-    de: `${unitName} Vokabelliste. Übe Vokabeln mit Karteikarten und Schreibtraining.`,
-    es: `${unitName} lista de vocabulario. Practica ${subjectName} con tarjetas interactivas y ejercicios de escritura.` // ✅ Eklendi
+    tr: `${unitName} ünitesi kelime listesi. Flashcard, podcast ve yazarak çalışma modülü ile interaktif ${subjectName} öğrenin.`,
+    en: `${unitName} unit vocabulary list. Practice ${subjectName} with interactive flashcards, podcasts and writing exercises.`,
+    uk: `${unitName} - список слів. Вивчайте німецьку за допомогою карток, історій та вправ.`,
+    de: `${unitName} Vokabelliste. Übe Vokabeln mit Karteikarten, Geschichten und Schreibtraining.`,
+    es: `${unitName} lista de vocabulario. Practica ${subjectName} con tarjetas interactivas, podcasts y ejercicios de escritura.`
   };
 
+  const currentTitle = titles[lang as ValidLangs] || titles.en;
+  const currentDesc = descriptions[lang as ValidLangs] || descriptions.en;
+
   return {
-    title: titles[lang as ValidLangs] || titles.en,
-    description: descriptions[lang as ValidLangs] || descriptions.en,
-    keywords: [`${unitName} kelimeleri`, `${subjectName} ${level}`, "yazarak öğrenme", "flashcard", "Memorlex", "aprender alemán"]
+    title: currentTitle,
+    description: currentDesc,
+    keywords: getUnitKeywords(unitName, subject, level, lang),
+    alternates: {
+      canonical: `${baseUrl}/${lang}/${subject}/${level}/${unit}`, // Kategori path'de varsa buraya eklenmeli
+      languages: {
+        'tr': `${baseUrl}/tr/${subject}/${level}/${unit}`,
+        'en': `${baseUrl}/en/${subject}/${level}/${unit}`,
+        'de': `${baseUrl}/de/${subject}/${level}/${unit}`,
+        'uk': `${baseUrl}/uk/${subject}/${level}/${unit}`,
+        'es': `${baseUrl}/es/${subject}/${level}/${unit}`,
+        'x-default': `${baseUrl}/en/${subject}/${level}/${unit}`
+      }
+    },
+    openGraph: {
+      title: currentTitle,
+      description: currentDesc,
+      type: 'article',
+      locale: lang
+    }
   };
 }
 
 export async function generateStaticParams() {
-  // ✅ "es" eklendi. Bu sayede build sırasında İspanyolca sayfalar da oluşturulur.
   const languages = ['en', 'tr', 'de', 'uk', 'es'];
   const baseDir = path.join(process.cwd(), 'src/data/vocabulary');
   const paths: any[] = [];
   
   if (!fs.existsSync(baseDir)) return [];
 
-  const learningLanguages = ['de']; 
+  // Öğrenilen diller (Klasör isimlerine göre)
+  const learningLanguages = ['de', 'en', 'es']; 
 
   for (const subDir of learningLanguages) {
     const subjectPath = path.join(baseDir, subDir);
     if (!fs.existsSync(subjectPath) || !fs.lstatSync(subjectPath).isDirectory()) continue;
     
-    const subjectParam = subDir === 'de' ? 'german' : subDir;
+    // Klasör ismini URL parametresine eşle (de -> german)
+    const subjectParam = subDir === 'de' ? 'german' : (subDir === 'es' ? 'spanish' : 'english');
 
     const levels = fs.readdirSync(subjectPath);
     for (const lvl of levels) {
@@ -97,18 +149,29 @@ export default async function UnitPage({
 }) {
   const { lang, subject, level, category, unit } = await params;
   
-  // Tip güvenliği için cast işlemi
   const dict = await getDictionary(lang as ValidLangs);
   const data = await getVocab(lang, subject, level, category, unit);
   
   if (!data) return notFound();
 
+  // ✅ Zenginleştirilmiş Schema Markup (Google Eğitim Kartları İçin)
   const schemaMarkup = {
     "@context": "https://schema.org",
-    "@type": "EducationalOccupationalCredential",
+    "@type": "Course",
     "name": `${unit.replace(/-/g, ' ')}`,
+    "description": `${subject} ${level} vocabulary training for ${unit}.`,
     "educationalLevel": level.toUpperCase(),
-    "abstract": `${subject} ${level} vocabulary practice unit.`
+    "inLanguage": lang,
+    "provider": {
+      "@type": "Organization",
+      "name": "Memorlex",
+      "sameAs": "https://memorlex.com"
+    },
+    "hasCourseInstance": {
+      "@type": "CourseInstance",
+      "courseMode": "Online",
+      "instructionalProgramMethod": "Flashcards and Writing"
+    }
   };
 
   return (

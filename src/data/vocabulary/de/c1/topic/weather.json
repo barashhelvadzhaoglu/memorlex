@@ -1,0 +1,389 @@
+{
+  "title": "Wetter & Jahreszeiten (C1)",
+  "items": [
+    {
+      "term": "die Wettervorhersage",
+      "type": "Substantiv (f)",
+      "meaning_tr": "weather forecast",
+      "example": "Die Wettervorhersage kündigt für morgen starken Schneefall an."
+    },
+    {
+      "term": "der Niederschlag",
+      "type": "Substantiv (m)",
+      "meaning_tr": "precipitation (rain, snow, hail)",
+      "example": "Der anhaltende Niederschlag hat zu Überschwemmungen geführt."
+    },
+    {
+      "term": "die Sonneneinstrahlung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "solar radiation/sunshine duration",
+      "example": "Trotz der tiefen Temperaturen war die Sonneneinstrahlung heute bemerkenswert."
+    },
+    {
+      "term": "die Luftfeuchtigkeit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "humidity",
+      "example": "Bei dieser hohen Luftfeuchtigkeit fühlt sich die Hitze drückender an."
+    },
+    {
+      "term": "der Taupunkt",
+      "type": "Substantiv (m)",
+      "meaning_tr": "dew point",
+      "example": "Sobald der Taupunkt erreicht ist, bildet sich Nebel."
+    },
+    {
+      "term": "der Luftdruck",
+      "type": "Substantiv (m)",
+      "meaning_tr": "air pressure",
+      "example": "Ein abfallender Luftdruck signalisiert oft eine Wetterverschlechterung."
+    },
+    {
+      "term": "die Wetterfront",
+      "type": "Substantiv (f)",
+      "meaning_tr": "weather front (cold/warm)",
+      "example": "Die herannahende Kaltfront brachte eine deutliche Temperatursenkung mit sich."
+    },
+    {
+      "term": "die Böe",
+      "type": "Substantiv (f)",
+      "meaning_tr": "gust (of wind)",
+      "example": "Plötzlich kam eine starke Böe auf und riss mir fast den Schirm weg."
+    },
+    {
+      "term": "der Schneeregen",
+      "type": "Substantiv (m)",
+      "meaning_tr": "sleet",
+      "example": "Morgens fiel leichter Schneeregen, der später in festen Schnee überging."
+    },
+    {
+      "term": "der Graupel",
+      "type": "Substantiv (m)",
+      "meaning_tr": "graupel/soft hail",
+      "example": "Nach dem Gewitter hagelte es kurzzeitig kleinen Graupel."
+    },
+    {
+      "term": "der Dunst",
+      "type": "Substantiv (m)",
+      "meaning_tr": "haze/mist",
+      "example": "Am Morgen lag ein leichter Dunst über den Feldern."
+    },
+    {
+      "term": "der Nebel",
+      "type": "Substantiv (m)",
+      "meaning_tr": "fog",
+      "example": "Wegen des dichten Nebels kam es zu erheblichen Behinderungen im Flugverkehr."
+    },
+    {
+      "term": "der Hochnebel",
+      "type": "Substantiv (m)",
+      "meaning_tr": "stratus cloud/low fog",
+      "example": "Der Hochnebel hielt sich den ganzen Tag und ließ die Sonne nicht durch."
+    },
+    {
+      "term": "die Sichtweite",
+      "type": "Substantiv (f)",
+      "meaning_tr": "visibility",
+      "example": "Wegen des starken Schneefalls reduzierte sich die Sichtweite auf unter 50 Meter."
+    },
+    {
+      "term": "der Föhn",
+      "type": "Substantiv (m)",
+      "meaning_tr": "Föhn wind (warm, dry, down-slope wind)",
+      "example": "Wenn der Föhn weht, steigen die Temperaturen hier rasant an."
+    },
+    {
+      "term": "die Gewitterfront",
+      "type": "Substantiv (f)",
+      "meaning_tr": "thunderstorm front",
+      "example": "Die Gewitterfront zog schnell auf und brachte heftige Regenfälle."
+    },
+    {
+      "term": "der Hagel",
+      "type": "Substantiv (m)",
+      "meaning_tr": "hail",
+      "example": "Ein heftiger Hagelschauer hat die Obsternte gefährdet."
+    },
+    {
+      "term": "der Platzregen",
+      "type": "Substantiv (m)",
+      "meaning_tr": "downpour/cloudburst",
+      "example": "Nachmittags kam es zu einem kurzen, aber heftigen Platzregen."
+    },
+    {
+      "term": "die Windstille",
+      "type": "Substantiv (f)",
+      "meaning_tr": "calm/absence of wind",
+      "example": "Die Windstille machte die Hitze am See besonders unerträglich."
+    },
+    {
+      "term": "der Eisregen",
+      "type": "Substantiv (m)",
+      "meaning_tr": "freezing rain",
+      "example": "Achtung, Eisregen kann zu spiegelglatten Straßen führen!"
+    },
+    {
+      "term": "die Glätte",
+      "type": "Substantiv (f)",
+      "meaning_tr": "slipperiness (due to ice/snow)",
+      "example": "Aufgrund der morgendlichen Glätte kam es zu vielen Unfällen."
+    },
+    {
+      "term": "die Hitzewelle",
+      "type": "Substantiv (f)",
+      "meaning_tr": "heatwave",
+      "example": "Die anhaltende Hitzewelle erforderte spezielle Vorsichtsmaßnahmen für ältere Menschen."
+    },
+    {
+      "term": "die Dürreperiode",
+      "type": "Substantiv (f)",
+      "meaning_tr": "drought period",
+      "example": "Die Dürreperiode im letzten Sommer hatte verheerende Folgen für die Landwirtschaft."
+    },
+    {
+      "term": "die Überschwemmung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "flood",
+      "example": "Die Flusspegel stiegen so stark an, dass Teile der Stadt unter Wasser standen, eine Überschwemmung war die Folge."
+    },
+    {
+      "term": "der Sturm",
+      "type": "Substantiv (m)",
+      "meaning_tr": "storm",
+      "example": "Orkanböen führten zu weitreichenden Stromausfällen."
+    },
+    {
+      "term": "orkanartig",
+      "type": "Adjektiv",
+      "meaning_tr": "hurricane-force",
+      "example": "Der Wind wehte orkanartig durch das Tal."
+    },
+    {
+      "term": "die Gewitterwarnung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "thunderstorm warning",
+      "example": "Es wurde eine strenge Gewitterwarnung für den gesamten südlichen Landesteil herausgegeben."
+    },
+    {
+      "term": "die Laubfall",
+      "type": "Substantiv (m)",
+      "meaning_tr": "leaf fall",
+      "example": "Der frühe Laubfall deutet auf einen baldigen Wintereinbruch hin."
+    },
+    {
+      "term": "der Frühlingseinbruch",
+      "type": "Substantiv (m)",
+      "meaning_tr": "sudden onset of spring",
+      "example": "Nach dem langen Winter begrüßten wir den plötzlichen Frühlingseinbruch mit Freude."
+    },
+    {
+      "term": "die Schönwetterperiode",
+      "type": "Substantiv (f)",
+      "meaning_tr": "period of fine weather",
+      "example": "Wir nutzen die aktuelle Schönwetterperiode für ausgedehnte Wanderungen."
+    },
+    {
+      "term": "die Trübung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "turbidity/haze",
+      "example": "Die vulkanische Asche verursachte eine globale Trübung der Atmosphäre."
+    },
+    {
+      "term": "der Temperatursturz",
+      "type": "Substantiv (m)",
+      "meaning_tr": "sharp drop in temperature",
+      "example": "Nach dem Regen folgte ein dramatischer Temperatursturz um zehn Grad."
+    },
+    {
+      "term": "die Schneegrenze",
+      "type": "Substantiv (f)",
+      "meaning_tr": "snow line (altitude)",
+      "example": "Die Schneegrenze sank durch die Kaltfront deutlich ab."
+    },
+    {
+      "term": "die Wetterlage",
+      "type": "Substantiv (f)",
+      "meaning_tr": "weather situation/pattern",
+      "example": "Die aktuelle Wetterlage ist sehr wechselhaft und unbeständig."
+    },
+    {
+      "term": "der Hochdruckgebiet",
+      "type": "Substantiv (m)",
+      "meaning_tr": "high-pressure area",
+      "example": "Unter dem Einfluss des Hochdruckgebiets erwarten wir stabiles, schönes Wetter."
+    },
+    {
+      "term": "das Tiefdruckgebiet",
+      "type": "Substantiv (m)",
+      "meaning_tr": "low-pressure area",
+      "example": "Das Tiefdruckgebiet bringt uns Unwetter und anhaltenden Regen."
+    },
+    {
+      "term": "die Monsunzeit",
+      "type": "Substantiv (f)",
+      "meaning_tr": "monsoon season",
+      "example": "In Südostasien beginnt bald die feuchte Monsunzeit."
+    },
+    {
+      "term": "der Monsunregen",
+      "type": "Substantiv (m)",
+      "meaning_tr": "monsoon rain",
+      "example": "Der Monsunregen fällt dort oft tagelang ohne Unterbrechung."
+    },
+    {
+      "term": "die Eiskristalle",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "ice crystals",
+      "example": "Die feinen Eiskristalle glitzerten im Sonnenlicht."
+    },
+    {
+      "term": "der Frost",
+      "type": "Substantiv (m)",
+      "meaning_tr": "frost",
+      "example": "In dieser Höhenlage muss man selbst im Sommer mit leichtem Frost rechnen."
+    },
+    {
+      "term": "der Dauerregen",
+      "type": "Substantiv (m)",
+      "meaning_tr": "persistent/continuous rain",
+      "example": "Der Dauerregen hat die Böden komplett durchnässt."
+    },
+    {
+      "term": "die Wetterkapriole",
+      "type": "Substantiv (f)",
+      "meaning_tr": "caprice of the weather",
+      "example": "Wegen der heutigen Wetterkapriolen mussten wir unseren Ausflug verschieben."
+    },
+    {
+      "term": "die Schwüle",
+      "type": "Substantiv (f)",
+      "meaning_tr": "sultriness/muggy heat",
+      "example": "Die schwüle Luft vor dem Gewitter war kaum auszuhalten."
+    },
+    {
+      "term": "die Wetterberuhigung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "calming down of the weather",
+      "example": "Nach dem heftigen Sturm setzte endlich eine Wetterberuhigung ein."
+    },
+    {
+      "term": "der Schneefallgrenze",
+      "type": "Substantiv (f)",
+      "meaning_tr": "snowfall limit (altitude)",
+      "example": "Die Schneefallgrenze liegt momentan bei 1200 Metern."
+    },
+    {
+      "term": "die Windböe",
+      "type": "Substantiv (f)",
+      "meaning_tr": "gust of wind",
+      "example": "Eine unerwartete Windböe ließ die Segel flattern."
+    },
+    {
+      "term": "die Tiefsttemperatur",
+      "type": "Substantiv (f)",
+      "meaning_tr": "lowest temperature",
+      "example": "Die Tiefsttemperatur wurde letzte Nacht um 4 Uhr gemessen."
+    },
+    {
+      "term": "die Höchsttemperatur",
+      "type": "Substantiv (f)",
+      "meaning_tr": "highest temperature",
+      "example": "Wir erwarten heute Nachmittag die Höchsttemperatur des Jahres."
+    },
+    {
+      "term": "die Äquinoktium",
+      "type": "Substantiv (n)",
+      "meaning_tr": "equinox",
+      "example": "Beim Herbstäquinoktium sind Tag und Nacht fast gleich lang."
+    },
+    {
+      "term": "die Sonnenwende",
+      "type": "Substantiv (f)",
+      "meaning_tr": "solstice",
+      "example": "Die Sommersonnenwende markiert den längsten Tag des Jahres."
+    },
+    {
+      "term": "der Dauerfrost",
+      "type": "Substantiv (m)",
+      "meaning_tr": "prolonged frost",
+      "example": "Der Dauerfrost hält sich nun schon seit über zwei Wochen."
+    },
+    {
+      "term": "die Bewölkung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "cloud cover",
+      "example": "Die Bewölkung lockerte sich gegen Abend allmählich auf."
+    },
+    {
+      "term": "die Wettertür",
+      "type": "Substantiv (f)",
+      "meaning_tr": "weather door (metaphor for changeable weather)",
+      "example": "Im Frühling schlägt das Wetter oft mehrmals täglich zu und schließt die 'Wettertür' schnell wieder."
+    },
+    {
+      "term": "unbeständig",
+      "type": "Adjektiv",
+      "meaning_tr": "changeable/unsettled (weather)",
+      "example": "Die nächsten Tage bleiben aufgrund der atlantischen Tiefs sehr unbeständig."
+    },
+    {
+      "term": "die Windstärken",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "wind strengths (Beaufort scale)",
+      "example": "Die Windstärken auf See erreichten heute Morgen die Stufe 9."
+    },
+    {
+      "term": "der Schneesturm",
+      "type": "Substantiv (m)",
+      "meaning_tr": "blizzard/snowstorm",
+      "example": "Der Schneesturm legte den Verkehr in der gesamten Region lahm."
+    },
+    {
+      "term": "die Wetterküche",
+      "type": "Substantiv (f)",
+      "meaning_tr": "weather factory (where weather systems form, often used figuratively)",
+      "example": "Über dem Meer brodelt es, die Wetterküche scheint wieder aktiv zu sein."
+    },
+    {
+      "term": "die Luftmasse",
+      "type": "Substantiv (f)",
+      "meaning_tr": "air mass",
+      "example": "Eine polare Luftmasse sorgte für einen drastischen Temperaturrückgang."
+    },
+    {
+      "term": "der Eiszapfen",
+      "type": "Substantiv (m)",
+      "meaning_tr": "icicle",
+      "example": "An der Dachrinne hingen lange, gefährliche Eiszapfen."
+    },
+    {
+      "term": "die Regenschauer",
+      "type": "Substantiv (Plural)",
+      "meaning_tr": "rain showers",
+      "example": "Wir erlebten heute Vormittag mehrere kurze, heftige Regenschauer."
+    },
+    {
+      "term": "die Nebeldecke",
+      "type": "Substantiv (f)",
+      "meaning_tr": "blanket of fog",
+      "example": "Die Nebeldecke hielt sich hartnäckig über dem Tal."
+    },
+    {
+      "term": "die Gewitterzelle",
+      "type": "Substantiv (f)",
+      "meaning_tr": "thunderstorm cell",
+      "example": "Die isolierte Gewitterzelle zog langsam in östliche Richtung."
+    },
+    {
+      "term": "die Wolkenbildung",
+      "type": "Substantiv (f)",
+      "meaning_tr": "cloud formation",
+      "example": "Die starke Erwärmung begünstigte die intensive Wolkenbildung am Nachmittag."
+    },
+    {
+      "term": "die Tropennacht",
+      "type": "Substantiv (f)",
+      "meaning_tr": "tropical night (night where temperature stays above 20°C)",
+      "example": "Die dritte Tropennacht in Folge zehrt an den Kräften."
+    }
+  ]
+}
