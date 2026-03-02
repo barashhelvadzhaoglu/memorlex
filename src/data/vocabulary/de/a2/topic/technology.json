@@ -1,0 +1,231 @@
+{
+  "title": "Technologie & IT (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Computer",
+      "type": "Noun",
+      "example": "Ich brauche einen neuen *** für die Arbeit.",
+      "meaning_tr": "Bilgisayar",
+      "meaning_en": "Computer",
+      "meaning_uk": "Комп'ютер",
+      "meaning_es": "Ordenador"
+    },
+    {
+      "term": "das Internet",
+      "type": "Noun",
+      "example": "Ohne *** kann ich nicht arbeiten.",
+      "meaning_tr": "İnternet",
+      "meaning_en": "Internet",
+      "meaning_uk": "Інтернет",
+      "meaning_es": "Internet"
+    },
+    {
+      "term": "die Webseite",
+      "type": "Noun",
+      "example": "Diese *** ist sehr informativ.",
+      "meaning_tr": "Web sitesi",
+      "meaning_en": "Website",
+      "meaning_uk": "Веб-сайт",
+      "meaning_es": "Página web"
+    },
+    {
+      "term": "senden",
+      "type": "Verb",
+      "example": "Kannst du mir bitte eine E-Mail ***?",
+      "meaning_tr": "Göndermek",
+      "meaning_en": "to send",
+      "meaning_uk": "Надсилати",
+      "meaning_es": "Enviar"
+    },
+    {
+      "term": "empfangen",
+      "type": "Verb",
+      "example": "Ich kann keine Nachrichten ***.",
+      "meaning_tr": "Almak (veri, mesaj)",
+      "meaning_en": "to receive",
+      "meaning_uk": "Отримувати",
+      "meaning_es": "Recibir"
+    },
+    {
+      "term": "die E-Mail",
+      "type": "Noun",
+      "example": "Ich habe dir eine *** geschickt.",
+      "meaning_tr": "E-posta",
+      "meaning_en": "Email",
+      "meaning_uk": "Електронна пошта",
+      "meaning_es": "Correo electrónico"
+    },
+    {
+      "term": "speichern",
+      "type": "Verb",
+      "example": "Vergiss nicht, die Datei zu ***.",
+      "meaning_tr": "Kaydetmek",
+      "meaning_en": "to save, to store",
+      "meaning_uk": "Зберігати",
+      "meaning_es": "Guardar"
+    },
+    {
+      "term": "löschen",
+      "type": "Verb",
+      "example": "Ich muss diese alten Dateien ***.",
+      "meaning_tr": "Silmek",
+      "meaning_en": "to delete",
+      "meaning_uk": "Видалити",
+      "meaning_es": "Borrar"
+    },
+    {
+      "term": "hochladen",
+      "type": "Verb",
+      "example": "Ich werde die Fotos später ***.",
+      "meaning_tr": "Yüklemek (internete)",
+      "meaning_en": "to upload",
+      "meaning_uk": "Завантажувати (в мережу)",
+      "meaning_es": "Subir"
+    },
+    {
+      "term": "herunterladen",
+      "type": "Verb",
+      "example": "Du kannst das Dokument hier ***.",
+      "meaning_tr": "İndirmek",
+      "meaning_en": "to download",
+      "meaning_uk": "Завантажувати (з мережі)",
+      "meaning_es": "Descargar"
+    },
+    {
+      "term": "die Datei",
+      "type": "Noun",
+      "example": "Bitte öffne diese ***.",
+      "meaning_tr": "Dosya",
+      "meaning_en": "File",
+      "meaning_uk": "Файл",
+      "meaning_es": "Archivo"
+    },
+    {
+      "term": "das Programm",
+      "type": "Noun",
+      "example": "Dieses *** ist sehr nützlich.",
+      "meaning_tr": "Program",
+      "meaning_en": "Program, application",
+      "meaning_uk": "Програма",
+      "meaning_es": "Programa"
+    },
+    {
+      "term": "die Tastatur",
+      "type": "Noun",
+      "example": "Meine *** funktioniert nicht richtig.",
+      "meaning_tr": "Klavye",
+      "meaning_en": "Keyboard",
+      "meaning_uk": "Клавіатура",
+      "meaning_es": "Teclado"
+    },
+    {
+      "term": "die Maus",
+      "type": "Noun",
+      "example": "Ich brauche eine neue *** für meinen Laptop.",
+      "meaning_tr": "Fare (bilgisayar)",
+      "meaning_en": "Mouse (computer)",
+      "meaning_uk": "Миша",
+      "meaning_es": "Ratón"
+    },
+    {
+      "term": "der Bildschirm",
+      "type": "Noun",
+      "example": "Der *** ist zu klein für meine Arbeit.",
+      "meaning_tr": "Ekran",
+      "meaning_en": "Screen",
+      "meaning_uk": "Екран",
+      "meaning_es": "Pantalla"
+    },
+    {
+      "term": "das Smartphone",
+      "type": "Noun",
+      "example": "Mein neues *** hat eine gute Kamera.",
+      "meaning_tr": "Akıllı telefon",
+      "meaning_en": "Smartphone",
+      "meaning_uk": "Смартфон",
+      "meaning_es": "Smartphone"
+    },
+    {
+      "term": "online",
+      "type": "Adjective",
+      "example": "Ich bin den ganzen Tag ***.",
+      "meaning_tr": "Çevrimiçi",
+      "meaning_en": "Online",
+      "meaning_uk": "Онлайн",
+      "meaning_es": "En línea"
+    },
+    {
+      "term": "der Drucker",
+      "type": "Noun",
+      "example": "Der *** ist kaputt, ich kann nichts drucken.",
+      "meaning_tr": "Yazıcı",
+      "meaning_en": "Printer",
+      "meaning_uk": "Принтер",
+      "meaning_es": "Impresora"
+    },
+    {
+      "term": "drucken",
+      "type": "Verb",
+      "example": "Kannst du das Dokument bitte ***?",
+      "meaning_tr": "Yazdırmak",
+      "meaning_en": "to print",
+      "meaning_uk": "Друкувати",
+      "meaning_es": "Imprimir"
+    },
+    {
+      "term": "surfen",
+      "type": "Verb",
+      "example": "Am Abend *** ich gerne im Internet.",
+      "meaning_tr": "Sörf yapmak (internette)",
+      "meaning_en": "to surf (the internet)",
+      "meaning_uk": "Серфити (в інтернеті)",
+      "meaning_es": "Navegar (por internet)"
+    },
+    {
+      "term": "anklicken",
+      "type": "Verb",
+      "example": "Bitte *** Sie den Link.",
+      "meaning_tr": "Tıklamak",
+      "meaning_en": "to click (on)",
+      "meaning_uk": "Натискати",
+      "meaning_es": "Hacer clic"
+    },
+    {
+      "term": "eingeben",
+      "type": "Verb",
+      "example": "Sie müssen Ihr Passwort ***.",
+      "meaning_tr": "Girmek (veri)",
+      "meaning_en": "to enter (data)",
+      "meaning_uk": "Вводити",
+      "meaning_es": "Introducir (datos)"
+    },
+    {
+      "term": "die App",
+      "type": "Noun",
+      "example": "Ich habe eine neue *** auf meinem Handy.",
+      "meaning_tr": "Uygulama",
+      "meaning_en": "App",
+      "meaning_uk": "Додаток",
+      "meaning_es": "Aplicación"
+    },
+    {
+      "term": "der Benutzer",
+      "type": "Noun",
+      "example": "Jeder *** braucht ein eigenes Konto.",
+      "meaning_tr": "Kullanıcı",
+      "meaning_en": "User",
+      "meaning_uk": "Користувач",
+      "meaning_es": "Usuario"
+    },
+    {
+      "term": "das Passwort",
+      "type": "Noun",
+      "example": "Vergiss dein *** nicht.",
+      "meaning_tr": "Şifre",
+      "meaning_en": "Password",
+      "meaning_uk": "Пароль",
+      "meaning_es": "Contraseña"
+    }
+  ]
+}

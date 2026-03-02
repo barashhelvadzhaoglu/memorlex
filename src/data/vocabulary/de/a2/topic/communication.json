@@ -1,0 +1,231 @@
+{
+  "title": "Kommunikation & Telefonate (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Telefon",
+      "type": "Noun",
+      "example": "Könntest du bitte ans *** gehen?",
+      "meaning_tr": "telefon",
+      "meaning_en": "phone",
+      "meaning_uk": "телефон",
+      "meaning_es": "teléfono"
+    },
+    {
+      "term": "der Anruf",
+      "type": "Noun",
+      "example": "Ich habe einen wichtigen *** erwartet.",
+      "meaning_tr": "arama",
+      "meaning_en": "call",
+      "meaning_uk": "дзвінок",
+      "meaning_es": "llamada"
+    },
+    {
+      "term": "anrufen",
+      "type": "Verb",
+      "example": "Er wird mich später ***.",
+      "meaning_tr": "aramak",
+      "meaning_en": "to call",
+      "meaning_uk": "телефонувати",
+      "meaning_es": "llamar"
+    },
+    {
+      "term": "die Nachricht",
+      "type": "Noun",
+      "example": "Hast du meine *** erhalten?",
+      "meaning_tr": "mesaj",
+      "meaning_en": "message",
+      "meaning_uk": "повідомлення",
+      "meaning_es": "mensaje"
+    },
+    {
+      "term": "sprechen",
+      "type": "Verb",
+      "example": "Kann ich kurz mit Ihnen ***?",
+      "meaning_tr": "konuşmak",
+      "meaning_en": "to speak",
+      "meaning_uk": "говорити",
+      "meaning_es": "hablar"
+    },
+    {
+      "term": "das Gespräch",
+      "type": "Noun",
+      "example": "Unser *** dauerte über eine Stunde.",
+      "meaning_tr": "konuşma",
+      "meaning_en": "conversation",
+      "meaning_uk": "розмова",
+      "meaning_es": "conversación"
+    },
+    {
+      "term": "verstehen",
+      "type": "Verb",
+      "example": "Entschuldigen Sie, ich kann Sie nicht ***.",
+      "meaning_tr": "anlamak",
+      "meaning_en": "to understand",
+      "meaning_uk": "розуміти",
+      "meaning_es": "entender"
+    },
+    {
+      "term": "deutlich",
+      "type": "Adjective",
+      "example": "Bitte sprechen Sie ***, ich höre Sie schlecht.",
+      "meaning_tr": "açıkça",
+      "meaning_en": "clear(ly)",
+      "meaning_uk": "чітко",
+      "meaning_es": "claramente"
+    },
+    {
+      "term": "die E-Mail",
+      "type": "Noun",
+      "example": "Ich habe dir eine *** geschickt.",
+      "meaning_tr": "e-posta",
+      "meaning_en": "email",
+      "meaning_uk": "електронний лист",
+      "meaning_es": "correo electrónico"
+    },
+    {
+      "term": "schreiben",
+      "type": "Verb",
+      "example": "Ich muss noch eine E-Mail ***.",
+      "meaning_tr": "yazmak",
+      "meaning_en": "to write",
+      "meaning_uk": "писати",
+      "meaning_es": "escribir"
+    },
+    {
+      "term": "antworten",
+      "type": "Verb",
+      "example": "Kannst du bitte schnell auf die E-Mail ***?",
+      "meaning_tr": "cevaplamak",
+      "meaning_en": "to answer/reply",
+      "meaning_uk": "відповідати",
+      "meaning_es": "responder"
+    },
+    {
+      "term": "die Nummer",
+      "type": "Noun",
+      "example": "Wie ist deine Telefon-***?",
+      "meaning_tr": "numara",
+      "meaning_en": "number",
+      "meaning_uk": "номер",
+      "meaning_es": "número"
+    },
+    {
+      "term": "wählen",
+      "type": "Verb",
+      "example": "Sie müssen die richtige ***.",
+      "meaning_tr": "tuşlamak",
+      "meaning_en": "to dial",
+      "meaning_uk": "набирати (номер)",
+      "meaning_es": "marcar"
+    },
+    {
+      "term": "besetzt",
+      "type": "Adjective",
+      "example": "Die Leitung ist ***.",
+      "meaning_tr": "meşgul",
+      "meaning_en": "busy (line)",
+      "meaning_uk": "зайнято",
+      "meaning_es": "ocupado"
+    },
+    {
+      "term": "erreichbar",
+      "type": "Adjective",
+      "example": "Ich bin heute den ganzen Tag ***.",
+      "meaning_tr": "ulaşılabilir",
+      "meaning_en": "reachable",
+      "meaning_uk": "доступний",
+      "meaning_es": "localizable / disponible"
+    },
+    {
+      "term": "hinterlassen",
+      "type": "Verb",
+      "example": "Möchten Sie eine Nachricht ***?",
+      "meaning_tr": "bırakmak (mesaj)",
+      "meaning_en": "to leave (a message)",
+      "meaning_uk": "залишити (повідомлення)",
+      "meaning_es": "dejar (un mensaje)"
+    },
+    {
+      "term": "der Hörer",
+      "type": "Noun",
+      "example": "Bitte legen Sie den *** auf, wenn Sie fertig sind.",
+      "meaning_tr": "ahize",
+      "meaning_en": "receiver (of a phone)",
+      "meaning_uk": "слухавка",
+      "meaning_es": "auricular"
+    },
+    {
+      "term": "auflegen",
+      "type": "Verb",
+      "example": "Sie hat sofort ***.",
+      "meaning_tr": "kapatmak (telefonu)",
+      "meaning_en": "to hang up",
+      "meaning_uk": "покласти слухавку",
+      "meaning_es": "colgar"
+    },
+    {
+      "term": "abnehmen",
+      "type": "Verb",
+      "example": "Niemand hat das Telefon ***.",
+      "meaning_tr": "açmak (telefonu)",
+      "meaning_en": "to pick up (the phone)",
+      "meaning_uk": "підняти слухавку",
+      "meaning_es": "descolgar"
+    },
+    {
+      "term": "verbinden",
+      "type": "Verb",
+      "example": "Könnten Sie mich bitte mit Herrn Müller ***?",
+      "meaning_tr": "bağlamak",
+      "meaning_en": "to connect (a call)",
+      "meaning_uk": "з'єднати",
+      "meaning_es": "conectar"
+    },
+    {
+      "term": "die Verbindung",
+      "type": "Noun",
+      "example": "Die *** war leider schlecht.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "connection",
+      "meaning_uk": "з'єднання",
+      "meaning_es": "conexión"
+    },
+    {
+      "term": "mitteilen",
+      "type": "Verb",
+      "example": "Ich möchte Ihnen eine wichtige Information ***.",
+      "meaning_tr": "bildirmek",
+      "meaning_en": "to inform/tell",
+      "meaning_uk": "повідомити",
+      "meaning_es": "comunicar"
+    },
+    {
+      "term": "persönlich",
+      "type": "Adverb",
+      "example": "Ich möchte das lieber *** besprechen.",
+      "meaning_tr": "şahsen",
+      "meaning_en": "personally",
+      "meaning_uk": "особисто",
+      "meaning_es": "personalmente"
+    },
+    {
+      "term": "der Empfänger",
+      "type": "Noun",
+      "example": "Wer ist der *** dieser E-Mail?",
+      "meaning_tr": "alıcı",
+      "meaning_en": "recipient",
+      "meaning_uk": "одержувач",
+      "meaning_es": "destinatario"
+    },
+    {
+      "term": "der Absender",
+      "type": "Noun",
+      "example": "Der *** der Nachricht ist unbekannt.",
+      "meaning_tr": "gönderen",
+      "meaning_en": "sender",
+      "meaning_uk": "відправник",
+      "meaning_es": "remitente"
+    }
+  ]
+}

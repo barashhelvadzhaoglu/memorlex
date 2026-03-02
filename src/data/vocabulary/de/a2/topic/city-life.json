@@ -1,0 +1,231 @@
+{
+  "title": "Stadt & Land (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Park",
+      "type": "Noun",
+      "example": "Ich gehe oft in den ***, um zu entspannen.",
+      "meaning_tr": "park",
+      "meaning_en": "park",
+      "meaning_uk": "парк",
+      "meaning_es": "parque"
+    },
+    {
+      "term": "die Stadt",
+      "type": "Noun",
+      "example": "Ich lebe in einer großen ***.",
+      "meaning_tr": "şehir",
+      "meaning_en": "city",
+      "meaning_uk": "місто",
+      "meaning_es": "ciudad"
+    },
+    {
+      "term": "das Land",
+      "type": "Noun",
+      "example": "Meine Großeltern wohnen auf dem ***.",
+      "meaning_tr": "kırsal kesim, ülke",
+      "meaning_en": "countryside, country",
+      "meaning_uk": "сільська місцевість, країна",
+      "meaning_es": "campo, país"
+    },
+    {
+      "term": "die Straße",
+      "type": "Noun",
+      "example": "Auf dieser *** gibt es viele Geschäfte.",
+      "meaning_tr": "cadde, sokak",
+      "meaning_en": "street",
+      "meaning_uk": "вулиця",
+      "meaning_es": "calle"
+    },
+    {
+      "term": "das Gebäude",
+      "type": "Noun",
+      "example": "Das ist ein sehr altes ***.",
+      "meaning_tr": "bina",
+      "meaning_en": "building",
+      "meaning_uk": "будівля",
+      "meaning_es": "edificio"
+    },
+    {
+      "term": "der Supermarkt",
+      "type": "Noun",
+      "example": "Ich muss zum *** gehen, um Lebensmittel zu kaufen.",
+      "meaning_tr": "süpermarket",
+      "meaning_en": "supermarket",
+      "meaning_uk": "супермаркет",
+      "meaning_es": "supermercado"
+    },
+    {
+      "term": "das Restaurant",
+      "type": "Noun",
+      "example": "Am Abend gehen wir in ein ***.",
+      "meaning_tr": "restoran",
+      "meaning_en": "restaurant",
+      "meaning_uk": "ресторан",
+      "meaning_es": "restaurante"
+    },
+    {
+      "term": "die Wohnung",
+      "type": "Noun",
+      "example": "Meine *** hat drei Zimmer.",
+      "meaning_tr": "daire",
+      "meaning_en": "apartment",
+      "meaning_uk": "квартира",
+      "meaning_es": "apartamento"
+    },
+    {
+      "term": "das Haus",
+      "type": "Noun",
+      "example": "Sie haben ein schönes *** mit Garten.",
+      "meaning_tr": "ev",
+      "meaning_en": "house",
+      "meaning_uk": "будинок",
+      "meaning_es": "casa"
+    },
+    {
+      "term": "der Garten",
+      "type": "Noun",
+      "example": "Im Sommer verbringen wir viel Zeit im ***.",
+      "meaning_tr": "bahçe",
+      "meaning_en": "garden",
+      "meaning_uk": "сад",
+      "meaning_es": "jardín"
+    },
+    {
+      "term": "der Fluss",
+      "type": "Noun",
+      "example": "Die Brücke führt über den ***.",
+      "meaning_tr": "nehir",
+      "meaning_en": "river",
+      "meaning_uk": "річка",
+      "meaning_es": "río"
+    },
+    {
+      "term": "der Berg",
+      "type": "Noun",
+      "example": "Wir wandern gerne auf den ***.",
+      "meaning_tr": "dağ",
+      "meaning_en": "mountain",
+      "meaning_uk": "гора",
+      "meaning_es": "montaña"
+    },
+    {
+      "term": "der See",
+      "type": "Noun",
+      "example": "Im Sommer schwimmen wir im ***.",
+      "meaning_tr": "göl",
+      "meaning_en": "lake",
+      "meaning_uk": "озеро",
+      "meaning_es": "lago"
+    },
+    {
+      "term": "der Wald",
+      "type": "Noun",
+      "example": "Wir machen oft Spaziergänge im ***.",
+      "meaning_tr": "orman",
+      "meaning_en": "forest",
+      "meaning_uk": "ліс",
+      "meaning_es": "bosque"
+    },
+    {
+      "term": "das Dorf",
+      "type": "Noun",
+      "example": "Mein Onkel lebt in einem kleinen ***.",
+      "meaning_tr": "köy",
+      "meaning_en": "village",
+      "meaning_uk": "село",
+      "meaning_es": "pueblo"
+    },
+    {
+      "term": "die Natur",
+      "type": "Noun",
+      "example": "Ich liebe es, Zeit in der *** zu verbringen.",
+      "meaning_tr": "doğa",
+      "meaning_en": "nature",
+      "meaning_uk": "природа",
+      "meaning_es": "naturaleza"
+    },
+    {
+      "term": "wohnen",
+      "type": "Verb",
+      "example": "Wo *** Sie?",
+      "meaning_tr": "yaşamak, ikamet etmek",
+      "meaning_en": "to live",
+      "meaning_uk": "жити",
+      "meaning_es": "vivir"
+    },
+    {
+      "term": "besuchen",
+      "type": "Verb",
+      "example": "Wir wollen unsere Freunde am Wochenende ***.",
+      "meaning_tr": "ziyaret etmek",
+      "meaning_en": "to visit",
+      "meaning_uk": "відвідувати",
+      "meaning_es": "visitar"
+    },
+    {
+      "term": "einkaufen",
+      "type": "Verb",
+      "example": "Ich muss noch schnell ***.",
+      "meaning_tr": "alışveriş yapmak",
+      "meaning_en": "to shop",
+      "meaning_uk": "робити покупки",
+      "meaning_es": "hacer la compra"
+    },
+    {
+      "term": "spazieren gehen",
+      "type": "Verb",
+      "example": "Am Sonntag möchte ich im Park ***.",
+      "meaning_tr": "yürüyüşe çıkmak",
+      "meaning_en": "to go for a walk",
+      "meaning_uk": "гуляти",
+      "meaning_es": "ir de paseo"
+    },
+    {
+      "term": "groß",
+      "type": "Adjective",
+      "example": "Die Stadt ist sehr ***.",
+      "meaning_tr": "büyük",
+      "meaning_en": "big, large",
+      "meaning_uk": "великий",
+      "meaning_es": "grande"
+    },
+    {
+      "term": "klein",
+      "type": "Adjective",
+      "example": "Mein Dorf ist sehr *** und ruhig.",
+      "meaning_tr": "küçük",
+      "meaning_en": "small",
+      "meaning_uk": "маленький",
+      "meaning_es": "pequeño"
+    },
+    {
+      "term": "ruhig",
+      "type": "Adjective",
+      "example": "Die Natur ist sehr ***.",
+      "meaning_tr": "sakin",
+      "meaning_en": "quiet, calm",
+      "meaning_uk": "тихий, спокійний",
+      "meaning_es": "tranquilo"
+    },
+    {
+      "term": "laut",
+      "type": "Adjective",
+      "example": "Der Verkehr in der Stadt ist oft sehr ***.",
+      "meaning_tr": "gürültülü",
+      "meaning_en": "loud, noisy",
+      "meaning_uk": "гучний, шумний",
+      "meaning_es": "ruidoso"
+    },
+    {
+      "term": "schön",
+      "type": "Adjective",
+      "example": "Der Ausblick vom Berg ist sehr ***.",
+      "meaning_tr": "güzel",
+      "meaning_en": "beautiful",
+      "meaning_uk": "красивий",
+      "meaning_es": "hermoso"
+    }
+  ]
+}

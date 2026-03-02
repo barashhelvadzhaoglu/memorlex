@@ -5,122 +5,137 @@
     {
       "term": "die Arbeit",
       "type": "Noun",
-      "example": "Ich gehe jeden Morgen zur ***.",
-      "meaning_tr": "iş",
-      "meaning_en": "work",
-      "meaning_uk": "робота"
+      "example": "Die *** beginnt um 9 Uhr.",
+      "meaning_tr": "İş, Çalışma",
+      "meaning_en": "Work",
+      "meaning_uk": "Робота",
+      "meaning_es": "Trabajo"
     },
     {
       "term": "arbeiten",
       "type": "Verb",
-      "example": "Ich muss heute lange ***.",
-      "meaning_tr": "çalışmak",
-      "meaning_en": "to work",
-      "meaning_uk": "працювати"
+      "example": "Ich *** jeden Tag im Büro.",
+      "meaning_tr": "Çalışmak",
+      "meaning_en": "To work",
+      "meaning_uk": "Працювати",
+      "meaning_es": "Trabajar"
     },
     {
       "term": "das Büro",
       "type": "Noun",
-      "example": "Mein *** ist im dritten Stock.",
-      "meaning_tr": "ofis",
-      "meaning_en": "office",
-      "meaning_uk": "офіс"
+      "example": "Mein *** ist in der Stadtmitte.",
+      "meaning_tr": "Ofis",
+      "meaning_en": "Office",
+      "meaning_uk": "Офіс",
+      "meaning_es": "Oficina"
     },
     {
-      "term": "der Computer",
+      "term": "der Job",
       "type": "Noun",
-      "example": "Ich brauche einen neuen ***.",
-      "meaning_tr": "bilgisayar",
-      "meaning_en": "computer",
-      "meaning_uk": "комп'ютер"
-    },
-    {
-      "term": "der Stuhl",
-      "type": "Noun",
-      "example": "Bitte setzen Sie sich auf den ***.",
-      "meaning_tr": "sandalye",
-      "meaning_en": "chair",
-      "meaning_uk": "стілець"
-    },
-    {
-      "term": "der Tisch",
-      "type": "Noun",
-      "example": "Das Buch liegt auf dem ***.",
-      "meaning_tr": "masa",
-      "meaning_en": "table / desk",
-      "meaning_uk": "стіл"
-    },
-    {
-      "term": "telefonieren",
-      "type": "Verb",
-      "example": "Ich muss jetzt mit meiner Kollegin ***.",
-      "meaning_tr": "telefonla konuşmak",
-      "meaning_en": "to make a call / to telephone",
-      "meaning_uk": "телефонувати"
-    },
-    {
-      "term": "schreiben",
-      "type": "Verb",
-      "example": "Kannst du mir bitte eine E-Mail ***?",
-      "meaning_tr": "yazmak",
-      "meaning_en": "to write",
-      "meaning_uk": "писати"
-    },
-    {
-      "term": "lesen",
-      "type": "Verb",
-      "example": "Ich muss viele Dokumente ***.",
-      "meaning_tr": "okumak",
-      "meaning_en": "to read",
-      "meaning_uk": "читати"
+      "example": "Ich habe einen neuen *** gefunden.",
+      "meaning_tr": "İş",
+      "meaning_en": "Job",
+      "meaning_uk": "Робота, Вакансія",
+      "meaning_es": "Empleo"
     },
     {
       "term": "der Kollege",
       "type": "Noun",
       "example": "Mein *** hilft mir oft.",
-      "meaning_tr": "iş arkadaşı (erkek)",
-      "meaning_en": "male colleague",
-      "meaning_uk": "колега (чоловік)"
+      "meaning_tr": "Meslektaş (erkek)",
+      "meaning_en": "Colleague (male)",
+      "meaning_uk": "Колега (чоловік)",
+      "meaning_es": "Colega (masculino)"
+    },
+    {
+      "term": "die Kollegin",
+      "type": "Noun",
+      "example": "Die *** ist sehr nett.",
+      "meaning_tr": "Meslektaş (kadın)",
+      "meaning_en": "Colleague (female)",
+      "meaning_uk": "Колега (жінка)",
+      "meaning_es": "Colega (femenino)"
+    },
+    {
+      "term": "der Computer",
+      "type": "Noun",
+      "example": "Der *** steht auf dem Tisch.",
+      "meaning_tr": "Bilgisayar",
+      "meaning_en": "Computer",
+      "meaning_uk": "Комп'ютер",
+      "meaning_es": "Ordenador"
+    },
+    {
+      "term": "der Tisch",
+      "type": "Noun",
+      "example": "Ich sitze an meinem ***.",
+      "meaning_tr": "Masa",
+      "meaning_en": "Table, Desk",
+      "meaning_uk": "Стіл",
+      "meaning_es": "Mesa, Escritorio"
+    },
+    {
+      "term": "der Stuhl",
+      "type": "Noun",
+      "example": "Der *** ist bequem.",
+      "meaning_tr": "Sandalye",
+      "meaning_en": "Chair",
+      "meaning_uk": "Стілець",
+      "meaning_es": "Silla"
+    },
+    {
+      "term": "das Telefon",
+      "type": "Noun",
+      "example": "Das *** klingelt laut.",
+      "meaning_tr": "Telefon",
+      "meaning_en": "Telephone",
+      "meaning_uk": "Телефон",
+      "meaning_es": "Teléfono"
     },
     {
       "term": "die E-Mail",
       "type": "Noun",
-      "example": "Ich habe eine wichtige *** bekommen.",
-      "meaning_tr": "e-posta",
-      "meaning_en": "email",
-      "meaning_uk": "електронний лист"
+      "example": "Ich schreibe eine *** an meinen Chef.",
+      "meaning_tr": "E-posta",
+      "meaning_en": "E-mail",
+      "meaning_uk": "Електронний лист",
+      "meaning_es": "Correo electrónico"
     },
     {
-      "term": "senden",
+      "term": "schreiben",
       "type": "Verb",
-      "example": "Ich muss das Paket heute noch ***.",
-      "meaning_tr": "göndermek",
-      "meaning_en": "to send",
-      "meaning_uk": "відправляти"
+      "example": "Kannst du die E-Mail bitte ***?",
+      "meaning_tr": "Yazmak",
+      "meaning_en": "To write",
+      "meaning_uk": "Писати",
+      "meaning_es": "Escribir"
     },
     {
-      "term": "der Chef",
-      "type": "Noun",
-      "example": "Unser *** ist sehr freundlich.",
-      "meaning_tr": "patron (erkek)",
-      "meaning_en": "male boss",
-      "meaning_uk": "начальник"
+      "term": "lesen",
+      "type": "Verb",
+      "example": "Ich *** den Bericht am Morgen.",
+      "meaning_tr": "Okumak",
+      "meaning_en": "To read",
+      "meaning_uk": "Читати",
+      "meaning_es": "Leer"
     },
     {
-      "term": "das Meeting",
-      "type": "Noun",
-      "example": "Wir haben jeden Montag ein ***.",
-      "meaning_tr": "toplantı",
-      "meaning_en": "meeting",
-      "meaning_uk": "зустріч"
+      "term": "sprechen",
+      "type": "Verb",
+      "example": "Wir müssen über das Projekt ***.",
+      "meaning_tr": "Konuşmak",
+      "meaning_en": "To speak",
+      "meaning_uk": "Говорити",
+      "meaning_es": "Hablar"
     },
     {
-      "term": "pünktlich",
+      "term": "gut",
       "type": "Adjective",
-      "example": "Bitte seien Sie morgen ***.",
-      "meaning_tr": "dakik",
-      "meaning_en": "punctual",
-      "meaning_uk": "пунктуальний"
+      "example": "Die Arbeit war sehr ***.",
+      "meaning_tr": "İyi",
+      "meaning_en": "Good",
+      "meaning_uk": "Добрий",
+      "meaning_es": "Bueno"
     }
   ]
 }

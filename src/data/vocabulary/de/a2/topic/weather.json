@@ -1,177 +1,231 @@
-[
-  {
-    "term": "der Regen",
-    "meaning_tr": "yağmur",
-    "meaning_en": "rain",
-    "meaning_uk": "дощ",
-    "meaning_es": "la lluvia"
-  },
-  {
-    "term": "die Sonne",
-    "meaning_tr": "güneş",
-    "meaning_en": "sun",
-    "meaning_uk": "сонце",
-    "meaning_es": "el sol"
-  },
-  {
-    "term": "der Schnee",
-    "meaning_tr": "kar",
-    "meaning_en": "snow",
-    "meaning_uk": "сніг",
-    "meaning_es": "la nieve"
-  },
-  {
-    "term": "der Wind",
-    "meaning_tr": "rüzgar",
-    "meaning_en": "wind",
-    "meaning_uk": "вітер",
-    "meaning_es": "el viento"
-  },
-  {
-    "term": "die Wolke",
-    "meaning_tr": "bulut",
-    "meaning_en": "cloud",
-    "meaning_uk": "хмара",
-    "meaning_es": "la nube"
-  },
-  {
-    "term": "das Wetter",
-    "meaning_tr": "hava durumu",
-    "meaning_en": "weather",
-    "meaning_uk": "погода",
-    "meaning_es": "el tiempo"
-  },
-  {
-    "term": "der Himmel",
-    "meaning_tr": "gökyüzü",
-    "meaning_en": "sky",
-    "meaning_uk": "небо",
-    "meaning_es": "el cielo"
-  },
-  {
-    "term": "die Temperatur",
-    "meaning_tr": "sıcaklık",
-    "meaning_en": "temperature",
-    "meaning_uk": "температура",
-    "meaning_es": "la temperatura"
-  },
-  {
-    "term": "warm",
-    "meaning_tr": "ılık, sıcak",
-    "meaning_en": "warm, hot",
-    "meaning_uk": "теплий, гарячий",
-    "meaning_es": "cálido, caliente"
-  },
-  {
-    "term": "kalt",
-    "meaning_tr": "soğuk",
-    "meaning_en": "cold",
-    "meaning_uk": "холодний",
-    "meaning_es": "frío"
-  },
-  {
-    "term": "sonnig",
-    "meaning_tr": "güneşli",
-    "meaning_en": "sunny",
-    "meaning_uk": "сонячний",
-    "meaning_es": "soleado"
-  },
-  {
-    "term": "bewölkt",
-    "meaning_tr": "bulutlu",
-    "meaning_en": "cloudy",
-    "meaning_uk": "хмарний",
-    "meaning_es": "nublado"
-  },
-  {
-    "term": "der Frühling",
-    "meaning_tr": "ilkbahar",
-    "meaning_en": "spring",
-    "meaning_uk": "весна",
-    "meaning_es": "la primavera"
-  },
-  {
-    "term": "der Sommer",
-    "meaning_tr": "yaz",
-    "meaning_en": "summer",
-    "meaning_uk": "літо",
-    "meaning_es": "el verano"
-  },
-  {
-    "term": "der Herbst",
-    "meaning_tr": "sonbahar",
-    "meaning_en": "autumn",
-    "meaning_uk": "осінь",
-    "meaning_es": "el otoño"
-  },
-  {
-    "term": "der Winter",
-    "meaning_tr": "kış",
-    "meaning_en": "winter",
-    "meaning_uk": "зима",
-    "meaning_es": "el invierno"
-  },
-  {
-    "term": "die Jahreszeit",
-    "meaning_tr": "mevsim",
-    "meaning_en": "season",
-    "meaning_uk": "пора року",
-    "meaning_es": "la estación"
-  },
-  {
-    "term": "der Sturm",
-    "meaning_tr": "fırtına",
-    "meaning_en": "storm",
-    "meaning_uk": "буря",
-    "meaning_es": "la tormenta"
-  },
-  {
-    "term": "der Hagel",
-    "meaning_tr": "dolu",
-    "meaning_en": "hail",
-    "meaning_uk": "град",
-    "meaning_es": "el granizo"
-  },
-  {
-    "term": "der Nebel",
-    "meaning_tr": "sis",
-    "meaning_en": "fog",
-    "meaning_uk": "туман",
-    "meaning_es": "la niebla"
-  },
-  {
-    "term": "der Blitz",
-    "meaning_tr": "şimşek",
-    "meaning_en": "lightning",
-    "meaning_uk": "блискавка",
-    "meaning_es": "el rayo"
-  },
-  {
-    "term": "der Donner",
-    "meaning_tr": "gök gürültüsü",
-    "meaning_en": "thunder",
-    "meaning_uk": "грім",
-    "meaning_es": "el trueno"
-  },
-  {
-    "term": "die Hitze",
-    "meaning_tr": "sıcak, bunaltıcı hava",
-    "meaning_en": "heat, hot weather",
-    "meaning_uk": "спека, гаряча погода",
-    "meaning_es": "el calor, tiempo caluroso"
-  },
-  {
-    "term": "der Frost",
-    "meaning_tr": "don",
-    "meaning_en": "frost",
-    "meaning_uk": "мороз",
-    "meaning_es": "la escarcha"
-  },
-  {
-    "term": "klar",
-    "meaning_tr": "açık (hava)",
-    "meaning_en": "clear (weather)",
-    "meaning_uk": "ясний (погода)",
-    "meaning_es": "despejado (tiempo)"
-  }
-]
+{
+  "title": "Wetter & Jahreszeiten (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Wetter",
+      "type": "Noun",
+      "example": "Wie ist heute ***",
+      "meaning_tr": "Hava",
+      "meaning_en": "weather",
+      "meaning_uk": "погода",
+      "meaning_es": "el tiempo"
+    },
+    {
+      "term": "die Sonne",
+      "type": "Noun",
+      "example": "Im Sommer scheint oft ***",
+      "meaning_tr": "Güneş",
+      "meaning_en": "sun",
+      "meaning_uk": "сонце",
+      "meaning_es": "el sol"
+    },
+    {
+      "term": "der Regen",
+      "type": "Noun",
+      "example": "Nach dem langen *** kommt die Sonne.",
+      "meaning_tr": "Yağmur",
+      "meaning_en": "rain",
+      "meaning_uk": "дощ",
+      "meaning_es": "la lluvia"
+    },
+    {
+      "term": "der Schnee",
+      "type": "Noun",
+      "example": "Im Winter fällt viel ***",
+      "meaning_tr": "Kar",
+      "meaning_en": "snow",
+      "meaning_uk": "сніг",
+      "meaning_es": "la nieve"
+    },
+    {
+      "term": "der Wind",
+      "type": "Noun",
+      "example": "Heute ist der *** sehr stark.",
+      "meaning_tr": "Rüzgar",
+      "meaning_en": "wind",
+      "meaning_uk": "вітер",
+      "meaning_es": "el viento"
+    },
+    {
+      "term": "der Himmel",
+      "type": "Noun",
+      "example": "Der *** ist heute blau und klar.",
+      "meaning_tr": "Gökyüzü",
+      "meaning_en": "sky",
+      "meaning_uk": "небо",
+      "meaning_es": "el cielo"
+    },
+    {
+      "term": "die Wolke",
+      "type": "Noun",
+      "example": "Eine dunkle *** kündigt Regen an.",
+      "meaning_tr": "Bulut",
+      "meaning_en": "cloud",
+      "meaning_uk": "хмара",
+      "meaning_es": "la nube"
+    },
+    {
+      "term": "die Temperatur",
+      "type": "Noun",
+      "example": "Die *** steigt morgen auf 25 Grad.",
+      "meaning_tr": "Sıcaklık",
+      "meaning_en": "temperature",
+      "meaning_uk": "температура",
+      "meaning_es": "la temperatura"
+    },
+    {
+      "term": "die Jahreszeit",
+      "type": "Noun",
+      "example": "Meine Lieblings-*** ist der Frühling.",
+      "meaning_tr": "Mevsim",
+      "meaning_en": "season",
+      "meaning_uk": "пора року",
+      "meaning_es": "la estación del año"
+    },
+    {
+      "term": "der Frühling",
+      "type": "Noun",
+      "example": "Im *** blühen die Blumen.",
+      "meaning_tr": "İlkbahar",
+      "meaning_en": "spring",
+      "meaning_uk": "весна",
+      "meaning_es": "la primavera"
+    },
+    {
+      "term": "der Sommer",
+      "type": "Noun",
+      "example": "Wir fahren im *** in den Urlaub.",
+      "meaning_tr": "Yaz",
+      "meaning_en": "summer",
+      "meaning_uk": "літо",
+      "meaning_es": "el verano"
+    },
+    {
+      "term": "der Herbst",
+      "type": "Noun",
+      "example": "Im *** fallen die Blätter von den Bäumen.",
+      "meaning_tr": "Sonbahar",
+      "meaning_en": "autumn/fall",
+      "meaning_uk": "осінь",
+      "meaning_es": "el otoño"
+    },
+    {
+      "term": "der Winter",
+      "type": "Noun",
+      "example": "Im *** ist es oft sehr kalt.",
+      "meaning_tr": "Kış",
+      "meaning_en": "winter",
+      "meaning_uk": "зима",
+      "meaning_es": "el invierno"
+    },
+    {
+      "term": "regnen",
+      "type": "Verb",
+      "example": "Es wird morgen ***",
+      "meaning_tr": "Yağmur yağmak",
+      "meaning_en": "to rain",
+      "meaning_uk": "дощити",
+      "meaning_es": "llover"
+    },
+    {
+      "term": "schneien",
+      "type": "Verb",
+      "example": "Wann wird es endlich ***",
+      "meaning_tr": "Kar yağmak",
+      "meaning_en": "to snow",
+      "meaning_uk": "сніжити",
+      "meaning_es": "nevar"
+    },
+    {
+      "term": "scheinen",
+      "type": "Verb",
+      "example": "Die Sonne *** heute wunderschön.",
+      "meaning_tr": "Parlamak (güneş için)",
+      "meaning_en": "to shine (for the sun)",
+      "meaning_uk": "світити (про сонце)",
+      "meaning_es": "brillar (el sol)"
+    },
+    {
+      "term": "wehen",
+      "type": "Verb",
+      "example": "Der Wind *** stark vom Meer.",
+      "meaning_tr": "Esnek (rüzgar için)",
+      "meaning_en": "to blow (for wind)",
+      "meaning_uk": "дути (про вітер)",
+      "meaning_es": "soplar (el viento)"
+    },
+    {
+      "term": "sonnig",
+      "type": "Adjective",
+      "example": "Heute ist ein *** Tag.",
+      "meaning_tr": "Güneşli",
+      "meaning_en": "sunny",
+      "meaning_uk": "сонячний",
+      "meaning_es": "soleado"
+    },
+    {
+      "term": "bewölkt",
+      "type": "Adjective",
+      "example": "Es ist heute meist ***",
+      "meaning_tr": "Bulutlu",
+      "meaning_en": "cloudy",
+      "meaning_uk": "хмарний",
+      "meaning_es": "nublado"
+    },
+    {
+      "term": "kalt",
+      "type": "Adjective",
+      "example": "Mir ist heute sehr ***",
+      "meaning_tr": "Soğuk",
+      "meaning_en": "cold",
+      "meaning_uk": "холодний",
+      "meaning_es": "frío"
+    },
+    {
+      "term": "warm",
+      "type": "Adjective",
+      "example": "Es ist heute angenehm ***",
+      "meaning_tr": "Ilık/Sıcak",
+      "meaning_en": "warm",
+      "meaning_uk": "теплий",
+      "meaning_es": "cálido"
+    },
+    {
+      "term": "heiß",
+      "type": "Adjective",
+      "example": "Im Juli ist es oft sehr ***",
+      "meaning_tr": "Çok sıcak",
+      "meaning_en": "hot",
+      "meaning_uk": "спекотний",
+      "meaning_es": "caluroso"
+    },
+    {
+      "term": "stürmisch",
+      "type": "Adjective",
+      "example": "Die See ist heute ***",
+      "meaning_tr": "Fırtınalı",
+      "meaning_en": "stormy",
+      "meaning_uk": "штормовий",
+      "meaning_es": "tormentoso"
+    },
+    {
+      "term": "neblig",
+      "type": "Adjective",
+      "example": "Es ist heute Morgen sehr ***",
+      "meaning_tr": "Sisli",
+      "meaning_en": "foggy",
+      "meaning_uk": "туманний",
+      "meaning_es": "neblinoso"
+    },
+    {
+      "term": "klar",
+      "type": "Adjective",
+      "example": "Der Himmel ist heute ganz ***",
+      "meaning_tr": "Açık (hava)",
+      "meaning_en": "clear (sky/weather)",
+      "meaning_uk": "ясний (про небо)",
+      "meaning_es": "despejado (el cielo)"
+    }
+  ]
+}

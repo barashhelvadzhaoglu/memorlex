@@ -1,177 +1,231 @@
-[
-  {
-    "term": "das Hobby",
-    "meaning_tr": "hobi",
-    "meaning_en": "hobby",
-    "meaning_uk": "хобі",
-    "meaning_es": "pasatiempo"
-  },
-  {
-    "term": "die Freizeit",
-    "meaning_tr": "boş zaman",
-    "meaning_en": "leisure time",
-    "meaning_uk": "вільний час",
-    "meaning_es": "tiempo libre"
-  },
-  {
-    "term": "der Sport",
-    "meaning_tr": "spor",
-    "meaning_en": "sport",
-    "meaning_uk": "спорт",
-    "meaning_es": "deporte"
-  },
-  {
-    "term": "das Kino",
-    "meaning_tr": "sinema",
-    "meaning_en": "cinema",
-    "meaning_uk": "кінотеатр",
-    "meaning_es": "cine"
-  },
-  {
-    "term": "das Museum",
-    "meaning_tr": "müze",
-    "meaning_en": "museum",
-    "meaning_uk": "музей",
-    "meaning_es": "museo"
-  },
-  {
-    "term": "das Konzert",
-    "meaning_tr": "konser",
-    "meaning_en": "concert",
-    "meaning_uk": "концерт",
-    "meaning_es": "concierto"
-  },
-  {
-    "term": "das Theater",
-    "meaning_tr": "tiyatro",
-    "meaning_en": "theater",
-    "meaning_uk": "театр",
-    "meaning_es": "teatro"
-  },
-  {
-    "term": "das Restaurant",
-    "meaning_tr": "restoran",
-    "meaning_en": "restaurant",
-    "meaning_uk": "ресторан",
-    "meaning_es": "restaurante"
-  },
-  {
-    "term": "der Park",
-    "meaning_tr": "park",
-    "meaning_en": "park",
-    "meaning_uk": "парк",
-    "meaning_es": "parque"
-  },
-  {
-    "term": "die Musik",
-    "meaning_tr": "müzik",
-    "meaning_en": "music",
-    "meaning_uk": "музика",
-    "meaning_es": "música"
-  },
-  {
-    "term": "das Buch",
-    "meaning_tr": "kitap",
-    "meaning_en": "book",
-    "meaning_uk": "книга",
-    "meaning_es": "libro"
-  },
-  {
-    "term": "der Film",
-    "meaning_tr": "film",
-    "meaning_en": "film",
-    "meaning_uk": "фільм",
-    "meaning_es": "película"
-  },
-  {
-    "term": "das Internet",
-    "meaning_tr": "internet",
-    "meaning_en": "internet",
-    "meaning_uk": "інтернет",
-    "meaning_es": "internet"
-  },
-  {
-    "term": "das Handy",
-    "meaning_tr": "cep telefonu",
-    "meaning_en": "mobile phone",
-    "meaning_uk": "мобільний телефон",
-    "meaning_es": "teléfono móvil"
-  },
-  {
-    "term": "das Fernsehen",
-    "meaning_tr": "televizyon",
-    "meaning_en": "television",
-    "meaning_uk": "телебачення",
-    "meaning_es": "televisión"
-  },
-  {
-    "term": "die Reise",
-    "meaning_tr": "seyahat, yolculuk",
-    "meaning_en": "trip, journey",
-    "meaning_uk": "подорож",
-    "meaning_es": "viaje"
-  },
-  {
-    "term": "das Schwimmen",
-    "meaning_tr": "yüzme",
-    "meaning_en": "swimming",
-    "meaning_uk": "плавання",
-    "meaning_es": "natación"
-  },
-  {
-    "term": "das Laufen",
-    "meaning_tr": "koşma",
-    "meaning_en": "running",
-    "meaning_uk": "біг",
-    "meaning_es": "correr"
-  },
-  {
-    "term": "das Radfahren",
-    "meaning_tr": "bisiklete binme",
-    "meaning_en": "cycling",
-    "meaning_uk": "велоспорт",
-    "meaning_es": "ciclismo"
-  },
-  {
-    "term": "das Tanzen",
-    "meaning_tr": "dans etme",
-    "meaning_en": "dancing",
-    "meaning_uk": "танці",
-    "meaning_es": "bailar"
-  },
-  {
-    "term": "das Kochen",
-    "meaning_tr": "yemek pişirme",
-    "meaning_en": "cooking",
-    "meaning_uk": "кулінарія",
-    "meaning_es": "cocinar"
-  },
-  {
-    "term": "das Lesen",
-    "meaning_tr": "okuma",
-    "meaning_en": "reading",
-    "meaning_uk": "читання",
-    "meaning_es": "leer"
-  },
-  {
-    "term": "das Malen",
-    "meaning_tr": "resim yapma",
-    "meaning_en": "painting",
-    "meaning_uk": "малювання",
-    "meaning_es": "pintar"
-  },
-  {
-    "term": "das Spielen",
-    "meaning_tr": "oynama",
-    "meaning_en": "playing",
-    "meaning_uk": "грати",
-    "meaning_es": "jugar"
-  },
-  {
-    "term": "der Spaziergang",
-    "meaning_tr": "yürüyüş",
-    "meaning_en": "walk",
-    "meaning_uk": "прогулянка",
-    "meaning_es": "paseo"
-  }
-]
+{
+  "title": "Hobbys & Freizeit (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Hobby",
+      "type": "Noun",
+      "example": "Mein liebstes *** ist Lesen.",
+      "meaning_tr": "Hobi",
+      "meaning_en": "Hobby",
+      "meaning_uk": "Хобі",
+      "meaning_es": "Afición"
+    },
+    {
+      "term": "die Freizeit",
+      "type": "Noun",
+      "example": "In meiner *** lese ich gern Bücher.",
+      "meaning_tr": "Boş zaman",
+      "meaning_en": "Free time",
+      "meaning_uk": "Вільний час",
+      "meaning_es": "Tiempo libre"
+    },
+    {
+      "term": "lesen",
+      "type": "Verb",
+      "example": "Ich mag es, Bücher zu ***.",
+      "meaning_tr": "okumak",
+      "meaning_en": "to read",
+      "meaning_uk": "читати",
+      "meaning_es": "leer"
+    },
+    {
+      "term": "hören",
+      "type": "Verb",
+      "example": "Am Abend *** wir oft Musik.",
+      "meaning_tr": "dinlemek",
+      "meaning_en": "to listen",
+      "meaning_uk": "слухати",
+      "meaning_es": "escuchar"
+    },
+    {
+      "term": "sehen",
+      "type": "Verb",
+      "example": "Wir wollen heute Abend einen Film ***.",
+      "meaning_tr": "görmek, izlemek",
+      "meaning_en": "to see, to watch",
+      "meaning_uk": "бачити, дивитися",
+      "meaning_es": "ver"
+    },
+    {
+      "term": "spielen",
+      "type": "Verb",
+      "example": "Die Kinder *** im Garten.",
+      "meaning_tr": "oynamak",
+      "meaning_en": "to play",
+      "meaning_uk": "грати",
+      "meaning_es": "jugar"
+    },
+    {
+      "term": "der Sport",
+      "type": "Noun",
+      "example": "Er macht jeden Tag ***.",
+      "meaning_tr": "Spor",
+      "meaning_en": "Sport",
+      "meaning_uk": "Спорт",
+      "meaning_es": "Deporte"
+    },
+    {
+      "term": "machen",
+      "type": "Verb",
+      "example": "Was *** Sie gern in Ihrer Freizeit?",
+      "meaning_tr": "yapmak",
+      "meaning_en": "to do, to make",
+      "meaning_uk": "робити",
+      "meaning_es": "hacer"
+    },
+    {
+      "term": "gehen",
+      "type": "Verb",
+      "example": "Am Wochenende *** wir oft ins Kino.",
+      "meaning_tr": "gitmek",
+      "meaning_en": "to go",
+      "meaning_uk": "йти, ходити",
+      "meaning_es": "ir"
+    },
+    {
+      "term": "treffen",
+      "type": "Verb",
+      "example": "Ich möchte meine Freunde am Samstag ***.",
+      "meaning_tr": "buluşmak",
+      "meaning_en": "to meet",
+      "meaning_uk": "зустрічати",
+      "meaning_es": "encontrarse"
+    },
+    {
+      "term": "der Freund",
+      "type": "Noun",
+      "example": "Ich gehe mit meinem *** ins Café.",
+      "meaning_tr": "Arkadaş (erkek)",
+      "meaning_en": "Friend (male)",
+      "meaning_uk": "Друг",
+      "meaning_es": "Amigo"
+    },
+    {
+      "term": "die Freundin",
+      "type": "Noun",
+      "example": "Sie hat viele ***.",
+      "meaning_tr": "Arkadaş (kadın)",
+      "meaning_en": "Friend (female)",
+      "meaning_uk": "Подруга",
+      "meaning_es": "Amiga"
+    },
+    {
+      "term": "das Buch",
+      "type": "Noun",
+      "example": "Liest du gern ***?",
+      "meaning_tr": "Kitap",
+      "meaning_en": "Book",
+      "meaning_uk": "Книга",
+      "meaning_es": "Libro"
+    },
+    {
+      "term": "die Musik",
+      "type": "Noun",
+      "example": "Ich höre gern klassische ***.",
+      "meaning_tr": "Müzik",
+      "meaning_en": "Music",
+      "meaning_uk": "Музика",
+      "meaning_es": "Música"
+    },
+    {
+      "term": "der Film",
+      "type": "Noun",
+      "example": "Dieser *** ist sehr interessant.",
+      "meaning_tr": "Film",
+      "meaning_en": "Film",
+      "meaning_uk": "Фільм",
+      "meaning_es": "Película"
+    },
+    {
+      "term": "das Kino",
+      "type": "Noun",
+      "example": "Wir gehen heute Abend ins ***.",
+      "meaning_tr": "Sinema",
+      "meaning_en": "Cinema",
+      "meaning_uk": "Кінотеатр",
+      "meaning_es": "Cine"
+    },
+    {
+      "term": "kochen",
+      "type": "Verb",
+      "example": "Am Wochenende *** ich gern für meine Familie.",
+      "meaning_tr": "yemek pişirmek",
+      "meaning_en": "to cook",
+      "meaning_uk": "готувати",
+      "meaning_es": "cocinar"
+    },
+    {
+      "term": "reisen",
+      "type": "Verb",
+      "example": "Ich möchte gern um die Welt ***.",
+      "meaning_tr": "seyahat etmek",
+      "meaning_en": "to travel",
+      "meaning_uk": "подорожувати",
+      "meaning_es": "viajar"
+    },
+    {
+      "term": "das Reisen",
+      "type": "Noun",
+      "example": "*** ist meine größte Leidenschaft.",
+      "meaning_tr": "Seyahat etmek",
+      "meaning_en": "Travelling",
+      "meaning_uk": "Подорожі",
+      "meaning_es": "Viajar (como sustantivo)"
+    },
+    {
+      "term": "fotografieren",
+      "type": "Verb",
+      "example": "Ich liebe es, Landschaften zu ***.",
+      "meaning_tr": "fotoğraf çekmek",
+      "meaning_en": "to photograph",
+      "meaning_uk": "фотографувати",
+      "meaning_es": "fotografiar"
+    },
+    {
+      "term": "die Party",
+      "type": "Noun",
+      "example": "Wir gehen am Samstag auf eine ***.",
+      "meaning_tr": "Parti",
+      "meaning_en": "Party",
+      "meaning_uk": "Вечірка",
+      "meaning_es": "Fiesta"
+    },
+    {
+      "term": "gemütlich",
+      "type": "Adjective",
+      "example": "Wir hatten einen sehr *** Abend zu Hause.",
+      "meaning_tr": "rahat, hoş",
+      "meaning_en": "cozy, comfortable",
+      "meaning_uk": "затишний",
+      "meaning_es": "acogedor"
+    },
+    {
+      "term": "oft",
+      "type": "Adverb",
+      "example": "Ich gehe *** ins Fitnessstudio.",
+      "meaning_tr": "sık sık",
+      "meaning_en": "often",
+      "meaning_uk": "часто",
+      "meaning_es": "a menudo"
+    },
+    {
+      "term": "manchmal",
+      "type": "Adverb",
+      "example": "*** bleibe ich am Wochenende zu Hause.",
+      "meaning_tr": "bazen",
+      "meaning_en": "sometimes",
+      "meaning_uk": "іноді",
+      "meaning_es": "a veces"
+    },
+    {
+      "term": "gern",
+      "type": "Adverb",
+      "example": "Ich singe sehr ***.",
+      "meaning_tr": "severek",
+      "meaning_en": "gladly, with pleasure",
+      "meaning_uk": "залюбки, з задоволенням",
+      "meaning_es": "con gusto"
+    }
+  ]
+}

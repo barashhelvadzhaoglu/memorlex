@@ -1,0 +1,231 @@
+{
+  "title": "Marketing & Verkauf (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Kunde",
+      "type": "Noun",
+      "example": "Der Verkäufer begrüßt den *** im Laden.",
+      "meaning_tr": "müşteri",
+      "meaning_en": "customer",
+      "meaning_uk": "клієнт",
+      "meaning_es": "cliente"
+    },
+    {
+      "term": "der Verkauf",
+      "type": "Noun",
+      "example": "Der *** der neuen Produkte läuft sehr gut.",
+      "meaning_tr": "satış",
+      "meaning_en": "sale",
+      "meaning_uk": "продаж",
+      "meaning_es": "venta"
+    },
+    {
+      "term": "das Angebot",
+      "type": "Noun",
+      "example": "Ich habe ein gutes *** für ein neues Handy gefunden.",
+      "meaning_tr": "teklif, kampanya",
+      "meaning_en": "offer, deal",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "oferta"
+    },
+    {
+      "term": "die Nachfrage",
+      "type": "Noun",
+      "example": "Die *** nach diesem Produkt ist sehr hoch.",
+      "meaning_tr": "talep",
+      "meaning_en": "demand",
+      "meaning_uk": "попит",
+      "meaning_es": "demanda"
+    },
+    {
+      "term": "die Werbung",
+      "type": "Noun",
+      "example": "Die Firma macht viel *** für ihr neues Produkt.",
+      "meaning_tr": "reklam",
+      "meaning_en": "advertising",
+      "meaning_uk": "реклама",
+      "meaning_es": "publicidad"
+    },
+    {
+      "term": "das Produkt",
+      "type": "Noun",
+      "example": "Dieses *** ist sehr beliebt bei den Kunden.",
+      "meaning_tr": "ürün",
+      "meaning_en": "product",
+      "meaning_uk": "продукт",
+      "meaning_es": "producto"
+    },
+    {
+      "term": "der Preis",
+      "type": "Noun",
+      "example": "Der *** für die Ware ist leider sehr hoch.",
+      "meaning_tr": "fiyat",
+      "meaning_en": "price",
+      "meaning_uk": "ціна",
+      "meaning_es": "precio"
+    },
+    {
+      "term": "der Markt",
+      "type": "Noun",
+      "example": "Der lokale *** bietet frisches Gemüse an.",
+      "meaning_tr": "pazar, piyasa",
+      "meaning_en": "market",
+      "meaning_uk": "ринок",
+      "meaning_es": "mercado"
+    },
+    {
+      "term": "die Firma",
+      "type": "Noun",
+      "example": "Meine *** stellt Autos her.",
+      "meaning_tr": "şirket, firma",
+      "meaning_en": "company, firm",
+      "meaning_uk": "фірма, компанія",
+      "meaning_es": "empresa"
+    },
+    {
+      "term": "das Geschäft",
+      "type": "Noun",
+      "example": "Er hat ein kleines *** für Kleidung.",
+      "meaning_tr": "dükkan, iş",
+      "meaning_en": "shop, business",
+      "meaning_uk": "магазин, бізнес",
+      "meaning_es": "tienda, negocio"
+    },
+    {
+      "term": "die Ware",
+      "type": "Noun",
+      "example": "Die *** wird morgen geliefert.",
+      "meaning_tr": "mal, eşya",
+      "meaning_en": "goods, merchandise",
+      "meaning_uk": "товар",
+      "meaning_es": "mercancía"
+    },
+    {
+      "term": "der Rabatt",
+      "type": "Noun",
+      "example": "Wir bekommen einen *** von 10 Prozent.",
+      "meaning_tr": "indirim",
+      "meaning_en": "discount",
+      "meaning_uk": "знижка",
+      "meaning_es": "descuento"
+    },
+    {
+      "term": "die Lieferung",
+      "type": "Noun",
+      "example": "Die *** der Möbel dauert drei Wochen.",
+      "meaning_tr": "teslimat",
+      "meaning_en": "delivery",
+      "meaning_uk": "доставка",
+      "meaning_es": "entrega"
+    },
+    {
+      "term": "die Bestellung",
+      "type": "Noun",
+      "example": "Ich habe eine *** online aufgegeben.",
+      "meaning_tr": "sipariş",
+      "meaning_en": "order",
+      "meaning_uk": "замовлення",
+      "meaning_es": "pedido"
+    },
+    {
+      "term": "der Service",
+      "type": "Noun",
+      "example": "Der Kundenservice bietet einen guten ***.",
+      "meaning_tr": "servis, hizmet",
+      "meaning_en": "service",
+      "meaning_uk": "сервіс, послуга",
+      "meaning_es": "servicio"
+    },
+    {
+      "term": "kaufen",
+      "type": "Verb",
+      "example": "Ich möchte ein neues Fahrrad ***.",
+      "meaning_tr": "satın almak",
+      "meaning_en": "to buy",
+      "meaning_uk": "купувати",
+      "meaning_es": "comprar"
+    },
+    {
+      "term": "verkaufen",
+      "type": "Verb",
+      "example": "Sie wollen ihr altes Auto ***.",
+      "meaning_tr": "satmak",
+      "meaning_en": "to sell",
+      "meaning_uk": "продавати",
+      "meaning_es": "vender"
+    },
+    {
+      "term": "anbieten",
+      "type": "Verb",
+      "example": "Wir können Ihnen ein spezielles Angebot ***.",
+      "meaning_tr": "sunmak, teklif etmek",
+      "meaning_en": "to offer",
+      "meaning_uk": "пропонувати",
+      "meaning_es": "ofrecer"
+    },
+    {
+      "term": "werben",
+      "type": "Verb",
+      "example": "Die Firma muss mehr für ihr Produkt ***.",
+      "meaning_tr": "reklam yapmak",
+      "meaning_en": "to advertise",
+      "meaning_uk": "рекламувати",
+      "meaning_es": "anunciar, publicitar"
+    },
+    {
+      "term": "beraten",
+      "type": "Verb",
+      "example": "Der Verkäufer kann Sie gut ***.",
+      "meaning_tr": "tavsiye vermek, danışmak",
+      "meaning_en": "to advise, to consult",
+      "meaning_uk": "консультувати, радити",
+      "meaning_es": "aconsejar, asesorar"
+    },
+    {
+      "term": "bestellen",
+      "type": "Verb",
+      "example": "Ich werde das Buch online ***.",
+      "meaning_tr": "sipariş etmek",
+      "meaning_en": "to order",
+      "meaning_uk": "замовляти",
+      "meaning_es": "pedir"
+    },
+    {
+      "term": "liefern",
+      "type": "Verb",
+      "example": "Wir können die Ware direkt nach Hause ***.",
+      "meaning_tr": "teslim etmek",
+      "meaning_en": "to deliver",
+      "meaning_uk": "доставляти",
+      "meaning_es": "entregar"
+    },
+    {
+      "term": "günstig",
+      "type": "Adjective",
+      "example": "Das Angebot ist sehr ***.",
+      "meaning_tr": "uygun fiyatlı, ucuz",
+      "meaning_en": "cheap, affordable, favorable",
+      "meaning_uk": "вигідний, дешевий",
+      "meaning_es": "barato, asequible"
+    },
+    {
+      "term": "teuer",
+      "type": "Adjective",
+      "example": "Dieses Auto ist zu *** für mich.",
+      "meaning_tr": "pahalı",
+      "meaning_en": "expensive",
+      "meaning_uk": "дорогий",
+      "meaning_es": "caro"
+    },
+    {
+      "term": "erfolgreich",
+      "type": "Adjective",
+      "example": "Die Marketingkampagne war sehr ***.",
+      "meaning_tr": "başarılı",
+      "meaning_en": "successful",
+      "meaning_uk": "успішний",
+      "meaning_es": "exitoso"
+    }
+  ]
+}

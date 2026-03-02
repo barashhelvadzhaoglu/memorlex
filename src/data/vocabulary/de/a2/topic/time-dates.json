@@ -1,227 +1,231 @@
-[
-  {
-    "term": "der Tag",
-    "type": "noun",
-    "meaning_tr": "gün",
-    "meaning_en": "day",
-    "meaning_uk": "день",
-    "meaning_es": "día",
-    "example": "Heute ist ein schöner Tag."
-  },
-  {
-    "term": "die Woche",
-    "type": "noun",
-    "meaning_tr": "hafta",
-    "meaning_en": "week",
-    "meaning_uk": "тиждень",
-    "meaning_es": "semana",
-    "example": "Nächste Woche ist mein Geburtstag."
-  },
-  {
-    "term": "der Monat",
-    "type": "noun",
-    "meaning_tr": "ay",
-    "meaning_en": "month",
-    "meaning_uk": "місяць",
-    "meaning_es": "mes",
-    "example": "Dieser Monat hat 30 Tage."
-  },
-  {
-    "term": "das Jahr",
-    "type": "noun",
-    "meaning_tr": "yıl",
-    "meaning_en": "year",
-    "meaning_uk": "рік",
-    "meaning_es": "año",
-    "example": "Das Jahr hat zwölf Monate."
-  },
-  {
-    "term": "die Stunde",
-    "type": "noun",
-    "meaning_tr": "saat (zaman dilimi)",
-    "meaning_en": "hour",
-    "meaning_uk": "година",
-    "meaning_es": "hora",
-    "example": "Eine Stunde hat 60 Minuten."
-  },
-  {
-    "term": "die Minute",
-    "type": "noun",
-    "meaning_tr": "dakika",
-    "meaning_en": "minute",
-    "meaning_uk": "хвилина",
-    "meaning_es": "minuto",
-    "example": "Wir haben nur noch fünf Minuten."
-  },
-  {
-    "term": "die Sekunde",
-    "type": "noun",
-    "meaning_tr": "saniye",
-    "meaning_en": "second",
-    "meaning_uk": "секунда",
-    "meaning_es": "segundo",
-    "example": "Warte eine Sekunde!"
-  },
-  {
-    "term": "der Vormittag",
-    "type": "noun",
-    "meaning_tr": "sabah (öğle öncesi)",
-    "meaning_en": "morning (before noon)",
-    "meaning_uk": "ранкова частина дня (до обіду)",
-    "meaning_es": "mañana (antes del mediodía)",
-    "example": "Am Vormittag gehe ich einkaufen."
-  },
-  {
-    "term": "der Mittag",
-    "type": "noun",
-    "meaning_tr": "öğle",
-    "meaning_en": "noon",
-    "meaning_uk": "полудень",
-    "meaning_es": "mediodía",
-    "example": "Um 12 Uhr ist Mittag."
-  },
-  {
-    "term": "der Nachmittag",
-    "type": "noun",
-    "meaning_tr": "öğleden sonra",
-    "meaning_en": "afternoon",
-    "meaning_uk": "після обіду",
-    "meaning_es": "tarde",
-    "example": "Im Nachmittag lese ich ein Buch."
-  },
-  {
-    "term": "der Abend",
-    "type": "noun",
-    "meaning_tr": "akşam",
-    "meaning_en": "evening",
-    "meaning_uk": "вечір",
-    "meaning_es": "tarde/noche",
-    "example": "Am Abend sehen wir fern."
-  },
-  {
-    "term": "die Nacht",
-    "type": "noun",
-    "meaning_tr": "gece",
-    "meaning_en": "night",
-    "meaning_uk": "ніч",
-    "meaning_es": "noche",
-    "example": "In der Nacht schlafe ich."
-  },
-  {
-    "term": "heute",
-    "type": "adverb",
-    "meaning_tr": "bugün",
-    "meaning_en": "today",
-    "meaning_uk": "сьогодні",
-    "meaning_es": "hoy",
-    "example": "Was machst du heute?"
-  },
-  {
-    "term": "morgen",
-    "type": "adverb",
-    "meaning_tr": "yarın",
-    "meaning_en": "tomorrow",
-    "meaning_uk": "завтра",
-    "meaning_es": "mañana",
-    "example": "Wir treffen uns morgen."
-  },
-  {
-    "term": "gestern",
-    "type": "adverb",
-    "meaning_tr": "dün",
-    "meaning_en": "yesterday",
-    "meaning_uk": "учора",
-    "meaning_es": "ayer",
-    "example": "Gestern war ich im Kino."
-  },
-  {
-    "term": "die Uhrzeit",
-    "type": "noun",
-    "meaning_tr": "saat (zaman)",
-    "meaning_en": "time",
-    "meaning_uk": "час",
-    "meaning_es": "hora",
-    "example": "Wie spät ist es? Was ist die Uhrzeit?"
-  },
-  {
-    "term": "halb",
-    "type": "adverb",
-    "meaning_tr": "buçuk",
-    "meaning_en": "half past",
-    "meaning_uk": "половина (після)",
-    "meaning_es": "y media",
-    "example": "Es ist halb drei."
-  },
-  {
-    "term": "viertel vor",
-    "type": "adverb",
-    "meaning_tr": "çeyrek var",
-    "meaning_en": "quarter to",
-    "meaning_uk": "за чверть",
-    "meaning_es": "cuarto para",
-    "example": "Es ist viertel vor fünf."
-  },
-  {
-    "term": "viertel nach",
-    "type": "adverb",
-    "meaning_tr": "çeyrek geçe",
-    "meaning_en": "quarter past",
-    "meaning_uk": "чверть по",
-    "meaning_es": "y cuarto",
-    "example": "Es ist viertel nach zehn."
-  },
-  {
-    "term": "das Datum",
-    "type": "noun",
-    "meaning_tr": "tarih",
-    "meaning_en": "date",
-    "meaning_uk": "дата",
-    "meaning_es": "fecha",
-    "example": "Was ist heute das Datum?"
-  },
-  {
-    "term": "der Kalender",
-    "type": "noun",
-    "meaning_tr": "takvim",
-    "meaning_en": "calendar",
-    "meaning_uk": "календар",
-    "meaning_es": "calendario",
-    "example": "Schau im Kalender nach."
-  },
-  {
-    "term": "der Montag",
-    "type": "noun",
-    "meaning_tr": "Pazartesi",
-    "meaning_en": "Monday",
-    "meaning_uk": "Понеділок",
-    "meaning_es": "lunes",
-    "example": "Am Montag beginne ich die Woche."
-  },
-  {
-    "term": "der Dienstag",
-    "type": "noun",
-    "meaning_tr": "Salı",
-    "meaning_en": "Tuesday",
-    "meaning_uk": "Вівторок",
-    "meaning_es": "martes",
-    "example": "Dienstag ist der zweite Tag."
-  },
-  {
-    "term": "der Mittwoch",
-    "type": "noun",
-    "meaning_tr": "Çarşamba",
-    "meaning_en": "Wednesday",
-    "meaning_uk": "Середа",
-    "meaning_es": "miércoles",
-    "example": "Wir haben Mittwoch frei."
-  },
-  {
-    "term": "der Donnerstag",
-    "type": "noun",
-    "meaning_tr": "Perşembe",
-    "meaning_en": "Thursday",
-    "meaning_uk": "Четвер",
-    "meaning_es": "jueves",
-    "example": "Donnerstag ist mein Lieblingstag."
-  }
-]
+{
+  "title": "Zeit & Datum (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Zeit",
+      "type": "Noun",
+      "example": "Wir haben leider nicht viel ***.",
+      "meaning_tr": "zaman",
+      "meaning_en": "time",
+      "meaning_uk": "час",
+      "meaning_es": "tiempo"
+    },
+    {
+      "term": "das Datum",
+      "type": "Noun",
+      "example": "Können Sie mir bitte das aktuelle *** nennen?",
+      "meaning_tr": "tarih",
+      "meaning_en": "date",
+      "meaning_uk": "дата",
+      "meaning_es": "fecha"
+    },
+    {
+      "term": "der Tag",
+      "type": "Noun",
+      "example": "Heute ist ein schöner ***.",
+      "meaning_tr": "gün",
+      "meaning_en": "day",
+      "meaning_uk": "день",
+      "meaning_es": "día"
+    },
+    {
+      "term": "die Woche",
+      "type": "Noun",
+      "example": "Wir fahren nächste *** in den Urlaub.",
+      "meaning_tr": "hafta",
+      "meaning_en": "week",
+      "meaning_uk": "тиждень",
+      "meaning_es": "semana"
+    },
+    {
+      "term": "der Monat",
+      "type": "Noun",
+      "example": "Der nächste *** ist Juni.",
+      "meaning_tr": "ay",
+      "meaning_en": "month",
+      "meaning_uk": "місяць",
+      "meaning_es": "mes"
+    },
+    {
+      "term": "das Jahr",
+      "type": "Noun",
+      "example": "Ich freue mich auf das neue ***.",
+      "meaning_tr": "yıl",
+      "meaning_en": "year",
+      "meaning_uk": "рік",
+      "meaning_es": "año"
+    },
+    {
+      "term": "die Stunde",
+      "type": "Noun",
+      "example": "Eine *** hat sechzig Minuten.",
+      "meaning_tr": "saat (zaman birimi)",
+      "meaning_en": "hour",
+      "meaning_uk": "година",
+      "meaning_es": "hora"
+    },
+    {
+      "term": "die Minute",
+      "type": "Noun",
+      "example": "Warten Sie bitte eine ***.",
+      "meaning_tr": "dakika",
+      "meaning_en": "minute",
+      "meaning_uk": "хвилина",
+      "meaning_es": "minuto"
+    },
+    {
+      "term": "die Uhr",
+      "type": "Noun",
+      "example": "Meine *** geht fünf Minuten vor.",
+      "meaning_tr": "saat (alet)",
+      "meaning_en": "clock / watch",
+      "meaning_uk": "годинник",
+      "meaning_es": "reloj"
+    },
+    {
+      "term": "der Kalender",
+      "type": "Noun",
+      "example": "Ich muss einen Termin in meinem *** eintragen.",
+      "meaning_tr": "takvim",
+      "meaning_en": "calendar",
+      "meaning_uk": "календар",
+      "meaning_es": "calendario"
+    },
+    {
+      "term": "heute",
+      "type": "Adverb",
+      "example": "*** Abend gehen wir ins Kino.",
+      "meaning_tr": "bugün",
+      "meaning_en": "today",
+      "meaning_uk": "сьогодні",
+      "meaning_es": "hoy"
+    },
+    {
+      "term": "morgen",
+      "type": "Adverb",
+      "example": "*** habe ich einen wichtigen Termin.",
+      "meaning_tr": "yarın",
+      "meaning_en": "tomorrow",
+      "meaning_uk": "завтра",
+      "meaning_es": "mañana"
+    },
+    {
+      "term": "gestern",
+      "type": "Adverb",
+      "example": "*** hat es den ganzen Tag geregnet.",
+      "meaning_tr": "dün",
+      "meaning_en": "yesterday",
+      "meaning_uk": "вчора",
+      "meaning_es": "ayer"
+    },
+    {
+      "term": "jetzt",
+      "type": "Adverb",
+      "example": "*** muss ich wirklich gehen.",
+      "meaning_tr": "şimdi",
+      "meaning_en": "now",
+      "meaning_uk": "зараз",
+      "meaning_es": "ahora"
+    },
+    {
+      "term": "bald",
+      "type": "Adverb",
+      "example": "Wir sehen uns *** wieder.",
+      "meaning_tr": "yakında",
+      "meaning_en": "soon",
+      "meaning_uk": "скоро",
+      "meaning_es": "pronto"
+    },
+    {
+      "term": "um",
+      "type": "Preposition",
+      "example": "Das Treffen ist *** 10 Uhr.",
+      "meaning_tr": "-de (saat için)",
+      "meaning_en": "at (for time)",
+      "meaning_uk": "о (для часу)",
+      "meaning_es": "a (para la hora)"
+    },
+    {
+      "term": "am",
+      "type": "Preposition",
+      "example": "Wir treffen uns *** Samstag.",
+      "meaning_tr": "-de (günler için)",
+      "meaning_en": "on (for days)",
+      "meaning_uk": "у (для днів)",
+      "meaning_es": "el (para días)"
+    },
+    {
+      "term": "im",
+      "type": "Preposition",
+      "example": "Ich fahre *** Sommer in den Urlaub.",
+      "meaning_tr": "-de (aylar/mevsimler için)",
+      "meaning_en": "in (for months/seasons)",
+      "meaning_uk": "у (для місяців/пір року)",
+      "meaning_es": "en (para meses/estaciones)"
+    },
+    {
+      "term": "seit",
+      "type": "Preposition",
+      "example": "Ich lerne Deutsch *** zwei Jahren.",
+      "meaning_tr": "-den beri",
+      "meaning_en": "since / for",
+      "meaning_uk": "з / протягом",
+      "meaning_es": "desde / hace"
+    },
+    {
+      "term": "bis",
+      "type": "Preposition",
+      "example": "Ich muss *** 17 Uhr arbeiten.",
+      "meaning_tr": "-e kadar",
+      "meaning_en": "until",
+      "meaning_uk": "до",
+      "meaning_es": "hasta"
+    },
+    {
+      "term": "beginnen",
+      "type": "Verb",
+      "example": "Der Film wird um 20 Uhr ***.",
+      "meaning_tr": "başlamak",
+      "meaning_en": "to begin",
+      "meaning_uk": "починати",
+      "meaning_es": "empezar"
+    },
+    {
+      "term": "enden",
+      "type": "Verb",
+      "example": "Der Kurs *** nächste Woche.",
+      "meaning_tr": "bitmek",
+      "meaning_en": "to end",
+      "meaning_uk": "закінчувати",
+      "meaning_es": "terminar"
+    },
+    {
+      "term": "dauern",
+      "type": "Verb",
+      "example": "Wie lange wird die Reise ***?",
+      "meaning_tr": "sürmek",
+      "meaning_en": "to last",
+      "meaning_uk": "тривати",
+      "meaning_es": "durar"
+    },
+    {
+      "term": "früh",
+      "type": "Adverb",
+      "example": "Ich muss morgen *** aufstehen.",
+      "meaning_tr": "erken",
+      "meaning_en": "early",
+      "meaning_uk": "рано",
+      "meaning_es": "temprano"
+    },
+    {
+      "term": "spät",
+      "type": "Adverb",
+      "example": "Es ist schon ***, ich muss nach Hause.",
+      "meaning_tr": "geç",
+      "meaning_en": "late",
+      "meaning_uk": "пізно",
+      "meaning_es": "tarde"
+    }
+  ]
+}

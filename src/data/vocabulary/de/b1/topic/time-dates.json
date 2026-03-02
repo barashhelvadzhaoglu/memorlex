@@ -1,254 +1,321 @@
-[
-  {
-    "term": "der Tag",
-    "meaning_tr": "gün",
-    "meaning_en": "day",
-    "meaning_uk": "день",
-    "meaning_es": "día"
-  },
-  {
-    "term": "die Woche",
-    "meaning_tr": "hafta",
-    "meaning_en": "week",
-    "meaning_uk": "тиждень",
-    "meaning_es": "semana"
-  },
-  {
-    "term": "der Monat",
-    "meaning_tr": "ay",
-    "meaning_en": "month",
-    "meaning_uk": "місяць",
-    "meaning_es": "mes"
-  },
-  {
-    "term": "das Jahr",
-    "meaning_tr": "yıl",
-    "meaning_en": "year",
-    "meaning_uk": "рік",
-    "meaning_es": "año"
-  },
-  {
-    "term": "der Morgen",
-    "meaning_tr": "sabah",
-    "meaning_en": "morning",
-    "meaning_uk": "ранок",
-    "meaning_es": "mañana"
-  },
-  {
-    "term": "der Mittag",
-    "meaning_tr": "öğlen",
-    "meaning_en": "noon",
-    "meaning_uk": "полудень",
-    "meaning_es": "mediodía"
-  },
-  {
-    "term": "der Nachmittag",
-    "meaning_tr": "öğleden sonra",
-    "meaning_en": "afternoon",
-    "meaning_uk": "після обіду",
-    "meaning_es": "tarde"
-  },
-  {
-    "term": "der Abend",
-    "meaning_tr": "akşam",
-    "meaning_en": "evening",
-    "meaning_uk": "вечір",
-    "meaning_es": "tarde"
-  },
-  {
-    "term": "die Nacht",
-    "meaning_tr": "gece",
-    "meaning_en": "night",
-    "meaning_uk": "ніч",
-    "meaning_es": "noche"
-  },
-  {
-    "term": "der Wochentag",
-    "meaning_tr": "hafta içi günü",
-    "meaning_en": "weekday",
-    "meaning_uk": "будній день",
-    "meaning_es": "día laborable"
-  },
-  {
-    "term": "das Wochenende",
-    "meaning_tr": "hafta sonu",
-    "meaning_en": "weekend",
-    "meaning_uk": "вихідний",
-    "meaning_es": "fin de semana"
-  },
-  {
-    "term": "der Montag",
-    "meaning_tr": "Pazartesi",
-    "meaning_en": "Monday",
-    "meaning_uk": "понеділок",
-    "meaning_es": "lunes"
-  },
-  {
-    "term": "der Dienstag",
-    "meaning_tr": "Salı",
-    "meaning_en": "Tuesday",
-    "meaning_uk": "вівторок",
-    "meaning_es": "martes"
-  },
-  {
-    "term": "der Mittwoch",
-    "meaning_tr": "Çarşamba",
-    "meaning_en": "Wednesday",
-    "meaning_uk": "середа",
-    "meaning_es": "miércoles"
-  },
-  {
-    "term": "der Donnerstag",
-    "meaning_tr": "Perşembe",
-    "meaning_en": "Thursday",
-    "meaning_uk": "четвер",
-    "meaning_es": "jueves"
-  },
-  {
-    "term": "der Freitag",
-    "meaning_tr": "Cuma",
-    "meaning_en": "Friday",
-    "meaning_uk": "п'ятниця",
-    "meaning_es": "viernes"
-  },
-  {
-    "term": "der Samstag",
-    "meaning_tr": "Cumartesi",
-    "meaning_en": "Saturday",
-    "meaning_uk": "субота",
-    "meaning_es": "sábado"
-  },
-  {
-    "term": "der Sonntag",
-    "meaning_tr": "Pazar",
-    "meaning_en": "Sunday",
-    "meaning_uk": "неділя",
-    "meaning_es": "domingo"
-  },
-  {
-    "term": "der Januar",
-    "meaning_tr": "Ocak",
-    "meaning_en": "January",
-    "meaning_uk": "січень",
-    "meaning_es": "enero"
-  },
-  {
-    "term": "der Februar",
-    "meaning_tr": "Şubat",
-    "meaning_en": "February",
-    "meaning_uk": "лютий",
-    "meaning_es": "febrero"
-  },
-  {
-    "term": "der März",
-    "meaning_tr": "Mart",
-    "meaning_en": "March",
-    "meaning_uk": "березень",
-    "meaning_es": "marzo"
-  },
-  {
-    "term": "der April",
-    "meaning_tr": "Nisan",
-    "meaning_en": "April",
-    "meaning_uk": "квітень",
-    "meaning_es": "abril"
-  },
-  {
-    "term": "der Mai",
-    "meaning_tr": "Mayıs",
-    "meaning_en": "May",
-    "meaning_uk": "травень",
-    "meaning_es": "mayo"
-  },
-  {
-    "term": "der Juni",
-    "meaning_tr": "Haziran",
-    "meaning_en": "June",
-    "meaning_uk": "червень",
-    "meaning_es": "junio"
-  },
-  {
-    "term": "der Juli",
-    "meaning_tr": "Temmuz",
-    "meaning_en": "July",
-    "meaning_uk": "липень",
-    "meaning_es": "julio"
-  },
-  {
-    "term": "der August",
-    "meaning_tr": "Ağustos",
-    "meaning_en": "August",
-    "meaning_uk": "серпень",
-    "meaning_es": "agosto"
-  },
-  {
-    "term": "der September",
-    "meaning_tr": "Eylül",
-    "meaning_en": "September",
-    "meaning_uk": "вересень",
-    "meaning_es": "septiembre"
-  },
-  {
-    "term": "der Oktober",
-    "meaning_tr": "Ekim",
-    "meaning_en": "October",
-    "meaning_uk": "жовтень",
-    "meaning_es": "octubre"
-  },
-  {
-    "term": "der November",
-    "meaning_tr": "Kasım",
-    "meaning_en": "November",
-    "meaning_uk": "листопад",
-    "meaning_es": "noviembre"
-  },
-  {
-    "term": "der Dezember",
-    "meaning_tr": "Aralık",
-    "meaning_en": "December",
-    "meaning_uk": "грудень",
-    "meaning_es": "diciembre"
-  },
-  {
-    "term": "das Datum",
-    "meaning_tr": "tarih",
-    "meaning_en": "date",
-    "meaning_uk": "дата",
-    "meaning_es": "fecha"
-  },
-  {
-    "term": "die Uhrzeit",
-    "meaning_tr": "saat",
-    "meaning_en": "time",
-    "meaning_uk": "час",
-    "meaning_es": "hora"
-  },
-  {
-    "term": "die Minute",
-    "meaning_tr": "dakika",
-    "meaning_en": "minute",
-    "meaning_uk": "хвилина",
-    "meaning_es": "minuto"
-  },
-  {
-    "term": "die Sekunde",
-    "meaning_tr": "saniye",
-    "meaning_en": "second",
-    "meaning_uk": "секунда",
-    "meaning_es": "segundo"
-  },
-  {
-    "term": "das Viertel",
-    "meaning_tr": "çeyrek",
-    "meaning_en": "quarter (of an hour)",
-    "meaning_uk": "чверть (години)",
-    "meaning_es": "cuarto (de hora)"
-  },
-  {
-    "term": "die halbe Stunde",
-    "meaning_tr": "yarım saat",
-    "meaning_en": "half an hour",
-    "meaning_uk": "півгодини",
-    "meaning_es": "media hora"
-  }
-]
+{
+  "title": "Zeit & Datum (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Tag",
+      "type": "Noun",
+      "meaning_tr": "gün",
+      "meaning_en": "day",
+      "meaning_uk": "день",
+      "meaning_es": "día",
+      "example": "Ich habe heute einen langen ***."
+    },
+    {
+      "term": "die Woche",
+      "type": "Noun",
+      "meaning_tr": "hafta",
+      "meaning_en": "week",
+      "meaning_uk": "тиждень",
+      "meaning_es": "semana",
+      "example": "Nächste *** fahre ich in den Urlaub."
+    },
+    {
+      "term": "der Monat",
+      "type": "Noun",
+      "meaning_tr": "ay",
+      "meaning_en": "month",
+      "meaning_uk": "місяць",
+      "meaning_es": "mes",
+      "example": "Es ist noch ein ganzer *** bis Weihnachten."
+    },
+    {
+      "term": "das Jahr",
+      "type": "Noun",
+      "meaning_tr": "yıl",
+      "meaning_en": "year",
+      "meaning_uk": "рік",
+      "meaning_es": "año",
+      "example": "Wir feiern unser 10. *** Jubiläum."
+    },
+    {
+      "term": "der Morgen",
+      "type": "Noun",
+      "meaning_tr": "sabah",
+      "meaning_en": "morning",
+      "meaning_uk": "ранок",
+      "meaning_es": "mañana",
+      "example": "Ich trinke meinen Kaffee am ***."
+    },
+    {
+      "term": "der Vormittag",
+      "type": "Noun",
+      "meaning_tr": "öğleden önce",
+      "meaning_en": "late morning, forenoon",
+      "meaning_uk": "перед обід",
+      "meaning_es": "media mañana",
+      "example": "Wir treffen uns am *** um 10 Uhr."
+    },
+    {
+      "term": "der Mittag",
+      "type": "Noun",
+      "meaning_tr": "öğle",
+      "meaning_en": "noon, midday",
+      "meaning_uk": "полудень",
+      "meaning_es": "mediodía",
+      "example": "Wir essen um *** zu Mittag."
+    },
+    {
+      "term": "der Nachmittag",
+      "type": "Noun",
+      "meaning_tr": "öğleden sonra",
+      "meaning_en": "afternoon",
+      "meaning_uk": "після обід",
+      "meaning_es": "tarde",
+      "example": "Am *** besuche ich meine Großeltern."
+    },
+    {
+      "term": "der Abend",
+      "type": "Noun",
+      "meaning_tr": "akşam",
+      "meaning_en": "evening",
+      "meaning_uk": "вечір",
+      "meaning_es": "tarde, noche",
+      "example": "Wir gehen heute *** ins Kino."
+    },
+    {
+      "term": "die Nacht",
+      "type": "Noun",
+      "meaning_tr": "gece",
+      "meaning_en": "night",
+      "meaning_uk": "ніч",
+      "meaning_es": "noche",
+      "example": "Ich habe die ganze *** geschlafen."
+    },
+    {
+      "term": "die Mitternacht",
+      "type": "Noun",
+      "meaning_tr": "gece yarısı",
+      "meaning_en": "midnight",
+      "meaning_uk": "опівночі",
+      "meaning_es": "medianoche",
+      "example": "Wir feiern Silvester bis ***."
+    },
+    {
+      "term": "der Zeitpunkt",
+      "type": "Noun",
+      "meaning_tr": "zaman dilimi, an",
+      "meaning_en": "point in time, moment",
+      "meaning_uk": "момент часу",
+      "meaning_es": "momento",
+      "example": "Der *** war perfekt für den Vorschlag."
+    },
+    {
+      "term": "das Datum",
+      "type": "Noun",
+      "meaning_tr": "tarih",
+      "meaning_en": "date",
+      "meaning_uk": "дата",
+      "meaning_es": "fecha",
+      "example": "Welches *** haben wir heute?"
+    },
+    {
+      "term": "die Uhrzeit",
+      "type": "Noun",
+      "meaning_tr": "saat",
+      "meaning_en": "time (on the clock)",
+      "meaning_uk": "час (на годиннику)",
+      "meaning_es": "hora",
+      "example": "Wie spät ist es? Was ist die ***?"
+    },
+    {
+      "term": "die Stunde",
+      "type": "Noun",
+      "meaning_tr": "saat (zaman dilimi)",
+      "meaning_en": "hour",
+      "meaning_uk": "година",
+      "meaning_es": "hora",
+      "example": "Eine Lektion dauert 45 ***."
+    },
+    {
+      "term": "die Minute",
+      "type": "Noun",
+      "meaning_tr": "dakika",
+      "meaning_en": "minute",
+      "meaning_uk": "хвилина",
+      "meaning_es": "minuto",
+      "example": "Ich brauche nur noch ein paar ***."
+    },
+    {
+      "term": "die Sekunde",
+      "type": "Noun",
+      "meaning_tr": "saniye",
+      "meaning_en": "second",
+      "meaning_uk": "секунда",
+      "meaning_es": "segundo",
+      "example": "Warte eine ***!"
+    },
+    {
+      "term": "der Kalender",
+      "type": "Noun",
+      "meaning_tr": "takvim",
+      "meaning_en": "calendar",
+      "meaning_uk": "календар",
+      "meaning_es": "calendario",
+      "example": "Ich trage den Termin in meinen *** ein."
+    },
+    {
+      "term": "der Wecker",
+      "type": "Noun",
+      "meaning_tr": "çalar saat",
+      "meaning_en": "alarm clock",
+      "meaning_uk": "будильник",
+      "meaning_es": "despertador",
+      "example": "Mein *** klingelt um 7 Uhr."
+    },
+    {
+      "term": "die Verspätung",
+      "type": "Noun",
+      "meaning_tr": "gecikme",
+      "meaning_en": "delay",
+      "meaning_uk": "запізнення",
+      "meaning_es": "retraso",
+      "example": "Der Zug hat ***."
+    },
+    {
+      "term": "pünktlich",
+      "type": "Adjective",
+      "meaning_tr": "tam zamanında",
+      "meaning_en": "punctual, on time",
+      "meaning_uk": "пунктуальний, вчасно",
+      "meaning_es": "puntual",
+      "example": "Er ist immer sehr ***."
+    },
+    {
+      "term": "früh",
+      "type": "Adverb",
+      "meaning_tr": "erken",
+      "meaning_en": "early",
+      "meaning_uk": "рано",
+      "meaning_es": "temprano",
+      "example": "Ich stehe jeden Tag sehr *** auf."
+    },
+    {
+      "term": "spät",
+      "type": "Adverb",
+      "meaning_tr": "geç",
+      "meaning_en": "late",
+      "meaning_uk": "пізно",
+      "meaning_es": "tarde",
+      "example": "Er kommt oft *** zur Arbeit."
+    },
+    {
+      "term": "bald",
+      "type": "Adverb",
+      "meaning_tr": "yakında",
+      "meaning_en": "soon",
+      "meaning_uk": "скоро",
+      "meaning_es": "pronto",
+      "example": "Wir sehen uns *** wieder."
+    },
+    {
+      "term": "jetzt",
+      "type": "Adverb",
+      "meaning_tr": "şimdi",
+      "meaning_en": "now",
+      "meaning_uk": "зараз",
+      "meaning_es": "ahora",
+      "example": "Was machst du ***?"
+    },
+    {
+      "term": "gestern",
+      "type": "Adverb",
+      "meaning_tr": "dün",
+      "meaning_en": "yesterday",
+      "meaning_uk": "вчора",
+      "meaning_es": "ayer",
+      "example": "Ich war *** im Kino."
+    },
+    {
+      "term": "heute",
+      "type": "Adverb",
+      "meaning_tr": "bugün",
+      "meaning_en": "today",
+      "meaning_uk": "сьогодні",
+      "meaning_es": "hoy",
+      "example": "*** ist mein Geburtstag."
+    },
+    {
+      "term": "morgen",
+      "type": "Adverb",
+      "meaning_tr": "yarın",
+      "meaning_en": "tomorrow",
+      "meaning_uk": "завтра",
+      "meaning_es": "mañana",
+      "example": "*** treffe ich mich mit Freunden."
+    },
+    {
+      "term": "immer",
+      "type": "Adverb",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "siempre",
+      "example": "Sie ist *** gut gelaunt."
+    },
+    {
+      "term": "nie",
+      "type": "Adverb",
+      "meaning_tr": "asla",
+      "meaning_en": "never",
+      "meaning_uk": "ніколи",
+      "meaning_es": "nunca",
+      "example": "Ich habe *** so etwas gesehen."
+    },
+    {
+      "term": "oft",
+      "type": "Adverb",
+      "meaning_tr": "sık sık",
+      "meaning_en": "often",
+      "meaning_uk": "часто",
+      "meaning_es": "a menudo",
+      "example": "Wir gehen *** spazieren."
+    },
+    {
+      "term": "manchmal",
+      "type": "Adverb",
+      "meaning_tr": "bazen",
+      "meaning_en": "sometimes",
+      "meaning_uk": "іноді",
+      "meaning_es": "a veces",
+      "example": "*** gehe ich gerne ins Museum."
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during, while",
+      "meaning_uk": "під час, поки",
+      "meaning_es": "durante, mientras",
+      "example": "Ich lerne *** des Tages."
+    },
+    {
+      "term": "seit",
+      "type": "Preposition",
+      "meaning_tr": "den beri",
+      "meaning_en": "since, for (a period of time)",
+      "meaning_uk": "відтоді, протягом (періоду часу)",
+      "meaning_es": "desde, hace",
+      "example": "Ich wohne *** fünf Jahren hier."
+    },
+    {
+      "term": "vor",
+      "type": "Preposition",
+      "meaning_tr": "önce (zaman)",
+      "meaning_en": "ago (time)",
+      "meaning_uk": "тому (час)",
+      "meaning_es": "hace (tiempo)",
+      "example": "Das ist zwei Jahren *** passiert."
+    }
+  ]
+}

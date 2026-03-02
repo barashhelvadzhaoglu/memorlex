@@ -1,0 +1,231 @@
+{
+  "title": "Architektur (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Gebäude",
+      "type": "Noun",
+      "meaning_tr": "bina",
+      "meaning_en": "building",
+      "meaning_uk": "будівля",
+      "meaning_es": "edificio",
+      "example": "Das ist ein altes ***."
+    },
+    {
+      "term": "der Bau",
+      "type": "Noun",
+      "meaning_tr": "yapı, inşaat",
+      "meaning_en": "construction, structure",
+      "meaning_uk": "будівництво, конструкція",
+      "meaning_es": "construcción, estructura",
+      "example": "Der *** des Hauses dauert noch."
+    },
+    {
+      "term": "das Haus",
+      "type": "Noun",
+      "meaning_tr": "ev",
+      "meaning_en": "house",
+      "meaning_uk": "дім",
+      "meaning_es": "casa",
+      "example": "Wir haben ein neues *** gekauft."
+    },
+    {
+      "term": "die Wohnung",
+      "type": "Noun",
+      "meaning_tr": "daire, konut",
+      "meaning_en": "apartment, flat",
+      "meaning_uk": "квартира",
+      "meaning_es": "apartamento, piso",
+      "example": "Sie wohnt in einer großen ***."
+    },
+    {
+      "term": "das Dach",
+      "type": "Noun",
+      "meaning_tr": "çatı",
+      "meaning_en": "roof",
+      "meaning_uk": "дах",
+      "meaning_es": "techo",
+      "example": "Das *** ist neu gedeckt."
+    },
+    {
+      "term": "die Wand",
+      "type": "Noun",
+      "meaning_tr": "duvar",
+      "meaning_en": "wall",
+      "meaning_uk": "стіна",
+      "meaning_es": "pared",
+      "example": "Die *** ist weiß gestrichen."
+    },
+    {
+      "term": "der Fenster",
+      "type": "Noun",
+      "meaning_tr": "pencere",
+      "meaning_en": "window",
+      "meaning_uk": "вікно",
+      "meaning_es": "ventana",
+      "example": "Die *** sind sauber."
+    },
+    {
+      "term": "die Tür",
+      "type": "Noun",
+      "meaning_tr": "kapı",
+      "meaning_en": "door",
+      "meaning_uk": "двері",
+      "meaning_es": "puerta",
+      "example": "Bitte schließen Sie die ***."
+    },
+    {
+      "term": "der Boden",
+      "type": "Noun",
+      "meaning_tr": "zemin, yer",
+      "meaning_en": "floor",
+      "meaning_uk": "підлога",
+      "meaning_es": "suelo",
+      "example": "Der *** ist aus Holz."
+    },
+    {
+      "term": "die Treppe",
+      "type": "Noun",
+      "meaning_tr": "merdiven",
+      "meaning_en": "stairs",
+      "meaning_uk": "сходи",
+      "meaning_es": "escalera",
+      "example": "Die *** führt in den ersten Stock."
+    },
+    {
+      "term": "der Garten",
+      "type": "Noun",
+      "meaning_tr": "bahçe",
+      "meaning_en": "garden",
+      "meaning_uk": "сад",
+      "meaning_es": "jardín",
+      "example": "Wir haben einen schönen ***."
+    },
+    {
+      "term": "die Straße",
+      "type": "Noun",
+      "meaning_tr": "sokak, cadde",
+      "meaning_en": "street",
+      "meaning_uk": "вулиця",
+      "meaning_es": "calle",
+      "example": "Das Haus liegt an einer ruhigen ***."
+    },
+    {
+      "term": "der Platz",
+      "type": "Noun",
+      "meaning_tr": "meydan",
+      "meaning_en": "square",
+      "meaning_uk": "площа",
+      "meaning_es": "plaza",
+      "example": "Auf dem *** ist viel los."
+    },
+    {
+      "term": "die Brücke",
+      "type": "Noun",
+      "meaning_tr": "köprü",
+      "meaning_en": "bridge",
+      "meaning_uk": "міст",
+      "meaning_es": "puente",
+      "example": "Die *** verbindet die beiden Stadtteile."
+    },
+    {
+      "term": "der Turm",
+      "type": "Noun",
+      "meaning_tr": "kule",
+      "meaning_en": "tower",
+      "meaning_uk": "вежа",
+      "meaning_es": "torre",
+      "example": "Der *** ist sehr hoch."
+    },
+    {
+      "term": "die Fassade",
+      "type": "Noun",
+      "meaning_tr": "cephe",
+      "meaning_en": "facade",
+      "meaning_uk": "фасад",
+      "meaning_es": "fachada",
+      "example": "Die *** des Gebäudes ist schön."
+    },
+    {
+      "term": "der Balkon",
+      "type": "Noun",
+      "meaning_tr": "balkon",
+      "meaning_en": "balcony",
+      "meaning_uk": "балкон",
+      "meaning_es": "balcón",
+      "example": "Wir frühstücken auf dem ***."
+    },
+    {
+      "term": "die Stadt",
+      "type": "Noun",
+      "meaning_tr": "şehir",
+      "meaning_en": "city",
+      "meaning_uk": "місто",
+      "meaning_es": "ciudad",
+      "example": "Berlin ist eine große ***."
+    },
+    {
+      "term": "modern",
+      "type": "Adjective",
+      "meaning_tr": "modern",
+      "meaning_en": "modern",
+      "meaning_uk": "сучасний",
+      "meaning_es": "moderno",
+      "example": "Das ist ein ***es Gebäude."
+    },
+    {
+      "term": "alt",
+      "type": "Adjective",
+      "meaning_tr": "eski",
+      "meaning_en": "old",
+      "meaning_uk": "старий",
+      "meaning_es": "antiguo",
+      "example": "Das ist ein ***es Haus."
+    },
+    {
+      "term": "groß",
+      "type": "Adjective",
+      "meaning_tr": "büyük",
+      "meaning_en": "big, large",
+      "meaning_uk": "великий",
+      "meaning_es": "grande",
+      "example": "Das ist ein ***es Gebäude."
+    },
+    {
+      "term": "klein",
+      "type": "Adjective",
+      "meaning_tr": "küçük",
+      "meaning_en": "small",
+      "meaning_uk": "малий",
+      "meaning_es": "pequeño",
+      "example": "Das ist ein ***es Haus."
+    },
+    {
+      "term": "neu",
+      "type": "Adjective",
+      "meaning_tr": "yeni",
+      "meaning_en": "new",
+      "meaning_uk": "новий",
+      "meaning_es": "nuevo",
+      "example": "Wir haben ein ***es Haus gekauft."
+    },
+    {
+      "term": "bauen",
+      "type": "Verb",
+      "meaning_tr": "inşa etmek, yapmak",
+      "meaning_en": "to build",
+      "meaning_uk": "будувати",
+      "meaning_es": "construir",
+      "example": "Sie wollen ein neues Haus ***."
+    },
+    {
+      "term": "sehen",
+      "type": "Verb",
+      "meaning_tr": "görmek",
+      "meaning_en": "to see",
+      "meaning_uk": "бачити",
+      "meaning_es": "ver",
+      "example": "Kannst du das ***?"
+    }
+  ]
+}

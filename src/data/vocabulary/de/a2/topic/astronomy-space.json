@@ -1,0 +1,231 @@
+{
+  "title": "Astronomie & Weltraum (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Sonne",
+      "type": "Noun",
+      "meaning_tr": "Güneş",
+      "meaning_en": "the sun",
+      "meaning_uk": "сонце",
+      "meaning_es": "el sol",
+      "example": "Die *** ist sehr hell."
+    },
+    {
+      "term": "der Mond",
+      "type": "Noun",
+      "meaning_tr": "Ay",
+      "meaning_en": "the moon",
+      "meaning_uk": "місяць",
+      "meaning_es": "la luna",
+      "example": "Der *** scheint in der Nacht."
+    },
+    {
+      "term": "die Erde",
+      "type": "Noun",
+      "meaning_tr": "Dünya",
+      "meaning_en": "the Earth",
+      "meaning_uk": "Земля",
+      "meaning_es": "la Tierra",
+      "example": "Wir leben auf der ***."
+    },
+    {
+      "term": "der Stern",
+      "type": "Noun",
+      "meaning_tr": "Yıldız",
+      "meaning_en": "the star",
+      "meaning_uk": "зірка",
+      "meaning_es": "la estrella",
+      "example": "Ein heller *** blinkt am Himmel."
+    },
+    {
+      "term": "der Planet",
+      "type": "Noun",
+      "meaning_tr": "Gezegen",
+      "meaning_en": "the planet",
+      "meaning_uk": "планета",
+      "meaning_es": "el planeta",
+      "example": "Mars ist ein roter ***."
+    },
+    {
+      "term": "der Weltraum",
+      "type": "Noun",
+      "meaning_tr": "Uzay",
+      "meaning_en": "space",
+      "meaning_uk": "космос",
+      "meaning_es": "el espacio",
+      "example": "Astronauten reisen in den ***."
+    },
+    {
+      "term": "das Universum",
+      "type": "Noun",
+      "meaning_tr": "Evren",
+      "meaning_en": "the universe",
+      "meaning_uk": "всесвіт",
+      "meaning_es": "el universo",
+      "example": "Das *** ist sehr groß."
+    },
+    {
+      "term": "die Galaxie",
+      "type": "Noun",
+      "meaning_tr": "Galaksi",
+      "meaning_en": "the galaxy",
+      "meaning_uk": "галактика",
+      "meaning_es": "la galaxia",
+      "example": "Unsere *** heißt Milchstraße."
+    },
+    {
+      "term": "der Astronaut",
+      "type": "Noun",
+      "meaning_tr": "Astronot",
+      "meaning_en": "the astronaut",
+      "meaning_uk": "астронавт",
+      "meaning_es": "el astronauta",
+      "example": "Der *** trägt einen weißen Anzug."
+    },
+    {
+      "term": "das Raumschiff",
+      "type": "Noun",
+      "meaning_tr": "Uzay gemisi",
+      "meaning_en": "the spaceship",
+      "meaning_uk": "космічний корабель",
+      "meaning_es": "la nave espacial",
+      "example": "Ein *** fliegt zum Mond."
+    },
+    {
+      "term": "fliegen",
+      "type": "Verb",
+      "meaning_tr": "Uçmak",
+      "meaning_en": "to fly",
+      "meaning_uk": "летіти",
+      "meaning_es": "volar",
+      "example": "Das Raumschiff kann ***."
+    },
+    {
+      "term": "sehen",
+      "type": "Verb",
+      "meaning_tr": "Görmek",
+      "meaning_en": "to see",
+      "meaning_uk": "бачити",
+      "meaning_es": "ver",
+      "example": "Ich kann die Sterne ***."
+    },
+    {
+      "term": "groß",
+      "type": "Adjective",
+      "meaning_tr": "Büyük",
+      "meaning_en": "big, large",
+      "meaning_uk": "великий",
+      "meaning_es": "grande",
+      "example": "Die Sonne ist ***."
+    },
+    {
+      "term": "klein",
+      "type": "Adjective",
+      "meaning_tr": "Küçük",
+      "meaning_en": "small",
+      "meaning_uk": "малий",
+      "meaning_es": "pequeño",
+      "example": "Manche Sterne sind ***."
+    },
+    {
+      "term": "hell",
+      "type": "Adjective",
+      "meaning_tr": "Parlak",
+      "meaning_en": "bright",
+      "meaning_uk": "яскравий",
+      "meaning_es": "brillante",
+      "example": "Der Mond ist ***."
+    },
+    {
+      "term": "dunkel",
+      "type": "Adjective",
+      "meaning_tr": "Karanlık",
+      "meaning_en": "dark",
+      "meaning_uk": "темний",
+      "meaning_es": "oscuro",
+      "example": "Der Weltraum ist ***."
+    },
+    {
+      "term": "fern",
+      "type": "Adjective",
+      "meaning_tr": "Uzak",
+      "meaning_en": "far",
+      "meaning_uk": "далекий",
+      "meaning_es": "lejos",
+      "example": "Die Planeten sind ***."
+    },
+    {
+      "term": "nah",
+      "type": "Adjective",
+      "meaning_tr": "Yakın",
+      "meaning_en": "near",
+      "meaning_uk": "близький",
+      "meaning_es": "cerca",
+      "example": "Der Mond ist *** zur Erde."
+    },
+    {
+      "term": "der Himmel",
+      "type": "Noun",
+      "meaning_tr": "Gökyüzü",
+      "meaning_en": "the sky",
+      "meaning_uk": "небо",
+      "meaning_es": "el cielo",
+      "example": "Nachts sehen wir Sterne am ***."
+    },
+    {
+      "term": "die Nacht",
+      "type": "Noun",
+      "meaning_tr": "Gece",
+      "meaning_en": "the night",
+      "meaning_uk": "ніч",
+      "meaning_es": "la noche",
+      "example": "Im *** sind die Sterne zu sehen."
+    },
+    {
+      "term": "der Tag",
+      "type": "Noun",
+      "meaning_tr": "Gün",
+      "meaning_en": "the day",
+      "meaning_uk": "день",
+      "es": "el día",
+      "example": "Tagsüber scheint die Sonne."
+    },
+    {
+      "term": "die Erde",
+      "type": "Noun",
+      "meaning_tr": "Dünya",
+      "meaning_en": "the Earth",
+      "meaning_uk": "Земля",
+      "meaning_es": "la Tierra",
+      "example": "*** ist unser Zuhause."
+    },
+    {
+      "term": "die Sonne",
+      "type": "Noun",
+      "meaning_tr": "Güneş",
+      "meaning_en": "the sun",
+      "meaning_uk": "сонце",
+      "meaning_es": "el sol",
+      "example": "Die *** gibt uns Licht."
+    },
+    {
+      "term": "der Mond",
+      "type": "Noun",
+      "meaning_tr": "Ay",
+      "meaning_en": "the moon",
+      "meaning_uk": "місяць",
+      "meaning_es": "la luna",
+      "example": "Wir sehen den *** in der Nacht."
+    },
+    {
+      "term": "der Stern",
+      "type": "Noun",
+      "meaning_tr": "Yıldız",
+      "meaning_en": "the star",
+      "meaning_uk": "зірка",
+      "meaning_es": "la estrella",
+      "example": "Ein *** leuchtet im Himmel."
+    }
+  ]
+}

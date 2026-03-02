@@ -1,0 +1,231 @@
+{
+  "title": "Finanzen & Wirtschaft (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Euro",
+      "type": "Noun",
+      "example": "Ich bezahle mit ***.",
+      "meaning_tr": "Euro",
+      "meaning_en": "Euro",
+      "meaning_uk": "Євро",
+      "meaning_es": "Euro"
+    },
+    {
+      "term": "das Geld",
+      "type": "Noun",
+      "example": "Hast du genug *** für das Kino?",
+      "meaning_tr": "Para",
+      "meaning_en": "Money",
+      "meaning_uk": "Гроші",
+      "meaning_es": "Dinero"
+    },
+    {
+      "term": "bezahlen",
+      "type": "Verb",
+      "example": "Kann ich mit Karte ***?",
+      "meaning_tr": "Ödemek",
+      "meaning_en": "to pay",
+      "meaning_uk": "Платити",
+      "meaning_es": "Pagar"
+    },
+    {
+      "term": "kaufen",
+      "type": "Verb",
+      "example": "Ich möchte ein neues Handy ***.",
+      "meaning_tr": "Satın almak",
+      "meaning_en": "to buy",
+      "meaning_uk": "Купувати",
+      "meaning_es": "Comprar"
+    },
+    {
+      "term": "verkaufen",
+      "type": "Verb",
+      "example": "Er will sein altes Auto ***.",
+      "meaning_tr": "Satmak",
+      "meaning_en": "to sell",
+      "meaning_uk": "Продавати",
+      "meaning_es": "Vender"
+    },
+    {
+      "term": "der Preis",
+      "type": "Noun",
+      "example": "Wie hoch ist der *** für dieses Brot?",
+      "meaning_tr": "Fiyat",
+      "meaning_en": "Price",
+      "meaning_uk": "Ціна",
+      "meaning_es": "Precio"
+    },
+    {
+      "term": "teuer",
+      "type": "Adjective",
+      "example": "Das Auto ist sehr ***.",
+      "meaning_tr": "Pahalı",
+      "meaning_en": "expensive",
+      "meaning_uk": "Дорогий",
+      "meaning_es": "Caro"
+    },
+    {
+      "term": "billig",
+      "type": "Adjective",
+      "example": "Das T-Shirt war *** im Angebot.",
+      "meaning_tr": "Ucuz",
+      "meaning_en": "cheap",
+      "meaning_uk": "Дешевий",
+      "meaning_es": "Barato"
+    },
+    {
+      "term": "der Supermarkt",
+      "type": "Noun",
+      "example": "Wir gehen zum ***, um einzukaufen.",
+      "meaning_tr": "Süpermarket",
+      "meaning_en": "Supermarket",
+      "meaning_uk": "Супермаркет",
+      "meaning_es": "Supermercado"
+    },
+    {
+      "term": "das Geschäft",
+      "type": "Noun",
+      "example": "Das neue *** hat heute geöffnet.",
+      "meaning_tr": "Dükkan, iş",
+      "meaning_en": "Shop, business",
+      "meaning_uk": "Магазин, бізнес",
+      "meaning_es": "Tienda, negocio"
+    },
+    {
+      "term": "die Bank",
+      "type": "Noun",
+      "example": "Ich muss zur ***, um Geld abzuheben.",
+      "meaning_tr": "Banka",
+      "meaning_en": "Bank",
+      "meaning_uk": "Банк",
+      "meaning_es": "Banco"
+    },
+    {
+      "term": "das Konto",
+      "type": "Noun",
+      "example": "Haben Sie ein *** bei uns?",
+      "meaning_tr": "Hesap",
+      "meaning_en": "Account",
+      "meaning_uk": "Рахунок",
+      "meaning_es": "Cuenta"
+    },
+    {
+      "term": "sparen",
+      "type": "Verb",
+      "example": "Ich möchte Geld für eine Reise ***.",
+      "meaning_tr": "Biriktirmek (para)",
+      "meaning_en": "to save (money)",
+      "meaning_uk": "Заощаджувати (гроші)",
+      "meaning_es": "Ahorrar (dinero)"
+    },
+    {
+      "term": "ausgeben",
+      "type": "Verb",
+      "example": "Er gibt viel Geld für Kleidung ***.",
+      "meaning_tr": "Harcamak",
+      "meaning_en": "to spend",
+      "meaning_uk": "Витрачати",
+      "meaning_es": "Gastar"
+    },
+    {
+      "term": "der Lohn",
+      "type": "Noun",
+      "example": "Mein *** wird am Ende des Monats gezahlt.",
+      "meaning_tr": "Maaş, ücret",
+      "meaning_en": "Wage, salary",
+      "meaning_uk": "Заробітна плата",
+      "meaning_es": "Salario, sueldo"
+    },
+    {
+      "term": "arbeiten",
+      "type": "Verb",
+      "example": "Sie *** acht Stunden am Tag.",
+      "meaning_tr": "Çalışmak",
+      "meaning_en": "to work",
+      "meaning_uk": "Працювати",
+      "meaning_es": "Trabajar"
+    },
+    {
+      "term": "arbeitslos",
+      "type": "Adjective",
+      "example": "Viele junge Leute sind ***.",
+      "meaning_tr": "İşsiz",
+      "meaning_en": "unemployed",
+      "meaning_uk": "Безробітний",
+      "meaning_es": "Desempleado"
+    },
+    {
+      "term": "der Job",
+      "type": "Noun",
+      "example": "Er hat einen neuen *** als Lehrer gefunden.",
+      "meaning_tr": "İş",
+      "meaning_en": "Job",
+      "meaning_uk": "Робота",
+      "meaning_es": "Trabajo, empleo"
+    },
+    {
+      "term": "verdienen",
+      "type": "Verb",
+      "example": "Wie viel Geld *** Sie pro Monat?",
+      "meaning_tr": "Kazanmak (para)",
+      "meaning_en": "to earn (money)",
+      "meaning_uk": "Заробляти (гроші)",
+      "meaning_es": "Ganar (dinero)"
+    },
+    {
+      "term": "die Rechnung",
+      "type": "Noun",
+      "example": "Könnten Sie mir bitte die *** bringen?",
+      "meaning_tr": "Fatura",
+      "meaning_en": "Bill, invoice",
+      "meaning_uk": "Рахунок, фактура",
+      "meaning_es": "Factura"
+    },
+    {
+      "term": "die Miete",
+      "type": "Noun",
+      "example": "Die *** für meine Wohnung ist sehr hoch.",
+      "meaning_tr": "Kira",
+      "meaning_en": "Rent",
+      "meaning_uk": "Орендна плата",
+      "meaning_es": "Alquiler"
+    },
+    {
+      "term": "die Wirtschaft",
+      "type": "Noun",
+      "example": "Die deutsche *** ist sehr stark.",
+      "meaning_tr": "Ekonomi",
+      "meaning_en": "Economy",
+      "meaning_uk": "Економіка",
+      "meaning_es": "Economía"
+    },
+    {
+      "term": "der Kunde",
+      "type": "Noun",
+      "example": "Der *** wartet an der Kasse.",
+      "meaning_tr": "Müşteri",
+      "meaning_en": "Customer",
+      "meaning_uk": "Клієнт",
+      "meaning_es": "Cliente"
+    },
+    {
+      "term": "produzieren",
+      "type": "Verb",
+      "example": "Die Fabrik *** Autos.",
+      "meaning_tr": "Üretmek",
+      "meaning_en": "to produce",
+      "meaning_uk": "Виробляти",
+      "meaning_es": "Producir"
+    },
+    {
+      "term": "der Markt",
+      "type": "Noun",
+      "example": "Auf dem *** gibt es frisches Obst und Gemüse.",
+      "meaning_tr": "Pazar",
+      "meaning_en": "Market",
+      "meaning_uk": "Ринок",
+      "meaning_es": "Mercado"
+    }
+  ]
+}

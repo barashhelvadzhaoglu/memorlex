@@ -1,0 +1,231 @@
+{
+  "title": "Psychologie & Gefühle (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Gefühl",
+      "type": "Noun",
+      "example": "Sie hatte ein seltsames ***.",
+      "meaning_tr": "his",
+      "meaning_en": "feeling",
+      "meaning_uk": "почуття",
+      "meaning_es": "sentimiento"
+    },
+    {
+      "term": "fühlen",
+      "type": "Verb",
+      "example": "Ich kann den Schmerz nicht mehr ***.",
+      "meaning_tr": "hissetmek",
+      "meaning_en": "to feel",
+      "meaning_uk": "відчувати",
+      "meaning_es": "sentir"
+    },
+    {
+      "term": "glücklich",
+      "type": "Adjective",
+      "example": "Er ist sehr *** über die Nachrichten.",
+      "meaning_tr": "mutlu",
+      "meaning_en": "happy",
+      "meaning_uk": "щасливий",
+      "meaning_es": "feliz"
+    },
+    {
+      "term": "traurig",
+      "type": "Adjective",
+      "example": "Sie war den ganzen Tag ***.",
+      "meaning_tr": "üzgün",
+      "meaning_en": "sad",
+      "meaning_uk": "сумний",
+      "meaning_es": "triste"
+    },
+    {
+      "term": "die Freude",
+      "type": "Noun",
+      "example": "Ihre Ankunft brachte große ***.",
+      "meaning_tr": "sevinç",
+      "meaning_en": "joy",
+      "meaning_uk": "радість",
+      "meaning_es": "alegría"
+    },
+    {
+      "term": "die Trauer",
+      "type": "Noun",
+      "example": "Nach dem Verlust ihrer Katze empfand sie tiefe ***.",
+      "meaning_tr": "üzüntü",
+      "meaning_en": "sadness, grief",
+      "meaning_uk": "смуток, горе",
+      "meaning_es": "tristeza, duelo"
+    },
+    {
+      "term": "die Angst",
+      "type": "Noun",
+      "example": "Ich habe große *** vor Spinnen.",
+      "meaning_tr": "korku",
+      "meaning_en": "fear",
+      "meaning_uk": "страх",
+      "meaning_es": "miedo"
+    },
+    {
+      "term": "ängstlich",
+      "type": "Adjective",
+      "example": "Das Kind war sehr *** im Dunkeln.",
+      "meaning_tr": "endişeli, korkulu",
+      "meaning_en": "anxious, fearful",
+      "meaning_uk": "тривожний, боязкий",
+      "meaning_es": "ansioso, temeroso"
+    },
+    {
+      "term": "der Stress",
+      "type": "Noun",
+      "example": "Er hat viel *** bei der Arbeit.",
+      "meaning_tr": "stres",
+      "meaning_en": "stress",
+      "meaning_uk": "стрес",
+      "meaning_es": "estrés"
+    },
+    {
+      "term": "gestresst",
+      "type": "Adjective",
+      "example": "Ich bin momentan total ***.",
+      "meaning_tr": "stresli",
+      "meaning_en": "stressed",
+      "meaning_uk": "стресовий, напружений",
+      "meaning_es": "estresado"
+    },
+    {
+      "term": "lieben",
+      "type": "Verb",
+      "example": "Ich *** dich.",
+      "meaning_tr": "sevmek",
+      "meaning_en": "to love",
+      "meaning_uk": "любити",
+      "meaning_es": "amar"
+    },
+    {
+      "term": "die Liebe",
+      "type": "Noun",
+      "example": "Sie sprechen oft über ihre *** zueinander.",
+      "meaning_tr": "aşk, sevgi",
+      "meaning_en": "love",
+      "meaning_uk": "любов",
+      "meaning_es": "amor"
+    },
+    {
+      "term": "hassen",
+      "type": "Verb",
+      "example": "Viele Kinder *** Spinat.",
+      "meaning_tr": "nefret etmek",
+      "meaning_en": "to hate",
+      "meaning_uk": "ненавидіти",
+      "meaning_es": "odiar"
+    },
+    {
+      "term": "wütend",
+      "type": "Adjective",
+      "example": "Er war sehr *** über die Verspätung.",
+      "meaning_tr": "öfkeli",
+      "meaning_en": "angry, furious",
+      "meaning_uk": "розлючений",
+      "meaning_es": "furioso, enojado"
+    },
+    {
+      "term": "sich freuen",
+      "type": "Verb",
+      "example": "Ich *** mich auf das Wochenende.",
+      "meaning_tr": "sevinmek, sabırsızlanmak",
+      "meaning_en": "to be happy, to look forward to",
+      "meaning_uk": "радіти, чекати з нетерпінням",
+      "meaning_es": "alegrarse, esperar con ilusión"
+    },
+    {
+      "term": "weinen",
+      "type": "Verb",
+      "example": "Als der Film endete, musste sie ***.",
+      "meaning_tr": "ağlamak",
+      "meaning_en": "to cry",
+      "meaning_uk": "плакати",
+      "meaning_es": "llorar"
+    },
+    {
+      "term": "lachen",
+      "type": "Verb",
+      "example": "Sie mussten sehr *** über den Witz.",
+      "meaning_tr": "gülmek",
+      "meaning_en": "to laugh",
+      "meaning_uk": "сміятися",
+      "meaning_es": "reír"
+    },
+    {
+      "term": "ruhig",
+      "type": "Adjective",
+      "example": "Bitte bleib *** in dieser Situation.",
+      "meaning_tr": "sakin",
+      "meaning_en": "calm, quiet",
+      "meaning_uk": "спокійний, тихий",
+      "meaning_es": "tranquilo, callado"
+    },
+    {
+      "term": "entspannt",
+      "type": "Adjective",
+      "example": "Nach dem Urlaub fühlte er sich sehr ***.",
+      "meaning_tr": "rahatlamış",
+      "meaning_en": "relaxed",
+      "meaning_uk": "розслаблений",
+      "meaning_es": "relajado"
+    },
+    {
+      "term": "die Entspannung",
+      "type": "Noun",
+      "example": "Yoga ist gut für die ***.",
+      "meaning_tr": "rahatlama",
+      "meaning_en": "relaxation",
+      "meaning_uk": "розслаблення",
+      "meaning_es": "relajación"
+    },
+    {
+      "term": "die Hoffnung",
+      "type": "Noun",
+      "example": "Es gibt immer noch *** auf Besserung.",
+      "meaning_tr": "umut",
+      "meaning_en": "hope",
+      "meaning_uk": "надія",
+      "meaning_es": "esperanza"
+    },
+    {
+      "term": "hoffen",
+      "type": "Verb",
+      "example": "Ich ***, dass alles gut geht.",
+      "meaning_tr": "umut etmek",
+      "meaning_en": "to hope",
+      "meaning_uk": "сподіватися",
+      "meaning_es": "esperar (tener esperanza)"
+    },
+    {
+      "term": "die Sorge",
+      "type": "Noun",
+      "example": "Mach dir keine ***!",
+      "meaning_tr": "endişe",
+      "meaning_en": "worry, concern",
+      "meaning_uk": "турбота, хвилювання",
+      "meaning_es": "preocupación"
+    },
+    {
+      "term": "sich sorgen",
+      "type": "Verb",
+      "example": "Eltern *** sich oft um ihre Kinder.",
+      "meaning_tr": "endişelenmek",
+      "meaning_en": "to worry",
+      "meaning_uk": "хвилюватися, турбуватися",
+      "meaning_es": "preocuparse"
+    },
+    {
+      "term": "einsam",
+      "type": "Adjective",
+      "example": "Manchmal fühle ich mich ein bisschen ***.",
+      "meaning_tr": "yalnız",
+      "meaning_en": "lonely",
+      "meaning_uk": "самотній",
+      "meaning_es": "solitario"
+    }
+  ]
+}

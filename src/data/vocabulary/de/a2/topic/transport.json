@@ -1,177 +1,231 @@
-[
-  {
-    "term": "der Bus",
-    "meaning_tr": "otobüs",
-    "meaning_en": "bus",
-    "meaning_uk": "автобус",
-    "meaning_es": "autobús"
-  },
-  {
-    "term": "die Bahn",
-    "meaning_tr": "tren, hat",
-    "meaning_en": "train, track",
-    "meaning_uk": "потяг, колія",
-    "meaning_es": "tren, vía"
-  },
-  {
-    "term": "das Auto",
-    "meaning_tr": "araba",
-    "meaning_en": "car",
-    "meaning_uk": "автомобіль",
-    "meaning_es": "coche"
-  },
-  {
-    "term": "das Fahrrad",
-    "meaning_tr": "bisiklet",
-    "meaning_en": "bicycle",
-    "meaning_uk": "велосипед",
-    "meaning_es": "bicicleta"
-  },
-  {
-    "term": "der Zug",
-    "meaning_tr": "tren",
-    "meaning_en": "train",
-    "meaning_uk": "потяг",
-    "meaning_es": "tren"
-  },
-  {
-    "term": "der Flughafen",
-    "meaning_tr": "havaalanı",
-    "meaning_en": "airport",
-    "meaning_uk": "аеропорт",
-    "meaning_es": "aeropuerto"
-  },
-  {
-    "term": "der Bahnhof",
-    "meaning_tr": "istasyon",
-    "meaning_en": "station",
-    "meaning_uk": "станція",
-    "meaning_es": "estación"
-  },
-  {
-    "term": "die Bushaltestelle",
-    "meaning_tr": "otobüs durağı",
-    "meaning_en": "bus stop",
-    "meaning_uk": "автобусна зупинка",
-    "meaning_es": "parada de autobús"
-  },
-  {
-    "term": "die Straße",
-    "meaning_tr": "sokak, cadde",
-    "meaning_en": "street, road",
-    "meaning_uk": "вулиця, дорога",
-    "meaning_es": "calle, carretera"
-  },
-  {
-    "term": "die Ampel",
-    "meaning_tr": "trafik ışığı",
-    "meaning_en": "traffic light",
-    "meaning_uk": "світлофор",
-    "meaning_es": "semáforo"
-  },
-  {
-    "term": "der Fußgänger",
-    "meaning_tr": "yaya",
-    "meaning_en": "pedestrian",
-    "meaning_uk": "пішохід",
-    "meaning_es": "peatón"
-  },
-  {
-    "term": "die Kreuzung",
-    "meaning_tr": "kavşak",
-    "meaning_en": "intersection",
-    "meaning_uk": "перехрестя",
-    "meaning_es": "cruce"
-  },
-  {
-    "term": "der Parkplatz",
-    "meaning_tr": "otopark",
-    "meaning_en": "parking lot",
-    "meaning_uk": "парковка",
-    "meaning_es": "aparcamiento"
-  },
-  {
-    "term": "das Ticket",
-    "meaning_tr": "bilet",
-    "meaning_en": "ticket",
-    "meaning_uk": "квиток",
-    "meaning_es": "billete"
-  },
-  {
-    "term": "die Fahrkarte",
-    "meaning_tr": "seyahat bileti",
-    "meaning_en": "travel ticket",
-    "meaning_uk": "проїзний квиток",
-    "meaning_es": "boleto de viaje"
-  },
-  {
-    "term": "der Führerschein",
-    "meaning_tr": "ehliyet",
-    "meaning_en": "driver's license",
-    "meaning_uk": "водійське посвідчення",
-    "meaning_es": "carné de conducir"
-  },
-  {
-    "term": "die Geschwindigkeit",
-    "meaning_tr": "hız",
-    "meaning_en": "speed",
-    "meaning_uk": "швидкість",
-    "meaning_es": "velocidad"
-  },
-  {
-    "term": "der Verkehr",
-    "meaning_tr": "trafik",
-    "meaning_en": "traffic",
-    "meaning_uk": "рух транспорту",
-    "meaning_es": "tráfico"
-  },
-  {
-    "term": "transportieren",
-    "meaning_tr": "taşımak",
-    "meaning_en": "to transport",
-    "meaning_uk": "транспортувати",
-    "meaning_es": "transportar"
-  },
-  {
-    "term": "fahren",
-    "meaning_tr": "gitmek, sürmek",
-    "meaning_en": "to drive, to go",
-    "meaning_uk": "їхати, керувати",
-    "meaning_es": "conducir, ir"
-  },
-  {
-    "term": "steigen",
-    "meaning_tr": "binmek",
-    "meaning_en": "to get on/into",
-    "meaning_uk": "сідати (у транспорт)",
-    "meaning_es": "subir(se)"
-  },
-  {
-    "term": "aussteigen",
-    "meaning_tr": "inmek",
-    "meaning_en": "to get off/out of",
-    "meaning_uk": "виходити (з транспорту)",
-    "meaning_es": "bajar(se)"
-  },
-  {
-    "term": "einsteigen",
-    "meaning_tr": "binmek",
-    "meaning_en": "to get in/on",
-    "meaning_uk": "сідати (у транспорт)",
-    "meaning_es": "entrar(se)"
-  },
-  {
-    "term": "umsteigen",
-    "meaning_tr": "aktarma yapmak",
-    "meaning_en": "to change (train, bus etc.)",
-    "meaning_uk": "пересідати",
-    "meaning_es": "hacer transbordo"
-  },
-  {
-    "term": "die Abfahrt",
-    "meaning_tr": "kalkış",
-    "meaning_en": "departure",
-    "meaning_uk": "відправлення",
-    "meaning_es": "salida"
-  }
-]
+{
+  "title": "Verkehr & Transport (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Auto",
+      "type": "Noun",
+      "example": "Er fährt jeden Tag mit *** zur Arbeit.",
+      "meaning_tr": "araba",
+      "meaning_en": "car",
+      "meaning_uk": "автомобіль",
+      "meaning_es": "coche"
+    },
+    {
+      "term": "der Bus",
+      "type": "Noun",
+      "example": "Der *** fährt alle zehn Minuten.",
+      "meaning_tr": "otobüs",
+      "meaning_en": "bus",
+      "meaning_uk": "автобус",
+      "meaning_es": "autobús"
+    },
+    {
+      "term": "die Bahn",
+      "type": "Noun",
+      "example": "Wir nehmen ***, um in die Stadt zu fahren.",
+      "meaning_tr": "tren, demiryolu",
+      "meaning_en": "train, railway",
+      "meaning_uk": "потяг, залізниця",
+      "meaning_es": "tren, ferrocarril"
+    },
+    {
+      "term": "das Fahrrad",
+      "type": "Noun",
+      "example": "Sie fährt gerne mit ihrem *** im Park.",
+      "meaning_tr": "bisiklet",
+      "meaning_en": "bicycle",
+      "meaning_uk": "велосипед",
+      "meaning_es": "bicicleta"
+    },
+    {
+      "term": "gehen",
+      "type": "Verb",
+      "example": "Ich muss noch schnell zum Bäcker ***.",
+      "meaning_tr": "yürümek",
+      "meaning_en": "to walk",
+      "meaning_uk": "іти",
+      "meaning_es": "caminar"
+    },
+    {
+      "term": "fahren",
+      "type": "Verb",
+      "example": "Kannst du mich bitte zum Bahnhof ***?",
+      "meaning_tr": "sürmek, gitmek (araçla)",
+      "meaning_en": "to drive, to ride, to go (by vehicle)",
+      "meaning_uk": "їхати",
+      "meaning_es": "conducir, ir (en vehículo)"
+    },
+    {
+      "term": "die Haltestelle",
+      "type": "Noun",
+      "example": "Wir warten an der *** auf den nächsten Bus.",
+      "meaning_tr": "durak",
+      "meaning_en": "bus/tram stop",
+      "meaning_uk": "зупинка",
+      "meaning_es": "parada (de autobús/tranvía)"
+    },
+    {
+      "term": "der Bahnhof",
+      "type": "Noun",
+      "example": "Der Zug fährt gleich vom *** ab.",
+      "meaning_tr": "tren istasyonu",
+      "meaning_en": "train station",
+      "meaning_uk": "залізничний вокзал",
+      "meaning_es": "estación de tren"
+    },
+    {
+      "term": "der Flughafen",
+      "type": "Noun",
+      "example": "Mein Flug geht vom internationalen ***.",
+      "meaning_tr": "havaalanı",
+      "meaning_en": "airport",
+      "meaning_uk": "аеропорт",
+      "meaning_es": "aeropuerto"
+    },
+    {
+      "term": "die Straße",
+      "type": "Noun",
+      "example": "Bitte überqueren Sie *** vorsichtig.",
+      "meaning_tr": "cadde, yol",
+      "meaning_en": "street, road",
+      "meaning_uk": "вулиця, дорога",
+      "meaning_es": "calle, carretera"
+    },
+    {
+      "term": "der Weg",
+      "type": "Noun",
+      "example": "Welchen *** nehmen wir zum Park?",
+      "meaning_tr": "yol, patika",
+      "meaning_en": "path, way",
+      "meaning_uk": "шлях, дорога",
+      "meaning_es": "camino"
+    },
+    {
+      "term": "links",
+      "type": "Adverb",
+      "example": "An der nächsten Ampel biegen Sie bitte *** ab.",
+      "meaning_tr": "sola",
+      "meaning_en": "left",
+      "meaning_uk": "ліворуч",
+      "meaning_es": "a la izquierda"
+    },
+    {
+      "term": "rechts",
+      "type": "Adverb",
+      "example": "Mein Haus ist direkt *** neben dem Supermarkt.",
+      "meaning_tr": "sağa",
+      "meaning_en": "right",
+      "meaning_uk": "праворуч",
+      "meaning_es": "a la derecha"
+    },
+    {
+      "term": "geradeaus",
+      "type": "Adverb",
+      "example": "Gehen Sie einfach *** bis zum Platz.",
+      "meaning_tr": "dümdüz",
+      "meaning_en": "straight ahead",
+      "meaning_uk": "прямо",
+      "meaning_es": "todo recto"
+    },
+    {
+      "term": "abbiegen",
+      "type": "Verb",
+      "example": "Sie müssen an der Kreuzung ***.",
+      "meaning_tr": "dönmek, sapmak",
+      "meaning_en": "to turn off, to turn",
+      "meaning_uk": "повертати",
+      "meaning_es": "girar"
+    },
+    {
+      "term": "umsteigen",
+      "type": "Verb",
+      "example": "In der nächsten Station müssen wir ***.",
+      "meaning_tr": "aktarma yapmak",
+      "meaning_en": "to change (trains/buses)",
+      "meaning_uk": "пересідати",
+      "meaning_es": "hacer transbordo"
+    },
+    {
+      "term": "der Fahrplan",
+      "type": "Noun",
+      "example": "Haben Sie den aktuellen *** für die Buslinie?",
+      "meaning_tr": "tarife, sefer çizelgesi",
+      "meaning_en": "timetable",
+      "meaning_uk": "розклад руху",
+      "meaning_es": "horario"
+    },
+    {
+      "term": "die Fahrkarte",
+      "type": "Noun",
+      "example": "Ich brauche eine *** nach Berlin.",
+      "meaning_tr": "bilet",
+      "meaning_en": "ticket",
+      "meaning_uk": "квиток",
+      "meaning_es": "billete"
+    },
+    {
+      "term": "der Stau",
+      "type": "Noun",
+      "example": "Auf der Autobahn gibt es einen langen ***.",
+      "meaning_tr": "trafik sıkışıklığı",
+      "meaning_en": "traffic jam",
+      "meaning_uk": "затор",
+      "meaning_es": "atasco"
+    },
+    {
+      "term": "langsam",
+      "type": "Adjective",
+      "example": "Bitte fahr nicht so ***.",
+      "meaning_tr": "yavaş",
+      "meaning_en": "slow",
+      "meaning_uk": "повільний",
+      "meaning_es": "lento"
+    },
+    {
+      "term": "schnell",
+      "type": "Adjective",
+      "example": "Dieser Zug ist sehr ***.",
+      "meaning_tr": "hızlı",
+      "meaning_en": "fast",
+      "meaning_uk": "швидкий",
+      "meaning_es": "rápido"
+    },
+    {
+      "term": "der Verkehr",
+      "type": "Noun",
+      "example": "Am Morgen ist der *** immer sehr dicht.",
+      "meaning_tr": "trafik, ulaşım",
+      "meaning_en": "traffic, transport",
+      "meaning_uk": "рух, транспорт",
+      "meaning_es": "tráfico, circulación"
+    },
+    {
+      "term": "unterwegs",
+      "type": "Adverb",
+      "example": "Wir sind schon eine Stunde ***.",
+      "meaning_tr": "yolda",
+      "meaning_en": "on the way, en route",
+      "meaning_uk": "в дорозі",
+      "meaning_es": "en camino"
+    },
+    {
+      "term": "abholen",
+      "type": "Verb",
+      "example": "Kannst du mich vom Bahnhof ***?",
+      "meaning_tr": "almak (birini)",
+      "meaning_en": "to pick up",
+      "meaning_uk": "зустрічати, забирати",
+      "meaning_es": "recoger (a alguien)"
+    },
+    {
+      "term": "parken",
+      "type": "Verb",
+      "example": "Hier darf man nicht ***.",
+      "meaning_tr": "park etmek",
+      "meaning_en": "to park",
+      "meaning_uk": "паркувати",
+      "meaning_es": "aparcar"
+    }
+  ]
+}

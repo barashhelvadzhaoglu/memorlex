@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -23,13 +23,13 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y imagemagick fonts-liberation
+          sudo apt-get install -y imagemagick fonts-liberation ffmpeg
           sudo sed -i 's/domain="path" rights="none" pattern="@\*"/domain="path" rights="read|write" pattern="@\*"/g' /etc/ImageMagick-6/policy.xml
 
-      - name: Install Python dependencies
+      - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install google-generativeai gTTS requests Pillow imageio[pyav]
+          pip install google-generativeai gTTS requests Pillow
           pip install "moviepy>=2.0.0"
 
       - name: Step 1 - Generate Story (AI)
@@ -37,17 +37,19 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python scripts/generate_all_levels.py > output.txt
+          python scripts/generate_story.py 2>&1 | tee output.txt
           cat output.txt
-          STORY_PATH=$(grep -o "src/data/stories/de/.*\.json" output.txt | head -1)
+          STORY_PATH=$(grep -o "src/data/stories/de/[^ ]*\.json" output.txt | head -1)
           echo "STORY_FILE=$STORY_PATH" >> $GITHUB_ENV
+          echo "Detected story file: $STORY_PATH"
 
       - name: Step 2 - Generate Storybook Video
         if: env.STORY_FILE != ''
         run: |
-          python scripts/make_storybook.py "${{ env.STORY_FILE }}"
+          echo "Creating video for: ${{ env.STORY_FILE }}"
+          python scripts/create_storybook.py "${{ env.STORY_FILE }}"
 
-      - name: Step 3 - Upload Artifact
+      - name: Step 3 - Upload Video Artifact (3 gün saklanır)
         if: success() && env.STORY_FILE != ''
         uses: actions/upload-artifact@v4
         with:
@@ -55,11 +57,11 @@ jobs:
           path: ./*.mp4
           retention-days: 3
 
-      - name: Push Changes
-        if: success()
+      - name: Push JSON Changes
+        if: success() && env.STORY_FILE != ''
         run: |
           git config --global user.name 'GitHub Action Bot'
           git config --global user.email 'action@github.com'
-          git add src/data/stories/de/*.json
-          git commit -m "🚀 AI Story & Video Updated: ${{ env.STORY_FILE }}" || exit 0
+          git add src/data/stories/de/
+          git commit -m "🚀 AI Story Generated: ${{ env.STORY_FILE }}" || echo "Nothing to commit"
           git push

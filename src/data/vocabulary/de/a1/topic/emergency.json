@@ -5,122 +5,137 @@
     {
       "term": "der Notfall",
       "type": "Noun",
-      "example": "Das ist ein ***. Wir müssen schnell handeln.",
+      "example": "Das ist ein ***.",
       "meaning_tr": "acil durum",
       "meaning_en": "emergency",
-      "meaning_uk": "надзвичайна ситуація"
-    },
-    {
-      "term": "die Hilfe",
-      "type": "Noun",
-      "example": "Ich brauche ***! Können Sie mir bitte helfen?",
-      "meaning_tr": "yardım",
-      "meaning_en": "help",
-      "meaning_uk": "допомога"
-    },
-    {
-      "term": "der Arzt",
-      "type": "Noun",
-      "example": "Ich gehe zum ***, weil ich krank bin.",
-      "meaning_tr": "doktor",
-      "meaning_en": "doctor",
-      "meaning_uk": "лікар"
-    },
-    {
-      "term": "das Krankenhaus",
-      "type": "Noun",
-      "example": "Er ist im ***. Er hat einen Unfall gehabt.",
-      "meaning_tr": "hastane",
-      "meaning_en": "hospital",
-      "meaning_uk": "лікарня"
+      "meaning_uk": "надзвичайна ситуація",
+      "meaning_es": "emergencia"
     },
     {
       "term": "die Polizei",
       "type": "Noun",
-      "example": "Rufen Sie die ***! Es gibt ein Problem.",
+      "example": "Bitte rufen Sie die *** an.",
       "meaning_tr": "polis",
       "meaning_en": "police",
-      "meaning_uk": "поліція"
+      "meaning_uk": "поліція",
+      "meaning_es": "policía"
+    },
+    {
+      "term": "die Feuerwehr",
+      "type": "Noun",
+      "example": "Die *** kommt schnell.",
+      "meaning_tr": "itfaiye",
+      "meaning_en": "fire department",
+      "meaning_uk": "пожежна служба",
+      "meaning_es": "bomberos"
     },
     {
       "term": "der Krankenwagen",
       "type": "Noun",
-      "example": "Wir brauchen einen *** für den Verletzten.",
+      "example": "Wir brauchen einen ***.",
       "meaning_tr": "ambulans",
       "meaning_en": "ambulance",
-      "meaning_uk": "швидка допомога"
+      "meaning_uk": "швидка допомога",
+      "meaning_es": "ambulancia"
     },
     {
-      "term": "die Apotheke",
+      "term": "der Arzt",
       "type": "Noun",
-      "example": "Wo ist die nächste ***? Ich brauche Medikamente.",
-      "meaning_tr": "eczane",
-      "meaning_en": "pharmacy",
-      "meaning_uk": "аптека"
+      "example": "Der *** hilft mir.",
+      "meaning_tr": "doktor",
+      "meaning_en": "doctor",
+      "meaning_uk": "лікар",
+      "meaning_es": "médico"
     },
     {
-      "term": "die Nummer",
+      "term": "das Krankenhaus",
       "type": "Noun",
-      "example": "Was ist die Notruf-***?",
-      "meaning_tr": "numara",
-      "meaning_en": "number",
-      "meaning_uk": "номер"
+      "example": "Sie ist im ***.",
+      "meaning_tr": "hastane",
+      "meaning_en": "hospital",
+      "meaning_uk": "лікарня",
+      "meaning_es": "hospital"
+    },
+    {
+      "term": "die Hilfe",
+      "type": "Noun",
+      "example": "Ich brauche ***.",
+      "meaning_tr": "yardım",
+      "meaning_en": "help",
+      "meaning_uk": "допомога",
+      "meaning_es": "ayuda"
     },
     {
       "term": "helfen",
       "type": "Verb",
-      "example": "Können Sie mir bitte ***?",
+      "example": "Können Sie mir ***?",
       "meaning_tr": "yardım etmek",
       "meaning_en": "to help",
-      "meaning_uk": "допомагати"
-    },
-    {
-      "term": "brauchen",
-      "type": "Verb",
-      "example": "Ich *** Wasser und Essen.",
-      "meaning_tr": "ihtiyacı olmak",
-      "meaning_en": "to need",
-      "meaning_uk": "потребувати"
-    },
-    {
-      "term": "anrufen",
-      "type": "Verb",
-      "example": "Ich muss schnell meinen Vater ***.",
-      "meaning_tr": "aramak (telefonla)",
-      "meaning_en": "to call (on the phone)",
-      "meaning_uk": "телефонувати"
-    },
-    {
-      "term": "krank",
-      "type": "Adjective",
-      "example": "Mir geht es nicht gut, ich bin ***.",
-      "meaning_tr": "hasta",
-      "meaning_en": "sick",
-      "meaning_uk": "хворий"
-    },
-    {
-      "term": "wichtig",
-      "type": "Adjective",
-      "example": "Es ist ***, die Notrufnummer zu kennen.",
-      "meaning_tr": "önemli",
-      "meaning_en": "important",
-      "meaning_uk": "важливий"
-    },
-    {
-      "term": "schnell",
-      "type": "Adjective",
-      "example": "Wir müssen *** zum Arzt gehen.",
-      "meaning_tr": "hızlı",
-      "meaning_en": "fast, quickly",
-      "meaning_uk": "швидкий, швидко"
+      "meaning_uk": "допомагати",
+      "meaning_es": "ayudar"
     },
     {
       "term": "rufen",
       "type": "Verb",
-      "example": "Sie muss laut um ***.",
-      "meaning_tr": "çağırmak, seslenmek",
-      "meaning_en": "to call, to shout",
-      "meaning_uk": "кликати, кричати"
+      "example": "Ich muss ***.",
+      "meaning_tr": "aramak",
+      "meaning_en": "to call",
+      "meaning_uk": "кликати",
+      "meaning_es": "llamar"
+    },
+    {
+      "term": "der Schmerz",
+      "type": "Noun",
+      "example": "Ich habe ***.",
+      "meaning_tr": "ağrı",
+      "meaning_en": "pain",
+      "meaning_uk": "біль",
+      "meaning_es": "dolor"
+    },
+    {
+      "term": "krank",
+      "type": "Adjective",
+      "example": "Ich bin ***.",
+      "meaning_tr": "hasta",
+      "meaning_en": "sick",
+      "meaning_uk": "хворий",
+      "meaning_es": "enfermo"
+    },
+    {
+      "term": "sicher",
+      "type": "Adjective",
+      "example": "Das ist nicht ***.",
+      "meaning_tr": "güvenli",
+      "meaning_en": "safe",
+      "meaning_uk": "безпечний",
+      "meaning_es": "seguro"
+    },
+    {
+      "term": "vorsichtig",
+      "type": "Adjective",
+      "example": "Sei ***!",
+      "meaning_tr": "dikkatli",
+      "meaning_en": "careful",
+      "meaning_uk": "обережний",
+      "meaning_es": "con cuidado"
+    },
+    {
+      "term": "jetzt",
+      "type": "Adverb",
+      "example": "Wir brauchen *** Hilfe.",
+      "meaning_tr": "şimdi",
+      "meaning_en": "now",
+      "meaning_uk": "зараз",
+      "meaning_es": "ahora"
+    },
+    {
+      "term": "bitte",
+      "type": "Adverb",
+      "example": "***, rufen Sie die Polizei.",
+      "meaning_tr": "lütfen",
+      "meaning_en": "please",
+      "meaning_uk": "будь ласка",
+      "meaning_es": "por favor"
     }
   ]
 }

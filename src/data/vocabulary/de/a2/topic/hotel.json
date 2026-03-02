@@ -1,0 +1,231 @@
+{
+  "title": "Im Hotel (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Zimmer",
+      "type": "Noun",
+      "example": "Ich brauche ***.",
+      "meaning_tr": "oda",
+      "meaning_en": "room",
+      "meaning_uk": "кімната",
+      "meaning_es": "la habitación"
+    },
+    {
+      "term": "die Rezeption",
+      "type": "Noun",
+      "example": "Bitte gehen Sie zur ***.",
+      "meaning_tr": "resepsiyon",
+      "meaning_en": "reception",
+      "meaning_uk": "рецепція",
+      "meaning_es": "la recepción"
+    },
+    {
+      "term": "der Schlüssel",
+      "type": "Noun",
+      "example": "Hier ist Ihr ***.",
+      "meaning_tr": "anahtar",
+      "meaning_en": "key",
+      "meaning_uk": "ключ",
+      "meaning_es": "la llave"
+    },
+    {
+      "term": "das Bett",
+      "type": "Noun",
+      "example": "Das *** ist sehr bequem.",
+      "meaning_tr": "yatak",
+      "meaning_en": "bed",
+      "meaning_uk": "ліжко",
+      "meaning_es": "la cama"
+    },
+    {
+      "term": "das Bad",
+      "type": "Noun",
+      "example": "Das *** hat eine Dusche.",
+      "meaning_tr": "banyo",
+      "meaning_en": "bathroom",
+      "meaning_uk": "ванна кімната",
+      "meaning_es": "el baño"
+    },
+    {
+      "term": "die Dusche",
+      "type": "Noun",
+      "example": "Es gibt eine *** im ***.",
+      "meaning_tr": "duş",
+      "meaning_en": "shower",
+      "meaning_uk": "душ",
+      "meaning_es": "la ducha"
+    },
+    {
+      "term": "das Frühstück",
+      "type": "Noun",
+      "example": "Das *** ist im Preis inbegriffen.",
+      "meaning_tr": "kahvaltı",
+      "meaning_en": "breakfast",
+      "meaning_uk": "сніданок",
+      "meaning_es": "el desayuno"
+    },
+    {
+      "term": "das Abendessen",
+      "type": "Noun",
+      "example": "Wir essen *** im Hotelrestaurant.",
+      "meaning_tr": "akşam yemeği",
+      "meaning_en": "dinner",
+      "meaning_uk": "вечеря",
+      "meaning_es": "la cena"
+    },
+    {
+      "term": "das Restaurant",
+      "type": "Noun",
+      "example": "Das *** ist geöffnet.",
+      "meaning_tr": "restoran",
+      "meaning_en": "restaurant",
+      "meaning_uk": "ресторан",
+      "meaning_es": "el restaurante"
+    },
+    {
+      "term": "die Buchung",
+      "type": "Noun",
+      "example": "Ich möchte eine *** machen.",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "booking/reservation",
+      "meaning_uk": "бронювання",
+      "meaning_es": "la reserva"
+    },
+    {
+      "term": "einchecken",
+      "type": "Verb",
+      "example": "Wir möchten ***.",
+      "meaning_tr": "giriş yapmak",
+      "meaning_en": "to check in",
+      "meaning_uk": "заселитися",
+      "meaning_es": "registrarse"
+    },
+    {
+      "term": "auschecken",
+      "type": "Verb",
+      "example": "Wir müssen morgen ***.",
+      "meaning_tr": "çıkış yapmak",
+      "meaning_en": "to check out",
+      "meaning_uk": "виселитися",
+      "meaning_es": "salir"
+    },
+    {
+      "term": "buchen",
+      "type": "Verb",
+      "example": "Ich möchte ein ***.",
+      "meaning_tr": "rezervasyon yapmak",
+      "meaning_en": "to book",
+      "meaning_uk": "бронювати",
+      "meaning_es": "reservar"
+    },
+    {
+      "term": "bezahlen",
+      "type": "Verb",
+      "example": "Ich muss die ***.",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to pay",
+      "meaning_uk": "платити",
+      "meaning_es": "pagar"
+    },
+    {
+      "term": "reservieren",
+      "type": "Verb",
+      "example": "Ich möchte einen Tisch ***.",
+      "meaning_tr": "ayırtmak",
+      "meaning_en": "to reserve",
+      "meaning_uk": "зарезервувати",
+      "meaning_es": "reservar"
+    },
+    {
+      "term": "sauber",
+      "type": "Adjective",
+      "example": "Das *** ist ***.",
+      "meaning_tr": "temiz",
+      "meaning_en": "clean",
+      "meaning_uk": "чистий",
+      "meaning_es": "limpio"
+    },
+    {
+      "term": "gemütlich",
+      "type": "Adjective",
+      "example": "Das *** ist ***.",
+      "meaning_tr": "rahat",
+      "meaning_en": "cozy/comfortable",
+      "meaning_uk": "затишний/комфортний",
+      "meaning_es": "acogedor/cómodo"
+    },
+    {
+      "term": "frei",
+      "type": "Adjective",
+      "example": "Haben Sie ein *** ***?",
+      "meaning_tr": "boş",
+      "meaning_en": "free/available",
+      "meaning_uk": "вільний/доступний",
+      "meaning_es": "libre/disponible"
+    },
+    {
+      "term": "bequem",
+      "type": "Adjective",
+      "example": "Das *** ist sehr ***.",
+      "meaning_tr": "rahat",
+      "meaning_en": "comfortable",
+      "meaning_uk": "зручний",
+      "meaning_es": "cómodo"
+    },
+    {
+      "term": "direkt",
+      "type": "Adverb",
+      "example": "Das Hotel ist *** am Strand.",
+      "meaning_tr": "doğrudan",
+      "meaning_en": "directly",
+      "meaning_uk": "прямо",
+      "meaning_es": "directamente"
+    },
+    {
+      "term": "hier",
+      "type": "Adverb",
+      "example": "Mein *** ist ***.",
+      "meaning_tr": "burada",
+      "meaning_en": "here",
+      "meaning_uk": "тут",
+      "meaning_es": "aquí"
+    },
+    {
+      "term": "dort",
+      "type": "Adverb",
+      "example": "Das *** ist ***.",
+      "meaning_tr": "orada",
+      "meaning_en": "there",
+      "meaning_uk": "там",
+      "meaning_es": "allí"
+    },
+    {
+      "term": "zusammen",
+      "type": "Adverb",
+      "example": "Wir gehen *** essen.",
+      "meaning_tr": "birlikte",
+      "meaning_en": "together",
+      "meaning_uk": "разом",
+      "meaning_es": "juntos"
+    },
+    {
+      "term": "bis",
+      "type": "Preposition",
+      "example": "Wir bleiben *** Sonntag.",
+      "meaning_tr": "kadar",
+      "meaning_en": "until",
+      "meaning_uk": "до",
+      "meaning_es": "hasta"
+    },
+    {
+      "term": "mit",
+      "type": "Preposition",
+      "example": "Ich reise *** meinem Mann.",
+      "meaning_tr": "ile",
+      "meaning_en": "with",
+      "meaning_uk": "з",
+      "meaning_es": "con"
+    }
+  ]
+}

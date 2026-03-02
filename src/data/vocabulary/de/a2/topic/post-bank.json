@@ -1,0 +1,231 @@
+{
+  "title": "Post & Bank (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Brief",
+      "type": "Noun",
+      "example": "Ich muss einen *** an meine Familie schicken.",
+      "meaning_tr": "mektup",
+      "meaning_en": "letter",
+      "meaning_uk": "лист",
+      "meaning_es": "carta"
+    },
+    {
+      "term": "das Paket",
+      "type": "Noun",
+      "example": "Dieses *** ist für dich, es kommt aus Deutschland.",
+      "meaning_tr": "paket",
+      "meaning_en": "parcel",
+      "meaning_uk": "посилка",
+      "meaning_es": "paquete"
+    },
+    {
+      "term": "die Briefmarke",
+      "type": "Noun",
+      "example": "Für diesen Brief brauche ich eine neue ***.",
+      "meaning_tr": "pul",
+      "meaning_en": "stamp",
+      "meaning_uk": "марка",
+      "meaning_es": "sello"
+    },
+    {
+      "term": "der Umschlag",
+      "type": "Noun",
+      "example": "Kannst du mir bitte einen *** für den Brief geben?",
+      "meaning_tr": "zarf",
+      "meaning_en": "envelope",
+      "meaning_uk": "конверт",
+      "meaning_es": "sobre"
+    },
+    {
+      "term": "verschicken",
+      "type": "Verb",
+      "example": "Ich muss das Paket heute noch ***.",
+      "meaning_tr": "göndermek",
+      "meaning_en": "to send",
+      "meaning_uk": "відправляти",
+      "meaning_es": "enviar"
+    },
+    {
+      "term": "abholen",
+      "type": "Verb",
+      "example": "Du kannst dein Paket morgen bei der Post ***.",
+      "meaning_tr": "teslim almak, almak",
+      "meaning_en": "to pick up",
+      "meaning_uk": "забрати",
+      "meaning_es": "recoger"
+    },
+    {
+      "term": "das Postamt",
+      "type": "Noun",
+      "example": "Das nächste *** ist nicht weit von hier.",
+      "meaning_tr": "postane",
+      "meaning_en": "post office",
+      "meaning_uk": "поштове відділення",
+      "meaning_es": "oficina de correos"
+    },
+    {
+      "term": "der Absender",
+      "type": "Noun",
+      "example": "Auf dem Brief steht kein ***.",
+      "meaning_tr": "gönderen",
+      "meaning_en": "sender",
+      "meaning_uk": "відправник",
+      "meaning_es": "remitente"
+    },
+    {
+      "term": "der Empfänger",
+      "type": "Noun",
+      "example": "Der Name des ***s ist auf dem Paket deutlich lesbar.",
+      "meaning_tr": "alıcı",
+      "meaning_en": "recipient",
+      "meaning_uk": "одержувач",
+      "meaning_es": "destinatario"
+    },
+    {
+      "term": "das Einschreiben",
+      "type": "Noun",
+      "example": "Wichtige Dokumente schicke ich immer als ***.",
+      "meaning_tr": "taahhütlü mektup",
+      "meaning_en": "registered mail",
+      "meaning_uk": "рекомендований лист",
+      "meaning_es": "correo certificado"
+    },
+    {
+      "term": "die Postleitzahl",
+      "type": "Noun",
+      "example": "Vergessen Sie nicht, die korrekte *** anzugeben.",
+      "meaning_tr": "posta kodu",
+      "meaning_en": "postcode",
+      "meaning_uk": "поштовий індекс",
+      "meaning_es": "código postal"
+    },
+    {
+      "term": "das Konto",
+      "type": "Noun",
+      "example": "Ich möchte ein neues *** bei dieser Bank eröffnen.",
+      "meaning_tr": "hesap",
+      "meaning_en": "account",
+      "meaning_uk": "рахунок",
+      "meaning_es": "cuenta"
+    },
+    {
+      "term": "überweisen",
+      "type": "Verb",
+      "example": "Kannst du mir das Geld auf mein Konto ***",
+      "meaning_tr": "havale etmek",
+      "meaning_en": "to transfer (money)",
+      "meaning_uk": "переказувати",
+      "meaning_es": "transferir"
+    },
+    {
+      "term": "abheben",
+      "type": "Verb",
+      "example": "Ich muss noch Geld am Automaten ***.",
+      "meaning_tr": "para çekmek",
+      "meaning_en": "to withdraw (money)",
+      "meaning_uk": "знімати гроші",
+      "meaning_es": "retirar dinero"
+    },
+    {
+      "term": "einzahlen",
+      "type": "Verb",
+      "example": "Ich möchte 100 Euro auf mein Konto ***.",
+      "meaning_tr": "para yatırmak",
+      "meaning_en": "to deposit (money)",
+      "meaning_uk": "вносити гроші",
+      "meaning_es": "depositar dinero"
+    },
+    {
+      "term": "die Bank",
+      "type": "Noun",
+      "example": "Ich gehe zur ***, um meine Überweisung zu machen.",
+      "meaning_tr": "banka",
+      "meaning_en": "bank",
+      "meaning_uk": "банк",
+      "meaning_es": "banco"
+    },
+    {
+      "term": "der Geldautomat",
+      "type": "Noun",
+      "example": "Der nächste *** ist gleich um die Ecke.",
+      "meaning_tr": "bankamatik",
+      "meaning_en": "ATM",
+      "meaning_uk": "банкомат",
+      "meaning_es": "cajero automático"
+    },
+    {
+      "term": "die EC-Karte",
+      "type": "Noun",
+      "example": "Ich habe meine *** vergessen und kann nicht bezahlen.",
+      "meaning_tr": "banka kartı (Almanya'da debit kart için yaygın)",
+      "meaning_en": "debit card (common in Germany)",
+      "meaning_uk": "дебетова картка",
+      "meaning_es": "tarjeta de débito"
+    },
+    {
+      "term": "der Dauerauftrag",
+      "type": "Noun",
+      "example": "Ich habe einen *** für die Miete eingerichtet.",
+      "meaning_tr": "düzenli ödeme talimatı",
+      "meaning_en": "standing order",
+      "meaning_uk": "постійне доручення",
+      "meaning_es": "orden permanente"
+    },
+    {
+      "term": "der Kredit",
+      "type": "Noun",
+      "example": "Für das neue Auto nehmen wir einen *** auf.",
+      "meaning_tr": "kredi",
+      "meaning_en": "loan, credit",
+      "meaning_uk": "кредит",
+      "meaning_es": "crédito, préstamo"
+    },
+    {
+      "term": "das Online-Banking",
+      "type": "Noun",
+      "example": "Mit *** kann ich meine Bankgeschäfte bequem von zu Hause erledigen.",
+      "meaning_tr": "internet bankacılığı",
+      "meaning_en": "online banking",
+      "meaning_uk": "онлайн-банкінг",
+      "meaning_es": "banca en línea"
+    },
+    {
+      "term": "die Überweisung",
+      "type": "Noun",
+      "example": "Ich muss noch die *** für die Stromrechnung machen.",
+      "meaning_tr": "havale",
+      "meaning_en": "bank transfer",
+      "meaning_uk": "банківський переказ",
+      "meaning_es": "transferencia bancaria"
+    },
+    {
+      "term": "die Filiale",
+      "type": "Noun",
+      "example": "Unsere Bank hat viele ***n in der Stadt.",
+      "meaning_tr": "şube",
+      "meaning_en": "branch (of a bank/store)",
+      "meaning_uk": "філія",
+      "meaning_es": "sucursal"
+    },
+    {
+      "term": "der Kontostand",
+      "type": "Noun",
+      "example": "Ich möchte meinen aktuellen *** überprüfen.",
+      "meaning_tr": "hesap bakiyesi",
+      "meaning_en": "account balance",
+      "meaning_uk": "стан рахунку",
+      "meaning_es": "saldo de la cuenta"
+    },
+    {
+      "term": "unterschreiben",
+      "type": "Verb",
+      "example": "Bitte vergessen Sie nicht, das Formular zu ***.",
+      "meaning_tr": "imzalamak",
+      "meaning_en": "to sign",
+      "meaning_uk": "підписувати",
+      "meaning_es": "firmar"
+    }
+  ]
+}

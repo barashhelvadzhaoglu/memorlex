@@ -1,177 +1,231 @@
-[
-  {
-    "term": "die Reise",
-    "meaning_tr": "seyahat",
-    "meaning_en": "journey, trip, travel",
-    "meaning_uk": "подорож",
-    "meaning_es": "viaje"
-  },
-  {
-    "term": "der Urlaub",
-    "meaning_tr": "tatil",
-    "meaning_en": "holiday, vacation",
-    "meaning_uk": "відпустка",
-    "meaning_es": "vacaciones"
-  },
-  {
-    "term": "der Koffer",
-    "meaning_tr": "valiz",
-    "meaning_en": "suitcase",
-    "meaning_uk": "валі́за",
-    "meaning_es": "maleta"
-  },
-  {
-    "term": "die Tasche",
-    "meaning_tr": "çanta",
-    "meaning_en": "bag",
-    "meaning_uk": "сумка",
-    "meaning_es": "bolsa"
-  },
-  {
-    "term": "der Rucksack",
-    "meaning_tr": "sırt çantası",
-    "meaning_en": "backpack",
-    "meaning_uk": "рюкзак",
-    "meaning_es": "mochila"
-  },
-  {
-    "term": "das Flugzeug",
-    "meaning_tr": "uçak",
-    "meaning_en": "airplane",
-    "meaning_uk": "літак",
-    "meaning_es": "avión"
-  },
-  {
-    "term": "der Zug",
-    "meaning_tr": "tren",
-    "meaning_en": "train",
-    "meaning_uk": "потяг",
-    "meaning_es": "tren"
-  },
-  {
-    "term": "das Auto",
-    "meaning_tr": "araba",
-    "meaning_en": "car",
-    "meaning_uk": "автомобі́ль",
-    "meaning_es": "coche"
-  },
-  {
-    "term": "das Hotel",
-    "meaning_tr": "otel",
-    "meaning_en": "hotel",
-    "meaning_uk": "готель",
-    "meaning_es": "hotel"
-  },
-  {
-    "term": "die Unterkunft",
-    "meaning_tr": "konaklama yeri",
-    "meaning_en": "accommodation",
-    "meaning_uk": "житло",
-    "meaning_es": "alojamiento"
-  },
-  {
-    "term": "der Strand",
-    "meaning_tr": "plaj",
-    "meaning_en": "beach",
-    "meaning_uk": "пляж",
-    "meaning_es": "playa"
-  },
-  {
-    "term": "die Stadt",
-    "meaning_tr": "şehir",
-    "meaning_en": "city, town",
-    "meaning_uk": "місто",
-    "meaning_es": "ciudad"
-  },
-  {
-    "term": "das Land",
-    "meaning_tr": "ülke / kara",
-    "meaning_en": "country / land",
-    "meaning_uk": "країна / земля",
-    "meaning_es": "país / tierra"
-  },
-  {
-    "term": "der Flughafen",
-    "meaning_tr": "havaalanı",
-    "meaning_en": "airport",
-    "meaning_uk": "аеропо́рт",
-    "meaning_es": "aeropuerto"
-  },
-  {
-    "term": "der Bahnhof",
-    "meaning_tr": "istasyon",
-    "meaning_en": "train station",
-    "meaning_uk": "вокза́л",
-    "meaning_es": "estación de tren"
-  },
-  {
-    "term": "das Ticket",
-    "meaning_tr": "bilet",
-    "meaning_en": "ticket",
-    "meaning_uk": "квито́к",
-    "meaning_es": "billete"
-  },
-  {
-    "term": "der Reisepass",
-    "meaning_tr": "pasaport",
-    "meaning_en": "passport",
-    "meaning_uk": "паспорт",
-    "meaning_es": "pasaporte"
-  },
-  {
-    "term": "die Sehenswürdigkeit",
-    "meaning_tr": "görülecek yer",
-    "meaning_en": "sightseeing attraction",
-    "meaning_uk": "пам'ятка",
-    "meaning_es": "atracción turística"
-  },
-  {
-    "term": "der Urlaubsort",
-    "meaning_tr": "tatil yeri",
-    "meaning_en": "holiday resort, destination",
-    "meaning_uk": "куро́рт",
-    "meaning_es": "destino turístico"
-  },
-  {
-    "term": "die Unterkunft buchen",
-    "meaning_tr": "konaklama ayırtmak",
-    "meaning_en": "to book accommodation",
-    "meaning_uk": "бронюва́ти житло́",
-    "meaning_es": "reservar alojamiento"
-  },
-  {
-    "term": "die Stadt besichtigen",
-    "meaning_tr": "şehri gezmek",
-    "meaning_en": "to visit a city",
-    "meaning_uk": "відвіда́ти мі́сто",
-    "meaning_es": "visitar una ciudad"
-  },
-  {
-    "term": "die Sonne genießen",
-    "meaning_tr": "güneşin tadını çıkarmak",
-    "meaning_en": "to enjoy the sun",
-    "meaning_uk": "насоло́джуватися со́нцем",
-    "meaning_es": "disfrutar del sol"
-  },
-  {
-    "term": "ein Souvenir kaufen",
-    "meaning_tr": "bir hediyelik eşya almak",
-    "meaning_en": "to buy a souvenir",
-    "meaning_uk": "купи́ти сувені́р",
-    "meaning_es": "comprar un recuerdo"
-  },
-  {
-    "term": "die Reise planen",
-    "meaning_tr": "seyahati planlamak",
-    "meaning_en": "to plan a trip",
-    "meaning_uk": "планува́ти подоро́ж",
-    "meaning_es": "planear un viaje"
-  },
-  {
-    "term": "die Abenteuerreise",
-    "meaning_tr": "macera seyahati",
-    "meaning_en": "adventure trip",
-    "meaning_uk": "пригодницька подорож",
-    "meaning_es": "viaje de aventura"
-  }
-]
+{
+  "title": "Reisen & Urlaub (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Urlaub",
+      "type": "Noun",
+      "example": "Wir machen dieses Jahr *** in Spanien.",
+      "meaning_tr": "Tatil",
+      "meaning_en": "Holiday",
+      "meaning_uk": "Відпустка",
+      "meaning_es": "Vacaciones"
+    },
+    {
+      "term": "die Reise",
+      "type": "Noun",
+      "example": "Unsere *** nach Berlin war sehr interessant.",
+      "meaning_tr": "Seyahat",
+      "meaning_en": "Trip/Journey",
+      "meaning_uk": "Подорож",
+      "meaning_es": "Viaje"
+    },
+    {
+      "term": "das Flugzeug",
+      "type": "Noun",
+      "example": "Wir fliegen mit dem *** nach Rom.",
+      "meaning_tr": "Uçak",
+      "meaning_en": "Airplane",
+      "meaning_uk": "Літак",
+      "meaning_es": "Avión"
+    },
+    {
+      "term": "der Flughafen",
+      "type": "Noun",
+      "example": "Ich muss zum *** fahren, mein Flug geht bald.",
+      "meaning_tr": "Havaalanı",
+      "meaning_en": "Airport",
+      "meaning_uk": "Аеропорт",
+      "meaning_es": "Aeropuerto"
+    },
+    {
+      "term": "das Hotel",
+      "type": "Noun",
+      "example": "Wir haben ein schönes *** am Strand gebucht.",
+      "meaning_tr": "Otel",
+      "meaning_en": "Hotel",
+      "meaning_uk": "Готель",
+      "meaning_es": "Hotel"
+    },
+    {
+      "term": "das Gepäck",
+      "type": "Noun",
+      "example": "Haben Sie viel *** dabei?",
+      "meaning_tr": "Bagaj",
+      "meaning_en": "Luggage",
+      "meaning_uk": "Багаж",
+      "meaning_es": "Equipaje"
+    },
+    {
+      "term": "der Pass",
+      "type": "Noun",
+      "example": "Vergiss deinen *** nicht, wenn du reist.",
+      "meaning_tr": "Pasaport",
+      "meaning_en": "Passport",
+      "meaning_uk": "Паспорт",
+      "meaning_es": "Pasaporte"
+    },
+    {
+      "term": "das Ticket",
+      "type": "Noun",
+      "example": "Ich habe mein *** online gekauft.",
+      "meaning_tr": "Bilet",
+      "meaning_en": "Ticket",
+      "meaning_uk": "Квиток",
+      "meaning_es": "Billete / Boleto"
+    },
+    {
+      "term": "die Unterkunft",
+      "type": "Noun",
+      "example": "Die *** ist im Preis inbegriffen.",
+      "meaning_tr": "Konaklama",
+      "meaning_en": "Accommodation",
+      "meaning_uk": "Проживання",
+      "meaning_es": "Alojamiento"
+    },
+    {
+      "term": "der Strand",
+      "type": "Noun",
+      "example": "Am *** kann man gut schwimmen und sonnenbaden.",
+      "meaning_tr": "Plaj",
+      "meaning_en": "Beach",
+      "meaning_uk": "Пляж",
+      "meaning_es": "Playa"
+    },
+    {
+      "term": "die Sehenswürdigkeit",
+      "type": "Noun",
+      "example": "In Paris gibt es viele berühmte ***.",
+      "meaning_tr": "Gezilecek yer / Turistik yer",
+      "meaning_en": "Sight / Attraction",
+      "meaning_uk": "Визначна пам'ятка",
+      "meaning_es": "Atracción turística / Monumento"
+    },
+    {
+      "term": "die Landkarte",
+      "type": "Noun",
+      "example": "Wir brauchen eine ***, um den Weg zu finden.",
+      "meaning_tr": "Harita",
+      "meaning_en": "Map",
+      "meaning_uk": "Карта",
+      "meaning_es": "Mapa"
+    },
+    {
+      "term": "der Koffer",
+      "type": "Noun",
+      "example": "Mein *** ist sehr schwer.",
+      "meaning_tr": "Bavul",
+      "meaning_en": "Suitcase",
+      "meaning_uk": "Валіза",
+      "meaning_es": "Maleta"
+    },
+    {
+      "term": "die Buchung",
+      "type": "Noun",
+      "example": "Haben Sie eine *** auf den Namen Müller?",
+      "meaning_tr": "Rezervasyon",
+      "meaning_en": "Booking",
+      "meaning_uk": "Бронювання",
+      "meaning_es": "Reserva"
+    },
+    {
+      "term": "das Abenteuer",
+      "type": "Noun",
+      "example": "Wir lieben *** und entdecken gerne neue Orte.",
+      "meaning_tr": "Macera",
+      "meaning_en": "Adventure",
+      "meaning_uk": "Пригода",
+      "meaning_es": "Aventura"
+    },
+    {
+      "term": "reisen",
+      "type": "Verb",
+      "example": "Ich möchte nächstes Jahr nach Asien ***.",
+      "meaning_tr": "Seyahat etmek",
+      "meaning_en": "To travel",
+      "meaning_uk": "Подорожувати",
+      "meaning_es": "Viajar"
+    },
+    {
+      "term": "buchen",
+      "type": "Verb",
+      "example": "Wir müssen das Hotel bald ***.",
+      "meaning_tr": "Rezervasyon yapmak / Ayırtmak",
+      "meaning_en": "To book",
+      "meaning_uk": "Бронювати",
+      "meaning_es": "Reservar"
+    },
+    {
+      "term": "packen",
+      "type": "Verb",
+      "example": "Ich muss meine Sachen für den Urlaub ***.",
+      "meaning_tr": "Bavul hazırlamak / Paketlemek",
+      "meaning_en": "To pack",
+      "meaning_uk": "Пакувати",
+      "meaning_es": "Empacar"
+    },
+    {
+      "term": "besichtigen",
+      "type": "Verb",
+      "example": "Wir wollen die alten Burgen ***.",
+      "meaning_tr": "Gezip görmek",
+      "meaning_en": "To visit/sightsee",
+      "meaning_uk": "Відвідувати / Оглядати (пам'ятки)",
+      "meaning_es": "Visitar"
+    },
+    {
+      "term": "übernachten",
+      "type": "Verb",
+      "example": "Wo werden wir heute Nacht ***?",
+      "meaning_tr": "Gecelemek / Konaklamak",
+      "meaning_en": "To stay overnight",
+      "meaning_uk": "Переночувати",
+      "meaning_es": "Pernoctar"
+    },
+    {
+      "term": "fremd",
+      "type": "Adjective",
+      "example": "Es ist schwer, sich in einer *** Stadt zurechtzufinden.",
+      "meaning_tr": "Yabancı",
+      "meaning_en": "Foreign/Strange",
+      "meaning_uk": "Чужий / Іноземний",
+      "meaning_es": "Extraño / Extranjero"
+    },
+    {
+      "term": "sonnig",
+      "type": "Adjective",
+      "example": "Ich hoffe, unser Urlaub wird *** sein.",
+      "meaning_tr": "Güneşli",
+      "meaning_en": "Sunny",
+      "meaning_uk": "Сонячний",
+      "meaning_es": "Soleado"
+    },
+    {
+      "term": "entspannend",
+      "type": "Adjective",
+      "example": "Ein Tag am Meer ist sehr ***.",
+      "meaning_tr": "Rahatlatıcı",
+      "meaning_en": "Relaxing",
+      "meaning_uk": "Розслаблюючий",
+      "meaning_es": "Relajante"
+    },
+    {
+      "term": "die Ankunft",
+      "type": "Noun",
+      "example": "Die *** des Zuges ist um 10 Uhr.",
+      "meaning_tr": "Varış",
+      "meaning_en": "Arrival",
+      "meaning_uk": "Прибуття",
+      "meaning_es": "Llegada"
+    },
+    {
+      "term": "die Abreise",
+      "type": "Noun",
+      "example": "Wann ist die *** vom Hotel?",
+      "meaning_tr": "Ayrılış",
+      "meaning_en": "Departure",
+      "meaning_uk": "Відправлення / Від'їзд",
+      "meaning_es": "Salida"
+    }
+  ]
+}

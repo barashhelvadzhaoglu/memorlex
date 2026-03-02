@@ -1,0 +1,231 @@
+{
+  "title": "Ethik & KI (A2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Ethik",
+      "type": "Noun",
+      "example": "Was ist die Bedeutung von *** in unserem Leben?",
+      "meaning_tr": "etik",
+      "meaning_en": "ethics",
+      "meaning_uk": "етика",
+      "meaning_es": "ética"
+    },
+    {
+      "term": "die künstliche Intelligenz (KI)",
+      "type": "Noun",
+      "example": "*** ist ein wichtiges Thema heute.",
+      "meaning_tr": "yapay zeka (YZ)",
+      "meaning_en": "artificial intelligence (AI)",
+      "meaning_uk": "штучний інтелект (ШІ)",
+      "meaning_es": "inteligencia artificial (IA)"
+    },
+    {
+      "term": "der Roboter",
+      "type": "Noun",
+      "example": "Ein *** kann uns bei der Arbeit helfen.",
+      "meaning_tr": "robot",
+      "meaning_en": "robot",
+      "meaning_uk": "робот",
+      "meaning_es": "robot"
+    },
+    {
+      "term": "die Maschine",
+      "type": "Noun",
+      "example": "Diese *** ist sehr modern.",
+      "meaning_tr": "makine",
+      "meaning_en": "machine",
+      "meaning_uk": "машина",
+      "meaning_es": "máquina"
+    },
+    {
+      "term": "der Computer",
+      "type": "Noun",
+      "example": "Ich benutze den *** für meine Hausaufgaben.",
+      "meaning_tr": "bilgisayar",
+      "meaning_en": "computer",
+      "meaning_uk": "комп'ютер",
+      "meaning_es": "computadora"
+    },
+    {
+      "term": "das Programm",
+      "type": "Noun",
+      "example": "Ich lerne ein neues ***.",
+      "meaning_tr": "program",
+      "meaning_en": "program",
+      "meaning_uk": "програма",
+      "meaning_es": "programa"
+    },
+    {
+      "term": "das Internet",
+      "type": "Noun",
+      "example": "Man kann viele Informationen im *** finden.",
+      "meaning_tr": "internet",
+      "meaning_en": "internet",
+      "meaning_uk": "інтернет",
+      "meaning_es": "internet"
+    },
+    {
+      "term": "die Information",
+      "type": "Noun",
+      "example": "Gibt es mehr *** über dieses Thema?",
+      "meaning_tr": "bilgi",
+      "meaning_en": "information",
+      "meaning_uk": "інформація",
+      "meaning_es": "información"
+    },
+    {
+      "term": "lernen",
+      "type": "Verb",
+      "example": "Wir können viel von ***.",
+      "meaning_tr": "öğrenmek",
+      "meaning_en": "to learn",
+      "meaning_uk": "вчитися",
+      "meaning_es": "aprender"
+    },
+    {
+      "term": "denken",
+      "type": "Verb",
+      "example": "Wir müssen über die Folgen ***.",
+      "meaning_tr": "düşünmek",
+      "meaning_en": "to think",
+      "meaning_uk": "думати",
+      "meaning_es": "pensar"
+    },
+    {
+      "term": "entscheiden",
+      "type": "Verb",
+      "example": "Wir müssen ***, was richtig ist.",
+      "meaning_tr": "karar vermek",
+      "meaning_en": "to decide",
+      "meaning_uk": "вирішувати",
+      "meaning_es": "decidir"
+    },
+    {
+      "term": "verstehen",
+      "type": "Verb",
+      "example": "Es ist wichtig, die Probleme zu ***.",
+      "meaning_tr": "anlamak",
+      "meaning_en": "to understand",
+      "meaning_uk": "розуміти",
+      "meaning_es": "comprender"
+    },
+    {
+      "term": "helfen",
+      "type": "Verb",
+      "example": "KI kann uns im Alltag ***.",
+      "meaning_tr": "yardım etmek",
+      "meaning_en": "to help",
+      "meaning_uk": "допомагати",
+      "meaning_es": "ayudar"
+    },
+    {
+      "term": "schaffen",
+      "type": "Verb",
+      "example": "Können Maschinen etwas Neues ***?",
+      "meaning_tr": "yaratmak, başarmak",
+      "meaning_en": "to create, to achieve",
+      "meaning_uk": "створювати, досягати",
+      "meaning_es": "crear, lograr"
+    },
+    {
+      "term": "wichtig",
+      "type": "Adjective",
+      "example": "Es ist ***, über KI nachzudenken.",
+      "meaning_tr": "önemli",
+      "meaning_en": "important",
+      "meaning_uk": "важливий",
+      "meaning_es": "importante"
+    },
+    {
+      "term": "neu",
+      "type": "Adjective",
+      "example": "Das ist eine *** Technologie.",
+      "meaning_tr": "yeni",
+      "meaning_en": "new",
+      "meaning_uk": "новий",
+      "meaning_es": "nuevo"
+    },
+    {
+      "term": "richtig",
+      "type": "Adjective",
+      "example": "Was ist die *** Antwort?",
+      "meaning_tr": "doğru",
+      "meaning_en": "correct",
+      "meaning_uk": "правильний",
+      "meaning_es": "correcto"
+    },
+    {
+      "term": "falsch",
+      "type": "Adjective",
+      "example": "Das ist eine *** Idee.",
+      "meaning_tr": "yanlış",
+      "meaning_en": "wrong",
+      "meaning_uk": "неправильний",
+      "meaning_es": "incorrecto"
+    },
+    {
+      "term": "menschlich",
+      "type": "Adjective",
+      "example": "KI ist nicht ***.",
+      "meaning_tr": "insani",
+      "meaning_en": "human",
+      "meaning_uk": "людський",
+      "meaning_es": "humano"
+    },
+    {
+      "term": "sicher",
+      "type": "Adjective",
+      "example": "Ist KI *** für uns?",
+      "meaning_tr": "güvenli",
+      "meaning_en": "safe",
+      "meaning_uk": "безпечний",
+      "meaning_es": "seguro"
+    },
+    {
+      "term": "deshalb",
+      "type": "Conjunction",
+      "example": "KI ist neu, *** müssen wir mehr lernen.",
+      "meaning_tr": "bu yüzden",
+      "meaning_en": "therefore",
+      "meaning_uk": "тому",
+      "meaning_es": "por lo tanto"
+    },
+    {
+      "term": "weil",
+      "type": "Conjunction",
+      "example": "Ich lerne KI, *** es interessant ist.",
+      "meaning_tr": "çünkü",
+      "meaning_en": "because",
+      "meaning_uk": "тому що",
+      "meaning_es": "porque"
+    },
+    {
+      "term": "über",
+      "type": "Preposition",
+      "example": "Wir sprechen *** Ethik.",
+      "meaning_tr": "hakkında",
+      "meaning_en": "about",
+      "meaning_uk": "про",
+      "meaning_es": "sobre"
+    },
+    {
+      "term": "mit",
+      "type": "Preposition",
+      "example": "Ich arbeite *** einem Roboter.",
+      "meaning_tr": "ile",
+      "meaning_en": "with",
+      "meaning_uk": "з",
+      "meaning_es": "con"
+    },
+    {
+      "term": "jetzt",
+      "type": "Adverb",
+      "example": "Wir reden *** über KI.",
+      "meaning_tr": "şimdi",
+      "meaning_en": "now",
+      "meaning_uk": "зараз",
+      "meaning_es": "ahora"
+    }
+  ]
+}

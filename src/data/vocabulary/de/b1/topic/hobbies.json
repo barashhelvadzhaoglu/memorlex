@@ -1,247 +1,321 @@
-[
-  {
-    "term": "das Basteln",
-    "meaning_tr": "el işi yapmak, hobiler",
-    "meaning_en": "crafting, hobbies",
-    "meaning_uk": "виготовлення виробів, рукоділля",
-    "meaning_es": "manualidades"
-  },
-  {
-    "term": "der Drachenflug",
-    "meaning_tr": "uçurtma uçurmak",
-    "meaning_en": "kite flying",
-    "meaning_uk": "польоти на повітряному змії",
-    "meaning_es": "vuelo de cometas"
-  },
-  {
-    "term": "das Einradfahren",
-    "meaning_tr": "tek tekerlekli bisiklet sürmek",
-    "meaning_en": "unicycling",
-    "meaning_uk": "катання на одноколісному велосипеді",
-    "meaning_es": "andar en monociclo"
-  },
-  {
-    "term": "die Fotografie",
-    "meaning_tr": "fotoğrafçılık",
-    "meaning_en": "photography",
-    "meaning_uk": "фотографія",
-    "meaning_es": "fotografía"
-  },
-  {
-    "term": "das Gärtnern",
-    "meaning_tr": "bahçıvanlık",
-    "meaning_en": "gardening",
-    "meaning_uk": "садівництво",
-    "meaning_es": "jardinería"
-  },
-  {
-    "term": "das Geocaching",
-    "meaning_tr": "coğrafi konum tabanlı hazine avı oyunu",
-    "meaning_en": "geocaching",
-    "meaning_uk": "геокешинг",
-    "meaning_es": "geocaching"
-  },
-  {
-    "term": "das Geräteturnen",
-    "meaning_tr": "aletli jimnastik",
-    "meaning_en": "gymnastics with apparatus",
-    "meaning_uk": "спортивна гімнастика з предметами",
-    "meaning_es": "gimnasia con aparatos"
-  },
-  {
-    "term": "das Gleitschirmfliegen",
-    "meaning_tr": "yamaç paraşütü",
-    "meaning_en": "paragliding",
-    "meaning_uk": "парапланеризм",
-    "meaning_es": "parapente"
-  },
-  {
-    "term": "der Hallensport",
-    "meaning_tr": "salonda yapılan spor",
-    "meaning_en": "indoor sport",
-    "meaning_uk": "закритий вид спорту",
-    "meaning_es": "deporte de interior"
-  },
-  {
-    "term": "das Heiraten",
-    "meaning_tr": "evlenmek",
-    "meaning_en": "getting married",
-    "meaning_uk": "одруження",
-    "meaning_es": "casarse"
-  },
-  {
-    "term": "das Hobby",
-    "meaning_tr": "hobi",
-    "meaning_en": "hobby",
-    "meaning_uk": "хобі",
-    "meaning_es": "pasatiempo"
-  },
-  {
-    "term": "das Holzschnitzen",
-    "meaning_tr": "ahşap oyma",
-    "meaning_en": "wood carving",
-    "meaning_uk": "різьблення по дереву",
-    "meaning_es": "tallado en madera"
-  },
-  {
-    "term": "das Instrumentalspiel",
-    "meaning_tr": "enstrüman çalmak",
-    "meaning_en": "playing a musical instrument",
-    "meaning_uk": "гра на музичному інструменті",
-    "meaning_es": "tocar un instrumento musical"
-  },
-  {
-    "term": "das Joggen",
-    "meaning_tr": "tempolu koşu",
-    "meaning_en": "jogging",
-    "meaning_uk": "біг підтюпцем",
-    "meaning_es": "trotar"
-  },
-  {
-    "term": "der Kampsport",
-    "meaning_tr": "dövüş sporları",
-    "meaning_en": "martial arts",
-    "meaning_uk": "бойові мистецтва",
-    "meaning_es": "artes marciales"
-  },
-  {
-    "term": "das Kochen",
-    "meaning_tr": "yemek pişirmek",
-    "meaning_en": "cooking",
-    "meaning_uk": "готування їжі",
-    "meaning_es": "cocinar"
-  },
-  {
-    "term": "der Konzertsbesuch",
-    "meaning_tr": "konsere gitmek",
-    "meaning_en": "attending a concert",
-    "meaning_uk": "відвідування концерту",
-    "meaning_es": "asistir a un concierto"
-  },
-  {
-    "term": "das Kreuzworträtsel",
-    "meaning_tr": "bulmaca",
-    "meaning_en": "crossword puzzle",
-    "meaning_uk": "кросворд",
-    "meaning_es": "crucigrama"
-  },
-  {
-    "term": "der Laufsport",
-    "meaning_tr": "koşu sporu",
-    "meaning_en": "running sport",
-    "meaning_uk": "біговий спорт",
-    "meaning_es": "deporte de carrera"
-  },
-  {
-    "term": "das Malen",
-    "meaning_tr": "boyama yapmak",
-    "meaning_en": "painting",
-    "meaning_uk": "малювання",
-    "meaning_es": "pintar"
-  },
-  {
-    "term": "das Modellbauen",
-    "meaning_tr": "maket yapmak",
-    "meaning_en": "model building",
-    "meaning_uk": "створення моделей",
-    "meaning_es": "construcción de maquetas"
-  },
-  {
-    "term": "das Museumsbesuch",
-    "meaning_tr": "müze ziyareti",
-    "meaning_en": "visiting a museum",
-    "meaning_uk": "відвідування музею",
-    "meaning_es": "visitar un museo"
-  },
-  {
-    "term": "das Nähen",
-    "meaning_tr": "dikiş dikmek",
-    "meaning_en": "sewing",
-    "meaning_uk": "шиття",
-    "meaning_es": "coser"
-  },
-  {
-    "term": "das Outdoorsport",
-    "meaning_tr": "açık hava sporu",
-    "meaning_en": "outdoor sport",
-    "meaning_uk": "відкритий вид спорту",
-    "meaning_es": "deporte al aire libre"
-  },
-  {
-    "term": "das Radfahren",
-    "meaning_tr": "bisiklete binmek",
-    "meaning_en": "cycling",
-    "meaning_uk": "велоспорт",
-    "meaning_es": "andar en bicicleta"
-  },
-  {
-    "term": "das Reiten",
-    "meaning_tr": "at binmek",
-    "meaning_en": "horseback riding",
-    "meaning_uk": "верхова їзда",
-    "meaning_es": "montar a caballo"
-  },
-  {
-    "term": "das Reisen",
-    "meaning_tr": "seyahat etmek",
-    "meaning_en": "traveling",
-    "meaning_uk": "подорожувати",
-    "meaning_es": "viajar"
-  },
-  {
-    "term": "das Schwimmen",
-    "meaning_tr": "yüzmek",
-    "meaning_en": "swimming",
-    "meaning_uk": "плавання",
-    "meaning_es": "nadar"
-  },
-  {
-    "term": "das Skatspielen",
-    "meaning_tr": "iskambil oyunları oynamak (Skat)",
-    "meaning_en": "playing Skat (card game)",
-    "meaning_uk": "грати в Скаут (карткова гра)",
-    "meaning_es": "jugar al Skat (juego de cartas)"
-  },
-  {
-    "term": "das Skifahren",
-    "meaning_tr": "kayak yapmak",
-    "meaning_en": "skiing",
-    "meaning_uk": "катання на лижах",
-    "meaning_es": "esquiar"
-  },
-  {
-    "term": "das Tanzen",
-    "meaning_tr": "dans etmek",
-    "meaning_en": "dancing",
-    "meaning_uk": "танці",
-    "meaning_es": "bailar"
-  },
-  {
-    "term": "das Telefonieren",
-    "meaning_tr": "telefonla konuşmak",
-    "meaning_en": "talking on the phone",
-    "meaning_uk": "розмовляти по телефону",
-    "meaning_es": "hablar por teléfono"
-  },
-  {
-    "term": "der Tierparkbesuch",
-    "meaning_tr": "hayvanat bahçesi ziyareti",
-    "meaning_en": "visiting a zoo",
-    "meaning_uk": "відвідування зоопарку",
-    "meaning_es": "visitar un zoológico"
-  },
-  {
-    "term": "das Wandern",
-    "meaning_tr": "yürüyüş yapmak",
-    "meaning_en": "hiking",
-    "meaning_uk": "походи",
-    "meaning_es": "hacer senderismo"
-  },
-  {
-    "term": "das Zeitunglesen",
-    "meaning_tr": "gazete okumak",
-    "meaning_en": "reading the newspaper",
-    "meaning_uk": "читати газету",
-    "meaning_es": "leer el periódico"
-  }
-]
+{
+  "title": "Hobbys & Freizeit (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Basteln",
+      "type": "Noun",
+      "meaning_tr": "el işi yapma",
+      "meaning_en": "crafting",
+      "meaning_uk": "майстрування",
+      "meaning_es": "manualidades",
+      "example": "Am Wochenende mag ich ***."
+    },
+    {
+      "term": "basteln",
+      "type": "Verb",
+      "meaning_tr": "el işi yapmak",
+      "meaning_en": "to craft",
+      "meaning_uk": "майструвати",
+      "meaning_es": "hacer manualidades",
+      "example": "Kinder können gerne mit Farben ***."
+    },
+    {
+      "term": "die Briefmarke",
+      "type": "Noun",
+      "meaning_tr": "pul",
+      "meaning_en": "stamp",
+      "meaning_uk": "марка",
+      "meaning_es": "sello",
+      "example": "Er sammelt *** aus aller Welt."
+    },
+    {
+      "term": "sammeln",
+      "type": "Verb",
+      "meaning_tr": "toplamak, koleksiyon yapmak",
+      "meaning_en": "to collect",
+      "meaning_uk": "колекціонувати, збирати",
+      "meaning_es": "coleccionar",
+      "example": "Sie *** gerne alte Münzen."
+    },
+    {
+      "term": "die CD (die Compact Disc)",
+      "type": "Noun",
+      "meaning_tr": "CD",
+      "meaning_en": "CD",
+      "meaning_uk": "CD",
+      "meaning_es": "CD",
+      "example": "Ich höre gerne Musik von ***."
+    },
+    {
+      "term": "die DVD (die Digital Versatile Disc)",
+      "type": "Noun",
+      "meaning_tr": "DVD",
+      "meaning_en": "DVD",
+      "meaning_uk": "DVD",
+      "meaning_es": "DVD",
+      "example": "Wir schauen uns heute Abend eine *** an."
+    },
+    {
+      "term": "fernsehen",
+      "type": "Verb",
+      "meaning_tr": "televizyon izlemek",
+      "meaning_en": "to watch TV",
+      "meaning_uk": "дивитися телевізор",
+      "meaning_es": "ver la televisión",
+      "example": "Er *** jeden Abend nach dem Abendessen."
+    },
+    {
+      "term": "der Film",
+      "type": "Noun",
+      "meaning_tr": "film",
+      "meaning_en": "film",
+      "meaning_uk": "фільм",
+      "meaning_es": "película",
+      "example": "Der neue *** im Kino ist sehr spannend."
+    },
+    {
+      "term": "das Fotografie",
+      "type": "Noun",
+      "meaning_tr": "fotoğrafçılık",
+      "meaning_en": "photography",
+      "meaning_uk": "фотографія",
+      "meaning_es": "fotografía",
+      "example": "*** ist ein beliebtes Hobby."
+    },
+    {
+      "term": "fotografieren",
+      "type": "Verb",
+      "meaning_tr": "fotoğraf çekmek",
+      "meaning_en": "to take photos",
+      "meaning_uk": "фотографувати",
+      "meaning_es": "fotografiar",
+      "example": "Sie *** gerne Landschaften."
+    },
+    {
+      "term": "das Gespräch",
+      "type": "Noun",
+      "meaning_tr": "sohbet, konuşma",
+      "meaning_en": "conversation",
+      "meaning_uk": "розмова",
+      "meaning_es": "conversación",
+      "example": "Wir hatten ein interessantes ***."
+    },
+    {
+      "term": "sich unterhalten",
+      "type": "Verb",
+      "meaning_tr": "sohbet etmek",
+      "meaning_en": "to chat, to converse",
+      "meaning_uk": "розмовляти",
+      "meaning_es": "charlar, conversar",
+      "example": "Es ist schön, mit alten Freunden ***."
+    },
+    {
+      "term": "die Grafik",
+      "type": "Noun",
+      "meaning_tr": "grafik, çizim",
+      "meaning_en": "graphic",
+      "meaning_uk": "графіка",
+      "meaning_es": "gráfico",
+      "example": "Er entwirft gerne digitale ***."
+    },
+    {
+      "term": "zeichnen",
+      "type": "Verb",
+      "meaning_tr": "çizmek",
+      "meaning_en": "to draw",
+      "meaning_uk": "малювати",
+      "meaning_es": "dibujar",
+      "example": "Die Kinder lernen, Tiere zu ***."
+    },
+    {
+      "term": "das Hobby",
+      "type": "Noun",
+      "meaning_tr": "hobi",
+      "meaning_en": "hobby",
+      "meaning_uk": "хобі",
+      "meaning_es": "pasatiempo",
+      "example": "Was ist dein Lieblings***?"
+    },
+    {
+      "term": "das Interesse",
+      "type": "Noun",
+      "meaning_tr": "ilgi",
+      "meaning_en": "interest",
+      "meaning_uk": "інтерес",
+      "meaning_es": "interés",
+      "example": "Sie hat ein großes *** an Geschichte."
+    },
+    {
+      "term": "sich interessieren für",
+      "type": "Verb",
+      "meaning_tr": "ilgilendiği şey, ilgi duymak",
+      "meaning_en": "to be interested in",
+      "meaning_uk": "цікавитися",
+      "meaning_es": "interesarse por",
+      "example": "Er *** sich sehr *** Musik."
+    },
+    {
+      "term": "das Internet",
+      "type": "Noun",
+      "meaning_tr": "internet",
+      "meaning_en": "internet",
+      "meaning_uk": "інтернет",
+      "meaning_es": "internet",
+      "example": "Ich verbringe viel Zeit im ***."
+    },
+    {
+      "term": "joggen",
+      "type": "Verb",
+      "meaning_tr": "koşmak (hafif tempolu)",
+      "meaning_en": "to jog",
+      "meaning_uk": "бігати підтюпцем",
+      "meaning_es": "trotar",
+      "example": "Ich gehe jeden Morgen ***."
+    },
+    {
+      "term": "kochen",
+      "type": "Verb",
+      "meaning_tr": "yemek pişirmek",
+      "meaning_en": "to cook",
+      "meaning_uk": "готувати їжу",
+      "meaning_es": "cocinar",
+      "example": "Sie liebt es, neue Gerichte zu ***."
+    },
+    {
+      "term": "die Kunst",
+      "type": "Noun",
+      "meaning_tr": "sanat",
+      "meaning_en": "art",
+      "meaning_uk": "мистецтво",
+      "meaning_es": "arte",
+      "example": "Sie hat ein großes *** für Malerei."
+    },
+    {
+      "term": "lesen",
+      "type": "Verb",
+      "meaning_tr": "okumak",
+      "meaning_en": "to read",
+      "meaning_uk": "читати",
+      "meaning_es": "leer",
+      "example": "Ich mag es, Bücher zu ***."
+    },
+    {
+      "term": "der Malerei",
+      "type": "Noun",
+      "meaning_tr": "resim sanatı",
+      "meaning_en": "painting",
+      "meaning_uk": "живопис",
+      "meaning_es": "pintura",
+      "example": "Sein *** ist sehr farbenfroh."
+    },
+    {
+      "term": "malen",
+      "type": "Verb",
+      "meaning_tr": "resim yapmak",
+      "meaning_en": "to paint",
+      "meaning_uk": "малювати (фарбами)",
+      "meaning_es": "pintar",
+      "example": "Die Kinder *** gerne Blumen."
+    },
+    {
+      "term": "der Musik",
+      "type": "Noun",
+      "meaning_tr": "müzik",
+      "meaning_en": "music",
+      "meaning_uk": "музика",
+      "meaning_es": "música",
+      "example": "Ich höre gerne verschiedene Arten von ***."
+    },
+    {
+      "term": "Musik hören",
+      "type": "Verb",
+      "meaning_tr": "müzik dinlemek",
+      "meaning_en": "to listen to music",
+      "meaning_uk": "слухати музику",
+      "meaning_es": "escuchar música",
+      "example": "Es ist entspannend, ***."
+    },
+    {
+      "term": "die Natur",
+      "type": "Noun",
+      "meaning_tr": "doğa",
+      "meaning_en": "nature",
+      "meaning_uk": "природа",
+      "meaning_es": "naturaleza",
+      "example": "Er genießt Spaziergänge in der ***."
+    },
+    {
+      "term": "spielen",
+      "type": "Verb",
+      "meaning_tr": "oynamak",
+      "meaning_en": "to play",
+      "meaning_uk": "грати",
+      "meaning_es": "jugar",
+      "example": "Die Kinder *** im Garten."
+    },
+    {
+      "term": "der Podcast",
+      "type": "Noun",
+      "meaning_tr": "podcast",
+      "meaning_en": "podcast",
+      "meaning_uk": "подкаст",
+      "meaning_es": "podcast",
+      "example": "Ich höre oft *** auf dem Weg zur Arbeit."
+    },
+    {
+      "term": "sportlich",
+      "type": "Adjective",
+      "meaning_tr": "sportla ilgili, sportif",
+      "meaning_en": "sporty",
+      "meaning_uk": "спортивний",
+      "meaning_es": "deportivo",
+      "example": "Sie ist sehr *** und geht regelmäßig ins Fitnessstudio."
+    },
+    {
+      "term": "die Sportart",
+      "type": "Noun",
+      "meaning_tr": "spor dalı",
+      "meaning_en": "type of sport",
+      "meaning_uk": "вид спорту",
+      "meaning_es": "disciplina deportiva",
+      "example": "Welche *** magst du am liebsten?"
+    },
+    {
+      "term": "schwimmen",
+      "type": "Verb",
+      "meaning_tr": "yüzmek",
+      "meaning_en": "to swim",
+      "meaning_uk": "плавати",
+      "meaning_es": "nadar",
+      "example": "Im Sommer gehe ich gerne ***."
+    },
+    {
+      "term": "tanzen",
+      "type": "Verb",
+      "meaning_tr": "dans etmek",
+      "meaning_en": "to dance",
+      "meaning_uk": "танцювати",
+      "meaning_es": "bailar",
+      "example": "Sie liebt es, zu ***."
+    },
+    {
+      "term": "wandern",
+      "type": "Verb",
+      "meaning_tr": "doğa yürüyüşü yapmak",
+      "meaning_en": "to hike",
+      "meaning_uk": "ходити в похід",
+      "meaning_es": "hacer senderismo",
+      "example": "Am Wochenende möchten wir in den Bergen ***."
+    },
+    {
+      "term": "das Wochenende",
+      "type": "Noun",
+      "meaning_tr": "hafta sonu",
+      "meaning_en": "weekend",
+      "meaning_uk": "вихідні",
+      "meaning_es": "fin de semana",
+      "example": "Was machst du am ***?"
+    }
+  ]
+}
