@@ -1,21 +1,35 @@
 {
   "home": {
     "title": "Hangi Dili Öğrenmek İstiyorsun?",
-    "sub": "Başlamak için bir hedef seç."
+    "sub": "Hedefini seç, öğrenmeye başla."
   },
   "subjects": {
     "german": "Almanca",
-    "english": "İngilizce"
+    "english": "İngilizce",
+    "spanish": "İspanyolca"
   },
   "seoContent": {
-    "title": "Memorlex ile Almanca ve İngilizce Öğreniminde Yeni Nesil Yaklaşım",
-    "p1": "Günümüzde yabancı dil öğrenmek, sadece kelime ezberlemekten öte, dilin mantığını kavramayı ve dört temel beceriyi (okuma, yazma, dinleme, konuşma) eş zamanlı geliştirmeyi gerektirir. Memorlex, özellikle Almanca ve İngilizce öğrenenler için bilimsel temellere dayanan, interaktif ve sınav odaklı bir çalışma merkezi olarak tasarlanmıştır.",
+    "title": "Memorlex ile Almanca, İngilizce ve İspanyolca Öğreniminde Yeni Nesil Yaklaşım",
+    "p1": "Almanya'da yaşıyor ya da entegrasyon kursuna mı hazırlanıyorsunuz? Memorlex, A1'den C1'e kadar tüm seviyelerde Telc, Goethe ve ÖSD sınavlarına özel hazırlanmış interaktif içerikler sunar. Günlük kelime pratiği, hikaye tabanlı okuma ve dinleme modülleriyle dili gerçek hayatta kullanmayı öğrenin.",
     "h2_1": "Entegrasyon Kursu ve Sınav Hazırlığı",
-    "p2": "Sitemiz, Almanca öğreniminde hayati önem taşıyan A1, A2 ve B1 seviyelerine ek olarak, Entegrasyon Kursu (Integrationkurs) müfredatına tam uyumlu içerikler sunar. Telc, Goethe veya ÖSD sınavlarına hazırlananlar için okuduğunu anlama, dinleme alıştırmaları ve kelime dağarcığı geliştirme araçlarını tek platformda birleştiriyoruz.",
-    "h2_2": "Bilimsel \"Yazarak Çalışma\" Metodu",
-    "p3": "Memorlex'i diğer platformlardan ayıran en önemli özellik, dil bilimciler tarafından etkinliği kanıtlanmış olan yazarak çalışma metodunu dijital ortama entegre etmiş olmasıdır. Yazma eylemi beyindeki nöral yolları güçlendirerek öğrenmeyi %40'a kadar hızlandırır. Sitemizdeki Yazma Pratiği modu sayesinde kelimeleri aktif olarak kullanarak kalıcı hafızanıza aktarabilirsiniz.",
-    "footerNote": "İster sıfırdan başlıyor olun, ister entegrasyon sınavına hazırlanıyor olun; hikaye tabanlı öğrenme modeli ve interaktif flashcard sistemiyle dil öğrenmek artık çok daha kolay."
+    "p2": "Almanca entegrasyon kursu (Integrationskurs) sürecinde Neu Linie kitabının her ünitesi için kelime listeleri, yazma alıştırmaları ve anlama testleri hazırladık. Telc B1, Goethe A2/B1 veya ÖSD sınavına girecekler için okuduğunu anlama, dinleme ve kelime dağarcığı araçlarını tek platformda sunuyoruz.",
+    "h2_2": "Bilimsel Yazarak Öğrenme Metodu",
+    "p3": "Memorlex'i diğer platformlardan ayıran en önemli özellik, dilbilimciler tarafından etkinliği kanıtlanmış yazarak öğrenme metodunu dijital ortama taşımış olmasıdır. Yazma eylemi beyindeki nöral yolları güçlendirerek öğrenmeyi hızlandırır. Flashcard, hikaye okuma ve yazma pratiği modülleriyle kelimeleri kalıcı hafızanıza aktarın.",
+    "footerNote": "Sıfırdan başlıyor olun ya da entegrasyon sınavına hazırlanıyor olun — hikaye tabanlı öğrenme, günlük dinleme içerikleri ve AI destekli yazma pratiğiyle Almanca artık çok daha erişilebilir."
   },
+  "keywords": [
+    "almanca öğren", "almanca entegrasyon kursu", "telc b1 hazırlık", "goethe sınavı",
+    "almanca kelime", "almanca hikaye", "almanca dinleme", "almanya entegrasyon",
+    "neu linie almanca", "almanca a1 a2 b1", "almanca türkçe", "almanca öğrenme uygulaması",
+    "ingilizce öğren", "ispanyolca öğren", "yabancı dil öğrenme", "dil sınavı hazırlık",
+    "learngerman", "germanlanguage", "germanpodcast", "germanforbeginners",
+    "deutschkurs", "germangrammar", "germanvocabulary", "learninggerman",
+    "studygerman", "germanlessons", "languagelearning", "speakgerman",
+    "germanforenglishspeakers", "learngermanpodcast", "germany", "canada",
+    "usa", "europe", "india", "podcast", "integrationkurs", "telc", "goethe",
+    "almancayazma", "almancadinleme", "almancakelime", "entegrasyonkursu",
+    "dilöğrenme", "almancapodcast", "almancahikaye", "almancasınav"
+  ],
   "levels": {
     "selectTitle": "Çalışmak istediğiniz seviyeyi seçin:"
   },
@@ -33,8 +47,8 @@
   "navigation": {
     "back": "Geri Dön"
   },
-  "title": "Neu Linie Almanca Çalışma Merkezi",
-  "description": "İnteraktif kelime pratikleri.",
+  "title": "Almanca Öğren | Entegrasyon Kursu & Sınav Hazırlığı | Memorlex",
+  "description": "Almanya'daki Türkler için Almanca öğrenme platformu. Entegrasyon kursu, Telc & Goethe sınav hazırlığı, kelime pratiği, hikayeler ve dinleme modülleri.",
   "practice": "Kelime Pratiği",
   "flashcardsLabel": "Flashcards",
   "start": "Hemen Başla",

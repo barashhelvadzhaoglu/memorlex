@@ -5,17 +5,29 @@
   },
   "subjects": {
     "german": "Deutsch",
-    "english": "Englisch"
+    "english": "Englisch",
+    "spanish": "Spanisch"
   },
   "seoContent": {
-    "title": "Ein moderner Ansatz zum Deutsch- und Englischlernen mit Memorlex",
-    "p1": "Heutzutage erfordert das Erlernen einer Fremdsprache mehr als nur das Auswendiglernen von Wörtern. Es geht darum, die Logik der Sprache zu verstehen und die vier Grundfertigkeiten (Lesen, Schreiben, Hören und Sprechen) gleichzeitig zu entwickeln. Memorlex ist ein wissenschaftlich fundiertes, interaktives und prüfungsorientiertes Lernzentrum für Deutsch- und Englischlernende.",
+    "title": "Deutsch, Englisch & Spanisch lernen – modern, interaktiv und prüfungsorientiert",
+    "p1": "Heutzutage erfordert das Erlernen einer Fremdsprache mehr als nur das Auswendiglernen von Wörtern. Memorlex ist ein wissenschaftlich fundiertes, interaktives und prüfungsorientiertes Lernzentrum für Deutsch-, Englisch- und Spanischlernende – von A1 bis C1.",
     "h2_1": "Integrationskurs und Prüfungsvorbereitung",
-    "p2": "Zusätzlich zu den Niveaus A1, A2 und B1 bietet unsere Seite Inhalte, die vollständig auf das Curriculum des Integrationskurses abgestimmt sind. Für die Vorbereitung auf Telc-, Goethe- oder ÖSD-Prüfungen vereinen wir Leseverständnis, Hörverbindungen und Vokabeltraining auf einer Plattform.",
+    "p2": "Für jede Einheit des Neu-Linie-Lehrbuchs bieten wir Vokabellisten, Schreibübungen und Verständnistests. Wer sich auf Telc B1, Goethe A2/B1 oder ÖSD vorbereitet, findet hier Leseverständnis, Hörtraining und Vokabelarbeit auf einer Plattform – im echten Prüfungsformat.",
     "h2_2": "Wissenschaftliche Schreibmethode",
-    "p3": "Das Besondere an Memorlex ist die digitale Integration der schreibbasierten Lernmethode, die von Sprachwissenschaftlern als besonders effektiv eingestuft wird. Das Schreiben stärkt die neuronalen Bahnen im Gehirn und beschleunigt den Lernprozess um bis zu 40 %. Mit unserem Schreibtraining können Sie Vokabeln aktiv in Ihr Langzeitgedächtnis übertragen.",
-    "footerNote": "Egal, ob Sie Anfänger sind oder sich auf eine Integrationsprüfung vorbereiten – mit unserem geschichtenbasierten Modell und interaktiven Karteikarten wird Sprachenlernen zum Erfolg."
+    "p3": "Das Besondere an Memorlex ist die digitale Integration der schreibbasierten Lernmethode, die von Sprachwissenschaftlern als besonders effektiv eingestuft wird. Das Schreiben stärkt die neuronalen Bahnen im Gehirn und beschleunigt den Lernprozess. Mit Flashcards, Geschichten und Schreibtraining übertragen Sie Vokabeln aktiv ins Langzeitgedächtnis.",
+    "footerNote": "Egal, ob Anfänger oder Integrationsprüfung – mit geschichtenbasiertem Lernen, täglichen Hörinhalten und KI-gestütztem Schreibtraining wird Sprachenlernen zum Erfolg."
   },
+  "keywords": [
+    "deutsch lernen", "integrationskurs", "telc b1 vorbereitung", "goethe prüfung",
+    "neu linie deutschbuch", "deutsch a1 a2 b1", "deutsch vokabeln", "deutsch hören",
+    "deutsch schreiben", "sprachkurs online", "osd prüfung", "berufssprachkurs",
+    "learngerman", "germanlanguage", "germanpodcast", "germanforbeginners",
+    "deutschkurs", "germangrammar", "germanvocabulary", "learninggerman",
+    "studygerman", "germanlessons", "languagelearning", "speakgerman",
+    "learngermanpodcast", "germany", "canada", "usa", "europe", "india", "podcast",
+    "deutsch kostenlos", "deutsch für anfänger", "sprachniveau", "telc", "goethe",
+    "geschichten auf deutsch", "hörverstehen", "leseverstehen", "wortschatz"
+  ],
   "levels": {
     "selectTitle": "Wählen Sie das Niveau, das Sie lernen möchten:"
   },
@@ -33,8 +45,8 @@
   "navigation": {
     "back": "Zurück"
   },
-  "title": "Neu Linie Deutsch-Lernzentrum",
-  "description": "Interaktives Vokabeltraining.",
+  "title": "Deutsch lernen | Integrationskurs & Prüfungsvorbereitung | Memorlex",
+  "description": "Interaktive Lernplattform für Deutsch, Englisch und Spanisch. Integrationskurs, Telc & Goethe Vorbereitung, Vokabeltraining, Geschichten und Hörübungen.",
   "practice": "Schreibübung",
   "flashcardsLabel": "Flashcards",
   "start": "Jetzt starten",

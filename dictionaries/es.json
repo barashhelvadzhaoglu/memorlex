@@ -5,17 +5,30 @@
   },
   "subjects": {
     "german": "Alemán",
-    "english": "Inglés"
+    "english": "Inglés",
+    "spanish": "Español"
   },
   "seoContent": {
-    "title": "Un enfoque de nueva generación para aprender alemán e inglés con Memorlex",
-    "p1": "Hoy en día, aprender un idioma extranjero requiere más que memorizar palabras; implica comprender la lógica del lenguaje y desarrollar simultáneamente cuatro habilidades principales: lectura, escritura, escucha y habla. Memorlex está diseñado como un centro de estudio científico, interactivo y orientado a exámenes para estudiantes de alemán e inglés.",
+    "title": "Aprende alemán, inglés y español – moderno, interactivo y orientado a exámenes",
+    "p1": "Memorlex es una plataforma de aprendizaje científica, interactiva y orientada a exámenes para estudiantes de alemán, inglés y español. Desde nivel A1 hasta C1 — desarrolla las cuatro habilidades lingüísticas con historias diarias, ejercicios de escucha y práctica de escritura.",
     "h2_1": "Curso de Integración y Preparación para Exámenes",
-    "p2": "Además de los niveles A1, A2 y B1, nuestro sitio ofrece contenido totalmente compatible con el plan de estudios del Curso de Integración (Integrationkurs). Para quienes se preparan para los exámenes Telc, Goethe o ÖSD, combinamos herramientas de comprensión lectora, ejercicios de escucha y ampliación de vocabulario en una sola plataforma.",
-    "h2_2": "Método Científico de \"Aprender Escribiendo\"",
-    "p3": "Lo que diferencia a Memorlex es la integración del método de estudio basado en la escritura, cuya eficacia ha sido demostrada por lingüistas, en un entorno digital. El acto de escribir fortalece las vías neuronales del cerebro, acelerando el aprendizaje hasta en un 40%. Nuestro modo de Práctica de Escritura le permite transferir palabras a la memoria a largo plazo mediante el uso activo.",
-    "footerNote": "Ya sea que esté comenzando desde cero o preparándose para un examen de integración, aprender idiomas es ahora mucho más fácil con nuestro modelo basado en historias y tarjetas interactivas."
+    "p2": "¿Preparándote para Telc B1, Goethe A2/B1 u ÖSD? Ofrecemos listas de vocabulario, ejercicios de escritura y tests de comprensión para cada unidad del libro Neu Linie. Comprensión lectora, entrenamiento auditivo y vocabulario — todo en una plataforma, en formato real de examen.",
+    "h2_2": "El Método Científico de Aprender Escribiendo",
+    "p3": "Lo que diferencia a Memorlex es su método de aprendizaje basado en la escritura, demostrado eficaz por lingüistas de todo el mundo. Escribir fortalece las vías neuronales del cerebro y acelera la retención. A través de flashcards, historias graduadas y práctica de escritura, transfieres el vocabulario activamente a la memoria a largo plazo.",
+    "footerNote": "Ya empieces desde cero o te prepares para un examen de integración — el aprendizaje basado en historias, el contenido auditivo diario y la práctica de escritura con IA hacen que aprender idiomas sea más rápido y efectivo."
   },
+  "keywords": [
+    "aprender alemán", "curso de integración alemán", "preparación telc b1", "examen goethe",
+    "neu linie libro", "alemán a1 a2 b1", "vocabulario alemán", "escuchar alemán",
+    "práctica de escritura alemán", "curso de idiomas online", "examen osd",
+    "alemán para inmigrantes", "learngerman", "germanlanguage", "germanpodcast",
+    "germanforbeginners", "deutschkurs", "germangrammar", "germanvocabulary",
+    "learninggerman", "studygerman", "germanlessons", "languagelearning",
+    "speakgerman", "learngermanpodcast", "germany", "canada", "usa",
+    "europe", "india", "latinoamerica", "podcast",
+    "aprender inglés", "aprender español", "dele examen", "siele",
+    "historias en alemán", "comprensión auditiva", "comprensión lectora", "flashcards"
+  ],
   "levels": {
     "selectTitle": "Selecciona el nivel que quieres estudiar:"
   },
@@ -33,8 +46,8 @@
   "navigation": {
     "back": "Volver"
   },
-  "title": "Centro de Estudios de Alemán Neu Linie",
-  "description": "Prácticas interactivas de vocabulario.",
+  "title": "Aprender Alemán | Curso de Integración & Preparación Exámenes | Memorlex",
+  "description": "Plataforma interactiva para aprender alemán, inglés y español. Curso de integración, preparación Telc & Goethe, vocabulario, historias y ejercicios de escucha.",
   "practice": "Práctica de Palabras",
   "flashcardsLabel": "Tarjetas",
   "start": "Empezar ya",
