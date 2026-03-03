@@ -15,7 +15,10 @@ API_KEYS = []
 for key_name in ["GEMINI_API_KEY_1", "GEMINI_API_KEY_2", "GEMINI_API_KEY"]:
     val = os.getenv(key_name)
     if val:
-        API_KEYS.append(val)
+        # KRİTİK GÜVENLİK DÜZELTMESİ: GitHub Secrets'tan gelebilecek \n veya boşlukları temizle
+        clean_val = val.strip()
+        if clean_val:
+            API_KEYS.append(clean_val)
 
 def get_available_models():
     """Google API üzerinden kullanılabilir güncel Flash ve Pro modellerini çeker."""
@@ -49,13 +52,12 @@ def get_next_filename(directory):
 
 def generate_story():
     if not API_KEYS:
-        print("❌ HATA: Hiçbir API anahtarı bulunamadı!")
+        print("❌ HATA: Hiçbir API anahtarı bulunamadı! Secrets yapılandırmasını kontrol edin.")
         return
 
-    # Şimdilik C1 odaklı, ancak seviye yapılandırması tam eklendi
+    # Seviye yapılandırması
     current_level = "c1" 
     
-    # Seviyeye göre görsel (sahne) sayısı ve metin derinliği ayarları
     level_config = {
         "a1": {"scenes": 5, "desc": "Basit cümleler, temel rutinler."},
         "a2": {"scenes": 7, "desc": "Temel ihtiyaçlar, geçmiş zaman."},
@@ -71,7 +73,7 @@ def generate_story():
         "c1": "Çok katmanlı akademik analizler, toplumsal değişimlerin derinlemesine incelenmesi, tarihsel ve felsefi perspektifler. İnce anlam farkları (Nuancen), üst düzey retorik araçlar ve nominal stil (Nominalstil) kullanımı. Metinler arası referanslar ve yüksek düzeyde deyimsel ifadeler. Hedef: Sahne başına 3-4 cümle."
     }
 
-    # Eksiksiz Konu Havuzu (Hiçbir satır silinmedi)
+    # Eksiksiz Konu Havuzu (Hiçbir satır silinmedi, tam liste korunuyor)
     topic_pool = [
         "Geschichte: Die Berliner Mauer, der Kölner Dom, Münchens Wiederaufbau nach 1945, Das Römische Reich am Rhein",
         "Städte: Hamburgs Speicherstadt, Industkultur im Ruhrgebiet, Die Schlösser in Potsdam",
@@ -129,12 +131,13 @@ JSON YAPISI:
 Seviye Kriteri: {level_specs[current_level]}
 """
 
-    for api_key in API_KEYS:
+    for i, api_key in enumerate(API_KEYS):
         genai.configure(api_key=api_key)
         MODELS_TO_TRY = get_available_models()
         for model_name in MODELS_TO_TRY:
             try:
-                print(f"🔄 Deneniyor: {model_name} | Key: {api_key[:8]}...")
+                # Security Engineer notu: Anahtarın sadece uzunluğunu basarak debug yapıyoruz
+                print(f"🔄 Deneniyor: {model_name} | Key {i+1} (Uzunluk: {len(api_key)})")
                 model = genai.GenerativeModel(model_name)
                 response = model.generate_content(prompt)
                 
@@ -158,10 +161,11 @@ Seviye Kriteri: {level_specs[current_level]}
                 return 
 
             except Exception as e:
+                # 400 API_KEY_INVALID hatasını burada da yakalayıp diğer anahtara geçiyoruz
                 print(f"⚠️ Hata ({model_name}): {str(e)[:100]}")
                 continue
 
-    print("🚨 TÜM DENEMELER BAŞARISIZ.")
+    print("🚨 TÜM DENEMELER BAŞARISIZ. Lütfen API kotalarını veya Secret içeriklerini kontrol edin.")
 
 if __name__ == "__main__":
     generate_story()
