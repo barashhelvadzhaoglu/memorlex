@@ -1,131 +1,195 @@
 import json
 import os
-import sys
+from datetime import datetime
+import random
+import re
 import requests
 import time
-from gtts import gTTS
-from moviepy import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
-from PIL import Image
+from dotenv import load_dotenv
 
-def download_image(prompt, path, index):
-    """
-    image_prompts alanından gelen İngilizce prompt ile görsel üretir.
-    Pollinations AI Flux modelini önceliklendirir.
-    """
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+load_dotenv()
+
+# API Key Havuzu
+API_KEYS = [
+    os.getenv("GEMINI_API_KEY_1"), 
+    os.getenv("GEMINI_API_KEY_2"), 
+    os.getenv("GEMINI_API_KEY")
+]
+API_KEYS = [key for key in API_KEYS if key]
+current_key_index = 0
+
+# Discovery sonucunda kesinleşen güncel model listesi
+MODELS_TO_TRY = [
+    "models/gemini-2.5-flash",
+    "models/gemini-2.0-flash",
+    "models/gemini-2.5-flash-lite",
+    "models/gemini-1.5-pro"
+]
+
+def get_next_filename(directory):
+    """storie-001.json varsa atla, 002'den itibaren sıradaki boş numarayı bul."""
+    if not os.path.exists(directory):
+        return "storie-002.json"
+
+    files = [f for f in os.listdir(directory) if f.startswith("storie-") and f.endswith(".json")]
+    numbers = set()
+    for f in files:
+        m = re.search(r"storie-(\d+)", f)
+        if m:
+            numbers.add(int(m.group(1)))
+
+    next_number = 2
+    while next_number in numbers:
+        next_number += 1
+
+    padding = max(3, len(str(next_number)))
+    return f"storie-{next_number:0{padding}d}.json"
+
+def call_gemini(prompt, api_key, model_path):
+    """Direkt REST API v1 üzerinden çağrı yapar."""
+    url = f"https://generativelanguage.googleapis.com/v1/{model_path}:generateContent?key={api_key}"
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxOutputTokens": 4096,
+        }
     }
+    response = requests.post(url, json=payload, timeout=90)
+    return response
 
-    # 1. Pollinations AI - Flux Model (En yüksek kalite)
-    try:
-        # Prompt'u URL güvenli hale getir
-        encoded = requests.utils.quote(prompt[:200])
-        seed = int(time.time()) + (index * 137)
-        # Daha gerçekçi sonuçlar için 'flux' veya 'turbo' modelini zorluyoruz
-        url = (
-            f"https://pollinations.ai/p/{encoded}"
-            f"?width=1280&height=720&nologo=true&seed={seed}&model=flux&enhance=true"
-        )
-        r = requests.get(url, headers=headers, timeout=45)
-        if r.status_code == 200 and len(r.content) > 10000:
-            with open(path, 'wb') as f:
-                f.write(r.content)
-            
-            # MoviePy / FFmpeg uyumluluğu için görüntüyü normalize et
-            with Image.open(path) as img:
-                img.convert('RGB').resize((1280, 720)).save(path, "JPEG", quality=95)
-            print(f"  🎨 Görsel üretildi (Pollinations Flux): {prompt[:60]}...")
-            return True
-    except Exception as e:
-        print(f"  ⚠️ Pollinations hatası: {e}")
-
-    # 2. Son çare: Gradyan arka plan (Unsplash bazen Mac'te timeout verebilir)
-    img = Image.new('RGB', (1280, 720), color=(40, 44, 52))
-    img.save(path)
-    print(f"  🎨 Default arka plan kullanıldı.")
-    return True
-
-def create_storybook(json_path):
-    if not os.path.exists(json_path):
-        print(f"❌ Hata: {json_path} bulunamadı.")
+def generate_story():
+    global current_key_index
+    if not API_KEYS:
+        print("❌ HATA: API key bulunamadı!")
         return
 
-    with open(json_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    # Gün bazlı seviye belirleme
+    weekday = datetime.now().weekday()
+    levels_map = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1", 5: "a1", 6: "a2"}
+    current_level = levels_map.get(weekday, "a1")
 
-    paragraphs = data['text']
-    story_id = data['id']
-    image_prompts = data.get('image_prompts', [])
+    # Seviye spesifikasyonları
+    level_specs = {
+        "a1": "Basit ve kısa cümleler. Tanışma, temel ihtiyaçlar, saat ve fiyat sorma gibi günlük dialoglar. Hedef: ~150-200 kelime.",
+        "a2": "Geçmiş zaman (Perfekt) ve şimdiki zaman karışık. Günlük hayat, basit e-posta dili. Hedef: ~250-350 kelime.",
+        "b1": "Resmi yazışmalar, vlog tadında anlatımlar. Yan cümleler, modal fiiller. Hedef: ~400-500 kelime.",
+        "b2": "Akademik tartışmalar, Konjunktiv II, soyut kavramlar. Hedef: ~550-650 kelime.",
+        "c1": "Çok katmanlı akademik analizler, felsefi perspektifler. Hedef: ~750-900 kelime."
+    }
 
-    # Klasör kontrolü
-    output_dir = "output_videos"
-    os.makedirs(output_dir, exist_ok=True)
+    # Geniş konu havuzu
+    topic_pool = [
+        "Geschichte: Die Berliner Mauer, der Kölner Dom, Münchens Wiederaufbau nach 1945",
+        "Städte: Hamburgs Speicherstadt, Industriekultur im Ruhrgebiet, Die Schlösser in Potsdam",
+        "Kultur: Oktoberfest Geschichte, Karneval im Rheinland, deutsche Feiertage, Die deutsche Brotkultur",
+        "Traditionen: Weihnachtsmärkte, Schützenfeste, Brauchtum in den Alpen (Almabtrieb)",
+        "Alltag: Mülltrennung-Kultur, Sonntagsruhe, Vereinsleben, Ehrenamt, Pfandsystem",
+        "Wohnen: Mietverträge, Mieterrechte, Kehrwoche in Baden-Württemberg, Energie sparen",
+        "Wissenschaft: Berühmte deutsche Erfinder (Gutenberg, Benz, Einstein), Max-Planck-Institut",
+        "Weltraum: Das deutsche Zentrum für Luft- und Raumfahrt (DLR), Alexander Gerst und die ISS",
+        "Technologie: Robotik, Künstliche Intelligenz in deutschen Firmen, Industrie 4.0",
+        "Gesundheit: Das deutsche Gesundheitssystem, Hausarztmodell, Krankenversicherung",
+        "Sport: Die Geschichte der Bundesliga, Wandersport, Breitensport und Fitness-Trends",
+        "Geographie: Die Alpen, die Nord- ve Ostsee, Der Schwarzwald",
+        "Umwelt: Erneuerbare Energien, Klimaschutzziele, Der deutsche Wald",
+        "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Rundfunkbeitrag",
+        "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht und Abitur",
+        "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand",
+        "Transport: Geschichte der Autobahn, Deutschlandticket, Fahrradstädte, Deutsche Bahn"
+    ]
 
-    scenes = []
-    
-    # macOS için font yolu (Arial Bold her Mac'te vardır)
-    FONT_PATH = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
-    # Eğer Linux/GitHub Actions ise:
-    if not os.path.exists(FONT_PATH):
-        FONT_PATH = "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
+    selected_topics = random.sample(topic_pool, 2)
 
-    for i, para in enumerate(paragraphs):
-        if not para.strip(): continue
+    prompt = f"""
+Sen bir Goethe/Telc dil sınavı uzmanısın. {current_level.upper()} seviyesinde sınav formatına tam eşdeğer bir içerik üret.
+SADECE JSON döndür, başka hiçbir açıklama yazma:
+{{
+  "id": "storie-ID",
+  "youtubeId": "",
+  "title": "Almanca Başlık",
+  "summary": "NUR AUF DEUTSCH! (Max 2 Sätze)",
+  "text": ["P1", "P2", "P3", "P4"],
+  "image_prompts": [
+    "realistic photo, cinematic lighting, high resolution, 8k",
+    "realistic photo, cinematic lighting, high resolution, 8k",
+    "realistic photo, cinematic lighting, high resolution, 8k",
+    "realistic photo, cinematic lighting, high resolution, 8k"
+  ],
+  "vocab": [
+    {{
+      "term": "Almanca Kelime",
+      "type": "Nomen/Verb/Adj",
+      "meaning_tr": "Türkçe",
+      "meaning_en": "English",
+      "meaning_es": "Español",
+      "meaning_ua": "Ukrainian",
+      "example": "Almanca örnek cümle"
+    }}
+  ],
+  "questions": [
+    {{
+      "question": "Soru metni",
+      "options": ["A seçeneği", "B seçeneği", "C seçeneği", "D seçeneği"],
+      "answer": "Doğru Seçenek"
+    }}
+  ]
+}}
+(Konu: {selected_topics}, Seviye Detayı: {level_specs[current_level]})
+"""
 
-        print(f"\n🎬 Sahne {i+1}/{len(paragraphs)} hazırlanıyor...")
+    # Failover Mantığı (Model ve Key döngüsü)
+    for model_path in MODELS_TO_TRY:
+        if current_key_index >= len(API_KEYS):
+            break
+            
+        key = API_KEYS[current_key_index]
+        try:
+            print(f"🚀 Deneniyor: {model_path} | Key: {current_key_index + 1} | Seviye: {current_level.upper()}")
+            response = call_gemini(prompt, key, model_path)
 
-        # 1. Ses (gTTS)
-        audio_path = f"temp_audio_{i}.mp3"
-        gTTS(text=para, lang='de').save(audio_path)
-        audio_clip = AudioFileClip(audio_path)
+            if response.status_code == 200:
+                res_json = response.json()
+                raw_text = res_json['candidates'][0]['content']['parts'][0]['text']
+                
+                # JSON Ayıklama
+                json_match = re.search(r'\{.*\}', raw_text, re.DOTALL)
+                if not json_match:
+                    continue
+                
+                data = json.loads(json_match.group(0).strip())
 
-        # 2. Görsel
-        img_path = f"temp_img_{i}.jpg"
-        img_prompt = image_prompts[i] if i < len(image_prompts) else para
-        download_image(img_prompt, img_path, i)
+                # Klasör ve Dosya İşlemleri
+                save_dir = os.path.join("src", "data", "stories", "de", current_level)
+                file_name = get_next_filename(save_dir)
+                file_path = os.path.join(save_dir, file_name)
 
-        # 3. Klipler
-        bg_clip = ImageClip(img_path).with_duration(audio_clip.duration).with_fps(24)
-        
-        # Yazı katmanı - Okunabilirliği artırmak için siyah bant (bg_color) eklendi
-        txt_clip = TextClip(
-            text=para,
-            font_size=32,
-            color='white',
-            font=FONT_PATH,
-            method='caption',
-            size=(1100, None),
-            text_align='center',
-            bg_color='rgba(0,0,0,0.6)' 
-        ).with_duration(audio_clip.duration).with_position(('center', 500))
+                if os.path.exists(file_path):
+                    return
 
-        # 4. Composite
-        scene = CompositeVideoClip([bg_clip, txt_clip], size=(1280, 720)).with_audio(audio_clip)
-        scenes.append(scene)
+                data["id"] = file_name.replace(".json", "")
+                os.makedirs(save_dir, exist_ok=True)
+                
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(data, f, ensure_ascii=False, indent=2)
+                
+                print(f"✅ BAŞARILI: {file_path}")
+                return 
 
-    # 5. Render
-    print("\n🎥 Video birleştiriliyor...")
-    final_video = concatenate_videoclips(scenes, method="compose")
-    output_path = os.path.join(output_dir, f"{story_id}.mp4")
+            elif response.status_code == 429:
+                print(f"⚠️ 429 Kota Dolu ({model_path}). Key değiştiriliyor...")
+                current_key_index += 1
+                time.sleep(2)
+                continue
+            else:
+                print(f"❌ API Hatası ({response.status_code}) — {model_path}")
+                continue
 
-    final_video.write_videofile(
-        output_path,
-        fps=24,
-        codec="libx264",
-        audio_codec="aac",
-        # Mac işlemcisi (M1/M2/M3) için hızı artırır
-        preset="medium" 
-    )
+        except Exception as e:
+            print(f"⚠️ Hata: {str(e)[:50]}")
+            continue
 
-    # 6. Temizlik
-    for i in range(len(paragraphs)):
-        for tmp in [f"temp_audio_{i}.mp3", f"temp_img_{i}.jpg"]:
-            if os.path.exists(tmp): os.remove(tmp)
-
-    print(f"\n✅ Video hazır: {output_path}")
+    print("🚨 TÜM DENEMELER BAŞARISIZ.")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        create_storybook(sys.argv[1])
-    else:
-        print("Kullanım: python scripts/create_storybook.py <json_dosyası>")
+    generate_story()
