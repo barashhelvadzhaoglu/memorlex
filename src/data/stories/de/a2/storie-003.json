@@ -1,0 +1,116 @@
+{
+  "id": "storie-003",
+  "youtubeId": "",
+  "title": "Anmeldung in München: Ein neuer Anfang",
+  "summary": "Maria ist neu in München und muss sich beim KVR anmelden. Sie lernt, welche Dokumente sie braucht und welche anderen bürokratischen Schritte in Deutschland wichtig sind.",
+  "text": [
+    "Maria ist neu in München. Sie kommt aus der Türkei und möchte hier studieren und arbeiten. Letzte Woche ist sie in ihre neue Wohnung gezogen. Das erste, was Maria jetzt machen muss, ist die Anmeldung beim KVR (Kreisverwaltungsreferat). Ohne Anmeldung kann sie viele Dinge nicht erledigen. Es ist sehr wichtig und muss innerhalb von zwei Wochen nach dem Einzug passieren.",
+    "Für die Anmeldung braucht Maria einige Dokumente. Sie hat ihren Reisepass und den Mietvertrag für die Wohnung mitgebracht. Im KVR hat sie ein Formular ausgefüllt. Eine nette Mitarbeiterin hat ihr geholfen. Maria hat jetzt eine Meldebescheinigung bekommen. Das war der erste große Schritt in Deutschland! Sie hat sich erleichtert gefühlt.",
+    "Neben der Anmeldung gibt es noch andere wichtige Themen. Wenn man Kinder hat, kann man Kindergeld beantragen. Das ist eine finanzielle Unterstützung vom Staat. Für Eltern von kleinen Kindern gibt es auch Elterngeld. Maria hat noch keine Kinder, aber sie hat sich informiert. Ein weiteres Thema ist der Rundfunkbeitrag. Jede Wohnung in Deutschland muss diesen Beitrag bezahlen, egal ob man Radio oder Fernsehen nutzt. Maria hat einen Brief vom Beitragsservice bekommen und muss sich bald anmelden.",
+    "Maria hat viel gelernt. Die Bürokratie in Deutschland ist manchmal kompliziert, aber mit Geduld und den richtigen Informationen ist es machbar. Sie ist froh, dass sie die Anmeldung schon erledigt hat. Jetzt kann sie ein Bankkonto eröffnen und ihren Deutschkurs beginnen. München ist eine schöne Stadt und Maria freut sich auf ihr neues Leben hier."
+  ],
+  "image_prompts": [
+    "realistic photo of a young woman arriving in Munich, holding a suitcase, looking happy and a bit overwhelmed, city background with famous landmarks",
+    "realistic photo of a person at a counter in a modern German government office (KVR), showing documents to a friendly clerk, with a sign 'Anmeldung' in the background",
+    "realistic photo of a family with a baby, looking at official letters at a kitchen table, representing Kindergeld/Elterngeld, maybe a radio or TV visible in the background",
+    "realistic photo of a young woman smiling, holding a German language textbook, sitting in a cafe in Munich, feeling accomplished, a view of a charming street outside"
+  ],
+  "vocab": [
+    {
+      "term": "die Anmeldung",
+      "type": "Nomen",
+      "meaning_tr": "kayıt, başvuru",
+      "meaning_en": "registration",
+      "meaning_es": "registro",
+      "meaning_ua": "реєстрація",
+      "example": "Die Anmeldung beim KVR ist sehr wichtig."
+    },
+    {
+      "term": "der Mietvertrag",
+      "type": "Nomen",
+      "meaning_tr": "kira sözleşmesi",
+      "meaning_en": "rental agreement",
+      "meaning_es": "contrato de alquiler",
+      "meaning_ua": "договір оренди",
+      "example": "Für die Wohnung hat Maria einen Mietvertrag unterschrieben."
+    },
+    {
+      "term": "ausfüllen",
+      "type": "Verb",
+      "meaning_tr": "doldurmak (form)",
+      "meaning_en": "to fill out (a form)",
+      "meaning_es": "rellenar (un formulario)",
+      "meaning_ua": "заповнювати",
+      "example": "Man muss ein Formular ausfüllen."
+    },
+    {
+      "term": "beantragen",
+      "type": "Verb",
+      "meaning_tr": "başvurmak (talep etmek)",
+      "meaning_en": "to apply for",
+      "meaning_es": "solicitar",
+      "meaning_ua": "подавати заяву, клопотати",
+      "example": "Man kann Kindergeld beantragen."
+    },
+    {
+      "term": "der Beitrag",
+      "type": "Nomen",
+      "meaning_tr": "katkı, aidat",
+      "meaning_en": "contribution, fee",
+      "meaning_es": "contribución, cuota",
+      "meaning_ua": "внесок",
+      "example": "Der Rundfunkbeitrag ist monatlich zu zahlen."
+    },
+    {
+      "term": "erledigen",
+      "type": "Verb",
+      "meaning_tr": "halletmek, tamamlamak",
+      "meaning_en": "to take care of, to complete",
+      "meaning_es": "gestionar, completar",
+      "meaning_ua": "виконати, владнати",
+      "example": "Maria hat die Anmeldung schnell erledigt."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Was ist Marias erster wichtiger Schritt in München?",
+      "options": [
+        "A) Einen Deutschkurs besuchen",
+        "B) Ein Bankkonto eröffnen",
+        "C) Sich beim KVR anmelden",
+        "D) Eine Arbeit finden"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Welche Dokumente braucht Maria für die Anmeldung beim KVR?",
+      "options": [
+        "A) Nur ihren Reisepass",
+        "B) Ihren Reisepass und den Mietvertrag",
+        "C) Den Mietvertrag und ein Foto",
+        "D) Nur ein Formular"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Was ist der Rundfunkbeitrag?",
+      "options": [
+        "A) Geld für öffentliche Verkehrsmittel",
+        "B) Eine Steuer für das Internet",
+        "C) Eine Gebühr für Radio und Fernsehen",
+        "D) Eine Spende für Museen"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Wie lange hat Maria Zeit, um sich nach dem Einzug anzumelden?",
+      "options": [
+        "A) Eine Woche",
+        "B) Zwei Wochen",
+        "C) Einen Monat",
+        "D) Drei Monate"
+      ],
+      "answer": "B"
+    }
+  ]
+}
