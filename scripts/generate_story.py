@@ -14,12 +14,13 @@ API_KEYS = [os.getenv("GEMINI_API_KEY_1"), os.getenv("GEMINI_API_KEY_2"), os.get
 API_KEYS = [key for key in API_KEYS if key]
 current_key_index = 0
 
-# Güncel model listesi (Çalışan örneğe göre düzenlendi)
+# Ekran görüntüsündeki resmi model isimlerine göre güncellendi
 MODELS_TO_TRY = [
-    "models/gemini-2.5-flash", 
-    "models/gemini-3-flash",
-    "models/gemini-2.5-flash-lite",
-    "models/gemini-1.5-flash",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-2-flash",
+    "gemini-2-flash-exp",
+    "gemini-1.5-flash"
 ]
 
 def get_next_filename(directory):
@@ -43,7 +44,7 @@ def get_next_filename(directory):
 
 def call_gemini(prompt, api_key, model_name):
     """Direkt REST API ile Gemini çağrısı yapar."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -52,7 +53,6 @@ def call_gemini(prompt, api_key, model_name):
         }
     }
     response = requests.post(url, json=payload, timeout=90)
-    # Hata kodlarını üst fonksiyonda kontrol etmek için raise_for_status() yerine response döndürüyoruz
     return response
 
 def generate_story():
@@ -66,11 +66,11 @@ def generate_story():
     current_level = levels_map.get(weekday, "a1")
 
     level_specs = {
-        "a1": "Basit ve kısa cümleler. Tanışma, temel ihtiyaçlar, saat ve fiyat sorma gibi günlük dialoglar. Şimdiki zaman ağırlıklı, somut rakamlar doğrudan sorulur. Hedef: ~150-200 kelime.",
-        "a2": "Geçmiş zaman (Perfekt) ve şimdiki zaman karışık. Günlük hayat, basit e-posta/mektup dili, temel bağlaçlar. Hedef: ~250-350 kelime.",
-        "b1": "Resmi yazışmalar, vlog tadında anlatımlar. Yan cümleler, modal fiiller. Tuzak bilgiler sorgulanır. Hedef: ~400-500 kelime.",
-        "b2": "Akademik tartışmalar, Konjunktiv II, soyut kavramlar, hipotez kurma. Hedef: ~550-650 kelime.",
-        "c1": "Çok katmanlı akademik analizler, felsefi perspektifler, nominal stil. Hedef: ~750-900 kelime."
+        "a1": "Basit ve kısa cümleler. Tanışma, temel ihtiyaçlar, saat ve fiyat sorma gibi hayati günlük dialoglar. Kelime haznesi sınırlı (A1 seviye sertifika kelimeleri). Şimdiki zaman ağırlıklı, somut rakamlar (saat, fiyat, peron) doğrudan ve net bir şekilde sorulur. Karmaşık bağlaçlardan kaçınılır. Hedef: ~150-200 kelime.",
+        "a2": "Geçmiş zaman (Perfekt) ve şimdiki zaman karışık. Günlük hayat anonsları, basit e-posta/mektup dili, temel bağlaçlar (und, aber, weil, dann). Karmaşık olmayan betimlemeler ve kişisel deneyimlerin aktarımı. Rakamlar ve kilit veriler metin içinde hafif dağınık verilir, doğrudan okuma/anlama becerisi test edilir. Hedef: ~250-350 kelime.",
+        "b1": "Resmi yazışmalar, radyo programı veya vlog tadında anlatımlar, fikir beyan etme (Meinung äußern). Yan cümleler (Nebensätze: dass, obwohl, wenn), pasif yapı başlangıcı ve modal fiillerin yoğun kullanımı. Sosyal konular, iş yaşamı ve eğitim üzerine odaklanır. Sınav formatına uygun olarak 'tuzak' bilgiler sorgulanır. Hedef: ~400-500 kelime.",
+        "b2": "Akademik ve profesyonel tartışmalar, detaylı gazete makaleleri, varsayımsal durumlar (Konjunktiv II) ve gelecek zaman. Soyut kavramlar üzerine analizler, hipotez kurma ve sebep-sonuç ilişkilerinin derinleştirilmesi. Hedef: ~550-650 kelime.",
+        "c1": "Çok katmanlı akademik analizler, toplumsal değişimlerin derinlemesine incelenmesi, tarihsel ve felsefi perspektifler. Üst düzey retorik araçlar ve nominal stil. Hedef: ~750-900 kelime."
     }
 
     topic_pool = [
@@ -86,7 +86,7 @@ def generate_story():
         "Gesundheit: Das deutsche Gesundheitssystem, Hausarztmodell, Krankenversicherung",
         "Sport: Die Geschichte der Bundesliga, Wandersport, Breitensport und Fitness-Trends",
         "Geographie: Die Alpen, die Nord- und Ostsee, Der Schwarzwald",
-        "Umwelt: Erneuerbare Energies, Klimaschutzziele, Der deutsche Wald",
+        "Umwelt: Erneuerbare Energien, Klimaschutzziele, Der deutsche Wald",
         "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Rundfunkbeitrag",
         "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht und Abitur",
         "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand",
@@ -137,57 +137,44 @@ SADECE JSON döndür, başka hiçbir şey yazma:
 (Vocab: 15-20 adet. text: tam 4 paragraf. image_prompts: text ile aynı uzunlukta.)
 """
 
-    # Tüm key + model kombinasyonlarını sırayla dene (Failover Mantığı)
+    # --- Failover Mantığı ---
     for model_name in MODELS_TO_TRY:
         key = API_KEYS[current_key_index]
         try:
-            print(f"🚀 Deneniyor: {model_name} | Key: {current_key_index + 1} | Seviye: {current_level.upper()}")
+            print(f"🚀 Deneniyor: {model_name} | Key Index: {current_key_index + 1} | Seviye: {current_level.upper()}")
             response = call_gemini(prompt, key, model_name)
 
             if response.status_code == 200:
                 res_json = response.json()
                 raw_text = res_json['candidates'][0]['content']['parts'][0]['text']
-
-                # JSON temizle
                 content = raw_text.replace("```json", "").replace("```", "").strip()
                 data = json.loads(content)
 
-                # Dosya kaydet
                 save_dir = os.path.join("src", "data", "stories", "de", current_level)
                 file_name = get_next_filename(save_dir)
                 file_path = os.path.join(save_dir, file_name)
 
-                if os.path.exists(file_path):
-                    print(f"⚠️ Dosya zaten mevcut, atlanıyor: {file_path}")
-                    return
-
+                if os.path.exists(file_path): return
                 data["id"] = file_name.replace(".json", "")
                 os.makedirs(save_dir, exist_ok=True)
-
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
-
-                print(f"✅ BAŞARILI: {file_path} ({model_name})")
-                return  # Başarılı, çık
+                print(f"✅ BAŞARILI: {file_path}")
+                return 
 
             elif response.status_code == 429:
-                print(f"⚠️ Kota dolu (429) — {model_name}. Sonraki model deneniyor...")
+                print(f"⚠️ 429 Kota Dolu ({model_name}). Key değiştiriliyor...")
+                current_key_index = (current_key_index + 1) % len(API_KEYS)
                 continue
             else:
-                print(f"❌ API Hatası ({response.status_code}) — {model_name}. Key değiştiriliyor...")
-                current_key_index = (current_key_index + 1) % len(API_KEYS)
-                time.sleep(1)
+                print(f"❌ API Hatası ({response.status_code}) — {model_name}. Diğer model deneniyor...")
                 continue
 
-        except (json.JSONDecodeError, KeyError) as e:
-            print(f"⚠️ JSON parse hatası ({model_name}): {str(e)[:80]}")
-            continue
-
         except Exception as e:
-            print(f"⚠️ Beklenmedik hata ({model_name}): {str(e)[:100]}")
+            print(f"⚠️ Beklenmedik Hata ({model_name}): {str(e)[:50]}")
             continue
 
-    print("🚨 TÜM KEY VE MODELLER DENENDİ, SONUÇ ALINAMADI.")
+    print("🚨 TÜM DENEMELER BAŞARISIZ.")
 
 if __name__ == "__main__":
     generate_story()
