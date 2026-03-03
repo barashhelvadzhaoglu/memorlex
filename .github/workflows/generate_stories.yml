@@ -2,8 +2,8 @@ name: Weekly Level-Based Story & Video Generator
 
 on:
   schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
+    - cron: '0 3 * * *' # Her gün Türkiye saatiyle 06:00
+  workflow_dispatch: # Manuel çalıştırma butonu
 
 jobs:
   generate:
@@ -24,6 +24,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick fonts-liberation ffmpeg
+          # ImageMagick'in Linux üzerinde yazı yazma iznini aktif et
           sudo sed -i 's/domain="path" rights="none" pattern="@\*"/domain="path" rights="read|write" pattern="@\*"/g' /etc/ImageMagick-6/policy.xml
 
       - name: Install Python Dependencies
@@ -38,16 +39,29 @@ jobs:
           GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
+          # Scripti çalıştır ve tüm çıktıyı (hatalar dahil) output.txt'ye yaz
           python scripts/generate_story.py > output.txt 2>&1
           cat output.txt
+          
+          # Senin lokalde aldığın "✅ BAŞARILI: ..." satırını yakala
           STORY_PATH=$(grep "✅ BAŞARILI:" output.txt | awk -F': ' '{print $2}' | xargs)
+          
+          if [ -z "$STORY_PATH" ]; then
+            echo "🚨 JSON dosyası oluşturulamadı, durduruluyor."
+            exit 1
+          fi
+          
+          # Yakalanan yolu sonraki adımlar için çevresel değişkene kaydet
           echo "STORY_FILE=$STORY_PATH" >> $GITHUB_ENV
+          echo "HEDEF DOSYA: $STORY_PATH"
 
       - name: Step 2 - Create Video
         if: env.STORY_FILE != ''
-        run: python scripts/create_storybook.py "${{ env.STORY_FILE }}"
+        run: |
+          echo "🎥 Video oluşturuluyor: ${{ env.STORY_FILE }}"
+          python scripts/create_storybook.py "${{ env.STORY_FILE }}"
 
-      - name: Step 3 - Artifacts
+      - name: Step 3 - Upload Video Artifact
         if: success() && env.STORY_FILE != ''
         uses: actions/upload-artifact@v4
         with:
@@ -55,11 +69,12 @@ jobs:
           path: output_videos/*.mp4
           retention-days: 3
 
-      - name: Step 4 - Commit and Push
+      - name: Step 4 - Commit and Push JSON
         if: success() && env.STORY_FILE != ''
         run: |
           git config --global user.name 'GitHub Action Bot'
           git config --global user.email 'action@github.com'
           git add src/data/stories/de/
-          git commit -m "🚀 Auto-Generated: ${{ env.STORY_FILE }}" || echo "No changes"
+          # Yeni hikayeyi repoya ekle
+          git commit -m "🚀 Auto-Generated Story: ${{ env.STORY_FILE }}" || echo "No changes to commit"
           git push
