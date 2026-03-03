@@ -28,7 +28,7 @@ def get_latest_flash_model():
 def get_next_filename(directory):
     """storie-001.json varsa atla, 002'den itibaren sıradaki boş numarayı bul."""
     if not os.path.exists(directory):
-        return "storie-002.json"  # 001 zaten var, 002'den başla
+        return "storie-002.json"
 
     files = [f for f in os.listdir(directory) if f.startswith("storie-") and f.endswith(".json")]
     numbers = set()
@@ -37,7 +37,6 @@ def get_next_filename(directory):
         if m:
             numbers.add(int(m.group(1)))
 
-    # 002'den başlayarak ilk boş numarayı bul
     next_number = 2
     while next_number in numbers:
         next_number += 1
@@ -73,7 +72,7 @@ def generate_story():
         "Geographie: Die Alpen, die Nord- und Ostsee, Der Schwarzwald, Unterschiede zwischen Ost- und Westdeutschland",
         "Umwelt: Erneuerbare Energien, Klimaschutzziele in Deutschland, Der deutsche Wald",
         "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Rundfunkbeitrag, Steuererklärung",
-        "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht and Abitur",
+        "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht und Abitur",
         "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand als Rückgrat",
         "Transport: Geschichte der Autobahn, Deutschlandticket, Fahrradstädte wie Münster, Deutsche Bahn"
     ]
@@ -124,12 +123,12 @@ def generate_story():
     (Vocab: 15-20 adet. text dizisi tam 4 paragraf olmalı. image_prompts dizisi text ile aynı uzunlukta olmalı.)
     """
 
-    # API Key ve Model deneme döngüsü
+    # --- 162. Satır Civarı: API Key ve Model Döngüsü Entegrasyonu ---
     for api_key in API_KEYS:
         genai.configure(api_key=api_key)
         for model_name in MODELS_TO_TRY:
             try:
-                print(f"🔄 Deneniyor: Model: {model_name} (Key: {api_key[:10]}...)")
+                print(f"🔄 Deneniyor: Model: {model_name} (Key Başlangıcı: {api_key[:10]}...)")
                 model = genai.GenerativeModel(model_name)
                 response = model.generate_content(prompt)
                 content = response.text.strip()
@@ -155,13 +154,14 @@ def generate_story():
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
 
-                print(f"✅ Başarılı: {file_path} yazıldı. (Seviye: {current_level.upper()})")
-                return # Başarılı olduysa fonksiyondan çık
+                print(f"✅ Başarılı: {file_path} yazıldı. (Seviye: {current_level.upper()}, Model: {model_name})")
+                return # Başarı durumunda çıkış yap
 
             except Exception as e:
-                print(f"⚠️ Hata (Model: {model_name}): {str(e)}")
-                continue # Bir sonraki modele veya anahtara geç
+                print(f"⚠️ Hata (Model: {model_name}): {str(e)[:100]}")
+                continue # Hata durumunda bir sonraki modeli dene
 
+    # Tüm kombinasyonlar biterse hata bas
     print("❌ Tüm API anahtarları ve modeller denendi, sonuç alınamadı.")
 
 if __name__ == "__main__":
