@@ -5,8 +5,13 @@ import requests
 import re
 import time
 from gtts import gTTS
-from moviepy import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
 from PIL import Image
+
+# MoviePy 2.0+ ve Eski Sürümler Arası Import Uyumluluğu
+try:
+    from moviepy import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
+except ImportError:
+    from moviepy.editor import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
 
 def download_image(prompt, path, index):
     """JSON içindeki özel İngilizce promptu kullanarak görsel indirir."""
@@ -16,7 +21,6 @@ def download_image(prompt, path, index):
     }
     
     try:
-        # Pollinations AI üzerinden yüksek kaliteli görsel çekimi
         encoded_prompt = requests.utils.quote(clean_prompt[:250])
         url = f"https://pollinations.ai/p/{encoded_prompt}?width=1280&height=720&nologo=true&seed={int(time.time())+index}"
         
@@ -27,10 +31,9 @@ def download_image(prompt, path, index):
                 img.convert('RGB').resize((1280, 720)).save(path, "JPEG", quality=95)
             return True
     except Exception as e:
-        print(f"⚠️ Görsel indirme hatası (Pollinations): {e}")
+        print(f"⚠️ Görsel indirme hatası: {e}")
 
     try:
-        # Fallback: Picsum (Hata durumunda yedek görsel)
         fallback_url = f"https://picsum.photos/seed/{index+int(time.time())}/1280/720"
         r = requests.get(fallback_url, timeout=15)
         if r.status_code == 200:
@@ -40,15 +43,32 @@ def download_image(prompt, path, index):
         return False
 
 def get_system_font():
-    """İşletim sistemine göre (macOS/Linux) uygun font yolunu döndürür."""
+    """İşletim sistemine göre uygun font yolunu döndürür."""
     paths = [
-        "/System/Library/Fonts/Supplemental/Arial.ttf",  # macOS (Münih'teki lokal makinen)
-        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",  # Linux (GitHub Actions/Server)
+        "/System/Library/Fonts/Supplemental/Arial.ttf",  # macOS
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",  # Linux
         "C:\\Windows\\Fonts\\arial.ttf"  # Windows
     ]
     for p in paths:
         if os.path.exists(p): return p
     return "Arial"
+
+def apply_effect(clip, effect_name, duration=0.5):
+    """MoviePy sürümüne göre doğru efekti uygular."""
+    method_name = f"with_{effect_name}"
+    if hasattr(clip, method_name):
+        return getattr(clip, method_name)(duration)
+    elif hasattr(clip, effect_name):
+        return getattr(clip, effect_name)(duration)
+    return clip
+
+def set_clip_attr(clip, attr_name, value):
+    """MoviePy sürümüne göre with_X veya set_X metodunu çağırır."""
+    for prefix in ['with_', 'set_']:
+        method = f"{prefix}{attr_name}"
+        if hasattr(clip, method):
+            return getattr(clip, method)(value)
+    return clip
 
 def create_storybook(json_path):
     if not os.path.exists(json_path):
@@ -64,7 +84,7 @@ def create_storybook(json_path):
     scenes = []
     
     FONT_PATH = get_system_font()
-    CROSSFADE_TIME = 1.0 # Sahneler arası geçiş süresi (saniye)
+    CROSSFADE_TIME = 1.0 
     print(f"ℹ️ Kullanılan Font: {FONT_PATH} | Efekt: {CROSSFADE_TIME}s Crossfade")
 
     for i, para in enumerate(paragraphs):
@@ -72,46 +92,46 @@ def create_storybook(json_path):
         
         print(f"🎬 Sahne {i+1}/{len(paragraphs)} hazırlanıyor...")
         
-        # 1. Ses Oluşturma (Google TTS)
         audio_path = f"temp_audio_{i}.mp3"
         gTTS(text=para, lang='de').save(audio_path)
         audio_clip = AudioFileClip(audio_path)
 
-        # 2. Görsel İndirme (JSON'daki İngilizce Prompt ile)
         img_path = f"temp_img_{i}.jpg"
         current_prompt = image_prompts[i] if i < len(image_prompts) else para
-        
-        if not download_image(current_prompt, img_path, i):
-            Image.new('RGB', (1280, 720), color=(20, 30, 48)).save(img_path)
+        download_image(current_prompt, img_path, i)
 
-        # 3. Klipleri Oluşturma
-        # Crossfade için her klibin süresine geçiş payı ekliyoruz
         duration = audio_clip.duration + CROSSFADE_TIME
-        bg_clip = ImageClip(img_path).with_duration(duration).with_fps(24)
         
-        # Metin Alanı (3-4 cümlelik C1 metinleri için optimize edildi)
+        # Klip Ayarları (Sürüm bağımsız)
+        bg_clip = ImageClip(img_path)
+        bg_clip = set_clip_attr(bg_clip, 'duration', duration)
+        bg_clip = set_clip_attr(bg_clip, 'fps', 24)
+        
+        # Metin Ayarları
         txt_clip = TextClip(
             text=para, 
             font_size=26,               
             color='white', 
             font=FONT_PATH,
             method='caption',           
-            size=(1100, 300),           
-            text_align='center',
-            bg_color='black'            
-        ).with_duration(duration).with_opacity(0.75).with_position(('center', 400))
+            size=(1100, 300)
+        )
+        txt_clip = set_clip_attr(txt_clip, 'duration', duration)
+        txt_clip = set_clip_attr(txt_clip, 'position', ('center', 400))
+        txt_clip = set_clip_attr(txt_clip, 'opacity', 0.75)
 
-        # 4. Sahneyi Birleştirme ve Fade Efektleri
-        # Sahne içi yumuşak giriş-çıkış
-        scene = CompositeVideoClip([bg_clip, txt_clip], size=(1280, 720)).with_audio(audio_clip)
-        scene = scene.with_effects([lambda clip: clip.with_fadein(0.5), lambda clip: clip.with_fadeout(0.5)])
+        # Sahne Birleştirme
+        scene = CompositeVideoClip([bg_clip, txt_clip], size=(1280, 720))
+        scene = set_clip_attr(scene, 'audio', audio_clip)
+
+        # Fade Efektleri
+        scene = apply_effect(scene, "fadein", 0.5)
+        scene = apply_effect(scene, "fadeout", 0.5)
         
         scenes.append(scene)
 
-    # 5. Final Render
     if scenes:
-        print(f"🎥 {len(scenes)} sahne Crossfade ile birleştiriliyor...")
-        # padding=-CROSSFADE_TIME: Sahneleri birbirinin üzerine bindirerek profesyonel geçiş sağlar
+        print(f"🎥 {len(scenes)} sahne birleştiriliyor...")
         final_video = concatenate_videoclips(scenes, method="compose", padding=-CROSSFADE_TIME)
         output_filename = f"{story_id}.mp4"
         
@@ -119,22 +139,17 @@ def create_storybook(json_path):
             output_filename, 
             fps=24, 
             codec="libx264", 
-            audio_codec="aac",
-            preset="ultrafast",
-            threads=4,
-            ffmpeg_params=["-pix_fmt", "yuv420p"]
+            audio_codec="aac"
         )
         
-        print("🧹 Geçici dosyalar temizleniyor...")
+        # Temizlik
         for i in range(len(paragraphs)):
             for f in [f"temp_audio_{i}.mp3", f"temp_img_{i}.jpg"]:
                 if os.path.exists(f):
                     try: os.remove(f)
                     except: pass
         
-        print(f"✨ İşlem tamamlandı: {os.path.abspath(output_filename)}")
-    else:
-        print("❌ Hata: Sahne oluşturulamadı.")
+        print(f"✨ Başarıyla oluşturuldu: {output_filename}")
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
