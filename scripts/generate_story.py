@@ -6,13 +6,19 @@ import random
 import re
 import requests
 import time
+from dotenv import load_dotenv
+
+# .env dosyasını yükle (Yerel ortamda anahtarları okuyabilmek için)
+load_dotenv()
 
 # 1. API Yapılandırması ve Key Havuzu
-API_KEYS = [os.getenv("GEMINI_API_KEY_1"), os.getenv("GEMINI_API_KEY_2")]
-API_KEYS = [key for key in API_KEYS if key]
-current_key_index = 0
+API_KEYS = []
+for key_name in ["GEMINI_API_KEY_1", "GEMINI_API_KEY_2", "GEMINI_API_KEY"]:
+    val = os.getenv(key_name)
+    if val:
+        API_KEYS.append(val)
 
-# 2. Denenecek model listesi
+# 2. Denenecek model listesi (Failover / Hata Toleransı Sırası)
 MODELS_TO_TRY = [
     "gemini-2.0-flash-exp", 
     "gemini-2.0-flash",
@@ -48,6 +54,11 @@ def get_next_filename(directory):
     return f"storie-{next_number:0{padding}d}.json"
 
 def generate_story():
+    # Güvenlik Kontrolü
+    if not API_KEYS:
+        print("❌ HATA: API_KEYS listesi boş! .env dosyasını veya GitHub Secrets'ı kontrol et.")
+        return
+
     weekday = datetime.now().weekday()
     levels_map = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1", 5: "a1", 6: "a2"}
     current_level = levels_map.get(weekday, "a1")
@@ -71,11 +82,11 @@ def generate_story():
         "Weltraum: Das deutsche Zentrum für Luft- und Raumfahrt (DLR), Alexander Gerst und die ISS",
         "Technologie: Die Zukunft der Robotik, Künstliche Intelligenz in deutschen Firmen, Industrie 4.0",
         "Gesundheit: Das deutsche Gesundheitssystem, Hausarztmodell, Krankenversicherung (TK/AOK)",
-        "Sport: Die Geschichte der Bundesliga, Wandersport in Deutschland, Breitensport ve Fitness-Trends",
+        "Sport: Die Geschichte der Bundesliga, Wandersport in Deutschland, Breitensport und Fitness-Trends",
         "Geographie: Die Alpen, die Nord- und Ostsee, Der Schwarzwald, Unterschiede zwischen Ost- und Westdeutschland",
         "Umwelt: Erneuerbare Energien, Klimaschutzziele in Deutschland, Der deutsche Wald",
         "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Rundfunkbeitrag, Steuererklärung",
-        "Bildun: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht and Abitur",
+        "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht und Abitur",
         "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand als Rückgrat",
         "Transport: Geschichte der Autobahn, Deutschlandticket, Fahrradstädte wie Münster, Deutsche Bahn"
     ]
@@ -126,25 +137,24 @@ def generate_story():
     (Vocab: 15-20 adet. text dizisi tam 4 paragraf olmalı. image_prompts dizisi text ile aynı uzunlukta olmalı.)
     """
 
-    # --- API ve Model Döngüsü (Yapıyı bozmadan 162. satır civarı entegrasyonu) ---
-    if not API_KEYS:
-        print("❌ HATA: API_KEYS listesi boş! GitHub Secrets'ı kontrol et.")
-        return
-
+    # --- Üretim Bloğu (Failover Mantığı) ---
     for key in API_KEYS:
         for model_name in MODELS_TO_TRY:
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={key}"
             try:
-                print(f"🚀 Deneniyor: {model_name} | Key: {key[:10]}...")
+                print(f"🚀 Deneniyor: {model_name} | Key: {key[:10]}... | Seviye: {current_level.upper()}")
+                
                 response = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=90)
                 
                 if response.status_code == 200:
                     res_json = response.json()
                     raw_text = res_json['candidates'][0]['content']['parts'][0]['text']
                     
+                    # JSON Temizleme
                     content = raw_text.replace("```json", "").replace("```", "").strip()
                     data = json.loads(content)
 
+                    # Dosya Kayıt
                     save_dir = os.path.join("src", "data", "stories", "de", current_level)
                     file_name = get_next_filename(save_dir)
                     file_path = os.path.join(save_dir, file_name)
@@ -159,20 +169,20 @@ def generate_story():
                         json.dump(data, f, ensure_ascii=False, indent=2)
 
                     print(f"✅ BAŞARILI: {file_path} ({model_name})")
-                    return 
+                    return # Başarılı olduğunda tamamen çık
 
                 elif response.status_code == 429:
-                    print(f"⚠️ {model_name} Kota Dolu (429). Sonraki denemeye geçiliyor...")
+                    print(f"⚠️ {model_name} Kota Dolu (429). Sonrakine geçiliyor...")
                     continue
                 else:
                     print(f"❌ API Hatası ({response.status_code}): {model_name}")
                     continue
 
             except Exception as e:
-                print(f"⚠️ Hata: {str(e)[:100]}")
+                print(f"⚠️ Beklenmedik Hata ({model_name}): {str(e)[:100]}")
                 continue
 
-    print("❌ Tüm API anahtarları ve modeller denendi, sonuç alınamadı.")
+    print("🚨 TÜM KEY VE MODELLER DENENDİ, SONUÇ ALINAMADI.")
 
 if __name__ == "__main__":
     generate_story()
