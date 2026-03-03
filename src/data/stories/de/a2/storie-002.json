@@ -1,0 +1,88 @@
+{
+  "id": "storie-002",
+  "youtubeId": "",
+  "title": "Marias erste Erfahrungen mit dem Pfandsystem",
+  "summary": "Maria ist neu in Deutschland und lernt das Pfandsystem kennen. Sie versteht, wie es funktioniert und warum es wichtig für den Umweltschutz ist.",
+  "text": [
+    "Maria ist vor einem Jahr nach Deutschland umgezogen. Am Anfang war alles neu und ein bisschen kompliziert für sie. Besonders das Pfandsystem hat sie überrascht. In ihrem Heimatland gab es so etwas nicht. Sie sah überall Flaschen und Dosen mit einem speziellen Zeichen und verstand nicht, was es bedeutete.",
+    "Das Pfandsystem ist in Deutschland sehr wichtig. Wenn man Getränke in Plastikflaschen, Glasflaschen oder Dosen kauft, bezahlt man oft einen kleinen Betrag extra. Das ist das Pfand. Man kann diese leeren Flaschen und Dosen später in jedem Supermarkt zurückgeben. Dafür gibt es oft spezielle Automaten, sogenannte Leergutautomaten. Nach der Rückgabe bekommt man das Pfandgeld zurück. Das System hilft, Müll zu reduzieren und die Umwelt zu schützen.",
+    "Eines Tages hatte Maria viele leere Flaschen zu Hause. Ihr Nachbar, Herr Müller, erklärte ihr das System. Er zeigte ihr, wie der Leergutautomat funktioniert. Maria war zuerst ein bisschen unsicher, aber dann hat sie es probiert. Sie hat die Flaschen in den Automaten gesteckt und der Automat hat einen Bon ausgedruckt. Mit diesem Bon konnte sie an der Kasse ihr Geld bekommen oder es direkt mit ihrem Einkauf verrechnen lassen.",
+    "Jetzt ist das Pfandsystem für Maria ganz normal. Sie sammelt ihre leeren Flaschen und Dosen sorgfältig und bringt sie regelmäßig zum Supermarkt. Sie findet es eine gute Idee für den Umweltschutz und ist froh, dass Deutschland so ein System hat. Es ist ein kleiner, aber wichtiger Teil ihres deutschen Alltags geworden."
+  ],
+  "image_prompts": [
+    "realistic photo, cinematic lighting, high quality, a young woman (Maria) looking confused at a stack of empty plastic bottles and cans in her modern, clean apartment, with a subtle Pfand logo visible on some items",
+    "realistic photo, cinematic lighting, high quality, a close-up shot of a Leergutautomat (bottle return machine) in a brightly lit German supermarket, showing various plastic and glass bottles being inserted, with clear instructions on the screen",
+    "realistic photo, cinematic lighting, high quality, Maria, smiling slightly, successfully feeding a plastic bottle into a Leergutautomat, with a clean supermarket aisle and other shoppers blurred in the background, a receipt printing out",
+    "realistic photo, cinematic lighting, high quality, a neatly organized collection of empty Pfand bottles and cans in a reusable fabric bag or a small crate, placed near a door, ready for return, with natural light coming from a window"
+  ],
+  "vocab": [
+    {
+      "term": "das Pfand",
+      "type": "Nomen",
+      "meaning_tr": "Depozito, şişe/kutu iade ücreti",
+      "meaning_en": "Deposit (for bottles/cans)",
+      "meaning_es": "Depósito (por botellas/latas)",
+      "meaning_ua": "Застава (за пляшки/банки)",
+      "example": "Für diese Flasche bezahlt man 25 Cent Pfand."
+    },
+    {
+      "term": "zurückgeben",
+      "type": "Verb",
+      "meaning_tr": "İade etmek",
+      "meaning_en": "To return",
+      "meaning_es": "Devolver",
+      "meaning_ua": "Повернути",
+      "example": "Man kann die leeren Flaschen im Supermarkt zurückgeben."
+    },
+    {
+      "term": "der Leergutautomat",
+      "type": "Nomen",
+      "meaning_tr": "Şişe/kutu iade makinesi",
+      "meaning_en": "Bottle return machine",
+      "meaning_es": "Máquina de devolución de botellas",
+      "meaning_ua": "Автомат для прийому тари",
+      "example": "Der Leergutautomat ist kaputt, ich muss zur Kasse gehen."
+    },
+    {
+      "term": "die Umwelt schützen",
+      "type": "Phrase",
+      "meaning_tr": "Çevreyi korumak",
+      "meaning_en": "To protect the environment",
+      "meaning_es": "Proteger el medio ambiente",
+      "meaning_ua": "Захищати довкілля",
+      "example": "Das Pfandsystem hilft, die Umwelt zu schützen."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Was hat Maria am Anfang in Deutschland besonders überrascht?",
+      "options": [
+        "A) Die deutschen Supermärkte.",
+        "B) Das Pfandsystem.",
+        "C) Ihr Nachbar Herr Müller.",
+        "D) Die Preise in Deutschland."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Warum ist das Pfandsystem in Deutschland wichtig?",
+      "options": [
+        "A) Weil man dann mehr Geld verdient.",
+        "B) Weil es hilft, Müll zu reduzieren und die Umwelt zu schützen.",
+        "C) Weil man so neue Flaschen bekommt.",
+        "D) Weil es eine alte Tradition ist."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Was bekommt man, wenn man leere Flaschen in den Leergutautomaten steckt?",
+      "options": [
+        "A) Neue Getränke.",
+        "B) Einen neuen Einkaufswagen.",
+        "C) Einen Bon für das Pfandgeld.",
+        "D) Eine Tüte für den Müll."
+      ],
+      "answer": "C"
+    }
+  ]
+}
