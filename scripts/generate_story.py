@@ -5,9 +5,17 @@ from datetime import datetime
 import random
 import re
 
-# API Yapılandırması
-api_key = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=api_key)
+# 1. API Yapılandırması ve Key Havuzu
+API_KEYS = [os.getenv("GEMINI_API_KEY_1"), os.getenv("GEMINI_API_KEY_2")]
+API_KEYS = [key for key in API_KEYS if key]
+
+# 2. Denenecek model listesi
+MODELS_TO_TRY = [
+    "models/gemini-2.5-flash", 
+    "models/gemini-3-flash",
+    "models/gemini-2.5-flash-lite",
+    "models/gemini-1.5-flash",
+]
 
 def get_latest_flash_model():
     try:
@@ -37,8 +45,6 @@ def get_next_filename(directory):
     padding = max(3, len(str(next_number)))
     return f"storie-{next_number:0{padding}d}.json"
 
-model = genai.GenerativeModel(get_latest_flash_model())
-
 def generate_story():
     weekday = datetime.now().weekday()
     levels_map = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1", 5: "a1", 6: "a2"}
@@ -67,7 +73,7 @@ def generate_story():
         "Geographie: Die Alpen, die Nord- und Ostsee, Der Schwarzwald, Unterschiede zwischen Ost- und Westdeutschland",
         "Umwelt: Erneuerbare Energien, Klimaschutzziele in Deutschland, Der deutsche Wald",
         "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Rundfunkbeitrag, Steuererklärung",
-        "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht und Abitur",
+        "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht and Abitur",
         "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand als Rückgrat",
         "Transport: Geschichte der Autobahn, Deutschlandticket, Fahrradstädte wie Münster, Deutsche Bahn"
     ]
@@ -118,37 +124,45 @@ def generate_story():
     (Vocab: 15-20 adet. text dizisi tam 4 paragraf olmalı. image_prompts dizisi text ile aynı uzunlukta olmalı.)
     """
 
-    try:
-        response = model.generate_content(prompt)
-        content = response.text.strip()
+    # API Key ve Model deneme döngüsü
+    for api_key in API_KEYS:
+        genai.configure(api_key=api_key)
+        for model_name in MODELS_TO_TRY:
+            try:
+                print(f"🔄 Deneniyor: Model: {model_name} (Key: {api_key[:10]}...)")
+                model = genai.GenerativeModel(model_name)
+                response = model.generate_content(prompt)
+                content = response.text.strip()
 
-        if "```json" in content:
-            content = content.split("```json")[1].split("```")[0].strip()
-        elif "```" in content:
-            content = content.split("```")[1].split("```")[0].strip()
+                if "```json" in content:
+                    content = content.split("```json")[1].split("```")[0].strip()
+                elif "```" in content:
+                    content = content.split("```")[1].split("```")[0].strip()
 
-        data = json.loads(content)
+                data = json.loads(content)
 
-        save_dir = os.path.join("src", "data", "stories", "de", current_level)
-        file_name = get_next_filename(save_dir)
-        file_path = os.path.join(save_dir, file_name)
+                save_dir = os.path.join("src", "data", "stories", "de", current_level)
+                file_name = get_next_filename(save_dir)
+                file_path = os.path.join(save_dir, file_name)
 
-        # Çift kontrol: dosya zaten varsa atlama güvencesi
-        if os.path.exists(file_path):
-            print(f"⚠️  Dosya zaten mevcut, atlanıyor: {file_path}")
-            return
+                if os.path.exists(file_path):
+                    print(f"⚠️  Dosya zaten mevcut, atlanıyor: {file_path}")
+                    return
 
-        data["id"] = file_name.replace(".json", "")
+                data["id"] = file_name.replace(".json", "")
 
-        os.makedirs(save_dir, exist_ok=True)
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+                os.makedirs(save_dir, exist_ok=True)
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(data, f, ensure_ascii=False, indent=2)
 
-        print(f"✅ Başarılı: {file_path} yazıldı. (Seviye: {current_level.upper()})")
+                print(f"✅ Başarılı: {file_path} yazıldı. (Seviye: {current_level.upper()})")
+                return # Başarılı olduysa fonksiyondan çık
 
-    except Exception as e:
-        print(f"❌ Hata: {str(e)}")
-        raise e
+            except Exception as e:
+                print(f"⚠️ Hata (Model: {model_name}): {str(e)}")
+                continue # Bir sonraki modele veya anahtara geç
+
+    print("❌ Tüm API anahtarları ve modeller denendi, sonuç alınamadı.")
 
 if __name__ == "__main__":
     generate_story()
