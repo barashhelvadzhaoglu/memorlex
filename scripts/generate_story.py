@@ -4,26 +4,21 @@ import os
 from datetime import datetime
 import random
 import re
+import requests
+import time
 
 # 1. API Yapılandırması ve Key Havuzu
 API_KEYS = [os.getenv("GEMINI_API_KEY_1"), os.getenv("GEMINI_API_KEY_2")]
 API_KEYS = [key for key in API_KEYS if key]
+current_key_index = 0
 
 # 2. Denenecek model listesi
 MODELS_TO_TRY = [
-    "models/gemini-2.5-flash", 
-    "models/gemini-3-flash",
-    "models/gemini-2.5-flash-lite",
-    "models/gemini-1.5-flash",
+    "gemini-2.0-flash-exp", 
+    "gemini-2.0-flash",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-8b",
 ]
-
-def get_latest_flash_model():
-    try:
-        models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
-        flash_models = [n for n in models if 'flash' in n]
-        return sorted(flash_models, reverse=True)[0] if flash_models else 'gemini-1.5-flash'
-    except:
-        return 'gemini-1.5-flash'
 
 def get_next_filename(directory):
     """storie-001.json varsa atla, 002'den itibaren sıradaki boş numarayı bul."""
@@ -45,6 +40,7 @@ def get_next_filename(directory):
     return f"storie-{next_number:0{padding}d}.json"
 
 def generate_story():
+    global current_key_index
     weekday = datetime.now().weekday()
     levels_map = {0: "a1", 1: "a2", 2: "b1", 3: "b2", 4: "c1", 5: "a1", 6: "a2"}
     current_level = levels_map.get(weekday, "a1")
@@ -90,10 +86,6 @@ def generate_story():
     5. YOUTUBE: Akıcı, doğal bir vlog seslendirme dili.
     6. SEVİYE KRİTERİ: {level_specs[current_level]}
     7. IMAGE PROMPTS: Her paragraf için İngilizce, Stable Diffusion uyumlu görsel açıklaması yaz.
-       - Gerçekçi fotoğraf tarzı: "realistic photo, [sahne], [yer], [atmosfer], cinematic lighting"
-       - Paragrafa %100 uygun, spesifik detaylar içermeli
-       - Kişi varsa: yaş, kıyafet, ifade belirt
-       - Mekan varsa: şehir, bina tipi, hava durumu belirt
 
     SADECE JSON döndür, başka hiçbir şey yazma:
     {{
@@ -122,21 +114,26 @@ def generate_story():
     }}
     """
 
-    # --- API ve Model Deneme Bölümü ---
-    for api_key in API_KEYS:
-        genai.configure(api_key=api_key)
-        for model_name in MODELS_TO_TRY:
-            try:
-                print(f"🔄 Deneniyor: {model_name} (Key: {api_key[:10]}...)")
-                model = genai.GenerativeModel(model_name)
-                response = model.generate_content(prompt)
-                content = response.text.strip()
-
-                if "```json" in content:
-                    content = content.split("```json")[1].split("```")[0].strip()
-                elif "```" in content:
-                    content = content.split("```")[1].split("```")[0].strip()
-
+    # --- Üretim Döngüsü (Örnekteki Failover Mantığı) ---
+    for model_name in MODELS_TO_TRY:
+        key = API_KEYS[current_key_index]
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={key}"
+        
+        try:
+            print(f"🚀 Deneniyor: {model_name} | Key: {current_key_index + 1} | Seviye: {current_level}")
+            
+            payload = {
+                "contents": [{"parts": [{"text": prompt}]}]
+            }
+            
+            response = requests.post(url, json=payload, timeout=90)
+            
+            if response.status_code == 200:
+                res_json = response.json()
+                raw_text = res_json['candidates'][0]['content']['parts'][0]['text']
+                
+                # Markdown temizleme
+                content = raw_text.replace("```json", "").replace("```", "").strip()
                 data = json.loads(content)
 
                 save_dir = os.path.join("src", "data", "stories", "de", current_level)
@@ -144,7 +141,7 @@ def generate_story():
                 file_path = os.path.join(save_dir, file_name)
 
                 if os.path.exists(file_path):
-                    print(f"⚠️ Dosya zaten mevcut, atlanıyor: {file_path}")
+                    print(f"⏩ Dosya mevcut: {file_path}")
                     return
 
                 data["id"] = file_name.replace(".json", "")
@@ -153,14 +150,26 @@ def generate_story():
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
 
-                print(f"✅ Başarılı: {file_path} yazıldı. (Model: {model_name})")
-                return # Başarılı olursa fonksiyondan çık
+                print(f"✅ BAŞARILI: {file_path} ({model_name})")
+                return 
 
-            except Exception as e:
-                print(f"⚠️ Hata (Model {model_name}): {str(e)[:100]}")
-                continue # Bir sonrakini dene
+            elif response.status_code == 429:
+                print(f"⚠️ {model_name} Kota Dolu (429). Sonraki modele/key'e geçiliyor...")
+                # Kota dolduğunda hem key değiştirip hem döngüye devam edelim
+                current_key_index = (current_key_index + 1) % len(API_KEYS)
+                continue
+                
+            else:
+                print(f"❌ API Hatası ({response.status_code}): {model_name}")
+                current_key_index = (current_key_index + 1) % len(API_KEYS)
+                continue
 
-    print("❌ Tüm API anahtarları ve modeller denendi, sonuç alınamadı.")
+        except Exception as e:
+            print(f"❌ Hata: {str(e)[:100]}")
+            current_key_index = (current_key_index + 1) % len(API_KEYS)
+            continue
+
+    print("🚨 KRİTİK: Hiçbir kombinasyon çalışmadı.")
 
 if __name__ == "__main__":
     generate_story()
