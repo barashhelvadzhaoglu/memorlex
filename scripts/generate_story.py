@@ -120,15 +120,14 @@ def generate_story():
         {{ "question": "Soru (Almanca)", "options": ["A", "B", "C", "D"], "answer": "Doğru Şık" }}
       ]
     }}
-    (Vocab: 15-20 adet. text dizisi tam 4 paragraf olmalı. image_prompts dizisi text ile aynı uzunlukta olmalı.)
     """
 
-    # --- 162. Satır Civarı: API Key ve Model Döngüsü Entegrasyonu ---
+    # --- API ve Model Deneme Bölümü ---
     for api_key in API_KEYS:
         genai.configure(api_key=api_key)
         for model_name in MODELS_TO_TRY:
             try:
-                print(f"🔄 Deneniyor: Model: {model_name} (Key Başlangıcı: {api_key[:10]}...)")
+                print(f"🔄 Deneniyor: {model_name} (Key: {api_key[:10]}...)")
                 model = genai.GenerativeModel(model_name)
                 response = model.generate_content(prompt)
                 content = response.text.strip()
@@ -145,23 +144,22 @@ def generate_story():
                 file_path = os.path.join(save_dir, file_name)
 
                 if os.path.exists(file_path):
-                    print(f"⚠️  Dosya zaten mevcut, atlanıyor: {file_path}")
+                    print(f"⚠️ Dosya zaten mevcut, atlanıyor: {file_path}")
                     return
 
                 data["id"] = file_name.replace(".json", "")
-
                 os.makedirs(save_dir, exist_ok=True)
+                
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
 
-                print(f"✅ Başarılı: {file_path} yazıldı. (Seviye: {current_level.upper()}, Model: {model_name})")
-                return # Başarı durumunda çıkış yap
+                print(f"✅ Başarılı: {file_path} yazıldı. (Model: {model_name})")
+                return # Başarılı olursa fonksiyondan çık
 
             except Exception as e:
-                print(f"⚠️ Hata (Model: {model_name}): {str(e)[:100]}")
-                continue # Hata durumunda bir sonraki modeli dene
+                print(f"⚠️ Hata (Model {model_name}): {str(e)[:100]}")
+                continue # Bir sonrakini dene
 
-    # Tüm kombinasyonlar biterse hata bas
     print("❌ Tüm API anahtarları ve modeller denendi, sonuç alınamadı.")
 
 if __name__ == "__main__":
