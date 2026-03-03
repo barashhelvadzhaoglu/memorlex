@@ -10,16 +10,16 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # API Key Havuzu - sırayla dener
-API_KEYS = []
-for key_name in ["GEMINI_API_KEY_1", "GEMINI_API_KEY_2", "GEMINI_API_KEY"]:
-    val = os.getenv(key_name)
-    if val:
-        API_KEYS.append(val)
+API_KEYS = [os.getenv("GEMINI_API_KEY_1"), os.getenv("GEMINI_API_KEY_2"), os.getenv("GEMINI_API_KEY")]
+API_KEYS = [key for key in API_KEYS if key]
+current_key_index = 0
 
-# Güncel model listesi (deprecated google.generativeai kaldırıldı, direkt REST API)
+# Güncel model listesi (Çalışan örneğe göre düzenlendi)
 MODELS_TO_TRY = [
-    "gemini-2.5-flash-lite-preview-06-17",  # 10 RPM
-    "gemini-2.5-flash",                      # 5 RPM
+    "models/gemini-2.5-flash", 
+    "models/gemini-3-flash",
+    "models/gemini-2.5-flash-lite",
+    "models/gemini-1.5-flash",
 ]
 
 def get_next_filename(directory):
@@ -43,7 +43,7 @@ def get_next_filename(directory):
 
 def call_gemini(prompt, api_key, model_name):
     """Direkt REST API ile Gemini çağrısı yapar."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -52,10 +52,11 @@ def call_gemini(prompt, api_key, model_name):
         }
     }
     response = requests.post(url, json=payload, timeout=90)
-    response.raise_for_status()
-    return response.json()['candidates'][0]['content']['parts'][0]['text']
+    # Hata kodlarını üst fonksiyonda kontrol etmek için raise_for_status() yerine response döndürüyoruz
+    return response
 
 def generate_story():
+    global current_key_index
     if not API_KEYS:
         print("❌ HATA: API key bulunamadı! .env veya GitHub Secrets kontrol et.")
         return
@@ -85,7 +86,7 @@ def generate_story():
         "Gesundheit: Das deutsche Gesundheitssystem, Hausarztmodell, Krankenversicherung",
         "Sport: Die Geschichte der Bundesliga, Wandersport, Breitensport und Fitness-Trends",
         "Geographie: Die Alpen, die Nord- und Ostsee, Der Schwarzwald",
-        "Umwelt: Erneuerbare Energien, Klimaschutzziele, Der deutsche Wald",
+        "Umwelt: Erneuerbare Energies, Klimaschutzziele, Der deutsche Wald",
         "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Rundfunkbeitrag",
         "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht und Abitur",
         "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand",
@@ -104,7 +105,7 @@ KRİTİK TALİMATLAR:
 4. SORULAR: 8-10 soru hazırla. Yarısı kilit verileri (saat, tarih, fiyat) sorgulamalı.
 5. YOUTUBE: Akıcı, doğal bir vlog seslendirme dili.
 6. SEVİYE KRİTERİ: {level_specs[current_level]}
-7. IMAGE PROMPTS: Her paragraf için İngilizce, Stable Diffusion uyumlu görsel açıklaması.
+7. IMAGE PROMPTS: Her paragraf için İngilizce, Stable Diffusion uyumlu görsel açıklaması yaz.
    - Format: "realistic photo, [sahne detayı], [mekan], [atmosfer], cinematic lighting, high quality"
    - Paragrafa %100 uygun, spesifik detaylar içermeli.
 
@@ -136,12 +137,16 @@ SADECE JSON döndür, başka hiçbir şey yazma:
 (Vocab: 15-20 adet. text: tam 4 paragraf. image_prompts: text ile aynı uzunlukta.)
 """
 
-    # Tüm key + model kombinasyonlarını sırayla dene
-    for api_key in API_KEYS:
-        for model_name in MODELS_TO_TRY:
-            try:
-                print(f"🚀 Deneniyor: {model_name} | Key: {api_key[:12]}... | Seviye: {current_level.upper()}")
-                raw_text = call_gemini(prompt, api_key, model_name)
+    # Tüm key + model kombinasyonlarını sırayla dene (Failover Mantığı)
+    for model_name in MODELS_TO_TRY:
+        key = API_KEYS[current_key_index]
+        try:
+            print(f"🚀 Deneniyor: {model_name} | Key: {current_key_index + 1} | Seviye: {current_level.upper()}")
+            response = call_gemini(prompt, key, model_name)
+
+            if response.status_code == 200:
+                res_json = response.json()
+                raw_text = res_json['candidates'][0]['content']['parts'][0]['text']
 
                 # JSON temizle
                 content = raw_text.replace("```json", "").replace("```", "").strip()
@@ -165,21 +170,22 @@ SADECE JSON döndür, başka hiçbir şey yazma:
                 print(f"✅ BAŞARILI: {file_path} ({model_name})")
                 return  # Başarılı, çık
 
-            except requests.exceptions.HTTPError as e:
-                status = e.response.status_code if e.response else "?"
-                if status == 429:
-                    print(f"⚠️ Kota dolu (429) — {model_name}. Sonraki deneniyor...")
-                elif status == 400:
-                    print(f"❌ Model desteklenmiyor (400) — {model_name}. Sonraki deneniyor...")
-                else:
-                    print(f"❌ HTTP {status} — {model_name}")
+            elif response.status_code == 429:
+                print(f"⚠️ Kota dolu (429) — {model_name}. Sonraki model deneniyor...")
+                continue
+            else:
+                print(f"❌ API Hatası ({response.status_code}) — {model_name}. Key değiştiriliyor...")
+                current_key_index = (current_key_index + 1) % len(API_KEYS)
                 time.sleep(1)
+                continue
 
-            except (json.JSONDecodeError, KeyError) as e:
-                print(f"⚠️ JSON parse hatası ({model_name}): {str(e)[:80]}")
+        except (json.JSONDecodeError, KeyError) as e:
+            print(f"⚠️ JSON parse hatası ({model_name}): {str(e)[:80]}")
+            continue
 
-            except Exception as e:
-                print(f"⚠️ Beklenmedik hata ({model_name}): {str(e)[:100]}")
+        except Exception as e:
+            print(f"⚠️ Beklenmedik hata ({model_name}): {str(e)[:100]}")
+            continue
 
     print("🚨 TÜM KEY VE MODELLER DENENDİ, SONUÇ ALINAMADI.")
 
