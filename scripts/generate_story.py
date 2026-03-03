@@ -18,10 +18,8 @@ for key_name in ["GEMINI_API_KEY_1", "GEMINI_API_KEY_2", "GEMINI_API_KEY"]:
 
 # Güncel model listesi (deprecated google.generativeai kaldırıldı, direkt REST API)
 MODELS_TO_TRY = [
-    "gemini-2.0-flash",
-    "gemini-2.0-flash-lite",
-    "gemini-1.5-flash",
-    "gemini-1.5-flash-8b",
+    "gemini-2.5-flash-lite-preview-06-17",  # 10 RPM
+    "gemini-2.5-flash",                      # 5 RPM
 ]
 
 def get_next_filename(directory):
