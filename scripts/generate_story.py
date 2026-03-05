@@ -15,7 +15,6 @@ API_KEYS = []
 for key_name in ["GEMINI_API_KEY_1", "GEMINI_API_KEY_2", "GEMINI_API_KEY"]:
     val = os.getenv(key_name)
     if val:
-        # KRİTİK GÜVENLİK DÜZELTMESİ: GitHub Secrets'tan gelebilecek \n veya boşlukları temizle
         clean_val = val.strip()
         if clean_val:
             API_KEYS.append(clean_val)
@@ -28,7 +27,6 @@ def get_available_models():
             if 'generateContent' in m.supported_generation_methods:
                 if any(x in m.name for x in ['flash', 'pro']):
                     models.append(m.name)
-        # 2.0 ve 2.5 modellerini ve flash modellerini başa alacak şekilde sırala
         return sorted(models, key=lambda x: ("2.5" in x or "2.0" in x, "flash" in x), reverse=True)
     except Exception as e:
         print(f"⚠️ Model listesi alınamadı, fallback listesi kullanılacak: {e}")
@@ -55,89 +53,85 @@ def generate_story():
         print("❌ HATA: Hiçbir API anahtarı bulunamadı! Secrets yapılandırmasını kontrol edin.")
         return
 
-    # Seviye yapılandırması
-    current_level = "c1" 
+    # --- KONFİGÜRASYON ---
+    current_level = "c1" # Manuel veya bir döngüden gelebilir
     
     level_config = {
-        "a1": {"scenes": 5, "desc": "Basit cümleler, temel rutinler."},
-        "a2": {"scenes": 7, "desc": "Temel ihtiyaçlar, geçmiş zaman."},
-        "b1": {"scenes": 10, "desc": "Kişisel görüşler ve hayaller."},
-        "b2": {"scenes": 12, "desc": "Soyut konular ve teknik tartışmalar."},
-        "c1": {"scenes": 15, "desc": "Akademik analiz, retorik araçlar ve nominal stil."}
+        "a1": {"scenes": 5, "desc": "Temel selamlaşma ve günlük basit diyaloglar."},
+        "a2": {"scenes": 8, "desc": "Geçmiş zaman (Perfekt) ve basit resmi konuşmalar."},
+        "b1": {"scenes": 12, "desc": "Bağlaçlar (weil, obwohl) ve detaylı anlatımlar."},
+        "b2": {"scenes": 15, "desc": "Pasif yapı ve karmaşık yan cümleler."},
+        "c1": {"scenes": 20, "desc": "Akademik analiz, retorik araçlar ve nominal stil."}
     }
     
-    config = level_config.get(current_level)
-    print(f"🎯 MOD: {current_level.upper()} Seviyesi | Hedef: {config['scenes']} Sahne ve Görsel Prompt")
-
-    level_specs = {
-        "c1": "Çok katmanlı akademik analizler, toplumsal değişimlerin derinlemesine incelenmesi, tarihsel ve felsefi perspektifler. İnce anlam farkları (Nuancen), üst düzey retorik araçlar ve nominal stil (Nominalstil) kullanımı. Metinler arası referanslar ve yüksek düzeyde deyimsel ifadeler. Hedef: Sahne başına 3-4 cümle."
+    # --- SINAV MANTIĞI MODÜLÜ ---
+    exam_logic = {
+        "a1": "Temel saatler, aile tanıtımı, basit alışveriş fiyatları ve 'Hören Teil 1' tarzı kısa diyaloglar.",
+        "a2": "Hava durumu raporları, tren istasyonu anonsları (gecikme/peron değişimi), müze/sinema bilet fiyatları ve yoldaki çalışma uyarıları.",
+        "b1": "Müşteri şikayetleri, çevre kirliliği üzerine fikir belirtme, iş yerindeki diyaloglar ve resmi kurum (Amt) yazışmaları.",
+        "b2": "Medya eleştirileri, iş toplantıları, toplumsal sorunların avantaj/dezavantaj analizi ve teknik ürün açıklamaları.",
+        "c1": "Bilimsel makaleler, felsefi çıkarımlar, sosyolojik analizler ve üst düzey bürokratik dil kullanımı."
     }
 
-    # Eksiksiz Konu Havuzu (Hiçbir satır silinmedi, tam liste korunuyor)
+    # --- GENİŞLETİLMİŞ SINAV KONU HAVUZU ---
     topic_pool = [
-        "Geschichte: Die Berliner Mauer, der Kölner Dom, Münchens Wiederaufbau nach 1945, Das Römische Reich am Rhein",
-        "Städte: Hamburgs Speicherstadt, Industkultur im Ruhrgebiet, Die Schlösser in Potsdam",
-        "Kultur: Oktoberfest Geschichte, Karneval im Rheinland, deutsche Feiertage, Die deutsche Brotkultur",
-        "Traditionen: Weihnachtsmärkte, Schützenfeste, Brauchtum in den Alpen (Almabtrieb)",
-        "Alltag: Mülltrennung-Kultur, Sonntagsruhe, Vereinsleben, Ehrenamt, Pfandsystem in Deutschland",
-        "Wohnen: Mietverträge, Mieterrechte, Kehrwoche in Baden-Württemberg, Energie sparen im Haushalt",
-        "Wissenschaft: Berühmte deutsche Erfinder (Gutenberg, Benz, Einstein), Max-Planck-Institut",
-        "Weltraum: Das deutsche Zentrum für Luft- und Raumfahrt (DLR), Alexander Gerst und die ISS",
-        "Physik & Chemie: Die Entdeckung der Röntgenstrahlen, Quantenphysik für Anfänger, Chemie im Alltag",
-        "Technologie: Die Zukunft der Robotik, Künstliche Intelligenz in deutschen Firmen, Industrie 4.0",
-        "Gesundheit: Das deutsche Gesundheitssystem, Hausarztmodell, Krankenversicherung (TK/AOK), Heilpraktiker",
-        "Sport: Die Geschichte der Bundesliga, Wandersport in Deutschland, Breitensport und Fitness-Trends",
-        "Olympia: Legendäre deutsche Athleten, Die Olympischen Spiele 1972 in München",
-        "Geographie: Die Alpen, die Nord- und Ostsee, Der Schwarzwald, Unterschiede zwischen Ost- und Westdeutschland",
-        "Umwelt: Erneuerbare Energies, Klimaschutzziele in Deutschland, Der deutsche Wald und seine Bedeutung",
-        "Bürokratie: Anmeldung beim KVR, Elterngeld, Kindergeld, Rundfunkbeitrag (GEZ), Steuererklärung",
-        "Bildung: Das duale Ausbildungssystem, Studium an einer TU, Schulpflicht und Abitur",
-        "Kinder: Kita-Alltag in Bayern, Märchen der Gebrüder Grimm, Kinderrechte in Deutschland",
-        "Wirtschaft: Deutsche Automobilgeschichte (VW, BMW, Mercedes), Der Mittelstand als Rückgrat",
-        "Transport: Geschichte der Autobahn, Deutschlandticket, Fahrradstädte wie Münster, Deutsche Bahn Herausforderungen"
+        "Wetter & Klima: Ein extremer Wetterumschwung in den Alpen",
+        "Verkehr: Baustellen auf der A9 und Zugausfälle wegen Gleisarbeiten",
+        "Finanzen: Die Kosten für ein Studium in München vs. Berlin",
+        "Gesundheit: Die Digitalisierung in deutschen Krankenhäusern",
+        "Bürokratie: Eine komplizierte Anmeldung beim KVR",
+        "Wohnen: Die Nebenkostenabrechnung und das Energiesparen",
+        "Geschichte: Der Einfluss des Bauhauses auf die moderne Architektur",
+        "Arbeit: Das duale Ausbildungssystem in der Automobilindustrie",
+        "Kultur: Die Bedeutung der Vereinsmeierei in Kleinstädten",
+        "Technik: Künstliche Intelligenz in der deutschen mittelständischen Industrie"
     ]
 
-    selected_topics = random.sample(topic_pool, 2)
+    selected_topics = random.sample(topic_pool, 1)
+    config = level_config.get(current_level)
     
+    # --- SINAV ODAKLI PROMPT ---
     prompt = f"""
-Sen bir Goethe/Telc dil sınavı uzmanısın. {current_level.upper()} seviyesinde tam eşdeğer bir içerik üret.
-KRİTİK TALİMAT: Hikayeyi tam {config['scenes']} sahneye böl. Her sahne (text dizisindeki her bir eleman) en fazla 3-4 cümle olmalıdır.
+Sen bir Goethe/Telc sınav uzmanısın. {current_level.upper()} seviyesinde bir sınav hazırlık materyali üret.
+KRİTİK TALİMAT: Hikayeyi tam {config['scenes']} sahneye böl. Her sahne 2-3 kısa cümle olmalıdır.
+
+HEDEF SINAV STRATEJİSİ:
+- Seviye Mantığı: {exam_logic[current_level]}
+- Metne mutlaka sınavda sorulabilecek kritik veriler (tarih, saat, ücret, yüzde, hava durumu derecesi) ekle.
+- Karakterler arasında gerçek sınav diyalogları veya duyuru formatı kullan.
 
 1. KONU: {selected_topics}
 2. FORMAT: {config['desc']}
-3. VERİ: Metne kilit veriler, yüzdeler ve tarihsel kronoloji ekle.
-4. GÖRSEL: Her bir sahne metni için, o metni betimleyen tam 1 adet İngilizce "image_prompt" üret. (Realistic, cinematic, high quality).
-5. DİL: SADECE JSON döndür. Vocab kısmında Ukraynaca için "meaning_uk" anahtarını kullan.
+3. HASHTAGS: #LearnGerman, #GermanExam, #GoetheZertifikat, #DeutschLernen, #Germany, #GermanVocabulary ve konuya özel 10 adet popüler hashtag.
+4. GÖRSEL: Her sahne için 1 adet İngilizce "image_prompt" üret.
 
 JSON YAPISI:
 {{
   "id": "storie-ID",
   "youtubeId": "",
-  "title": "Almanca Başlık",
-  "summary": "Almanca Özet (Max. 2 cümle)",
-  "text": ["Sahne 1 (3-4 cümle)", "Sahne 2 (3-4 cümle)", "... Sahne {config['scenes']} (3-4 cümle)"],
-  "image_prompts": ["Prompt 1", "Prompt 2", "... Prompt {config['scenes']}"],
+  "level": "{current_level}",
+  "title": "Almanca Sınav Başlığı",
+  "summary": "Bu bölümde {current_level} sınavında çıkabilecek kilit yapıları öğreneceksiniz.",
+  "hashtags": ["#Hashtag1", "..."],
+  "text": ["Sahne 1", "Sahne 2", "... Sahne {config['scenes']}"],
+  "image_prompts": ["Prompt 1", "..."],
   "vocab": [
-    {{ 
-      "term": "Almanca Kelime", "type": "Nomen/Verb/Adj", 
-      "meaning_tr": "TR", "meaning_en": "EN", "meaning_es": "ES", "meaning_uk": "UK",
-      "example": "Almanca örnek cümle" 
-    }}
+    {{ "term": "Almanca", "type": "Nomen", "meaning_tr": "TR", "meaning_en": "EN", "meaning_es": "ES", "meaning_uk": "UK", "example": "Örnek cümle" }}
   ],
   "questions": [
-    {{ "question": "Soru (Almanca)", "options": ["A", "B", "C", "D"], "answer": "Doğru Şık" }}
+    {{ "question": "Sınav Sorusu (Almanca)", "options": ["A", "B", "C", "D"], "answer": "Doğru Şık" }}
   ]
 }}
-Seviye Kriteri: {level_specs[current_level]}
+DİL: SADECE JSON döndür.
 """
 
+    # --- API DÖNGÜSÜ ---
     for i, api_key in enumerate(API_KEYS):
         genai.configure(api_key=api_key)
         MODELS_TO_TRY = get_available_models()
         for model_name in MODELS_TO_TRY:
             try:
-                # Security Engineer notu: Anahtarın sadece uzunluğunu basarak debug yapıyoruz
-                print(f"🔄 Deneniyor: {model_name} | Key {i+1} (Uzunluk: {len(api_key)})")
+                print(f"🔄 Deneniyor: {model_name} | Key {i+1}")
                 model = genai.GenerativeModel(model_name)
                 response = model.generate_content(prompt)
                 
@@ -157,15 +151,14 @@ Seviye Kriteri: {level_specs[current_level]}
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
                 
-                print(f"✅ BAŞARILI: {file_path} | {len(data['text'])} sahne üretildi.")
+                print(f"✅ BAŞARILI: {file_path} | {len(data['text'])} sahne, sınav soruları ve hashtagler üretildi.")
                 return 
 
             except Exception as e:
-                # 400 API_KEY_INVALID hatasını burada da yakalayıp diğer anahtara geçiyoruz
-                print(f"⚠️ Hata ({model_name}): {str(e)[:100]}")
+                print(f"⚠️ Hata ({model_name}): {str(e)[:50]}...")
                 continue
 
-    print("🚨 TÜM DENEMELER BAŞARISIZ. Lütfen API kotalarını veya Secret içeriklerini kontrol edin.")
+    print("🚨 TÜM DENEMELER BAŞARISIZ.")
 
 if __name__ == "__main__":
     generate_story()

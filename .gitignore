@@ -54,3 +54,19 @@ terraform/*.tfstate*
 # IDEs
 .vscode/
 .idea/
+
+# --- Memorlex YouTube Automation & Security ---
+# YouTube API Client Secrets (Kimlik dosyaları asla push edilmemeli)
+client_secret.json
+client_secrets.json
+scripts/client_secret.json
+scripts/client_secrets.json
+
+# OAuth Oturum Token'ı (Bu dosya sızarsa şifresiz kanala erişim sağlanabilir)
+token.pickle
+scripts/token.pickle
+
+# Otomasyon Logları ve Geçici Video Dosyaları
+scripts/*.log
+temp/
+!temp/.gitkeep

@@ -4,6 +4,8 @@ import sys
 import requests
 import re
 import time
+import shutil
+from datetime import datetime, timedelta
 from gtts import gTTS
 from PIL import Image
 
@@ -12,6 +14,30 @@ try:
     from moviepy import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
 except ImportError:
     from moviepy.editor import ImageClip, AudioFileClip, TextClip, concatenate_videoclips, CompositeVideoClip
+
+# --- AYARLAR ---
+TEMP_DIR = "temp"
+RETENTION_DAYS = 3  # Dosyaların saklanacağı gün sayısı
+
+def cleanup_old_files(directory, days):
+    """Belirtilen dizindeki eski dosyaları otomatik olarak temizler."""
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+        return
+
+    print(f"🧹 {directory} klasöründe {days} günden eski dosyalar temizleniyor...")
+    now = time.time()
+    cutoff = now - (days * 86400)
+
+    for filename in os.listdir(directory):
+        file_path = os.path.join(directory, filename)
+        if os.path.isfile(file_path):
+            if os.path.getmtime(file_path) < cutoff:
+                try:
+                    os.remove(file_path)
+                    print(f"🗑️ Silindi: {filename}")
+                except Exception as e:
+                    print(f"⚠️ Silme hatası ({filename}): {e}")
 
 def download_image(prompt, path, index):
     """JSON içindeki özel İngilizce promptu kullanarak görsel indirir."""
@@ -71,6 +97,9 @@ def set_clip_attr(clip, attr_name, value):
     return clip
 
 def create_storybook(json_path):
+    # 0. Otomatik Temizlik ve Klasör Hazırlığı
+    cleanup_old_files(TEMP_DIR, RETENTION_DAYS)
+
     if not os.path.exists(json_path):
         print(f"Hata: {json_path} bulunamadı.")
         return
@@ -85,46 +114,47 @@ def create_storybook(json_path):
     
     FONT_PATH = get_system_font()
     CROSSFADE_TIME = 1.0 
-    print(f"ℹ️ Kullanılan Font: {FONT_PATH} | Efekt: {CROSSFADE_TIME}s Crossfade")
+    print(f"ℹ️ Font: {FONT_PATH} | Efekt: {CROSSFADE_TIME}s Crossfade")
 
     for i, para in enumerate(paragraphs):
         if not para.strip(): continue
         
         print(f"🎬 Sahne {i+1}/{len(paragraphs)} hazırlanıyor...")
         
-        audio_path = f"temp_audio_{i}.mp3"
+        # Dosyaları temp içine yönlendir
+        audio_path = os.path.join(TEMP_DIR, f"temp_audio_{story_id}_{i}.mp3")
+        img_path = os.path.join(TEMP_DIR, f"temp_img_{story_id}_{i}.jpg")
+        
         gTTS(text=para, lang='de').save(audio_path)
         audio_clip = AudioFileClip(audio_path)
 
-        img_path = f"temp_img_{i}.jpg"
         current_prompt = image_prompts[i] if i < len(image_prompts) else para
         download_image(current_prompt, img_path, i)
 
         duration = audio_clip.duration + CROSSFADE_TIME
         
-        # Klip Ayarları (Sürüm bağımsız)
         bg_clip = ImageClip(img_path)
         bg_clip = set_clip_attr(bg_clip, 'duration', duration)
         bg_clip = set_clip_attr(bg_clip, 'fps', 24)
         
-        # Metin Ayarları
+        # --- DÜZELTME: bg_color formatı Tuple olarak güncellendi ---
         txt_clip = TextClip(
             text=para, 
-            font_size=26,               
+            font_size=30,               
             color='white', 
             font=FONT_PATH,
             method='caption',           
-            size=(1100, 300)
+            size=(1000, 350),           
+            text_align='center',
+            bg_color=(0, 0, 0, 140)  # Siyah arka plan, ~%55 opaklık
         )
         txt_clip = set_clip_attr(txt_clip, 'duration', duration)
-        txt_clip = set_clip_attr(txt_clip, 'position', ('center', 400))
-        txt_clip = set_clip_attr(txt_clip, 'opacity', 0.75)
+        txt_clip = set_clip_attr(txt_clip, 'position', ('center', 380))
+        txt_clip = set_clip_attr(txt_clip, 'opacity', 0.9)
 
-        # Sahne Birleştirme
         scene = CompositeVideoClip([bg_clip, txt_clip], size=(1280, 720))
         scene = set_clip_attr(scene, 'audio', audio_clip)
 
-        # Fade Efektleri
         scene = apply_effect(scene, "fadein", 0.5)
         scene = apply_effect(scene, "fadeout", 0.5)
         
@@ -133,7 +163,9 @@ def create_storybook(json_path):
     if scenes:
         print(f"🎥 {len(scenes)} sahne birleştiriliyor...")
         final_video = concatenate_videoclips(scenes, method="compose", padding=-CROSSFADE_TIME)
-        output_filename = f"{story_id}.mp4"
+        
+        # Çıktı videosunu temp içine kaydet
+        output_filename = os.path.join(TEMP_DIR, f"{story_id}.mp4")
         
         final_video.write_videofile(
             output_filename, 
@@ -142,14 +174,9 @@ def create_storybook(json_path):
             audio_codec="aac"
         )
         
-        # Temizlik
-        for i in range(len(paragraphs)):
-            for f in [f"temp_audio_{i}.mp3", f"temp_img_{i}.jpg"]:
-                if os.path.exists(f):
-                    try: os.remove(f)
-                    except: pass
-        
         print(f"✨ Başarıyla oluşturuldu: {output_filename}")
+    else:
+        print("❌ Hata: Sahne oluşturulamadı.")
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
