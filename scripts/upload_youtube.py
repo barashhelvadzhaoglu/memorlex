@@ -8,7 +8,7 @@ from googleapiclient.http import MediaFileUpload
 from google.auth.transport.requests import Request
 
 # --- DOSYA YOLLARI YAPILANDIRMASI ---
-# Scriptin nerede olduğundan bağımsız olarak projenin ana dizinini (memorlex_yeni) bulur.
+# Scriptin konumundan bağımsız olarak ana dizini bulur.
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TOKEN_PICKLE_FILE = os.path.join(BASE_DIR, 'token.pickle')
 
@@ -26,7 +26,6 @@ PLAYLIST_MAP = {
 
 def get_authenticated_service():
     """Google OAuth 2.0 kimlik doğrulama sürecini yönetir."""
-    # Olası kimlik dosyası konumlarını kontrol et
     potential_secrets = [
         os.path.join(BASE_DIR, 'client_secret.json'),         
         os.path.join(BASE_DIR, 'scripts', 'client_secret.json'), 
@@ -36,27 +35,29 @@ def get_authenticated_service():
     selected_secret = next((path for path in potential_secrets if os.path.exists(path)), None)
     
     if not selected_secret:
-        raise FileNotFoundError(f"\n❌ HATA: Kimlik dosyası (client_secret.json) bulunamadı!\nBaktığım yerler:\n" + "\n".join(potential_secrets))
+        raise FileNotFoundError(f"\n❌ HATA: Kimlik dosyası (client_secret.json) bulunamadı!")
 
     print(f"🔍 Kimlik Dosyası Doğrulandı: {selected_secret}")
     
     credentials = None
-    # Mevcut oturumu (token.pickle) yükle
     if os.path.exists(TOKEN_PICKLE_FILE):
         with open(TOKEN_PICKLE_FILE, 'rb') as token:
             credentials = pickle.load(token)
 
-    # Oturum yoksa veya geçersizse yenile/oluştur
     if not credentials or not credentials.valid:
         if credentials and credentials.expired and credentials.refresh_token:
             print("🔄 Mevcut oturum yenileniyor (Refresh Token)...")
-            credentials.refresh(Request())
-        else:
+            try:
+                credentials.refresh(Request())
+            except Exception as e:
+                print(f"⚠️ Token yenileme hatası: {e}")
+                credentials = None
+
+        if not credentials:
             print(f"🔑 Yeni oturum başlatılıyor. Lütfen tarayıcıda onay verin...")
             flow = InstalledAppFlow.from_client_secrets_file(selected_secret, SCOPES)
             credentials = flow.run_local_server(port=0)
         
-        # Gelecekteki kullanımlar için oturumu kaydet
         with open(TOKEN_PICKLE_FILE, 'wb') as token:
             pickle.dump(credentials, token)
 
@@ -97,7 +98,7 @@ def add_video_to_playlist(youtube, video_id, playlist_id):
         print(f"⚠️ Playlist ekleme hatası: {e}")
 
 def upload_video(video_path, json_path):
-    """Ana yükleme fonksiyonu: Videoyu gönderir, ID'yi kaydeder ve playlist'e ekler."""
+    """Ana yükleme fonksiyonu: Videoyu gönderir, dinamik link ekler ve playlist'e kaydeder."""
     print(f"🎬 Video İşleme Alındı: {os.path.basename(video_path)}")
     
     youtube = get_authenticated_service()
@@ -109,20 +110,38 @@ def upload_video(video_path, json_path):
     with open(json_path, 'r', encoding='utf-8') as f:
         story_data = json.load(f)
 
-    # Metadata Hazırlığı (Hashtag'ler JSON'dan alınır)
+    # --- DINAMIK LINK VE METADATA HAZIRLIĞI ---
     level = story_data.get("level", "c1").lower()
+    story_id = story_data.get("id", "unknown")
     title = story_data.get("title", f"Lerne Deutsch - {level.upper()}")
-    hashtags = story_data.get("hashtags", ["#DeutschLernen", "#LearnGerman"])
-    hashtag_str = " ".join(hashtags)
     
-    description = f"{story_data.get('summary', '')}\n\n{hashtag_str}"
+    # Link: memorlex.com/tr/german/{level}/stories/{storieid}/ (Tireleri kaldırıyoruz)
+    web_story_id = story_id.replace("-", "") 
+    website_link = f"https://memorlex.com/tr/german/{level}/stories/{web_story_id}/"
+
+    # Hashtag ve Etiket (Tag) Hazırlığı
+    hashtags_list = story_data.get("hashtags", ["#DeutschLernen", "#LearnGerman"])
+    clean_tags = [h.replace("#", "").strip() for h in hashtags_list]
+    hashtag_str = " ".join(hashtags_list)
+    
+    summary = story_data.get('summary', '')
+    
+    # --- YOUTUBE AÇIKLAMA (DESCRIPTION) ---
+    description = (
+        f"{hashtag_str}\n\n"
+        f"📖 Bölüm Özeti: {summary}\n\n"
+        f"🔗 Bu hikayedeki kelimelere ve sınav sorularına web sitemizden interaktif olarak çalışın:\n"
+        f"{website_link}\n\n"
+        f"Almanca öğrenmeyi Memorlex ile hızlandırın!\n"
+        f"#GermanExam #DeutschLernen #Memorlex"
+    )
 
     body = {
         "snippet": {
             "title": title,
             "description": description,
-            "tags": [h.replace("#", "") for h in hashtags],
-            "categoryId": "27" # Eğitim Kategorisi
+            "tags": clean_tags[:20],
+            "categoryId": "27" # Eğitim
         },
         "status": {
             "privacyStatus": "public",
@@ -132,7 +151,7 @@ def upload_video(video_path, json_path):
 
     media = MediaFileUpload(video_path, chunksize=-1, resumable=True)
     
-    print("🚀 YouTube'a yükleme işlemi başlatılıyor...")
+    print(f"🚀 YouTube'a yükleme başlatılıyor... (Web: {website_link})")
     request = youtube.videos().insert(
         part="snippet,status",
         body=body,
@@ -158,7 +177,6 @@ def upload_video(video_path, json_path):
     return video_id
 
 if __name__ == "__main__":
-    # Komut satırı argümanlarını kontrol et (Video yolu ve JSON yolu)
     if len(sys.argv) >= 3:
         v_path = os.path.abspath(sys.argv[1])
         j_path = os.path.abspath(sys.argv[2])

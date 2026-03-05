@@ -121,7 +121,6 @@ def create_storybook(json_path):
         
         print(f"🎬 Sahne {i+1}/{len(paragraphs)} hazırlanıyor...")
         
-        # Dosyaları temp içine yönlendir
         audio_path = os.path.join(TEMP_DIR, f"temp_audio_{story_id}_{i}.mp3")
         img_path = os.path.join(TEMP_DIR, f"temp_img_{story_id}_{i}.jpg")
         
@@ -137,20 +136,23 @@ def create_storybook(json_path):
         bg_clip = set_clip_attr(bg_clip, 'duration', duration)
         bg_clip = set_clip_attr(bg_clip, 'fps', 24)
         
-        # --- DÜZELTME: bg_color formatı Tuple olarak güncellendi ---
+        # --- GÜNCELLEME: GENİŞLETİLMİŞ VE OPTİMİZE EDİLMİŞ ALTYAZI ALANI ---
         txt_clip = TextClip(
             text=para, 
-            font_size=30,               
+            font_size=34,               # Okunabilirlik için hafif büyütüldü
             color='white', 
             font=FONT_PATH,
             method='caption',           
-            size=(1000, 350),           
+            size=(1160, 220),           # Genişlik 1000'den 1160'a çıkarıldı (Ekranı daha iyi kaplar)
             text_align='center',
-            bg_color=(0, 0, 0, 140)  # Siyah arka plan, ~%55 opaklık
+            bg_color=(0, 0, 0, 180)     # Opaklık %70 (Siyahlık artırıldı)
         )
         txt_clip = set_clip_attr(txt_clip, 'duration', duration)
-        txt_clip = set_clip_attr(txt_clip, 'position', ('center', 380))
-        txt_clip = set_clip_attr(txt_clip, 'opacity', 0.9)
+        
+        # Pozisyon videonun alt kısmına (Bottom) yakınlaştırıldı
+        # 720p videoda 480px yüksekliği, metni alt-orta bölgeye çok şık yerleştirir
+        txt_clip = set_clip_attr(txt_clip, 'position', ('center', 460))
+        txt_clip = set_clip_attr(txt_clip, 'opacity', 1.0)
 
         scene = CompositeVideoClip([bg_clip, txt_clip], size=(1280, 720))
         scene = set_clip_attr(scene, 'audio', audio_clip)
@@ -164,7 +166,6 @@ def create_storybook(json_path):
         print(f"🎥 {len(scenes)} sahne birleştiriliyor...")
         final_video = concatenate_videoclips(scenes, method="compose", padding=-CROSSFADE_TIME)
         
-        # Çıktı videosunu temp içine kaydet
         output_filename = os.path.join(TEMP_DIR, f"{story_id}.mp4")
         
         final_video.write_videofile(

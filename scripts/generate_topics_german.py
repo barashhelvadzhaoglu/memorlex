@@ -20,11 +20,6 @@ MODELS_TO_TRY = [
     "models/gemini-3-flash",
     "models/gemini-2.5-flash-lite",
     "models/gemini-1.5-flash",
-    "models/gemma-3-27b",
-    "models/gemma-3-12b",
-    "models/gemma-3-4b",
-    "models/gemma-3-2b",
-    "models/gemma-3-1b"
 ]
 
 # 3. Konu Listesi (Münih - Stable Veri Seti)
