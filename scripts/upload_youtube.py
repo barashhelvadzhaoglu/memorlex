@@ -7,15 +7,11 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 from google.auth.transport.requests import Request
 
-# --- DOSYA YOLLARI YAPILANDIRMASI ---
-# Scriptin konumundan bağımsız olarak ana dizini bulur.
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TOKEN_PICKLE_FILE = os.path.join(BASE_DIR, 'token.pickle')
 
-# YouTube API Kapsamları
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload", "https://www.googleapis.com/auth/youtube.force-ssl"]
 
-# Seviye Bazlı Playlist ID Eşleştirmesi
 PLAYLIST_MAP = {
     "a1": "PLaJ-r-y5ehPX02jinpexO6QXIBBdyuo7Q",
     "a2": "PLaJ-r-y5ehPXfvZwB4fZFv2Ehymp5xfqL",
@@ -25,20 +21,17 @@ PLAYLIST_MAP = {
 }
 
 def get_authenticated_service():
-    """Google OAuth 2.0 kimlik doğrulama sürecini yönetir."""
     potential_secrets = [
-        os.path.join(BASE_DIR, 'client_secret.json'),         
-        os.path.join(BASE_DIR, 'scripts', 'client_secret.json'), 
-        os.path.join(BASE_DIR, 'client_secrets.json')          
+        os.path.join(BASE_DIR, 'client_secret.json'),
+        os.path.join(BASE_DIR, 'scripts', 'client_secret.json'),
+        os.path.join(BASE_DIR, 'client_secrets.json')
     ]
-    
-    selected_secret = next((path for path in potential_secrets if os.path.exists(path)), None)
-    
+    selected_secret = next((p for p in potential_secrets if os.path.exists(p)), None)
     if not selected_secret:
-        raise FileNotFoundError(f"\n❌ HATA: Kimlik dosyası (client_secret.json) bulunamadı!")
+        raise FileNotFoundError("❌ HATA: client_secret.json bulunamadı!")
 
-    print(f"🔍 Kimlik Dosyası Doğrulandı: {selected_secret}")
-    
+    print(f"🔍 Kimlik Dosyası: {selected_secret}")
+
     credentials = None
     if os.path.exists(TOKEN_PICKLE_FILE):
         with open(TOKEN_PICKLE_FILE, 'rb') as token:
@@ -46,7 +39,7 @@ def get_authenticated_service():
 
     if not credentials or not credentials.valid:
         if credentials and credentials.expired and credentials.refresh_token:
-            print("🔄 Mevcut oturum yenileniyor (Refresh Token)...")
+            print("🔄 Token yenileniyor...")
             try:
                 credentials.refresh(Request())
             except Exception as e:
@@ -54,86 +47,81 @@ def get_authenticated_service():
                 credentials = None
 
         if not credentials:
-            print(f"🔑 Yeni oturum başlatılıyor. Lütfen tarayıcıda onay verin...")
+            print("🔑 Yeni oturum başlatılıyor...")
             flow = InstalledAppFlow.from_client_secrets_file(selected_secret, SCOPES)
             credentials = flow.run_local_server(port=0)
-        
+
         with open(TOKEN_PICKLE_FILE, 'wb') as token:
             pickle.dump(credentials, token)
 
     return build("youtube", "v3", credentials=credentials)
 
+
 def update_json_with_youtube_id(json_path, youtube_id):
-    """Yüklenen videonun ID'sini ilgili hikaye JSON'una yazar."""
     try:
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        
         data['youtubeId'] = youtube_id
-        
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"📝 JSON başarıyla güncellendi: {os.path.basename(json_path)}")
+        print(f"📝 JSON güncellendi: {os.path.basename(json_path)}")
     except Exception as e:
         print(f"⚠️ JSON yazma hatası: {e}")
 
+
 def add_video_to_playlist(youtube, video_id, playlist_id):
-    """Videoyu seviyesine uygun playlist'e ekler."""
     try:
-        request = youtube.playlistItems().insert(
+        youtube.playlistItems().insert(
             part="snippet",
-            body={
-                "snippet": {
-                    "playlistId": playlist_id,
-                    "resourceId": {
-                        "kind": "youtube#video",
-                        "videoId": video_id
-                    }
-                }
-            }
-        )
-        request.execute()
-        print(f"📂 Video playlist'e eklendi (Playlist ID: {playlist_id})")
+            body={"snippet": {"playlistId": playlist_id, "resourceId": {"kind": "youtube#video", "videoId": video_id}}}
+        ).execute()
+        print(f"📂 Playlist'e eklendi (ID: {playlist_id})")
     except Exception as e:
         print(f"⚠️ Playlist ekleme hatası: {e}")
 
+
 def upload_video(video_path, json_path):
-    """Ana yükleme fonksiyonu: Videoyu gönderir, dinamik link ekler ve playlist'e kaydeder."""
-    print(f"🎬 Video İşleme Alındı: {os.path.basename(video_path)}")
-    
+    print(f"🎬 Video: {os.path.basename(video_path)}")
+
     youtube = get_authenticated_service()
 
     if not os.path.exists(json_path):
-        print(f"❌ HATA: JSON dosyası bulunamadı: {json_path}")
+        print(f"❌ JSON bulunamadı: {json_path}")
         return
 
     with open(json_path, 'r', encoding='utf-8') as f:
         story_data = json.load(f)
 
-    # --- DINAMIK LINK VE METADATA HAZIRLIĞI ---
-    level = story_data.get("level", "c1").lower()
-    story_id = story_data.get("id", "unknown")
-    title = story_data.get("title", f"Lerne Deutsch - {level.upper()}")
-    
-    # Link: memorlex.com/tr/german/{level}/stories/{storieid}/ (Tireleri kaldırıyoruz)
-    web_story_id = story_id.replace("-", "") 
-    website_link = f"https://memorlex.com/tr/german/{level}/stories/{web_story_id}/"
+    # Zaten yuklenmis mi kontrol et
+    existing_id = story_data.get("youtubeId", "").strip()
+    if existing_id:
+        print(f"⚠️ Bu hikaye zaten yüklenmiş: https://youtu.be/{existing_id}")
+        print(f"   Tekrar yüklemek için JSON'daki youtubeId alanını temizleyin.")
+        return existing_id
 
-    # Hashtag ve Etiket (Tag) Hazırlığı
+    level    = story_data.get("level", "c1").lower()
+    story_id = story_data.get("id", "unknown")
+    title    = story_data.get("title", f"Learn German {level.upper()}")
+    summary  = story_data.get("summary", "")
+
+    # Memorlex link
+    web_story_id = story_id.replace("-", "")
+    website_link = f"https://memorlex.com/en/german/{level}/stories/{web_story_id}/"
+
+    # Hashtag listesi
     hashtags_list = story_data.get("hashtags", ["#DeutschLernen", "#LearnGerman"])
-    clean_tags = [h.replace("#", "").strip() for h in hashtags_list]
-    hashtag_str = " ".join(hashtags_list)
-    
-    summary = story_data.get('summary', '')
-    
-    # --- YOUTUBE AÇIKLAMA (DESCRIPTION) ---
+    clean_tags    = [h.replace("#", "").strip() for h in hashtags_list]
+    hashtag_str   = " ".join(hashtags_list)
+
+    # YouTube description — tamamen Ingilizce
     description = (
         f"{hashtag_str}\n\n"
-        f"📖 Bölüm Özeti: {summary}\n\n"
-        f"🔗 Bu hikayedeki kelimelere ve sınav sorularına web sitemizden interaktif olarak çalışın:\n"
+        f"📖 Chapter Summary: {summary}\n\n"
+        f"🔗 Study the vocabulary and quiz questions from this story interactively on our website:\n"
         f"{website_link}\n\n"
-        f"Almanca öğrenmeyi Memorlex ile hızlandırın!\n"
-        f"#GermanExam #DeutschLernen #Memorlex"
+        f"Speed up your German learning with Memorlex!\n"
+        f"✅ Flashcards · Reading · Listening · Comprehension Quiz\n\n"
+        f"#LearnGerman #DeutschLernen #GermanLesson #Memorlex"
     )
 
     body = {
@@ -141,7 +129,7 @@ def upload_video(video_path, json_path):
             "title": title,
             "description": description,
             "tags": clean_tags[:20],
-            "categoryId": "27" # Eğitim
+            "categoryId": "27"  # Education
         },
         "status": {
             "privacyStatus": "public",
@@ -150,37 +138,30 @@ def upload_video(video_path, json_path):
     }
 
     media = MediaFileUpload(video_path, chunksize=-1, resumable=True)
-    
-    print(f"🚀 YouTube'a yükleme başlatılıyor... (Web: {website_link})")
-    request = youtube.videos().insert(
-        part="snippet,status",
-        body=body,
-        media_body=media
-    )
+    print(f"🚀 Yükleniyor... → {website_link}")
+
+    request = youtube.videos().insert(part="snippet,status", body=body, media_body=media)
 
     response = None
     while response is None:
         status, response = request.next_chunk()
         if status:
-            print(f"⌛ Yükleme durumu: %{int(status.progress() * 100)}")
+            print(f"⌛ %{int(status.progress() * 100)}")
 
     video_id = response['id']
-    print(f"✅ Yükleme Başarılı! YouTube ID: {video_id}")
+    print(f"✅ Yükleme Başarılı! https://youtu.be/{video_id}")
 
-    # JSON'u ve Playlist'i güncelle
     update_json_with_youtube_id(json_path, video_id)
-    
+
     playlist_id = PLAYLIST_MAP.get(level)
     if playlist_id:
         add_video_to_playlist(youtube, video_id, playlist_id)
 
     return video_id
 
+
 if __name__ == "__main__":
     if len(sys.argv) >= 3:
-        v_path = os.path.abspath(sys.argv[1])
-        j_path = os.path.abspath(sys.argv[2])
-        upload_video(v_path, j_path)
+        upload_video(os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2]))
     else:
-        print("❌ HATA: Eksik argüman!")
-        print("Kullanım: python3 upload_youtube.py <video_yolu> <json_yolu>")
+        print("❌ Kullanım: python3 upload_youtube.py <video_yolu> <json_yolu>")

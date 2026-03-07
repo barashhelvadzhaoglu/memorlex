@@ -1,0 +1,5 @@
+2026-03-06 23:00:04,259 - INFO - --- YENİ ÜRETİM DÖNGÜSÜ BAŞLATILDI ---
+2026-03-06 23:13:16,555 - INFO - --- YENİ ÜRETİM DÖNGÜSÜ BAŞLATILDI ---
+2026-03-06 23:13:53,832 - ERROR - ❌ HATA: A1 Seviyesinde 1. deneme başarısız: 'VideoFileClip' object has no attribute 'resize'
+2026-03-06 23:14:50,809 - ERROR - ❌ HATA: A1 Seviyesinde 2. deneme başarısız: 'VideoFileClip' object has no attribute 'resize'
+2026-03-06 23:15:37,195 - ERROR - ❌ HATA: A1 Seviyesinde 3. deneme başarısız: 'VideoFileClip' object has no attribute 'resize'

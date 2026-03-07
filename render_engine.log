@@ -1,0 +1,86 @@
+2026-03-06 23:18:03,417 - INFO - --- YENİ ÜRETİM DÖNGÜSÜ BAŞLATILDI ---
+2026-03-06 23:18:32,584 - INFO - 🚀 Render Başlıyor: A1 - storie-001
+2026-03-06 23:18:32,585 - INFO - 🎬 Sahne 1/6 işleniyor...
+2026-03-06 23:18:36,375 - ERROR - Görsel indirme hatası (Sahne 0): cannot identify image file 'temp/img_storie-001_0.jpg'
+2026-03-06 23:18:36,649 - ERROR - ❌ HATA: A1 Seviyesinde 1. deneme başarısız: 'CompositeVideoClip' object has no attribute 'set_audio'
+2026-03-06 23:20:58,611 - INFO - --- YENİ ÜRETİM DÖNGÜSÜ BAŞLATILDI ---
+2026-03-06 23:21:19,764 - INFO - 🔥 Render Motoru Başlatıldı: A1 - storie-001
+2026-03-06 23:21:19,764 - INFO - 🎬 İşleniyor: Sahne 1/12
+2026-03-06 23:21:20,312 - ERROR - Bozuk görsel dosyası (Sahne 0): cannot identify image file 'temp/img_storie-001_0.jpg'
+2026-03-06 23:21:20,471 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:20,471 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:20,472 - INFO - 🎬 İşleniyor: Sahne 2/12
+2026-03-06 23:21:20,907 - ERROR - Bozuk görsel dosyası (Sahne 1): cannot identify image file 'temp/img_storie-001_1.jpg'
+2026-03-06 23:21:21,083 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:21,083 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:21,083 - INFO - 🎬 İşleniyor: Sahne 3/12
+2026-03-06 23:21:21,636 - ERROR - Bozuk görsel dosyası (Sahne 2): cannot identify image file 'temp/img_storie-001_2.jpg'
+2026-03-06 23:21:21,812 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:21,812 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:21,813 - INFO - 🎬 İşleniyor: Sahne 4/12
+2026-03-06 23:21:22,305 - ERROR - Bozuk görsel dosyası (Sahne 3): cannot identify image file 'temp/img_storie-001_3.jpg'
+2026-03-06 23:21:22,462 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:22,462 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:22,462 - INFO - 🎬 İşleniyor: Sahne 5/12
+2026-03-06 23:21:22,844 - ERROR - Bozuk görsel dosyası (Sahne 4): cannot identify image file 'temp/img_storie-001_4.jpg'
+2026-03-06 23:21:22,985 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:22,985 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:22,986 - INFO - 🎬 İşleniyor: Sahne 6/12
+2026-03-06 23:21:23,401 - ERROR - Bozuk görsel dosyası (Sahne 5): cannot identify image file 'temp/img_storie-001_5.jpg'
+2026-03-06 23:21:23,592 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:23,592 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:23,593 - INFO - 🎬 İşleniyor: Sahne 7/12
+2026-03-06 23:21:24,071 - ERROR - Bozuk görsel dosyası (Sahne 6): cannot identify image file 'temp/img_storie-001_6.jpg'
+2026-03-06 23:21:24,332 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:24,333 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:24,333 - INFO - 🎬 İşleniyor: Sahne 8/12
+2026-03-06 23:21:24,778 - ERROR - Bozuk görsel dosyası (Sahne 7): cannot identify image file 'temp/img_storie-001_7.jpg'
+2026-03-06 23:21:25,008 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:25,008 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:25,008 - INFO - 🎬 İşleniyor: Sahne 9/12
+2026-03-06 23:21:25,353 - ERROR - Bozuk görsel dosyası (Sahne 8): cannot identify image file 'temp/img_storie-001_8.jpg'
+2026-03-06 23:21:25,466 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:25,467 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:25,467 - INFO - 🎬 İşleniyor: Sahne 10/12
+2026-03-06 23:21:25,998 - ERROR - Bozuk görsel dosyası (Sahne 9): cannot identify image file 'temp/img_storie-001_9.jpg'
+2026-03-06 23:21:26,194 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:26,194 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:26,194 - INFO - 🎬 İşleniyor: Sahne 11/12
+2026-03-06 23:21:26,670 - ERROR - Bozuk görsel dosyası (Sahne 10): cannot identify image file 'temp/img_storie-001_10.jpg'
+2026-03-06 23:21:26,966 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:26,966 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:26,966 - INFO - 🎬 İşleniyor: Sahne 12/12
+2026-03-06 23:21:27,310 - ERROR - Bozuk görsel dosyası (Sahne 11): cannot identify image file 'temp/img_storie-001_11.jpg'
+2026-03-06 23:21:27,548 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:27,548 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:21:27,548 - INFO - 🎥 Final video paketleniyor...
+2026-03-06 23:21:28,587 - INFO - 💾 Render diske yazılıyor (CPU Intensive): temp/a1-storie-001.mp4
+2026-03-06 23:29:45,597 - INFO - ✨ Başarıyla tamamlandı: temp/a1-storie-001.mp4 (Süre: 505.84s)
+2026-03-06 23:29:45,752 - INFO - ✅ BAŞARILI: A1 - a1-storie-001.mp4 (527.14s)
+2026-03-06 23:30:26,161 - INFO - 🔥 Render Motoru Başlatıldı: A1 - storie-002
+2026-03-06 23:30:26,162 - INFO - 🎬 İşleniyor: Sahne 1/6
+2026-03-06 23:30:27,724 - ERROR - Bozuk görsel dosyası (Sahne 0): cannot identify image file 'temp/img_storie-002_0.jpg'
+2026-03-06 23:30:27,983 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:27,984 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:27,984 - INFO - 🎬 İşleniyor: Sahne 2/6
+2026-03-06 23:30:28,891 - ERROR - Bozuk görsel dosyası (Sahne 1): cannot identify image file 'temp/img_storie-002_1.jpg'
+2026-03-06 23:30:29,310 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:29,310 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:29,310 - INFO - 🎬 İşleniyor: Sahne 3/6
+2026-03-06 23:30:30,155 - ERROR - Bozuk görsel dosyası (Sahne 2): cannot identify image file 'temp/img_storie-002_2.jpg'
+2026-03-06 23:30:30,498 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:30,498 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:30,498 - INFO - 🎬 İşleniyor: Sahne 4/6
+2026-03-06 23:30:31,615 - ERROR - Bozuk görsel dosyası (Sahne 3): cannot identify image file 'temp/img_storie-002_3.jpg'
+2026-03-06 23:30:31,942 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:31,943 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:31,943 - INFO - 🎬 İşleniyor: Sahne 5/6
+2026-03-06 23:30:32,852 - ERROR - Bozuk görsel dosyası (Sahne 4): cannot identify image file 'temp/img_storie-002_4.jpg'
+2026-03-06 23:30:33,213 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:33,214 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:33,214 - INFO - 🎬 İşleniyor: Sahne 6/6
+2026-03-06 23:30:34,527 - ERROR - Bozuk görsel dosyası (Sahne 5): cannot identify image file 'temp/img_storie-002_5.jpg'
+2026-03-06 23:30:34,894 - WARNING - Metod bulunamadı: fadein (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:34,894 - WARNING - Metod bulunamadı: fadeout (Clip: <class 'moviepy.video.compositing.CompositeVideoClip.CompositeVideoClip'>)
+2026-03-06 23:30:34,894 - INFO - 🎥 Final video paketleniyor...
+2026-03-06 23:30:35,975 - INFO - 💾 Render diske yazılıyor (CPU Intensive): temp/a1-storie-002.mp4
