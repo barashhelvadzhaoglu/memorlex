@@ -18,6 +18,19 @@ except ImportError as e:
 ALL_LEVELS = ["a1", "a2", "b1", "b2", "c1"]
 
 
+
+def send_imessage(message: str):
+    import subprocess
+    script = f'''tell application "Messages"
+      set targetService to 1st service whose service type = iMessage
+      set targetBuddy to buddy "baris.helvacioglu@outlook.com" of targetService
+      send "{message}" to targetBuddy
+    end tell'''
+    try:
+        subprocess.run(["osascript", "-e", script], check=True)
+    except Exception as e:
+        print(f"⚠️ iMessage gönderilemedi: {e}")
+
 def git_push(message):
     try:
         print("\n🌐 GitHub'a push ediliyor...")

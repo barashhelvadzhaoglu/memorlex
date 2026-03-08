@@ -5,7 +5,28 @@ import re
 import requests
 import time
 import textwrap
-from gtts import gTTS
+import asyncio
+import edge_tts
+import random
+
+DE_VOICES = [
+    "de-DE-AmalaNeural",
+    "de-DE-ConradNeural",
+    "de-DE-FlorianMultilingualNeural",
+    "de-DE-KatjaNeural",
+    "de-DE-KillianNeural",
+    "de-DE-SeraphinaMultilingualNeural",
+]
+import random
+
+DE_VOICES = [
+    "de-DE-AmalaNeural",
+    "de-DE-ConradNeural",
+    "de-DE-FlorianMultilingualNeural",
+    "de-DE-KatjaNeural",
+    "de-DE-KillianNeural",
+    "de-DE-SeraphinaMultilingualNeural",
+]
 from PIL import Image, ImageDraw, ImageFont
 from typing import Optional
 
@@ -22,7 +43,7 @@ except ImportError:
 
 TEMP_DIR = "temp"
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_DIR = os.path.dirname(SCRIPTS_DIR)
+PROJECT_DIR = os.path.dirname(os.path.dirname(SCRIPTS_DIR))
 ENTRANCE_VIDEO = os.path.join(PROJECT_DIR, "video", "enterence.mp4")
 CLOSE_VIDEO    = os.path.join(PROJECT_DIR, "video", "close.mp4")
 
