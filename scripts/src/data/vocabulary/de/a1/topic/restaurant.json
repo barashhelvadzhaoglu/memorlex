@@ -1,0 +1,141 @@
+{
+  "title": "Im Restaurant (A1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Tisch",
+      "type": "Noun",
+      "example": "Wir haben einen *** für zwei Personen reserviert.",
+      "meaning_tr": "masa",
+      "meaning_en": "table",
+      "meaning_uk": "стіл",
+      "meaning_es": "mesa"
+    },
+    {
+      "term": "die Speisekarte",
+      "type": "Noun",
+      "example": "Kann ich bitte die *** haben?",
+      "meaning_tr": "menü, yemek kartı",
+      "meaning_en": "menu",
+      "meaning_uk": "меню",
+      "meaning_es": "carta"
+    },
+    {
+      "term": "das Getränk",
+      "type": "Noun",
+      "example": "Welches *** möchten Sie?",
+      "meaning_tr": "içecek",
+      "meaning_en": "drink, beverage",
+      "meaning_uk": "напій",
+      "meaning_es": "bebida"
+    },
+    {
+      "term": "das Essen",
+      "type": "Noun",
+      "example": "Das *** schmeckt sehr gut.",
+      "meaning_tr": "yemek",
+      "meaning_en": "food, meal",
+      "meaning_uk": "їжа",
+      "meaning_es": "comida"
+    },
+    {
+      "term": "der Kellner",
+      "type": "Noun",
+      "example": "Der *** bringt uns die Rechnung.",
+      "meaning_tr": "garson",
+      "meaning_en": "waiter",
+      "meaning_uk": "офіціант",
+      "meaning_es": "camarero"
+    },
+    {
+      "term": "die Rechnung",
+      "type": "Noun",
+      "example": "Können wir bitte die *** haben?",
+      "meaning_tr": "hesap, fatura",
+      "meaning_en": "bill, check",
+      "meaning_uk": "рахунок",
+      "meaning_es": "cuenta"
+    },
+    {
+      "term": "der Kaffee",
+      "type": "Noun",
+      "example": "Ich möchte einen *** mit Milch, bitte.",
+      "meaning_tr": "kahve",
+      "meaning_en": "coffee",
+      "meaning_uk": "кава",
+      "meaning_es": "café"
+    },
+    {
+      "term": "das Wasser",
+      "type": "Noun",
+      "example": "Ein Glas ***, bitte.",
+      "meaning_tr": "su",
+      "meaning_en": "water",
+      "meaning_uk": "вода",
+      "meaning_es": "agua"
+    },
+    {
+      "term": "die Reservierung",
+      "type": "Noun",
+      "example": "Haben Sie eine *** auf den Namen Müller?",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "reservation",
+      "meaning_uk": "бронювання",
+      "meaning_es": "reserva"
+    },
+    {
+      "term": "das Brot",
+      "type": "Noun",
+      "example": "Möchten Sie etwas *** dazu?",
+      "meaning_tr": "ekmek",
+      "meaning_en": "bread",
+      "meaning_uk": "хліб",
+      "meaning_es": "pan"
+    },
+    {
+      "term": "bestellen",
+      "type": "Verb",
+      "example": "Wir möchten jetzt ***.",
+      "meaning_tr": "sipariş etmek",
+      "meaning_en": "to order",
+      "meaning_uk": "замовляти",
+      "meaning_es": "pedir"
+    },
+    {
+      "term": "essen",
+      "type": "Verb",
+      "example": "Was möchten Sie heute Abend ***?",
+      "meaning_tr": "yemek yemek",
+      "meaning_en": "to eat",
+      "meaning_uk": "їсти",
+      "meaning_es": "comer"
+    },
+    {
+      "term": "trinken",
+      "type": "Verb",
+      "example": "Was möchten Sie ***?",
+      "meaning_tr": "içmek",
+      "meaning_en": "to drink",
+      "meaning_uk": "пити",
+      "meaning_es": "beber"
+    },
+    {
+      "term": "lecker",
+      "type": "Adjective",
+      "example": "Das Essen ist sehr ***.",
+      "meaning_tr": "lezzetli",
+      "meaning_en": "delicious, tasty",
+      "meaning_uk": "смачний",
+      "meaning_es": "delicioso"
+    },
+    {
+      "term": "bitte",
+      "type": "Adverb",
+      "example": "Ein Wasser, ***.",
+      "meaning_tr": "lütfen",
+      "meaning_en": "please",
+      "meaning_uk": "будь ласка",
+      "meaning_es": "por favor"
+    }
+  ]
+}

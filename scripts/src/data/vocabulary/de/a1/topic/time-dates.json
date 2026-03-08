@@ -1,0 +1,141 @@
+{
+  "title": "Zeit & Datum (A1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Tag",
+      "type": "Noun",
+      "example": "Ein *** hat 24 Stunden.",
+      "meaning_tr": "gün",
+      "meaning_en": "day",
+      "meaning_uk": "день",
+      "meaning_es": "día"
+    },
+    {
+      "term": "die Woche",
+      "type": "Noun",
+      "example": "Eine *** hat sieben Tage.",
+      "meaning_tr": "hafta",
+      "meaning_en": "week",
+      "meaning_uk": "тиждень",
+      "meaning_es": "semana"
+    },
+    {
+      "term": "der Monat",
+      "type": "Noun",
+      "example": "Januar ist der erste *** im Jahr.",
+      "meaning_tr": "ay",
+      "meaning_en": "month",
+      "meaning_uk": "місяць",
+      "meaning_es": "mes"
+    },
+    {
+      "term": "das Jahr",
+      "type": "Noun",
+      "example": "Ein *** hat zwölf Monate.",
+      "meaning_tr": "yıl",
+      "meaning_en": "year",
+      "meaning_uk": "рік",
+      "meaning_es": "año"
+    },
+    {
+      "term": "die Stunde",
+      "type": "Noun",
+      "example": "Der Kurs dauert eine ***.",
+      "meaning_tr": "saat",
+      "meaning_en": "hour",
+      "meaning_uk": "година",
+      "meaning_es": "hora"
+    },
+    {
+      "term": "die Minute",
+      "type": "Noun",
+      "example": "Eine *** hat 60 Sekunden.",
+      "meaning_tr": "dakika",
+      "meaning_en": "minute",
+      "meaning_uk": "хвилина",
+      "meaning_es": "minuto"
+    },
+    {
+      "term": "die Uhr",
+      "type": "Noun",
+      "example": "Es ist drei ***.",
+      "meaning_tr": "saat (zaman)/saat (alet)",
+      "meaning_en": "o'clock / clock",
+      "meaning_uk": "година / годинник",
+      "meaning_es": "en punto / reloj"
+    },
+    {
+      "term": "das Datum",
+      "type": "Noun",
+      "example": "Welches *** haben wir heute?",
+      "meaning_tr": "tarih",
+      "meaning_en": "date",
+      "meaning_uk": "дата",
+      "meaning_es": "fecha"
+    },
+    {
+      "term": "der Morgen",
+      "type": "Noun",
+      "example": "Ich trinke Kaffee am ***.",
+      "meaning_tr": "sabah",
+      "meaning_en": "morning",
+      "meaning_uk": "ранок",
+      "meaning_es": "mañana"
+    },
+    {
+      "term": "der Abend",
+      "type": "Noun",
+      "example": "Am *** lese ich ein Buch.",
+      "meaning_tr": "akşam",
+      "meaning_en": "evening",
+      "meaning_uk": "вечір",
+      "meaning_es": "tarde / noche"
+    },
+    {
+      "term": "die Nacht",
+      "type": "Noun",
+      "example": "Um Mitternacht ist es ***.",
+      "meaning_tr": "gece",
+      "meaning_en": "night",
+      "meaning_uk": "ніч",
+      "meaning_es": "noche"
+    },
+    {
+      "term": "heute",
+      "type": "Adverb",
+      "example": "*** ist Dienstag.",
+      "meaning_tr": "bugün",
+      "meaning_en": "today",
+      "meaning_uk": "сьогодні",
+      "meaning_es": "hoy"
+    },
+    {
+      "term": "gestern",
+      "type": "Adverb",
+      "example": "*** war Montag.",
+      "meaning_tr": "dün",
+      "meaning_en": "yesterday",
+      "meaning_uk": "вчора",
+      "meaning_es": "ayer"
+    },
+    {
+      "term": "morgen",
+      "type": "Adverb",
+      "example": "*** ist Mittwoch.",
+      "meaning_tr": "yarın",
+      "meaning_en": "tomorrow",
+      "meaning_uk": "завтра",
+      "meaning_es": "mañana"
+    },
+    {
+      "term": "beginnen",
+      "type": "Verb",
+      "example": "Der Kurs wird um 9 Uhr ***.",
+      "meaning_tr": "başlamak",
+      "meaning_en": "to begin",
+      "meaning_uk": "починати",
+      "meaning_es": "empezar"
+    }
+  ]
+}
