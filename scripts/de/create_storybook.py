@@ -5,6 +5,7 @@ import re
 import requests
 import time
 import textwrap
+from gtts import gTTS
 import asyncio
 import edge_tts
 import random
@@ -182,7 +183,7 @@ def load_bookend(path, label):
         return None
 
 
-def create_storybook(json_path):
+def create_storybook(json_path, level=None):
     cleanup_old_files(TEMP_DIR)
 
     with open(json_path, 'r', encoding='utf-8') as f:

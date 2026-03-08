@@ -1,231 +1,298 @@
 {
   "id": "storie-001",
-  "youtubeId": "VLOG_TRANSPORT_UMWELT_A1",
-  "title": "Mein Tag mit Zug und Fahrrad in Berlin – A1 Deutsch",
-  "summary": "Ein Student aus Hamburg erzählt von seiner Reise nach Berlin und dem neuen Deutschlandticket. Er spricht über Umwelt und Mobilität in der Stadt.",
+  "level": "a1",
+  "youtubeId": "SqVuH75UYtU",
+  "title": "Roboter und digitales Bezahlen",
+  "summary": "Mia arbeitet in einer modernen Autofabrik mit Robotern. Sie kauft später mit Karte ein.",
+  "hashtags": [
+    "#DeutschLernen",
+    "#LearnGerman",
+    "#Deutsch",
+    "#GermanLanguage",
+    "#DeutschKurs",
+    "#DeutschAlsFremdsprache",
+    "#DAF",
+    "#Lesen",
+    "#Hören",
+    "#Leseverstehen",
+    "#Hörverstehen",
+    "#GoetheZertifikat",
+    "#Telc",
+    "#TestDaF",
+    "#DSH",
+    "#Deutschkenntnisse",
+    "#DeutschOnline",
+    "#DeutschÜben",
+    "#Sprachkurs",
+    "#Sprachenlernen",
+    "#Mehrsprachig",
+    "#DeutschFürAnfänger",
+    "#DeutschFürFortgeschrittene",
+    "#Vokabeln",
+    "#Grammatik",
+    "#DeutschSprechen",
+    "#Integrationskurs",
+    "#Germany",
+    "#Deutschland",
+    "#Berlin",
+    "#München",
+    "#Memorlex",
+    "#LanguageLearning",
+    "#Flashcards"
+  ],
   "text": [
-    "Hallo! Ich heiße Tim und ich bin Student. Ich komme aus Hamburg. Heute bin ich in Berlin. Ich fahre mit dem Zug. Das ist gut für die Umwelt. Ich habe das Deutschlandticket für 49 Euro. Das Ticket ist super! Ich fahre oft mit dem Regionalzug.",
-    "In Berlin brauche ich kein Auto. Ich fahre lieber mit dem Fahrrad. Berlin ist eine Fahrradstadt, aber nicht so gut wie Münster. Ich suche den Bahnhof. Mein Zug kommt um 14:30 Uhr am Gleis 5 an. Ich muss schnell sein!",
-    "Ich wohne in einem kleinen Zimmer. Die Miete ist teuer. Wir müssen mehr für erneuerbare Energien machen. Das ist wichtig für unsere Zukunft. Ich sehe hier viele neue Solar-Paneele auf den Dächern. Das ist positiv für den Klimaschutz.",
-    "Ich möchte heute das Brandenburger Tor sehen. Dann esse ich vielleicht ein Eis. Die Deutsche Bahn hat manchmal Probleme, aber heute war alles pünktlich. Gute Reise und Tschüss!"
+    "Mia geht zur Arbeit. Es ist 8 Uhr am Montag, dem 10. Juli.",
+    "Sie arbeitet in einer Fabrik. Die Fabrik ist sehr modern.",
+    "Roboter produzieren Autos. Ein Roboter montiert schnell ein Teil.",
+    "Mia macht Pause. Es ist 12:30 Uhr. Sie kauft ein Brot.",
+    "Das Brot kostet 3,50 Euro. Mia hat kein Bargeld.",
+    "Sie zahlt mit Karte. Das ist digital und einfach.",
+    "Später kauft sie einen Kaffee für 2,80 Euro. Sie zahlt wieder mit Karte."
+  ],
+  "image_prompts": [
+    "realistic photo, a young woman walking to a modern factory entrance, it's 8 AM, sunny morning, cinematic lighting",
+    "realistic photo, inside a very modern, clean car factory, bright lights, high-tech machinery, cinematic lighting",
+    "realistic photo, an industrial robot arm quickly assembling a car part on an assembly line, close-up, precision, cinematic lighting",
+    "realistic photo, a young woman on a break, holding a sandwich in a bright factory canteen, it's 12:30 PM, cinematic lighting",
+    "realistic photo, a hand holding a bread roll, a price tag shows '3,50 Euro', no cash in sight, cinematic lighting",
+    "realistic photo, a hand holding a credit card near a payment terminal at a small shop counter, digital payment in action, cinematic lighting",
+    "realistic photo, a hand holding a coffee cup, next to it a smartphone or card for payment, a price tag shows '2,80 Euro', cinematic lighting"
   ],
   "vocab": [
     {
-      "term": "Student",
+      "term": "die Arbeit",
       "type": "Nomen",
-      "meaning_tr": "Öğrenci",
-      "meaning_en": "Student",
-      "meaning_es": "Estudiante",
-      "meaning_ua": "Студент",
-      "example": "Ich bin ein Student."
+      "meaning_tr": "iş",
+      "meaning_en": "work",
+      "meaning_es": "trabajo",
+      "meaning_uk": "робота",
+      "example": "Mia geht zur Arbeit."
     },
     {
-      "term": "Deutschlandticket",
+      "term": "die Fabrik",
       "type": "Nomen",
-      "meaning_tr": "Almanya Bileti (49 Euro)",
-      "meaning_en": "Germany Ticket",
-      "meaning_es": "Boleto de Alemania",
-      "meaning_ua": "Німецький квиток",
-      "example": "Das Deutschlandticket kostet 49 Euro."
+      "meaning_tr": "fabrika",
+      "meaning_en": "factory",
+      "meaning_es": "fábrica",
+      "meaning_uk": "фабрика",
+      "example": "Sie arbeitet in einer Fabrik."
     },
     {
-      "term": "Umwelt",
-      "type": "Nomen",
-      "meaning_tr": "Çevre",
-      "meaning_en": "Environment",
-      "meaning_es": "Medio ambiente",
-      "meaning_ua": "Навколишнє середовище",
-      "example": "Die Umwelt ist sehr wichtig."
-    },
-    {
-      "term": "Fahrrad",
-      "type": "Nomen",
-      "meaning_tr": "Bisiklet",
-      "meaning_en": "Bicycle",
-      "meaning_es": "Bicicleta",
-      "meaning_ua": "Велосипед",
-      "example": "Ich fahre mit dem Fahrrad."
-    },
-    {
-      "term": "Regionalzug",
-      "type": "Nomen",
-      "meaning_tr": "Bölgesel tren",
-      "meaning_en": "Regional train",
-      "meaning_es": "Tren regional",
-      "meaning_ua": "Регіональний поїзд",
-      "example": "Der Regionalzug ist oft voll."
-    },
-    {
-      "term": "Bahnhof",
-      "type": "Nomen",
-      "meaning_tr": "Tren istasyonu",
-      "meaning_en": "Train station",
-      "meaning_es": "Estación de tren",
-      "meaning_ua": "Вокзал",
-      "example": "Ich bin am Bahnhof."
-    },
-    {
-      "term": "Gleis",
-      "type": "Nomen",
-      "meaning_tr": "Peron, ray",
-      "meaning_en": "Track, platform",
-      "meaning_es": "Vía",
-      "meaning_ua": "Колія",
-      "example": "Mein Zug ist auf Gleis 5."
-    },
-    {
-      "term": "erneuerbare Energien",
-      "type": "Phrase",
-      "meaning_tr": "Yenilenebilir enerji",
-      "meaning_en": "Renewable energies",
-      "meaning_es": "Energías renovables",
-      "meaning_ua": "Відновлювана енергія",
-      "example": "Wir brauchen mehr erneuerbare Energien."
-    },
-    {
-      "term": "Klimaschutz",
-      "type": "Nomen",
-      "meaning_tr": "İklim koruması",
-      "meaning_en": "Climate protection",
-      "meaning_es": "Protección del clima",
-      "meaning_ua": "Захист клімату",
-      "example": "Klimaschutz ist wichtig."
-    },
-    {
-      "term": "pünktlich",
+      "term": "modern",
       "type": "Adjektiv",
-      "meaning_tr": "Zamanında",
-      "meaning_en": "On time",
-      "meaning_es": "Puntual",
-      "meaning_ua": "Вчасно",
-      "example": "Der Zug war pünktlich."
+      "meaning_tr": "modern",
+      "meaning_en": "modern",
+      "meaning_es": "moderno",
+      "meaning_uk": "сучасний",
+      "example": "Die Fabrik ist modern."
     },
     {
-      "term": "teuer",
+      "term": "der Roboter",
+      "type": "Nomen",
+      "meaning_tr": "robot",
+      "meaning_en": "robot",
+      "meaning_es": "robot",
+      "meaning_uk": "робот",
+      "example": "Roboter produzieren Autos."
+    },
+    {
+      "term": "produzieren",
+      "type": "Verb",
+      "meaning_tr": "üretmek",
+      "meaning_en": "to produce",
+      "meaning_es": "producir",
+      "meaning_uk": "виробляти",
+      "example": "Roboter produzieren Autos."
+    },
+    {
+      "term": "das Auto",
+      "type": "Nomen",
+      "meaning_tr": "araba",
+      "meaning_en": "car",
+      "meaning_es": "coche",
+      "meaning_uk": "автомобіль",
+      "example": "Roboter produzieren Autos."
+    },
+    {
+      "term": "schnell",
       "type": "Adjektiv",
-      "meaning_tr": "Pahalı",
-      "meaning_en": "Expensive",
-      "meaning_es": "Caro",
-      "meaning_ua": "Дорогий",
-      "example": "Die Miete ist sehr teuer."
+      "meaning_tr": "hızlı",
+      "meaning_en": "fast",
+      "meaning_es": "rápido",
+      "meaning_uk": "швидкий",
+      "example": "Ein Roboter montiert schnell."
     },
     {
-      "term": "Münster",
+      "term": "die Pause",
       "type": "Nomen",
-      "meaning_tr": "Münster (şehir adı)",
-      "meaning_en": "Münster (city name)",
-      "meaning_es": "Münster (nombre de ciudad)",
-      "meaning_ua": "Мюнстер (назва міста)",
-      "example": "Münster ist eine Fahrradstadt."
+      "meaning_tr": "mola",
+      "meaning_en": "break",
+      "meaning_es": "descanso",
+      "meaning_uk": "перерва",
+      "example": "Mia macht Pause."
     },
     {
-      "term": "Solar-Paneele",
-      "type": "Nomen",
-      "meaning_tr": "Güneş panelleri",
-      "meaning_en": "Solar panels",
-      "meaning_es": "Paneles solares",
-      "meaning_ua": "Сонячні панелі",
-      "example": "Ich sehe viele Solar-Paneele."
+      "term": "kaufen",
+      "type": "Verb",
+      "meaning_tr": "satın almak",
+      "meaning_en": "to buy",
+      "meaning_es": "comprar",
+      "meaning_uk": "купувати",
+      "example": "Sie kauft ein Brot."
     },
     {
-      "term": "Deutsche Bahn",
+      "term": "das Brot",
       "type": "Nomen",
-      "meaning_tr": "Alman Demiryolları",
-      "meaning_en": "German Rail",
-      "meaning_es": "Ferrocarriles Alemanes",
-      "meaning_ua": "Німецька залізниця",
-      "example": "Die Deutsche Bahn hat Probleme."
+      "meaning_tr": "ekmek",
+      "meaning_en": "bread",
+      "meaning_es": "pan",
+      "meaning_uk": "хліб",
+      "example": "Das Brot kostet 3,50 Euro."
     },
     {
-      "term": "Brandenburger Tor",
+      "term": "kosten",
+      "type": "Verb",
+      "meaning_tr": "mal olmak",
+      "meaning_en": "to cost",
+      "meaning_es": "costar",
+      "meaning_uk": "коштувати",
+      "example": "Das Brot kostet 3,50 Euro."
+    },
+    {
+      "term": "das Bargeld",
       "type": "Nomen",
-      "meaning_tr": "Brandenburg Kapısı",
-      "meaning_en": "Brandenburg Gate",
-      "meaning_es": "Puerta de Brandeburgo",
-      "meaning_ua": "Бранденбурзькі ворота",
-      "example": "Ich möchte das Brandenburger Tor sehen."
+      "meaning_tr": "nakit para",
+      "meaning_en": "cash",
+      "meaning_es": "efectivo",
+      "meaning_uk": "готівка",
+      "example": "Mia hat kein Bargeld."
+    },
+    {
+      "term": "die Karte",
+      "type": "Nomen",
+      "meaning_tr": "kart",
+      "meaning_en": "card",
+      "meaning_es": "tarjeta",
+      "meaning_uk": "картка",
+      "example": "Sie zahlt mit Karte."
+    },
+    {
+      "term": "zahlen",
+      "type": "Verb",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to pay",
+      "meaning_es": "pagar",
+      "meaning_uk": "платити",
+      "example": "Sie zahlt mit Karte."
+    },
+    {
+      "term": "digital",
+      "type": "Adjektiv",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_es": "digital",
+      "meaning_uk": "цифровий",
+      "example": "Das ist digital."
+    },
+    {
+      "term": "einfach",
+      "type": "Adjektiv",
+      "meaning_tr": "kolay",
+      "meaning_en": "easy",
+      "meaning_es": "fácil",
+      "meaning_uk": "легко",
+      "example": "Das ist einfach."
+    },
+    {
+      "term": "der Kaffee",
+      "type": "Nomen",
+      "meaning_tr": "kahve",
+      "meaning_en": "coffee",
+      "meaning_es": "café",
+      "meaning_uk": "кава",
+      "example": "Sie kauft einen Kaffee."
     }
   ],
   "questions": [
     {
-      "question": "Woher kommt Tim?",
+      "question": "Um wie viel Uhr geht Mia zur Arbeit?",
       "options": [
-        "A) Aus Berlin",
-        "B) Aus Hamburg",
-        "C) Aus Münster",
-        "D) Aus München"
+        "A) Um 7 Uhr",
+        "B) Um 8 Uhr",
+        "C) Um 9 Uhr",
+        "D) Um 10 Uhr"
       ],
-      "answer": "B"
+      "answer": "B) Um 8 Uhr"
     },
     {
-      "question": "Was ist Tim in Berlin wichtig für die Umwelt?",
+      "question": "Was produzieren Roboter in der Fabrik?",
       "options": [
-        "A) Das Auto",
-        "B) Das Flugzeug",
-        "C) Der Zug und das Fahrrad",
-        "D) Die Autobahn"
+        "A) Fahrräder",
+        "B) Computer",
+        "C) Autos",
+        "D) Möbel"
       ],
-      "answer": "C"
+      "answer": "C) Autos"
     },
     {
-      "question": "Wie viel kostet das Deutschlandticket?",
+      "question": "Wann macht Mia Pause?",
       "options": [
-        "A) 9 Euro",
-        "B) 49 Euro",
-        "C) 55 Euro",
-        "D) 100 Euro"
+        "A) Um 10:00 Uhr",
+        "B) Um 11:30 Uhr",
+        "C) Um 12:30 Uhr",
+        "D) Um 14:00 Uhr"
       ],
-      "answer": "B"
+      "answer": "C) Um 12:30 Uhr"
     },
     {
-      "question": "Wann kommt Tims Zug an?",
+      "question": "Wie viel kostet das Brot?",
       "options": [
-        "A) Um 13:30 Uhr",
-        "B) Um 14:00 Uhr",
-        "C) Um 14:30 Uhr",
-        "D) Um 15:30 Uhr"
+        "A) 2,50 Euro",
+        "B) 3,00 Euro",
+        "C) 3,50 Euro",
+        "D) 4,00 Euro"
       ],
-      "answer": "C"
+      "answer": "C) 3,50 Euro"
     },
     {
-      "question": "Auf welchem Gleis kommt der Zug an?",
+      "question": "Warum zahlt Mia mit Karte?",
       "options": [
-        "A) Gleis 4",
-        "B) Gleis 5",
-        "C) Gleis 1",
-        "D) Gleis 10"
+        "A) Sie hat Bargeld.",
+        "B) Sie mag keine Karten.",
+        "C) Sie hat kein Bargeld.",
+        "D) Es ist sehr langsam."
       ],
-      "answer": "B"
+      "answer": "C) Sie hat kein Bargeld."
     },
     {
-      "question": "Welche Stadt wird als gute Fahrradstadt genannt?",
+      "question": "Was kauft Mia nach dem Brot?",
       "options": [
-        "A) Berlin",
-        "B) Hamburg",
-        "C) Köln",
-        "D) Münster"
+        "A) Ein Wasser",
+        "B) Einen Kaffee",
+        "C) Ein Buch",
+        "D) Eine Zeitung"
       ],
-      "answer": "D"
+      "answer": "B) Einen Kaffee"
     },
     {
-      "question": "Was sieht Tim in Berlin?",
+      "question": "Wie viel kostet der Kaffee?",
       "options": [
-        "A) Den Wald",
-        "B) Den Rhein",
-        "C) Das Brandenburger Tor",
-        "D) Die Autobahn"
+        "A) 1,80 Euro",
+        "B) 2,00 Euro",
+        "C) 2,50 Euro",
+        "D) 2,80 Euro"
       ],
-      "answer": "C"
+      "answer": "D) 2,80 Euro"
     },
     {
-      "question": "Was meint Tim mit 'Das ist positiv für den Klimaschutz'?",
+      "question": "Welcher Tag ist heute?",
       "options": [
-        "A) Er mag die teuren Autos.",
-        "B) Er sieht viele Solar-Paneele.",
-        "C) Er fährt immer mit dem Flugzeug.",
-        "D) Er mag die Probleme der Deutschen Bahn."
+        "A) Dienstag",
+        "B) Mittwoch",
+        "C) Montag",
+        "D) Freitag"
       ],
-      "answer": "B"
+      "answer": "C) Montag"
     }
   ]
 }

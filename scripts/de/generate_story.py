@@ -146,38 +146,28 @@ def call_gemini(prompt, api_key, model_name, max_tokens):
 def parse_json_safe(raw_text: str) -> dict:
     """JSON'u bul, temizle ve parse et."""
     text = raw_text.strip()
-
-    # Kod blogu varsa ic kismi al
     if "```" in text:
         for part in text.split("```"):
             part = part.strip().lstrip("json").strip()
             if part.startswith("{"):
                 text = part
                 break
-
-    # { ... } araligini bul
     start = text.find("{")
     end   = text.rfind("}") + 1
     if start != -1 and end > start:
         text = text[start:end]
-
-    # Almanca tirnak isaretlerini standart tirnak ile degistir
     text = text.replace("\u201e", '"').replace("\u201c", '"').replace("\u201d", '"')
     text = text.replace("\u2018", "'").replace("\u2019", "'")
-
-    # Satir sonu karakterlerini temizle
     text = text.replace("\r\n", "\\n").replace("\r", "\\n")
-
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        # Son care: json icindeki kontrolsuz satir sonlarini temizle
-        import re
-        # String icindeki literal newline'lari \\n ile degistir
+        import re as _re
         def fix_newlines(m):
             return m.group(0).replace('\n', '\\n').replace('\t', '\\t')
-        text = re.sub(r'"[^"\\]*(?:\\.[^"\\]*)*"', fix_newlines, text, flags=re.DOTALL)
+        text = _re.sub(r'"[^"\\]*(?:\\.[^"\\]*)*"', fix_newlines, text, flags=_re.DOTALL)
         return json.loads(text)
+
 
 
 def generate_story(level_override: Optional[str] = None):
@@ -232,7 +222,7 @@ SADECE geçerli JSON döndür, açıklama veya markdown ekleme:
   "youtubeId": "",
   "title": "Almanca Başlık",
   "summary": "Almanca max 2 cümle özet.",
-  "hashtags": {json.dumps(HASHTAGS, ensure_ascii=False)},
+  "hashtags": [],
   "text": ["sahne1", "sahne2", "...{cfg['scenes']} eleman"],
   "image_prompts": ["realistic photo, scene1, cinematic lighting", "...{cfg['scenes']} eleman"],
   "vocab": [{{"term":"kelime","type":"Nomen","meaning_tr":"TR","meaning_en":"EN","meaning_es":"ES","meaning_uk":"UA","example":"örnek"}}],

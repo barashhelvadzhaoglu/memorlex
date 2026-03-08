@@ -60,13 +60,15 @@ def run_single(level: str, index: int, total: int) -> bool:
             for f in os.listdir(target_dir)
             if f.endswith(".json")
         ]
+        if not json_files:
+            raise FileNotFoundError(f"Hiç JSON bulunamadı: {target_dir}")
         latest_json = max(json_files, key=os.path.getmtime)
         story_id = os.path.basename(latest_json).replace(".json", "")
         print(f"✅ JSON: {latest_json}")
 
         # Adim 2: Video uret
         print("\nStep 2: Video oluşturuluyor...")
-        create_storybook(latest_json)
+        create_storybook(latest_json, level=level)
 
         video_path = os.path.join("temp", f"{level}-{story_id}.mp4")
         if not os.path.exists(video_path):
