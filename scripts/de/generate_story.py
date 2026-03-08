@@ -30,11 +30,11 @@ LEVEL_CONFIG = {
            "desc": "Sehr einfache, kurze Sätze. Grundbedürfnisse, Uhrzeit, Preise fragen."},
     "a2": {"scenes": 10, "sentences": 2, "max_chars": 140, "max_tokens": 4096,
            "desc": "Perfekt und Präsens gemischt. Alltag, einfache Dialoge."},
-    "b1": {"scenes": 14, "sentences": 3, "max_chars": 180, "max_tokens": 8192,
+    "b1": {"scenes": 18, "sentences": 3, "max_chars": 260, "max_tokens": 8192,
            "desc": "Nebensätze, Modalverben, formelle Texte. Mittellange Sätze."},
-    "b2": {"scenes": 18, "sentences": 3, "max_chars": 200, "max_tokens": 8192,
+    "b2": {"scenes": 24, "sentences": 4, "max_chars": 300, "max_tokens": 8192,
            "desc": "Konjunktiv II, abstrakte Themen, akademische Diskussionen."},
-    "c1": {"scenes": 22, "sentences": 3, "max_chars": 220, "max_tokens": 8192,
+    "c1": {"scenes": 30, "sentences": 4, "max_chars": 340, "max_tokens": 8192,
            "desc": "Akademische Analysen, philosophische Perspektiven, Nominalstil."},
 }
 

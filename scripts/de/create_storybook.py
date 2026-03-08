@@ -74,11 +74,27 @@ def clean_text_for_tts(text):
     return re.sub(r'\s+', ' ', text).strip()
 
 
+# Her hikaye icin bir kaynak sec (hikaye basinda belirlenir)
+IMAGE_SOURCE = None  # create_storybook tarafindan set edilir
+
 def download_image(prompt, path, index):
+    global IMAGE_SOURCE
     headers = {'User-Agent': 'Mozilla/5.0'}
-    clean = re.sub(r'[^a-zA-Z0-9\s]', '', prompt)[:250]
+    clean = re.sub(r'[^a-zA-Z0-9\s,]', '', prompt)[:200]
+    clean_encoded = requests.utils.quote(clean)
+    seed = int(time.time()) + index
+
+    sources = {
+        "pollinations": f"https://pollinations.ai/p/{clean_encoded}?width={VIDEO_W}&height={VIDEO_H}&nologo=true&seed={seed}",
+        "unsplash":     f"https://source.unsplash.com/{VIDEO_W}x{VIDEO_H}/?{clean_encoded}&sig={seed}",
+        "picsum":       f"https://picsum.photos/seed/{seed+index}/{VIDEO_W}/{VIDEO_H}",
+        "pixabay":      f"https://pixabay.com/get/g{seed}.jpg",  # fallback olarak kullanilir
+    }
+
+    source = IMAGE_SOURCE or "pollinations"
+    url = sources.get(source, sources["pollinations"])
+
     try:
-        url = f"https://pollinations.ai/p/{requests.utils.quote(clean)}?width={VIDEO_W}&height={VIDEO_H}&nologo=true&seed={int(time.time())+index}"
         r = requests.get(url, headers=headers, timeout=30)
         if r.status_code == 200 and len(r.content) > 10000:
             with open(path, 'wb') as f:
@@ -184,6 +200,9 @@ def load_bookend(path, label):
 
 
 def create_storybook(json_path, level=None):
+    global IMAGE_SOURCE
+    IMAGE_SOURCE = random.choice(["pollinations", "pollinations", "unsplash", "picsum"])
+    print(f"🖼️  Resim kaynağı: {IMAGE_SOURCE}")
     cleanup_old_files(TEMP_DIR)
 
     with open(json_path, 'r', encoding='utf-8') as f:
