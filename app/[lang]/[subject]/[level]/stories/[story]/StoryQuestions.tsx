@@ -42,7 +42,9 @@ export default function StoryQuestions({ questions, lang }: { questions: any[], 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                 {q.options.map((option: string) => {
                   const isSelected = selectedAnswers[qIdx] === option;
-                  const isCorrect = option === q.answer;
+                  const isCorrect = option === q.answer || 
+                    option.startsWith(q.answer + ")") || 
+                    option.startsWith(q.answer + " )");
                   const hasAnswered = !!selectedAnswers[qIdx];
 
                   let btnStyle = "border-slate-200 dark:border-slate-800 hover:border-amber-400";
