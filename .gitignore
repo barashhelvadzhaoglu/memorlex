@@ -1,4 +1,4 @@
-# dependencies
+# Dependencies
 /node_modules
 /.pnp
 .pnp.*
@@ -8,45 +8,31 @@
 !.yarn/releases
 !.yarn/versions
 
-# testing
-/coverage
-
-# next.js
+# Next.js
 /.next/
 /out/
-
-# production
 /build
+/coverage
 
-# misc
+# Misc
 .DS_Store
 *.pem
 *.key
 *.pub
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files (Security-First approach)
+# Env files
 .env
 .env.*
 !.env.example
 
-# vercel
+# Vercel
 .vercel
 
-# typescript
+# TypeScript
 *.tsbuildinfo
 next-env.d.ts
 
-# Infrastructure (Terraform)
+# Terraform
 terraform/*.tfvars
 terraform/.terraform/
 terraform/*.tfstate*
@@ -55,18 +41,37 @@ terraform/*.tfstate*
 .vscode/
 .idea/
 
-# --- Memorlex YouTube Automation & Security ---
-# YouTube API Client Secrets (Kimlik dosyaları asla push edilmemeli)
+# Security - YouTube API
 client_secret.json
 client_secrets.json
 scripts/client_secret.json
-scripts/client_secrets.json
-
-# OAuth Oturum Token'ı (Bu dosya sızarsa şifresiz kanala erişim sağlanabilir)
 token.pickle
 scripts/token.pickle
 
-# Otomasyon Logları ve Geçici Video Dosyaları
-scripts/*.log
+# Logs
+*.log
+logs/
+memorlex_de.log
+memorlex_de_error.log
+
+# Temp videos
 temp/
 !temp/.gitkeep
+*TEMP_MPY*.mp4
+
+# Python
+venv/
+memorlex_venv2/
+__pycache__/
+*.pyc
+
+# Production log
+production_log.txt
+render_engine.log
+
+# Videos
+video/
+*.mp4
+*.mov
+*.avi
+*.mkv
