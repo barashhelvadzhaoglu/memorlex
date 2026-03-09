@@ -99,11 +99,29 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
     if (!userValue) return;
 
     let isCorrect = false;
-    // İsimlerde artikeller önemli olduğu için case-sensitive kontrol edilebilir
-    const isNoun = w.type === "İsim" || w.type === "Noun" || w.type === "Sustantivo";
+    const isNoun = w.type === "İsim" || w.type === "Noun" || w.type === "Nomen" || 
+                   w.type === "Sustantivo" || w.type?.includes("Nomen");
+    const isGerman = subject === "german";
 
-    if (isNoun) {
-      isCorrect = userValue === w.term;
+    if (isGerman && isNoun) {
+      // Artikel + isim kontrolü: "der/die/das/ein/eine" + büyük harfli isim
+      const ARTICLES = ["der", "die", "das", "ein", "eine", "einen", "einem", "einer", "des", "dem", "den"];
+      const userParts = userValue.trim().split(/\s+/);
+      const termParts = w.term.trim().split(/\s+/);
+      
+      if (userParts.length >= 2 && termParts.length >= 2) {
+        // Artikel eşleşiyor mu + isim eşleşiyor mu (büyük harf duyarlı)
+        isCorrect = userParts[0].toLowerCase() === termParts[0].toLowerCase() && 
+                    userParts[1] === termParts[1];
+      } else if (userParts.length === 1 && termParts.length >= 2) {
+        // Sadece isim girilmişse — artikelsiz kabul etme, uyar
+        isCorrect = false;
+      } else {
+        isCorrect = userValue === w.term;
+      }
+    } else if (isGerman) {
+      // Fiil, sıfat vb. — küçük/büyük harf önemsiz
+      isCorrect = userValue.toLowerCase() === w.term.toLowerCase();
     } else {
       isCorrect = userValue.toLowerCase() === w.term.toLowerCase();
     }

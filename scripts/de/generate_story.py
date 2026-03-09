@@ -76,6 +76,30 @@ TOPIC_POOL = [
     "Wissenschaft: Deutsche Erfinder - Gutenberg, Benz, Einstein",
 ]
 
+
+VOCAB_RULES = {
+    "a1": {
+        "instruction": "Günlük hayatta gerekli ama yeni öğrenenler için alışılmadık kelimeler seç. Örnek: Quittung, Warteschlange, Fahrkartenautomat, Pfand",
+        "avoid": "sein, haben, gut, groß, Tag, Mann, Frau, Kind, Haus, Auto gibi çok temel kelimelerden kaçın",
+    },
+    "a2": {
+        "instruction": "Günlük iletişimde önemli ama sözlüğe bakılması gereken kelimeler seç. Örnek: Kassenbon, Überweisung, Termin absagen, Krankschreibung",
+        "avoid": "A1 düzeyindeki temel kelimelerden kaçın",
+    },
+    "b1": {
+        "instruction": "Orta-ileri düzey, soyut veya resmi kelimeler seç. Örnek: Beeinträchtigung, Zuständigkeit, Genehmigung, Nachhaltigkeit",
+        "avoid": "Çok yaygın ve basit fiillerden kaçın",
+    },
+    "b2": {
+        "instruction": "Akademik, soyut, çok anlamlı kelimeler seç. Örnek: Ambivalenz, Paradigmenwechsel, Restrukturierung, Beeinflussbarkeit",
+        "avoid": "B1 ve altı kelimelerden kaçın",
+    },
+    "c1": {
+        "instruction": "Nadir, akademik, felsefi veya teknik kelimeler seç. Örnek: Interdependenz, Präzedenzfall, Konnotation, Diskrepanz, Reziprozität",
+        "avoid": "B2 ve altı kelimelerden kaçın",
+    },
+}
+
 HASHTAGS = [
     "#DeutschLernen", "#LearnGerman", "#Deutsch", "#GermanLanguage",
     "#DeutschKurs", "#DeutschAlsFremdsprache", "#DAF",
@@ -206,6 +230,10 @@ KURALLAR:
 - SINAV VERİLERİ: Saatler, fiyatlar, tarihler, peron/kapı numaraları mutlaka ekle
 - SINAV STRATEJİSİ: {EXAM_LOGIC[level]}
 - VOCAB: Tam 15-20 adet YENİ kelime. {bridge_block}
+- VOCAB SEÇİM KURALI: {VOCAB_RULES[level]["instruction"]}
+- VOCAB KAÇINMA: {VOCAB_RULES[level]["avoid"]}
+- VOCAB ARTIKEL KURALI: Nomen tipindeki kelimelerde MUTLAKA artikel ekle. Örnek: "das Haus", "der Mann", "die Frau". Artikelsiz Nomen KABUL EDİLMEZ.
+- VOCAB HEDEFİ: Öğrencinin sözlüğe bakması gereken, sınavda çıkan kelimeler seç
 - SORULAR: 8-10 çoktan seçmeli soru, yarısı kilit verileri sorgulasın
 - IMAGE PROMPTS: Her sahne için 1 İngilizce Stable Diffusion promptu (text ile aynı eleman sayısı)
 
