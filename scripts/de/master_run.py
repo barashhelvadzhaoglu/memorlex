@@ -133,6 +133,11 @@ def run_pipeline(level_override: Optional[str] = None, count: int = 1):
     print(f"⏱️ Toplam: {datetime.now() - start_time}")
     print(f"{'='*50}")
 
+    # iMessage bildirimi
+    msg = f"Memorlex Pipeline\nA1: {chr(9989) if success >= 1 else chr(10060)}\nA2: {chr(9989) if success >= 2 else chr(10060)}\n\n{success}/5 basarili\n{datetime.now() - start_time}"
+    send_imessage(msg)
+
+
 
 if __name__ == "__main__":
     level_arg = sys.argv[1] if len(sys.argv) > 1 else None
