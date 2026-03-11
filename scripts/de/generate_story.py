@@ -124,18 +124,31 @@ def get_current_level(override: Optional[str] = None) -> Optional[str]:
     return WEEKLY_SCHEDULE.get(datetime.now().weekday())
 
 
-def get_next_filename(directory):
-    if not os.path.exists(directory):
-        return "storie-001.json"
+def get_next_filename(directory: str) -> str:
+    """
+    Klasördeki mevcut storie-XXX.json dosyalarını tarayıp
+    en yüksek numaradan sonrakini döndürür.
+
+    Örnek:
+      storie-001.json, storie-002.json  →  storie-003.json
+      storie-001.json, storie-003.json  →  storie-004.json  (boşluk doldurulmaz!)
+
+    Boşluk doldurulmaz çünkü silinen bir dosyanın numarasını tekrar kullanmak
+    frontend'de eski cache'lerle çakışmaya neden olabilir.
+    """
+    # Klasör yoksa oluştur
+    os.makedirs(directory, exist_ok=True)
+
     numbers = set()
     for f in os.listdir(directory):
         m = re.search(r"storie-(\d+)\.json", f)
         if m:
             numbers.add(int(m.group(1)))
-    n = 1
-    while n in numbers:
-        n += 1
-    return f"storie-{n:03d}.json"
+
+    next_n = max(numbers) + 1 if numbers else 1
+    filename = f"storie-{next_n:03d}.json"
+    print(f"📂 {directory} → mevcut: {sorted(numbers) or 'yok'} → yeni: {filename}")
+    return filename
 
 
 def get_previous_story_vocab(save_dir: str, count: int = 15) -> list:
@@ -191,7 +204,6 @@ def parse_json_safe(raw_text: str) -> dict:
             return m.group(0).replace('\n', '\\n').replace('\t', '\\t')
         text = _re.sub(r'"[^"\\]*(?:\\.[^"\\]*)*"', fix_newlines, text, flags=_re.DOTALL)
         return json.loads(text)
-
 
 
 def generate_story(level_override: Optional[str] = None):
@@ -268,13 +280,14 @@ SADECE geçerli JSON döndür, açıklama veya markdown ekleme:
                     actual = len(data.get("text", []))
                     print(f"📊 Sahne: {actual} (hedef: {cfg['scenes']}) | Vocab: {len(data.get('vocab',[]))} | Soru: {len(data.get('questions',[]))}")
 
+                    # ── DÜZELTME: dosya adını KAYDETMEDEN ÖNCE belirle ──
                     file_name = get_next_filename(save_dir)
                     file_path = os.path.join(save_dir, file_name)
-                    data["id"] = file_name.replace(".json", "")
-                    data["level"] = level
+
+                    data["id"]       = file_name.replace(".json", "")
+                    data["level"]    = level
                     data["hashtags"] = HASHTAGS
 
-                    os.makedirs(save_dir, exist_ok=True)
                     with open(file_path, 'w', encoding='utf-8') as f:
                         json.dump(data, f, ensure_ascii=False, indent=2)
 
