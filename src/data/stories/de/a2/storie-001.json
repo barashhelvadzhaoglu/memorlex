@@ -11,137 +11,157 @@
   ],
   "vocab": [
     {
-      "term": "die Nachhaltigkeit",
+      "term": "die Vorreiterstadt",
       "type": "Nomen",
-      "meaning_tr": "sürdürülebilirlik",
-      "meaning_en": "sustainability",
-      "example": "Nachhaltigkeit ist wichtig."
+      "meaning_tr": "Öncü şehir",
+      "meaning_en": "Pioneer city, leading city",
+      "meaning_es": "Ciudad pionera",
+      "meaning_uk": "Місто-піонер, провідне місто",
+      "example": "Berlin entwickelt sich zu einer Vorreiterstadt in Sachen Nachhaltigkeit."
     },
     {
-      "term": "der Vorreiter",
+      "term": "die Nachhaltigkeit",
       "type": "Nomen",
-      "meaning_tr": "öncü",
-      "meaning_en": "pioneer/leader",
-      "example": "Berlin ist ein Vorreiter."
+      "meaning_tr": "Sürdürülebilirlik",
+      "meaning_en": "Sustainability",
+      "meaning_es": "Sostenibilidad",
+      "meaning_uk": "Стійкість, сталий розвиток",
+      "example": "Viele Unternehmen setzen heute auf Nachhaltigkeit, um die Umwelt zu schützen."
     },
     {
       "term": "gewöhnungsbedürftig",
       "type": "Adjektiv",
-      "meaning_tr": "alışılması gereken",
-      "meaning_en": "taking some getting used to",
-      "example": "Das ist am Anfang gewöhnungsbedürftig."
-    },
-    {
-      "term": "der Behälter",
-      "type": "Nomen",
-      "meaning_tr": "kap, saklama kutusu",
-      "meaning_en": "container",
-      "example": "Eigene Behälter mitbringen."
-    },
-    {
-      "term": "schätzen",
-      "type": "Verb",
-      "meaning_tr": "takdir etmek, değer vermek",
-      "meaning_en": "to appreciate",
-      "example": "Ich schätze deine Hilfe."
-    },
-    {
-      "term": "bewusst",
-      "type": "Adjektiv/Adverb",
-      "meaning_tr": "bilinçli",
-      "meaning_en": "conscious",
-      "example": "Bewusst einkaufen gehen."
+      "meaning_tr": "Alışılması gereken, alışkanlık gerektiren",
+      "meaning_en": "Takes some getting used to, requires getting used to",
+      "meaning_es": "Que requiere acostumbrarse",
+      "meaning_uk": "Такий, що вимагає звикання",
+      "example": "Am Anfang war das Essen etwas gewöhnungsbedürftig, aber jetzt mag ich es sehr."
     },
     {
       "term": "ins Leben rufen",
       "type": "Phrase",
-      "meaning_tr": "hayata geçirmek/kurmak",
-      "meaning_en": "to bring to life/found",
-      "example": "Ein Projekt ins Leben rufen."
+      "meaning_tr": "Hayata geçirmek, kurmak",
+      "meaning_en": "To launch, to initiate, to bring into being",
+      "meaning_es": "Poner en marcha, crear, fundar",
+      "meaning_uk": "Започаткувати, створити, заснувати",
+      "example": "Die Studenten haben ein neues Projekt ins Leben gerufen."
     },
     {
       "term": "anpflanzen",
       "type": "Verb",
-      "meaning_tr": "ekip dikmek (bitki)",
-      "meaning_en": "to plant",
-      "example": "Gemüse im Garten anpflanzen."
+      "meaning_tr": "Ekmek, dikmek (bitki)",
+      "meaning_en": "To plant (plants, crops)",
+      "meaning_es": "Plantar, cultivar",
+      "meaning_uk": "Садити, висаджувати, вирощувати",
+      "example": "Wir wollen im Garten Gemüse anpflanzen."
     },
     {
-      "term": "knüpfen",
-      "type": "Verb",
-      "meaning_tr": "kurmak (bağ/kontak)",
-      "meaning_en": "to tie/establish",
-      "example": "Kontakte knüpfen."
+      "term": "der ökologische Anbau",
+      "type": "Nomen",
+      "meaning_tr": "Ekolojik tarım",
+      "meaning_en": "Organic farming/cultivation",
+      "meaning_es": "Cultivo ecológico",
+      "meaning_uk": "Органічне землеробство, екологічне вирощування",
+      "example": "Immer mehr Bauern stellen auf ökologischen Anbau um."
+    },
+    {
+      "term": "Kontakte knüpfen",
+      "type": "Phrase",
+      "meaning_tr": "İletişim kurmak, bağlantı kurmak",
+      "meaning_en": "To make contacts, to network",
+      "meaning_es": "Establecer contactos, hacer contactos",
+      "meaning_uk": "Налагоджувати контакти",
+      "example": "Auf der Messe konnte ich viele neue Kontakte knüpfen."
     },
     {
       "term": "die Verschönerung",
       "type": "Nomen",
-      "meaning_tr": "güzelleştirme",
-      "meaning_en": "beautification",
-      "example": "Die Verschönerung der Stadt."
+      "meaning_tr": "Güzelleştirme",
+      "meaning_en": "Beautification, embellishment",
+      "meaning_es": "Embellecimiento",
+      "meaning_uk": "Прикрашання, покращення вигляду",
+      "example": "Die Verschönerung des Parks war ein Gemeinschaftsprojekt."
+    },
+    {
+      "term": "verlangen",
+      "type": "Verb",
+      "meaning_tr": "Talep etmek, istemek",
+      "meaning_en": "To demand, to ask for, to require",
+      "meaning_es": "Exigir, pedir",
+      "meaning_uk": "Вимагати, просити",
+      "example": "Der Verkäufer verlangte einen hohen Preis für die Antiquität."
+    },
+    {
+      "term": "die Mobilität",
+      "type": "Nomen",
+      "meaning_tr": "Mobilite, hareketlilik",
+      "meaning_en": "Mobility",
+      "meaning_es": "Movilidad",
+      "meaning_uk": "Мобільність, рухливість",
+      "example": "Die Mobilität in der Stadt wird durch den Ausbau des öffentlichen Nahverkehrs verbessert."
+    },
+    {
+      "term": "die Parkplatzsuche",
+      "type": "Nomen",
+      "meaning_tr": "Park yeri arayışı",
+      "meaning_en": "Search for a parking space",
+      "meaning_es": "Búsqueda de aparcamiento",
+      "meaning_uk": "Пошук паркувального місця",
+      "example": "In der Innenstadt ist die Parkplatzsuche oft sehr schwierig."
     },
     {
       "term": "belasten",
       "type": "Verb",
-      "meaning_tr": "yük olmak, kirletmek",
-      "meaning_en": "to burden/pollute",
-      "example": "Autos belasten die Umwelt."
+      "meaning_tr": "Yüklemek, kirletmek, zorlamak",
+      "meaning_en": "To burden, to pollute, to strain",
+      "meaning_es": "Cargar, contaminar, gravar",
+      "meaning_uk": "Обтяжувати, забруднювати, навантажувати",
+      "example": "Der Verkehr belastet die Umwelt stark."
     },
     {
       "term": "ausgebaut",
       "type": "Adjektiv",
-      "meaning_tr": "gelişmiş, kapsamlı",
-      "meaning_en": "developed/expanded",
-      "example": "Ein gut ausgebautes Netz."
-    },
-    {
-      "term": "der Beitrag",
-      "type": "Nomen",
-      "meaning_tr": "katkı",
-      "meaning_en": "contribution",
-      "example": "Einen Beitrag leisten."
-    },
-    {
-      "term": "ausklingen lassen",
-      "type": "Phrase",
-      "meaning_tr": "huzurla bitirmek",
-      "meaning_en": "to wind down",
-      "example": "Den Abend ausklingen lassen."
-    },
-    {
-      "term": "ausschließlich",
-      "type": "Adverb",
-      "meaning_tr": "sadece, özel olarak",
-      "meaning_en": "exclusively",
-      "example": "Nur ausschließlich Bio-Produkte."
-    },
-    {
-      "term": "sperren",
-      "type": "Verb",
-      "meaning_tr": "kapatmak, engellemek",
-      "meaning_en": "to block/close",
-      "example": "Straßen für Autos sperren."
-    },
-    {
-      "term": "inspirierend",
-      "type": "Adjektiv",
-      "meaning_tr": "ilham verici",
-      "meaning_en": "inspiring",
-      "example": "Ein inspirierendes Buch."
-    },
-    {
-      "term": "untrennbar",
-      "type": "Adjektiv",
-      "meaning_tr": "ayrılamaz",
-      "meaning_en": "inseparable",
-      "example": "Sie sind untrennbar verbunden."
+      "meaning_tr": "Geliştirilmiş, genişletilmiş",
+      "meaning_en": "Developed, expanded, well-established",
+      "meaning_es": "Desarrollado, ampliado, bien establecido",
+      "meaning_uk": "Розбудований, розширений, добре розвинений",
+      "example": "Das öffentliche Verkehrsnetz ist in dieser Stadt sehr gut ausgebaut."
     },
     {
       "term": "die Infrastruktur",
       "type": "Nomen",
-      "meaning_tr": "altyapı",
-      "meaning_en": "infrastructure",
-      "example": "Eine gute Infrastruktur."
+      "meaning_tr": "Altyapı",
+      "meaning_en": "Infrastructure",
+      "meaning_es": "Infraestructura",
+      "meaning_uk": "Інфраструктура",
+      "example": "Eine gute Infrastruktur ist wichtig für die wirtschaftliche Entwicklung."
+    },
+    {
+      "term": "einen Beitrag leisten",
+      "type": "Phrase",
+      "meaning_tr": "Katkıda bulunmak",
+      "meaning_en": "To make a contribution",
+      "meaning_es": "Hacer una contribución, aportar",
+      "meaning_uk": "Зробити внесок",
+      "example": "Jeder kann einen Beitrag zum Umweltschutz leisten."
+    },
+    {
+      "term": "ausklingen lassen",
+      "type": "Phrase",
+      "meaning_tr": "Bitirmek, sonlandırmak (genellikle hoş bir şekilde)",
+      "meaning_en": "To let (an event) fade out, to end (an evening/day) pleasantly",
+      "meaning_es": "Terminar (agradablemente), dejar que algo se apague",
+      "meaning_uk": "Завершити (приємно), дати затихнути",
+      "example": "Wir ließen den Abend bei einem Glas Wein ausklingen."
+    },
+    {
+      "term": "fair gehandelt",
+      "type": "Adjektiv",
+      "meaning_tr": "Adil ticaret ürünü, adil ticaretle elde edilmiş",
+      "meaning_en": "Fair trade (product)",
+      "meaning_es": "De comercio justo",
+      "meaning_uk": "Справедливо торгуваний, з чесної торгівлі",
+      "example": "Ich kaufe gerne fair gehandelte Produkte, um Produzenten zu unterstützen."
     }
   ],
   "questions": [
@@ -235,5 +255,70 @@
       ],
       "answer": "Fair gehandelte Produkte"
     }
+  ],
+  "hashtags": [
+    "#DeutschB1",
+    "#B1Deutsch",
+    "#GermanB1",
+    "#AlemanB1",
+    "#НімецькаB1",
+    "#B1Prüfung",
+    "#GoetheB1",
+    "#TelcB1",
+    "#TestDaFB1",
+    "#ZertifikatDeutsch",
+    "#B1Zertifikat",
+    "#DeutschMittelstufe",
+    "#IntermediateGerman",
+    "#AlemánIntermedio",
+    "#DeutschLernen",
+    "#LearnGerman",
+    "#Deutsch",
+    "#GermanLanguage",
+    "#DeutschKurs",
+    "#DeutschAlsFremdsprache",
+    "#DAF",
+    "#Leseverstehen",
+    "#Hörverstehen",
+    "#Vokabeln",
+    "#Grammatik",
+    "#Sprachkurs",
+    "#Sprachenlernen",
+    "#DeutschÜben",
+    "#Prüfung",
+    "#PrüfungÜben",
+    "#DeutschPrüfung",
+    "#PrüfungTipps",
+    "#PrüfungVorbereitung",
+    "#Prüfungsübungen",
+    "#DeutschTest",
+    "#SprachprüfungDeutsch",
+    "#PrüfungErfolg",
+    "#Türkçe",
+    "#Turkish",
+    "#Türkisch",
+    "#English",
+    "#İngilizce",
+    "#Englisch",
+    "#Español",
+    "#İspanyolca",
+    "#Spanisch",
+    "#Українська",
+    "#Ukrainian",
+    "#Ukrainisch",
+    "#Mehrsprachig",
+    "#Multilingual",
+    "#Çokdilli",
+    "#SınavHazırlık",
+    "#ExamPrep",
+    "#Prüfungsvorbereitung",
+    "#PreparaciónExamen",
+    "#Flashcards",
+    "#Memorlex",
+    "#LanguageLearning",
+    "#Germany",
+    "#Deutschland",
+    "#Berlin",
+    "#München"
   ]
 }

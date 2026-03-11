@@ -20,6 +20,10 @@ ALL_LEVELS = ["a1", "a2", "b1", "b2", "c1"]
 
 
 def send_imessage(message: str):
+    # Önce Messages uygulamasını aç
+    import subprocess, time
+    subprocess.run(["open", "-a", "Messages"], check=False)
+    time.sleep(3)
     import subprocess
     script = f'''tell application "Messages"
       set targetService to 1st service whose service type = iMessage
