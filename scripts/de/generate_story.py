@@ -26,39 +26,40 @@ WEEKLY_SCHEDULE = {
 }
 
 LEVEL_CONFIG = {
-    "a1": {"scenes": 7,  "sentences": 2, "max_chars": 120, "max_tokens": 4096,
-           "desc": "Sehr einfache, kurze Sätze. Grundbedürfnisse, Uhrzeit, Preise fragen."},
-    "a2": {"scenes": 10, "sentences": 2, "max_chars": 140, "max_tokens": 4096,
-           "desc": "Perfekt und Präsens gemischt. Alltag, einfache Dialoge."},
-    "b1": {"scenes": 18, "sentences": 3, "max_chars": 260, "max_tokens": 8192,
-           "desc": "Nebensätze, Modalverben, formelle Texte. Mittellange Sätze."},
-    "b2": {"scenes": 24, "sentences": 4, "max_chars": 300, "max_tokens": 8192,
-           "desc": "Konjunktiv II, abstrakte Themen, akademische Diskussionen."},
-    "c1": {"scenes": 30, "sentences": 4, "max_chars": 340, "max_tokens": 8192,
-           "desc": "Akademische Analysen, philosophische Perspektiven, Nominalstil."},
+    # max_tokens bumped up for all levels to prevent truncation
+    "a1": {"scenes": 7,  "sentences": 2, "max_chars": 120, "max_tokens": 8192,
+           "desc": "Very simple short sentences. Basic needs, time, asking prices."},
+    "a2": {"scenes": 10, "sentences": 2, "max_chars": 140, "max_tokens": 8192,
+           "desc": "Mix of Perfekt and Praesens. Daily life, simple dialogues."},
+    "b1": {"scenes": 18, "sentences": 3, "max_chars": 260, "max_tokens": 16384,
+           "desc": "Subordinate clauses, modal verbs, formal texts. Medium sentences."},
+    "b2": {"scenes": 24, "sentences": 4, "max_chars": 300, "max_tokens": 16384,
+           "desc": "Konjunktiv II, abstract topics, academic discussions."},
+    "c1": {"scenes": 30, "sentences": 4, "max_chars": 340, "max_tokens": 16384,
+           "desc": "Academic analyses, philosophical perspectives, nominal style."},
 }
 
 EXAM_LOGIC = {
-    "a1": "Kısa mesajlar, basit form doldurma ve temel alışveriş fiyatları.",
-    "a2": "Hava durumu, istasyon anonsları, yol çalışmaları, restoran ve doktor randevuları.",
-    "b1": "İş hayatı, çevre, medya, şikayet yönetimi ve resmi başvurular.",
-    "b2": "Sürdürülebilirlik, globalleşme, teknolojik etik ve kariyer planlama.",
-    "c1": "Sosyolojik analizler, tarihsel bağlamlar, soyut kavramlar, akademik terminoloji.",
+    "a1": "Short messages, simple form filling and basic shopping prices.",
+    "a2": "Weather, station announcements, roadworks, restaurant and doctor appointments.",
+    "b1": "Work life, environment, media, complaint management and official applications.",
+    "b2": "Sustainability, globalisation, technological ethics and career planning.",
+    "c1": "Sociological analyses, historical contexts, abstract concepts, academic terminology.",
 }
 
 TOPIC_POOL = [
-    "Alltag: Oktoberfest München mit Budgetplanung",
-    "Wetter: Wintereinbruch in Bayern, Folgen für die Bahn",
-    "Verkehr: Baustellen A99, Umleitungen für Pendler",
+    "Alltag: Oktoberfest Muenchen mit Budgetplanung",
+    "Wetter: Wintereinbruch in Bayern, Folgen fuer die Bahn",
+    "Verkehr: Baustellen A99, Umleitungen fuer Pendler",
     "Einkauf: Preisvergleich Discounter vs. Biomarkt",
     "Gesundheit: Apotheken-Notdienst nachts finden",
-    "Wohnen: Mülltrennung-Anleitung für neue Mieter",
+    "Wohnen: Muelltrennung-Anleitung fuer neue Mieter",
     "Freizeit: Wochenendausflug Allianz Arena planen",
     "Kommunikation: Durchsage Flughafen Gate-Wechsel",
-    "Beruf: Vorstellungsgespräch bei deutschem Mittelständler",
+    "Beruf: Vorstellungsgespraech bei deutschem Mittelstaendler",
     "Bildung: Duales Studium - Praxis und Theorie",
-    "Bürokratie: Kindergeld beantragen, Formulare verstehen",
-    "Umwelt: Solarpflicht für Neubauten in Deutschland",
+    "Buerokratie: Kindergeld beantragen, Formulare verstehen",
+    "Umwelt: Solarpflicht fuer Neubauten in Deutschland",
     "Technik: Industrie 4.0 - Roboter in der Autoproduktion",
     "Wirtschaft: Handwerk in Deutschland - goldener Boden",
     "Digitalisierung: Bargeldlose Zahlung vs. Bargeld-Kultur",
@@ -68,48 +69,47 @@ TOPIC_POOL = [
     "Philosophie: Ethik der KI im deutschen Recht",
     "Architektur: Vom Bauhaus zum Passivhaus-Standard",
     "Soziologie: Demografischer Wandel und Rente",
-    "Politik: Das föderale System in Deutschland",
+    "Politik: Das foederale System in Deutschland",
     "Umwelt: Energiewende ohne Atomkraft - machbar?",
     "Psychologie: Work-Life-Balance in der deutschen Arbeitskultur",
-    "Transport: Autobahn-Geschichte, Deutschlandticket, Fahrradstädte",
-    "Städte: Hamburgs Speicherstadt, Ruhrgebiet Industriekultur",
+    "Transport: Autobahn-Geschichte, Deutschlandticket, Fahrradstaedte",
+    "Staedte: Hamburgs Speicherstadt, Ruhrgebiet Industriekultur",
     "Wissenschaft: Deutsche Erfinder - Gutenberg, Benz, Einstein",
 ]
 
-
 VOCAB_RULES = {
     "a1": {
-        "instruction": "Günlük hayatta gerekli ama yeni öğrenenler için alışılmadık kelimeler seç. Örnek: Quittung, Warteschlange, Fahrkartenautomat, Pfand",
-        "avoid": "sein, haben, gut, groß, Tag, Mann, Frau, Kind, Haus, Auto gibi çok temel kelimelerden kaçın",
+        "instruction": "Choose words necessary in daily life but unusual for beginners. Example: Quittung, Warteschlange, Fahrkartenautomat, Pfand",
+        "avoid": "Avoid very basic words like sein, haben, gut, gross, Tag, Mann, Frau, Kind, Haus, Auto",
     },
     "a2": {
-        "instruction": "Günlük iletişimde önemli ama sözlüğe bakılması gereken kelimeler seç. Örnek: Kassenbon, Überweisung, Termin absagen, Krankschreibung",
-        "avoid": "A1 düzeyindeki temel kelimelerden kaçın",
+        "instruction": "Choose words important for daily communication but requiring dictionary lookup. Example: Kassenbon, Ueberweisung, Termin absagen, Krankschreibung",
+        "avoid": "Avoid A1-level basic words",
     },
     "b1": {
-        "instruction": "Orta-ileri düzey, soyut veya resmi kelimeler seç. Örnek: Beeinträchtigung, Zuständigkeit, Genehmigung, Nachhaltigkeit",
-        "avoid": "Çok yaygın ve basit fiillerden kaçın",
+        "instruction": "Choose mid-advanced, abstract or formal words. Example: Beeintraechtigung, Zustaendigkeit, Genehmigung, Nachhaltigkeit",
+        "avoid": "Avoid very common and simple verbs",
     },
     "b2": {
-        "instruction": "Akademik, soyut, çok anlamlı kelimeler seç. Örnek: Ambivalenz, Paradigmenwechsel, Restrukturierung, Beeinflussbarkeit",
-        "avoid": "B1 ve altı kelimelerden kaçın",
+        "instruction": "Choose academic, abstract, multi-meaning words. Example: Ambivalenz, Paradigmenwechsel, Restrukturierung, Beeinflussbarkeit",
+        "avoid": "Avoid B1 and below words",
     },
     "c1": {
-        "instruction": "Nadir, akademik, felsefi veya teknik kelimeler seç. Örnek: Interdependenz, Präzedenzfall, Konnotation, Diskrepanz, Reziprozität",
-        "avoid": "B2 ve altı kelimelerden kaçın",
+        "instruction": "Choose rare, academic, philosophical or technical words. Example: Interdependenz, Praezedenzfall, Konnotation, Diskrepanz, Reziprozitaet",
+        "avoid": "Avoid B2 and below words",
     },
 }
 
 HASHTAGS = [
     "#DeutschLernen", "#LearnGerman", "#Deutsch", "#GermanLanguage",
     "#DeutschKurs", "#DeutschAlsFremdsprache", "#DAF",
-    "#Lesen", "#Hören", "#Leseverstehen", "#Hörverstehen",
+    "#Lesen", "#Hoeren", "#Leseverstehen", "#Hoerverstehen",
     "#GoetheZertifikat", "#Telc", "#TestDaF", "#DSH",
-    "#Deutschkenntnisse", "#DeutschOnline", "#DeutschÜben",
+    "#Deutschkenntnisse", "#DeutschOnline", "#DeutschUeben",
     "#Sprachkurs", "#Sprachenlernen", "#Mehrsprachig",
-    "#DeutschFürAnfänger", "#DeutschFürFortgeschrittene",
+    "#DeutschFuerAnfaenger", "#DeutschFuerFortgeschrittene",
     "#Vokabeln", "#Grammatik", "#DeutschSprechen",
-    "#Integrationskurs", "#Germany", "#Deutschland", "#Berlin", "#München",
+    "#Integrationskurs", "#Germany", "#Deutschland", "#Berlin", "#Muenchen",
     "#Memorlex", "#LanguageLearning", "#Flashcards",
 ]
 
@@ -119,42 +119,31 @@ def get_current_level(override: Optional[str] = None) -> Optional[str]:
         lvl = override.lower().strip()
         if lvl in LEVEL_CONFIG:
             return lvl
-        print(f"⚠️ Geçersiz seviye: '{override}'. Geçerli: a1 a2 b1 b2 c1")
+        print(f"Invalid level: '{override}'. Valid: a1 a2 b1 b2 c1")
         return None
     return WEEKLY_SCHEDULE.get(datetime.now().weekday())
 
 
 def get_next_filename(directory: str) -> str:
-    """
-    Klasördeki mevcut storie-XXX.json dosyalarını tarayıp
-    en yüksek numaradan sonrakini döndürür.
-
-    Örnek:
-      storie-001.json, storie-002.json  →  storie-003.json
-      storie-001.json, storie-003.json  →  storie-004.json  (boşluk doldurulmaz!)
-
-    Boşluk doldurulmaz çünkü silinen bir dosyanın numarasını tekrar kullanmak
-    frontend'de eski cache'lerle çakışmaya neden olabilir.
-    """
-    # Klasör yoksa oluştur
     os.makedirs(directory, exist_ok=True)
-
     numbers = set()
     for f in os.listdir(directory):
         m = re.search(r"storie-(\d+)\.json", f)
         if m:
             numbers.add(int(m.group(1)))
-
     next_n = max(numbers) + 1 if numbers else 1
     filename = f"storie-{next_n:03d}.json"
-    print(f"📂 {directory} → mevcut: {sorted(numbers) or 'yok'} → yeni: {filename}")
+    print(f"[get_next_filename] existing={sorted(numbers)} -> new={filename}")
     return filename
 
 
-def get_previous_story_vocab(save_dir: str, count: int = 15) -> list:
+def get_previous_story_vocab(save_dir: str, count: int = 10) -> list:
     if not os.path.exists(save_dir):
         return []
-    json_files = sorted([f for f in os.listdir(save_dir) if f.startswith("storie-") and f.endswith(".json")])
+    json_files = sorted([
+        f for f in os.listdir(save_dir)
+        if f.startswith("storie-") and f.endswith(".json")
+    ])
     if not json_files:
         return []
     try:
@@ -162,14 +151,25 @@ def get_previous_story_vocab(save_dir: str, count: int = 15) -> list:
             data = json.load(f)
         vocab = data.get("vocab", [])
         sample = random.sample(vocab, min(count, len(vocab)))
-        print(f"🔗 Önceki hikayeden {len(sample)} köprü kelimesi alındı: {json_files[-1]}")
-        return sample
+        safe = []
+        for v in sample:
+            term = v.get("term", "")
+            term = re.sub(r'^(der|die|das|ein|eine)\s+', '', term, flags=re.IGNORECASE)
+            term = (term
+                    .replace('\u00e4', 'ae').replace('\u00f6', 'oe').replace('\u00fc', 'ue')
+                    .replace('\u00c4', 'Ae').replace('\u00d6', 'Oe').replace('\u00dc', 'Ue')
+                    .replace('\u00df', 'ss')
+                    .replace('"', '').replace("'", '').replace('\n', ' '))
+            if term.strip():
+                safe.append(term.strip())
+        print(f"[bridge_vocab] {len(safe)} words: {safe}")
+        return safe
     except Exception as e:
-        print(f"⚠️ Önceki hikaye okunamadı: {e}")
+        print(f"[bridge_vocab] error: {e}")
         return []
 
 
-def call_gemini(prompt, api_key, model_name, max_tokens):
+def call_gemini(prompt: str, api_key: str, model_name: str, max_tokens: int) -> str:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -181,149 +181,219 @@ def call_gemini(prompt, api_key, model_name, max_tokens):
 
 
 def parse_json_safe(raw_text: str) -> dict:
-    """JSON'u bul, temizle ve parse et."""
+    """
+    Robustly extract and parse JSON from Gemini response.
+    Handles: markdown fences, single-quote JSON, unescaped newlines,
+    inner double-quotes inside string values.
+    """
     text = raw_text.strip()
+
+    # 1. Strip markdown fences
     if "```" in text:
         for part in text.split("```"):
-            part = part.strip().lstrip("json").strip()
+            part = part.strip().lstrip("json").lstrip("JSON").strip()
             if part.startswith("{"):
                 text = part
                 break
+
+    # 2. Extract outermost { }
     start = text.find("{")
     end   = text.rfind("}") + 1
     if start != -1 and end > start:
         text = text[start:end]
-    text = text.replace("\u201e", '"').replace("\u201c", '"').replace("\u201d", '"')
-    text = text.replace("\u2018", "'").replace("\u2019", "'")
-    text = text.replace("\r\n", "\\n").replace("\r", "\\n")
+
+    # 3. Normalize unicode quotes
+    text = (text
+            .replace('\u201e', '"').replace('\u201c', '"').replace('\u201d', '"')
+            .replace('\u2018', "'").replace('\u2019', "'")
+            .replace('\r\n', '\\n').replace('\r', '\\n'))
+
+    # 4. Standard parse
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        import re as _re
-        def fix_newlines(m):
-            return m.group(0).replace('\n', '\\n').replace('\t', '\\t')
-        text = _re.sub(r'"[^"\\]*(?:\\.[^"\\]*)*"', fix_newlines, text, flags=_re.DOTALL)
-        return json.loads(text)
+        pass
+
+    # 5. Gemini returned Python-style single-quote dict
+    try:
+        import ast
+        data = ast.literal_eval(text)
+        if isinstance(data, dict):
+            print("[parse] recovered via ast.literal_eval")
+            return data
+    except Exception:
+        pass
+
+    # 6. Fix unescaped real newlines inside strings
+    def escape_newlines(m):
+        return m.group(0).replace('\n', '\\n').replace('\t', '\\t')
+
+    text_nl = re.sub(r'"[^"\\]*(?:\\.[^"\\]*)*"', escape_newlines, text, flags=re.DOTALL)
+    try:
+        return json.loads(text_nl)
+    except json.JSONDecodeError:
+        pass
+
+    # 7. Fix unescaped double-quotes inside string values (char-by-char)
+    def fix_inner_double_quotes(s):
+        result = []
+        in_string = False
+        i = 0
+        while i < len(s):
+            c = s[i]
+            if c == '\\' and in_string:
+                result.append(c)
+                i += 1
+                if i < len(s):
+                    result.append(s[i])
+                i += 1
+                continue
+            if c == '"':
+                if not in_string:
+                    in_string = True
+                    result.append(c)
+                else:
+                    j = i + 1
+                    while j < len(s) and s[j] == ' ':
+                        j += 1
+                    next_c = s[j] if j < len(s) else ''
+                    if next_c in (',', '}', ']', ':'):
+                        in_string = False
+                        result.append(c)
+                    else:
+                        result.append('\\"')
+                i += 1
+                continue
+            result.append(c)
+            i += 1
+        return ''.join(result)
+
+    text_fixed = fix_inner_double_quotes(text_nl)
+    try:
+        return json.loads(text_fixed)
+    except json.JSONDecodeError as e:
+        raise json.JSONDecodeError(f"All parse attempts failed: {e.msg}", e.doc, e.pos)
 
 
-def generate_story(level_override: Optional[str] = None):
+def generate_story(level_override: Optional[str] = None) -> Optional[str]:
+    """
+    Generates a new story and returns the saved file path.
+    Returns None on failure — caller must check!
+    """
     if not API_KEYS:
-        print("❌ HATA: API key bulunamadı! .env kontrol et.")
-        return
+        print("ERROR: No API key found.")
+        return None
 
     level = get_current_level(level_override)
     if level is None:
-        print("🗓️ Bugün tatil günü (Cumartesi/Pazar). Hikaye üretilmiyor.")
-        return
+        print("Weekend — no story generated.")
+        return None
 
-    cfg = LEVEL_CONFIG[level]
-    print(f"📅 Seviye: {level.upper()} | {cfg['scenes']} sahne | max {cfg['max_chars']} karakter/sahne")
-
-    topics = random.sample(TOPIC_POOL, 2)
+    cfg      = LEVEL_CONFIG[level]
+    topics   = random.sample(TOPIC_POOL, 2)
     save_dir = os.path.join("src", "data", "stories", "de", level)
-    bridge_vocab = get_previous_story_vocab(save_dir, count=15)
 
-    if bridge_vocab:
-        bridge_terms = ", ".join(f'"{v["term"]}"' for v in bridge_vocab)
-        bridge_block = (
-            f"KÖPRÜ KELİMELER: Şu {len(bridge_vocab)} kelimeyi text sahnelerinde doğal kullan, "
-            f"vocab listesine EKLEME: [{bridge_terms}]"
-        )
+    bridge_words = get_previous_story_vocab(save_dir, count=10)
+    if bridge_words:
+        bridge_block = f"BRIDGE WORDS (use in scenes, do NOT add to vocab): {bridge_words}"
     else:
-        bridge_block = "KÖPRÜ KELİMELER: İlk hikaye, köprü kelime gerekmez."
+        bridge_block = "BRIDGE WORDS: none (first story)."
 
-    prompt = f"""Sen bir Goethe/Telc sınav uzmanısın. {level.upper()} seviyesinde video hikayesi üret.
+    prompt = f"""You are a Goethe/Telc exam expert. Generate a {level.upper()} level German video story.
 
-KURALLAR:
-- KONU: {topics} konularını harmanla
-- SAHNE SAYISI: Tam {cfg['scenes']} sahne (text dizisinde tam {cfg['scenes']} eleman)
-- SAHNE UZUNLUĞU: Her sahne max {cfg['sentences']} cümle, max {cfg['max_chars']} karakter (video altyazısı için kısa tut)
-- SEVİYE: {cfg['desc']}
-- SINAV VERİLERİ: Saatler, fiyatlar, tarihler, peron/kapı numaraları mutlaka ekle
-- SINAV STRATEJİSİ: {EXAM_LOGIC[level]}
-- VOCAB: Tam 15-20 adet YENİ kelime. {bridge_block}
-- VOCAB SEÇİM KURALI: {VOCAB_RULES[level]["instruction"]}
-- VOCAB KAÇINMA: {VOCAB_RULES[level]["avoid"]}
-- VOCAB ARTIKEL KURALI: Nomen tipindeki kelimelerde MUTLAKA artikel ekle. Örnek: "das Haus", "der Mann", "die Frau". Artikelsiz Nomen KABUL EDİLMEZ.
-- VOCAB HEDEFİ: Öğrencinin sözlüğe bakması gereken, sınavda çıkan kelimeler seç
-- SORULAR: 8-10 çoktan seçmeli soru, yarısı kilit verileri sorgulasın
-- IMAGE PROMPTS: Her sahne için 1 İngilizce Stable Diffusion promptu (text ile aynı eleman sayısı)
+STRICT RULES:
+- TOPICS: Blend these two topics: {topics}
+- SCENES: Exactly {cfg['scenes']} elements in the "text" array
+- SCENE LENGTH: Max {cfg['sentences']} sentences, max {cfg['max_chars']} characters per scene
+- LEVEL: {cfg['desc']}
+- EXAM DATA: Include specific times, prices, dates, platform/gate numbers
+- EXAM STRATEGY: {EXAM_LOGIC[level]}
+- VOCAB: 15-20 new German words. {bridge_block}
+- VOCAB SELECTION: {VOCAB_RULES[level]["instruction"]}
+- VOCAB AVOID: {VOCAB_RULES[level]["avoid"]}
+- VOCAB NOUNS: Every noun MUST have its article: "das Haus", "der Mann", "die Frau"
+- QUESTIONS: 8-10 multiple choice, at least half testing specific data
+- IMAGE PROMPTS: Exactly {cfg['scenes']} English Stable Diffusion prompts
 
-JSON GÜVENLİK KURALLARI (ÇOK ÖNEMLİ):
-- String değerlerin içinde çift tırnak (") kullanma, yerine tek tırnak (') kullan
-- Almanca tırnak işaretleri „" kullanma, düz tırnak kullan
-- Satır sonu için \\n kullan, gerçek satır sonu koyma
-- Özel karakterleri (ä ö ü ß) olduğu gibi yaz, escape etme
+CRITICAL JSON RULES — violations will cause a crash:
+1. Output ONLY raw JSON — no markdown, no backticks, no text before or after the JSON
+2. Use DOUBLE QUOTES for all JSON keys and string values
+3. NEVER use any quote characters inside string values — rephrase sentences to avoid them
+4. Write dialogue as INDIRECT SPEECH only, never with quotation marks
+   BAD:  "Eine Ansage kommt: 'Flug LH123 ist verspaetet.'"
+   GOOD: "Eine Ansage informiert, dass Flug LH123 verspaetet ist."
+5. Leave "hashtags" as an empty array: []  — do not fill it in
+6. NO real newlines inside strings — use backslash + n
+7. ALL German umlauts as ASCII: ae oe ue Ae Oe Ue ss
+8. The complete JSON must fit in one response without being cut off
 
-SADECE geçerli JSON döndür, açıklama veya markdown ekleme:
+Exact output structure (copy this exactly, only fill in the values):
 {{
-  "id": "storie-ID",
+  "id": "storie-001",
   "level": "{level}",
   "youtubeId": "",
-  "title": "Almanca Başlık",
-  "summary": "Almanca max 2 cümle özet.",
+  "title": "Story title in German (ASCII only)",
+  "summary": "Two sentence summary in German (ASCII only).",
   "hashtags": [],
-  "text": ["sahne1", "sahne2", "...{cfg['scenes']} eleman"],
-  "image_prompts": ["realistic photo, scene1, cinematic lighting", "...{cfg['scenes']} eleman"],
-  "vocab": [{{"term":"kelime","type":"Nomen","meaning_tr":"TR","meaning_en":"EN","meaning_es":"ES","meaning_uk":"UA","example":"örnek"}}],
-  "questions": [{{"question":"soru","options":["A","B","C","D"],"answer":"doğru"}}]
+  "text": ["scene 1 text", "scene 2 text"],
+  "image_prompts": ["realistic photo, scene 1, cinematic lighting", "scene 2 prompt"],
+  "vocab": [
+    {{"term": "die Quittung", "type": "Nomen", "meaning_tr": "fis", "meaning_en": "receipt", "meaning_es": "recibo", "meaning_uk": "kvytantsiia", "example": "Ich brauche eine Quittung."}}
+  ],
+  "questions": [
+    {{"question": "Question?", "options": ["A) opt1", "B) opt2", "C) opt3", "D) opt4"], "answer": "A) opt1"}}
+  ]
 }}"""
 
     for api_key in API_KEYS:
         for model_name in MODELS_TO_TRY:
-            for attempt in range(1, 4):  # Her model icin max 3 deneme
+            for attempt in range(1, 4):
                 try:
-                    print(f"🚀 {model_name} | Key: {api_key[:12]}... | Deneme {attempt}/3")
+                    print(f"Trying: {model_name} | key={api_key[:12]}... | attempt {attempt}/3")
                     raw = call_gemini(prompt, api_key, model_name, cfg['max_tokens'])
+                    print(f"[raw preview] {repr(raw[:400])}")
+
                     data = parse_json_safe(raw)
+                    print(f"Parsed OK — scenes:{len(data.get('text',[]))} vocab:{len(data.get('vocab',[]))} q:{len(data.get('questions',[]))}")
 
-                    actual = len(data.get("text", []))
-                    print(f"📊 Sahne: {actual} (hedef: {cfg['scenes']}) | Vocab: {len(data.get('vocab',[]))} | Soru: {len(data.get('questions',[]))}")
-
-                    # ── DÜZELTME: dosya adını KAYDETMEDEN ÖNCE belirle ──
                     file_name = get_next_filename(save_dir)
                     file_path = os.path.join(save_dir, file_name)
-
                     data["id"]       = file_name.replace(".json", "")
                     data["level"]    = level
                     data["hashtags"] = HASHTAGS
 
-                    with open(file_path, 'w', encoding='utf-8') as f:
+                    with open(file_path, "w", encoding="utf-8") as f:
                         json.dump(data, f, ensure_ascii=False, indent=2)
 
-                    print(f"✅ BAŞARILI: {file_path}")
-                    return
+                    print(f"SUCCESS: {file_path}")
+                    return file_path
 
                 except requests.exceptions.HTTPError as e:
                     status = e.response.status_code if e.response else "?"
-                    if status == 429:
-                        print(f"⚠️ Kota dolu (429) — {model_name}")
-                    elif status == 404:
-                        print(f"❌ Model bulunamadı — {model_name}")
-                    else:
-                        body = e.response.text[:150] if e.response else ""
-                        print(f"❌ HTTP {status} — {model_name}: {body}")
-                    time.sleep(2)
-                    break  # HTTP hatada sonraki modele gec
-
-                except requests.exceptions.Timeout:
-                    print(f"⏱️ Timeout — {model_name} (deneme {attempt}/3)")
-                    time.sleep(5)
-
-                except (json.JSONDecodeError, KeyError) as e:
-                    print(f"⚠️ JSON parse hatası ({model_name}, deneme {attempt}/3): {str(e)[:100]}")
-                    if attempt < 3:
-                        print(f"   🔄 5 saniye bekleyip tekrar deneniyor...")
-                        time.sleep(5)
-
-                except Exception as e:
-                    print(f"⚠️ Hata ({model_name}): {type(e).__name__}: {str(e)[:100]}")
+                    body   = e.response.text[:200] if e.response else ""
+                    print(f"HTTP {status} — {model_name}: {body}")
                     time.sleep(2)
                     break
 
-    print("🚨 TÜM KEY VE MODELLER DENENDİ, SONUÇ ALINAMADI.")
+                except requests.exceptions.Timeout:
+                    print(f"Timeout — {model_name} attempt {attempt}/3")
+                    time.sleep(5)
+
+                except (json.JSONDecodeError, KeyError) as e:
+                    print(f"JSON parse error ({model_name} attempt {attempt}/3): {e}")
+                    if attempt < 3:
+                        time.sleep(5)
+
+                except Exception as e:
+                    print(f"Error ({model_name}): {type(e).__name__}: {e}")
+                    time.sleep(2)
+                    break
+
+    print("FAILED: all keys and models exhausted.")
+    return None
 
 
 if __name__ == "__main__":
     import sys
-    generate_story(level_override=sys.argv[1] if len(sys.argv) > 1 else None)
+    result = generate_story(level_override=sys.argv[1] if len(sys.argv) > 1 else None)
+    sys.exit(0 if result else 1)
