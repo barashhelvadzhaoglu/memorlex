@@ -3,10 +3,10 @@
 import React, { useState, useEffect, useMemo } from 'react';
 
 interface Word {
-  term: string;    
+  term: string;
   type: string;
-  meaning: string; 
-  example: string; 
+  meaning: string;
+  example: string;
   [key: string]: any;
 }
 
@@ -14,16 +14,60 @@ interface Props {
   initialWords: Word[];
   lang: string;
   subject: string;
-  dict: any; 
+  dict: any;
 }
 
 const translations: any = {
   tr: { search: "Ünite ara...", check: "KONTROL ET", next: "SIRADAKİ", back: "Geri dön", start: "BAŞLAT", finished: "TAMAMLANDI!", retry: "SETİ TEKRARLA", main: "ANA MENÜ", nextSet: "SIRADAKİ SET →", wrongRetry: "YANLIŞLARI TEKRAR ET", fastSelect: "HIZLI SEÇİM", rangeSelect: "ARALIK SEÇ", close: "✕ KAPAT", setupLabel: "Çalışmak istediğiniz kelime sayısını seçin" },
   en: { search: "Search unit...", check: "CHECK", next: "NEXT", back: "Go back", start: "START", finished: "COMPLETED!", retry: "REPLAY SET", main: "MAIN MENU", nextSet: "NEXT SET →", wrongRetry: "RETRY MISTAKES", fastSelect: "QUICK SELECT", rangeSelect: "CHOOSE RANGE", close: "✕ CLOSE", setupLabel: "Select the number of words to study" },
   de: { search: "Lektion suchen...", check: "PRÜFEN", next: "NÄCHSTE", back: "Zurück", start: "STARTEN", finished: "ABGESCHLOSSEN!", retry: "SET WIEDERHOLEN", main: "HAUPTMENÜ", nextSet: "NÄCHSTES SET →", wrongRetry: "FEHLER WIEDERHOLEN", fastSelect: "SCHNELLAUSWAHL", rangeSelect: "BEREICH WÄHLEN", close: "✕ SCHLIESSEN", setupLabel: "Wählen Sie die Anzahl der Wörter" },
-  // ✅ İspanyolca (es) eklendi
   es: { search: "Buscar unidad...", check: "COMPROBAR", next: "SIGUIENTE", back: "Volver", start: "INICIAR", finished: "¡COMPLETADO!", retry: "REPETIR SET", main: "MENÚ PRINCIPAL", nextSet: "SIGUIENTE SET →", wrongRetry: "REPETIR ERRORES", fastSelect: "SELECCIÓN RÁPIDA", rangeSelect: "ELEGIR RANGO", close: "✕ CERRAR", setupLabel: "Selecciona el número de palabras para estudiar" }
 };
+
+// --- Tür renkleri: light/dark modda farklı bg ve text değerleri ---
+const typeStyles: Record<string, { light: string; dark: string; dot: string }> = {
+  // İsim / Noun / Sustantivo / Nomen
+  "İsim":       { light: "bg-amber-100 text-amber-800",   dark: "dark:bg-amber-900/40 dark:text-amber-300",   dot: "bg-amber-500" },
+  "Noun":       { light: "bg-amber-100 text-amber-800",   dark: "dark:bg-amber-900/40 dark:text-amber-300",   dot: "bg-amber-500" },
+  "Sustantivo": { light: "bg-amber-100 text-amber-800",   dark: "dark:bg-amber-900/40 dark:text-amber-300",   dot: "bg-amber-500" },
+  "Nomen":      { light: "bg-amber-100 text-amber-800",   dark: "dark:bg-amber-900/40 dark:text-amber-300",   dot: "bg-amber-500" },
+  // Fiil / Verb / Verbo
+  "Fiil":       { light: "bg-blue-100 text-blue-800",     dark: "dark:bg-blue-900/40 dark:text-blue-300",     dot: "bg-blue-500" },
+  "Verb":       { light: "bg-blue-100 text-blue-800",     dark: "dark:bg-blue-900/40 dark:text-blue-300",     dot: "bg-blue-500" },
+  "Verbo":      { light: "bg-blue-100 text-blue-800",     dark: "dark:bg-blue-900/40 dark:text-blue-300",     dot: "bg-blue-500" },
+  // Sıfat / Adjective / Adjetivo / Adjektiv
+  "Sıfat":      { light: "bg-pink-100 text-pink-800",     dark: "dark:bg-pink-900/40 dark:text-pink-300",     dot: "bg-pink-500" },
+  "Adjective":  { light: "bg-pink-100 text-pink-800",     dark: "dark:bg-pink-900/40 dark:text-pink-300",     dot: "bg-pink-500" },
+  "Adjetivo":   { light: "bg-pink-100 text-pink-800",     dark: "dark:bg-pink-900/40 dark:text-pink-300",     dot: "bg-pink-500" },
+  "Adjektiv":   { light: "bg-pink-100 text-pink-800",     dark: "dark:bg-pink-900/40 dark:text-pink-300",     dot: "bg-pink-500" },
+  // Zarf / Adverb / Adverbio
+  "Zarf":       { light: "bg-emerald-100 text-emerald-800", dark: "dark:bg-emerald-900/40 dark:text-emerald-300", dot: "bg-emerald-500" },
+  "Adverb":     { light: "bg-emerald-100 text-emerald-800", dark: "dark:bg-emerald-900/40 dark:text-emerald-300", dot: "bg-emerald-500" },
+  "Adverbio":   { light: "bg-emerald-100 text-emerald-800", dark: "dark:bg-emerald-900/40 dark:text-emerald-300", dot: "bg-emerald-500" },
+  // Zamir / Pronoun / Pronombre
+  "Zamir":      { light: "bg-violet-100 text-violet-800", dark: "dark:bg-violet-900/40 dark:text-violet-300", dot: "bg-violet-500" },
+  "Pronoun":    { light: "bg-violet-100 text-violet-800", dark: "dark:bg-violet-900/40 dark:text-violet-300", dot: "bg-violet-500" },
+  "Pronombre":  { light: "bg-violet-100 text-violet-800", dark: "dark:bg-violet-900/40 dark:text-violet-300", dot: "bg-violet-500" },
+  // Edat / Preposition / Preposición
+  "Edat":       { light: "bg-cyan-100 text-cyan-800",     dark: "dark:bg-cyan-900/40 dark:text-cyan-300",     dot: "bg-cyan-500" },
+  "Preposition":{ light: "bg-cyan-100 text-cyan-800",     dark: "dark:bg-cyan-900/40 dark:text-cyan-300",     dot: "bg-cyan-500" },
+  "Preposición":{ light: "bg-cyan-100 text-cyan-800",     dark: "dark:bg-cyan-900/40 dark:text-cyan-300",     dot: "bg-cyan-500" },
+  // Bağlaç / Conjunction / Conjunción
+  "Bağlaç":     { light: "bg-rose-100 text-rose-800",     dark: "dark:bg-rose-900/40 dark:text-rose-300",     dot: "bg-rose-500" },
+  "Conjunction":{ light: "bg-rose-100 text-rose-800",     dark: "dark:bg-rose-900/40 dark:text-rose-300",     dot: "bg-rose-500" },
+  "Conjunción": { light: "bg-rose-100 text-rose-800",     dark: "dark:bg-rose-900/40 dark:text-rose-300",     dot: "bg-rose-500" },
+  // Ünlem / Interjection
+  "Ünlem":      { light: "bg-orange-100 text-orange-800", dark: "dark:bg-orange-900/40 dark:text-orange-300", dot: "bg-orange-500" },
+  "Interjection":{ light: "bg-orange-100 text-orange-800",dark: "dark:bg-orange-900/40 dark:text-orange-300", dot: "bg-orange-500" },
+  // DEFAULT
+  "DEFAULT":    { light: "bg-slate-100 text-slate-600",   dark: "dark:bg-slate-800 dark:text-slate-300",      dot: "bg-slate-400" },
+};
+
+function getTypeStyle(type: string) {
+  // Nomen'in "der Nomen", "die Nomen" gibi varyantlarını da yakala
+  if (type?.toLowerCase().includes("nomen")) return typeStyles["Nomen"];
+  return typeStyles[type] || typeStyles["DEFAULT"];
+}
 
 export default function ClientVocabularyApp({ initialWords, lang, subject, dict }: Props) {
   const [view, setView] = useState<'setup' | 'practice' | 'result'>('setup');
@@ -33,7 +77,7 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
   const [stats, setStats] = useState({ correct: 0, wrong: 0 });
   const [answered, setAnswered] = useState(false);
   const [userInput, setUserInput] = useState('');
-  const [feedback, setFeedback] = useState<{ text: string, color: string }>({ text: '', color: '' });
+  const [feedback, setFeedback] = useState<{ text: string; isCorrect: boolean | null }>({ text: '', isCorrect: null });
   const [range, setRange] = useState({ start: 1, end: initialWords?.length || 0 });
   const [lastRangeSize, setLastRangeSize] = useState(10);
 
@@ -46,16 +90,7 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
   const t = useMemo(() => {
     return dict?.vocabulary || translations[lang] || translations.tr;
   }, [dict, lang]);
-  
-  const fTypeColors: any = { 
-    "İsim": "#f59e0b", "Noun": "#f59e0b", "Sustantivo": "#f59e0b",
-    "Fiil": "#3b82f6", "Verb": "#3b82f6", "Verbo": "#3b82f6",
-    "Sıfat": "#ec4899", "Adjective": "#ec4899", "Adjetivo": "#ec4899",
-    "Zarf": "#10b981", "Adverb": "#10b981", "Adverbio": "#10b981",
-    "DEFAULT": "#94a3b8" 
-  };
 
-  // ✅ Öğrenilen dile göre klavye karakterlerini belirle
   const specialChars = useMemo(() => {
     if (subject === "german") return ['ä', 'ö', 'ü', 'ß', 'Ä', 'Ö', 'Ü'];
     if (subject === "spanish") return ['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ', '¿', '¡'];
@@ -75,16 +110,14 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
     setErrorWords([]);
     setAnswered(false);
     setUserInput('');
-    setFeedback({ text: '', color: '' });
+    setFeedback({ text: '', isCorrect: null });
     setView('practice');
   };
 
   const handleNextSet = () => {
     const nextStart = range.end + 1;
     const nextEnd = Math.min(nextStart + lastRangeSize - 1, initialWords.length);
-    if (nextStart <= initialWords.length) {
-      launchGame(nextStart, nextEnd);
-    }
+    if (nextStart <= initialWords.length) launchGame(nextStart, nextEnd);
   };
 
   const handleCharClick = (char: string) => {
@@ -99,28 +132,20 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
     if (!userValue) return;
 
     let isCorrect = false;
-    const isNoun = w.type === "İsim" || w.type === "Noun" || w.type === "Nomen" || 
-                   w.type === "Sustantivo" || w.type?.includes("Nomen");
+    const isNoun = w.type === "İsim" || w.type === "Noun" || w.type === "Nomen" ||
+      w.type === "Sustantivo" || w.type?.includes("Nomen");
     const isGerman = subject === "german";
 
     if (isGerman && isNoun) {
-      // Artikel + isim kontrolü: "der/die/das/ein/eine" + büyük harfli isim
-      const ARTICLES = ["der", "die", "das", "ein", "eine", "einen", "einem", "einer", "des", "dem", "den"];
       const userParts = userValue.trim().split(/\s+/);
       const termParts = w.term.trim().split(/\s+/);
-      
       if (userParts.length >= 2 && termParts.length >= 2) {
-        // Artikel eşleşiyor mu + isim eşleşiyor mu (büyük harf duyarlı)
-        isCorrect = userParts[0].toLowerCase() === termParts[0].toLowerCase() && 
-                    userParts[1] === termParts[1];
-      } else if (userParts.length === 1 && termParts.length >= 2) {
-        // Sadece isim girilmişse — artikelsiz kabul etme, uyar
-        isCorrect = false;
+        isCorrect = userParts[0].toLowerCase() === termParts[0].toLowerCase() &&
+          userParts[1] === termParts[1];
       } else {
-        isCorrect = userValue === w.term;
+        isCorrect = false;
       }
     } else if (isGerman) {
-      // Fiil, sıfat vb. — küçük/büyük harf önemsiz
       isCorrect = userValue.toLowerCase() === w.term.toLowerCase();
     } else {
       isCorrect = userValue.toLowerCase() === w.term.toLowerCase();
@@ -130,10 +155,9 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
       setAnswered(true);
       setStats(prev => ({ ...prev, correct: prev.correct + 1 }));
       const correctMsg = lang === "tr" ? "Doğru! 🎉" : lang === "es" ? "¡Correcto! 🎉" : lang === "de" ? "Richtig! 🎉" : "Correct! 🎉";
-      setFeedback({ text: correctMsg, color: '#16a34a' });
+      setFeedback({ text: correctMsg, isCorrect: true });
       setTimeout(() => {
-          const nextBtn = document.getElementById('next-btn-trigger');
-          if (nextBtn) nextBtn.click();
+        document.getElementById('next-btn-trigger')?.click();
       }, 800);
       return;
     }
@@ -142,137 +166,269 @@ export default function ClientVocabularyApp({ initialWords, lang, subject, dict 
     setStats(prev => ({ ...prev, wrong: prev.wrong + 1 }));
     setErrorWords(prev => [...prev, w]);
     const wrongMsg = lang === "tr" ? "Yanlış" : lang === "es" ? "Incorrecto" : lang === "de" ? "Falsch" : "Wrong";
-    setFeedback({ text: `${wrongMsg}: ${w.term}`, color: '#dc2626' });
+    setFeedback({ text: `${wrongMsg}: ${w.term}`, isCorrect: false });
   };
 
   const handleNext = () => {
     if (!answered) {
-        setStats(prev => ({ ...prev, wrong: prev.wrong + 1 }));
-        setErrorWords(prev => [...prev, currentSet[idx]]);
+      setStats(prev => ({ ...prev, wrong: prev.wrong + 1 }));
+      setErrorWords(prev => [...prev, currentSet[idx]]);
     }
-    
     if (idx + 1 < currentSet.length) {
       setIdx(prev => prev + 1);
       setAnswered(false);
       setUserInput('');
-      setFeedback({ text: '', color: '' });
+      setFeedback({ text: '', isCorrect: null });
     } else {
       setView('result');
     }
   };
 
-  const SafeText = ({ children, color }: { children: any, color: string }) => (
-    <span style={{ color: `${color} !important`, display: 'block', width: '100%', opacity: 1 }}>
-      {children}
-    </span>
-  );
+  const currentWord = currentSet[idx];
+  const progress = currentSet.length > 0 ? ((idx) / currentSet.length) * 100 : 0;
+  const typeStyle = currentWord ? getTypeStyle(currentWord.type) : typeStyles["DEFAULT"];
 
   return (
-    <div className="max-w-md mx-auto px-4 pb-10 font-sans">
-      
-      {/* SETUP EKRANI */}
-      {view === 'setup' && (
-        <div className="bg-white dark:bg-[#0b1120] p-6 md:p-8 rounded-[32px] md:rounded-[40px] shadow-2xl border border-slate-100 dark:border-white/5 text-center mt-6">
-          <h1 className="text-[10px] font-bold text-slate-400 tracking-widest mb-4 italic uppercase">{subject}</h1>
-          <p className="text-slate-500 dark:text-slate-400 text-xs font-medium mb-4 italic">{t.setupLabel}</p>
-          <div className="flex gap-2 mb-6">
-            {[10, 15, 20].map(n => (
-              <button key={n} onClick={() => launchGame(1, Math.min(n, initialWords.length))} 
-                className="flex-1 py-3 border-2 border-slate-100 dark:border-white/10 rounded-xl font-bold text-slate-600 dark:text-slate-200 hover:border-blue-500 hover:text-blue-500 transition-all cursor-pointer bg-transparent">
-                {n}
+    <div className="min-h-screen flex flex-col items-center justify-start pt-4 pb-16 px-4">
+      <div className="w-full max-w-sm">
+
+        {/* ── SETUP EKRANI ── */}
+        {view === 'setup' && (
+          <div className="bg-white dark:bg-[#0d1424] rounded-3xl shadow-xl border border-slate-100 dark:border-white/5 overflow-hidden mt-6">
+            {/* Header */}
+            <div className="bg-gradient-to-br from-blue-600 to-indigo-700 p-6 text-center">
+              <p className="text-blue-200 text-[10px] font-bold tracking-widest uppercase mb-1">{subject}</p>
+              <h1 className="text-white text-xl font-black tracking-tight">Vocabulary</h1>
+              <p className="text-blue-100/80 text-xs mt-1">{t.setupLabel}</p>
+            </div>
+
+            <div className="p-5">
+              {/* Hızlı seçim */}
+              <p className="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-3">{t.fastSelect}</p>
+              <div className="grid grid-cols-3 gap-2 mb-5">
+                {[10, 15, 20].map(n => (
+                  <button
+                    key={n}
+                    onClick={() => launchGame(1, Math.min(n, initialWords.length))}
+                    className="py-3 rounded-2xl font-black text-sm border-2 border-slate-100 dark:border-white/10 text-slate-600 dark:text-slate-200 hover:border-blue-500 hover:text-blue-500 dark:hover:border-blue-400 dark:hover:text-blue-400 transition-all active:scale-95 bg-white dark:bg-white/5"
+                  >
+                    {n}
+                  </button>
+                ))}
+              </div>
+
+              {/* Aralık seçimi */}
+              <p className="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-3">{t.rangeSelect}</p>
+              <div className="flex gap-2 items-center mb-5">
+                <input
+                  type="number"
+                  value={range.start}
+                  onChange={e => setRange({ ...range, start: Number(e.target.value) })}
+                  className="flex-1 p-3 bg-slate-50 dark:bg-white/5 rounded-xl text-center font-bold text-slate-800 dark:text-white outline-none border-2 border-transparent focus:border-blue-500 text-sm"
+                />
+                <span className="text-slate-300 dark:text-slate-600 font-bold text-lg">—</span>
+                <input
+                  type="number"
+                  value={range.end}
+                  onChange={e => setRange({ ...range, end: Number(e.target.value) })}
+                  className="flex-1 p-3 bg-slate-50 dark:bg-white/5 rounded-xl text-center font-bold text-slate-800 dark:text-white outline-none border-2 border-transparent focus:border-blue-500 text-sm"
+                />
+              </div>
+
+              <button
+                onClick={() => launchGame(range.start, range.end)}
+                className="w-full py-4 bg-blue-600 hover:bg-blue-700 active:scale-[0.98] text-white rounded-2xl font-black text-sm shadow-lg shadow-blue-500/20 uppercase tracking-widest transition-all"
+              >
+                {t.start} ({initialWords.length})
               </button>
-            ))}
-          </div>
-          <div className="mb-6">
-            <div className="flex gap-2 justify-center items-center">
-              <input type="number" value={range.start} onChange={e => setRange({...range, start: Number(e.target.value)})} className="w-16 p-3 bg-slate-50 dark:bg-white/5 rounded-xl text-center font-bold dark:text-white outline-none border border-transparent focus:border-blue-500" />
-              <span className="text-slate-300 dark:text-slate-600 font-bold">—</span>
-              <input type="number" value={range.end} onChange={e => setRange({...range, end: Number(e.target.value)})} className="w-16 p-3 bg-slate-50 dark:bg-white/5 rounded-xl text-center font-bold dark:text-white outline-none border border-transparent focus:border-blue-500" />
             </div>
           </div>
-          <button onClick={() => launchGame(range.start, range.end)} className="w-full py-4 bg-[#2563eb] text-white rounded-[20px] font-black text-base shadow-xl uppercase cursor-pointer transition-transform active:scale-95">
-             <SafeText color="#ffffff">{t.start} ({initialWords.length})</SafeText>
-          </button>
-        </div>
-      )}
+        )}
 
-      {/* PRACTICE EKRANI */}
-      {view === 'practice' && (
-        <div className="bg-white dark:bg-[#0b1120] p-6 md:p-8 rounded-[40px] shadow-2xl border border-slate-100 dark:border-white/5 mt-4 text-center">
-          <div className="flex justify-between items-center text-[10px] font-bold text-slate-400 dark:text-slate-500 mb-6 uppercase tracking-widest">
-            <span className="bg-orange-500/10 text-orange-500 px-3 py-1 rounded-full">{idx + 1} / {currentSet.length}</span>
-            <button onClick={() => setView('setup')} className="hover:text-red-500 transition-colors cursor-pointer font-bold uppercase">{t.close}</button>
-          </div>
-          <div className="flex justify-center mb-4">
-            <span className="px-3 py-1 rounded-lg text-[10px] font-bold text-white uppercase" style={{ backgroundColor: fTypeColors[currentSet[idx]?.type] || fTypeColors["DEFAULT"] }}>
-              {currentSet[idx]?.type}
-            </span>
-          </div>
-          <h2 className="text-xl md:text-2xl font-bold text-slate-800 dark:text-white mb-3 tracking-tight leading-tight uppercase italic">{currentSet[idx]?.meaning}</h2>
-          <p className="text-slate-400 dark:text-slate-500 italic mb-6 text-base font-normal">{currentSet[idx]?.example.replace('***', '______')}</p>
-          
-          <div className="flex flex-wrap justify-center gap-1.5 mb-6">
-            {specialChars.map(char => (
-              <button key={char} onClick={() => handleCharClick(char)} className="w-9 h-9 flex items-center justify-center bg-slate-100 dark:bg-white/10 hover:bg-blue-600 hover:text-white dark:text-white rounded-lg font-bold text-lg transition-all active:scale-90 cursor-pointer">{char}</button>
-            ))}
-          </div>
-
-          <input id="word-input" autoFocus type="text" value={userInput} onChange={(e) => setUserInput(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && handleCheck()} className="w-full p-4 bg-slate-50 dark:bg-white/5 rounded-xl text-center text-xl font-bold dark:text-white outline-none border-2 border-transparent focus:border-blue-500 mb-6" placeholder="..." autoComplete="off" autoCorrect="off" spellCheck="false" />
-          
-          <div className="flex gap-3">
-            <button onClick={handleCheck} className="flex-[2] py-3.5 bg-[#2563eb] text-white rounded-xl font-black uppercase text-xs tracking-widest shadow-lg cursor-pointer transition-all active:scale-95">
-               <SafeText color="#ffffff">{t.check}</SafeText>
-            </button>
-            <button id="next-btn-trigger" onClick={handleNext} className="flex-1 py-3.5 bg-[#eab308] text-white rounded-xl font-black uppercase text-xs tracking-widest shadow-lg cursor-pointer transition-all active:scale-95 border-none">
-               <SafeText color="#ffffff">{idx === currentSet.length - 1 ? t.finished : t.next}</SafeText>
-            </button>
-          </div>
-          <div style={{ color: feedback.color }} className="mt-4 font-bold text-lg min-h-[1.5em] italic">{feedback.text}</div>
-        </div>
-      )}
-
-      {/* RESULT EKRANI */}
-      {view === 'result' && (
-        <div className="max-w-xs mx-auto text-center p-8 bg-white dark:bg-[#161d2f] rounded-[40px] shadow-2xl border border-slate-100 dark:border-white/5 mt-6">
-          <div className="text-6xl mb-6">🏆</div>
-          <h2 className="text-xl font-black text-slate-800 dark:text-white mb-6 italic uppercase tracking-tighter">{t.finished}</h2>
-          
-          <div className="flex flex-col gap-2.5">
-            {errorWords.length > 0 && (
-              <button 
-                onClick={() => { 
-                  const errors = [...errorWords];
-                  setCurrentSet(shuffle(errors)); 
-                  setIdx(0); 
-                  setErrorWords([]); 
-                  setStats({ correct: 0, wrong: 0 });
-                  setAnswered(false);
-                  setUserInput('');
-                  setFeedback({ text: '', color: '' });
-                  setView('practice'); 
-                }} 
-                className="py-3.5 bg-[#f59e0b] text-white rounded-xl font-black text-xs uppercase shadow-lg cursor-pointer transition-all active:scale-95"
+        {/* ── PRACTICE EKRANI ── */}
+        {view === 'practice' && currentWord && (
+          <div className="mt-4">
+            {/* Progress bar + header */}
+            <div className="flex justify-between items-center mb-3 px-1">
+              <span className="text-[11px] font-bold text-slate-400 dark:text-slate-500">
+                {idx + 1} <span className="text-slate-300 dark:text-slate-600">/</span> {currentSet.length}
+              </span>
+              <div className="flex-1 mx-3 h-1.5 bg-slate-100 dark:bg-white/10 rounded-full overflow-hidden">
+                <div
+                  className="h-full bg-blue-500 rounded-full transition-all duration-500"
+                  style={{ width: `${progress}%` }}
+                />
+              </div>
+              <button
+                onClick={() => setView('setup')}
+                className="text-[11px] font-bold text-slate-400 hover:text-red-500 dark:text-slate-500 dark:hover:text-red-400 transition-colors uppercase tracking-widest"
               >
-                <SafeText color="#ffffff">{t.wrongRetry} ({errorWords.length})</SafeText>
+                {t.close}
               </button>
-            )}
+            </div>
 
-            {range.end < initialWords.length && (
-              <button onClick={handleNextSet} className="py-3.5 bg-[#16a34a] text-white rounded-xl font-black text-xs uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none">
-                <SafeText color="#ffffff">{t.nextSet}</SafeText>
-              </button>
-            )}
+            {/* Kart */}
+            <div className="bg-white dark:bg-[#0d1424] rounded-3xl shadow-xl border border-slate-100 dark:border-white/5 p-5 md:p-6">
+              
+              {/* Tür badge — tema uyumlu */}
+              <div className="flex justify-center mb-4">
+                <span className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold uppercase tracking-widest ${typeStyle.light} ${typeStyle.dark}`}>
+                  <span className={`w-1.5 h-1.5 rounded-full ${typeStyle.dot}`} />
+                  {currentWord.type}
+                </span>
+              </div>
 
-            <button onClick={() => launchGame(range.start, range.end)} className="py-3.5 bg-[#ef4444] text-white rounded-xl font-black text-xs uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none">
-              <SafeText color="#ffffff">{t.retry}</SafeText>
-            </button>
+              {/* Anlam */}
+              <h2 className="text-xl md:text-2xl font-black text-slate-800 dark:text-white text-center mb-3 tracking-tight leading-tight uppercase italic">
+                {currentWord.meaning}
+              </h2>
 
-            <button onClick={() => setView('setup')} className="py-3.5 bg-[#8b5cf6] text-white rounded-xl font-black text-xs uppercase shadow-lg cursor-pointer transition-all active:scale-95 border-none">
-              <SafeText color="#ffffff">{t.main}</SafeText>
-            </button>
+              {/* Örnek */}
+              <p className="text-slate-400 dark:text-slate-500 italic text-center text-sm leading-relaxed mb-5">
+                {currentWord.example.replace('***', '______')}
+              </p>
+
+              {/* Özel karakterler */}
+              {specialChars.length > 0 && (
+                <div className="flex flex-wrap justify-center gap-1.5 mb-4">
+                  {specialChars.map(char => (
+                    <button
+                      key={char}
+                      onClick={() => handleCharClick(char)}
+                      className="w-9 h-9 flex items-center justify-center bg-slate-100 dark:bg-white/10 hover:bg-blue-600 hover:text-white dark:text-white rounded-xl font-bold text-base transition-all active:scale-90"
+                    >
+                      {char}
+                    </button>
+                  ))}
+                </div>
+              )}
+
+              {/* Input */}
+              <input
+                id="word-input"
+                autoFocus
+                type="text"
+                value={userInput}
+                onChange={e => setUserInput(e.target.value)}
+                onKeyDown={e => e.key === 'Enter' && handleCheck()}
+                className="w-full p-4 bg-slate-50 dark:bg-white/5 rounded-2xl text-center text-lg font-bold text-slate-800 dark:text-white outline-none border-2 border-transparent focus:border-blue-500 dark:focus:border-blue-400 mb-4 transition-colors"
+                placeholder="..."
+                autoComplete="off"
+                autoCorrect="off"
+                spellCheck={false}
+              />
+
+              {/* Feedback */}
+              <div
+                className={`text-center font-bold text-sm min-h-[1.25rem] mb-4 italic transition-all ${
+                  feedback.isCorrect === true
+                    ? 'text-emerald-600 dark:text-emerald-400'
+                    : feedback.isCorrect === false
+                    ? 'text-red-500 dark:text-red-400'
+                    : 'text-transparent'
+                }`}
+              >
+                {feedback.text || '·'}
+              </div>
+
+              {/* Butonlar */}
+              <div className="grid grid-cols-2 gap-2.5">
+                <button
+                  onClick={handleCheck}
+                  className="py-3.5 bg-blue-600 hover:bg-blue-700 active:scale-[0.97] text-white rounded-2xl font-black text-xs uppercase tracking-widest shadow-lg shadow-blue-500/20 transition-all"
+                >
+                  {t.check}
+                </button>
+                <button
+                  id="next-btn-trigger"
+                  onClick={handleNext}
+                  className="py-3.5 bg-amber-500 hover:bg-amber-600 active:scale-[0.97] text-white rounded-2xl font-black text-xs uppercase tracking-widest shadow-lg shadow-amber-500/20 transition-all"
+                >
+                  {idx === currentSet.length - 1 ? t.finished : t.next}
+                </button>
+              </div>
+            </div>
+
+            {/* Stat bar altında */}
+            <div className="flex justify-center gap-6 mt-4 text-xs font-bold">
+              <span className="flex items-center gap-1.5 text-emerald-600 dark:text-emerald-400">
+                <span className="w-2 h-2 rounded-full bg-emerald-500" />
+                {stats.correct}
+              </span>
+              <span className="flex items-center gap-1.5 text-red-500 dark:text-red-400">
+                <span className="w-2 h-2 rounded-full bg-red-500" />
+                {stats.wrong}
+              </span>
+            </div>
           </div>
-        </div>
-      )}
+        )}
+
+        {/* ── RESULT EKRANI ── */}
+        {view === 'result' && (
+          <div className="mt-6 bg-white dark:bg-[#0d1424] rounded-3xl shadow-xl border border-slate-100 dark:border-white/5 overflow-hidden">
+            {/* Header */}
+            <div className="bg-gradient-to-br from-emerald-500 to-teal-600 p-7 text-center">
+              <div className="text-5xl mb-3">🏆</div>
+              <h2 className="text-white text-xl font-black uppercase tracking-tight">{t.finished}</h2>
+              <div className="flex justify-center gap-6 mt-4">
+                <div className="text-center">
+                  <p className="text-emerald-100/70 text-[10px] uppercase tracking-widest mb-0.5">Doğru</p>
+                  <p className="text-white text-2xl font-black">{stats.correct}</p>
+                </div>
+                <div className="w-px bg-white/20" />
+                <div className="text-center">
+                  <p className="text-emerald-100/70 text-[10px] uppercase tracking-widest mb-0.5">Yanlış</p>
+                  <p className="text-white text-2xl font-black">{stats.wrong}</p>
+                </div>
+              </div>
+            </div>
+
+            <div className="p-5 flex flex-col gap-2.5">
+              {errorWords.length > 0 && (
+                <button
+                  onClick={() => {
+                    const errors = [...errorWords];
+                    setCurrentSet(shuffle(errors));
+                    setIdx(0);
+                    setErrorWords([]);
+                    setStats({ correct: 0, wrong: 0 });
+                    setAnswered(false);
+                    setUserInput('');
+                    setFeedback({ text: '', isCorrect: null });
+                    setView('practice');
+                  }}
+                  className="py-3.5 bg-amber-500 hover:bg-amber-600 active:scale-[0.98] text-white rounded-2xl font-black text-xs uppercase tracking-widest shadow-lg shadow-amber-500/20 transition-all"
+                >
+                  {t.wrongRetry} ({errorWords.length})
+                </button>
+              )}
+
+              {range.end < initialWords.length && (
+                <button
+                  onClick={handleNextSet}
+                  className="py-3.5 bg-emerald-600 hover:bg-emerald-700 active:scale-[0.98] text-white rounded-2xl font-black text-xs uppercase tracking-widest shadow-lg shadow-emerald-500/20 transition-all"
+                >
+                  {t.nextSet}
+                </button>
+              )}
+
+              <button
+                onClick={() => launchGame(range.start, range.end)}
+                className="py-3.5 bg-red-500 hover:bg-red-600 active:scale-[0.98] text-white rounded-2xl font-black text-xs uppercase tracking-widest shadow-lg shadow-red-500/20 transition-all"
+              >
+                {t.retry}
+              </button>
+
+              <button
+                onClick={() => setView('setup')}
+                className="py-3.5 bg-violet-600 hover:bg-violet-700 active:scale-[0.98] text-white rounded-2xl font-black text-xs uppercase tracking-widest shadow-lg shadow-violet-500/20 transition-all"
+              >
+                {t.main}
+              </button>
+            </div>
+          </div>
+        )}
+      </div>
     </div>
   );
 }
