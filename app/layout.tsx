@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Providers } from "./providers";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -33,13 +34,8 @@ export default function RootLayout({
       >
         <Providers>
           <Navbar />
-          {/* 
-            pt-16  → mobil navbar yüksekliği (~64px)
-            md:pt-20 → desktop navbar yüksekliği (~80px)
-            pt-24 yerine bu değerleri kullanıyoruz çünkü
-            yeni Navbar daha kompakt (top-3 + ~52px yükseklik)
-          */}
           <main className="pt-16 md:pt-20">{children}</main>
+          <Footer />
         </Providers>
       </body>
     </html>

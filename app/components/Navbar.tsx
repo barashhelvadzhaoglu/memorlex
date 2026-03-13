@@ -31,27 +31,27 @@ const UI_LANGS = [
 // ── Çeviri metinleri ────────────────────────────────────────────────────────
 const NAV_LABELS: Record<ValidLangs, {
   subjects: Record<string, string>;
-  sections: { vocab: string; stories: string; home: string };
+  sections: { vocab: string; stories: string; home: string; about: string; contact: string };
 }> = {
   tr: {
     subjects: { german: "Almanca", english: "İngilizce", spanish: "İspanyolca" },
-    sections: { vocab: "Kelime", stories: "Hikayeler", home: "Ana Sayfa" },
+    sections: { vocab: "Kelime", stories: "Hikayeler", home: "Ana Sayfa", about: "Hakkında", contact: "İletişim" },
   },
   en: {
     subjects: { german: "German", english: "English", spanish: "Spanish" },
-    sections: { vocab: "Vocabulary", stories: "Stories", home: "Home" },
+    sections: { vocab: "Vocabulary", stories: "Stories", home: "Home", about: "About", contact: "Contact" },
   },
   de: {
     subjects: { german: "Deutsch", english: "Englisch", spanish: "Spanisch" },
-    sections: { vocab: "Vokabeln", stories: "Geschichten", home: "Startseite" },
+    sections: { vocab: "Vokabeln", stories: "Geschichten", home: "Startseite", about: "Über uns", contact: "Kontakt" },
   },
   uk: {
     subjects: { german: "Німецька", english: "Англійська", spanish: "Іспанська" },
-    sections: { vocab: "Слова", stories: "Оповідання", home: "Головна" },
+    sections: { vocab: "Слова", stories: "Оповідання", home: "Головна", about: "Про нас", contact: "Контакт" },
   },
   es: {
     subjects: { german: "Alemán", english: "Inglés", spanish: "Español" },
-    sections: { vocab: "Vocabulario", stories: "Historias", home: "Inicio" },
+    sections: { vocab: "Vocabulario", stories: "Historias", home: "Inicio", about: "Acerca de", contact: "Contacto" },
   },
 };
 
@@ -63,6 +63,7 @@ function useParsedPath() {
     lang:    (segments[0] || "en") as ValidLangs,
     subject: segments[1] || null,
     level:   segments[2] || null,
+    page:    segments[1] || null, // "about" | "contact" | "privacy" vb.
   };
 }
 
@@ -70,7 +71,7 @@ function useParsedPath() {
 export default function Navbar() {
   const { resolvedTheme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
-  const { lang, subject: activeSubject, level: activeLevel } = useParsedPath();
+  const { lang, subject: activeSubject, level: activeLevel, page: activePage } = useParsedPath();
 
   // Hangi subject dropdown'ı açık?
   const [openSubject, setOpenSubject] = useState<string | null>(null);
@@ -291,6 +292,30 @@ export default function Navbar() {
 
         <div className="w-px h-5 bg-slate-200 dark:bg-slate-700" />
 
+        {/* About + Contact */}
+        <Link
+          href={`/${lang}/about`}
+          className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all
+            ${activePage === "about"
+              ? "bg-amber-50 dark:bg-amber-500/10 text-amber-500 border border-amber-200 dark:border-amber-500/30"
+              : "text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-800 hover:text-amber-500"
+            }`}
+        >
+          {t.sections.about}
+        </Link>
+        <Link
+          href={`/${lang}/contact`}
+          className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all
+            ${activePage === "contact"
+              ? "bg-amber-600 text-white shadow-lg shadow-amber-500/30"
+              : "bg-amber-500 text-white hover:bg-amber-600"
+            }`}
+        >
+          {t.sections.contact}
+        </Link>
+
+        <div className="w-px h-5 bg-slate-200 dark:bg-slate-700" />
+
         {/* Dil seçici */}
         <div className="flex items-center gap-0.5">
           {UI_LANGS.map((l, i) => (
@@ -392,9 +417,31 @@ export default function Navbar() {
             {/* Ana sayfa linki */}
             <Link
               href={`/${lang}`}
-              className="block px-4 py-3 text-xs font-bold text-slate-500 dark:text-slate-400 hover:text-amber-500 uppercase tracking-widest"
+              className="block px-4 py-3 text-xs font-bold text-slate-500 dark:text-slate-400 hover:text-amber-500 uppercase tracking-widest border-b border-slate-100 dark:border-slate-800"
             >
               🏠 {t.sections.home}
+            </Link>
+
+            {/* About + Contact */}
+            <Link
+              href={`/${lang}/about`}
+              className={`block px-4 py-3 text-xs font-bold uppercase tracking-widest border-b border-slate-100 dark:border-slate-800 transition-colors
+                ${activePage === "about"
+                  ? "text-amber-500 bg-amber-50 dark:bg-amber-500/10"
+                  : "text-slate-500 dark:text-slate-400 hover:text-amber-500"
+                }`}
+            >
+              ℹ️ {t.sections.about}
+            </Link>
+            <Link
+              href={`/${lang}/contact`}
+              className={`block px-4 py-3 text-xs font-bold uppercase tracking-widest transition-colors
+                ${activePage === "contact"
+                  ? "text-amber-600 bg-amber-50 dark:bg-amber-500/10"
+                  : "text-amber-500 hover:text-amber-600"
+                }`}
+            >
+              ✉️ {t.sections.contact}
             </Link>
           </div>
         )}
