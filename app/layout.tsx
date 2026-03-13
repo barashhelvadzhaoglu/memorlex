@@ -27,14 +27,19 @@ export default function RootLayout({
           strategy="afterInteractive"
         />
       </head>
-
       <body
         suppressHydrationWarning
         className={`${inter.className} bg-slate-50 dark:bg-slate-900 transition-colors duration-300`}
       >
         <Providers>
           <Navbar />
-          <main className="pt-24">{children}</main>
+          {/* 
+            pt-16  → mobil navbar yüksekliği (~64px)
+            md:pt-20 → desktop navbar yüksekliği (~80px)
+            pt-24 yerine bu değerleri kullanıyoruz çünkü
+            yeni Navbar daha kompakt (top-3 + ~52px yükseklik)
+          */}
+          <main className="pt-16 md:pt-20">{children}</main>
         </Providers>
       </body>
     </html>
