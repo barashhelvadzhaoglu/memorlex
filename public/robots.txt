@@ -1,4 +1,18 @@
 User-agent: *
 Allow: /
 
+# Ana Sitemap Index (Eğer varsa)
 Sitemap: https://memorlex.com/sitemap.xml
+
+# Dile Özel Sitemapler (Eğer ana sitemap hepsini kapsamıyorsa)
+Sitemap: https://memorlex.com/en/sitemap.xml
+Sitemap: https://memorlex.com/tr/sitemap.xml
+Sitemap: https://memorlex.com/de/sitemap.xml
+Sitemap: https://memorlex.com/uk/sitemap.xml
+Sitemap: https://memorlex.com/es/sitemap.xml
+
+# Güvenlik: Kritik olabilecek dizinleri taramaya kapatın
+Disallow: /api/
+Disallow: /_next/
+Disallow: /terraform/
+Disallow: *.log
