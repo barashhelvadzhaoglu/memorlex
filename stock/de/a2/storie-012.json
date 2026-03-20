@@ -1,0 +1,60 @@
+{
+  "id": "storie-012",
+  "lang": "de",
+  "level": "a2",
+  "youtubeId": "",
+  "title": "Erfindergeist und digitales Bezahlen",
+  "summary": "Kenji und Daryna besuchen ein Museum ueber deutsche Erfinder. Sie diskutieren ueber die Geschichte des Geldes und moderne bargeldlose Zahlung.",
+  "hashtags": [],
+  "text": [
+    "Heute ist der 20. Maerz 2026. Kenji kommt um 09:15 Uhr am Hauptbahnhof auf Gleis 7 an.",
+    "Daryna wartet dort auf ihn. Sie haben einen Termin im Museum vereinbaren koennen.",
+    "Sie hoeren eine Ansage ueber eine Verspaetung wegen einer Baustelle. Der Eintritt ins Museum kostet 14,50 Euro.",
+    "Kenji moechte bargeldlos mit seiner Uhr bezahlen. Daryna erklaert, dass viele Deutsche noch Bargeld-Kultur lieben.",
+    "Im Museum sehen sie die Erfindung von Johannes Gutenberg. Der Buchdruck hat die Welt fuer immer veraendert.",
+    "Danach bewundern sie das erste Auto von Carl Benz. Die Technik war damals sehr kuenl und neu.",
+    "Daryna erzaehlt von Albert Einstein. Seine Theorien sind fuer die moderne Wissenschaft sehr wichtig.",
+    "Nach dem Besuch gehen sie in ein Cafe. Die Rechnung betraegt 18,60 Euro und Kenji verlangt den Kassenbon.",
+    "Kenji hat das Budget fuer den Tag genau geplant. Er nutzt Gleitzeit bei der Arbeit fuer diesen Ausflug.",
+    "Um 16:30 Uhr faehrt Kenji wieder nach Hause. Er hat viel ueber Erfinder und digitales Bezahlen gelernt."
+  ],
+  "image_prompts": [
+    "realistic photo, Kenji at a German train station, platform 7 sign visible, morning light, cinematic lighting",
+    "realistic photo, Kenji and Daryna meeting at a modern museum entrance, glass architecture",
+    "realistic photo, a digital train information board showing a delay, station background, blurry crowds",
+    "realistic photo, Kenji holding his smartwatch near a payment terminal in a museum shop",
+    "realistic photo, an old Gutenberg printing press in a museum, historical atmosphere, detailed wood",
+    "realistic photo, the first three-wheeled Benz Patent-Motorwagen in a bright showroom",
+    "realistic photo, Daryna looking at a blackboard with Einstein's physics formulas in a science museum",
+    "realistic photo, a hand holding a white paper Kassenbon in a modern German cafe, coffee in background",
+    "realistic photo, Kenji looking at a finance app on his smartphone, budget planning concept",
+    "realistic photo, Kenji sitting on a train, sunset through the window, peaceful expression"
+  ],
+  "vocab": [
+    {"term": "die Verspaetung", "type": "Nomen", "meaning_tr": "gecikme", "meaning_en": "delay", "meaning_es": "retraso", "meaning_uk": "zapiznennia", "example": "Der Zug hat heute leider 15 Minuten Verspaetung."},
+    {"term": "die Baustelle", "type": "Nomen", "meaning_tr": "santiye", "meaning_en": "construction site", "meaning_es": "obra", "meaning_uk": "budmaydanchyk", "example": "Wegen der Baustelle gibt es einen Stau auf der Strasse."},
+    {"term": "der Buchdruck", "type": "Nomen", "meaning_tr": "kitap basimi", "meaning_en": "book printing", "meaning_es": "imprenta", "meaning_uk": "knyhodrukuvannia", "example": "Gutenberg ist der Erfinder vom Buchdruck."},
+    {"term": "die Erfindung", "type": "Nomen", "meaning_tr": "bulus", "meaning_en": "invention", "meaning_es": "invento", "meaning_uk": "vynakhid", "example": "Das Auto war eine grosse Erfindung."},
+    {"term": "die Wissenschaft", "type": "Nomen", "meaning_tr": "bilim", "meaning_en": "science", "meaning_es": "ciencia", "meaning_uk": "nauka", "example": "Einstein hat viel fuer die Wissenschaft getan."},
+    {"term": "die Zahlung", "type": "Nomen", "meaning_tr": "odeme", "meaning_en": "payment", "meaning_es": "pago", "meaning_uk": "oplata", "example": "Die bargeldlose Zahlung ist in der Stadt sehr einfach."},
+    {"term": "der Kassenbon", "type": "Nomen", "meaning_tr": "fis", "meaning_en": "receipt", "meaning_es": "recibo", "meaning_uk": "chek", "example": "Bitte werfen Sie den Kassenbon nicht weg."},
+    {"term": "die Gebuehr", "type": "Nomen", "meaning_tr": "ucret", "meaning_en": "fee", "meaning_es": "tasa", "meaning_uk": "zbir", "example": "Die Gebuehr fuer das Ticket ist guenstig."},
+    {"term": "die Ueberweisung", "type": "Nomen", "meaning_tr": "havale", "meaning_en": "bank transfer", "meaning_es": "transferencia", "meaning_uk": "perekaz", "example": "Ich muss eine Ueberweisung fuer die Miete machen."},
+    {"term": "die Quittung", "type": "Nomen", "meaning_tr": "makbuz", "meaning_en": "receipt", "meaning_es": "recibo", "meaning_uk": "kvytantsiia", "example": "Haben Sie die Quittung fuer das Museum?"},
+    {"term": "die Erstattung", "type": "Nomen", "meaning_tr": "iade", "meaning_en": "refund", "meaning_es": "reembolso", "meaning_uk": "vidshkoduvannia", "example": "Ich warte auf die Erstattung von der Versicherung."},
+    {"term": "der Bescheid", "type": "Nomen", "meaning_tr": "karar / bildirim", "meaning_en": "notice", "meaning_es": "notificación", "meaning_uk": "povidomlennia", "example": "Ich habe den Bescheid vom Amt erhalten."},
+    {"term": "der Geldautomat", "type": "Nomen", "meaning_tr": "bankamatik", "meaning_en": "ATM", "meaning_es": "cajero", "meaning_uk": "bankomat", "example": "Wo finde ich einen Geldautomaten?"},
+    {"term": "die Versicherung", "type": "Nomen", "meaning_tr": "sigorta", "meaning_en": "insurance", "meaning_es": "seguro", "meaning_uk": "strakhovka", "example": "Meine Versicherung bezahlt den Arzt."},
+    {"term": "die Bescheinigung", "type": "Nomen", "meaning_tr": "belge", "meaning_en": "certificate", "meaning_es": "certificado", "meaning_uk": "dovidka", "example": "Ich brauche eine Bescheinigung fuer meinen Chef."}
+  ],
+  "questions": [
+    {"question": "Wann kommt Kenji am Bahnhof an?", "options": ["A) Um 08:30 Uhr", "B) Um 09:15 Uhr", "C) Um 16:30 Uhr", "D) Um 10:00 Uhr"], "answer": "B) Um 09:15 Uhr"},
+    {"question": "Auf welchem Gleis kommt Kenji an?", "options": ["A) Gleis 1", "B) Gleis 4", "C) Gleis 7", "D) Gleis 10"], "answer": "C) Gleis 7"},
+    {"question": "Wie viel kostet der Eintritt ins Museum?", "options": ["A) 18,60 Euro", "B) 9,15 Euro", "C) 14,50 Euro", "D) 12,00 Euro"], "answer": "C) 14,50 Euro"},
+    {"question": "Warum gibt es eine Verspaetung?", "options": ["A) Wegen Regen", "B) Wegen einer Baustelle", "C) Wegen Einstein", "D) Wegen viel Gepaeck"], "answer": "B) Wegen einer Baustelle"},
+    {"question": "Was hat Johannes Gutenberg erfunden?", "options": ["A) Das Auto", "B) Das Zelt", "C) Den Buchdruck", "D) Die Uhr"], "answer": "C) Den Buchdruck"},
+    {"question": "Wie moechte Kenji im Museum bezahlen?", "options": ["A) Mit Bargeld", "B) Mit Gold", "C) Bargeldlos mit der Uhr", "D) Gar nicht"], "answer": "C) Bargeldlos mit der Uhr"},
+    {"question": "Wie hoch ist die Rechnung im Cafe?", "options": ["A) 14,50 Euro", "B) 16,30 Euro", "C) 18,60 Euro", "D) 9,15 Euro"], "answer": "C) 18,60 Euro"},
+    {"question": "Wann faehrt Kenji wieder nach Hause?", "options": ["A) Um 09:15 Uhr", "B) Um 12:00 Uhr", "C) Um 16:30 Uhr", "D) Um 18:00 Uhr"], "answer": "C) Um 16:30 Uhr"}
+  ]
+}

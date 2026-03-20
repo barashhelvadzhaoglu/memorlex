@@ -26,7 +26,6 @@ WEEKLY_SCHEDULE = {
 }
 
 LEVEL_CONFIG = {
-    # max_tokens bumped up for all levels to prevent truncation
     "a1": {"scenes": 7,  "sentences": 2, "max_chars": 120, "max_tokens": 8192,
            "desc": "Very simple short sentences. Basic needs, time, asking prices."},
     "a2": {"scenes": 10, "sentences": 2, "max_chars": 140, "max_tokens": 8192,
@@ -100,6 +99,20 @@ VOCAB_RULES = {
     },
 }
 
+# Character name pools by region — ensures diversity across stories
+CHARACTER_POOL = {
+    "german":   ["Markus", "Petra", "Jochen", "Sabine", "Rainer", "Helga", "Dieter", "Ingrid",
+                 "Florian", "Claudia", "Stefan", "Monika", "Wolfgang", "Brigitte", "Tobias", "Renate"],
+    "turkish":  ["Ayse", "Mehmet", "Fatih", "Zeynep", "Burak", "Gulsen", "Emre", "Selin",
+                 "Kerem", "Neslihan", "Murat", "Elif", "Haluk", "Derya", "Serkan", "Aysun"],
+    "eastern":  ["Andriy", "Olena", "Dmytro", "Natalia", "Vasyl", "Iryna", "Viktor", "Oksana",
+                 "Mykola", "Daryna", "Ivan", "Larysa"],
+    "southern": ["Maria", "Giuseppe", "Fatima", "Hamid", "Yusuf", "Amina", "Dragan", "Milena",
+                 "Bogdan", "Svetlana", "Tariq", "Laila"],
+    "asian":    ["Mei", "Kenji", "Priya", "Arjun", "Ji-ho", "Minh", "Sakura", "Ravi",
+                 "Hana", "Takashi", "Leila", "Chen"],
+}
+
 HASHTAGS = [
     "#DeutschLernen", "#LearnGerman", "#Deutsch", "#GermanLanguage",
     "#DeutschKurs", "#DeutschAlsFremdsprache", "#DAF",
@@ -169,6 +182,74 @@ def get_previous_story_vocab(save_dir: str, count: int = 10) -> list:
         return []
 
 
+def get_recent_story_summaries(save_dir: str, count: int = 5) -> list:
+    """
+    Returns a list of (title, summary, character_names) tuples from the last `count` stories.
+    Used to ensure the new story has fresh characters and a completely different plot.
+    """
+    if not os.path.exists(save_dir):
+        return []
+    json_files = sorted([
+        f for f in os.listdir(save_dir)
+        if f.startswith("storie-") and f.endswith(".json")
+    ])
+    recent = json_files[-count:] if len(json_files) >= count else json_files
+    summaries = []
+    for fname in recent:
+        try:
+            with open(os.path.join(save_dir, fname), "r", encoding="utf-8") as f:
+                data = json.load(f)
+            title   = data.get("title", fname)
+            summary = data.get("summary", "")
+            # Extract any names from first scene as rough character list
+            first_scene = data.get("text", [""])[0] if data.get("text") else ""
+            summaries.append({
+                "file":    fname,
+                "title":   title,
+                "summary": summary,
+                "sample":  first_scene[:150],
+            })
+        except Exception as e:
+            print(f"[recent_summaries] could not read {fname}: {e}")
+    print(f"[recent_summaries] found {len(summaries)} recent stories")
+    return summaries
+
+
+def pick_fresh_characters(recent_summaries: list) -> dict:
+    """
+    Picks 2-3 character names that do NOT appear in recent story texts,
+    drawn from diverse cultural backgrounds.
+    """
+    # Flatten all recent text to find used names
+    used_text = " ".join(
+        s.get("title", "") + " " + s.get("summary", "") + " " + s.get("sample", "")
+        for s in recent_summaries
+    ).lower()
+
+    selected = {}
+    all_groups = list(CHARACTER_POOL.keys())
+    random.shuffle(all_groups)
+
+    protagonist_group = all_groups[0]
+    for name in random.sample(CHARACTER_POOL[protagonist_group], len(CHARACTER_POOL[protagonist_group])):
+        if name.lower() not in used_text:
+            selected["protagonist"] = name
+            break
+    if "protagonist" not in selected:
+        selected["protagonist"] = random.choice(CHARACTER_POOL[protagonist_group])
+
+    secondary_group = all_groups[1]
+    for name in random.sample(CHARACTER_POOL[secondary_group], len(CHARACTER_POOL[secondary_group])):
+        if name.lower() not in used_text and name != selected.get("protagonist"):
+            selected["secondary"] = name
+            break
+    if "secondary" not in selected:
+        selected["secondary"] = random.choice(CHARACTER_POOL[secondary_group])
+
+    print(f"[characters] protagonist={selected['protagonist']} secondary={selected['secondary']}")
+    return selected
+
+
 def call_gemini(prompt: str, api_key: str, model_name: str, max_tokens: int) -> str:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
     payload = {
@@ -188,7 +269,6 @@ def parse_json_safe(raw_text: str) -> dict:
     """
     text = raw_text.strip()
 
-    # 1. Strip markdown fences
     if "```" in text:
         for part in text.split("```"):
             part = part.strip().lstrip("json").lstrip("JSON").strip()
@@ -196,25 +276,21 @@ def parse_json_safe(raw_text: str) -> dict:
                 text = part
                 break
 
-    # 2. Extract outermost { }
     start = text.find("{")
     end   = text.rfind("}") + 1
     if start != -1 and end > start:
         text = text[start:end]
 
-    # 3. Normalize unicode quotes
     text = (text
             .replace('\u201e', '"').replace('\u201c', '"').replace('\u201d', '"')
             .replace('\u2018', "'").replace('\u2019', "'")
             .replace('\r\n', '\\n').replace('\r', '\\n'))
 
-    # 4. Standard parse
     try:
         return json.loads(text)
     except json.JSONDecodeError:
         pass
 
-    # 5. Gemini returned Python-style single-quote dict
     try:
         import ast
         data = ast.literal_eval(text)
@@ -224,7 +300,6 @@ def parse_json_safe(raw_text: str) -> dict:
     except Exception:
         pass
 
-    # 6. Fix unescaped real newlines inside strings
     def escape_newlines(m):
         return m.group(0).replace('\n', '\\n').replace('\t', '\\t')
 
@@ -234,7 +309,6 @@ def parse_json_safe(raw_text: str) -> dict:
     except json.JSONDecodeError:
         pass
 
-    # 7. Fix unescaped double-quotes inside string values (char-by-char)
     def fix_inner_double_quotes(s):
         result = []
         in_string = False
@@ -293,11 +367,36 @@ def generate_story(level_override: Optional[str] = None) -> Optional[str]:
     topics   = random.sample(TOPIC_POOL, 2)
     save_dir = os.path.join("src", "data", "stories", "de", level)
 
+    # ── Bridge vocabulary (from last story) ──────────────────────────────
     bridge_words = get_previous_story_vocab(save_dir, count=10)
     if bridge_words:
         bridge_block = f"BRIDGE WORDS (use in scenes, do NOT add to vocab): {bridge_words}"
     else:
         bridge_block = "BRIDGE WORDS: none (first story)."
+
+    # ── Recent story summaries (last 5) ──────────────────────────────────
+    recent_summaries = get_recent_story_summaries(save_dir, count=5)
+    if recent_summaries:
+        summary_lines = []
+        for s in recent_summaries:
+            summary_lines.append(
+                f"  - [{s['file']}] \"{s['title']}\": {s['summary']}"
+            )
+        recent_block = (
+            "RECENT STORIES (last 5 — the new story must be COMPLETELY DIFFERENT):\n"
+            + "\n".join(summary_lines)
+        )
+    else:
+        recent_block = "RECENT STORIES: none (first story)."
+
+    # ── Fresh character names ─────────────────────────────────────────────
+    characters = pick_fresh_characters(recent_summaries)
+    char_block = (
+        f"REQUIRED CHARACTERS for this story:\n"
+        f"  - Protagonist: {characters['protagonist']}\n"
+        f"  - Secondary character: {characters['secondary']}\n"
+        f"These names MUST appear in the story. Do NOT use any name from the recent stories above."
+    )
 
     prompt = f"""You are a Goethe/Telc exam expert. Generate a {level.upper()} level German video story.
 
@@ -314,6 +413,14 @@ STRICT RULES:
 - VOCAB NOUNS: Every noun MUST have its article: "das Haus", "der Mann", "die Frau"
 - QUESTIONS: 8-10 multiple choice, at least half testing specific data
 - IMAGE PROMPTS: Exactly {cfg['scenes']} English Stable Diffusion prompts
+
+CHARACTER & DIVERSITY RULES:
+{char_block}
+- The story setting, plot, and all character names must be ENTIRELY NEW — no overlap with recent stories.
+- Use characters from varied cultural, professional, and age backgrounds.
+- Never reuse names like Anna, Thomas, Lukas, Sophie or any name from the RECENT STORIES list.
+
+{recent_block}
 
 CRITICAL JSON RULES — violations will cause a crash:
 1. Output ONLY raw JSON — no markdown, no backticks, no text before or after the JSON

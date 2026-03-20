@@ -5,31 +5,17 @@ import re
 import requests
 import time
 import textwrap
-from gtts import gTTS
 import asyncio
-import edge_tts
 import random
 
-DE_VOICES = [
-    "de-DE-AmalaNeural",
-    "de-DE-ConradNeural",
-    "de-DE-FlorianMultilingualNeural",
-    "de-DE-KatjaNeural",
-    "de-DE-KillianNeural",
-    "de-DE-SeraphinaMultilingualNeural",
-]
-import random
-
-DE_VOICES = [
-    "de-DE-AmalaNeural",
-    "de-DE-ConradNeural",
-    "de-DE-FlorianMultilingualNeural",
-    "de-DE-KatjaNeural",
-    "de-DE-KillianNeural",
-    "de-DE-SeraphinaMultilingualNeural",
-]
 from PIL import Image, ImageDraw, ImageFont
 from typing import Optional
+
+try:
+    import edge_tts
+except ImportError:
+    print("❌ edge_tts bulunamadı. Kurmak için: pip install edge-tts")
+    sys.exit(1)
 
 try:
     from moviepy import (
@@ -48,9 +34,85 @@ PROJECT_DIR = os.path.dirname(os.path.dirname(SCRIPTS_DIR))
 ENTRANCE_VIDEO = os.path.join(PROJECT_DIR, "video", "enterence.mp4")
 CLOSE_VIDEO    = os.path.join(PROJECT_DIR, "video", "close.mp4")
 
+SOURCE_TRACKER_PATH = os.path.join(TEMP_DIR, ".last_image_source")
+VOICE_TRACKER_PATH  = os.path.join(TEMP_DIR, ".last_tts_voice")
+
 VIDEO_W = 1920
 VIDEO_H = 1080
 FPS     = 24
+
+IMAGE_SOURCES = ["pollinations", "unsplash", "picsum", "lexica"]
+
+DE_VOICES_FEMALE = [
+    "de-DE-AmalaNeural",
+    "de-DE-KatjaNeural",
+    "de-DE-SeraphinaMultilingualNeural",
+]
+DE_VOICES_MALE = [
+    "de-DE-ConradNeural",
+    "de-DE-FlorianMultilingualNeural",
+    "de-DE-KillianNeural",
+]
+DE_VOICES_ALL = DE_VOICES_FEMALE + DE_VOICES_MALE
+
+
+def get_next_voice() -> str:
+    """
+    Alternates gender each story, never repeats the exact same voice consecutively.
+    """
+    os.makedirs(TEMP_DIR, exist_ok=True)
+
+    last_voice = None
+    if os.path.exists(VOICE_TRACKER_PATH):
+        try:
+            with open(VOICE_TRACKER_PATH, "r") as f:
+                last_voice = f.read().strip()
+        except Exception:
+            pass
+
+    if last_voice in DE_VOICES_FEMALE:
+        candidates = [v for v in DE_VOICES_MALE if v != last_voice] or DE_VOICES_MALE
+    elif last_voice in DE_VOICES_MALE:
+        candidates = [v for v in DE_VOICES_FEMALE if v != last_voice] or DE_VOICES_FEMALE
+    else:
+        candidates = [v for v in DE_VOICES_ALL if v != last_voice] or DE_VOICES_ALL
+
+    chosen = random.choice(candidates)
+
+    try:
+        with open(VOICE_TRACKER_PATH, "w") as f:
+            f.write(chosen)
+    except Exception:
+        pass
+
+    gender = "Kadın" if chosen in DE_VOICES_FEMALE else "Erkek"
+    print(f"🎙️  Ses: {chosen}  [{gender}]  (önceki: {last_voice or 'yok'})")
+    return chosen
+
+
+def get_next_image_source() -> str:
+    """Never repeats the same image source consecutively."""
+    os.makedirs(TEMP_DIR, exist_ok=True)
+
+    last_source = None
+    if os.path.exists(SOURCE_TRACKER_PATH):
+        try:
+            with open(SOURCE_TRACKER_PATH, "r") as f:
+                last_source = f.read().strip()
+        except Exception:
+            pass
+
+    available = [s for s in IMAGE_SOURCES if s != last_source]
+    chosen = random.choice(available)
+
+    try:
+        with open(SOURCE_TRACKER_PATH, "w") as f:
+            f.write(chosen)
+    except Exception:
+        pass
+
+    print(f"🖼️  Resim kaynağı: {chosen}  (önceki: {last_source or 'yok'})")
+    return chosen
 
 
 def cleanup_old_files(directory, days=3):
@@ -63,7 +125,7 @@ def cleanup_old_files(directory, days=3):
         if os.path.isfile(fp) and os.path.getmtime(fp) < cutoff:
             try:
                 os.remove(fp)
-            except:
+            except Exception:
                 pass
 
 
@@ -74,33 +136,37 @@ def clean_text_for_tts(text):
     return re.sub(r'\s+', ' ', text).strip()
 
 
-# Her hikaye icin bir kaynak sec (hikaye basinda belirlenir)
-IMAGE_SOURCE = None  # create_storybook tarafindan set edilir
+async def _synthesize(text: str, voice: str, output_path: str):
+    communicate = edge_tts.Communicate(text, voice)
+    await communicate.save(output_path)
 
-def download_image(prompt, path, index):
-    global IMAGE_SOURCE
+
+def tts_generate(text: str, voice: str, output_path: str):
+    asyncio.run(_synthesize(text, voice, output_path))
+
+
+def download_image(prompt, path, index, source):
     headers = {'User-Agent': 'Mozilla/5.0'}
     clean = re.sub(r'[^a-zA-Z0-9\s,]', '', prompt)[:200]
     clean_encoded = requests.utils.quote(clean)
     seed = int(time.time()) + index
 
-    sources = {
+    source_urls = {
         "pollinations": f"https://pollinations.ai/p/{clean_encoded}?width={VIDEO_W}&height={VIDEO_H}&nologo=true&seed={seed}",
         "unsplash":     f"https://source.unsplash.com/{VIDEO_W}x{VIDEO_H}/?{clean_encoded}&sig={seed}",
-        "picsum":       f"https://picsum.photos/seed/{seed+index}/{VIDEO_W}/{VIDEO_H}",
-        "pixabay":      f"https://pixabay.com/get/g{seed}.jpg",  # fallback olarak kullanilir
+        "picsum":       f"https://picsum.photos/seed/{seed + index}/{VIDEO_W}/{VIDEO_H}",
+        "lexica":       f"https://image.pollinations.ai/prompt/{clean_encoded}?width={VIDEO_W}&height={VIDEO_H}&nologo=true&seed={seed + 9999}&model=flux",
     }
 
-    source = IMAGE_SOURCE or "pollinations"
-    url = sources.get(source, sources["pollinations"])
+    url = source_urls.get(source, source_urls["picsum"])
 
     try:
         r = requests.get(url, headers=headers, timeout=30)
         if r.status_code == 200 and len(r.content) > 10000:
             with open(path, 'wb') as f:
                 f.write(r.content)
-    except:
-        pass
+    except Exception as e:
+        print(f"  ⚠️ {source} indirme hatası (sahne {index}): {e}")
 
     if os.path.exists(path):
         try:
@@ -115,17 +181,19 @@ def download_image(prompt, path, index):
                 img = img.crop((x1, y1, x1 + VIDEO_W, y1 + VIDEO_H))
                 img.save(path, "JPEG", quality=95)
             return True
-        except:
-            pass
+        except Exception as e:
+            print(f"  ⚠️ Görsel işleme hatası: {e}")
 
     try:
         r = requests.get(f"https://picsum.photos/seed/{index}/{VIDEO_W}/{VIDEO_H}", timeout=15)
         if r.status_code == 200:
             with open(path, 'wb') as f:
                 f.write(r.content)
+            print(f"  ℹ️ Picsum yedek kullanıldı (sahne {index})")
             return True
-    except:
+    except Exception:
         pass
+
     return False
 
 
@@ -139,13 +207,12 @@ def get_font(size):
         if os.path.exists(p):
             try:
                 return ImageFont.truetype(p, size)
-            except:
+            except Exception:
                 pass
     return ImageFont.load_default()
 
 
 def make_subtitle_image(text, img_path, out_path):
-    """PIL ile altyazi eklenmiş görsel üret."""
     img = Image.open(img_path).convert('RGB')
     font = get_font(44)
     margin = 60
@@ -200,9 +267,9 @@ def load_bookend(path, label):
 
 
 def create_storybook(json_path, level=None):
-    global IMAGE_SOURCE
-    IMAGE_SOURCE = random.choice(["pollinations", "pollinations", "unsplash", "picsum"])
-    print(f"🖼️  Resim kaynağı: {IMAGE_SOURCE}")
+    voice        = get_next_voice()
+    image_source = get_next_image_source()
+
     cleanup_old_files(TEMP_DIR)
 
     with open(json_path, 'r', encoding='utf-8') as f:
@@ -215,7 +282,7 @@ def create_storybook(json_path, level=None):
     prefix        = f"{level}-" if level else ""
     output_path   = os.path.join(TEMP_DIR, f"{prefix}{story_id}.mp4")
 
-    print(f"ℹ️ {len(paragraphs)} sahne | MoviePy | {VIDEO_W}x{VIDEO_H}@{FPS}fps")
+    print(f"ℹ️ {len(paragraphs)} sahne | Edge TTS: {voice} | {VIDEO_W}x{VIDEO_H}@{FPS}fps")
 
     scenes = []
 
@@ -228,23 +295,19 @@ def create_storybook(json_path, level=None):
         raw_img_path = os.path.join(TEMP_DIR, f"{story_id}_{i}_raw.jpg")
         sub_img_path = os.path.join(TEMP_DIR, f"{story_id}_{i}_sub.png")
 
-        # TTS
         clean = clean_text_for_tts(para)
-        gTTS(text=clean, lang='de').save(audio_path)
+        tts_generate(clean, voice, audio_path)
         audio = AudioFileClip(audio_path)
 
-        # Gorsel
         prompt = image_prompts[i] if i < len(image_prompts) else para
-        download_image(prompt, raw_img_path, i)
+        download_image(prompt, raw_img_path, i, image_source)
         make_subtitle_image(clean, raw_img_path, sub_img_path)
 
-        # ImageClip — ses suresi kadar
         duration = audio.duration
         img_clip = ImageClip(sub_img_path)
         img_clip = set_attr(img_clip, 'duration', duration)
         img_clip = set_attr(img_clip, 'fps', FPS)
 
-        # Boyut kontrolu
         if hasattr(img_clip, 'size') and list(img_clip.size) != [VIDEO_W, VIDEO_H]:
             scale = max(VIDEO_W / img_clip.w, VIDEO_H / img_clip.h)
             img_clip = img_clip.resized(scale)
@@ -252,7 +315,6 @@ def create_storybook(json_path, level=None):
             y1 = (img_clip.h - VIDEO_H) // 2
             img_clip = img_clip.cropped(x1=x1, y1=y1, x2=x1+VIDEO_W, y2=y1+VIDEO_H)
 
-        # Ses ve goruntüyü birleştir
         scene = set_attr(img_clip, 'audio', audio)
         scenes.append(scene)
 
@@ -260,10 +322,8 @@ def create_storybook(json_path, level=None):
         print("❌ Sahne oluşturulamadı.")
         return
 
-    # Hikaye bölümü — tüm sahneler art arda
     story_part = concatenate_videoclips(scenes, method="chain")
 
-    # Giriş / kapanış
     entrance = load_bookend(ENTRANCE_VIDEO, "Giriş")
     close    = load_bookend(CLOSE_VIDEO,    "Kapanış")
 
@@ -283,8 +343,8 @@ def create_storybook(json_path, level=None):
         codec="libx264",
         audio_codec="aac",
         audio_fps=44100,
-        threads=4,          # CPU çekirdek kullan
-        preset="ultrafast", # Hız öncelikli
+        threads=4,
+        preset="ultrafast",
         logger=None,
     )
     print(f"✨ Tamamlandı: {output_path}")

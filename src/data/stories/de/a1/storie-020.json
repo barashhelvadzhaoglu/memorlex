@@ -1,0 +1,246 @@
+{
+  "id": "storie-020",
+  "lang": "de",
+  "level": "a1",
+  "youtubeId": "ZdxwqjRdC2k",
+  "title": "Meis neue Arbeit und die Sonne",
+  "summary": "Mei lernt Fatima bei der Arbeit kennen. Sie sprechen ueber Solarenergie fuer neue Haeuser und Freizeit.",
+  "hashtags": [],
+  "text": [
+    "Heute ist der 20. Maerz 2026. Mei kauft eine Fahrkarte am Fahrkartenautomat fuer 5,20 Euro.",
+    "Sie trifft Fatima um 09:00 Uhr am Gleis 4. Fatima arbeitet als Architektin fuer Neubauten.",
+    "Fatima erklaert die Solarpflicht in Deutschland. Jedes neue Dach braucht eine Solaranlage fuer die Umwelt.",
+    "Mei fragt nach der Work-Life-Balance. Fatima sagt, dass Erholung nach der Arbeit sehr wichtig ist.",
+    "Sie gehen zum Imbiss und kaufen Mittagessen. Die Quittung kostet 12,50 Euro fuer zwei Personen.",
+    "Um 17:00 Uhr endet der Arbeitstag. Mei moechte keine Ueberstunden machen und geht in den Park.",
+    "Sie kauft eine Flasche Wasser und bekommt 0,25 Euro Pfand zurueck. Der Stadtplan hilft Mei beim Weg."
+  ],
+  "image_prompts": [
+    "realistic photo, Mei at a German train station using a red ticket machine, morning light, cinematic lighting",
+    "realistic photo, Mei and Fatima meeting at platform 4, digital clock showing 09:00, modern station",
+    "realistic photo, a modern house roof with many shiny solar panels, blue sky, eco-friendly architecture",
+    "realistic photo, Mei and Fatima sitting in a bright office, talking about balance, relaxing atmosphere",
+    "realistic photo, a small German street food stand, a hand holding a white paper receipt for 12.50 Euro",
+    "realistic photo, a clock showing 5:00 PM in a modern German office, employees leaving happily",
+    "realistic photo, a hand putting a plastic bottle into a recycling machine, showing 0.25 Euro Pfand"
+  ],
+  "vocab": [
+    {
+      "term": "der Fahrkartenautomat",
+      "type": "Nomen",
+      "meaning_tr": "bilet makinasi",
+      "meaning_en": "ticket machine",
+      "meaning_es": "máquina de billetes",
+      "meaning_uk": "avtomat dlia kvytkiv",
+      "example": "Der Fahrkartenautomat ist kaputt."
+    },
+    {
+      "term": "die Quittung",
+      "type": "Nomen",
+      "meaning_tr": "fis",
+      "meaning_en": "receipt",
+      "meaning_es": "recibo",
+      "meaning_uk": "kvytantsiia",
+      "example": "Ich brauche die Quittung fuer das Amt."
+    },
+    {
+      "term": "das Pfand",
+      "type": "Nomen",
+      "meaning_tr": "depozito",
+      "meaning_en": "deposit",
+      "meaning_es": "depósito",
+      "meaning_uk": "zastava",
+      "example": "Die Flasche hat 0,25 Euro Pfand."
+    },
+    {
+      "term": "die Warteschlange",
+      "type": "Nomen",
+      "meaning_tr": "sira",
+      "meaning_en": "waiting line",
+      "meaning_es": "cola de espera",
+      "meaning_uk": "cherha",
+      "example": "Die Warteschlange am Schalter ist lang."
+    },
+    {
+      "term": "die Ueberstunden",
+      "type": "Plural",
+      "meaning_tr": "fazla mesai",
+      "meaning_en": "overtime",
+      "meaning_es": "horas extras",
+      "meaning_uk": "ponadnormovi hodyny",
+      "example": "Mei macht heute keine Ueberstunden."
+    },
+    {
+      "term": "die Erholung",
+      "type": "Nomen",
+      "meaning_tr": "dinlenme",
+      "meaning_en": "recovery/rest",
+      "meaning_es": "recuperación",
+      "meaning_uk": "vidpochynok",
+      "example": "Erholung ist gut fuer die Gesundheit."
+    },
+    {
+      "term": "die Solaranlage",
+      "type": "Nomen",
+      "meaning_tr": "gunes enerjisi sistemi",
+      "meaning_en": "solar system",
+      "meaning_es": "sistema solar",
+      "meaning_uk": "soniachna ustanovka",
+      "example": "Die Solaranlage auf dem Dach spart Geld."
+    },
+    {
+      "term": "der Neubau",
+      "type": "Nomen",
+      "meaning_tr": "yeni bina",
+      "meaning_en": "new building",
+      "meaning_es": "edificio nuevo",
+      "meaning_uk": "novobudova",
+      "example": "Der Neubau hat viele Fenster."
+    },
+    {
+      "term": "das Dach",
+      "type": "Nomen",
+      "meaning_tr": "cati",
+      "meaning_en": "roof",
+      "meaning_es": "techo",
+      "meaning_uk": "dakh",
+      "example": "Das Dach ist sehr gross."
+    },
+    {
+      "term": "der Arbeitstag",
+      "type": "Nomen",
+      "meaning_tr": "is gunu",
+      "meaning_en": "workday",
+      "meaning_es": "día laborable",
+      "meaning_uk": "robochyi den",
+      "example": "Mein Arbeitstag beginnt um acht Uhr."
+    },
+    {
+      "term": "die Umwelt",
+      "type": "Nomen",
+      "meaning_tr": "cevre",
+      "meaning_en": "environment",
+      "meaning_es": "medio ambiente",
+      "meaning_uk": "dovkillia",
+      "example": "Wir schuetzen die Umwelt."
+    },
+    {
+      "term": "der Park",
+      "type": "Nomen",
+      "meaning_tr": "park",
+      "meaning_en": "park",
+      "meaning_es": "parque",
+      "meaning_uk": "park",
+      "example": "Der Park ist schoen."
+    },
+    {
+      "term": "der Stadtplan",
+      "type": "Nomen",
+      "meaning_tr": "sehir haritasi",
+      "meaning_en": "city map",
+      "meaning_es": "mapa de la ciudad",
+      "meaning_uk": "karta mista",
+      "example": "Wo ist mein Stadtplan?"
+    },
+    {
+      "term": "das Mittagessen",
+      "type": "Nomen",
+      "meaning_tr": "ogle yemegi",
+      "meaning_en": "lunch",
+      "meaning_es": "almuerzo",
+      "meaning_uk": "obid",
+      "example": "Das Mittagessen schmeckt gut."
+    },
+    {
+      "term": "die Fahrkarte",
+      "type": "Nomen",
+      "meaning_tr": "bilet",
+      "meaning_en": "ticket",
+      "meaning_es": "billete",
+      "meaning_uk": "kvytok",
+      "example": "Haben Sie eine Fahrkarte?"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Wie viel kostet die Fahrkarte?",
+      "options": [
+        "A) 12,50 Euro",
+        "B) 5,20 Euro",
+        "C) 0,25 Euro",
+        "D) 9,00 Euro"
+      ],
+      "answer": "B) 5,20 Euro"
+    },
+    {
+      "question": "Wann treffen Mei und Fatima sich?",
+      "options": [
+        "A) Um 17:00 Uhr",
+        "B) Um 08:00 Uhr",
+        "C) Um 09:00 Uhr",
+        "D) Um 12:00 Uhr"
+      ],
+      "answer": "C) Um 09:00 Uhr"
+    },
+    {
+      "question": "An welchem Gleis ist das Treffen?",
+      "options": [
+        "A) Gleis 1",
+        "B) Gleis 7",
+        "C) Gleis 4",
+        "D) Gleis 3"
+      ],
+      "answer": "C) Gleis 4"
+    },
+    {
+      "question": "Was braucht jedes neue Dach?",
+      "options": [
+        "A) Einen Imbiss",
+        "B) Eine Solaranlage",
+        "C) Einen Stadtplan",
+        "D) Pfand"
+      ],
+      "answer": "B) Eine Solaranlage"
+    },
+    {
+      "question": "Wie viel kostet das Mittagessen?",
+      "options": [
+        "A) 5,20 Euro",
+        "B) 0,25 Euro",
+        "C) 12,50 Euro",
+        "D) 20,00 Euro"
+      ],
+      "answer": "C) 12,50 Euro"
+    },
+    {
+      "question": "Wann endet der Arbeitstag?",
+      "options": [
+        "A) Um 09:00 Uhr",
+        "B) Um 17:00 Uhr",
+        "C) Um 20:00 Uhr",
+        "D) Um 15:00 Uhr"
+      ],
+      "answer": "B) Um 17:00 Uhr"
+    },
+    {
+      "question": "Wie viel Pfand bekommt Mei zurueck?",
+      "options": [
+        "A) 0,25 Euro",
+        "B) 1,00 Euro",
+        "C) 5,20 Euro",
+        "D) 12,50 Euro"
+      ],
+      "answer": "A) 0,25 Euro"
+    },
+    {
+      "question": "Moechte Mei heute Ueberstunden machen?",
+      "options": [
+        "A) Ja, sehr viele",
+        "B) Nein",
+        "C) Vielleicht",
+        "D) Sie weiss es nicht"
+      ],
+      "answer": "B) Nein"
+    }
+  ]
+}

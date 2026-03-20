@@ -1,0 +1,54 @@
+{
+  "id": "storie-021",
+  "lang": "de",
+  "level": "a1",
+  "youtubeId": "",
+  "title": "Takashi und das Studium",
+  "summary": "Takashi macht ein duales Studium in Muenchen. Er besucht Ayse am Max-Planck-Institut und lernt Quantencomputing.",
+  "hashtags": [],
+  "text": [
+    "Heute ist der 20. Maerz 2026. Takashi nutzt den Fahrkartenautomat und kauft ein Ticket fuer 11,50 Euro.",
+    "Er faehrt um 08:45 Uhr von Gleis 11 los. Takashi macht ein duales Studium mit viel Praxis.",
+    "Takashi trifft Ayse am Max-Planck-Institut. Sie arbeiten dort an einem Quantencomputer.",
+    "Ayse zeigt Takashi die Labore. Theorie und Arbeit sind hier kombiniert.",
+    "In der Kantine bezahlen sie das Essen. Takashi bekommt 2,30 Euro Rueckgeld und eine Quittung.",
+    "Takashi sucht seine Unterkunft in Muenchen. Er nutzt einen Stadtplan fuer den Weg.",
+    "Um 18:00 Uhr schliesst das Institut. Takashi liest die Oeffnungszeit an der Tuer."
+  ],
+  "image_prompts": [
+    "realistic photo, a young man using a red German ticket machine at a train station, morning sun",
+    "realistic photo, a modern German train station with a large digital clock showing 08:45, platform 11",
+    "realistic photo, Takashi and Ayse standing in front of the Max Planck Institute sign in Munich",
+    "realistic photo, a futuristic quantum computer with blue cables and gold parts in a clean laboratory",
+    "realistic photo, a close up of a hand receiving 2.30 Euro coins and a paper receipt at a checkout",
+    "realistic photo, Takashi holding a large paper city map of Munich on a busy street corner",
+    "realistic photo, a glass door of a modern office building with opening hours printed in white text"
+  ],
+  "vocab": [
+    {"term": "das duale Studium", "type": "Nomen", "meaning_tr": "is esli ders sistemi", "meaning_en": "dual study program", "meaning_es": "estudio dual", "meaning_uk": "dualna osvita", "example": "Das duale Studium bietet viel Praxis."},
+    {"term": "die Praxis", "type": "Nomen", "meaning_tr": "uygulama", "meaning_en": "practice", "meaning_es": "práctica", "meaning_uk": "praktyka", "example": "Ich lerne viel in der Praxis."},
+    {"term": "die Theorie", "type": "Nomen", "meaning_tr": "teori", "meaning_en": "theory", "meaning_es": "teoría", "meaning_uk": "teoriia", "example": "Die Theorie ist manchmal schwer."},
+    {"term": "der Quantencomputer", "type": "Nomen", "meaning_tr": "kuantum bilgisayari", "meaning_en": "quantum computer", "meaning_es": "ordenador cuántico", "meaning_uk": "kvantovyi kompiuter", "example": "Der Quantencomputer ist sehr schnell."},
+    {"term": "das Institut", "type": "Nomen", "meaning_tr": "enstitu", "meaning_en": "institute", "meaning_es": "instituto", "meaning_uk": "instytut", "example": "Das Institut liegt in Muenchen."},
+    {"term": "das Labor", "type": "Nomen", "meaning_tr": "laboratuvar", "meaning_en": "laboratory", "meaning_es": "laboratorio", "meaning_uk": "laboratoriia", "example": "Wir arbeiten heute im Labor."},
+    {"term": "die Kantine", "type": "Nomen", "meaning_tr": "yemekhane", "meaning_en": "canteen", "meaning_es": "comedor", "meaning_uk": "yidalnia", "example": "Das Essen in der Kantine ist billig."},
+    {"term": "das Rueckgeld", "type": "Nomen", "meaning_tr": "para ustu", "meaning_en": "change", "meaning_es": "cambio", "meaning_uk": "reshta", "example": "Hier ist Ihr Rueckgeld."},
+    {"term": "die Quittung", "type": "Nomen", "meaning_tr": "fis", "meaning_en": "receipt", "meaning_es": "recibo", "meaning_uk": "kvytantsiia", "example": "Ich brauche eine Quittung."},
+    {"term": "die Unterkunft", "type": "Nomen", "meaning_tr": "konaklama", "meaning_en": "accommodation", "meaning_es": "alojamiento", "meaning_uk": "prozhyvannia", "example": "Die Unterkunft ist sehr teuer."},
+    {"term": "der Stadtplan", "type": "Nomen", "meaning_tr": "sehir haritasi", "meaning_en": "city map", "meaning_es": "mapa de la ciudad", "meaning_uk": "karta mista", "example": "Der Stadtplan hilft mir."},
+    {"term": "die Oeffnungszeit", "type": "Nomen", "meaning_tr": "acilis saati", "meaning_en": "opening hour", "meaning_es": "horario de apertura", "meaning_uk": "hodyny roboty", "example": "Die Oeffnungszeit steht an der Tuer."},
+    {"term": "die Fahrkarte", "type": "Nomen", "meaning_tr": "bilet", "meaning_en": "ticket", "meaning_es": "billete", "meaning_uk": "kvytok", "example": "Haben Sie eine Fahrkarte?"},
+    {"term": "der Fahrkartenautomat", "type": "Nomen", "meaning_tr": "bilet makinasi", "meaning_en": "ticket machine", "meaning_es": "máquina de billetes", "meaning_uk": "avtomat dlia kvytkiv", "example": "Der Fahrkartenautomat ist dort."},
+    {"term": "das Gleis", "type": "Nomen", "meaning_tr": "peron", "meaning_en": "platform", "meaning_es": "andén", "meaning_uk": "koliia", "example": "Der Zug faehrt von Gleis elf."}
+  ],
+  "questions": [
+    {"question": "Wie viel kostet die Fahrkarte?", "options": ["A) 5,00 Euro", "B) 11,50 Euro", "C) 2,30 Euro", "D) 18,00 Euro"], "answer": "B) 11,50 Euro"},
+    {"question": "Wann faehrt Takashi los?", "options": ["A) 08:45 Uhr", "B) 09:00 Uhr", "C) 18:00 Uhr", "D) 10:30 Uhr"], "answer": "A) 08:45 Uhr"},
+    {"question": "An welchem Gleis faehrt der Zug?", "options": ["A) Gleis 1", "B) Gleis 4", "C) Gleis 11", "D) Gleis 2"], "answer": "C) Gleis 11"},
+    {"question": "Wo arbeitet Ayse?", "options": ["A) Am Bahnhof", "B) Im Supermarkt", "C) Am Max-Planck-Institut", "D) In der Schule"], "answer": "C) Am Max-Planck-Institut"},
+    {"question": "Was zeigt Ayse Takashi?", "options": ["A) Ein Auto", "B) Die Labore", "C) Ein Zelt", "D) Einen Hund"], "answer": "B) Die Labore"},
+    {"question": "Wie viel Rueckgeld bekommt Takashi?", "options": ["A) 11,50 Euro", "B) 0,50 Euro", "C) 2,30 Euro", "D) Kein Geld"], "answer": "C) 2,30 Euro"},
+    {"question": "Was nutzt Takashi fuer den Weg?", "options": ["A) Ein Fahrrad", "B) Einen Stadtplan", "C) Eine Quittung", "D) Ein Buch"], "answer": "B) Einen Stadtplan"},
+    {"question": "Wann schliesst das Institut?", "options": ["A) 08:45 Uhr", "B) 12:00 Uhr", "C) 18:00 Uhr", "D) 20:00 Uhr"], "answer": "C) 18:00 Uhr"}
+  ]
+}
