@@ -2,7 +2,7 @@
   "id": "storie-013",
   "lang": "de",
   "level": "b2",
-  "youtubeId": "",
+  "youtubeId": "8wMzoWRemvw",
   "title": "Solarpflicht und Seelenheil: Bogdans Dilemma",
   "summary": "Bogdan und Olena analysieren die soziopsychologischen Auswirkungen der neuen Solarpflicht auf die deutsche Arbeitskultur. Sie eroertern, wie Nachhaltigkeit und die Akkumulation von Stress in einem modernen Metier koexistieren koennen.",
   "hashtags": [],
@@ -59,30 +59,222 @@
     "realistic photo, a sunset over Munich city, solar panels reflecting the golden light"
   ],
   "vocab": [
-    {"term": "der Paradigmenwechsel", "type": "Nomen", "meaning_tr": "paradigma degisimi", "meaning_en": "paradigm shift", "meaning_es": "cambio de paradigma", "meaning_uk": "zmina paradyhmy", "example": "Wir brauchen einen Paradigmenwechsel in der Energiepolitik."},
-    {"term": "die Resilienz", "type": "Nomen", "meaning_tr": "dayaniklilik", "meaning_en": "resilience", "meaning_es": "resiliencia", "meaning_uk": "stiykist", "example": "Die psychische Resilienz ist wichtig fuer die Arbeit."},
-    {"term": "die Implementierung", "type": "Nomen", "meaning_tr": "uygulama", "meaning_en": "implementation", "meaning_es": "implementación", "meaning_uk": "vprovadzhennia", "example": "Die Implementierung der neuen Regeln dauert Jahre."},
-    {"term": "die Amortisationszeit", "type": "Nomen", "meaning_tr": "amortisman suresi", "meaning_en": "payback period", "meaning_es": "periodo de amortización", "meaning_uk": "termin okupnosti", "example": "Die Amortisationszeit der Anlage ist sehr kurz."},
-    {"term": "die Erreichbarkeit", "type": "Nomen", "meaning_tr": "ulasilabilirlik", "meaning_en": "accessibility", "meaning_es": "accesibilidad", "meaning_uk": "dostupnist", "example": "Die staendige Erreichbarkeit fuehrt zu Stress."},
-    {"term": "die Photovoltaikanlage", "type": "Nomen", "meaning_tr": "fotovoltaik sistem", "meaning_en": "photovoltaic system", "meaning_es": "sistema fotovoltaico", "meaning_uk": "fotovoltayichna ustanovka", "example": "Jedes Haus braucht eine Photovoltaikanlage."},
-    {"term": "die Selbstverwirklichung", "type": "Nomen", "meaning_tr": "kendini gerceklestirme", "meaning_en": "self-actualization", "meaning_es": "autorrealización", "meaning_uk": "samorealizatsiia", "example": "Arbeit sollte auch der Selbstverwirklichung dienen."},
-    {"term": "die Entschleunigung", "type": "Nomen", "meaning_tr": "yavaslama", "meaning_en": "deceleration", "meaning_es": "desaceleración", "meaning_uk": "upovilnennia", "example": "Die Entschleunigung des Alltags ist gesund."},
-    {"term": "die Souveraenitaet", "type": "Nomen", "meaning_tr": "egemenlik", "meaning_en": "sovereignty", "meaning_es": "soberanía", "meaning_uk": "suverenitet", "example": "Energieunabhaengigkeit bedeutet Souveraenitaet."},
-    {"term": "die Korrelation", "type": "Nomen", "meaning_tr": "korelasyon", "meaning_en": "correlation", "meaning_es": "correlación", "meaning_uk": "koreliatsiia", "example": "Es gibt eine Korrelation zwischen Laerm und Stress."},
-    {"term": "die Mitarbeiterbindung", "type": "Nomen", "meaning_tr": "calisan bagliligi", "meaning_en": "employee retention", "meaning_es": "fidelización de empleados", "meaning_uk": "utrymannia pratsivnykiv", "example": "Gute Work-Life-Balance foerdert die Mitarbeiterbindung."},
-    {"term": "die Rahmenbedingung", "type": "Nomen", "meaning_tr": "cerceve kosul", "meaning_en": "framework condition", "meaning_es": "condición marco", "meaning_uk": "ramkova umova", "example": "Die Politik muss die Rahmenbedingungen festlegen."},
-    {"term": "die Klimaneutralitaet", "type": "Nomen", "meaning_tr": "iklim notrlugu", "meaning_en": "climate neutrality", "meaning_es": "neutralidad climática", "meaning_uk": "klimatychna neytralnist", "example": "Das Ziel ist die Klimaneutralitaet bis 2045."},
-    {"term": "das Dekret", "type": "Nomen", "meaning_tr": "kararname", "meaning_en": "decree", "meaning_es": "decreto", "meaning_uk": "dekret", "example": "Das Dekret der Regierung wurde scharf kritisiert."},
-    {"term": "die Kommerzialisierung", "type": "Nomen", "meaning_tr": "ticarilesme", "meaning_en": "commercialization", "meaning_es": "comercialización", "meaning_uk": "komertsializatsiia", "example": "Die Kommerzialisierung des Sports schreitet voran."}
+    {
+      "term": "der Paradigmenwechsel",
+      "type": "Nomen",
+      "meaning_tr": "paradigma degisimi",
+      "meaning_en": "paradigm shift",
+      "meaning_es": "cambio de paradigma",
+      "meaning_uk": "zmina paradyhmy",
+      "example": "Wir brauchen einen Paradigmenwechsel in der Energiepolitik."
+    },
+    {
+      "term": "die Resilienz",
+      "type": "Nomen",
+      "meaning_tr": "dayaniklilik",
+      "meaning_en": "resilience",
+      "meaning_es": "resiliencia",
+      "meaning_uk": "stiykist",
+      "example": "Die psychische Resilienz ist wichtig fuer die Arbeit."
+    },
+    {
+      "term": "die Implementierung",
+      "type": "Nomen",
+      "meaning_tr": "uygulama",
+      "meaning_en": "implementation",
+      "meaning_es": "implementación",
+      "meaning_uk": "vprovadzhennia",
+      "example": "Die Implementierung der neuen Regeln dauert Jahre."
+    },
+    {
+      "term": "die Amortisationszeit",
+      "type": "Nomen",
+      "meaning_tr": "amortisman suresi",
+      "meaning_en": "payback period",
+      "meaning_es": "periodo de amortización",
+      "meaning_uk": "termin okupnosti",
+      "example": "Die Amortisationszeit der Anlage ist sehr kurz."
+    },
+    {
+      "term": "die Erreichbarkeit",
+      "type": "Nomen",
+      "meaning_tr": "ulasilabilirlik",
+      "meaning_en": "accessibility",
+      "meaning_es": "accesibilidad",
+      "meaning_uk": "dostupnist",
+      "example": "Die staendige Erreichbarkeit fuehrt zu Stress."
+    },
+    {
+      "term": "die Photovoltaikanlage",
+      "type": "Nomen",
+      "meaning_tr": "fotovoltaik sistem",
+      "meaning_en": "photovoltaic system",
+      "meaning_es": "sistema fotovoltaico",
+      "meaning_uk": "fotovoltayichna ustanovka",
+      "example": "Jedes Haus braucht eine Photovoltaikanlage."
+    },
+    {
+      "term": "die Selbstverwirklichung",
+      "type": "Nomen",
+      "meaning_tr": "kendini gerceklestirme",
+      "meaning_en": "self-actualization",
+      "meaning_es": "autorrealización",
+      "meaning_uk": "samorealizatsiia",
+      "example": "Arbeit sollte auch der Selbstverwirklichung dienen."
+    },
+    {
+      "term": "die Entschleunigung",
+      "type": "Nomen",
+      "meaning_tr": "yavaslama",
+      "meaning_en": "deceleration",
+      "meaning_es": "desaceleración",
+      "meaning_uk": "upovilnennia",
+      "example": "Die Entschleunigung des Alltags ist gesund."
+    },
+    {
+      "term": "die Souveraenitaet",
+      "type": "Nomen",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_es": "soberanía",
+      "meaning_uk": "suverenitet",
+      "example": "Energieunabhaengigkeit bedeutet Souveraenitaet."
+    },
+    {
+      "term": "die Korrelation",
+      "type": "Nomen",
+      "meaning_tr": "korelasyon",
+      "meaning_en": "correlation",
+      "meaning_es": "correlación",
+      "meaning_uk": "koreliatsiia",
+      "example": "Es gibt eine Korrelation zwischen Laerm und Stress."
+    },
+    {
+      "term": "die Mitarbeiterbindung",
+      "type": "Nomen",
+      "meaning_tr": "calisan bagliligi",
+      "meaning_en": "employee retention",
+      "meaning_es": "fidelización de empleados",
+      "meaning_uk": "utrymannia pratsivnykiv",
+      "example": "Gute Work-Life-Balance foerdert die Mitarbeiterbindung."
+    },
+    {
+      "term": "die Rahmenbedingung",
+      "type": "Nomen",
+      "meaning_tr": "cerceve kosul",
+      "meaning_en": "framework condition",
+      "meaning_es": "condición marco",
+      "meaning_uk": "ramkova umova",
+      "example": "Die Politik muss die Rahmenbedingungen festlegen."
+    },
+    {
+      "term": "die Klimaneutralitaet",
+      "type": "Nomen",
+      "meaning_tr": "iklim notrlugu",
+      "meaning_en": "climate neutrality",
+      "meaning_es": "neutralidad climática",
+      "meaning_uk": "klimatychna neytralnist",
+      "example": "Das Ziel ist die Klimaneutralitaet bis 2045."
+    },
+    {
+      "term": "das Dekret",
+      "type": "Nomen",
+      "meaning_tr": "kararname",
+      "meaning_en": "decree",
+      "meaning_es": "decreto",
+      "meaning_uk": "dekret",
+      "example": "Das Dekret der Regierung wurde scharf kritisiert."
+    },
+    {
+      "term": "die Kommerzialisierung",
+      "type": "Nomen",
+      "meaning_tr": "ticarilesme",
+      "meaning_en": "commercialization",
+      "meaning_es": "comercialización",
+      "meaning_uk": "komertsializatsiia",
+      "example": "Die Kommerzialisierung des Sports schreitet voran."
+    }
   ],
   "questions": [
-    {"question": "Wie viel hat Bogdans Zugticket nach Muenchen gekostet?", "options": ["A) 189,00 Euro", "B) 142,50 Euro", "C) 15.000 Euro", "D) 4.500 Euro"], "answer": "B) 142,50 Euro"},
-    {"question": "Wann tritt die allgemeine Solarpflicht fuer Neubauten in Kraft?", "options": ["A) Am 15. April", "B) Am 1. Januar 2026", "C) Im Jahr 2030", "D) Ab sofort"], "answer": "B) Am 1. Januar 2026"},
-    {"question": "Wie hoch ist die maximale Subvention fuer private Photovoltaikanlagen laut Olena?", "options": ["A) 15.000 Euro", "B) 3,80 Euro", "C) 4.500 Euro", "D) 9.000 Euro"], "answer": "C) 4.500 Euro"},
-    {"question": "An welchem Gate findet Bogdans Praesentation statt?", "options": ["A) Gate A04", "B) Gate B12", "C) Bahnsteig 4", "D) Gate C20"], "answer": "B) B12"},
-    {"question": "Was kostet Bogdans Hoteluebernachtung in Muenchen?", "options": ["A) 142,50 Euro", "B) 189 Euro", "C) 125 Euro", "D) 45 Euro"], "answer": "B) 189 Euro"},
-    {"question": "Wie lang ist die berechnete Amortisationszeit einer Standard-Solaranlage?", "options": ["A) Fuenf Jahre", "B) Neun Jahre", "C) Zehn Jahre", "D) Fuenfzehn Jahre"], "answer": "B) Neun Jahre"},
-    {"question": "Um wie viel Uhr faehrt der ICE in Berlin ab?", "options": ["A) 14:30 Uhr", "B) 10:45 Uhr", "C) 09:00 Uhr", "D) 12:15 Uhr"], "answer": "B) 10:45 Uhr"},
-    {"question": "Welches psychologische Konzept haelt Bogdan fuer wichtig gegen Stress?", "options": ["A) Akkumulation", "B) Resilienz", "C) Dezentralisierung", "D) Kommerzialisierung"], "answer": "B) Resilienz"}
+    {
+      "question": "Wie viel hat Bogdans Zugticket nach Muenchen gekostet?",
+      "options": [
+        "A) 189,00 Euro",
+        "B) 142,50 Euro",
+        "C) 15.000 Euro",
+        "D) 4.500 Euro"
+      ],
+      "answer": "B) 142,50 Euro"
+    },
+    {
+      "question": "Wann tritt die allgemeine Solarpflicht fuer Neubauten in Kraft?",
+      "options": [
+        "A) Am 15. April",
+        "B) Am 1. Januar 2026",
+        "C) Im Jahr 2030",
+        "D) Ab sofort"
+      ],
+      "answer": "B) Am 1. Januar 2026"
+    },
+    {
+      "question": "Wie hoch ist die maximale Subvention fuer private Photovoltaikanlagen laut Olena?",
+      "options": [
+        "A) 15.000 Euro",
+        "B) 3,80 Euro",
+        "C) 4.500 Euro",
+        "D) 9.000 Euro"
+      ],
+      "answer": "C) 4.500 Euro"
+    },
+    {
+      "question": "An welchem Gate findet Bogdans Praesentation statt?",
+      "options": [
+        "A) Gate A04",
+        "B) Gate B12",
+        "C) Bahnsteig 4",
+        "D) Gate C20"
+      ],
+      "answer": "B) B12"
+    },
+    {
+      "question": "Was kostet Bogdans Hoteluebernachtung in Muenchen?",
+      "options": [
+        "A) 142,50 Euro",
+        "B) 189 Euro",
+        "C) 125 Euro",
+        "D) 45 Euro"
+      ],
+      "answer": "B) 189 Euro"
+    },
+    {
+      "question": "Wie lang ist die berechnete Amortisationszeit einer Standard-Solaranlage?",
+      "options": [
+        "A) Fuenf Jahre",
+        "B) Neun Jahre",
+        "C) Zehn Jahre",
+        "D) Fuenfzehn Jahre"
+      ],
+      "answer": "B) Neun Jahre"
+    },
+    {
+      "question": "Um wie viel Uhr faehrt der ICE in Berlin ab?",
+      "options": [
+        "A) 14:30 Uhr",
+        "B) 10:45 Uhr",
+        "C) 09:00 Uhr",
+        "D) 12:15 Uhr"
+      ],
+      "answer": "B) 10:45 Uhr"
+    },
+    {
+      "question": "Welches psychologische Konzept haelt Bogdan fuer wichtig gegen Stress?",
+      "options": [
+        "A) Akkumulation",
+        "B) Resilienz",
+        "C) Dezentralisierung",
+        "D) Kommerzialisierung"
+      ],
+      "answer": "B) Resilienz"
+    }
   ]
 }
