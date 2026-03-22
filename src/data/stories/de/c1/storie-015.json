@@ -2,7 +2,7 @@
   "id": "storie-015",
   "lang": "de",
   "level": "c1",
-  "youtubeId": "",
+  "youtubeId": "tDGEy1oY4Yo",
   "title": "Industriekultur und Erfindergeist: Eine hermeneutische Reise",
   "summary": "Mei und Svetlana analysieren die dialektische Beziehung zwischen historischer Industriekultur und bahnbrechenden deutschen Innovationen. Die Reise fuehrt von der Hamburger Speicherstadt bis zu den Monumenten des Ruhrgebiets.",
   "hashtags": [],
@@ -71,30 +71,222 @@
     "realistic photo, sunset over the industrial skyline of the Ruhrgebiet, golden hour"
   ],
   "vocab": [
-    {"term": "die Hermeneutik", "type": "Nomen", "meaning_tr": "yorumbilgisi", "meaning_en": "hermeneutics", "meaning_es": "hermenéutica", "meaning_uk": "hermenevtyka", "example": "Die Hermeneutik der Technik hilft uns, Artefakte zu verstehen."},
-    {"term": "die Epistemologie", "type": "Nomen", "meaning_tr": "bilgi kuramı", "meaning_en": "epistemology", "meaning_es": "epistemología", "meaning_uk": "epystemolohiia", "example": "Eine neue Epistemologie ist fuer den oekologischen Wandel notwendig."},
-    {"term": "die Reziprozitaet", "type": "Nomen", "meaning_tr": "karşılıklılık", "meaning_en": "reciprocity", "meaning_es": "reciprocidad", "meaning_uk": "vzaiemnist", "example": "Die Reziprozitaet von Raum und Zeit ist ein Kernpunkt der Physik."},
-    {"term": "der Praezedenzfall", "type": "Nomen", "meaning_tr": "emsal karar", "meaning_en": "precedent", "meaning_es": "precedente", "meaning_uk": "pretsedent", "example": "Diese Erfindung schuf einen Praezedenzfall fuer die Industrie."},
-    {"term": "die Teleologie", "type": "Nomen", "meaning_tr": "erekbilim", "meaning_en": "teleology", "meaning_es": "teleología", "meaning_uk": "teleolohiia", "example": "Wir hinterfragten die Teleologie des ewigen Fortschritts."},
-    {"term": "die Persistenz", "type": "Nomen", "meaning_tr": "kalıcılık", "meaning_en": "persistence", "meaning_es": "persistencia", "meaning_uk": "stiykist", "example": "Die Persistenz der alten Gebaeude beeindruckte die Besucher."},
-    {"term": "die Kontingenz", "type": "Nomen", "meaning_tr": "olumsallık", "meaning_en": "contingency", "meaning_es": "contingencia", "meaning_uk": "vypadkovist", "example": "Die Kontingenz der Geschichte macht Entwicklungen unvorhersehbar."},
-    {"term": "die Stringenz", "type": "Nomen", "meaning_tr": "ikna edicilik", "meaning_en": "stringency/cogency", "meaning_es": "stringencia", "meaning_uk": "perekonlyvist", "example": "Ihre Argumentation zeichnete sich durch hohe Stringenz aus."},
-    {"term": "die Synergie", "type": "Nomen", "meaning_tr": "sinerji", "meaning_en": "synergy", "meaning_es": "sinergia", "meaning_uk": "synerhiia", "example": "Die Synergie zwischen Theorie und Praxis ist entscheidend."},
-    {"term": "die Ambivalenz", "type": "Nomen", "meaning_tr": "çelişki", "meaning_en": "ambivalence", "meaning_es": "ambivalencia", "meaning_uk": "ambivalentnist", "example": "Die Ambivalenz der Technik wurde im Gespraech deutlich."},
-    {"term": "das Spezifikum", "type": "Nomen", "meaning_tr": "özellik", "meaning_en": "specific feature", "meaning_es": "especificidad", "meaning_uk": "osoblyvist", "example": "Das Spezifikum dieser Kultur ist ihr Erfindergeist."},
-    {"term": "die Transformation", "type": "Nomen", "meaning_tr": "dönüşüm", "meaning_en": "transformation", "meaning_es": "transformación", "meaning_uk": "transformatsiia", "example": "Die Transformation des Ruhrgebiets ist noch nicht abgeschlossen."},
-    {"term": "die Didaktik", "type": "Nomen", "meaning_tr": "öğretim yöntemi", "meaning_en": "didactics", "meaning_es": "didáctica", "meaning_uk": "dydaktyka", "example": "Die Didaktik des Museums war sehr ansprechend."},
-    {"term": "die Implikation", "type": "Nomen", "meaning_tr": "dolaylı sonuç", "meaning_en": "implication", "meaning_es": "implicación", "meaning_uk": "implikatsiia", "example": "Die sozialen Implikationen der Erfindung waren enorm."},
-    {"term": "die Relativitaet", "type": "Nomen", "meaning_tr": "görelilik", "meaning_en": "relativity", "meaning_es": "relatividad", "meaning_uk": "vidnosnist", "example": "Einsteins Relativitaetstheorie veraenderte alles."}
+    {
+      "term": "die Hermeneutik",
+      "type": "Nomen",
+      "meaning_tr": "yorumbilgisi",
+      "meaning_en": "hermeneutics",
+      "meaning_es": "hermenéutica",
+      "meaning_uk": "hermenevtyka",
+      "example": "Die Hermeneutik der Technik hilft uns, Artefakte zu verstehen."
+    },
+    {
+      "term": "die Epistemologie",
+      "type": "Nomen",
+      "meaning_tr": "bilgi kuramı",
+      "meaning_en": "epistemology",
+      "meaning_es": "epistemología",
+      "meaning_uk": "epystemolohiia",
+      "example": "Eine neue Epistemologie ist fuer den oekologischen Wandel notwendig."
+    },
+    {
+      "term": "die Reziprozitaet",
+      "type": "Nomen",
+      "meaning_tr": "karşılıklılık",
+      "meaning_en": "reciprocity",
+      "meaning_es": "reciprocidad",
+      "meaning_uk": "vzaiemnist",
+      "example": "Die Reziprozitaet von Raum und Zeit ist ein Kernpunkt der Physik."
+    },
+    {
+      "term": "der Praezedenzfall",
+      "type": "Nomen",
+      "meaning_tr": "emsal karar",
+      "meaning_en": "precedent",
+      "meaning_es": "precedente",
+      "meaning_uk": "pretsedent",
+      "example": "Diese Erfindung schuf einen Praezedenzfall fuer die Industrie."
+    },
+    {
+      "term": "die Teleologie",
+      "type": "Nomen",
+      "meaning_tr": "erekbilim",
+      "meaning_en": "teleology",
+      "meaning_es": "teleología",
+      "meaning_uk": "teleolohiia",
+      "example": "Wir hinterfragten die Teleologie des ewigen Fortschritts."
+    },
+    {
+      "term": "die Persistenz",
+      "type": "Nomen",
+      "meaning_tr": "kalıcılık",
+      "meaning_en": "persistence",
+      "meaning_es": "persistencia",
+      "meaning_uk": "stiykist",
+      "example": "Die Persistenz der alten Gebaeude beeindruckte die Besucher."
+    },
+    {
+      "term": "die Kontingenz",
+      "type": "Nomen",
+      "meaning_tr": "olumsallık",
+      "meaning_en": "contingency",
+      "meaning_es": "contingencia",
+      "meaning_uk": "vypadkovist",
+      "example": "Die Kontingenz der Geschichte macht Entwicklungen unvorhersehbar."
+    },
+    {
+      "term": "die Stringenz",
+      "type": "Nomen",
+      "meaning_tr": "ikna edicilik",
+      "meaning_en": "stringency/cogency",
+      "meaning_es": "stringencia",
+      "meaning_uk": "perekonlyvist",
+      "example": "Ihre Argumentation zeichnete sich durch hohe Stringenz aus."
+    },
+    {
+      "term": "die Synergie",
+      "type": "Nomen",
+      "meaning_tr": "sinerji",
+      "meaning_en": "synergy",
+      "meaning_es": "sinergia",
+      "meaning_uk": "synerhiia",
+      "example": "Die Synergie zwischen Theorie und Praxis ist entscheidend."
+    },
+    {
+      "term": "die Ambivalenz",
+      "type": "Nomen",
+      "meaning_tr": "çelişki",
+      "meaning_en": "ambivalence",
+      "meaning_es": "ambivalencia",
+      "meaning_uk": "ambivalentnist",
+      "example": "Die Ambivalenz der Technik wurde im Gespraech deutlich."
+    },
+    {
+      "term": "das Spezifikum",
+      "type": "Nomen",
+      "meaning_tr": "özellik",
+      "meaning_en": "specific feature",
+      "meaning_es": "especificidad",
+      "meaning_uk": "osoblyvist",
+      "example": "Das Spezifikum dieser Kultur ist ihr Erfindergeist."
+    },
+    {
+      "term": "die Transformation",
+      "type": "Nomen",
+      "meaning_tr": "dönüşüm",
+      "meaning_en": "transformation",
+      "meaning_es": "transformación",
+      "meaning_uk": "transformatsiia",
+      "example": "Die Transformation des Ruhrgebiets ist noch nicht abgeschlossen."
+    },
+    {
+      "term": "die Didaktik",
+      "type": "Nomen",
+      "meaning_tr": "öğretim yöntemi",
+      "meaning_en": "didactics",
+      "meaning_es": "didáctica",
+      "meaning_uk": "dydaktyka",
+      "example": "Die Didaktik des Museums war sehr ansprechend."
+    },
+    {
+      "term": "die Implikation",
+      "type": "Nomen",
+      "meaning_tr": "dolaylı sonuç",
+      "meaning_en": "implication",
+      "meaning_es": "implicación",
+      "meaning_uk": "implikatsiia",
+      "example": "Die sozialen Implikationen der Erfindung waren enorm."
+    },
+    {
+      "term": "die Relativitaet",
+      "type": "Nomen",
+      "meaning_tr": "görelilik",
+      "meaning_en": "relativity",
+      "meaning_es": "relatividad",
+      "meaning_uk": "vidnosnist",
+      "example": "Einsteins Relativitaetstheorie veraenderte alles."
+    }
   ],
   "questions": [
-    {"question": "Wie viel kostete Meis Erste-Klasse-Ticket nach Hamburg?", "options": ["A) 45,80 Euro", "B) 124,90 Euro", "C) 32,50 Euro", "D) 115,00 Euro"], "answer": "B) 124,90 Euro"},
-    {"question": "Welcher Erfinder wird im Kontext der Emanzipation des Wissens genannt?", "options": ["A) Carl Benz", "B) Albert Einstein", "C) Johannes Gutenberg", "D) Max Planck"], "answer": "C) Johannes Gutenberg"},
-    {"question": "Um wie viel Uhr erreichte der ICE Essen?", "options": ["A) 08:30 Uhr", "B) 11:15 Uhr", "C) 14:05 Uhr", "D) 19:20 Uhr"], "answer": "C) 14:05 Uhr"},
-    {"question": "Was kosteten die Fachbuecher ueber Industriedesign insgesamt?", "options": ["A) 124,90 Euro", "B) 45,80 Euro", "C) 32,50 Euro", "D) 14,05 Euro"], "answer": "B) 45,80 Euro"},
-    {"question": "Welches UNESCO-Welterbe besuchten Mei und Svetlana im Ruhrgebiet?", "options": ["A) Kölner Dom", "B) Speicherstadt", "C) Zeche Zollverein", "D) Brandenburger Tor"], "answer": "C) Zeche Zollverein"},
-    {"question": "Welches Gleis nutzte Mei fuer ihre Rueckreise am Abend?", "options": ["A) Gleis 7", "B) Gleis 11", "C) Gleis 4", "D) Gleis 14"], "answer": "C) Gleis 4"},
-    {"question": "Was war der Preis fuer das Abendessen im Bordrestaurant?", "options": ["A) 45,80 Euro", "B) 32,50 Euro", "C) 124,90 Euro", "D) 15,00 Euro"], "answer": "B) 32,50 Euro"},
-    {"question": "Welche physikalische Theorie wird als radikaler Bruch mit der Newtonschen Mechanik beschrieben?", "options": ["A) Quantenmechanik", "B) Thermodynamik", "C) Relativitaetstheorie", "D) Elektromagnetismus"], "answer": "C) Relativitaetstheorie"}
+    {
+      "question": "Wie viel kostete Meis Erste-Klasse-Ticket nach Hamburg?",
+      "options": [
+        "A) 45,80 Euro",
+        "B) 124,90 Euro",
+        "C) 32,50 Euro",
+        "D) 115,00 Euro"
+      ],
+      "answer": "B) 124,90 Euro"
+    },
+    {
+      "question": "Welcher Erfinder wird im Kontext der Emanzipation des Wissens genannt?",
+      "options": [
+        "A) Carl Benz",
+        "B) Albert Einstein",
+        "C) Johannes Gutenberg",
+        "D) Max Planck"
+      ],
+      "answer": "C) Johannes Gutenberg"
+    },
+    {
+      "question": "Um wie viel Uhr erreichte der ICE Essen?",
+      "options": [
+        "A) 08:30 Uhr",
+        "B) 11:15 Uhr",
+        "C) 14:05 Uhr",
+        "D) 19:20 Uhr"
+      ],
+      "answer": "C) 14:05 Uhr"
+    },
+    {
+      "question": "Was kosteten die Fachbuecher ueber Industriedesign insgesamt?",
+      "options": [
+        "A) 124,90 Euro",
+        "B) 45,80 Euro",
+        "C) 32,50 Euro",
+        "D) 14,05 Euro"
+      ],
+      "answer": "B) 45,80 Euro"
+    },
+    {
+      "question": "Welches UNESCO-Welterbe besuchten Mei und Svetlana im Ruhrgebiet?",
+      "options": [
+        "A) Kölner Dom",
+        "B) Speicherstadt",
+        "C) Zeche Zollverein",
+        "D) Brandenburger Tor"
+      ],
+      "answer": "C) Zeche Zollverein"
+    },
+    {
+      "question": "Welches Gleis nutzte Mei fuer ihre Rueckreise am Abend?",
+      "options": [
+        "A) Gleis 7",
+        "B) Gleis 11",
+        "C) Gleis 4",
+        "D) Gleis 14"
+      ],
+      "answer": "C) Gleis 4"
+    },
+    {
+      "question": "Was war der Preis fuer das Abendessen im Bordrestaurant?",
+      "options": [
+        "A) 45,80 Euro",
+        "B) 32,50 Euro",
+        "C) 124,90 Euro",
+        "D) 15,00 Euro"
+      ],
+      "answer": "B) 32,50 Euro"
+    },
+    {
+      "question": "Welche physikalische Theorie wird als radikaler Bruch mit der Newtonschen Mechanik beschrieben?",
+      "options": [
+        "A) Quantenmechanik",
+        "B) Thermodynamik",
+        "C) Relativitaetstheorie",
+        "D) Elektromagnetismus"
+      ],
+      "answer": "C) Relativitaetstheorie"
+    }
   ]
 }
