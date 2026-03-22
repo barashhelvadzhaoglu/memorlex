@@ -1,0 +1,252 @@
+{
+  "id": "storie-010",
+  "lang": "de",
+  "level": "a2",
+  "youtubeId": "dtM7ayloHOs",
+  "title": "Haeuser und Computer: Ji-hos Projekt",
+  "summary": "Ji-ho und Florian sprechen ueber moderne Architektur und Gesetze fuer Computer. Sie besuchen ein Passivhaus und planen einen Termin beim Arzt.",
+  "hashtags": [],
+  "text": [
+    "Heute ist der 20. Maerz 2026. Ji-ho hat um 08:30 Uhr einen Termin am Gleis 4 am Hauptbahnhof Muenchen.",
+    "Er moechte Florian treffen. Das Ticket fuer die S-Bahn hat nur 3,90 Euro gekostet.",
+    "Ji-ho erzaehlt Florian von der Bauhaus-Architektur. Er hat gestern ein Buch ueber den Passivhaus-Standard gelesen.",
+    "Florian findet moderne Haeuser gut. Er fragt, ob ein Computer allein ueber Haeuser entscheiden darf.",
+    "Ji-ho erklaert, dass die Ethik der KI im deutschen Recht wichtig ist. Menschen muessen die Technik kontrollieren.",
+    "Wegen einer Baustelle auf der Strasse kommen sie zu spaet zum Restaurant. Der Stresspegel ist am Vormittag hoch.",
+    "Ji-ho braucht eine Krankschreibung fuer die Arbeit. Er muss eine Blutabnahme beim Hausarzt vereinbaren.",
+    "Florian empfiehlt eine Ernaehrungsberatung fuer die Gesundheit. Sie wollen sich am Wochenende im Zelt im Garten erholen.",
+    "In der Kantine bezahlen sie das Essen. Ji-ho nimmt den Kassenbon fuer sein Budget mit.",
+    "Die Stimmung ist trotz des Regens gut. Um 14:00 Uhr gehen sie nach Hause."
+  ],
+  "image_prompts": [
+    "realistic photo, Ji-ho standing at a modern German train station, digital clock showing 08:30, cinematic lighting",
+    "realistic photo, a close up of a German S-Bahn ticket with the price 3.90 Euro on a wooden table",
+    "realistic photo, a modern Passivhaus building with solar panels and white walls, Bauhaus style influence",
+    "realistic photo, Florian and Ji-ho sitting in a bright cafe talking, architectural sketches on the table",
+    "realistic photo, a digital brain icon appearing over a law book with a German flag, concept of AI law",
+    "realistic photo, a yellow excavator and orange cones on a German street, cars waiting in a row",
+    "realistic photo, a doctor's office interior, a medical form for a sick note on a desk, stethoscope nearby",
+    "realistic photo, a green tent in a beautiful German garden, sunny weather, concept of relaxation",
+    "realistic photo, a hand taking a white receipt from a modern cash register in a canteen",
+    "realistic photo, two friends walking in the rain in a German city, umbrellas, 2:00 PM afternoon light"
+  ],
+  "vocab": [
+    {
+      "term": "der Kassenbon",
+      "type": "Nomen",
+      "meaning_tr": "fis",
+      "meaning_en": "receipt",
+      "meaning_es": "recibo",
+      "meaning_uk": "kvytantsiia",
+      "example": "Ich brauche den Kassenbon fuer meine Abrechnung."
+    },
+    {
+      "term": "die Ueberweisung",
+      "type": "Nomen",
+      "meaning_tr": "havale",
+      "meaning_en": "bank transfer / referral",
+      "meaning_es": "transferencia",
+      "meaning_uk": "perekaz",
+      "example": "Ich mache heute die Uerberweisung fuer die Miete."
+    },
+    {
+      "term": "den Termin absagen",
+      "type": "Verb",
+      "meaning_tr": "randevu iptal etmek",
+      "meaning_en": "to cancel an appointment",
+      "meaning_es": "cancelar una cita",
+      "meaning_uk": "skasuvaty zustrich",
+      "example": "Ich muss den Termin beim Arzt leider absagen."
+    },
+    {
+      "term": "die Baustelle",
+      "type": "Nomen",
+      "meaning_tr": "santiye",
+      "meaning_en": "construction site",
+      "meaning_es": "obra",
+      "meaning_uk": "budmaydanchyk",
+      "example": "Wegen der Baustelle faehrt der Bus nicht."
+    },
+    {
+      "term": "die Gesetzgebung",
+      "type": "Nomen",
+      "meaning_tr": "yasama",
+      "meaning_en": "legislation",
+      "meaning_es": "legislación",
+      "meaning_uk": "zakonodavstvo",
+      "example": "Die Gesetzgebung in Deutschland ist sehr streng."
+    },
+    {
+      "term": "die Verspaetung",
+      "type": "Nomen",
+      "meaning_tr": "gecikme",
+      "meaning_en": "delay",
+      "meaning_es": "retraso",
+      "meaning_uk": "zapiznennia",
+      "example": "Der Zug hat heute zehn Minuten Verspaetung."
+    },
+    {
+      "term": "das Rezept",
+      "type": "Nomen",
+      "meaning_tr": "recete",
+      "meaning_en": "prescription / recipe",
+      "meaning_es": "receta",
+      "meaning_uk": "retsept",
+      "example": "Der Arzt schreibt mir ein Rezept."
+    },
+    {
+      "term": "die Versicherung",
+      "type": "Nomen",
+      "meaning_tr": "sigorta",
+      "meaning_en": "insurance",
+      "meaning_es": "seguro",
+      "meaning_uk": "strakhuvannia",
+      "example": "Haben Sie Ihre Karte von der Versicherung dabei?"
+    },
+    {
+      "term": "der Schmerz",
+      "type": "Nomen",
+      "meaning_tr": "agri",
+      "meaning_en": "pain",
+      "meaning_es": "dolor",
+      "meaning_uk": "bil",
+      "example": "Haben Sie starke Schmerzen im Ruecken?"
+    },
+    {
+      "term": "die Anmeldung",
+      "type": "Nomen",
+      "meaning_tr": "kayit",
+      "meaning_en": "registration",
+      "meaning_es": "registro",
+      "meaning_uk": "reiestratsiia",
+      "example": "Bitte kommen Sie zuerst zur Anmeldung."
+    },
+    {
+      "term": "die Gebuehr",
+      "type": "Nomen",
+      "meaning_tr": "ucret",
+      "meaning_en": "fee",
+      "meaning_es": "tasa",
+      "meaning_uk": "zbir",
+      "example": "Die Gebuehr fuer den Ausweis ist nicht hoch."
+    },
+    {
+      "term": "der Antrag",
+      "type": "Nomen",
+      "meaning_tr": "basvuru",
+      "meaning_en": "application / form",
+      "meaning_es": "solicitud",
+      "meaning_uk": "zaiava",
+      "example": "Ich muss einen Antrag im Buergerbuero stellen."
+    },
+    {
+      "term": "die Bescheinigung",
+      "type": "Nomen",
+      "meaning_tr": "belge",
+      "meaning_en": "certificate / proof",
+      "meaning_es": "certificado",
+      "meaning_uk": "dovidka",
+      "example": "Ich brauche eine Bescheinigung vom Chef."
+    },
+    {
+      "term": "der Facharzt",
+      "type": "Nomen",
+      "meaning_tr": "uzman doktor",
+      "meaning_en": "specialist doctor",
+      "meaning_es": "especialista",
+      "meaning_uk": "likar-fakhivets",
+      "example": "Ich habe einen Termin beim Facharzt."
+    },
+    {
+      "term": "die Behandlung",
+      "type": "Nomen",
+      "meaning_tr": "tedavi",
+      "meaning_en": "treatment",
+      "meaning_es": "tratamiento",
+      "meaning_uk": "likuvannia",
+      "example": "Die Behandlung dauert zwei Wochen."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Wann hat Ji-ho seinen Termin am Bahnhof?",
+      "options": [
+        "A) 07:00 Uhr",
+        "B) 08:30 Uhr",
+        "C) 14:00 Uhr",
+        "D) 09:00 Uhr"
+      ],
+      "answer": "B) 08:30 Uhr"
+    },
+    {
+      "question": "An welchem Gleis trifft Ji-ho Florian?",
+      "options": [
+        "A) Gleis 1",
+        "B) Gleis 12",
+        "C) Gleis 4",
+        "D) Gleis 8"
+      ],
+      "answer": "C) Gleis 4"
+    },
+    {
+      "question": "Wie viel hat das S-Bahn-Ticket gekostet?",
+      "options": [
+        "A) 10,00 Euro",
+        "B) 5,50 Euro",
+        "C) 3,90 Euro",
+        "D) Kostenlos"
+      ],
+      "answer": "C) 3,90 Euro"
+    },
+    {
+      "question": "Ueber welche Architektur spricht Ji-ho?",
+      "options": [
+        "A) Barock",
+        "B) Bauhaus",
+        "C) Gotik",
+        "D) Renaissance"
+      ],
+      "answer": "B) Bauhaus"
+    },
+    {
+      "question": "Warum kommen sie zu spaet zum Restaurant?",
+      "options": [
+        "A) Wegen des Regens",
+        "B) Wegen einer Baustelle",
+        "C) Wegen des Budgets",
+        "D) Wegen des Arztes"
+      ],
+      "answer": "B) Wegen einer Baustelle"
+    },
+    {
+      "question": "Was braucht Ji-ho fuer seinen Arbeitgeber?",
+      "options": [
+        "A) Einen Kassenbon",
+        "B) Eine Krankschreibung",
+        "C) Ein Zelt",
+        "D) Ein Buch"
+      ],
+      "answer": "B) Eine Krankschreibung"
+    },
+    {
+      "question": "Wo wollen sie sich am Wochenende erholen?",
+      "options": [
+        "A) Im Museum",
+        "B) Im Restaurant",
+        "C) Im Zelt im Garten",
+        "D) In der S-Bahn"
+      ],
+      "answer": "C) Im Zelt im Garten"
+    },
+    {
+      "question": "Warum nimmt Ji-ho den Kassenbon mit?",
+      "options": [
+        "A) Als Geschenk",
+        "B) Fuer sein Budget",
+        "C) Fuer den Arzt",
+        "D) Fuer das Labor"
+      ],
+      "answer": "B) Fuer sein Budget"
+    }
+  ]
+}
