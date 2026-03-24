@@ -1,0 +1,252 @@
+{
+  "id": "storie-011",
+  "lang": "de",
+  "level": "a2",
+  "youtubeId": "XXdX9vNhAN0",
+  "title": "Erfindergeist beim Vorstellungsgespraech",
+  "summary": "Florian reist fuer ein Vorstellungsgespraech nach Stuttgart. Er diskutiert mit Ravi ueber deutsche Erfinder wie Benz und Gutenberg.",
+  "hashtags": [],
+  "text": [
+    "Heute ist der 20. Maerz 2026. Florian muss frueh aufwachen, denn sein Zug faehrt um 07:15 Uhr von Gleis 3 ab.",
+    "Er hat ein Vorstellungsgespraech bei einem Mittelstaendler. Das Ticket hat 45,50 Euro gekostet.",
+    "Im Zug trifft er Ravi. Ravi liest ein Buch ueber Johannes Gutenberg und die Erfindung des Buchdrucks.",
+    "Florian erzaehlt, dass er in Stuttgart das Museum von Carl Benz besuchen will. Er bewundert den Erfinder des Autos.",
+    "Ravi sagt, dass Albert Einstein auch ein Genie war. Sie diskutieren ueber Wissenschaft, um den Stresspegel zu senken.",
+    "Wegen einer Baustelle auf der Strecke hat der Zug Verspaetung. Florian muss den Termin im Buero kurz absagen und verschieben.",
+    "Um 10:30 Uhr beginnt endlich das Gespraech. Der Chef erklaert die Gleitzeit und das Budget fuer neue Projekte.",
+    "Nach dem Erfolg im Buero gehen Florian und Ravi in ein Restaurant. Florian bezahlt 18,20 Euro und moechte den Kassenbon.",
+    "Spaeter gehen sie in ein Museum. Der Eintritt kostet 12,00 Euro, aber sie koennen sich dort gut erholen.",
+    "Am Abend faehrt Florian gluecklich nach Hause. Er hofft auf eine positive Rueckmeldung von der Firma."
+  ],
+  "image_prompts": [
+    "realistic photo, Florian waking up and looking at an alarm clock showing 06:00 AM, morning light",
+    "realistic photo, a German train station platform 3, Florian holding a briefcase, cinematic lighting",
+    "realistic photo, inside a modern German train, Florian and Ravi talking, a book about Gutenberg on the table",
+    "realistic photo, the Mercedes-Benz Museum in Stuttgart architecture, modern steel and glass",
+    "realistic photo, a portrait of Albert Einstein on a tablet screen, Ravi pointing at it",
+    "realistic photo, train tracks with yellow construction machines and orange cones, blurry background",
+    "realistic photo, a professional office setting, Florian shaking hands with a German manager",
+    "realistic photo, a traditional German restaurant table with schnitzel and a glass of water, a hand holding a bill",
+    "realistic photo, the entrance of a science museum, a sign showing 12 Euro price",
+    "realistic photo, Florian sitting in a train at night, city lights through the window, smiling"
+  ],
+  "vocab": [
+    {
+      "term": "der Mittelstaendler",
+      "type": "Nomen",
+      "meaning_tr": "orta ölçekli işletme",
+      "meaning_en": "medium-sized company",
+      "meaning_es": "empresa mediana",
+      "meaning_uk": "serednie pidpryiemstvo",
+      "example": "Ich arbeite bei einem deutschen Mittelstaendler."
+    },
+    {
+      "term": "die Verspaetung",
+      "type": "Nomen",
+      "meaning_tr": "gecikme",
+      "meaning_en": "delay",
+      "meaning_es": "retraso",
+      "meaning_uk": "zapiznennia",
+      "example": "Der Zug hat leider 20 Minuten Verspaetung."
+    },
+    {
+      "term": "der Kassenbon",
+      "type": "Nomen",
+      "meaning_tr": "fiş",
+      "meaning_en": "receipt",
+      "meaning_es": "recibo",
+      "meaning_uk": "kasyi chek",
+      "example": "Nehmen Sie den Kassenbon bitte mit."
+    },
+    {
+      "term": "die Gleitzeit",
+      "type": "Nomen",
+      "meaning_tr": "esnek çalışma saati",
+      "meaning_en": "flexible working hours",
+      "meaning_es": "horario flexible",
+      "meaning_uk": "hnuchkyi hrafik roboty",
+      "example": "In meiner Firma gibt es Gleitzeit."
+    },
+    {
+      "term": "der Buchdruck",
+      "type": "Nomen",
+      "meaning_tr": "kitap basımı",
+      "meaning_en": "book printing",
+      "meaning_es": "imprenta",
+      "meaning_uk": "knyhodrukuvannia",
+      "example": "Gutenberg hat den Buchdruck erfunden."
+    },
+    {
+      "term": "der Erfinder",
+      "type": "Nomen",
+      "meaning_tr": "mucit",
+      "meaning_en": "inventor",
+      "meaning_es": "inventor",
+      "meaning_uk": "vynakhidnyk",
+      "example": "Carl Benz war ein wichtiger Erfinder."
+    },
+    {
+      "term": "den Termin absagen",
+      "type": "Phrase",
+      "meaning_tr": "randevuyu iptal etmek",
+      "meaning_en": "to cancel an appointment",
+      "meaning_es": "cancelar una cita",
+      "meaning_uk": "skasuvaty zustrich",
+      "example": "Ich muss den Termin wegen der Verspaetung absagen."
+    },
+    {
+      "term": "die Rueckmeldung",
+      "type": "Nomen",
+      "meaning_tr": "geri bildirim",
+      "meaning_en": "feedback/response",
+      "meaning_es": "respuesta",
+      "meaning_uk": "zvorotnyi zviazok",
+      "example": "Ich warte auf die Rueckmeldung der Firma."
+    },
+    {
+      "term": "die Baustelle",
+      "type": "Nomen",
+      "meaning_tr": "şantiye",
+      "meaning_en": "construction site",
+      "meaning_es": "obra",
+      "meaning_uk": "budmaydanchyk",
+      "example": "Die Baustelle blockiert die Schienen."
+    },
+    {
+      "term": "der Eintritt",
+      "type": "Nomen",
+      "meaning_tr": "giriş ücreti",
+      "meaning_en": "entry fee",
+      "meaning_es": "entrada",
+      "meaning_uk": "vkhidna plata",
+      "example": "Wie teuer ist der Eintritt im Museum?"
+    },
+    {
+      "term": "die Erfindung",
+      "type": "Nomen",
+      "meaning_tr": "buluş",
+      "meaning_en": "invention",
+      "meaning_es": "invención",
+      "meaning_uk": "vynakhid",
+      "example": "Das Auto ist eine deutsche Erfindung."
+    },
+    {
+      "term": "die Wissenschaft",
+      "type": "Nomen",
+      "meaning_tr": "bilim",
+      "meaning_en": "science",
+      "meaning_es": "ciencia",
+      "meaning_uk": "nauka",
+      "example": "Er interessiert sich fuer moderne Wissenschaft."
+    },
+    {
+      "term": "die Gleisnummer",
+      "type": "Nomen",
+      "meaning_tr": "peron numarası",
+      "meaning_en": "platform number",
+      "meaning_es": "número de vía",
+      "meaning_uk": "nomer kolii",
+      "example": "Auf welcher Gleisnummer faehrt der Zug?"
+    },
+    {
+      "term": "das Vorstellungsgespraech",
+      "type": "Nomen",
+      "meaning_tr": "iş görüşmesi",
+      "meaning_en": "job interview",
+      "meaning_es": "entrevista de trabajo",
+      "meaning_uk": "spivbesida",
+      "example": "Morgen habe ich ein Vorstellungsgespraech."
+    },
+    {
+      "term": "die Quittung",
+      "type": "Nomen",
+      "meaning_tr": "makbuz",
+      "meaning_en": "receipt",
+      "meaning_es": "recibo",
+      "meaning_uk": "kvytantsiia",
+      "example": "Ich brauche eine Quittung fuer das Ticket."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Wann faehrt Florians Zug ab?",
+      "options": [
+        "A) 08:30 Uhr",
+        "B) 07:15 Uhr",
+        "C) 10:30 Uhr",
+        "D) 19:05 Uhr"
+      ],
+      "answer": "B) 07:15 Uhr"
+    },
+    {
+      "question": "Wie viel kostet das Zugticket?",
+      "options": [
+        "A) 12,00 Euro",
+        "B) 18,20 Euro",
+        "C) 45,50 Euro",
+        "D) 3,90 Euro"
+      ],
+      "answer": "C) 45,50 Euro"
+    },
+    {
+      "question": "Von welchem Gleis faehrt der Zug?",
+      "options": [
+        "A) Gleis 1",
+        "B) Gleis 5",
+        "C) Gleis 3",
+        "D) Gleis 10"
+      ],
+      "answer": "C) Gleis 3"
+    },
+    {
+      "question": "Was hat Johannes Gutenberg erfunden?",
+      "options": [
+        "A) Das Auto",
+        "B) Die Relativitaetstheorie",
+        "C) Den Buchdruck",
+        "D) Die Dampfmaschine"
+      ],
+      "answer": "C) Den Buchdruck"
+    },
+    {
+      "question": "Warum hat der Zug Verspaetung?",
+      "options": [
+        "A) Wegen schlechtem Wetter",
+        "B) Wegen einer Baustelle",
+        "C) Wegen einem Unfall",
+        "D) Wegen zu vielen Passagieren"
+      ],
+      "answer": "B) Wegen einer Baustelle"
+    },
+    {
+      "question": "Was erklaert der Chef im Vorstellungsgespraech?",
+      "options": [
+        "A) Das Menue",
+        "B) Die Gleitzeit",
+        "C) Den Buchdruck",
+        "D) Die Fahrplaene"
+      ],
+      "answer": "B) Die Gleitzeit"
+    },
+    {
+      "question": "Wie viel bezahlt Florian im Restaurant?",
+      "options": [
+        "A) 10,30 Euro",
+        "B) 45,50 Euro",
+        "C) 18,20 Euro",
+        "D) 12,00 Euro"
+      ],
+      "answer": "C) 18,20 Euro"
+    },
+    {
+      "question": "Wie teuer ist der Eintritt im Museum?",
+      "options": [
+        "A) 18,20 Euro",
+        "B) 12,00 Euro",
+        "C) 45,50 Euro",
+        "D) Kostenlos"
+      ],
+      "answer": "B) 12,00 Euro"
+    }
+  ]
+}
