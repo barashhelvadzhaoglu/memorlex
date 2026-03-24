@@ -2,7 +2,7 @@
   "id": "storie-016",
   "lang": "de",
   "level": "c1",
-  "youtubeId": "",
+  "youtubeId": "wp-nsYSmnFk",
   "title": "Frostige Zaesuren: Einheit und Elementargewalt",
   "summary": "Viktor und Hana reflektieren waehrend eines massiven Wintereinbruchs in Bayern ueber 35 Jahre Deutsche Einheit. Die Verspaetung ihres Zuges wird zum Ausgangspunkt fuer eine tiefgreifende soziologische Analyse der staatlichen Kohaesion.",
   "hashtags": [],
@@ -71,30 +71,222 @@
     "realistic photo, a wide shot of Berlin with fireworks over the Brandenburg Gate in the distance"
   ],
   "vocab": [
-    {"term": "die Kohaesion", "type": "Nomen", "meaning_tr": "baglilik, uyum", "meaning_en": "cohesion", "meaning_es": "cohesión", "meaning_uk": "zghurtovanist", "example": "Die soziale Kohaesion ist die Basis einer stabilen Gesellschaft."},
-    {"term": "die Disparitaet", "type": "Nomen", "meaning_tr": "esitsizlik, farklilik", "meaning_en": "disparity", "meaning_es": "disparidad", "meaning_uk": "nerivnist", "example": "Wirtschaftliche Disparitaeten zwischen Regionen muessen abgebaut werden."},
-    {"term": "die Permeabilitaet", "type": "Nomen", "meaning_tr": "gecirgenlik", "meaning_en": "permeability", "meaning_es": "permeabilidad", "meaning_uk": "pronyknist", "example": "Die soziale Permeabilitaet erlaubt den Aufstieg durch Bildung."},
-    {"term": "die Konvergnez", "type": "Nomen", "meaning_tr": "yakinlasma", "meaning_en": "convergence", "meaning_es": "convergencia", "meaning_uk": "konverhentsiia", "example": "Wir beobachten eine Konvergenz der Lebensstile in Ost und West."},
-    {"term": "die Persistenz", "type": "Nomen", "meaning_tr": "kalicilik", "meaning_en": "persistence", "meaning_es": "persistencia", "meaning_uk": "stiykist", "example": "Die Persistenz alter Vorurteile behindert den Dialog."},
-    {"term": "die Reziprozitaet", "type": "Nomen", "meaning_tr": "karsiliklilik", "meaning_en": "reciprocity", "meaning_es": "reciprocidad", "meaning_uk": "vzaiemnist", "example": "Ein stabiles Buendnis basiert auf der Reziprozitaet der Interessen."},
-    {"term": "die Epistemologie", "type": "Nomen", "meaning_tr": "bilgi kurami", "meaning_en": "epistemology", "meaning_es": "epistemología", "meaning_uk": "epystemolohiia", "example": "Die Epistemologie hinterfragt, wie wir zu gesichertem Wissen gelangen."},
-    {"term": "die Kontingenz", "type": "Nomen", "meaning_tr": "olumsallik", "meaning_en": "contingency", "meaning_es": "contingencia", "meaning_uk": "vypadkovist", "example": "Die Kontingenz historischer Ereignisse macht sie schwer vorhersehbar."},
-    {"term": "die Musealisierung", "type": "Nomen", "meaning_tr": "muzelestirme", "meaning_en": "musealization", "meaning_es": "musealización", "meaning_uk": "muzeiefikatsiia", "example": "Die Musealisierung des Alltags kann den Bezug zur Gegenwart stoeren."},
-    {"term": "die Prekaritaet", "type": "Nomen", "meaning_tr": "guvensizlik, istikrarsizlik", "meaning_en": "precariousness", "meaning_es": "precariedad", "meaning_uk": "nenadiinist", "example": "Die Prekaritaet der Energieversorgung ist ein Sicherheitsrisiko."},
-    {"term": "die Hermeneutik", "type": "Nomen", "meaning_tr": "yorumbilgisi", "meaning_en": "hermeneutics", "meaning_es": "hermenéutica", "meaning_uk": "hermenevtyka", "example": "Die Hermeneutik der Wende hilft beim Verstehen der Zeitgeschichte."},
-    {"term": "die Diskrepanz", "type": "Nomen", "meaning_tr": "celiski, fark", "meaning_en": "discrepancy", "meaning_es": "discrepancia", "meaning_uk": "nevidpovidnist", "example": "Die Diskrepanz zwischen Theorie und Praxis war offensichtlich."},
-    {"term": "die Persistenz", "type": "Nomen", "meaning_tr": "devamlilik", "meaning_en": "persistence", "meaning_es": "persistencia", "meaning_uk": "zberezhennia", "example": "Trotz des Wandels gibt es eine Persistenz der Strukturen."},
-    {"term": "die Konstitution", "type": "Nomen", "meaning_tr": "olusturma, kurulus", "meaning_en": "constitution", "meaning_es": "constitución", "meaning_uk": "ustriy", "example": "Die Konstitution einer stabilen Demokratie braucht Zeit."},
-    {"term": "die Reinterpretation", "type": "Nomen", "meaning_tr": "yeniden yorumlama", "meaning_en": "reinterpretation", "meaning_es": "reinterpretación", "meaning_uk": "reinterpretatsiia", "example": "Jede Generation braucht eine Reinterpretation der Geschichte."}
+    {
+      "term": "die Kohaesion",
+      "type": "Nomen",
+      "meaning_tr": "baglilik, uyum",
+      "meaning_en": "cohesion",
+      "meaning_es": "cohesión",
+      "meaning_uk": "zghurtovanist",
+      "example": "Die soziale Kohaesion ist die Basis einer stabilen Gesellschaft."
+    },
+    {
+      "term": "die Disparitaet",
+      "type": "Nomen",
+      "meaning_tr": "esitsizlik, farklilik",
+      "meaning_en": "disparity",
+      "meaning_es": "disparidad",
+      "meaning_uk": "nerivnist",
+      "example": "Wirtschaftliche Disparitaeten zwischen Regionen muessen abgebaut werden."
+    },
+    {
+      "term": "die Permeabilitaet",
+      "type": "Nomen",
+      "meaning_tr": "gecirgenlik",
+      "meaning_en": "permeability",
+      "meaning_es": "permeabilidad",
+      "meaning_uk": "pronyknist",
+      "example": "Die soziale Permeabilitaet erlaubt den Aufstieg durch Bildung."
+    },
+    {
+      "term": "die Konvergnez",
+      "type": "Nomen",
+      "meaning_tr": "yakinlasma",
+      "meaning_en": "convergence",
+      "meaning_es": "convergencia",
+      "meaning_uk": "konverhentsiia",
+      "example": "Wir beobachten eine Konvergenz der Lebensstile in Ost und West."
+    },
+    {
+      "term": "die Persistenz",
+      "type": "Nomen",
+      "meaning_tr": "kalicilik",
+      "meaning_en": "persistence",
+      "meaning_es": "persistencia",
+      "meaning_uk": "stiykist",
+      "example": "Die Persistenz alter Vorurteile behindert den Dialog."
+    },
+    {
+      "term": "die Reziprozitaet",
+      "type": "Nomen",
+      "meaning_tr": "karsiliklilik",
+      "meaning_en": "reciprocity",
+      "meaning_es": "reciprocidad",
+      "meaning_uk": "vzaiemnist",
+      "example": "Ein stabiles Buendnis basiert auf der Reziprozitaet der Interessen."
+    },
+    {
+      "term": "die Epistemologie",
+      "type": "Nomen",
+      "meaning_tr": "bilgi kurami",
+      "meaning_en": "epistemology",
+      "meaning_es": "epistemología",
+      "meaning_uk": "epystemolohiia",
+      "example": "Die Epistemologie hinterfragt, wie wir zu gesichertem Wissen gelangen."
+    },
+    {
+      "term": "die Kontingenz",
+      "type": "Nomen",
+      "meaning_tr": "olumsallik",
+      "meaning_en": "contingency",
+      "meaning_es": "contingencia",
+      "meaning_uk": "vypadkovist",
+      "example": "Die Kontingenz historischer Ereignisse macht sie schwer vorhersehbar."
+    },
+    {
+      "term": "die Musealisierung",
+      "type": "Nomen",
+      "meaning_tr": "muzelestirme",
+      "meaning_en": "musealization",
+      "meaning_es": "musealización",
+      "meaning_uk": "muzeiefikatsiia",
+      "example": "Die Musealisierung des Alltags kann den Bezug zur Gegenwart stoeren."
+    },
+    {
+      "term": "die Prekaritaet",
+      "type": "Nomen",
+      "meaning_tr": "guvensizlik, istikrarsizlik",
+      "meaning_en": "precariousness",
+      "meaning_es": "precariedad",
+      "meaning_uk": "nenadiinist",
+      "example": "Die Prekaritaet der Energieversorgung ist ein Sicherheitsrisiko."
+    },
+    {
+      "term": "die Hermeneutik",
+      "type": "Nomen",
+      "meaning_tr": "yorumbilgisi",
+      "meaning_en": "hermeneutics",
+      "meaning_es": "hermenéutica",
+      "meaning_uk": "hermenevtyka",
+      "example": "Die Hermeneutik der Wende hilft beim Verstehen der Zeitgeschichte."
+    },
+    {
+      "term": "die Diskrepanz",
+      "type": "Nomen",
+      "meaning_tr": "celiski, fark",
+      "meaning_en": "discrepancy",
+      "meaning_es": "discrepancia",
+      "meaning_uk": "nevidpovidnist",
+      "example": "Die Diskrepanz zwischen Theorie und Praxis war offensichtlich."
+    },
+    {
+      "term": "die Persistenz",
+      "type": "Nomen",
+      "meaning_tr": "devamlilik",
+      "meaning_en": "persistence",
+      "meaning_es": "persistencia",
+      "meaning_uk": "zberezhennia",
+      "example": "Trotz des Wandels gibt es eine Persistenz der Strukturen."
+    },
+    {
+      "term": "die Konstitution",
+      "type": "Nomen",
+      "meaning_tr": "olusturma, kurulus",
+      "meaning_en": "constitution",
+      "meaning_es": "constitución",
+      "meaning_uk": "ustriy",
+      "example": "Die Konstitution einer stabilen Demokratie braucht Zeit."
+    },
+    {
+      "term": "die Reinterpretation",
+      "type": "Nomen",
+      "meaning_tr": "yeniden yorumlama",
+      "meaning_en": "reinterpretation",
+      "meaning_es": "reinterpretación",
+      "meaning_uk": "reinterpretatsiia",
+      "example": "Jede Generation braucht eine Reinterpretation der Geschichte."
+    }
   ],
   "questions": [
-    {"question": "Wann trifft Viktor am Hauptbahnhof Muenchen ein?", "options": ["A) Um 09:30 Uhr", "B) Um 07:45 Uhr", "C) Um 11:15 Uhr", "D) Um 15:15 Uhr"], "answer": "B) Um 07:45 Uhr"},
-    {"question": "Wie hoch war der Preis fuer Viktors Ticket der ersten Klasse?", "options": ["A) 15,00 Euro", "B) 124,90 Euro", "C) 184,50 Euro", "D) 200,00 Euro"], "answer": "C) 184,50 Euro"},
-    {"question": "Warum ist der Zugverkehr in Suedbayern unterbrochen?", "options": ["A) Ein Streik der Lokfuehrer", "B) Ein technischer Defekt am Gleis 12", "C) Ein massiver Wintereinbruch", "D) Eine politische Demonstration"], "answer": "C) Ein massiver Wintereinbruch"},
-    {"question": "An welchem Bussteig soll der Ersatzbus abfahren?", "options": ["A) Bussteig A", "B) Bussteig B", "C) Bussteig 12", "D) Bussteig S"], "answer": "B) Bussteig B"},
-    {"question": "Wie viele Jahre Deutsche Einheit werden in der Geschichte thematisiert?", "options": ["A) 25 Jahre", "B) 30 Jahre", "C) 35 Jahre", "D) 40 Jahre"], "answer": "C) 35 Jahre"},
-    {"question": "Welchen Wert hat der Verpflegungsgutschein der Bahn?", "options": ["A) 5,00 Euro", "B) 10,00 Euro", "C) 15,00 Euro", "D) 25,00 Euro"], "answer": "C) 15,00 Euro"},
-    {"question": "Um wie viel Uhr faehrt schliesslich der Zug von Nuernberg weiter?", "options": ["A) 11:45 Uhr", "B) 14:00 Uhr", "C) 15:15 Uhr", "D) 19:05 Uhr"], "answer": "C) 15:15 Uhr"},
-    {"question": "In welcher Stadt kommt Viktor am Ende seiner Reise an?", "options": ["A) Muenchen", "B) Leipzig", "C) Berlin", "D) Jena"], "answer": "C) Berlin"}
+    {
+      "question": "Wann trifft Viktor am Hauptbahnhof Muenchen ein?",
+      "options": [
+        "A) Um 09:30 Uhr",
+        "B) Um 07:45 Uhr",
+        "C) Um 11:15 Uhr",
+        "D) Um 15:15 Uhr"
+      ],
+      "answer": "B) Um 07:45 Uhr"
+    },
+    {
+      "question": "Wie hoch war der Preis fuer Viktors Ticket der ersten Klasse?",
+      "options": [
+        "A) 15,00 Euro",
+        "B) 124,90 Euro",
+        "C) 184,50 Euro",
+        "D) 200,00 Euro"
+      ],
+      "answer": "C) 184,50 Euro"
+    },
+    {
+      "question": "Warum ist der Zugverkehr in Suedbayern unterbrochen?",
+      "options": [
+        "A) Ein Streik der Lokfuehrer",
+        "B) Ein technischer Defekt am Gleis 12",
+        "C) Ein massiver Wintereinbruch",
+        "D) Eine politische Demonstration"
+      ],
+      "answer": "C) Ein massiver Wintereinbruch"
+    },
+    {
+      "question": "An welchem Bussteig soll der Ersatzbus abfahren?",
+      "options": [
+        "A) Bussteig A",
+        "B) Bussteig B",
+        "C) Bussteig 12",
+        "D) Bussteig S"
+      ],
+      "answer": "B) Bussteig B"
+    },
+    {
+      "question": "Wie viele Jahre Deutsche Einheit werden in der Geschichte thematisiert?",
+      "options": [
+        "A) 25 Jahre",
+        "B) 30 Jahre",
+        "C) 35 Jahre",
+        "D) 40 Jahre"
+      ],
+      "answer": "C) 35 Jahre"
+    },
+    {
+      "question": "Welchen Wert hat der Verpflegungsgutschein der Bahn?",
+      "options": [
+        "A) 5,00 Euro",
+        "B) 10,00 Euro",
+        "C) 15,00 Euro",
+        "D) 25,00 Euro"
+      ],
+      "answer": "C) 15,00 Euro"
+    },
+    {
+      "question": "Um wie viel Uhr faehrt schliesslich der Zug von Nuernberg weiter?",
+      "options": [
+        "A) 11:45 Uhr",
+        "B) 14:00 Uhr",
+        "C) 15:15 Uhr",
+        "D) 19:05 Uhr"
+      ],
+      "answer": "C) 15:15 Uhr"
+    },
+    {
+      "question": "In welcher Stadt kommt Viktor am Ende seiner Reise an?",
+      "options": [
+        "A) Muenchen",
+        "B) Leipzig",
+        "C) Berlin",
+        "D) Jena"
+      ],
+      "answer": "C) Berlin"
+    }
   ]
 }
