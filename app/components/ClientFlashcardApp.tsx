@@ -32,6 +32,21 @@ const translations: any = {
   }
 };
 
+const subjectLang: Record<string, string> = {
+  german: 'de-DE',
+  english: 'en-US',
+  spanish: 'es-ES',
+};
+
+function speak(text: string, subject: string) {
+  if (typeof window === 'undefined' || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang = subjectLang[subject] || 'en-US';
+  utter.rate = 0.9;
+  window.speechSynthesis.speak(utter);
+}
+
 export default function ClientFlashcardApp({ initialWords, lang, subject, dict }: Props) {
   const [view, setView] = useState<'setup' | 'practice' | 'summary'>('setup');
   const [currentSet, setCurrentSet] = useState<Word[]>([]);
@@ -153,7 +168,17 @@ export default function ClientFlashcardApp({ initialWords, lang, subject, dict }
                 </span>
               </div>
               <div className="absolute inset-0 bg-amber-500 rounded-[40px] flex flex-col items-center justify-center p-8 text-center text-white shadow-2xl" style={{ backfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
-                <h2 className="text-3xl md:text-4xl font-black italic mb-4 leading-tight tracking-tighter">{currentSet[fIdx]?.term}</h2>
+                <h2 className="text-3xl md:text-4xl font-black italic mb-2 leading-tight tracking-tighter">{currentSet[fIdx]?.term}</h2>
+                <button
+                  onClick={(e) => { e.stopPropagation(); speak(currentSet[fIdx]?.term, subject); }}
+                  className="mb-3 w-9 h-9 rounded-full bg-white/20 hover:bg-white/30 active:scale-90 transition-all flex items-center justify-center"
+                  title="Dinle"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-4 h-4 text-white">
+                    <path d="M13.5 4.06c0-1.336-1.616-2.005-2.56-1.06l-4.5 4.5H4.508c-1.141 0-2.318.664-2.66 1.905A9.76 9.76 0 001.5 12c0 .898.121 1.768.35 2.595.341 1.24 1.518 1.905 2.659 1.905h1.93l4.5 4.5c.945.945 2.561.276 2.561-1.06V4.06zM18.584 5.106a.75.75 0 011.06 0c3.808 3.807 3.808 9.98 0 13.788a.75.75 0 11-1.06-1.06 8.25 8.25 0 000-11.668.75.75 0 010-1.06z" />
+                    <path d="M15.932 7.757a.75.75 0 011.061 0 6 6 0 010 8.486.75.75 0 01-1.06-1.061 4.5 4.5 0 000-6.364.75.75 0 010-1.06z" />
+                  </svg>
+                </button>
                 <div className="w-10 h-1 bg-white/20 rounded-full mb-4"></div>
                 <p className="text-white/90 italic text-base leading-relaxed font-medium">{currentSet[fIdx]?.example.replace('***', currentSet[fIdx]?.term)}</p>
               </div>
