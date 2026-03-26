@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import { useSearchParams } from "next/navigation";
 import ClientVocabularyApp from "@/app/components/ClientVocabularyApp";
 import ClientFlashcardApp from "@/app/components/ClientFlashcardApp";
 

@@ -4,6 +4,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getDictionary } from "@/dictionaries";
 import StoryQuestions from "./StoryQuestions";
+import StoryPracticeClient from "./StoryPracticeClient";
+import { Suspense } from "react";
 import { Metadata } from "next";
 
 type ValidLangs = "en" | "tr" | "de" | "uk" | "es";
@@ -351,13 +353,13 @@ export default async function StoryDetailPage({
             </h2>
             <div className="flex flex-col md:flex-row gap-4">
               <Link
-                href={`/${lang}/${subject}/${level}/stories/${story}/practice/flashcard`}
+                href={`/${lang}/${subject}/${level}/stories/${story}?mode=flashcard`}
                 className="flex-1 py-6 bg-blue-600 hover:bg-blue-700 text-white rounded-[30px] font-black italic uppercase transition-all shadow-xl shadow-blue-600/20 active:scale-95 flex items-center justify-center gap-3"
               >
                 <span className="text-xl">🎴</span> {flashcardBtn}
               </Link>
               <Link
-                href={`/${lang}/${subject}/${level}/stories/${story}/practice/writing`}
+                href={`/${lang}/${subject}/${level}/stories/${story}?mode=writing`}
                 className="flex-1 py-6 bg-amber-500 hover:bg-amber-600 text-white rounded-[30px] font-black italic uppercase transition-all shadow-xl shadow-amber-500/20 active:scale-95 flex items-center justify-center gap-3"
               >
                 <span className="text-xl">✍️</span> {writingBtn}
