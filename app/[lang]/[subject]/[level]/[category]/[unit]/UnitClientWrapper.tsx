@@ -4,7 +4,7 @@ import { useSearchParams } from 'next/navigation';
 import ClientFlashcardApp from '@/app/components/ClientFlashcardApp';
 import ClientVocabularyApp from '@/app/components/ClientVocabularyApp';
 
-export default function UnitClientWrapper({ initialData, dict, lang, unitName }: any) {
+export default function UnitClientWrapper({ initialData, dict, lang, unitName, subject }: any) {
   const searchParams = useSearchParams();
   const mode = searchParams.get('mode');
 
@@ -70,14 +70,14 @@ export default function UnitClientWrapper({ initialData, dict, lang, unitName }:
         <ClientVocabularyApp 
           initialWords={processedWords} 
           lang={lang} 
-          subject={subjectTitle} 
+          subject={subject} 
           dict={dict}
         />
       ) : (
         <ClientFlashcardApp 
           initialWords={processedWords} 
           lang={lang} 
-          subject={subjectTitle} 
+          subject={subject} 
           dict={dict}
         />
       )}

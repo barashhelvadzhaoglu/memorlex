@@ -25,7 +25,6 @@ interface StoryPracticeClientProps {
   uiLang: string;
   subject: string;
   dict: any;
-  mode: "writing" | "flashcard";
 }
 
 export default function StoryPracticeClient({
@@ -33,10 +32,15 @@ export default function StoryPracticeClient({
   uiLang,
   subject,
   dict,
-  mode,
 }: StoryPracticeClientProps) {
   
   // ✅ Kelime listesini normalize et ve boş girişleri temizle
+  const searchParams = useSearchParams();
+  const mode = searchParams.get("mode");
+
+  // Mode yoksa hiçbir şey gösterme
+  if (!mode || (mode !== "flashcard" && mode !== "writing")) return null;
+
   const normalized: Word[] = (vocab || []).map((w: any) => ({
     ...w,
     term: w.term || w.word || w.target || "", 

@@ -206,6 +206,7 @@ export default async function UnitPage({
           dict={dict} 
           lang={lang} 
           unitName={unit} 
+          subject={subject}
         />
       </Suspense>
       

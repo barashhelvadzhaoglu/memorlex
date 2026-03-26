@@ -398,6 +398,16 @@ export default async function StoryDetailPage({
           )}
         </div>
 
+        {/* Kelime Çalışma Modu - ?mode=flashcard veya ?mode=writing gelince göster */}
+        <Suspense fallback={null}>
+          <StoryPracticeClient
+            vocab={data.vocab || data.vocabulary || []}
+            uiLang={lang}
+            subject={subject}
+            dict={dict}
+          />
+        </Suspense>
+
         {/* Geri Butonu */}
         <div className="mt-12 text-center">
           <Link
