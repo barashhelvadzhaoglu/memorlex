@@ -5,7 +5,6 @@ import { notFound } from "next/navigation";
 import { getDictionary } from "@/dictionaries";
 import StoryQuestions from "./StoryQuestions";
 import PracticeAccordion from "./PracticeAccordion";
-import PracticeAccordion from "./PracticeAccordion";
 import { Suspense } from "react";
 import { Metadata } from "next";
 
