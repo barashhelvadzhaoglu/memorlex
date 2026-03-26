@@ -4,7 +4,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getDictionary } from "@/dictionaries";
 import StoryQuestions from "./StoryQuestions";
-import StoryPracticeClient from "./StoryPracticeClient";
+import PracticeAccordion from "./PracticeAccordion";
+import PracticeAccordion from "./PracticeAccordion";
 import { Suspense } from "react";
 import { Metadata } from "next";
 
@@ -351,20 +352,12 @@ export default async function StoryDetailPage({
             <h2 className="text-[14px] font-black text-slate-500 uppercase tracking-[0.2em] mb-8 italic leading-relaxed">
               {studyVocabLabel}
             </h2>
-            <div className="flex flex-col md:flex-row gap-4">
-              <Link
-                href={`/${lang}/${subject}/${level}/stories/${story}?mode=flashcard`}
-                className="flex-1 py-6 bg-blue-600 hover:bg-blue-700 text-white rounded-[30px] font-black italic uppercase transition-all shadow-xl shadow-blue-600/20 active:scale-95 flex items-center justify-center gap-3"
-              >
-                <span className="text-xl">🎴</span> {flashcardBtn}
-              </Link>
-              <Link
-                href={`/${lang}/${subject}/${level}/stories/${story}?mode=writing`}
-                className="flex-1 py-6 bg-amber-500 hover:bg-amber-600 text-white rounded-[30px] font-black italic uppercase transition-all shadow-xl shadow-amber-500/20 active:scale-95 flex items-center justify-center gap-3"
-              >
-                <span className="text-xl">✍️</span> {writingBtn}
-              </Link>
-            </div>
+            <PracticeAccordion
+              vocab={data.vocab || data.vocabulary || []}
+              uiLang={lang}
+              subject={subject}
+              dict={dict}
+            />
           </div>
 
           {/* Sonraki Hikaye */}
@@ -397,16 +390,6 @@ export default async function StoryDetailPage({
             </div>
           )}
         </div>
-
-        {/* Kelime Çalışma Modu - ?mode=flashcard veya ?mode=writing gelince göster */}
-        <Suspense fallback={null}>
-          <StoryPracticeClient
-            vocab={data.vocab || data.vocabulary || []}
-            uiLang={lang}
-            subject={subject}
-            dict={dict}
-          />
-        </Suspense>
 
         {/* Geri Butonu */}
         <div className="mt-12 text-center">
