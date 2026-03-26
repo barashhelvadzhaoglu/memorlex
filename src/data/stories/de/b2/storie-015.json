@@ -59,30 +59,222 @@
     "realistic photo, Laila walking through a park at sunset, city lights in the distance, hopeful atmosphere"
   ],
   "vocab": [
-    {"term": "der Paradigmenwechsel", "type": "Nomen", "meaning_tr": "paradigma degisimi", "meaning_en": "paradigm shift", "meaning_es": "cambio de paradigma", "meaning_uk": "zmina paradyhmy", "example": "Wir brauchen einen Paradigmenwechsel in der Fuehrungskultur."},
-    {"term": "die Restrukturierung", "type": "Nomen", "meaning_tr": "yeniden yapilanma", "meaning_en": "restructuring", "meaning_es": "reestructuración", "meaning_uk": "restrukturyzatsiia", "example": "Die Restrukturierung des Rentensystems ist kompliziert."},
-    {"term": "die Innovationskraft", "type": "Nomen", "meaning_tr": "yenilikcilik gucu", "meaning_en": "innovative power", "meaning_es": "fuerza innovadora", "meaning_uk": "innovatsiyna syla", "example": "Der Mittelstand lebt von seiner Innovationskraft."},
-    {"term": "die Interdependenz", "type": "Nomen", "meaning_tr": "birbirine bagimlilik", "meaning_en": "interdependence", "meaning_es": "interdependencia", "meaning_uk": "vzaiemozalezhnist", "example": "Die Interdependenz von Wirtschaft und Soziales ist gross."},
-    {"term": "die Diskrepanz", "type": "Nomen", "meaning_tr": "celiski", "meaning_en": "discrepancy", "meaning_es": "discrepancia", "meaning_uk": "nevidpovidnist", "example": "Es gibt eine Diskrepanz zwischen Wunsch und Realitaet."},
-    {"term": "die Souveraenitaet", "type": "Nomen", "meaning_tr": "egemenlik", "meaning_en": "sovereignty", "meaning_es": "soberanía", "meaning_uk": "suverenitet", "example": "Technologische Souveraenitaet ist fuer Firmen wichtig."},
-    {"term": "die Resonanz", "type": "Nomen", "meaning_tr": "yanki", "meaning_en": "resonance", "meaning_es": "resonancia", "meaning_uk": "rezonans", "example": "Die Resonanz auf das Gespraech war sehr positiv."},
-    {"term": "die Verhandlungsbasis", "type": "Nomen", "meaning_tr": "pazarlik temeli", "meaning_en": "basis for negotiation", "meaning_es": "base de negociación", "meaning_uk": "osnova dlya perehovoriv", "example": "Das Gehalt ist eine gute Verhandlungsbasis."},
-    {"term": "die Profitmaximierung", "type": "Nomen", "meaning_tr": "kar maksimizasyonu", "meaning_en": "profit maximization", "meaning_es": "maximización de beneficios", "meaning_uk": "maksymizatsiia prybutku", "example": "Profitmaximierung darf nicht das einzige Ziel sein."},
-    {"term": "die Altersvorsorge", "type": "Nomen", "meaning_tr": "emeklilik planlamasi", "meaning_en": "pension scheme", "meaning_es": "previsión para la vejez", "meaning_uk": "pensiine zabezpechennia", "example": "Die staatliche Altersvorsorge allein reicht nicht aus."},
-    {"term": "die Belegschaft", "type": "Nomen", "meaning_tr": "personel kadrosu", "meaning_en": "workforce", "meaning_es": "plantilla", "meaning_uk": "personal", "example": "Die Belegschaft des Unternehmens ist sehr erfahren."},
-    {"term": "die Fachkraefte", "type": "Nomen", "meaning_tr": "kalifiye elemanlar", "meaning_en": "skilled workers", "meaning_es": "personal cualificado", "meaning_uk": "kvalifikovani fakhivtsi", "example": "Der Mangel an Fachkraeften ist ein grosses Problem."},
-    {"term": "die Rekrutierung", "type": "Nomen", "meaning_tr": "ise alim", "meaning_en": "recruitment", "meaning_es": "reclutamiento", "meaning_uk": "nabir personalu", "example": "Die Rekrutierung erfolgt heute oft digital."},
-    {"term": "die Transparenz", "type": "Nomen", "meaning_tr": "seffaflik", "meaning_en": "transparency", "meaning_es": "transparencia", "meaning_uk": "prozorist", "example": "Transparenz schafft Vertrauen im Team."},
-    {"term": "die Vorreiterrolle", "type": "Nomen", "meaning_tr": "onculuk rolu", "meaning_en": "pioneering role", "meaning_es": "papel pionero", "meaning_uk": "providna rol", "example": "Die Firma nimmt eine Vorreiterrolle ein."}
+    {
+      "term": "der Paradigmenwechsel",
+      "type": "Nomen",
+      "meaning_tr": "paradigma degisimi",
+      "meaning_en": "paradigm shift",
+      "meaning_es": "cambio de paradigma",
+      "meaning_uk": "zmina paradyhmy",
+      "example": "Wir brauchen einen Paradigmenwechsel in der Fuehrungskultur."
+    },
+    {
+      "term": "die Restrukturierung",
+      "type": "Nomen",
+      "meaning_tr": "yeniden yapilanma",
+      "meaning_en": "restructuring",
+      "meaning_es": "reestructuración",
+      "meaning_uk": "restrukturyzatsiia",
+      "example": "Die Restrukturierung des Rentensystems ist kompliziert."
+    },
+    {
+      "term": "die Innovationskraft",
+      "type": "Nomen",
+      "meaning_tr": "yenilikcilik gucu",
+      "meaning_en": "innovative power",
+      "meaning_es": "fuerza innovadora",
+      "meaning_uk": "innovatsiyna syla",
+      "example": "Der Mittelstand lebt von seiner Innovationskraft."
+    },
+    {
+      "term": "die Interdependenz",
+      "type": "Nomen",
+      "meaning_tr": "birbirine bagimlilik",
+      "meaning_en": "interdependence",
+      "meaning_es": "interdependencia",
+      "meaning_uk": "vzaiemozalezhnist",
+      "example": "Die Interdependenz von Wirtschaft und Soziales ist gross."
+    },
+    {
+      "term": "die Diskrepanz",
+      "type": "Nomen",
+      "meaning_tr": "celiski",
+      "meaning_en": "discrepancy",
+      "meaning_es": "discrepancia",
+      "meaning_uk": "nevidpovidnist",
+      "example": "Es gibt eine Diskrepanz zwischen Wunsch und Realitaet."
+    },
+    {
+      "term": "die Souveraenitaet",
+      "type": "Nomen",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_es": "soberanía",
+      "meaning_uk": "suverenitet",
+      "example": "Technologische Souveraenitaet ist fuer Firmen wichtig."
+    },
+    {
+      "term": "die Resonanz",
+      "type": "Nomen",
+      "meaning_tr": "yanki",
+      "meaning_en": "resonance",
+      "meaning_es": "resonancia",
+      "meaning_uk": "rezonans",
+      "example": "Die Resonanz auf das Gespraech war sehr positiv."
+    },
+    {
+      "term": "die Verhandlungsbasis",
+      "type": "Nomen",
+      "meaning_tr": "pazarlik temeli",
+      "meaning_en": "basis for negotiation",
+      "meaning_es": "base de negociación",
+      "meaning_uk": "osnova dlya perehovoriv",
+      "example": "Das Gehalt ist eine gute Verhandlungsbasis."
+    },
+    {
+      "term": "die Profitmaximierung",
+      "type": "Nomen",
+      "meaning_tr": "kar maksimizasyonu",
+      "meaning_en": "profit maximization",
+      "meaning_es": "maximización de beneficios",
+      "meaning_uk": "maksymizatsiia prybutku",
+      "example": "Profitmaximierung darf nicht das einzige Ziel sein."
+    },
+    {
+      "term": "die Altersvorsorge",
+      "type": "Nomen",
+      "meaning_tr": "emeklilik planlamasi",
+      "meaning_en": "pension scheme",
+      "meaning_es": "previsión para la vejez",
+      "meaning_uk": "pensiine zabezpechennia",
+      "example": "Die staatliche Altersvorsorge allein reicht nicht aus."
+    },
+    {
+      "term": "die Belegschaft",
+      "type": "Nomen",
+      "meaning_tr": "personel kadrosu",
+      "meaning_en": "workforce",
+      "meaning_es": "plantilla",
+      "meaning_uk": "personal",
+      "example": "Die Belegschaft des Unternehmens ist sehr erfahren."
+    },
+    {
+      "term": "die Fachkraefte",
+      "type": "Nomen",
+      "meaning_tr": "kalifiye elemanlar",
+      "meaning_en": "skilled workers",
+      "meaning_es": "personal cualificado",
+      "meaning_uk": "kvalifikovani fakhivtsi",
+      "example": "Der Mangel an Fachkraeften ist ein grosses Problem."
+    },
+    {
+      "term": "die Rekrutierung",
+      "type": "Nomen",
+      "meaning_tr": "ise alim",
+      "meaning_en": "recruitment",
+      "meaning_es": "reclutamiento",
+      "meaning_uk": "nabir personalu",
+      "example": "Die Rekrutierung erfolgt heute oft digital."
+    },
+    {
+      "term": "die Transparenz",
+      "type": "Nomen",
+      "meaning_tr": "seffaflik",
+      "meaning_en": "transparency",
+      "meaning_es": "transparencia",
+      "meaning_uk": "prozorist",
+      "example": "Transparenz schafft Vertrauen im Team."
+    },
+    {
+      "term": "die Vorreiterrolle",
+      "type": "Nomen",
+      "meaning_tr": "onculuk rolu",
+      "meaning_en": "pioneering role",
+      "meaning_es": "papel pionero",
+      "meaning_uk": "providna rol",
+      "example": "Die Firma nimmt eine Vorreiterrolle ein."
+    }
   ],
   "questions": [
-    {"question": "Wie viel kostet Lailas S-Bahn-Ticket nach Esslingen?", "options": ["A) 3,10 Euro", "B) 4,20 Euro", "C) 2,50 Euro", "D) 5,00 Euro"], "answer": "B) 4,20 Euro"},
-    {"question": "Wann beginnt das Vorstellungsgespraech mit Ingrid?", "options": ["A) Um 08:45 Uhr", "B) Um 09:15 Uhr", "C) Um 10:45 Uhr", "D) Um 11:05 Uhr"], "answer": "B) 09:15 Uhr"},
-    {"question": "Welches Bruttojahresgehalt nennt Laila als Verhandlungsbasis?", "options": ["A) 45.000 Euro", "B) 58.000 Euro", "C) 62.000 Euro", "D) 50.000 Euro"], "answer": "B) 58.000 Euro"},
-    {"question": "Welches Datum schlaegt Laila als moeglichen Eintrittstermin vor?", "options": ["A) 1. Januar 2026", "B) 15. August 2026", "C) 1. September 2026", "D) 31. Juli 2026"], "answer": "B) 15. August 2026"},
-    {"question": "Wie viel kostet die Busfahrt zum Hauptbahnhof nach dem Gespraech?", "options": ["A) 4,20 Euro", "B) 3,10 Euro", "C) 2,50 Euro", "D) Kostenlos"], "answer": "B) 3,10 Euro"},
-    {"question": "An welchem Bahnsteig kommt Laila in Esslingen an?", "options": ["A) Bahnsteig 1", "B) Bahnsteig 3", "C) Bahnsteig 5", "D) Bahnsteig 4"], "answer": "B) Bahnsteig 3"},
-    {"question": "Was war laut Laila eine Implikation der alternden Belegschaft?", "options": ["A) Sinkende Preise", "B) Herausforderung fuer die Innovationskraft", "C) Hoehere Subventionen", "D) Weniger Dezentralisierung"], "answer": "B) Herausforderung fuer die Innovationskraft"},
-    {"question": "Was ist laut Laila das wichtigste Werkzeug in ihrem Metier?", "options": ["A) Remuneration", "B) Transparenz", "C) Konjunktur", "D) Akkumulation"], "answer": "B) Transparenz"}
+    {
+      "question": "Wie viel kostet Lailas S-Bahn-Ticket nach Esslingen?",
+      "options": [
+        "A) 3,10 Euro",
+        "B) 4,20 Euro",
+        "C) 2,50 Euro",
+        "D) 5,00 Euro"
+      ],
+      "answer": "B) 4,20 Euro"
+    },
+    {
+      "question": "Wann beginnt das Vorstellungsgespraech mit Ingrid?",
+      "options": [
+        "A) Um 08:45 Uhr",
+        "B) Um 09:15 Uhr",
+        "C) Um 10:45 Uhr",
+        "D) Um 11:05 Uhr"
+      ],
+      "answer": "B) 09:15 Uhr"
+    },
+    {
+      "question": "Welches Bruttojahresgehalt nennt Laila als Verhandlungsbasis?",
+      "options": [
+        "A) 45.000 Euro",
+        "B) 58.000 Euro",
+        "C) 62.000 Euro",
+        "D) 50.000 Euro"
+      ],
+      "answer": "B) 58.000 Euro"
+    },
+    {
+      "question": "Welches Datum schlaegt Laila als moeglichen Eintrittstermin vor?",
+      "options": [
+        "A) 1. Januar 2026",
+        "B) 15. August 2026",
+        "C) 1. September 2026",
+        "D) 31. Juli 2026"
+      ],
+      "answer": "B) 15. August 2026"
+    },
+    {
+      "question": "Wie viel kostet die Busfahrt zum Hauptbahnhof nach dem Gespraech?",
+      "options": [
+        "A) 4,20 Euro",
+        "B) 3,10 Euro",
+        "C) 2,50 Euro",
+        "D) Kostenlos"
+      ],
+      "answer": "B) 3,10 Euro"
+    },
+    {
+      "question": "An welchem Bahnsteig kommt Laila in Esslingen an?",
+      "options": [
+        "A) Bahnsteig 1",
+        "B) Bahnsteig 3",
+        "C) Bahnsteig 5",
+        "D) Bahnsteig 4"
+      ],
+      "answer": "B) Bahnsteig 3"
+    },
+    {
+      "question": "Was war laut Laila eine Implikation der alternden Belegschaft?",
+      "options": [
+        "A) Sinkende Preise",
+        "B) Herausforderung fuer die Innovationskraft",
+        "C) Hoehere Subventionen",
+        "D) Weniger Dezentralisierung"
+      ],
+      "answer": "B) Herausforderung fuer die Innovationskraft"
+    },
+    {
+      "question": "Was ist laut Laila das wichtigste Werkzeug in ihrem Metier?",
+      "options": [
+        "A) Remuneration",
+        "B) Transparenz",
+        "C) Konjunktur",
+        "D) Akkumulation"
+      ],
+      "answer": "B) Transparenz"
+    }
   ]
 }
