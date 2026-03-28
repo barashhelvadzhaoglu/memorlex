@@ -390,6 +390,32 @@ export default async function StoryDetailPage({
           )}
         </div>
 
+        {/* Vocab linkleri */}
+        <div className="mt-12 p-6 rounded-[24px] bg-slate-50 dark:bg-slate-900/50 border border-slate-100 dark:border-slate-800">
+          <h2 className="text-xs font-black uppercase tracking-widest text-slate-400 mb-4">
+            {lang === 'tr' ? 'Kelime Listelerini Çalış' 
+             : lang === 'es' ? 'Estudiar Vocabulario'
+             : lang === 'de' ? 'Vokabeln Lernen'
+             : lang === 'uk' ? 'Вивчати слова'
+             : 'Study Vocabulary'}
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {[`/${lang}/${subject}/${level}/topic`, `/${lang}/${subject}/${level}/integration`, `/${lang}/${subject}/${level}/work`].map((href) => {
+              const cat = href.split('/').pop() || '';
+              return (
+                <a key={cat} href={href}
+                   className="px-4 py-2 text-xs font-black uppercase rounded-full bg-amber-500/10 text-amber-600 dark:text-amber-400 hover:bg-amber-500 hover:text-white transition-all border border-amber-500/20">
+                  {cat === 'topic' 
+                    ? (lang === 'tr' ? '📚 Konu Bazlı' : lang === 'es' ? '📚 Por Temas' : '📚 Topic Based')
+                    : cat === 'integration'
+                    ? (lang === 'tr' ? '🏫 Entegrasyon' : lang === 'es' ? '🏫 Integración' : '🏫 Integration')
+                    : (lang === 'tr' ? '💼 İş Dünyası' : lang === 'es' ? '💼 Trabajo' : '💼 Work')}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+
         {/* Geri Butonu */}
         <div className="mt-12 text-center">
           <Link

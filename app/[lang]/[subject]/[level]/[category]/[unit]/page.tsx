@@ -202,6 +202,10 @@ export default async function UnitPage({
     uploadDate: new Date().toISOString(),
   } : null;
 
+  const subjectLabel = subject === 'german' ? (lang === 'tr' ? 'Almanca' : lang === 'es' ? 'Alemán' : lang === 'de' ? 'Deutsch' : 'German')
+    : subject === 'spanish' ? (lang === 'tr' ? 'İspanyolca' : lang === 'es' ? 'Español' : lang === 'de' ? 'Spanisch' : 'Spanish')
+    : (lang === 'tr' ? 'İngilizce' : lang === 'es' ? 'Inglés' : lang === 'de' ? 'Englisch' : 'English');
+
   return (
     <div className="unit-page-container">
       <script
@@ -216,9 +220,22 @@ export default async function UnitPage({
         />
       )}
 
+      {/* Breadcrumb */}
+      <nav className="max-w-3xl mx-auto px-4 pt-6 pb-0">
+        <ol className="flex flex-wrap items-center gap-1 text-xs font-bold text-slate-400 uppercase tracking-wider">
+          <li><a href={`/${lang}/${subject}`} className="hover:text-amber-500 transition-colors">{subjectLabel}</a></li>
+          <li className="text-slate-300">/</li>
+          <li><a href={`/${lang}/${subject}/${level}`} className="hover:text-amber-500 transition-colors">{level.toUpperCase()}</a></li>
+          <li className="text-slate-300">/</li>
+          <li><a href={`/${lang}/${subject}/${level}/${category}`} className="hover:text-amber-500 transition-colors">{category}</a></li>
+          <li className="text-slate-300">/</li>
+          <li className="text-amber-500">{unit.replace(/-/g, ' ')}</li>
+        </ol>
+      </nav>
+
       {youtubeId && (
-        <div className="max-w-4xl mx-auto px-4 pt-8">
-          <div className="aspect-video w-full rounded-[30px] overflow-hidden shadow-2xl border-4 border-slate-50 dark:border-slate-900 bg-black">
+        <div className="max-w-3xl mx-auto px-4 pt-6 pb-2">
+          <div className="aspect-video w-full rounded-[24px] overflow-hidden shadow-2xl bg-black">
             <iframe
               className="w-full h-full"
               src={`https://www.youtube.com/embed/${youtubeId}?rel=0&modestbranding=1`}
@@ -231,8 +248,8 @@ export default async function UnitPage({
       )}
 
       <Suspense fallback={
-        <div className="min-h-screen bg-white dark:bg-slate-950 flex flex-col items-center justify-center">
-          <div className="text-4xl font-black italic uppercase animate-pulse text-amber-500">
+        <div className="py-20 flex flex-col items-center justify-center">
+          <div className="text-2xl font-black italic uppercase animate-pulse text-amber-500">
             Memorlex...
           </div>
         </div>
@@ -246,6 +263,39 @@ export default async function UnitPage({
         />
       </Suspense>
       
+      {/* Diger konular */}
+      <div className="max-w-3xl mx-auto px-4 mt-16">
+        <h2 className="text-xs font-black uppercase tracking-widest text-slate-400 mb-4">
+          {lang === 'tr' ? `Diğer ${level.toUpperCase()} Konuları` 
+           : lang === 'es' ? `Otros temas ${level.toUpperCase()}`
+           : lang === 'de' ? `Andere ${level.toUpperCase()} Themen`
+           : `Other ${level.toUpperCase()} Topics`}
+        </h2>
+        <div className="flex flex-wrap gap-2">
+          {(() => {
+            const fs = require('fs');
+            const path = require('path');
+            const topicDir = path.join(process.cwd(), 'src', 'data', 'vocabulary',
+              subject === 'german' ? 'de' : subject === 'spanish' ? 'es' : 'en',
+              level, category);
+            if (!fs.existsSync(topicDir)) return null;
+            return fs.readdirSync(topicDir)
+              .filter((f: string) => f.endsWith('.json') && f.replace('.json','') !== unit)
+              .slice(0, 12)
+              .map((f: string) => {
+                const slug = f.replace('.json','');
+                return (
+                  <a key={slug}
+                     href={`/${lang}/${subject}/${level}/${category}/${slug}`}
+                     className="px-3 py-1.5 text-xs font-bold uppercase rounded-full border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-amber-500 hover:text-amber-500 transition-colors">
+                    {slug.replace(/-/g, ' ')}
+                  </a>
+                );
+              });
+          })()}
+        </div>
+      </div>
+
       <footer className="mt-20 p-10 bg-slate-50 dark:bg-slate-900/50 border-t border-slate-200 dark:border-slate-800 transition-colors">
         <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 text-sm text-slate-500">
           <div>
