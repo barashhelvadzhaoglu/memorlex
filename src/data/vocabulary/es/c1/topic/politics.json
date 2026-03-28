@@ -1,0 +1,546 @@
+{
+  "title": "Politica y Estado (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la soberanía",
+      "type": "Noun",
+      "example": "El gobierno defendió *** nacional frente a las presiones externas.",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_uk": "суверенітет",
+      "meaning_es": "autoridad suprema de un estado"
+    },
+    {
+      "term": "el sufragio",
+      "type": "Noun",
+      "example": "El *** universal es un pilar fundamental de la democracia moderna.",
+      "meaning_tr": "oy hakkı",
+      "meaning_en": "suffrage",
+      "meaning_uk": "виборче право",
+      "meaning_es": "derecho a votar"
+    },
+    {
+      "term": "ratificar",
+      "type": "Verb",
+      "example": "El parlamento debe *** el tratado internacional antes de que entre en vigor.",
+      "meaning_tr": "onaylamak",
+      "meaning_en": "to ratify",
+      "meaning_uk": "ратифікувати",
+      "meaning_es": "confirmar un acuerdo o ley"
+    },
+    {
+      "term": "la enmienda",
+      "type": "Noun",
+      "example": "Se propuso una *** constitucional para limitar los mandatos presidenciales.",
+      "meaning_tr": "değişiklik",
+      "meaning_en": "amendment",
+      "meaning_uk": "поправка",
+      "meaning_es": "modificación de una ley"
+    },
+    {
+      "term": "el escaño",
+      "type": "Noun",
+      "example": "El partido perdió un *** importante en la última sesión parlamentaria.",
+      "meaning_tr": "milletvekili koltuğu",
+      "meaning_en": "parliamentary seat",
+      "meaning_uk": "парламентське крісло",
+      "meaning_es": "asiento en una asamblea"
+    },
+    {
+      "term": "la legislatura",
+      "type": "Noun",
+      "example": "Durante esta ***, se han aprobado reformas económicas decisivas.",
+      "meaning_tr": "yasama dönemi",
+      "meaning_en": "legislative term",
+      "meaning_uk": "законодавчий термін",
+      "meaning_es": "periodo de funciones de un órgano legislativo"
+    },
+    {
+      "term": "derogar",
+      "type": "Verb",
+      "example": "Es necesario *** esa ley obsoleta que limita las libertades civiles.",
+      "meaning_tr": "yürürlükten kaldırmak",
+      "meaning_en": "to repeal",
+      "meaning_uk": "скасувати",
+      "meaning_es": "anular una ley"
+    },
+    {
+      "term": "el estado de derecho",
+      "type": "Noun",
+      "example": "La justicia independiente es la base del *** en cualquier sociedad.",
+      "meaning_tr": "hukuk devleti",
+      "meaning_en": "rule of law",
+      "meaning_uk": "верховенство права",
+      "meaning_es": "sistema donde todos están sujetos a la ley"
+    },
+    {
+      "term": "la coalición",
+      "type": "Noun",
+      "example": "Tras las elecciones, se formó una *** de gobierno entre varios partidos.",
+      "meaning_tr": "koalisyon",
+      "meaning_en": "coalition",
+      "meaning_uk": "коаліція",
+      "meaning_es": "alianza de partidos"
+    },
+    {
+      "term": "el comicio",
+      "type": "Noun",
+      "example": "Los ciudadanos están llamados a los *** el próximo domingo.",
+      "meaning_tr": "seçim",
+      "meaning_en": "election",
+      "meaning_uk": "вибори",
+      "meaning_es": "elección política"
+    },
+    {
+      "term": "la burocracia",
+      "type": "Noun",
+      "example": "La excesiva *** ralentiza la implementación de los nuevos programas públicos.",
+      "meaning_tr": "bürokrasi",
+      "meaning_en": "bureaucracy",
+      "meaning_uk": "бюрократія",
+      "meaning_es": "conjunto de normas y trámites administrativos"
+    },
+    {
+      "term": "la descentralización",
+      "type": "Noun",
+      "example": "El gobierno busca la *** para otorgar más poder a las regiones.",
+      "meaning_tr": "yerinden yönetim",
+      "meaning_en": "decentralization",
+      "meaning_uk": "децентралізація",
+      "meaning_es": "transferencia de poder a entidades locales"
+    },
+    {
+      "term": "la demagogia",
+      "type": "Noun",
+      "example": "Su discurso está lleno de *** para ganar el favor de las masas.",
+      "meaning_tr": "demagoji",
+      "meaning_en": "demagoguery",
+      "meaning_uk": "демагогія",
+      "meaning_es": "uso de halagos para manipular a la gente"
+    },
+    {
+      "term": "el bipartidismo",
+      "type": "Noun",
+      "example": "El sistema político tradicional basado en el *** está en crisis.",
+      "meaning_tr": "iki partili sistem",
+      "meaning_en": "two-party system",
+      "meaning_uk": "двопартійна система",
+      "meaning_es": "sistema dominado por dos partidos"
+    },
+    {
+      "term": "la abstención",
+      "type": "Noun",
+      "example": "La alta *** electoral preocupa a los líderes de todos los partidos.",
+      "meaning_tr": "çekimserlik",
+      "meaning_en": "abstention",
+      "meaning_uk": "утримання від голосування",
+      "meaning_es": "acción de no votar"
+    },
+    {
+      "term": "el escrutinio",
+      "type": "Noun",
+      "example": "El *** de los votos se realizará bajo supervisión internacional.",
+      "meaning_tr": "oy sayımı",
+      "meaning_en": "vote counting",
+      "meaning_uk": "підрахунок голосів",
+      "meaning_es": "acto de contar los votos"
+    },
+    {
+      "term": "la injerencia",
+      "type": "Noun",
+      "example": "El país denunció la *** extranjera en sus asuntos internos.",
+      "meaning_tr": "müdahale",
+      "meaning_en": "interference",
+      "meaning_uk": "втручання",
+      "meaning_es": "intromisión en asuntos ajenos"
+    },
+    {
+      "term": "fomentar",
+      "type": "Verb",
+      "example": "El ministerio busca *** la participación ciudadana en la toma de decisiones.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to foster/promote",
+      "meaning_uk": "сприяти",
+      "meaning_es": "impulsar una idea o acción"
+    },
+    {
+      "term": "la gobernanza",
+      "type": "Noun",
+      "example": "Una buena *** requiere transparencia y rendición de cuentas.",
+      "meaning_tr": "yönetişim",
+      "meaning_en": "governance",
+      "meaning_uk": "врядування",
+      "meaning_es": "arte de gobernar de forma eficiente"
+    },
+    {
+      "term": "el consenso",
+      "type": "Noun",
+      "example": "Fue difícil alcanzar un *** entre todas las fuerzas políticas.",
+      "meaning_tr": "uzlaşı",
+      "meaning_en": "consensus",
+      "meaning_uk": "консенсус",
+      "meaning_es": "acuerdo común"
+    },
+    {
+      "term": "la normativa",
+      "type": "Noun",
+      "example": "La nueva *** europea exige estándares de seguridad más estrictos.",
+      "meaning_tr": "yönetmelik",
+      "meaning_en": "regulations",
+      "meaning_uk": "нормативна база",
+      "meaning_es": "conjunto de leyes o reglas"
+    },
+    {
+      "term": "la fiscalización",
+      "type": "Noun",
+      "example": "El tribunal de cuentas se encarga de la *** de los fondos públicos.",
+      "meaning_tr": "denetim",
+      "meaning_en": "oversight/audit",
+      "meaning_uk": "фінансовий контроль",
+      "meaning_es": "inspección de cuentas"
+    },
+    {
+      "term": "la alternancia",
+      "type": "Noun",
+      "example": "La *** en el poder es un signo de salud democrática.",
+      "meaning_tr": "değişim/nöbetleşme",
+      "meaning_en": "alternation",
+      "meaning_uk": "зміна влади",
+      "meaning_es": "cambio sucesivo en el gobierno"
+    },
+    {
+      "term": "el plebiscito",
+      "type": "Noun",
+      "example": "Se convocó un *** para decidir sobre la nueva constitución.",
+      "meaning_tr": "halk oylaması",
+      "meaning_en": "plebiscite",
+      "meaning_uk": "плебісцит",
+      "meaning_es": "consulta popular directa"
+    },
+    {
+      "term": "la investidura",
+      "type": "Noun",
+      "example": "El candidato no logró los apoyos necesarios en la sesión de ***.",
+      "meaning_tr": "göreve başlama",
+      "meaning_en": "inauguration/investiture",
+      "meaning_uk": "інавгурація",
+      "meaning_es": "acto de toma de posesión"
+    },
+    {
+      "term": "el activismo",
+      "type": "Noun",
+      "example": "Su *** político ha sido fundamental para cambiar las leyes locales.",
+      "meaning_tr": "aktivizm",
+      "meaning_en": "activism",
+      "meaning_uk": "активізм",
+      "meaning_es": "dedicación a una causa política"
+    },
+    {
+      "term": "la hegemonía",
+      "type": "Noun",
+      "example": "El partido mantuvo su *** electoral durante dos décadas.",
+      "meaning_tr": "hegemonya",
+      "meaning_en": "hegemony",
+      "meaning_uk": "гегемонія",
+      "meaning_es": "supremacía de una entidad sobre otras"
+    },
+    {
+      "term": "el gabinete",
+      "type": "Noun",
+      "example": "El presidente presentó a los nuevos miembros de su *** ministerial.",
+      "meaning_tr": "kabine",
+      "meaning_en": "cabinet",
+      "meaning_uk": "кабінет міністрів",
+      "meaning_es": "conjunto de ministros"
+    },
+    {
+      "term": "la impugnación",
+      "type": "Noun",
+      "example": "La oposición presentó una *** contra los resultados electorales.",
+      "meaning_tr": "itiraz",
+      "meaning_en": "challenge/impugnation",
+      "meaning_uk": "оскарження",
+      "meaning_es": "acción de cuestionar una decisión"
+    },
+    {
+      "term": "la autocracia",
+      "type": "Noun",
+      "example": "El régimen derivó gradualmente hacia una *** cerrada.",
+      "meaning_tr": "otokrasi",
+      "meaning_en": "autocracy",
+      "meaning_uk": "автократія",
+      "meaning_es": "gobierno de una sola persona"
+    },
+    {
+      "term": "la transparencia",
+      "type": "Noun",
+      "example": "La *** es esencial para recuperar la confianza de los ciudadanos.",
+      "meaning_tr": "şeffaflık",
+      "meaning_en": "transparency",
+      "meaning_uk": "прозорість",
+      "meaning_es": "cualidad de ser claro y abierto"
+    },
+    {
+      "term": "la diplomacia",
+      "type": "Noun",
+      "example": "La *** es la mejor herramienta para resolver este conflicto fronterizo.",
+      "meaning_tr": "diplomasi",
+      "meaning_en": "diplomacy",
+      "meaning_uk": "дипломатія",
+      "meaning_es": "gestión de relaciones internacionales"
+    },
+    {
+      "term": "el electorado",
+      "type": "Noun",
+      "example": "Los candidatos intentan captar la atención del *** indeciso.",
+      "meaning_tr": "seçmen kitlesi",
+      "meaning_en": "electorate",
+      "meaning_uk": "електорат",
+      "meaning_es": "conjunto de personas con derecho a voto"
+    },
+    {
+      "term": "promulgar",
+      "type": "Verb",
+      "example": "El gobierno se prepara para *** una nueva ley de educación.",
+      "meaning_tr": "yürürlüğe koymak",
+      "meaning_en": "to enact/promulgate",
+      "meaning_uk": "оприлюднити закон",
+      "meaning_es": "hacer pública una ley"
+    },
+    {
+      "term": "la polarización",
+      "type": "Noun",
+      "example": "La *** política dificulta el diálogo entre las distintas facciones.",
+      "meaning_tr": "kutuplaşma",
+      "meaning_en": "polarization",
+      "meaning_uk": "поляризація",
+      "meaning_es": "división extrema de opiniones"
+    },
+    {
+      "term": "el populismo",
+      "type": "Noun",
+      "example": "El auge del *** es un fenómeno creciente en muchas democracias.",
+      "meaning_tr": "popülizm",
+      "meaning_en": "populism",
+      "meaning_uk": "популізм",
+      "meaning_es": "ideología que apela a los intereses del pueblo"
+    },
+    {
+      "term": "la rendición de cuentas",
+      "type": "Noun",
+      "example": "Exigimos una mayor *** por parte de los funcionarios públicos.",
+      "meaning_tr": "hesap verebilirlik",
+      "meaning_en": "accountability",
+      "meaning_uk": "підзвітність",
+      "meaning_es": "obligación de explicar las propias acciones"
+    },
+    {
+      "term": "la jurisdicción",
+      "type": "Noun",
+      "example": "Este tribunal no tiene *** sobre casos de ámbito internacional.",
+      "meaning_tr": "yargı yetkisi",
+      "meaning_en": "jurisdiction",
+      "meaning_uk": "юрисдикція",
+      "meaning_es": "ámbito de autoridad legal"
+    },
+    {
+      "term": "la reforma",
+      "type": "Noun",
+      "example": "La *** del sistema electoral es un tema de debate constante.",
+      "meaning_tr": "reform",
+      "meaning_en": "reform",
+      "meaning_uk": "реформа",
+      "meaning_es": "modificación para mejorar algo"
+    },
+    {
+      "term": "el cabildeo",
+      "type": "Noun",
+      "example": "El *** influye significativamente en las decisiones parlamentarias.",
+      "meaning_tr": "lobicilik",
+      "meaning_en": "lobbying",
+      "meaning_uk": "лобіювання",
+      "meaning_es": "presión organizada sobre políticos"
+    },
+    {
+      "term": "la disidencia",
+      "type": "Noun",
+      "example": "El régimen persigue a cualquier forma de *** interna.",
+      "meaning_tr": "muhalefet/aykırılık",
+      "meaning_en": "dissent",
+      "meaning_uk": "інакомислення",
+      "meaning_es": "oposición a una doctrina o gobierno"
+    },
+    {
+      "term": "la legitimidad",
+      "type": "Noun",
+      "example": "La *** del nuevo gobierno es cuestionada por la oposición.",
+      "meaning_tr": "meşruiyet",
+      "meaning_en": "legitimacy",
+      "meaning_uk": "легітимність",
+      "meaning_es": "calidad de ser conforme a la ley"
+    },
+    {
+      "term": "el mandato",
+      "type": "Noun",
+      "example": "Al final de su ***, el presidente prometió una transición pacífica.",
+      "meaning_tr": "yetki süresi",
+      "meaning_en": "term of office",
+      "meaning_uk": "мандат",
+      "meaning_es": "periodo de ejercicio de un cargo"
+    },
+    {
+      "term": "la monarquía",
+      "type": "Noun",
+      "example": "El país funciona bajo una *** parlamentaria desde hace años.",
+      "meaning_tr": "monarşi",
+      "meaning_en": "monarchy",
+      "meaning_uk": "монархія",
+      "meaning_es": "sistema de gobierno con un rey"
+    },
+    {
+      "term": "la república",
+      "type": "Noun",
+      "example": "El movimiento aboga por la transición hacia una *** laica.",
+      "meaning_tr": "cumhuriyet",
+      "meaning_en": "republic",
+      "meaning_uk": "республіка",
+      "meaning_es": "forma de gobierno sin monarca"
+    },
+    {
+      "term": "la burocrático",
+      "type": "Adjective",
+      "example": "El proceso es demasiado *** para los ciudadanos comunes.",
+      "meaning_tr": "bürokratik",
+      "meaning_en": "bureaucratic",
+      "meaning_uk": "бюрократичний",
+      "meaning_es": "relativo a la burocracia"
+    },
+    {
+      "term": "la legislativo",
+      "type": "Adjective",
+      "example": "El poder *** es independiente del ejecutivo.",
+      "meaning_tr": "yasama ile ilgili",
+      "meaning_en": "legislative",
+      "meaning_uk": "законодавчий",
+      "meaning_es": "relativo a las leyes"
+    },
+    {
+      "term": "la ejecutivo",
+      "type": "Adjective",
+      "example": "El poder *** debe velar por la ejecución de las leyes.",
+      "meaning_tr": "yürütme ile ilgili",
+      "meaning_en": "executive",
+      "meaning_uk": "виконавчий",
+      "meaning_es": "relativo al poder de ejecutar"
+    },
+    {
+      "term": "la constitucional",
+      "type": "Adjective",
+      "example": "El tribunal *** declaró nula la medida por ser inconstitucional.",
+      "meaning_tr": "anayasal",
+      "meaning_en": "constitutional",
+      "meaning_uk": "конституційний",
+      "meaning_es": "relativo a la constitución"
+    },
+    {
+      "term": "políticamente",
+      "type": "Adverb",
+      "example": "La situación es *** inestable tras los últimos eventos.",
+      "meaning_tr": "siyasi olarak",
+      "meaning_en": "politically",
+      "meaning_uk": "політично",
+      "meaning_es": "desde un punto de vista político"
+    },
+    {
+      "term": "la diplomático",
+      "type": "Adjective",
+      "example": "Se requiere un enfoque *** para resolver la crisis actual.",
+      "meaning_tr": "diplomatik",
+      "meaning_en": "diplomatic",
+      "meaning_uk": "дипломатичний",
+      "meaning_es": "relativo a la diplomacia"
+    },
+    {
+      "term": "la electoral",
+      "type": "Adjective",
+      "example": "La campaña *** ha sido una de las más intensas de la historia.",
+      "meaning_tr": "seçim ile ilgili",
+      "meaning_en": "electoral",
+      "meaning_uk": "виборчий",
+      "meaning_es": "relativo a las elecciones"
+    },
+    {
+      "term": "la partidista",
+      "type": "Adjective",
+      "example": "El informe fue criticado por su visión demasiado ***.",
+      "meaning_tr": "taraflı",
+      "meaning_en": "partisan",
+      "meaning_uk": "партійний/упереджений",
+      "meaning_es": "que favorece a un partido"
+    },
+    {
+      "term": "la soberano",
+      "type": "Adjective",
+      "example": "El pueblo es el único ente *** en una democracia.",
+      "meaning_tr": "egemen",
+      "meaning_en": "sovereign",
+      "meaning_uk": "суверенний",
+      "meaning_es": "que tiene soberanía"
+    },
+    {
+      "term": "la autoritario",
+      "type": "Adjective",
+      "example": "El gobierno adoptó un estilo *** para silenciar las protestas.",
+      "meaning_tr": "otoriter",
+      "meaning_en": "authoritarian",
+      "meaning_uk": "авторитарний",
+      "meaning_es": "que impone su autoridad"
+    },
+    {
+      "term": "la democrático",
+      "type": "Adjective",
+      "example": "Debemos fortalecer el sistema *** para evitar su colapso.",
+      "meaning_tr": "demokratik",
+      "meaning_en": "democratic",
+      "meaning_uk": "демократичний",
+      "meaning_es": "relativo a la democracia"
+    },
+    {
+      "term": "la social",
+      "type": "Adjective",
+      "example": "El estado de bienestar es un pilar fundamental de la política ***.",
+      "meaning_tr": "sosyal",
+      "meaning_en": "social",
+      "meaning_uk": "соціальний",
+      "meaning_es": "relativo a la sociedad"
+    },
+    {
+      "term": "la estatal",
+      "type": "Adjective",
+      "example": "La empresa *** fue privatizada el año pasado.",
+      "meaning_tr": "devlete ait",
+      "meaning_en": "state (adjective)",
+      "meaning_uk": "державний",
+      "meaning_es": "perteneciente al estado"
+    },
+    {
+      "term": "la gubernamental",
+      "type": "Adjective",
+      "example": "La agencia *** publicó un informe sobre la situación económica.",
+      "meaning_tr": "hükümet ile ilgili",
+      "meaning_en": "governmental",
+      "meaning_uk": "урядовий",
+      "meaning_es": "relativo al gobierno"
+    },
+    {
+      "term": "la internacional",
+      "type": "Adjective",
+      "example": "La cooperación *** es clave para combatir el cambio climático.",
+      "meaning_tr": "uluslararası",
+      "meaning_en": "international",
+      "meaning_uk": "міжнародний",
+      "meaning_es": "que involucra a varias naciones"
+    }
+  ]
+}

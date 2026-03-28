@@ -1,0 +1,231 @@
+{
+  "title": "Cambio Climatico (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el cambio climático",
+      "type": "Noun",
+      "example": "*** es un problema muy serio para nuestro planeta.",
+      "meaning_tr": "iklim değişikliği",
+      "meaning_en": "climate change",
+      "meaning_uk": "зміна клімату",
+      "meaning_es": "variación global del clima de la Tierra"
+    },
+    {
+      "term": "la contaminación",
+      "type": "Noun",
+      "example": "Debemos reducir *** en las ciudades grandes.",
+      "meaning_tr": "kirlilik",
+      "meaning_en": "pollution",
+      "meaning_uk": "забруднення",
+      "meaning_es": "degradación del medio ambiente"
+    },
+    {
+      "term": "reciclar",
+      "type": "Verb",
+      "example": "Es importante *** el papel y el plástico en casa.",
+      "meaning_tr": "geri dönüşüm yapmak",
+      "meaning_en": "to recycle",
+      "meaning_uk": "переробляти",
+      "meaning_es": "someter materiales usados a un proceso de transformación"
+    },
+    {
+      "term": "el planeta",
+      "type": "Noun",
+      "example": "Tenemos que cuidar *** porque es nuestro hogar.",
+      "meaning_tr": "gezegen",
+      "meaning_en": "planet",
+      "meaning_uk": "планета",
+      "meaning_es": "cuerpo celeste que gira alrededor de una estrella"
+    },
+    {
+      "term": "caliente",
+      "type": "Adjective",
+      "example": "El verano es cada vez más *** en muchas regiones.",
+      "meaning_tr": "sıcak",
+      "meaning_en": "hot",
+      "meaning_uk": "гарячий",
+      "meaning_es": "que tiene mucha temperatura"
+    },
+    {
+      "term": "la basura",
+      "type": "Noun",
+      "example": "No debemos tirar *** al suelo ni al mar.",
+      "meaning_tr": "çöp",
+      "meaning_en": "trash",
+      "meaning_uk": "сміття",
+      "meaning_es": "residuos o desperdicios"
+    },
+    {
+      "term": "proteger",
+      "type": "Verb",
+      "example": "Es necesario *** los bosques para salvar a los animales.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to protect",
+      "meaning_uk": "захищати",
+      "meaning_es": "resguardar a alguien o algo de peligro o daño"
+    },
+    {
+      "term": "el medio ambiente",
+      "type": "Noun",
+      "example": "*** necesita nuestra ayuda urgente.",
+      "meaning_tr": "çevre",
+      "meaning_en": "environment",
+      "meaning_uk": "навколишнє середовище",
+      "meaning_es": "conjunto de elementos físicos y biológicos que rodean a los seres vivos"
+    },
+    {
+      "term": "dañino",
+      "type": "Adjective",
+      "example": "El humo de las fábricas es muy *** para el aire.",
+      "meaning_tr": "zararlı",
+      "meaning_en": "harmful",
+      "meaning_uk": "шкідливий",
+      "meaning_es": "que causa daño"
+    },
+    {
+      "term": "ahorrar",
+      "type": "Verb",
+      "example": "Debemos *** agua cuando nos lavamos los dientes.",
+      "meaning_tr": "tasarruf etmek",
+      "meaning_en": "to save",
+      "meaning_uk": "економити",
+      "meaning_es": "evitar el gasto innecesario de un recurso"
+    },
+    {
+      "term": "la energía",
+      "type": "Noun",
+      "example": "Podemos usar *** solar para iluminar las casas.",
+      "meaning_tr": "enerji",
+      "meaning_en": "energy",
+      "meaning_uk": "енергія",
+      "meaning_es": "capacidad para realizar un trabajo o producir movimiento"
+    },
+    {
+      "term": "natural",
+      "type": "Adjective",
+      "example": "Debemos consumir productos de origen ***.",
+      "meaning_tr": "doğal",
+      "meaning_en": "natural",
+      "meaning_uk": "природний",
+      "meaning_es": "que procede de la naturaleza"
+    },
+    {
+      "term": "el bosque",
+      "type": "Noun",
+      "example": "Hay muchos árboles en *** cerca de mi pueblo.",
+      "meaning_tr": "orman",
+      "meaning_en": "forest",
+      "meaning_uk": "ліс",
+      "meaning_es": "terreno extenso poblado de árboles"
+    },
+    {
+      "term": "reducir",
+      "type": "Verb",
+      "example": "Tenemos que *** el uso de coches privados.",
+      "meaning_tr": "azaltmak",
+      "meaning_en": "to reduce",
+      "meaning_uk": "зменшувати",
+      "meaning_es": "hacer menor la cantidad de algo"
+    },
+    {
+      "term": "el agua",
+      "type": "Noun",
+      "example": "*** es fundamental para la vida en la Tierra.",
+      "meaning_tr": "su",
+      "meaning_en": "water",
+      "meaning_uk": "вода",
+      "meaning_es": "sustancia líquida esencial para los seres vivos"
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "example": "El transporte público es una opción *** para la ciudad.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "que se puede mantener sin agotar los recursos"
+    },
+    {
+      "term": "la sequía",
+      "type": "Noun",
+      "example": "La falta de lluvia provoca una gran *** en el campo.",
+      "meaning_tr": "kuraklık",
+      "meaning_en": "drought",
+      "meaning_uk": "посуха",
+      "meaning_es": "largo periodo sin lluvia"
+    },
+    {
+      "term": "limpio",
+      "type": "Adjective",
+      "example": "Queremos un aire *** para respirar mejor.",
+      "meaning_tr": "temiz",
+      "meaning_en": "clean",
+      "meaning_uk": "чистий",
+      "meaning_es": "que no tiene suciedad"
+    },
+    {
+      "term": "la temperatura",
+      "type": "Noun",
+      "example": "*** global ha subido en los últimos años.",
+      "meaning_tr": "sıcaklık",
+      "meaning_en": "temperature",
+      "meaning_uk": "температура",
+      "meaning_es": "grado de calor de la atmósfera"
+    },
+    {
+      "term": "el aire",
+      "type": "Noun",
+      "example": "El *** de la montaña es muy puro.",
+      "meaning_tr": "hava",
+      "meaning_en": "air",
+      "meaning_uk": "повітря",
+      "meaning_es": "mezcla de gases que forma la atmósfera"
+    },
+    {
+      "term": "grave",
+      "type": "Adjective",
+      "example": "El problema de los incendios es muy ***.",
+      "meaning_tr": "ciddi",
+      "meaning_en": "serious",
+      "meaning_uk": "серйозний",
+      "meaning_es": "que tiene importancia o peligro"
+    },
+    {
+      "term": "la fábrica",
+      "type": "Noun",
+      "example": "*** emite mucho humo negro al cielo.",
+      "meaning_tr": "fabrika",
+      "meaning_en": "factory",
+      "meaning_uk": "фабрика",
+      "meaning_es": "lugar donde se producen objetos industriales"
+    },
+    {
+      "term": "siempre",
+      "type": "Adverb",
+      "example": "Debemos *** apagar la luz al salir de una habitación.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "en todo momento"
+    },
+    {
+      "term": "porque",
+      "type": "Conjunction",
+      "example": "Cuidamos el planeta *** es nuestra responsabilidad.",
+      "meaning_tr": "çünkü",
+      "meaning_en": "because",
+      "meaning_uk": "тому що",
+      "meaning_es": "conjunción causal"
+    },
+    {
+      "term": "cerca",
+      "type": "Adverb",
+      "example": "No hay ríos *** de este lugar.",
+      "meaning_tr": "yakın",
+      "meaning_en": "near",
+      "meaning_uk": "близько",
+      "meaning_es": "a poca distancia"
+    }
+  ]
+}

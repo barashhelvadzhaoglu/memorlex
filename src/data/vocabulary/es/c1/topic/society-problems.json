@@ -1,0 +1,546 @@
+{
+  "title": "Problemas Sociales (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la brecha salarial",
+      "type": "Noun",
+      "example": "Es fundamental implementar políticas para cerrar *** entre hombres y mujeres.",
+      "meaning_tr": "maaş farkı",
+      "meaning_en": "wage gap",
+      "meaning_uk": "розрив у оплаті праці",
+      "meaning_es": "Diferencia de ingresos entre diferentes grupos sociales."
+    },
+    {
+      "term": "la precariedad",
+      "type": "Noun",
+      "example": "Muchos jóvenes sufren *** laboral con contratos temporales.",
+      "meaning_tr": "güvencesizlik",
+      "meaning_en": "precariousness",
+      "meaning_uk": "нестабільність",
+      "meaning_es": "Falta de estabilidad, seguridad o recursos suficientes."
+    },
+    {
+      "term": "el desahucio",
+      "type": "Noun",
+      "example": "La plataforma detuvo *** de una familia con tres hijos.",
+      "meaning_tr": "tahliye",
+      "meaning_en": "eviction",
+      "meaning_uk": "виселення",
+      "meaning_es": "Acto de despedir a un inquilino mediante acción legal."
+    },
+    {
+      "term": "el sinhogarismo",
+      "type": "Noun",
+      "example": "El aumento del *** es una señal de crisis en la vivienda.",
+      "meaning_tr": "evsizlik",
+      "meaning_en": "homelessness",
+      "meaning_uk": "бездомність",
+      "meaning_es": "Circunstancia de las personas que carecen de un lugar estable para vivir."
+    },
+    {
+      "term": "la exclusión social",
+      "type": "Noun",
+      "example": "La falta de educación digital puede llevar a ***.",
+      "meaning_tr": "sosyal dışlanma",
+      "meaning_en": "social exclusion",
+      "meaning_uk": "соціальне відчуження",
+      "meaning_es": "Falta de participación de segmentos de la población en la vida social."
+    },
+    {
+      "term": "la xenofobia",
+      "type": "Noun",
+      "example": "Debemos combatir *** con educación y tolerancia.",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "xenophobia",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "Rechazo, odio u hostilidad hacia los extranjeros."
+    },
+    {
+      "term": "la aporofobia",
+      "type": "Noun",
+      "example": "El rechazo a las personas pobres se define como ***.",
+      "meaning_tr": "fakir düşmanlığı",
+      "meaning_en": "aporophobia",
+      "meaning_uk": "апорофобія",
+      "meaning_es": "Miedo o rechazo hacia las personas pobres o desamparadas."
+    },
+    {
+      "term": "el techo de cristal",
+      "type": "Noun",
+      "example": "Las mujeres todavía se enfrentan a *** en las grandes corporaciones.",
+      "meaning_tr": "cam tavan",
+      "meaning_en": "glass ceiling",
+      "meaning_uk": "скляна стеля",
+      "meaning_es": "Limitación invisible del ascenso laboral de las mujeres."
+    },
+    {
+      "term": "la gentrificación",
+      "type": "Noun",
+      "example": "La *** ha expulsado a los vecinos tradicionales del barrio.",
+      "meaning_tr": "soylulaştırma",
+      "meaning_en": "gentrification",
+      "meaning_uk": "джентрифікація",
+      "meaning_es": "Transformación de un barrio degradado en uno de clase alta."
+    },
+    {
+      "term": "el clientelismo",
+      "type": "Noun",
+      "example": "La política regional está empañada por *** y el favoritismo.",
+      "meaning_tr": "kayırmacılık",
+      "meaning_en": "clientelism",
+      "meaning_uk": "клієнтелизм",
+      "meaning_es": "Sistema de intercambio de favores por apoyo político."
+    },
+    {
+      "term": "la malversación",
+      "type": "Noun",
+      "example": "El exalcalde fue condenado por *** de fondos públicos.",
+      "meaning_tr": "zimmete para geçirme",
+      "meaning_en": "embezzlement",
+      "meaning_uk": "розкрадання",
+      "meaning_es": "Uso indebido o ilícito de caudales públicos."
+    },
+    {
+      "term": "la impunidad",
+      "type": "Noun",
+      "example": "No podemos permitir que los corruptos actúen con total ***.",
+      "meaning_tr": "cezasızlık",
+      "meaning_en": "impunity",
+      "meaning_uk": "безкарність",
+      "meaning_es": "Falta de castigo para un delito cometido."
+    },
+    {
+      "term": "el hacinamiento",
+      "type": "Noun",
+      "example": "El *** en las prisiones es un problema de derechos humanos.",
+      "meaning_tr": "aşırı kalabalık",
+      "meaning_en": "overcrowding",
+      "meaning_uk": "скупченість",
+      "meaning_es": "Acumulación de personas en un espacio insuficiente."
+    },
+    {
+      "term": "la trata de personas",
+      "type": "Noun",
+      "example": "La policía desarticuló una red dedicada a ***.",
+      "meaning_tr": "insan ticareti",
+      "meaning_en": "human trafficking",
+      "meaning_uk": "торгівля людьми",
+      "meaning_es": "Comercio ilegal de seres humanos con fines de explotación."
+    },
+    {
+      "term": "la marginación",
+      "type": "Noun",
+      "example": "Ciertas minorías viven en una situación de *** extrema.",
+      "meaning_tr": "marjinalleşme",
+      "meaning_en": "marginalization",
+      "meaning_uk": "маргіналізація",
+      "meaning_es": "Situación de aislamiento de una persona o grupo en la sociedad."
+    },
+    {
+      "term": "el analfabetismo",
+      "type": "Noun",
+      "example": "Erradicar *** funcional es un reto del siglo XXI.",
+      "meaning_tr": "okuma yazma bilmeme",
+      "meaning_en": "illiteracy",
+      "meaning_uk": "неписьменність",
+      "meaning_es": "Falta de instrucción básica o incapacidad de leer y escribir."
+    },
+    {
+      "term": "la hambruna",
+      "type": "Noun",
+      "example": "La sequía prolongada ha provocado una grave *** en la región.",
+      "meaning_tr": "kıtlık",
+      "meaning_en": "famine",
+      "meaning_uk": "голод",
+      "meaning_es": "Escasez generalizada de alimentos en una región."
+    },
+    {
+      "term": "el desempleo estructural",
+      "type": "Noun",
+      "example": "La automatización está aumentando *** en el sector industrial.",
+      "meaning_tr": "yapısal işsizlik",
+      "meaning_en": "structural unemployment",
+      "meaning_uk": "структурне безробіття",
+      "meaning_es": "Desempleo que surge de cambios en la estructura económica."
+    },
+    {
+      "term": "la delincuencia juvenil",
+      "type": "Noun",
+      "example": "La falta de oportunidades suele fomentar ***.",
+      "meaning_tr": "çocuk suçluluğu",
+      "meaning_en": "juvenile delinquency",
+      "meaning_uk": "злочинність серед неповнолітніх",
+      "meaning_es": "Delitos cometidos por personas menores de edad."
+    },
+    {
+      "term": "la segregación",
+      "type": "Noun",
+      "example": "El urbanismo actual a veces favorece *** de las clases bajas.",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "segregation",
+      "meaning_uk": "сегрегація",
+      "meaning_es": "Separación de grupos sociales por motivos raciales, económicos o sociales."
+    },
+    {
+      "term": "erradicar",
+      "type": "Verb",
+      "example": "El objetivo de la ONU es *** la pobreza extrema para 2030.",
+      "meaning_tr": "kökünü kazımak",
+      "meaning_en": "to eradicate",
+      "meaning_uk": "викорінювати",
+      "meaning_es": "Eliminar algo por completo, especialmente algo negativo."
+    },
+    {
+      "term": "paliar",
+      "type": "Verb",
+      "example": "Se necesitan medidas urgentes para *** los efectos de la crisis.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to mitigate",
+      "meaning_uk": "пом'якшувати",
+      "meaning_es": "Mitigar o suavizar el rigor de una situación negativa."
+    },
+    {
+      "term": "agudizar",
+      "type": "Verb",
+      "example": "La falta de inversión puede *** los problemas sociales existentes.",
+      "meaning_tr": "şiddetlendirmek",
+      "meaning_en": "to worsen",
+      "meaning_uk": "загострювати",
+      "meaning_es": "Hacer más grave o intenso un problema."
+    },
+    {
+      "term": "segregar",
+      "type": "Verb",
+      "example": "No se debe *** a los alumnos por su origen étnico.",
+      "meaning_tr": "ayırmak",
+      "meaning_en": "to segregate",
+      "meaning_uk": "сегрегувати",
+      "meaning_es": "Separar o apartar una cosa de otra o a una persona de un grupo."
+    },
+    {
+      "term": "marginar",
+      "type": "Verb",
+      "example": "La sociedad tiende a *** a quienes no siguen las normas.",
+      "meaning_tr": "dışlamak",
+      "meaning_en": "to marginalize",
+      "meaning_uk": "маргіналізувати",
+      "meaning_es": "Dejar a una persona o grupo fuera de los beneficios sociales."
+    },
+    {
+      "term": "reivindicar",
+      "type": "Verb",
+      "example": "Los trabajadores salieron a la calle para *** sus derechos.",
+      "meaning_tr": "hak talep etmek",
+      "meaning_en": "to claim",
+      "meaning_uk": "відстоювати",
+      "meaning_es": "Reclamar algo a lo que se tiene derecho."
+    },
+    {
+      "term": "concienciar",
+      "type": "Verb",
+      "example": "Es vital *** a la población sobre el cambio climático.",
+      "meaning_tr": "bilinçlendirmek",
+      "meaning_en": "to raise awareness",
+      "meaning_uk": "усвідомлювати",
+      "meaning_es": "Hacer que alguien sea consciente de algo."
+    },
+    {
+      "term": "perpetuar",
+      "type": "Verb",
+      "example": "Algunos estereotipos solo sirven para *** la desigualdad.",
+      "meaning_tr": "sürdürmek",
+      "meaning_en": "to perpetuate",
+      "meaning_uk": "увічнювати",
+      "meaning_es": "Hacer que algo dure mucho tiempo o para siempre."
+    },
+    {
+      "term": "delinquir",
+      "type": "Verb",
+      "example": "Muchos jóvenes terminan por *** debido a la falta de guía.",
+      "meaning_tr": "suç işlemek",
+      "meaning_en": "to commit a crime",
+      "meaning_uk": "скоювати злочин",
+      "meaning_es": "Cometer un delito o una infracción legal."
+    },
+    {
+      "term": "vulnerar",
+      "type": "Verb",
+      "example": "Estas leyes podrían *** los derechos fundamentales de los ciudadanos.",
+      "meaning_tr": "ihlal etmek",
+      "meaning_en": "to infringe",
+      "meaning_uk": "порушувати",
+      "meaning_es": "Dañar o perjudicar un derecho o una ley."
+    },
+    {
+      "term": "desahuciar",
+      "type": "Verb",
+      "example": "El banco planea *** a los inquilinos el próximo lunes.",
+      "meaning_tr": "tahliye etmek",
+      "meaning_en": "to evict",
+      "meaning_uk": "виселяти",
+      "meaning_es": "Expulsar a una persona de su vivienda por medios legales."
+    },
+    {
+      "term": "amparar",
+      "type": "Verb",
+      "example": "La ley debe *** a las víctimas de violencia doméstica.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to protect",
+      "meaning_uk": "захищати",
+      "meaning_es": "Dar protección, favor o refugio."
+    },
+    {
+      "term": "coaccionar",
+      "type": "Verb",
+      "example": "Nadie tiene derecho a *** a otro para que cambie su voto.",
+      "meaning_tr": "zorlamak",
+      "meaning_en": "to coerce",
+      "meaning_uk": "примушувати",
+      "meaning_es": "Forzar a alguien mediante la fuerza o el poder a hacer algo."
+    },
+    {
+      "term": "sobornar",
+      "type": "Verb",
+      "example": "Intentaron *** al oficial para evitar la multa.",
+      "meaning_tr": "rüşvet vermek",
+      "meaning_en": "to bribe",
+      "meaning_uk": "підкуповувати",
+      "meaning_es": "Corromper a alguien con dinero o regalos para obtener un favor."
+    },
+    {
+      "term": "malversar",
+      "type": "Verb",
+      "example": "Es un delito grave *** los impuestos de los ciudadanos.",
+      "meaning_tr": "zimmete geçirmek",
+      "meaning_en": "to embezzle",
+      "meaning_uk": "розкрадати",
+      "meaning_es": "Dar un destino ilícito a los fondos públicos."
+    },
+    {
+      "term": "hostigar",
+      "type": "Verb",
+      "example": "El grupo empezó a *** a la minoría local de forma sistemática.",
+      "meaning_tr": "taciz etmek",
+      "meaning_en": "to harass",
+      "meaning_uk": "цькувати",
+      "meaning_es": "Acosar o molestar a alguien de manera insistente."
+    },
+    {
+      "term": "discriminar",
+      "type": "Verb",
+      "example": "No se puede *** a nadie por su orientación sexual.",
+      "meaning_tr": "ayrımcılık yapmak",
+      "meaning_en": "to discriminate",
+      "meaning_uk": "дискримінувати",
+      "meaning_es": "Dar trato de inferioridad a una persona por motivos raciales, religiosos, etc."
+    },
+    {
+      "term": "mediar",
+      "type": "Verb",
+      "example": "La ONG intentó *** entre las dos bandas rivales.",
+      "meaning_tr": "arabuluculuk yapmak",
+      "meaning_en": "to mediate",
+      "meaning_uk": "посередничати",
+      "meaning_es": "Intervenir en una discusión para ayudar a llegar a un acuerdo."
+    },
+    {
+      "term": "mitigar",
+      "type": "Verb",
+      "example": "El gobierno busca *** la pobreza mediante subsidios.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to mitigate",
+      "meaning_uk": "полегшувати",
+      "meaning_es": "Moderar o reducir la dureza de algo."
+    },
+    {
+      "term": "subyugar",
+      "type": "Verb",
+      "example": "El régimen intentó *** a la población mediante el miedo.",
+      "meaning_tr": "boyun eğdirmek",
+      "meaning_en": "to subjugate",
+      "meaning_uk": "підкорювати",
+      "meaning_es": "Someter o dominar poderosamente a alguien."
+    },
+    {
+      "term": "precario",
+      "type": "Adjective",
+      "example": "Viven en un estado *** sin acceso a agua potable.",
+      "meaning_tr": "istikrarsız",
+      "meaning_en": "precarious",
+      "meaning_uk": "нестабільний",
+      "meaning_es": "Que no es seguro, estable o suficiente."
+    },
+    {
+      "term": "vulnerable",
+      "type": "Adjective",
+      "example": "Los niños son el grupo más *** ante la crisis alimentaria.",
+      "meaning_tr": "savunmasız",
+      "meaning_en": "vulnerable",
+      "meaning_uk": "вразливий",
+      "meaning_es": "Que puede ser herido o recibir daños física o moralmente."
+    },
+    {
+      "term": "excluyente",
+      "type": "Adjective",
+      "example": "Esa política es *** y no beneficia a toda la comunidad.",
+      "meaning_tr": "dışlayıcı",
+      "meaning_en": "exclusive",
+      "meaning_uk": "виключний",
+      "meaning_es": "Que deja fuera o rechaza a personas o grupos."
+    },
+    {
+      "term": "alarmante",
+      "type": "Adjective",
+      "example": "El aumento de la criminalidad es realmente ***.",
+      "meaning_tr": "endişe verici",
+      "meaning_en": "alarming",
+      "meaning_uk": "тривожний",
+      "meaning_es": "Que causa alarma o preocupación grave."
+    },
+    {
+      "term": "sistémico",
+      "type": "Adjective",
+      "example": "El racismo *** es una barrera para el progreso social.",
+      "meaning_tr": "sistemsel",
+      "meaning_en": "systemic",
+      "meaning_uk": "системний",
+      "meaning_es": "Relativo a la totalidad de un sistema, no solo a partes aisladas."
+    },
+    {
+      "term": "arraigado",
+      "type": "Adjective",
+      "example": "El machismo está muy *** en ciertos sectores de la sociedad.",
+      "meaning_tr": "kökleşmiş",
+      "meaning_en": "deep-rooted",
+      "meaning_uk": "укорінений",
+      "meaning_es": "Fijado firmemente o difícil de eliminar."
+    },
+    {
+      "term": "marginal",
+      "type": "Adjective",
+      "example": "Viven en barrios *** sin servicios básicos.",
+      "meaning_tr": "marjinal",
+      "meaning_en": "marginal",
+      "meaning_uk": "маргінальний",
+      "meaning_es": "Que está fuera de la sociedad o en sus límites."
+    },
+    {
+      "term": "desfavorecido",
+      "type": "Adjective",
+      "example": "El programa ayuda a los jóvenes de entornos ***.",
+      "meaning_tr": "dezavantajlı",
+      "meaning_en": "underprivileged",
+      "meaning_uk": "знедолений",
+      "meaning_es": "Que tiene menos oportunidades o recursos que el resto."
+    },
+    {
+      "term": "paupérrimo",
+      "type": "Adjective",
+      "example": "Las condiciones de vida en ese campamento son ***.",
+      "meaning_tr": "çok fakir",
+      "meaning_en": "extremely poor",
+      "meaning_uk": "найбідніший",
+      "meaning_es": "Superlativo de pobre; extremadamente pobre."
+    },
+    {
+      "term": "coercitivo",
+      "type": "Adjective",
+      "example": "El Estado no debería usar métodos *** para silenciar críticas.",
+      "meaning_tr": "zorlayıcı",
+      "meaning_en": "coercive",
+      "meaning_uk": "примусовий",
+      "meaning_es": "Que tiene capacidad de obligar o forzar a algo."
+    },
+    {
+      "term": "impune",
+      "type": "Adjective",
+      "example": "Muchos crímenes de odio quedan *** por falta de pruebas.",
+      "meaning_tr": "cezasız",
+      "meaning_en": "unpunished",
+      "meaning_uk": "безкарний",
+      "meaning_es": "Que queda sin el castigo correspondiente."
+    },
+    {
+      "term": "equitativo",
+      "type": "Adjective",
+      "example": "Buscamos un reparto más *** de la riqueza nacional.",
+      "meaning_tr": "adil",
+      "meaning_en": "equitable",
+      "meaning_uk": "справедливий",
+      "meaning_es": "Que se basa en la equidad o justicia social."
+    },
+    {
+      "term": "sesgado",
+      "type": "Adjective",
+      "example": "La información está *** a favor de los intereses del gobierno.",
+      "meaning_tr": "taraflı",
+      "meaning_en": "biased",
+      "meaning_uk": "упереджений",
+      "meaning_es": "Que presenta un sesgo o falta de neutralidad."
+    },
+    {
+      "term": "xenófobo",
+      "type": "Adjective",
+      "example": "Se prohibieron los discursos *** en las redes sociales.",
+      "meaning_tr": "yabancı düşmanı",
+      "meaning_en": "xenophobic",
+      "meaning_uk": "ксенофобський",
+      "meaning_es": "Relativo al odio o rechazo a los extranjeros."
+    },
+    {
+      "term": "clasista",
+      "type": "Adjective",
+      "example": "Su comentario fue muy *** y despreció a los obreros.",
+      "meaning_tr": "sınıf ayrımcısı",
+      "meaning_en": "classist",
+      "meaning_uk": "класовий",
+      "meaning_es": "Que discrimina por la clase social de las personas."
+    },
+    {
+      "term": "paulatinamente",
+      "type": "Adverb",
+      "example": "La situación económica ha mejorado *** en el último año.",
+      "meaning_tr": "yavaş yavaş",
+      "meaning_en": "gradually",
+      "meaning_uk": "поступово",
+      "meaning_es": "De manera lenta y progresiva."
+    },
+    {
+      "term": "drásticamente",
+      "type": "Adverb",
+      "example": "El presupuesto para sanidad se redujo ***.",
+      "meaning_tr": "radikal bir şekilde",
+      "meaning_en": "drastically",
+      "meaning_uk": "різко",
+      "meaning_es": "De forma radical o extrema."
+    },
+    {
+      "term": "pese a",
+      "type": "Preposition",
+      "example": "*** las leyes, la discriminación sigue existiendo.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "A pesar de; contra la voluntad o resistencia de algo."
+    },
+    {
+      "term": "a raíz de",
+      "type": "Preposition",
+      "example": "*** la crisis, muchas familias perdieron sus casas.",
+      "meaning_tr": "-den dolayı",
+      "meaning_en": "as a result of",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "Como consecuencia o resultado de algo."
+    },
+    {
+      "term": "no obstante",
+      "type": "Conjunction",
+      "example": "Hay avances; ***, todavía queda mucho por hacer.",
+      "meaning_tr": "buna rağmen",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "проте",
+      "meaning_es": "Sin embargo; indica oposición a lo dicho anteriormente."
+    }
+  ]
+}

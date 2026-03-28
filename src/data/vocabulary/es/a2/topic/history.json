@@ -1,0 +1,231 @@
+{
+  "title": "Historia (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el pasado",
+      "type": "Noun",
+      "example": "Muchas cosas cambiaron en ***.",
+      "meaning_tr": "geçmiş",
+      "meaning_en": "the past",
+      "meaning_uk": "минуле",
+      "meaning_es": "tiempo anterior al presente"
+    },
+    {
+      "term": "la historia",
+      "type": "Noun",
+      "example": "Estudiamos *** en la escuela.",
+      "meaning_tr": "tarih",
+      "meaning_en": "history",
+      "meaning_uk": "історія",
+      "meaning_es": "ciencia que estudia el pasado"
+    },
+    {
+      "term": "nacer",
+      "type": "Verb",
+      "example": "Él va a *** en Madrid.",
+      "meaning_tr": "doğmak",
+      "meaning_en": "to be born",
+      "meaning_uk": "народитися",
+      "meaning_es": "venir al mundo"
+    },
+    {
+      "term": "antiguo",
+      "type": "Adjective",
+      "example": "Visitamos un edificio ***.",
+      "meaning_tr": "eski",
+      "meaning_en": "ancient",
+      "meaning_uk": "стародавній",
+      "meaning_es": "de hace mucho tiempo"
+    },
+    {
+      "term": "el siglo",
+      "type": "Noun",
+      "example": "Eso ocurrió en el *** diecinueve.",
+      "meaning_tr": "yüzyıl",
+      "meaning_en": "century",
+      "meaning_uk": "століття",
+      "meaning_es": "periodo de cien años"
+    },
+    {
+      "term": "la guerra",
+      "type": "Noun",
+      "example": "La *** terminó hace años.",
+      "meaning_tr": "savaş",
+      "meaning_en": "war",
+      "meaning_uk": "війна",
+      "meaning_es": "lucha armada entre grupos"
+    },
+    {
+      "term": "la paz",
+      "type": "Noun",
+      "example": "Todos queremos vivir en ***.",
+      "meaning_tr": "barış",
+      "meaning_en": "peace",
+      "meaning_uk": "мир",
+      "meaning_es": "ausencia de guerra"
+    },
+    {
+      "term": "el rey",
+      "type": "Noun",
+      "example": "El *** vivía en el castillo.",
+      "meaning_tr": "kral",
+      "meaning_en": "king",
+      "meaning_uk": "король",
+      "meaning_es": "monarca de un país"
+    },
+    {
+      "term": "la reina",
+      "type": "Noun",
+      "example": "La *** saludó al pueblo.",
+      "meaning_tr": "kraliçe",
+      "meaning_en": "queen",
+      "meaning_uk": "королева",
+      "meaning_es": "esposa del rey o monarca"
+    },
+    {
+      "term": "descubrir",
+      "type": "Verb",
+      "example": "Colón pudo *** un nuevo mundo.",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "to discover",
+      "meaning_uk": "відкрити",
+      "meaning_es": "encontrar algo desconocido"
+    },
+    {
+      "term": "la batalla",
+      "type": "Noun",
+      "example": "Ganaron la *** final.",
+      "meaning_tr": "muharebe",
+      "meaning_en": "battle",
+      "meaning_uk": "битва",
+      "meaning_es": "combate militar"
+    },
+    {
+      "term": "luchar",
+      "type": "Verb",
+      "example": "Ellos tuvieron que *** por su libertad.",
+      "meaning_tr": "savaşmak",
+      "meaning_en": "to fight",
+      "meaning_uk": "боротися",
+      "meaning_es": "pelear o esforzarse"
+    },
+    {
+      "term": "el imperio",
+      "type": "Noun",
+      "example": "El *** romano fue muy grande.",
+      "meaning_tr": "imparatorluk",
+      "meaning_en": "empire",
+      "meaning_uk": "імперія",
+      "meaning_es": "conjunto de territorios bajo un poder"
+    },
+    {
+      "term": "el monumento",
+      "type": "Noun",
+      "example": "Este *** es muy importante.",
+      "meaning_tr": "anıt",
+      "meaning_en": "monument",
+      "meaning_uk": "пам'ятник",
+      "meaning_es": "obra pública con valor histórico"
+    },
+    {
+      "term": "la cultura",
+      "type": "Noun",
+      "example": "La *** maya es fascinante.",
+      "meaning_tr": "kültür",
+      "meaning_en": "culture",
+      "meaning_uk": "культура",
+      "meaning_es": "conjunto de modos de vida"
+    },
+    {
+      "term": "antes",
+      "type": "Adverb",
+      "example": "Eso pasó *** de la invención de internet.",
+      "meaning_tr": "önce",
+      "meaning_en": "before",
+      "meaning_uk": "раніше",
+      "meaning_es": "con anterioridad"
+    },
+    {
+      "term": "después",
+      "type": "Adverb",
+      "example": "Lo hicieron *** de comer.",
+      "meaning_tr": "sonra",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "con posterioridad"
+    },
+    {
+      "term": "el invento",
+      "type": "Noun",
+      "example": "La rueda fue un gran ***.",
+      "meaning_tr": "icat",
+      "meaning_en": "invention",
+      "meaning_uk": "винахід",
+      "meaning_es": "creación nueva"
+    },
+    {
+      "term": "el personaje",
+      "type": "Noun",
+      "example": "Es un *** muy famoso de la literatura.",
+      "meaning_tr": "karakter",
+      "meaning_en": "character",
+      "meaning_uk": "персонаж",
+      "meaning_es": "persona destacada"
+    },
+    {
+      "term": "durante",
+      "type": "Preposition",
+      "example": "Ocurrió *** el siglo veinte.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "a lo largo de un tiempo"
+    },
+    {
+      "term": "famoso",
+      "type": "Adjective",
+      "example": "Él es un escritor muy ***.",
+      "meaning_tr": "ünlü",
+      "meaning_en": "famous",
+      "meaning_uk": "відомий",
+      "meaning_es": "muy conocido"
+    },
+    {
+      "term": "construir",
+      "type": "Verb",
+      "example": "Ellos van a *** un nuevo museo.",
+      "meaning_tr": "inşa etmek",
+      "meaning_en": "to build",
+      "meaning_uk": "будувати",
+      "meaning_es": "hacer una obra"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "Querían paz, *** hubo guerra.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "contraste de ideas"
+    },
+    {
+      "term": "la libertad",
+      "type": "Noun",
+      "example": "La gente luchó por su ***.",
+      "meaning_tr": "özgürlük",
+      "meaning_en": "freedom",
+      "meaning_uk": "свобода",
+      "meaning_es": "facultad de actuar"
+    },
+    {
+      "term": "el país",
+      "type": "Noun",
+      "example": "Mi *** tiene mucha historia.",
+      "meaning_tr": "ülke",
+      "meaning_en": "country",
+      "meaning_uk": "країна",
+      "meaning_es": "nación o territorio"
+    }
+  ]
+}

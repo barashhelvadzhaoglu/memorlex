@@ -1,0 +1,411 @@
+{
+  "title": "At the Restaurant (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a reservation",
+      "type": "Noun",
+      "example": "I would like to make *** for two people at 8 PM.",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "an arrangement to have a table kept for you",
+      "meaning_uk": "бронювання",
+      "meaning_es": "una reserva"
+    },
+    {
+      "term": "the menu",
+      "type": "Noun",
+      "example": "Could we please see ***?",
+      "meaning_tr": "menü",
+      "meaning_en": "a list of dishes available in a restaurant",
+      "meaning_uk": "меню",
+      "meaning_es": "el menú"
+    },
+    {
+      "term": "to book",
+      "type": "Verb",
+      "example": "It is recommended *** a table in advance on weekends.",
+      "meaning_tr": "yer ayırtmak",
+      "meaning_en": "to reserve accommodation or a table",
+      "meaning_uk": "бронювати",
+      "meaning_es": "reservar"
+    },
+    {
+      "term": "the appetizer",
+      "type": "Noun",
+      "example": "We ordered some bruschetta as ***.",
+      "meaning_tr": "başlangıç yemeği",
+      "meaning_en": "a small dish served before the main course",
+      "meaning_uk": "закуска",
+      "meaning_es": "el aperitivo"
+    },
+    {
+      "term": "the main course",
+      "type": "Noun",
+      "example": "What would you like to have for ***?",
+      "meaning_tr": "ana yemek",
+      "meaning_en": "the largest or most important part of a meal",
+      "meaning_uk": "основна страва",
+      "meaning_es": "el plato principal"
+    },
+    {
+      "term": "the cutlery",
+      "type": "Noun",
+      "example": "The waiter brought us some fresh ***.",
+      "meaning_tr": "çatal bıçak takımı",
+      "meaning_en": "knives, forks, and spoons used for eating",
+      "meaning_uk": "столові прибори",
+      "meaning_es": "los cubiertos"
+    },
+    {
+      "term": "the napkin",
+      "type": "Noun",
+      "example": "She placed her *** on her lap before eating.",
+      "meaning_tr": "peçete",
+      "meaning_en": "a cloth or paper used for wiping the mouth",
+      "meaning_uk": "серветка",
+      "meaning_es": "la servilleta"
+    },
+    {
+      "term": "to recommend",
+      "type": "Verb",
+      "example": "Could you *** a good local dish?",
+      "meaning_tr": "tavsiye etmek",
+      "meaning_en": "to suggest something as being good",
+      "meaning_uk": "рекомендувати",
+      "meaning_es": "recomendar"
+    },
+    {
+      "term": "the bill",
+      "type": "Noun",
+      "example": "Excuse me, could we have ***, please?",
+      "meaning_tr": "hesap",
+      "meaning_en": "a statement of money owed for goods or services",
+      "meaning_uk": "рахунок",
+      "meaning_es": "la cuenta"
+    },
+    {
+      "term": "the tip",
+      "type": "Noun",
+      "example": "It is customary to leave a 10% ***.",
+      "meaning_tr": "bahşiş",
+      "meaning_en": "a small amount of money given for service",
+      "meaning_uk": "чайові",
+      "meaning_es": "la propina"
+    },
+    {
+      "term": "the beverage",
+      "type": "Noun",
+      "example": "Would you like a hot or cold *** with your meal?",
+      "meaning_tr": "içecek",
+      "meaning_en": "any drink other than water",
+      "meaning_uk": "напій",
+      "meaning_es": "la bebida"
+    },
+    {
+      "term": "the platter",
+      "type": "Noun",
+      "example": "They shared a large cheese ***.",
+      "meaning_tr": "büyük servis tabağı",
+      "meaning_en": "a large plate for serving food",
+      "meaning_uk": "велика тарілка",
+      "meaning_es": "la bandeja"
+    },
+    {
+      "term": "the seasoning",
+      "type": "Noun",
+      "example": "The soup needs a bit more ***.",
+      "meaning_tr": "baharat/çeşni",
+      "meaning_en": "salt, herbs, or spices added to food",
+      "meaning_uk": "приправа",
+      "meaning_es": "el condimento"
+    },
+    {
+      "term": "exquisite",
+      "type": "Adjective",
+      "example": "The chef prepared an *** meal for us.",
+      "meaning_tr": "enfes",
+      "meaning_en": "extremely beautiful and delicate",
+      "meaning_uk": "вишуканий",
+      "meaning_es": "exquisito"
+    },
+    {
+      "term": "to split",
+      "type": "Verb",
+      "example": "Shall we *** the bill?",
+      "meaning_tr": "paylaşmak",
+      "meaning_en": "to divide into two or more parts",
+      "meaning_uk": "ділити",
+      "meaning_es": "dividir"
+    },
+    {
+      "term": "the dietary restriction",
+      "type": "Noun",
+      "example": "Do you have any ***?",
+      "meaning_tr": "diyet kısıtlaması",
+      "meaning_en": "a rule about what someone can or cannot eat",
+      "meaning_uk": "дієтичне обмеження",
+      "meaning_es": "la restricción dietética"
+    },
+    {
+      "term": "the ingredient",
+      "type": "Noun",
+      "example": "Fresh local produce is a key *** in our cooking.",
+      "meaning_tr": "malzeme",
+      "meaning_en": "a food that is used with other foods in a recipe",
+      "meaning_uk": "інгредієнт",
+      "meaning_es": "el ingrediente"
+    },
+    {
+      "term": "flavorful",
+      "type": "Adjective",
+      "example": "This sauce is incredibly ***.",
+      "meaning_tr": "lezzetli",
+      "meaning_en": "having a lot of flavor",
+      "meaning_uk": "смачний",
+      "meaning_es": "sabroso"
+    },
+    {
+      "term": "to serve",
+      "type": "Verb",
+      "example": "They *** breakfast until 11 AM.",
+      "meaning_tr": "servis etmek",
+      "meaning_en": "to provide food or drink",
+      "meaning_uk": "подавати",
+      "meaning_es": "servir"
+    },
+    {
+      "term": "the vegan option",
+      "type": "Noun",
+      "example": "Do you offer any *** on the menu?",
+      "meaning_tr": "vegan seçenek",
+      "meaning_en": "a dish containing no animal products",
+      "meaning_uk": "веганська страва",
+      "meaning_es": "la opción vegana"
+    },
+    {
+      "term": "the beverage list",
+      "type": "Noun",
+      "example": "Can I see the ***, please?",
+      "meaning_tr": "içecek listesi",
+      "meaning_en": "a menu of drinks",
+      "meaning_uk": "карта напоїв",
+      "meaning_es": "la carta de bebidas"
+    },
+    {
+      "term": "tender",
+      "type": "Adjective",
+      "example": "The steak was so *** it melted in my mouth.",
+      "meaning_tr": "yumuşak/lokum gibi",
+      "meaning_en": "easy to cut or chew",
+      "meaning_uk": "ніжний",
+      "meaning_es": "tierno"
+    },
+    {
+      "term": "to overcook",
+      "type": "Verb",
+      "example": "Try not to *** the pasta.",
+      "meaning_tr": "fazla pişirmek",
+      "meaning_en": "to cook something for too long",
+      "meaning_uk": "переварити",
+      "meaning_es": "recocer"
+    },
+    {
+      "term": "the house specialty",
+      "type": "Noun",
+      "example": "What is the *** tonight?",
+      "meaning_tr": "mekanın spesiyali",
+      "meaning_en": "a dish that a restaurant is famous for",
+      "meaning_uk": "фірмова страва",
+      "meaning_es": "la especialidad de la casa"
+    },
+    {
+      "term": "the tap water",
+      "type": "Noun",
+      "example": "I will just have ***, thank you.",
+      "meaning_tr": "musluk suyu",
+      "meaning_en": "water from the faucet",
+      "meaning_uk": "вода з-під крана",
+      "meaning_es": "el agua del grifo"
+    },
+    {
+      "term": "the side dish",
+      "type": "Noun",
+      "example": "I'll have the salad as a ***.",
+      "meaning_tr": "yan ürün/garnitür",
+      "meaning_en": "a small amount of food served with the main dish",
+      "meaning_uk": "гарнір",
+      "meaning_es": "la guarnición"
+    },
+    {
+      "term": "the buffet",
+      "type": "Noun",
+      "example": "Breakfast is served as a *** in the morning.",
+      "meaning_tr": "açık büfe",
+      "meaning_en": "a meal where people serve themselves",
+      "meaning_uk": "шведський стіл",
+      "meaning_es": "el bufé"
+    },
+    {
+      "term": "the portion",
+      "type": "Noun",
+      "example": "The *** size is quite generous.",
+      "meaning_tr": "porsiyon",
+      "meaning_en": "the amount of food served to one person",
+      "meaning_uk": "порція",
+      "meaning_es": "la porción"
+    },
+    {
+      "term": "to order",
+      "type": "Verb",
+      "example": "Are you ready to *** now?",
+      "meaning_tr": "sipariş vermek",
+      "meaning_en": "to request food or drink",
+      "meaning_uk": "замовляти",
+      "meaning_es": "pedir"
+    },
+    {
+      "term": "rare",
+      "type": "Adjective",
+      "example": "I prefer my steak ***.",
+      "meaning_tr": "az pişmiş",
+      "meaning_en": "cooked for a short time",
+      "meaning_uk": "з кров'ю",
+      "meaning_es": "poco hecho"
+    },
+    {
+      "term": "medium",
+      "type": "Adjective",
+      "example": "He asked for his burger to be ***.",
+      "meaning_tr": "orta pişmiş",
+      "meaning_en": "cooked for a moderate amount of time",
+      "meaning_uk": "середньої прожарки",
+      "meaning_es": "al punto"
+    },
+    {
+      "term": "well-done",
+      "type": "Adjective",
+      "example": "She always orders her meat ***.",
+      "meaning_tr": "çok pişmiş",
+      "meaning_en": "cooked for a long time",
+      "meaning_uk": "добре просмажений",
+      "meaning_es": "muy hecho"
+    },
+    {
+      "term": "the allergy",
+      "type": "Noun",
+      "example": "I have a severe nut ***.",
+      "meaning_tr": "alerji",
+      "meaning_en": "a condition that makes you ill after eating something",
+      "meaning_uk": "алергія",
+      "meaning_es": "la alergia"
+    },
+    {
+      "term": "the dessert",
+      "type": "Noun",
+      "example": "What do you suggest for ***?",
+      "meaning_tr": "tatlı",
+      "meaning_en": "sweet food eaten at the end of a meal",
+      "meaning_uk": "десерт",
+      "meaning_es": "el postre"
+    },
+    {
+      "term": "the condiment",
+      "type": "Noun",
+      "example": "Could you pass the ***, please?",
+      "meaning_tr": "sos/çeşni",
+      "meaning_en": "a substance like salt, mustard, or pickle",
+      "meaning_uk": "соус/приправа",
+      "meaning_es": "el condimento"
+    },
+    {
+      "term": "the availability",
+      "type": "Noun",
+      "example": "I will check the *** of a table for you.",
+      "meaning_tr": "müsaitlik",
+      "meaning_en": "the state of being able to be used or obtained",
+      "meaning_uk": "наявність",
+      "meaning_es": "la disponibilidad"
+    },
+    {
+      "term": "the palate",
+      "type": "Noun",
+      "example": "This dish is designed to please the sophisticated ***.",
+      "meaning_tr": "damak tadı",
+      "meaning_en": "a person's appreciation of taste",
+      "meaning_uk": "смак",
+      "meaning_es": "el paladar"
+    },
+    {
+      "term": "the complimentary",
+      "type": "Adjective",
+      "example": "The bread is ***.",
+      "meaning_tr": "ücretsiz/ikram",
+      "meaning_en": "given free of charge",
+      "meaning_uk": "безкоштовний",
+      "meaning_es": "gratuito"
+    },
+    {
+      "term": "to complain",
+      "type": "Verb",
+      "example": "I don't want to ***, but my soup is cold.",
+      "meaning_tr": "şikayet etmek",
+      "meaning_en": "to say that something is unsatisfactory",
+      "meaning_uk": "скаржитися",
+      "meaning_es": "quejarse"
+    },
+    {
+      "term": "the waiter",
+      "type": "Noun",
+      "example": "The *** was very attentive.",
+      "meaning_tr": "garson",
+      "meaning_en": "a man whose job is to serve customers",
+      "meaning_uk": "офіціант",
+      "meaning_es": "el camarero"
+    },
+    {
+      "term": "the waitress",
+      "type": "Noun",
+      "example": "The *** recommended the fresh fish.",
+      "meaning_tr": "garson (kadın)",
+      "meaning_en": "a woman whose job is to serve customers",
+      "meaning_uk": "офіціантка",
+      "meaning_es": "la camarera"
+    },
+    {
+      "term": "the bill",
+      "type": "Noun",
+      "example": "Can we pay the *** separately?",
+      "meaning_tr": "hesap",
+      "meaning_en": "the total amount of money to pay",
+      "meaning_uk": "рахунок",
+      "meaning_es": "la cuenta"
+    },
+    {
+      "term": "the food poisoning",
+      "type": "Noun",
+      "example": "He got *** after eating at that place.",
+      "meaning_tr": "gıda zehirlenmesi",
+      "meaning_en": "an illness caused by eating contaminated food",
+      "meaning_uk": "харчове отруєння",
+      "meaning_es": "la intoxicación alimentaria"
+    },
+    {
+      "term": "the ambiance",
+      "type": "Noun",
+      "example": "The restaurant has a lovely, relaxing ***.",
+      "meaning_tr": "atmosfer",
+      "meaning_en": "the character and atmosphere of a place",
+      "meaning_uk": "атмосфера",
+      "meaning_es": "el ambiente"
+    },
+    {
+      "term": "the cutlery",
+      "type": "Noun",
+      "example": "Please place the *** on the side of the plate.",
+      "meaning_tr": "çatal bıçak takımı",
+      "meaning_en": "implements for eating",
+      "meaning_uk": "столові прибори",
+      "meaning_es": "los cubiertos"
+    }
+  ]
+}

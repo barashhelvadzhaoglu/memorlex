@@ -1,0 +1,321 @@
+{
+  "title": "Migration & Integration (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a migrant",
+      "type": "Noun",
+      "example": "*** is someone who moves from one place to another to live.",
+      "meaning_tr": "göçmen",
+      "meaning_en": "a person who moves to a different country or area",
+      "meaning_uk": "мігрант",
+      "meaning_es": "un migrante"
+    },
+    {
+      "term": "to immigrate",
+      "type": "Verb",
+      "example": "Many people *** to this country to find better jobs.",
+      "meaning_tr": "göç etmek (ülkeye)",
+      "meaning_en": "to come to live permanently in a foreign country",
+      "meaning_uk": "іммігрувати",
+      "meaning_es": "inmigrar"
+    },
+    {
+      "term": "an immigrant",
+      "type": "Noun",
+      "example": "*** often faces challenges when learning a new language.",
+      "meaning_tr": "göçmen (gelen kişi)",
+      "meaning_en": "a person who has come to live permanently in a foreign country",
+      "meaning_uk": "іммігрант",
+      "meaning_es": "un inmigrante"
+    },
+    {
+      "term": "to emigrate",
+      "type": "Verb",
+      "example": "They decided to *** from their home country due to economic problems.",
+      "meaning_tr": "göç etmek (ülkeden)",
+      "meaning_en": "to leave one's own country to live in another",
+      "meaning_uk": "емігрувати",
+      "meaning_es": "emigrar"
+    },
+    {
+      "term": "integration",
+      "type": "Noun",
+      "example": "Successful *** requires effort from both the newcomers and the local community.",
+      "meaning_tr": "uyum sağlama / entegrasyon",
+      "meaning_en": "the process of becoming part of a group or society",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "integración"
+    },
+    {
+      "term": "a refugee",
+      "type": "Noun",
+      "example": "*** is someone forced to leave their country to escape war or persecution.",
+      "meaning_tr": "mülteci",
+      "meaning_en": "a person forced to leave their country to escape danger",
+      "meaning_uk": "біженець",
+      "meaning_es": "un refugiado"
+    },
+    {
+      "term": "a border",
+      "type": "Noun",
+      "example": "They crossed the *** to reach safety.",
+      "meaning_tr": "sınır",
+      "meaning_en": "a line separating two political or geographical areas",
+      "meaning_uk": "кордон",
+      "meaning_es": "una frontera"
+    },
+    {
+      "term": "a culture",
+      "type": "Noun",
+      "example": "It is interesting to learn about a different ***.",
+      "meaning_tr": "kültür",
+      "meaning_en": "the ideas, customs, and social behavior of a society",
+      "meaning_uk": "культура",
+      "meaning_es": "una cultura"
+    },
+    {
+      "term": "to adapt",
+      "type": "Verb",
+      "example": "It takes time to *** to a new way of life.",
+      "meaning_tr": "uyum sağlamak / alışmak",
+      "meaning_en": "to become adjusted to new conditions",
+      "meaning_uk": "адаптуватися",
+      "meaning_es": "adaptarse"
+    },
+    {
+      "term": "a citizen",
+      "type": "Noun",
+      "example": "After five years, he became a *** of the country.",
+      "meaning_tr": "vatandaş",
+      "meaning_en": "a legally recognized subject or national of a state",
+      "meaning_uk": "громадянин",
+      "meaning_es": "un ciudadano"
+    },
+    {
+      "term": "a community",
+      "type": "Noun",
+      "example": "The local *** welcomed the newcomers with open arms.",
+      "meaning_tr": "topluluk",
+      "meaning_en": "a group of people living in the same place",
+      "meaning_uk": "спільнота",
+      "meaning_es": "una comunidad"
+    },
+    {
+      "term": "diverse",
+      "type": "Adjective",
+      "example": "The city has a very *** population.",
+      "meaning_tr": "çeşitli",
+      "meaning_en": "showing a great deal of variety",
+      "meaning_uk": "різноманітний",
+      "meaning_es": "diverso"
+    },
+    {
+      "term": "a visa",
+      "type": "Noun",
+      "example": "You need to apply for a *** before you travel.",
+      "meaning_tr": "vize",
+      "meaning_en": "an official document allowing entry into a country",
+      "meaning_uk": "віза",
+      "meaning_es": "un visado"
+    },
+    {
+      "term": "a residence permit",
+      "type": "Noun",
+      "example": "He is waiting for his *** to be approved.",
+      "meaning_tr": "oturma izni",
+      "meaning_en": "a document allowing a foreigner to live in a country",
+      "meaning_uk": "дозвіл на проживання",
+      "meaning_es": "un permiso de residencia"
+    },
+    {
+      "term": "foreign",
+      "type": "Adjective",
+      "example": "Learning a *** language can be difficult but rewarding.",
+      "meaning_tr": "yabancı",
+      "meaning_en": "belonging to a country other than one's own",
+      "meaning_uk": "іноземний",
+      "meaning_es": "extranjero"
+    },
+    {
+      "term": "a challenge",
+      "type": "Noun",
+      "example": "Finding a job is a big *** for new arrivals.",
+      "meaning_tr": "zorluk / meydan okuma",
+      "meaning_en": "a difficult task or situation",
+      "meaning_uk": "виклик",
+      "meaning_es": "un desafío"
+    },
+    {
+      "term": "to settle",
+      "type": "Verb",
+      "example": "They decided to *** in a small town near the coast.",
+      "meaning_tr": "yerleşmek",
+      "meaning_en": "to establish a home in a new place",
+      "meaning_uk": "оселитися",
+      "meaning_es": "establecerse"
+    },
+    {
+      "term": "native",
+      "type": "Adjective",
+      "example": "She speaks like a *** speaker after living there for ten years.",
+      "meaning_tr": "ana (dil) / yerli",
+      "meaning_en": "associated with the place where a person was born",
+      "meaning_uk": "рідний",
+      "meaning_es": "nativo"
+    },
+    {
+      "term": "an opportunity",
+      "type": "Noun",
+      "example": "Moving abroad gave him a great *** to grow.",
+      "meaning_tr": "fırsat",
+      "meaning_en": "a set of circumstances that makes it possible to do something",
+      "meaning_uk": "можливість",
+      "meaning_es": "una oportunidad"
+    },
+    {
+      "term": "a language barrier",
+      "type": "Noun",
+      "example": "The biggest problem they faced was the ***.",
+      "meaning_tr": "dil engeli",
+      "meaning_en": "difficulty in communication between people who speak different languages",
+      "meaning_uk": "мовний бар'єр",
+      "meaning_es": "una barrera lingüística"
+    },
+    {
+      "term": "to belong",
+      "type": "Verb",
+      "example": "It takes time to feel like you *** in a new country.",
+      "meaning_tr": "ait olmak",
+      "meaning_en": "to feel happy or comfortable in a particular place",
+      "meaning_uk": "належати",
+      "meaning_es": "pertenecer"
+    },
+    {
+      "term": "a policy",
+      "type": "Noun",
+      "example": "The government is changing its immigration ***.",
+      "meaning_tr": "politika",
+      "meaning_en": "a course or principle of action adopted by a government",
+      "meaning_uk": "політика",
+      "meaning_es": "una política"
+    },
+    {
+      "term": "legal",
+      "type": "Adjective",
+      "example": "Make sure you have the correct *** documents.",
+      "meaning_tr": "yasal",
+      "meaning_en": "permitted by law",
+      "meaning_uk": "законний",
+      "meaning_es": "legal"
+    },
+    {
+      "term": "to contribute",
+      "type": "Verb",
+      "example": "Immigrants often *** a lot to the economy of their new home.",
+      "meaning_tr": "katkıda bulunmak",
+      "meaning_en": "to give something to help a person or cause",
+      "meaning_uk": "робити внесок",
+      "meaning_es": "contribuir"
+    },
+    {
+      "term": "a background",
+      "type": "Noun",
+      "example": "People from every *** live in this city.",
+      "meaning_tr": "geçmiş / köken",
+      "meaning_en": "a person's social heritage or previous experience",
+      "meaning_uk": "походження",
+      "meaning_es": "un trasfondo"
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "Migration is a *** issue that affects many countries.",
+      "meaning_tr": "küresel",
+      "meaning_en": "relating to the whole world",
+      "meaning_uk": "глобальний",
+      "meaning_es": "global"
+    },
+    {
+      "term": "an asylum seeker",
+      "type": "Noun",
+      "example": "*** is someone who has applied for protection in another country.",
+      "meaning_tr": "sığınmacı",
+      "meaning_en": "a person who has left their home country as a political refugee",
+      "meaning_uk": "шукач притулку",
+      "meaning_es": "un solicitante de asilo"
+    },
+    {
+      "term": "customs",
+      "type": "Noun",
+      "example": "It is important to respect the local *** of the country.",
+      "meaning_tr": "gelenekler",
+      "meaning_en": "traditional ways of behaving",
+      "meaning_uk": "звичаї",
+      "meaning_es": "costumbres"
+    },
+    {
+      "term": "to exclude",
+      "type": "Verb",
+      "example": "No one should feel *** because of where they come from.",
+      "meaning_tr": "dışlamak",
+      "meaning_en": "to deny someone access to a place or group",
+      "meaning_uk": "виключати",
+      "meaning_es": "excluir"
+    },
+    {
+      "term": "inclusive",
+      "type": "Adjective",
+      "example": "The school has an *** policy for all students.",
+      "meaning_tr": "kapsayıcı",
+      "meaning_en": "including all the services or items normally expected",
+      "meaning_uk": "інклюзивний",
+      "meaning_es": "inclusivo"
+    },
+    {
+      "term": "abroad",
+      "type": "Adverb",
+      "example": "He has always wanted to study ***.",
+      "meaning_tr": "yurt dışı",
+      "meaning_en": "in or to a foreign country",
+      "meaning_uk": "за кордоном",
+      "meaning_es": "en el extranjero"
+    },
+    {
+      "term": "while",
+      "type": "Conjunction",
+      "example": "*** he was learning the language, he made many friends.",
+      "meaning_tr": "iken",
+      "meaning_en": "during the time that",
+      "meaning_uk": "у той час як",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "in",
+      "type": "Preposition",
+      "example": "They are now living *** a new city.",
+      "meaning_tr": "içinde / -de",
+      "meaning_en": "expressing the situation of something that is enclosed",
+      "meaning_uk": "в",
+      "meaning_es": "en"
+    },
+    {
+      "term": "to include",
+      "type": "Verb",
+      "example": "We should always *** everyone in our activities.",
+      "meaning_tr": "dahil etmek",
+      "meaning_en": "to contain as part of a whole",
+      "meaning_uk": "включати",
+      "meaning_es": "incluir"
+    },
+    {
+      "term": "social",
+      "type": "Adjective",
+      "example": "Joining a club is a good way to improve your *** life.",
+      "meaning_tr": "sosyal",
+      "meaning_en": "relating to society or its organization",
+      "meaning_uk": "соціальний",
+      "meaning_es": "social"
+    }
+  ]
+}

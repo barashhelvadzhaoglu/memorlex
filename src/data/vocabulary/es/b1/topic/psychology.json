@@ -1,0 +1,321 @@
+{
+  "title": "Psicologia y Emociones (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la ansiedad",
+      "type": "Noun",
+      "meaning_tr": "kaygı",
+      "meaning_en": "anxiety",
+      "meaning_uk": "тривога",
+      "meaning_es": "estado de inquietud o nerviosismo",
+      "example": "*** puede afectar nuestra salud física."
+    },
+    {
+      "term": "la autoestima",
+      "type": "Noun",
+      "meaning_tr": "öz saygı",
+      "meaning_en": "self-esteem",
+      "meaning_uk": "самооцінка",
+      "meaning_es": "valoración de uno mismo",
+      "example": "Tener una buena *** es fundamental para el bienestar."
+    },
+    {
+      "term": "estar agobiado",
+      "type": "Verb",
+      "meaning_tr": "bunalmış olmak",
+      "meaning_en": "to be overwhelmed",
+      "meaning_uk": "бути перевантаженим",
+      "meaning_es": "sentirse sofocado por muchas tareas",
+      "example": "Últimamente me siento muy *** por el trabajo."
+    },
+    {
+      "term": "la empatía",
+      "type": "Noun",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "capacidad de entender los sentimientos de otros",
+      "example": "La *** es necesaria para mantener buenas relaciones."
+    },
+    {
+      "term": "el estrés",
+      "type": "Noun",
+      "meaning_tr": "stres",
+      "meaning_en": "stress",
+      "meaning_uk": "стрес",
+      "meaning_es": "tensión provocada por situaciones agobiantes",
+      "example": "El *** constante puede causar muchos problemas de salud."
+    },
+    {
+      "term": "la frustración",
+      "type": "Noun",
+      "meaning_tr": "hayal kırıklığı",
+      "meaning_en": "frustration",
+      "meaning_uk": "фрустрація",
+      "meaning_es": "sentimiento cuando no se logra un deseo",
+      "example": "Sintió mucha *** al no conseguir el puesto."
+    },
+    {
+      "term": "alegre",
+      "type": "Adjective",
+      "meaning_tr": "neşeli",
+      "meaning_en": "cheerful",
+      "meaning_uk": "веселий",
+      "meaning_es": "que siente alegría",
+      "example": "Ella es una persona muy *** y optimista."
+    },
+    {
+      "term": "el miedo",
+      "type": "Noun",
+      "meaning_tr": "korku",
+      "meaning_en": "fear",
+      "meaning_uk": "страх",
+      "meaning_es": "sensación de peligro",
+      "example": "El *** es una emoción básica del ser humano."
+    },
+    {
+      "term": "reflexionar",
+      "type": "Verb",
+      "meaning_tr": "düşünmek / kafa yormak",
+      "meaning_en": "to reflect",
+      "meaning_uk": "роздумувати",
+      "meaning_es": "pensar detenidamente sobre algo",
+      "example": "Debemos *** sobre nuestras decisiones pasadas."
+    },
+    {
+      "term": "la inseguridad",
+      "type": "Noun",
+      "meaning_tr": "güvensizlik",
+      "meaning_en": "insecurity",
+      "meaning_uk": "невпевненість",
+      "meaning_es": "falta de confianza en sí mismo",
+      "example": "Superar la *** requiere tiempo y paciencia."
+    },
+    {
+      "term": "triste",
+      "type": "Adjective",
+      "meaning_tr": "üzgün",
+      "meaning_en": "sad",
+      "meaning_uk": "сумний",
+      "meaning_es": "que siente tristeza",
+      "example": "Se siente muy *** desde que se mudó lejos."
+    },
+    {
+      "term": "el bienestar",
+      "type": "Noun",
+      "meaning_tr": "esenlik",
+      "meaning_en": "well-being",
+      "meaning_uk": "благополуччя",
+      "meaning_es": "estado de felicidad y salud",
+      "example": "El ejercicio físico mejora nuestro *** mental."
+    },
+    {
+      "term": "la culpa",
+      "type": "Noun",
+      "meaning_tr": "suçluluk",
+      "meaning_en": "guilt",
+      "meaning_uk": "провина",
+      "meaning_es": "sentimiento por haber cometido un error",
+      "example": "No deberías cargar con tanta *** por algo pequeño."
+    },
+    {
+      "term": "superar",
+      "type": "Verb",
+      "meaning_tr": "üstesinden gelmek",
+      "meaning_en": "to overcome",
+      "meaning_uk": "долати",
+      "meaning_es": "vencer un obstáculo",
+      "example": "Es posible *** los miedos con ayuda profesional."
+    },
+    {
+      "term": "la valentía",
+      "type": "Noun",
+      "meaning_tr": "cesaret",
+      "meaning_en": "bravery",
+      "meaning_uk": "сміливість",
+      "meaning_es": "valor para enfrentar situaciones",
+      "example": "Tuvo la *** de decir la verdad."
+    },
+    {
+      "term": "optimista",
+      "type": "Adjective",
+      "meaning_tr": "iyimser",
+      "meaning_en": "optimistic",
+      "meaning_uk": "оптимістичний",
+      "meaning_es": "que ve las cosas de forma positiva",
+      "example": "Siempre intenta ser *** ante los problemas."
+    },
+    {
+      "term": "la paz",
+      "type": "Noun",
+      "meaning_tr": "huzur / barış",
+      "meaning_en": "peace",
+      "meaning_uk": "спокій",
+      "meaning_es": "estado de tranquilidad mental",
+      "example": "Necesito encontrar mi *** interior."
+    },
+    {
+      "term": "enfadado",
+      "type": "Adjective",
+      "meaning_tr": "kızgın",
+      "meaning_en": "angry",
+      "meaning_uk": "сердитий",
+      "meaning_es": "que siente enojo",
+      "example": "Está *** porque perdió el autobús."
+    },
+    {
+      "term": "la soledad",
+      "type": "Noun",
+      "meaning_tr": "yalnızlık",
+      "meaning_en": "loneliness",
+      "meaning_uk": "самотність",
+      "meaning_es": "sentimiento de estar solo",
+      "example": "A veces la *** ayuda a conocerse mejor."
+    },
+    {
+      "term": "relajarse",
+      "type": "Verb",
+      "meaning_tr": "rahatlamak",
+      "meaning_en": "to relax",
+      "meaning_uk": "розслаблятися",
+      "meaning_es": "quitar la tensión",
+      "example": "Debes *** después de un día largo."
+    },
+    {
+      "term": "la envidia",
+      "type": "Noun",
+      "meaning_tr": "kıskançlık",
+      "meaning_en": "envy",
+      "meaning_uk": "заздрість",
+      "meaning_es": "deseo de tener lo que otro tiene",
+      "example": "La *** es una emoción muy destructiva."
+    },
+    {
+      "term": "valiente",
+      "type": "Adjective",
+      "meaning_tr": "cesur",
+      "meaning_en": "brave",
+      "meaning_uk": "хоробрий",
+      "meaning_es": "que no tiene miedo",
+      "example": "Fue muy *** al enfrentar sus errores."
+    },
+    {
+      "term": "la sorpresa",
+      "type": "Noun",
+      "meaning_tr": "şaşkınlık",
+      "meaning_en": "surprise",
+      "meaning_uk": "здивування",
+      "meaning_es": "reacción ante algo inesperado",
+      "example": "Su *** fue enorme al recibir la noticia."
+    },
+    {
+      "term": "expresar",
+      "type": "Verb",
+      "meaning_tr": "ifade etmek",
+      "meaning_en": "to express",
+      "meaning_uk": "виражати",
+      "meaning_es": "decir o mostrar emociones",
+      "example": "Es importante *** lo que sientes."
+    },
+    {
+      "term": "la vergüenza",
+      "type": "Noun",
+      "meaning_tr": "utanç",
+      "meaning_en": "shame",
+      "meaning_uk": "сором",
+      "meaning_es": "sentimiento incómodo por una acción",
+      "example": "Sintió mucha *** al caerse frente a todos."
+    },
+    {
+      "term": "tranquilo",
+      "type": "Adjective",
+      "meaning_tr": "sakin",
+      "meaning_en": "calm",
+      "meaning_uk": "спокійний",
+      "meaning_es": "sin agitación",
+      "example": "Intenta mantenerte *** durante el examen."
+    },
+    {
+      "term": "la motivación",
+      "type": "Noun",
+      "meaning_tr": "motivasyon",
+      "meaning_en": "motivation",
+      "meaning_uk": "мотивація",
+      "meaning_es": "causa que mueve a actuar",
+      "example": "La *** es clave para lograr tus metas."
+    },
+    {
+      "term": "aceptar",
+      "type": "Verb",
+      "meaning_tr": "kabul etmek",
+      "meaning_en": "to accept",
+      "meaning_uk": "приймати",
+      "meaning_es": "admitir una realidad",
+      "example": "Debes *** las cosas que no puedes cambiar."
+    },
+    {
+      "term": "la ilusión",
+      "type": "Noun",
+      "meaning_tr": "heyecan / ümit",
+      "meaning_en": "excitement / hope",
+      "meaning_uk": "передчуття / мрія",
+      "meaning_es": "esperanza con alegría",
+      "example": "Tiene mucha *** por su próximo viaje."
+    },
+    {
+      "term": "pesimista",
+      "type": "Adjective",
+      "meaning_tr": "kötümser",
+      "meaning_en": "pessimistic",
+      "meaning_uk": "песимістичний",
+      "meaning_es": "que ve las cosas de forma negativa",
+      "example": "No seas tan *** con respecto al futuro."
+    },
+    {
+      "term": "la confianza",
+      "type": "Noun",
+      "meaning_tr": "güven",
+      "meaning_en": "confidence",
+      "meaning_uk": "впевненість",
+      "meaning_es": "seguridad en uno mismo",
+      "example": "Necesitas tener más *** en tus habilidades."
+    },
+    {
+      "term": "frecuentemente",
+      "type": "Adverb",
+      "meaning_tr": "sıklıkla",
+      "meaning_en": "frequently",
+      "meaning_uk": "часто",
+      "meaning_es": "con mucha frecuencia",
+      "example": "*** me siento cansado después de trabajar."
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "meaning_tr": "ama / fakat",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conector de oposición",
+      "example": "Quería salir, *** estaba muy cansado."
+    },
+    {
+      "term": "sobre",
+      "type": "Preposition",
+      "meaning_tr": "hakkında",
+      "meaning_en": "about",
+      "meaning_uk": "про",
+      "meaning_es": "acerca de un tema",
+      "example": "Hablamos *** nuestras emociones hoy."
+    },
+    {
+      "term": "la paciencia",
+      "type": "Noun",
+      "meaning_tr": "sabır",
+      "meaning_en": "patience",
+      "meaning_uk": "терпіння",
+      "meaning_es": "capacidad de esperar",
+      "example": "La *** es una virtud muy importante."
+    }
+  ]
+}

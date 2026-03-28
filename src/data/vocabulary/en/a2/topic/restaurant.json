@@ -1,0 +1,231 @@
+{
+  "title": "At the Restaurant (A2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a menu",
+      "type": "Noun",
+      "example": "Could I see ***, please?",
+      "meaning_tr": "menü",
+      "meaning_en": "a list of food and drinks",
+      "meaning_uk": "меню",
+      "meaning_es": "un menú"
+    },
+    {
+      "term": "a waiter",
+      "type": "Noun",
+      "example": "*** brought our drinks quickly.",
+      "meaning_tr": "garson",
+      "meaning_en": "a person who serves food",
+      "meaning_uk": "офіціант",
+      "meaning_es": "un camarero"
+    },
+    {
+      "term": "to order",
+      "type": "Verb",
+      "example": "Are you ready to *** your food?",
+      "meaning_tr": "sipariş vermek",
+      "meaning_en": "to ask for food or drinks",
+      "meaning_uk": "замовляти",
+      "meaning_es": "pedir"
+    },
+    {
+      "term": "a table",
+      "type": "Noun",
+      "example": "We need *** for two people.",
+      "meaning_tr": "masa",
+      "meaning_en": "furniture to eat at",
+      "meaning_uk": "стіл",
+      "meaning_es": "una mesa"
+    },
+    {
+      "term": "delicious",
+      "type": "Adjective",
+      "example": "This pasta is very ***.",
+      "meaning_tr": "lezzetli",
+      "meaning_en": "tasting very good",
+      "meaning_uk": "смачний",
+      "meaning_es": "delicioso"
+    },
+    {
+      "term": "a bill",
+      "type": "Noun",
+      "example": "Excuse me, can we have ***?",
+      "meaning_tr": "hesap",
+      "meaning_en": "a paper showing how much to pay",
+      "meaning_uk": "рахунок",
+      "meaning_es": "una cuenta"
+    },
+    {
+      "term": "to pay",
+      "type": "Verb",
+      "example": "How would you like to ***?",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to give money for goods",
+      "meaning_uk": "платити",
+      "meaning_es": "pagar"
+    },
+    {
+      "term": "a drink",
+      "type": "Noun",
+      "example": "Would you like a cold ***?",
+      "meaning_tr": "içecek",
+      "meaning_en": "liquid for swallowing",
+      "meaning_uk": "напій",
+      "meaning_es": "una bebida"
+    },
+    {
+      "term": "thirsty",
+      "type": "Adjective",
+      "example": "I am very ***, can I have water?",
+      "meaning_tr": "susamış",
+      "meaning_en": "feeling a need to drink",
+      "meaning_uk": "спраглий",
+      "meaning_es": "sediento"
+    },
+    {
+      "term": "hungry",
+      "type": "Adjective",
+      "example": "Are you ***? Let's eat lunch.",
+      "meaning_tr": "aç",
+      "meaning_en": "wanting to eat food",
+      "meaning_uk": "голодний",
+      "meaning_es": "hambriento"
+    },
+    {
+      "term": "a starter",
+      "type": "Noun",
+      "example": "I will have soup as ***.",
+      "meaning_tr": "başlangıç",
+      "meaning_en": "the first part of a meal",
+      "meaning_uk": "закуска",
+      "meaning_es": "un entrante"
+    },
+    {
+      "term": "a main course",
+      "type": "Noun",
+      "example": "What is the *** today?",
+      "meaning_tr": "ana yemek",
+      "meaning_en": "the largest part of a meal",
+      "meaning_uk": "основна страва",
+      "meaning_es": "un plato principal"
+    },
+    {
+      "term": "a dessert",
+      "type": "Noun",
+      "example": "I want cake for ***.",
+      "meaning_tr": "tatlı",
+      "meaning_en": "sweet food eaten at the end of a meal",
+      "meaning_uk": "десерт",
+      "meaning_es": "un postre"
+    },
+    {
+      "term": "a tip",
+      "type": "Noun",
+      "example": "We left a small *** for the waiter.",
+      "meaning_tr": "bahşiş",
+      "meaning_en": "extra money for service",
+      "meaning_uk": "чайові",
+      "meaning_es": "una propina"
+    },
+    {
+      "term": "to recommend",
+      "type": "Verb",
+      "example": "What do you *** today?",
+      "meaning_tr": "tavsiye etmek",
+      "meaning_en": "to suggest something as good",
+      "meaning_uk": "рекомендувати",
+      "meaning_es": "recomendar"
+    },
+    {
+      "term": "fresh",
+      "type": "Adjective",
+      "example": "The salad is very ***.",
+      "meaning_tr": "taze",
+      "meaning_en": "recently made or picked",
+      "meaning_uk": "свіжий",
+      "meaning_es": "fresco"
+    },
+    {
+      "term": "spicy",
+      "type": "Adjective",
+      "example": "This curry is too *** for me.",
+      "meaning_tr": "baharatlı",
+      "meaning_en": "having a strong hot taste",
+      "meaning_uk": "гострий",
+      "meaning_es": "picante"
+    },
+    {
+      "term": "a plate",
+      "type": "Noun",
+      "example": "Could I have an extra ***?",
+      "meaning_tr": "tabak",
+      "meaning_en": "a flat dish for food",
+      "meaning_uk": "тарілка",
+      "meaning_es": "un plato"
+    },
+    {
+      "term": "a glass",
+      "type": "Noun",
+      "example": "I would like a *** of water.",
+      "meaning_tr": "bardak",
+      "meaning_en": "a container for drinking",
+      "meaning_uk": "склянка",
+      "meaning_es": "un vaso"
+    },
+    {
+      "term": "inside",
+      "type": "Preposition",
+      "example": "It is cold, let's sit ***.",
+      "meaning_tr": "içeride",
+      "meaning_en": "in the interior of a place",
+      "meaning_uk": "всередині",
+      "meaning_es": "dentro"
+    },
+    {
+      "term": "outside",
+      "type": "Preposition",
+      "example": "The weather is nice, let's sit ***.",
+      "meaning_tr": "dışarıda",
+      "meaning_en": "not in the building",
+      "meaning_uk": "на вулиці",
+      "meaning_es": "fuera"
+    },
+    {
+      "term": "quickly",
+      "type": "Adverb",
+      "example": "Please serve us ***.",
+      "meaning_tr": "hızlıca",
+      "meaning_en": "at a fast speed",
+      "meaning_uk": "швидко",
+      "meaning_es": "rápidamente"
+    },
+    {
+      "term": "but",
+      "type": "Conjunction",
+      "example": "I want the soup, *** I don't want salad.",
+      "meaning_tr": "fakat",
+      "meaning_en": "used to connect different ideas",
+      "meaning_uk": "але",
+      "meaning_es": "pero"
+    },
+    {
+      "term": "and",
+      "type": "Conjunction",
+      "example": "I will have water *** orange juice.",
+      "meaning_tr": "ve",
+      "meaning_en": "used to connect words",
+      "meaning_uk": "і",
+      "meaning_es": "y"
+    },
+    {
+      "term": "to serve",
+      "type": "Verb",
+      "example": "They *** breakfast until 11 am.",
+      "meaning_tr": "servis etmek",
+      "meaning_en": "to provide food to customers",
+      "meaning_uk": "подавати",
+      "meaning_es": "servir"
+    }
+  ]
+}

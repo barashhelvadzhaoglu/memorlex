@@ -1,0 +1,321 @@
+{
+  "title": "Internet & Soziale Medien (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Internet",
+      "type": "Noun",
+      "example": "Ich verbringe viel Zeit im ***.",
+      "meaning_tr": "İnternet",
+      "meaning_en": "the internet",
+      "meaning_uk": "інтернет",
+      "meaning_es": "el internet"
+    },
+    {
+      "term": "die Webseite",
+      "type": "Noun",
+      "example": "Diese *** ist sehr informativ.",
+      "meaning_tr": "web sitesi",
+      "meaning_en": "website",
+      "meaning_uk": "вебсайт",
+      "meaning_es": "el sitio web"
+    },
+    {
+      "term": "die App",
+      "type": "Noun",
+      "example": "Ich habe eine neue *** heruntergeladen.",
+      "meaning_tr": "uygulama",
+      "meaning_en": "app",
+      "meaning_uk": "додаток",
+      "meaning_es": "la aplicación"
+    },
+    {
+      "term": "der Nutzer",
+      "type": "Noun",
+      "example": "Jeder *** braucht ein Passwort.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "el usuario"
+    },
+    {
+      "term": "die E-Mail",
+      "type": "Noun",
+      "example": "Hast du meine *** erhalten?",
+      "meaning_tr": "e-posta",
+      "meaning_en": "email",
+      "meaning_uk": "електронна пошта",
+      "meaning_es": "el correo electrónico"
+    },
+    {
+      "term": "das Passwort",
+      "type": "Noun",
+      "example": "Bitte ändere dein *** regelmäßig.",
+      "meaning_tr": "şifre",
+      "meaning_en": "password",
+      "meaning_uk": "пароль",
+      "meaning_es": "la contraseña"
+    },
+    {
+      "term": "der Kommentar",
+      "type": "Noun",
+      "example": "Er hat einen *** unter das Foto geschrieben.",
+      "meaning_tr": "yorum",
+      "meaning_en": "comment",
+      "meaning_uk": "коментар",
+      "meaning_es": "el comentario"
+    },
+    {
+      "term": "die Nachricht",
+      "type": "Noun",
+      "example": "Ich habe eine *** auf WhatsApp bekommen.",
+      "meaning_tr": "mesaj",
+      "meaning_en": "message",
+      "meaning_uk": "повідомлення",
+      "meaning_es": "el mensaje"
+    },
+    {
+      "term": "das soziale Netzwerk",
+      "type": "Noun",
+      "example": "Welches *** nutzt du am häufigsten?",
+      "meaning_tr": "sosyal ağ",
+      "meaning_en": "social network",
+      "meaning_uk": "соціальна мережа",
+      "meaning_es": "la red social"
+    },
+    {
+      "term": "die Datei",
+      "type": "Noun",
+      "example": "Kannst du mir die *** schicken?",
+      "meaning_tr": "dosya",
+      "meaning_en": "file",
+      "meaning_uk": "файл",
+      "meaning_es": "el archivo"
+    },
+    {
+      "term": "der Link",
+      "type": "Noun",
+      "example": "Klicke bitte auf diesen ***.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "link",
+      "meaning_uk": "посилання",
+      "meaning_es": "el enlace"
+    },
+    {
+      "term": "die Verbindung",
+      "type": "Noun",
+      "example": "Die Internet-*** ist heute sehr langsam.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "connection",
+      "meaning_uk": "з'єднання",
+      "meaning_es": "la conexión"
+    },
+    {
+      "term": "das Profil",
+      "type": "Noun",
+      "example": "Dein *** sieht sehr professionell aus.",
+      "meaning_tr": "profil",
+      "meaning_en": "profile",
+      "meaning_uk": "профіль",
+      "meaning_es": "el perfil"
+    },
+    {
+      "term": "die Privatsphäre",
+      "type": "Noun",
+      "example": "Der Schutz der *** ist wichtig.",
+      "meaning_tr": "özel hayatın gizliliği",
+      "meaning_en": "privacy",
+      "meaning_uk": "приватність",
+      "meaning_es": "la privacidad"
+    },
+    {
+      "term": "der Datenschutz",
+      "type": "Noun",
+      "example": "Wir achten sehr auf den ***.",
+      "meaning_tr": "veri koruma",
+      "meaning_en": "data protection",
+      "meaning_uk": "захист даних",
+      "meaning_es": "la protección de datos"
+    },
+    {
+      "term": "hochladen",
+      "type": "Verb",
+      "example": "Ich möchte ein Video auf YouTube ***.",
+      "meaning_tr": "yüklemek",
+      "meaning_en": "to upload",
+      "meaning_uk": "завантажувати",
+      "meaning_es": "subir"
+    },
+    {
+      "term": "herunterladen",
+      "type": "Verb",
+      "example": "Du kannst das Dokument hier ***.",
+      "meaning_tr": "indirmek",
+      "meaning_en": "to download",
+      "meaning_uk": "завантажувати (з інтернету)",
+      "meaning_es": "descargar"
+    },
+    {
+      "term": "teilen",
+      "type": "Verb",
+      "example": "Willst du diesen Beitrag ***?",
+      "meaning_tr": "paylaşmak",
+      "meaning_en": "to share",
+      "meaning_uk": "ділитися",
+      "meaning_es": "compartir"
+    },
+    {
+      "term": "liken",
+      "type": "Verb",
+      "example": "Ich habe dein Foto mit ***.",
+      "meaning_tr": "beğenmek",
+      "meaning_en": "to like",
+      "meaning_uk": "ставити лайк",
+      "meaning_es": "dar me gusta"
+    },
+    {
+      "term": "löschen",
+      "type": "Verb",
+      "example": "Soll ich diese E-Mail ***?",
+      "meaning_tr": "silmek",
+      "meaning_en": "to delete",
+      "meaning_uk": "видаляти",
+      "meaning_es": "borrar"
+    },
+    {
+      "term": "sich anmelden",
+      "type": "Verb",
+      "example": "Du musst dich erst auf der Webseite ***.",
+      "meaning_tr": "giriş yapmak / kaydolmak",
+      "meaning_en": "to sign up / log in",
+      "meaning_uk": "реєструватися / входити",
+      "meaning_es": "registrarse / iniciar sesión"
+    },
+    {
+      "term": "surfen",
+      "type": "Verb",
+      "example": "Wie lange *** du täglich im Netz?",
+      "meaning_tr": "internette gezinmek",
+      "meaning_en": "to surf",
+      "meaning_uk": "сидіти в інтернеті",
+      "meaning_es": "navegar"
+    },
+    {
+      "term": "klicken",
+      "type": "Verb",
+      "example": "Du musst auf das Bild ***.",
+      "meaning_tr": "tıklamak",
+      "meaning_en": "to click",
+      "meaning_uk": "натискати",
+      "meaning_es": "hacer clic"
+    },
+    {
+      "term": "blockieren",
+      "type": "Verb",
+      "example": "Ich habe den Nutzer ***.",
+      "meaning_tr": "engellemek",
+      "meaning_en": "to block",
+      "meaning_uk": "блокувати",
+      "meaning_es": "bloquear"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "example": "Wir leben in einer *** Welt.",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "digital"
+    },
+    {
+      "term": "online",
+      "type": "Adjective",
+      "example": "Bist du gerade ***?",
+      "meaning_tr": "çevrimiçi",
+      "meaning_en": "online",
+      "meaning_uk": "онлайн",
+      "meaning_es": "en línea"
+    },
+    {
+      "term": "offline",
+      "type": "Adjective",
+      "example": "Ich bin am Wochenende meistens ***.",
+      "meaning_tr": "çevrimdışı",
+      "meaning_en": "offline",
+      "meaning_uk": "офлайн",
+      "meaning_es": "desconectado"
+    },
+    {
+      "term": "schnell",
+      "type": "Adjective",
+      "example": "Das Internet ist hier sehr ***.",
+      "meaning_tr": "hızlı",
+      "meaning_en": "fast",
+      "meaning_uk": "швидкий",
+      "meaning_es": "rápido"
+    },
+    {
+      "term": "nützlich",
+      "type": "Adjective",
+      "example": "Diese App ist wirklich ***.",
+      "meaning_tr": "faydalı",
+      "meaning_en": "useful",
+      "meaning_uk": "корисний",
+      "meaning_es": "útil"
+    },
+    {
+      "term": "kompliziert",
+      "type": "Adjective",
+      "example": "Die Bedienung ist nicht ***.",
+      "meaning_tr": "karmaşık",
+      "meaning_en": "complicated",
+      "meaning_uk": "складний",
+      "meaning_es": "complicado"
+    },
+    {
+      "term": "öffentlich",
+      "type": "Adjective",
+      "example": "Mein Profil ist nicht ***.",
+      "meaning_tr": "herkese açık",
+      "meaning_en": "public",
+      "meaning_uk": "публічний",
+      "meaning_es": "público"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "Ich schreibe eine Nachricht, *** ich auf den Bus warte.",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "під час того, як",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "sobald",
+      "type": "Conjunction",
+      "example": "Ich antworte, *** ich Zeit habe.",
+      "meaning_tr": "yapar yapmaz",
+      "meaning_en": "as soon as",
+      "meaning_uk": "як тільки",
+      "meaning_es": "tan pronto como"
+    },
+    {
+      "term": "heute",
+      "type": "Adverb",
+      "example": "*** nutzen fast alle soziale Medien.",
+      "meaning_tr": "bugün",
+      "meaning_en": "today",
+      "meaning_uk": "сьогодні",
+      "meaning_es": "hoy"
+    },
+    {
+      "term": "ständig",
+      "type": "Adverb",
+      "example": "Er schaut *** auf sein Handy.",
+      "meaning_tr": "sürekli",
+      "meaning_en": "constantly",
+      "meaning_uk": "постійно",
+      "meaning_es": "constantemente"
+    }
+  ]
+}

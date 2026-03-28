@@ -1,0 +1,321 @@
+{
+  "title": "Kommunikation & Telefonate (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Anruf",
+      "type": "Noun",
+      "example": "Ich habe einen wichtigen *** erhalten.",
+      "meaning_tr": "arama",
+      "meaning_en": "call",
+      "meaning_uk": "дзвінок",
+      "meaning_es": "llamada"
+    },
+    {
+      "term": "anrufen",
+      "type": "Verb",
+      "example": "Kannst du mich später ***?",
+      "meaning_tr": "aramak",
+      "meaning_en": "to call",
+      "meaning_uk": "дзвонити",
+      "meaning_es": "llamar"
+    },
+    {
+      "term": "die Nachricht",
+      "type": "Noun",
+      "example": "Haben Sie meine *** bekommen?",
+      "meaning_tr": "mesaj",
+      "meaning_en": "message",
+      "meaning_uk": "повідомлення",
+      "meaning_es": "mensaje"
+    },
+    {
+      "term": "verbinden",
+      "type": "Verb",
+      "example": "Einen Moment, ich *** Sie mit dem Chef.",
+      "meaning_tr": "bağlamak",
+      "meaning_en": "to connect",
+      "meaning_uk": "з'єднувати",
+      "meaning_es": "conectar"
+    },
+    {
+      "term": "besetzt",
+      "type": "Adjective",
+      "example": "Die Leitung ist leider ***.",
+      "meaning_tr": "meşgul",
+      "meaning_en": "busy/occupied",
+      "meaning_uk": "зайнятий",
+      "meaning_es": "ocupado"
+    },
+    {
+      "term": "die Durchwahl",
+      "type": "Noun",
+      "example": "Wie ist Ihre ***?",
+      "meaning_tr": "dahili numara",
+      "meaning_en": "extension number",
+      "meaning_uk": "додатковий номер",
+      "meaning_es": "número de extensión"
+    },
+    {
+      "term": "die Mailbox",
+      "type": "Noun",
+      "example": "Bitte hinterlassen Sie eine Nachricht auf der ***.",
+      "meaning_tr": "sesli mesaj kutusu",
+      "meaning_en": "voicemail",
+      "meaning_uk": "голосова пошта",
+      "meaning_es": "buzón de voz"
+    },
+    {
+      "term": "erreichbar",
+      "type": "Adjective",
+      "example": "Ich bin morgen ab zehn Uhr ***.",
+      "meaning_tr": "ulaşılabilir",
+      "meaning_en": "reachable",
+      "meaning_uk": "доступний",
+      "meaning_es": "alcanzable"
+    },
+    {
+      "term": "das Gespräch",
+      "type": "Noun",
+      "example": "Vielen Dank für das freundliche ***.",
+      "meaning_tr": "görüşme",
+      "meaning_en": "conversation",
+      "meaning_uk": "розмова",
+      "meaning_es": "conversación"
+    },
+    {
+      "term": "zurückrufen",
+      "type": "Verb",
+      "example": "Könnten Sie mich bitte ***?",
+      "meaning_tr": "geri aramak",
+      "meaning_en": "to call back",
+      "meaning_uk": "передзвонити",
+      "meaning_es": "devolver la llamada"
+    },
+    {
+      "term": "die Konferenz",
+      "type": "Noun",
+      "example": "Wir haben heute eine wichtige ***.",
+      "meaning_tr": "konferans",
+      "meaning_en": "conference",
+      "meaning_uk": "конференція",
+      "meaning_es": "conferencia"
+    },
+    {
+      "term": "ausrichten",
+      "type": "Verb",
+      "example": "Soll ich ihm etwas ***?",
+      "meaning_tr": "iletmek",
+      "meaning_en": "to pass on (a message)",
+      "meaning_uk": "передати",
+      "meaning_es": "transmitir"
+    },
+    {
+      "term": "höflich",
+      "type": "Adjective",
+      "example": "Er hat sehr *** am Telefon reagiert.",
+      "meaning_tr": "kibar",
+      "meaning_en": "polite",
+      "meaning_uk": "ввічливий",
+      "meaning_es": "educado"
+    },
+    {
+      "term": "die Störung",
+      "type": "Noun",
+      "example": "Entschuldigen Sie die ***.",
+      "meaning_tr": "rahatsızlık/arıza",
+      "meaning_en": "disturbance/fault",
+      "meaning_uk": "перешкода/несправність",
+      "meaning_es": "interrupción/avería"
+    },
+    {
+      "term": "die Vorwahl",
+      "type": "Noun",
+      "example": "Wie ist die *** für Berlin?",
+      "meaning_tr": "alan kodu",
+      "meaning_en": "area code",
+      "meaning_uk": "код міста",
+      "meaning_es": "prefijo"
+    },
+    {
+      "term": "die Empfang",
+      "type": "Noun",
+      "example": "Ich habe hier leider keinen guten ***.",
+      "meaning_tr": "çekim gücü/resepsiyon",
+      "meaning_en": "reception",
+      "meaning_uk": "прийом сигналу",
+      "meaning_es": "recepción"
+    },
+    {
+      "term": "weiterleiten",
+      "type": "Verb",
+      "example": "Ich werde Ihre Anfrage an die Abteilung ***.",
+      "meaning_tr": "yönlendirmek",
+      "meaning_en": "to forward",
+      "meaning_uk": "перенаправити",
+      "meaning_es": "reenviar"
+    },
+    {
+      "term": "dringend",
+      "type": "Adjective",
+      "example": "Es ist sehr ***, bitte rufen Sie sofort an.",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміновий",
+      "meaning_es": "urgente"
+    },
+    {
+      "term": "die App",
+      "type": "Noun",
+      "example": "Ich nutze diese *** für Videocalls.",
+      "meaning_tr": "uygulama",
+      "meaning_en": "app",
+      "meaning_uk": "додаток",
+      "meaning_es": "aplicación"
+    },
+    {
+      "term": "das Headset",
+      "type": "Noun",
+      "example": "Ohne mein *** kann ich nicht gut arbeiten.",
+      "meaning_tr": "kulaklık",
+      "meaning_en": "headset",
+      "meaning_uk": "гарнітура",
+      "meaning_es": "auriculares"
+    },
+    {
+      "term": "schriftlich",
+      "type": "Adverb",
+      "example": "Bitte senden Sie mir das *** zu.",
+      "meaning_tr": "yazılı olarak",
+      "meaning_en": "in writing",
+      "meaning_uk": "письмово",
+      "meaning_es": "por escrito"
+    },
+    {
+      "term": "der Termin",
+      "type": "Noun",
+      "example": "Haben Sie nächste Woche einen freien ***?",
+      "meaning_tr": "randevu",
+      "meaning_en": "appointment",
+      "meaning_uk": "зустріч/запис",
+      "meaning_es": "cita"
+    },
+    {
+      "term": "vereinbaren",
+      "type": "Verb",
+      "example": "Wir müssen einen neuen Termin ***.",
+      "meaning_tr": "kararlaştırmak",
+      "meaning_en": "to arrange",
+      "meaning_uk": "домовитися",
+      "meaning_es": "acordar"
+    },
+    {
+      "term": "da",
+      "type": "Conjunction",
+      "example": "Ich rufe an, *** ich eine Frage habe.",
+      "meaning_tr": "çünkü/ -dığı için",
+      "meaning_en": "because/since",
+      "meaning_uk": "оскільки/тому що",
+      "meaning_es": "puesto que"
+    },
+    {
+      "term": "stattfinden",
+      "type": "Verb",
+      "example": "Wann soll das Meeting ***?",
+      "meaning_tr": "gerçekleşmek",
+      "meaning_en": "to take place",
+      "meaning_uk": "відбуватися",
+      "meaning_es": "tener lugar"
+    },
+    {
+      "term": "kurz",
+      "type": "Adjective",
+      "example": "Haben Sie eine *** Minute für mich?",
+      "meaning_tr": "kısa",
+      "meaning_en": "short",
+      "meaning_uk": "короткий",
+      "meaning_es": "corto"
+    },
+    {
+      "term": "besprechen",
+      "type": "Verb",
+      "example": "Wir können das morgen persönlich ***.",
+      "meaning_tr": "konuşmak/görüşmek",
+      "meaning_en": "to discuss",
+      "meaning_uk": "обговорити",
+      "meaning_es": "discutir/tratar"
+    },
+    {
+      "term": "außer",
+      "type": "Preposition",
+      "example": "Ich bin *** Haus.",
+      "meaning_tr": "dışında",
+      "meaning_en": "outside/except",
+      "meaning_uk": "поза/крім",
+      "meaning_es": "fuera de/excepto"
+    },
+    {
+      "term": "vorbereiten",
+      "type": "Verb",
+      "example": "Ich muss das Telefonat gut ***.",
+      "meaning_tr": "hazırlamak",
+      "meaning_en": "to prepare",
+      "meaning_uk": "підготувати",
+      "meaning_es": "preparar"
+    },
+    {
+      "term": "die E-Mail",
+      "type": "Noun",
+      "example": "Schreiben Sie mir einfach eine ***.",
+      "meaning_tr": "e-posta",
+      "meaning_en": "email",
+      "meaning_uk": "електронна пошта",
+      "meaning_es": "correo electrónico"
+    },
+    {
+      "term": "bestätigen",
+      "type": "Verb",
+      "example": "Können Sie den Termin bitte ***?",
+      "meaning_tr": "onaylamak",
+      "meaning_en": "to confirm",
+      "meaning_uk": "підтвердити",
+      "meaning_es": "confirmar"
+    },
+    {
+      "term": "falsch",
+      "type": "Adjective",
+      "example": "Entschuldigung, da haben Sie die *** Nummer gewählt.",
+      "meaning_tr": "yanlış",
+      "meaning_en": "wrong",
+      "meaning_uk": "неправильний",
+      "meaning_es": "equivocado"
+    },
+    {
+      "term": "dazu",
+      "type": "Adverb",
+      "example": "Haben Sie noch Fragen ***?",
+      "meaning_tr": "bununla ilgili",
+      "meaning_en": "about that",
+      "meaning_uk": "щодо цього",
+      "meaning_es": "al respecto"
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "example": "Bitte nicht *** des Gesprächs essen.",
+      "meaning_tr": "esnasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "die Information",
+      "type": "Noun",
+      "example": "Ich brauche noch eine wichtige ***.",
+      "meaning_tr": "bilgi",
+      "meaning_en": "information",
+      "meaning_uk": "інформація",
+      "meaning_es": "información"
+    }
+  ]
+}

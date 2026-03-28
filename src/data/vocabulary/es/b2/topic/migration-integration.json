@@ -1,0 +1,411 @@
+{
+  "title": "Migracion e Integracion (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la migración",
+      "type": "Noun",
+      "example": "*** es un fenómeno social complejo que afecta a muchas naciones.",
+      "meaning_tr": "göç",
+      "meaning_en": "migration",
+      "meaning_uk": "міграція",
+      "meaning_es": "desplazamiento de población"
+    },
+    {
+      "term": "el refugiado",
+      "type": "Noun",
+      "example": "*** busca protección internacional en un país extranjero.",
+      "meaning_tr": "mülteci",
+      "meaning_en": "refugee",
+      "meaning_uk": "біженець",
+      "meaning_es": "persona que busca asilo"
+    },
+    {
+      "term": "integrarse",
+      "type": "Verb",
+      "example": "Es fundamental que los nuevos residentes logren *** en la sociedad.",
+      "meaning_tr": "uyum sağlamak",
+      "meaning_en": "to integrate",
+      "meaning_uk": "інтегруватися",
+      "meaning_es": "incorporarse a un grupo o sociedad"
+    },
+    {
+      "term": "la xenofobia",
+      "type": "Noun",
+      "example": "Debemos combatir *** con educación y empatía.",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "xenophobia",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "rechazo a los extranjeros"
+    },
+    {
+      "term": "la diversidad",
+      "type": "Noun",
+      "example": "*** cultural enriquece nuestra comunidad local.",
+      "meaning_tr": "çeşitlilik",
+      "meaning_en": "diversity",
+      "meaning_uk": "різноманітність",
+      "meaning_es": "variedad de culturas"
+    },
+    {
+      "term": "el solicitante de asilo",
+      "type": "Noun",
+      "example": "*** espera la respuesta de las autoridades migratorias.",
+      "meaning_tr": "sığınma talebinde bulunan kişi",
+      "meaning_en": "asylum seeker",
+      "meaning_uk": "шукач притулку",
+      "meaning_es": "persona que pide refugio"
+    },
+    {
+      "term": "la residencia",
+      "type": "Noun",
+      "example": "El gobierno aprobó su permiso de *** permanente.",
+      "meaning_tr": "ikamet",
+      "meaning_en": "residency",
+      "meaning_uk": "резиденція",
+      "meaning_es": "autorización para vivir en un lugar"
+    },
+    {
+      "term": "la barrera lingüística",
+      "type": "Noun",
+      "example": "*** dificulta el acceso a los servicios públicos.",
+      "meaning_tr": "dil engeli",
+      "meaning_en": "language barrier",
+      "meaning_uk": "мовний бар'єр",
+      "meaning_es": "dificultad por no hablar el idioma"
+    },
+    {
+      "term": "acoger",
+      "type": "Verb",
+      "example": "El país decidió *** a miles de familias desplazadas.",
+      "meaning_tr": "kabul etmek / barındırmak",
+      "meaning_en": "to welcome / to harbor",
+      "meaning_uk": "приймати",
+      "meaning_es": "recibir a alguien en casa o país"
+    },
+    {
+      "term": "la ciudadanía",
+      "type": "Noun",
+      "example": "Después de cinco años, solicitó la *** española.",
+      "meaning_tr": "vatandaşlık",
+      "meaning_en": "citizenship",
+      "meaning_uk": "громадянство",
+      "meaning_es": "condición de ciudadano"
+    },
+    {
+      "term": "el permiso de trabajo",
+      "type": "Noun",
+      "example": "Sin ***, es legalmente difícil conseguir un empleo estable.",
+      "meaning_tr": "çalışma izni",
+      "meaning_en": "work permit",
+      "meaning_uk": "дозвіл на роботу",
+      "meaning_es": "autorización para trabajar"
+    },
+    {
+      "term": "la multiculturalidad",
+      "type": "Noun",
+      "example": "*** es una característica de las grandes ciudades modernas.",
+      "meaning_tr": "çok kültürlülük",
+      "meaning_en": "multiculturalism",
+      "meaning_uk": "мультикультурність",
+      "meaning_es": "coexistencia de varias culturas"
+    },
+    {
+      "term": "emigrar",
+      "type": "Verb",
+      "example": "Muchos jóvenes deciden *** para encontrar mejores oportunidades.",
+      "meaning_tr": "göç etmek",
+      "meaning_en": "to emigrate",
+      "meaning_uk": "емігрувати",
+      "meaning_es": "salir del país de origen"
+    },
+    {
+      "term": "la mano de obra",
+      "type": "Noun",
+      "example": "La economía depende de *** extranjera en el sector agrícola.",
+      "meaning_tr": "iş gücü",
+      "meaning_en": "workforce / labor",
+      "meaning_uk": "робоча сила",
+      "meaning_es": "conjunto de trabajadores"
+    },
+    {
+      "term": "la exclusión social",
+      "type": "Noun",
+      "example": "Es necesario diseñar políticas para evitar ***.",
+      "meaning_tr": "sosyal dışlanma",
+      "meaning_en": "social exclusion",
+      "meaning_uk": "соціальне відчуження",
+      "meaning_es": "falta de participación en la sociedad"
+    },
+    {
+      "term": "la diáspora",
+      "type": "Noun",
+      "example": "*** mantiene fuertes vínculos con su país de origen.",
+      "meaning_tr": "diaspora",
+      "meaning_en": "diaspora",
+      "meaning_uk": "діаспора",
+      "meaning_es": "comunidad en el extranjero"
+    },
+    {
+      "term": "la convivencia",
+      "type": "Noun",
+      "example": "El respeto mutuo es clave para una buena ***.",
+      "meaning_tr": "birlikte yaşama",
+      "meaning_en": "coexistence",
+      "meaning_uk": "співіснування",
+      "meaning_es": "vivir juntos en armonía"
+    },
+    {
+      "term": "la asimilación",
+      "type": "Noun",
+      "example": "La *** cultural puede ser un proceso lento y difícil.",
+      "meaning_tr": "asimilasyon",
+      "meaning_en": "assimilation",
+      "meaning_uk": "асиміляція",
+      "meaning_es": "adopción de costumbres ajenas"
+    },
+    {
+      "term": "el migrante",
+      "type": "Noun",
+      "example": "Cada *** tiene una historia única sobre su viaje.",
+      "meaning_tr": "göçmen",
+      "meaning_en": "migrant",
+      "meaning_uk": "мігрант",
+      "meaning_es": "persona que migra"
+    },
+    {
+      "term": "el visado",
+      "type": "Noun",
+      "example": "Necesitas presentar tu *** en la aduana.",
+      "meaning_tr": "vize",
+      "meaning_en": "visa",
+      "meaning_uk": "віза",
+      "meaning_es": "documento de entrada al país"
+    },
+    {
+      "term": "desplazado",
+      "type": "Adjective",
+      "example": "El conflicto ha dejado a miles de personas ***.",
+      "meaning_tr": "yerinden edilmiş",
+      "meaning_en": "displaced",
+      "meaning_uk": "переміщений",
+      "meaning_es": "que ha tenido que huir"
+    },
+    {
+      "term": "la frontera",
+      "type": "Noun",
+      "example": "Las autoridades reforzaron la seguridad en ***.",
+      "meaning_tr": "sınır",
+      "meaning_en": "border",
+      "meaning_uk": "кордон",
+      "meaning_es": "límite territorial"
+    },
+    {
+      "term": "la regularización",
+      "type": "Noun",
+      "example": "El proceso de *** permitirá que trabajen legalmente.",
+      "meaning_tr": "yasallaştırma / düzenli hale getirme",
+      "meaning_en": "regularization",
+      "meaning_uk": "легалізація",
+      "meaning_es": "proceso legal de estancia"
+    },
+    {
+      "term": "el choque cultural",
+      "type": "Noun",
+      "example": "Sentir *** es normal al mudarse a un país nuevo.",
+      "meaning_tr": "kültür şoku",
+      "meaning_en": "culture shock",
+      "meaning_uk": "культурний шок",
+      "meaning_es": "impacto por costumbres diferentes"
+    },
+    {
+      "term": "inmigrar",
+      "type": "Verb",
+      "example": "Decidieron *** a Canadá buscando estabilidad.",
+      "meaning_tr": "göç etmek (bir yere)",
+      "meaning_en": "to immigrate",
+      "meaning_uk": "іммігрувати",
+      "meaning_es": "entrar a un país para vivir"
+    },
+    {
+      "term": "la acogida",
+      "type": "Noun",
+      "example": "La ciudad ofreció una cálida *** a los recién llegados.",
+      "meaning_tr": "karşılama / kabul",
+      "meaning_en": "reception / welcome",
+      "meaning_uk": "прийом",
+      "meaning_es": "bienvenida o recepción"
+    },
+    {
+      "term": "el arraigo",
+      "type": "Noun",
+      "example": "El *** a la nueva tierra requiere tiempo y comunidad.",
+      "meaning_tr": "kök salma / aidiyet",
+      "meaning_en": "rootedness / belonging",
+      "meaning_uk": "вкорінення",
+      "meaning_es": "vínculo con el lugar"
+    },
+    {
+      "term": "la remesa",
+      "type": "Noun",
+      "example": "Envía una *** a su familia cada mes.",
+      "meaning_tr": "havale / para gönderimi",
+      "meaning_en": "remittance",
+      "meaning_uk": "грошовий переказ",
+      "meaning_es": "dinero enviado al país de origen"
+    },
+    {
+      "term": "la discriminación",
+      "type": "Noun",
+      "example": "La ley prohíbe *** en el lugar de trabajo.",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "discrimination",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "trato desigual"
+    },
+    {
+      "term": "el asilo político",
+      "type": "Noun",
+      "example": "Solicitó *** tras sufrir persecución en su país.",
+      "meaning_tr": "siyasi sığınma",
+      "meaning_en": "political asylum",
+      "meaning_uk": "політичний притулок",
+      "meaning_es": "protección por motivos políticos"
+    },
+    {
+      "term": "la integración laboral",
+      "type": "Noun",
+      "example": "Promover *** es vital para la autonomía del migrante.",
+      "meaning_tr": "iş gücüne uyum",
+      "meaning_en": "labor integration",
+      "meaning_uk": "трудова інтеграція",
+      "meaning_es": "incorporación al trabajo"
+    },
+    {
+      "term": "la vulnerabilidad",
+      "type": "Noun",
+      "example": "Los niños migrantes se encuentran en una situación de ***.",
+      "meaning_tr": "savunmasızlık / kırılganlık",
+      "meaning_en": "vulnerability",
+      "meaning_uk": "вразливість",
+      "meaning_es": "estado de debilidad"
+    },
+    {
+      "term": "el permiso de residencia",
+      "type": "Noun",
+      "example": "Renovó su *** el mes pasado.",
+      "meaning_tr": "oturma izni",
+      "meaning_en": "residence permit",
+      "meaning_uk": "посвідка на проживання",
+      "meaning_es": "autorización para residir"
+    },
+    {
+      "term": "la igualdad de oportunidades",
+      "type": "Noun",
+      "example": "El sistema educativo debe garantizar ***.",
+      "meaning_tr": "fırsat eşitliği",
+      "meaning_en": "equal opportunities",
+      "meaning_uk": "рівні можливості",
+      "meaning_es": "mismas opciones para todos"
+    },
+    {
+      "term": "la integración social",
+      "type": "Noun",
+      "example": "La participación en actividades locales facilita ***.",
+      "meaning_tr": "sosyal uyum",
+      "meaning_en": "social integration",
+      "meaning_uk": "соціальна інтеграція",
+      "meaning_es": "inclusión en la comunidad"
+    },
+    {
+      "term": "el flujo migratorio",
+      "type": "Noun",
+      "example": "*** ha aumentado considerablemente este año.",
+      "meaning_tr": "göç akını",
+      "meaning_en": "migratory flow",
+      "meaning_uk": "міграційний потік",
+      "meaning_es": "movimiento de personas"
+    },
+    {
+      "term": "la repatriación",
+      "type": "Noun",
+      "example": "El gobierno organizó *** voluntaria de los ciudadanos.",
+      "meaning_tr": "ülkeye geri gönderilme",
+      "meaning_en": "repatriation",
+      "meaning_uk": "репатріація",
+      "meaning_es": "retorno al país de origen"
+    },
+    {
+      "term": "el indocumentado",
+      "type": "Noun",
+      "example": "El programa ayuda a cada *** a obtener papeles legales.",
+      "meaning_tr": "belgesiz / kaçak göçmen",
+      "meaning_en": "undocumented person",
+      "meaning_uk": "нелегал",
+      "meaning_es": "persona sin documentos legales"
+    },
+    {
+      "term": "la convivencia intercultural",
+      "type": "Noun",
+      "example": "Fomentar *** es el objetivo del festival.",
+      "meaning_tr": "kültürlerarası uyum",
+      "meaning_en": "intercultural coexistence",
+      "meaning_uk": "міжкультурне співіснування",
+      "meaning_es": "vivir entre culturas diferentes"
+    },
+    {
+      "term": "la inserción",
+      "type": "Noun",
+      "example": "El programa facilita la *** de los inmigrantes en la sociedad.",
+      "meaning_tr": "yerleştirme / katılım",
+      "meaning_en": "insertion / inclusion",
+      "meaning_uk": "включення / інтеграція",
+      "meaning_es": "acto de incluir en un medio"
+    },
+    {
+      "term": "la red de apoyo",
+      "type": "Noun",
+      "example": "Tener una *** es esencial para adaptarse bien.",
+      "meaning_tr": "destek ağı",
+      "meaning_en": "support network",
+      "meaning_uk": "мережа підтримки",
+      "meaning_es": "grupo de ayuda mutua"
+    },
+    {
+      "term": "la barrera social",
+      "type": "Noun",
+      "example": "Debemos derribar cualquier *** que impida la igualdad.",
+      "meaning_tr": "sosyal engel",
+      "meaning_en": "social barrier",
+      "meaning_uk": "соціальний бар'єр",
+      "meaning_es": "obstáculo en la sociedad"
+    },
+    {
+      "term": "el país de acogida",
+      "type": "Noun",
+      "example": "El *** debe ofrecer derechos básicos a los nuevos residentes.",
+      "meaning_tr": "ev sahibi ülke",
+      "meaning_en": "host country",
+      "meaning_uk": "країна перебування",
+      "meaning_es": "país que recibe migrantes"
+    },
+    {
+      "term": "el país de origen",
+      "type": "Noun",
+      "example": "Muchos extrañan su *** por la comida y la familia.",
+      "meaning_tr": "menşe ülke",
+      "meaning_en": "country of origin",
+      "meaning_uk": "країна походження",
+      "meaning_es": "país de donde se viene"
+    },
+    {
+      "term": "la cohesión social",
+      "type": "Noun",
+      "example": "La tolerancia es necesaria para mantener la ***.",
+      "meaning_tr": "sosyal uyum / birliktelik",
+      "meaning_en": "social cohesion",
+      "meaning_uk": "соціальна згуртованість",
+      "meaning_es": "unión de los miembros de la sociedad"
+    }
+  ]
+}

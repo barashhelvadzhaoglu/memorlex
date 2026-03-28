@@ -1,0 +1,411 @@
+{
+  "title": "Arbeit & Büro (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Arbeitsbedingung",
+      "type": "Noun",
+      "example": "Gute *** sind für die Motivation der Mitarbeiter entscheidend.",
+      "meaning_tr": "çalışma koşulu",
+      "meaning_en": "working condition",
+      "meaning_uk": "умови праці",
+      "meaning_es": "condición laboral"
+    },
+    {
+      "term": "die Beförderung",
+      "type": "Noun",
+      "example": "Er hat sich sehr über seine *** zur Abteilungsleitung gefreut.",
+      "meaning_tr": "terfi",
+      "meaning_en": "promotion",
+      "meaning_uk": "підвищення",
+      "meaning_es": "ascenso"
+    },
+    {
+      "term": "die Besprechung",
+      "type": "Noun",
+      "example": "Wir haben heute eine wichtige *** über das neue Projekt.",
+      "meaning_tr": "toplantı",
+      "meaning_en": "meeting",
+      "meaning_uk": "нарада",
+      "meaning_es": "reunión"
+    },
+    {
+      "term": "die Dienstreise",
+      "type": "Noun",
+      "example": "Nächste Woche muss ich für eine *** nach Berlin fliegen.",
+      "meaning_tr": "iş seyahati",
+      "meaning_en": "business trip",
+      "meaning_uk": "відрядження",
+      "meaning_es": "viaje de negocios"
+    },
+    {
+      "term": "die Frist",
+      "type": "Noun",
+      "example": "Die *** für die Einreichung der Unterlagen endet morgen.",
+      "meaning_tr": "son teslim tarihi",
+      "meaning_en": "deadline",
+      "meaning_uk": "термін",
+      "meaning_es": "plazo"
+    },
+    {
+      "term": "die Gehaltsabrechnung",
+      "type": "Noun",
+      "example": "Auf der *** kann man alle Abzüge genau sehen.",
+      "meaning_tr": "maaş bordrosu",
+      "meaning_en": "payslip",
+      "meaning_uk": "розрахунковий лист",
+      "meaning_es": "nómina"
+    },
+    {
+      "term": "die Geschäftsführung",
+      "type": "Noun",
+      "example": "Die *** hat neue strategische Ziele festgelegt.",
+      "meaning_tr": "yönetim kurulu",
+      "meaning_en": "management",
+      "meaning_uk": "керівництво",
+      "meaning_es": "dirección"
+    },
+    {
+      "term": "die Herausforderung",
+      "type": "Noun",
+      "example": "Dieses Projekt ist eine große *** für unser Team.",
+      "meaning_tr": "zorlu görev",
+      "meaning_en": "challenge",
+      "meaning_uk": "виклик",
+      "meaning_es": "desafío"
+    },
+    {
+      "term": "die Kompetenz",
+      "type": "Noun",
+      "example": "Er besitzt die nötige fachliche *** für diese Stelle.",
+      "meaning_tr": "yetkinlik",
+      "meaning_en": "competence",
+      "meaning_uk": "компетенція",
+      "meaning_es": "competencia"
+    },
+    {
+      "term": "die Konferenz",
+      "type": "Noun",
+      "example": "Sie hält auf der internationalen *** einen Vortrag.",
+      "meaning_tr": "konferans",
+      "meaning_en": "conference",
+      "meaning_uk": "конференція",
+      "meaning_es": "conferencia"
+    },
+    {
+      "term": "die Kündigung",
+      "type": "Noun",
+      "example": "Nach zehn Jahren hat er überraschend seine *** eingereicht.",
+      "meaning_tr": "istifa / işten çıkarma",
+      "meaning_en": "resignation / termination",
+      "meaning_uk": "звільнення",
+      "meaning_es": "despido / dimisión"
+    },
+    {
+      "term": "die Leistung",
+      "type": "Noun",
+      "example": "Für seine hervorragende *** wurde er ausgezeichnet.",
+      "meaning_tr": "performans / başarı",
+      "meaning_en": "performance",
+      "meaning_uk": "продуктивність",
+      "meaning_es": "rendimiento"
+    },
+    {
+      "term": "die Personalabteilung",
+      "type": "Noun",
+      "example": "Bei Fragen zum Vertrag wenden Sie sich bitte an die ***.",
+      "meaning_tr": "insan kaynakları",
+      "meaning_en": "human resources",
+      "meaning_uk": "відділ кадрів",
+      "meaning_es": "departamento de recursos humanos"
+    },
+    {
+      "term": "die Stellenanzeige",
+      "type": "Noun",
+      "example": "Ich habe eine interessante *** in der Zeitung gelesen.",
+      "meaning_tr": "iş ilanı",
+      "meaning_en": "job advertisement",
+      "meaning_uk": "оголошення про вакансію",
+      "meaning_es": "anuncio de empleo"
+    },
+    {
+      "term": "die Überstunde",
+      "type": "Noun",
+      "example": "Wegen des hohen Arbeitsaufkommens muss ich heute *** machen.",
+      "meaning_tr": "fazla mesai",
+      "meaning_en": "overtime",
+      "meaning_uk": "понаднормова робота",
+      "meaning_es": "horas extras"
+    },
+    {
+      "term": "die Vereinbarkeit",
+      "type": "Noun",
+      "example": "Die *** von Familie und Beruf ist ihm sehr wichtig.",
+      "meaning_tr": "uyumluluk",
+      "meaning_en": "compatibility",
+      "meaning_uk": "сумісність",
+      "meaning_es": "compatibilidad"
+    },
+    {
+      "term": "die Weiterbildung",
+      "type": "Noun",
+      "example": "Die Firma bietet regelmäßige *** für die Mitarbeiter an.",
+      "meaning_tr": "mesleki gelişim",
+      "meaning_en": "further education",
+      "meaning_uk": "підвищення кваліфікації",
+      "meaning_es": "formación continua"
+    },
+    {
+      "term": "der Arbeitsplatz",
+      "type": "Noun",
+      "example": "Ein ergonomischer *** ist wichtig für die Gesundheit.",
+      "meaning_tr": "çalışma yeri",
+      "meaning_en": "workplace",
+      "meaning_uk": "робоче місце",
+      "meaning_es": "puesto de trabajo"
+    },
+    {
+      "term": "der Arbeitgeber",
+      "type": "Noun",
+      "example": "Mein neuer *** bietet flexible Arbeitszeiten an.",
+      "meaning_tr": "işveren",
+      "meaning_en": "employer",
+      "meaning_uk": "роботодавець",
+      "meaning_es": "empleador"
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "type": "Noun",
+      "example": "Jeder *** hat Anspruch auf bezahlten Urlaub.",
+      "meaning_tr": "çalışan",
+      "meaning_en": "employee",
+      "meaning_uk": "працівник",
+      "meaning_es": "empleado"
+    },
+    {
+      "term": "der Auftrag",
+      "type": "Noun",
+      "example": "Wir haben heute einen neuen *** von einem Kunden erhalten.",
+      "meaning_tr": "sipariş / görev",
+      "meaning_en": "order / assignment",
+      "meaning_uk": "замовлення",
+      "meaning_es": "encargo"
+    },
+    {
+      "term": "der Auszubildende",
+      "type": "Noun",
+      "example": "Unser neuer *** lernt sehr schnell.",
+      "meaning_tr": "stajyer / çırak",
+      "meaning_en": "apprentice",
+      "meaning_uk": "стажер",
+      "meaning_es": "aprendiz"
+    },
+    {
+      "term": "der Betriebsrat",
+      "type": "Noun",
+      "example": "Der *** vertritt die Interessen der Belegschaft.",
+      "meaning_tr": "işçi temsilciliği",
+      "meaning_en": "works council",
+      "meaning_uk": "профспілка",
+      "meaning_es": "comité de empresa"
+    },
+    {
+      "term": "der Feierabend",
+      "type": "Noun",
+      "example": "Endlich ist ***, ich gehe jetzt nach Hause.",
+      "meaning_tr": "iş çıkışı",
+      "meaning_en": "end of the workday",
+      "meaning_uk": "кінець робочого дня",
+      "meaning_es": "fin de la jornada laboral"
+    },
+    {
+      "term": "der Lebenslauf",
+      "type": "Noun",
+      "example": "Bitte senden Sie uns Ihren aktuellen *** per E-Mail.",
+      "meaning_tr": "özgeçmiş",
+      "meaning_en": "CV",
+      "meaning_uk": "резюме",
+      "meaning_es": "currículum"
+    },
+    {
+      "term": "der Lohn",
+      "type": "Noun",
+      "example": "Der *** wird immer am Ende des Monats ausgezahlt.",
+      "meaning_tr": "ücret",
+      "meaning_en": "wage",
+      "meaning_uk": "заробітна плата",
+      "meaning_es": "salario"
+    },
+    {
+      "term": "der Schichtdienst",
+      "type": "Noun",
+      "example": "Im Krankenhaus ist der *** sehr anstrengend.",
+      "meaning_tr": "vardiyalı çalışma",
+      "meaning_en": "shift work",
+      "meaning_uk": "змінна робота",
+      "meaning_es": "trabajo por turnos"
+    },
+    {
+      "term": "der Vorgesetzte",
+      "type": "Noun",
+      "example": "Ich muss das mit meinem *** besprechen.",
+      "meaning_tr": "amir / yönetici",
+      "meaning_en": "supervisor",
+      "meaning_uk": "начальник",
+      "meaning_es": "superior"
+    },
+    {
+      "term": "das Arbeitsklima",
+      "type": "Noun",
+      "example": "In unserem Büro herrscht ein sehr gutes ***.",
+      "meaning_tr": "çalışma ortamı",
+      "meaning_en": "work atmosphere",
+      "meaning_uk": "робоча атмосфера",
+      "meaning_es": "ambiente laboral"
+    },
+    {
+      "term": "das Gehalt",
+      "type": "Noun",
+      "example": "Das *** für diese Position ist sehr attraktiv.",
+      "meaning_tr": "maaş",
+      "meaning_en": "salary",
+      "meaning_uk": "зарплата",
+      "meaning_es": "sueldo"
+    },
+    {
+      "term": "das Praktikum",
+      "type": "Noun",
+      "example": "Ich mache gerade ein dreimonatiges *** bei Siemens.",
+      "meaning_tr": "staj",
+      "meaning_en": "internship",
+      "meaning_uk": "стажування",
+      "meaning_es": "prácticas"
+    },
+    {
+      "term": "befristen",
+      "type": "Verb",
+      "example": "Der Arbeitsvertrag ist auf ein Jahr ***.",
+      "meaning_tr": "süre ile sınırlandırmak",
+      "meaning_en": "to limit in time",
+      "meaning_uk": "обмежити в часі",
+      "meaning_es": "limitar en el tiempo"
+    },
+    {
+      "term": "kündigen",
+      "type": "Verb",
+      "example": "Er hat beschlossen, seinen Job zu ***.",
+      "meaning_tr": "istifa etmek / işten çıkarmak",
+      "meaning_en": "to resign / to fire",
+      "meaning_uk": "звільнити",
+      "meaning_es": "dimitir / despedir"
+    },
+    {
+      "term": "erledigen",
+      "type": "Verb",
+      "example": "Ich muss heute noch einige Aufgaben ***.",
+      "meaning_tr": "halletmek",
+      "meaning_en": "to handle / to finish",
+      "meaning_uk": "виконати",
+      "meaning_es": "gestionar / terminar"
+    },
+    {
+      "term": "einstellen",
+      "type": "Verb",
+      "example": "Die Firma möchte im nächsten Jahr neue Mitarbeiter ***.",
+      "meaning_tr": "işe almak",
+      "meaning_en": "to hire",
+      "meaning_uk": "найняти",
+      "meaning_es": "contratar"
+    },
+    {
+      "term": "verhandeln",
+      "type": "Verb",
+      "example": "Wir müssen noch über das Budget ***.",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to negotiate",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "negociar"
+    },
+    {
+      "term": "anstrengend",
+      "type": "Adjective",
+      "example": "Die Arbeit im Büro ist manchmal sehr ***.",
+      "meaning_tr": "yorucu",
+      "meaning_en": "strenuous",
+      "meaning_uk": "виснажливий",
+      "meaning_es": "agotador"
+    },
+    {
+      "term": "effizient",
+      "type": "Adjective",
+      "example": "Wir müssen arbeiten, um *** das Ziel zu erreichen.",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "eficiente"
+    },
+    {
+      "term": "erfolgreich",
+      "type": "Adjective",
+      "example": "Das Meeting war sehr *** für unser Projekt.",
+      "meaning_tr": "başarılı",
+      "meaning_en": "successful",
+      "meaning_uk": "успішний",
+      "meaning_es": "exitoso"
+    },
+    {
+      "term": "flexibel",
+      "type": "Adjective",
+      "example": "Unsere Firma bietet *** Arbeitszeiten an.",
+      "meaning_tr": "esnek",
+      "meaning_en": "flexible",
+      "meaning_uk": "гнучкий",
+      "meaning_es": "flexible"
+    },
+    {
+      "term": "professionell",
+      "type": "Adjective",
+      "example": "Sie hat die Situation sehr *** gelöst.",
+      "meaning_tr": "profesyonel",
+      "meaning_en": "professional",
+      "meaning_uk": "професійний",
+      "meaning_es": "profesional"
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "example": "*** der Arbeitszeit ist das Telefonieren privat verboten.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "außerdem",
+      "type": "Adverb",
+      "example": "Ich habe viel Erfahrung; *** spreche ich drei Sprachen.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "dennoch",
+      "type": "Adverb",
+      "example": "Das Projekt ist schwierig, *** bin ich optimistisch.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "все ж таки",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "obwohl",
+      "type": "Conjunction",
+      "example": "*** er müde war, hat er die Arbeit beendet.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    }
+  ]
+}

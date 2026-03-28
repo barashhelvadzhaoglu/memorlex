@@ -1,0 +1,411 @@
+{
+  "title": "Emergencies & Help (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "an ambulance",
+      "type": "Noun",
+      "meaning_tr": "ambulans",
+      "meaning_en": "a vehicle for taking sick or injured people to the hospital",
+      "meaning_uk": "швидка допомога",
+      "meaning_es": "ambulancia",
+      "example": "Please call *** immediately because my father is having a heart attack."
+    },
+    {
+      "term": "to evacuate",
+      "type": "Verb",
+      "meaning_tr": "tahliye etmek",
+      "meaning_en": "to move people from a dangerous place to a safer one",
+      "meaning_uk": "евакуювати",
+      "meaning_es": "evacuar",
+      "example": "The police ordered everyone to *** the building due to a gas leak."
+    },
+    {
+      "term": "a casualty",
+      "type": "Noun",
+      "meaning_tr": "yaralı",
+      "meaning_en": "a person killed or injured in an accident or war",
+      "meaning_uk": "потерпілий",
+      "meaning_es": "víctima",
+      "example": "There were several *** in the pile-up on the motorway."
+    },
+    {
+      "term": "critical",
+      "type": "Adjective",
+      "meaning_tr": "kritik",
+      "meaning_en": "at the point of death or having a serious condition",
+      "meaning_uk": "критичний",
+      "meaning_es": "crítico",
+      "example": "The patient remains in a *** condition after the surgery."
+    },
+    {
+      "term": "first aid",
+      "type": "Noun",
+      "meaning_tr": "ilk yardım",
+      "meaning_en": "basic medical treatment given to someone before a doctor arrives",
+      "meaning_uk": "перша допомога",
+      "meaning_es": "primeros auxilios",
+      "example": "She performed *** on the injured cyclist until the paramedics arrived."
+    },
+    {
+      "term": "to collapse",
+      "type": "Verb",
+      "meaning_tr": "yığılmak",
+      "meaning_en": "to fall down suddenly because of illness or weakness",
+      "meaning_uk": "знепритомніти",
+      "meaning_es": "desmayarse",
+      "example": "He started to feel dizzy and then he suddenly *** on the floor."
+    },
+    {
+      "term": "an emergency exit",
+      "type": "Noun",
+      "meaning_tr": "acil çıkış",
+      "meaning_en": "a door used to leave a building quickly in a dangerous situation",
+      "meaning_uk": "аварійний вихід",
+      "meaning_es": "salida de emergencia",
+      "example": "Make sure you know where the nearest *** is located."
+    },
+    {
+      "term": "hazardous",
+      "type": "Adjective",
+      "meaning_tr": "tehlikeli",
+      "meaning_en": "involving risk or danger",
+      "meaning_uk": "небезпечний",
+      "meaning_es": "peligroso",
+      "example": "The chemical spill created a *** environment for the workers."
+    },
+    {
+      "term": "a paramedic",
+      "type": "Noun",
+      "meaning_tr": "sağlık görevlisi",
+      "meaning_en": "a person trained to give medical care in an emergency",
+      "meaning_uk": "парамедик",
+      "meaning_es": "paramédico",
+      "example": "The *** checked the victim's pulse before moving them to the stretcher."
+    },
+    {
+      "term": "to alert",
+      "type": "Verb",
+      "meaning_tr": "uyarmak",
+      "meaning_en": "to warn someone about a dangerous situation",
+      "meaning_uk": "попереджати",
+      "meaning_es": "alertar",
+      "example": "We used the siren to *** the neighbors about the rising floodwaters."
+    },
+    {
+      "term": "a fire extinguisher",
+      "type": "Noun",
+      "meaning_tr": "yangın söndürücü",
+      "meaning_en": "a metal container with chemicals for putting out small fires",
+      "meaning_uk": "вогнегасник",
+      "meaning_es": "extintor",
+      "example": "I grabbed the *** to put out the flames in the kitchen."
+    },
+    {
+      "term": "severe",
+      "type": "Adjective",
+      "meaning_tr": "şiddetli",
+      "meaning_en": "very serious or extreme",
+      "meaning_uk": "серйозний",
+      "meaning_es": "grave",
+      "example": "The storm caused *** damage to the coastal towns."
+    },
+    {
+      "term": "to suffocate",
+      "type": "Verb",
+      "meaning_tr": "boğulmak",
+      "meaning_en": "to die or have trouble breathing because of lack of air",
+      "meaning_uk": "задихатися",
+      "meaning_es": "asfixiarse",
+      "example": "The smoke was so thick that people started to ***."
+    },
+    {
+      "term": "a life-threatening",
+      "type": "Adjective",
+      "meaning_tr": "hayatı tehdit eden",
+      "meaning_en": "likely to cause death",
+      "meaning_uk": "небезпечний для життя",
+      "meaning_es": "potencialmente mortal",
+      "example": "He suffered a *** injury during the car accident."
+    },
+    {
+      "term": "a stretcher",
+      "type": "Noun",
+      "meaning_tr": "sedye",
+      "meaning_en": "a frame for carrying a person who is ill or injured",
+      "meaning_uk": "ноші",
+      "meaning_es": "camilla",
+      "example": "The medical team placed the injured man on a ***."
+    },
+    {
+      "term": "to recover",
+      "type": "Verb",
+      "meaning_tr": "iyileşmek",
+      "meaning_en": "to get better after an illness or injury",
+      "meaning_uk": "одужувати",
+      "meaning_es": "recuperarse",
+      "example": "It took him several months to *** fully from his injuries."
+    },
+    {
+      "term": "a distress signal",
+      "type": "Noun",
+      "meaning_tr": "imdat sinyali",
+      "meaning_en": "a message sent by someone in danger",
+      "meaning_uk": "сигнал лиха",
+      "meaning_es": "señal de socorro",
+      "example": "The ship sent out a *** before it started to sink."
+    },
+    {
+      "term": "urgently",
+      "type": "Adverb",
+      "meaning_tr": "acilen",
+      "meaning_en": "in a way that requires immediate action",
+      "meaning_uk": "терміново",
+      "meaning_es": "urgentemente",
+      "example": "We need to address this problem *** before it gets worse."
+    },
+    {
+      "term": "a precaution",
+      "type": "Noun",
+      "meaning_tr": "önlem",
+      "meaning_en": "an action taken to prevent something bad from happening",
+      "meaning_uk": "запобіжний захід",
+      "meaning_es": "precaución",
+      "example": "As a safety ***, we checked the locks before leaving."
+    },
+    {
+      "term": "to stabilize",
+      "type": "Verb",
+      "meaning_tr": "dengelemek",
+      "meaning_en": "to make something steady or to prevent a condition from worsening",
+      "meaning_uk": "стабілізувати",
+      "meaning_es": "estabilizar",
+      "example": "The doctors worked quickly to *** the patient's condition."
+    },
+    {
+      "term": "an unconscious",
+      "type": "Adjective",
+      "meaning_tr": "bilinçsiz",
+      "meaning_en": "not awake and aware of things around you",
+      "meaning_uk": "непритомний",
+      "meaning_es": "inconsciente",
+      "example": "We found the victim lying *** on the grass."
+    },
+    {
+      "term": "a trauma",
+      "type": "Noun",
+      "meaning_tr": "travma",
+      "meaning_en": "a physical or emotional injury",
+      "meaning_uk": "травма",
+      "meaning_es": "trauma",
+      "example": "He experienced severe head *** after falling off his bike."
+    },
+    {
+      "term": "to rescue",
+      "type": "Verb",
+      "meaning_tr": "kurtarmak",
+      "meaning_en": "to save someone from a dangerous situation",
+      "meaning_uk": "рятувати",
+      "meaning_es": "rescatar",
+      "example": "The firefighters managed to *** the cat from the burning house."
+    },
+    {
+      "term": "a survivor",
+      "type": "Noun",
+      "meaning_tr": "hayatta kalan",
+      "meaning_en": "a person who continues to live after an accident or disaster",
+      "meaning_uk": "той, хто вижив",
+      "meaning_es": "superviviente",
+      "example": "There was only one *** of the plane crash."
+    },
+    {
+      "term": "temporary",
+      "type": "Adjective",
+      "meaning_tr": "geçici",
+      "meaning_en": "lasting for a limited time",
+      "meaning_uk": "тимчасовий",
+      "meaning_es": "temporal",
+      "example": "The bridge is closed for *** repairs."
+    },
+    {
+      "term": "to bandage",
+      "type": "Verb",
+      "meaning_tr": "sargılamak",
+      "meaning_en": "to cover a wound with a piece of cloth",
+      "meaning_uk": "перев'язувати",
+      "meaning_es": "vendar",
+      "example": "You should clean and *** the cut to prevent infection."
+    },
+    {
+      "term": "a catastrophe",
+      "type": "Noun",
+      "meaning_tr": "felaket",
+      "meaning_en": "a sudden event that causes great damage or suffering",
+      "meaning_uk": "катастрофа",
+      "meaning_es": "catástrofe",
+      "example": "The earthquake was a complete *** for the region."
+    },
+    {
+      "term": "a hemorrhage",
+      "type": "Noun",
+      "meaning_tr": "kanama",
+      "meaning_en": "heavy bleeding",
+      "meaning_uk": "кровотеча",
+      "meaning_es": "hemorragia",
+      "example": "The doctors were worried about internal *** after the operation."
+    },
+    {
+      "term": "to alert",
+      "type": "Verb",
+      "meaning_tr": "uyarmak",
+      "meaning_en": "to inform someone of a danger",
+      "meaning_uk": "попередити",
+      "meaning_es": "alertar",
+      "example": "The smoke alarm will *** us if there is a fire."
+    },
+    {
+      "term": "fatal",
+      "type": "Adjective",
+      "meaning_tr": "ölümcül",
+      "meaning_en": "causing or ending in death",
+      "meaning_uk": "смертельний",
+      "meaning_es": "mortal",
+      "example": "The accident proved to be *** for the driver."
+    },
+    {
+      "term": "a shock",
+      "type": "Noun",
+      "meaning_tr": "şok",
+      "meaning_en": "a medical condition caused by a sudden drop in blood flow",
+      "meaning_uk": "шок",
+      "meaning_es": "choque",
+      "example": "Keep the patient warm to prevent them from going into ***."
+    },
+    {
+      "term": "to fracture",
+      "type": "Verb",
+      "meaning_tr": "kırılmak",
+      "meaning_en": "to break a bone",
+      "meaning_uk": "зламати",
+      "meaning_es": "fracturar",
+      "example": "He managed to *** his wrist during the rugby match."
+    },
+    {
+      "term": "a threat",
+      "type": "Noun",
+      "meaning_tr": "tehdit",
+      "meaning_en": "a suggestion that something bad will happen",
+      "meaning_uk": "загроза",
+      "meaning_es": "amenaza",
+      "example": "The flood poses a serious *** to the local community."
+    },
+    {
+      "term": "to notify",
+      "type": "Verb",
+      "meaning_tr": "bildirmek",
+      "meaning_en": "to formally tell someone about something",
+      "meaning_uk": "повідомити",
+      "meaning_es": "notificar",
+      "example": "We must *** the authorities about the suspicious package."
+    },
+    {
+      "term": "an infection",
+      "type": "Noun",
+      "meaning_tr": "enfeksiyon",
+      "meaning_en": "a disease caused by germs or bacteria",
+      "meaning_uk": "інфекція",
+      "meaning_es": "infección",
+      "example": "The wound showed signs of *** after two days."
+    },
+    {
+      "term": "to sustain",
+      "type": "Verb",
+      "meaning_tr": "maruz kalmak",
+      "meaning_en": "to suffer an injury or damage",
+      "meaning_uk": "зазнати",
+      "meaning_es": "sufrir",
+      "example": "The athlete *** serious injuries during the race."
+    },
+    {
+      "term": "a precaution",
+      "type": "Noun",
+      "meaning_tr": "tedbir",
+      "meaning_en": "a measure taken in advance to prevent harm",
+      "meaning_uk": "запобіжний захід",
+      "meaning_es": "precaución",
+      "example": "Taking a map is a necessary *** when hiking alone."
+    },
+    {
+      "term": "a disaster",
+      "type": "Noun",
+      "meaning_tr": "afet",
+      "meaning_en": "a natural or man-made event causing destruction",
+      "meaning_uk": "стихійне лихо",
+      "meaning_es": "desastre",
+      "example": "The town prepared for a potential natural ***."
+    },
+    {
+      "term": "to administer",
+      "type": "Verb",
+      "meaning_tr": "uygulamak",
+      "meaning_en": "to give medicine or medical treatment",
+      "meaning_uk": "надавати",
+      "meaning_es": "administrar",
+      "example": "The nurse had to *** the medication immediately."
+    },
+    {
+      "term": "severe",
+      "type": "Adjective",
+      "meaning_tr": "ciddi",
+      "meaning_en": "intense or harsh",
+      "meaning_uk": "суворий",
+      "meaning_es": "severo",
+      "example": "She is suffering from *** pain in her back."
+    },
+    {
+      "term": "a casualty",
+      "type": "Noun",
+      "meaning_tr": "zayiat",
+      "meaning_en": "someone who is hurt or killed in an event",
+      "meaning_uk": "постраждалий",
+      "meaning_es": "baja",
+      "example": "The building collapse resulted in a high number of ***."
+    },
+    {
+      "term": "to assess",
+      "type": "Verb",
+      "meaning_tr": "değerlendirmek",
+      "meaning_en": "to judge or evaluate the situation",
+      "meaning_uk": "оцінювати",
+      "meaning_es": "evaluar",
+      "example": "The fire chief entered the building to *** the damage."
+    },
+    {
+      "term": "an incident",
+      "type": "Noun",
+      "meaning_tr": "olay",
+      "meaning_en": "an event, often an unpleasant one",
+      "meaning_uk": "інцидент",
+      "meaning_es": "incidente",
+      "example": "The security team is investigating the *** that occurred last night."
+    },
+    {
+      "term": "to prevent",
+      "type": "Verb",
+      "meaning_tr": "önlemek",
+      "meaning_en": "to stop something from happening",
+      "meaning_uk": "запобігати",
+      "meaning_es": "prevenir",
+      "example": "Wearing a seatbelt helps *** serious injuries in a crash."
+    },
+    {
+      "term": "a relief",
+      "type": "Noun",
+      "meaning_tr": "yardım",
+      "meaning_en": "assistance given to people in need after a disaster",
+      "meaning_uk": "допомога",
+      "meaning_es": "ayuda",
+      "example": "International *** organizations arrived to provide food and water."
+    }
+  ]
+}

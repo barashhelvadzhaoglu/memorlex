@@ -1,0 +1,411 @@
+{
+  "title": "Social Issues (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the poverty",
+      "type": "Noun",
+      "example": "*** remains a significant challenge for the developing nations.",
+      "meaning_tr": "yoksulluk",
+      "meaning_en": "the state of being extremely poor",
+      "meaning_uk": "бідність",
+      "meaning_es": "la pobreza"
+    },
+    {
+      "term": "to marginalize",
+      "type": "Verb",
+      "example": "We must not *** certain groups based on their social status.",
+      "meaning_tr": "marjinalleştirmek",
+      "meaning_en": "to treat a person or group as insignificant",
+      "meaning_uk": "маргіналізувати",
+      "meaning_es": "marginar"
+    },
+    {
+      "term": "systemic",
+      "type": "Adjective",
+      "example": "There is a *** problem within the education system that needs fixing.",
+      "meaning_tr": "sistemsel",
+      "meaning_en": "relating to a system as a whole",
+      "meaning_uk": "системний",
+      "meaning_es": "sistémico"
+    },
+    {
+      "term": "the inequality",
+      "type": "Noun",
+      "example": "Addressing *** in the workplace is a top priority for the new CEO.",
+      "meaning_tr": "eşitsizlik",
+      "meaning_en": "lack of equality",
+      "meaning_uk": "нерівність",
+      "meaning_es": "la desigualdad"
+    },
+    {
+      "term": "to advocate",
+      "type": "Verb",
+      "example": "Many activists *** for stricter environmental regulations.",
+      "meaning_tr": "savunmak",
+      "meaning_en": "to publicly support a cause",
+      "meaning_uk": "виступати за",
+      "meaning_es": "defender"
+    },
+    {
+      "term": "the discrimination",
+      "type": "Noun",
+      "example": "Laws are in place to prevent *** in hiring processes.",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "unjust treatment of different categories of people",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "la discriminación"
+    },
+    {
+      "term": "vulnerable",
+      "type": "Adjective",
+      "example": "The elderly are particularly *** to health crises.",
+      "meaning_tr": "savunmasız",
+      "meaning_en": "exposed to the possibility of being attacked or harmed",
+      "meaning_uk": "вразливий",
+      "meaning_es": "vulnerable"
+    },
+    {
+      "term": "the unemployment",
+      "type": "Noun",
+      "example": "Rising *** rates have caused concern among economic analysts.",
+      "meaning_tr": "işsizlik",
+      "meaning_en": "the state of being unemployed",
+      "meaning_uk": "безробіття",
+      "meaning_es": "el desempleo"
+    },
+    {
+      "term": "to implement",
+      "type": "Verb",
+      "example": "The government plans to *** new policies to support low-income families.",
+      "meaning_tr": "uygulamaya koymak",
+      "meaning_en": "to put a decision or plan into effect",
+      "meaning_uk": "впроваджувати",
+      "meaning_es": "implementar"
+    },
+    {
+      "term": "the homelessness",
+      "type": "Noun",
+      "example": "The city is struggling to address the rise in *** during winter.",
+      "meaning_tr": "evsizlik",
+      "meaning_en": "the state of having no home",
+      "meaning_uk": "бездомність",
+      "meaning_es": "la falta de vivienda"
+    },
+    {
+      "term": "the sustainability",
+      "type": "Noun",
+      "example": "Long-term *** is essential for the future of our urban centers.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "the ability to be maintained at a certain rate",
+      "meaning_uk": "сталість",
+      "meaning_es": "la sostenibilidad"
+    },
+    {
+      "term": "the prejudice",
+      "type": "Noun",
+      "example": "Education is the best way to overcome *** against minorities.",
+      "meaning_tr": "önyargı",
+      "meaning_en": "preconceived opinion not based on reason",
+      "meaning_uk": "упередження",
+      "meaning_es": "el prejuicio"
+    },
+    {
+      "term": "to empower",
+      "type": "Verb",
+      "example": "We aim to *** young people through better access to education.",
+      "meaning_tr": "güçlendirmek",
+      "meaning_en": "to give someone the authority or power to do something",
+      "meaning_uk": "надавати повноваження",
+      "meaning_es": "empoderar"
+    },
+    {
+      "term": "the corruption",
+      "type": "Noun",
+      "example": "High levels of *** undermine public trust in the government.",
+      "meaning_tr": "yozlaşma",
+      "meaning_en": "dishonest or fraudulent conduct by those in power",
+      "meaning_uk": "корупція",
+      "meaning_es": "la corrupción"
+    },
+    {
+      "term": "the injustice",
+      "type": "Noun",
+      "example": "They fought against the *** of the current legal system.",
+      "meaning_tr": "adaletsizlik",
+      "meaning_en": "lack of fairness or justice",
+      "meaning_uk": "несправедливість",
+      "meaning_es": "la injusticia"
+    },
+    {
+      "term": "the diversity",
+      "type": "Noun",
+      "example": "A workplace that values *** is often more innovative.",
+      "meaning_tr": "çeşitlilik",
+      "meaning_en": "the state of being diverse",
+      "meaning_uk": "різноманітність",
+      "meaning_es": "la diversidad"
+    },
+    {
+      "term": "the segregation",
+      "type": "Noun",
+      "example": "Historical *** has left a lasting impact on urban development.",
+      "meaning_tr": "ayrıştırma",
+      "meaning_en": "the action of setting someone apart from others",
+      "meaning_uk": "сегрегація",
+      "meaning_es": "la segregación"
+    },
+    {
+      "term": "to mitigate",
+      "type": "Verb",
+      "example": "Governments are trying to *** the effects of climate change.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to make less severe or painful",
+      "meaning_uk": "пом'якшувати",
+      "meaning_es": "mitigar"
+    },
+    {
+      "term": "the transparency",
+      "type": "Noun",
+      "example": "The citizens demanded more *** from their elected officials.",
+      "meaning_tr": "şeffaflık",
+      "meaning_en": "the quality of being open and honest",
+      "meaning_uk": "прозорість",
+      "meaning_es": "la transparencia"
+    },
+    {
+      "term": "the grassroots",
+      "type": "Noun",
+      "example": "The movement started at the *** level with local volunteers.",
+      "meaning_tr": "taban hareketi",
+      "meaning_en": "ordinary people in a society or organization",
+      "meaning_uk": "низовий рівень",
+      "meaning_es": "las bases"
+    },
+    {
+      "term": "the overpopulation",
+      "type": "Noun",
+      "example": "Rapid *** creates pressure on housing and resources.",
+      "meaning_tr": "aşırı nüfus",
+      "meaning_en": "the condition of having a population that is too large",
+      "meaning_uk": "перенаселення",
+      "meaning_es": "la superpoblación"
+    },
+    {
+      "term": "the accessibility",
+      "type": "Noun",
+      "example": "The new building has improved *** for people with disabilities.",
+      "meaning_tr": "erişilebilirlik",
+      "meaning_en": "the quality of being easy to reach or use",
+      "meaning_uk": "доступність",
+      "meaning_es": "la accesibilidad"
+    },
+    {
+      "term": "the censorship",
+      "type": "Noun",
+      "example": "Freedom of speech is threatened by increased government ***.",
+      "meaning_tr": "sansür",
+      "meaning_en": "the suppression of speech or public communication",
+      "meaning_uk": "цензура",
+      "meaning_es": "la censura"
+    },
+    {
+      "term": "the migration",
+      "type": "Noun",
+      "example": "The global *** crisis requires international cooperation.",
+      "meaning_tr": "göç",
+      "meaning_en": "the movement of people from one place to another",
+      "meaning_uk": "міграція",
+      "meaning_es": "la migración"
+    },
+    {
+      "term": "the welfare",
+      "type": "Noun",
+      "example": "The state provides *** for those who are unable to work.",
+      "meaning_tr": "refah",
+      "meaning_en": "statutory procedure or social effort designed to promote well-being",
+      "meaning_uk": "соціальне забезпечення",
+      "meaning_es": "el bienestar"
+    },
+    {
+      "term": "the initiative",
+      "type": "Noun",
+      "example": "A new *** was launched to clean up the city parks.",
+      "meaning_tr": "girişim",
+      "meaning_en": "a new plan or process to achieve something",
+      "meaning_uk": "ініціатива",
+      "meaning_es": "la iniciativa"
+    },
+    {
+      "term": "the literacy",
+      "type": "Noun",
+      "example": "Improving adult *** is a goal of the community center.",
+      "meaning_tr": "okuryazarlık",
+      "meaning_en": "the ability to read and write",
+      "meaning_uk": "грамотність",
+      "meaning_es": "la alfabetización"
+    },
+    {
+      "term": "the accountability",
+      "type": "Noun",
+      "example": "There is a lack of *** for those who break the law.",
+      "meaning_tr": "hesap verebilirlik",
+      "meaning_en": "the fact of being responsible for one's actions",
+      "meaning_uk": "підзвітність",
+      "meaning_es": "la rendición de cuentas"
+    },
+    {
+      "term": "the displacement",
+      "type": "Noun",
+      "example": "War caused the mass *** of thousands of civilians.",
+      "meaning_tr": "yerinden edilme",
+      "meaning_en": "the moving of something from its place",
+      "meaning_uk": "переміщення",
+      "meaning_es": "el desplazamiento"
+    },
+    {
+      "term": "the radicalization",
+      "type": "Noun",
+      "example": "Experts are studying the causes of youth ***.",
+      "meaning_tr": "radikalleşme",
+      "meaning_en": "the action or process of causing someone to adopt radical views",
+      "meaning_uk": "радикалізація",
+      "meaning_es": "la radicalización"
+    },
+    {
+      "term": "the integration",
+      "type": "Noun",
+      "example": "Successful *** of immigrants depends on language education.",
+      "meaning_tr": "entegrasyon",
+      "meaning_en": "the action of integrating",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "la integración"
+    },
+    {
+      "term": "the bias",
+      "type": "Noun",
+      "example": "Media outlets often show a clear political *** in their reporting.",
+      "meaning_tr": "taraflılık",
+      "meaning_en": "prejudice in favor of or against one thing",
+      "meaning_uk": "упередженість",
+      "meaning_es": "el sesgo"
+    },
+    {
+      "term": "the polarization",
+      "type": "Noun",
+      "example": "Political *** makes it difficult to pass new laws.",
+      "meaning_tr": "kutuplaşma",
+      "meaning_en": "division into two sharply contrasting groups",
+      "meaning_uk": "поляризація",
+      "meaning_es": "la polarización"
+    },
+    {
+      "term": "the infrastructure",
+      "type": "Noun",
+      "example": "Poor public *** hinders economic growth in rural areas.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "the basic physical and organizational structures",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "la infraestructura"
+    },
+    {
+      "term": "the malnutrition",
+      "type": "Noun",
+      "example": "Many children suffer from *** due to food shortages.",
+      "meaning_tr": "yetersiz beslenme",
+      "meaning_en": "lack of proper nutrition",
+      "meaning_uk": "недоїдання",
+      "meaning_es": "la desnutrición"
+    },
+    {
+      "term": "the authoritarianism",
+      "type": "Noun",
+      "example": "The rise of *** is a threat to democratic institutions.",
+      "meaning_tr": "otoriterlik",
+      "meaning_en": "the enforcement or advocacy of strict obedience to authority",
+      "meaning_uk": "авторитаризм",
+      "meaning_es": "el autoritarismo"
+    },
+    {
+      "term": "the urbanisation",
+      "type": "Noun",
+      "example": "Rapid *** has changed the way people live in this country.",
+      "meaning_tr": "kentleşme",
+      "meaning_en": "the process of making an area more urban",
+      "meaning_uk": "урбанізація",
+      "meaning_es": "la urbanización"
+    },
+    {
+      "term": "the grassroots",
+      "type": "Adjective",
+      "example": "They organized a *** campaign to save the local library.",
+      "meaning_tr": "tabandan gelen",
+      "meaning_en": "involving the ordinary people",
+      "meaning_uk": "низовий",
+      "meaning_es": "de base"
+    },
+    {
+      "term": "the civic",
+      "type": "Adjective",
+      "example": "Voting is a fundamental *** duty for every citizen.",
+      "meaning_tr": "vatandaşlık ile ilgili",
+      "meaning_en": "relating to a city or town or the duties of citizens",
+      "meaning_uk": "громадянський",
+      "meaning_es": "cívico"
+    },
+    {
+      "term": "the affordable",
+      "type": "Adjective",
+      "example": "There is a desperate need for *** housing in the city center.",
+      "meaning_tr": "uygun fiyatlı",
+      "meaning_en": "inexpensive; reasonably priced",
+      "meaning_uk": "доступний",
+      "meaning_es": "asequible"
+    },
+    {
+      "term": "the sustainable",
+      "type": "Adjective",
+      "example": "We need to find a *** solution to the energy crisis.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "able to be maintained at a certain rate",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "the inclusive",
+      "type": "Adjective",
+      "example": "The school promotes an *** environment for all students.",
+      "meaning_tr": "kapsayıcı",
+      "meaning_en": "including all the services or items normally expected",
+      "meaning_uk": "інклюзивний",
+      "meaning_es": "inclusivo"
+    },
+    {
+      "term": "the grassroots",
+      "type": "Adverb",
+      "example": "The movement grew *** by building local support networks.",
+      "meaning_tr": "tabandan",
+      "meaning_en": "at the level of ordinary people",
+      "meaning_uk": "на низовому рівні",
+      "meaning_es": "desde la base"
+    },
+    {
+      "term": "the disproportionately",
+      "type": "Adverb",
+      "example": "The crisis *** affects the poorest members of society.",
+      "meaning_tr": "orantısız bir şekilde",
+      "meaning_en": "to an extent that is too large or too small",
+      "meaning_uk": "непропорційно",
+      "meaning_es": "desproporcionadamente"
+    },
+    {
+      "term": "the regardless",
+      "type": "Conjunction",
+      "example": "Everyone should have access to healthcare, *** of their income.",
+      "meaning_tr": "bakılmaksızın",
+      "meaning_en": "without regard to",
+      "meaning_uk": "незалежно від",
+      "meaning_es": "independientemente de"
+    }
+  ]
+}

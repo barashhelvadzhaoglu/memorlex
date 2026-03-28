@@ -1,0 +1,546 @@
+{
+  "title": "Technologie & IT (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Schnittstelle",
+      "type": "Noun",
+      "example": "Die moderne *** ermöglicht eine nahtlose Kommunikation zwischen den Systemen.",
+      "meaning_tr": "arayüz",
+      "meaning_en": "interface",
+      "meaning_uk": "інтерфейс",
+      "meaning_es": "interfaz"
+    },
+    {
+      "term": "die Skalierbarkeit",
+      "type": "Noun",
+      "example": "Bei der Softwareentwicklung ist die *** ein entscheidender Faktor für das Wachstum.",
+      "meaning_tr": "ölçeklenebilirlik",
+      "meaning_en": "scalability",
+      "meaning_uk": "масштабованість",
+      "meaning_es": "escalabilidad"
+    },
+    {
+      "term": "implementieren",
+      "type": "Verb",
+      "example": "Das IT-Team wird die neuen Sicherheitsrichtlinien ab morgen ***.",
+      "meaning_tr": "uygulamak, hayata geçirmek",
+      "meaning_en": "to implement",
+      "meaning_uk": "впроваджувати",
+      "meaning_es": "implementar"
+    },
+    {
+      "term": "die Redundanz",
+      "type": "Noun",
+      "example": "Um Datenausfälle zu vermeiden, wurde eine technische *** eingerichtet.",
+      "meaning_tr": "yedeklilik, gereksizlik",
+      "meaning_en": "redundancy",
+      "meaning_uk": "надмірність",
+      "meaning_es": "redundancia"
+    },
+    {
+      "term": "die Verschlüsselung",
+      "type": "Noun",
+      "example": "Eine starke *** schützt sensible Daten vor unbefugtem Zugriff.",
+      "meaning_tr": "şifreleme",
+      "meaning_en": "encryption",
+      "meaning_uk": "шифрування",
+      "meaning_es": "cifrado"
+    },
+    {
+      "term": "die Latenz",
+      "type": "Noun",
+      "example": "Für Echtzeitanwendungen ist eine niedrige *** unerlässlich.",
+      "meaning_tr": "gecikme süresi",
+      "meaning_en": "latency",
+      "meaning_uk": "затримка",
+      "meaning_es": "latencia"
+    },
+    {
+      "term": "die Interoperabilität",
+      "type": "Noun",
+      "example": "Die *** verschiedener Systeme ist für eine effiziente IT-Infrastruktur essenziell.",
+      "meaning_tr": "birlikte çalışabilirlik",
+      "meaning_en": "interoperability",
+      "meaning_uk": "сумісність",
+      "meaning_es": "interoperabilidad"
+    },
+    {
+      "term": "die Anfälligkeit",
+      "type": "Noun",
+      "example": "Das Betriebssystem weist eine hohe *** für Viren auf.",
+      "meaning_tr": "duyarlılık, hassasiyet",
+      "meaning_en": "vulnerability",
+      "meaning_uk": "вразливість",
+      "meaning_es": "vulnerabilidad"
+    },
+    {
+      "term": "komprimieren",
+      "type": "Verb",
+      "example": "Um Speicherplatz zu sparen, sollten wir die Videodateien ***.",
+      "meaning_tr": "sıkıştırmak",
+      "meaning_en": "to compress",
+      "meaning_uk": "стискати",
+      "meaning_es": "comprimir"
+    },
+    {
+      "term": "die Konnektivität",
+      "type": "Noun",
+      "example": "Die globale *** hat die Art und Weise, wie wir arbeiten, verändert.",
+      "meaning_tr": "bağlanabilirlik",
+      "meaning_en": "connectivity",
+      "meaning_uk": "зв'язність",
+      "meaning_es": "conectividad"
+    },
+    {
+      "term": "die Datenbankabfrage",
+      "type": "Noun",
+      "example": "Die *** dauert aufgrund der großen Datenmenge etwas länger.",
+      "meaning_tr": "veritabanı sorgusu",
+      "meaning_en": "database query",
+      "meaning_uk": "запит до бази даних",
+      "meaning_es": "consulta de base de datos"
+    },
+    {
+      "term": "die Schwachstelle",
+      "type": "Noun",
+      "example": "Die Experten haben eine kritische *** in der Software entdeckt.",
+      "meaning_tr": "zayıf nokta, güvenlik açığı",
+      "meaning_en": "weak point, vulnerability",
+      "meaning_uk": "слабке місце",
+      "meaning_es": "punto débil"
+    },
+    {
+      "term": "die Cloud-Infrastruktur",
+      "type": "Noun",
+      "example": "Die Migration in die *** bietet zahlreiche Vorteile für das Unternehmen.",
+      "meaning_tr": "bulut altyapısı",
+      "meaning_en": "cloud infrastructure",
+      "meaning_uk": "хмарна інфраструктура",
+      "meaning_es": "infraestructura en la nube"
+    },
+    {
+      "term": "die Authentifizierung",
+      "type": "Noun",
+      "example": "Die zweistufige *** erhöht die Sicherheit beim Login erheblich.",
+      "meaning_tr": "kimlik doğrulama",
+      "meaning_en": "authentication",
+      "meaning_uk": "автентифікація",
+      "meaning_es": "autenticación"
+    },
+    {
+      "term": "die Bandbreite",
+      "type": "Noun",
+      "example": "Für das Streaming von 4K-Videos ist eine hohe *** erforderlich.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "bandwidth",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "ancho de banda"
+    },
+    {
+      "term": "die Kompatibilität",
+      "type": "Noun",
+      "example": "Wir müssen die *** der neuen Hardware mit dem alten System prüfen.",
+      "meaning_tr": "uyumluluk",
+      "meaning_en": "compatibility",
+      "meaning_uk": "сумісність",
+      "meaning_es": "compatibilidad"
+    },
+    {
+      "term": "die Algorithmen",
+      "type": "Noun",
+      "example": "Komplexe *** steuern heute viele unserer täglichen digitalen Prozesse.",
+      "meaning_tr": "algoritmalar",
+      "meaning_en": "algorithms",
+      "meaning_uk": "алгоритми",
+      "meaning_es": "algoritmos"
+    },
+    {
+      "term": "die Datenintegrität",
+      "type": "Noun",
+      "example": "Regelmäßige Backups sind entscheidend für die *** unserer Informationen.",
+      "meaning_tr": "veri bütünlüğü",
+      "meaning_en": "data integrity",
+      "meaning_uk": "цілісність даних",
+      "meaning_es": "integridad de datos"
+    },
+    {
+      "term": "die Virtualisierung",
+      "type": "Noun",
+      "example": "Durch *** können mehrere Betriebssysteme auf einem Server laufen.",
+      "meaning_tr": "sanallaştırma",
+      "meaning_en": "virtualization",
+      "meaning_uk": "віртуалізація",
+      "meaning_es": "virtualización"
+    },
+    {
+      "term": "optimieren",
+      "type": "Verb",
+      "example": "Wir müssen den Programmcode ***, um die Ausführungsgeschwindigkeit zu erhöhen.",
+      "meaning_tr": "iyileştirmek, optimize etmek",
+      "meaning_en": "to optimize",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "optimizar"
+    },
+    {
+      "term": "die Speicherkapazität",
+      "type": "Noun",
+      "example": "Die *** des Servers reicht für das aktuelle Projekt nicht mehr aus.",
+      "meaning_tr": "depolama kapasitesi",
+      "meaning_en": "storage capacity",
+      "meaning_uk": "ємність пам'яті",
+      "meaning_es": "capacidad de almacenamiento"
+    },
+    {
+      "term": "die Benutzeroberfläche",
+      "type": "Noun",
+      "example": "Eine intuitive *** ist für die Benutzerakzeptanz sehr wichtig.",
+      "meaning_tr": "kullanıcı arayüzü",
+      "meaning_en": "user interface",
+      "meaning_uk": "користувацький інтерфейс",
+      "meaning_es": "interfaz de usuario"
+    },
+    {
+      "term": "die Firewall",
+      "type": "Noun",
+      "example": "Die *** blockiert den Zugriff aus nicht autorisierten Netzwerken.",
+      "meaning_tr": "güvenlik duvarı",
+      "meaning_en": "firewall",
+      "meaning_uk": "міжмережевий екран",
+      "meaning_es": "cortafuegos"
+    },
+    {
+      "term": "die Verschlüsselungstechnologie",
+      "type": "Noun",
+      "example": "Moderne *** schützt unsere E-Mail-Kommunikation.",
+      "meaning_tr": "şifreleme teknolojisi",
+      "meaning_en": "encryption technology",
+      "meaning_uk": "технологія шифрування",
+      "meaning_es": "tecnología de cifrado"
+    },
+    {
+      "term": "die Softwareentwicklung",
+      "type": "Noun",
+      "example": "Die agile *** hat die Produktivität des Teams deutlich gesteigert.",
+      "meaning_tr": "yazılım geliştirme",
+      "meaning_en": "software development",
+      "meaning_uk": "розробка програмного забезпечення",
+      "meaning_es": "desarrollo de software"
+    },
+    {
+      "term": "die Hardwarekomponente",
+      "type": "Noun",
+      "example": "Jede einzelne *** muss vor dem Einbau auf Defekte geprüft werden.",
+      "meaning_tr": "donanım bileşeni",
+      "meaning_en": "hardware component",
+      "meaning_uk": "апаратний компонент",
+      "meaning_es": "componente de hardware"
+    },
+    {
+      "term": "die Datenmigration",
+      "type": "Noun",
+      "example": "Die *** vom alten auf das neue System verlief ohne Probleme.",
+      "meaning_tr": "veri taşıma, veri migrasyonu",
+      "meaning_en": "data migration",
+      "meaning_uk": "міграція даних",
+      "meaning_es": "migración de datos"
+    },
+    {
+      "term": "die Programmiersprache",
+      "type": "Noun",
+      "example": "Python ist heutzutage eine sehr beliebte *** für Datenanalysen.",
+      "meaning_tr": "programlama dili",
+      "meaning_en": "programming language",
+      "meaning_uk": "мова програмування",
+      "meaning_es": "lenguaje de programación"
+    },
+    {
+      "term": "die Systemarchitektur",
+      "type": "Noun",
+      "example": "Die *** muss so entworfen werden, dass sie zukünftige Anforderungen erfüllt.",
+      "meaning_tr": "sistem mimarisi",
+      "meaning_en": "system architecture",
+      "meaning_uk": "системна архітектура",
+      "meaning_es": "arquitectura del sistema"
+    },
+    {
+      "term": "die Datenanalyse",
+      "type": "Noun",
+      "example": "Durch eine fundierte *** lassen sich wichtige Geschäftstrends erkennen.",
+      "meaning_tr": "veri analizi",
+      "meaning_en": "data analysis",
+      "meaning_uk": "аналіз даних",
+      "meaning_es": "análisis de datos"
+    },
+    {
+      "term": "die Cloud-Computing-Dienste",
+      "type": "Noun",
+      "example": "Viele Unternehmen nutzen mittlerweile externe ***.",
+      "meaning_tr": "bulut bilişim hizmetleri",
+      "meaning_en": "cloud computing services",
+      "meaning_uk": "хмарні обчислювальні послуги",
+      "meaning_es": "servicios de computación en la nube"
+    },
+    {
+      "term": "die Netzwerksicherheit",
+      "type": "Noun",
+      "example": "Die *** hat für unser IT-Team oberste Priorität.",
+      "meaning_tr": "ağ güvenliği",
+      "meaning_en": "network security",
+      "meaning_uk": "мережева безпека",
+      "meaning_es": "seguridad de red"
+    },
+    {
+      "term": "die Benutzerfreundlichkeit",
+      "type": "Noun",
+      "example": "Die *** wurde in der neuen Version der App deutlich verbessert.",
+      "meaning_tr": "kullanılabilirlik",
+      "meaning_en": "usability",
+      "meaning_uk": "зручність використання",
+      "meaning_es": "usabilidad"
+    },
+    {
+      "term": "die Serverauslastung",
+      "type": "Noun",
+      "example": "Eine hohe *** kann zu einer Verlangsamung der Webseite führen.",
+      "meaning_tr": "sunucu yükü",
+      "meaning_en": "server load",
+      "meaning_uk": "навантаження на сервер",
+      "meaning_es": "carga del servidor"
+    },
+    {
+      "term": "die Automatisierung",
+      "type": "Noun",
+      "example": "Die *** von Routineaufgaben spart dem Team viel Zeit.",
+      "meaning_tr": "otomasyon",
+      "meaning_en": "automation",
+      "meaning_uk": "автоматизація",
+      "meaning_es": "automatización"
+    },
+    {
+      "term": "die Digitalisierung",
+      "type": "Noun",
+      "example": "Die *** verändert alle Bereiche unserer modernen Gesellschaft.",
+      "meaning_tr": "dijitalleşme",
+      "meaning_en": "digitalization",
+      "meaning_uk": "цифровізація",
+      "meaning_es": "digitalización"
+    },
+    {
+      "term": "die Cloud-Speicherung",
+      "type": "Noun",
+      "example": "Die *** ermöglicht den Zugriff auf Dateien von überall auf der Welt.",
+      "meaning_tr": "bulut depolama",
+      "meaning_en": "cloud storage",
+      "meaning_uk": "хмарне сховище",
+      "meaning_es": "almacenamiento en la nube"
+    },
+    {
+      "term": "die Systemadministration",
+      "type": "Noun",
+      "example": "Die *** ist für die Wartung der IT-Infrastruktur zuständig.",
+      "meaning_tr": "sistem yönetimi",
+      "meaning_en": "system administration",
+      "meaning_uk": "системне адміністрування",
+      "meaning_es": "administración de sistemas"
+    },
+    {
+      "term": "die Softwarelizenz",
+      "type": "Noun",
+      "example": "Jede *** muss korrekt registriert werden, um rechtliche Probleme zu vermeiden.",
+      "meaning_tr": "yazılım lisansı",
+      "meaning_en": "software license",
+      "meaning_uk": "ліцензія на програмне забезпечення",
+      "meaning_es": "licencia de software"
+    },
+    {
+      "term": "die Datenverschlüsselung",
+      "type": "Noun",
+      "example": "Eine starke *** ist bei der Übertragung von Finanzdaten Pflicht.",
+      "meaning_tr": "veri şifreleme",
+      "meaning_en": "data encryption",
+      "meaning_uk": "шифрування даних",
+      "meaning_es": "cifrado de datos"
+    },
+    {
+      "term": "die IT-Sicherheitsrichtlinie",
+      "type": "Noun",
+      "example": "Jeder Mitarbeiter muss die *** des Unternehmens unterzeichnen.",
+      "meaning_tr": "BT güvenlik politikası",
+      "meaning_en": "IT security policy",
+      "meaning_uk": "політика ІТ-безпеки",
+      "meaning_es": "política de seguridad informática"
+    },
+    {
+      "term": "die Programmierumgebung",
+      "type": "Noun",
+      "example": "Die *** bietet viele nützliche Werkzeuge für Entwickler.",
+      "meaning_tr": "programlama ortamı",
+      "meaning_en": "programming environment",
+      "meaning_uk": "середовище програмування",
+      "meaning_es": "entorno de programación"
+    },
+    {
+      "term": "die Systemwartung",
+      "type": "Noun",
+      "example": "Die *** findet meistens außerhalb der Geschäftszeiten statt.",
+      "meaning_tr": "sistem bakımı",
+      "meaning_en": "system maintenance",
+      "meaning_uk": "технічне обслуговування системи",
+      "meaning_es": "mantenimiento del sistema"
+    },
+    {
+      "term": "die Cloud-Plattform",
+      "type": "Noun",
+      "example": "Wir nutzen eine ***, um unsere Anwendungen zentral zu verwalten.",
+      "meaning_tr": "bulut platformu",
+      "meaning_en": "cloud platform",
+      "meaning_uk": "хмарна платформа",
+      "meaning_es": "plataforma en la nube"
+    },
+    {
+      "term": "die Backup-Strategie",
+      "type": "Noun",
+      "example": "Eine durchdachte *** ist entscheidend für die Datensicherheit.",
+      "meaning_tr": "yedekleme stratejisi",
+      "meaning_en": "backup strategy",
+      "meaning_uk": "стратегія резервного копіювання",
+      "meaning_es": "estrategia de copia de seguridad"
+    },
+    {
+      "term": "die Anwendungssoftware",
+      "type": "Noun",
+      "example": "Diese *** wurde speziell für unsere internen Prozesse entwickelt.",
+      "meaning_tr": "uygulama yazılımı",
+      "meaning_en": "application software",
+      "meaning_uk": "прикладне програмне забезпечення",
+      "meaning_es": "software de aplicación"
+    },
+    {
+      "term": "die Datenübertragungsrate",
+      "type": "Noun",
+      "example": "Die *** ist bei Glasfaseranschlüssen extrem hoch.",
+      "meaning_tr": "veri aktarım hızı",
+      "meaning_en": "data transfer rate",
+      "meaning_uk": "швидкість передачі даних",
+      "meaning_es": "tasa de transferencia de datos"
+    },
+    {
+      "term": "die Systemleistung",
+      "type": "Noun",
+      "example": "Wir überwachen kontinuierlich die *** unserer Server.",
+      "meaning_tr": "sistem performansı",
+      "meaning_en": "system performance",
+      "meaning_uk": "продуктивність системи",
+      "meaning_es": "rendimiento del sistema"
+    },
+    {
+      "term": "die Datenbankverwaltung",
+      "type": "Noun",
+      "example": "Die *** erfordert fundierte Kenntnisse in SQL.",
+      "meaning_tr": "veritabanı yönetimi",
+      "meaning_en": "database management",
+      "meaning_uk": "управління базами даних",
+      "meaning_es": "gestión de bases de datos"
+    },
+    {
+      "term": "die IT-Infrastruktur",
+      "type": "Noun",
+      "example": "Eine stabile *** ist das Fundament für jedes moderne Unternehmen.",
+      "meaning_tr": "BT altyapısı",
+      "meaning_en": "IT infrastructure",
+      "meaning_uk": "ІТ-інфраструктура",
+      "meaning_es": "infraestructura informática"
+    },
+    {
+      "term": "die Verschlüsselungsmethode",
+      "type": "Noun",
+      "example": "Die verwendete *** gilt als sehr sicher gegen Angriffe.",
+      "meaning_tr": "şifreleme yöntemi",
+      "meaning_en": "encryption method",
+      "meaning_uk": "метод шифрування",
+      "meaning_es": "método de cifrado"
+    },
+    {
+      "term": "die Netzwerktopologie",
+      "type": "Noun",
+      "example": "Die Wahl der richtigen *** beeinflusst die Stabilität des Netzwerks.",
+      "meaning_tr": "ağ topolojisi",
+      "meaning_en": "network topology",
+      "meaning_uk": "мережева топологія",
+      "meaning_es": "topología de red"
+    },
+    {
+      "term": "die Systemschnittstelle",
+      "type": "Noun",
+      "example": "Über die *** tauschen die beiden Programme ihre Daten aus.",
+      "meaning_tr": "sistem arayüzü",
+      "meaning_en": "system interface",
+      "meaning_uk": "системний інтерфейс",
+      "meaning_es": "interfaz del sistema"
+    },
+    {
+      "term": "die Datenverarbeitung",
+      "type": "Noun",
+      "example": "Die effiziente *** ist für große Datenmengen essenziell.",
+      "meaning_tr": "veri işleme",
+      "meaning_en": "data processing",
+      "meaning_uk": "обробка даних",
+      "meaning_es": "procesamiento de datos"
+    },
+    {
+      "term": "die Betriebssystemumgebung",
+      "type": "Noun",
+      "example": "Das Programm benötigt eine spezifische ***, um korrekt zu laufen.",
+      "meaning_tr": "işletim sistemi ortamı",
+      "meaning_en": "operating system environment",
+      "meaning_uk": "середовище операційної системи",
+      "meaning_es": "entorno del sistema operativo"
+    },
+    {
+      "term": "die Datenzugriffsrechte",
+      "type": "Noun",
+      "example": "Nur Administratoren haben umfassende ***.",
+      "meaning_tr": "veri erişim hakları",
+      "meaning_en": "data access rights",
+      "meaning_uk": "права доступу до даних",
+      "meaning_es": "derechos de acceso a datos"
+    },
+    {
+      "term": "die Softwareinstallation",
+      "type": "Noun",
+      "example": "Die *** verlief aufgrund eines Konfigurationsfehlers nicht erfolgreich.",
+      "meaning_tr": "yazılım kurulumu",
+      "meaning_en": "software installation",
+      "meaning_uk": "встановлення програмного забезпечення",
+      "meaning_es": "instalación de software"
+    },
+    {
+      "term": "die Netzwerkkonfiguration",
+      "type": "Noun",
+      "example": "Die *** wurde an die neuen Sicherheitsanforderungen angepasst.",
+      "meaning_tr": "ağ yapılandırması",
+      "meaning_en": "network configuration",
+      "meaning_uk": "конфігурація мережі",
+      "meaning_es": "configuración de red"
+    },
+    {
+      "term": "die IT-Sicherheit",
+      "type": "Noun",
+      "example": "Die *** spielt eine zentrale Rolle in unserer Unternehmensstrategie.",
+      "meaning_tr": "BT güvenliği",
+      "meaning_en": "IT security",
+      "meaning_uk": "ІТ-безпека",
+      "meaning_es": "seguridad informática"
+    },
+    {
+      "term": "die Datenhaltung",
+      "type": "Noun",
+      "example": "Die sichere *** ist gesetzlich vorgeschrieben.",
+      "meaning_tr": "veri saklama",
+      "meaning_en": "data storage",
+      "meaning_uk": "зберігання даних",
+      "meaning_es": "almacenamiento de datos"
+    }
+  ]
+}

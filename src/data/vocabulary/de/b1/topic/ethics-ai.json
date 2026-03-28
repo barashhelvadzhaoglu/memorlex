@@ -1,0 +1,321 @@
+{
+  "title": "Ethik & KI (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Künstliche Intelligenz",
+      "type": "Noun",
+      "example": "*** verändert unsere Arbeitswelt sehr schnell.",
+      "meaning_tr": "Yapay zeka",
+      "meaning_en": "Artificial Intelligence",
+      "meaning_uk": "Штучний інтелект",
+      "meaning_es": "Inteligencia artificial"
+    },
+    {
+      "term": "die Ethik",
+      "type": "Noun",
+      "example": "Wir müssen über die *** von Robotern sprechen.",
+      "meaning_tr": "Etik",
+      "meaning_en": "Ethics",
+      "meaning_uk": "Етика",
+      "meaning_es": "Ética"
+    },
+    {
+      "term": "verantwortlich",
+      "type": "Adjective",
+      "example": "Menschen müssen *** für die Entscheidungen der KI sein.",
+      "meaning_tr": "Sorumlu",
+      "meaning_en": "responsible",
+      "meaning_uk": "відповідальний",
+      "meaning_es": "responsable"
+    },
+    {
+      "term": "der Datenschutz",
+      "type": "Noun",
+      "example": "*** ist im Internet sehr wichtig.",
+      "meaning_tr": "Veri koruma",
+      "meaning_en": "data protection",
+      "meaning_uk": "захист даних",
+      "meaning_es": "protección de datos"
+    },
+    {
+      "term": "berechnen",
+      "type": "Verb",
+      "example": "Der Computer kann komplexe Aufgaben schnell ***.",
+      "meaning_tr": "Hesaplamak",
+      "meaning_en": "to calculate",
+      "meaning_uk": "обчислювати",
+      "meaning_es": "calcular"
+    },
+    {
+      "term": "die Entscheidung",
+      "type": "Noun",
+      "example": "Wer trifft die *** bei einem Unfall mit einem selbstfahrenden Auto?",
+      "meaning_tr": "Karar",
+      "meaning_en": "decision",
+      "meaning_uk": "рішення",
+      "meaning_es": "decisión"
+    },
+    {
+      "term": "diskriminieren",
+      "type": "Verb",
+      "example": "Eine KI darf Menschen niemals aufgrund ihrer Herkunft ***.",
+      "meaning_tr": "Ayrımcılık yapmak",
+      "meaning_en": "to discriminate",
+      "meaning_uk": "дискримінувати",
+      "meaning_es": "discriminar"
+    },
+    {
+      "term": "die Sicherheit",
+      "type": "Noun",
+      "example": "*** steht bei der Entwicklung an erster Stelle.",
+      "meaning_tr": "Güvenlik",
+      "meaning_en": "safety/security",
+      "meaning_uk": "безпека",
+      "meaning_es": "seguridad"
+    },
+    {
+      "term": "automatisch",
+      "type": "Adverb",
+      "example": "Das System erkennt ***, ob ein Bild echt ist.",
+      "meaning_tr": "Otomatik olarak",
+      "meaning_en": "automatically",
+      "meaning_uk": "автоматично",
+      "meaning_es": "automáticamente"
+    },
+    {
+      "term": "der Fortschritt",
+      "type": "Noun",
+      "example": "Technischer *** bietet viele Vorteile für die Gesellschaft.",
+      "meaning_tr": "İlerleme",
+      "meaning_en": "progress",
+      "meaning_uk": "прогрес",
+      "meaning_es": "progreso"
+    },
+    {
+      "term": "kontrollieren",
+      "type": "Verb",
+      "example": "Wir müssen die Algorithmen regelmäßig ***.",
+      "meaning_tr": "Kontrol etmek",
+      "meaning_en": "to control",
+      "meaning_uk": "контролювати",
+      "meaning_es": "controlar"
+    },
+    {
+      "term": "die Privatsphäre",
+      "type": "Noun",
+      "example": "Jeder Mensch hat ein Recht auf ***.",
+      "meaning_tr": "Özel hayatın gizliliği",
+      "meaning_en": "privacy",
+      "meaning_uk": "приватність",
+      "meaning_es": "privacidad"
+    },
+    {
+      "term": "falsch",
+      "type": "Adjective",
+      "example": "Manchmal gibt die KI *** Informationen aus.",
+      "meaning_tr": "Yanlış",
+      "meaning_en": "wrong/false",
+      "meaning_uk": "неправильний",
+      "meaning_es": "falso/incorrecto"
+    },
+    {
+      "term": "der Roboter",
+      "type": "Noun",
+      "example": "*** hilft in der Fabrik bei schweren Arbeiten.",
+      "meaning_tr": "Robot",
+      "meaning_en": "robot",
+      "meaning_uk": "робот",
+      "meaning_es": "robot"
+    },
+    {
+      "term": "ersetzen",
+      "type": "Verb",
+      "example": "Wird die KI in Zukunft viele menschliche Berufe ***?",
+      "meaning_tr": "Yerini almak/değiştirmek",
+      "meaning_en": "to replace",
+      "meaning_uk": "замінювати",
+      "meaning_es": "reemplazar"
+    },
+    {
+      "term": "der Algorithmus",
+      "type": "Noun",
+      "example": "Ein *** bestimmt, welche Werbung wir sehen.",
+      "meaning_tr": "Algoritma",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "algoritmo"
+    },
+    {
+      "term": "transparent",
+      "type": "Adjective",
+      "example": "Die Funktionsweise einer KI sollte *** sein.",
+      "meaning_tr": "Şeffaf",
+      "meaning_en": "transparent",
+      "meaning_uk": "прозорий",
+      "meaning_es": "transparente"
+    },
+    {
+      "term": "die Gefahr",
+      "type": "Noun",
+      "example": "Wir müssen die *** von neuen Technologien erkennen.",
+      "meaning_tr": "Tehlike",
+      "meaning_en": "danger",
+      "meaning_uk": "небезпека",
+      "meaning_es": "peligro"
+    },
+    {
+      "term": "sammeln",
+      "type": "Verb",
+      "example": "Die App beginnt, viele persönliche Daten zu ***.",
+      "meaning_tr": "Toplamak",
+      "meaning_en": "to collect",
+      "meaning_uk": "збирати",
+      "meaning_es": "recopilar"
+    },
+    {
+      "term": "die Wahrheit",
+      "type": "Noun",
+      "example": "Es ist schwer, im Internet die *** von Lügen zu unterscheiden.",
+      "meaning_tr": "Gerçek/Doğruluk",
+      "meaning_en": "truth",
+      "meaning_uk": "правда",
+      "meaning_es": "verdad"
+    },
+    {
+      "term": "kreativ",
+      "type": "Adjective",
+      "example": "Kann eine KI wirklich *** sein oder imitiert sie nur?",
+      "meaning_tr": "Yaratıcı",
+      "meaning_en": "creative",
+      "meaning_uk": "креативний",
+      "meaning_es": "creativo"
+    },
+    {
+      "term": "beobachten",
+      "type": "Verb",
+      "example": "Kameras *** öffentliche Plätze zur Sicherheit.",
+      "meaning_tr": "Gözlemlemek",
+      "meaning_en": "to observe",
+      "meaning_uk": "спостерігати",
+      "meaning_es": "observar"
+    },
+    {
+      "term": "dennoch",
+      "type": "Conjunction",
+      "example": "KI hat Risiken, *** ist sie sehr nützlich.",
+      "meaning_tr": "Yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "тим не менш",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "die Gesellschaft",
+      "type": "Noun",
+      "example": "Wie verändert KI unsere moderne ***?",
+      "meaning_tr": "Toplum",
+      "meaning_en": "society",
+      "meaning_uk": "суспільство",
+      "meaning_es": "sociedad"
+    },
+    {
+      "term": "nutzen",
+      "type": "Verb",
+      "example": "Wir sollten KI sinnvoll ***.",
+      "meaning_tr": "Kullanmak",
+      "meaning_en": "to use",
+      "meaning_uk": "використовувати",
+      "meaning_es": "usar/utilizar"
+    },
+    {
+      "term": "menschlich",
+      "type": "Adjective",
+      "example": "Das ist ein *** Fehler, der jedem passieren kann.",
+      "meaning_tr": "İnsani",
+      "meaning_en": "human",
+      "meaning_uk": "людський",
+      "meaning_es": "humano"
+    },
+    {
+      "term": "die Regel",
+      "type": "Noun",
+      "example": "Es gibt noch keine klare *** für diese neue Software.",
+      "meaning_tr": "Kural",
+      "meaning_en": "rule",
+      "meaning_uk": "правило",
+      "meaning_es": "regla"
+    },
+    {
+      "term": "verbieten",
+      "type": "Verb",
+      "example": "Sollte man bestimmte KI-Anwendungen ***?",
+      "meaning_tr": "Yasaklamak",
+      "meaning_en": "to forbid",
+      "meaning_uk": "забороняти",
+      "meaning_es": "prohibir"
+    },
+    {
+      "term": "wichtig",
+      "type": "Adjective",
+      "example": "Es ist ***, dass wir über Ethik diskutieren.",
+      "meaning_tr": "Önemli",
+      "meaning_en": "important",
+      "meaning_uk": "важливий",
+      "meaning_es": "importante"
+    },
+    {
+      "term": "gegen",
+      "type": "Preposition",
+      "example": "Viele Menschen sind *** den Einsatz von KI im Militär.",
+      "meaning_tr": "Karşı",
+      "meaning_en": "against",
+      "meaning_uk": "проти",
+      "meaning_es": "contra"
+    },
+    {
+      "term": "der Fehler",
+      "type": "Noun",
+      "example": "Ein kleiner *** kann große Folgen haben.",
+      "meaning_tr": "Hata",
+      "meaning_en": "mistake/error",
+      "meaning_uk": "помилка",
+      "meaning_es": "error"
+    },
+    {
+      "term": "anwenden",
+      "type": "Verb",
+      "example": "Ärzte *** KI, um Krankheiten besser zu finden.",
+      "meaning_tr": "Uygulamak",
+      "meaning_en": "to apply",
+      "meaning_uk": "застосовувати",
+      "meaning_es": "aplicar"
+    },
+    {
+      "term": "schlecht",
+      "type": "Adjective",
+      "example": "Ein *** Algorithmus kann zu falschen Ergebnissen führen.",
+      "meaning_tr": "Kötü",
+      "meaning_en": "bad",
+      "meaning_uk": "поганий",
+      "meaning_es": "malo"
+    },
+    {
+      "term": "die Zukunft",
+      "type": "Noun",
+      "example": "Was bringt uns die *** mit mehr KI?",
+      "meaning_tr": "Gelecek",
+      "meaning_en": "future",
+      "meaning_uk": "майбутнє",
+      "meaning_es": "futuro"
+    },
+    {
+      "term": "diskutieren",
+      "type": "Verb",
+      "example": "Experten *** weltweit über die Grenzen der KI.",
+      "meaning_tr": "Tartışmak",
+      "meaning_en": "to discuss",
+      "meaning_uk": "обговорювати",
+      "meaning_es": "discutir"
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "title": "Tagesablauf (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Wecker",
+      "type": "Noun",
+      "meaning_tr": "çalar saat",
+      "meaning_en": "alarm clock",
+      "meaning_uk": "будильник",
+      "meaning_es": "despertador",
+      "example": "Ich stelle *** jeden Morgen auf 7 Uhr."
+    },
+    {
+      "term": "aufstehen",
+      "type": "Verb",
+      "meaning_tr": "kalkmak, uyanmak",
+      "meaning_en": "to get up",
+      "meaning_uk": "вставати",
+      "meaning_es": "levantarse",
+      "example": "Normalerweise *** ich um halb sieben."
+    },
+    {
+      "term": "sich waschen",
+      "type": "Verb",
+      "meaning_tr": "yıkanmak",
+      "meaning_en": "to wash oneself",
+      "meaning_uk": "митися",
+      "meaning_es": "lavarse",
+      "example": "Nach dem Aufstehen *** ich mein Gesicht."
+    },
+    {
+      "term": "sich anziehen",
+      "type": "Verb",
+      "meaning_tr": "giyinmek",
+      "meaning_en": "to get dressed",
+      "meaning_uk": "одягатися",
+      "meaning_es": "vestirse",
+      "example": "Bevor ich das Haus verlasse, *** ich mich schnell."
+    },
+    {
+      "term": "das Frühstück",
+      "type": "Noun",
+      "meaning_tr": "kahvaltı",
+      "meaning_en": "breakfast",
+      "meaning_uk": "сніданок",
+      "meaning_es": "desayuno",
+      "example": "Zum *** esse ich oft Müsli."
+    },
+    {
+      "term": "frühstücken",
+      "type": "Verb",
+      "meaning_tr": "kahvaltı yapmak",
+      "meaning_en": "to have breakfast",
+      "meaning_uk": "снідати",
+      "meaning_es": "desayunar",
+      "example": "Wir *** normalerweise zusammen als Familie."
+    },
+    {
+      "term": "das Mittagessen",
+      "type": "Noun",
+      "meaning_tr": "öğle yemeği",
+      "meaning_en": "lunch",
+      "meaning_uk": "обід",
+      "meaning_es": "almuerzo",
+      "example": "Die Mittagspause ist um 12 Uhr, dann gibt es ***."
+    },
+    {
+      "term": "zu Mittag essen",
+      "type": "Verb",
+      "meaning_tr": "öğle yemeği yemek",
+      "meaning_en": "to have lunch",
+      "meaning_uk": "обідати",
+      "meaning_es": "almorzar",
+      "example": "Ich *** oft in der Kantine."
+    },
+    {
+      "term": "das Abendessen",
+      "type": "Noun",
+      "meaning_tr": "akşam yemeği",
+      "meaning_en": "dinner",
+      "meaning_uk": "вечеря",
+      "meaning_es": "cena",
+      "example": "Wir kochen jeden Abend ***."
+    },
+    {
+      "term": "zu Abend essen",
+      "type": "Verb",
+      "meaning_tr": "akşam yemeği yemek",
+      "meaning_en": "to have dinner",
+      "meaning_uk": "вечеряти",
+      "meaning_es": "cenar",
+      "example": "Bitte *** wir pünktlich."
+    },
+    {
+      "term": "die Arbeit",
+      "type": "Noun",
+      "meaning_tr": "iş",
+      "meaning_en": "work",
+      "meaning_uk": "робота",
+      "meaning_es": "trabajo",
+      "example": "Ich gehe jeden Tag zur ***."
+    },
+    {
+      "term": "arbeiten",
+      "type": "Verb",
+      "meaning_tr": "çalışmak",
+      "meaning_en": "to work",
+      "meaning_uk": "працювати",
+      "meaning_es": "trabajar",
+      "example": "Ich *** in einem Büro in der Stadt."
+    },
+    {
+      "term": "das Büro",
+      "type": "Noun",
+      "meaning_tr": "ofis",
+      "meaning_en": "office",
+      "meaning_uk": "офіс",
+      "meaning_es": "oficina",
+      "example": "Mein Arbeitsplatz ist im ***."
+    },
+    {
+      "term": "die Schule",
+      "type": "Noun",
+      "meaning_tr": "okul",
+      "meaning_en": "school",
+      "meaning_uk": "школа",
+      "meaning_es": "escuela",
+      "example": "Die Kinder gehen jeden Morgen zur ***."
+    },
+    {
+      "term": "lernen",
+      "type": "Verb",
+      "meaning_tr": "öğrenmek",
+      "meaning_en": "to learn",
+      "meaning_uk": "вчитися",
+      "meaning_es": "aprender",
+      "example": "In der Schule *** wir neue Dinge."
+    },
+    {
+      "term": "der Weg zur Arbeit",
+      "type": "Noun",
+      "meaning_tr": "işe gidiş",
+      "meaning_en": "commute to work",
+      "meaning_uk": "дорога на роботу",
+      "meaning_es": "trayecto al trabajo",
+      "example": "Mein *** dauert ungefähr 30 Minuten."
+    },
+    {
+      "term": "zurückkehren",
+      "type": "Verb",
+      "meaning_tr": "geri dönmek",
+      "meaning_en": "to return",
+      "meaning_uk": "повертатися",
+      "meaning_es": "regresar",
+      "example": "Ich *** gegen 17 Uhr von der Arbeit nach Hause."
+    },
+    {
+      "term": "nach Hause kommen",
+      "type": "Verb",
+      "meaning_tr": "eve gelmek",
+      "meaning_en": "to come home",
+      "meaning_uk": "приходити додому",
+      "meaning_es": "llegar a casa",
+      "example": "Wenn ich ***, mache ich eine kurze Pause."
+    },
+    {
+      "term": "der Haushalt",
+      "type": "Noun",
+      "meaning_tr": "ev işleri",
+      "meaning_en": "household chores",
+      "meaning_uk": "домашні справи",
+      "meaning_es": "tareas del hogar",
+      "example": "Ich teile mir die *** mit meinem Partner."
+    },
+    {
+      "term": "aufräumen",
+      "type": "Verb",
+      "meaning_tr": "toplamak, düzenlemek",
+      "meaning_en": "to tidy up",
+      "meaning_uk": "прибирати",
+      "meaning_es": "ordenar",
+      "example": "Nach dem Abendessen *** wir die Küche."
+    },
+    {
+      "term": "kochen",
+      "type": "Verb",
+      "meaning_tr": "yemek pişirmek",
+      "meaning_en": "to cook",
+      "meaning_uk": "готувати",
+      "meaning_es": "cocinar",
+      "example": "Ich *** gerne für meine Familie."
+    },
+    {
+      "term": "putzen",
+      "type": "Verb",
+      "meaning_tr": "temizlemek",
+      "meaning_en": "to clean",
+      "meaning_uk": "чистити",
+      "meaning_es": "limpiar",
+      "example": "Am Wochenende *** wir die ganze Wohnung."
+    },
+    {
+      "term": "einkaufen",
+      "type": "Verb",
+      "meaning_tr": "alışveriş yapmak",
+      "meaning_en": "to shop",
+      "meaning_uk": "купувати",
+      "meaning_es": "comprar",
+      "example": "Ich muss noch Lebensmittel ***."
+    },
+    {
+      "term": "der Supermarkt",
+      "type": "Noun",
+      "meaning_tr": "süpermarket",
+      "meaning_en": "supermarket",
+      "meaning_uk": "супермаркет",
+      "meaning_es": "supermercado",
+      "example": "Der *** ist gleich um die Ecke."
+    },
+    {
+      "term": "die Freizeit",
+      "type": "Noun",
+      "meaning_tr": "boş zaman",
+      "meaning_en": "leisure time",
+      "meaning_uk": "вільний час",
+      "meaning_es": "tiempo libre",
+      "example": "In meiner *** lese ich gerne Bücher."
+    },
+    {
+      "term": "sich entspannen",
+      "type": "Verb",
+      "meaning_tr": "dinlenmek, rahatlamak",
+      "meaning_en": "to relax",
+      "meaning_uk": "розслаблятися",
+      "meaning_es": "relajarse",
+      "example": "Nach einem langen Tag *** ich mich auf dem Sofa."
+    },
+    {
+      "term": "lesen",
+      "type": "Verb",
+      "meaning_tr": "okumak",
+      "meaning_en": "to read",
+      "meaning_uk": "читати",
+      "meaning_es": "leer",
+      "example": "Ich *** gerne Romane."
+    },
+    {
+      "term": "fernsehen",
+      "type": "Verb",
+      "meaning_tr": "televizyon izlemek",
+      "meaning_en": "to watch TV",
+      "meaning_uk": "дивитися телевізор",
+      "meaning_es": "ver la televisión",
+      "example": "Wir *** jeden Abend eine Serie."
+    },
+    {
+      "term": "Musik hören",
+      "type": "Verb",
+      "meaning_tr": "müzik dinlemek",
+      "meaning_en": "to listen to music",
+      "meaning_uk": "слухати музику",
+      "meaning_es": "escuchar música",
+      "example": "Ich *** gerne klassische Musik."
+    },
+    {
+      "term": "Sport treiben",
+      "type": "Verb",
+      "meaning_tr": "spor yapmak",
+      "meaning_en": "to do sports",
+      "meaning_uk": "займатися спортом",
+      "meaning_es": "hacer deporte",
+      "example": "Es ist wichtig, regelmäßig ***."
+    },
+    {
+      "term": "sich treffen",
+      "type": "Verb",
+      "meaning_tr": "buluşmak",
+      "meaning_en": "to meet",
+      "meaning_uk": "зустрічатися",
+      "meaning_es": "encontrarse",
+      "example": "Ich *** meine Freunde am Wochenende."
+    },
+    {
+      "term": "ausgehen",
+      "type": "Verb",
+      "meaning_tr": "dışarı çıkmak",
+      "meaning_en": "to go out",
+      "meaning_uk": "виходити",
+      "meaning_es": "salir",
+      "example": "Wir gehen heute Abend ins Kino."
+    },
+    {
+      "term": "das Hobby",
+      "type": "Noun",
+      "meaning_tr": "hobi",
+      "meaning_en": "hobby",
+      "meaning_uk": "хобі",
+      "meaning_es": "hobby",
+      "example": "Malen ist mein liebstes ***."
+    },
+    {
+      "term": "schlafen",
+      "type": "Verb",
+      "meaning_tr": "uyumak",
+      "meaning_en": "to sleep",
+      "meaning_uk": "спати",
+      "meaning_es": "dormir",
+      "example": "Ich brauche mindestens acht Stunden ***."
+    },
+    {
+      "term": "ins Bett gehen",
+      "type": "Verb",
+      "meaning_tr": "yatmak",
+      "meaning_en": "to go to bed",
+      "meaning_uk": "йти спати",
+      "meaning_es": "irse a la cama",
+      "example": "Ich *** meistens um 23 Uhr."
+    },
+    {
+      "term": "müde",
+      "type": "Adjective",
+      "meaning_tr": "yorgun",
+      "meaning_en": "tired",
+      "meaning_uk": "втомлений",
+      "meaning_es": "cansado",
+      "example": "Nach der langen Reise bin ich sehr ***."
+    },
+    {
+      "term": "erholt",
+      "type": "Adjective",
+      "meaning_tr": "dinlenmiş",
+      "meaning_en": "rested",
+      "meaning_uk": "відпочилий",
+      "meaning_es": "descansado",
+      "example": "Nach dem Urlaub fühle ich mich ***."
+    },
+    {
+      "term": "regelmäßig",
+      "type": "Adverb",
+      "meaning_tr": "düzenli olarak",
+      "meaning_en": "regularly",
+      "meaning_uk": "регулярно",
+      "meaning_es": "regularmente",
+      "example": "Ich *** treibe Sport."
+    },
+    {
+      "term": "gewöhnlich",
+      "type": "Adverb",
+      "meaning_tr": "genellikle",
+      "meaning_en": "usually",
+      "meaning_uk": "зазвичай",
+      "meaning_es": "generalmente",
+      "example": "*** stehe ich früh auf."
+    },
+    {
+      "term": "manchmal",
+      "type": "Adverb",
+      "meaning_tr": "bazen",
+      "meaning_en": "sometimes",
+      "meaning_uk": "іноді",
+      "meaning_es": "a veces",
+      "example": "*** esse ich zu Mittag in der Mensa."
+    },
+    {
+      "term": "danach",
+      "type": "Adverb",
+      "meaning_tr": "sonrasında",
+      "meaning_en": "afterwards",
+      "meaning_uk": "після цього",
+      "meaning_es": "después",
+      "example": "Ich gehe einkaufen und *** koche ich."
+    },
+    {
+      "term": "bevor",
+      "type": "Conjunction",
+      "meaning_tr": "önce",
+      "meaning_en": "before",
+      "meaning_uk": "перед тим як",
+      "meaning_es": "antes de",
+      "example": "Ich trinke Kaffee, *** ich zur Arbeit gehe."
+    },
+    {
+      "term": "nachdem",
+      "type": "Conjunction",
+      "meaning_tr": "sonrasında",
+      "meaning_en": "after",
+      "meaning_uk": "після того як",
+      "meaning_es": "después de que",
+      "example": "Wir gehen ins Bett, *** wir die Zähne geputzt haben."
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante",
+      "example": "*** des Essens reden wir nicht viel."
+    },
+    {
+      "term": "gegen",
+      "type": "Preposition",
+      "meaning_tr": "yaklaşık (saat)",
+      "meaning_en": "around (time)",
+      "meaning_uk": "близько (години)",
+      "meaning_es": "alrededor de (hora)",
+      "example": "Ich stehe *** sieben Uhr auf."
+    }
+  ]
+}

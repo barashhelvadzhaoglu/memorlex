@@ -1,0 +1,321 @@
+{
+  "title": "Psychologie & Gefühle (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Angst",
+      "type": "Noun",
+      "example": "Ich habe große *** vor der Prüfung.",
+      "meaning_tr": "korku",
+      "meaning_en": "fear",
+      "meaning_uk": "страх",
+      "meaning_es": "miedo"
+    },
+    {
+      "term": "sich freuen",
+      "type": "Verb",
+      "example": "Ich *** mich sehr über dein Geschenk.",
+      "meaning_tr": "sevinmek",
+      "meaning_en": "to be happy/glad",
+      "meaning_uk": "радіти",
+      "meaning_es": "alegrarse"
+    },
+    {
+      "term": "glücklich",
+      "type": "Adjective",
+      "example": "Sie ist sehr *** mit ihrem neuen Job.",
+      "meaning_tr": "mutlu",
+      "meaning_en": "happy",
+      "meaning_uk": "щасливий",
+      "meaning_es": "feliz"
+    },
+    {
+      "term": "traurig",
+      "type": "Adjective",
+      "example": "Der Film war so ***, dass ich geweint habe.",
+      "meaning_tr": "üzgün",
+      "meaning_en": "sad",
+      "meaning_uk": "сумний",
+      "meaning_es": "triste"
+    },
+    {
+      "term": "die Wut",
+      "type": "Noun",
+      "example": "Er konnte seine *** kaum kontrollieren.",
+      "meaning_tr": "öfke",
+      "meaning_en": "anger",
+      "meaning_uk": "гнів",
+      "meaning_es": "ira"
+    },
+    {
+      "term": "sich ärgern",
+      "type": "Verb",
+      "example": "Warum *** du dich über diese Kleinigkeit?",
+      "meaning_tr": "kızmak/sinirlenmek",
+      "meaning_en": "to be annoyed",
+      "meaning_uk": "дратуватися",
+      "meaning_es": "enfadarse"
+    },
+    {
+      "term": "das Gefühl",
+      "type": "Noun",
+      "example": "Ich habe ein komisches *** bei der Sache.",
+      "meaning_tr": "duygu/his",
+      "meaning_en": "feeling",
+      "meaning_uk": "почуття",
+      "meaning_es": "sentimiento"
+    },
+    {
+      "term": "die Stimmung",
+      "type": "Noun",
+      "example": "Die *** auf der Party war großartig.",
+      "meaning_tr": "ruh hali/atmosfer",
+      "meaning_en": "mood",
+      "meaning_uk": "настрій",
+      "meaning_es": "estado de ánimo"
+    },
+    {
+      "term": "entspannt",
+      "type": "Adjective",
+      "example": "Nach dem Urlaub bin ich viel ***.",
+      "meaning_tr": "rahatlamış",
+      "meaning_en": "relaxed",
+      "meaning_uk": "розслаблений",
+      "meaning_es": "relajado"
+    },
+    {
+      "term": "gestresst",
+      "type": "Adjective",
+      "example": "In der Prüfungszeit bin ich immer ***.",
+      "meaning_tr": "stresli",
+      "meaning_en": "stressed",
+      "meaning_uk": "стресований",
+      "meaning_es": "estresado"
+    },
+    {
+      "term": "die Einsamkeit",
+      "type": "Noun",
+      "example": "Manchmal genieße ich die ***.",
+      "meaning_tr": "yalnızlık",
+      "meaning_en": "loneliness",
+      "meaning_uk": "самотність",
+      "meaning_es": "soledad"
+    },
+    {
+      "term": "sich schämen",
+      "type": "Verb",
+      "example": "Er *** sich für sein Verhalten.",
+      "meaning_tr": "utanmak",
+      "meaning_en": "to be ashamed",
+      "meaning_uk": "соромитися",
+      "meaning_es": "avergonzarse"
+    },
+    {
+      "term": "stolz",
+      "type": "Adjective",
+      "example": "Mein Vater ist sehr *** auf mich.",
+      "meaning_tr": "gururlu",
+      "meaning_en": "proud",
+      "meaning_uk": "гордий",
+      "meaning_es": "orgulloso"
+    },
+    {
+      "term": "die Überraschung",
+      "type": "Noun",
+      "example": "Das war eine echte *** für mich!",
+      "meaning_tr": "sürpriz",
+      "meaning_en": "surprise",
+      "meaning_uk": "сюрприз",
+      "meaning_es": "sorpresa"
+    },
+    {
+      "term": "aufgeregt",
+      "type": "Adjective",
+      "example": "Ich bin so *** wegen des Vorstellungsgesprächs.",
+      "meaning_tr": "heyecanlı",
+      "meaning_en": "excited/nervous",
+      "meaning_uk": "схвильований",
+      "meaning_es": "nervioso/emocionado"
+    },
+    {
+      "term": "die Laune",
+      "type": "Noun",
+      "example": "Er hat heute schlechte ***.",
+      "meaning_tr": "keyif/mod",
+      "meaning_en": "mood/humor",
+      "meaning_uk": "настрій",
+      "meaning_es": "humor"
+    },
+    {
+      "term": "zufrieden",
+      "type": "Adjective",
+      "example": "Bist du mit deinem Gehalt ***?",
+      "meaning_tr": "memnun",
+      "meaning_en": "satisfied",
+      "meaning_uk": "задоволений",
+      "meaning_es": "satisfecho"
+    },
+    {
+      "term": "die Hoffnung",
+      "type": "Noun",
+      "example": "Die *** stirbt zuletzt.",
+      "meaning_tr": "umut",
+      "meaning_en": "hope",
+      "meaning_uk": "надія",
+      "meaning_es": "esperanza"
+    },
+    {
+      "term": "sich langweilen",
+      "type": "Verb",
+      "example": "Ich *** mich bei diesem langweiligen Film.",
+      "meaning_tr": "sıkılmak",
+      "meaning_en": "to be bored",
+      "meaning_uk": "нудьгувати",
+      "meaning_es": "aburrirse"
+    },
+    {
+      "term": "selbstbewusst",
+      "type": "Adjective",
+      "example": "Sie tritt sehr *** auf.",
+      "meaning_tr": "kendine güvenen",
+      "meaning_en": "self-confident",
+      "meaning_uk": "впевнений у собі",
+      "meaning_es": "seguro de sí mismo"
+    },
+    {
+      "term": "die Geduld",
+      "type": "Noun",
+      "example": "Ich habe keine *** mehr für diese Diskussion.",
+      "meaning_tr": "sabır",
+      "meaning_en": "patience",
+      "meaning_uk": "терпіння",
+      "meaning_es": "paciencia"
+    },
+    {
+      "term": "eifersüchtig",
+      "type": "Adjective",
+      "example": "Er ist sehr *** auf seinen Bruder.",
+      "meaning_tr": "kıskanç",
+      "meaning_en": "jealous",
+      "meaning_uk": "ревнивий",
+      "meaning_es": "celoso"
+    },
+    {
+      "term": "verwirrt",
+      "type": "Adjective",
+      "example": "Die Frage hat mich völlig *** gemacht.",
+      "meaning_tr": "kafa karışmış",
+      "meaning_en": "confused",
+      "meaning_uk": "розгублений",
+      "meaning_es": "confundido"
+    },
+    {
+      "term": "die Enttäuschung",
+      "type": "Noun",
+      "example": "Die Niederlage war eine große ***.",
+      "meaning_tr": "hayal kırıklığı",
+      "meaning_en": "disappointment",
+      "meaning_uk": "розчарування",
+      "meaning_es": "decepción"
+    },
+    {
+      "term": "neugierig",
+      "type": "Adjective",
+      "example": "Kinder sind von Natur aus ***.",
+      "meaning_tr": "meraklı",
+      "meaning_en": "curious",
+      "meaning_uk": "допитливий",
+      "meaning_es": "curioso"
+    },
+    {
+      "term": "erleichtert",
+      "type": "Adjective",
+      "example": "Ich bin so ***, dass der Test vorbei ist.",
+      "meaning_tr": "rahatlamış",
+      "meaning_en": "relieved",
+      "meaning_uk": "полегшений",
+      "meaning_es": "aliviado"
+    },
+    {
+      "term": "die Liebe",
+      "type": "Noun",
+      "example": "Sie glaubt an die wahre ***.",
+      "meaning_tr": "aşk",
+      "meaning_en": "love",
+      "meaning_uk": "кохання",
+      "meaning_es": "amor"
+    },
+    {
+      "term": "einsam",
+      "type": "Adjective",
+      "example": "Er fühlt sich in der Großstadt oft ***.",
+      "meaning_tr": "yalnız",
+      "meaning_en": "lonely",
+      "meaning_uk": "самотній",
+      "meaning_es": "solo"
+    },
+    {
+      "term": "hassen",
+      "type": "Verb",
+      "example": "Ich *** es, wenn Leute zu spät kommen.",
+      "meaning_tr": "nefret etmek",
+      "meaning_en": "to hate",
+      "meaning_uk": "ненавидіти",
+      "meaning_es": "odiar"
+    },
+    {
+      "term": "lieben",
+      "type": "Verb",
+      "example": "Ich *** es, im Sommer am Meer zu sein.",
+      "meaning_tr": "sevmek",
+      "meaning_en": "to love",
+      "meaning_uk": "любити",
+      "meaning_es": "amar"
+    },
+    {
+      "term": "die Entspannung",
+      "type": "Noun",
+      "example": "Yoga ist eine gute Methode zur ***.",
+      "meaning_tr": "rahatlama/gevşeme",
+      "meaning_en": "relaxation",
+      "meaning_uk": "релаксація",
+      "meaning_es": "relajación"
+    },
+    {
+      "term": "schüchtern",
+      "type": "Adjective",
+      "example": "Als Kind war ich sehr ***.",
+      "meaning_tr": "utangaç",
+      "meaning_en": "shy",
+      "meaning_uk": "сором'язливий",
+      "meaning_es": "tímido"
+    },
+    {
+      "term": "sich wohlfühlen",
+      "type": "Verb",
+      "example": "In diesem Haus *** ich mich sehr wohl.",
+      "meaning_tr": "iyi hissetmek",
+      "meaning_en": "to feel comfortable",
+      "meaning_uk": "почуватися добре",
+      "meaning_es": "sentirse cómodo"
+    },
+    {
+      "term": "mutig",
+      "type": "Adjective",
+      "example": "Es war sehr *** von dir, die Wahrheit zu sagen.",
+      "meaning_tr": "cesur",
+      "meaning_en": "brave",
+      "meaning_uk": "сміливий",
+      "meaning_es": "valiente"
+    },
+    {
+      "term": "die Freude",
+      "type": "Noun",
+      "example": "Es macht mir große ***, zu unterrichten.",
+      "meaning_tr": "sevinç/neşe",
+      "meaning_en": "joy",
+      "meaning_uk": "радість",
+      "meaning_es": "alegría"
+    }
+  ]
+}

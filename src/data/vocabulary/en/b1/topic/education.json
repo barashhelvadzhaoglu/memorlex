@@ -1,0 +1,321 @@
+{
+  "title": "School & University (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a campus",
+      "type": "Noun",
+      "example": "The university *** is very large and has many green spaces.",
+      "meaning_tr": "kampüs",
+      "meaning_en": "the grounds and buildings of a university or college",
+      "meaning_uk": "кампус",
+      "meaning_es": "campus"
+    },
+    {
+      "term": "to graduate",
+      "type": "Verb",
+      "example": "She hopes to *** from the university next June.",
+      "meaning_tr": "mezun olmak",
+      "meaning_en": "to successfully complete an academic degree",
+      "meaning_uk": "закінчити навчальний заклад",
+      "meaning_es": "graduarse"
+    },
+    {
+      "term": "a lecture",
+      "type": "Noun",
+      "example": "I have to attend a history *** at ten o'clock.",
+      "meaning_tr": "ders, konferans",
+      "meaning_en": "a formal talk on a serious subject given to a group of students",
+      "meaning_uk": "лекція",
+      "meaning_es": "conferencia"
+    },
+    {
+      "term": "an assignment",
+      "type": "Noun",
+      "example": "The teacher gave us a difficult writing *** for the weekend.",
+      "meaning_tr": "ödev, görev",
+      "meaning_en": "a piece of work or job that you are given to do",
+      "meaning_uk": "завдання",
+      "meaning_es": "tarea"
+    },
+    {
+      "term": "academic",
+      "type": "Adjective",
+      "example": "He is having some *** problems because he is missing many classes.",
+      "meaning_tr": "akademik",
+      "meaning_en": "relating to education, schools, and universities",
+      "meaning_uk": "академічний",
+      "meaning_es": "académico"
+    },
+    {
+      "term": "a degree",
+      "type": "Noun",
+      "example": "She is studying for a *** in Computer Science.",
+      "meaning_tr": "derece, diploma",
+      "meaning_en": "a qualification given for completing a university course",
+      "meaning_uk": "ступінь",
+      "meaning_es": "título universitario"
+    },
+    {
+      "term": "to enroll",
+      "type": "Verb",
+      "example": "You need to *** in the course before the deadline.",
+      "meaning_tr": "kaydolmak",
+      "meaning_en": "to officially register as a member of an institution or course",
+      "meaning_uk": "зареєструватися",
+      "meaning_es": "inscribirse"
+    },
+    {
+      "term": "a scholarship",
+      "type": "Noun",
+      "example": "He won a *** to study at a prestigious university.",
+      "meaning_tr": "burs",
+      "meaning_en": "an amount of money given by a school or college to pay for studies",
+      "meaning_uk": "стипендія",
+      "meaning_es": "beca"
+    },
+    {
+      "term": "a curriculum",
+      "type": "Noun",
+      "example": "The school has a very modern *** that focuses on technology.",
+      "meaning_tr": "müfredat",
+      "meaning_en": "the subjects included in a course of study",
+      "meaning_uk": "навчальна програма",
+      "meaning_es": "plan de estudios"
+    },
+    {
+      "term": "a dormitory",
+      "type": "Noun",
+      "example": "Living in the student *** is a great way to make new friends.",
+      "meaning_tr": "yurt",
+      "meaning_en": "a building where students live at a college or university",
+      "meaning_uk": "гуртожиток",
+      "meaning_es": "residencia de estudiantes"
+    },
+    {
+      "term": "to revise",
+      "type": "Verb",
+      "example": "I need to *** my notes before the final exam.",
+      "meaning_tr": "tekrar etmek",
+      "meaning_en": "to study again something you have already learned",
+      "meaning_uk": "повторювати матеріал",
+      "meaning_es": "repasar"
+    },
+    {
+      "term": "a tutor",
+      "type": "Noun",
+      "example": "My math *** helps me understand difficult equations.",
+      "meaning_tr": "özel öğretmen, danışman",
+      "meaning_en": "a teacher who works with one student or a small group",
+      "meaning_uk": "репетитор",
+      "meaning_es": "tutor"
+    },
+    {
+      "term": "a seminar",
+      "type": "Noun",
+      "example": "We discussed the research paper during today's ***.",
+      "meaning_tr": "seminer",
+      "meaning_en": "a meeting for discussion or training",
+      "meaning_uk": "семінар",
+      "meaning_es": "seminario"
+    },
+    {
+      "term": "compulsory",
+      "type": "Adjective",
+      "example": "Math and English are *** subjects in this school.",
+      "meaning_tr": "zorunlu",
+      "meaning_en": "that must be done; necessary by law or a rule",
+      "meaning_uk": "обов'язковий",
+      "meaning_es": "obligatorio"
+    },
+    {
+      "term": "to fail",
+      "type": "Verb",
+      "example": "If you don't study, you will *** the test.",
+      "meaning_tr": "başarısız olmak",
+      "meaning_en": "to not succeed in an exam or course",
+      "meaning_uk": "провалити",
+      "meaning_es": "suspender"
+    },
+    {
+      "term": "a primary school",
+      "type": "Noun",
+      "example": "Children start their education at a *** at the age of six.",
+      "meaning_tr": "ilkokul",
+      "meaning_en": "a school for children between the ages of 5 and 11",
+      "meaning_uk": "початкова школа",
+      "meaning_es": "escuela primaria"
+    },
+    {
+      "term": "secondary school",
+      "type": "Noun",
+      "example": "After primary school, pupils go to a ***.",
+      "meaning_tr": "ortaokul",
+      "meaning_en": "a school for children between 11 and 16 or 18 years old",
+      "meaning_uk": "середня школа",
+      "meaning_es": "escuela secundaria"
+    },
+    {
+      "term": "a headteacher",
+      "type": "Noun",
+      "example": "The *** welcomed the new students in the assembly hall.",
+      "meaning_tr": "okul müdürü",
+      "meaning_en": "the person in charge of a school",
+      "meaning_uk": "директор школи",
+      "meaning_es": "director de escuela"
+    },
+    {
+      "term": "a classroom",
+      "type": "Noun",
+      "example": "Please go to your *** and sit at your desks.",
+      "meaning_tr": "sınıf",
+      "meaning_en": "a room where students are taught",
+      "meaning_uk": "класна кімната",
+      "meaning_es": "aula"
+    },
+    {
+      "term": "an exam",
+      "type": "Noun",
+      "example": "I have a chemistry *** tomorrow morning.",
+      "meaning_tr": "sınav",
+      "meaning_en": "a formal test of knowledge or ability",
+      "meaning_uk": "іспит",
+      "meaning_es": "examen"
+    },
+    {
+      "term": "a grade",
+      "type": "Noun",
+      "example": "She was very happy when she saw her high *** on the paper.",
+      "meaning_tr": "not, derece",
+      "meaning_en": "a mark given to a student for their work",
+      "meaning_uk": "оцінка",
+      "meaning_es": "nota"
+    },
+    {
+      "term": "to pass",
+      "type": "Verb",
+      "example": "If you work hard, you will definitely *** the exam.",
+      "meaning_tr": "geçmek",
+      "meaning_en": "to succeed in an exam or course",
+      "meaning_uk": "скласти іспит",
+      "meaning_es": "aprobar"
+    },
+    {
+      "term": "a textbook",
+      "type": "Noun",
+      "example": "Don't forget to bring your history *** to class tomorrow.",
+      "meaning_tr": "ders kitabı",
+      "meaning_en": "a book containing the facts about a particular subject",
+      "meaning_uk": "підручник",
+      "meaning_es": "libro de texto"
+    },
+    {
+      "term": "an undergraduate",
+      "type": "Noun",
+      "example": "As an ***, he lives in a small room near the library.",
+      "meaning_tr": "lisans öğrencisi",
+      "meaning_en": "a student at a college or university who has not yet earned a degree",
+      "meaning_uk": "студент бакалаврату",
+      "meaning_es": "estudiante de grado"
+    },
+    {
+      "term": "postgraduate",
+      "type": "Noun",
+      "example": "She is a *** student researching biology.",
+      "meaning_tr": "lisansüstü öğrencisi",
+      "meaning_en": "a student who has a first degree and is studying for a higher one",
+      "meaning_uk": "аспірант",
+      "meaning_es": "estudiante de posgrado"
+    },
+    {
+      "term": "to drop out",
+      "type": "Verb",
+      "example": "He decided to *** of university to start his own business.",
+      "meaning_tr": "okulu bırakmak",
+      "meaning_en": "to leave school or university before finishing your studies",
+      "meaning_uk": "кинути навчання",
+      "meaning_es": "dejar los estudios"
+    },
+    {
+      "term": "a library",
+      "type": "Noun",
+      "example": "The university *** is the best place to find quiet study space.",
+      "meaning_tr": "kütüphane",
+      "meaning_en": "a building or room containing a collection of books",
+      "meaning_uk": "бібліотека",
+      "meaning_es": "biblioteca"
+    },
+    {
+      "term": "a subject",
+      "type": "Noun",
+      "example": "What is your favorite school ***?",
+      "meaning_tr": "ders, konu",
+      "meaning_en": "an area of knowledge studied at school or university",
+      "meaning_uk": "предмет",
+      "meaning_es": "asignatura"
+    },
+    {
+      "term": "a timetable",
+      "type": "Noun",
+      "example": "I need to check my *** to see when my next class starts.",
+      "meaning_tr": "ders programı",
+      "meaning_en": "a list of times when classes or events happen",
+      "meaning_uk": "розклад",
+      "meaning_es": "horario"
+    },
+    {
+      "term": "to participate",
+      "type": "Verb",
+      "example": "It is important to *** in class discussions.",
+      "meaning_tr": "katılmak",
+      "meaning_en": "to take part in an activity",
+      "meaning_uk": "брати участь",
+      "meaning_es": "participar"
+    },
+    {
+      "term": "a research",
+      "type": "Noun",
+      "example": "She is doing some *** on the history of ancient Rome.",
+      "meaning_tr": "araştırma",
+      "meaning_en": "detailed study of a subject to discover new information",
+      "meaning_uk": "дослідження",
+      "meaning_es": "investigación"
+    },
+    {
+      "term": "a faculty",
+      "type": "Noun",
+      "example": "She is a professor in the *** of Law.",
+      "meaning_tr": "fakülte",
+      "meaning_en": "a group of departments in a university",
+      "meaning_uk": "факультет",
+      "meaning_es": "facultad"
+    },
+    {
+      "term": "an essay",
+      "type": "Noun",
+      "example": "We have to write a long *** about global warming.",
+      "meaning_tr": "kompozisyon, makale",
+      "meaning_en": "a short piece of writing on a particular subject",
+      "meaning_uk": "есе",
+      "meaning_es": "redacción"
+    },
+    {
+      "term": "to attend",
+      "type": "Verb",
+      "example": "You must *** all classes to pass the course.",
+      "meaning_tr": "katılmak, devam etmek",
+      "meaning_en": "to go to an event or institution",
+      "meaning_uk": "відвідувати",
+      "meaning_es": "asistir"
+    },
+    {
+      "term": "a semester",
+      "type": "Noun",
+      "example": "The final exams are at the end of the ***.",
+      "meaning_tr": "sömestir, dönem",
+      "meaning_en": "one of the two periods into which a year is divided at a university",
+      "meaning_uk": "семестр",
+      "meaning_es": "semestre"
+    }
+  ]
+}

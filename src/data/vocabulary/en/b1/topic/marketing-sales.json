@@ -1,0 +1,321 @@
+{
+  "title": "Marketing & Sales (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a product",
+      "type": "Noun",
+      "example": "We are launching *** next month.",
+      "meaning_tr": "ürün",
+      "meaning_en": "an item for sale",
+      "meaning_uk": "продукт",
+      "meaning_es": "un producto"
+    },
+    {
+      "term": "to advertise",
+      "type": "Verb",
+      "example": "They decided to *** their new service on social media.",
+      "meaning_tr": "reklamını yapmak",
+      "meaning_en": "to promote a product publicly",
+      "meaning_uk": "рекламувати",
+      "meaning_es": "anunciar"
+    },
+    {
+      "term": "a customer",
+      "type": "Noun",
+      "example": "The *** is always right.",
+      "meaning_tr": "müşteri",
+      "meaning_en": "a person who buys goods",
+      "meaning_uk": "клієнт",
+      "meaning_es": "un cliente"
+    },
+    {
+      "term": "a price",
+      "type": "Noun",
+      "example": "The *** of this laptop is too high.",
+      "meaning_tr": "fiyat",
+      "meaning_en": "the amount of money requested for something",
+      "meaning_uk": "ціна",
+      "meaning_es": "un precio"
+    },
+    {
+      "term": "a target audience",
+      "type": "Noun",
+      "example": "Our *** is young professionals.",
+      "meaning_tr": "hedef kitle",
+      "meaning_en": "the specific group of people a product is aimed at",
+      "meaning_uk": "цільова аудиторія",
+      "meaning_es": "un público objetivo"
+    },
+    {
+      "term": "to sell",
+      "type": "Verb",
+      "example": "We need to *** more units this quarter.",
+      "meaning_tr": "satmak",
+      "meaning_en": "to give something in exchange for money",
+      "meaning_uk": "продавати",
+      "meaning_es": "vender"
+    },
+    {
+      "term": "a discount",
+      "type": "Noun",
+      "example": "Can you offer a 10% *** on this order?",
+      "meaning_tr": "indirim",
+      "meaning_en": "a reduction in the usual price",
+      "meaning_uk": "знижка",
+      "meaning_es": "un descuento"
+    },
+    {
+      "term": "competitive",
+      "type": "Adjective",
+      "example": "We offer a very *** price compared to other brands.",
+      "meaning_tr": "rekabetçi",
+      "meaning_en": "as good as or better than others",
+      "meaning_uk": "конкурентоспроможний",
+      "meaning_es": "competitivo"
+    },
+    {
+      "term": "a brand",
+      "type": "Noun",
+      "example": "This is a well-known clothing ***.",
+      "meaning_tr": "marka",
+      "meaning_en": "a type of product manufactured by a particular company",
+      "meaning_uk": "бренд",
+      "meaning_es": "una marca"
+    },
+    {
+      "term": "to promote",
+      "type": "Verb",
+      "example": "They hired an agency to *** their new website.",
+      "meaning_tr": "tanıtmak",
+      "meaning_en": "to encourage the growth or success of something",
+      "meaning_uk": "просувати",
+      "meaning_es": "promocionar"
+    },
+    {
+      "term": "a market",
+      "type": "Noun",
+      "example": "We are planning to enter the European ***.",
+      "meaning_tr": "pazar",
+      "meaning_en": "the business or trade in a particular area",
+      "meaning_uk": "ринок",
+      "meaning_es": "un mercado"
+    },
+    {
+      "term": "a profit",
+      "type": "Noun",
+      "example": "The company made a large *** last year.",
+      "meaning_tr": "kâr",
+      "meaning_en": "financial gain",
+      "meaning_uk": "прибуток",
+      "meaning_es": "un beneficio"
+    },
+    {
+      "term": "a consumer",
+      "type": "Noun",
+      "example": "The *** wants high quality at a low cost.",
+      "meaning_tr": "tüketici",
+      "meaning_en": "a person who purchases goods for personal use",
+      "meaning_uk": "споживач",
+      "meaning_es": "un consumidor"
+    },
+    {
+      "term": "to launch",
+      "type": "Verb",
+      "example": "We will *** the new app next Monday.",
+      "meaning_tr": "piyasaya sürmek",
+      "meaning_en": "to introduce a new product to the market",
+      "meaning_uk": "запускати",
+      "meaning_es": "lanzar"
+    },
+    {
+      "term": "a strategy",
+      "type": "Noun",
+      "example": "We need a better marketing *** to reach more people.",
+      "meaning_tr": "strateji",
+      "meaning_en": "a plan of action designed to achieve a long-term aim",
+      "meaning_uk": "стратегія",
+      "meaning_es": "una estrategia"
+    },
+    {
+      "term": "wholesale",
+      "type": "Adjective",
+      "example": "Buying in *** quantities is cheaper.",
+      "meaning_tr": "toptan",
+      "meaning_en": "the business of selling goods in large quantities",
+      "meaning_uk": "оптовий",
+      "meaning_es": "al por mayor"
+    },
+    {
+      "term": "a campaign",
+      "type": "Noun",
+      "example": "The advertising *** was very successful.",
+      "meaning_tr": "kampanya",
+      "meaning_en": "a series of organized activities to achieve a goal",
+      "meaning_uk": "кампанія",
+      "meaning_es": "una campaña"
+    },
+    {
+      "term": "a budget",
+      "type": "Noun",
+      "example": "We don't have enough *** for a TV commercial.",
+      "meaning_tr": "bütçe",
+      "meaning_en": "an estimate of income and expenditure for a period",
+      "meaning_uk": "бюджет",
+      "meaning_es": "un presupuesto"
+    },
+    {
+      "term": "a competitor",
+      "type": "Noun",
+      "example": "Our main *** has just lowered their prices.",
+      "meaning_tr": "rakip",
+      "meaning_en": "a rival in business",
+      "meaning_uk": "конкурент",
+      "meaning_es": "un competidor"
+    },
+    {
+      "term": "to negotiate",
+      "type": "Verb",
+      "example": "We need to *** the terms of the contract.",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to try to reach an agreement by formal discussion",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "negociar"
+    },
+    {
+      "term": "a demand",
+      "type": "Noun",
+      "example": "There is a high *** for electric cars these days.",
+      "meaning_tr": "talep",
+      "meaning_en": "a desire for a particular product",
+      "meaning_uk": "попит",
+      "meaning_es": "una demanda"
+    },
+    {
+      "term": "a feature",
+      "type": "Noun",
+      "example": "What is the best *** of this phone?",
+      "meaning_tr": "özellik",
+      "meaning_en": "a distinctive attribute or aspect of something",
+      "meaning_uk": "особливість",
+      "meaning_es": "una característica"
+    },
+    {
+      "term": "a retail",
+      "type": "Noun",
+      "example": "The *** price is higher than the wholesale price.",
+      "meaning_tr": "perakende",
+      "meaning_en": "the sale of goods to the public",
+      "meaning_uk": "роздрібна торгівля",
+      "meaning_es": "una venta al por menor"
+    },
+    {
+      "term": "a trend",
+      "type": "Noun",
+      "example": "Following the latest fashion *** is important for us.",
+      "meaning_tr": "trend",
+      "meaning_en": "a general direction in which something is developing",
+      "meaning_uk": "тренд",
+      "meaning_es": "una tendencia"
+    },
+    {
+      "term": "a deal",
+      "type": "Noun",
+      "example": "They closed a great *** yesterday.",
+      "meaning_tr": "anlaşma",
+      "meaning_en": "a business agreement",
+      "meaning_uk": "угода",
+      "meaning_es": "un trato"
+    },
+    {
+      "term": "to supply",
+      "type": "Verb",
+      "example": "We *** fresh fruits to local restaurants.",
+      "meaning_tr": "tedarik etmek",
+      "meaning_en": "to provide or make available for use",
+      "meaning_uk": "постачати",
+      "meaning_es": "suministrar"
+    },
+    {
+      "term": "a sample",
+      "type": "Noun",
+      "example": "Can you send us a *** of the product?",
+      "meaning_tr": "numune",
+      "meaning_en": "a small part or quantity intended to show what the whole is like",
+      "meaning_uk": "зразок",
+      "meaning_es": "una muestra"
+    },
+    {
+      "term": "a service",
+      "type": "Noun",
+      "example": "We provide excellent customer ***.",
+      "meaning_tr": "hizmet",
+      "meaning_en": "the action of helping or doing work for someone",
+      "meaning_uk": "послуга",
+      "meaning_es": "un servicio"
+    },
+    {
+      "term": "to compare",
+      "type": "Verb",
+      "example": "It is useful to *** our prices with the market average.",
+      "meaning_tr": "karşılaştırmak",
+      "meaning_en": "to estimate the similarities or differences",
+      "meaning_uk": "порівнювати",
+      "meaning_es": "comparar"
+    },
+    {
+      "term": "an order",
+      "type": "Noun",
+      "example": "I would like to place an *** for ten items.",
+      "meaning_tr": "sipariş",
+      "meaning_en": "a request for goods to be supplied",
+      "meaning_uk": "замовлення",
+      "meaning_es": "un pedido"
+    },
+    {
+      "term": "profitable",
+      "type": "Adjective",
+      "example": "Is this new venture going to be ***?",
+      "meaning_tr": "kârlı",
+      "meaning_en": "yielding financial gain",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "rentable"
+    },
+    {
+      "term": "a feedback",
+      "type": "Noun",
+      "example": "We value your *** on our new design.",
+      "meaning_tr": "geri bildirim",
+      "meaning_en": "information about reactions to a product",
+      "meaning_uk": "відгук",
+      "meaning_es": "una retroalimentación"
+    },
+    {
+      "term": "to influence",
+      "type": "Verb",
+      "example": "Celebrities often *** consumer choices.",
+      "meaning_tr": "etkilemek",
+      "meaning_en": "to have an effect on the character or behavior of someone",
+      "meaning_uk": "впливати",
+      "meaning_es": "influir"
+    },
+    {
+      "term": "a global",
+      "type": "Adjective",
+      "example": "We are expanding our business to a *** level.",
+      "meaning_tr": "küresel",
+      "meaning_en": "relating to the whole world",
+      "meaning_uk": "глобальний",
+      "meaning_es": "global"
+    },
+    {
+      "term": "an outlet",
+      "type": "Noun",
+      "example": "We have a new retail *** in the city center.",
+      "meaning_tr": "satış noktası",
+      "meaning_en": "a store or shop that sells products",
+      "meaning_uk": "торгова точка",
+      "meaning_es": "un punto de venta"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "title": "Time & Dates (A1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a day",
+      "type": "Noun",
+      "example": "There are seven days in ***.",
+      "meaning_tr": "bir gün",
+      "meaning_en": "a period of twenty-four hours",
+      "meaning_uk": "день",
+      "meaning_es": "un día"
+    },
+    {
+      "term": "a week",
+      "type": "Noun",
+      "example": "I go to the gym once ***.",
+      "meaning_tr": "bir hafta",
+      "meaning_en": "a period of seven days",
+      "meaning_uk": "тиждень",
+      "meaning_es": "una semana"
+    },
+    {
+      "term": "a month",
+      "type": "Noun",
+      "example": "My birthday is in ***.",
+      "meaning_tr": "bir ay",
+      "meaning_en": "a period of approximately four weeks",
+      "meaning_uk": "місяць",
+      "meaning_es": "un mes"
+    },
+    {
+      "term": "a year",
+      "type": "Noun",
+      "example": "There are twelve months in ***.",
+      "meaning_tr": "bir yıl",
+      "meaning_en": "a period of 365 days",
+      "meaning_uk": "рік",
+      "meaning_es": "un año"
+    },
+    {
+      "term": "the morning",
+      "type": "Noun",
+      "example": "I drink coffee in ***.",
+      "meaning_tr": "sabah",
+      "meaning_en": "the early part of the day",
+      "meaning_uk": "ранок",
+      "meaning_es": "la mañana"
+    },
+    {
+      "term": "the afternoon",
+      "type": "Noun",
+      "example": "We have a meeting in ***.",
+      "meaning_tr": "öğleden sonra",
+      "meaning_en": "the time between noon and evening",
+      "meaning_uk": "день",
+      "meaning_es": "la tarde"
+    },
+    {
+      "term": "the evening",
+      "type": "Noun",
+      "example": "I watch TV in ***.",
+      "meaning_tr": "akşam",
+      "meaning_en": "the end of the day before night",
+      "meaning_uk": "вечір",
+      "meaning_es": "la noche"
+    },
+    {
+      "term": "early",
+      "type": "Adjective",
+      "example": "It is ***, let's go.",
+      "meaning_tr": "erken",
+      "meaning_en": "before the expected time",
+      "meaning_uk": "рано",
+      "meaning_es": "temprano"
+    },
+    {
+      "term": "late",
+      "type": "Adjective",
+      "example": "Sorry, I am *** for class.",
+      "meaning_tr": "geç",
+      "meaning_en": "after the expected time",
+      "meaning_uk": "пізно",
+      "meaning_es": "tarde"
+    },
+    {
+      "term": "at",
+      "type": "Preposition",
+      "example": "The movie starts *** 8 o'clock.",
+      "meaning_tr": "-de/-da",
+      "meaning_en": "used to indicate a specific time",
+      "meaning_uk": "о (котрій годині)",
+      "meaning_es": "a (las)"
+    },
+    {
+      "term": "on",
+      "type": "Preposition",
+      "example": "I work *** Monday.",
+      "meaning_tr": "-de/-da (günler için)",
+      "meaning_en": "used to indicate a day or date",
+      "meaning_uk": "у (день тижня)",
+      "meaning_es": "en (días)"
+    },
+    {
+      "term": "in",
+      "type": "Preposition",
+      "example": "My birthday is *** July.",
+      "meaning_tr": "içinde (aylar/yıllar için)",
+      "meaning_en": "used to indicate a month or year",
+      "meaning_uk": "у (місяць/рік)",
+      "meaning_es": "en (meses/años)"
+    },
+    {
+      "term": "today",
+      "type": "Adverb",
+      "example": "It is very hot ***.",
+      "meaning_tr": "bugün",
+      "meaning_en": "this present day",
+      "meaning_uk": "сьогодні",
+      "meaning_es": "hoy"
+    },
+    {
+      "term": "tomorrow",
+      "type": "Adverb",
+      "example": "We have a test ***.",
+      "meaning_tr": "yarın",
+      "meaning_en": "the day after today",
+      "meaning_uk": "завтра",
+      "meaning_es": "mañana"
+    },
+    {
+      "term": "yesterday",
+      "type": "Adverb",
+      "example": "I was at home ***.",
+      "meaning_tr": "dün",
+      "meaning_en": "the day before today",
+      "meaning_uk": "вчора",
+      "meaning_es": "ayer"
+    }
+  ]
+}

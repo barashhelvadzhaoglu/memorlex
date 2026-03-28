@@ -1,0 +1,546 @@
+{
+  "title": "Job Search & Applications (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a cover letter",
+      "type": "Noun",
+      "example": "Don't forget to attach *** to your resume when applying for the vacancy.",
+      "meaning_tr": "ön yazı",
+      "meaning_en": "a letter sent with a document to explain it",
+      "meaning_uk": "супровідний лист",
+      "meaning_es": "una carta de presentación"
+    },
+    {
+      "term": "a curriculum vitae",
+      "type": "Noun",
+      "example": "Please submit *** detailing your academic and professional history.",
+      "meaning_tr": "özgeçmiş",
+      "meaning_en": "a document describing your education and work experience",
+      "meaning_uk": "резюме",
+      "meaning_es": "un currículum vítae"
+    },
+    {
+      "term": "a vacancy",
+      "type": "Noun",
+      "example": "The company announced *** for a senior software engineer position.",
+      "meaning_tr": "açık pozisyon",
+      "meaning_en": "an available job position",
+      "meaning_uk": "вакансія",
+      "meaning_es": "una vacante"
+    },
+    {
+      "term": "to shortlist",
+      "type": "Verb",
+      "example": "The recruiters decided to *** the top ten candidates for the final round.",
+      "meaning_tr": "aday listesine almak",
+      "meaning_en": "to put someone on a list of preferred candidates",
+      "meaning_uk": "відібрати до списку",
+      "meaning_es": "preseleccionar"
+    },
+    {
+      "term": "a headhunter",
+      "type": "Noun",
+      "example": "A professional *** contacted me on LinkedIn regarding an executive role.",
+      "meaning_tr": "yönetici avcısı",
+      "meaning_en": "a recruiter who finds candidates for high-level jobs",
+      "meaning_uk": "рекрутер",
+      "meaning_es": "un cazatalentos"
+    },
+    {
+      "term": "an applicant",
+      "type": "Noun",
+      "example": "Every *** must pass the initial screening process.",
+      "meaning_tr": "başvuru sahibi",
+      "meaning_en": "a person who formally requests something",
+      "meaning_uk": "заявник",
+      "meaning_es": "un solicitante"
+    },
+    {
+      "term": "a remuneration",
+      "type": "Noun",
+      "example": "The total *** package includes a base salary and annual bonuses.",
+      "meaning_tr": "ücret",
+      "meaning_en": "payment for work or services",
+      "meaning_uk": "винагорода",
+      "meaning_es": "una remuneración"
+    },
+    {
+      "term": "to screen",
+      "type": "Verb",
+      "example": "HR departments use automated systems to *** hundreds of resumes.",
+      "meaning_tr": "elemek / incelemek",
+      "meaning_en": "to evaluate or test candidates",
+      "meaning_uk": "відбирати",
+      "meaning_es": "filtrar"
+    },
+    {
+      "term": "a prospective employer",
+      "type": "Noun",
+      "example": "Researching your *** can give you an edge during the interview.",
+      "meaning_tr": "potansiyel işveren",
+      "meaning_en": "a company that might hire you",
+      "meaning_uk": "потенційний роботодавець",
+      "meaning_es": "un posible empleador"
+    },
+    {
+      "term": "a probationary period",
+      "type": "Noun",
+      "example": "You will be under *** for the first three months of your contract.",
+      "meaning_tr": "deneme süresi",
+      "meaning_en": "a trial period for a new employee",
+      "meaning_uk": "випробувальний термін",
+      "meaning_es": "un período de prueba"
+    },
+    {
+      "term": "a job description",
+      "type": "Noun",
+      "example": "I carefully read the *** to ensure my skills matched the requirements.",
+      "meaning_tr": "iş tanımı",
+      "meaning_en": "a document outlining the duties of a job",
+      "meaning_uk": "опис посади",
+      "meaning_es": "una descripción del puesto"
+    },
+    {
+      "term": "to negotiate",
+      "type": "Verb",
+      "example": "It is common practice to *** your salary before signing the contract.",
+      "meaning_tr": "pazarlık etmek",
+      "meaning_en": "to discuss terms to reach an agreement",
+      "meaning_uk": "домовлятися",
+      "meaning_es": "negociar"
+    },
+    {
+      "term": "a skill set",
+      "type": "Noun",
+      "example": "Your unique *** makes you a strong candidate for this project.",
+      "meaning_tr": "beceri seti",
+      "meaning_en": "the range of abilities a person possesses",
+      "meaning_uk": "набір навичок",
+      "meaning_es": "un conjunto de habilidades"
+    },
+    {
+      "term": "a background check",
+      "type": "Noun",
+      "example": "The firm conducts a thorough *** on all potential hires.",
+      "meaning_tr": "geçmiş araştırması",
+      "meaning_en": "investigating a candidate's personal and professional history",
+      "meaning_uk": "перевірка біографії",
+      "meaning_es": "una verificación de antecedentes"
+    },
+    {
+      "term": "a career path",
+      "type": "Noun",
+      "example": "She has a clear vision for her *** within the technology sector.",
+      "meaning_tr": "kariyer yolu",
+      "meaning_en": "the progression of jobs throughout one's life",
+      "meaning_uk": "кар'єрний шлях",
+      "meaning_es": "una trayectoria profesional"
+    },
+    {
+      "term": "to network",
+      "type": "Verb",
+      "example": "Attending conferences is a great way to *** with industry leaders.",
+      "meaning_tr": "ağ kurmak",
+      "meaning_en": "to interact with others to exchange information",
+      "meaning_uk": "налагоджувати зв'язки",
+      "meaning_es": "hacer contactos"
+    },
+    {
+      "term": "an internship",
+      "type": "Noun",
+      "example": "Doing *** is an excellent way to gain practical experience.",
+      "meaning_tr": "staj",
+      "meaning_en": "a short-term work experience for students",
+      "meaning_uk": "стажування",
+      "meaning_es": "una pasantía"
+    },
+    {
+      "term": "to outsource",
+      "type": "Verb",
+      "example": "Many companies choose to *** non-core tasks to save costs.",
+      "meaning_tr": "dış kaynak kullanmak",
+      "meaning_en": "to hire outside parties to perform services",
+      "meaning_uk": "віддавати на аутсорсинг",
+      "meaning_es": "subcontratar"
+    },
+    {
+      "term": "a relocation package",
+      "type": "Noun",
+      "example": "The company offered a generous *** to move me to their London office.",
+      "meaning_tr": "taşınma yardımı",
+      "meaning_en": "financial support for moving for a job",
+      "meaning_uk": "пакет допомоги при переїзді",
+      "meaning_es": "un paquete de reubicación"
+    },
+    {
+      "term": "a lateral move",
+      "type": "Noun",
+      "example": "He accepted a *** to a different department to gain new experience.",
+      "meaning_tr": "yatay geçiş",
+      "meaning_en": "changing jobs at the same level of responsibility",
+      "meaning_uk": "горизонтальне переміщення",
+      "meaning_es": "un movimiento lateral"
+    },
+    {
+      "term": "a promotion",
+      "type": "Noun",
+      "example": "After three years of hard work, she finally received a ***.",
+      "meaning_tr": "terfi",
+      "meaning_en": "advancement to a higher position",
+      "meaning_uk": "підвищення",
+      "meaning_es": "un ascenso"
+    },
+    {
+      "term": "a redundancy",
+      "type": "Noun",
+      "example": "The company announced staff layoffs due to widespread ***.",
+      "meaning_tr": "işten çıkarma",
+      "meaning_en": "job loss due to the position no longer being needed",
+      "meaning_uk": "скорочення штату",
+      "meaning_es": "un despido"
+    },
+    {
+      "term": "to resign",
+      "type": "Verb",
+      "example": "I decided to *** from my current position to pursue new challenges.",
+      "meaning_tr": "istifa etmek",
+      "meaning_en": "to voluntarily leave a job",
+      "meaning_uk": "звільнитися",
+      "meaning_es": "dimitir"
+    },
+    {
+      "term": "a severance pay",
+      "type": "Noun",
+      "example": "The company offered a generous *** to employees affected by the layoffs.",
+      "meaning_tr": "kıdem tazminatı",
+      "meaning_en": "money paid to an employee upon termination",
+      "meaning_uk": "вихідна допомога",
+      "meaning_es": "una indemnización por despido"
+    },
+    {
+      "term": "an incentive",
+      "type": "Noun",
+      "example": "Performance bonuses act as a strong *** for employees.",
+      "meaning_tr": "teşvik",
+      "meaning_en": "something that encourages action",
+      "meaning_uk": "стимул",
+      "meaning_es": "un incentivo"
+    },
+    {
+      "term": "a corporate culture",
+      "type": "Noun",
+      "example": "I am looking for a job where the *** aligns with my personal values.",
+      "meaning_tr": "kurumsal kültür",
+      "meaning_en": "the beliefs and behaviors of a company",
+      "meaning_uk": "корпоративна культура",
+      "meaning_es": "una cultura corporativa"
+    },
+    {
+      "term": "a competency",
+      "type": "Noun",
+      "example": "Technical proficiency is a core *** for this role.",
+      "meaning_tr": "yetkinlik",
+      "meaning_en": "the ability to do something successfully",
+      "meaning_uk": "компетентність",
+      "meaning_es": "una competencia"
+    },
+    {
+      "term": "an appraisal",
+      "type": "Noun",
+      "example": "My annual performance *** went very well this year.",
+      "meaning_tr": "performans değerlendirmesi",
+      "meaning_en": "a formal assessment of employee performance",
+      "meaning_uk": "оцінка ефективності",
+      "meaning_es": "una evaluación"
+    },
+    {
+      "term": "to shortlist",
+      "type": "Verb",
+      "example": "We will *** only the most qualified candidates for the interview phase.",
+      "meaning_tr": "aday listesine almak",
+      "meaning_en": "to narrow down a list of candidates",
+      "meaning_uk": "відібрати",
+      "meaning_es": "preseleccionar"
+    },
+    {
+      "term": "a headhunter",
+      "type": "Noun",
+      "example": "A persistent *** found me on a professional social media site.",
+      "meaning_tr": "yönetici avcısı",
+      "meaning_en": "a recruiter for executive positions",
+      "meaning_uk": "рекрутер",
+      "meaning_es": "un cazatalentos"
+    },
+    {
+      "term": "an applicant",
+      "type": "Noun",
+      "example": "The HR manager interviewed every single *** for the sales role.",
+      "meaning_tr": "başvuru sahibi",
+      "meaning_en": "a candidate for a job",
+      "meaning_uk": "кандидат",
+      "meaning_es": "un aspirante"
+    },
+    {
+      "term": "a remuneration",
+      "type": "Noun",
+      "example": "The company offers a competitive *** package.",
+      "meaning_tr": "ücret",
+      "meaning_en": "compensation for work",
+      "meaning_uk": "оплата праці",
+      "meaning_es": "una retribución"
+    },
+    {
+      "term": "to screen",
+      "type": "Verb",
+      "example": "They *** all incoming emails to filter out spam.",
+      "meaning_tr": "elemek",
+      "meaning_en": "to check or filter",
+      "meaning_uk": "перевіряти",
+      "meaning_es": "examinar"
+    },
+    {
+      "term": "a prospective employer",
+      "type": "Noun",
+      "example": "I am researching my *** before the meeting.",
+      "meaning_tr": "potansiyel işveren",
+      "meaning_en": "a potential company to work for",
+      "meaning_uk": "потенційний роботодавець",
+      "meaning_es": "un posible empleador"
+    },
+    {
+      "term": "a probationary period",
+      "type": "Noun",
+      "example": "During my ***, I have to prove my technical skills.",
+      "meaning_tr": "deneme süresi",
+      "meaning_en": "a trial phase in a new job",
+      "meaning_uk": "випробувальний термін",
+      "meaning_es": "un período de prueba"
+    },
+    {
+      "term": "a job description",
+      "type": "Noun",
+      "example": "I need to rewrite the *** for the new marketing position.",
+      "meaning_tr": "iş tanımı",
+      "meaning_en": "the list of tasks for a job",
+      "meaning_uk": "опис вакансії",
+      "meaning_es": "una descripción del trabajo"
+    },
+    {
+      "term": "to negotiate",
+      "type": "Verb",
+      "example": "We need to *** the salary increase before next month.",
+      "meaning_tr": "pazarlık etmek",
+      "meaning_en": "to bargain for better terms",
+      "meaning_uk": "узгоджувати",
+      "meaning_es": "negociar"
+    },
+    {
+      "term": "a skill set",
+      "type": "Noun",
+      "example": "Does your current *** meet the job requirements?",
+      "meaning_tr": "beceri seti",
+      "meaning_en": "a collection of professional skills",
+      "meaning_uk": "набір навичок",
+      "meaning_es": "un conjunto de habilidades"
+    },
+    {
+      "term": "a background check",
+      "type": "Noun",
+      "example": "The company performs a *** as part of the hiring protocol.",
+      "meaning_tr": "geçmiş araştırması",
+      "meaning_en": "a verification of a person's history",
+      "meaning_uk": "перевірка даних",
+      "meaning_es": "una verificación de antecedentes"
+    },
+    {
+      "term": "a career path",
+      "type": "Noun",
+      "example": "I am still deciding on my long-term ***.",
+      "meaning_tr": "kariyer yolu",
+      "meaning_en": "the sequence of jobs in a career",
+      "meaning_uk": "кар'єрний шлях",
+      "meaning_es": "una trayectoria profesional"
+    },
+    {
+      "term": "to network",
+      "type": "Verb",
+      "example": "You should try to *** with people in your target industry.",
+      "meaning_tr": "ağ kurmak",
+      "meaning_en": "to build professional relationships",
+      "meaning_uk": "налагоджувати зв'язки",
+      "meaning_es": "hacer contactos"
+    },
+    {
+      "term": "an internship",
+      "type": "Noun",
+      "example": "She is doing a summer *** at a top law firm.",
+      "meaning_tr": "staj",
+      "meaning_en": "on-the-job training for students",
+      "meaning_uk": "стажування",
+      "meaning_es": "una pasantía"
+    },
+    {
+      "term": "to outsource",
+      "type": "Verb",
+      "example": "They decided to *** the accounting department to save money.",
+      "meaning_tr": "dış kaynak kullanmak",
+      "meaning_en": "to contract work to an outside company",
+      "meaning_uk": "аутсорсити",
+      "meaning_es": "subcontratar"
+    },
+    {
+      "term": "a relocation package",
+      "type": "Noun",
+      "example": "The *** includes temporary housing for the first month.",
+      "meaning_tr": "taşınma yardımı",
+      "meaning_en": "support for moving to a new city for work",
+      "meaning_uk": "допомога при переїзді",
+      "meaning_es": "un paquete de reubicación"
+    },
+    {
+      "term": "a lateral move",
+      "type": "Noun",
+      "example": "Sometimes a *** is better for learning than a quick promotion.",
+      "meaning_tr": "yatay geçiş",
+      "meaning_en": "a move to a similar level job",
+      "meaning_uk": "горизонтальне переміщення",
+      "meaning_es": "un movimiento lateral"
+    },
+    {
+      "term": "a promotion",
+      "type": "Noun",
+      "example": "He was thrilled to earn a *** to project manager.",
+      "meaning_tr": "terfi",
+      "meaning_en": "moving up in rank",
+      "meaning_uk": "підвищення",
+      "meaning_es": "un ascenso"
+    },
+    {
+      "term": "a redundancy",
+      "type": "Noun",
+      "example": "The factory closure led to widespread ***.",
+      "meaning_tr": "işten çıkarma",
+      "meaning_en": "the state of being no longer employed",
+      "meaning_uk": "звільнення через скорочення",
+      "meaning_es": "un despido"
+    },
+    {
+      "term": "to resign",
+      "type": "Verb",
+      "example": "He felt forced to *** due to poor management.",
+      "meaning_tr": "istifa etmek",
+      "meaning_en": "to leave a job voluntarily",
+      "meaning_uk": "звільнитися",
+      "meaning_es": "dimitir"
+    },
+    {
+      "term": "a severance pay",
+      "type": "Noun",
+      "example": "The contract includes a clause for *** in case of termination.",
+      "meaning_tr": "kıdem tazminatı",
+      "meaning_en": "compensation after job loss",
+      "meaning_uk": "вихідна допомога",
+      "meaning_es": "una indemnización"
+    },
+    {
+      "term": "an incentive",
+      "type": "Noun",
+      "example": "The bonus is a great *** for meeting sales targets.",
+      "meaning_tr": "teşvik",
+      "meaning_en": "a motivation to perform well",
+      "meaning_uk": "стимул",
+      "meaning_es": "un incentivo"
+    },
+    {
+      "term": "a corporate culture",
+      "type": "Noun",
+      "example": "Our *** values transparency and collaboration.",
+      "meaning_tr": "kurumsal kültür",
+      "meaning_en": "the social environment of a workplace",
+      "meaning_uk": "корпоративна культура",
+      "meaning_es": "una cultura corporativa"
+    },
+    {
+      "term": "a competency",
+      "type": "Noun",
+      "example": "Communication is a vital *** for every team member.",
+      "meaning_tr": "yetkinlik",
+      "meaning_en": "a specific skill or ability",
+      "meaning_uk": "компетенція",
+      "meaning_es": "una competencia"
+    },
+    {
+      "term": "an appraisal",
+      "type": "Noun",
+      "example": "The manager gave me a positive *** for my work on the project.",
+      "meaning_tr": "performans değerlendirmesi",
+      "meaning_en": "a performance review",
+      "meaning_uk": "оцінка роботи",
+      "meaning_es": "una evaluación"
+    },
+    {
+      "term": "a freelance",
+      "type": "Noun",
+      "example": "She decided to work as a *** to have more flexibility.",
+      "meaning_tr": "serbest meslek",
+      "meaning_en": "a person who works for different companies",
+      "meaning_uk": "фріланс",
+      "meaning_es": "un trabajador autónomo"
+    },
+    {
+      "term": "a payroll",
+      "type": "Noun",
+      "example": "The company added five new employees to the *** this month.",
+      "meaning_tr": "bordro",
+      "meaning_en": "the list of employees to be paid",
+      "meaning_uk": "платіжна відомість",
+      "meaning_es": "una nómina"
+    },
+    {
+      "term": "an onboarding",
+      "type": "Noun",
+      "example": "The *** process helps new hires understand company policy.",
+      "meaning_tr": "işe alıştırma süreci",
+      "meaning_en": "the process of integrating new employees",
+      "meaning_uk": "адаптація нових співробітників",
+      "meaning_es": "una integración"
+    },
+    {
+      "term": "a vacancy",
+      "type": "Noun",
+      "example": "They have a *** in the accounting department.",
+      "meaning_tr": "açık pozisyon",
+      "meaning_en": "a job opening",
+      "meaning_uk": "вакансія",
+      "meaning_es": "una vacante"
+    },
+    {
+      "term": "a headhunter",
+      "type": "Noun",
+      "example": "The *** reached out to me regarding a CEO position.",
+      "meaning_tr": "yönetici avcısı",
+      "meaning_en": "an executive recruiter",
+      "meaning_uk": "рекрутер",
+      "meaning_es": "un cazatalentos"
+    },
+    {
+      "term": "a remuneration",
+      "type": "Noun",
+      "example": "The total *** includes stock options.",
+      "meaning_tr": "ücret",
+      "meaning_en": "total compensation",
+      "meaning_uk": "винагорода",
+      "meaning_es": "una remuneración"
+    },
+    {
+      "term": "to screen",
+      "type": "Verb",
+      "example": "We need to *** the applicants before scheduling interviews.",
+      "meaning_tr": "elemek",
+      "meaning_en": "to filter applications",
+      "meaning_uk": "відбирати",
+      "meaning_es": "filtrar"
+    }
+  ]
+}

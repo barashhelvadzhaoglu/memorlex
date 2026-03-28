@@ -1,0 +1,411 @@
+{
+  "title": "Internet y Redes Sociales (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el algoritmo",
+      "type": "Noun",
+      "example": "*** determina qué contenido vemos en nuestro muro.",
+      "meaning_tr": "algoritmo",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "conjunto de reglas para resolver un problema"
+    },
+    {
+      "term": "la ciberseguridad",
+      "type": "Noun",
+      "example": "Debemos mejorar *** de nuestra empresa.",
+      "meaning_tr": "siber güvenlik",
+      "meaning_en": "cybersecurity",
+      "meaning_uk": "кібербезпека",
+      "meaning_es": "protección de la información en redes"
+    },
+    {
+      "term": "viralizar",
+      "type": "Verb",
+      "example": "El video empezó a *** rápidamente en Twitter.",
+      "meaning_tr": "viral yapmak",
+      "meaning_en": "to go viral",
+      "meaning_uk": "робити вірусним",
+      "meaning_es": "hacer que algo se difunda masivamente"
+    },
+    {
+      "term": "el enlace",
+      "type": "Noun",
+      "example": "Haz clic en *** para ver el artículo completo.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "link",
+      "meaning_uk": "посилання",
+      "meaning_es": "conexión entre dos sitios web"
+    },
+    {
+      "term": "la privacidad",
+      "type": "Noun",
+      "example": "Es importante configurar los ajustes de ***.",
+      "meaning_tr": "gizlilik",
+      "meaning_en": "privacy",
+      "meaning_uk": "конфіденційність",
+      "meaning_es": "derecho a mantener información personal reservada"
+    },
+    {
+      "term": "el seguidor",
+      "type": "Noun",
+      "example": "Tiene más de un millón de *** en Instagram.",
+      "meaning_tr": "takipçi",
+      "meaning_en": "follower",
+      "meaning_uk": "підписник",
+      "meaning_es": "persona que sigue a otra en una red social"
+    },
+    {
+      "term": "la brecha digital",
+      "type": "Noun",
+      "example": "*** impide que muchas personas accedan a la tecnología.",
+      "meaning_tr": "dijital uçurum",
+      "meaning_en": "digital divide",
+      "meaning_uk": "цифровий розрив",
+      "meaning_es": "desigualdad en el acceso a las TIC"
+    },
+    {
+      "term": "interactuar",
+      "type": "Verb",
+      "example": "Es fundamental *** con la comunidad de usuarios.",
+      "meaning_tr": "etkileşime geçmek",
+      "meaning_en": "to interact",
+      "meaning_uk": "взаємодіяти",
+      "meaning_es": "actuar recíprocamente"
+    },
+    {
+      "term": "el ciberacoso",
+      "type": "Noun",
+      "example": "*** es un problema grave entre adolescentes.",
+      "meaning_tr": "siber zorbalık",
+      "meaning_en": "cyberbullying",
+      "meaning_uk": "кібербулінг",
+      "meaning_es": "acoso a través de medios digitales"
+    },
+    {
+      "term": "la nube",
+      "type": "Noun",
+      "example": "He subido todos mis archivos a ***.",
+      "meaning_tr": "bulut",
+      "meaning_en": "the cloud",
+      "meaning_uk": "хмара",
+      "meaning_es": "almacenamiento de datos en servidores remotos"
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "example": "Cada *** debe tener una contraseña segura.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que utiliza un servicio"
+    },
+    {
+      "term": "la desinformación",
+      "type": "Noun",
+      "example": "Hay mucha *** circulando sobre este tema.",
+      "meaning_tr": "dezenformasyon",
+      "meaning_en": "misinformation",
+      "meaning_uk": "дезінформація",
+      "meaning_es": "noticias falsas o engañosas"
+    },
+    {
+      "term": "actualizar",
+      "type": "Verb",
+      "example": "Debes *** el sistema operativo de tu móvil.",
+      "meaning_tr": "güncellemek",
+      "meaning_en": "to update",
+      "meaning_uk": "оновлювати",
+      "meaning_es": "poner al día un programa o software"
+    },
+    {
+      "term": "la tendencia",
+      "type": "Noun",
+      "example": "Este hashtag es *** en todo el país.",
+      "meaning_tr": "trend / eğilim",
+      "meaning_en": "trend",
+      "meaning_uk": "тренд",
+      "meaning_es": "tema más comentado en un momento dado"
+    },
+    {
+      "term": "la contraseña",
+      "type": "Noun",
+      "example": "No compartas tu *** con nadie.",
+      "meaning_tr": "şifre",
+      "meaning_en": "password",
+      "meaning_uk": "пароль",
+      "meaning_es": "clave secreta de acceso"
+    },
+    {
+      "term": "navegar",
+      "type": "Verb",
+      "example": "Prefiero *** por internet desde mi tableta.",
+      "meaning_tr": "gezinti yapmak",
+      "meaning_en": "to browse",
+      "meaning_uk": "переглядати",
+      "meaning_es": "desplazarse por sitios web"
+    },
+    {
+      "term": "la comunidad virtual",
+      "type": "Noun",
+      "example": "*** ofrece apoyo a personas con intereses similares.",
+      "meaning_tr": "sanal topluluk",
+      "meaning_en": "virtual community",
+      "meaning_uk": "віртуальна спільнота",
+      "meaning_es": "grupo de personas en red"
+    },
+    {
+      "term": "el ancho de banda",
+      "type": "Noun",
+      "example": "Necesito más *** para ver videos en 4K.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "bandwidth",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "capacidad de transmisión de datos"
+    },
+    {
+      "term": "difundir",
+      "type": "Verb",
+      "example": "Es importante no *** noticias sin verificar.",
+      "meaning_tr": "yaymak",
+      "meaning_en": "to spread",
+      "meaning_uk": "поширювати",
+      "meaning_es": "propagar información"
+    },
+    {
+      "term": "la huella digital",
+      "type": "Noun",
+      "example": "Todo lo que haces deja una *** imborrable.",
+      "meaning_tr": "dijital ayak izi",
+      "meaning_en": "digital footprint",
+      "meaning_uk": "цифровий слід",
+      "meaning_es": "rastro de actividad en internet"
+    },
+    {
+      "term": "la red social",
+      "type": "Noun",
+      "example": "Paso demasiado tiempo en ***.",
+      "meaning_tr": "sosyal ağ",
+      "meaning_en": "social network",
+      "meaning_uk": "соціальна мережа",
+      "meaning_es": "plataforma de interacción social"
+    },
+    {
+      "term": "el servidor",
+      "type": "Noun",
+      "example": "*** se cayó debido a la alta demanda.",
+      "meaning_tr": "sunucu",
+      "meaning_en": "server",
+      "meaning_uk": "сервер",
+      "meaning_es": "ordenador central de una red"
+    },
+    {
+      "term": "adjuntar",
+      "type": "Verb",
+      "example": "No olvides *** el archivo al correo electrónico.",
+      "meaning_tr": "eklemek",
+      "meaning_en": "to attach",
+      "meaning_uk": "прикріплювати",
+      "meaning_es": "incluir un documento en un mensaje"
+    },
+    {
+      "term": "el perfil",
+      "type": "Noun",
+      "example": "He cambiado mi foto de *** recientemente.",
+      "meaning_tr": "profil",
+      "meaning_en": "profile",
+      "meaning_uk": "профіль",
+      "meaning_es": "información pública de un usuario"
+    },
+    {
+      "term": "la suscripción",
+      "type": "Noun",
+      "example": "Cancelé mi *** a la plataforma de streaming.",
+      "meaning_tr": "abonelik",
+      "meaning_en": "subscription",
+      "meaning_uk": "підписка",
+      "meaning_es": "pago periódico por un servicio"
+    },
+    {
+      "term": "bloquear",
+      "type": "Verb",
+      "example": "He decidido *** a ese usuario molesto.",
+      "meaning_tr": "engellemek",
+      "meaning_en": "to block",
+      "meaning_uk": "блокувати",
+      "meaning_es": "impedir el acceso o la comunicación"
+    },
+    {
+      "term": "la cookie",
+      "type": "Noun",
+      "example": "Acepta *** para mejorar tu experiencia.",
+      "meaning_tr": "çerez",
+      "meaning_en": "cookie",
+      "meaning_uk": "файл cookie",
+      "meaning_es": "archivo de datos de navegación"
+    },
+    {
+      "term": "el ancho",
+      "type": "Adjective",
+      "example": "El diseño de la web es muy ***.",
+      "meaning_tr": "geniş",
+      "meaning_en": "wide",
+      "meaning_uk": "широкий",
+      "meaning_es": "que tiene mucha anchura"
+    },
+    {
+      "term": "inalámbrico",
+      "type": "Adjective",
+      "example": "Tengo un teclado *** en mi escritorio.",
+      "meaning_tr": "kablosuz",
+      "meaning_en": "wireless",
+      "meaning_uk": "бездротовий",
+      "meaning_es": "sin cables"
+    },
+    {
+      "term": "interconectado",
+      "type": "Adjective",
+      "example": "Vivimos en un mundo totalmente ***.",
+      "meaning_tr": "birbirine bağlı",
+      "meaning_en": "interconnected",
+      "meaning_uk": "взаємопов'язаний",
+      "meaning_es": "conectado entre sí"
+    },
+    {
+      "term": "virtual",
+      "type": "Adjective",
+      "example": "Asistí a una reunión *** esta mañana.",
+      "meaning_tr": "sanal",
+      "meaning_en": "virtual",
+      "meaning_uk": "віртуальний",
+      "meaning_es": "que existe en el mundo digital"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "example": "La transformación *** es necesaria hoy día.",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "relativo a los medios tecnológicos"
+    },
+    {
+      "term": "online",
+      "type": "Adjective",
+      "example": "He comprado el billete de forma ***.",
+      "meaning_tr": "çevrimiçi",
+      "meaning_en": "online",
+      "meaning_uk": "онлайн",
+      "meaning_es": "conectado a la red"
+    },
+    {
+      "term": "offline",
+      "type": "Adjective",
+      "example": "Prefiero trabajar *** para evitar distracciones.",
+      "meaning_tr": "çevrimdışı",
+      "meaning_en": "offline",
+      "meaning_uk": "офлайн",
+      "meaning_es": "desconectado de la red"
+    },
+    {
+      "term": "accesible",
+      "type": "Adjective",
+      "example": "La información es *** desde cualquier dispositivo.",
+      "meaning_tr": "erişilebilir",
+      "meaning_en": "accessible",
+      "meaning_uk": "доступний",
+      "meaning_es": "que puede ser alcanzado o usado"
+    },
+    {
+      "term": "instantáneo",
+      "type": "Adjective",
+      "example": "La mensajería *** cambió nuestra comunicación.",
+      "meaning_tr": "anlık",
+      "meaning_en": "instant",
+      "meaning_uk": "миттєвий",
+      "meaning_es": "que ocurre en el momento"
+    },
+    {
+      "term": "mediante",
+      "type": "Preposition",
+      "example": "Conectamos los dispositivos *** Wi-Fi.",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "por medio de"
+    },
+    {
+      "term": "tras",
+      "type": "Preposition",
+      "example": "Hubo una caída del sistema *** el ataque.",
+      "meaning_tr": "sonra",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "después de"
+    },
+    {
+      "term": "constantemente",
+      "type": "Adverb",
+      "example": "Reviso mis notificaciones ***.",
+      "meaning_tr": "sürekli",
+      "meaning_en": "constantly",
+      "meaning_uk": "постійно",
+      "meaning_es": "de forma continua"
+    },
+    {
+      "term": "virtualmente",
+      "type": "Adverb",
+      "example": "El evento se celebró ***.",
+      "meaning_tr": "sanal olarak",
+      "meaning_en": "virtually",
+      "meaning_uk": "віртуально",
+      "meaning_es": "de manera virtual"
+    },
+    {
+      "term": "globalmente",
+      "type": "Adverb",
+      "example": "La red está conectada ***.",
+      "meaning_tr": "küresel olarak",
+      "meaning_en": "globally",
+      "meaning_uk": "глобально",
+      "meaning_es": "a nivel mundial"
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "example": "Uso el portátil *** la tableta para trabajar.",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "conjunción copulativa"
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "example": "Me gusta la red, *** a veces es adictiva.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "o",
+      "type": "Conjunction",
+      "example": "¿Prefieres conectarte por cable *** por Wi-Fi?",
+      "meaning_tr": "veya",
+      "meaning_en": "or",
+      "meaning_uk": "або",
+      "meaning_es": "conjunción disyuntiva"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "La conexión es rápida, *** es muy cara.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    }
+  ]
+}

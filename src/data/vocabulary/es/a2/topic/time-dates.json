@@ -1,0 +1,231 @@
+{
+  "title": "Tiempo y Fechas (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el lunes",
+      "type": "Noun",
+      "example": "*** es mi día favorito para trabajar.",
+      "meaning_tr": "pazartesi",
+      "meaning_en": "Monday",
+      "meaning_uk": "понеділок",
+      "meaning_es": "el primer día de la semana laboral"
+    },
+    {
+      "term": "el mes",
+      "type": "Noun",
+      "example": "Febrero es *** más corto del año.",
+      "meaning_tr": "ay",
+      "meaning_en": "month",
+      "meaning_uk": "місяць",
+      "meaning_es": "periodo de tiempo de 28 a 31 días"
+    },
+    {
+      "term": "el año",
+      "type": "Noun",
+      "example": "Feliz *** nuevo a todos.",
+      "meaning_tr": "yıl",
+      "meaning_en": "year",
+      "meaning_uk": "рік",
+      "meaning_es": "periodo de doce meses"
+    },
+    {
+      "term": "la semana",
+      "type": "Noun",
+      "example": "La próxima *** voy a viajar a España.",
+      "meaning_tr": "hafta",
+      "meaning_en": "week",
+      "meaning_uk": "тиждень",
+      "meaning_es": "periodo de siete días"
+    },
+    {
+      "term": "la mañana",
+      "type": "Noun",
+      "example": "Por *** me gusta beber café.",
+      "meaning_tr": "sabah",
+      "meaning_en": "morning",
+      "meaning_uk": "ранок",
+      "meaning_es": "parte del día entre el amanecer y el mediodía"
+    },
+    {
+      "term": "la tarde",
+      "type": "Noun",
+      "example": "Vamos al cine por ***.",
+      "meaning_tr": "öğleden sonra",
+      "meaning_en": "afternoon",
+      "meaning_uk": "день / вечір",
+      "meaning_es": "parte del día entre el mediodía y la noche"
+    },
+    {
+      "term": "la noche",
+      "type": "Noun",
+      "example": "Buenas ***, hasta mañana.",
+      "meaning_tr": "gece",
+      "meaning_en": "night",
+      "meaning_uk": "ніч",
+      "meaning_es": "tiempo entre el atardecer y el amanecer"
+    },
+    {
+      "term": "la hora",
+      "type": "Noun",
+      "example": "¿Qué *** es en este momento?",
+      "meaning_tr": "saat",
+      "meaning_en": "time / hour",
+      "meaning_uk": "година",
+      "meaning_es": "unidad de tiempo que equivale a sesenta minutos"
+    },
+    {
+      "term": "el minuto",
+      "type": "Noun",
+      "example": "Espero un ***, por favor.",
+      "meaning_tr": "dakika",
+      "meaning_en": "minute",
+      "meaning_uk": "хвилина",
+      "meaning_es": "unidad de tiempo de sesenta segundos"
+    },
+    {
+      "term": "el segundo",
+      "type": "Noun",
+      "example": "Solo tardó un *** en responder.",
+      "meaning_tr": "saniye",
+      "meaning_en": "second",
+      "meaning_uk": "секунда",
+      "meaning_es": "unidad básica de tiempo"
+    },
+    {
+      "term": "el fin de semana",
+      "type": "Noun",
+      "example": "Me gusta descansar durante ***.",
+      "meaning_tr": "hafta sonu",
+      "meaning_en": "weekend",
+      "meaning_uk": "вихідні",
+      "meaning_es": "sábado y domingo"
+    },
+    {
+      "term": "la fecha",
+      "type": "Noun",
+      "example": "¿Cuál es la *** de hoy?",
+      "meaning_tr": "tarih",
+      "meaning_en": "date",
+      "meaning_uk": "дата",
+      "meaning_es": "indicación del día, mes y año"
+    },
+    {
+      "term": "el cumpleaños",
+      "type": "Noun",
+      "example": "Hoy es mi ***, ¡estoy muy feliz!",
+      "meaning_tr": "doğum günü",
+      "meaning_en": "birthday",
+      "meaning_uk": "день народження",
+      "meaning_es": "aniversario del nacimiento de una persona"
+    },
+    {
+      "term": "la estación",
+      "type": "Noun",
+      "example": "El verano es mi *** preferida.",
+      "meaning_tr": "mevsim",
+      "meaning_en": "season",
+      "meaning_uk": "сезон / пора року",
+      "meaning_es": "cada una de las cuatro partes del año"
+    },
+    {
+      "term": "el ayer",
+      "type": "Noun",
+      "example": "*** fue un día muy ocupado.",
+      "meaning_tr": "dün",
+      "meaning_en": "yesterday",
+      "meaning_uk": "вчора",
+      "meaning_es": "el día anterior a hoy"
+    },
+    {
+      "term": "empezar",
+      "type": "Verb",
+      "example": "Las clases van a *** a las ocho.",
+      "meaning_tr": "başlamak",
+      "meaning_en": "to start",
+      "meaning_uk": "починати",
+      "meaning_es": "dar principio a algo"
+    },
+    {
+      "term": "terminar",
+      "type": "Verb",
+      "example": "Debo *** mi tarea antes de dormir.",
+      "meaning_tr": "bitirmek",
+      "meaning_en": "to finish",
+      "meaning_uk": "закінчувати",
+      "meaning_es": "poner fin a algo"
+    },
+    {
+      "term": "tardar",
+      "type": "Verb",
+      "example": "Voy a *** diez minutos en llegar.",
+      "meaning_tr": "vakit almak / gecikmek",
+      "meaning_en": "to take time",
+      "meaning_uk": "витрачати час",
+      "meaning_es": "emplear un tiempo en hacer algo"
+    },
+    {
+      "term": "temprano",
+      "type": "Adverb",
+      "example": "Mañana me levanto muy ***.",
+      "meaning_tr": "erken",
+      "meaning_en": "early",
+      "meaning_uk": "рано",
+      "meaning_es": "antes del tiempo habitual"
+    },
+    {
+      "term": "tarde",
+      "type": "Adverb",
+      "example": "Lo siento, llegué muy ***.",
+      "meaning_tr": "geç",
+      "meaning_en": "late",
+      "meaning_uk": "пізно",
+      "meaning_es": "después del tiempo habitual"
+    },
+    {
+      "term": "siempre",
+      "type": "Adverb",
+      "example": "Ella *** desayuna a las siete.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "en todo momento"
+    },
+    {
+      "term": "nunca",
+      "type": "Adverb",
+      "example": "Yo *** llego tarde a clase.",
+      "meaning_tr": "asla",
+      "meaning_en": "never",
+      "meaning_uk": "ніколи",
+      "meaning_es": "en ningún momento"
+    },
+    {
+      "term": "pronto",
+      "type": "Adverb",
+      "example": "Espero verte muy ***.",
+      "meaning_tr": "yakında",
+      "meaning_en": "soon",
+      "meaning_uk": "скоро",
+      "meaning_es": "en poco tiempo"
+    },
+    {
+      "term": "después de",
+      "type": "Preposition",
+      "example": "*** comer, me gusta caminar.",
+      "meaning_tr": "-den sonra",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "con posterioridad a algo"
+    },
+    {
+      "term": "antes de",
+      "type": "Preposition",
+      "example": "*** salir, cierra la ventana.",
+      "meaning_tr": "-den önce",
+      "meaning_en": "before",
+      "meaning_uk": "перед",
+      "meaning_es": "con anterioridad a algo"
+    }
+  ]
+}

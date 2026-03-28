@@ -1,0 +1,411 @@
+{
+  "title": "Etica e IA (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el sesgo",
+      "type": "Noun",
+      "example": "Es fundamental eliminar *** de los algoritmos para evitar la discriminación.",
+      "meaning_tr": "önyargı",
+      "meaning_en": "bias",
+      "meaning_uk": "упередження",
+      "meaning_es": "inclinación o prejuicio hacia algo o alguien"
+    },
+    {
+      "term": "la transparencia",
+      "type": "Noun",
+      "example": "La *** en el desarrollo de la IA es esencial para generar confianza.",
+      "meaning_tr": "şeffaflık",
+      "meaning_en": "transparency",
+      "meaning_uk": "прозорість",
+      "meaning_es": "cualidad de ser claro y transparente"
+    },
+    {
+      "term": "la privacidad",
+      "type": "Noun",
+      "example": "Debemos proteger la *** de los datos personales de los usuarios.",
+      "meaning_tr": "gizlilik",
+      "meaning_en": "privacy",
+      "meaning_uk": "конфіденційність",
+      "meaning_es": "derecho a la intimidad personal"
+    },
+    {
+      "term": "la responsabilidad",
+      "type": "Noun",
+      "example": "Las empresas tienen la *** de supervisar sus sistemas inteligentes.",
+      "meaning_tr": "sorumluluk",
+      "meaning_en": "responsibility",
+      "meaning_uk": "відповідальність",
+      "meaning_es": "capacidad para reconocer y aceptar las consecuencias de un hecho"
+    },
+    {
+      "term": "la equidad",
+      "type": "Noun",
+      "example": "Promover la *** significa tratar a todos los grupos de manera justa.",
+      "meaning_tr": "hakkaniyet",
+      "meaning_en": "equity",
+      "meaning_uk": "справедливість",
+      "meaning_es": "justicia en la distribución de beneficios y cargas"
+    },
+    {
+      "term": "la supervisión",
+      "type": "Noun",
+      "example": "La *** humana es necesaria para corregir errores del sistema.",
+      "meaning_tr": "denetim",
+      "meaning_en": "supervision",
+      "meaning_uk": "нагляд",
+      "meaning_es": "acción de vigilar y dirigir una actividad"
+    },
+    {
+      "term": "algorítmico",
+      "type": "Adjective",
+      "example": "El pensamiento *** ayuda a resolver problemas complejos de forma lógica.",
+      "meaning_tr": "algoritmik",
+      "meaning_en": "algorithmic",
+      "meaning_uk": "алгоритмічний",
+      "meaning_es": "relativo a los algoritmos"
+    },
+    {
+      "term": "automatizar",
+      "type": "Verb",
+      "example": "Muchas tareas repetitivas se pueden *** mediante el uso de IA.",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to automate",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "hacer que un proceso funcione de forma automática"
+    },
+    {
+      "term": "la vulnerabilidad",
+      "type": "Noun",
+      "example": "El software presenta una *** que podría comprometer los datos.",
+      "meaning_tr": "savunmasızlık",
+      "meaning_en": "vulnerability",
+      "meaning_uk": "вразливість",
+      "meaning_es": "posibilidad de ser dañado o atacado"
+    },
+    {
+      "term": "la suplantación",
+      "type": "Noun",
+      "example": "La *** de identidad es un riesgo grave en la era digital.",
+      "meaning_tr": "kimlik hırsızlığı",
+      "meaning_en": "impersonation",
+      "meaning_uk": "видача себе за іншу особу",
+      "meaning_es": "acción de hacerse pasar por otra persona"
+    },
+    {
+      "term": "la integridad",
+      "type": "Noun",
+      "example": "Debemos asegurar la *** de los datos durante todo el proceso.",
+      "meaning_tr": "bütünlük",
+      "meaning_en": "integrity",
+      "meaning_uk": "цілісність",
+      "meaning_es": "cualidad de ser íntegro y sin errores"
+    },
+    {
+      "term": "el dilema",
+      "type": "Noun",
+      "example": "Nos enfrentamos a un *** ético sobre el uso de armas autónomas.",
+      "meaning_tr": "ikilem",
+      "meaning_en": "dilemma",
+      "meaning_uk": "дилема",
+      "meaning_es": "situación difícil en la que hay que elegir entre dos opciones"
+    },
+    {
+      "term": "la desinformación",
+      "type": "Noun",
+      "example": "La IA puede facilitar la propagación de la *** en redes sociales.",
+      "meaning_tr": "dezenformasyon",
+      "meaning_en": "misinformation",
+      "meaning_uk": "дезінформація",
+      "meaning_es": "información falsa que se difunde para engañar"
+    },
+    {
+      "term": "la ciberseguridad",
+      "type": "Noun",
+      "example": "Invertir en *** es vital para prevenir ataques informáticos.",
+      "meaning_tr": "siber güvenlik",
+      "meaning_en": "cybersecurity",
+      "meaning_uk": "кібербезпека",
+      "meaning_es": "protección de sistemas conectados a internet"
+    },
+    {
+      "term": "la trazabilidad",
+      "type": "Noun",
+      "example": "La *** permite rastrear el origen de las decisiones de la IA.",
+      "meaning_tr": "izlenebilirlik",
+      "meaning_en": "traceability",
+      "meaning_uk": "простежуваність",
+      "meaning_es": "capacidad de seguir el rastro de algo"
+    },
+    {
+      "term": "sesgado",
+      "type": "Adjective",
+      "example": "Un algoritmo *** puede causar injusticias sociales.",
+      "meaning_tr": "taraflı",
+      "meaning_en": "biased",
+      "meaning_uk": "упереджений",
+      "meaning_es": "que tiene un sesgo o inclinación"
+    },
+    {
+      "term": "manipular",
+      "type": "Verb",
+      "example": "Es peligroso *** la opinión pública usando bots sofisticados.",
+      "meaning_tr": "manipüle etmek",
+      "meaning_en": "to manipulate",
+      "meaning_uk": "маніпулювати",
+      "meaning_es": "influir de forma desleal en alguien o algo"
+    },
+    {
+      "term": "la regulación",
+      "type": "Noun",
+      "example": "Se requiere una *** clara para el desarrollo responsable de la IA.",
+      "meaning_tr": "düzenleme",
+      "meaning_en": "regulation",
+      "meaning_uk": "регулювання",
+      "meaning_es": "conjunto de normas o leyes"
+    },
+    {
+      "term": "el impacto",
+      "type": "Noun",
+      "example": "Debemos evaluar el *** social de las nuevas tecnologías.",
+      "meaning_tr": "etki",
+      "meaning_en": "impact",
+      "meaning_uk": "вплив",
+      "meaning_es": "efecto o huella de algo"
+    },
+    {
+      "term": "la discriminación",
+      "type": "Noun",
+      "example": "La tecnología no debe ser un medio para la *** de minorías.",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "discrimination",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "trato desigual hacia una persona o grupo"
+    },
+    {
+      "term": "fomentar",
+      "type": "Verb",
+      "example": "Debemos *** el uso ético de la inteligencia artificial.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to foster",
+      "meaning_uk": "сприяти",
+      "meaning_es": "promover algo"
+    },
+    {
+      "term": "la autonomía",
+      "type": "Noun",
+      "example": "El nivel de *** de los robots debe estar limitado por la ley.",
+      "meaning_tr": "özerklik",
+      "meaning_en": "autonomy",
+      "meaning_uk": "автономність",
+      "meaning_es": "capacidad de actuar por cuenta propia"
+    },
+    {
+      "term": "la opacidad",
+      "type": "Noun",
+      "example": "La *** de algunos algoritmos impide entender cómo toman decisiones.",
+      "meaning_tr": "kapalılık",
+      "meaning_en": "opacity",
+      "meaning_uk": "непрозорість",
+      "meaning_es": "falta de claridad o transparencia"
+    },
+    {
+      "term": "el desarrollo",
+      "type": "Noun",
+      "example": "El *** sostenible de la IA es un objetivo global.",
+      "meaning_tr": "geliştirme",
+      "meaning_en": "development",
+      "meaning_uk": "розвиток",
+      "meaning_es": "proceso de crecimiento o mejora"
+    },
+    {
+      "term": "la innovación",
+      "type": "Noun",
+      "example": "La *** debe ir siempre acompañada de principios éticos.",
+      "meaning_tr": "inovasyon",
+      "meaning_en": "innovation",
+      "meaning_uk": "інновація",
+      "meaning_es": "introducción de novedades"
+    },
+    {
+      "term": "la ética",
+      "type": "Noun",
+      "example": "La *** es fundamental en la programación de sistemas inteligentes.",
+      "meaning_tr": "etik",
+      "meaning_en": "ethics",
+      "meaning_uk": "етика",
+      "meaning_es": "conjunto de valores morales"
+    },
+    {
+      "term": "implementar",
+      "type": "Verb",
+      "example": "Vamos a *** nuevos protocolos de seguridad en la empresa.",
+      "meaning_tr": "uygulamak",
+      "meaning_en": "to implement",
+      "meaning_uk": "впроваджувати",
+      "meaning_es": "poner en marcha o ejecutar"
+    },
+    {
+      "term": "la mitigación",
+      "type": "Noun",
+      "example": "Debemos trabajar en la *** de riesgos asociados a la IA.",
+      "meaning_tr": "hafifletme",
+      "meaning_en": "mitigation",
+      "meaning_uk": "пом'якшення",
+      "meaning_es": "acción de reducir la severidad de algo"
+    },
+    {
+      "term": "la seguridad",
+      "type": "Noun",
+      "example": "Garantizar la *** de los datos es nuestra prioridad absoluta.",
+      "meaning_tr": "güvenlik",
+      "meaning_en": "security",
+      "meaning_uk": "безпека",
+      "meaning_es": "ausencia de riesgo o peligro"
+    },
+    {
+      "term": "la suposición",
+      "type": "Noun",
+      "example": "No debemos basar decisiones importantes en una *** errónea.",
+      "meaning_tr": "varsayım",
+      "meaning_en": "assumption",
+      "meaning_uk": "припущення",
+      "meaning_es": "idea que se acepta sin pruebas"
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "example": "El *** final debe comprender cómo se utilizan sus datos.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que usa un servicio o producto"
+    },
+    {
+      "term": "la fiabilidad",
+      "type": "Noun",
+      "example": "La *** del sistema es crucial para su adopción masiva.",
+      "meaning_tr": "güvenilirlik",
+      "meaning_en": "reliability",
+      "meaning_uk": "надійність",
+      "meaning_es": "cualidad de ser digno de confianza"
+    },
+    {
+      "term": "la amenaza",
+      "type": "Noun",
+      "example": "El uso malintencionado de la IA representa una *** real.",
+      "meaning_tr": "tehdit",
+      "meaning_en": "threat",
+      "meaning_uk": "загроза",
+      "meaning_es": "anuncio o indicio de un posible daño"
+    },
+    {
+      "term": "la gobernanza",
+      "type": "Noun",
+      "example": "Es necesaria una buena *** para gestionar el uso de la tecnología.",
+      "meaning_tr": "yönetişim",
+      "meaning_en": "governance",
+      "meaning_uk": "управління",
+      "meaning_es": "arte o manera de gobernar"
+    },
+    {
+      "term": "la evaluación",
+      "type": "Noun",
+      "example": "Realizaremos una *** exhaustiva antes de lanzar el producto.",
+      "meaning_tr": "değerlendirme",
+      "meaning_en": "evaluation",
+      "meaning_uk": "оцінка",
+      "meaning_es": "acción de estimar o calcular el valor"
+    },
+    {
+      "term": "la conformidad",
+      "type": "Noun",
+      "example": "Las empresas deben mantener la *** con las leyes vigentes.",
+      "meaning_tr": "uyum",
+      "meaning_en": "compliance",
+      "meaning_uk": "відповідність",
+      "meaning_es": "acción de ajustarse a las normas"
+    },
+    {
+      "term": "la vigilancia",
+      "type": "Noun",
+      "example": "El uso de cámaras con IA plantea problemas de *** masiva.",
+      "meaning_tr": "gözetim",
+      "meaning_en": "surveillance",
+      "meaning_uk": "спостереження",
+      "meaning_es": "acción de vigilar estrechamente"
+    },
+    {
+      "term": "la complejidad",
+      "type": "Noun",
+      "example": "La *** de los modelos actuales dificulta su interpretación.",
+      "meaning_tr": "karmaşıklık",
+      "meaning_en": "complexity",
+      "meaning_uk": "складність",
+      "meaning_es": "cualidad de lo que es difícil de entender"
+    },
+    {
+      "term": "la supervisión",
+      "type": "Noun",
+      "example": "Mantener la *** constante es clave para el éxito del proyecto.",
+      "meaning_tr": "denetim",
+      "meaning_en": "supervision",
+      "meaning_uk": "нагляд",
+      "meaning_es": "vigilancia o control"
+    },
+    {
+      "term": "la exclusión",
+      "type": "Noun",
+      "example": "Debemos evitar la *** digital de los sectores más vulnerables.",
+      "meaning_tr": "dışlanma",
+      "meaning_en": "exclusion",
+      "meaning_uk": "виключення",
+      "meaning_es": "acción de dejar fuera a alguien o algo"
+    },
+    {
+      "term": "paradójicamente",
+      "type": "Adverb",
+      "example": "***, más tecnología a veces nos hace sentir más solos.",
+      "meaning_tr": "paradoksal olarak",
+      "meaning_en": "paradoxically",
+      "meaning_uk": "парадоксально",
+      "meaning_es": "de forma contraria a la lógica común"
+    },
+    {
+      "term": "además",
+      "type": "Adverb",
+      "example": "La IA mejora la eficiencia; ***, reduce los costes operativos.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "adicionalmente"
+    },
+    {
+      "term": "sino",
+      "type": "Conjunction",
+      "example": "La IA no es el fin, *** un medio para alcanzar el progreso.",
+      "meaning_tr": "aksine",
+      "meaning_en": "but rather",
+      "meaning_uk": "але",
+      "meaning_es": "indica una contraposición"
+    },
+    {
+      "term": "bajo",
+      "type": "Preposition",
+      "example": "El sistema funciona *** estrictos estándares éticos.",
+      "meaning_tr": "altında",
+      "meaning_en": "under",
+      "meaning_uk": "під",
+      "meaning_es": "indica subordinación o condición"
+    },
+    {
+      "term": "conforme",
+      "type": "Preposition",
+      "example": "*** a la normativa, debemos informar a los usuarios.",
+      "meaning_tr": "uygun olarak",
+      "meaning_en": "in accordance with",
+      "meaning_uk": "відповідно до",
+      "meaning_es": "según o de acuerdo con algo"
+    }
+  ]
+}

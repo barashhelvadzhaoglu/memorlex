@@ -1,0 +1,321 @@
+{
+  "title": "Astronomia y Espacio (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el universo",
+      "type": "Noun",
+      "meaning_tr": "evren",
+      "meaning_en": "universe",
+      "meaning_uk": "всесвіт",
+      "meaning_es": "el conjunto de todo lo que existe",
+      "example": "*** es infinito y sigue expandiéndose cada segundo."
+    },
+    {
+      "term": "la estrella",
+      "type": "Noun",
+      "meaning_tr": "yıldız",
+      "meaning_en": "star",
+      "meaning_uk": "зірка",
+      "meaning_es": "cuerpo celeste que brilla con luz propia",
+      "example": "Anoche vimos una *** muy brillante en el cielo nocturno."
+    },
+    {
+      "term": "el planeta",
+      "type": "Noun",
+      "meaning_tr": "gezegen",
+      "meaning_en": "planet",
+      "meaning_uk": "планета",
+      "meaning_es": "cuerpo celeste que orbita alrededor de una estrella",
+      "example": "Marte es conocido como el *** rojo."
+    },
+    {
+      "term": "la galaxia",
+      "type": "Noun",
+      "meaning_tr": "galaksi",
+      "meaning_en": "galaxy",
+      "meaning_uk": "галактика",
+      "meaning_es": "agrupación masiva de estrellas y gases",
+      "example": "La Vía Láctea es nuestra ***."
+    },
+    {
+      "term": "el telescopio",
+      "type": "Noun",
+      "meaning_tr": "teleskop",
+      "meaning_en": "telescope",
+      "meaning_uk": "телескоп",
+      "meaning_es": "instrumento óptico para ver objetos lejanos",
+      "example": "Usamos un *** para observar los anillos de Saturno."
+    },
+    {
+      "term": "orbitar",
+      "type": "Verb",
+      "meaning_tr": "yörüngede dönmek",
+      "meaning_en": "to orbit",
+      "meaning_uk": "обертатися по орбіті",
+      "meaning_es": "girar alrededor de un cuerpo celeste",
+      "example": "La Luna tarda aproximadamente un mes en *** la Tierra."
+    },
+    {
+      "term": "la gravedad",
+      "type": "Noun",
+      "meaning_tr": "yerçekimi",
+      "meaning_en": "gravity",
+      "meaning_uk": "гравітація",
+      "meaning_es": "fuerza que atrae los cuerpos hacia el centro",
+      "example": "Sin la ***, flotaríamos en el espacio."
+    },
+    {
+      "term": "el astronauta",
+      "type": "Noun",
+      "meaning_tr": "astronot",
+      "meaning_en": "astronaut",
+      "meaning_uk": "астронавт",
+      "meaning_es": "persona que viaja al espacio",
+      "example": "El *** caminó sobre la superficie lunar."
+    },
+    {
+      "term": "el satélite",
+      "type": "Noun",
+      "meaning_tr": "uydu",
+      "meaning_en": "satellite",
+      "meaning_uk": "супутник",
+      "meaning_es": "cuerpo que gira alrededor de un planeta",
+      "example": "La Luna es el único *** natural de la Tierra."
+    },
+    {
+      "term": "el asteroide",
+      "type": "Noun",
+      "meaning_tr": "asteroit",
+      "meaning_en": "asteroid",
+      "meaning_uk": "астероїд",
+      "meaning_es": "cuerpo rocoso menor que orbita al sol",
+      "example": "Un *** pasó cerca de la Tierra ayer."
+    },
+    {
+      "term": "la atmósfera",
+      "type": "Noun",
+      "meaning_tr": "atmosfer",
+      "meaning_en": "atmosphere",
+      "meaning_uk": "атмосфера",
+      "meaning_es": "capa de gases que rodea un cuerpo celeste",
+      "example": "La *** de la Tierra nos protege de la radiación solar."
+    },
+    {
+      "term": "el eclipse",
+      "type": "Noun",
+      "meaning_tr": "tutulma",
+      "meaning_en": "eclipse",
+      "meaning_uk": "затемнення",
+      "meaning_es": "ocultación transitoria de un astro",
+      "example": "Mañana habrá un *** solar total."
+    },
+    {
+      "term": "el cometa",
+      "type": "Noun",
+      "meaning_tr": "kuyruklu yıldız",
+      "meaning_en": "comet",
+      "meaning_uk": "комета",
+      "meaning_es": "cuerpo celeste de hielo y polvo con cola",
+      "example": "Es difícil ver el *** sin un telescopio."
+    },
+    {
+      "term": "aterrizar",
+      "type": "Verb",
+      "meaning_tr": "iniş yapmak",
+      "meaning_en": "to land",
+      "meaning_uk": "приземлятися",
+      "meaning_es": "posarse sobre una superficie",
+      "example": "La nave espacial logró *** con éxito en Marte."
+    },
+    {
+      "term": "espacial",
+      "type": "Adjective",
+      "meaning_tr": "uzay ile ilgili",
+      "meaning_en": "space (adj)",
+      "meaning_uk": "космічний",
+      "meaning_es": "relativo al espacio exterior",
+      "example": "La agencia *** envió una nueva sonda hoy."
+    },
+    {
+      "term": "lunar",
+      "type": "Adjective",
+      "meaning_tr": "ay ile ilgili",
+      "meaning_en": "lunar",
+      "meaning_uk": "місячний",
+      "meaning_es": "relativo a la Luna",
+      "example": "La misión *** fue un gran hito para la humanidad."
+    },
+    {
+      "term": "el vacío",
+      "type": "Noun",
+      "meaning_tr": "boşluk",
+      "meaning_en": "vacuum",
+      "meaning_uk": "вакуум",
+      "meaning_es": "espacio carente de materia",
+      "example": "En el *** del espacio no hay aire para respirar."
+    },
+    {
+      "term": "la sonda",
+      "type": "Noun",
+      "meaning_tr": "sonda",
+      "meaning_en": "space probe",
+      "meaning_uk": "космічний зонд",
+      "meaning_es": "vehículo enviado al espacio para investigar",
+      "example": "La *** envió fotos increíbles de Júpiter."
+    },
+    {
+      "term": "el cohete",
+      "type": "Noun",
+      "meaning_tr": "roket",
+      "meaning_en": "rocket",
+      "meaning_uk": "ракета",
+      "meaning_es": "vehículo propulsado para viajar al espacio",
+      "example": "El *** despegó con mucha fuerza."
+    },
+    {
+      "term": "explorar",
+      "type": "Verb",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "to explore",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "viajar por un lugar para conocerlo",
+      "example": "Queremos *** nuevos rincones del sistema solar."
+    },
+    {
+      "term": "el horizonte",
+      "type": "Noun",
+      "meaning_tr": "ufuk",
+      "meaning_en": "horizon",
+      "meaning_uk": "горизонт",
+      "meaning_es": "línea donde parece unirse el cielo y la tierra",
+      "example": "El sol desapareció por debajo del ***."
+    },
+    {
+      "term": "brillante",
+      "type": "Adjective",
+      "meaning_tr": "parlak",
+      "meaning_en": "bright",
+      "meaning_uk": "яскравий",
+      "meaning_es": "que emite o refleja luz",
+      "example": "Venus es el planeta más *** del cielo."
+    },
+    {
+      "term": "infinito",
+      "type": "Adjective",
+      "meaning_tr": "sonsuz",
+      "meaning_en": "infinite",
+      "meaning_uk": "нескінченний",
+      "meaning_es": "que no tiene fin",
+      "example": "El cosmos parece ser *** para nosotros."
+    },
+    {
+      "term": "la constelación",
+      "type": "Noun",
+      "meaning_tr": "takımyıldız",
+      "meaning_en": "constellation",
+      "meaning_uk": "сузір'я",
+      "meaning_es": "grupo de estrellas que forman una figura",
+      "example": "La Osa Mayor es una *** muy fácil de identificar."
+    },
+    {
+      "term": "el sistema solar",
+      "type": "Noun",
+      "meaning_tr": "güneş sistemi",
+      "meaning_en": "solar system",
+      "meaning_uk": "сонячна система",
+      "meaning_es": "conjunto de planetas que giran alrededor del sol",
+      "example": "Nuestro *** tiene ocho planetas principales."
+    },
+    {
+      "term": "lanzar",
+      "type": "Verb",
+      "meaning_tr": "fırlatmak",
+      "meaning_en": "to launch",
+      "meaning_uk": "запускати",
+      "meaning_es": "enviar algo al espacio",
+      "example": "La NASA decidió *** el satélite el martes."
+    },
+    {
+      "term": "lejano",
+      "type": "Adjective",
+      "meaning_tr": "uzak",
+      "meaning_en": "distant",
+      "meaning_uk": "далекий",
+      "meaning_es": "que está a gran distancia",
+      "example": "Observamos una estrella muy *** con el telescopio."
+    },
+    {
+      "term": "la luz",
+      "type": "Noun",
+      "meaning_tr": "ışık",
+      "meaning_en": "light",
+      "meaning_uk": "світло",
+      "meaning_es": "radiación que permite ver",
+      "example": "La *** de las estrellas tarda años en llegar aquí."
+    },
+    {
+      "term": "el observatorio",
+      "type": "Noun",
+      "meaning_tr": "gözlemevi",
+      "meaning_en": "observatory",
+      "meaning_uk": "обсерваторія",
+      "meaning_es": "lugar equipado para observar el espacio",
+      "example": "Fuimos al *** para ver la lluvia de estrellas."
+    },
+    {
+      "term": "despegar",
+      "type": "Verb",
+      "meaning_tr": "havalanmak",
+      "meaning_en": "to take off",
+      "meaning_uk": "злітати",
+      "meaning_es": "iniciar el vuelo",
+      "example": "El cohete va a *** en menos de diez minutos."
+    },
+    {
+      "term": "el meteorito",
+      "type": "Noun",
+      "meaning_tr": "göktaşı",
+      "meaning_en": "meteorite",
+      "meaning_uk": "метеорит",
+      "meaning_es": "fragmento de cuerpo celeste que cae a la tierra",
+      "example": "Encontraron un *** en el desierto."
+    },
+    {
+      "term": "la órbita",
+      "type": "Noun",
+      "meaning_tr": "yörünge",
+      "meaning_en": "orbit",
+      "meaning_uk": "орбіта",
+      "meaning_es": "trayectoria de un astro",
+      "example": "La Tierra mantiene una *** estable alrededor del sol."
+    },
+    {
+      "term": "además",
+      "type": "Adverb",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "para añadir información",
+      "example": "El espacio es frío; ***, es muy peligroso."
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "contraste de ideas",
+      "example": "Queremos viajar a Marte, *** es un viaje largo."
+    },
+    {
+      "term": "hacia",
+      "type": "Preposition",
+      "meaning_tr": "doğru",
+      "meaning_en": "towards",
+      "meaning_uk": "у напрямку до",
+      "meaning_es": "indicando dirección",
+      "example": "La nave se dirige *** el planeta Júpiter."
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Architektur (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Fassade",
+      "type": "Noun",
+      "meaning_tr": "cephe",
+      "meaning_en": "facade",
+      "meaning_uk": "фасад",
+      "meaning_es": "fachada",
+      "example": "Die moderne *** des Gebäudes ist vollständig verglast."
+    },
+    {
+      "term": "das Fundament",
+      "type": "Noun",
+      "meaning_tr": "temel",
+      "meaning_en": "foundation",
+      "meaning_uk": "фундамент",
+      "meaning_es": "cimiento",
+      "example": "Ohne ein stabiles *** kann das Haus nicht sicher stehen."
+    },
+    {
+      "term": "die Statik",
+      "type": "Noun",
+      "meaning_tr": "statik",
+      "meaning_en": "statics",
+      "meaning_uk": "статика",
+      "meaning_es": "estática",
+      "example": "Der Ingenieur überprüfte die *** der tragenden Wände."
+    },
+    {
+      "term": "denkmalschützt",
+      "type": "Adjective",
+      "meaning_tr": "tarihi eser koruması altında",
+      "meaning_en": "listed/protected as a historical monument",
+      "meaning_uk": "під охороною держави",
+      "meaning_es": "protegido como monumento histórico",
+      "example": "Dieses alte Gebäude steht unter *** und darf nicht umgebaut werden."
+    },
+    {
+      "term": "die Ästhetik",
+      "type": "Noun",
+      "meaning_tr": "estetik",
+      "meaning_en": "aesthetics",
+      "meaning_uk": "естетика",
+      "meaning_es": "estética",
+      "example": "Die *** des Bauwerks überzeugt durch klare geometrische Formen."
+    },
+    {
+      "term": "integrieren",
+      "type": "Verb",
+      "meaning_tr": "entegre etmek",
+      "meaning_en": "to integrate",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "integrar",
+      "example": "Der Architekt versucht, die Solaranlagen harmonisch in das Dach zu ***."
+    },
+    {
+      "term": "die Tragstruktur",
+      "type": "Noun",
+      "meaning_tr": "taşıyıcı yapı",
+      "meaning_en": "load-bearing structure",
+      "meaning_uk": "несуча конструкція",
+      "meaning_es": "estructura portante",
+      "example": "Die sichtbare *** aus Stahl verleiht dem Raum einen industriellen Charakter."
+    },
+    {
+      "term": "funktional",
+      "type": "Adjective",
+      "meaning_tr": "işlevsel",
+      "meaning_en": "functional",
+      "meaning_uk": "функціональний",
+      "meaning_es": "funcional",
+      "example": "Das Design ist nicht nur schön, sondern auch äußerst ***."
+    },
+    {
+      "term": "der Entwurf",
+      "type": "Noun",
+      "meaning_tr": "taslak",
+      "meaning_en": "design/draft",
+      "meaning_uk": "проєкт/ескіз",
+      "meaning_es": "diseño/borrador",
+      "example": "Der erste *** für das neue Museum wurde von der Jury gelobt."
+    },
+    {
+      "term": "die Nachhaltigkeit",
+      "type": "Noun",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталий розвиток",
+      "meaning_es": "sostenibilidad",
+      "example": "Bei modernen Neubauten spielt die *** eine entscheidende Rolle."
+    },
+    {
+      "term": "die Auskragung",
+      "type": "Noun",
+      "meaning_tr": "çıkma",
+      "meaning_en": "cantilever/projection",
+      "meaning_uk": "консольний виступ",
+      "meaning_es": "voladizo",
+      "example": "Die weite *** des Daches bietet Schutz vor Regen."
+    },
+    {
+      "term": "minimalistisch",
+      "type": "Adjective",
+      "meaning_tr": "minimalist",
+      "meaning_en": "minimalist",
+      "meaning_uk": "мінімалістичний",
+      "meaning_es": "minimalista",
+      "example": "Der Architekt bevorzugt einen *** Stil mit wenig Dekoration."
+    },
+    {
+      "term": "die Raumaufteilung",
+      "type": "Noun",
+      "meaning_tr": "mekan düzeni",
+      "meaning_en": "layout",
+      "meaning_uk": "планування приміщень",
+      "meaning_es": "distribución espacial",
+      "example": "Die offene *** sorgt für eine helle und freundliche Atmosphäre."
+    },
+    {
+      "term": "die Bauweise",
+      "type": "Noun",
+      "meaning_tr": "yapım tarzı",
+      "meaning_en": "construction method",
+      "meaning_uk": "спосіб будівництва",
+      "meaning_es": "método de construcción",
+      "example": "Die ökologische *** spart langfristig viel Energie."
+    },
+    {
+      "term": "die Symmetrie",
+      "type": "Noun",
+      "meaning_tr": "simetri",
+      "meaning_en": "symmetry",
+      "meaning_uk": "симетрія",
+      "meaning_es": "simetría",
+      "example": "Klassische Architektur zeichnet sich oft durch eine strenge *** aus."
+    },
+    {
+      "term": "die Kubatur",
+      "type": "Noun",
+      "meaning_tr": "hacim",
+      "meaning_en": "volume/cubic capacity",
+      "meaning_uk": "об'єм будівлі",
+      "meaning_es": "volumen (de una edificación)",
+      "example": "Die einfache *** des Hauses wirkt sehr kraftvoll."
+    },
+    {
+      "term": "die Dämmung",
+      "type": "Noun",
+      "meaning_tr": "yalıtım",
+      "meaning_en": "insulation",
+      "meaning_uk": "ізоляція",
+      "meaning_es": "aislamiento",
+      "example": "Eine gute *** ist wichtig, um Heizkosten zu reduzieren."
+    },
+    {
+      "term": "die Skelettbauweise",
+      "type": "Noun",
+      "meaning_tr": "iskelet yapı sistemi",
+      "meaning_en": "frame construction",
+      "meaning_uk": "каркасна конструкція",
+      "meaning_es": "estructura de esqueleto",
+      "example": "Dank der *** können die Innenwände flexibel gestaltet werden."
+    },
+    {
+      "term": "die Lichtführung",
+      "type": "Noun",
+      "meaning_tr": "ışık yönetimi",
+      "meaning_en": "lighting/light management",
+      "meaning_uk": "освітлення/робота зі світлом",
+      "meaning_es": "gestión de la luz",
+      "example": "Die durchdachte *** lässt das Gebäude von innen strahlen."
+    },
+    {
+      "term": "der Baukörper",
+      "type": "Noun",
+      "meaning_tr": "yapı kütlesi",
+      "meaning_en": "building mass",
+      "meaning_uk": "будівельний об'єм",
+      "meaning_es": "volumen edificado",
+      "example": "Der *** fügt sich harmonisch in die hügelige Landschaft ein."
+    },
+    {
+      "term": "die Textur",
+      "type": "Noun",
+      "meaning_tr": "doku",
+      "meaning_en": "texture",
+      "meaning_uk": "текстура",
+      "meaning_es": "textura",
+      "example": "Die raue *** des Sichtbetons bildet einen Kontrast zum Glas."
+    },
+    {
+      "term": "prägen",
+      "type": "Verb",
+      "meaning_tr": "şekillendirmek/damga vurmak",
+      "meaning_en": "to shape/influence",
+      "meaning_uk": "формувати/впливати",
+      "meaning_es": "marcar/influir",
+      "example": "Historische Gebäude *** das Stadtbild maßgeblich."
+    },
+    {
+      "term": "der Baustoff",
+      "type": "Noun",
+      "meaning_tr": "yapı malzemesi",
+      "meaning_en": "building material",
+      "meaning_uk": "будівельний матеріал",
+      "meaning_es": "material de construcción",
+      "example": "Holz ist ein ökologisch wertvoller ***."
+    },
+    {
+      "term": "die Proportion",
+      "type": "Noun",
+      "meaning_tr": "oran",
+      "meaning_en": "proportion",
+      "meaning_uk": "пропорція",
+      "meaning_es": "proporción",
+      "example": "Die harmonische *** der Fenster lässt das Haus elegant wirken."
+    },
+    {
+      "term": "die Bauvorschrift",
+      "type": "Noun",
+      "meaning_tr": "yapı yönetmeliği",
+      "meaning_en": "building regulation",
+      "meaning_uk": "будівельні норми",
+      "meaning_es": "normativa de edificación",
+      "example": "Alle Entwürfe müssen den lokalen *** entsprechen."
+    },
+    {
+      "term": "das Sichtbeton",
+      "type": "Noun",
+      "meaning_tr": "brüt beton",
+      "meaning_en": "exposed concrete",
+      "meaning_uk": "відкритий бетон",
+      "meaning_es": "hormigón visto",
+      "example": "Die Verwendung von *** ist typisch für den Brutalismus."
+    },
+    {
+      "term": "die Stadtplanung",
+      "type": "Noun",
+      "meaning_tr": "şehir planlama",
+      "meaning_en": "urban planning",
+      "meaning_uk": "містобудування",
+      "meaning_es": "planificación urbana",
+      "example": "Eine nachhaltige *** ist für die Zukunft der Städte entscheidend."
+    },
+    {
+      "term": "die Nutzfläche",
+      "type": "Noun",
+      "meaning_tr": "kullanım alanı",
+      "meaning_en": "usable area",
+      "meaning_uk": "корисна площа",
+      "meaning_es": "superficie útil",
+      "example": "Die gesamte *** wurde durch den Umbau deutlich vergrößert."
+    },
+    {
+      "term": "die Baugenehmigung",
+      "type": "Noun",
+      "meaning_tr": "yapı ruhsatı",
+      "meaning_en": "building permit",
+      "meaning_uk": "дозвіл на будівництво",
+      "meaning_es": "licencia de obra",
+      "example": "Ohne die *** darf mit dem Bau nicht begonnen werden."
+    },
+    {
+      "term": "die Dachneigung",
+      "type": "Noun",
+      "meaning_tr": "çatı eğimi",
+      "meaning_en": "roof pitch",
+      "meaning_uk": "нахил даху",
+      "meaning_es": "inclinación del tejado",
+      "example": "Die *** muss an die klimatischen Bedingungen angepasst werden."
+    },
+    {
+      "term": "die Verglasung",
+      "type": "Noun",
+      "meaning_tr": "camlama",
+      "meaning_en": "glazing",
+      "meaning_uk": "скління",
+      "meaning_es": "acristalamiento",
+      "example": "Eine dreifache *** sorgt für exzellente Wärmedämmung."
+    },
+    {
+      "term": "die Traglast",
+      "type": "Noun",
+      "meaning_tr": "taşıma kapasitesi",
+      "meaning_en": "load capacity",
+      "meaning_uk": "несуча здатність",
+      "meaning_es": "capacidad de carga",
+      "example": "Die Decke wurde speziell für eine hohe *** ausgelegt."
+    },
+    {
+      "term": "die Architekturtheorie",
+      "type": "Noun",
+      "meaning_tr": "mimarlık kuramı",
+      "meaning_en": "architectural theory",
+      "meaning_uk": "архітектурна теорія",
+      "meaning_es": "teoría arquitectónica",
+      "example": "In seinem Buch befasst er sich mit der modernen ***."
+    },
+    {
+      "term": "der Grundriss",
+      "type": "Noun",
+      "meaning_tr": "plan/kat planı",
+      "meaning_en": "floor plan",
+      "meaning_uk": "план поверху",
+      "meaning_es": "plano de planta",
+      "example": "Der *** zeigt eine sehr effiziente Raumaufteilung."
+    },
+    {
+      "term": "die Fassadengestaltung",
+      "type": "Noun",
+      "meaning_tr": "cephe tasarımı",
+      "meaning_en": "facade design",
+      "meaning_uk": "дизайн фасаду",
+      "meaning_es": "diseño de fachada",
+      "example": "Die *** orientiert sich an der historischen Umgebung."
+    },
+    {
+      "term": "die Bauweise",
+      "type": "Noun",
+      "meaning_tr": "yapım yöntemi",
+      "meaning_en": "construction technique",
+      "meaning_uk": "метод будівництва",
+      "meaning_es": "método de construcción",
+      "example": "Die nachhaltige *** reduziert den CO2-Fußabdruck."
+    },
+    {
+      "term": "die Stütze",
+      "type": "Noun",
+      "meaning_tr": "destek/sütun",
+      "meaning_en": "column/pillar",
+      "meaning_uk": "опора/колона",
+      "meaning_es": "columna/soporte",
+      "example": "Die tragende *** im Zentrum des Raumes ist aus Stahl."
+    },
+    {
+      "term": "die Bauphase",
+      "type": "Noun",
+      "meaning_tr": "inşaat aşaması",
+      "meaning_en": "construction phase",
+      "meaning_uk": "фаза будівництва",
+      "meaning_es": "fase de construcción",
+      "example": "In der letzten *** werden die Außenanlagen fertiggestellt."
+    },
+    {
+      "term": "die Dachkonstruktion",
+      "type": "Noun",
+      "meaning_tr": "çatı konstrüksiyonu",
+      "meaning_en": "roof structure",
+      "meaning_uk": "конструкція даху",
+      "meaning_es": "estructura del tejado",
+      "example": "Die komplexe *** erfordert präzise Planung."
+    },
+    {
+      "term": "die Raumhöhe",
+      "type": "Noun",
+      "meaning_tr": "tavan yüksekliği",
+      "meaning_en": "ceiling height",
+      "meaning_uk": "висота приміщення",
+      "meaning_es": "altura del techo",
+      "example": "Durch die große *** wirkt der Raum sehr großzügig."
+    },
+    {
+      "term": "der Baugrund",
+      "type": "Noun",
+      "meaning_tr": "inşaat zemini",
+      "meaning_en": "building ground/site",
+      "meaning_uk": "будівельний майданчик/ґрунт",
+      "meaning_es": "terreno de construcción",
+      "example": "Bevor man baut, muss der *** auf seine Tragfähigkeit geprüft werden."
+    },
+    {
+      "term": "die Brandschutzverordnung",
+      "type": "Noun",
+      "meaning_tr": "yangından korunma yönetmeliği",
+      "meaning_en": "fire safety regulation",
+      "meaning_uk": "правила пожежної безпеки",
+      "meaning_es": "normativa contra incendios",
+      "example": "Die neue *** erfordert den Einbau spezieller Türen."
+    },
+    {
+      "term": "die Vorfertigung",
+      "type": "Noun",
+      "meaning_tr": "prefabrikasyon",
+      "meaning_en": "prefabrication",
+      "meaning_uk": "попереднє виготовлення",
+      "meaning_es": "prefabricación",
+      "example": "Durch die *** konnten die Bauzeit verkürzt werden."
+    },
+    {
+      "term": "die Energieeffizienz",
+      "type": "Noun",
+      "meaning_tr": "enerji verimliliği",
+      "meaning_en": "energy efficiency",
+      "meaning_uk": "енергоефективність",
+      "meaning_es": "eficiencia energética",
+      "example": "Das Ziel des Projekts ist eine hohe ***."
+    },
+    {
+      "term": "die Raumwirkung",
+      "type": "Noun",
+      "meaning_tr": "mekan etkisi",
+      "meaning_en": "spatial effect",
+      "meaning_uk": "просторовий ефект",
+      "meaning_es": "efecto espacial",
+      "example": "Das Licht beeinflusst die *** des Raumes maßgeblich."
+    },
+    {
+      "term": "die Bauherrschaft",
+      "type": "Noun",
+      "meaning_tr": "işveren (inşaat)",
+      "meaning_en": "client/building owner",
+      "meaning_uk": "замовник будівництва",
+      "meaning_es": "cliente/propietario",
+      "example": "Die *** hat sich für eine nachhaltige Bauweise entschieden."
+    },
+    {
+      "term": "die Fassadenverkleidung",
+      "type": "Noun",
+      "meaning_tr": "cephe kaplaması",
+      "meaning_en": "facade cladding",
+      "meaning_uk": "облицювання фасаду",
+      "meaning_es": "revestimiento de fachada",
+      "example": "Die hölzerne *** gibt dem Haus einen warmen Ton."
+    },
+    {
+      "term": "die Statikberechnung",
+      "type": "Noun",
+      "meaning_tr": "statik hesaplama",
+      "meaning_en": "structural calculation",
+      "meaning_uk": "статичний розрахунок",
+      "meaning_es": "cálculo estructural",
+      "example": "Ohne eine korrekte *** ist kein Bau sicher."
+    },
+    {
+      "term": "die Barrierefreiheit",
+      "type": "Noun",
+      "meaning_tr": "engelsizlik",
+      "meaning_en": "accessibility",
+      "meaning_uk": "доступність",
+      "meaning_es": "accesibilidad",
+      "example": "Bei öffentlichen Gebäuden ist die *** gesetzlich vorgeschrieben."
+    },
+    {
+      "term": "die Bauweise",
+      "type": "Noun",
+      "meaning_tr": "inşaat tarzı",
+      "meaning_en": "construction style",
+      "meaning_uk": "будівельний стиль",
+      "meaning_es": "estilo de construcción",
+      "example": "Diese *** ist typisch für die Region."
+    },
+    {
+      "term": "konzipieren",
+      "type": "Verb",
+      "meaning_tr": "tasarlamak/kurgulamak",
+      "meaning_en": "to conceive/design",
+      "meaning_uk": "концептуалізувати",
+      "meaning_es": "concebir/diseñar",
+      "example": "Der Architekt hat das Gebäude als einen offenen Ort ***."
+    },
+    {
+      "term": "die Raumtiefe",
+      "type": "Noun",
+      "meaning_tr": "mekan derinliği",
+      "meaning_en": "room depth",
+      "meaning_uk": "глибина приміщення",
+      "meaning_es": "profundidad de la sala",
+      "example": "Die *** des Raumes sorgt für eine interessante Dynamik."
+    },
+    {
+      "term": "die Tragfähigkeit",
+      "type": "Noun",
+      "meaning_tr": "taşıma kapasitesi",
+      "meaning_en": "load-bearing capacity",
+      "meaning_uk": "несуча здатність",
+      "meaning_es": "capacidad de carga",
+      "example": "Der Boden muss eine ausreichende *** aufweisen."
+    },
+    {
+      "term": "die Stadtlandschaft",
+      "type": "Noun",
+      "meaning_tr": "şehir manzarası/peyzajı",
+      "meaning_en": "urban landscape",
+      "meaning_uk": "міський ландшафт",
+      "meaning_es": "paisaje urbano",
+      "example": "Das Hochhaus verändert die gesamte ***."
+    },
+    {
+      "term": "die Bauphysik",
+      "type": "Noun",
+      "meaning_tr": "yapı fiziği",
+      "meaning_en": "building physics",
+      "meaning_uk": "будівельна фізика",
+      "meaning_es": "física de la construcción",
+      "example": "Grundkenntnisse in der *** sind für Architekten unerlässlich."
+    },
+    {
+      "term": "die Bausubstanz",
+      "type": "Noun",
+      "meaning_tr": "yapı dokusu",
+      "meaning_en": "building structure/substance",
+      "meaning_uk": "стан будівлі",
+      "meaning_es": "estructura existente",
+      "example": "Die *** des alten Schlosses ist noch erstaunlich gut."
+    },
+    {
+      "term": "die Gebäudehülle",
+      "type": "Noun",
+      "meaning_tr": "bina kabuğu",
+      "meaning_en": "building envelope",
+      "meaning_uk": "оболонка будівлі",
+      "meaning_es": "envolvente del edificio",
+      "example": "Eine dichte *** ist entscheidend für die Energiebilanz."
+    },
+    {
+      "term": "die Innenarchitektur",
+      "type": "Noun",
+      "meaning_tr": "iç mimari",
+      "meaning_en": "interior design",
+      "meaning_uk": "інтер'єрний дизайн",
+      "meaning_es": "diseño de interiores",
+      "example": "Sie hat die *** für das neue Restaurant entworfen."
+    },
+    {
+      "term": "der Denkmalschutz",
+      "type": "Noun",
+      "meaning_tr": "tarihi eser koruma",
+      "meaning_en": "monument protection",
+      "meaning_uk": "охорона пам'яток",
+      "meaning_es": "protección de monumentos",
+      "example": "Der *** verhinderte den Abriss des historischen Rathauses."
+    },
+    {
+      "term": "die Bauausführung",
+      "type": "Noun",
+      "meaning_tr": "inşaat uygulaması",
+      "meaning_en": "construction execution",
+      "meaning_uk": "виконання будівельних робіт",
+      "meaning_es": "ejecución de la obra",
+      "example": "Die *** verlief ohne nennenswerte Verzögerungen."
+    }
+  ]
+}

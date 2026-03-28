@@ -1,0 +1,546 @@
+{
+  "title": "Migracion e Integracion (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el desarraigo",
+      "type": "Noun",
+      "meaning_tr": "köklerinden kopma",
+      "meaning_en": "uprootedness",
+      "meaning_uk": "відірваність від коріння",
+      "meaning_es": "sentimiento de pérdida de los lazos con el lugar de origen",
+      "example": "*** es una de las consecuencias psicológicas más difíciles de afrontar tras la emigración."
+    },
+    {
+      "term": "la asimilación",
+      "type": "Noun",
+      "meaning_tr": "asimilasyon",
+      "meaning_en": "assimilation",
+      "meaning_uk": "асиміляція",
+      "meaning_es": "proceso de integración total en una cultura",
+      "example": "La política de *** cultural ha sido objeto de intensos debates sociológicos."
+    },
+    {
+      "term": "fomentar",
+      "type": "Verb",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to foster",
+      "meaning_uk": "сприяти",
+      "meaning_es": "promover o impulsar algo",
+      "example": "Es fundamental *** la cohesión social entre los diferentes colectivos."
+    },
+    {
+      "term": "la xenofobia",
+      "type": "Noun",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "xenophobia",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "rechazo a los extranjeros",
+      "example": "Debemos combatir la *** mediante la educación y la empatía."
+    },
+    {
+      "term": "la precariedad",
+      "type": "Noun",
+      "meaning_tr": "güvencesizlik",
+      "meaning_en": "precariousness",
+      "meaning_uk": "незахищеність",
+      "meaning_es": "falta de estabilidad o seguridad",
+      "example": "Muchos inmigrantes sufren la *** laboral en sus primeros años en el país."
+    },
+    {
+      "term": "la multiculturalidad",
+      "type": "Noun",
+      "meaning_tr": "çok kültürlülük",
+      "meaning_en": "multiculturalism",
+      "meaning_uk": "мультикультуралізм",
+      "meaning_es": "coexistencia de varias culturas",
+      "example": "La *** es una característica enriquecedora de las grandes metrópolis."
+    },
+    {
+      "term": "el exilio",
+      "type": "Noun",
+      "meaning_tr": "sürgün",
+      "meaning_en": "exile",
+      "meaning_uk": "вигнання",
+      "meaning_es": "abandono forzoso del propio país",
+      "example": "Muchos intelectuales vivieron el *** durante la dictadura."
+    },
+    {
+      "term": "reivindicar",
+      "type": "Verb",
+      "meaning_tr": "talep etmek",
+      "meaning_en": "to claim/demand",
+      "meaning_uk": "вимагати",
+      "meaning_es": "reclamar derechos o justicia",
+      "example": "Los colectivos migrantes salen a la calle a *** sus derechos fundamentales."
+    },
+    {
+      "term": "el asilo",
+      "type": "Noun",
+      "meaning_tr": "sığınma",
+      "meaning_en": "asylum",
+      "meaning_uk": "притулок",
+      "meaning_es": "protección internacional otorgada a perseguidos",
+      "example": "El solicitante de *** espera la resolución de su expediente."
+    },
+    {
+      "term": "la inserción",
+      "type": "Noun",
+      "meaning_tr": "yerleştirme/uyum",
+      "meaning_en": "insertion/integration",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "proceso de incorporación a un medio",
+      "example": "Los programas de *** sociolaboral son clave para los recién llegados."
+    },
+    {
+      "term": "la diáspora",
+      "type": "Noun",
+      "meaning_tr": "diaspora",
+      "meaning_en": "diaspora",
+      "meaning_uk": "діаспора",
+      "meaning_es": "dispersión de un grupo humano",
+      "example": "La *** mantiene vínculos estrechos con su país de origen."
+    },
+    {
+      "term": "inmigrar",
+      "type": "Verb",
+      "meaning_tr": "göç etmek (ülkeye)",
+      "meaning_en": "to immigrate",
+      "meaning_uk": "іммігрувати",
+      "meaning_es": "llegar a un país extranjero para establecerse",
+      "example": "Decidieron *** buscando mejores oportunidades profesionales."
+    },
+    {
+      "term": "la brecha",
+      "type": "Noun",
+      "meaning_tr": "uçurum/fark",
+      "meaning_en": "gap",
+      "meaning_uk": "розрив",
+      "meaning_es": "diferencia o distancia social",
+      "example": "Existe una *** salarial preocupante entre los trabajadores nacionales y extranjeros."
+    },
+    {
+      "term": "la irregularidad",
+      "type": "Noun",
+      "meaning_tr": "düzensizlik (yasal)",
+      "meaning_en": "irregularity",
+      "meaning_uk": "нелегальний статус",
+      "meaning_es": "situación legal no conforme a la ley",
+      "example": "La *** administrativa dificulta el acceso a los servicios públicos."
+    },
+    {
+      "term": "la segregación",
+      "type": "Noun",
+      "meaning_tr": "ayrımcılık/ayrıştırma",
+      "meaning_en": "segregation",
+      "meaning_uk": "сегрегація",
+      "meaning_es": "separación forzada de grupos",
+      "example": "Es necesario evitar la *** residencial en los barrios de la periferia."
+    },
+    {
+      "term": "el flujo",
+      "type": "Noun",
+      "meaning_tr": "akış",
+      "meaning_en": "flow",
+      "meaning_uk": "потік",
+      "meaning_es": "movimiento de personas",
+      "example": "El *** migratorio ha aumentado significativamente este año."
+    },
+    {
+      "term": "la regularización",
+      "type": "Noun",
+      "meaning_tr": "yasallaştırma",
+      "meaning_en": "regularization",
+      "meaning_uk": "легалізація",
+      "meaning_es": "proceso para obtener estatus legal",
+      "example": "El gobierno ha anunciado un nuevo proceso de *** para trabajadores temporeros."
+    },
+    {
+      "term": "cohesionado",
+      "type": "Adjective",
+      "meaning_tr": "bütünleşmiş",
+      "meaning_en": "cohesive",
+      "meaning_uk": "згуртований",
+      "meaning_es": "unido y bien organizado",
+      "example": "Una sociedad *** es capaz de superar cualquier crisis."
+    },
+    {
+      "term": "la remesa",
+      "type": "Noun",
+      "meaning_tr": "havale (gönderilen para)",
+      "meaning_en": "remittance",
+      "meaning_uk": "грошовий переказ",
+      "meaning_es": "dinero enviado por emigrantes a sus familias",
+      "example": "La *** enviada al extranjero ayuda a sostener la economía familiar."
+    },
+    {
+      "term": "el refugiado",
+      "type": "Noun",
+      "meaning_tr": "mülteci",
+      "meaning_en": "refugee",
+      "meaning_uk": "біженець",
+      "meaning_es": "persona que busca protección fuera de su país",
+      "example": "Cada *** merece un trato digno y humano al llegar a la frontera."
+    },
+    {
+      "term": "la exclusión",
+      "type": "Noun",
+      "meaning_tr": "dışlanma",
+      "meaning_en": "exclusion",
+      "meaning_uk": "виключення",
+      "meaning_es": "marginación de una persona o grupo",
+      "example": "La *** social es un riesgo real para los colectivos más vulnerables."
+    },
+    {
+      "term": "la acogida",
+      "type": "Noun",
+      "meaning_tr": "kabul etme/misafirperverlik",
+      "meaning_en": "reception/welcome",
+      "meaning_uk": "прийом",
+      "meaning_es": "recepción de personas",
+      "example": "La ciudad preparó una buena *** para los nuevos inmigrantes."
+    },
+    {
+      "term": "la repatriación",
+      "type": "Noun",
+      "meaning_tr": "ülkeye geri gönderilme",
+      "meaning_en": "repatriation",
+      "meaning_uk": "репатріація",
+      "meaning_es": "retorno a la patria",
+      "example": "El proceso de *** fue coordinado por las autoridades consulares."
+    },
+    {
+      "term": "el permiso",
+      "type": "Noun",
+      "meaning_tr": "izin/oturum izni",
+      "meaning_en": "permit",
+      "meaning_uk": "дозвіл",
+      "meaning_es": "autorización legal",
+      "example": "Solicitó el *** de residencia para trabajar legalmente."
+    },
+    {
+      "term": "la integración",
+      "type": "Noun",
+      "meaning_tr": "entegrasyon",
+      "meaning_en": "integration",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "incorporación plena a la sociedad",
+      "example": "La *** efectiva requiere voluntad por ambas partes."
+    },
+    {
+      "term": "la discriminación",
+      "type": "Noun",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "discrimination",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "trato desigual",
+      "example": "La *** en el acceso a la vivienda es un problema persistente."
+    },
+    {
+      "term": "el visado",
+      "type": "Noun",
+      "meaning_tr": "vize",
+      "meaning_en": "visa",
+      "meaning_uk": "віза",
+      "meaning_es": "documento que permite el ingreso a un país",
+      "example": "Tuvo que tramitar un *** especial para estancias prolongadas."
+    },
+    {
+      "term": "la estancia",
+      "type": "Noun",
+      "meaning_tr": "kalış/ikamet",
+      "meaning_en": "stay",
+      "meaning_uk": "перебування",
+      "meaning_es": "tiempo que se pasa en un lugar",
+      "example": "Su *** en el extranjero duró más de cinco años."
+    },
+    {
+      "term": "la diversidad",
+      "type": "Noun",
+      "meaning_tr": "çeşitlilik",
+      "meaning_en": "diversity",
+      "meaning_uk": "різноманітність",
+      "meaning_es": "variedad de culturas o personas",
+      "example": "La *** cultural es una fuente de innovación."
+    },
+    {
+      "term": "la naturalización",
+      "type": "Noun",
+      "meaning_tr": "vatandaşlığa geçme",
+      "meaning_en": "naturalization",
+      "meaning_uk": "натуралізація",
+      "meaning_es": "adquisición de la nacionalidad",
+      "example": "Tras diez años, obtuvo la *** por residencia."
+    },
+    {
+      "term": "el tránsito",
+      "type": "Noun",
+      "meaning_tr": "geçiş",
+      "meaning_en": "transit",
+      "meaning_uk": "транзит",
+      "meaning_es": "paso por un lugar",
+      "example": "Muchos migrantes utilizan este país como zona de ***."
+    },
+    {
+      "term": "la vulnerabilidad",
+      "type": "Noun",
+      "meaning_tr": "kırılganlık",
+      "meaning_en": "vulnerability",
+      "meaning_uk": "вразливість",
+      "meaning_es": "estado de debilidad o riesgo",
+      "example": "La *** de los menores no acompañados es extrema."
+    },
+    {
+      "term": "la convivencia",
+      "type": "Noun",
+      "meaning_tr": "birlikte yaşama",
+      "meaning_en": "coexistence",
+      "meaning_uk": "співжиття",
+      "meaning_es": "vida en común",
+      "example": "Fomentar la *** pacífica es responsabilidad de todos."
+    },
+    {
+      "term": "la movilidad",
+      "type": "Noun",
+      "meaning_tr": "hareketlilik",
+      "meaning_en": "mobility",
+      "meaning_uk": "мобільність",
+      "meaning_es": "capacidad de moverse",
+      "example": "La *** internacional es común en el mundo globalizado."
+    },
+    {
+      "term": "la asimilación",
+      "type": "Noun",
+      "meaning_tr": "asimilasyon",
+      "meaning_en": "assimilation",
+      "meaning_uk": "асиміляція",
+      "meaning_es": "proceso de adaptación total",
+      "example": "Algunos critican la *** por la pérdida de identidad propia."
+    },
+    {
+      "term": "la frontera",
+      "type": "Noun",
+      "meaning_tr": "sınır",
+      "meaning_en": "border",
+      "meaning_uk": "кордон",
+      "meaning_es": "límite territorial",
+      "example": "La gestión de la *** requiere acuerdos internacionales."
+    },
+    {
+      "term": "el solicitante",
+      "type": "Noun",
+      "meaning_tr": "başvuru sahibi",
+      "meaning_en": "applicant",
+      "meaning_uk": "заявник",
+      "meaning_es": "persona que pide algo formalmente",
+      "example": "El *** de asilo debe demostrar su situación de peligro."
+    },
+    {
+      "term": "la xenofobia",
+      "type": "Noun",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "xenophobia",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "odio al forastero",
+      "example": "Los discursos de odio alimentan la *** en la sociedad."
+    },
+    {
+      "term": "el arraigo",
+      "type": "Noun",
+      "meaning_tr": "kök salma/bağlılık",
+      "meaning_en": "roots/attachment",
+      "meaning_uk": "коріння/прив'язаність",
+      "meaning_es": "vínculo con una tierra o sociedad",
+      "example": "El *** laboral es un requisito para obtener papeles."
+    },
+    {
+      "term": "la marginación",
+      "type": "Noun",
+      "meaning_tr": "marjinalleşme",
+      "meaning_en": "marginalization",
+      "meaning_uk": "маргіналізація",
+      "meaning_es": "situación de estar al margen de la sociedad",
+      "example": "La falta de empleo conduce a la ***."
+    },
+    {
+      "term": "la pauta",
+      "type": "Noun",
+      "meaning_tr": "model/kılavuz",
+      "meaning_en": "pattern/guideline",
+      "meaning_uk": "модель/настанова",
+      "meaning_es": "norma o modelo de comportamiento",
+      "example": "Siguen las *** de integración marcadas por el ayuntamiento."
+    },
+    {
+      "term": "la precariedad",
+      "type": "Noun",
+      "meaning_tr": "güvencesizlik",
+      "meaning_en": "precariousness",
+      "meaning_uk": "незахищеність",
+      "meaning_es": "falta de medios básicos",
+      "example": "La *** de su situación le impide alquilar un piso."
+    },
+    {
+      "term": "la tolerancia",
+      "type": "Noun",
+      "meaning_tr": "hoşgörü",
+      "meaning_en": "tolerance",
+      "meaning_uk": "толерантність",
+      "meaning_es": "respeto hacia las diferencias",
+      "example": "La *** es la base para una sociedad multicultural."
+    },
+    {
+      "term": "la equidad",
+      "type": "Noun",
+      "meaning_tr": "hakkaniyet",
+      "meaning_en": "equity",
+      "meaning_uk": "справедливість",
+      "meaning_es": "justicia social",
+      "example": "Buscamos la *** en el acceso a la educación."
+    },
+    {
+      "term": "inmigratorio",
+      "type": "Adjective",
+      "meaning_tr": "göç ile ilgili",
+      "meaning_en": "immigration-related",
+      "meaning_uk": "імміграційний",
+      "meaning_es": "relativo a la inmigración",
+      "example": "El fenómeno *** requiere políticas a largo plazo."
+    },
+    {
+      "term": "el éxodo",
+      "type": "Noun",
+      "meaning_tr": "göç/toplu göç",
+      "meaning_en": "exodus",
+      "meaning_uk": "вихід/масова міграція",
+      "meaning_es": "emigración masiva",
+      "example": "El *** rural hacia las ciudades ha despoblado el campo."
+    },
+    {
+      "term": "la acogida",
+      "type": "Noun",
+      "meaning_tr": "kabul",
+      "meaning_en": "reception",
+      "meaning_uk": "прийом",
+      "meaning_es": "acto de recibir a alguien",
+      "example": "Los centros de *** están saturados."
+    },
+    {
+      "term": "la pertenencia",
+      "type": "Noun",
+      "meaning_tr": "aidiyet",
+      "meaning_en": "belonging",
+      "meaning_uk": "приналежність",
+      "meaning_es": "sentirse parte de un grupo",
+      "example": "El sentimiento de *** es vital para la integración."
+    },
+    {
+      "term": "la barrera",
+      "type": "Noun",
+      "meaning_tr": "engel",
+      "meaning_en": "barrier",
+      "meaning_uk": "бар'єр",
+      "meaning_es": "obstáculo",
+      "example": "El idioma es la principal *** para muchos inmigrantes."
+    },
+    {
+      "term": "el estereotipo",
+      "type": "Noun",
+      "meaning_tr": "klişe/basmakalıp düşünce",
+      "meaning_en": "stereotype",
+      "meaning_uk": "стереотип",
+      "meaning_es": "prejuicio socialmente aceptado",
+      "example": "Debemos romper el *** de que los inmigrantes quitan el trabajo."
+    },
+    {
+      "term": "la xenofobia",
+      "type": "Noun",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "xenophobia",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "rechazo al extranjero",
+      "example": "La *** crece en tiempos de crisis económica."
+    },
+    {
+      "term": "la interculturalidad",
+      "type": "Noun",
+      "meaning_tr": "kültürlerarası etkileşim",
+      "meaning_en": "interculturality",
+      "meaning_uk": "інтеркультурність",
+      "meaning_es": "interacción entre culturas",
+      "example": "La *** fomenta el respeto mutuo."
+    },
+    {
+      "term": "la exclusión",
+      "type": "Noun",
+      "meaning_tr": "dışlanma",
+      "meaning_en": "exclusion",
+      "meaning_uk": "виключення",
+      "meaning_es": "falta de participación social",
+      "example": "La *** educativa afecta a los niños migrantes."
+    },
+    {
+      "term": "el conflicto",
+      "type": "Noun",
+      "meaning_tr": "çatışma",
+      "meaning_en": "conflict",
+      "meaning_uk": "конфлікт",
+      "meaning_es": "desacuerdo o lucha",
+      "example": "El *** cultural suele surgir por falta de comunicación."
+    },
+    {
+      "term": "el trabajador",
+      "type": "Noun",
+      "meaning_tr": "çalışan",
+      "meaning_en": "worker",
+      "meaning_uk": "працівник",
+      "meaning_es": "persona que realiza un trabajo",
+      "example": "El *** extranjero aporta mucho al sistema de pensiones."
+    },
+    {
+      "term": "la nacionalidad",
+      "type": "Noun",
+      "meaning_tr": "uyruk",
+      "meaning_en": "nationality",
+      "meaning_uk": "громадянство",
+      "meaning_es": "pertenencia a un país",
+      "example": "Obtuvo la *** tras cumplir los requisitos legales."
+    },
+    {
+      "term": "la residencia",
+      "type": "Noun",
+      "meaning_tr": "ikamet",
+      "meaning_en": "residence",
+      "meaning_uk": "резиденція",
+      "meaning_es": "lugar donde se vive",
+      "example": "Su permiso de *** ha caducado recientemente."
+    },
+    {
+      "term": "el prejuicio",
+      "type": "Noun",
+      "meaning_tr": "önyargı",
+      "meaning_en": "prejudice",
+      "meaning_uk": "упередження",
+      "meaning_es": "opinión previa negativa",
+      "example": "El *** impide ver la realidad de la inmigración."
+    },
+    {
+      "term": "la integración",
+      "type": "Noun",
+      "meaning_tr": "entegrasyon",
+      "meaning_en": "integration",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "proceso de unión",
+      "example": "La *** de los jóvenes es más rápida que la de los mayores."
+    },
+    {
+      "term": "social",
+      "type": "Adjective",
+      "meaning_tr": "sosyal",
+      "meaning_en": "social",
+      "meaning_uk": "соціальний",
+      "meaning_es": "relativo a la sociedad",
+      "example": "El impacto *** de la migración es profundo."
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "title": "Historia (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el acontecimiento",
+      "type": "Noun",
+      "meaning_tr": "olay",
+      "meaning_en": "event",
+      "meaning_uk": "подія",
+      "meaning_es": "suceso importante",
+      "example": "*** cambió el rumbo del siglo XX."
+    },
+    {
+      "term": "la época",
+      "type": "Noun",
+      "meaning_tr": "dönem",
+      "meaning_en": "era",
+      "meaning_uk": "епоха",
+      "meaning_es": "periodo histórico",
+      "example": "Aquella fue *** de grandes cambios sociales."
+    },
+    {
+      "term": "derrocar",
+      "type": "Verb",
+      "meaning_tr": "devirmek",
+      "meaning_en": "to overthrow",
+      "meaning_uk": "повалити",
+      "meaning_es": "hacer caer un gobierno",
+      "example": "El pueblo se unió para *** al dictador."
+    },
+    {
+      "term": "la soberanía",
+      "type": "Noun",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_uk": "суверенітет",
+      "meaning_es": "poder político supremo",
+      "example": "El país defendió su *** ante las invasiones."
+    },
+    {
+      "term": "el tratado",
+      "type": "Noun",
+      "meaning_tr": "antlaşma",
+      "meaning_en": "treaty",
+      "meaning_uk": "договір",
+      "meaning_es": "acuerdo formal",
+      "example": "Firmaron *** de paz tras años de guerra."
+    },
+    {
+      "term": "la contienda",
+      "type": "Noun",
+      "meaning_tr": "mücadele/savaş",
+      "meaning_en": "conflict/battle",
+      "meaning_uk": "боротьба/битва",
+      "meaning_es": "lucha o guerra",
+      "example": "Muchos soldados murieron en ***."
+    },
+    {
+      "term": "el auge",
+      "type": "Noun",
+      "meaning_tr": "yükseliş",
+      "meaning_en": "rise/boom",
+      "meaning_uk": "підйом",
+      "meaning_es": "periodo de gran desarrollo",
+      "example": "Fue *** de la industria textil en la región."
+    },
+    {
+      "term": "el legado",
+      "type": "Noun",
+      "meaning_tr": "miras",
+      "meaning_en": "legacy",
+      "meaning_uk": "спадщина",
+      "meaning_es": "herencia cultural",
+      "example": "El imperio dejó un gran *** arquitectónico."
+    },
+    {
+      "term": "anexionar",
+      "type": "Verb",
+      "meaning_tr": "ilhak etmek",
+      "meaning_en": "to annex",
+      "meaning_uk": "анексувати",
+      "meaning_es": "unir un territorio a otro",
+      "example": "Decidieron *** el territorio vecino por la fuerza."
+    },
+    {
+      "term": "el vestigio",
+      "type": "Noun",
+      "meaning_tr": "kalıntı",
+      "meaning_en": "vestige/trace",
+      "meaning_uk": "залишок",
+      "meaning_es": "huella o resto",
+      "example": "Encontraron un *** de la antigua muralla romana."
+    },
+    {
+      "term": "la hegemonía",
+      "type": "Noun",
+      "meaning_tr": "hegemonya",
+      "meaning_en": "hegemony",
+      "meaning_uk": "гегемонія",
+      "meaning_es": "supremacía de un poder",
+      "example": "El país buscaba mantener su *** en la región."
+    },
+    {
+      "term": "el vasallo",
+      "type": "Noun",
+      "meaning_tr": "vassal",
+      "meaning_en": "vassal",
+      "meaning_uk": "васал",
+      "meaning_es": "persona dependiente de un señor",
+      "example": "Cada *** debía lealtad al rey."
+    },
+    {
+      "term": "la revuelta",
+      "type": "Noun",
+      "meaning_tr": "ayaklanma",
+      "meaning_en": "revolt/uprising",
+      "meaning_uk": "повстання",
+      "meaning_es": "levantamiento popular",
+      "example": "La falta de comida provocó *** en la capital."
+    },
+    {
+      "term": "la monarquía",
+      "type": "Noun",
+      "meaning_tr": "monarşi",
+      "meaning_en": "monarchy",
+      "meaning_uk": "монархія",
+      "meaning_es": "sistema de gobierno real",
+      "example": "La *** fue abolida tras la revolución."
+    },
+    {
+      "term": "el vasallaje",
+      "type": "Noun",
+      "meaning_tr": "bağlılık/vassallık",
+      "meaning_en": "vassalage",
+      "meaning_uk": "васалітет",
+      "meaning_es": "relación de dependencia",
+      "example": "El sistema feudal se basaba en ***."
+    },
+    {
+      "term": "la colonización",
+      "type": "Noun",
+      "meaning_tr": "sömürgeleşme",
+      "meaning_en": "colonization",
+      "meaning_uk": "колонізація",
+      "meaning_es": "ocupación de un territorio",
+      "example": "La *** europea cambió la demografía local."
+    },
+    {
+      "term": "el conflicto",
+      "type": "Noun",
+      "meaning_tr": "çatışma",
+      "meaning_en": "conflict",
+      "meaning_uk": "конфлікт",
+      "meaning_es": "choque de intereses",
+      "example": "Aún no se ha resuelto *** fronterizo."
+    },
+    {
+      "term": "el exilio",
+      "type": "Noun",
+      "meaning_tr": "sürgün",
+      "meaning_en": "exile",
+      "meaning_uk": "вигнання",
+      "meaning_es": "abandono forzado del país",
+      "example": "Muchos intelectuales vivieron en ***."
+    },
+    {
+      "term": "la dinastía",
+      "type": "Noun",
+      "meaning_tr": "hanedan",
+      "meaning_en": "dynasty",
+      "meaning_uk": "династія",
+      "meaning_es": "familia real sucesiva",
+      "example": "Esa *** gobernó durante tres siglos."
+    },
+    {
+      "term": "el estallido",
+      "type": "Noun",
+      "meaning_tr": "patlama/başlama",
+      "meaning_en": "outbreak",
+      "meaning_uk": "спалах",
+      "meaning_es": "comienzo repentino",
+      "example": "Tras *** de la guerra, todo cambió."
+    },
+    {
+      "term": "la decadencia",
+      "type": "Noun",
+      "meaning_tr": "çöküş",
+      "meaning_en": "decline/decay",
+      "meaning_uk": "занепад",
+      "meaning_es": "proceso de debilitamiento",
+      "example": "El imperio entró en una lenta ***."
+    },
+    {
+      "term": "la tiranía",
+      "type": "Noun",
+      "meaning_tr": "tiranlık",
+      "meaning_en": "tyranny",
+      "meaning_uk": "тиранія",
+      "meaning_es": "gobierno opresor",
+      "example": "Lucharon contra *** durante décadas."
+    },
+    {
+      "term": "la insurgencia",
+      "type": "Noun",
+      "meaning_tr": "başkaldırı",
+      "meaning_en": "insurgency",
+      "meaning_uk": "повстанський рух",
+      "meaning_es": "rebelión armada",
+      "example": "El gobierno reprimió a la *** con dureza."
+    },
+    {
+      "term": "la abolición",
+      "type": "Noun",
+      "meaning_tr": "kaldırma",
+      "meaning_en": "abolition",
+      "meaning_uk": "скасування",
+      "meaning_es": "anulación de una ley",
+      "example": "La *** de la esclavitud fue un hito histórico."
+    },
+    {
+      "term": "la conquista",
+      "type": "Noun",
+      "meaning_tr": "fetih",
+      "meaning_en": "conquest",
+      "meaning_uk": "завоювання",
+      "meaning_es": "acción de conquistar",
+      "example": "La *** de América fue un proceso complejo."
+    },
+    {
+      "term": "el clero",
+      "type": "Noun",
+      "meaning_tr": "ruhban sınıfı",
+      "meaning_en": "clergy",
+      "meaning_uk": "духовенство",
+      "meaning_es": "conjunto de religiosos",
+      "example": "El *** tenía mucho poder en la Edad Media."
+    },
+    {
+      "term": "la contienda",
+      "type": "Noun",
+      "meaning_tr": "çatışma",
+      "meaning_en": "conflict",
+      "meaning_uk": "боротьба",
+      "meaning_es": "guerra o lucha",
+      "example": "Ambas naciones terminaron *** agotadas."
+    },
+    {
+      "term": "la burguesía",
+      "type": "Noun",
+      "meaning_tr": "burjuvazi",
+      "meaning_en": "bourgeoisie",
+      "meaning_uk": "буржуазія",
+      "meaning_es": "clase media acomodada",
+      "example": "La *** lideró las revoluciones liberales."
+    },
+    {
+      "term": "el proletariado",
+      "type": "Noun",
+      "meaning_tr": "proletarya",
+      "meaning_en": "proletariat",
+      "meaning_uk": "пролетаріат",
+      "meaning_es": "clase obrera",
+      "example": "El *** exigía mejores condiciones laborales."
+    },
+    {
+      "term": "el feudo",
+      "type": "Noun",
+      "meaning_tr": "derebeylik",
+      "meaning_en": "fiefdom",
+      "meaning_uk": "феод",
+      "meaning_es": "tierra otorgada en el feudalismo",
+      "example": "El señor gobernaba su *** con autoridad."
+    },
+    {
+      "term": "la capitulación",
+      "type": "Noun",
+      "meaning_tr": "teslimiyet",
+      "meaning_en": "surrender",
+      "meaning_uk": "капітуляція",
+      "meaning_es": "rendición formal",
+      "example": "Tras la derrota, firmaron ***."
+    },
+    {
+      "term": "el absolutismo",
+      "type": "Noun",
+      "meaning_tr": "mutlakıyet",
+      "meaning_en": "absolutism",
+      "meaning_uk": "абсолютизм",
+      "meaning_es": "poder sin límites",
+      "example": "El *** fue el sistema predominante del siglo XVII."
+    },
+    {
+      "term": "la reforma",
+      "type": "Noun",
+      "meaning_tr": "reform",
+      "meaning_en": "reform",
+      "meaning_uk": "реформа",
+      "meaning_es": "cambio estructural",
+      "example": "La *** agraria permitió repartir mejor la tierra."
+    },
+    {
+      "term": "el golpe de estado",
+      "type": "Noun",
+      "meaning_tr": "darbe",
+      "meaning_en": "coup d'état",
+      "meaning_uk": "державний переворот",
+      "meaning_es": "toma ilegal del poder",
+      "example": "El ejército dio *** en 1936."
+    },
+    {
+      "term": "la vanguardia",
+      "type": "Noun",
+      "meaning_tr": "öncü",
+      "meaning_en": "vanguard",
+      "meaning_uk": "авангард",
+      "meaning_es": "movimiento innovador",
+      "example": "Eran la *** de la revolución cultural."
+    },
+    {
+      "term": "la nobleza",
+      "type": "Noun",
+      "meaning_tr": "soylular",
+      "meaning_en": "nobility",
+      "meaning_uk": "дворянство",
+      "meaning_es": "clase privilegiada",
+      "example": "La *** perdió sus privilegios tras la guerra."
+    },
+    {
+      "term": "la expedición",
+      "type": "Noun",
+      "meaning_tr": "sefer",
+      "meaning_en": "expedition",
+      "meaning_uk": "експедиція",
+      "meaning_es": "viaje de exploración",
+      "example": "La *** llegó a tierras desconocidas."
+    },
+    {
+      "term": "la república",
+      "type": "Noun",
+      "meaning_tr": "cumhuriyet",
+      "meaning_en": "republic",
+      "meaning_uk": "республіка",
+      "meaning_es": "forma de gobierno electo",
+      "example": "Proclamaron *** tras la caída del rey."
+    },
+    {
+      "term": "el auge",
+      "type": "Noun",
+      "meaning_tr": "yükseliş",
+      "meaning_en": "rise",
+      "meaning_uk": "підйом",
+      "meaning_es": "periodo de prosperidad",
+      "example": "Fue *** del comercio marítimo."
+    },
+    {
+      "term": "la resistencia",
+      "type": "Noun",
+      "meaning_tr": "direniş",
+      "meaning_en": "resistance",
+      "meaning_uk": "опір",
+      "meaning_es": "oposición a la ocupación",
+      "example": "Organizaron *** contra el invasor."
+    },
+    {
+      "term": "la tregua",
+      "type": "Noun",
+      "meaning_tr": "ateşkes",
+      "meaning_en": "truce",
+      "meaning_uk": "перемир'я",
+      "meaning_es": "pausa en la guerra",
+      "example": "Se acordó *** para recoger a los heridos."
+    },
+    {
+      "term": "el vasallaje",
+      "type": "Noun",
+      "meaning_tr": "vassallık",
+      "meaning_en": "vassalage",
+      "meaning_uk": "васалітет",
+      "meaning_es": "relación de servidumbre",
+      "example": "El *** era la base de la sociedad medieval."
+    },
+    {
+      "term": "la emancipación",
+      "type": "Noun",
+      "meaning_tr": "özgürleşme",
+      "meaning_en": "emancipation",
+      "meaning_uk": "емансипація",
+      "meaning_es": "liberación de la tutela",
+      "example": "La *** de las colonias trajo nuevos estados."
+    },
+    {
+      "term": "la restauración",
+      "type": "Noun",
+      "meaning_tr": "restorasyon",
+      "meaning_en": "restoration",
+      "meaning_uk": "реставрація",
+      "meaning_es": "vuelta al poder anterior",
+      "example": "Tras la guerra, hubo una *** monárquica."
+    },
+    {
+      "term": "la paz",
+      "type": "Noun",
+      "meaning_tr": "barış",
+      "meaning_en": "peace",
+      "meaning_uk": "мир",
+      "meaning_es": "ausencia de guerra",
+      "example": "El tratado garantizó *** duradera entre ambos."
+    }
+  ]
+}

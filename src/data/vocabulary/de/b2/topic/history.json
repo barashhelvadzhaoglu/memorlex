@@ -1,0 +1,411 @@
+{
+  "title": "Geschichte (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Epoche",
+      "type": "Noun",
+      "example": "Das Mittelalter war eine prägende *** in der europäischen Entwicklung.",
+      "meaning_tr": "çağ",
+      "meaning_en": "epoch",
+      "meaning_uk": "епоха",
+      "meaning_es": "época"
+    },
+    {
+      "term": "die Herrschaft",
+      "type": "Noun",
+      "example": "Die *** des Kaisers dauerte über dreißig Jahre.",
+      "meaning_tr": "hükümranlık",
+      "meaning_en": "rule/reign",
+      "meaning_uk": "панування",
+      "meaning_es": "reinado"
+    },
+    {
+      "term": "der Umbruch",
+      "type": "Noun",
+      "example": "Die industrielle Revolution markierte einen tiefgreifenden *** in der Gesellschaft.",
+      "meaning_tr": "köklü değişim",
+      "meaning_en": "upheaval/radical change",
+      "meaning_uk": "радикальні зміни",
+      "meaning_es": "cambio radical"
+    },
+    {
+      "term": "verfolgen",
+      "type": "Verb",
+      "example": "Das Regime begann, politische Gegner systematisch zu ***.",
+      "meaning_tr": "takip etmek/zulmetmek",
+      "meaning_en": "to persecute/pursue",
+      "meaning_uk": "переслідувати",
+      "meaning_es": "perseguir"
+    },
+    {
+      "term": "der Widerstand",
+      "type": "Noun",
+      "example": "Der *** gegen die Besatzung wuchs im ganzen Land.",
+      "meaning_tr": "direniş",
+      "meaning_en": "resistance",
+      "meaning_uk": "опір",
+      "meaning_es": "resistencia"
+    },
+    {
+      "term": "die Überlieferung",
+      "type": "Noun",
+      "example": "Diese Sage beruht auf einer mündlichen ***.",
+      "meaning_tr": "gelenek/aktarım",
+      "meaning_en": "tradition/transmission",
+      "meaning_uk": "переказ",
+      "meaning_es": "tradición"
+    },
+    {
+      "term": "die Auswirkung",
+      "type": "Noun",
+      "example": "Der Krieg hatte verheerende *** auf die Wirtschaft.",
+      "meaning_tr": "etki/sonuç",
+      "meaning_en": "impact/effect",
+      "meaning_uk": "вплив/наслідок",
+      "meaning_es": "efecto/impacto"
+    },
+    {
+      "term": "entstehen",
+      "type": "Verb",
+      "example": "Nach dem Zerfall des Reiches sind viele neue Staaten ***.",
+      "meaning_tr": "oluşmak/meydana gelmek",
+      "meaning_en": "to originate/arise",
+      "meaning_uk": "виникати",
+      "meaning_es": "surgir"
+    },
+    {
+      "term": "die Besatzung",
+      "type": "Noun",
+      "example": "Während der *** litten viele Menschen unter Nahrungsmittelknappheit.",
+      "meaning_tr": "işgal",
+      "meaning_en": "occupation",
+      "meaning_uk": "окупація",
+      "meaning_es": "ocupación"
+    },
+    {
+      "term": "die Reformation",
+      "type": "Noun",
+      "example": "Martin Luther löste mit seinen Thesen die *** aus.",
+      "meaning_tr": "reform",
+      "meaning_en": "reformation",
+      "meaning_uk": "реформація",
+      "meaning_es": "reforma"
+    },
+    {
+      "term": "die Industrialisierung",
+      "type": "Noun",
+      "example": "Durch die *** veränderte sich die Arbeitswelt grundlegend.",
+      "meaning_tr": "sanayileşme",
+      "meaning_en": "industrialization",
+      "meaning_uk": "індустріалізація",
+      "meaning_es": "industrialización"
+    },
+    {
+      "term": "die Vorherrschaft",
+      "type": "Noun",
+      "example": "Das Land kämpfte lange um die *** in Europa.",
+      "meaning_tr": "egemenlik/üstünlük",
+      "meaning_en": "hegemony/supremacy",
+      "meaning_uk": "гегемонія",
+      "meaning_es": "hegemonía"
+    },
+    {
+      "term": "die Aufklärung",
+      "type": "Noun",
+      "example": "Die *** forderte Vernunft und Freiheit.",
+      "meaning_tr": "aydınlanma",
+      "meaning_en": "enlightenment",
+      "meaning_uk": "просвітництво",
+      "meaning_es": "ilustración"
+    },
+    {
+      "term": "die Kolonie",
+      "type": "Noun",
+      "example": "Viele europäische Staaten besaßen früher eine *** in Afrika.",
+      "meaning_tr": "sömürge",
+      "meaning_en": "colony",
+      "meaning_uk": "колонія",
+      "meaning_es": "colonia"
+    },
+    {
+      "term": "stürzen",
+      "type": "Verb",
+      "example": "Die Revolution führte dazu, dass der König *** wurde.",
+      "meaning_tr": "devirmek",
+      "meaning_en": "to topple/overthrow",
+      "meaning_uk": "скинути",
+      "meaning_es": "derrocar"
+    },
+    {
+      "term": "die Verfassung",
+      "type": "Noun",
+      "example": "Die neue *** garantiert alle Grundrechte der Bürger.",
+      "meaning_tr": "anayasa",
+      "meaning_en": "constitution",
+      "meaning_uk": "конституція",
+      "meaning_es": "constitución"
+    },
+    {
+      "term": "die Unabhängigkeit",
+      "type": "Noun",
+      "example": "Nach Jahren des Kampfes erlangte die Nation ihre ***.",
+      "meaning_tr": "bağımsızlık",
+      "meaning_en": "independence",
+      "meaning_uk": "незалежність",
+      "meaning_es": "independencia"
+    },
+    {
+      "term": "der Zeitzeuge",
+      "type": "Noun",
+      "example": "Der *** berichtete eindrucksvoll von den Ereignissen.",
+      "meaning_tr": "tanık",
+      "meaning_en": "contemporary witness",
+      "meaning_uk": "очевидець",
+      "meaning_es": "testigo presencial"
+    },
+    {
+      "term": "die Unterdrückung",
+      "type": "Noun",
+      "example": "Das Volk leistete gegen die *** Widerstand.",
+      "meaning_tr": "baskı",
+      "meaning_en": "oppression",
+      "meaning_uk": "пригнічення",
+      "meaning_es": "opresión"
+    },
+    {
+      "term": "die Spaltung",
+      "type": "Noun",
+      "example": "Die *** der Gesellschaft war eine Folge der politischen Krise.",
+      "meaning_tr": "bölünme",
+      "meaning_en": "split/division",
+      "meaning_uk": "розкол",
+      "meaning_es": "división"
+    },
+    {
+      "term": "historisch",
+      "type": "Adjective",
+      "example": "Das Schloss hat eine große *** Bedeutung.",
+      "meaning_tr": "tarihi",
+      "meaning_en": "historical",
+      "meaning_uk": "історичний",
+      "meaning_es": "histórico"
+    },
+    {
+      "term": "die Versöhnung",
+      "type": "Noun",
+      "example": "Nach dem Krieg war die *** der Völker das wichtigste Ziel.",
+      "meaning_tr": "uzlaşma",
+      "meaning_en": "reconciliation",
+      "meaning_uk": "примирення",
+      "meaning_es": "reconciliación"
+    },
+    {
+      "term": "der Untergang",
+      "type": "Noun",
+      "example": "Der *** des Römischen Reiches war ein langwieriger Prozess.",
+      "meaning_tr": "çöküş/yıkılış",
+      "meaning_en": "downfall/decline",
+      "meaning_uk": "занепад",
+      "meaning_es": "caída/declive"
+    },
+    {
+      "term": "die Ausbeutung",
+      "type": "Noun",
+      "example": "Die Arbeiter litten unter der *** durch die Fabrikbesitzer.",
+      "meaning_tr": "sömürü",
+      "meaning_en": "exploitation",
+      "meaning_uk": "експлуатація",
+      "meaning_es": "explotación"
+    },
+    {
+      "term": "die Flucht",
+      "type": "Noun",
+      "example": "Viele Menschen ergriffen die *** vor dem Terror.",
+      "meaning_tr": "kaçış",
+      "meaning_en": "flight/escape",
+      "meaning_uk": "втеча",
+      "meaning_es": "huida"
+    },
+    {
+      "term": "die Wiedervereinigung",
+      "type": "Noun",
+      "example": "Die *** Deutschlands fand im Jahr 1990 statt.",
+      "meaning_tr": "yeniden birleşme",
+      "meaning_en": "reunification",
+      "meaning_uk": "возз'єднання",
+      "meaning_es": "reunificación"
+    },
+    {
+      "term": "der Aufstand",
+      "type": "Noun",
+      "example": "Der *** wurde vom Militär gewaltsam niedergeschlagen.",
+      "meaning_tr": "ayaklanma",
+      "meaning_en": "uprising/rebellion",
+      "meaning_uk": "повстання",
+      "meaning_es": "revuelta"
+    },
+    {
+      "term": "die Ausgrenzung",
+      "type": "Noun",
+      "example": "Die systematische *** von Minderheiten ist ein dunkles Kapitel.",
+      "meaning_tr": "dışlama",
+      "meaning_en": "exclusion",
+      "meaning_uk": "виключення",
+      "meaning_es": "exclusión"
+    },
+    {
+      "term": "die Diktatur",
+      "type": "Noun",
+      "example": "In einer *** gibt es keine freie Meinungsäußerung.",
+      "meaning_tr": "diktatörlük",
+      "meaning_en": "dictatorship",
+      "meaning_uk": "диктатура",
+      "meaning_es": "dictadura"
+    },
+    {
+      "term": "die Demokratie",
+      "type": "Noun",
+      "example": "Die *** basiert auf der Teilhabe der Bürger.",
+      "meaning_tr": "demokrasi",
+      "meaning_en": "democracy",
+      "meaning_uk": "демократія",
+      "meaning_es": "democracia"
+    },
+    {
+      "term": "die Expansion",
+      "type": "Noun",
+      "example": "Die militärische *** des Landes führte zu vielen Kriegen.",
+      "meaning_tr": "genişleme",
+      "meaning_en": "expansion",
+      "meaning_uk": "експансія",
+      "meaning_es": "expansión"
+    },
+    {
+      "term": "die Verfolgung",
+      "type": "Noun",
+      "example": "Die *** von Andersdenkenden war an der Tagesordnung.",
+      "meaning_tr": "takip/zulüm",
+      "meaning_en": "persecution",
+      "meaning_uk": "переслідування",
+      "meaning_es": "persecución"
+    },
+    {
+      "term": "die Gründung",
+      "type": "Noun",
+      "example": "Die *** der Universität geht auf das 14. Jahrhundert zurück.",
+      "meaning_tr": "kuruluş",
+      "meaning_en": "foundation",
+      "meaning_uk": "заснування",
+      "meaning_es": "fundación"
+    },
+    {
+      "term": "der Vertrag",
+      "type": "Noun",
+      "example": "Die Konfliktparteien unterschrieben einen ***.",
+      "meaning_tr": "antlaşma/sözleşme",
+      "meaning_en": "treaty/contract",
+      "meaning_uk": "договір",
+      "meaning_es": "tratado"
+    },
+    {
+      "term": "die Migration",
+      "type": "Noun",
+      "example": "Historisch gesehen war *** immer ein Motor für Veränderungen.",
+      "meaning_tr": "göç",
+      "meaning_en": "migration",
+      "meaning_uk": "міграція",
+      "meaning_es": "migración"
+    },
+    {
+      "term": "die Weltwirtschaftskrise",
+      "type": "Noun",
+      "example": "Die *** hatte verheerende soziale Folgen.",
+      "meaning_tr": "dünya ekonomik krizi",
+      "meaning_en": "Great Depression",
+      "meaning_uk": "велика депресія",
+      "meaning_es": "gran depresión"
+    },
+    {
+      "term": "die Emanzipation",
+      "type": "Noun",
+      "example": "Die *** der Frau war ein langer gesellschaftlicher Kampf.",
+      "meaning_tr": "özgürleşme",
+      "meaning_en": "emancipation",
+      "meaning_uk": "емансипація",
+      "meaning_es": "emancipación"
+    },
+    {
+      "term": "die Aufarbeitung",
+      "type": "Noun",
+      "example": "Die *** der Vergangenheit ist für eine Gesellschaft wichtig.",
+      "meaning_tr": "geçmişle yüzleşme",
+      "meaning_en": "coming to terms with the past",
+      "meaning_uk": "осмислення минулого",
+      "meaning_es": "confrontación con el pasado"
+    },
+    {
+      "term": "die Vertreibung",
+      "type": "Noun",
+      "example": "Die *** von Millionen Menschen war eine direkte Folge des Krieges.",
+      "meaning_tr": "sürgün",
+      "meaning_en": "expulsion",
+      "meaning_uk": "вигнання",
+      "meaning_es": "expulsión"
+    },
+    {
+      "term": "die Ideologie",
+      "type": "Noun",
+      "example": "Die *** des Regimes basierte auf radikalen Ansichten.",
+      "meaning_tr": "ideoloji",
+      "meaning_en": "ideology",
+      "meaning_uk": "ідеологія",
+      "meaning_es": "ideología"
+    },
+    {
+      "term": "die Diplomatie",
+      "type": "Noun",
+      "example": "Durch geschickte *** konnte ein Krieg verhindert werden.",
+      "meaning_tr": "diplomasi",
+      "meaning_en": "diplomacy",
+      "meaning_uk": "дипломатія",
+      "meaning_es": "diplomacia"
+    },
+    {
+      "term": "die Zivilisation",
+      "type": "Noun",
+      "example": "Diese *** entwickelte eine sehr komplexe Schrift.",
+      "meaning_tr": "medeniyet",
+      "meaning_en": "civilization",
+      "meaning_uk": "цивілізація",
+      "meaning_es": "civilización"
+    },
+    {
+      "term": "die Vorherrschaft",
+      "type": "Noun",
+      "example": "Sie kämpften um die *** über die Handelsrouten.",
+      "meaning_tr": "üstünlük",
+      "meaning_en": "supremacy",
+      "meaning_uk": "панування",
+      "meaning_es": "supremacía"
+    },
+    {
+      "term": "die Säkularisierung",
+      "type": "Noun",
+      "example": "Die *** trennte den Staat von der Kirche.",
+      "meaning_tr": "laikleşme",
+      "meaning_en": "secularization",
+      "meaning_uk": "секуляризація",
+      "meaning_es": "secularización"
+    },
+    {
+      "term": "die Souveränität",
+      "type": "Noun",
+      "example": "Der Staat erklärte seine volle ***.",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_uk": "суверенітет",
+      "meaning_es": "soberanía"
+    }
+  ]
+}

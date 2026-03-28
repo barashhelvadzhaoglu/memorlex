@@ -1,0 +1,411 @@
+{
+  "title": "Philosophie & Werte (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Ethik",
+      "type": "Noun",
+      "example": "Wir diskutieren im Seminar über medizinische ***.",
+      "meaning_tr": "etik",
+      "meaning_en": "ethics",
+      "meaning_uk": "етика",
+      "meaning_es": "ética"
+    },
+    {
+      "term": "die Moral",
+      "type": "Noun",
+      "example": "Die *** dieser Geschichte ist schwer zu verstehen.",
+      "meaning_tr": "moral, ahlak",
+      "meaning_en": "morality",
+      "meaning_uk": "мораль",
+      "meaning_es": "moral"
+    },
+    {
+      "term": "die Tugend",
+      "type": "Noun",
+      "example": "Geduld gilt in vielen Kulturen als eine wichtige ***.",
+      "meaning_tr": "erdem",
+      "meaning_en": "virtue",
+      "meaning_uk": "чеснота",
+      "meaning_es": "virtud"
+    },
+    {
+      "term": "das Gewissen",
+      "type": "Noun",
+      "example": "Er hat ein schlechtes ***, weil er gelogen hat.",
+      "meaning_tr": "vicdan",
+      "meaning_en": "conscience",
+      "meaning_uk": "совість",
+      "meaning_es": "conciencia"
+    },
+    {
+      "term": "die Gerechtigkeit",
+      "type": "Noun",
+      "example": "Alle Menschen streben nach sozialer ***.",
+      "meaning_tr": "adalet",
+      "meaning_en": "justice",
+      "meaning_uk": "справедливість",
+      "meaning_es": "justicia"
+    },
+    {
+      "term": "die Freiheit",
+      "type": "Noun",
+      "example": "Die Gedanken sind ***, niemand kann sie einsperren.",
+      "meaning_tr": "özgürlük",
+      "meaning_en": "freedom",
+      "meaning_uk": "свобода",
+      "meaning_es": "libertad"
+    },
+    {
+      "term": "die Vernunft",
+      "type": "Noun",
+      "example": "Man sollte Entscheidungen auf Basis der *** treffen.",
+      "meaning_tr": "akıl, mantık",
+      "meaning_en": "reason",
+      "meaning_uk": "розум",
+      "meaning_es": "razón"
+    },
+    {
+      "term": "die Wahrheit",
+      "type": "Noun",
+      "example": "Es ist oft schwierig, die absolute *** zu finden.",
+      "meaning_tr": "gerçek, hakikat",
+      "meaning_en": "truth",
+      "meaning_uk": "істина",
+      "meaning_es": "verdad"
+    },
+    {
+      "term": "die Existenz",
+      "type": "Noun",
+      "example": "Die Frage nach der menschlichen *** beschäftigt die Philosophie seit jeher.",
+      "meaning_tr": "varoluş",
+      "meaning_en": "existence",
+      "meaning_uk": "існування",
+      "meaning_es": "existencia"
+    },
+    {
+      "term": "der Sinn",
+      "type": "Noun",
+      "example": "Viele Menschen suchen nach dem *** des Lebens.",
+      "meaning_tr": "anlam",
+      "meaning_en": "meaning, sense",
+      "meaning_uk": "сенс",
+      "meaning_es": "sentido"
+    },
+    {
+      "term": "die Überzeugung",
+      "type": "Noun",
+      "example": "Es ist meine feste ***, dass Ehrlichkeit am längsten währt.",
+      "meaning_tr": "ikna, inanç",
+      "meaning_en": "conviction",
+      "meaning_uk": "переконання",
+      "meaning_es": "convicción"
+    },
+    {
+      "term": "die Verantwortung",
+      "type": "Noun",
+      "example": "Jeder trägt die *** für sein eigenes Handeln.",
+      "meaning_tr": "sorumluluk",
+      "meaning_en": "responsibility",
+      "meaning_uk": "відповідальність",
+      "meaning_es": "responsabilidad"
+    },
+    {
+      "term": "die Würde",
+      "type": "Noun",
+      "example": "Die *** des Menschen ist unantastbar.",
+      "meaning_tr": "onur, haysiyet",
+      "meaning_en": "dignity",
+      "meaning_uk": "гідність",
+      "meaning_es": "dignidad"
+    },
+    {
+      "term": "das Prinzip",
+      "type": "Noun",
+      "example": "Ich handle aus *** immer fair.",
+      "meaning_tr": "ilke, prensip",
+      "meaning_en": "principle",
+      "meaning_uk": "принцип",
+      "meaning_es": "principio"
+    },
+    {
+      "term": "die Weltanschauung",
+      "type": "Noun",
+      "example": "Seine religiöse *** beeinflusst sein tägliches Leben.",
+      "meaning_tr": "dünya görüşü",
+      "meaning_en": "worldview",
+      "meaning_uk": "світогляд",
+      "meaning_es": "cosmovisión"
+    },
+    {
+      "term": "die Erkenntnis",
+      "type": "Noun",
+      "example": "Wissenschaft führt oft zu neuen philosophischen ***.",
+      "meaning_tr": "bilgi, kavrayış",
+      "meaning_en": "insight, knowledge",
+      "meaning_uk": "пізнання",
+      "meaning_es": "conocimiento"
+    },
+    {
+      "term": "die Logik",
+      "type": "Noun",
+      "example": "Dieses Argument folgt einer klaren ***.",
+      "meaning_tr": "mantık",
+      "meaning_en": "logic",
+      "meaning_uk": "логіка",
+      "meaning_es": "lógica"
+    },
+    {
+      "term": "der Skeptizismus",
+      "type": "Noun",
+      "example": "Ein gesunder *** gegenüber Nachrichten ist wichtig.",
+      "meaning_tr": "şüphecilik",
+      "meaning_en": "skepticism",
+      "meaning_uk": "скептицизм",
+      "meaning_es": "escepticismo"
+    },
+    {
+      "term": "der Idealismus",
+      "type": "Noun",
+      "example": "Trotz vieler Rückschläge hat er seinen *** nicht verloren.",
+      "meaning_tr": "idealizm",
+      "meaning_en": "idealism",
+      "meaning_uk": "ідеалізм",
+      "meaning_es": "idealismo"
+    },
+    {
+      "term": "der Wert",
+      "type": "Noun",
+      "example": "Welchen *** hat Freundschaft für dich?",
+      "meaning_tr": "değer",
+      "meaning_en": "value",
+      "meaning_uk": "цінність",
+      "meaning_es": "valor"
+    },
+    {
+      "term": "die Norm",
+      "type": "Noun",
+      "example": "Gesellschaftliche *** regeln unser Zusammenleben.",
+      "meaning_tr": "norm, kural",
+      "meaning_en": "norm",
+      "meaning_uk": "норма",
+      "meaning_es": "norma"
+    },
+    {
+      "term": "das Vorurteil",
+      "type": "Noun",
+      "example": "Wir müssen versuchen, jedes *** abzubauen.",
+      "meaning_tr": "önyargı",
+      "meaning_en": "prejudice",
+      "meaning_uk": "упередження",
+      "meaning_es": "prejuicio"
+    },
+    {
+      "term": "die Toleranz",
+      "type": "Noun",
+      "example": "Religiöse *** ist eine Grundvoraussetzung für Frieden.",
+      "meaning_tr": "hoşgörü",
+      "meaning_en": "tolerance",
+      "meaning_uk": "толерантність",
+      "meaning_es": "tolerancia"
+    },
+    {
+      "term": "die Pflicht",
+      "type": "Noun",
+      "example": "Es ist meine ***, die Wahrheit zu sagen.",
+      "meaning_tr": "görev, ödev",
+      "meaning_en": "duty",
+      "meaning_uk": "обов'язок",
+      "meaning_es": "deber"
+    },
+    {
+      "term": "die Weisheit",
+      "type": "Noun",
+      "example": "Das Alter bringt oft eine gewisse *** mit sich.",
+      "meaning_tr": "bilgelik",
+      "meaning_en": "wisdom",
+      "meaning_uk": "мудрість",
+      "meaning_es": "sabiduría"
+    },
+    {
+      "term": "hinterfragen",
+      "type": "Verb",
+      "example": "In der Philosophie muss man alles kritisch ***.",
+      "meaning_tr": "sorgulamak",
+      "meaning_en": "to question",
+      "meaning_uk": "ставити під сумнів",
+      "meaning_es": "cuestionar"
+    },
+    {
+      "term": "reflektieren",
+      "type": "Verb",
+      "example": "Nach dem Gespräch musste ich lange über meine Worte ***.",
+      "meaning_tr": "üzerinde düşünmek",
+      "meaning_en": "to reflect",
+      "meaning_uk": "рефлексувати",
+      "meaning_es": "reflexionar"
+    },
+    {
+      "term": "begründen",
+      "type": "Verb",
+      "example": "Können Sie Ihre Meinung bitte logisch ***?",
+      "meaning_tr": "gerekçelendirmek",
+      "meaning_en": "to justify",
+      "meaning_uk": "обґрунтовувати",
+      "meaning_es": "justificar"
+    },
+    {
+      "term": "zweifeln",
+      "type": "Verb",
+      "example": "Ich beginne an der Richtigkeit dieser Theorie zu ***.",
+      "meaning_tr": "şüphe etmek",
+      "meaning_en": "to doubt",
+      "meaning_uk": "сумніватися",
+      "meaning_es": "dudar"
+    },
+    {
+      "term": "existieren",
+      "type": "Verb",
+      "example": "Glaubst du, dass außerirdisches Leben ***?",
+      "meaning_tr": "var olmak",
+      "meaning_en": "to exist",
+      "meaning_uk": "існувати",
+      "meaning_es": "existir"
+    },
+    {
+      "term": "urteilen",
+      "type": "Verb",
+      "example": "Man sollte nicht zu schnell über andere Menschen ***.",
+      "meaning_tr": "yargılamak",
+      "meaning_en": "to judge",
+      "meaning_uk": "судити",
+      "meaning_es": "juzgar"
+    },
+    {
+      "term": "streben",
+      "type": "Verb",
+      "example": "Viele Menschen *** nach Glück und Wohlstand.",
+      "meaning_tr": "çabalamak, arzulamak",
+      "meaning_en": "to strive",
+      "meaning_uk": "прагнути",
+      "meaning_es": "aspirar"
+    },
+    {
+      "term": "wahrnehmen",
+      "type": "Verb",
+      "example": "Wie wir die Welt ***, hängt von unseren Sinnen ab.",
+      "meaning_tr": "algılamak",
+      "meaning_en": "to perceive",
+      "meaning_uk": "сприймати",
+      "meaning_es": "percibir"
+    },
+    {
+      "term": "moralisch",
+      "type": "Adjective",
+      "example": "Sein Verhalten war aus ***er Sicht nicht korrekt.",
+      "meaning_tr": "ahlaki",
+      "meaning_en": "moral",
+      "meaning_uk": "моральний",
+      "meaning_es": "moral"
+    },
+    {
+      "term": "ethisch",
+      "type": "Adjective",
+      "example": "Dies ist ein schwieriges ***es Dilemma.",
+      "meaning_tr": "etik",
+      "meaning_en": "ethical",
+      "meaning_uk": "етичний",
+      "meaning_es": "ético"
+    },
+    {
+      "term": "subjektiv",
+      "type": "Adjective",
+      "example": "Schönheit ist oft eine ***e Wahrnehmung.",
+      "meaning_tr": "öznel",
+      "meaning_en": "subjective",
+      "meaning_uk": "суб'єктивний",
+      "meaning_es": "subjetivo"
+    },
+    {
+      "term": "objektiv",
+      "type": "Adjective",
+      "example": "Wissenschaftliche Daten sollten *** ausgewertet werden.",
+      "meaning_tr": "nesnel",
+      "meaning_en": "objective",
+      "meaning_uk": "об'єктивний",
+      "meaning_es": "objetivo"
+    },
+    {
+      "term": "vernünftig",
+      "type": "Adjective",
+      "example": "Das ist ein ***er Vorschlag zur Lösung des Problems.",
+      "meaning_tr": "makul, akıllıca",
+      "meaning_en": "reasonable",
+      "meaning_uk": "розумний",
+      "meaning_es": "razonable"
+    },
+    {
+      "term": "gerecht",
+      "type": "Adjective",
+      "example": "Der Richter fällte ein ***es Urteil.",
+      "meaning_tr": "adil",
+      "meaning_en": "just, fair",
+      "meaning_uk": "справедливий",
+      "meaning_es": "justo"
+    },
+    {
+      "term": "absolut",
+      "type": "Adjective",
+      "example": "In der Philosophie gibt es selten eine ***e Wahrheit.",
+      "meaning_tr": "mutlak",
+      "meaning_en": "absolute",
+      "meaning_uk": "абсолютний",
+      "meaning_es": "absoluto"
+    },
+    {
+      "term": "relativ",
+      "type": "Adjective",
+      "example": "Zeit ist laut Einstein ein ***er Begriff.",
+      "meaning_tr": "göreceli",
+      "meaning_en": "relative",
+      "meaning_uk": "відносний",
+      "meaning_es": "relativo"
+    },
+    {
+      "term": "tugendhaft",
+      "type": "Adjective",
+      "example": "Er führt ein ***es Leben nach strengen Regeln.",
+      "meaning_tr": "erdemli",
+      "meaning_en": "virtuous",
+      "meaning_uk": "доброчесний",
+      "meaning_es": "virtuoso"
+    },
+    {
+      "term": "existenziell",
+      "type": "Adjective",
+      "example": "Der Klimawandel ist eine ***e Bedrohung für die Menschheit.",
+      "meaning_tr": "varoluşsal",
+      "meaning_en": "existential",
+      "meaning_uk": "екзистенційний",
+      "meaning_es": "existencial"
+    },
+    {
+      "term": "grundsätzlich",
+      "type": "Adjective",
+      "example": "Wir haben eine ***e Einigung erzielt.",
+      "meaning_tr": "temel, prensipte",
+      "meaning_en": "fundamental",
+      "meaning_uk": "принциповий",
+      "meaning_es": "fundamental"
+    },
+    {
+      "term": "dennoch",
+      "type": "Adverb",
+      "example": "Es war schwierig, *** hat er nicht aufgegeben.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "проте",
+      "meaning_es": "sin embargo"
+    }
+  ]
+}

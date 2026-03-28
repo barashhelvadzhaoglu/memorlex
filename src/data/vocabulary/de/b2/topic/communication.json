@@ -1,0 +1,411 @@
+{
+  "title": "Kommunikation & Telefonate (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Ansprechpartner",
+      "type": "Noun",
+      "example": "Wer ist mein *** für dieses neue Projekt?",
+      "meaning_tr": "muhatap, ilgili kişi",
+      "meaning_en": "contact person",
+      "meaning_uk": "контактна особа",
+      "meaning_es": "persona de contacto"
+    },
+    {
+      "term": "verbinden",
+      "type": "Verb",
+      "example": "Könnten Sie mich bitte mit der Personalabteilung ***?",
+      "meaning_tr": "bağlamak",
+      "meaning_en": "to connect",
+      "meaning_uk": "з'єднувати",
+      "meaning_es": "conectar"
+    },
+    {
+      "term": "die Durchwahl",
+      "type": "Noun",
+      "example": "Haben Sie die direkte *** von Frau Müller?",
+      "meaning_tr": "dâhili numara",
+      "meaning_en": "extension number",
+      "meaning_uk": "додатковий номер",
+      "meaning_es": "extensión"
+    },
+    {
+      "term": "hinterlassen",
+      "type": "Verb",
+      "example": "Möchten Sie eine Nachricht auf dem Anrufbeantworter ***?",
+      "meaning_tr": "bırakmak (mesaj vb.)",
+      "meaning_en": "to leave (a message)",
+      "meaning_uk": "залишати (повідомлення)",
+      "meaning_es": "dejar"
+    },
+    {
+      "term": "ausrichten",
+      "type": "Verb",
+      "example": "Soll ich ihm etwas ***, wenn er zurückkommt?",
+      "meaning_tr": "iletmek (mesaj)",
+      "meaning_en": "to pass on (a message)",
+      "meaning_uk": "передати (повідомлення)",
+      "meaning_es": "transmitir"
+    },
+    {
+      "term": "erreichbar",
+      "type": "Adjective",
+      "example": "Er ist momentan leider nicht telefonisch ***.",
+      "meaning_tr": "ulaşılabilir",
+      "meaning_en": "reachable",
+      "meaning_uk": "досяжний",
+      "meaning_es": "localizable"
+    },
+    {
+      "term": "besetzt",
+      "type": "Adjective",
+      "example": "Ich habe es mehrmals versucht, aber die Leitung war immer ***.",
+      "meaning_tr": "meşgul",
+      "meaning_en": "busy",
+      "meaning_uk": "зайнято",
+      "meaning_es": "ocupado"
+    },
+    {
+      "term": "die Rückfrage",
+      "type": "Noun",
+      "example": "Falls Sie eine *** haben, zögern Sie nicht anzurufen.",
+      "meaning_tr": "ek soru, danışma",
+      "meaning_en": "follow-up question",
+      "meaning_uk": "додаткове запитання",
+      "meaning_es": "pregunta aclaratoria"
+    },
+    {
+      "term": "das Anliegen",
+      "type": "Noun",
+      "example": "Könnten Sie mir Ihr *** kurz schildern?",
+      "meaning_tr": "maruzat, konu",
+      "meaning_en": "matter, concern",
+      "meaning_uk": "справа, запит",
+      "meaning_es": "asunto"
+    },
+    {
+      "term": "die Leitung",
+      "type": "Noun",
+      "example": "Bleiben Sie bitte in der ***, ich schaue nach.",
+      "meaning_tr": "hat (telefon)",
+      "meaning_en": "line",
+      "meaning_uk": "лінія",
+      "meaning_es": "línea"
+    },
+    {
+      "term": "zuständig",
+      "type": "Adjective",
+      "example": "Dafür ist mein Kollege aus der IT-Abteilung ***.",
+      "meaning_tr": "yetkili, sorumlu",
+      "meaning_en": "responsible, in charge",
+      "meaning_uk": "відповідальний",
+      "meaning_es": "competente"
+    },
+    {
+      "term": "weiterleiten",
+      "type": "Verb",
+      "example": "Ich werde Ihren Anruf an die zuständige Stelle ***.",
+      "meaning_tr": "yönlendirmek",
+      "meaning_en": "to forward",
+      "meaning_uk": "переадресовувати",
+      "meaning_es": "desviar"
+    },
+    {
+      "term": "die Auskunft",
+      "type": "Noun",
+      "example": "Vielen Dank für die freundliche ***.",
+      "meaning_tr": "bilgi, danışma",
+      "meaning_en": "information",
+      "meaning_uk": "довідка",
+      "meaning_es": "información"
+    },
+    {
+      "term": "bestätigen",
+      "type": "Verb",
+      "example": "Könnten Sie mir den Termin bitte per E-Mail ***?",
+      "meaning_tr": "onaylamak",
+      "meaning_en": "to confirm",
+      "meaning_uk": "підтверджувати",
+      "meaning_es": "confirmar"
+    },
+    {
+      "term": "dringend",
+      "type": "Adjective",
+      "example": "Es handelt sich um eine sehr *** Angelegenheit.",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміновий",
+      "meaning_es": "urgente"
+    },
+    {
+      "term": "der Teilnehmer",
+      "type": "Noun",
+      "example": "Der gewünschte *** ist zurzeit nicht erreichbar.",
+      "meaning_tr": "katılımcı, abone",
+      "meaning_en": "participant, subscriber",
+      "meaning_uk": "абонент",
+      "meaning_es": "abonado"
+    },
+    {
+      "term": "die Vorwahl",
+      "type": "Noun",
+      "example": "Wissen Sie die *** für Berlin?",
+      "meaning_tr": "alan kodu",
+      "meaning_en": "area code",
+      "meaning_uk": "код міста",
+      "meaning_es": "prefijo"
+    },
+    {
+      "term": "auflegen",
+      "type": "Verb",
+      "example": "Bitte nicht ***, ich verbinde Sie sofort.",
+      "meaning_tr": "telefonu kapatmak",
+      "meaning_en": "to hang up",
+      "meaning_uk": "класти слухавку",
+      "meaning_es": "colgar"
+    },
+    {
+      "term": "abheben",
+      "type": "Verb",
+      "example": "Ich habe es lange klingeln lassen, aber niemand hat ***.",
+      "meaning_tr": "telefonu açmak",
+      "meaning_en": "to pick up",
+      "meaning_uk": "піднімати слухавку",
+      "meaning_es": "descolgar"
+    },
+    {
+      "term": "wählen",
+      "type": "Verb",
+      "example": "Sie müssen zuerst die Null ***, um ein Amt zu bekommen.",
+      "meaning_tr": "numara tuşlamak",
+      "meaning_en": "to dial",
+      "meaning_uk": "набирати номер",
+      "meaning_es": "marcar"
+    },
+    {
+      "term": "mitteilen",
+      "type": "Verb",
+      "example": "Ich wollte Ihnen nur ***, dass der Termin verschoben wurde.",
+      "meaning_tr": "bildirmek",
+      "meaning_en": "to inform, communicate",
+      "meaning_uk": "повідомляти",
+      "meaning_es": "comunicar"
+    },
+    {
+      "term": "die Störung",
+      "type": "Noun",
+      "example": "Es tut mir leid, es gab wohl eine *** in der Leitung.",
+      "meaning_tr": "arıza, parazit",
+      "meaning_en": "disturbance, interference",
+      "meaning_uk": "перешкода",
+      "meaning_es": "interferencia"
+    },
+    {
+      "term": "das Telefonat",
+      "type": "Noun",
+      "example": "Unser *** war sehr aufschlussreich.",
+      "meaning_tr": "telefon görüşmesi",
+      "meaning_en": "phone call",
+      "meaning_uk": "телефонна розмова",
+      "meaning_es": "conversación telefónica"
+    },
+    {
+      "term": "vereinbaren",
+      "type": "Verb",
+      "example": "Können wir einen Termin für nächste Woche ***?",
+      "meaning_tr": "kararlaştırmak",
+      "meaning_en": "to agree, arrange",
+      "meaning_uk": "домовлятися",
+      "meaning_es": "acordar"
+    },
+    {
+      "term": "klären",
+      "type": "Verb",
+      "example": "Wir müssen dieses Problem intern ***.",
+      "meaning_tr": "aydınlatmak, çözmek",
+      "meaning_en": "to clarify",
+      "meaning_uk": "з'ясовувати",
+      "meaning_es": "aclarar"
+    },
+    {
+      "term": "ausführlich",
+      "type": "Adjective",
+      "example": "Wir können das morgen in einem *** Gespräch besprechen.",
+      "meaning_tr": "ayrıntılı",
+      "meaning_en": "detailed",
+      "meaning_uk": "детальний",
+      "meaning_es": "detallado"
+    },
+    {
+      "term": "höflich",
+      "type": "Adjective",
+      "example": "Am Telefon sollte man immer *** bleiben.",
+      "meaning_tr": "kibar",
+      "meaning_en": "polite",
+      "meaning_uk": "ввічливий",
+      "meaning_es": "educado"
+    },
+    {
+      "term": "schriftlich",
+      "type": "Adjective",
+      "example": "Ich benötige Ihre Kündigung in *** Form.",
+      "meaning_tr": "yazılı",
+      "meaning_en": "in writing",
+      "meaning_uk": "письмово",
+      "meaning_es": "por escrito"
+    },
+    {
+      "term": "mündlich",
+      "type": "Adjective",
+      "example": "Wir haben das bereits *** am Telefon besprochen.",
+      "meaning_tr": "sözlü",
+      "meaning_en": "oral, verbal",
+      "meaning_uk": "усно",
+      "meaning_es": "oral"
+    },
+    {
+      "term": "diesbezüglich",
+      "type": "Adverb",
+      "example": "Haben Sie *** noch weitere Fragen?",
+      "meaning_tr": "bu konuyla ilgili",
+      "meaning_en": "regarding this",
+      "meaning_uk": "стосовно цього",
+      "meaning_es": "al respecto"
+    },
+    {
+      "term": "beziehungsweise",
+      "type": "Conjunction",
+      "example": "Sie können uns anrufen *** eine E-Mail schreiben.",
+      "meaning_tr": "veya, daha doğrusu",
+      "meaning_en": "or, respectively",
+      "meaning_uk": "або, відповідно",
+      "meaning_es": "o bien"
+    },
+    {
+      "term": "die Mailbox",
+      "type": "Noun",
+      "example": "Bitte sprechen Sie Ihre Nachricht auf die ***.",
+      "meaning_tr": "telesekreter",
+      "meaning_en": "voicemail",
+      "meaning_uk": "голосова пошта",
+      "meaning_es": "buzón de voz"
+    },
+    {
+      "term": "der Empfang",
+      "type": "Noun",
+      "example": "In diesem Tunnel habe ich leider keinen ***.",
+      "meaning_tr": "çekim (sinyal)",
+      "meaning_en": "reception (signal)",
+      "meaning_uk": "сигнал",
+      "meaning_es": "cobertura"
+    },
+    {
+      "term": "die Verbindung",
+      "type": "Noun",
+      "example": "Die *** ist heute leider sehr schlecht.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "connection",
+      "meaning_uk": "зв'язок",
+      "meaning_es": "conexión"
+    },
+    {
+      "term": "unterbrechen",
+      "type": "Verb",
+      "example": "Entschuldigung, wenn ich Sie kurz *** muss.",
+      "meaning_tr": "sözünü kesmek",
+      "meaning_en": "to interrupt",
+      "meaning_uk": "переривати",
+      "meaning_es": "interrumpir"
+    },
+    {
+      "term": "verbleiben",
+      "type": "Verb",
+      "example": "Wie *** wir jetzt bezüglich des Termins?",
+      "meaning_tr": "karara varmak, kalmak",
+      "meaning_en": "to remain, agree to stay",
+      "meaning_uk": "домовлятися (про подальші дії)",
+      "meaning_es": "quedar"
+    },
+    {
+      "term": "zurückrufen",
+      "type": "Verb",
+      "example": "Könnten Sie mich bitte in einer Stunde ***?",
+      "meaning_tr": "geri aramak",
+      "meaning_en": "to call back",
+      "meaning_uk": "передзвонити",
+      "meaning_es": "volver a llamar"
+    },
+    {
+      "term": "besprechen",
+      "type": "Verb",
+      "example": "Wir sollten das Thema in Ruhe ***.",
+      "meaning_tr": "görüşmek, tartışmak",
+      "meaning_en": "to discuss",
+      "meaning_uk": "обговорювати",
+      "meaning_es": "discutir"
+    },
+    {
+      "term": "informieren",
+      "type": "Verb",
+      "example": "Ich werde Sie über das Ergebnis ***.",
+      "meaning_tr": "bilgilendirmek",
+      "meaning_en": "to inform",
+      "meaning_uk": "інформувати",
+      "meaning_es": "informar"
+    },
+    {
+      "term": "schildern",
+      "type": "Verb",
+      "example": "Können Sie mir die Situation kurz ***?",
+      "meaning_tr": "betimlemek, anlatmak",
+      "meaning_en": "to describe",
+      "meaning_uk": "описувати",
+      "meaning_es": "describir"
+    },
+    {
+      "term": "die Vermittlung",
+      "type": "Noun",
+      "example": "Rufen Sie bitte die *** an, wenn Sie die Nummer nicht wissen.",
+      "meaning_tr": "santral",
+      "meaning_en": "operator, switchboard",
+      "meaning_uk": "комутатор",
+      "meaning_es": "centralita"
+    },
+    {
+      "term": "das Gespräch",
+      "type": "Noun",
+      "example": "Vielen Dank für das nette ***.",
+      "meaning_tr": "konuşma",
+      "meaning_en": "conversation",
+      "meaning_uk": "розмова",
+      "meaning_es": "conversación"
+    },
+    {
+      "term": "unverbindlich",
+      "type": "Adjective",
+      "example": "Dies ist nur ein *** Angebot.",
+      "meaning_tr": "bağlayıcı olmayan",
+      "meaning_en": "non-binding",
+      "meaning_uk": "незобов'язуючий",
+      "meaning_es": "sin compromiso"
+    },
+    {
+      "term": "jederzeit",
+      "type": "Adverb",
+      "example": "Sie können mich *** auf meinem Handy erreichen.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "at any time",
+      "meaning_uk": "у будь-який час",
+      "meaning_es": "en cualquier momento"
+    },
+    {
+      "term": "nachfragen",
+      "type": "Verb",
+      "example": "Darf ich diesbezüglich noch einmal ***?",
+      "meaning_tr": "tekrar sormak, soruşturmak",
+      "meaning_en": "to inquire, ask again",
+      "meaning_uk": "перепитувати",
+      "meaning_es": "preguntar"
+    }
+  ]
+}

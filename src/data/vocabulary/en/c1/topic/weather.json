@@ -1,0 +1,546 @@
+{
+  "title": "Weather & Seasons (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a deluge",
+      "type": "Noun",
+      "example": "The city was brought to a standstill by *** of rain last night.",
+      "meaning_tr": "sağanak",
+      "meaning_en": "a severe flood or a heavy downpour",
+      "meaning_uk": "злива",
+      "meaning_es": "un diluvio"
+    },
+    {
+      "term": "to pelt",
+      "type": "Verb",
+      "example": "Hailstones began to *** the roof with alarming force.",
+      "meaning_tr": "şiddetle yağmak",
+      "meaning_en": "to fall quickly and heavily",
+      "meaning_uk": "сильно бити (про дощ/град)",
+      "meaning_es": "golpear con fuerza"
+    },
+    {
+      "term": "inclement",
+      "type": "Adjective",
+      "example": "Due to *** weather conditions, the outdoor concert was postponed.",
+      "meaning_tr": "sert (hava)",
+      "meaning_en": "unpleasantly cold or wet",
+      "meaning_uk": "несприятливий",
+      "meaning_es": "inclemente"
+    },
+    {
+      "term": "a gale",
+      "type": "Noun",
+      "example": "The ship struggled to stay on course during the ***.",
+      "meaning_tr": "fırtına",
+      "meaning_en": "a very strong wind",
+      "meaning_uk": "штормовий вітер",
+      "meaning_es": "un vendaval"
+    },
+    {
+      "term": "sultry",
+      "type": "Adjective",
+      "example": "We retreated indoors to escape the *** heat of the afternoon.",
+      "meaning_tr": "boğucu sıcak",
+      "meaning_en": "hot and humid",
+      "meaning_uk": "душно",
+      "meaning_es": "sofocante"
+    },
+    {
+      "term": "to dissipate",
+      "type": "Verb",
+      "example": "The morning mist began to *** as the sun rose higher.",
+      "meaning_tr": "dağılmak",
+      "meaning_en": "to disappear or scatter",
+      "meaning_uk": "розсіюватися",
+      "meaning_es": "disiparse"
+    },
+    {
+      "term": "a heatwave",
+      "type": "Noun",
+      "example": "The prolonged *** has caused significant damage to the crops.",
+      "meaning_tr": "sıcak hava dalgası",
+      "meaning_en": "a period of unusually hot weather",
+      "meaning_uk": "спека",
+      "meaning_es": "una ola de calor"
+    },
+    {
+      "term": "torrential",
+      "type": "Adjective",
+      "example": "We were trapped in our hotel by *** rain for three days.",
+      "meaning_tr": "şiddetli (yağmur)",
+      "meaning_en": "falling rapidly and in copious quantities",
+      "meaning_uk": "проливний",
+      "meaning_es": "torrencial"
+    },
+    {
+      "term": "a drought",
+      "type": "Noun",
+      "example": "The region is suffering from its worst *** in a century.",
+      "meaning_tr": "kuraklık",
+      "meaning_en": "a prolonged period of abnormally low rainfall",
+      "meaning_uk": "посуха",
+      "meaning_es": "una sequía"
+    },
+    {
+      "term": "frigid",
+      "type": "Adjective",
+      "example": "The explorers were unprepared for the *** temperatures of the Arctic.",
+      "meaning_tr": "buz gibi",
+      "meaning_en": "extremely cold",
+      "meaning_uk": "крижаний",
+      "meaning_es": "gélido"
+    },
+    {
+      "term": "an overcast sky",
+      "type": "Noun",
+      "example": "Despite the ***, the temperature remained quite mild.",
+      "meaning_tr": "kapalı hava",
+      "meaning_en": "a sky covered with clouds",
+      "meaning_uk": "похмуре небо",
+      "meaning_es": "un cielo nublado"
+    },
+    {
+      "term": "to blizzard",
+      "type": "Verb",
+      "example": "It started to *** just as we reached the mountain pass.",
+      "meaning_tr": "tipi şeklinde yağmak",
+      "meaning_en": "to snow heavily with high winds",
+      "meaning_uk": "замітати (про хуртовину)",
+      "meaning_es": "nevar con fuerza"
+    },
+    {
+      "term": "balmy",
+      "type": "Adjective",
+      "example": "We enjoyed a *** evening walking along the beach.",
+      "meaning_tr": "ılık ve hoş",
+      "meaning_en": "pleasantly warm",
+      "meaning_uk": "м'який (про погоду)",
+      "meaning_es": "apacible"
+    },
+    {
+      "term": "a gust",
+      "type": "Noun",
+      "example": "A sudden *** of wind blew my hat off.",
+      "meaning_tr": "ani rüzgar",
+      "meaning_en": "a brief, strong rush of wind",
+      "meaning_uk": "порив вітру",
+      "meaning_es": "una ráfaga"
+    },
+    {
+      "term": "precipitate",
+      "type": "Verb",
+      "example": "The sudden drop in pressure will likely *** heavy storms.",
+      "meaning_tr": "yağışa sebep olmak",
+      "meaning_en": "to cause to happen suddenly (usually rain)",
+      "meaning_uk": "викликати опади",
+      "meaning_es": "precipitar"
+    },
+    {
+      "term": "temperate",
+      "type": "Adjective",
+      "example": "The island enjoys a *** climate throughout the year.",
+      "meaning_tr": "ılıman",
+      "meaning_en": "mild and moderate",
+      "meaning_uk": "помірний",
+      "meaning_es": "templado"
+    },
+    {
+      "term": "a slush",
+      "type": "Noun",
+      "example": "Walking through the *** on the sidewalk was quite difficult.",
+      "meaning_tr": "erimiş kar ve çamur",
+      "meaning_en": "partially melted snow",
+      "meaning_uk": "талий сніг",
+      "meaning_es": "nieve derretida"
+    },
+    {
+      "term": "to swelter",
+      "type": "Verb",
+      "example": "We had to *** in the train because the air conditioning failed.",
+      "meaning_tr": "sıcaktan bunalmak",
+      "meaning_en": "to suffer from oppressive heat",
+      "meaning_uk": "мліти від спеки",
+      "meaning_es": "sofocarse de calor"
+    },
+    {
+      "term": "muggy",
+      "type": "Adjective",
+      "example": "It was a *** day, making it hard to breathe comfortably.",
+      "meaning_tr": "nemli ve bunaltıcı",
+      "meaning_en": "unpleasantly warm and humid",
+      "meaning_uk": "вологий і задушливий",
+      "meaning_es": "bochornoso"
+    },
+    {
+      "term": "a squall",
+      "type": "Noun",
+      "example": "The boat was caught in a sudden *** near the harbor.",
+      "meaning_tr": "ani fırtına",
+      "meaning_en": "a sudden violent gust of wind or a localized storm",
+      "meaning_uk": "шквальний вітер",
+      "meaning_es": "un chubasco"
+    },
+    {
+      "term": "wintry",
+      "type": "Adjective",
+      "example": "There was a *** chill in the air despite the spring calendar.",
+      "meaning_tr": "kış gibi",
+      "meaning_en": "characteristic of winter",
+      "meaning_uk": "зимовий",
+      "meaning_es": "invernal"
+    },
+    {
+      "term": "to howl",
+      "type": "Verb",
+      "example": "We could hear the wind *** through the cracks in the window.",
+      "meaning_tr": "uğuldamak",
+      "meaning_en": "to make a long, loud, wailing cry (of wind)",
+      "meaning_uk": "вити",
+      "meaning_es": "aullar"
+    },
+    {
+      "term": "a haze",
+      "type": "Noun",
+      "example": "The distant mountains were obscured by a heat ***.",
+      "meaning_tr": "pus",
+      "meaning_en": "a slight obscuration of the atmosphere",
+      "meaning_uk": "серпанок",
+      "meaning_es": "una neblina"
+    },
+    {
+      "term": "blistering",
+      "type": "Adjective",
+      "example": "We walked across the desert under a *** sun.",
+      "meaning_tr": "kavurucu",
+      "meaning_en": "extremely hot",
+      "meaning_uk": "пекучий",
+      "meaning_es": "abrasador"
+    },
+    {
+      "term": "a frost",
+      "type": "Noun",
+      "example": "The early *** destroyed most of the vegetable garden.",
+      "meaning_tr": "don",
+      "meaning_en": "a deposit of ice crystals on objects",
+      "meaning_uk": "мороз",
+      "meaning_es": "una helada"
+    },
+    {
+      "term": "to settle",
+      "type": "Verb",
+      "example": "The snow began to *** on the rooftops by midnight.",
+      "meaning_tr": "yerleşmek (kar için)",
+      "meaning_en": "to fall and stay on the ground",
+      "meaning_uk": "лягати (про сніг)",
+      "meaning_es": "cuajar"
+    },
+    {
+      "term": "humid",
+      "type": "Adjective",
+      "example": "The tropical climate is extremely *** during the rainy season.",
+      "meaning_tr": "nemli",
+      "meaning_en": "marked by a relatively high level of water vapor",
+      "meaning_uk": "вологий",
+      "meaning_es": "húmedo"
+    },
+    {
+      "term": "an avalanche",
+      "type": "Noun",
+      "example": "The hikers were trapped by a massive *** on the north face.",
+      "meaning_tr": "çığ",
+      "meaning_en": "a mass of snow, ice, and rocks falling down a mountain",
+      "meaning_uk": "лавина",
+      "meaning_es": "una avalancha"
+    },
+    {
+      "term": "to clear up",
+      "type": "Verb",
+      "example": "The rain is expected to *** by late afternoon.",
+      "meaning_tr": "açmak (hava)",
+      "meaning_en": "to become bright or sunny",
+      "meaning_uk": "прояснюватися",
+      "meaning_es": "despejarse"
+    },
+    {
+      "term": "unsettled",
+      "type": "Adjective",
+      "example": "The weather remains ***, with sun and rain alternating all day.",
+      "meaning_tr": "değişken",
+      "meaning_en": "changeable and unpredictable",
+      "meaning_uk": "нестійкий",
+      "meaning_es": "inestable"
+    },
+    {
+      "term": "a downpour",
+      "type": "Noun",
+      "example": "We were caught in a sudden *** while shopping downtown.",
+      "meaning_tr": "sağanak yağış",
+      "meaning_en": "a heavy fall of rain",
+      "meaning_uk": "злива",
+      "meaning_es": "un aguacero"
+    },
+    {
+      "term": "to parch",
+      "type": "Verb",
+      "example": "The sun continued to *** the earth throughout the long summer.",
+      "meaning_tr": "kurutmak",
+      "meaning_en": "to make dry and thirsty",
+      "meaning_uk": "висушувати",
+      "meaning_es": "resecar"
+    },
+    {
+      "term": "dismal",
+      "type": "Adjective",
+      "example": "It was a ***, gray day, perfect for staying inside.",
+      "meaning_tr": "kasvetli",
+      "meaning_en": "gloomy and depressing",
+      "meaning_uk": "похмурий",
+      "meaning_es": "lúgubre"
+    },
+    {
+      "term": "a flurry",
+      "type": "Noun",
+      "example": "There was a brief *** of snow, but it didn't stick.",
+      "meaning_tr": "hafif kar yağışı",
+      "meaning_en": "a small amount of snow blown by the wind",
+      "meaning_uk": "порив снігу",
+      "meaning_es": "una ráfaga de nieve"
+    },
+    {
+      "term": "to loom",
+      "type": "Verb",
+      "example": "Dark storm clouds began to *** over the horizon.",
+      "meaning_tr": "belirmek (kötü bir şey)",
+      "meaning_en": "to appear as a shadowy form, especially one that is large or threatening",
+      "meaning_uk": "нависати",
+      "meaning_es": "asomarse"
+    },
+    {
+      "term": "scorching",
+      "type": "Adjective",
+      "example": "We stayed indoors to avoid the *** temperatures at midday.",
+      "meaning_tr": "yakıcı",
+      "meaning_en": "very hot",
+      "meaning_uk": "палючий",
+      "meaning_es": "abrasador"
+    },
+    {
+      "term": "a gale-force wind",
+      "type": "Noun",
+      "example": "The roof was damaged by *** last night.",
+      "meaning_tr": "fırtına şiddetinde rüzgar",
+      "meaning_en": "wind of extreme strength",
+      "meaning_uk": "штормовий вітер",
+      "meaning_es": "un viento huracanado"
+    },
+    {
+      "term": "to deluge",
+      "type": "Verb",
+      "example": "The heavy rain threatened to *** the lower valley.",
+      "meaning_tr": "su altında bırakmak",
+      "meaning_en": "to flood with water",
+      "meaning_uk": "затоплювати",
+      "meaning_es": "inundar"
+    },
+    {
+      "term": "stifling",
+      "type": "Adjective",
+      "example": "It was *** in the room without any ventilation.",
+      "meaning_tr": "boğucu",
+      "meaning_en": "suffocatingly hot",
+      "meaning_uk": "задушливий",
+      "meaning_es": "sofocante"
+    },
+    {
+      "term": "a mist",
+      "type": "Noun",
+      "example": "A thick *** covered the lake in the early morning.",
+      "meaning_tr": "sis",
+      "meaning_en": "a cloud of tiny water droplets",
+      "meaning_uk": "туман",
+      "meaning_es": "una neblina"
+    },
+    {
+      "term": "to overcast",
+      "type": "Verb",
+      "example": "Clouds began to *** the sky, blocking out the sun.",
+      "meaning_tr": "kaplamak (gökyüzünü)",
+      "meaning_en": "to cover with clouds",
+      "meaning_uk": "затягувати (про небо)",
+      "meaning_es": "cubrirse"
+    },
+    {
+      "term": "mild",
+      "type": "Adjective",
+      "example": "We are experiencing a surprisingly *** winter this year.",
+      "meaning_tr": "ılıman",
+      "meaning_en": "not severe or extreme",
+      "meaning_uk": "м'який",
+      "meaning_es": "suave"
+    },
+    {
+      "term": "a cyclone",
+      "type": "Noun",
+      "example": "The coastal towns were evacuated as the *** approached.",
+      "meaning_tr": "siklon",
+      "meaning_en": "a system of winds rotating inward to an area of low atmospheric pressure",
+      "meaning_uk": "циклон",
+      "meaning_es": "un ciclón"
+    },
+    {
+      "term": "to drizzle",
+      "type": "Verb",
+      "example": "It started to *** as we left the cinema.",
+      "meaning_tr": "çiselemek",
+      "meaning_en": "to rain lightly",
+      "meaning_uk": "мрячити",
+      "meaning_es": "lloviznar"
+    },
+    {
+      "term": "bitter",
+      "type": "Adjective",
+      "example": "The wind was *** cold, biting through our heavy coats.",
+      "meaning_tr": "keskin (soğuk)",
+      "meaning_en": "harsh and unpleasant (cold)",
+      "meaning_uk": "пронизливий",
+      "meaning_es": "amargo (frío intenso)"
+    },
+    {
+      "term": "a precipitation",
+      "type": "Noun",
+      "example": "The total annual *** in this region is very low.",
+      "meaning_tr": "yağış",
+      "meaning_en": "the action or process of precipitating (rain, snow, etc.)",
+      "meaning_uk": "опади",
+      "meaning_es": "una precipitación"
+    },
+    {
+      "term": "to saturate",
+      "type": "Verb",
+      "example": "The ground was completely *** after the week of constant rain.",
+      "meaning_tr": "sırılsıklam etmek",
+      "meaning_en": "to cause to become thoroughly soaked",
+      "meaning_uk": "насичувати вологою",
+      "meaning_es": "empapar"
+    },
+    {
+      "term": "brisk",
+      "type": "Adjective",
+      "example": "We went for a walk in the *** morning air.",
+      "meaning_tr": "canlandırıcı (soğuk)",
+      "meaning_en": "fresh and cold",
+      "meaning_uk": "бадьорий (про погоду)",
+      "meaning_es": "fresco"
+    },
+    {
+      "term": "a whirlwind",
+      "type": "Noun",
+      "example": "The small *** picked up dust and leaves in the playground.",
+      "meaning_tr": "hortum",
+      "meaning_en": "a column of air moving rapidly in a spiral motion",
+      "meaning_uk": "вихор",
+      "meaning_es": "un torbellino"
+    },
+    {
+      "term": "to thaw",
+      "type": "Verb",
+      "example": "The ice began to *** as the temperature rose above zero.",
+      "meaning_tr": "erimek (buz/kar)",
+      "meaning_en": "to become liquid or soft as a result of warming up",
+      "meaning_uk": "танути",
+      "meaning_es": "deshelar"
+    },
+    {
+      "term": "harsh",
+      "type": "Adjective",
+      "example": "The settlers struggled to survive the *** winter conditions.",
+      "meaning_tr": "sert",
+      "meaning_en": "cruel or severe",
+      "meaning_uk": "суворий",
+      "meaning_es": "duro"
+    },
+    {
+      "term": "a phenomenon",
+      "type": "Noun",
+      "example": "The Northern Lights are a spectacular weather ***.",
+      "meaning_tr": "olay (doğa olayı)",
+      "meaning_en": "a fact or situation that is observed to exist or happen",
+      "meaning_uk": "явище",
+      "meaning_es": "un fenómeno"
+    },
+    {
+      "term": "to shimmer",
+      "type": "Verb",
+      "example": "The heat made the air above the road ***.",
+      "meaning_tr": "titremek (sıcakta)",
+      "meaning_en": "to shine with a soft tremulous light",
+      "meaning_uk": "мерехтіти",
+      "meaning_es": "centellear"
+    },
+    {
+      "term": "variable",
+      "type": "Adjective",
+      "example": "The forecast predicts *** weather throughout the week.",
+      "meaning_tr": "değişken",
+      "meaning_en": "not consistent or having a fixed pattern",
+      "meaning_uk": "мінливий",
+      "meaning_es": "variable"
+    },
+    {
+      "term": "a condensation",
+      "type": "Noun",
+      "example": "The cold glass was covered in *** from the warm room.",
+      "meaning_tr": "yoğuşma",
+      "meaning_en": "the conversion of a vapor or gas to a liquid",
+      "meaning_uk": "конденсація",
+      "meaning_es": "una condensación"
+    },
+    {
+      "term": "to forecast",
+      "type": "Verb",
+      "example": "They *** sunny spells for the rest of the weekend.",
+      "meaning_tr": "tahmin etmek (hava)",
+      "meaning_en": "to predict or estimate",
+      "meaning_uk": "прогнозувати",
+      "meaning_es": "pronosticar"
+    },
+    {
+      "term": "gloomy",
+      "type": "Adjective",
+      "example": "It was a *** afternoon, with thick clouds blocking the sun.",
+      "meaning_tr": "kasvetli",
+      "meaning_en": "dark or poorly lit, especially so as to appear depressing",
+      "meaning_uk": "похмурий",
+      "meaning_es": "sombrío"
+    },
+    {
+      "term": "a temperature",
+      "type": "Noun",
+      "example": "The *** is expected to plummet tonight.",
+      "meaning_tr": "sıcaklık",
+      "meaning_en": "the degree or intensity of heat present",
+      "meaning_uk": "температура",
+      "meaning_es": "una temperatura"
+    },
+    {
+      "term": "to dampen",
+      "type": "Verb",
+      "example": "The morning dew began to *** the grass.",
+      "meaning_tr": "nemlendirmek",
+      "meaning_en": "to make slightly wet",
+      "meaning_uk": "зволожувати",
+      "meaning_es": "humedecer"
+    },
+    {
+      "term": "extreme",
+      "type": "Adjective",
+      "example": "The region is prone to *** weather events like tornadoes.",
+      "meaning_tr": "aşırı",
+      "meaning_en": "reaching a high or the highest degree",
+      "meaning_uk": "екстремальний",
+      "meaning_es": "extremo"
+    }
+  ]
+}

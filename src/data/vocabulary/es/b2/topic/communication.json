@@ -1,0 +1,411 @@
+{
+  "title": "Comunicacion y Llamadas (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la cobertura",
+      "type": "Noun",
+      "meaning_tr": "kapsama alanı",
+      "meaning_en": "coverage",
+      "meaning_uk": "покриття",
+      "meaning_es": "señal de red",
+      "example": "No tengo *** en esta zona rural."
+    },
+    {
+      "term": "colgar",
+      "type": "Verb",
+      "meaning_tr": "telefonu kapatmak",
+      "meaning_en": "to hang up",
+      "meaning_uk": "покласти слухавку",
+      "meaning_es": "finalizar una llamada",
+      "example": "Es de mala educación *** sin despedirse."
+    },
+    {
+      "term": "el buzón de voz",
+      "type": "Noun",
+      "meaning_tr": "sesli mesaj kutusu",
+      "meaning_en": "voicemail",
+      "meaning_uk": "голосова пошта",
+      "meaning_es": "servicio de mensajes grabados",
+      "example": "Por favor, deja un mensaje en ***."
+    },
+    {
+      "term": "la interferencia",
+      "type": "Noun",
+      "meaning_tr": "parazit / girişim",
+      "meaning_en": "interference",
+      "meaning_uk": "перешкоди",
+      "meaning_es": "ruido en la comunicación",
+      "example": "Hay mucha *** y no te escucho bien."
+    },
+    {
+      "term": "marcar",
+      "type": "Verb",
+      "meaning_tr": "numara çevirmek",
+      "meaning_en": "to dial",
+      "meaning_uk": "набирати номер",
+      "meaning_es": "introducir un número de teléfono",
+      "example": "Tienes que *** el prefijo internacional primero."
+    },
+    {
+      "term": "el tono de llamada",
+      "type": "Noun",
+      "meaning_tr": "zil sesi",
+      "meaning_en": "ringtone",
+      "meaning_uk": "рингтон",
+      "meaning_es": "sonido de aviso de llamada",
+      "example": "Me gusta mucho tu *** nuevo."
+    },
+    {
+      "term": "descolgar",
+      "type": "Verb",
+      "meaning_tr": "telefonu açmak",
+      "meaning_en": "to pick up",
+      "meaning_uk": "зняти слухавку",
+      "meaning_es": "contestar el teléfono",
+      "example": "No tarda en *** si está cerca del móvil."
+    },
+    {
+      "term": "la videollamada",
+      "type": "Noun",
+      "meaning_tr": "görüntülü arama",
+      "meaning_en": "video call",
+      "meaning_uk": "відеодзвінок",
+      "meaning_es": "llamada con imagen",
+      "example": "Hagamos una *** para vernos las caras."
+    },
+    {
+      "term": "el tono de espera",
+      "type": "Noun",
+      "meaning_tr": "bekleme tonu",
+      "meaning_en": "dial tone / wait tone",
+      "meaning_uk": "гудок очікування",
+      "meaning_es": "sonido mientras alguien contesta",
+      "example": "Escuché *** durante cinco minutos sin respuesta."
+    },
+    {
+      "term": "comunicarse",
+      "type": "Verb",
+      "meaning_tr": "iletişim kurmak",
+      "meaning_en": "to communicate",
+      "meaning_uk": "спілкуватися",
+      "meaning_es": "entablar contacto",
+      "example": "Es difícil *** con ellos debido a la distancia."
+    },
+    {
+      "term": "cortarse",
+      "type": "Verb",
+      "meaning_tr": "hattın kesilmesi",
+      "meaning_en": "to get cut off",
+      "meaning_uk": "перерватися (про зв'язок)",
+      "meaning_es": "perder la conexión repentinamente",
+      "example": "La llamada se *** justo cuando empezaba a hablar."
+    },
+    {
+      "term": "el prefijo",
+      "type": "Noun",
+      "meaning_tr": "alan kodu",
+      "meaning_en": "area code / prefix",
+      "meaning_uk": "код країни або міста",
+      "meaning_es": "código numérico telefónico",
+      "example": "No olvides añadir *** de España al llamar."
+    },
+    {
+      "term": "la agenda",
+      "type": "Noun",
+      "meaning_tr": "rehber",
+      "meaning_en": "contacts list",
+      "meaning_uk": "телефонна книга",
+      "meaning_es": "lista de contactos",
+      "example": "He guardado tu número en mi ***."
+    },
+    {
+      "term": "ininterrumpido",
+      "type": "Adjective",
+      "meaning_tr": "kesintisiz",
+      "meaning_en": "uninterrupted",
+      "meaning_uk": "безперервний",
+      "meaning_es": "sin pausas o cortes",
+      "example": "Necesitamos un servicio *** para la conferencia."
+    },
+    {
+      "term": "la llamada perdida",
+      "type": "Noun",
+      "meaning_tr": "cevapsız arama",
+      "meaning_en": "missed call",
+      "meaning_uk": "пропущений дзвінок",
+      "meaning_es": "llamada no contestada",
+      "example": "Tengo una *** de un número desconocido."
+    },
+    {
+      "term": "el manos libres",
+      "type": "Noun",
+      "meaning_tr": "eller serbest (hoparlör)",
+      "meaning_en": "hands-free",
+      "meaning_uk": "гучний зв'язок",
+      "meaning_es": "sistema de audio sin sostener el móvil",
+      "example": "Conduciendo, siempre uso ***."
+    },
+    {
+      "term": "comunicar",
+      "type": "Verb",
+      "meaning_tr": "meşgul çalmak",
+      "meaning_en": "to be busy (line)",
+      "meaning_uk": "бути зайнятим (про лінію)",
+      "meaning_es": "estar ocupada la línea",
+      "example": "Llevo media hora llamando y siempre da ***."
+    },
+    {
+      "term": "la recepción",
+      "type": "Noun",
+      "meaning_tr": "sinyal alımı",
+      "meaning_en": "reception",
+      "meaning_uk": "прийом сигналу",
+      "meaning_es": "calidad de la señal recibida",
+      "example": "Aquí la *** es muy mala debido a las montañas."
+    },
+    {
+      "term": "el dispositivo",
+      "type": "Noun",
+      "meaning_tr": "cihaz",
+      "meaning_en": "device",
+      "meaning_uk": "пристрій",
+      "meaning_es": "aparato tecnológico",
+      "example": "Este *** es compatible con redes 5G."
+    },
+    {
+      "term": "transferir",
+      "type": "Verb",
+      "meaning_tr": "bağlamak (telefonu)",
+      "meaning_en": "to transfer",
+      "meaning_uk": "переключити дзвінок",
+      "meaning_es": "pasar una llamada a otro número",
+      "example": "Voy a *** su llamada con el departamento técnico."
+    },
+    {
+      "term": "la itinerancia",
+      "type": "Noun",
+      "meaning_tr": "roaming",
+      "meaning_en": "roaming",
+      "meaning_uk": "роумінг",
+      "meaning_es": "uso del móvil en el extranjero",
+      "example": "Debes activar la *** antes de viajar."
+    },
+    {
+      "term": "el mensaje de texto",
+      "type": "Noun",
+      "meaning_tr": "kısa mesaj",
+      "meaning_en": "text message",
+      "meaning_uk": "текстове повідомлення",
+      "meaning_es": "mensaje SMS",
+      "example": "Te envié un *** confirmando la cita."
+    },
+    {
+      "term": "silenciar",
+      "type": "Verb",
+      "meaning_tr": "sessize almak",
+      "meaning_en": "to mute",
+      "meaning_uk": "вимкнути звук",
+      "meaning_es": "quitar el sonido",
+      "example": "Por favor, *** el teléfono durante la reunión."
+    },
+    {
+      "term": "la operadora",
+      "type": "Noun",
+      "meaning_tr": "operatör",
+      "meaning_en": "operator / carrier",
+      "meaning_uk": "оператор зв'язку",
+      "meaning_es": "compañía de servicios telefónicos",
+      "example": "Mi *** me ofrece datos ilimitados."
+    },
+    {
+      "term": "disponible",
+      "type": "Adjective",
+      "meaning_tr": "müsait",
+      "meaning_en": "available",
+      "meaning_uk": "доступний / вільний",
+      "meaning_es": "que se puede contactar",
+      "example": "No estaré *** hasta mañana por la tarde."
+    },
+    {
+      "term": "el interlocutor",
+      "type": "Noun",
+      "meaning_tr": "muhatap",
+      "meaning_en": "interlocutor / caller",
+      "meaning_uk": "співрозмовник",
+      "meaning_es": "persona con la que se habla",
+      "example": "Mi *** no entendía bien mi acento."
+    },
+    {
+      "term": "la llamada colectiva",
+      "type": "Noun",
+      "meaning_tr": "konferans görüşme",
+      "meaning_en": "conference call",
+      "meaning_uk": "конференц-дзвінок",
+      "meaning_es": "conversación con varias personas",
+      "example": "Tenemos una *** programada para las diez."
+    },
+    {
+      "term": "bloquear",
+      "type": "Verb",
+      "meaning_tr": "engellemek",
+      "meaning_en": "to block",
+      "meaning_uk": "заблокувати",
+      "meaning_es": "impedir que alguien llame",
+      "example": "He tenido que *** a ese número porque es spam."
+    },
+    {
+      "term": "la fibra óptica",
+      "type": "Noun",
+      "meaning_tr": "fiber optik",
+      "meaning_en": "fiber optics",
+      "meaning_uk": "оптоволокно",
+      "meaning_es": "tecnología de conexión rápida",
+      "example": "La instalación de *** es muy rápida."
+    },
+    {
+      "term": "inalámbrico",
+      "type": "Adjective",
+      "meaning_tr": "kablosuz",
+      "meaning_en": "wireless",
+      "meaning_uk": "бездротовий",
+      "meaning_es": "sin cables",
+      "example": "Uso un ratón *** para mi ordenador."
+    },
+    {
+      "term": "la tarifa",
+      "type": "Noun",
+      "meaning_tr": "tarife",
+      "meaning_en": "plan / tariff",
+      "meaning_uk": "тариф",
+      "meaning_es": "coste del servicio",
+      "example": "He cambiado a una *** más económica."
+    },
+    {
+      "term": "el historial",
+      "type": "Noun",
+      "meaning_tr": "geçmiş",
+      "meaning_en": "history / log",
+      "meaning_uk": "історія дзвінків",
+      "meaning_es": "lista de llamadas previas",
+      "example": "He borrado el *** de llamadas recientes."
+    },
+    {
+      "term": "vibrar",
+      "type": "Verb",
+      "meaning_tr": "titremek",
+      "meaning_en": "to vibrate",
+      "meaning_uk": "вібрувати",
+      "meaning_es": "oscilar el terminal",
+      "example": "He puesto el móvil a *** para no molestar."
+    },
+    {
+      "term": "la línea",
+      "type": "Noun",
+      "meaning_tr": "hat",
+      "meaning_en": "line",
+      "meaning_uk": "лінія",
+      "meaning_es": "conexión telefónica",
+      "example": "La *** está muy mal hoy."
+    },
+    {
+      "term": "fijo",
+      "type": "Adjective",
+      "meaning_tr": "sabit",
+      "meaning_en": "fixed / landline",
+      "meaning_uk": "стаціонарний",
+      "meaning_es": "teléfono de casa u oficina",
+      "example": "Ya casi nadie usa el teléfono ***."
+    },
+    {
+      "term": "el contacto",
+      "type": "Noun",
+      "meaning_tr": "kişi / bağlantı",
+      "meaning_en": "contact",
+      "meaning_uk": "контакт",
+      "meaning_es": "persona guardada en la agenda",
+      "example": "He añadido tu nombre a mis ***."
+    },
+    {
+      "term": "interrumpir",
+      "type": "Verb",
+      "meaning_tr": "sözünü kesmek / kesintiye uğratmak",
+      "meaning_en": "to interrupt",
+      "meaning_uk": "переривати",
+      "meaning_es": "cortar la comunicación",
+      "example": "No quiero *** tu conversación, pero es urgente."
+    },
+    {
+      "term": "la red",
+      "type": "Noun",
+      "meaning_tr": "ağ",
+      "meaning_en": "network",
+      "meaning_uk": "мережа",
+      "meaning_es": "sistema de conexión",
+      "example": "La *** móvil está saturada hoy."
+    },
+    {
+      "term": "el código de área",
+      "type": "Noun",
+      "meaning_tr": "alan kodu",
+      "meaning_en": "area code",
+      "meaning_uk": "код регіону",
+      "meaning_es": "identificador geográfico telefónico",
+      "example": "No olvides marcar el *** antes del número."
+    },
+    {
+      "term": "anular",
+      "type": "Verb",
+      "meaning_tr": "iptal etmek",
+      "meaning_en": "to cancel",
+      "meaning_uk": "скасувати",
+      "meaning_es": "cancelar una llamada o cita",
+      "example": "He tenido que *** la reunión telefónica."
+    },
+    {
+      "term": "la voz",
+      "type": "Noun",
+      "meaning_tr": "ses",
+      "meaning_en": "voice",
+      "meaning_uk": "голос",
+      "meaning_es": "sonido producido al hablar",
+      "example": "No reconozco tu *** por teléfono."
+    },
+    {
+      "term": "frecuente",
+      "type": "Adjective",
+      "meaning_tr": "sık",
+      "meaning_en": "frequent",
+      "meaning_uk": "частий",
+      "meaning_es": "que ocurre a menudo",
+      "example": "Es un contacto *** en mi lista."
+    },
+    {
+      "term": "el auricular",
+      "type": "Noun",
+      "meaning_tr": "kulaklık",
+      "meaning_en": "headset / earpiece",
+      "meaning_uk": "навушники / гарнітура",
+      "meaning_es": "parte del teléfono que va al oído",
+      "example": "El *** de mi teléfono está estropeado."
+    },
+    {
+      "term": "próximamente",
+      "type": "Adverb",
+      "meaning_tr": "yakında",
+      "meaning_en": "soon",
+      "meaning_uk": "незабаром",
+      "meaning_es": "en poco tiempo",
+      "example": "Te llamaré *** para cerrar los detalles."
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "conjunción copulativa",
+      "example": "He llamado a Juan *** a María hoy."
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "title": "Ciencia e Investigacion (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la investigación",
+      "type": "Noun",
+      "meaning_tr": "araştırma",
+      "meaning_en": "research",
+      "meaning_uk": "дослідження",
+      "meaning_es": "proceso sistemático de búsqueda de nuevos conocimientos",
+      "example": "*** es fundamental para el progreso de la medicina."
+    },
+    {
+      "term": "el experimento",
+      "type": "Noun",
+      "meaning_tr": "deney",
+      "meaning_en": "experiment",
+      "meaning_uk": "експеримент",
+      "meaning_es": "procedimiento para comprobar una hipótesis",
+      "example": "Los científicos realizaron un *** en el laboratorio."
+    },
+    {
+      "term": "analizar",
+      "type": "Verb",
+      "meaning_tr": "analiz etmek",
+      "meaning_en": "to analyze",
+      "meaning_uk": "аналізувати",
+      "meaning_es": "estudiar algo detalladamente",
+      "example": "Debemos *** los datos antes de publicar el informe."
+    },
+    {
+      "term": "la hipótesis",
+      "type": "Noun",
+      "meaning_tr": "hipotez",
+      "meaning_en": "hypothesis",
+      "meaning_uk": "гіпотеза",
+      "meaning_es": "suposición hecha a partir de datos previos",
+      "example": "Su *** resultó ser correcta tras varias pruebas."
+    },
+    {
+      "term": "científico",
+      "type": "Adjective",
+      "meaning_tr": "bilimsel",
+      "meaning_en": "scientific",
+      "meaning_uk": "науковий",
+      "meaning_es": "relativo a la ciencia",
+      "example": "El método *** requiere observación y rigor."
+    },
+    {
+      "term": "el descubrimiento",
+      "type": "Noun",
+      "meaning_tr": "keşif",
+      "meaning_en": "discovery",
+      "meaning_uk": "відкриття",
+      "meaning_es": "hallazgo de algo desconocido",
+      "example": "Este *** cambiará nuestra forma de entender el espacio."
+    },
+    {
+      "term": "desarrollar",
+      "type": "Verb",
+      "meaning_tr": "geliştirmek",
+      "meaning_en": "to develop",
+      "meaning_uk": "розвивати",
+      "meaning_es": "hacer que algo crezca o mejore",
+      "example": "Ellos buscan *** una nueva vacuna más eficaz."
+    },
+    {
+      "term": "la evidencia",
+      "type": "Noun",
+      "meaning_tr": "kanıt",
+      "meaning_en": "evidence",
+      "meaning_uk": "доказ",
+      "meaning_es": "prueba determinante de algo",
+      "example": "No existe suficiente *** para confirmar la teoría."
+    },
+    {
+      "term": "la tecnología",
+      "type": "Noun",
+      "meaning_tr": "teknoloji",
+      "meaning_en": "technology",
+      "meaning_uk": "технологія",
+      "meaning_es": "aplicación práctica del conocimiento científico",
+      "example": "La *** ha facilitado mucho el trabajo de campo."
+    },
+    {
+      "term": "el laboratorio",
+      "type": "Noun",
+      "meaning_tr": "laboratuvar",
+      "meaning_en": "laboratory",
+      "meaning_uk": "лабораторія",
+      "meaning_es": "lugar dotado de medios para realizar experimentos",
+      "example": "Pasamos todo el día trabajando en el ***."
+    },
+    {
+      "term": "comprobar",
+      "type": "Verb",
+      "meaning_tr": "doğrulamak",
+      "meaning_en": "to verify",
+      "meaning_uk": "перевіряти",
+      "meaning_es": "verificar la veracidad de algo",
+      "example": "Es necesario *** los resultados varias veces."
+    },
+    {
+      "term": "el avance",
+      "type": "Noun",
+      "meaning_tr": "ilerleme",
+      "meaning_en": "advancement",
+      "meaning_uk": "прогрес",
+      "meaning_es": "mejora o progreso en un campo",
+      "example": "Este *** tecnológico es un hito histórico."
+    },
+    {
+      "term": "la muestra",
+      "type": "Noun",
+      "meaning_tr": "örnek",
+      "meaning_en": "sample",
+      "meaning_uk": "зразок",
+      "meaning_es": "parte pequeña que representa un todo",
+      "example": "Tomamos una *** de agua del río para analizarla."
+    },
+    {
+      "term": "observar",
+      "type": "Verb",
+      "meaning_tr": "gözlemlemek",
+      "meaning_en": "to observe",
+      "meaning_uk": "спостерігати",
+      "meaning_es": "examinar con atención",
+      "example": "Debemos *** el comportamiento de las células."
+    },
+    {
+      "term": "el dato",
+      "type": "Noun",
+      "meaning_tr": "veri",
+      "meaning_en": "data",
+      "meaning_uk": "дані",
+      "meaning_es": "información concreta sobre un hecho",
+      "example": "He recopilado cada *** importante para el estudio."
+    },
+    {
+      "term": "innovador",
+      "type": "Adjective",
+      "meaning_tr": "yenilikçi",
+      "meaning_en": "innovative",
+      "meaning_uk": "інноваційний",
+      "meaning_es": "que introduce novedades",
+      "example": "Presentaron un proyecto muy *** para la ciudad."
+    },
+    {
+      "term": "la teoría",
+      "type": "Noun",
+      "meaning_tr": "teori",
+      "meaning_en": "theory",
+      "meaning_uk": "теорія",
+      "meaning_es": "conjunto de reglas que explican un fenómeno",
+      "example": "La *** de la relatividad cambió la física."
+    },
+    {
+      "term": "demostrar",
+      "type": "Verb",
+      "meaning_tr": "kanıtlamak",
+      "meaning_en": "to demonstrate",
+      "meaning_uk": "демонструвати",
+      "meaning_es": "probar algo mediante hechos",
+      "example": "El estudio ayuda a *** la eficacia del fármaco."
+    },
+    {
+      "term": "el gen",
+      "type": "Noun",
+      "meaning_tr": "gen",
+      "meaning_en": "gene",
+      "meaning_uk": "ген",
+      "meaning_es": "unidad de información hereditaria",
+      "example": "Identificaron el *** responsable de la enfermedad."
+    },
+    {
+      "term": "la estadística",
+      "type": "Noun",
+      "meaning_tr": "istatistik",
+      "meaning_en": "statistics",
+      "meaning_uk": "статистика",
+      "meaning_es": "ciencia que utiliza datos numéricos",
+      "example": "Según la ***, el número de casos ha bajado."
+    },
+    {
+      "term": "publicar",
+      "type": "Verb",
+      "meaning_tr": "yayınlamak",
+      "meaning_en": "to publish",
+      "meaning_uk": "опублікувати",
+      "meaning_es": "hacer público un trabajo escrito",
+      "example": "Van a *** sus conclusiones en una revista famosa."
+    },
+    {
+      "term": "la conclusión",
+      "type": "Noun",
+      "meaning_tr": "sonuç",
+      "meaning_en": "conclusion",
+      "meaning_uk": "висновок",
+      "meaning_es": "resultado final de un estudio",
+      "example": "La *** final indica que el proyecto es viable."
+    },
+    {
+      "term": "químico",
+      "type": "Adjective",
+      "meaning_tr": "kimyasal",
+      "meaning_en": "chemical",
+      "meaning_uk": "хімічний",
+      "meaning_es": "relativo a la química",
+      "example": "El proceso *** requiere mucha precaución."
+    },
+    {
+      "term": "el fenómeno",
+      "type": "Noun",
+      "meaning_tr": "olgu",
+      "meaning_en": "phenomenon",
+      "meaning_uk": "явище",
+      "meaning_es": "manifestación de un evento observado",
+      "example": "Es un *** natural poco común en esta región."
+    },
+    {
+      "term": "frecuentemente",
+      "type": "Adverb",
+      "meaning_tr": "sıklıkla",
+      "meaning_en": "frequently",
+      "meaning_uk": "часто",
+      "meaning_es": "de manera habitual",
+      "example": "Los científicos se reúnen *** para debatir."
+    },
+    {
+      "term": "la variable",
+      "type": "Noun",
+      "meaning_tr": "değişken",
+      "meaning_en": "variable",
+      "meaning_uk": "змінна",
+      "meaning_es": "elemento que puede cambiar en un experimento",
+      "example": "Debemos controlar cada *** para evitar errores."
+    },
+    {
+      "term": "colaborar",
+      "type": "Verb",
+      "meaning_tr": "iş birliği yapmak",
+      "meaning_en": "to collaborate",
+      "meaning_uk": "співпрацювати",
+      "meaning_es": "trabajar en conjunto",
+      "example": "Es importante *** con otros grupos de expertos."
+    },
+    {
+      "term": "la ética",
+      "type": "Noun",
+      "meaning_tr": "etik",
+      "meaning_en": "ethics",
+      "meaning_uk": "етика",
+      "meaning_es": "conjunto de valores morales",
+      "example": "La *** científica impide hacer pruebas dañinas."
+    },
+    {
+      "term": "biológico",
+      "type": "Adjective",
+      "meaning_tr": "biyolojik",
+      "meaning_en": "biological",
+      "meaning_uk": "біологічний",
+      "meaning_es": "relativo a los seres vivos",
+      "example": "El estudio trata sobre el ciclo *** de las plantas."
+    },
+    {
+      "term": "específico",
+      "type": "Adjective",
+      "meaning_tr": "belirli",
+      "meaning_en": "specific",
+      "meaning_uk": "специфічний",
+      "meaning_es": "concreto o particular",
+      "example": "Necesitamos un equipo *** para esta tarea."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "indica concesión",
+      "example": "*** los resultados son buenos, seguiremos probando."
+    },
+    {
+      "term": "el hallazgo",
+      "type": "Noun",
+      "meaning_tr": "bulgu",
+      "meaning_en": "finding",
+      "meaning_uk": "знахідка",
+      "meaning_es": "resultado de una búsqueda",
+      "example": "Este *** arqueológico nos ayuda a entender el pasado."
+    },
+    {
+      "term": "analítico",
+      "type": "Adjective",
+      "meaning_tr": "analitik",
+      "meaning_en": "analytical",
+      "meaning_uk": "аналітичний",
+      "meaning_es": "que usa el análisis",
+      "example": "El pensamiento *** es clave para el investigador."
+    },
+    {
+      "term": "hacia",
+      "type": "Preposition",
+      "meaning_tr": "doğru",
+      "meaning_en": "towards",
+      "meaning_uk": "у напрямку до",
+      "meaning_es": "dirección de un movimiento",
+      "example": "La ciencia avanza *** un futuro más sostenible."
+    },
+    {
+      "term": "la metodología",
+      "type": "Noun",
+      "meaning_tr": "metodoloji",
+      "meaning_en": "methodology",
+      "meaning_uk": "методологія",
+      "meaning_es": "conjunto de métodos en una investigación",
+      "example": "La *** utilizada en este estudio es muy rigurosa."
+    }
+  ]
+}

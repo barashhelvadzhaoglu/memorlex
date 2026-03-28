@@ -1,0 +1,411 @@
+{
+  "title": "Schule & Universität (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Hörsaal",
+      "type": "Noun",
+      "meaning_tr": "amfi, konferans salonu",
+      "meaning_en": "lecture hall, auditorium",
+      "meaning_uk": "лекційна зала, аудиторія",
+      "meaning_es": "aula magna, auditorio",
+      "example": "Der Professor hielt seine Vorlesung im ***."
+    },
+    {
+      "term": "die Vorlesung",
+      "type": "Noun",
+      "meaning_tr": "ders, konferans",
+      "meaning_en": "lecture",
+      "meaning_uk": "лекція",
+      "meaning_es": "conferencia, clase magistral",
+      "example": "Ich muss mich auf die *** über Quantenphysik vorbereiten."
+    },
+    {
+      "term": "das Seminar",
+      "type": "Noun",
+      "meaning_tr": "seminer",
+      "meaning_en": "seminar",
+      "meaning_uk": "семінар",
+      "meaning_es": "seminario",
+      "example": "Wir diskutieren die Ergebnisse im ***."
+    },
+    {
+      "term": "der Dozent",
+      "type": "Noun",
+      "meaning_tr": "öğretim görevlisi (üniversite)",
+      "meaning_en": "lecturer, instructor",
+      "meaning_uk": "викладач, доцент",
+      "meaning_es": "profesor, docente",
+      "example": "Der *** erklärte die komplexen Zusammenhänge."
+    },
+    {
+      "term": "der Professor",
+      "type": "Noun",
+      "meaning_tr": "profesör",
+      "meaning_en": "professor",
+      "meaning_uk": "професор",
+      "meaning_es": "profesor",
+      "example": "Sie hat bei einem renommierten *** studiert."
+    },
+    {
+      "term": "der Student/die Studentin",
+      "type": "Noun",
+      "meaning_tr": "öğrenci (üniversite)",
+      "meaning_en": "student",
+      "meaning_uk": "студент/студентка",
+      "meaning_es": "estudiante",
+      "example": "Jeder *** muss sich für die Prüfungen anmelden."
+    },
+    {
+      "term": "das Studium",
+      "type": "Noun",
+      "meaning_tr": "eğitim, öğrenim (üniversite)",
+      "meaning_en": "studies, degree program",
+      "meaning_uk": "навчання, студії",
+      "meaning_es": "estudios, carrera universitaria",
+      "example": "Sie hat ihr *** in München absolviert."
+    },
+    {
+      "term": "der Studiengang",
+      "type": "Noun",
+      "meaning_tr": "bölüm, öğrenim programı",
+      "meaning_en": "degree program, course of study",
+      "meaning_uk": "напрям підготовки, спеціальність",
+      "meaning_es": "carrera, programa de estudios",
+      "example": "Welchen *** hast du gewählt?"
+    },
+    {
+      "term": "die Abschlussprüfung",
+      "type": "Noun",
+      "meaning_tr": "bitirme sınavı",
+      "meaning_en": "final examination, degree examination",
+      "meaning_uk": "випускний іспит",
+      "meaning_es": "examen final, examen de grado",
+      "example": "Die *** findet im Sommer statt."
+    },
+    {
+      "term": "die Hausarbeit",
+      "type": "Noun",
+      "meaning_tr": "ödev, rapor (üniversite)",
+      "meaning_en": "term paper, essay",
+      "meaning_uk": "курсова робота, есе",
+      "meaning_es": "trabajo escrito, ensayo",
+      "example": "Ich muss noch eine *** über Goethe schreiben."
+    },
+    {
+      "term": "die Dissertation",
+      "type": "Noun",
+      "meaning_tr": "doktora tezi",
+      "meaning_en": "dissertation, doctoral thesis",
+      "meaning_uk": "дисертація",
+      "meaning_es": "tesis doctoral",
+      "example": "Er arbeitet gerade an seiner ***."
+    },
+    {
+      "term": "die Habilitation",
+      "type": "Noun",
+      "meaning_tr": "doçentlik yeterlik tezi (Almanya)",
+      "meaning_en": "postdoctoral qualification thesis (Germany)",
+      "meaning_uk": "габілітація (німецька науковий ступінь)",
+      "meaning_es": "habilitación (requisito para ser profesor universitario en Alemania)",
+      "example": "Nach der Promotion strebt er die *** an."
+    },
+    {
+      "term": "die Mensa",
+      "type": "Noun",
+      "meaning_tr": "yemekhane (üniversite)",
+      "meaning_en": "canteen, cafeteria (university)",
+      "meaning_uk": "їдальня (університетська)",
+      "meaning_es": "comedor universitario",
+      "example": "Wir treffen uns heute Mittag in der ***."
+    },
+    {
+      "term": "die Bibliothek",
+      "type": "Noun",
+      "meaning_tr": "kütüphane",
+      "meaning_en": "library",
+      "meaning_uk": "бібліотека",
+      "meaning_es": "biblioteca",
+      "example": "Ich verbringe viel Zeit in der ***, um zu lernen."
+    },
+    {
+      "term": "die Fakultät",
+      "type": "Noun",
+      "meaning_tr": "fakülte",
+      "meaning_en": "faculty, department",
+      "meaning_uk": "факультет",
+      "meaning_es": "facultad",
+      "example": "Sie ist Dekanin der *** für Geisteswissenschaften."
+    },
+    {
+      "term": "der Lehrplan",
+      "type": "Noun",
+      "meaning_tr": "müfredat",
+      "meaning_en": "curriculum",
+      "meaning_uk": "навчальний план",
+      "meaning_es": "plan de estudios, currículo",
+      "example": "Der *** wurde überarbeitet."
+    },
+    {
+      "term": "der Schwerpunkt",
+      "type": "Noun",
+      "meaning_tr": "ağırlık alanı, uzmanlık dalı",
+      "meaning_en": "major, specialization, focus",
+      "meaning_uk": "спеціалізація, основний напрямок",
+      "meaning_es": "especialización, área de enfoque",
+      "example": "Sein *** liegt im Bereich der künstlichen Intelligenz."
+    },
+    {
+      "term": "der Abschluss",
+      "type": "Noun",
+      "meaning_tr": "mezuniyet, diploma",
+      "meaning_en": "degree, graduation, qualification",
+      "meaning_uk": "диплом, випуск",
+      "meaning_es": "título, graduación",
+      "example": "Nach fünf Jahren hat sie ihren *** erhalten."
+    },
+    {
+      "term": "die Promotion",
+      "type": "Noun",
+      "meaning_tr": "doktora yapmak",
+      "meaning_en": "doctorate, PhD",
+      "meaning_uk": "докторський ступінь, захист дисертації",
+      "meaning_es": "doctorado",
+      "example": "Sie strebt die *** in Chemie an."
+    },
+    {
+      "term": "das Stipendium",
+      "type": "Noun",
+      "meaning_tr": "burs",
+      "meaning_en": "scholarship, grant",
+      "meaning_uk": "стипендія",
+      "meaning_es": "beca",
+      "example": "Dank eines *** konnte er sein Studium finanzieren."
+    },
+    {
+      "term": "der Kommilitone/die Kommilitonin",
+      "type": "Noun",
+      "meaning_tr": "bölüm arkadaşı (üniversite)",
+      "meaning_en": "fellow student, classmate (university)",
+      "meaning_uk": "однокурсник/однокурсниця",
+      "meaning_es": "compañero/compañera de estudios",
+      "example": "Ich habe mich gut mit meinen *** verstanden."
+    },
+    {
+      "term": "die Forschung",
+      "type": "Noun",
+      "meaning_tr": "araştırma",
+      "meaning_en": "research",
+      "meaning_uk": "дослідження",
+      "meaning_es": "investigación",
+      "example": "Die *** auf diesem Gebiet ist noch nicht abgeschlossen."
+    },
+    {
+      "term": "die Publikation",
+      "type": "Noun",
+      "meaning_tr": "yayın, neşriyat",
+      "meaning_en": "publication",
+      "meaning_uk": "публікація",
+      "meaning_es": "publicación",
+      "example": "Seine neueste *** wurde in einer renommierten Zeitschrift veröffentlicht."
+    },
+    {
+      "term": "akademisch",
+      "type": "Adjective",
+      "meaning_tr": "akademik",
+      "meaning_en": "academic",
+      "meaning_uk": "академічний",
+      "meaning_es": "académico",
+      "example": "Er hat eine *** Karriere eingeschlagen."
+    },
+    {
+      "term": "fachlich",
+      "type": "Adjective",
+      "meaning_tr": "mesleki, teknik",
+      "meaning_en": "professional, technical, subject-specific",
+      "meaning_uk": "фаховий, професійний",
+      "meaning_es": "profesional, técnico, específico de la materia",
+      "example": "Er besitzt sehr gute *** Kenntnisse."
+    },
+    {
+      "term": "fortgeschritten",
+      "type": "Adjective",
+      "meaning_tr": "ileri düzey",
+      "meaning_en": "advanced",
+      "meaning_uk": "просунутий",
+      "meaning_es": "avanzado",
+      "example": "Dieser Kurs ist für *** Lerner gedacht."
+    },
+    {
+      "term": "grundlegend",
+      "type": "Adjective",
+      "meaning_tr": "temel, esaslı",
+      "meaning_en": "fundamental, basic",
+      "meaning_uk": "фундаментальний, базовий",
+      "meaning_es": "fundamental, básico",
+      "example": "Wir müssen die *** Prinzipien verstehen."
+    },
+    {
+      "term": "anerkennen",
+      "type": "Verb",
+      "meaning_tr": "tanımak, kabul etmek",
+      "meaning_en": "to recognize, to acknowledge",
+      "meaning_uk": "визнавати, погоджуватися",
+      "meaning_es": "reconocer, admitir",
+      "example": "Die Universität wird seinen Abschluss ***."
+    },
+    {
+      "term": "prüfen",
+      "type": "Verb",
+      "meaning_tr": "sınamak, kontrol etmek",
+      "meaning_en": "to examine, to check, to test",
+      "meaning_uk": "перевіряти, екзаменувати",
+      "meaning_es": "examinar, comprobar, evaluar",
+      "example": "Der Lehrer wird die Arbeiten sorgfältig ***."
+    },
+    {
+      "term": "diskutieren",
+      "type": "Verb",
+      "meaning_tr": "tartışmak",
+      "meaning_en": "to discuss",
+      "meaning_uk": "дискутувати, обговорювати",
+      "meaning_es": "discutir",
+      "example": "Wir werden die offenen Fragen im Seminar ***."
+    },
+    {
+      "term": "recherchieren",
+      "type": "Verb",
+      "meaning_tr": "araştırma yapmak",
+      "meaning_en": "to research",
+      "meaning_uk": "досліджувати, шукати інформацію",
+      "meaning_es": "investigar",
+      "example": "Sie muss für ihre Präsentation noch viel ***."
+    },
+    {
+      "term": "absolvieren",
+      "type": "Verb",
+      "meaning_tr": "bitirmek, tamamlamak (eğitim)",
+      "meaning_en": "to complete, to graduate from",
+      "meaning_uk": "завершувати, закінчувати",
+      "meaning_es": "completar, graduarse",
+      "example": "Er hat sein Medizinstudium erfolgreich ***."
+    },
+    {
+      "term": "betreuen",
+      "type": "Verb",
+      "meaning_tr": "danışmanlık yapmak, gözetmek",
+      "meaning_en": "to supervise, to advise",
+      "meaning_uk": "керувати, консультувати",
+      "meaning_es": "supervisar, asesorar",
+      "example": "Der Professor *** die Doktorarbeit des Studenten."
+    },
+    {
+      "term": "evaluieren",
+      "type": "Verb",
+      "meaning_tr": "değerlendirmek",
+      "meaning_en": "to evaluate",
+      "meaning_uk": "оцінювати",
+      "meaning_es": "evaluar",
+      "example": "Wir müssen die Ergebnisse der Studie ***."
+    },
+    {
+      "term": "vermitteln",
+      "type": "Verb",
+      "meaning_tr": "aktarmak, öğretmek",
+      "meaning_en": "to impart, to teach, to mediate",
+      "meaning_uk": "передавати, навчати, посередництво",
+      "meaning_es": "transmitir, enseñar, mediar",
+      "example": "Der Kurs soll die notwendigen Kenntnisse ***."
+    },
+    {
+      "term": "die Regelmäßigkeit",
+      "type": "Noun",
+      "meaning_tr": "düzenlilik, istikrar",
+      "meaning_en": "regularity, consistency",
+      "meaning_uk": "регулярність, послідовність",
+      "meaning_es": "regularidad, constancia",
+      "example": "Ohne *** kommt man im Studium nicht weit."
+    },
+    {
+      "term": "die Disziplin",
+      "type": "Noun",
+      "meaning_tr": "disiplin",
+      "meaning_en": "discipline",
+      "meaning_uk": "дисципліна",
+      "meaning_es": "disciplina",
+      "example": "Er hat eine ausgezeichnete *** beim Lernen."
+    },
+    {
+      "term": "die Lernstrategie",
+      "type": "Noun",
+      "meaning_tr": "öğrenme stratejisi",
+      "meaning_en": "learning strategy",
+      "meaning_uk": "стратегія навчання",
+      "meaning_es": "estrategia de aprendizaje",
+      "example": "Welche *** verfolgst du?"
+    },
+    {
+      "term": "die Eigeninitiative",
+      "type": "Noun",
+      "meaning_tr": "kendi inisiyatifi, özyeterlik",
+      "meaning_en": "initiative, self-reliance",
+      "meaning_uk": "ініціативність, самостійність",
+      "meaning_es": "iniciativa propia, autosuficiencia",
+      "example": "Im Studium ist *** sehr wichtig."
+    },
+    {
+      "term": "die Organisation",
+      "type": "Noun",
+      "meaning_tr": "organizasyon, düzenleme",
+      "meaning_en": "organization, structuring",
+      "meaning_uk": "організація, структурування",
+      "es": "organización, estructuración",
+      "example": "Gute *** ist entscheidend für den Erfolg."
+    },
+    {
+      "term": "die Zeitmanagement",
+      "type": "Noun",
+      "meaning_tr": "zaman yönetimi",
+      "meaning_en": "time management",
+      "meaning_uk": "управління часом",
+      "es": "gestión del tiempo",
+      "example": "Er hat Probleme mit dem ***."
+    },
+    {
+      "term": "die Weiterbildung",
+      "type": "Noun",
+      "meaning_tr": "sürekli eğitim, mesleki gelişim",
+      "meaning_en": "further education, professional development",
+      "meaning_uk": "підвищення кваліфікації, подальше навчання",
+      "es": "formación continua, desarrollo profesional",
+      "example": "Nach dem Studium hat er eine *** gemacht."
+    },
+    {
+      "term": "die Berufsvorbereitung",
+      "type": "Noun",
+      "meaning_tr": "mesleğe hazırlık",
+      "meaning_en": "career preparation",
+      "meaning_uk": "професійна підготовка",
+      "es": "preparación profesional",
+      "example": "Das Praktikum dient der ***."
+    },
+    {
+      "term": "die Karriere",
+      "type": "Noun",
+      "meaning_tr": "kariyer",
+      "meaning_en": "career",
+      "meaning_uk": "кар'єра",
+      "es": "carrera",
+      "example": "Sie hat eine erfolgreiche *** als Ärztin."
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "meaning_tr": "sürdürülebilir, kalıcı",
+      "meaning_en": "sustainable, lasting",
+      "meaning_uk": "стійкий, довготривалий",
+      "es": "sostenible, duradero",
+      "example": "Das Studium sollte eine *** Wirkung haben."
+    }
+  ]
+}

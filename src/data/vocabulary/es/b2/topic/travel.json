@@ -1,0 +1,411 @@
+{
+  "title": "Viajes y Turismo (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el alojamiento",
+      "type": "Noun",
+      "example": "Hemos reservado *** en un hotel céntrico.",
+      "meaning_tr": "konaklama",
+      "meaning_en": "accommodation",
+      "meaning_uk": "проживання",
+      "meaning_es": "lugar donde una persona se aloja"
+    },
+    {
+      "term": "la escala",
+      "type": "Noun",
+      "example": "Tuvimos una *** de seis horas en Madrid.",
+      "meaning_tr": "aktarma",
+      "meaning_en": "layover",
+      "meaning_uk": "пересадка",
+      "meaning_es": "parada que hace un avión en un lugar intermedio"
+    },
+    {
+      "term": "embarcar",
+      "type": "Verb",
+      "example": "Debemos *** quince minutos antes de la salida.",
+      "meaning_tr": "uçağa/gemiye binmek",
+      "meaning_en": "to board",
+      "meaning_uk": "сідати на борт",
+      "meaning_es": "subir a un vehículo de transporte"
+    },
+    {
+      "term": "el itinerario",
+      "type": "Noun",
+      "example": "El guía nos entregó el *** detallado del viaje.",
+      "meaning_tr": "seyahat programı",
+      "meaning_en": "itinerary",
+      "meaning_uk": "маршрут",
+      "meaning_es": "ruta o plan de viaje"
+    },
+    {
+      "term": "la tarjeta de embarque",
+      "type": "Noun",
+      "example": "No olvides imprimir tu *** antes de ir al aeropuerto.",
+      "meaning_tr": "biniş kartı",
+      "meaning_en": "boarding pass",
+      "meaning_uk": "посадковий талон",
+      "meaning_es": "documento necesario para subir al avión"
+    },
+    {
+      "term": "hacer una reserva",
+      "type": "Verb",
+      "example": "Es recomendable *** con antelación en temporada alta.",
+      "meaning_tr": "rezervasyon yapmak",
+      "meaning_en": "to make a reservation",
+      "meaning_uk": "бронювати",
+      "meaning_es": "apartar un servicio o plaza"
+    },
+    {
+      "term": "el destino",
+      "type": "Noun",
+      "example": "Nuestro *** final es la ciudad de Cusco.",
+      "meaning_tr": "varış noktası",
+      "meaning_en": "destination",
+      "meaning_uk": "пункт призначення",
+      "meaning_es": "lugar al que se dirige alguien"
+    },
+    {
+      "term": "la maleta facturada",
+      "type": "Noun",
+      "example": "Debes dejar la *** en el mostrador de facturación.",
+      "meaning_tr": "teslim edilen bagaj",
+      "meaning_en": "checked baggage",
+      "meaning_uk": "зареєстрований багаж",
+      "meaning_es": "equipaje que se entrega para ir en la bodega"
+    },
+    {
+      "term": "exótico",
+      "type": "Adjective",
+      "example": "Nos gusta visitar lugares *** durante nuestras vacaciones.",
+      "meaning_tr": "egzotik",
+      "meaning_en": "exotic",
+      "meaning_uk": "екзотичний",
+      "meaning_es": "que es extraño o poco común"
+    },
+    {
+      "term": "el seguro de viaje",
+      "type": "Noun",
+      "example": "Siempre contrato un *** por si surge algún imprevisto.",
+      "meaning_tr": "seyahat sigortası",
+      "meaning_en": "travel insurance",
+      "meaning_uk": "туристичне страхування",
+      "meaning_es": "póliza que cubre riesgos durante un viaje"
+    },
+    {
+      "term": "la aduana",
+      "type": "Noun",
+      "example": "Pasamos por la *** sin declarar nada.",
+      "meaning_tr": "gümrük",
+      "meaning_en": "customs",
+      "meaning_uk": "митниця",
+      "meaning_es": "oficina de control de mercancías"
+    },
+    {
+      "term": "el pasaporte",
+      "type": "Noun",
+      "example": "Asegúrate de que tu *** esté en vigor.",
+      "meaning_tr": "pasaport",
+      "meaning_en": "passport",
+      "meaning_uk": "паспорт",
+      "meaning_es": "documento de identidad internacional"
+    },
+    {
+      "term": "hospedarse",
+      "type": "Verb",
+      "example": "Decidimos *** en una casa rural cerca del bosque.",
+      "meaning_tr": "konaklamak",
+      "meaning_en": "to stay (at a place)",
+      "meaning_uk": "зупинятися",
+      "meaning_es": "alojarse temporalmente"
+    },
+    {
+      "term": "la excursión",
+      "type": "Noun",
+      "example": "Mañana haremos una *** a las ruinas antiguas.",
+      "meaning_tr": "gezi",
+      "meaning_en": "excursion",
+      "meaning_uk": "екскурсія",
+      "meaning_es": "viaje corto a un lugar para conocerlo"
+    },
+    {
+      "term": "la temporada baja",
+      "type": "Noun",
+      "example": "Viajar en *** es mucho más económico.",
+      "meaning_tr": "düşük sezon",
+      "meaning_en": "low season",
+      "meaning_uk": "низький сезон",
+      "meaning_es": "época con menos afluencia turística"
+    },
+    {
+      "term": "la pensión completa",
+      "type": "Noun",
+      "example": "Elegimos el hotel con *** para no preocuparnos por la comida.",
+      "meaning_tr": "tam pansiyon",
+      "meaning_en": "full board",
+      "meaning_uk": "повний пансіон",
+      "meaning_es": "régimen que incluye todas las comidas"
+    },
+    {
+      "term": "el visado",
+      "type": "Noun",
+      "example": "Necesitas tramitar el *** antes de viajar a ese país.",
+      "meaning_tr": "vize",
+      "meaning_en": "visa",
+      "meaning_uk": "віза",
+      "meaning_es": "permiso de entrada en un país"
+    },
+    {
+      "term": "la oficina de turismo",
+      "type": "Noun",
+      "example": "Fuimos a la *** para pedir un mapa de la ciudad.",
+      "meaning_tr": "turizm danışma ofisi",
+      "meaning_en": "tourist office",
+      "meaning_uk": "туристичний офіс",
+      "meaning_es": "lugar donde informan a los viajeros"
+    },
+    {
+      "term": "el vuelo chárter",
+      "type": "Noun",
+      "example": "Compramos un *** porque era la opción más barata.",
+      "meaning_tr": "özel/kiralık uçuş",
+      "meaning_en": "charter flight",
+      "meaning_uk": "чартерний рейс",
+      "meaning_es": "vuelo contratado específicamente para un grupo"
+    },
+    {
+      "term": "el viajero",
+      "type": "Noun",
+      "example": "El *** cansado buscaba un lugar donde descansar.",
+      "meaning_tr": "gezgin",
+      "meaning_en": "traveler",
+      "meaning_uk": "мандрівник",
+      "meaning_es": "persona que viaja"
+    },
+    {
+      "term": "recorrer",
+      "type": "Verb",
+      "example": "Queremos *** todo el país en coche.",
+      "meaning_tr": "dolaşmak/gezmek",
+      "meaning_en": "to tour/travel around",
+      "meaning_uk": "подорожувати",
+      "meaning_es": "atravesar o viajar por un lugar"
+    },
+    {
+      "term": "pintoresco",
+      "type": "Adjective",
+      "example": "Visitamos un pueblo muy *** con casas de colores.",
+      "meaning_tr": "pitoresk/resimsi",
+      "meaning_en": "picturesque",
+      "meaning_uk": "мальовничий",
+      "meaning_es": "que es atractivo o bonito como un cuadro"
+    },
+    {
+      "term": "la guía turística",
+      "type": "Noun",
+      "example": "La *** nos explicó la historia de la catedral.",
+      "meaning_tr": "turist rehberi",
+      "meaning_en": "tour guide",
+      "meaning_uk": "туристичний гід",
+      "meaning_es": "persona que enseña lugares de interés"
+    },
+    {
+      "term": "el paisaje",
+      "type": "Noun",
+      "example": "El *** de las montañas es impresionante.",
+      "meaning_tr": "manzara",
+      "meaning_en": "landscape",
+      "meaning_uk": "пейзаж",
+      "meaning_es": "extensión de terreno vista desde un lugar"
+    },
+    {
+      "term": "la cancelación",
+      "type": "Noun",
+      "example": "Debido a la tormenta, hubo una *** de vuelos.",
+      "meaning_tr": "iptal",
+      "meaning_en": "cancellation",
+      "meaning_uk": "скасування",
+      "meaning_es": "anulación de un evento o viaje"
+    },
+    {
+      "term": "la llegada",
+      "type": "Noun",
+      "example": "El panel indica que la *** del tren será puntual.",
+      "meaning_tr": "varış",
+      "meaning_en": "arrival",
+      "meaning_uk": "прибуття",
+      "meaning_es": "acto de llegar"
+    },
+    {
+      "term": "a bordo",
+      "type": "Adverb",
+      "example": "Todos los pasajeros ya están *** del barco.",
+      "meaning_tr": "gemide/uçağın içinde",
+      "meaning_en": "on board",
+      "meaning_uk": "на борту",
+      "meaning_es": "dentro de un medio de transporte"
+    },
+    {
+      "term": "la travesía",
+      "type": "Noun",
+      "example": "La *** en barco duró tres días.",
+      "meaning_tr": "deniz yolculuğu",
+      "meaning_en": "crossing/voyage",
+      "meaning_uk": "подорож морем",
+      "meaning_es": "viaje largo, especialmente por mar"
+    },
+    {
+      "term": "el presupuesto",
+      "type": "Noun",
+      "example": "Debemos ajustar nuestro *** para este viaje.",
+      "meaning_tr": "bütçe",
+      "meaning_en": "budget",
+      "meaning_uk": "бюджет",
+      "meaning_es": "cantidad de dinero destinada a un fin"
+    },
+    {
+      "term": "la estancia",
+      "type": "Noun",
+      "example": "Nuestra *** en el hotel fue muy placentera.",
+      "meaning_tr": "kalış süresi",
+      "meaning_en": "stay",
+      "meaning_uk": "перебування",
+      "meaning_es": "tiempo que se permanece en un lugar"
+    },
+    {
+      "term": "turístico",
+      "type": "Adjective",
+      "example": "Ese lugar es muy *** en verano.",
+      "meaning_tr": "turistik",
+      "meaning_en": "touristic",
+      "meaning_uk": "туристичний",
+      "meaning_es": "relacionado con el turismo"
+    },
+    {
+      "term": "el equipaje de mano",
+      "type": "Noun",
+      "example": "Solo llevo una mochila como ***.",
+      "meaning_tr": "el bagajı",
+      "meaning_en": "carry-on luggage",
+      "meaning_uk": "ручна поклажа",
+      "meaning_es": "maleta que se lleva dentro del avión"
+    },
+    {
+      "term": "facturar",
+      "type": "Verb",
+      "example": "Tengo que *** mi maleta grande antes de pasar el control.",
+      "meaning_tr": "bagaj teslim etmek",
+      "meaning_en": "to check in (luggage)",
+      "meaning_uk": "здавати багаж",
+      "meaning_es": "registrar el equipaje en el aeropuerto"
+    },
+    {
+      "term": "la ubicación",
+      "type": "Noun",
+      "example": "La *** del hostal es excelente, cerca del centro.",
+      "meaning_tr": "konum",
+      "meaning_en": "location",
+      "meaning_uk": "розташування",
+      "meaning_es": "lugar donde se encuentra algo"
+    },
+    {
+      "term": "el transbordo",
+      "type": "Noun",
+      "example": "Tenemos que hacer un *** en la estación central.",
+      "meaning_tr": "aktarma",
+      "meaning_en": "transfer",
+      "meaning_uk": "пересадка",
+      "meaning_es": "cambio de un medio de transporte a otro"
+    },
+    {
+      "term": "el folleto",
+      "type": "Noun",
+      "example": "Leí el *** informativo sobre la ciudad.",
+      "meaning_tr": "broşür",
+      "meaning_en": "brochure",
+      "meaning_uk": "брошура",
+      "meaning_es": "documento informativo impreso"
+    },
+    {
+      "term": "la reserva",
+      "type": "Noun",
+      "example": "He hecho una *** para dos personas.",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "reservation",
+      "meaning_uk": "бронювання",
+      "meaning_es": "acción de reservar"
+    },
+    {
+      "term": "el ocio",
+      "type": "Noun",
+      "example": "Buscamos actividades de *** para el fin de semana.",
+      "meaning_tr": "boş zaman/eğlence",
+      "meaning_en": "leisure",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "tiempo libre o recreativo"
+    },
+    {
+      "term": "la aventura",
+      "type": "Noun",
+      "example": "Este viaje fue una gran *** inolvidable.",
+      "meaning_tr": "macera",
+      "meaning_en": "adventure",
+      "meaning_uk": "пригода",
+      "meaning_es": "suceso arriesgado o inesperado"
+    },
+    {
+      "term": "el aventurero",
+      "type": "Noun",
+      "example": "El *** decidió escalar la montaña sin ayuda.",
+      "meaning_tr": "maceracı",
+      "meaning_en": "adventurer",
+      "meaning_uk": "шукач пригод",
+      "meaning_es": "persona que busca aventuras"
+    },
+    {
+      "term": "el alojamiento rural",
+      "type": "Noun",
+      "example": "Pasaremos la semana en un *** muy tranquilo.",
+      "meaning_tr": "köy evi/kırsal konaklama",
+      "meaning_en": "rural accommodation",
+      "meaning_uk": "сільське житло",
+      "meaning_es": "lugar para dormir en el campo"
+    },
+    {
+      "term": "hacia",
+      "type": "Preposition",
+      "example": "El barco se dirige *** el puerto.",
+      "meaning_tr": "-e doğru",
+      "meaning_en": "towards",
+      "meaning_uk": "у напрямку",
+      "meaning_es": "indica dirección"
+    },
+    {
+      "term": "además",
+      "type": "Adverb",
+      "example": "El hotel es barato y, ***, está cerca de la playa.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "besides/furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "expresa adición"
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "example": "Iremos de viaje *** llueva todo el fin de semana.",
+      "meaning_tr": "rağmen/olsa da",
+      "meaning_en": "although/even if",
+      "meaning_uk": "хоча",
+      "meaning_es": "expresa una concesión"
+    },
+    {
+      "term": "espectacular",
+      "type": "Adjective",
+      "example": "Las vistas desde el avión eran ***.",
+      "meaning_tr": "muhteşem",
+      "meaning_en": "spectacular",
+      "meaning_uk": "вражаючий",
+      "meaning_es": "que causa admiración"
+    }
+  ]
+}

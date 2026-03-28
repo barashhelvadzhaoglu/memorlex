@@ -1,0 +1,411 @@
+{
+  "title": "Wissenschaft & Forschung (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Hypothese",
+      "type": "Noun",
+      "example": "Die Forscher stellten eine gewagte *** auf.",
+      "meaning_tr": "hipotez",
+      "meaning_en": "hypothesis",
+      "meaning_uk": "гіпотеза",
+      "meaning_es": "hipótesis"
+    },
+    {
+      "term": "analysieren",
+      "type": "Verb",
+      "example": "Wir müssen die Daten sorgfältig ***.",
+      "meaning_tr": "analiz etmek",
+      "meaning_en": "to analyze",
+      "meaning_uk": "аналізувати",
+      "meaning_es": "analizar"
+    },
+    {
+      "term": "empirisch",
+      "type": "Adjective",
+      "example": "Diese Studie basiert auf *** Daten.",
+      "meaning_tr": "deneysel",
+      "meaning_en": "empirical",
+      "meaning_uk": "емпіричний",
+      "meaning_es": "empírico"
+    },
+    {
+      "term": "das Experiment",
+      "type": "Noun",
+      "example": "Das *** lieferte überraschende Ergebnisse.",
+      "meaning_tr": "deney",
+      "meaning_en": "experiment",
+      "meaning_uk": "експеримент",
+      "meaning_es": "experimento"
+    },
+    {
+      "term": "die Erkenntnis",
+      "type": "Noun",
+      "example": "Diese neue *** verändert unser Verständnis.",
+      "meaning_tr": "kavrayış, bilgi",
+      "meaning_en": "insight, realization",
+      "meaning_uk": "усвідомлення",
+      "meaning_es": "conocimiento"
+    },
+    {
+      "term": "widerlegen",
+      "type": "Verb",
+      "example": "Es gelang ihm, die Theorie zu ***.",
+      "meaning_tr": "çürütmek",
+      "meaning_en": "to refute",
+      "meaning_uk": "спростувати",
+      "meaning_es": "refutar"
+    },
+    {
+      "term": "methodisch",
+      "type": "Adjective",
+      "example": "Die Arbeit wurde sehr *** durchgeführt.",
+      "meaning_tr": "yöntemsel",
+      "meaning_en": "methodical",
+      "meaning_uk": "методичний",
+      "meaning_es": "metódico"
+    },
+    {
+      "term": "die Auswertung",
+      "type": "Noun",
+      "example": "Die *** der Umfrage dauert zwei Wochen.",
+      "meaning_tr": "değerlendirme",
+      "meaning_en": "evaluation",
+      "meaning_uk": "оцінка",
+      "meaning_es": "evaluación"
+    },
+    {
+      "term": "die Fachzeitschrift",
+      "type": "Noun",
+      "example": "Der Artikel wurde in einer renommierten *** veröffentlicht.",
+      "meaning_tr": "bilimsel dergi",
+      "meaning_en": "academic journal",
+      "meaning_uk": "науковий журнал",
+      "meaning_es": "revista especializada"
+    },
+    {
+      "term": "validieren",
+      "type": "Verb",
+      "example": "Die Ergebnisse müssen noch *** werden.",
+      "meaning_tr": "doğrulamak",
+      "meaning_en": "to validate",
+      "meaning_uk": "валідувати",
+      "meaning_es": "validar"
+    },
+    {
+      "term": "die Korrelation",
+      "type": "Noun",
+      "example": "Es gibt eine starke *** zwischen den Variablen.",
+      "meaning_tr": "korelasyon",
+      "meaning_en": "correlation",
+      "meaning_uk": "кореляція",
+      "meaning_es": "correlación"
+    },
+    {
+      "term": "recherchieren",
+      "type": "Verb",
+      "example": "Sie muss noch gründlicher zu diesem Thema ***.",
+      "meaning_tr": "araştırmak",
+      "meaning_en": "to research",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "investigar"
+    },
+    {
+      "term": "signifikant",
+      "type": "Adjective",
+      "example": "Der Unterschied ist statistisch ***.",
+      "meaning_tr": "anlamlı, önemli",
+      "meaning_en": "significant",
+      "meaning_uk": "значний",
+      "meaning_es": "significativo"
+    },
+    {
+      "term": "die Disziplin",
+      "type": "Noun",
+      "example": "Er ist ein Experte in seiner ***.",
+      "meaning_tr": "disiplin, uzmanlık alanı",
+      "meaning_en": "discipline",
+      "meaning_uk": "дисципліна",
+      "meaning_es": "disciplina"
+    },
+    {
+      "term": "publizieren",
+      "type": "Verb",
+      "example": "Die Universität wird die Studie bald ***.",
+      "meaning_tr": "yayımlamak",
+      "meaning_en": "to publish",
+      "meaning_uk": "публікувати",
+      "meaning_es": "publicar"
+    },
+    {
+      "term": "die Stichprobe",
+      "type": "Noun",
+      "example": "Die *** war zu klein für ein allgemeines Ergebnis.",
+      "meaning_tr": "örneklem",
+      "meaning_en": "sample",
+      "meaning_uk": "вибірка",
+      "meaning_es": "muestra"
+    },
+    {
+      "term": "theoretisch",
+      "type": "Adjective",
+      "example": "Das ist ein rein *** Ansatz.",
+      "meaning_tr": "teorik",
+      "meaning_en": "theoretical",
+      "meaning_uk": "теоретичний",
+      "meaning_es": "teórico"
+    },
+    {
+      "term": "die Variable",
+      "type": "Noun",
+      "example": "Wir müssen jede *** genau beobachten.",
+      "meaning_tr": "değişken",
+      "meaning_en": "variable",
+      "meaning_uk": "змінна",
+      "meaning_es": "variable"
+    },
+    {
+      "term": "belegen",
+      "type": "Verb",
+      "example": "Können Sie diese Behauptung ***?",
+      "meaning_tr": "kanıtlamak",
+      "meaning_en": "to prove/substantiate",
+      "meaning_uk": "доводити",
+      "meaning_es": "probar/documentar"
+    },
+    {
+      "term": "quantitativ",
+      "type": "Adjective",
+      "example": "Die Forschung verfolgt einen *** Ansatz.",
+      "meaning_tr": "nicel",
+      "meaning_en": "quantitative",
+      "meaning_uk": "кількісний",
+      "meaning_es": "cuantitativo"
+    },
+    {
+      "term": "qualitativ",
+      "type": "Adjective",
+      "example": "Wir führen eine *** Befragung durch.",
+      "meaning_tr": "nitel",
+      "meaning_en": "qualitative",
+      "meaning_uk": "якісний",
+      "meaning_es": "cualitativo"
+    },
+    {
+      "term": "die Dokumentation",
+      "type": "Noun",
+      "example": "Eine lückenlose *** ist unerlässlich.",
+      "meaning_tr": "belgeleme",
+      "meaning_en": "documentation",
+      "meaning_uk": "документація",
+      "meaning_es": "documentación"
+    },
+    {
+      "term": "widerlegen",
+      "type": "Verb",
+      "example": "Neue Beweise könnten die Theorie ***.",
+      "meaning_tr": "çürütmek",
+      "meaning_en": "to refute",
+      "meaning_uk": "спростувати",
+      "meaning_es": "refutar"
+    },
+    {
+      "term": "die Schlussfolgerung",
+      "type": "Noun",
+      "example": "Welche *** ziehen Sie daraus?",
+      "meaning_tr": "sonuç",
+      "meaning_en": "conclusion",
+      "meaning_uk": "висновок",
+      "meaning_es": "conclusión"
+    },
+    {
+      "term": "die Evidenz",
+      "type": "Noun",
+      "example": "Es gibt bisher keine klare *** für diese Annahme.",
+      "meaning_tr": "kanıt",
+      "meaning_en": "evidence",
+      "meaning_uk": "докази",
+      "meaning_es": "evidencia"
+    },
+    {
+      "term": "interdisziplinär",
+      "type": "Adjective",
+      "example": "Das Projekt ist sehr *** angelegt.",
+      "meaning_tr": "disiplinlerarası",
+      "meaning_en": "interdisciplinary",
+      "meaning_uk": "міждисциплінарний",
+      "meaning_es": "interdisciplinario"
+    },
+    {
+      "term": "abstrakt",
+      "type": "Adjective",
+      "example": "Das Thema ist sehr *** und schwer zu verstehen.",
+      "meaning_tr": "soyut",
+      "meaning_en": "abstract",
+      "meaning_uk": "абстрактний",
+      "meaning_es": "abstracto"
+    },
+    {
+      "term": "die Quelle",
+      "type": "Noun",
+      "example": "Bitte geben Sie alle *** korrekt an.",
+      "meaning_tr": "kaynak",
+      "meaning_en": "source",
+      "meaning_uk": "джерело",
+      "meaning_es": "fuente"
+    },
+    {
+      "term": "reproduzierbar",
+      "type": "Adjective",
+      "example": "Das Experiment muss *** sein.",
+      "meaning_tr": "tekrarlanabilir",
+      "meaning_en": "reproducible",
+      "meaning_uk": "відтворюваний",
+      "meaning_es": "reproducible"
+    },
+    {
+      "term": "die Fachsprache",
+      "type": "Noun",
+      "example": "Er benutzt eine sehr komplexe ***.",
+      "meaning_tr": "teknik dil",
+      "meaning_en": "technical terminology",
+      "meaning_uk": "термінологія",
+      "meaning_es": "lenguaje técnico"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "*** der Kosten gibt es noch Fragen.",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "regarding/with respect to",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "anhand",
+      "type": "Preposition",
+      "example": "*** der Beispiele wird es klarer.",
+      "meaning_tr": "-in yardımıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "basado en"
+    },
+    {
+      "term": "folglich",
+      "type": "Adverb",
+      "example": "Die Daten sind ungenau, *** sind die Ergebnisse falsch.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "nichtsdestotrotz",
+      "type": "Conjunction",
+      "example": "Die Studie war teuer, *** war sie wichtig.",
+      "meaning_tr": "buna rağmen",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "незважаючи на це",
+      "meaning_es": "no obstante"
+    },
+    {
+      "term": "die Innovation",
+      "type": "Noun",
+      "example": "Diese *** wird den Markt verändern.",
+      "meaning_tr": "yenilik",
+      "meaning_en": "innovation",
+      "meaning_uk": "інновація",
+      "meaning_es": "innovación"
+    },
+    {
+      "term": "die Recherche",
+      "type": "Noun",
+      "example": "Die *** hat viel Zeit in Anspruch genommen.",
+      "meaning_tr": "araştırma",
+      "meaning_en": "research/search",
+      "meaning_uk": "пошук",
+      "meaning_es": "investigación"
+    },
+    {
+      "term": "fundiert",
+      "type": "Adjective",
+      "example": "Sie hat eine sehr *** Meinung dazu.",
+      "meaning_tr": "sağlam, temelli",
+      "meaning_en": "well-founded",
+      "meaning_uk": "обґрунтований",
+      "meaning_es": "fundamentado"
+    },
+    {
+      "term": "die Komplexität",
+      "type": "Noun",
+      "example": "Die *** des Themas erfordert viel Zeit.",
+      "meaning_tr": "karmaşıklık",
+      "meaning_en": "complexity",
+      "meaning_uk": "складність",
+      "meaning_es": "complejidad"
+    },
+    {
+      "term": "evaluieren",
+      "type": "Verb",
+      "example": "Wir müssen die Wirksamkeit ***.",
+      "meaning_tr": "değerlendirmek",
+      "meaning_en": "to evaluate",
+      "meaning_uk": "оцінювати",
+      "meaning_es": "evaluar"
+    },
+    {
+      "term": "die Systematik",
+      "type": "Noun",
+      "example": "Die *** der Arbeit ist beeindruckend.",
+      "meaning_tr": "sistematik",
+      "meaning_en": "systematics/methodology",
+      "meaning_uk": "систематика",
+      "meaning_es": "sistemática"
+    },
+    {
+      "term": "darlegen",
+      "type": "Verb",
+      "example": "Er konnte seinen Standpunkt klar ***.",
+      "meaning_tr": "açıklamak, ortaya koymak",
+      "meaning_en": "to explain/set out",
+      "meaning_uk": "пояснювати",
+      "meaning_es": "exponer"
+    },
+    {
+      "term": "insofern",
+      "type": "Conjunction",
+      "example": "*** ist die Theorie korrekt.",
+      "meaning_tr": "bu bakımdan",
+      "meaning_en": "in this respect",
+      "meaning_uk": "оскільки",
+      "meaning_es": "en ese aspecto"
+    },
+    {
+      "term": "die Relevanz",
+      "type": "Noun",
+      "example": "Das Thema hat eine hohe gesellschaftliche ***.",
+      "meaning_tr": "ilgililik, önem",
+      "meaning_en": "relevance",
+      "meaning_uk": "актуальність",
+      "meaning_es": "relevancia"
+    },
+    {
+      "term": "akademisch",
+      "type": "Adjective",
+      "example": "Er verfolgt eine *** Laufbahn.",
+      "meaning_tr": "akademik",
+      "meaning_en": "academic",
+      "meaning_uk": "академічний",
+      "meaning_es": "académico"
+    },
+    {
+      "term": "schlussfolgern",
+      "type": "Verb",
+      "example": "Daraus lässt sich ***, dass der Prozess stabil ist.",
+      "meaning_tr": "sonuç çıkarmak",
+      "meaning_en": "to conclude",
+      "meaning_uk": "робити висновок",
+      "meaning_es": "concluir"
+    }
+  ]
+}

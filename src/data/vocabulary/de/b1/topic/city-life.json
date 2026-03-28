@@ -1,0 +1,312 @@
+{
+  "title": "Stadt & Land (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Stadt",
+      "type": "Noun",
+      "meaning_tr": "şehir",
+      "meaning_en": "city",
+      "meaning_uk": "місто",
+      "meaning_es": "la ciudad",
+      "example": "Ich wohne in ***."
+    },
+    {
+      "term": "das Land",
+      "type": "Noun",
+      "meaning_tr": "kır, ülke",
+      "meaning_en": "countryside, country",
+      "meaning_uk": "сільська місцевість, країна",
+      "meaning_es": "el campo, el país",
+      "example": "Wir machen Urlaub auf dem ***."
+    },
+    {
+      "term": "der Einwohner",
+      "type": "Noun",
+      "meaning_tr": "sakin",
+      "meaning_en": "inhabitant",
+      "meaning_uk": "мешканець",
+      "meaning_es": "el habitante",
+      "example": "Die *** von Berlin sind sehr freundlich."
+    },
+    {
+      "term": "die Bevölkerung",
+      "type": "Noun",
+      "meaning_tr": "nüfus",
+      "meaning_en": "population",
+      "meaning_uk": "населення",
+      "meaning_es": "la población",
+      "example": "Die *** dieser Stadt wächst schnell."
+    },
+    {
+      "term": "der Bürgermeister",
+      "type": "Noun",
+      "meaning_tr": "belediye başkanı",
+      "meaning_en": "mayor",
+      "meaning_uk": "мер",
+      "meaning_es": "el alcalde",
+      "example": "Der *** hat eine Rede gehalten."
+    },
+    {
+      "term": "das Rathaus",
+      "type": "Noun",
+      "meaning_tr": "belediye binası",
+      "meaning_en": "town hall",
+      "meaning_uk": "ратуша",
+      "meaning_es": "el ayuntamiento",
+      "example": "Das *** ist im Zentrum."
+    },
+    {
+      "term": "der Marktplatz",
+      "type": "Noun",
+      "meaning_tr": "pazar yeri",
+      "meaning_en": "market square",
+      "meaning_uk": "ринкова площа",
+      "meaning_es": "la plaza del mercado",
+      "example": "Auf dem *** gibt es viele Stände."
+    },
+    {
+      "term": "die Sehenswürdigkeit",
+      "type": "Noun",
+      "meaning_tr": "turistik yer, görülecek yer",
+      "meaning_en": "sight, tourist attraction",
+      "meaning_uk": "визначна пам'ятка",
+      "meaning_es": "la atracción turística",
+      "example": "Der Eiffelturm ist eine berühmte ***."
+    },
+    {
+      "term": "der Verkehr",
+      "type": "Noun",
+      "meaning_tr": "trafik",
+      "meaning_en": "traffic",
+      "meaning_uk": "трафік",
+      "meaning_es": "el tráfico",
+      "example": "Der *** in der Stadt ist oft sehr dicht."
+    },
+    {
+      "term": "die U-Bahn",
+      "type": "Noun",
+      "meaning_tr": "metro",
+      "meaning_en": "subway, underground train",
+      "meaning_uk": "метро",
+      "meaning_es": "el metro",
+      "example": "Wir fahren mit der *** zur Arbeit."
+    },
+    {
+      "term": "die Straßenbahn",
+      "type": "Noun",
+      "meaning_tr": "tramvay",
+      "meaning_en": "tram",
+      "meaning_uk": "трамвай",
+      "meaning_es": "el tranvía",
+      "example": "Die *** hält hier."
+    },
+    {
+      "term": "die Vorstadt",
+      "type": "Noun",
+      "meaning_tr": "banliyö",
+      "meaning_en": "suburb",
+      "meaning_uk": "передмістя",
+      "meaning_es": "el suburbio",
+      "example": "Sie wohnen in einer ruhigen ***."
+    },
+    {
+      "term": "das Dorf",
+      "type": "Noun",
+      "meaning_tr": "köy",
+      "meaning_en": "village",
+      "meaning_uk": "село",
+      "meaning_es": "el pueblo",
+      "example": "Das *** liegt am Fluss."
+    },
+    {
+      "term": "der Bauer",
+      "type": "Noun",
+      "meaning_tr": "çiftçi",
+      "meaning_en": "farmer",
+      "meaning_uk": "фермер",
+      "meaning_es": "el granjero",
+      "example": "Der *** arbeitet auf dem Feld."
+    },
+    {
+      "term": "die Landwirtschaft",
+      "type": "Noun",
+      "meaning_tr": "tarım",
+      "meaning_en": "agriculture",
+      "meaning_uk": "сільське господарство",
+      "meaning_es": "la agricultura",
+      "example": "Die *** ist wichtig für diese Region."
+    },
+    {
+      "term": "der Wald",
+      "type": "Noun",
+      "meaning_tr": "orman",
+      "meaning_en": "forest, woods",
+      "meaning_uk": "ліс",
+      "meaning_es": "el bosque",
+      "example": "Wir gehen im *** spazieren."
+    },
+    {
+      "term": "der Fluss",
+      "type": "Noun",
+      "meaning_tr": "nehir",
+      "meaning_en": "river",
+      "meaning_uk": "річка",
+      "meaning_es": "el río",
+      "example": "Das Dorf liegt an einem ***."
+    },
+    {
+      "term": "der See",
+      "type": "Noun",
+      "meaning_tr": "göl",
+      "meaning_en": "lake",
+      "meaning_uk": "озеро",
+      "meaning_es": "el lago",
+      "example": "Wir schwimmen im ***."
+    },
+    {
+      "term": "die Berge",
+      "type": "Noun",
+      "meaning_tr": "dağlar",
+      "meaning_en": "mountains",
+      "meaning_uk": "гори",
+      "meaning_es": "las montañas",
+      "example": "Wir wandern in den ***."
+    },
+    {
+      "term": "die Landschaft",
+      "type": "Noun",
+      "meaning_tr": "manzara",
+      "meaning_en": "landscape",
+      "meaning_uk": "пейзаж",
+      "meaning_es": "el paisaje",
+      "example": "Die *** hier ist sehr schön."
+    },
+    {
+      "term": "ruhig",
+      "type": "Adjective",
+      "meaning_tr": "sakin",
+      "meaning_en": "quiet, calm",
+      "meaning_uk": "тихий, спокійний",
+      "meaning_es": "tranquilo",
+      "example": "Das Leben auf dem Land ist ***."
+    },
+    {
+      "term": "lebhaft",
+      "type": "Adjective",
+      "meaning_tr": "hareketli, canlı",
+      "meaning_en": "lively, bustling",
+      "meaning_uk": "жвавий, гамірний",
+      "meaning_es": "animado, bullicioso",
+      "example": "Die Stadt ist sehr ***."
+    },
+    {
+      "term": "weitläufig",
+      "type": "Adjective",
+      "meaning_tr": "geniş, yaygın",
+      "meaning_en": "spacious, extensive",
+      "meaning_uk": "просторий, обширний",
+      "meaning_es": "espacioso, extenso",
+      "example": "Die Felder sind ***."
+    },
+    {
+      "term": "einsam",
+      "type": "Adjective",
+      "meaning_tr": "ıssız, yalnız",
+      "meaning_en": "lonely, deserted",
+      "meaning_uk": "самотній, безлюдний",
+      "meaning_es": "solitario, desierto",
+      "example": "Die Hütte steht *** im Wald."
+    },
+    {
+      "term": "besiedeln",
+      "type": "Verb",
+      "meaning_tr": "yerleşmek, iskan etmek",
+      "meaning_en": "to inhabit, to settle",
+      "meaning_uk": "заселяти",
+      "meaning_es": "habitar, poblar",
+      "example": "Die Germanen haben diese Region ***."
+    },
+    {
+      "term": "wachsen",
+      "type": "Verb",
+      "meaning_tr": "büyümek",
+      "meaning_en": "to grow",
+      "meaning_uk": "рости",
+      "meaning_es": "crecer",
+      "example": "Die Stadt ***."
+    },
+    {
+      "term": "pendeln",
+      "type": "Verb",
+      "meaning_tr": "gidip gelmek (iş için)",
+      "meaning_en": "to commute",
+      "meaning_uk": "їздити на роботу/з роботи",
+      "meaning_es": "viajar al trabajo",
+      "example": "Viele Leute *** zur Arbeit in die Stadt."
+    },
+    {
+      "term": "erkunden",
+      "type": "Verb",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "to explore",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "explorar",
+      "example": "Wir möchten die Umgebung ***."
+    },
+    {
+      "term": "verbringen",
+      "type": "Verb",
+      "meaning_tr": "geçirmek (zaman)",
+      "meaning_en": "to spend (time)",
+      "meaning_uk": "проводити (час)",
+      "meaning_es": "pasar (tiempo)",
+      "example": "Wir haben unseren Urlaub auf dem Land ***."
+    },
+    {
+      "term": "stattfinden",
+      "type": "Verb",
+      "meaning_tr": "gerçekleşmek, olmak (etkinlik)",
+      "meaning_en": "to take place",
+      "meaning_uk": "відбуватися",
+      "meaning_es": "tener lugar",
+      "example": "Das Konzert wird im Park ***."
+    },
+    {
+      "term": "daher",
+      "type": "Adverb",
+      "meaning_tr": "bu nedenle, bu yüzden",
+      "meaning_en": "therefore, hence",
+      "meaning_uk": "тому, отже",
+      "meaning_es": "por lo tanto, por eso",
+      "example": "Es regnet, *** bleiben wir zu Hause."
+    },
+    {
+      "term": "entlang",
+      "type": "Preposition",
+      "meaning_tr": "boyunca",
+      "meaning_en": "along",
+      "meaning_uk": "вздовж",
+      "meaning_es": "a lo largo de",
+      "example": "Wir spazieren den Fluss ***."
+    },
+    {
+      "term": "außerhalb",
+      "type": "Preposition",
+      "meaning_tr": "dışında",
+      "meaning_en": "outside of",
+      "meaning_uk": "поза межами",
+      "meaning_es": "fuera de",
+      "example": "Das Haus liegt *** der Stadt."
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "meaning_tr": "iken, sırasında",
+      "meaning_en": "while, during",
+      "meaning_uk": "під час, поки",
+      "meaning_es": "mientras, durante",
+      "example": "*** wir in der Stadt waren, haben wir viel gesehen."
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Time & Dates (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the epoch",
+      "type": "Noun",
+      "example": "The discovery of fire marked a new *** in human history.",
+      "meaning_tr": "çağ",
+      "meaning_en": "a particular period of time in history or a person's life",
+      "meaning_uk": "епоха",
+      "meaning_es": "época"
+    },
+    {
+      "term": "the interim",
+      "type": "Noun",
+      "example": "In ***, we will continue to operate as usual.",
+      "meaning_tr": "ara dönem",
+      "meaning_en": "the time between two events",
+      "meaning_uk": "проміжний час",
+      "meaning_es": "interim"
+    },
+    {
+      "term": "to procrastinate",
+      "type": "Verb",
+      "example": "If you continue to ***, you will never meet the deadline.",
+      "meaning_tr": "ertelemek",
+      "meaning_en": "to delay or postpone action",
+      "meaning_uk": "зволікати",
+      "meaning_es": "procrastinar"
+    },
+    {
+      "term": "an eternity",
+      "type": "Noun",
+      "example": "Waiting for the results felt like ***.",
+      "meaning_tr": "sonsuzluk",
+      "meaning_en": "a very long time",
+      "meaning_uk": "вічність",
+      "meaning_es": "eternidad"
+    },
+    {
+      "term": "the duration",
+      "type": "Noun",
+      "example": "The rain lasted for the entire *** of the concert.",
+      "meaning_tr": "süre",
+      "meaning_en": "the length of time something lasts",
+      "meaning_uk": "тривалість",
+      "meaning_es": "duración"
+    },
+    {
+      "term": "concurrent",
+      "type": "Adjective",
+      "example": "The two events were ***, making it hard to attend both.",
+      "meaning_tr": "eş zamanlı",
+      "meaning_en": "happening at the same time",
+      "meaning_uk": "одночасний",
+      "meaning_es": "concurrente"
+    },
+    {
+      "term": "to expedite",
+      "type": "Verb",
+      "example": "We need to *** the process to finish by Friday.",
+      "meaning_tr": "hızlandırmak",
+      "meaning_en": "to make an action or process happen sooner",
+      "meaning_uk": "прискорювати",
+      "meaning_es": "agilizar"
+    },
+    {
+      "term": "the chronology",
+      "type": "Noun",
+      "example": "The historian established the correct *** of the events.",
+      "meaning_tr": "kronoloji",
+      "meaning_en": "the arrangement of events in the order of their occurrence",
+      "meaning_uk": "хронологія",
+      "meaning_es": "cronología"
+    },
+    {
+      "term": "perpetual",
+      "type": "Adjective",
+      "example": "They lived in a state of *** motion.",
+      "meaning_tr": "sürekli",
+      "meaning_en": "never ending or changing",
+      "meaning_uk": "безперервний",
+      "meaning_es": "perpetuo"
+    },
+    {
+      "term": "the span",
+      "type": "Noun",
+      "example": "His career covered a *** of forty years.",
+      "meaning_tr": "süre aralığı",
+      "meaning_en": "the full extent of something from end to end",
+      "meaning_uk": "проміжок",
+      "meaning_es": "lapso"
+    },
+    {
+      "term": "to coincide",
+      "type": "Verb",
+      "example": "Our holidays happen to *** this year.",
+      "meaning_tr": "denk gelmek",
+      "meaning_en": "to occur at the same time",
+      "meaning_uk": "збігатися",
+      "meaning_es": "coincidir"
+    },
+    {
+      "term": "subsequent",
+      "type": "Adjective",
+      "example": "*** events showed that he was right.",
+      "meaning_tr": "sonraki",
+      "meaning_en": "coming after something in time",
+      "meaning_uk": "наступний",
+      "meaning_es": "subsecuente"
+    },
+    {
+      "term": "an interval",
+      "type": "Noun",
+      "example": "There was a short *** between the two acts.",
+      "meaning_tr": "ara",
+      "meaning_en": "a pause or break in activity",
+      "meaning_uk": "інтервал",
+      "meaning_es": "intervalo"
+    },
+    {
+      "term": "to prolong",
+      "type": "Verb",
+      "example": "The treatment will *** his life significantly.",
+      "meaning_tr": "uzatmak",
+      "meaning_en": "to extend the duration of something",
+      "meaning_uk": "подовжувати",
+      "meaning_es": "prolongar"
+    },
+    {
+      "term": "fleeting",
+      "type": "Adjective",
+      "example": "We caught a *** glimpse of the rare bird.",
+      "meaning_tr": "geçici",
+      "meaning_en": "lasting for a very short time",
+      "meaning_uk": "швидкоплинний",
+      "meaning_es": "fugaz"
+    },
+    {
+      "term": "the anniversary",
+      "type": "Noun",
+      "example": "They celebrated their tenth wedding *** yesterday.",
+      "meaning_tr": "yıl dönümü",
+      "meaning_en": "the date on which an event took place in a previous year",
+      "meaning_uk": "річниця",
+      "meaning_es": "aniversario"
+    },
+    {
+      "term": "to defer",
+      "type": "Verb",
+      "example": "The committee decided to *** the decision until next month.",
+      "meaning_tr": "ertelemek",
+      "meaning_en": "to put off to a later time",
+      "meaning_uk": "відкладати",
+      "meaning_es": "diferir"
+    },
+    {
+      "term": "intermittent",
+      "type": "Adjective",
+      "example": "The signal was *** throughout the night.",
+      "meaning_tr": "kesintili",
+      "meaning_en": "not continuous or steady",
+      "meaning_uk": "переривчастий",
+      "meaning_es": "intermitente"
+    },
+    {
+      "term": "the phase",
+      "type": "Noun",
+      "example": "We are currently in the final *** of the project.",
+      "meaning_tr": "evre",
+      "meaning_en": "a distinct period or stage in a process",
+      "meaning_uk": "фаза",
+      "meaning_es": "fase"
+    },
+    {
+      "term": "to retrospect",
+      "type": "Verb",
+      "example": "In ***, I should have acted differently.",
+      "meaning_tr": "geçmişe bakmak",
+      "meaning_en": "to look back on past events",
+      "meaning_uk": "озиратися на минуле",
+      "meaning_es": "retrospectiva"
+    },
+    {
+      "term": "an era",
+      "type": "Noun",
+      "example": "We are living in the digital ***.",
+      "meaning_tr": "devir",
+      "meaning_en": "a long and distinct period of history",
+      "meaning_uk": "ера",
+      "meaning_es": "era"
+    },
+    {
+      "term": "transient",
+      "type": "Adjective",
+      "example": "The beauty of the sunset is ***.",
+      "meaning_tr": "geçici",
+      "meaning_en": "lasting only for a short time",
+      "meaning_uk": "короткочасний",
+      "meaning_es": "transitorio"
+    },
+    {
+      "term": "the deadline",
+      "type": "Noun",
+      "example": "I am working hard to meet the strict ***.",
+      "meaning_tr": "son teslim tarihi",
+      "meaning_en": "the latest time or date by which something must be completed",
+      "meaning_uk": "дедлайн",
+      "meaning_es": "fecha límite"
+    },
+    {
+      "term": "to accelerate",
+      "type": "Verb",
+      "example": "The company plans to *** its growth this year.",
+      "meaning_tr": "hızlandırmak",
+      "meaning_en": "to increase the speed of something",
+      "meaning_uk": "прискорювати",
+      "meaning_es": "acelerar"
+    },
+    {
+      "term": "subsequently",
+      "type": "Adverb",
+      "example": "He was arrested and *** convicted of the crime.",
+      "meaning_tr": "sonradan",
+      "meaning_en": "after a particular thing has happened",
+      "meaning_uk": "згодом",
+      "meaning_es": "posteriormente"
+    },
+    {
+      "term": "the frequency",
+      "type": "Noun",
+      "example": "The *** of these storms has increased lately.",
+      "meaning_tr": "sıklık",
+      "meaning_en": "the rate at which something occurs",
+      "meaning_uk": "частота",
+      "meaning_es": "frecuencia"
+    },
+    {
+      "term": "to synchronize",
+      "type": "Verb",
+      "example": "You need to *** your watches before the mission.",
+      "meaning_tr": "eşitlemek",
+      "meaning_en": "to cause to occur at the same time",
+      "meaning_uk": "синхронізувати",
+      "meaning_es": "sincronizar"
+    },
+    {
+      "term": "timeless",
+      "type": "Adjective",
+      "example": "This classic novel has a *** appeal.",
+      "meaning_tr": "zamansız",
+      "meaning_en": "not affected by the passage of time",
+      "meaning_uk": "позачасовий",
+      "meaning_es": "atemporal"
+    },
+    {
+      "term": "the delay",
+      "type": "Noun",
+      "example": "There was a significant *** due to the weather.",
+      "meaning_tr": "gecikme",
+      "meaning_en": "a period of time by which something is late",
+      "meaning_uk": "затримка",
+      "meaning_es": "retraso"
+    },
+    {
+      "term": "to precede",
+      "type": "Verb",
+      "example": "The storm was *** by a strange silence.",
+      "meaning_tr": "öncesinde gelmek",
+      "meaning_en": "to come before in time",
+      "meaning_uk": "передувати",
+      "meaning_es": "preceder"
+    },
+    {
+      "term": "an instantaneous",
+      "type": "Adjective",
+      "example": "The reaction was almost ***.",
+      "meaning_tr": "anlık",
+      "meaning_en": "occurring or done in an instant",
+      "meaning_uk": "миттєвий",
+      "meaning_es": "instantáneo"
+    },
+    {
+      "term": "the schedule",
+      "type": "Noun",
+      "example": "We are currently ahead of ***.",
+      "meaning_tr": "program",
+      "meaning_en": "a plan for carrying out a process",
+      "meaning_uk": "розклад",
+      "meaning_es": "horario"
+    },
+    {
+      "term": "to anticipate",
+      "type": "Verb",
+      "example": "We don't *** any changes to the schedule.",
+      "meaning_tr": "beklemek",
+      "meaning_en": "to regard as probable or expect",
+      "meaning_uk": "очікувати",
+      "meaning_es": "anticipar"
+    },
+    {
+      "term": "meanwhile",
+      "type": "Adverb",
+      "example": "The coffee is brewing; ***, let's read the news.",
+      "meaning_tr": "bu arada",
+      "meaning_en": "at the same time",
+      "meaning_uk": "тим часом",
+      "meaning_es": "mientras tanto"
+    },
+    {
+      "term": "the postponement",
+      "type": "Noun",
+      "example": "The *** of the meeting was unavoidable.",
+      "meaning_tr": "erteleme",
+      "meaning_en": "the action of putting something off until a later time",
+      "meaning_uk": "відкладання",
+      "meaning_es": "aplazamiento"
+    },
+    {
+      "term": "to persist",
+      "type": "Verb",
+      "example": "If the symptoms ***, please see a doctor.",
+      "meaning_tr": "devam etmek",
+      "meaning_en": "to continue firmly in a course of action or state",
+      "meaning_uk": "тривати",
+      "meaning_es": "persistir"
+    },
+    {
+      "term": "anachronistic",
+      "type": "Adjective",
+      "example": "The movie contained several *** details.",
+      "meaning_tr": "çağ dışı",
+      "meaning_en": "belonging to a period other than that in which it exists",
+      "meaning_uk": "анахронічний",
+      "meaning_es": "anacrónico"
+    },
+    {
+      "term": "the legacy",
+      "type": "Noun",
+      "example": "His work left a lasting *** for future generations.",
+      "meaning_tr": "miras",
+      "meaning_en": "something handed down from the past",
+      "meaning_uk": "спадщина",
+      "meaning_es": "legado"
+    },
+    {
+      "term": "to terminate",
+      "type": "Verb",
+      "example": "They had to *** the contract early.",
+      "meaning_tr": "sonlandırmak",
+      "meaning_en": "to bring to an end",
+      "meaning_uk": "завершувати",
+      "meaning_es": "terminar"
+    },
+    {
+      "term": "eventual",
+      "type": "Adjective",
+      "example": "The *** outcome was better than we expected.",
+      "meaning_tr": "nihai",
+      "meaning_en": "occurring at the end of or as a result of a process",
+      "meaning_uk": "кінцевий",
+      "meaning_es": "eventual"
+    },
+    {
+      "term": "the duration",
+      "type": "Noun",
+      "example": "The play has a *** of two hours.",
+      "meaning_tr": "süre",
+      "meaning_en": "the time during which something continues",
+      "meaning_uk": "тривалість",
+      "meaning_es": "duración"
+    },
+    {
+      "term": "to linger",
+      "type": "Verb",
+      "example": "The smell of smoke seemed to *** for days.",
+      "meaning_tr": "uzayıp gitmek",
+      "meaning_en": "to stay in a place longer than necessary",
+      "meaning_uk": "затримуватися",
+      "meaning_es": "permanecer"
+    },
+    {
+      "term": "chronic",
+      "type": "Adjective",
+      "example": "She suffers from *** back pain.",
+      "meaning_tr": "kronik",
+      "meaning_en": "persisting for a long time",
+      "meaning_uk": "хронічний",
+      "meaning_es": "crónico"
+    },
+    {
+      "term": "the interval",
+      "type": "Noun",
+      "example": "The trains run at 15-minute ***.",
+      "meaning_tr": "aralık",
+      "meaning_en": "a space between two things",
+      "meaning_uk": "інтервал",
+      "meaning_es": "intervalo"
+    },
+    {
+      "term": "to update",
+      "type": "Verb",
+      "example": "Please *** your records with the new date.",
+      "meaning_tr": "güncellemek",
+      "meaning_en": "to make something more modern or up to date",
+      "meaning_uk": "оновлювати",
+      "meaning_es": "actualizar"
+    },
+    {
+      "term": "simultaneous",
+      "type": "Adjective",
+      "example": "The broadcast was a *** translation in three languages.",
+      "meaning_tr": "eş zamanlı",
+      "meaning_en": "occurring at the same time",
+      "meaning_uk": "одночасний",
+      "meaning_es": "simultáneo"
+    },
+    {
+      "term": "the promptness",
+      "type": "Noun",
+      "example": "The *** of his reply surprised everyone.",
+      "meaning_tr": "çabukluk",
+      "meaning_en": "the quality of acting quickly",
+      "meaning_uk": "швидкість",
+      "meaning_es": "puntualidad"
+    },
+    {
+      "term": "to commence",
+      "type": "Verb",
+      "example": "The ceremony will *** at noon.",
+      "meaning_tr": "başlamak",
+      "meaning_en": "to begin",
+      "meaning_uk": "починати",
+      "meaning_es": "comenzar"
+    },
+    {
+      "term": "hasty",
+      "type": "Adjective",
+      "example": "It was a *** decision that we later regretted.",
+      "meaning_tr": "aceleci",
+      "meaning_en": "done with excessive speed or urgency",
+      "meaning_uk": "поспішний",
+      "meaning_es": "apresurado"
+    },
+    {
+      "term": "the timing",
+      "type": "Noun",
+      "example": "The *** of the announcement was perfect.",
+      "meaning_tr": "zamanlama",
+      "meaning_en": "the choice or setting of times for events",
+      "meaning_uk": "таймінг",
+      "meaning_es": "temporización"
+    },
+    {
+      "term": "to elapse",
+      "type": "Verb",
+      "example": "Five years had *** since their last meeting.",
+      "meaning_tr": "geçip gitmek",
+      "meaning_en": "to pass or go by (of time)",
+      "meaning_uk": "минати",
+      "meaning_es": "transcurrir"
+    },
+    {
+      "term": "punctual",
+      "type": "Adjective",
+      "example": "She is very *** and never late for work.",
+      "meaning_tr": "dakik",
+      "meaning_en": "arriving exactly on time",
+      "meaning_uk": "пунктуальний",
+      "meaning_es": "puntual"
+    },
+    {
+      "term": "the legacy",
+      "type": "Noun",
+      "example": "He wanted to leave a positive *** for his children.",
+      "meaning_tr": "miras",
+      "meaning_en": "something left behind after someone dies",
+      "meaning_uk": "спадщина",
+      "meaning_es": "legado"
+    },
+    {
+      "term": "prior to",
+      "type": "Preposition",
+      "example": "Please read the instructions *** the exam.",
+      "meaning_tr": "-den önce",
+      "meaning_en": "before",
+      "meaning_uk": "перед",
+      "meaning_es": "antes de"
+    },
+    {
+      "term": "until",
+      "type": "Conjunction",
+      "example": "Wait here *** I come back.",
+      "meaning_tr": "-e kadar",
+      "meaning_en": "up to the point in time that",
+      "meaning_uk": "доки",
+      "meaning_es": "hasta que"
+    },
+    {
+      "term": "to anticipate",
+      "type": "Verb",
+      "example": "We need to *** the needs of our clients.",
+      "meaning_tr": "öngörmek",
+      "meaning_en": "to predict or expect",
+      "meaning_uk": "передбачати",
+      "meaning_es": "anticipar"
+    },
+    {
+      "term": "the duration",
+      "type": "Noun",
+      "example": "The flight has a *** of six hours.",
+      "meaning_tr": "süre",
+      "meaning_en": "the time period something lasts",
+      "meaning_uk": "тривалість",
+      "meaning_es": "duración"
+    },
+    {
+      "term": "to expedite",
+      "type": "Verb",
+      "example": "We can *** the shipping if you pay extra.",
+      "meaning_tr": "hızlandırmak",
+      "meaning_en": "to speed up",
+      "meaning_uk": "прискорювати",
+      "meaning_es": "acelerar"
+    },
+    {
+      "term": "the interval",
+      "type": "Noun",
+      "example": "He took a long *** between his two books.",
+      "meaning_tr": "ara",
+      "meaning_en": "a gap or pause",
+      "meaning_uk": "інтервал",
+      "meaning_es": "intervalo"
+    },
+    {
+      "term": "subsequent",
+      "type": "Adjective",
+      "example": "The *** result was much better.",
+      "meaning_tr": "sonraki",
+      "meaning_en": "following",
+      "meaning_uk": "наступний",
+      "meaning_es": "subsecuente"
+    }
+  ]
+}

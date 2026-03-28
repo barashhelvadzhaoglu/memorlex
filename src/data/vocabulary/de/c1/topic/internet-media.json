@@ -1,0 +1,546 @@
+{
+  "title": "Internet & Soziale Medien (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Digitalisierung",
+      "type": "Noun",
+      "example": "Die rasante *** verändert unseren Arbeitsalltag grundlegend.",
+      "meaning_tr": "dijitalleşme",
+      "meaning_en": "digitalization",
+      "meaning_uk": "цифровізація",
+      "meaning_es": "digitalización"
+    },
+    {
+      "term": "die Cyberkriminalität",
+      "type": "Noun",
+      "example": "Die *** stellt eine wachsende Bedrohung für Unternehmen dar.",
+      "meaning_tr": "siber suçlar",
+      "meaning_en": "cybercrime",
+      "meaning_uk": "кіберзлочинність",
+      "meaning_es": "ciberdelincuencia"
+    },
+    {
+      "term": "der Datenschutz",
+      "type": "Noun",
+      "example": "Ein strenger *** ist in sozialen Netzwerken unerlässlich.",
+      "meaning_tr": "veri koruma",
+      "meaning_en": "data protection",
+      "meaning_uk": "захист даних",
+      "meaning_es": "protección de datos"
+    },
+    {
+      "term": "die Filterblase",
+      "type": "Noun",
+      "example": "Algorithmen führen oft zu einer einseitigen ***.",
+      "meaning_tr": "filtre balonu",
+      "meaning_en": "filter bubble",
+      "meaning_uk": "фільтр-бульбашка",
+      "meaning_es": "burbuja de filtros"
+    },
+    {
+      "term": "die Fake News",
+      "type": "Noun",
+      "example": "Die Verbreitung von *** gefährdet den demokratischen Diskurs.",
+      "meaning_tr": "sahte haberler",
+      "meaning_en": "fake news",
+      "meaning_uk": "фейкові новини",
+      "meaning_es": "noticias falsas"
+    },
+    {
+      "term": "die Vernetzung",
+      "type": "Noun",
+      "example": "Die globale *** ermöglicht einen sofortigen Informationsaustausch.",
+      "meaning_tr": "ağ oluşturma",
+      "meaning_en": "networking",
+      "meaning_uk": "мережева взаємодія",
+      "meaning_es": "interconexión"
+    },
+    {
+      "term": "die Privatsphäre",
+      "type": "Noun",
+      "example": "Viele Nutzer achten zu wenig auf ihre *** im Netz.",
+      "meaning_tr": "özel hayat",
+      "meaning_en": "privacy",
+      "meaning_uk": "приватність",
+      "meaning_es": "privacidad"
+    },
+    {
+      "term": "der Algorithmus",
+      "type": "Noun",
+      "example": "Der *** bestimmt, welche Inhalte uns zuerst angezeigt werden.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "algoritmo"
+    },
+    {
+      "term": "die Plattformökonomie",
+      "type": "Noun",
+      "example": "Die *** verändert unsere traditionellen Geschäftsmodelle.",
+      "meaning_tr": "platform ekonomisi",
+      "meaning_en": "platform economy",
+      "meaning_uk": "платформна економіка",
+      "meaning_es": "economía de plataformas"
+    },
+    {
+      "term": "die Medienkompetenz",
+      "type": "Noun",
+      "example": "Eine hohe *** ist entscheidend, um Informationen kritisch zu bewerten.",
+      "meaning_tr": "medya okuryazarlığı",
+      "meaning_en": "media literacy",
+      "meaning_uk": "медіаграмотність",
+      "meaning_es": "alfabetización mediática"
+    },
+    {
+      "term": "die Echokammer",
+      "type": "Noun",
+      "example": "In einer *** hört man nur die eigene Meinung bestätigt.",
+      "meaning_tr": "yankı odası",
+      "meaning_en": "echo chamber",
+      "meaning_uk": "луна-камера",
+      "meaning_es": "cámara de eco"
+    },
+    {
+      "term": "die Cybersicherheit",
+      "type": "Noun",
+      "example": "Investitionen in die *** sind heute wichtiger denn je.",
+      "meaning_tr": "siber güvenlik",
+      "meaning_en": "cybersecurity",
+      "meaning_uk": "кібербезпека",
+      "meaning_es": "ciberseguridad"
+    },
+    {
+      "term": "die Netzneutralität",
+      "type": "Noun",
+      "example": "Die *** garantiert einen gleichberechtigten Zugang zum Internet.",
+      "meaning_tr": "ağ tarafsızlığı",
+      "meaning_en": "net neutrality",
+      "meaning_uk": "мережева нейтральність",
+      "meaning_es": "neutralidad de la red"
+    },
+    {
+      "term": "die Überwachung",
+      "type": "Noun",
+      "example": "Kritiker warnen vor einer zunehmenden digitalen ***.",
+      "meaning_tr": "gözetim",
+      "meaning_en": "surveillance",
+      "meaning_uk": "стеження",
+      "meaning_es": "vigilancia"
+    },
+    {
+      "term": "die Nutzererfahrung",
+      "type": "Noun",
+      "example": "Eine intuitive *** steigert die Verweildauer auf Webseiten.",
+      "meaning_tr": "kullanıcı deneyimi",
+      "meaning_en": "user experience",
+      "meaning_uk": "користувацький досвід",
+      "meaning_es": "experiencia de usuario"
+    },
+    {
+      "term": "die Interaktion",
+      "type": "Noun",
+      "example": "Soziale Medien fördern die *** zwischen verschiedenen Kulturen.",
+      "meaning_tr": "etkileşim",
+      "meaning_en": "interaction",
+      "meaning_uk": "взаємодія",
+      "meaning_es": "interacción"
+    },
+    {
+      "term": "die Virtualität",
+      "type": "Noun",
+      "example": "Die Grenze zwischen Realität und *** verschwimmt zunehmend.",
+      "meaning_tr": "sanal dünya",
+      "meaning_en": "virtuality",
+      "meaning_uk": "віртуальність",
+      "meaning_es": "virtualidad"
+    },
+    {
+      "term": "das Cybermobbing",
+      "type": "Noun",
+      "example": "Schulen müssen aktiv gegen *** vorgehen.",
+      "meaning_tr": "siber zorbalık",
+      "meaning_en": "cyberbullying",
+      "meaning_uk": "кібербулінг",
+      "meaning_es": "ciberacoso"
+    },
+    {
+      "term": "die Cloud-Technologie",
+      "type": "Noun",
+      "example": "Durch die *** können wir Daten von überall abrufen.",
+      "meaning_tr": "bulut teknolojisi",
+      "meaning_en": "cloud technology",
+      "meaning_uk": "хмарні технології",
+      "meaning_es": "tecnología en la nube"
+    },
+    {
+      "term": "die Anonymität",
+      "type": "Noun",
+      "example": "Die *** im Netz kann zu einem respektlosen Umgangston führen.",
+      "meaning_tr": "anonimlik",
+      "meaning_en": "anonymity",
+      "meaning_uk": "анонімність",
+      "meaning_es": "anonimato"
+    },
+    {
+      "term": "vernetzen",
+      "type": "Verb",
+      "example": "Das Internet hilft uns, Menschen weltweit zu ***.",
+      "meaning_tr": "bağlantı kurmak",
+      "meaning_en": "to network",
+      "meaning_uk": "єднувати",
+      "meaning_es": "conectar"
+    },
+    {
+      "term": "manipulieren",
+      "type": "Verb",
+      "example": "Algorithmen können unsere Wahrnehmung subtil ***.",
+      "meaning_tr": "manipüle etmek",
+      "meaning_en": "to manipulate",
+      "meaning_uk": "маніпулювати",
+      "meaning_es": "manipular"
+    },
+    {
+      "term": "verbreiten",
+      "type": "Verb",
+      "example": "Falschmeldungen *** sich in sozialen Netzwerken rasend schnell.",
+      "meaning_tr": "yaymak",
+      "meaning_en": "to spread",
+      "meaning_uk": "поширювати",
+      "meaning_es": "difundir"
+    },
+    {
+      "term": "digitalisieren",
+      "type": "Verb",
+      "example": "Unternehmen müssen ihre Prozesse dringend ***.",
+      "meaning_tr": "dijitalleştirmek",
+      "meaning_en": "to digitize",
+      "meaning_uk": "оцифровувати",
+      "meaning_es": "digitalizar"
+    },
+    {
+      "term": "abrufen",
+      "type": "Verb",
+      "example": "Wir können heute Informationen in Sekunden online ***.",
+      "meaning_tr": "erişmek/çağırmak",
+      "meaning_en": "to retrieve",
+      "meaning_uk": "отримувати",
+      "meaning_es": "acceder"
+    },
+    {
+      "term": "teilen",
+      "type": "Verb",
+      "example": "Wie oft hast du diesen Beitrag in deinem Feed ***?",
+      "meaning_tr": "paylaşmak",
+      "meaning_en": "to share",
+      "meaning_uk": "ділитися",
+      "meaning_es": "compartir"
+    },
+    {
+      "term": "blockieren",
+      "type": "Verb",
+      "example": "Man kann unangenehme Nutzer einfach ***.",
+      "meaning_tr": "engellemek",
+      "meaning_en": "to block",
+      "meaning_uk": "блокувати",
+      "meaning_es": "bloquear"
+    },
+    {
+      "term": "verschlüsseln",
+      "type": "Verb",
+      "example": "Es ist ratsam, sensible Daten immer zu ***.",
+      "meaning_tr": "şifrelemek",
+      "meaning_en": "to encrypt",
+      "meaning_uk": "шифрувати",
+      "meaning_es": "cifrar"
+    },
+    {
+      "term": "scrollen",
+      "type": "Verb",
+      "example": "Viele Menschen *** stundenlang durch ihre Social-Media-Feeds.",
+      "meaning_tr": "kaydırmak",
+      "meaning_en": "to scroll",
+      "meaning_uk": "гортати",
+      "meaning_es": "desplazarse"
+    },
+    {
+      "term": "kommentieren",
+      "type": "Verb",
+      "example": "Es ist wichtig, Beiträge sachlich zu ***.",
+      "meaning_tr": "yorum yapmak",
+      "meaning_en": "to comment",
+      "meaning_uk": "коментувати",
+      "meaning_es": "comentar"
+    },
+    {
+      "term": "hochladen",
+      "type": "Verb",
+      "example": "Wie lange dauert es, das Video auf den Server zu ***?",
+      "meaning_tr": "yüklemek",
+      "meaning_en": "to upload",
+      "meaning_uk": "завантажувати",
+      "meaning_es": "subir"
+    },
+    {
+      "term": "liken",
+      "type": "Verb",
+      "example": "Junge Leute *** Beiträge, die ihnen besonders gut gefallen.",
+      "meaning_tr": "beğenmek",
+      "meaning_en": "to like",
+      "meaning_uk": "лайкати",
+      "meaning_es": "dar 'me gusta'"
+    },
+    {
+      "term": "streamen",
+      "type": "Verb",
+      "example": "Wir *** unsere Lieblingsserien fast nur noch online.",
+      "meaning_tr": "yayınlamak/izlemek",
+      "meaning_en": "to stream",
+      "meaning_uk": "стрімити",
+      "meaning_es": "hacer streaming"
+    },
+    {
+      "term": "liken",
+      "type": "Verb",
+      "example": "Man sollte nicht jeden Beitrag unüberlegt ***.",
+      "meaning_tr": "beğenmek",
+      "meaning_en": "to like",
+      "meaning_uk": "лайкати",
+      "meaning_es": "dar 'me gusta'"
+    },
+    {
+      "term": "verlinken",
+      "type": "Verb",
+      "example": "Man kann relevante Quellen im Text ***.",
+      "meaning_tr": "link vermek",
+      "meaning_en": "to link",
+      "meaning_uk": "посилатися",
+      "meaning_es": "enlazar"
+    },
+    {
+      "term": "personalisieren",
+      "type": "Verb",
+      "example": "Werbung wird heute stark auf den Nutzer ***.",
+      "meaning_tr": "kişiselleştirmek",
+      "meaning_en": "to personalize",
+      "meaning_uk": "персоналізувати",
+      "meaning_es": "personalizar"
+    },
+    {
+      "term": "anonym",
+      "type": "Adjective",
+      "example": "Im Internet kann man sich weitgehend *** bewegen.",
+      "meaning_tr": "anonim",
+      "meaning_en": "anonymous",
+      "meaning_uk": "анонімний",
+      "meaning_es": "anónimo"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "example": "Der *** Wandel betrifft mittlerweile fast jeden Bereich.",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "digital"
+    },
+    {
+      "term": "virtuell",
+      "type": "Adjective",
+      "example": "In der *** Welt treffen sich Menschen aus aller Welt.",
+      "meaning_tr": "sanal",
+      "meaning_en": "virtual",
+      "meaning_uk": "віртуальний",
+      "meaning_es": "virtual"
+    },
+    {
+      "term": "datenschutzkonform",
+      "type": "Adjective",
+      "example": "Wir müssen sicherstellen, dass die App *** ist.",
+      "meaning_tr": "veri korumaya uygun",
+      "meaning_en": "compliant with data protection",
+      "meaning_uk": "відповідний захисту даних",
+      "meaning_es": "conforme a la protección de datos"
+    },
+    {
+      "term": "manipulativ",
+      "type": "Adjective",
+      "example": "Die Werbung nutzt oft *** Methoden.",
+      "meaning_tr": "manipülatif",
+      "meaning_en": "manipulative",
+      "meaning_uk": "маніпулятивний",
+      "meaning_es": "manipulador"
+    },
+    {
+      "term": "vernetzt",
+      "type": "Adjective",
+      "example": "Wir leben in einer hoch *** Gesellschaft.",
+      "meaning_tr": "bağlantılı/ağ üzerinde",
+      "meaning_en": "networked",
+      "meaning_uk": "мережевий",
+      "meaning_es": "conectado"
+    },
+    {
+      "term": "seriös",
+      "type": "Adjective",
+      "example": "Man sollte nur bei *** Seiten persönliche Daten angeben.",
+      "meaning_tr": "ciddi/güvenilir",
+      "meaning_en": "reputable",
+      "meaning_uk": "серйозний",
+      "meaning_es": "serio"
+    },
+    {
+      "term": "interaktiv",
+      "type": "Adjective",
+      "example": "Das neue Lernprogramm ist sehr *** gestaltet.",
+      "meaning_tr": "etkileşimli",
+      "meaning_en": "interactive",
+      "meaning_uk": "інтерактивний",
+      "meaning_es": "interactivo"
+    },
+    {
+      "term": "sicher",
+      "type": "Adjective",
+      "example": "Ein *** Passwort ist der erste Schutz vor Hackern.",
+      "meaning_tr": "güvenli",
+      "meaning_en": "secure",
+      "meaning_uk": "безпечний",
+      "meaning_es": "seguro"
+    },
+    {
+      "term": "unmittelbar",
+      "type": "Adjective",
+      "example": "Das Internet ermöglicht eine *** Kommunikation.",
+      "meaning_tr": "dolaysız/anında",
+      "meaning_en": "immediate",
+      "meaning_uk": "безпосередній",
+      "meaning_es": "inmediato"
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "Soziale Medien haben einen *** Einfluss auf die Gesellschaft.",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "global"
+    },
+    {
+      "term": "zugänglich",
+      "type": "Adjective",
+      "example": "Informationen sind heute für alle ***.",
+      "meaning_tr": "erişilebilir",
+      "meaning_en": "accessible",
+      "meaning_uk": "доступний",
+      "meaning_es": "accesible"
+    },
+    {
+      "term": "online",
+      "type": "Adverb",
+      "example": "Ich bin den ganzen Tag *** erreichbar.",
+      "meaning_tr": "çevrimiçi",
+      "meaning_en": "online",
+      "meaning_uk": "онлайн",
+      "meaning_es": "en línea"
+    },
+    {
+      "term": "offline",
+      "type": "Adverb",
+      "example": "Manchmal ist es gut, komplett *** zu gehen.",
+      "meaning_tr": "çevrimdışı",
+      "meaning_en": "offline",
+      "meaning_uk": "офлайн",
+      "meaning_es": "fuera de línea"
+    },
+    {
+      "term": "zunehmend",
+      "type": "Adverb",
+      "example": "Die Menschen verbringen *** viel Zeit in sozialen Netzwerken.",
+      "meaning_tr": "giderek artan şekilde",
+      "meaning_en": "increasingly",
+      "meaning_uk": "все більше",
+      "meaning_es": "cada vez más"
+    },
+    {
+      "term": "virtuell",
+      "type": "Adverb",
+      "example": "Wir haben uns *** verabredet, um das Projekt zu besprechen.",
+      "meaning_tr": "sanal olarak",
+      "meaning_en": "virtually",
+      "meaning_uk": "віртуально",
+      "meaning_es": "virtualmente"
+    },
+    {
+      "term": "sofort",
+      "type": "Adverb",
+      "example": "Nachrichten werden *** weltweit verbreitet.",
+      "meaning_tr": "hemen/anında",
+      "meaning_en": "immediately",
+      "meaning_uk": "одразу",
+      "meaning_es": "inmediatamente"
+    },
+    {
+      "term": "trotzdem",
+      "type": "Conjunction",
+      "example": "Die Technik ist komplex, *** nutzen wir sie alle.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "попри це",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "Man sollte nicht *** der Arbeit in sozialen Medien surfen.",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "під час",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "sodass",
+      "type": "Conjunction",
+      "example": "Die App ist benutzerfreundlich, *** jeder sie bedienen kann.",
+      "meaning_tr": "öyle ki",
+      "meaning_en": "so that",
+      "meaning_uk": "так що",
+      "meaning_es": "de modo que"
+    },
+    {
+      "term": "obwohl",
+      "type": "Conjunction",
+      "example": "Ich verbringe viel Zeit online, *** ich das eigentlich vermeiden wollte.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "indem",
+      "type": "Conjunction",
+      "example": "Man kann Wissen erweitern, *** man Online-Kurse besucht.",
+      "meaning_tr": "-erek/-arak",
+      "meaning_en": "by (doing something)",
+      "meaning_uk": "тим, що",
+      "meaning_es": "al hacer"
+    },
+    {
+      "term": "anhand",
+      "type": "Preposition",
+      "example": "*** der Daten lässt sich das Nutzerverhalten analysieren.",
+      "meaning_tr": "-in yardımıyla/dayanarak",
+      "meaning_en": "based on",
+      "meaning_uk": "на основі",
+      "meaning_es": "basado en"
+    },
+    {
+      "term": "mittels",
+      "type": "Preposition",
+      "example": "Wir kommunizieren *** verschiedener Messenger-Dienste.",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "mediante"
+    }
+  ]
+}

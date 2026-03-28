@@ -1,415 +1,546 @@
-[
-  {
-    "term": "der Zeitpunkt",
-    "meaning_tr": "zaman noktası, an",
-    "meaning_en": "point in time, moment",
-    "meaning_uk": "точка часу, момент",
-    "meaning_es": "momento, instante"
-  },
-  {
-    "term": "die Zeitspanne",
-    "meaning_tr": "zaman aralığı",
-    "meaning_en": "period of time, span",
-    "meaning_uk": "період часу, проміжок",
-    "meaning_es": "período de tiempo, lapso"
-  },
-  {
-    "term": "das Jahrhundert",
-    "meaning_tr": "yüzyıl",
-    "meaning_en": "century",
-    "meaning_uk": "століття",
-    "meaning_es": "siglo"
-  },
-  {
-    "term": "das Jahrzehnt",
-    "meaning_tr": "onyıl",
-    "meaning_en": "decade",
-    "meaning_uk": "десятиліття",
-    "meaning_es": "década"
-  },
-  {
-    "term": "die Epoche",
-    "meaning_tr": "dönem, çağ",
-    "meaning_en": "epoch, era",
-    "meaning_uk": "епоха",
-    "meaning_es": "época, era"
-  },
-  {
-    "term": "die Ära",
-    "meaning_tr": "çağ, dönem",
-    "meaning_en": "era",
-    "meaning_uk": "ера",
-    "meaning_es": "era"
-  },
-  {
-    "term": "die Ewigkeit",
-    "meaning_tr": "sonsuzluk",
-    "meaning_en": "eternity",
-    "meaning_uk": "вічність",
-    "meaning_es": "eternidad"
-  },
-  {
-    "term": "die Vergangenheit",
-    "meaning_tr": "geçmiş",
-    "meaning_en": "past",
-    "meaning_uk": "минуле",
-    "meaning_es": "pasado"
-  },
-  {
-    "term": "die Gegenwart",
-    "meaning_tr": "şimdiki zaman, günümüz",
-    "meaning_en": "present, today",
-    "meaning_uk": "теперішній час, сьогодення",
-    "meaning_es": "presente, actualidad"
-  },
-  {
-    "term": "die Zukunft",
-    "meaning_tr": "gelecek",
-    "meaning_en": "future",
-    "meaning_uk": "майбутнє",
-    "meaning_es": "futuro"
-  },
-  {
-    "term": "der Augenblick",
-    "meaning_tr": "an, saniye",
-    "meaning_en": "moment, instant",
-    "meaning_uk": "мить, момент",
-    "meaning_es": "momento, instante"
-  },
-  {
-    "term": "die Sekunde",
-    "meaning_tr": "saniye",
-    "meaning_en": "second",
-    "meaning_uk": "секунда",
-    "meaning_es": "segundo"
-  },
-  {
-    "term": "die Minute",
-    "meaning_tr": "dakika",
-    "meaning_en": "minute",
-    "meaning_uk": "хвилина",
-    "meaning_es": "minuto"
-  },
-  {
-    "term": "die Stunde",
-    "meaning_tr": "saat",
-    "meaning_en": "hour",
-    "meaning_uk": "година",
-    "meaning_es": "hora"
-  },
-  {
-    "term": "der Tag",
-    "meaning_tr": "gün",
-    "meaning_en": "day",
-    "meaning_uk": "день",
-    "meaning_es": "día"
-  },
-  {
-    "term": "der Wochentag",
-    "meaning_tr": "hafta içi günü",
-    "meaning_en": "weekday",
-    "meaning_uk": "будній день",
-    "meaning_es": "día de la semana"
-  },
-  {
-    "term": "das Wochenende",
-    "meaning_tr": "hafta sonu",
-    "meaning_en": "weekend",
-    "meaning_uk": "вихідні",
-    "meaning_es": "fin de semana"
-  },
-  {
-    "term": "die Woche",
-    "meaning_tr": "hafta",
-    "meaning_en": "week",
-    "meaning_uk": "тиждень",
-    "meaning_es": "semana"
-  },
-  {
-    "term": "der Monat",
-    "meaning_tr": "ay",
-    "meaning_en": "month",
-    "meaning_uk": "місяць",
-    "meaning_es": "mes"
-  },
-  {
-    "term": "das Quartal",
-    "meaning_tr": "çeyrek",
-    "meaning_en": "quarter (of a year)",
-    "meaning_uk": "квартал",
-    "meaning_es": "trimestre"
-  },
-  {
-    "term": "das Jahr",
-    "meaning_tr": "yıl",
-    "meaning_en": "year",
-    "meaning_uk": "рік",
-    "meaning_es": "año"
-  },
-  {
-    "term": "der Frühling",
-    "meaning_tr": "ilkbahar",
-    "meaning_en": "spring",
-    "meaning_uk": "весна",
-    "meaning_es": "primavera"
-  },
-  {
-    "term": "der Sommer",
-    "meaning_tr": "yaz",
-    "meaning_en": "summer",
-    "meaning_uk": "літо",
-    "meaning_es": "verano"
-  },
-  {
-    "term": "der Herbst",
-    "meaning_tr": "sonbahar",
-    "meaning_en": "autumn, fall",
-    "meaning_uk": "осінь",
-    "meaning_es": "otoño"
-  },
-  {
-    "term": "der Winter",
-    "meaning_tr": "kış",
-    "meaning_en": "winter",
-    "meaning_uk": "зима",
-    "meaning_es": "invierno"
-  },
-  {
-    "term": "der Kalender",
-    "meaning_tr": "takvim",
-    "meaning_en": "calendar",
-    "meaning_uk": "календар",
-    "meaning_es": "calendario"
-  },
-  {
-    "term": "der Feiertag",
-    "meaning_tr": "tatil günü, bayram",
-    "meaning_en": "holiday, public holiday",
-    "meaning_uk": "свято, вихідний день",
-    "meaning_es": "fiesta, día festivo"
-  },
-  {
-    "term": "der Geburtstag",
-    "meaning_tr": "doğum günü",
-    "meaning_en": "birthday",
-    "meaning_uk": "день народження",
-    "meaning_es": "cumpleaños"
-  },
-  {
-    "term": "der Jahrestag",
-    "meaning_tr": "yıl dönümü",
-    "meaning_en": "anniversary",
-    "meaning_uk": "річниця",
-    "meaning_es": "aniversario"
-  },
-  {
-    "term": "der Zeitpunkt",
-    "meaning_tr": "zaman, an",
-    "meaning_en": "point in time, moment",
-    "meaning_uk": "точка часу, момент",
-    "meaning_es": "momento, instante"
-  },
-  {
-    "term": "die Frist",
-    "meaning_tr": "teslim süresi, son tarih",
-    "meaning_en": "deadline, time limit",
-    "meaning_uk": "термін, крайній термін",
-    "meaning_es": "plazo, fecha límite"
-  },
-  {
-    "term": "der Zeitraum",
-    "meaning_tr": "zaman dilimi, dönem",
-    "meaning_en": "period of time, duration",
-    "meaning_uk": "період часу, проміжок",
-    "meaning_es": "período de tiempo, duración"
-  },
-  {
-    "term": "die Vergänglichkeit",
-    "meaning_tr": "geçicilik, fani olma",
-    "meaning_en": "transience, impermanence",
-    "meaning_uk": "плинність, швидкоплинність",
-    "meaning_es": "transitoriedad, fugacidad"
-  },
-  {
-    "term": "die Zeitmessung",
-    "meaning_tr": "zaman ölçümü",
-    "meaning_en": "time measurement",
-    "meaning_uk": "вимірювання часу",
-    "meaning_es": "medición del tiempo"
-  },
-  {
-    "term": "die Uhrzeit",
-    "meaning_tr": "saat (kaç olduğunu gösteren)",
-    "meaning_en": "time (of day)",
-    "meaning_uk": "час (доби)",
-    "meaning_es": "hora (del día)"
-  },
-  {
-    "term": "der Sonnenaufgang",
-    "meaning_tr": "gün doğumu",
-    "meaning_en": "sunrise",
-    "meaning_uk": "схід сонця",
-    "meaning_es": "amanecer"
-  },
-  {
-    "term": "der Sonnenuntergang",
-    "meaning_tr": "gün batımı",
-    "meaning_en": "sunset",
-    "meaning_uk": "захід сонця",
-    "meaning_es": "atardecer"
-  },
-  {
-    "term": "die Dämmerung",
-    "meaning_tr": "alacakaranlık",
-    "meaning_en": "twilight, dusk",
-    "meaning_uk": "сутінки",
-    "meaning_es": "crepúsculo"
-  },
-  {
-    "term": "die Mitternacht",
-    "meaning_tr": "gece yarısı",
-    "meaning_en": "midnight",
-    "meaning_uk": "північ",
-    "meaning_es": "medianoche"
-  },
-  {
-    "term": "der Mittag",
-    "meaning_tr": "öğle",
-    "meaning_en": "noon, midday",
-    "meaning_uk": "полудень",
-    "meaning_es": "mediodía"
-  },
-  {
-    "term": "der Vormittag",
-    "meaning_tr": "sabah (öğlene kadar)",
-    "meaning_en": "morning (before noon)",
-    "meaning_uk": "ранок (до полудня)",
-    "meaning_es": "mañana (antes del mediodía)"
-  },
-  {
-    "term": "der Nachmittag",
-    "meaning_tr": "öğleden sonra",
-    "meaning_en": "afternoon",
-    "meaning_uk": "після обіду",
-    "meaning_es": "tarde"
-  },
-  {
-    "term": "der Abend",
-    "meaning_tr": "akşam",
-    "meaning_en": "evening",
-    "meaning_uk": "вечір",
-    "meaning_es": "noche (temprana)"
-  },
-  {
-    "term": "die Nacht",
-    "meaning_tr": "gece",
-    "meaning_en": "night",
-    "meaning_uk": "ніч",
-    "meaning_es": "noche (oscura)"
-  },
-  {
-    "term": "der Kalendertag",
-    "meaning_tr": "takvim günü",
-    "meaning_en": "calendar day",
-    "meaning_uk": "календарний день",
-    "meaning_es": "día del calendario"
-  },
-  {
-    "term": "der Schalttag",
-    "meaning_tr": "artık gün",
-    "meaning_en": "leap day",
-    "meaning_uk": "високосний день",
-    "meaning_es": "día bisiesto"
-  },
-  {
-    "term": "das Schaltjahr",
-    "meaning_tr": "artık yıl",
-    "meaning_en": "leap year",
-    "meaning_uk": "високосний рік",
-    "meaning_es": "año bisiesto"
-  },
-  {
-    "term": "der Vorabend",
-    "meaning_tr": "önceki akşam, arife",
-    "meaning_en": "eve (of a holiday)",
-    "meaning_uk": "напередодні (свята)",
-    "meaning_es": "víspera (de una fiesta)"
-  },
-  {
-    "term": "die Laufzeit",
-    "meaning_tr": "işlem süresi, geçerlilik süresi",
-    "meaning_en": "runtime, duration of validity",
-    "meaning_uk": "час виконання, термін дії",
-    "meaning_es": "tiempo de ejecución, período de validez"
-  },
-  {
-    "term": "die Langzeitperspektive",
-    "meaning_tr": "uzun vadeli bakış açısı",
-    "meaning_en": "long-term perspective",
-    "meaning_uk": "довгострокова перспектива",
-    "meaning_es": "perspectiva a largo plazo"
-  },
-  {
-    "term": "die Kurzzeitgedächtnis",
-    "meaning_tr": "kısa süreli hafıza",
-    "meaning_en": "short-term memory",
-    "meaning_uk": "короткочасна пам'ять",
-    "meaning_es": "memoria a corto plazo"
-  },
-  {
-    "term": "der Zeitdruck",
-    "meaning_tr": "zaman baskısı",
-    "meaning_en": "time pressure",
-    "meaning_uk": "часовий тиск",
-    "meaning_es": "presión de tiempo"
-  },
-  {
-    "term": "die Zeit vergeht",
-    "meaning_tr": "zaman geçiyor",
-    "meaning_en": "time passes",
-    "meaning_uk": "час минає",
-    "meaning_es": "el tiempo pasa"
-  },
-  {
-    "term": "die Zeit ist knapp",
-    "meaning_tr": "zaman az",
-    "meaning_en": "time is short",
-    "meaning_uk": "час обмежений",
-    "meaning_es": "el tiempo escasea"
-  },
-  {
-    "term": "der Zeitplan",
-    "meaning_tr": "zaman çizelgesi, plan",
-    "meaning_en": "schedule, timetable",
-    "meaning_uk": "розклад, графік",
-    "meaning_es": "horario, plan"
-  },
-  {
-    "term": "die Chronologie",
-    "meaning_tr": "kronoloji",
-    "meaning_en": "chronology",
-    "meaning_uk": "хронологія",
-    "meaning_es": "cronología"
-  },
-  {
-    "term": "die Lebenszeit",
-    "meaning_tr": "yaşam süresi",
-    "meaning_en": "lifespan, lifetime",
-    "meaning_uk": "тривалість життя",
-    "meaning_es": "tiempo de vida"
-  },
-  {
-    "term": "die Entwicklungszeit",
-    "meaning_tr": "gelişim süresi",
-    "meaning_en": "development period",
-    "meaning_uk": "період розвитку",
-    "meaning_es": "período de desarrollo"
-  },
-  {
-    "term": "der Zeitungsartikel",
-    "meaning_tr": "gazete yazısı, makale",
-    "meaning_en": "newspaper article",
-    "meaning_uk": "стаття в газеті",
-    "meaning_es": "artículo de periódico"
-  }
-]
+{
+  "title": "Zeit & Datum (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Zeitgeist",
+      "type": "Noun",
+      "example": "Das Werk spiegelt den *** des 19. Jahrhunderts wider.",
+      "meaning_tr": "zamanın ruhu",
+      "meaning_en": "spirit of the times",
+      "meaning_uk": "дух часу",
+      "meaning_es": "espíritu de la época"
+    },
+    {
+      "term": "die Ewigkeit",
+      "type": "Noun",
+      "example": "Es kam mir wie eine *** vor, bis er endlich anrief.",
+      "meaning_tr": "sonsuzluk",
+      "meaning_en": "eternity",
+      "meaning_uk": "вічність",
+      "meaning_es": "eternidad"
+    },
+    {
+      "term": "zeitnah",
+      "type": "Adjective",
+      "example": "Wir bitten um eine *** Bearbeitung Ihres Antrags.",
+      "meaning_tr": "yakın zamanda",
+      "meaning_en": "timely",
+      "meaning_uk": "своєчасний",
+      "meaning_es": "oportuno"
+    },
+    {
+      "term": "sich abzeichnen",
+      "type": "Verb",
+      "example": "Es *** bereits ab, dass das Projekt scheitern wird.",
+      "meaning_tr": "belirmeye başlamak",
+      "meaning_en": "to emerge/to loom",
+      "meaning_uk": "вимальовуватися",
+      "meaning_es": "perfilarse"
+    },
+    {
+      "term": "unverzüglich",
+      "type": "Adverb",
+      "example": "Der Schaden muss *** gemeldet werden.",
+      "meaning_tr": "gecikmeksizin",
+      "meaning_en": "immediately",
+      "meaning_uk": "невідкладно",
+      "meaning_es": "sin demora"
+    },
+    {
+      "term": "die Epoche",
+      "type": "Noun",
+      "example": "Diese Entdeckung markierte eine neue *** in der Wissenschaft.",
+      "meaning_tr": "çağ",
+      "meaning_en": "epoch",
+      "meaning_uk": "епоха",
+      "meaning_es": "época"
+    },
+    {
+      "term": "hinauszögern",
+      "type": "Verb",
+      "example": "Man sollte die Entscheidung nicht unnötig ***.",
+      "meaning_tr": "geciktirmek",
+      "meaning_en": "to delay",
+      "meaning_uk": "затягувати",
+      "meaning_es": "retrasar"
+    },
+    {
+      "term": "der Zwischenraum",
+      "type": "Noun",
+      "example": "In dem kurzen *** zwischen den Terminen konnte ich kurz durchatmen.",
+      "meaning_tr": "ara boşluk",
+      "meaning_en": "interim/gap",
+      "meaning_uk": "проміжок",
+      "meaning_es": "intervalo"
+    },
+    {
+      "term": "kurzfristig",
+      "type": "Adjective",
+      "example": "Aufgrund der Wetterlage wurde das Treffen *** abgesagt.",
+      "meaning_tr": "kısa vadeli",
+      "meaning_en": "short-term",
+      "meaning_uk": "короткостроковий",
+      "meaning_es": "a corto plazo"
+    },
+    {
+      "term": "die Zeitspanne",
+      "type": "Noun",
+      "example": "Über diese lange *** hat sich die Landschaft stark verändert.",
+      "meaning_tr": "zaman aralığı",
+      "meaning_en": "time span",
+      "meaning_uk": "проміжок часу",
+      "meaning_es": "periodo de tiempo"
+    },
+    {
+      "term": "verstreichen",
+      "type": "Verb",
+      "example": "Lassen Sie die Frist nicht ungenutzt ***.",
+      "meaning_tr": "geçip gitmek",
+      "meaning_en": "to elapse",
+      "meaning_uk": "спливати",
+      "meaning_es": "transcurrir"
+    },
+    {
+      "term": "zeitweise",
+      "type": "Adverb",
+      "example": "Es wird *** zu starken Regenfällen kommen.",
+      "meaning_tr": "zaman zaman",
+      "meaning_en": "at times",
+      "meaning_uk": "часом",
+      "meaning_es": "temporalmente"
+    },
+    {
+      "term": "der Zeitplan",
+      "type": "Noun",
+      "example": "Wir liegen mit unserem Projekt voll im ***.",
+      "meaning_tr": "zaman çizelgesi",
+      "meaning_en": "schedule",
+      "meaning_uk": "графік",
+      "meaning_es": "horario"
+    },
+    {
+      "term": "währenddessen",
+      "type": "Conjunction",
+      "example": "Ich bereite das Essen vor, *** kannst du den Tisch decken.",
+      "meaning_tr": "bu esnada",
+      "meaning_en": "meanwhile",
+      "meaning_uk": "тим часом",
+      "meaning_es": "mientras tanto"
+    },
+    {
+      "term": "befristet",
+      "type": "Adjective",
+      "example": "Der Arbeitsvertrag ist zunächst auf zwei Jahre ***.",
+      "meaning_tr": "süreli",
+      "meaning_en": "fixed-term",
+      "meaning_uk": "обмежений у часі",
+      "meaning_es": "temporal"
+    },
+    {
+      "term": "die Frist",
+      "type": "Noun",
+      "example": "Die *** für die Einreichung endet am Freitag.",
+      "meaning_tr": "süre",
+      "meaning_en": "deadline",
+      "meaning_uk": "термін",
+      "meaning_es": "plazo"
+    },
+    {
+      "term": "unabsehbar",
+      "type": "Adjective",
+      "example": "Die Folgen des Streiks sind derzeit noch ***.",
+      "meaning_tr": "öngörülemez",
+      "meaning_en": "unforeseeable",
+      "meaning_uk": "непередбачуваний",
+      "meaning_es": "imprevisible"
+    },
+    {
+      "term": "vorübergehend",
+      "type": "Adjective",
+      "example": "Die Straße ist *** wegen Bauarbeiten gesperrt.",
+      "meaning_tr": "geçici",
+      "meaning_en": "temporary",
+      "meaning_uk": "тимчасовий",
+      "meaning_es": "temporal"
+    },
+    {
+      "term": "die Ära",
+      "type": "Noun",
+      "example": "Mit seinem Rücktritt endet eine ganze ***.",
+      "meaning_tr": "devir",
+      "meaning_en": "era",
+      "meaning_uk": "ера",
+      "meaning_es": "era"
+    },
+    {
+      "term": "beschleunigen",
+      "type": "Verb",
+      "example": "Wir müssen den Prozess deutlich ***.",
+      "meaning_tr": "hızlandırmak",
+      "meaning_en": "to accelerate",
+      "meaning_uk": "прискорювати",
+      "meaning_es": "acelerar"
+    },
+    {
+      "term": "rechtzeitig",
+      "type": "Adverb",
+      "example": "Kommen Sie bitte *** zum Treffen.",
+      "meaning_tr": "zamanında",
+      "meaning_en": "in time",
+      "meaning_uk": "вчасно",
+      "meaning_es": "a tiempo"
+    },
+    {
+      "term": "die Zeitnot",
+      "type": "Noun",
+      "example": "Aufgrund der großen *** konnte ich den Text nicht gründlich lesen.",
+      "meaning_tr": "zaman darlığı",
+      "meaning_en": "time pressure",
+      "meaning_uk": "брак часу",
+      "meaning_es": "falta de tiempo"
+    },
+    {
+      "term": "nachholen",
+      "type": "Verb",
+      "example": "Ich muss den verpassten Stoff dringend ***.",
+      "meaning_tr": "telafi etmek",
+      "meaning_en": "to catch up on",
+      "meaning_uk": "надолужувати",
+      "meaning_es": "recuperar"
+    },
+    {
+      "term": "allmählich",
+      "type": "Adverb",
+      "example": "Es wird *** kälter draußen.",
+      "meaning_tr": "yavaş yavaş",
+      "meaning_en": "gradually",
+      "meaning_uk": "поступово",
+      "meaning_es": "gradualmente"
+    },
+    {
+      "term": "der Zeitaufwand",
+      "type": "Noun",
+      "example": "Der *** für diese Aufgabe ist enorm.",
+      "meaning_tr": "zaman harcaması",
+      "meaning_en": "time expenditure",
+      "meaning_uk": "витрати часу",
+      "meaning_es": "tiempo requerido"
+    },
+    {
+      "term": "einst",
+      "type": "Adverb",
+      "example": "Das Gebäude war *** ein prachtvolles Schloss.",
+      "meaning_tr": "bir zamanlar",
+      "meaning_en": "once",
+      "meaning_uk": "колись",
+      "meaning_es": "antaño"
+    },
+    {
+      "term": "unmittelbar",
+      "type": "Adjective",
+      "example": "Die Entscheidung hat *** Auswirkungen auf uns alle.",
+      "meaning_tr": "dolaysız/hemen",
+      "meaning_en": "immediate",
+      "meaning_uk": "безпосередній",
+      "meaning_es": "inmediato"
+    },
+    {
+      "term": "die Laufzeit",
+      "type": "Noun",
+      "example": "Der Kredit hat eine *** von zehn Jahren.",
+      "meaning_tr": "vade",
+      "meaning_en": "duration",
+      "meaning_uk": "термін дії",
+      "meaning_es": "duración"
+    },
+    {
+      "term": "verzögern",
+      "type": "Verb",
+      "example": "Der Regen wird den Baufortschritt leider ***.",
+      "meaning_tr": "geciktirmek",
+      "meaning_en": "to delay",
+      "meaning_uk": "затримувати",
+      "meaning_es": "retrasar"
+    },
+    {
+      "term": "künftig",
+      "type": "Adjective",
+      "example": "Wir werden *** mehr auf Qualität achten.",
+      "meaning_tr": "gelecekte",
+      "meaning_en": "in the future",
+      "meaning_uk": "у майбутньому",
+      "meaning_es": "en el futuro"
+    },
+    {
+      "term": "der Zeitgenosse",
+      "type": "Noun",
+      "example": "Er war ein bedeutender *** von Goethe.",
+      "meaning_tr": "çağdaş",
+      "meaning_en": "contemporary",
+      "meaning_uk": "сучасник",
+      "meaning_es": "contemporáneo"
+    },
+    {
+      "term": "wiederkehrend",
+      "type": "Adjective",
+      "example": "Dies ist ein *** Problem in unserem System.",
+      "meaning_tr": "tekrarlanan",
+      "meaning_en": "recurring",
+      "meaning_uk": "повторюваний",
+      "meaning_es": "recurrente"
+    },
+    {
+      "term": "bisweilen",
+      "type": "Adverb",
+      "example": "Er wirkt *** etwas arrogant.",
+      "meaning_tr": "bazen",
+      "meaning_en": "at times",
+      "meaning_uk": "подекуди",
+      "meaning_es": "a veces"
+    },
+    {
+      "term": "die Zeitspanne",
+      "type": "Noun",
+      "example": "In der kurzen *** ist viel passiert.",
+      "meaning_tr": "zaman aralığı",
+      "meaning_en": "period",
+      "meaning_uk": "проміжок часу",
+      "meaning_es": "periodo"
+    },
+    {
+      "term": "verweilen",
+      "type": "Verb",
+      "example": "Wir sollten noch ein wenig im Park ***.",
+      "meaning_tr": "kalmak/vakit geçirmek",
+      "meaning_en": "to linger",
+      "meaning_uk": "затримуватися",
+      "meaning_es": "permanecer"
+    },
+    {
+      "term": "zeitgemäß",
+      "type": "Adjective",
+      "example": "Das Design wirkt sehr ***.",
+      "meaning_tr": "çağdaş/modern",
+      "meaning_en": "contemporary/modern",
+      "meaning_uk": "сучасний",
+      "meaning_es": "moderno"
+    },
+    {
+      "term": "der Zeitdruck",
+      "type": "Noun",
+      "example": "Unter *** arbeiten wir oft weniger effizient.",
+      "meaning_tr": "zaman baskısı",
+      "meaning_en": "time pressure",
+      "meaning_uk": "тиск часу",
+      "meaning_es": "presión de tiempo"
+    },
+    {
+      "term": "überfällig",
+      "type": "Adjective",
+      "example": "Diese Reform ist längst ***.",
+      "meaning_tr": "vadesi geçmiş",
+      "meaning_en": "overdue",
+      "meaning_uk": "прострочений",
+      "meaning_es": "atrasado"
+    },
+    {
+      "term": "seit jeher",
+      "type": "Adverb",
+      "example": "Das ist *** so gewesen.",
+      "meaning_tr": "eskiden beri",
+      "meaning_en": "always",
+      "meaning_uk": "споконвіку",
+      "meaning_es": "desde siempre"
+    },
+    {
+      "term": "die Zeitverschwendung",
+      "type": "Noun",
+      "example": "Dieses Meeting war reine ***.",
+      "meaning_tr": "zaman kaybı",
+      "meaning_en": "waste of time",
+      "meaning_uk": "марнування часу",
+      "meaning_es": "pérdida de tiempo"
+    },
+    {
+      "term": "hinfällig",
+      "type": "Adjective",
+      "example": "Damit ist der ursprüngliche Plan ***.",
+      "meaning_tr": "geçersiz",
+      "meaning_en": "obsolete/invalid",
+      "meaning_uk": "недійсний",
+      "meaning_es": "nulo"
+    },
+    {
+      "term": "ehemalig",
+      "type": "Adjective",
+      "example": "Er ist mein *** Chef.",
+      "meaning_tr": "eski",
+      "meaning_en": "former",
+      "meaning_uk": "колишній",
+      "meaning_es": "antiguo"
+    },
+    {
+      "term": "der Zeitraum",
+      "type": "Noun",
+      "example": "Welcher *** ist für die Analyse vorgesehen?",
+      "meaning_tr": "zaman dilimi",
+      "meaning_en": "time period",
+      "meaning_uk": "період часу",
+      "meaning_es": "periodo"
+    },
+    {
+      "term": "vergangen",
+      "type": "Adjective",
+      "example": "In der *** Woche habe ich viel gelernt.",
+      "meaning_tr": "geçmiş",
+      "meaning_en": "past",
+      "meaning_uk": "минулий",
+      "meaning_es": "pasado"
+    },
+    {
+      "term": "vorzeitig",
+      "type": "Adjective",
+      "example": "Das Spiel wurde wegen Unwetter *** abgebrochen.",
+      "meaning_tr": "erken",
+      "meaning_en": "premature",
+      "meaning_uk": "передчасний",
+      "meaning_es": "prematuro"
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "example": "*** des Urlaubs habe ich keine E-Mails gelesen.",
+      "meaning_tr": "esnasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "die Gegenwart",
+      "type": "Noun",
+      "example": "Wir müssen uns auf die *** konzentrieren.",
+      "meaning_tr": "şimdiki zaman",
+      "meaning_en": "present",
+      "meaning_uk": "сучасність",
+      "meaning_es": "presente"
+    },
+    {
+      "term": "bevorstehen",
+      "type": "Verb",
+      "example": "Uns *** schwierige Zeiten bevor.",
+      "meaning_tr": "yaklaşmak/kapıda olmak",
+      "meaning_en": "to be imminent",
+      "meaning_uk": "насуватися",
+      "meaning_es": "estar por venir"
+    },
+    {
+      "term": "langfristig",
+      "type": "Adjective",
+      "example": "Wir planen eine *** Strategie.",
+      "meaning_tr": "uzun vadeli",
+      "meaning_en": "long-term",
+      "meaning_uk": "довгостроковий",
+      "meaning_es": "a largo plazo"
+    },
+    {
+      "term": "die Fristverlängerung",
+      "type": "Noun",
+      "example": "Ich habe eine *** beantragt.",
+      "meaning_tr": "süre uzatımı",
+      "meaning_en": "extension of time",
+      "meaning_uk": "продовження терміну",
+      "meaning_es": "prórroga"
+    },
+    {
+      "term": "zeitraubend",
+      "type": "Adjective",
+      "example": "Die Recherche ist sehr ***.",
+      "meaning_tr": "zaman alıcı",
+      "meaning_en": "time-consuming",
+      "meaning_uk": "той, що потребує багато часу",
+      "meaning_es": "que consume tiempo"
+    },
+    {
+      "term": "damals",
+      "type": "Adverb",
+      "example": "*** war alles ganz anders.",
+      "meaning_tr": "o zamanlar",
+      "meaning_en": "back then",
+      "meaning_uk": "тоді",
+      "meaning_es": "entonces"
+    },
+    {
+      "term": "die Zeitangabe",
+      "type": "Noun",
+      "example": "Bitte überprüfen Sie die *** im Dokument.",
+      "meaning_tr": "zaman bilgisi",
+      "meaning_en": "time indication",
+      "meaning_uk": "інформація про час",
+      "meaning_es": "indicación de tiempo"
+    },
+    {
+      "term": "unvermittelt",
+      "type": "Adverb",
+      "example": "Er hörte *** auf zu sprechen.",
+      "meaning_tr": "ansızın",
+      "meaning_en": "abruptly",
+      "meaning_uk": "раптово",
+      "meaning_es": "abruptamente"
+    },
+    {
+      "term": "kürzlich",
+      "type": "Adverb",
+      "example": "Ich habe ihn *** in der Stadt gesehen.",
+      "meaning_tr": "yakın zamanda",
+      "meaning_en": "recently",
+      "meaning_uk": "нещодавно",
+      "meaning_es": "recientemente"
+    },
+    {
+      "term": "die Zeitersparnis",
+      "type": "Noun",
+      "example": "Die neue Software bringt eine enorme ***.",
+      "meaning_tr": "zaman tasarrufu",
+      "meaning_en": "time saving",
+      "meaning_uk": "економія часу",
+      "meaning_es": "ahorro de tiempo"
+    },
+    {
+      "term": "unaufhaltsam",
+      "type": "Adjective",
+      "example": "Die Zeit schreitet *** voran.",
+      "meaning_tr": "durdurulamaz",
+      "meaning_en": "unstoppable",
+      "meaning_uk": "невблаганний",
+      "meaning_es": "imparable"
+    },
+    {
+      "term": "demnächst",
+      "type": "Adverb",
+      "example": "Wir werden *** ein neues Produkt einführen.",
+      "meaning_tr": "yakında",
+      "meaning_en": "soon",
+      "meaning_uk": "незабаром",
+      "meaning_es": "próximamente"
+    },
+    {
+      "term": "die Zeitwende",
+      "type": "Noun",
+      "example": "Wir leben in einer historischen ***.",
+      "meaning_tr": "çağ değişimi",
+      "meaning_en": "turning point of an era",
+      "meaning_uk": "злам епох",
+      "meaning_es": "cambio de era"
+    },
+    {
+      "term": "zeitintensiv",
+      "type": "Adjective",
+      "example": "Das Studium ist sehr ***.",
+      "meaning_tr": "zaman yoğun",
+      "meaning_en": "time-intensive",
+      "meaning_uk": "трудомісткий (у часі)",
+      "meaning_es": "que requiere mucho tiempo"
+    }
+  ]
+}

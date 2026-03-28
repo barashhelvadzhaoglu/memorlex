@@ -1,0 +1,546 @@
+{
+  "title": "Deporte y Nutricion (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el rendimiento",
+      "type": "Noun",
+      "meaning_tr": "performans",
+      "meaning_en": "performance",
+      "meaning_uk": "продуктивність",
+      "meaning_es": "Capacidad de obtener resultados",
+      "example": "*** deportivo ha mejorado gracias a la nueva dieta."
+    },
+    {
+      "term": "la hipertrofia",
+      "type": "Noun",
+      "meaning_tr": "hipertrofi",
+      "meaning_en": "hypertrophy",
+      "meaning_uk": "гіпертрофія",
+      "meaning_es": "Aumento del volumen muscular",
+      "example": "El entrenamiento de fuerza favorece la *** muscular."
+    },
+    {
+      "term": "el metabolismo",
+      "type": "Noun",
+      "meaning_tr": "metabolizma",
+      "meaning_en": "metabolism",
+      "meaning_uk": "метаболізм",
+      "meaning_es": "Conjunto de reacciones químicas",
+      "example": "Un *** acelerado ayuda a quemar grasas más rápido."
+    },
+    {
+      "term": "la ingesta",
+      "type": "Noun",
+      "meaning_tr": "alım/tüketim",
+      "meaning_en": "intake",
+      "meaning_uk": "споживання",
+      "meaning_es": "Cantidad de alimento ingerido",
+      "example": "Es fundamental controlar la *** de proteínas diarias."
+    },
+    {
+      "term": "la suplementación",
+      "type": "Noun",
+      "meaning_tr": "takviye",
+      "meaning_en": "supplementation",
+      "meaning_uk": "добавки",
+      "meaning_es": "Uso de suplementos nutricionales",
+      "example": "La *** debe ser supervisada por un profesional."
+    },
+    {
+      "term": "el glucógeno",
+      "type": "Noun",
+      "meaning_tr": "glikojen",
+      "meaning_en": "glycogen",
+      "meaning_uk": "глікоген",
+      "meaning_es": "Reserva de energía en el músculo",
+      "example": "Los depósitos de *** se agotan tras una carrera larga."
+    },
+    {
+      "term": "la fatiga",
+      "type": "Noun",
+      "meaning_tr": "yorgunluk",
+      "meaning_en": "fatigue",
+      "meaning_uk": "втома",
+      "meaning_es": "Cansancio extremo",
+      "example": "El atleta sintió una *** prematura durante la competencia."
+    },
+    {
+      "term": "la resistencia",
+      "type": "Noun",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "endurance",
+      "meaning_uk": "витривалість",
+      "meaning_es": "Capacidad de aguantar un esfuerzo",
+      "example": "Los ciclistas necesitan una gran *** cardiovascular."
+    },
+    {
+      "term": "la masa magra",
+      "type": "Noun",
+      "meaning_tr": "yağsız kütle",
+      "meaning_en": "lean body mass",
+      "meaning_uk": "знежирена маса тіла",
+      "meaning_es": "Peso del cuerpo excluyendo la grasa",
+      "example": "Su objetivo principal es aumentar la ***."
+    },
+    {
+      "term": "el macronutriente",
+      "type": "Noun",
+      "meaning_tr": "makrobesin",
+      "meaning_en": "macronutrient",
+      "meaning_uk": "макронутрієнт",
+      "meaning_es": "Nutriente que aporta energía",
+      "example": "Debes equilibrar cada *** en tu dieta diaria."
+    },
+    {
+      "term": "el micronutriente",
+      "type": "Noun",
+      "meaning_tr": "mikrobesin",
+      "meaning_en": "micronutrient",
+      "meaning_uk": "мікронутрієнт",
+      "meaning_es": "Vitamina o mineral esencial",
+      "example": "La falta de cualquier *** puede afectar la salud."
+    },
+    {
+      "term": "la hidratación",
+      "type": "Noun",
+      "meaning_tr": "hidrasyon/nemlendirme",
+      "meaning_en": "hydration",
+      "meaning_uk": "гідратація",
+      "meaning_es": "Acción de hidratar",
+      "example": "Una correcta *** es vital para evitar calambres."
+    },
+    {
+      "term": "el sobreentrenamiento",
+      "type": "Noun",
+      "meaning_tr": "aşırı antrenman",
+      "meaning_en": "overtraining",
+      "meaning_uk": "перетренованість",
+      "meaning_es": "Exceso de ejercicio físico",
+      "example": "El *** puede provocar lesiones graves."
+    },
+    {
+      "term": "la asimilación",
+      "type": "Noun",
+      "meaning_tr": "özümseme",
+      "meaning_en": "assimilation",
+      "meaning_uk": "засвоєння",
+      "meaning_es": "Proceso de absorción de nutrientes",
+      "example": "La *** de los nutrientes mejora con el descanso."
+    },
+    {
+      "term": "la recuperación",
+      "type": "Noun",
+      "meaning_tr": "toparlanma",
+      "meaning_en": "recovery",
+      "meaning_uk": "відновлення",
+      "meaning_es": "Periodo de descanso post-ejercicio",
+      "example": "La *** es tan importante como el entrenamiento."
+    },
+    {
+      "term": "la suplementar",
+      "type": "Verb",
+      "meaning_tr": "takviye etmek",
+      "meaning_en": "to supplement",
+      "meaning_uk": "доповнювати",
+      "meaning_es": "Añadir algo para completar",
+      "example": "Decidió *** su dieta con creatina monohidratada."
+    },
+    {
+      "term": "metabolizar",
+      "type": "Verb",
+      "meaning_tr": "metabolize etmek",
+      "meaning_en": "to metabolize",
+      "meaning_uk": "метаболізувати",
+      "meaning_es": "Transformar sustancias en el cuerpo",
+      "example": "El hígado ayuda a *** las grasas ingeridas."
+    },
+    {
+      "term": "potenciar",
+      "type": "Verb",
+      "meaning_tr": "güçlendirmek",
+      "meaning_en": "to boost/enhance",
+      "meaning_uk": "підсилювати",
+      "meaning_es": "Aumentar la potencia o eficacia",
+      "example": "Este batido busca *** la recuperación muscular."
+    },
+    {
+      "term": "optimizar",
+      "type": "Verb",
+      "meaning_tr": "optimize etmek",
+      "meaning_en": "to optimize",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "Buscar la mejor manera de hacer algo",
+      "example": "Debes *** tus tiempos de descanso para ganar energía."
+    },
+    {
+      "term": "oxidar",
+      "type": "Verb",
+      "meaning_tr": "okside etmek",
+      "meaning_en": "to oxidize",
+      "meaning_uk": "окислювати",
+      "meaning_es": "Proceso químico de combustión",
+      "example": "El cuerpo necesita oxígeno para *** los carbohidratos."
+    },
+    {
+      "term": "sintetizar",
+      "type": "Verb",
+      "meaning_tr": "sentezlemek",
+      "meaning_en": "to synthesize",
+      "meaning_uk": "синтезувати",
+      "meaning_es": "Elaborar una sustancia compleja",
+      "example": "El organismo debe *** las proteínas para formar músculo."
+    },
+    {
+      "term": "rendir",
+      "type": "Verb",
+      "meaning_tr": "verim vermek",
+      "meaning_en": "to perform",
+      "meaning_uk": "працювати/видавати результат",
+      "meaning_es": "Dar fruto o utilidad",
+      "example": "Para *** al máximo, debes dormir bien."
+    },
+    {
+      "term": "sobrecargar",
+      "type": "Verb",
+      "meaning_tr": "aşırı yüklemek",
+      "meaning_en": "to overload",
+      "meaning_uk": "перевантажувати",
+      "meaning_es": "Cargar excesivamente",
+      "example": "No debes *** los músculos en la primera sesión."
+    },
+    {
+      "term": "reponer",
+      "type": "Verb",
+      "meaning_tr": "yerine koymak/tazelemek",
+      "meaning_en": "to replenish",
+      "meaning_uk": "поповнювати",
+      "meaning_es": "Volver a poner algo en su lugar",
+      "example": "Es necesario *** los electrolitos tras el ejercicio."
+    },
+    {
+      "term": "ingerir",
+      "type": "Verb",
+      "meaning_tr": "yutmak/tüketmek",
+      "meaning_en": "to ingest",
+      "meaning_uk": "ковтати/споживати",
+      "meaning_es": "Comer o beber",
+      "example": "Se recomienda *** alimentos ricos en fibra."
+    },
+    {
+      "term": "desgastar",
+      "type": "Verb",
+      "meaning_tr": "yıpratmak",
+      "meaning_en": "to wear out",
+      "meaning_uk": "зношувати",
+      "meaning_es": "Consumir poco a poco",
+      "example": "El ejercicio intenso puede *** las articulaciones."
+    },
+    {
+      "term": "ejercitar",
+      "type": "Verb",
+      "meaning_tr": "egzersiz yapmak",
+      "meaning_en": "to exercise",
+      "meaning_uk": "тренувати",
+      "meaning_es": "Realizar actividad física",
+      "example": "Debes *** el cuerpo de forma equilibrada."
+    },
+    {
+      "term": "catabolizar",
+      "type": "Verb",
+      "meaning_tr": "katabolize etmek",
+      "meaning_en": "to catabolize",
+      "meaning_uk": "катаболізувати",
+      "meaning_es": "Degradar sustancias orgánicas",
+      "example": "Si no comes, el cuerpo empieza a *** músculo."
+    },
+    {
+      "term": "anabólico",
+      "type": "Adjective",
+      "meaning_tr": "anabolik",
+      "meaning_en": "anabolic",
+      "meaning_uk": "анаболічний",
+      "meaning_es": "Relativo a la síntesis de moléculas",
+      "example": "La fase *** es clave para el crecimiento muscular."
+    },
+    {
+      "term": "aeróbico",
+      "type": "Adjective",
+      "meaning_tr": "aerobik",
+      "meaning_en": "aerobic",
+      "meaning_uk": "аеробний",
+      "meaning_es": "Que requiere oxígeno",
+      "example": "El ejercicio *** mejora la salud del corazón."
+    },
+    {
+      "term": "anaeróbico",
+      "type": "Adjective",
+      "meaning_tr": "anaerobik",
+      "meaning_en": "anaerobic",
+      "meaning_uk": "анаеробний",
+      "meaning_es": "Que no requiere oxígeno",
+      "example": "El entrenamiento *** es muy intenso y corto."
+    },
+    {
+      "term": "nutritivo",
+      "type": "Adjective",
+      "meaning_tr": "besleyici",
+      "meaning_en": "nutritious",
+      "meaning_uk": "поживний",
+      "meaning_es": "Que alimenta bien",
+      "example": "Busca siempre un desayuno *** para empezar el día."
+    },
+    {
+      "term": "sedentario",
+      "type": "Adjective",
+      "meaning_tr": "hareketsiz",
+      "meaning_en": "sedentary",
+      "meaning_uk": "малорухливий",
+      "meaning_es": "Que requiere poca actividad",
+      "example": "Un estilo de vida *** es perjudicial para la salud."
+    },
+    {
+      "term": "calórico",
+      "type": "Adjective",
+      "meaning_tr": "kalorik",
+      "meaning_en": "caloric",
+      "meaning_uk": "калорійний",
+      "meaning_es": "Relativo a las calorías",
+      "example": "Controla el balance *** para perder peso."
+    },
+    {
+      "term": "muscular",
+      "type": "Adjective",
+      "meaning_tr": "kas",
+      "meaning_en": "muscular",
+      "meaning_uk": "м'язовий",
+      "meaning_es": "Relativo a los músculos",
+      "example": "El dolor *** es común tras un entrenamiento nuevo."
+    },
+    {
+      "term": "metabólico",
+      "type": "Adjective",
+      "meaning_tr": "metabolik",
+      "meaning_en": "metabolic",
+      "meaning_uk": "метаболічний",
+      "meaning_es": "Relativo al metabolismo",
+      "example": "El ritmo *** cambia con la edad."
+    },
+    {
+      "term": "esencial",
+      "type": "Adjective",
+      "meaning_tr": "temel/gerekli",
+      "meaning_en": "essential",
+      "meaning_uk": "суттєвий/основний",
+      "meaning_es": "Necesario y fundamental",
+      "example": "Los aminoácidos son *** para la vida."
+    },
+    {
+      "term": "agudo",
+      "type": "Adjective",
+      "meaning_tr": "akut",
+      "meaning_en": "acute",
+      "meaning_uk": "гострий",
+      "meaning_es": "De corta duración e intenso",
+      "example": "Sufrió un dolor *** tras levantar mucho peso."
+    },
+    {
+      "term": "crónico",
+      "type": "Adjective",
+      "meaning_tr": "kronik",
+      "meaning_en": "chronic",
+      "meaning_uk": "хронічний",
+      "meaning_es": "De larga duración",
+      "example": "El cansancio *** puede ser señal de sobreentrenamiento."
+    },
+    {
+      "term": "cardiovascular",
+      "type": "Adjective",
+      "meaning_tr": "kardiyovasküler",
+      "meaning_en": "cardiovascular",
+      "meaning_uk": "серцево-судинний",
+      "meaning_es": "Relativo al corazón y vasos",
+      "example": "El entrenamiento *** es clave para la longevidad."
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий/стійкий",
+      "meaning_es": "Que se puede mantener",
+      "example": "Busca un plan nutricional *** a largo plazo."
+    },
+    {
+      "term": "eficaz",
+      "type": "Adjective",
+      "meaning_tr": "etkili",
+      "meaning_en": "effective",
+      "meaning_uk": "ефективний",
+      "meaning_es": "Que logra el efecto deseado",
+      "example": "Es una estrategia muy *** para ganar fuerza."
+    },
+    {
+      "term": "intenso",
+      "type": "Adjective",
+      "meaning_tr": "yoğun",
+      "meaning_en": "intense",
+      "meaning_uk": "інтенсивний",
+      "meaning_es": "Con mucha fuerza o energía",
+      "example": "Realizó un entrenamiento muy *** hoy."
+    },
+    {
+      "term": "óptimo",
+      "type": "Adjective",
+      "meaning_tr": "en iyi/ideal",
+      "meaning_en": "optimal",
+      "meaning_uk": "оптимальний",
+      "meaning_es": "Lo mejor posible",
+      "example": "Necesitas un descanso *** para recuperar bien."
+    },
+    {
+      "term": "insuficiente",
+      "type": "Adjective",
+      "meaning_tr": "yetersiz",
+      "meaning_en": "insufficient",
+      "meaning_uk": "недостатній",
+      "meaning_es": "Que no es suficiente",
+      "example": "El consumo de agua fue *** durante la carrera."
+    },
+    {
+      "term": "durante",
+      "type": "Preposition",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "En el tiempo que dura algo",
+      "example": "*** la carrera, bebió mucha agua."
+    },
+    {
+      "term": "tras",
+      "type": "Preposition",
+      "meaning_tr": "ardından/sonra",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "Después de",
+      "example": "*** el ejercicio, es vital comer proteínas."
+    },
+    {
+      "term": "mediante",
+      "type": "Preposition",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "A través de",
+      "example": "Mejoró su marca *** un entrenamiento constante."
+    },
+    {
+      "term": "debido a",
+      "type": "Preposition",
+      "meaning_tr": "-den dolayı",
+      "meaning_en": "due to",
+      "meaning_uk": "через/завдяки",
+      "meaning_es": "A causa de",
+      "example": "No pudo entrenar *** una lesión en la rodilla."
+    },
+    {
+      "term": "fisiológicamente",
+      "type": "Adverb",
+      "meaning_tr": "fizyolojik olarak",
+      "meaning_en": "physiologically",
+      "meaning_uk": "фізіологічно",
+      "meaning_es": "Desde el punto de vista fisiológico",
+      "example": "El cuerpo reacciona *** al estrés del ejercicio."
+    },
+    {
+      "term": "progresivamente",
+      "type": "Adverb",
+      "meaning_tr": "kademeli olarak",
+      "meaning_en": "progressively",
+      "meaning_uk": "поступово",
+      "meaning_es": "Poco a poco",
+      "example": "Debes aumentar la carga *** cada semana."
+    },
+    {
+      "term": "nutricionalmente",
+      "type": "Adverb",
+      "meaning_tr": "besinsel olarak",
+      "meaning_en": "nutritionally",
+      "meaning_uk": "поживно",
+      "meaning_es": "Desde la nutrición",
+      "example": "El menú está *** equilibrado para un atleta."
+    },
+    {
+      "term": "diariamente",
+      "type": "Adverb",
+      "meaning_tr": "günlük olarak",
+      "meaning_en": "daily",
+      "meaning_uk": "щодня",
+      "meaning_es": "Cada día",
+      "example": "Debes consumir frutas *** para mejorar tu salud."
+    },
+    {
+      "term": "frecuentemente",
+      "type": "Adverb",
+      "meaning_tr": "sıklıkla",
+      "meaning_en": "frequently",
+      "meaning_uk": "часто",
+      "meaning_es": "A menudo",
+      "example": "El atleta se lesiona *** por mala técnica."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen/olsa da",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "A pesar de que",
+      "example": "*** estaba cansado, completó el entrenamiento."
+    },
+    {
+      "term": "mientras",
+      "type": "Conjunction",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "поки/в той час як",
+      "meaning_es": "Al mismo tiempo que",
+      "example": "*** haces pesas, mantén la espalda recta."
+    },
+    {
+      "term": "puesto que",
+      "type": "Conjunction",
+      "meaning_tr": "-dığı için",
+      "meaning_en": "since/because",
+      "meaning_uk": "оскільки",
+      "meaning_es": "Ya que",
+      "example": "Necesitas descansar *** has entrenado mucho."
+    },
+    {
+      "term": "siempre que",
+      "type": "Conjunction",
+      "meaning_tr": "yeter ki",
+      "meaning_en": "provided that",
+      "meaning_uk": "за умови, що",
+      "meaning_es": "Con la condición de que",
+      "example": "Mejorarás *** mantengas la constancia."
+    },
+    {
+      "term": "a menos que",
+      "type": "Conjunction",
+      "meaning_tr": "-medikçe",
+      "meaning_en": "unless",
+      "meaning_uk": "якщо не",
+      "meaning_es": "Si no",
+      "example": "No verás resultados *** cambies tu dieta."
+    },
+    {
+      "term": "así que",
+      "type": "Conjunction",
+      "meaning_tr": "bu yüzden",
+      "meaning_en": "so",
+      "meaning_uk": "тому",
+      "meaning_es": "Por consiguiente",
+      "example": "Comí poco, *** no tengo energía para correr."
+    }
+  ]
+}

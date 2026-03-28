@@ -1,0 +1,321 @@
+{
+  "title": "Astronomie & Weltraum (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Planet",
+      "type": "Noun",
+      "meaning_tr": "gezegen",
+      "meaning_en": "planet",
+      "meaning_uk": "планета",
+      "meaning_es": "planeta",
+      "example": "Die Erde ist *** im Sonnensystem."
+    },
+    {
+      "term": "der Stern",
+      "type": "Noun",
+      "meaning_tr": "yıldız",
+      "meaning_en": "star",
+      "meaning_uk": "зірка",
+      "meaning_es": "estrella",
+      "example": "Die Sonne ist ein ***."
+    },
+    {
+      "term": "die Galaxie",
+      "type": "Noun",
+      "meaning_tr": "galaksi",
+      "meaning_en": "galaxy",
+      "meaning_uk": "галактика",
+      "meaning_es": "galaxia",
+      "example": "Unsere *** heißt Milchstraße."
+    },
+    {
+      "term": "der Mond",
+      "type": "Noun",
+      "meaning_tr": "ay",
+      "meaning_en": "moon",
+      "meaning_uk": "місяць",
+      "meaning_es": "luna",
+      "example": "Der *** scheint in der Nacht."
+    },
+    {
+      "term": "die Sonne",
+      "type": "Noun",
+      "meaning_tr": "güneş",
+      "meaning_en": "sun",
+      "meaning_uk": "сонце",
+      "meaning_es": "sol",
+      "example": "Die *** gibt uns Licht und Wärme."
+    },
+    {
+      "term": "das Universum",
+      "type": "Noun",
+      "meaning_tr": "evren",
+      "meaning_en": "universe",
+      "meaning_uk": "всесвіт",
+      "meaning_es": "universo",
+      "example": "*** ist unendlich groß."
+    },
+    {
+      "term": "der Weltraum",
+      "type": "Noun",
+      "meaning_tr": "uzay",
+      "meaning_en": "space",
+      "meaning_uk": "космос",
+      "meaning_es": "espacio",
+      "example": "Astronauten reisen in den ***."
+    },
+    {
+      "term": "der Komet",
+      "type": "Noun",
+      "meaning_tr": "kuyrukluyıldız",
+      "meaning_en": "comet",
+      "meaning_uk": "комета",
+      "meaning_es": "cometa",
+      "example": "Ein *** hat einen langen Schweif."
+    },
+    {
+      "term": "der Asteroid",
+      "type": "Noun",
+      "meaning_tr": "asteroid",
+      "meaning_en": "asteroid",
+      "meaning_uk": "астероїд",
+      "meaning_es": "asteroide",
+      "example": "Viele *** kreisen um die Sonne."
+    },
+    {
+      "term": "die Umlaufbahn",
+      "type": "Noun",
+      "meaning_tr": "yörünge",
+      "meaning_en": "orbit",
+      "meaning_uk": "орбіта",
+      "meaning_es": "órbita",
+      "example": "Die Erde hat eine *** um die Sonne."
+    },
+    {
+      "term": "die Erde",
+      "type": "Noun",
+      "meaning_tr": "Dünya",
+      "meaning_en": "Earth",
+      "meaning_uk": "Земля",
+      "meaning_es": "Tierra",
+      "example": "*** ist unser Heimatplanet."
+    },
+    {
+      "term": "der Mars",
+      "type": "Noun",
+      "meaning_tr": "Mars",
+      "meaning_en": "Mars",
+      "meaning_uk": "Марс",
+      "meaning_es": "Marte",
+      "example": "Der rote Planet ist ***."
+    },
+    {
+      "term": "der Jupiter",
+      "type": "Noun",
+      "meaning_tr": "Jüpiter",
+      "meaning_en": "Jupiter",
+      "meaning_uk": "Юпітер",
+      "meaning_es": "Júpiter",
+      "example": "*** ist der größte Planet."
+    },
+    {
+      "term": "der Saturn",
+      "type": "Noun",
+      "meaning_tr": "Satürn",
+      "meaning_en": "Saturn",
+      "meaning_uk": "Сатурн",
+      "meaning_es": "Saturno",
+      "example": "*** hat schöne Ringe."
+    },
+    {
+      "term": "die Venus",
+      "type": "Noun",
+      "meaning_tr": "Venüs",
+      "meaning_en": "Venus",
+      "meaning_uk": "Венера",
+      "meaning_es": "Venus",
+      "example": "Die Venus ist der zweitnächste Planet zur Sonne."
+    },
+    {
+      "term": "der Merkur",
+      "type": "Noun",
+      "meaning_tr": "Merkür",
+      "meaning_en": "Mercury",
+      "meaning_uk": "Меркурій",
+      "meaning_es": "Mercurio",
+      "example": "*** ist der kleinste Planet."
+    },
+    {
+      "term": "der Weltraumteleskop",
+      "type": "Noun",
+      "meaning_tr": "uzay teleskobu",
+      "meaning_en": "space telescope",
+      "meaning_uk": "космічний телескоп",
+      "meaning_es": "telescopio espacial",
+      "example": "Das Hubble ist ein berühmtes ***."
+    },
+    {
+      "term": "die Rakete",
+      "type": "Noun",
+      "meaning_tr": "roket",
+      "meaning_en": "rocket",
+      "meaning_uk": "ракета",
+      "meaning_es": "cohete",
+      "example": "Eine *** startet ins All."
+    },
+    {
+      "term": "der Astronaut",
+      "type": "Noun",
+      "meaning_tr": "astronot",
+      "meaning_en": "astronaut",
+      "meaning_uk": "астронавт",
+      "meaning_es": "astronauta",
+      "example": "Der *** trägt einen Raumanzug."
+    },
+    {
+      "term": "die Raumstation",
+      "type": "Noun",
+      "meaning_tr": "uzay istasyonu",
+      "meaning_en": "space station",
+      "meaning_uk": "космічна станція",
+      "meaning_es": "estación espacial",
+      "example": "Die ISS ist eine internationale ***."
+    },
+    {
+      "term": "der Sputnik",
+      "type": "Noun",
+      "meaning_tr": "Sputnik",
+      "meaning_en": "Sputnik",
+      "meaning_uk": "Супутник",
+      "meaning_es": "Sputnik",
+      "example": "*** war der erste künstliche Satellit."
+    },
+    {
+      "term": "der Satellit",
+      "type": "Noun",
+      "meaning_tr": "uydu",
+      "meaning_en": "satellite",
+      "meaning_uk": "супутник",
+      "meaning_es": "satélite",
+      "example": "Viele *** umkreisen die Erde."
+    },
+    {
+      "term": "der schwarze Loch",
+      "type": "Noun",
+      "meaning_tr": "kara delik",
+      "meaning_en": "black hole",
+      "meaning_uk": "чорна діра",
+      "meaning_es": "agujero negro",
+      "example": "Ein *** zieht alles an."
+    },
+    {
+      "term": "die Supernova",
+      "type": "Noun",
+      "meaning_tr": "süpernova",
+      "meaning_en": "supernova",
+      "meaning_uk": "супернова",
+      "meaning_es": "supernova",
+      "example": "Eine *** ist eine explodierende Stern."
+    },
+    {
+      "term": "die Milchstraße",
+      "type": "Noun",
+      "meaning_tr": "Samanyolu",
+      "meaning_en": "Milky Way",
+      "meaning_uk": "Чумацький Шлях",
+      "meaning_es": "Vía Láctea",
+      "example": "Wir leben in der ***."
+    },
+    {
+      "term": "das Sonnensystem",
+      "type": "Noun",
+      "meaning_tr": "güneş sistemi",
+      "meaning_en": "solar system",
+      "meaning_uk": "сонячна система",
+      "meaning_es": "sistema solar",
+      "example": "Unser *** besteht aus Sonne und Planeten."
+    },
+    {
+      "term": "der Nebel",
+      "type": "Noun",
+      "meaning_tr": "bulutsu",
+      "meaning_en": "nebula",
+      "meaning_uk": "туманність",
+      "meaning_es": "nebulosa",
+      "example": "Ein *** ist eine Wolke aus Gas und Staub."
+    },
+    {
+      "term": "erkunden",
+      "type": "Verb",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "to explore",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "explorar",
+      "example": "Wissenschaftler wollen den Weltraum ***."
+    },
+    {
+      "term": "entdecken",
+      "type": "Verb",
+      "meaning_tr": "keşfetmek, bulmak",
+      "meaning_en": "to discover",
+      "meaning_uk": "відкривати",
+      "meaning_es": "descubrir",
+      "example": "Sie hoffen, neue Planeten zu ***."
+    },
+    {
+      "term": "fliegen",
+      "type": "Verb",
+      "meaning_tr": "uçmak",
+      "meaning_en": "to fly",
+      "meaning_uk": "летіти",
+      "meaning_es": "volar",
+      "example": "Die Rakete wird ins All ***."
+    },
+    {
+      "term": "beobachten",
+      "type": "Verb",
+      "meaning_tr": "gözlemlemek",
+      "meaning_en": "to observe",
+      "meaning_uk": "спостерігати",
+      "meaning_es": "observar",
+      "example": "Wir können Sterne mit einem Teleskop ***."
+    },
+    {
+      "term": "interstellar",
+      "type": "Adjective",
+      "meaning_tr": "yıldızlararası",
+      "meaning_en": "interstellar",
+      "meaning_uk": "міжзоряний",
+      "meaning_es": "interestelar",
+      "example": "Die Reise durch den *** Raum ist lang."
+    },
+    {
+      "term": "kosmisch",
+      "type": "Adjective",
+      "meaning_tr": "kozmik",
+      "meaning_en": "cosmic",
+      "meaning_uk": "космічний",
+      "meaning_es": "cósmico",
+      "example": "Wir sehen *** Phänomene."
+    },
+    {
+      "term": "weit",
+      "type": "Adjective",
+      "meaning_tr": "uzak",
+      "meaning_en": "far",
+      "meaning_uk": "далекий",
+      "meaning_es": "lejano",
+      "example": "Die Sterne sind sehr ***."
+    },
+    {
+      "term": "hell",
+      "type": "Adjective",
+      "meaning_tr": "parlak",
+      "meaning_en": "bright",
+      "meaning_uk": "яскравий",
+      "meaning_es": "brillante",
+      "example": "Die Sonne ist sehr ***."
+    }
+  ]
+}

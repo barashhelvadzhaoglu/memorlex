@@ -1,0 +1,321 @@
+{
+  "title": "Medienkritik (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Nachricht",
+      "type": "Noun",
+      "example": "Ich habe heute eine wichtige *** im Fernsehen gehört.",
+      "meaning_tr": "haber",
+      "meaning_en": "news",
+      "meaning_uk": "новина",
+      "meaning_es": "noticia"
+    },
+    {
+      "term": "die Quelle",
+      "type": "Noun",
+      "example": "Man sollte immer die *** einer Information prüfen.",
+      "meaning_tr": "kaynak",
+      "meaning_en": "source",
+      "meaning_uk": "джерело",
+      "meaning_es": "fuente"
+    },
+    {
+      "term": "behaupten",
+      "type": "Verb",
+      "example": "Viele Leute ***, dass das Internet gefährlich ist.",
+      "meaning_tr": "iddia etmek",
+      "meaning_en": "to claim",
+      "meaning_uk": "стверджувати",
+      "meaning_es": "afirmar"
+    },
+    {
+      "term": "kritisch",
+      "type": "Adjective",
+      "example": "Man sollte Medienberichte immer *** hinterfragen.",
+      "meaning_tr": "eleştirel",
+      "meaning_en": "critical",
+      "meaning_uk": "критичний",
+      "meaning_es": "crítico"
+    },
+    {
+      "term": "die Falschmeldung",
+      "type": "Noun",
+      "example": "Im Internet verbreitet sich oft eine *** sehr schnell.",
+      "meaning_tr": "yalan haber",
+      "meaning_en": "fake news",
+      "meaning_uk": "фейкова новина",
+      "meaning_es": "noticia falsa"
+    },
+    {
+      "term": "manipulieren",
+      "type": "Verb",
+      "example": "Bilder können die Meinung der Zuschauer ***.",
+      "meaning_tr": "manipüle etmek",
+      "meaning_en": "to manipulate",
+      "meaning_uk": "маніпулювати",
+      "meaning_es": "manipular"
+    },
+    {
+      "term": "die Meinung",
+      "type": "Noun",
+      "example": "Jeder hat das Recht auf seine eigene ***.",
+      "meaning_tr": "fikir",
+      "meaning_en": "opinion",
+      "meaning_uk": "думка",
+      "meaning_es": "opinión"
+    },
+    {
+      "term": "objektiv",
+      "type": "Adjective",
+      "example": "Ein guter Journalist berichtet immer ***.",
+      "meaning_tr": "objektif",
+      "meaning_en": "objective",
+      "meaning_uk": "об'єктивний",
+      "meaning_es": "objetivo"
+    },
+    {
+      "term": "subjektiv",
+      "type": "Adjective",
+      "example": "Seine Aussage war sehr *** und nicht faktisch.",
+      "meaning_tr": "öznel",
+      "meaning_en": "subjective",
+      "meaning_uk": "суб'єктивний",
+      "meaning_es": "subjetivo"
+    },
+    {
+      "term": "die Presse",
+      "type": "Noun",
+      "example": "Die *** informiert die Bürger über aktuelle Ereignisse.",
+      "meaning_tr": "basın",
+      "meaning_en": "press",
+      "meaning_uk": "преса",
+      "meaning_es": "prensa"
+    },
+    {
+      "term": "verbreiten",
+      "type": "Verb",
+      "example": "Soziale Medien *** Informationen in Sekundenschnelle.",
+      "meaning_tr": "yaymak",
+      "meaning_en": "to spread",
+      "meaning_uk": "поширювати",
+      "meaning_es": "difundir"
+    },
+    {
+      "term": "der Einfluss",
+      "type": "Noun",
+      "example": "Medien haben einen großen *** auf unsere Gesellschaft.",
+      "meaning_tr": "etki",
+      "meaning_en": "influence",
+      "meaning_uk": "вплив",
+      "meaning_es": "influencia"
+    },
+    {
+      "term": "glaubwürdig",
+      "type": "Adjective",
+      "example": "Ist diese Webseite wirklich ***?",
+      "meaning_tr": "inandırıcı",
+      "meaning_en": "credible",
+      "meaning_uk": "достовірний",
+      "meaning_es": "creíble"
+    },
+    {
+      "term": "bewerten",
+      "type": "Verb",
+      "example": "Wir müssen die Qualität der Informationen ***.",
+      "meaning_tr": "değerlendirmek",
+      "meaning_en": "to evaluate",
+      "meaning_uk": "оцінювати",
+      "meaning_es": "evaluar"
+    },
+    {
+      "term": "die Zensur",
+      "type": "Noun",
+      "example": "In vielen Ländern gibt es staatliche ***.",
+      "meaning_tr": "sansür",
+      "meaning_en": "censorship",
+      "meaning_uk": "цензура",
+      "meaning_es": "censura"
+    },
+    {
+      "term": "täuschen",
+      "type": "Verb",
+      "example": "Die Überschrift soll den Leser ***.",
+      "meaning_tr": "kandırmak",
+      "meaning_en": "to deceive",
+      "meaning_uk": "обманювати",
+      "meaning_es": "engañar"
+    },
+    {
+      "term": "tatsächlich",
+      "type": "Adverb",
+      "example": "Ist das *** passiert oder ist es erfunden?",
+      "meaning_tr": "gerçekten",
+      "meaning_en": "actually",
+      "meaning_uk": "насправді",
+      "meaning_es": "en realidad"
+    },
+    {
+      "term": "die Recherche",
+      "type": "Noun",
+      "example": "Eine gute *** ist die Basis für jeden Artikel.",
+      "meaning_tr": "araştırma",
+      "meaning_en": "research",
+      "meaning_uk": "дослідження",
+      "meaning_es": "investigación"
+    },
+    {
+      "term": "belegen",
+      "type": "Verb",
+      "example": "Kannst du deine Behauptung mit Fakten ***?",
+      "meaning_tr": "kanıtlamak",
+      "meaning_en": "to prove/substantiate",
+      "meaning_uk": "підтверджувати",
+      "meaning_es": "demostrar"
+    },
+    {
+      "term": "unabhängig",
+      "type": "Adjective",
+      "example": "Wir brauchen *** Medien für eine Demokratie.",
+      "meaning_tr": "bağımsız",
+      "meaning_en": "independent",
+      "meaning_uk": "незалежний",
+      "meaning_es": "independiente"
+    },
+    {
+      "term": "der Skandal",
+      "type": "Noun",
+      "example": "Die Zeitung berichtete über einen großen ***.",
+      "meaning_tr": "skandal",
+      "meaning_en": "scandal",
+      "meaning_uk": "скандал",
+      "meaning_es": "escándalo"
+    },
+    {
+      "term": "die Schlagzeile",
+      "type": "Noun",
+      "example": "Die *** war sehr dramatisch und übertrieben.",
+      "meaning_tr": "manşet",
+      "meaning_en": "headline",
+      "meaning_uk": "заголовок",
+      "meaning_es": "titular"
+    },
+    {
+      "term": "dennoch",
+      "type": "Conjunction",
+      "example": "Die Nachricht war alt, *** habe ich sie gelesen.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "тим не менш",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "die Öffentlichkeit",
+      "type": "Noun",
+      "example": "Das Thema wurde in der *** diskutiert.",
+      "meaning_tr": "kamuoyu",
+      "meaning_en": "public",
+      "meaning_uk": "громадськість",
+      "meaning_es": "público"
+    },
+    {
+      "term": "veröffentlichen",
+      "type": "Verb",
+      "example": "Wann wird der Artikel ***?",
+      "meaning_tr": "yayınlamak",
+      "meaning_en": "to publish",
+      "meaning_uk": "опублікувати",
+      "meaning_es": "publicar"
+    },
+    {
+      "term": "der Fakt",
+      "type": "Noun",
+      "example": "Man muss Fakten von Meinungen unterscheiden, das ist ein ***.",
+      "meaning_tr": "gerçek",
+      "meaning_en": "fact",
+      "meaning_uk": "факт",
+      "meaning_es": "hecho"
+    },
+    {
+      "term": "überprüfen",
+      "type": "Verb",
+      "example": "Bitte *** die Daten, bevor du sie teilst.",
+      "meaning_tr": "kontrol etmek",
+      "meaning_en": "to check",
+      "meaning_uk": "перевіряти",
+      "meaning_es": "verificar"
+    },
+    {
+      "term": "einseitig",
+      "type": "Adjective",
+      "example": "Der Bericht war sehr *** und unfair.",
+      "meaning_tr": "tek taraflı",
+      "meaning_en": "one-sided",
+      "meaning_uk": "однобічний",
+      "meaning_es": "unilateral"
+    },
+    {
+      "term": "die Unterhaltung",
+      "type": "Noun",
+      "example": "Im Fernsehen gibt es viel ***, aber wenig Information.",
+      "meaning_tr": "eğlence",
+      "meaning_en": "entertainment",
+      "meaning_uk": "розвага",
+      "meaning_es": "entretenimiento"
+    },
+    {
+      "term": "aufklären",
+      "type": "Verb",
+      "example": "Die Medien sollten die Bürger über Gefahren ***.",
+      "meaning_tr": "aydınlatmak",
+      "meaning_en": "to clarify/inform",
+      "meaning_uk": "інформувати",
+      "meaning_es": "aclarar"
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "example": "*** des Berichts wurde viel Musik gespielt.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "bevorzugen",
+      "type": "Verb",
+      "example": "Viele Menschen *** digitale Zeitungen.",
+      "meaning_tr": "tercih etmek",
+      "meaning_en": "to prefer",
+      "meaning_uk": "надавати перевагу",
+      "meaning_es": "preferir"
+    },
+    {
+      "term": "die Sensationslust",
+      "type": "Noun",
+      "example": "Die *** der Medien ist oft schädlich.",
+      "meaning_tr": "sansasyon merakı",
+      "meaning_en": "sensationalism",
+      "meaning_uk": "сенсаційність",
+      "meaning_es": "sensacionalismo"
+    },
+    {
+      "term": "sorgfältig",
+      "type": "Adverb",
+      "example": "Man sollte Informationen *** prüfen.",
+      "meaning_tr": "dikkatli bir şekilde",
+      "meaning_en": "carefully",
+      "meaning_uk": "ретельно",
+      "meaning_es": "cuidadosamente"
+    },
+    {
+      "term": "dagegen",
+      "type": "Adverb",
+      "example": "Ich habe *** nichts einzuwenden.",
+      "meaning_tr": "buna karşı",
+      "meaning_en": "against it",
+      "meaning_uk": "проти цього",
+      "meaning_es": "en contra"
+    }
+  ]
+}

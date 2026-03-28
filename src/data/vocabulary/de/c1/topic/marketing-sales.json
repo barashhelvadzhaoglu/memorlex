@@ -1,0 +1,546 @@
+{
+  "title": "Marketing & Verkauf (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Marktforschung",
+      "type": "Noun",
+      "example": "Durch eine gründliche *** konnten wir Trends frühzeitig erkennen.",
+      "meaning_tr": "pazar araştırması",
+      "meaning_en": "market research",
+      "meaning_uk": "дослідження ринку",
+      "meaning_es": "investigación de mercado"
+    },
+    {
+      "term": "die Zielgruppe",
+      "type": "Noun",
+      "example": "Unsere neue Kampagne richtet sich primär an eine junge ***.",
+      "meaning_tr": "hedef kitle",
+      "meaning_en": "target group",
+      "meaning_uk": "цільова аудиторія",
+      "meaning_es": "público objetivo"
+    },
+    {
+      "term": "das Alleinstellungsmerkmal",
+      "type": "Noun",
+      "example": "Das innovative Design ist das wichtigste *** unseres Produkts.",
+      "meaning_tr": "benzersiz satış noktası",
+      "meaning_en": "unique selling point",
+      "meaning_uk": "унікальна торгова пропозиція",
+      "meaning_es": "propuesta única de venta"
+    },
+    {
+      "term": "die Kundenbindung",
+      "type": "Noun",
+      "example": "Ein gutes Bonusprogramm stärkt die langfristige ***.",
+      "meaning_tr": "müşteri sadakati",
+      "meaning_en": "customer loyalty",
+      "meaning_uk": "лояльність клієнтів",
+      "meaning_es": "fidelización de clientes"
+    },
+    {
+      "term": "der Absatzmarkt",
+      "type": "Noun",
+      "example": "Wir suchen nach einem neuen *** für unsere Luxusgüter.",
+      "meaning_tr": "satış pazarı",
+      "meaning_en": "sales market",
+      "meaning_uk": "ринок збуту",
+      "meaning_es": "mercado de ventas"
+    },
+    {
+      "term": "die Marktdurchdringung",
+      "type": "Noun",
+      "example": "Eine höhere *** erfordert aggressive Preisstrategien.",
+      "meaning_tr": "pazara nüfuz etme",
+      "meaning_en": "market penetration",
+      "meaning_uk": "проникнення на ринок",
+      "meaning_es": "penetración de mercado"
+    },
+    {
+      "term": "das Markenimage",
+      "type": "Noun",
+      "example": "Ein Skandal kann das *** nachhaltig schädigen.",
+      "meaning_tr": "marka imajı",
+      "meaning_en": "brand image",
+      "meaning_uk": "імідж бренду",
+      "meaning_es": "imagen de marca"
+    },
+    {
+      "term": "der Wettbewerbsvorteil",
+      "type": "Noun",
+      "example": "Technologischer Vorsprung sichert uns einen entscheidenden ***.",
+      "meaning_tr": "rekabet avantajı",
+      "meaning_en": "competitive advantage",
+      "meaning_uk": "конкурентна перевага",
+      "meaning_es": "ventaja competitiva"
+    },
+    {
+      "term": "die Preisstrategie",
+      "type": "Noun",
+      "example": "Unsere *** basiert auf hoher Qualität zu einem Premiumpreis.",
+      "meaning_tr": "fiyatlandırma stratejisi",
+      "meaning_en": "pricing strategy",
+      "meaning_uk": "цінова стратегія",
+      "meaning_es": "estrategia de precios"
+    },
+    {
+      "term": "die Werbekampagne",
+      "type": "Noun",
+      "example": "Die neue *** wird auf allen sozialen Kanälen ausgespielt.",
+      "meaning_tr": "reklam kampanyası",
+      "meaning_en": "advertising campaign",
+      "meaning_uk": "рекламна кампанія",
+      "meaning_es": "campaña publicitaria"
+    },
+    {
+      "term": "die Kaufkraft",
+      "type": "Noun",
+      "example": "In dieser Region ist die *** der Bevölkerung besonders hoch.",
+      "meaning_tr": "satın alma gücü",
+      "meaning_en": "purchasing power",
+      "meaning_uk": "купівельна спроможність",
+      "meaning_es": "poder adquisitivo"
+    },
+    {
+      "term": "die Marktsättigung",
+      "type": "Noun",
+      "example": "Wegen der *** sind keine weiteren Umsatzsteigerungen zu erwarten.",
+      "meaning_tr": "pazar doygunluğu",
+      "meaning_en": "market saturation",
+      "meaning_uk": "насичення ринку",
+      "meaning_es": "saturación del mercado"
+    },
+    {
+      "term": "das Konsumverhalten",
+      "type": "Noun",
+      "example": "Die Inflation beeinflusst das *** der Haushalte negativ.",
+      "meaning_tr": "tüketici davranışı",
+      "meaning_en": "consumer behavior",
+      "meaning_uk": "споживча поведінка",
+      "meaning_es": "comportamiento del consumidor"
+    },
+    {
+      "term": "die Produkteinführung",
+      "type": "Noun",
+      "example": "Die *** ist für das dritte Quartal geplant.",
+      "meaning_tr": "ürün lansmanı",
+      "meaning_en": "product launch",
+      "meaning_uk": "випуск продукту на ринок",
+      "meaning_es": "lanzamiento de producto"
+    },
+    {
+      "term": "der Vertriebskanal",
+      "type": "Noun",
+      "example": "Wir müssen jeden *** optimieren, um mehr Kunden zu erreichen.",
+      "meaning_tr": "dağıtım kanalı",
+      "meaning_en": "distribution channel",
+      "meaning_uk": "канал збуту",
+      "meaning_es": "canal de distribución"
+    },
+    {
+      "term": "die Neukundengewinnung",
+      "type": "Noun",
+      "example": "Die *** ist oft teurer als die Pflege von Bestandskunden.",
+      "meaning_tr": "yeni müşteri kazanımı",
+      "meaning_en": "customer acquisition",
+      "meaning_uk": "залучення нових клієнтів",
+      "meaning_es": "captación de nuevos clientes"
+    },
+    {
+      "term": "die Markenbekanntheit",
+      "type": "Noun",
+      "example": "Durch Sponsoring wollen wir unsere *** steigern.",
+      "meaning_tr": "marka bilinirliği",
+      "meaning_en": "brand awareness",
+      "meaning_uk": "впізнаваність бренду",
+      "meaning_es": "notoriedad de marca"
+    },
+    {
+      "term": "der Umsatz",
+      "type": "Noun",
+      "example": "Der jährliche *** stieg um fünfzehn Prozent.",
+      "meaning_tr": "ciro",
+      "meaning_en": "turnover",
+      "meaning_uk": "товарообіг",
+      "meaning_es": "volumen de ventas"
+    },
+    {
+      "term": "die Gewinnspanne",
+      "type": "Noun",
+      "example": "Bei diesem Produkt ist die *** leider sehr gering.",
+      "meaning_tr": "kar marjı",
+      "meaning_en": "profit margin",
+      "meaning_uk": "маржа прибутку",
+      "meaning_es": "margen de beneficio"
+    },
+    {
+      "term": "die Wertschöpfungskette",
+      "type": "Noun",
+      "example": "Wir müssen die gesamte *** auf Nachhaltigkeit prüfen.",
+      "meaning_tr": "değer zinciri",
+      "meaning_en": "value chain",
+      "meaning_uk": "ланцюжок створення вартості",
+      "meaning_es": "cadena de valor"
+    },
+    {
+      "term": "die Marktpositionierung",
+      "type": "Noun",
+      "example": "Eine klare *** hilft dabei, sich von Konkurrenten abzuheben.",
+      "meaning_tr": "pazar konumlandırması",
+      "meaning_en": "market positioning",
+      "meaning_uk": "позиціонування на ринку",
+      "meaning_es": "posicionamiento en el mercado"
+    },
+    {
+      "term": "die Kundenakquise",
+      "type": "Noun",
+      "example": "Die telefonische *** erfordert viel Geduld.",
+      "meaning_tr": "müşteri edinme",
+      "meaning_en": "client acquisition",
+      "meaning_uk": "пошук та залучення клієнтів",
+      "meaning_es": "adquisición de clientes"
+    },
+    {
+      "term": "die Stammkundschaft",
+      "type": "Noun",
+      "example": "Unsere *** schätzt vor allem die persönliche Beratung.",
+      "meaning_tr": "sadık müşteri kitlesi",
+      "meaning_en": "regular customers",
+      "meaning_uk": "постійні клієнти",
+      "meaning_es": "clientela fija"
+    },
+    {
+      "term": "der Werbeetat",
+      "type": "Noun",
+      "example": "Für das nächste Jahr wurde der *** verdoppelt.",
+      "meaning_tr": "reklam bütçesi",
+      "meaning_en": "advertising budget",
+      "meaning_uk": "рекламний бюджет",
+      "meaning_es": "presupuesto publicitario"
+    },
+    {
+      "term": "die Lead-Generierung",
+      "type": "Noun",
+      "example": "Social Media ist ein wichtiges Werkzeug zur ***.",
+      "meaning_tr": "potansiyel müşteri oluşturma",
+      "meaning_en": "lead generation",
+      "meaning_uk": "генерація лідів",
+      "meaning_es": "generación de leads"
+    },
+    {
+      "term": "die Conversion-Rate",
+      "type": "Noun",
+      "example": "Eine niedrige *** deutet auf Probleme im Onlineshop hin.",
+      "meaning_tr": "dönüşüm oranı",
+      "meaning_en": "conversion rate",
+      "meaning_uk": "коефіцієнт конверсії",
+      "meaning_es": "tasa de conversión"
+    },
+    {
+      "term": "die Content-Strategie",
+      "type": "Noun",
+      "example": "Unsere *** fokussiert sich auf informatory Blogartikel.",
+      "meaning_tr": "içerik stratejisi",
+      "meaning_en": "content strategy",
+      "meaning_uk": "контент-стратегія",
+      "meaning_es": "estrategia de contenidos"
+    },
+    {
+      "term": "der Kundennutzen",
+      "type": "Noun",
+      "example": "Der *** muss in der Werbung klar kommuniziert werden.",
+      "meaning_tr": "müşteri faydası",
+      "meaning_en": "customer benefit",
+      "meaning_uk": "вигода для клієнта",
+      "meaning_es": "beneficio para el cliente"
+    },
+    {
+      "term": "die Markenidentität",
+      "type": "Noun",
+      "example": "Die *** spiegelt die Werte unseres Unternehmens wider.",
+      "meaning_tr": "marka kimliği",
+      "meaning_en": "brand identity",
+      "meaning_uk": "ідентичність бренду",
+      "meaning_es": "identidad de marca"
+    },
+    {
+      "term": "die Marktanalyse",
+      "type": "Noun",
+      "example": "Vor der Expansion ist eine detaillierte *** unerlässlich.",
+      "meaning_tr": "pazar analizi",
+      "meaning_en": "market analysis",
+      "meaning_uk": "аналіз ринку",
+      "meaning_es": "análisis de mercado"
+    },
+    {
+      "term": "vermarkten",
+      "type": "Verb",
+      "example": "Wir müssen dieses Produkt global ***.",
+      "meaning_tr": "pazarlamak",
+      "meaning_en": "to market",
+      "meaning_uk": "маркетингувати (просувати на ринку)",
+      "meaning_es": "comercializar"
+    },
+    {
+      "term": "akquirieren",
+      "type": "Verb",
+      "example": "Es ist die Aufgabe des Vertriebs, neue Projekte zu ***.",
+      "meaning_tr": "müşteri kazanmak",
+      "meaning_en": "to acquire",
+      "meaning_uk": "залучати (клієнтів)",
+      "meaning_es": "captar"
+    },
+    {
+      "term": "erschließen",
+      "type": "Verb",
+      "example": "Wir wollen im nächsten Jahr den asiatischen Markt ***.",
+      "meaning_tr": "açmak (pazar)",
+      "meaning_en": "to tap into / open up",
+      "meaning_uk": "освоювати (ринок)",
+      "meaning_es": "abrir / explotar"
+    },
+    {
+      "term": "bewerben",
+      "type": "Verb",
+      "example": "Wir werden die neue Kollektion intensiv im Fernsehen ***.",
+      "meaning_tr": "reklamını yapmak",
+      "meaning_en": "to advertise",
+      "meaning_uk": "рекламувати",
+      "meaning_es": "anunciar / promocionar"
+    },
+    {
+      "term": "positionieren",
+      "type": "Verb",
+      "example": "Wir müssen uns als Qualitätsführer im Markt ***.",
+      "meaning_tr": "konumlandırmak",
+      "meaning_en": "to position",
+      "meaning_uk": "позиціонувати",
+      "meaning_es": "posicionar"
+    },
+    {
+      "term": "optimieren",
+      "type": "Verb",
+      "example": "Wir sollten den Bestellvorgang auf der Webseite ***.",
+      "meaning_tr": "optimize etmek",
+      "meaning_en": "to optimize",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "optimizar"
+    },
+    {
+      "term": "steigern",
+      "type": "Verb",
+      "example": "Unser Ziel ist es, die Verkaufszahlen um 10% zu ***.",
+      "meaning_tr": "artırmak",
+      "meaning_en": "to increase",
+      "meaning_uk": "збільшувати",
+      "meaning_es": "aumentar"
+    },
+    {
+      "term": "differenzieren",
+      "type": "Verb",
+      "example": "Wie können wir uns von unseren Mitbewerbern ***?",
+      "meaning_tr": "farklılaştırmak",
+      "meaning_en": "to differentiate",
+      "meaning_uk": "диференціювати",
+      "meaning_es": "diferenciar"
+    },
+    {
+      "term": "analysieren",
+      "type": "Verb",
+      "example": "Wir müssen die Daten aus der letzten Umfrage ***.",
+      "meaning_tr": "analiz etmek",
+      "meaning_en": "to analyze",
+      "meaning_uk": "аналізувати",
+      "meaning_es": "analizar"
+    },
+    {
+      "term": "implementieren",
+      "type": "Verb",
+      "example": "Wir werden ein neues CRM-System ***.",
+      "meaning_tr": "uygulamaya koymak",
+      "meaning_en": "to implement",
+      "meaning_uk": "впроваджувати",
+      "meaning_es": "implementar"
+    },
+    {
+      "term": "lukrativ",
+      "type": "Adjective",
+      "example": "Das Immobiliengeschäft kann sehr *** sein.",
+      "meaning_tr": "kazançlı",
+      "meaning_en": "lucrative",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "lucrativo"
+    },
+    {
+      "term": "wettbewerbsfähig",
+      "type": "Adjective",
+      "example": "Um *** zu bleiben, müssen wir die Kosten senken.",
+      "meaning_tr": "rekabetçi",
+      "meaning_en": "competitive",
+      "meaning_uk": "конкурентоспроможний",
+      "meaning_es": "competitivo"
+    },
+    {
+      "term": "marktgerecht",
+      "type": "Adjective",
+      "example": "Die Preise müssen *** gestaltet werden.",
+      "meaning_tr": "piyasa koşullarına uygun",
+      "meaning_en": "in line with the market",
+      "meaning_uk": "відповідний ринковим умовам",
+      "meaning_es": "acorde con el mercado"
+    },
+    {
+      "term": "kundenorientiert",
+      "type": "Adjective",
+      "example": "Ein ***er Service ist der Schlüssel zum Erfolg.",
+      "meaning_tr": "müşteri odaklı",
+      "meaning_en": "customer-oriented",
+      "meaning_uk": "клієнтоорієнтований",
+      "meaning_es": "orientado al cliente"
+    },
+    {
+      "term": "innovativ",
+      "type": "Adjective",
+      "example": "Wir brauchen ***e Lösungen für komplexe Probleme.",
+      "meaning_tr": "yenilikçi",
+      "meaning_en": "innovative",
+      "meaning_uk": "інноваційний",
+      "meaning_es": "innovador"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir streben ein ***es Wachstum an.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "exklusiv",
+      "type": "Adjective",
+      "example": "Dieses Angebot gilt *** für unsere Clubmitglieder.",
+      "meaning_tr": "özel",
+      "meaning_en": "exclusive",
+      "meaning_uk": "ексклюзивний",
+      "meaning_es": "exclusivo"
+    },
+    {
+      "term": "flächendeckend",
+      "type": "Adjective",
+      "example": "Das Produkt ist nun *** im ganzen Land erhältlich.",
+      "meaning_tr": "her yeri kapsayan",
+      "meaning_en": "comprehensive / nationwide",
+      "meaning_uk": "повсюдний",
+      "meaning_es": "a nivel nacional"
+    },
+    {
+      "term": "zielgruppenspezifisch",
+      "type": "Adjective",
+      "example": "Wir müssen unsere Werbung *** anpassen.",
+      "meaning_tr": "hedef kitleye özel",
+      "meaning_en": "target-group-specific",
+      "meaning_uk": "специфічний для цільової групи",
+      "meaning_es": "específico para el grupo objetivo"
+    },
+    {
+      "term": "renommiert",
+      "type": "Adjective",
+      "example": "Wir arbeiten mit einer ***en Werbeagentur zusammen.",
+      "meaning_tr": "saygın",
+      "meaning_en": "renowned",
+      "meaning_uk": "авторитетний",
+      "meaning_es": "renombrado"
+    },
+    {
+      "term": "kosteneffizient",
+      "type": "Adjective",
+      "example": "Diese Marketingmaßnahme ist besonders ***.",
+      "meaning_tr": "maliyet etkin",
+      "meaning_en": "cost-efficient",
+      "meaning_uk": "економічно ефективний",
+      "meaning_es": "rentable"
+    },
+    {
+      "term": "prestigeträchtig",
+      "type": "Adjective",
+      "example": "Ein Standort an dieser Adresse ist sehr ***.",
+      "meaning_tr": "prestijli",
+      "meaning_en": "prestigious",
+      "meaning_uk": "престижний",
+      "meaning_es": "prestigioso"
+    },
+    {
+      "term": "gewinnbringend",
+      "type": "Adjective",
+      "example": "Wir hoffen auf eine ***e Zusammenarbeit.",
+      "meaning_tr": "karlı",
+      "meaning_en": "profitable",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "provechoso"
+    },
+    {
+      "term": "absatzstark",
+      "type": "Adjective",
+      "example": "Der Dezember ist traditionell ein ***er Monat.",
+      "meaning_tr": "satış hacmi yüksek",
+      "meaning_en": "high-selling",
+      "meaning_uk": "з високим обсягом продажу",
+      "meaning_es": "con grandes ventas"
+    },
+    {
+      "term": "wirkungsvoll",
+      "type": "Adjective",
+      "example": "Das Plakat ist ein sehr ***es Werbemittel.",
+      "meaning_tr": "etkili",
+      "meaning_en": "effective",
+      "meaning_uk": "ефективний",
+      "meaning_es": "eficaz"
+    },
+    {
+      "term": "die Markteintrittsbarriere",
+      "type": "Noun",
+      "example": "Hohe Investitionskosten sind eine klassische ***.",
+      "meaning_tr": "pazara giriş engeli",
+      "meaning_en": "barrier to market entry",
+      "meaning_uk": "бар'єр для входу на ринок",
+      "meaning_es": "barrera de entrada al mercado"
+    },
+    {
+      "term": "die Kundenrezension",
+      "type": "Noun",
+      "example": "Eine positive *** kann den Verkauf fördern.",
+      "meaning_tr": "müşteri yorumu",
+      "meaning_en": "customer review",
+      "meaning_uk": "відгук клієнта",
+      "meaning_es": "reseña del cliente"
+    },
+    {
+      "term": "das Preis-Leistungs-Verhältnis",
+      "type": "Noun",
+      "example": "Die Kunden loben das ausgezeichnete *** unserer Produkte.",
+      "meaning_tr": "fiyat-performans oranı",
+      "meaning_en": "price-performance ratio",
+      "meaning_uk": "співвідношення ціна-якість",
+      "meaning_es": "relación calidad-precio"
+    },
+    {
+      "term": "die Marktnische",
+      "type": "Noun",
+      "example": "Wir haben eine lukrative *** für vegane Tiernahrung gefunden.",
+      "meaning_tr": "pazar nişi",
+      "meaning_en": "market niche",
+      "meaning_uk": "ніша на ринку",
+      "meaning_es": "nicho de mercado"
+    },
+    {
+      "term": "der Verkaufsabschluss",
+      "type": "Noun",
+      "example": "Nach langen Verhandlungen kam es endlich zum ***.",
+      "meaning_tr": "satışın kapanması",
+      "meaning_en": "sales closure",
+      "meaning_uk": "завершення продажу",
+      "meaning_es": "cierre de venta"
+    }
+  ]
+}

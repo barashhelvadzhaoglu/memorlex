@@ -1,0 +1,411 @@
+{
+  "title": "Politik & Staat (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Demokratie",
+      "type": "Noun",
+      "example": "In einer stabilen *** ist die Meinungsfreiheit ein hohes Gut.",
+      "meaning_tr": "demokrasi",
+      "meaning_en": "democracy",
+      "meaning_uk": "демократія",
+      "meaning_es": "democracia"
+    },
+    {
+      "term": "die Verfassung",
+      "type": "Noun",
+      "example": "Das Bundesverfassungsgericht schützt die *** des Landes.",
+      "meaning_tr": "anayasa",
+      "meaning_en": "constitution",
+      "meaning_uk": "конституція",
+      "meaning_es": "constitución"
+    },
+    {
+      "term": "die Regierung",
+      "type": "Noun",
+      "example": "Die neue *** hat ihre Arbeit offiziell aufgenommen.",
+      "meaning_tr": "hükümet",
+      "meaning_en": "government",
+      "meaning_uk": "уряд",
+      "meaning_es": "gobierno"
+    },
+    {
+      "term": "die Wahl",
+      "type": "Noun",
+      "example": "Die Bürger gehen am Sonntag zur ***.",
+      "meaning_tr": "seçim",
+      "meaning_en": "election",
+      "meaning_uk": "вибори",
+      "meaning_es": "elección"
+    },
+    {
+      "term": "das Parlament",
+      "type": "Noun",
+      "example": "Alle Abgeordneten versammeln sich im ***.",
+      "meaning_tr": "parlamento",
+      "meaning_en": "parliament",
+      "meaning_uk": "парламент",
+      "meaning_es": "parlamento"
+    },
+    {
+      "term": "die Partei",
+      "type": "Noun",
+      "example": "Sie ist seit vielen Jahren Mitglied in dieser ***.",
+      "meaning_tr": "siyasi parti",
+      "meaning_en": "political party",
+      "meaning_uk": "політична партія",
+      "meaning_es": "partido político"
+    },
+    {
+      "term": "das Gesetz",
+      "type": "Noun",
+      "example": "Das *** wurde mit großer Mehrheit verabschiedet.",
+      "meaning_tr": "yasa, kanun",
+      "meaning_en": "law",
+      "meaning_uk": "закон",
+      "meaning_es": "ley"
+    },
+    {
+      "term": "abstimmen",
+      "type": "Verb",
+      "example": "Die Abgeordneten müssen heute über den Entwurf ***.",
+      "meaning_tr": "oy kullanmak, oylamak",
+      "meaning_en": "to vote",
+      "meaning_uk": "голосувати",
+      "meaning_es": "votar"
+    },
+    {
+      "term": "die Politik",
+      "type": "Noun",
+      "example": "Er interessiert sich sehr für aktuelle ***.",
+      "meaning_tr": "siyaset, politika",
+      "meaning_en": "politics",
+      "meaning_uk": "політика",
+      "meaning_es": "política"
+    },
+    {
+      "term": "der Abgeordnete",
+      "type": "Noun",
+      "example": "Jeder *** vertritt die Interessen seiner Wähler.",
+      "meaning_tr": "milletvekili",
+      "meaning_en": "member of parliament",
+      "meaning_uk": "депутат",
+      "meaning_es": "diputado"
+    },
+    {
+      "term": "die Koalition",
+      "type": "Noun",
+      "example": "Die Parteien bilden eine neue ***.",
+      "meaning_tr": "koalisyon",
+      "meaning_en": "coalition",
+      "meaning_uk": "коаліція",
+      "meaning_es": "coalición"
+    },
+    {
+      "term": "die Opposition",
+      "type": "Noun",
+      "example": "Die *** kritisiert die Pläne der Regierung scharf.",
+      "meaning_tr": "muhalefet",
+      "meaning_en": "opposition",
+      "meaning_uk": "опозиція",
+      "meaning_es": "oposición"
+    },
+    {
+      "term": "die Reform",
+      "type": "Noun",
+      "example": "Das Bildungssystem braucht dringend eine ***.",
+      "meaning_tr": "reform",
+      "meaning_en": "reform",
+      "meaning_uk": "реформа",
+      "meaning_es": "reforma"
+    },
+    {
+      "term": "die Mehrheit",
+      "type": "Noun",
+      "example": "Die Regierung hat im Parlament keine absolute ***.",
+      "meaning_tr": "çoğunluk",
+      "meaning_en": "majority",
+      "meaning_uk": "більшість",
+      "meaning_es": "mayoría"
+    },
+    {
+      "term": "die Minderheit",
+      "type": "Noun",
+      "example": "Die Rechte der *** müssen geschützt werden.",
+      "meaning_tr": "azınlık",
+      "meaning_en": "minority",
+      "meaning_uk": "меншість",
+      "meaning_es": "minoría"
+    },
+    {
+      "term": "die Souveränität",
+      "type": "Noun",
+      "example": "Das Land verteidigt seine nationale ***.",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_uk": "суверенітет",
+      "meaning_es": "soberanía"
+    },
+    {
+      "term": "diplomatisch",
+      "type": "Adjective",
+      "example": "Sie lösten den Konflikt auf ***em Weg.",
+      "meaning_tr": "diplomatik",
+      "meaning_en": "diplomatic",
+      "meaning_uk": "дипломатичний",
+      "meaning_es": "diplomático"
+    },
+    {
+      "term": "die Außenpolitik",
+      "type": "Noun",
+      "example": "Die *** des Landes ist auf Zusammenarbeit ausgerichtet.",
+      "meaning_tr": "dış politika",
+      "meaning_en": "foreign policy",
+      "meaning_uk": "зовнішня політика",
+      "meaning_es": "política exterior"
+    },
+    {
+      "term": "die Innenpolitik",
+      "type": "Noun",
+      "example": "Er ist ein Experte für deutsche ***.",
+      "meaning_tr": "iç politika",
+      "meaning_en": "domestic policy",
+      "meaning_uk": "внутрішня політика",
+      "meaning_es": "política interior"
+    },
+    {
+      "term": "der Kompromiss",
+      "type": "Noun",
+      "example": "Beide Seiten haben einen fairen *** gefunden.",
+      "meaning_tr": "uzlaşma, taviz",
+      "meaning_en": "compromise",
+      "meaning_uk": "компроміс",
+      "meaning_es": "compromiso"
+    },
+    {
+      "term": "verhandeln",
+      "type": "Verb",
+      "example": "Die Gewerkschaften *** über höhere Löhne.",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to negotiate",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "negociar"
+    },
+    {
+      "term": "die Debatte",
+      "type": "Noun",
+      "example": "Die *** über den Klimaschutz dauert an.",
+      "meaning_tr": "tartışma, münazara",
+      "meaning_en": "debate",
+      "meaning_uk": "дебати",
+      "meaning_es": "debate"
+    },
+    {
+      "term": "die Verwaltung",
+      "type": "Noun",
+      "example": "Die öffentliche *** arbeitet an einer Digitalisierung.",
+      "meaning_tr": "idare, yönetim",
+      "meaning_en": "administration",
+      "meaning_uk": "адміністрація",
+      "meaning_es": "administración"
+    },
+    {
+      "term": "der Bürger",
+      "type": "Noun",
+      "example": "Jeder *** hat das Recht, seine Meinung zu äußern.",
+      "meaning_tr": "vatandaş",
+      "meaning_en": "citizen",
+      "meaning_uk": "громадянин",
+      "meaning_es": "ciudadano"
+    },
+    {
+      "term": "das Wahlrecht",
+      "type": "Noun",
+      "example": "Das allgemeine *** ist ein Grundpfeiler der Demokratie.",
+      "meaning_tr": "seçme hakkı",
+      "meaning_en": "right to vote",
+      "meaning_uk": "виборче право",
+      "meaning_es": "derecho al voto"
+    },
+    {
+      "term": "die Amtszeit",
+      "type": "Noun",
+      "example": "Seine *** endet in zwei Jahren.",
+      "meaning_tr": "görev süresi",
+      "meaning_en": "term of office",
+      "meaning_uk": "термін повноважень",
+      "meaning_es": "mandato"
+    },
+    {
+      "term": "die Korruption",
+      "type": "Noun",
+      "example": "Der Kampf gegen die *** ist eine Priorität.",
+      "meaning_tr": "yolsuzluk",
+      "meaning_en": "corruption",
+      "meaning_uk": "корупція",
+      "meaning_es": "corrupción"
+    },
+    {
+      "term": "die Autokratie",
+      "type": "Noun",
+      "example": "In einer *** gibt es keine echte Gewaltenteilung.",
+      "meaning_tr": "otokrasi",
+      "meaning_en": "autocracy",
+      "meaning_uk": "автократія",
+      "meaning_es": "autocracia"
+    },
+    {
+      "term": "die Gewaltenteilung",
+      "type": "Noun",
+      "example": "Die *** ist essenziell für einen Rechtsstaat.",
+      "meaning_tr": "güçler ayrılığı",
+      "meaning_en": "separation of powers",
+      "meaning_uk": "поділ влади",
+      "meaning_es": "separación de poderes"
+    },
+    {
+      "term": "das Bündnis",
+      "type": "Noun",
+      "example": "Das militärische *** garantiert die Sicherheit.",
+      "meaning_tr": "ittifak",
+      "meaning_en": "alliance",
+      "meaning_uk": "альянс",
+      "meaning_es": "alianza"
+    },
+    {
+      "term": "die Verordnung",
+      "type": "Noun",
+      "example": "Die neue *** tritt nächste Woche in Kraft.",
+      "meaning_tr": "yönetmelik, kararname",
+      "meaning_en": "regulation, decree",
+      "meaning_uk": "постанова",
+      "meaning_es": "decreto"
+    },
+    {
+      "term": "behaupten",
+      "type": "Verb",
+      "example": "Er ***, dass die Entscheidung falsch war.",
+      "meaning_tr": "iddia etmek",
+      "meaning_en": "to claim",
+      "meaning_uk": "стверджувати",
+      "meaning_es": "afirmar"
+    },
+    {
+      "term": "gesellschaftlich",
+      "type": "Adjective",
+      "example": "Das ist ein wichtiges ***es Thema.",
+      "meaning_tr": "toplumsal",
+      "meaning_en": "societal",
+      "meaning_uk": "суспільний",
+      "meaning_es": "social"
+    },
+    {
+      "term": "die Demonstration",
+      "type": "Noun",
+      "example": "Tausende Menschen nahmen an der *** teil.",
+      "meaning_tr": "gösteri, protesto",
+      "meaning_en": "demonstration",
+      "meaning_uk": "демонстрація",
+      "meaning_es": "manifestación"
+    },
+    {
+      "term": "die Lobby",
+      "type": "Noun",
+      "example": "Die *** versucht, politische Entscheidungen zu beeinflussen.",
+      "meaning_tr": "lobi",
+      "meaning_en": "lobby",
+      "meaning_uk": "лобі",
+      "meaning_es": "lobby"
+    },
+    {
+      "term": "das Mandat",
+      "type": "Noun",
+      "example": "Er hat das *** für die nächsten vier Jahre erhalten.",
+      "meaning_tr": "yetki, vekalet",
+      "meaning_en": "mandate",
+      "meaning_uk": "мандат",
+      "meaning_es": "mandato"
+    },
+    {
+      "term": "die Bürokratie",
+      "type": "Noun",
+      "example": "Die Bürger klagen über zu viel ***.",
+      "meaning_tr": "bürokrasi",
+      "meaning_en": "bureaucracy",
+      "meaning_uk": "бюрократія",
+      "meaning_es": "burocracia"
+    },
+    {
+      "term": "die Sanktion",
+      "type": "Noun",
+      "example": "Das Land wurde mit wirtschaftlichen ***en belegt.",
+      "meaning_tr": "yaptırım",
+      "meaning_en": "sanction",
+      "meaning_uk": "санкція",
+      "meaning_es": "sanción"
+    },
+    {
+      "term": "die Ideologie",
+      "type": "Noun",
+      "example": "Politik sollte nicht nur von einer *** geprägt sein.",
+      "meaning_tr": "ideoloji",
+      "meaning_en": "ideology",
+      "meaning_uk": "ідеологія",
+      "meaning_es": "ideología"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Die Regierung setzt auf ***e Lösungen.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "aufgrund",
+      "type": "Preposition",
+      "example": "*** der neuen Regelung ändert sich vieles.",
+      "meaning_tr": "nedeniyle, yüzünden",
+      "meaning_en": "due to",
+      "meaning_uk": "через",
+      "meaning_es": "debido a"
+    },
+    {
+      "term": "angesichts",
+      "type": "Preposition",
+      "example": "*** der Krise handeln wir schnell.",
+      "meaning_tr": "göz önüne alındığında, karşısında",
+      "meaning_en": "in view of, given",
+      "meaning_uk": "з огляду на",
+      "meaning_es": "ante"
+    },
+    {
+      "term": "demokratisch",
+      "type": "Adjective",
+      "example": "Das Land entwickelt sich in eine ***e Richtung.",
+      "meaning_tr": "demokratik",
+      "meaning_en": "democratic",
+      "meaning_uk": "демократичний",
+      "meaning_es": "democrático"
+    },
+    {
+      "term": "zudem",
+      "type": "Adverb",
+      "example": "Er ist Minister; *** leitet er eine Stiftung.",
+      "meaning_tr": "ayrıca, üstelik",
+      "meaning_en": "moreover, furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "folglich",
+      "type": "Conjunction",
+      "example": "Die Wahl wurde annulliert; *** gibt es eine Neuwahl.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente"
+    }
+  ]
+}

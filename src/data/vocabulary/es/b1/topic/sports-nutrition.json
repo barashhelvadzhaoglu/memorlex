@@ -1,0 +1,321 @@
+{
+  "title": "Deporte y Nutricion (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el entrenamiento",
+      "type": "Noun",
+      "meaning_tr": "antrenman",
+      "meaning_en": "training",
+      "meaning_uk": "тренування",
+      "meaning_es": "sesión de ejercicio físico",
+      "example": "Mañana tengo *** a las ocho de la mañana."
+    },
+    {
+      "term": "la proteína",
+      "type": "Noun",
+      "meaning_tr": "protein",
+      "meaning_en": "protein",
+      "meaning_uk": "білок",
+      "meaning_es": "macronutriente esencial para los músculos",
+      "example": "Es importante consumir suficiente *** después de hacer pesas."
+    },
+    {
+      "term": "entrenar",
+      "type": "Verb",
+      "meaning_tr": "antrenman yapmak",
+      "meaning_en": "to train",
+      "meaning_uk": "тренуватися",
+      "meaning_es": "practicar un deporte o ejercicio",
+      "example": "Necesito *** duro para ganar la próxima competición."
+    },
+    {
+      "term": "saludable",
+      "type": "Adjective",
+      "meaning_tr": "sağlıklı",
+      "meaning_en": "healthy",
+      "meaning_uk": "здоровий",
+      "meaning_es": "que es bueno para la salud",
+      "example": "Comer frutas y verduras es muy ***."
+    },
+    {
+      "term": "la resistencia",
+      "type": "Noun",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "endurance",
+      "meaning_uk": "витривалість",
+      "meaning_es": "capacidad física de aguantar un esfuerzo",
+      "example": "Correr maratones requiere mucha *** física."
+    },
+    {
+      "term": "la hidratación",
+      "type": "Noun",
+      "meaning_tr": "hidrasyon",
+      "meaning_en": "hydration",
+      "meaning_uk": "гідратація",
+      "meaning_es": "acción de mantener el cuerpo con agua",
+      "example": "La *** es fundamental durante el ejercicio intenso."
+    },
+    {
+      "term": "los carbohidratos",
+      "type": "Noun",
+      "meaning_tr": "karbonhidratlar",
+      "meaning_en": "carbohydrates",
+      "meaning_uk": "вуглеводи",
+      "meaning_es": "nutrientes que proporcionan energía",
+      "example": "Los atletas consumen *** para tener energía antes de competir."
+    },
+    {
+      "term": "el músculo",
+      "type": "Noun",
+      "meaning_tr": "kas",
+      "meaning_en": "muscle",
+      "meaning_uk": "м'яз",
+      "meaning_es": "tejido que produce movimiento",
+      "example": "Siento dolor en el *** del brazo después de levantar pesas."
+    },
+    {
+      "term": "calentar",
+      "type": "Verb",
+      "meaning_tr": "ısınmak",
+      "meaning_en": "to warm up",
+      "meaning_uk": "розминатися",
+      "meaning_es": "preparar el cuerpo antes del ejercicio",
+      "example": "Es obligatorio *** antes de empezar a correr."
+    },
+    {
+      "term": "la dieta",
+      "type": "Noun",
+      "meaning_tr": "diyet",
+      "meaning_en": "diet",
+      "meaning_uk": "дієта",
+      "meaning_es": "conjunto de alimentos que se consumen habitualmente",
+      "example": "Mi nutricionista me recomendó una *** equilibrada."
+    },
+    {
+      "term": "equilibrado",
+      "type": "Adjective",
+      "meaning_tr": "dengeli",
+      "meaning_en": "balanced",
+      "meaning_uk": "збалансований",
+      "meaning_es": "que tiene proporción adecuada",
+      "example": "Un desayuno *** incluye fibra, vitaminas y proteínas."
+    },
+    {
+      "term": "el peso",
+      "type": "Noun",
+      "meaning_tr": "ağırlık",
+      "meaning_en": "weight",
+      "meaning_uk": "вага",
+      "meaning_es": "masa corporal o carga de ejercicio",
+      "example": "He perdido algo de *** gracias al ejercicio constante."
+    },
+    {
+      "term": "la grasa",
+      "type": "Noun",
+      "meaning_tr": "yağ",
+      "meaning_en": "fat",
+      "meaning_uk": "жир",
+      "meaning_es": "sustancia lipídica en los alimentos",
+      "example": "Debemos reducir el consumo de *** saturadas."
+    },
+    {
+      "term": "agujetas",
+      "type": "Noun",
+      "meaning_tr": "kas ağrısı",
+      "meaning_en": "muscle soreness",
+      "meaning_uk": "м'язовий біль",
+      "meaning_es": "dolor muscular tras ejercicio intenso",
+      "example": "Tengo muchas *** porque ayer hice demasiado deporte."
+    },
+    {
+      "term": "competir",
+      "type": "Verb",
+      "meaning_tr": "yarışmak",
+      "meaning_en": "to compete",
+      "meaning_uk": "змагатися",
+      "meaning_es": "participar en una competición",
+      "example": "Voy a *** en el torneo de tenis este fin de semana."
+    },
+    {
+      "term": "la fibra",
+      "type": "Noun",
+      "meaning_tr": "lif",
+      "meaning_en": "fiber",
+      "meaning_uk": "клітковина",
+      "meaning_es": "componente vegetal necesario para la digestión",
+      "example": "La avena es un alimento con mucha ***."
+    },
+    {
+      "term": "estirar",
+      "type": "Verb",
+      "meaning_tr": "esnemek",
+      "meaning_en": "to stretch",
+      "meaning_uk": "розтягуватися",
+      "meaning_es": "alargar los músculos",
+      "example": "No olvides *** bien al terminar la clase de yoga."
+    },
+    {
+      "term": "fuerte",
+      "type": "Adjective",
+      "meaning_tr": "güçlü",
+      "meaning_en": "strong",
+      "meaning_uk": "сильний",
+      "meaning_es": "que tiene mucha fuerza",
+      "example": "Para ser un buen jugador, necesitas estar *** físicamente."
+    },
+    {
+      "term": "la vitamina",
+      "type": "Noun",
+      "meaning_tr": "vitamin",
+      "meaning_en": "vitamin",
+      "meaning_uk": "вітамін",
+      "meaning_es": "sustancia necesaria para el organismo",
+      "example": "Las frutas contienen mucha *** C."
+    },
+    {
+      "term": "quemar",
+      "type": "Verb",
+      "meaning_tr": "yakmak",
+      "meaning_en": "to burn",
+      "meaning_uk": "спалювати",
+      "meaning_es": "consumir calorías mediante ejercicio",
+      "example": "Correr ayuda a *** calorías rápidamente."
+    },
+    {
+      "term": "el torneo",
+      "type": "Noun",
+      "meaning_tr": "turnuva",
+      "meaning_en": "tournament",
+      "meaning_uk": "турнір",
+      "meaning_es": "competición deportiva",
+      "example": "Hemos ganado el primer partido del ***."
+    },
+    {
+      "term": "frecuentemente",
+      "type": "Adverb",
+      "meaning_tr": "sık sık",
+      "meaning_en": "frequently",
+      "meaning_uk": "часто",
+      "meaning_es": "con mucha frecuencia",
+      "example": "Debes practicar deporte *** para mantenerte en forma."
+    },
+    {
+      "term": "el sedentarismo",
+      "type": "Noun",
+      "meaning_tr": "hareketsizlik",
+      "meaning_en": "sedentary lifestyle",
+      "meaning_uk": "сидячий спосіб життя",
+      "meaning_es": "falta de actividad física",
+      "example": "El *** es muy peligroso para la salud cardiovascular."
+    },
+    {
+      "term": "los suplementos",
+      "type": "Noun",
+      "meaning_tr": "takviyeler",
+      "meaning_en": "supplements",
+      "meaning_uk": "добавки",
+      "meaning_es": "productos añadidos a la dieta",
+      "example": "Algunos atletas toman *** para mejorar su rendimiento."
+    },
+    {
+      "term": "deportista",
+      "type": "Adjective",
+      "meaning_tr": "sportif",
+      "meaning_en": "sporty",
+      "meaning_uk": "спортивний",
+      "meaning_es": "relacionado con el deporte o que practica deporte",
+      "example": "Juan lleva un estilo de vida muy ***."
+    },
+    {
+      "term": "el rendimiento",
+      "type": "Noun",
+      "meaning_tr": "performans",
+      "meaning_en": "performance",
+      "meaning_uk": "продуктивність",
+      "meaning_es": "nivel de resultado en una actividad",
+      "example": "Dormir bien mejora el *** deportivo."
+    },
+    {
+      "term": "cansado",
+      "type": "Adjective",
+      "meaning_tr": "yorgun",
+      "meaning_en": "tired",
+      "meaning_uk": "втомлений",
+      "meaning_es": "que siente fatiga",
+      "example": "Después de nadar dos horas, estoy muy ***."
+    },
+    {
+      "term": "nutritivo",
+      "type": "Adjective",
+      "meaning_tr": "besleyici",
+      "meaning_en": "nutritious",
+      "meaning_uk": "поживний",
+      "meaning_es": "que alimenta mucho",
+      "example": "Este batido de frutas es muy *** para el desayuno."
+    },
+    {
+      "term": "el azúcar",
+      "type": "Noun",
+      "meaning_tr": "şeker",
+      "meaning_en": "sugar",
+      "meaning_uk": "цукор",
+      "meaning_es": "sustancia dulce refinada",
+      "example": "Es mejor evitar el *** en el café."
+    },
+    {
+      "term": "descansar",
+      "type": "Verb",
+      "meaning_tr": "dinlenmek",
+      "meaning_en": "to rest",
+      "meaning_uk": "відпочивати",
+      "meaning_es": "recuperar energías",
+      "example": "Debes *** al menos un día a la semana."
+    },
+    {
+      "term": "además",
+      "type": "Adverb",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "también",
+      "example": "Comer bien es importante; ***, debes hacer ejercicio."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "a pesar de que",
+      "example": "*** estoy cansado, iré al gimnasio hoy."
+    },
+    {
+      "term": "hacia",
+      "type": "Preposition",
+      "meaning_tr": "doğru",
+      "meaning_en": "towards",
+      "meaning_uk": "до",
+      "meaning_es": "en dirección a",
+      "example": "El corredor corre *** la línea de meta."
+    },
+    {
+      "term": "la energía",
+      "type": "Noun",
+      "meaning_tr": "enerji",
+      "meaning_en": "energy",
+      "meaning_uk": "енергія",
+      "meaning_es": "fuerza vital para hacer cosas",
+      "example": "Necesito comida para tener *** durante la carrera."
+    },
+    {
+      "term": "la meta",
+      "type": "Noun",
+      "meaning_tr": "hedef",
+      "meaning_en": "goal / finish line",
+      "meaning_uk": "мета / фініш",
+      "meaning_es": "objetivo o línea final",
+      "example": "Ya puedo ver la *** del maratón."
+    }
+  ]
+}

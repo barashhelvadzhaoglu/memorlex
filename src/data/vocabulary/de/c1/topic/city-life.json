@@ -1,0 +1,546 @@
+{
+  "title": "Stadt & Land (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Urbanisierung",
+      "type": "Noun",
+      "example": "Die fortschreitende *** führt zu einem starken Wachstum der Städte.",
+      "meaning_tr": "kentleşme",
+      "meaning_en": "urbanization",
+      "meaning_uk": "урбанізація",
+      "meaning_es": "urbanización"
+    },
+    {
+      "term": "die Gentrifizierung",
+      "type": "Noun",
+      "example": "Viele Bewohner fürchten die *** ihres Viertels durch steigende Mieten.",
+      "meaning_tr": "soyluylaştırma",
+      "meaning_en": "gentrification",
+      "meaning_uk": "джентрифікація",
+      "meaning_es": "gentrificación"
+    },
+    {
+      "term": "der Ballungsraum",
+      "type": "Noun",
+      "example": "Im *** Rhein-Ruhr leben Millionen von Menschen auf engem Raum.",
+      "meaning_tr": "yoğun nüfuslu bölge",
+      "meaning_en": "conurbation / metropolitan area",
+      "meaning_uk": "агломерація",
+      "meaning_es": "área metropolitana"
+    },
+    {
+      "term": "die Infrastruktur",
+      "type": "Noun",
+      "example": "Eine gute *** ist entscheidend für die Ansiedlung von Unternehmen.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "infrastructure",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "infraestructura"
+    },
+    {
+      "term": "die Lebensqualität",
+      "type": "Noun",
+      "example": "Viele Menschen ziehen aufs Land, um ihre *** zu verbessern.",
+      "meaning_tr": "yaşam kalitesi",
+      "meaning_en": "quality of life",
+      "meaning_uk": "якість життя",
+      "meaning_es": "calidad de vida"
+    },
+    {
+      "term": "die Pendlerpauschale",
+      "type": "Noun",
+      "example": "Die *** hilft Arbeitnehmern, die Fahrtkosten steuerlich abzusetzen.",
+      "meaning_tr": "yol masrafı tazminatı",
+      "meaning_en": "commuter allowance",
+      "meaning_uk": "пільга на проїзд для працюючих",
+      "meaning_es": "subsidio de transporte"
+    },
+    {
+      "term": "die Abwanderung",
+      "type": "Noun",
+      "example": "Die *** junger Menschen stellt ländliche Regionen vor Probleme.",
+      "meaning_tr": "göç (bölgeden ayrılma)",
+      "meaning_en": "migration / exodus",
+      "meaning_uk": "відтік населення",
+      "meaning_es": "éxodo / migración"
+    },
+    {
+      "term": "der Strukturwandel",
+      "type": "Noun",
+      "example": "Das Ruhrgebiet befindet sich seit Jahrzehnten im ***.",
+      "meaning_tr": "yapısal değişim",
+      "meaning_en": "structural change",
+      "meaning_uk": "структурні зміни",
+      "meaning_es": "cambio estructural"
+    },
+    {
+      "term": "die Metropolregion",
+      "type": "Noun",
+      "example": "Berlin und sein Umland bilden eine bedeutende ***.",
+      "meaning_tr": "metropol bölgesi",
+      "meaning_en": "metropolitan region",
+      "meaning_uk": "метрополійний регіон",
+      "meaning_es": "región metropolitana"
+    },
+    {
+      "term": "die Naherholung",
+      "type": "Noun",
+      "example": "Parks dienen den Stadtbewohnern zur ***.",
+      "meaning_tr": "yakın dinlenme / rekreasyon",
+      "meaning_en": "local recreation",
+      "meaning_uk": "відпочинок поблизу дому",
+      "meaning_es": "recreación local"
+    },
+    {
+      "term": "der Leerstand",
+      "type": "Noun",
+      "example": "In ostdeutschen Städten gibt es oft einen hohen *** bei Wohnungen.",
+      "meaning_tr": "boş duran konutlar",
+      "meaning_en": "vacancy",
+      "meaning_uk": "наявність вільних приміщень",
+      "meaning_es": "desocupación (de viviendas)"
+    },
+    {
+      "term": "die Mietpreisbremse",
+      "type": "Noun",
+      "example": "Die Regierung hat die *** eingeführt, um Wohnraum bezahlbar zu halten.",
+      "meaning_tr": "kira artış sınırı",
+      "meaning_en": "rent control",
+      "meaning_uk": "обмеження орендної плати",
+      "meaning_es": "freno al precio del alquiler"
+    },
+    {
+      "term": "die Flächenversiegelung",
+      "type": "Noun",
+      "example": "Die zunehmende *** führt bei Starkregen oft zu Überschwemmungen.",
+      "meaning_tr": "toprağın betonlaşması",
+      "meaning_en": "soil sealing / paving over",
+      "meaning_uk": "запечатування ґрунту",
+      "meaning_es": "sellado del suelo"
+    },
+    {
+      "term": "die Zersiedelung",
+      "type": "Noun",
+      "example": "Die *** der Landschaft zerstört wertvolle Naturräume.",
+      "meaning_tr": "düzensiz şehirleşme",
+      "meaning_en": "urban sprawl",
+      "meaning_uk": "розростання міст",
+      "meaning_es": "dispersión urbana"
+    },
+    {
+      "term": "das Einzugsgebiet",
+      "type": "Noun",
+      "example": "Das *** dieser Schule umfasst mehrere Dörfer.",
+      "meaning_tr": "hizmet alanı / havza",
+      "meaning_en": "catchment area",
+      "meaning_uk": "територія обслуговування",
+      "meaning_es": "área de influencia"
+    },
+    {
+      "term": "die Randlage",
+      "type": "Noun",
+      "example": "Wohnungen in *** sind meist günstiger als im Zentrum.",
+      "meaning_tr": "kenar mahalle konumu",
+      "meaning_en": "peripheral location",
+      "meaning_uk": "периферійне розташування",
+      "meaning_es": "ubicación periférica"
+    },
+    {
+      "term": "die Daseinsvorsorge",
+      "type": "Noun",
+      "example": "Wasser und Strom gehören zur staatlichen ***.",
+      "meaning_tr": "temel kamu hizmetleri",
+      "meaning_en": "public services / services of general interest",
+      "meaning_uk": "надання суспільних послуг",
+      "meaning_es": "servicios de interés general"
+    },
+    {
+      "term": "die Bausubstanz",
+      "type": "Noun",
+      "example": "Die *** des alten Rathauses ist leider sehr marode.",
+      "meaning_tr": "yapı durumu",
+      "meaning_en": "building fabric / structure",
+      "meaning_uk": "стан будівлі",
+      "meaning_es": "estructura del edificio"
+    },
+    {
+      "term": "der Denkmalschutz",
+      "type": "Noun",
+      "example": "Das Haus steht unter *** und darf nicht verändert werden.",
+      "meaning_tr": "anıt koruma",
+      "meaning_en": "monument protection / heritage conservation",
+      "meaning_uk": "охорона пам'яток архітектури",
+      "meaning_es": "protección de monumentos"
+    },
+    {
+      "term": "der Grüngürtel",
+      "type": "Noun",
+      "example": "Der *** um die Stadt dient als grüne Lunge.",
+      "meaning_tr": "yeşil kuşak",
+      "meaning_en": "green belt",
+      "meaning_uk": "зелений пояс",
+      "meaning_es": "cinturón verde"
+    },
+    {
+      "term": "die Stadtflucht",
+      "type": "Noun",
+      "example": "Während der Pandemie verstärkte sich der Trend zur ***.",
+      "meaning_tr": "şehirden kaçış",
+      "meaning_en": "urban exodus",
+      "meaning_uk": "відтік населення з міст",
+      "meaning_es": "éxodo urbano"
+    },
+    {
+      "term": "die Landflucht",
+      "type": "Noun",
+      "example": "Die *** führt dazu, dass viele Dörfer aussterben.",
+      "meaning_tr": "köyden kente göç",
+      "meaning_en": "rural exodus",
+      "meaning_uk": "відтік населення з сіл",
+      "meaning_es": "éxodo rural"
+    },
+    {
+      "term": "das Ballungszentrum",
+      "type": "Noun",
+      "example": "In einem *** ist die Verkehrsbelastung oft extrem hoch.",
+      "meaning_tr": "nüfus yoğunluk merkezi",
+      "meaning_en": "conurbation center",
+      "meaning_uk": "центр агломерації",
+      "meaning_es": "centro metropolitano"
+    },
+    {
+      "term": "die Trabantenstadt",
+      "type": "Noun",
+      "example": "Die *** wurde in den 70er Jahren auf der grünen Wiese geplant.",
+      "meaning_tr": "uydu kent",
+      "meaning_en": "satellite town",
+      "meaning_uk": "місто-супутник",
+      "meaning_es": "ciudad satélite"
+    },
+    {
+      "term": "der Speckgürtel",
+      "type": "Noun",
+      "example": "Viele Familien ziehen in den *** von München.",
+      "meaning_tr": "banliyö kuşağı",
+      "meaning_en": "commuter belt",
+      "meaning_uk": "приміська зона",
+      "meaning_es": "cinturón metropolitano rico"
+    },
+    {
+      "term": "die Nahversorgung",
+      "type": "Noun",
+      "example": "In diesem Dorf ist die *** durch den neuen Supermarkt gesichert.",
+      "meaning_tr": "yerel tedarik",
+      "meaning_en": "local supply",
+      "meaning_uk": "місцеве забезпечення",
+      "meaning_es": "suministro local"
+    },
+    {
+      "term": "die Verkehrsberuhigung",
+      "type": "Noun",
+      "example": "Die Anwohner fordern eine *** in ihrer Straße.",
+      "meaning_tr": "trafiği yavaşlatma önlemleri",
+      "meaning_en": "traffic calming",
+      "meaning_uk": "заходи для заспокоєння руху",
+      "meaning_es": "pacificación del tráfico"
+    },
+    {
+      "term": "die Wohnungsnot",
+      "type": "Noun",
+      "example": "In Großstädten herrscht akute ***.",
+      "meaning_tr": "konut sıkıntısı",
+      "meaning_en": "housing shortage",
+      "meaning_uk": "дефіцит житла",
+      "meaning_es": "escasez de vivienda"
+    },
+    {
+      "term": "die Eigenheimzulage",
+      "type": "Noun",
+      "example": "Früher gab es eine staatliche *** für Hausbauer.",
+      "meaning_tr": "konut yapım desteği",
+      "meaning_en": "home ownership subsidy",
+      "meaning_uk": "субсидія на власне житло",
+      "meaning_es": "subvención para vivienda propia"
+    },
+    {
+      "term": "der Flächennutzungsplan",
+      "type": "Noun",
+      "example": "Im *** ist festgelegt, wo Gewerbegebiete entstehen dürfen.",
+      "meaning_tr": "arazi kullanım planı",
+      "meaning_en": "land-use plan",
+      "meaning_uk": "план землекористування",
+      "meaning_es": "plan de ordenación urbana"
+    },
+    {
+      "term": "pendeln",
+      "type": "Verb",
+      "example": "Er muss jeden Tag zwei Stunden zur Arbeit ***.",
+      "meaning_tr": "işe gidip gelmek",
+      "meaning_en": "to commute",
+      "meaning_uk": "їздити на роботу і назад",
+      "meaning_es": "desplazarse al trabajo"
+    },
+    {
+      "term": "sanieren",
+      "type": "Verb",
+      "example": "Die Stadt will das alte Viertel grundlegend ***.",
+      "meaning_tr": "restore etmek / yenilemek",
+      "meaning_en": "to renovate / to refurbish",
+      "meaning_uk": "реконструювати / оздоровлювати",
+      "meaning_es": "sanear / renovar"
+    },
+    {
+      "term": "erschließen",
+      "type": "Verb",
+      "example": "Das neue Baugebiet muss erst noch mit Straßen *** werden.",
+      "meaning_tr": "altyapı hazırlamak / açmak",
+      "meaning_en": "to develop / to open up",
+      "meaning_uk": "освоювати / прокладати комунікації",
+      "meaning_es": "urbanizar / desarrollar"
+    },
+    {
+      "term": "aufwerten",
+      "type": "Verb",
+      "example": "Durch neue Parks lässt sich das Stadtbild ***.",
+      "meaning_tr": "değerini artırmak",
+      "meaning_en": "to upgrade / to enhance",
+      "meaning_uk": "підвищувати цінність",
+      "meaning_es": "revalorizar"
+    },
+    {
+      "term": "abwandern",
+      "type": "Verb",
+      "example": "Wenn es keine Jobs gibt, werden die Menschen ***.",
+      "meaning_tr": "başka yere göç etmek",
+      "meaning_en": "to migrate / to leave",
+      "meaning_uk": "мігрувати",
+      "meaning_es": "emigrar / marcharse"
+    },
+    {
+      "term": "entvölkern",
+      "type": "Verb",
+      "example": "Kriege und Seuchen können ganze Regionen ***.",
+      "meaning_tr": "insansızlaştırmak",
+      "meaning_en": "to depopulate",
+      "meaning_uk": "знелюднювати",
+      "meaning_es": "despoblar"
+    },
+    {
+      "term": "flanieren",
+      "type": "Verb",
+      "example": "Am Sonntag gehen viele Leute auf dem Boulevard ***.",
+      "meaning_tr": "piyasa yapmak / gezinmek",
+      "meaning_en": "to stroll / to saunter",
+      "meaning_uk": "прогулюватися",
+      "meaning_es": "pasear / callejear"
+    },
+    {
+      "term": "prosperieren",
+      "type": "Verb",
+      "example": "Die Wirtschaft in dieser Region beginnt wieder zu ***.",
+      "meaning_tr": "gelişmek / zenginleşmek",
+      "meaning_en": "to prosper",
+      "meaning_uk": "процвітати",
+      "meaning_es": "prosperar"
+    },
+    {
+      "term": "stagnieren",
+      "type": "Verb",
+      "example": "Das Bevölkerungswachstum wird in den nächsten Jahren ***.",
+      "meaning_tr": "duraklamak",
+      "meaning_en": "to stagnate",
+      "meaning_uk": "стагнувати",
+      "meaning_es": "estancarse"
+    },
+    {
+      "term": "veröden",
+      "type": "Verb",
+      "example": "Ohne Geschäfte wird die Innenstadt langsam ***.",
+      "meaning_tr": "ıssızlaşmak / çöle dönmek",
+      "meaning_en": "to become desolate",
+      "meaning_uk": "пустіти / занепадати",
+      "meaning_es": "quedarse desierto"
+    },
+    {
+      "term": "bebauen",
+      "type": "Verb",
+      "example": "Dieses Grundstück darf nicht mit Hochhäusern *** werden.",
+      "meaning_tr": "üzerine bina yapmak",
+      "meaning_en": "to build on",
+      "meaning_uk": "забудовувати",
+      "meaning_es": "edificar"
+    },
+    {
+      "term": "ausbauen",
+      "type": "Verb",
+      "example": "Das Schienennetz muss dringend *** werden.",
+      "meaning_tr": "genişletmek / geliştirmek",
+      "meaning_en": "to expand / to extend",
+      "meaning_uk": "розбудовувати",
+      "meaning_es": "ampliar / expandir"
+    },
+    {
+      "term": "siedeln",
+      "type": "Verb",
+      "example": "Früher begannen Menschen, sich an Flüssen zu ***.",
+      "meaning_tr": "yerleşmek",
+      "meaning_en": "to settle",
+      "meaning_uk": "селитися",
+      "meaning_es": "asentarse"
+    },
+    {
+      "term": "umsiedeln",
+      "type": "Verb",
+      "example": "Wegen des Tagebaus musste ein ganzes Dorf ***.",
+      "meaning_tr": "başka yere yerleştirmek",
+      "meaning_en": "to relocate / to resettle",
+      "meaning_uk": "переселяти",
+      "meaning_es": "trasladar / realojar"
+    },
+    {
+      "term": "enteignen",
+      "type": "Verb",
+      "example": "Für den Autobahnbau mussten einige Besitzer *** werden.",
+      "meaning_tr": "kamulaştırmak",
+      "meaning_en": "to expropriate",
+      "meaning_uk": "експропріювати",
+      "meaning_es": "expropiar"
+    },
+    {
+      "term": "ländlich",
+      "type": "Adjective",
+      "example": "Das Leben in *** geprägten Gebieten ist oft ruhiger.",
+      "meaning_tr": "kırsal",
+      "meaning_en": "rural",
+      "meaning_uk": "сільський",
+      "meaning_es": "rural"
+    },
+    {
+      "term": "städtisch",
+      "type": "Adjective",
+      "example": "Die *** Bevölkerung wächst weltweit stetig an.",
+      "meaning_tr": "kentsel",
+      "meaning_en": "urban",
+      "meaning_uk": "міський",
+      "meaning_es": "urbano"
+    },
+    {
+      "term": "abgelegen",
+      "type": "Adjective",
+      "example": "Sie wohnen in einem sehr *** Dorf im Gebirge.",
+      "meaning_tr": "ücra / sapa",
+      "meaning_en": "remote / secluded",
+      "meaning_uk": "віддалений",
+      "meaning_es": "remoto / apartado"
+    },
+    {
+      "term": "idyllisch",
+      "type": "Adjective",
+      "example": "Das kleine Hotel liegt *** an einem See.",
+      "meaning_tr": "pastoral / huzurlu",
+      "meaning_en": "idyllic",
+      "meaning_uk": "ідилічний",
+      "meaning_es": "idílico"
+    },
+    {
+      "term": "dichtbesiedelt",
+      "type": "Adjective",
+      "example": "Singapur ist einer der am *** Staaten der Welt.",
+      "meaning_tr": "yoğun nüfuslu",
+      "meaning_en": "densely populated",
+      "meaning_uk": "густонаселений",
+      "meaning_es": "densamente poblado"
+    },
+    {
+      "term": "lebenswert",
+      "type": "Adjective",
+      "example": "Wien gilt oft als eine der am meisten *** Städte.",
+      "meaning_tr": "yaşamaya değer",
+      "meaning_en": "livable",
+      "meaning_uk": "придатний для життя",
+      "meaning_es": "habitable"
+    },
+    {
+      "term": "erschwinglich",
+      "type": "Adjective",
+      "example": "In Berlin ist *** Wohnraum kaum noch zu finden.",
+      "meaning_tr": "satın alınabilir / uygun fiyatlı",
+      "meaning_en": "affordable",
+      "meaning_uk": "доступний (за ціною)",
+      "meaning_es": "asequible"
+    },
+    {
+      "term": "baufällig",
+      "type": "Adjective",
+      "example": "Das *** Gebäude muss abgerissen werden.",
+      "meaning_tr": "yıkık dökük",
+      "meaning_en": "dilapidated / ramshackle",
+      "meaning_uk": "ветхий / аварійний",
+      "meaning_es": "ruinoso"
+    },
+    {
+      "term": "pulsierend",
+      "type": "Adjective",
+      "example": "Sie liebt das *** Leben in der Großstadt.",
+      "meaning_tr": "hareketli / canlı",
+      "meaning_en": "vibrant / pulsating",
+      "meaning_uk": "пульсуючий / жвавий",
+      "meaning_es": "vibrante"
+    },
+    {
+      "term": "beschaulich",
+      "type": "Adjective",
+      "example": "In der Kleinstadt geht es noch sehr *** zu.",
+      "meaning_tr": "sakin / huzurlu",
+      "meaning_en": "tranquil / contemplative",
+      "meaning_uk": "спокійний / затишний",
+      "meaning_es": "tranquilo / apacible"
+    },
+    {
+      "term": "dezentral",
+      "type": "Adjective",
+      "example": "Die Verwaltung ist *** organisiert, um bürgernah zu sein.",
+      "meaning_tr": "merkezi olmayan",
+      "meaning_en": "decentralized",
+      "meaning_uk": "децентралізований",
+      "meaning_es": "descentralizado"
+    },
+    {
+      "term": "großstädtisch",
+      "type": "Adjective",
+      "example": "Das Viertel hat ein fast *** Flair.",
+      "meaning_tr": "büyük şehre özgü",
+      "meaning_en": "metropolitan / big-city",
+      "meaning_uk": "притаманний великому місту",
+      "meaning_es": "metropolitano"
+    },
+    {
+      "term": "trubelig",
+      "type": "Adjective",
+      "example": "Auf dem Marktplatz war es am Samstag sehr ***.",
+      "meaning_tr": "telâşlı / kalabalık",
+      "meaning_en": "bustling / hectic",
+      "meaning_uk": "метушливий",
+      "meaning_es": "bullicioso"
+    },
+    {
+      "term": "stadteinwärts",
+      "type": "Adverb",
+      "example": "Der Verkehr *** staut sich jeden Morgen.",
+      "meaning_tr": "şehir merkezine doğru",
+      "meaning_en": "towards the city center",
+      "meaning_uk": "в напрямку центру міста",
+      "meaning_es": "hacia el centro"
+    },
+    {
+      "term": "vielerorts",
+      "type": "Adverb",
+      "example": "In Deutschland wird *** über den Wohnungsmangel geklagt.",
+      "meaning_tr": "pek çok yerde",
+      "meaning_en": "in many places",
+      "meaning_uk": "багато де / у багатьох місцях",
+      "meaning_es": "en muchos lugares"
+    }
+  ]
+}

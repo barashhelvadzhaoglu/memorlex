@@ -1,0 +1,546 @@
+{
+  "title": "Marketing & Sales (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a value proposition",
+      "type": "Noun",
+      "example": "Our company needs to articulate *** more clearly to attract high-end clients.",
+      "meaning_tr": "değer önerisi",
+      "meaning_en": "a statement of the functional, emotional, and self-expressive benefits delivered by the brand",
+      "meaning_uk": "ціннісна пропозиція",
+      "meaning_es": "una propuesta de valor"
+    },
+    {
+      "term": "to penetrate",
+      "type": "Verb",
+      "example": "We are planning *** the emerging markets in Southeast Asia next year.",
+      "meaning_tr": "pazara girmek / nüfuz etmek",
+      "meaning_en": "to enter or gain access to a market",
+      "meaning_uk": "проникати на ринок",
+      "meaning_es": "penetrar"
+    },
+    {
+      "term": "a churn rate",
+      "type": "Noun",
+      "example": "Reducing *** is our primary focus for the upcoming fiscal quarter.",
+      "meaning_tr": "müşteri kayıp oranı",
+      "meaning_en": "the percentage of customers who stop using a company's product or service",
+      "meaning_uk": "рівень відтоку клієнтів",
+      "meaning_es": "una tasa de cancelación"
+    },
+    {
+      "term": "disruptive",
+      "type": "Adjective",
+      "example": "The startup introduced a *** technology that completely changed the industry landscape.",
+      "meaning_tr": "ezber bozan / yıkıcı",
+      "meaning_en": "innovative or ground-breaking in a way that changes an industry",
+      "meaning_uk": "революційний / підривний",
+      "meaning_es": "disruptivo"
+    },
+    {
+      "term": "an overhead",
+      "type": "Noun",
+      "example": "We must cut down on *** costs to remain profitable in a competitive market.",
+      "meaning_tr": "genel gider",
+      "meaning_en": "business expenses that are not directly tied to creating a product or service",
+      "meaning_uk": "накладні витрати",
+      "meaning_es": "un gasto general"
+    },
+    {
+      "term": "to leverage",
+      "type": "Verb",
+      "example": "We should *** our existing customer base to promote the new product line.",
+      "meaning_tr": "kaldıraç olarak kullanmak / faydalanmak",
+      "meaning_en": "to use something to maximum advantage",
+      "meaning_uk": "використовувати / задіяти",
+      "meaning_es": "aprovechar"
+    },
+    {
+      "term": "a bottleneck",
+      "type": "Noun",
+      "example": "The supply chain delay has created a major *** in our distribution process.",
+      "meaning_tr": "darboğaz",
+      "meaning_en": "a point of congestion or blockage in a process",
+      "meaning_uk": "вузьке місце",
+      "meaning_es": "un cuello de botella"
+    },
+    {
+      "term": "the bottom line",
+      "type": "Noun",
+      "example": "While branding is important, *** is that we need to increase our net profit.",
+      "meaning_tr": "net kâr / sonuç",
+      "meaning_en": "the final total of an account or balance sheet; net profit",
+      "meaning_uk": "чистий прибуток / підсумок",
+      "meaning_es": "el resultado final"
+    },
+    {
+      "term": "a lead",
+      "type": "Noun",
+      "example": "The marketing team generated a high volume of qualified *** this month.",
+      "meaning_tr": "potansiyel müşteri",
+      "meaning_en": "a potential customer who has shown interest in a product or service",
+      "meaning_uk": "потенційний клієнт",
+      "meaning_es": "un cliente potencial"
+    },
+    {
+      "term": "lucrative",
+      "type": "Adjective",
+      "example": "They signed a highly *** contract with a multinational corporation.",
+      "meaning_tr": "kârlı",
+      "meaning_en": "producing a great deal of profit",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "lucrativo"
+    },
+    {
+      "term": "to scale",
+      "type": "Verb",
+      "example": "It is difficult to *** the business without compromising quality.",
+      "meaning_tr": "büyütmek / ölçeklendirmek",
+      "meaning_en": "to expand business operations proportionately",
+      "meaning_uk": "масштабувати",
+      "meaning_es": "escalar"
+    },
+    {
+      "term": "a stakeholder",
+      "type": "Noun",
+      "example": "We need to keep every *** informed about the project's progress.",
+      "meaning_tr": "paydaş",
+      "meaning_en": "a person with an interest or concern in something",
+      "meaning_uk": "зацікавлена сторона",
+      "meaning_es": "un grupo de interés"
+    },
+    {
+      "term": "a niche",
+      "type": "Noun",
+      "example": "The company successfully carved out a profitable *** in the luxury watch market.",
+      "meaning_tr": "niş / özel pazar",
+      "meaning_en": "a specialized segment of the market for a particular kind of product",
+      "meaning_uk": "ніша",
+      "meaning_es": "un nicho"
+    },
+    {
+      "term": "to acquire",
+      "type": "Verb",
+      "example": "The strategy is to *** new customers through targeted social media campaigns.",
+      "meaning_tr": "edinmek / kazanmak",
+      "meaning_en": "to buy or obtain an asset or customer",
+      "meaning_uk": "набувати / залучати",
+      "meaning_es": "adquirir"
+    },
+    {
+      "term": "a retention rate",
+      "type": "Noun",
+      "example": "Our high *** indicates that customers are satisfied with our service.",
+      "meaning_tr": "müşteri elde tutma oranı",
+      "meaning_en": "the percentage of customers who continue to do business with a company",
+      "meaning_uk": "рівень утримання клієнтів",
+      "meaning_es": "una tasa de retención"
+    },
+    {
+      "term": "a market share",
+      "type": "Noun",
+      "example": "The corporation currently holds a 40% *** in the telecommunications sector.",
+      "meaning_tr": "pazar payı",
+      "meaning_en": "the portion of a market controlled by a particular company",
+      "meaning_uk": "частка ринку",
+      "meaning_es": "una cuota de mercado"
+    },
+    {
+      "term": "to outsource",
+      "type": "Verb",
+      "example": "We decided to *** our customer support to a specialized agency.",
+      "meaning_tr": "dış kaynak kullanmak",
+      "meaning_en": "to obtain goods or services from an outside supplier",
+      "meaning_uk": "передавати на аутсорсинг",
+      "meaning_es": "subcontratar"
+    },
+    {
+      "term": "a prospect",
+      "type": "Noun",
+      "example": "The sales representative is meeting with a promising *** this afternoon.",
+      "meaning_tr": "potansiyel müşteri adayı",
+      "meaning_en": "a person or organization regarded as a potential customer",
+      "meaning_uk": "потенційний покупець",
+      "meaning_es": "un cliente potencial"
+    },
+    {
+      "term": "an incentive",
+      "type": "Noun",
+      "example": "We are offering a discount as an *** for early registration.",
+      "meaning_tr": "teşvik",
+      "meaning_en": "a thing that motivates or encourages someone to do something",
+      "meaning_uk": "стимул",
+      "meaning_es": "un incentivo"
+    },
+    {
+      "term": "a fiscal year",
+      "type": "Noun",
+      "example": "Our financial targets for the current *** have already been met.",
+      "meaning_tr": "mali yıl",
+      "meaning_en": "a one-year period used for financial reporting",
+      "meaning_uk": "фінансовий рік",
+      "meaning_es": "un año fiscal"
+    },
+    {
+      "term": "a conversion rate",
+      "type": "Noun",
+      "example": "Optimizing the landing page significantly improved our ***.",
+      "meaning_tr": "dönüşüm oranı",
+      "meaning_en": "the percentage of users who take a desired action",
+      "meaning_uk": "коефіцієнт конверсії",
+      "meaning_es": "una tasa de conversión"
+    },
+    {
+      "term": "a competitive advantage",
+      "type": "Noun",
+      "example": "Innovation is our main *** over the rivals.",
+      "meaning_tr": "rekabet avantajı",
+      "meaning_en": "a condition that puts a company in a favorable business position",
+      "meaning_uk": "конкурентна перевага",
+      "meaning_es": "una ventaja competitiva"
+    },
+    {
+      "term": "to incentivize",
+      "type": "Verb",
+      "example": "The manager decided to *** the team with a bonus for meeting targets.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to provide with an incentive",
+      "meaning_uk": "стимулювати",
+      "meaning_es": "incentivar"
+    },
+    {
+      "term": "a blueprint",
+      "type": "Noun",
+      "example": "We have created a strategic *** for the global expansion of the brand.",
+      "meaning_tr": "taslak / yol haritası",
+      "meaning_en": "a detailed plan or program of action",
+      "meaning_uk": "план / стратегія",
+      "meaning_es": "un plan detallado"
+    },
+    {
+      "term": "a benchmark",
+      "type": "Noun",
+      "example": "Our performance is measured against a global industry ***.",
+      "meaning_tr": "kıyaslama ölçütü",
+      "meaning_en": "a standard by which something can be measured or judged",
+      "meaning_uk": "еталон / критерій",
+      "meaning_es": "un punto de referencia"
+    },
+    {
+      "term": "to subsidize",
+      "type": "Verb",
+      "example": "The government agreed to *** the research project to promote innovation.",
+      "meaning_tr": "sübvanse etmek / mali destek sağlamak",
+      "meaning_en": "to support an organization financially",
+      "meaning_uk": "субсидувати",
+      "meaning_es": "subvencionar"
+    },
+    {
+      "term": "a target audience",
+      "type": "Noun",
+      "example": "The ad campaign failed because it did not resonate with the ***.",
+      "meaning_tr": "hedef kitle",
+      "meaning_en": "the specific group of people at whom a product or service is aimed",
+      "meaning_uk": "цільова аудиторія",
+      "meaning_es": "un público objetivo"
+    },
+    {
+      "term": "a commodity",
+      "type": "Noun",
+      "example": "In this market, the product has become a simple *** with little price variation.",
+      "meaning_tr": "ticari mal / emtia",
+      "meaning_en": "a raw material or primary product that can be bought and sold",
+      "meaning_uk": "товар / сировина",
+      "meaning_es": "una mercancía"
+    },
+    {
+      "term": "a brand equity",
+      "type": "Noun",
+      "example": "Years of consistent quality have built strong *** for our company.",
+      "meaning_tr": "marka değeri",
+      "meaning_en": "the value premium that a company generates from a product with a recognizable name",
+      "meaning_uk": "капітал бренду",
+      "meaning_es": "un valor de marca"
+    },
+    {
+      "term": "a forecast",
+      "type": "Noun",
+      "example": "The sales *** for the next quarter looks very promising.",
+      "meaning_tr": "tahmin",
+      "meaning_en": "a prediction of future business trends or performance",
+      "meaning_uk": "прогноз",
+      "meaning_es": "una previsión"
+    },
+    {
+      "term": "to diversify",
+      "type": "Verb",
+      "example": "We need to *** our product portfolio to mitigate risk.",
+      "meaning_tr": "çeşitlendirmek",
+      "meaning_en": "to enlarge or vary the range of products or field of operation",
+      "meaning_uk": "диверсифікувати",
+      "meaning_es": "diversificar"
+    },
+    {
+      "term": "a return on investment",
+      "type": "Noun",
+      "example": "The board is demanding a higher *** for the new marketing campaign.",
+      "meaning_tr": "yatırım getirisi",
+      "meaning_en": "the profit made on an investment relative to its cost",
+      "meaning_uk": "окупність інвестицій",
+      "meaning_es": "un retorno de la inversión"
+    },
+    {
+      "term": "a synergy",
+      "type": "Noun",
+      "example": "The merger created a powerful *** between the two companies.",
+      "meaning_tr": "sinerji",
+      "meaning_en": "the interaction or cooperation of two or more organizations to produce a greater effect",
+      "meaning_uk": "синергія",
+      "meaning_es": "una sinergia"
+    },
+    {
+      "term": "to streamline",
+      "type": "Verb",
+      "example": "We are trying to *** our internal communication processes.",
+      "meaning_tr": "verimli hale getirmek / sadeleştirmek",
+      "meaning_en": "to make a process more efficient",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "optimizar"
+    },
+    {
+      "term": "an asset",
+      "type": "Noun",
+      "example": "Our skilled workforce is our most valuable ***.",
+      "meaning_tr": "varlık / değer",
+      "meaning_en": "a useful or valuable thing, person, or quality",
+      "meaning_uk": "актив",
+      "meaning_es": "un activo"
+    },
+    {
+      "term": "a liability",
+      "type": "Noun",
+      "example": "The company's debt is becoming a major *** for its growth.",
+      "meaning_tr": "yükümlülük / borç",
+      "meaning_en": "a thing for which someone is responsible, especially a debt or financial obligation",
+      "meaning_uk": "зобов'язання / пасив",
+      "meaning_es": "un pasivo"
+    },
+    {
+      "term": "to penetrate",
+      "type": "Verb",
+      "example": "It is difficult to *** a market that is dominated by established giants.",
+      "meaning_tr": "pazara girmek",
+      "meaning_en": "to succeed in getting into a market",
+      "meaning_uk": "проникати на ринок",
+      "meaning_es": "penetrar"
+    },
+    {
+      "term": "an endorsement",
+      "type": "Noun",
+      "example": "The celebrity *** helped boost our sales significantly.",
+      "meaning_tr": "destek / onay (ünlü desteği)",
+      "meaning_en": "a public statement of support for a product",
+      "meaning_uk": "рекламна підтримка",
+      "meaning_es": "un respaldo"
+    },
+    {
+      "term": "to liquidate",
+      "type": "Verb",
+      "example": "The company had to *** its assets to pay off the remaining debts.",
+      "meaning_tr": "tasfiye etmek / nakde çevirmek",
+      "meaning_en": "to convert assets into cash",
+      "meaning_uk": "ліквідувати",
+      "meaning_es": "liquidar"
+    },
+    {
+      "term": "a conglomerate",
+      "type": "Noun",
+      "example": "They are a massive *** that owns brands across various industries.",
+      "meaning_tr": "holding / şirketler grubu",
+      "meaning_en": "a large corporation formed by the merger of different companies",
+      "meaning_uk": "конгломерат",
+      "meaning_es": "un conglomerado"
+    },
+    {
+      "term": "a quota",
+      "type": "Noun",
+      "example": "Every salesperson has to meet a monthly sales ***.",
+      "meaning_tr": "kota",
+      "meaning_en": "a fixed share of something that a person or group is expected to achieve",
+      "meaning_uk": "квота",
+      "meaning_es": "una cuota"
+    },
+    {
+      "term": "to undercut",
+      "type": "Verb",
+      "example": "Our competitor is trying to *** our prices to drive us out of the market.",
+      "meaning_tr": "fiyat kırmak / daha ucuza satmak",
+      "meaning_en": "to charge less than a competitor",
+      "meaning_uk": "занижувати ціни",
+      "meaning_es": "vender más barato"
+    },
+    {
+      "term": "a disruption",
+      "type": "Noun",
+      "example": "The digital shift caused a major *** in the publishing industry.",
+      "meaning_tr": "aksama / ezber bozma",
+      "meaning_en": "a radical change in an industry or market",
+      "meaning_uk": "порушення / трансформація",
+      "meaning_es": "una disrupción"
+    },
+    {
+      "term": "a venture",
+      "type": "Noun",
+      "example": "Our latest business *** in the tech sector has been very successful.",
+      "meaning_tr": "girişim",
+      "meaning_en": "a commercial project, typically one involving risk",
+      "meaning_uk": "підприємство / починання",
+      "meaning_es": "una empresa"
+    },
+    {
+      "term": "a cold call",
+      "type": "Noun",
+      "example": "Making a *** is an outdated method for generating new leads.",
+      "meaning_tr": "soğuk arama (tanımadık kişiyi arama)",
+      "meaning_en": "an unsolicited call to a prospective customer",
+      "meaning_uk": "холодний дзвінок",
+      "meaning_es": "una llamada en frío"
+    },
+    {
+      "term": "a supply chain",
+      "type": "Noun",
+      "example": "We are experiencing issues with our global *** due to logistical delays.",
+      "meaning_tr": "tedarik zinciri",
+      "meaning_en": "the sequence of processes involved in the production and distribution of a commodity",
+      "meaning_uk": "ланцюг постачання",
+      "meaning_es": "una cadena de suministro"
+    },
+    {
+      "term": "to incentivize",
+      "type": "Verb",
+      "example": "The program aims to *** employees to increase their productivity.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to motivate through rewards",
+      "meaning_uk": "стимулювати",
+      "meaning_es": "incentivar"
+    },
+    {
+      "term": "a barrier to entry",
+      "type": "Noun",
+      "example": "High capital requirements act as a significant *** for new companies.",
+      "meaning_tr": "pazara giriş engeli",
+      "meaning_en": "obstacles that make it difficult for a new company to enter a market",
+      "meaning_uk": "бар'єр для входу на ринок",
+      "meaning_es": "una barrera de entrada"
+    },
+    {
+      "term": "a rebate",
+      "type": "Noun",
+      "example": "Customers will receive a partial *** after purchasing the product.",
+      "meaning_tr": "indirim / geri ödeme",
+      "meaning_en": "a partial refund to someone who has paid too much for tax, rent, or a utility",
+      "meaning_uk": "знижка / повернення коштів",
+      "meaning_es": "un reembolso"
+    },
+    {
+      "term": "a merger",
+      "type": "Noun",
+      "example": "The *** between the two banks created the largest financial institution in the country.",
+      "meaning_tr": "birleşme",
+      "meaning_en": "the combination of two companies into one",
+      "meaning_uk": "злиття",
+      "meaning_es": "una fusión"
+    },
+    {
+      "term": "a recession",
+      "type": "Noun",
+      "example": "The company is preparing for a potential *** by reducing unnecessary spending.",
+      "meaning_tr": "durgunluk / ekonomik kriz",
+      "meaning_en": "a period of temporary economic decline",
+      "meaning_uk": "рецесія / економічний спад",
+      "meaning_es": "una recesión"
+    },
+    {
+      "term": "to brainstorm",
+      "type": "Verb",
+      "example": "We need to *** some creative ideas for the spring marketing campaign.",
+      "meaning_tr": "beyin fırtınası yapmak",
+      "meaning_en": "to produce ideas through spontaneous group discussion",
+      "meaning_uk": "проводити мозковий штурм",
+      "meaning_es": "hacer una lluvia de ideas"
+    },
+    {
+      "term": "a stakeholder",
+      "type": "Noun",
+      "example": "Investors are a key *** in the decision-making process.",
+      "meaning_tr": "paydaş",
+      "meaning_en": "a party that has an interest in a company or project",
+      "meaning_uk": "зацікавлена сторона",
+      "meaning_es": "un grupo de interés"
+    },
+    {
+      "term": "a dividend",
+      "type": "Noun",
+      "example": "The company announced a higher *** for its shareholders this year.",
+      "meaning_tr": "kâr payı / temettü",
+      "meaning_en": "a sum of money paid regularly by a company to its shareholders",
+      "meaning_uk": "дивіденд",
+      "meaning_es": "un dividendo"
+    },
+    {
+      "term": "to scale",
+      "type": "Verb",
+      "example": "Our goal is to *** our operations globally within two years.",
+      "meaning_tr": "ölçeklendirmek",
+      "meaning_en": "to increase the size or scope of operations",
+      "meaning_uk": "масштабувати",
+      "meaning_es": "escalar"
+    },
+    {
+      "term": "a surplus",
+      "type": "Noun",
+      "example": "We have a *** of inventory that we need to sell at a discount.",
+      "meaning_tr": "fazla / arz fazlası",
+      "meaning_en": "an amount of something left over when requirements have been met",
+      "meaning_uk": "надлишок",
+      "meaning_es": "un excedente"
+    },
+    {
+      "term": "an overhead",
+      "type": "Noun",
+      "example": "Rent and utilities are considered fixed ***.",
+      "meaning_tr": "genel gider",
+      "meaning_en": "ongoing business expenses not directly attributed to creating a product",
+      "meaning_uk": "накладні витрати",
+      "meaning_es": "un gasto general"
+    },
+    {
+      "term": "to audit",
+      "type": "Verb",
+      "example": "We need to hire an external firm to *** our financial records.",
+      "meaning_tr": "denetlemek",
+      "meaning_en": "to conduct an official financial examination of an organization's accounts",
+      "meaning_uk": "проводити аудит",
+      "meaning_es": "auditar"
+    },
+    {
+      "term": "a prospect",
+      "type": "Noun",
+      "example": "The sales team is identifying every potential *** in the region.",
+      "meaning_tr": "potansiyel müşteri",
+      "meaning_en": "a candidate for a sale",
+      "meaning_uk": "потенційний клієнт",
+      "meaning_es": "un cliente potencial"
+    },
+    {
+      "term": "a ROI",
+      "type": "Noun",
+      "example": "We are calculating the *** to see if the advertising spend was worth it.",
+      "meaning_tr": "yatırım getirisi",
+      "meaning_en": "return on investment",
+      "meaning_uk": "окупність інвестицій",
+      "meaning_es": "un retorno de la inversión"
+    }
+  ]
+}

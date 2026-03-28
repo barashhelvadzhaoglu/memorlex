@@ -1,0 +1,411 @@
+{
+  "title": "Psicologia y Emociones (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la resiliencia",
+      "type": "Noun",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "capacidad de adaptación frente a la adversidad",
+      "example": "*** es fundamental para superar los traumas del pasado."
+    },
+    {
+      "term": "la ansiedad",
+      "type": "Noun",
+      "meaning_tr": "kaygı",
+      "meaning_en": "anxiety",
+      "meaning_uk": "тривога",
+      "meaning_es": "estado mental de inquietud",
+      "example": "Su nivel de *** ha aumentado debido al estrés laboral."
+    },
+    {
+      "term": "reprimir",
+      "type": "Verb",
+      "meaning_tr": "bastırmak",
+      "meaning_en": "to repress",
+      "meaning_uk": "пригнічувати",
+      "meaning_es": "contener un impulso o sentimiento",
+      "example": "No es saludable *** tus emociones constantemente."
+    },
+    {
+      "term": "la autoestima",
+      "type": "Noun",
+      "meaning_tr": "öz saygı",
+      "meaning_en": "self-esteem",
+      "meaning_uk": "самооцінка",
+      "meaning_es": "valoración de uno mismo",
+      "example": "Tener una *** alta ayuda a tomar mejores decisiones."
+    },
+    {
+      "term": "vulnerable",
+      "type": "Adjective",
+      "meaning_tr": "savunmasız",
+      "meaning_en": "vulnerable",
+      "meaning_uk": "вразливий",
+      "meaning_es": "que puede ser herido fácilmente",
+      "example": "Sentirse *** a veces es necesario para conectar con otros."
+    },
+    {
+      "term": "la empatía",
+      "type": "Noun",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "capacidad de ponerse en el lugar del otro",
+      "example": "La *** es una habilidad clave para mejorar las relaciones sociales."
+    },
+    {
+      "term": "gestionar",
+      "type": "Verb",
+      "meaning_tr": "yönetmek",
+      "meaning_en": "to manage",
+      "meaning_uk": "керувати",
+      "meaning_es": "manejar o controlar una situación",
+      "example": "Debes aprender a *** tus emociones en momentos de crisis."
+    },
+    {
+      "term": "el trauma",
+      "type": "Noun",
+      "meaning_tr": "travma",
+      "meaning_en": "trauma",
+      "meaning_uk": "травма",
+      "meaning_es": "choque emocional profundo",
+      "example": "El paciente está trabajando para superar su *** infantil."
+    },
+    {
+      "term": "la frustración",
+      "type": "Noun",
+      "meaning_tr": "hayal kırıklığı",
+      "meaning_en": "frustration",
+      "meaning_uk": "фрустрація",
+      "meaning_es": "sentimiento de impotencia",
+      "example": "La *** aparece cuando no logramos nuestros objetivos."
+    },
+    {
+      "term": "reflexivo",
+      "type": "Adjective",
+      "meaning_tr": "düşünceli",
+      "meaning_en": "reflective",
+      "meaning_uk": "рефлексивний",
+      "meaning_es": "que piensa profundamente",
+      "example": "Es un hombre muy *** antes de actuar."
+    },
+    {
+      "term": "la apatía",
+      "type": "Noun",
+      "meaning_tr": "kayıtsızlık",
+      "meaning_en": "apathy",
+      "meaning_uk": "апатія",
+      "meaning_es": "falta de interés o motivación",
+      "example": "Su *** le impide realizar sus tareas diarias."
+    },
+    {
+      "term": "afrontar",
+      "type": "Verb",
+      "meaning_tr": "yüzleşmek",
+      "meaning_en": "to face/cope with",
+      "meaning_uk": "зіткнутися",
+      "meaning_es": "hacer frente a un problema",
+      "example": "Es necesario *** los problemas en lugar de evitarlos."
+    },
+    {
+      "term": "la melancolía",
+      "type": "Noun",
+      "meaning_tr": "melankoli",
+      "meaning_en": "melancholy",
+      "meaning_uk": "меланхолія",
+      "meaning_es": "tristeza profunda y duradera",
+      "example": "La música le provoca una profunda ***."
+    },
+    {
+      "term": "impulsivo",
+      "type": "Adjective",
+      "meaning_tr": "dürtüsel",
+      "meaning_en": "impulsive",
+      "meaning_uk": "імпульсивний",
+      "meaning_es": "que actúa sin pensar",
+      "example": "Su carácter *** le ha causado muchos problemas."
+    },
+    {
+      "term": "el subconsciente",
+      "type": "Noun",
+      "meaning_tr": "bilinçaltı",
+      "meaning_en": "subconscious",
+      "meaning_uk": "підсвідомість",
+      "meaning_es": "parte de la psique fuera de la conciencia",
+      "example": "Muchos de nuestros miedos residen en el ***."
+    },
+    {
+      "term": "el apego",
+      "type": "Noun",
+      "meaning_tr": "bağlanma",
+      "meaning_en": "attachment",
+      "meaning_uk": "прив'язаність",
+      "meaning_es": "vínculo afectivo",
+      "example": "El *** seguro es esencial para el desarrollo infantil."
+    },
+    {
+      "term": "la introspección",
+      "type": "Noun",
+      "meaning_tr": "içebakış",
+      "meaning_en": "introspection",
+      "meaning_uk": "інтроспекція",
+      "meaning_es": "observación interna de los pensamientos",
+      "example": "Mediante la ***, descubrió sus verdaderos deseos."
+    },
+    {
+      "term": "validar",
+      "type": "Verb",
+      "meaning_tr": "onaylamak/doğrulamak",
+      "meaning_en": "to validate",
+      "meaning_uk": "валідувати",
+      "meaning_es": "reconocer la validez de un sentimiento",
+      "example": "Es importante *** las emociones de los niños."
+    },
+    {
+      "term": "la euforia",
+      "type": "Noun",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "sensación de bienestar extremo",
+      "example": "Sentía una *** inmensa tras ganar el premio."
+    },
+    {
+      "term": "la culpa",
+      "type": "Noun",
+      "meaning_tr": "suçluluk",
+      "meaning_en": "guilt",
+      "meaning_uk": "провина",
+      "meaning_es": "sentimiento por haber cometido un error",
+      "example": "Dejar de sentir *** es parte de su terapia."
+    },
+    {
+      "term": "obsesivo",
+      "type": "Adjective",
+      "meaning_tr": "takıntılı",
+      "meaning_en": "obsessive",
+      "meaning_uk": "обсесивний",
+      "meaning_es": "que tiene ideas fijas",
+      "example": "Tiene un pensamiento *** que no le deja descansar."
+    },
+    {
+      "term": "la serenidad",
+      "type": "Noun",
+      "meaning_tr": "sükunet",
+      "meaning_en": "serenity",
+      "meaning_uk": "безтурботність",
+      "meaning_es": "estado de calma",
+      "example": "La meditación le aporta mucha ***."
+    },
+    {
+      "term": "la ira",
+      "type": "Noun",
+      "meaning_tr": "öfke",
+      "meaning_en": "anger",
+      "meaning_uk": "гнів",
+      "meaning_es": "sentimiento de indignación",
+      "example": "No pudo controlar su *** ante la injusticia."
+    },
+    {
+      "term": "desahogarse",
+      "type": "Verb",
+      "meaning_tr": "içini dökmek",
+      "meaning_en": "to vent",
+      "meaning_uk": "виговоритися",
+      "meaning_es": "expresar sentimientos reprimidos",
+      "example": "Necesito *** con alguien de confianza."
+    },
+    {
+      "term": "la fobia",
+      "type": "Noun",
+      "meaning_tr": "fobi",
+      "meaning_en": "phobia",
+      "meaning_uk": "фобія",
+      "meaning_es": "miedo irracional",
+      "example": "Su *** a las arañas le impide salir al campo."
+    },
+    {
+      "term": "la incertidumbre",
+      "type": "Noun",
+      "meaning_tr": "belirsizlik",
+      "meaning_en": "uncertainty",
+      "meaning_uk": "невизначеність",
+      "meaning_es": "falta de seguridad",
+      "example": "La *** sobre el futuro le genera mucho estrés."
+    },
+    {
+      "term": "la resiliencia",
+      "type": "Noun",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "capacidad de sobreponerse",
+      "example": "Demostró gran *** tras el accidente."
+    },
+    {
+      "term": "perseverante",
+      "type": "Adjective",
+      "meaning_tr": "azimli",
+      "meaning_en": "perseverant",
+      "meaning_uk": "наполегливий",
+      "meaning_es": "que se mantiene constante",
+      "example": "Es un estudiante muy *** y siempre logra sus metas."
+    },
+    {
+      "term": "la inhibición",
+      "type": "Noun",
+      "meaning_tr": "ket vurma",
+      "meaning_en": "inhibition",
+      "meaning_uk": "гальмування",
+      "meaning_es": "represión de una conducta",
+      "example": "La *** social le impide hacer amigos nuevos."
+    },
+    {
+      "term": "la empatía",
+      "type": "Noun",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "comprensión emocional",
+      "example": "La *** es fundamental en la psicología clínica."
+    },
+    {
+      "term": "maduro",
+      "type": "Adjective",
+      "meaning_tr": "olgun",
+      "meaning_en": "mature",
+      "meaning_uk": "зрілий",
+      "meaning_es": "que tiene buen juicio",
+      "example": "Es un chico muy *** para su edad."
+    },
+    {
+      "term": "el optimismo",
+      "type": "Noun",
+      "meaning_tr": "iyimserlik",
+      "meaning_en": "optimism",
+      "meaning_uk": "оптимізм",
+      "meaning_es": "tendencia a ver el lado positivo",
+      "example": "El *** le ayuda a superar los días difíciles."
+    },
+    {
+      "term": "la indiferencia",
+      "type": "Noun",
+      "meaning_tr": "kayıtsızlık",
+      "meaning_en": "indifference",
+      "meaning_uk": "байдужість",
+      "meaning_es": "falta de reacción afectiva",
+      "example": "Me dolió su *** ante mi problema."
+    },
+    {
+      "term": "la gratitud",
+      "type": "Noun",
+      "meaning_tr": "minnettarlık",
+      "meaning_en": "gratitude",
+      "meaning_uk": "вдячність",
+      "meaning_es": "reconocimiento de un favor",
+      "example": "Siento una profunda *** por todo lo que hiciste."
+    },
+    {
+      "term": "la angustia",
+      "type": "Noun",
+      "meaning_tr": "sıkıntı",
+      "meaning_en": "anguish",
+      "meaning_uk": "туга",
+      "meaning_es": "sufrimiento emocional intenso",
+      "example": "Vivía en una constante *** por el examen."
+    },
+    {
+      "term": "la asertividad",
+      "type": "Noun",
+      "meaning_tr": "atılganlık",
+      "meaning_en": "assertiveness",
+      "meaning_uk": "асертивність",
+      "meaning_es": "capacidad de expresar opiniones con respeto",
+      "example": "La *** es necesaria para una comunicación sana."
+    },
+    {
+      "term": "el prejuicio",
+      "type": "Noun",
+      "meaning_tr": "önyargı",
+      "meaning_en": "prejudice",
+      "meaning_uk": "упередження",
+      "meaning_es": "opinión negativa preconcebida",
+      "example": "Debemos eliminar el *** hacia lo desconocido."
+    },
+    {
+      "term": "la esperanza",
+      "type": "Noun",
+      "meaning_tr": "umut",
+      "meaning_en": "hope",
+      "meaning_uk": "надія",
+      "meaning_es": "deseo de que algo suceda",
+      "example": "Nunca perdió la *** de encontrar una solución."
+    },
+    {
+      "term": "la timidez",
+      "type": "Noun",
+      "meaning_tr": "utangaçlık",
+      "meaning_en": "shyness",
+      "meaning_uk": "сором'язливість",
+      "meaning_es": "dificultad para relacionarse",
+      "example": "Superó su *** gracias a los talleres de teatro."
+    },
+    {
+      "term": "la envidia",
+      "type": "Noun",
+      "meaning_tr": "kıskançlık",
+      "meaning_en": "envy",
+      "meaning_uk": "заздрість",
+      "meaning_es": "deseo de lo que otro tiene",
+      "example": "La *** no le permite disfrutar de sus logros."
+    },
+    {
+      "term": "la tristeza",
+      "type": "Noun",
+      "meaning_tr": "üzüntü",
+      "meaning_en": "sadness",
+      "meaning_uk": "смуток",
+      "meaning_es": "sentimiento de dolor emocional",
+      "example": "Es normal sentir *** en momentos de pérdida."
+    },
+    {
+      "term": "la alegría",
+      "type": "Noun",
+      "meaning_tr": "neşe",
+      "meaning_en": "joy",
+      "meaning_uk": "радість",
+      "meaning_es": "sentimiento de placer",
+      "example": "Su risa siempre nos trae mucha ***."
+    },
+    {
+      "term": "la soledad",
+      "type": "Noun",
+      "meaning_tr": "yalnızlık",
+      "meaning_en": "loneliness",
+      "meaning_uk": "самотність",
+      "meaning_es": "estado de estar solo",
+      "example": "A veces la *** ayuda a encontrarse a uno mismo."
+    },
+    {
+      "term": "el pánico",
+      "type": "Noun",
+      "meaning_tr": "panik",
+      "meaning_en": "panic",
+      "meaning_uk": "паніка",
+      "meaning_es": "miedo intenso repentino",
+      "example": "Sufrió un ataque de *** antes de la presentación."
+    },
+    {
+      "term": "la compasión",
+      "type": "Noun",
+      "meaning_tr": "şefkat",
+      "meaning_en": "compassion",
+      "meaning_uk": "співчуття",
+      "meaning_es": "sentimiento de pena por el dolor ajeno",
+      "example": "Tratar a los demás con *** mejora el mundo."
+    }
+  ]
+}

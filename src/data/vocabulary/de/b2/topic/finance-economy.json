@@ -1,0 +1,411 @@
+{
+  "title": "Finanzen & Wirtschaft (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Umsatz",
+      "type": "Noun",
+      "meaning_tr": "ciro",
+      "meaning_en": "revenue",
+      "meaning_uk": "товарообіг",
+      "meaning_es": "volumen de ventas",
+      "example": "Der *** unseres Unternehmens ist im letzten Quartal deutlich gestiegen."
+    },
+    {
+      "term": "die Rendite",
+      "type": "Noun",
+      "meaning_tr": "getiri",
+      "meaning_en": "yield",
+      "meaning_uk": "дохідність",
+      "meaning_es": "rendimiento",
+      "example": "Die *** dieser Investition liegt bei fünf Prozent pro Jahr."
+    },
+    {
+      "term": "die Inflation",
+      "type": "Noun",
+      "meaning_tr": "enflasyon",
+      "meaning_en": "inflation",
+      "meaning_uk": "інфляція",
+      "meaning_es": "inflación",
+      "example": "Die hohe *** belastet derzeit die Kaufkraft der Verbraucher."
+    },
+    {
+      "term": "die Aktie",
+      "type": "Noun",
+      "meaning_tr": "hisse senedi",
+      "meaning_en": "share",
+      "meaning_uk": "акція",
+      "meaning_es": "acción",
+      "example": "Er hat sein ganzes Erspartes in eine einzige *** investiert."
+    },
+    {
+      "term": "investieren",
+      "type": "Verb",
+      "meaning_tr": "yatırım yapmak",
+      "meaning_en": "to invest",
+      "meaning_uk": "інвестувати",
+      "meaning_es": "invertir",
+      "example": "Es ist wichtig, in nachhaltige Technologien zu ***."
+    },
+    {
+      "term": "das Bruttoinlandsprodukt",
+      "type": "Noun",
+      "meaning_tr": "gayri safi yurtiçi hasıla",
+      "meaning_en": "gross domestic product",
+      "meaning_uk": "валовий внутрішній продукт",
+      "meaning_es": "producto interior bruto",
+      "example": "Das *** ist ein wichtiger Indikator für die wirtschaftliche Leistung eines Landes."
+    },
+    {
+      "term": "profitabel",
+      "type": "Adjective",
+      "meaning_tr": "kârlı",
+      "meaning_en": "profitable",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "rentable",
+      "example": "Das neue Geschäftsmodell ist äußerst ***."
+    },
+    {
+      "term": "die Steuer",
+      "type": "Noun",
+      "meaning_tr": "vergi",
+      "meaning_en": "tax",
+      "meaning_uk": "податок",
+      "meaning_es": "impuesto",
+      "example": "Jeder Bürger muss seinen Teil an *** zahlen."
+    },
+    {
+      "term": "die Bilanz",
+      "type": "Noun",
+      "meaning_tr": "bilanço",
+      "meaning_en": "balance sheet",
+      "meaning_uk": "баланс",
+      "meaning_es": "balance",
+      "example": "Die *** des Unternehmens zeigt eine solide finanzielle Lage."
+    },
+    {
+      "term": "der Gewinn",
+      "type": "Noun",
+      "meaning_tr": "kâr",
+      "meaning_en": "profit",
+      "meaning_uk": "прибуток",
+      "meaning_es": "beneficio",
+      "example": "Der *** wurde nach Abzug aller Kosten berechnet."
+    },
+    {
+      "term": "die Rezession",
+      "type": "Noun",
+      "meaning_tr": "durgunluk",
+      "meaning_en": "recession",
+      "meaning_uk": "рецесія",
+      "meaning_es": "recesión",
+      "example": "Viele Experten warnen vor einer drohenden ***."
+    },
+    {
+      "term": "der Kredit",
+      "type": "Noun",
+      "meaning_tr": "kredi",
+      "meaning_en": "loan",
+      "meaning_uk": "кредит",
+      "meaning_es": "crédito",
+      "example": "Die Bank hat ihm einen *** für den Hauskauf gewährt."
+    },
+    {
+      "term": "die Zinsen",
+      "type": "Noun",
+      "meaning_tr": "faiz",
+      "meaning_en": "interest",
+      "meaning_uk": "відсотки",
+      "meaning_es": "intereses",
+      "example": "Die *** für Baukredite sind in letzter Zeit gestiegen."
+    },
+    {
+      "term": "das Kapital",
+      "type": "Noun",
+      "meaning_tr": "sermaye",
+      "meaning_en": "capital",
+      "meaning_uk": "капітал",
+      "meaning_es": "capital",
+      "example": "Das notwendige *** für das Start-up wurde von Investoren bereitgestellt."
+    },
+    {
+      "term": "der Wettbewerb",
+      "type": "Noun",
+      "meaning_tr": "rekabet",
+      "meaning_en": "competition",
+      "meaning_uk": "конкуренція",
+      "meaning_es": "competencia",
+      "example": "Der internationale *** zwingt die Firmen zu Innovationen."
+    },
+    {
+      "term": "insolvent",
+      "type": "Adjective",
+      "meaning_tr": "iflas etmiş",
+      "meaning_en": "insolvent",
+      "meaning_uk": "неплатоспроможний",
+      "meaning_es": "insolvente",
+      "example": "Nach mehreren schlechten Jahren ist die Firma nun ***."
+    },
+    {
+      "term": "die Währung",
+      "type": "Noun",
+      "meaning_tr": "para birimi",
+      "meaning_en": "currency",
+      "meaning_uk": "валюта",
+      "meaning_es": "moneda",
+      "example": "Der Euro ist die offizielle *** in vielen europäischen Ländern."
+    },
+    {
+      "term": "der Marktanteil",
+      "type": "Noun",
+      "meaning_tr": "pazar payı",
+      "meaning_en": "market share",
+      "meaning_uk": "частка ринку",
+      "meaning_es": "cuota de mercado",
+      "example": "Das Ziel ist es, den *** in den nächsten zwei Jahren zu verdoppeln."
+    },
+    {
+      "term": "die Aktie",
+      "type": "Noun",
+      "meaning_tr": "hisse senedi",
+      "meaning_en": "stock",
+      "meaning_uk": "акція",
+      "meaning_es": "acción",
+      "example": "Der Kurs dieser *** schwankt sehr stark."
+    },
+    {
+      "term": "die Nachfrage",
+      "type": "Noun",
+      "meaning_tr": "talep",
+      "meaning_en": "demand",
+      "meaning_uk": "попит",
+      "meaning_es": "demanda",
+      "example": "Die *** nach Elektroautos ist in diesem Jahr stark gestiegen."
+    },
+    {
+      "term": "das Angebot",
+      "type": "Noun",
+      "meaning_tr": "arz",
+      "meaning_en": "supply",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "oferta",
+      "example": "Wenn das *** sinkt, steigen meist die Preise."
+    },
+    {
+      "term": "konsolidieren",
+      "type": "Verb",
+      "meaning_tr": "pekiştirmek",
+      "meaning_en": "to consolidate",
+      "meaning_uk": "консолідувати",
+      "meaning_es": "consolidar",
+      "example": "Das Unternehmen muss seine Finanzen dringend ***."
+    },
+    {
+      "term": "die Subvention",
+      "type": "Noun",
+      "meaning_tr": "destekleme",
+      "meaning_en": "subsidy",
+      "meaning_uk": "субсидія",
+      "meaning_es": "subvención",
+      "example": "Die Landwirtschaft erhält hohe *** vom Staat."
+    },
+    {
+      "term": "der Export",
+      "type": "Noun",
+      "meaning_tr": "ihracat",
+      "meaning_en": "export",
+      "meaning_uk": "експорт",
+      "meaning_es": "exportación",
+      "example": "Deutschland ist bekannt für seinen starken *** von Maschinen."
+    },
+    {
+      "term": "der Import",
+      "type": "Noun",
+      "meaning_tr": "ithalat",
+      "meaning_en": "import",
+      "meaning_uk": "імпорт",
+      "meaning_es": "importación",
+      "example": "Der *** von Rohstoffen ist für die Industrie lebenswichtig."
+    },
+    {
+      "term": "die Börse",
+      "type": "Noun",
+      "meaning_tr": "borsa",
+      "meaning_en": "stock exchange",
+      "meaning_uk": "фондова біржа",
+      "meaning_es": "bolsa",
+      "example": "Die Kurse an der *** sind heute deutlich eingebrochen."
+    },
+    {
+      "term": "das Budget",
+      "type": "Noun",
+      "meaning_tr": "bütçe",
+      "meaning_en": "budget",
+      "meaning_uk": "бюджет",
+      "meaning_es": "presupuesto",
+      "example": "Wir müssen mit unserem begrenzten *** sparsam umgehen."
+    },
+    {
+      "term": "die Fusion",
+      "type": "Noun",
+      "meaning_tr": "birleşme",
+      "meaning_en": "merger",
+      "meaning_uk": "злиття",
+      "meaning_es": "fusión",
+      "example": "Nach der *** der beiden Konzerne wurden viele Stellen gestrichen."
+    },
+    {
+      "term": "der Gläubiger",
+      "type": "Noun",
+      "meaning_tr": "alacaklı",
+      "meaning_en": "creditor",
+      "meaning_uk": "кредитор",
+      "meaning_es": "acreedor",
+      "example": "Der *** fordert die sofortige Rückzahlung der Schulden."
+    },
+    {
+      "term": "die Verbindlichkeit",
+      "type": "Noun",
+      "meaning_tr": "yükümlülük",
+      "meaning_en": "liability",
+      "meaning_uk": "зобов'язання",
+      "meaning_es": "obligación",
+      "example": "Das Unternehmen hat hohe *** gegenüber seinen Lieferanten."
+    },
+    {
+      "term": "die Aktiva",
+      "type": "Noun",
+      "meaning_tr": "varlıklar",
+      "meaning_en": "assets",
+      "meaning_uk": "активи",
+      "meaning_es": "activos",
+      "example": "Die *** des Unternehmens umfassen Immobilien und Maschinen."
+    },
+    {
+      "term": "der Kurs",
+      "type": "Noun",
+      "meaning_tr": "kur",
+      "meaning_en": "rate",
+      "meaning_uk": "курс",
+      "meaning_es": "tipo de cambio",
+      "example": "Der aktuelle *** des Dollars ist sehr stabil."
+    },
+    {
+      "term": "die Liquidität",
+      "type": "Noun",
+      "meaning_tr": "likidite",
+      "meaning_en": "liquidity",
+      "meaning_uk": "ліквідність",
+      "meaning_es": "liquidez",
+      "example": "Eine gute *** ist für jede Firma überlebenswichtig."
+    },
+    {
+      "term": "die Ausgaben",
+      "type": "Noun",
+      "meaning_tr": "harcamalar",
+      "meaning_en": "expenses",
+      "meaning_uk": "витрати",
+      "meaning_es": "gastos",
+      "example": "Die *** für das Projekt haben unsere Erwartungen übertroffen."
+    },
+    {
+      "term": "die Einnahmen",
+      "type": "Noun",
+      "meaning_tr": "gelirler",
+      "meaning_en": "income",
+      "meaning_uk": "доходи",
+      "meaning_es": "ingresos",
+      "example": "Die *** aus dem Verkauf decken gerade die laufenden Kosten."
+    },
+    {
+      "term": "wirtschaftlich",
+      "type": "Adjective",
+      "meaning_tr": "ekonomik",
+      "meaning_en": "economic",
+      "meaning_uk": "економічний",
+      "meaning_es": "económico",
+      "example": "Die aktuelle *** Lage ist sehr angespannt."
+    },
+    {
+      "term": "die Akquisition",
+      "type": "Noun",
+      "meaning_tr": "satın alma",
+      "meaning_en": "acquisition",
+      "meaning_uk": "придбання",
+      "meaning_es": "adquisición",
+      "example": "Die *** eines kleineren Konkurrenten war ein strategischer Erfolg."
+    },
+    {
+      "term": "der Rückgang",
+      "type": "Noun",
+      "meaning_tr": "düşüş",
+      "meaning_en": "decline",
+      "meaning_uk": "зниження",
+      "meaning_es": "disminución",
+      "example": "Wir beobachten einen deutlichen *** bei den Verkaufszahlen."
+    },
+    {
+      "term": "die Prognose",
+      "type": "Noun",
+      "meaning_tr": "tahmin",
+      "meaning_en": "forecast",
+      "meaning_uk": "прогноз",
+      "meaning_es": "pronóstico",
+      "example": "Die wirtschaftliche *** für das nächste Jahr ist positiv."
+    },
+    {
+      "term": "der Konzern",
+      "type": "Noun",
+      "meaning_tr": "holding",
+      "meaning_en": "corporation",
+      "meaning_uk": "концерн",
+      "meaning_es": "corporación",
+      "example": "Der große *** hat weltweit zahlreiche Tochtergesellschaften."
+    },
+    {
+      "term": "die Dividende",
+      "type": "Noun",
+      "meaning_tr": "kâr payı",
+      "meaning_en": "dividend",
+      "meaning_uk": "дивіденд",
+      "meaning_es": "dividendo",
+      "example": "Die Aktionäre freuen sich über eine hohe ***."
+    },
+    {
+      "term": "die Sparquote",
+      "type": "Noun",
+      "meaning_tr": "tasarruf oranı",
+      "meaning_en": "savings rate",
+      "meaning_uk": "норма заощаджень",
+      "meaning_es": "tasa de ahorro",
+      "example": "In Krisenzeiten steigt meist die *** der Haushalte."
+    },
+    {
+      "term": "der Betrieb",
+      "type": "Noun",
+      "meaning_tr": "işletme",
+      "meaning_en": "business/operation",
+      "meaning_uk": "підприємство",
+      "meaning_es": "empresa",
+      "example": "Der *** läuft seit Jahrzehnten sehr erfolgreich."
+    },
+    {
+      "term": "die Transaktion",
+      "type": "Noun",
+      "meaning_tr": "işlem",
+      "meaning_en": "transaction",
+      "meaning_uk": "транзакція",
+      "meaning_es": "transacción",
+      "example": "Jede finanzielle *** wird genau dokumentiert."
+    },
+    {
+      "term": "die Marktwirtschaft",
+      "type": "Noun",
+      "meaning_tr": "piyasa ekonomisi",
+      "meaning_en": "market economy",
+      "meaning_uk": "ринкова економіка",
+      "meaning_es": "economía de mercado",
+      "example": "Deutschland basiert auf einer sozialen ***."
+    }
+  ]
+}

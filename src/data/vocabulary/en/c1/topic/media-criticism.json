@@ -1,0 +1,546 @@
+{
+  "title": "Media Criticism (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the paradigm",
+      "type": "Noun",
+      "example": "The current media *** shifts every decade due to technological advancements.",
+      "meaning_tr": "model/örnek",
+      "meaning_en": "a typical example or pattern of something",
+      "meaning_uk": "парадигма",
+      "meaning_es": "paradigma"
+    },
+    {
+      "term": "to sensationalize",
+      "type": "Verb",
+      "example": "Tabloids often *** minor events to increase their circulation numbers.",
+      "meaning_tr": "sansasyonel hale getirmek",
+      "meaning_en": "to present information in a way that provokes public interest",
+      "meaning_uk": "сенсаційно подавати",
+      "meaning_es": "sensacionalizar"
+    },
+    {
+      "term": "the editorial bias",
+      "type": "Noun",
+      "example": "Readers must be aware of the *** inherent in this newspaper's political stance.",
+      "meaning_tr": "editoryal önyargı",
+      "meaning_en": "a prejudice in the selection and presentation of news",
+      "meaning_uk": "редакційна упередженість",
+      "meaning_es": "sesgo editorial"
+    },
+    {
+      "term": "the echo chamber",
+      "type": "Noun",
+      "example": "Social media algorithms often trap users in an *** of their own opinions.",
+      "meaning_tr": "yankı odası",
+      "meaning_en": "an environment where a person only encounters information that reflects their own views",
+      "meaning_uk": "ехо-камера",
+      "meaning_es": "cámara de eco"
+    },
+    {
+      "term": "the investigative journalism",
+      "type": "Noun",
+      "example": "True *** requires months of research and verification of sources.",
+      "meaning_tr": "araştırmacı gazetecilik",
+      "meaning_en": "a form of journalism in which reporters deeply investigate a single topic",
+      "meaning_uk": "розслідувальна журналістика",
+      "meaning_es": "periodismo de investigación"
+    },
+    {
+      "term": "the hegemony",
+      "type": "Noun",
+      "example": "Critics argue that global media conglomerates maintain a cultural ***.",
+      "meaning_tr": "hegemonya",
+      "meaning_en": "leadership or dominance by one group over others",
+      "meaning_uk": "гегемонія",
+      "meaning_es": "hegemonía"
+    },
+    {
+      "term": "to scrutinize",
+      "type": "Verb",
+      "example": "We must *** the claims made by politicians during the broadcast.",
+      "meaning_tr": "incelemek",
+      "meaning_en": "to examine or inspect closely and thoroughly",
+      "meaning_uk": "ретельно досліджувати",
+      "meaning_es": "escrutar"
+    },
+    {
+      "term": "the propaganda",
+      "type": "Noun",
+      "example": "The documentary examines how wartime *** shaped public perception.",
+      "meaning_tr": "propaganda",
+      "meaning_en": "information used to promote a political cause or point of view",
+      "meaning_uk": "пропаганда",
+      "meaning_es": "propaganda"
+    },
+    {
+      "term": "the watchdog",
+      "type": "Noun",
+      "example": "The press acts as a ***, holding the government accountable for its actions.",
+      "meaning_tr": "denetçi",
+      "meaning_en": "a person or group that monitors the practices of companies or government",
+      "meaning_uk": "сторожовий пес",
+      "meaning_es": "perro guardián"
+    },
+    {
+      "term": "the misinformation",
+      "type": "Noun",
+      "example": "The rapid spread of *** online has become a significant societal challenge.",
+      "meaning_tr": "yanlış bilgi",
+      "meaning_en": "false or inaccurate information, especially that which is intended to deceive",
+      "meaning_uk": "дезінформація",
+      "meaning_es": "desinformación"
+    },
+    {
+      "term": "the infotainment",
+      "type": "Noun",
+      "example": "Critics argue that news programs have turned into pure *** to boost ratings.",
+      "meaning_tr": "eğlence haberleri",
+      "meaning_en": "broadcast material that is intended both to entertain and to inform",
+      "meaning_uk": "інфотейнмент",
+      "meaning_es": "infotenimiento"
+    },
+    {
+      "term": "the mainstream",
+      "type": "Noun",
+      "example": "Alternative media often challenges the narratives presented by the ***.",
+      "meaning_tr": "ana akım",
+      "meaning_en": "the ideas, attitudes, or activities that are regarded as normal or conventional",
+      "meaning_uk": "мейнстрім",
+      "meaning_es": "corriente principal"
+    },
+    {
+      "term": "to distort",
+      "type": "Verb",
+      "example": "The headlines tend to *** the original meaning of the interview.",
+      "meaning_tr": "çarpıtmak",
+      "meaning_en": "to pull or twist out of shape; to give a misleading account",
+      "meaning_uk": "спотворювати",
+      "meaning_es": "distorsionar"
+    },
+    {
+      "term": "the credibility",
+      "type": "Noun",
+      "example": "The newspaper lost much of its *** after publishing unverified reports.",
+      "meaning_tr": "güvenilirlik",
+      "meaning_en": "the quality of being trusted and believed in",
+      "meaning_uk": "достовірність",
+      "meaning_es": "credibilidad"
+    },
+    {
+      "term": "the agenda-setting",
+      "type": "Noun",
+      "example": "Media outlets have significant power in *** regarding public policy.",
+      "meaning_tr": "gündem belirleme",
+      "meaning_en": "the ability of the news media to influence the importance placed on the topics of the public agenda",
+      "meaning_uk": "формування порядку денного",
+      "meaning_es": "establecimiento de la agenda"
+    },
+    {
+      "term": "the soundbite",
+      "type": "Noun",
+      "example": "Politicians often rely on a snappy *** to capture headlines.",
+      "meaning_tr": "kısa ve vurucu ifade",
+      "meaning_en": "a short extract from a recorded interview, chosen for its pungency",
+      "meaning_uk": "коротка цитата",
+      "meaning_es": "frase hecha"
+    },
+    {
+      "term": "the clickbait",
+      "type": "Noun",
+      "example": "The website relies on *** to generate ad revenue.",
+      "meaning_tr": "tık tuzağı",
+      "meaning_en": "content whose main purpose is to attract attention and encourage clicks",
+      "meaning_uk": "клікбейт",
+      "meaning_es": "cebo de clics"
+    },
+    {
+      "term": "the discourse",
+      "type": "Noun",
+      "example": "The current public *** on climate change is highly polarized.",
+      "meaning_tr": "söylem",
+      "meaning_en": "written or spoken communication or debate",
+      "meaning_uk": "дискурс",
+      "meaning_es": "discurso"
+    },
+    {
+      "term": "the objectivity",
+      "type": "Noun",
+      "example": "Journalists strive for ***, but personal experience often influences their work.",
+      "meaning_tr": "nesnellik",
+      "meaning_en": "the quality of being neutral and unbiased",
+      "meaning_uk": "об'єктивність",
+      "meaning_es": "objetividad"
+    },
+    {
+      "term": "to manipulate",
+      "type": "Verb",
+      "example": "Sophisticated algorithms can *** user behavior on social platforms.",
+      "meaning_tr": "manipüle etmek",
+      "meaning_en": "to control or influence a person or situation cleverly or unfairly",
+      "meaning_uk": "маніпулювати",
+      "meaning_es": "manipular"
+    },
+    {
+      "term": "the framing",
+      "type": "Noun",
+      "example": "The *** of the news story emphasizes economic loss rather than human impact.",
+      "meaning_tr": "çerçeveleme",
+      "meaning_en": "the way information is presented to influence how it is interpreted",
+      "meaning_uk": "фреймінг",
+      "meaning_es": "encuadre"
+    },
+    {
+      "term": "the pundit",
+      "type": "Noun",
+      "example": "A political *** appeared on the show to analyze the election results.",
+      "meaning_tr": "uzman/yorumcu",
+      "meaning_en": "an expert in a particular subject who is frequently called on to give opinions in public",
+      "meaning_uk": "експерт",
+      "meaning_es": "experto/comentarista"
+    },
+    {
+      "term": "the sensationalism",
+      "type": "Noun",
+      "example": "The tabloid was criticized for its gross *** of a tragic accident.",
+      "meaning_tr": "sansasyonellik",
+      "meaning_en": "the use of exciting or shocking stories at the expense of accuracy",
+      "meaning_uk": "сенсаційність",
+      "meaning_es": "sensacionalismo"
+    },
+    {
+      "term": "the partisan",
+      "type": "Adjective",
+      "example": "The report was criticized for being highly *** and lacking balance.",
+      "meaning_tr": "taraflı",
+      "meaning_en": "prejudiced in favor of a particular cause",
+      "meaning_uk": "упереджений",
+      "meaning_es": "partidista"
+    },
+    {
+      "term": "the investigative",
+      "type": "Adjective",
+      "example": "The *** team spent months uncovering the corporate scandal.",
+      "meaning_tr": "araştırmacı",
+      "meaning_en": "intended to examine a subject in detail",
+      "meaning_uk": "розслідувальний",
+      "meaning_es": "investigativo"
+    },
+    {
+      "term": "the sensational",
+      "type": "Adjective",
+      "example": "The magazine published a *** cover story to boost sales.",
+      "meaning_tr": "sansasyonel",
+      "meaning_en": "causing great public interest and excitement",
+      "meaning_uk": "сенсаційний",
+      "meaning_es": "sensacional"
+    },
+    {
+      "term": "the pervasive",
+      "type": "Adjective",
+      "example": "The *** influence of advertising is evident in our daily consumption habits.",
+      "meaning_tr": "yaygın/nüfuz edici",
+      "meaning_en": "spreading widely throughout an area or a group of people",
+      "meaning_uk": "всеохопний",
+      "meaning_es": "omnipresente"
+    },
+    {
+      "term": "the objective",
+      "type": "Adjective",
+      "example": "The news report should be *** and present both sides of the argument.",
+      "meaning_tr": "nesnel",
+      "meaning_en": "not influenced by personal feelings or opinions",
+      "meaning_uk": "об'єктивний",
+      "meaning_es": "objetivo"
+    },
+    {
+      "term": "the critical",
+      "type": "Adjective",
+      "example": "We need a *** approach to analyzing online news sources.",
+      "meaning_tr": "eleştirel",
+      "meaning_en": "expressing or involving analysis of the merits and faults of a work",
+      "meaning_uk": "критичний",
+      "meaning_es": "crítico"
+    },
+    {
+      "term": "the transparent",
+      "type": "Adjective",
+      "example": "The organization promised to be more *** regarding its funding sources.",
+      "meaning_tr": "şeffaf",
+      "meaning_en": "open and honest; easy to perceive",
+      "meaning_uk": "прозорий",
+      "meaning_es": "transparente"
+    },
+    {
+      "term": "the nuanced",
+      "type": "Adjective",
+      "example": "The article provided a *** view of the complex geopolitical situation.",
+      "meaning_tr": "nüanslı/ayrıntılı",
+      "meaning_en": "characterized by subtle shades of meaning or expression",
+      "meaning_uk": "тонкий/нюансований",
+      "meaning_es": "matizado"
+    },
+    {
+      "term": "the editorial",
+      "type": "Adjective",
+      "example": "The *** board decided to endorse the candidate.",
+      "meaning_tr": "editoryal",
+      "meaning_en": "relating to the editing of a publication",
+      "meaning_uk": "редакційний",
+      "meaning_es": "editorial"
+    },
+    {
+      "term": "the biased",
+      "type": "Adjective",
+      "example": "The documentary felt *** because it only interviewed one side of the conflict.",
+      "meaning_tr": "önyargılı/taraflı",
+      "meaning_en": "unfairly prejudiced for or against someone or something",
+      "meaning_uk": "упереджений",
+      "meaning_es": "sesgado"
+    },
+    {
+      "term": "the verified",
+      "type": "Adjective",
+      "example": "Always check for *** information before sharing news on social media.",
+      "meaning_tr": "doğrulanmış",
+      "meaning_en": "demonstrated to be true or accurate",
+      "meaning_uk": "перевірений",
+      "meaning_es": "verificado"
+    },
+    {
+      "term": "the superficial",
+      "type": "Adjective",
+      "example": "The news coverage was too *** to explain the underlying causes of the crisis.",
+      "meaning_tr": "yüzeysel",
+      "meaning_en": "lacking depth or substance",
+      "meaning_uk": "поверховий",
+      "meaning_es": "superficial"
+    },
+    {
+      "term": "the manipulative",
+      "type": "Adjective",
+      "example": "Some marketing techniques are highly *** and target vulnerable audiences.",
+      "meaning_tr": "manipülatif",
+      "meaning_en": "exercising unscrupulous control or influence",
+      "meaning_uk": "маніпулятивний",
+      "meaning_es": "manipulador"
+    },
+    {
+      "term": "the controversial",
+      "type": "Adjective",
+      "example": "The network aired a *** interview that sparked massive public debate.",
+      "meaning_tr": "tartışmalı",
+      "meaning_en": "giving rise to public disagreement",
+      "meaning_uk": "суперечливий",
+      "meaning_es": "controvertido"
+    },
+    {
+      "term": "the independent",
+      "type": "Adjective",
+      "example": "We support *** media outlets that are not owned by large corporations.",
+      "meaning_tr": "bağımsız",
+      "meaning_en": "free from outside control",
+      "meaning_uk": "незалежний",
+      "meaning_es": "independiente"
+    },
+    {
+      "term": "the fabricated",
+      "type": "Adjective",
+      "example": "The report was based on *** evidence designed to mislead the public.",
+      "meaning_tr": "uydurma",
+      "meaning_en": "invented; typically deceitful",
+      "meaning_uk": "вигаданий",
+      "meaning_es": "fabricado"
+    },
+    {
+      "term": "the widespread",
+      "type": "Adjective",
+      "example": "There is *** concern about how data is used by tech companies.",
+      "meaning_tr": "yaygın",
+      "meaning_en": "found or distributed over a large area or number of people",
+      "meaning_uk": "широко розповсюджений",
+      "meaning_es": "generalizado"
+    },
+    {
+      "term": "the critically",
+      "type": "Adverb",
+      "example": "We must think *** about the information presented in advertisements.",
+      "meaning_tr": "eleştirel bir şekilde",
+      "meaning_en": "in a way that involves analysis and judgment",
+      "meaning_uk": "критично",
+      "meaning_es": "críticamente"
+    },
+    {
+      "term": "the objectively",
+      "type": "Adverb",
+      "example": "The journalist tried to report the events *** without inserting personal bias.",
+      "meaning_tr": "nesnel olarak",
+      "meaning_en": "in a way that is not influenced by personal feelings",
+      "meaning_uk": "об'єктивно",
+      "meaning_es": "objetivamente"
+    },
+    {
+      "term": "the allegedly",
+      "type": "Adverb",
+      "example": "The company *** suppressed information about the safety risks.",
+      "meaning_tr": "iddiaya göre",
+      "meaning_en": "used to convey that something is claimed to be the case",
+      "meaning_uk": "нібито",
+      "meaning_es": "supuestamente"
+    },
+    {
+      "term": "the intentionally",
+      "type": "Adverb",
+      "example": "The headline was *** misleading to attract more readers.",
+      "meaning_tr": "kasten",
+      "meaning_en": "on purpose; deliberately",
+      "meaning_uk": "навмисно",
+      "meaning_es": "intencionalmente"
+    },
+    {
+      "term": "the inherently",
+      "type": "Adverb",
+      "example": "The media is *** linked to the political structure of the country.",
+      "meaning_tr": "doğası gereği",
+      "meaning_en": "in a way that exists as a permanent attribute",
+      "meaning_uk": "за своєю суттю",
+      "meaning_es": "inherentemente"
+    },
+    {
+      "term": "the widely",
+      "type": "Adverb",
+      "example": "The documentary was *** discussed across all social media platforms.",
+      "meaning_tr": "geniş çapta",
+      "meaning_en": "by a large number of people",
+      "meaning_uk": "широко",
+      "meaning_es": "ampliamente"
+    },
+    {
+      "term": "the transparently",
+      "type": "Adverb",
+      "example": "The policy was *** designed to favor the owner's interests.",
+      "meaning_tr": "açıkça/şeffaf bir şekilde",
+      "meaning_en": "in an open and honest way",
+      "meaning_uk": "прозоро",
+      "meaning_es": "transparentemente"
+    },
+    {
+      "term": "the unfairly",
+      "type": "Adverb",
+      "example": "The politician was treated *** by the interviewer during the live broadcast.",
+      "meaning_tr": "haksız yere",
+      "meaning_en": "in a way that lacks justice or balance",
+      "meaning_uk": "несправедливо",
+      "meaning_es": "injustamente"
+    },
+    {
+      "term": "the potentially",
+      "type": "Adverb",
+      "example": "The article is *** harmful to the reputation of the local community.",
+      "meaning_tr": "potansiyel olarak",
+      "meaning_en": "with the possibility of becoming something",
+      "meaning_uk": "потенційно",
+      "meaning_es": "potencialmente"
+    },
+    {
+      "term": "the constantly",
+      "type": "Adverb",
+      "example": "The news cycle is *** shifting, making it hard to track long-term issues.",
+      "meaning_tr": "sürekli",
+      "meaning_en": "continuously over a period of time",
+      "meaning_uk": "постійно",
+      "meaning_es": "constantemente"
+    },
+    {
+      "term": "the whereas",
+      "type": "Conjunction",
+      "example": "The print media focuses on deep analysis, *** social media prioritizes speed.",
+      "meaning_tr": "oysa/iken",
+      "meaning_en": "in contrast or comparison with the fact that",
+      "meaning_uk": "тоді як",
+      "meaning_es": "mientras que"
+    },
+    {
+      "term": "the although",
+      "type": "Conjunction",
+      "example": "*** the journalist had good intentions, the report was factually incorrect.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "in spite of the fact that",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "the because",
+      "type": "Conjunction",
+      "example": "People trust this site *** it has a history of accuracy.",
+      "meaning_tr": "çünkü",
+      "meaning_en": "for the reason that",
+      "meaning_uk": "тому що",
+      "meaning_es": "porque"
+    },
+    {
+      "term": "the provided",
+      "type": "Conjunction",
+      "example": "*** you verify the sources, the news story can be considered reliable.",
+      "meaning_tr": "şartıyla",
+      "meaning_en": "on the condition that",
+      "meaning_uk": "за умови, що",
+      "meaning_es": "siempre que"
+    },
+    {
+      "term": "the despite",
+      "type": "Preposition",
+      "example": "*** the overwhelming evidence, the network refused to apologize.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "without being affected by",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "a pesar de"
+    },
+    {
+      "term": "the regarding",
+      "type": "Preposition",
+      "example": "There is a lack of consensus *** the impact of television on children.",
+      "meaning_tr": "hakkında",
+      "meaning_en": "about; concerning",
+      "meaning_uk": "щодо",
+      "meaning_es": "respecto a"
+    },
+    {
+      "term": "the through",
+      "type": "Preposition",
+      "example": "We learn about world events *** various media channels.",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "через",
+      "meaning_es": "a través de"
+    },
+    {
+      "term": "the besides",
+      "type": "Preposition",
+      "example": "The report mentioned several facts *** the main argument.",
+      "meaning_tr": "yanı sıra",
+      "meaning_en": "in addition to",
+      "meaning_uk": "крім того",
+      "meaning_es": "además de"
+    },
+    {
+      "term": "the despite",
+      "type": "Preposition",
+      "example": "*** the changes in ownership, the paper maintained its editorial independence.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "in spite of",
+      "meaning_uk": "попри",
+      "meaning_es": "a pesar de"
+    },
+    {
+      "term": "the concerning",
+      "type": "Preposition",
+      "example": "The article raised many questions *** the new media laws.",
+      "meaning_tr": "ile ilgili",
+      "meaning_en": "about; regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "relativo a"
+    }
+  ]
+}

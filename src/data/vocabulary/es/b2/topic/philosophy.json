@@ -1,0 +1,411 @@
+{
+  "title": "Filosofia y Valores (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la ética",
+      "type": "Noun",
+      "meaning_tr": "etik",
+      "meaning_en": "ethics",
+      "meaning_uk": "етика",
+      "meaning_es": "disciplina filosófica que estudia el bien y el mal",
+      "example": "*** es fundamental para la toma de decisiones profesionales."
+    },
+    {
+      "term": "la moral",
+      "type": "Noun",
+      "meaning_tr": "ahlak",
+      "meaning_en": "morality",
+      "meaning_uk": "мораль",
+      "meaning_es": "conjunto de costumbres y normas de un grupo",
+      "example": "Cada cultura tiene su propia *** respecto a la vida social."
+    },
+    {
+      "term": "reflexionar",
+      "type": "Verb",
+      "meaning_tr": "düşünmek",
+      "meaning_en": "to reflect",
+      "meaning_uk": "роздумувати",
+      "meaning_es": "pensar detenidamente en algo",
+      "example": "Es importante *** sobre nuestras acciones antes de actuar."
+    },
+    {
+      "term": "el valor",
+      "type": "Noun",
+      "meaning_tr": "değer",
+      "meaning_en": "value",
+      "meaning_uk": "цінність",
+      "meaning_es": "cualidad o principio que impulsa a actuar",
+      "example": "La honestidad es un *** esencial en nuestra familia."
+    },
+    {
+      "term": "la virtud",
+      "type": "Noun",
+      "meaning_tr": "erdem",
+      "meaning_en": "virtue",
+      "meaning_uk": "чеснота",
+      "meaning_es": "disposición habitual a hacer el bien",
+      "example": "La paciencia es una *** muy difícil de cultivar."
+    },
+    {
+      "term": "justo",
+      "type": "Adjective",
+      "meaning_tr": "adil",
+      "meaning_en": "fair",
+      "meaning_uk": "справедливий",
+      "meaning_es": "que actúa conforme a la justicia",
+      "example": "Debemos buscar siempre un trato *** para todos los trabajadores."
+    },
+    {
+      "term": "el dilema",
+      "type": "Noun",
+      "meaning_tr": "ikilem",
+      "meaning_en": "dilemma",
+      "meaning_uk": "дилема",
+      "meaning_es": "situación difícil entre dos opciones",
+      "example": "Se enfrentó a un *** moral muy complicado en su trabajo."
+    },
+    {
+      "term": "cuestionar",
+      "type": "Verb",
+      "meaning_tr": "sorgulamak",
+      "meaning_en": "to question",
+      "meaning_uk": "ставити під сумнів",
+      "meaning_es": "poner en duda algo",
+      "example": "No debemos tener miedo a *** las normas establecidas."
+    },
+    {
+      "term": "la responsabilidad",
+      "type": "Noun",
+      "meaning_tr": "sorumluluk",
+      "meaning_en": "responsibility",
+      "meaning_uk": "відповідальність",
+      "meaning_es": "capacidad de asumir las consecuencias de los actos",
+      "example": "La *** social es necesaria para mejorar nuestra comunidad."
+    },
+    {
+      "term": "la libertad",
+      "type": "Noun",
+      "meaning_tr": "özgürlük",
+      "meaning_en": "freedom",
+      "meaning_uk": "свобода",
+      "meaning_es": "facultad de obrar según la propia voluntad",
+      "example": "La *** de expresión es un derecho fundamental."
+    },
+    {
+      "term": "el prejuicio",
+      "type": "Noun",
+      "meaning_tr": "önyargı",
+      "meaning_en": "prejudice",
+      "meaning_uk": "упередження",
+      "meaning_es": "opinión previa y desfavorable",
+      "example": "Debemos eliminar cualquier *** para convivir en paz."
+    },
+    {
+      "term": "la empatía",
+      "type": "Noun",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "capacidad de ponerse en el lugar del otro",
+      "example": "La *** nos ayuda a comprender mejor a los demás."
+    },
+    {
+      "term": "la sabiduría",
+      "type": "Noun",
+      "meaning_tr": "bilgelik",
+      "meaning_en": "wisdom",
+      "meaning_uk": "мудрість",
+      "meaning_es": "conocimiento profundo y prudencia",
+      "example": "Con los años, uno adquiere mayor *** sobre la vida."
+    },
+    {
+      "term": "analizar",
+      "type": "Verb",
+      "meaning_tr": "analiz etmek",
+      "meaning_en": "to analyze",
+      "meaning_uk": "аналізувати",
+      "meaning_es": "examinar detalladamente algo",
+      "example": "Es necesario *** las causas del problema con calma."
+    },
+    {
+      "term": "la integridad",
+      "type": "Noun",
+      "meaning_tr": "dürüstlük",
+      "meaning_en": "integrity",
+      "meaning_uk": "чесність",
+      "meaning_es": "rectitud y honradez",
+      "example": "Su *** quedó demostrada al decir la verdad bajo presión."
+    },
+    {
+      "term": "el pensamiento",
+      "type": "Noun",
+      "meaning_tr": "düşünce",
+      "meaning_en": "thought",
+      "meaning_uk": "думка",
+      "meaning_es": "capacidad o facultad de pensar",
+      "example": "El *** crítico es fundamental en la educación moderna."
+    },
+    {
+      "term": "la conciencia",
+      "type": "Noun",
+      "meaning_tr": "vicdan",
+      "meaning_en": "conscience",
+      "meaning_uk": "совість",
+      "meaning_es": "conocimiento del bien y del mal",
+      "example": "Actuó según su propia *** a pesar de las críticas."
+    },
+    {
+      "term": "el respeto",
+      "type": "Noun",
+      "meaning_tr": "saygı",
+      "meaning_en": "respect",
+      "meaning_uk": "повага",
+      "meaning_es": "consideración hacia los demás",
+      "example": "El *** mutuo es la base de cualquier relación sana."
+    },
+    {
+      "term": "la justicia",
+      "type": "Noun",
+      "meaning_tr": "adalet",
+      "meaning_en": "justice",
+      "meaning_uk": "справедливість",
+      "meaning_es": "principio de dar a cada uno lo que merece",
+      "example": "La *** debe ser igual para todos los ciudadanos."
+    },
+    {
+      "term": "la tolerancia",
+      "type": "Noun",
+      "meaning_tr": "hoşgörü",
+      "meaning_en": "tolerance",
+      "meaning_uk": "толерантність",
+      "meaning_es": "respeto a las ideas de otros",
+      "example": "La *** es necesaria en una sociedad multicultural."
+    },
+    {
+      "term": "el propósito",
+      "type": "Noun",
+      "meaning_tr": "amaç",
+      "meaning_en": "purpose",
+      "meaning_uk": "мета",
+      "meaning_es": "objetivo o intención",
+      "example": "Cada persona debe encontrar su *** en este mundo."
+    },
+    {
+      "term": "la verdad",
+      "type": "Noun",
+      "meaning_tr": "gerçek",
+      "meaning_en": "truth",
+      "meaning_uk": "правда",
+      "meaning_es": "conformidad de las cosas con la realidad",
+      "example": "La *** siempre termina saliendo a la luz."
+    },
+    {
+      "term": "la equidad",
+      "type": "Noun",
+      "meaning_tr": "hakkaniyet",
+      "meaning_en": "equity",
+      "meaning_uk": "рівність",
+      "meaning_es": "igualdad en el trato",
+      "example": "Trabajamos para lograr mayor *** en el acceso a la salud."
+    },
+    {
+      "term": "el deber",
+      "type": "Noun",
+      "meaning_tr": "görev",
+      "meaning_en": "duty",
+      "meaning_uk": "обов'язок",
+      "meaning_es": "obligación moral",
+      "example": "Es nuestro *** proteger el medio ambiente."
+    },
+    {
+      "term": "la solidaridad",
+      "type": "Noun",
+      "meaning_tr": "dayanışma",
+      "meaning_en": "solidarity",
+      "meaning_uk": "солідарність",
+      "meaning_es": "apoyo a causas ajenas",
+      "example": "La *** entre vecinos ayuda en los momentos difíciles."
+    },
+    {
+      "term": "la humildad",
+      "type": "Noun",
+      "meaning_tr": "alçakgönüllülük",
+      "meaning_en": "humility",
+      "meaning_uk": "смиренність",
+      "meaning_es": "ausencia de soberbia",
+      "example": "La *** es una cualidad muy valorada en un líder."
+    },
+    {
+      "term": "racional",
+      "type": "Adjective",
+      "meaning_tr": "akılcı",
+      "meaning_en": "rational",
+      "meaning_uk": "раціональний",
+      "meaning_es": "conforme a la razón",
+      "example": "El ser humano es un animal *** por naturaleza."
+    },
+    {
+      "term": "cuestionable",
+      "type": "Adjective",
+      "meaning_tr": "tartışmalı",
+      "meaning_en": "questionable",
+      "meaning_uk": "сумнівний",
+      "meaning_es": "que puede ser puesto en duda",
+      "example": "Su comportamiento en esta situación es bastante ***."
+    },
+    {
+      "term": "debido a",
+      "type": "Preposition",
+      "meaning_tr": "yüzünden / nedeniyle",
+      "meaning_en": "due to",
+      "meaning_uk": "через / завдяки",
+      "meaning_es": "causa o motivo de algo",
+      "example": "*** sus valores, él decidió no participar en el fraude."
+    },
+    {
+      "term": "por lo tanto",
+      "type": "Conjunction",
+      "meaning_tr": "bu nedenle",
+      "meaning_en": "therefore",
+      "meaning_uk": "отже",
+      "meaning_es": "conector de consecuencia",
+      "example": "El filósofo duda, *** piensa."
+    },
+    {
+      "term": "la esencia",
+      "type": "Noun",
+      "meaning_tr": "öz",
+      "meaning_en": "essence",
+      "meaning_uk": "сутність",
+      "meaning_es": "naturaleza propia de algo",
+      "example": "La *** de este libro es la búsqueda de la felicidad."
+    },
+    {
+      "term": "el egoísmo",
+      "type": "Noun",
+      "meaning_tr": "bencillik",
+      "meaning_en": "selfishness",
+      "meaning_uk": "егоїзм",
+      "meaning_es": "excesivo amor a sí mismo",
+      "example": "El *** impide que podamos colaborar eficazmente."
+    },
+    {
+      "term": "la existencia",
+      "type": "Noun",
+      "meaning_tr": "varoluş",
+      "meaning_en": "existence",
+      "meaning_uk": "існування",
+      "meaning_es": "hecho de vivir o ser",
+      "example": "El sentido de la *** ha sido objeto de estudio filosófico."
+    },
+    {
+      "term": "filosofar",
+      "type": "Verb",
+      "meaning_tr": "felsefe yapmak",
+      "meaning_en": "to philosophize",
+      "meaning_uk": "філософствувати",
+      "meaning_es": "reflexionar sobre temas profundos",
+      "example": "A menudo nos gusta *** sobre el origen del universo."
+    },
+    {
+      "term": "la bondad",
+      "type": "Noun",
+      "meaning_tr": "iyilik",
+      "meaning_en": "goodness",
+      "meaning_uk": "доброта",
+      "meaning_es": "inclinación a hacer el bien",
+      "example": "La *** de su corazón se nota en sus acciones diarias."
+    },
+    {
+      "term": "objetivo",
+      "type": "Adjective",
+      "meaning_tr": "nesnel / objektif",
+      "meaning_en": "objective",
+      "meaning_uk": "об'єктивний",
+      "meaning_es": "que no se deja influir por sentimientos",
+      "example": "Debemos tratar de ser *** al evaluar este conflicto."
+    },
+    {
+      "term": "subjetivo",
+      "type": "Adjective",
+      "meaning_tr": "öznel / sübjektif",
+      "meaning_en": "subjective",
+      "meaning_uk": "суб'єктивний",
+      "meaning_es": "basado en puntos de vista personales",
+      "example": "El concepto de belleza es puramente ***."
+    },
+    {
+      "term": "la convicción",
+      "type": "Noun",
+      "meaning_tr": "inanç / kanaat",
+      "meaning_en": "conviction",
+      "meaning_uk": "переконання",
+      "meaning_es": "creencia firme",
+      "example": "Él defiende sus ideas con total ***."
+    },
+    {
+      "term": "la hipocresía",
+      "type": "Noun",
+      "meaning_tr": "ikiyüzlülük",
+      "meaning_en": "hypocrisy",
+      "meaning_uk": "лицемірство",
+      "meaning_es": "fingimiento de cualidades contrarias a las que se tienen",
+      "example": "La *** es incompatible con una vida basada en valores."
+    },
+    {
+      "term": "la valentía",
+      "type": "Noun",
+      "meaning_tr": "cesaret",
+      "meaning_en": "bravery",
+      "meaning_uk": "сміливість",
+      "meaning_es": "esfuerzo y valor para enfrentar peligros",
+      "example": "Tuvo la *** de decir la verdad frente a todos."
+    },
+    {
+      "term": "el juicio",
+      "type": "Noun",
+      "meaning_tr": "yargı",
+      "meaning_en": "judgment",
+      "meaning_uk": "судження",
+      "meaning_es": "facultad de discernir",
+      "example": "No debemos emitir un *** sin conocer todos los hechos."
+    },
+    {
+      "term": "trascender",
+      "type": "Verb",
+      "meaning_tr": "aşmak / ötesine geçmek",
+      "meaning_en": "to transcend",
+      "meaning_uk": "перевершувати",
+      "meaning_es": "superar los límites",
+      "example": "Sus obras logran *** su época gracias a su profundidad."
+    },
+    {
+      "term": "coherentemente",
+      "type": "Adverb",
+      "meaning_tr": "tutarlı bir şekilde",
+      "meaning_en": "coherently",
+      "meaning_uk": "послідовно",
+      "meaning_es": "de forma lógica y consecuente",
+      "example": "Es difícil vivir *** cuando nuestros valores chocan."
+    },
+    {
+      "term": "pese a",
+      "type": "Preposition",
+      "meaning_tr": "rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "a pesar de",
+      "example": "*** la presión, mantuvo sus principios éticos."
+    },
+    {
+      "term": "la utopía",
+      "type": "Noun",
+      "meaning_tr": "ütopya",
+      "meaning_en": "utopia",
+      "meaning_uk": "утопія",
+      "meaning_es": "proyecto ideal pero irrealizable",
+      "example": "La paz mundial parece hoy una ***, pero debemos trabajar por ella."
+    }
+  ]
+}

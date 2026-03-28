@@ -1,0 +1,231 @@
+{
+  "title": "Clothing & Fashion (A2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a shirt",
+      "type": "Noun",
+      "meaning_tr": "gömlek",
+      "meaning_en": "a garment for the upper body with a collar and sleeves",
+      "meaning_uk": "сорочка",
+      "meaning_es": "una camisa",
+      "example": "I need to iron *** before the meeting."
+    },
+    {
+      "term": "trousers",
+      "type": "Noun",
+      "meaning_tr": "pantolon",
+      "meaning_en": "a piece of clothing that covers the legs",
+      "meaning_uk": "штани",
+      "meaning_es": "pantalones",
+      "example": "These black *** are very comfortable."
+    },
+    {
+      "term": "a dress",
+      "type": "Noun",
+      "meaning_tr": "elbise",
+      "meaning_en": "a piece of clothing for women that covers the body and part of the legs",
+      "meaning_uk": "сукня",
+      "meaning_es": "un vestido",
+      "example": "She bought *** for the party."
+    },
+    {
+      "term": "a jacket",
+      "type": "Noun",
+      "meaning_tr": "ceket",
+      "meaning_en": "a short coat worn on the upper body",
+      "meaning_uk": "куртка",
+      "meaning_es": "una chaqueta",
+      "example": "It is cold outside, so wear ***."
+    },
+    {
+      "term": "shoes",
+      "type": "Noun",
+      "meaning_tr": "ayakkabı",
+      "meaning_en": "a covering for the foot",
+      "meaning_uk": "взуття",
+      "meaning_es": "zapatos",
+      "example": "I need to buy new *** for running."
+    },
+    {
+      "term": "to wear",
+      "type": "Verb",
+      "meaning_tr": "giymek",
+      "meaning_en": "to have clothing on one's body",
+      "meaning_uk": "носити",
+      "meaning_es": "llevar puesto",
+      "example": "What are you going to *** to the wedding?"
+    },
+    {
+      "term": "a hat",
+      "type": "Noun",
+      "meaning_tr": "şapka",
+      "meaning_en": "a covering for the head",
+      "meaning_uk": "капелюх",
+      "meaning_es": "un sombrero",
+      "example": "He wears *** to protect his head from the sun."
+    },
+    {
+      "term": "a sweater",
+      "type": "Noun",
+      "meaning_tr": "kazak",
+      "meaning_en": "a warm piece of clothing for the upper body",
+      "meaning_uk": "светр",
+      "meaning_es": "un suéter",
+      "example": "My grandmother knitted me ***."
+    },
+    {
+      "term": "a skirt",
+      "type": "Noun",
+      "meaning_tr": "etek",
+      "meaning_en": "a garment hanging from the waist",
+      "meaning_uk": "спідниця",
+      "meaning_es": "una falda",
+      "example": "She is wearing a blue *** today."
+    },
+    {
+      "term": "a coat",
+      "type": "Noun",
+      "meaning_tr": "palto",
+      "meaning_en": "an outer garment worn outdoors",
+      "meaning_uk": "пальто",
+      "meaning_es": "un abrigo",
+      "example": "Don't forget your ***; it is snowing."
+    },
+    {
+      "term": "socks",
+      "type": "Noun",
+      "meaning_tr": "çorap",
+      "meaning_en": "garments worn on the feet inside shoes",
+      "meaning_uk": "шкарпетки",
+      "meaning_es": "calcetines",
+      "example": "I cannot find my matching ***."
+    },
+    {
+      "term": "casual",
+      "type": "Adjective",
+      "meaning_tr": "gündelik",
+      "meaning_en": "relaxed and informal clothing",
+      "meaning_uk": "повсякденний",
+      "meaning_es": "casual",
+      "example": "The dress code for this event is ***."
+    },
+    {
+      "term": "to try on",
+      "type": "Verb",
+      "meaning_tr": "denemek",
+      "meaning_en": "to put on clothes to see if they fit",
+      "meaning_uk": "міряти",
+      "meaning_es": "probarse",
+      "example": "Can I *** these jeans in a smaller size?"
+    },
+    {
+      "term": "a scarf",
+      "type": "Noun",
+      "meaning_tr": "atkı",
+      "meaning_en": "a piece of fabric worn around the neck",
+      "meaning_uk": "шарф",
+      "meaning_es": "una bufanda",
+      "example": "It is windy, so wrap *** around your neck."
+    },
+    {
+      "term": "gloves",
+      "type": "Noun",
+      "meaning_tr": "eldiven",
+      "meaning_en": "a covering for the hand with separate fingers",
+      "meaning_uk": "рукавички",
+      "meaning_es": "guantes",
+      "example": "My hands are freezing, do you have any ***?"
+    },
+    {
+      "term": "a belt",
+      "type": "Noun",
+      "meaning_tr": "kemer",
+      "meaning_en": "a strip of leather or cloth worn around the waist",
+      "meaning_uk": "ремінь",
+      "meaning_es": "un cinturón",
+      "example": "These trousers are too big, I need ***."
+    },
+    {
+      "term": "a tie",
+      "type": "Noun",
+      "meaning_tr": "kravat",
+      "meaning_en": "a strip of cloth worn around the neck under a collar",
+      "meaning_uk": "краватка",
+      "meaning_es": "una corbata",
+      "example": "He wears a suit and *** to work."
+    },
+    {
+      "term": "fashionable",
+      "type": "Adjective",
+      "meaning_tr": "modaya uygun",
+      "meaning_en": "popular at a particular time",
+      "meaning_uk": "модний",
+      "meaning_es": "de moda",
+      "example": "Those boots are very *** this season."
+    },
+    {
+      "term": "to fit",
+      "type": "Verb",
+      "meaning_tr": "uymak",
+      "meaning_en": "to be the right size or shape",
+      "meaning_uk": "підходити за розміром",
+      "meaning_es": "quedar bien",
+      "example": "This shirt does not *** me; it is too tight."
+    },
+    {
+      "term": "a t-shirt",
+      "type": "Noun",
+      "meaning_tr": "tişört",
+      "meaning_en": "a simple shirt with short sleeves",
+      "meaning_uk": "футболка",
+      "meaning_es": "una camiseta",
+      "example": "I prefer wearing a cotton *** in summer."
+    },
+    {
+      "term": "boots",
+      "type": "Noun",
+      "meaning_tr": "bot",
+      "meaning_en": "sturdy footwear covering the foot and ankle",
+      "meaning_uk": "черевики",
+      "meaning_es": "botas",
+      "example": "I need waterproof *** for the rainy season."
+    },
+    {
+      "term": "a pocket",
+      "type": "Noun",
+      "meaning_tr": "cep",
+      "meaning_en": "a small bag sewn into a garment",
+      "meaning_uk": "кишеня",
+      "meaning_es": "un bolsillo",
+      "example": "I have my keys in my ***."
+    },
+    {
+      "term": "smart",
+      "type": "Adjective",
+      "meaning_tr": "şık",
+      "meaning_en": "neat and professional in appearance",
+      "meaning_uk": "охайний",
+      "meaning_es": "elegante",
+      "example": "You look very *** in that suit."
+    },
+    {
+      "term": "a size",
+      "type": "Noun",
+      "meaning_tr": "beden",
+      "meaning_en": "the measurement of a piece of clothing",
+      "meaning_uk": "розмір",
+      "meaning_es": "una talla",
+      "example": "Do you have this in a larger ***?"
+    },
+    {
+      "term": "a suit",
+      "type": "Noun",
+      "meaning_tr": "takım elbise",
+      "meaning_en": "a set of matching jacket and trousers",
+      "meaning_uk": "костюм",
+      "meaning_es": "un traje",
+      "example": "He bought a new dark blue *** for the interview."
+    }
+  ]
+}

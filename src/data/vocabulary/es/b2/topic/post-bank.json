@@ -1,0 +1,411 @@
+{
+  "title": "Correos y Banco (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la transferencia bancaria",
+      "type": "Noun",
+      "example": "He realizado *** para pagar el alquiler del piso.",
+      "meaning_tr": "banka havalesi",
+      "meaning_en": "bank transfer",
+      "meaning_uk": "банківський переказ",
+      "meaning_es": "movimiento de dinero de una cuenta a otra"
+    },
+    {
+      "term": "el extracto bancario",
+      "type": "Noun",
+      "example": "He revisado *** para ver mis últimos gastos.",
+      "meaning_tr": "hesap özeti",
+      "meaning_en": "bank statement",
+      "meaning_uk": "банківська виписка",
+      "meaning_es": "documento que muestra los movimientos de una cuenta"
+    },
+    {
+      "term": "la cuenta corriente",
+      "type": "Noun",
+      "example": "Necesito abrir *** en este banco para mi nómina.",
+      "meaning_tr": "vadesiz hesap",
+      "meaning_en": "checking account",
+      "meaning_uk": "поточний рахунок",
+      "meaning_es": "cuenta para gestionar dinero cotidiano"
+    },
+    {
+      "term": "el tipo de interés",
+      "type": "Noun",
+      "example": "El banco me ha ofrecido *** muy competitivo.",
+      "meaning_tr": "faiz oranı",
+      "meaning_en": "interest rate",
+      "meaning_uk": "процентна ставка",
+      "meaning_es": "porcentaje aplicado a un préstamo o ahorro"
+    },
+    {
+      "term": "el préstamo hipotecario",
+      "type": "Noun",
+      "example": "Estamos pagando *** para nuestra nueva casa.",
+      "meaning_tr": "konut kredisi",
+      "meaning_en": "mortgage loan",
+      "meaning_uk": "іпотечний кредит",
+      "meaning_es": "préstamo para comprar un inmueble"
+    },
+    {
+      "term": "la comisión bancaria",
+      "type": "Noun",
+      "example": "No quiero pagar *** por retirar dinero del cajero.",
+      "meaning_tr": "banka komisyonu",
+      "meaning_en": "bank fee",
+      "meaning_uk": "банківська комісія",
+      "meaning_es": "coste que cobra el banco por sus servicios"
+    },
+    {
+      "term": "el saldo",
+      "type": "Noun",
+      "example": "No me queda suficiente *** en la cuenta.",
+      "meaning_tr": "bakiye",
+      "meaning_en": "balance",
+      "meaning_uk": "баланс",
+      "meaning_es": "cantidad de dinero disponible"
+    },
+    {
+      "term": "el cajero automático",
+      "type": "Noun",
+      "example": "He sacado efectivo en *** de la esquina.",
+      "meaning_tr": "ATM",
+      "meaning_en": "ATM",
+      "meaning_uk": "банкомат",
+      "meaning_es": "máquina para retirar dinero"
+    },
+    {
+      "term": "la tarjeta de crédito",
+      "type": "Noun",
+      "example": "He olvidado *** en casa y no puedo pagar.",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "credit card",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "tarjeta para pagar a crédito"
+    },
+    {
+      "term": "la banca online",
+      "type": "Noun",
+      "example": "Gestiono todo a través de *** desde mi móvil.",
+      "meaning_tr": "internet bankacılığı",
+      "meaning_en": "online banking",
+      "meaning_uk": "інтернет-банкінг",
+      "meaning_es": "servicios bancarios por internet"
+    },
+    {
+      "term": "el plazo",
+      "type": "Noun",
+      "example": "El *** para pagar la deuda vence mañana.",
+      "meaning_tr": "vade",
+      "meaning_en": "deadline/term",
+      "meaning_uk": "термін",
+      "meaning_es": "periodo de tiempo para cumplir una obligación"
+    },
+    {
+      "term": "la divisa",
+      "type": "Noun",
+      "example": "El cambio de *** ha subido hoy considerablemente.",
+      "meaning_tr": "döviz",
+      "meaning_en": "currency",
+      "meaning_uk": "валюта",
+      "meaning_es": "moneda extranjera"
+    },
+    {
+      "term": "el ingreso",
+      "type": "Noun",
+      "example": "He hecho un *** en efectivo en mi cuenta.",
+      "meaning_tr": "para yatırma",
+      "meaning_en": "deposit",
+      "meaning_uk": "депозит",
+      "meaning_es": "acción de meter dinero en una cuenta"
+    },
+    {
+      "term": "el descubierto",
+      "type": "Noun",
+      "example": "Tengo la cuenta en *** porque gasté de más.",
+      "meaning_tr": "hesap eksisi",
+      "meaning_en": "overdraft",
+      "meaning_uk": "овердрафт",
+      "meaning_es": "situación de saldo negativo"
+    },
+    {
+      "term": "la sucursal",
+      "type": "Noun",
+      "example": "Debo ir a *** para firmar unos documentos.",
+      "meaning_tr": "şube",
+      "meaning_en": "branch",
+      "meaning_uk": "відділення",
+      "meaning_es": "oficina local de un banco"
+    },
+    {
+      "term": "la firma",
+      "type": "Noun",
+      "example": "Necesito tu *** en este formulario bancario.",
+      "meaning_tr": "imza",
+      "meaning_en": "signature",
+      "meaning_uk": "підпис",
+      "meaning_es": "nombre escrito por una persona para autorizar"
+    },
+    {
+      "term": "el préstamo personal",
+      "type": "Noun",
+      "example": "He pedido *** para comprar un coche nuevo.",
+      "meaning_tr": "bireysel kredi",
+      "meaning_en": "personal loan",
+      "meaning_uk": "споживчий кредит",
+      "meaning_es": "dinero prestado por el banco a un individuo"
+    },
+    {
+      "term": "el ahorro",
+      "type": "Noun",
+      "example": "Tengo mis ahorros en *** a largo plazo.",
+      "meaning_tr": "tasarruf",
+      "meaning_en": "savings",
+      "meaning_uk": "заощадження",
+      "meaning_es": "dinero guardado para el futuro"
+    },
+    {
+      "term": "la amortización",
+      "type": "Noun",
+      "example": "He realizado una *** anticipada de la hipoteca.",
+      "meaning_tr": "borç ödeme",
+      "meaning_en": "amortization/repayment",
+      "meaning_uk": "амортизація/погашення",
+      "meaning_es": "pago gradual de una deuda"
+    },
+    {
+      "term": "el destinatario",
+      "type": "Noun",
+      "example": "Debes escribir el nombre de *** en el sobre.",
+      "meaning_tr": "alıcı",
+      "meaning_en": "recipient",
+      "meaning_uk": "отримувач",
+      "meaning_es": "persona que recibe un envío"
+    },
+    {
+      "term": "el remitente",
+      "type": "Noun",
+      "example": "He olvidado poner mi nombre como ***.",
+      "meaning_tr": "gönderici",
+      "meaning_en": "sender",
+      "meaning_uk": "відправник",
+      "meaning_es": "persona que envía algo"
+    },
+    {
+      "term": "el paquete",
+      "type": "Noun",
+      "example": "Ha llegado *** que esperaba de correos.",
+      "meaning_tr": "paket",
+      "meaning_en": "package",
+      "meaning_uk": "посилка",
+      "meaning_es": "objeto enviado por correo"
+    },
+    {
+      "term": "el envío urgente",
+      "type": "Noun",
+      "example": "He pagado un extra por hacer ***.",
+      "meaning_tr": "acil gönderi",
+      "meaning_en": "express delivery",
+      "meaning_uk": "термінова доставка",
+      "meaning_es": "servicio de correo rápido"
+    },
+    {
+      "term": "la carta certificada",
+      "type": "Noun",
+      "example": "He enviado *** para asegurar su entrega.",
+      "meaning_tr": "taahhütlü mektup",
+      "meaning_en": "certified letter",
+      "meaning_uk": "рекомендований лист",
+      "meaning_es": "carta que requiere firma al recibir"
+    },
+    {
+      "term": "el código postal",
+      "type": "Noun",
+      "example": "No olvides incluir *** en la dirección.",
+      "meaning_tr": "posta kodu",
+      "meaning_en": "postal code",
+      "meaning_uk": "поштовий індекс",
+      "meaning_es": "número que identifica una zona postal"
+    },
+    {
+      "term": "el sello",
+      "type": "Noun",
+      "example": "Necesito comprar un *** para esta carta.",
+      "meaning_tr": "pul",
+      "meaning_en": "stamp",
+      "meaning_uk": "марка",
+      "meaning_es": "etiqueta para pagar el envío"
+    },
+    {
+      "term": "la ventanilla",
+      "type": "Noun",
+      "example": "He esperado mucho tiempo en la *** de correos.",
+      "meaning_tr": "gişe",
+      "meaning_en": "counter/window",
+      "meaning_uk": "віконце/каса",
+      "meaning_es": "lugar donde se atiende al público"
+    },
+    {
+      "term": "el apartado de correos",
+      "type": "Noun",
+      "example": "Mi empresa utiliza *** para recibir correspondencia.",
+      "meaning_tr": "posta kutusu",
+      "meaning_en": "P.O. box",
+      "meaning_uk": "абонентська скринька",
+      "meaning_es": "buzón privado en una oficina de correos"
+    },
+    {
+      "term": "el giro postal",
+      "type": "Noun",
+      "example": "He enviado dinero a mi familia mediante ***.",
+      "meaning_tr": "posta havalesi",
+      "meaning_en": "money order",
+      "meaning_uk": "поштовий переказ",
+      "meaning_es": "servicio para enviar dinero por correo"
+    },
+    {
+      "term": "el sobre",
+      "type": "Noun",
+      "example": "He metido los documentos en *** acolchado.",
+      "meaning_tr": "zarf",
+      "meaning_en": "envelope",
+      "meaning_uk": "конверт",
+      "meaning_es": "cubierta de papel para cartas"
+    },
+    {
+      "term": "la oficina postal",
+      "type": "Noun",
+      "example": "Voy a *** a recoger un paquete.",
+      "meaning_tr": "postane",
+      "meaning_en": "post office",
+      "meaning_uk": "поштове відділення",
+      "meaning_es": "lugar donde se realizan envíos"
+    },
+    {
+      "term": "el mensajero",
+      "type": "Noun",
+      "example": "El *** me ha traído el paquete hoy.",
+      "meaning_tr": "kurye",
+      "meaning_en": "courier",
+      "meaning_uk": "кур'єр",
+      "meaning_es": "persona que entrega paquetes"
+    },
+    {
+      "term": "depositar",
+      "type": "Verb",
+      "example": "Voy a *** el dinero en la cuenta ahora mismo.",
+      "meaning_tr": "yatırmak",
+      "meaning_en": "to deposit",
+      "meaning_uk": "класти на рахунок",
+      "meaning_es": "meter dinero en una cuenta"
+    },
+    {
+      "term": "retirar",
+      "type": "Verb",
+      "example": "Necesito *** efectivo del cajero.",
+      "meaning_tr": "çekmek",
+      "meaning_en": "to withdraw",
+      "meaning_uk": "знімати",
+      "meaning_es": "sacar dinero de una cuenta"
+    },
+    {
+      "term": "cancelar",
+      "type": "Verb",
+      "example": "Quiero *** mi tarjeta porque la he perdido.",
+      "meaning_tr": "iptal etmek",
+      "meaning_en": "to cancel",
+      "meaning_uk": "скасувати",
+      "meaning_es": "anular un servicio o producto"
+    },
+    {
+      "term": "enviar",
+      "type": "Verb",
+      "example": "Debo *** este paquete antes de que cierren.",
+      "meaning_tr": "göndermek",
+      "meaning_en": "to send",
+      "meaning_uk": "надсилати",
+      "meaning_es": "hacer llegar algo a un destino"
+    },
+    {
+      "term": "recibir",
+      "type": "Verb",
+      "example": "Espero *** una carta importante esta semana.",
+      "meaning_tr": "almak",
+      "meaning_en": "to receive",
+      "meaning_uk": "отримувати",
+      "meaning_es": "obtener algo que alguien envía"
+    },
+    {
+      "term": "financiero",
+      "type": "Adjective",
+      "example": "El asesor *** me recomendó invertir en bonos.",
+      "meaning_tr": "finansal",
+      "meaning_en": "financial",
+      "meaning_uk": "фінансовий",
+      "meaning_es": "relativo a las finanzas"
+    },
+    {
+      "term": "solvente",
+      "type": "Adjective",
+      "example": "El banco es muy ***, no hay riesgo de quiebra.",
+      "meaning_tr": "ödeme gücü olan",
+      "meaning_en": "solvent",
+      "meaning_uk": "платоспроможний",
+      "meaning_es": "capaz de pagar sus deudas"
+    },
+    {
+      "term": "pendiente",
+      "type": "Adjective",
+      "example": "Tengo un pago *** que debo liquidar pronto.",
+      "meaning_tr": "bekleyen",
+      "meaning_en": "pending",
+      "meaning_uk": "невирішений/очікує",
+      "meaning_es": "que no se ha resuelto todavía"
+    },
+    {
+      "term": "franqueado",
+      "type": "Adjective",
+      "example": "El sobre ya está ***, puedes echarlo al buzón.",
+      "meaning_tr": "pullanmış",
+      "meaning_en": "stamped",
+      "meaning_uk": "оплачений марками",
+      "meaning_es": "que tiene el sello pegado"
+    },
+    {
+      "term": "directamente",
+      "type": "Adverb",
+      "example": "El dinero se transfiere *** a la cuenta.",
+      "meaning_tr": "doğrudan",
+      "meaning_en": "directly",
+      "meaning_uk": "безпосередньо",
+      "meaning_es": "sin intermediarios"
+    },
+    {
+      "term": "mensualmente",
+      "type": "Adverb",
+      "example": "Recibo el extracto *** por correo electrónico.",
+      "meaning_tr": "aylık olarak",
+      "meaning_en": "monthly",
+      "meaning_uk": "щомісяця",
+      "meaning_es": "cada mes"
+    },
+    {
+      "term": "mediante",
+      "type": "Preposition",
+      "example": "Puedes pagar *** tarjeta de crédito.",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "a través de un medio"
+    },
+    {
+      "term": "o bien",
+      "type": "Conjunction",
+      "example": "Puedes pagar en efectivo *** mediante transferencia.",
+      "meaning_tr": "ya da",
+      "meaning_en": "or else/either",
+      "meaning_uk": "або",
+      "meaning_es": "conector para ofrecer alternativas"
+    }
+  ]
+}

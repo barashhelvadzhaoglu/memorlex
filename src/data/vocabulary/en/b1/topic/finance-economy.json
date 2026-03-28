@@ -1,0 +1,321 @@
+{
+  "title": "Finance & Economy (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a budget",
+      "type": "Noun",
+      "example": "We need to plan *** carefully to save money for our vacation.",
+      "meaning_tr": "bütçe",
+      "meaning_en": "a plan for spending money",
+      "meaning_uk": "бюджет",
+      "meaning_es": "un presupuesto"
+    },
+    {
+      "term": "to afford",
+      "type": "Verb",
+      "example": "I cannot *** to buy a new car right now.",
+      "meaning_tr": "gücü yetmek",
+      "meaning_en": "to have enough money to buy something",
+      "meaning_uk": "дозволити собі",
+      "meaning_es": "permitirse"
+    },
+    {
+      "term": "a profit",
+      "type": "Noun",
+      "example": "The company made a large *** this year.",
+      "meaning_tr": "kâr",
+      "meaning_en": "money earned after expenses are paid",
+      "meaning_uk": "прибуток",
+      "meaning_es": "un beneficio"
+    },
+    {
+      "term": "a loss",
+      "type": "Noun",
+      "example": "The business suffered a significant *** due to bad sales.",
+      "meaning_tr": "zarar",
+      "meaning_en": "money lost by a business",
+      "meaning_uk": "збиток",
+      "meaning_es": "una pérdida"
+    },
+    {
+      "term": "expensive",
+      "type": "Adjective",
+      "example": "That restaurant is too *** for our daily lunch.",
+      "meaning_tr": "pahalı",
+      "meaning_en": "costing a lot of money",
+      "meaning_uk": "дорогий",
+      "meaning_es": "caro"
+    },
+    {
+      "term": "cheap",
+      "type": "Adjective",
+      "example": "We found some *** tickets for the flight.",
+      "meaning_tr": "ucuz",
+      "meaning_en": "low in price",
+      "meaning_uk": "дешевий",
+      "meaning_es": "barato"
+    },
+    {
+      "term": "an income",
+      "type": "Noun",
+      "example": "Her monthly *** is enough to cover all her bills.",
+      "meaning_tr": "gelir",
+      "meaning_en": "money received regularly for work",
+      "meaning_uk": "дохід",
+      "meaning_es": "un ingreso"
+    },
+    {
+      "term": "a debt",
+      "type": "Noun",
+      "example": "He is working hard to pay off his student ***.",
+      "meaning_tr": "borç",
+      "meaning_en": "money that you owe to someone",
+      "meaning_uk": "борг",
+      "meaning_es": "una deuda"
+    },
+    {
+      "term": "to save",
+      "type": "Verb",
+      "example": "It is important to *** money for emergencies.",
+      "meaning_tr": "biriktirmek",
+      "meaning_en": "to keep money for future use",
+      "meaning_uk": "заощаджувати",
+      "meaning_es": "ahorrar"
+    },
+    {
+      "term": "to spend",
+      "type": "Verb",
+      "example": "Don't *** all your salary in one week.",
+      "meaning_tr": "harcamak",
+      "meaning_en": "to pay money for goods or services",
+      "meaning_uk": "витрачати",
+      "meaning_es": "gastar"
+    },
+    {
+      "term": "a tax",
+      "type": "Noun",
+      "example": "Everyone has to pay *** to the government.",
+      "meaning_tr": "vergi",
+      "meaning_en": "money paid to the government",
+      "meaning_uk": "податок",
+      "meaning_es": "un impuesto"
+    },
+    {
+      "term": "a price",
+      "type": "Noun",
+      "example": "The *** of gasoline has increased recently.",
+      "meaning_tr": "fiyat",
+      "meaning_en": "the amount of money requested for something",
+      "meaning_uk": "ціна",
+      "meaning_es": "un precio"
+    },
+    {
+      "term": "a salary",
+      "type": "Noun",
+      "example": "She receives her *** at the end of every month.",
+      "meaning_tr": "maaş",
+      "meaning_en": "fixed regular payment for work",
+      "meaning_uk": "зарплата",
+      "meaning_es": "un salario"
+    },
+    {
+      "term": "to borrow",
+      "type": "Verb",
+      "example": "I had to *** money from the bank to start my business.",
+      "meaning_tr": "ödünç almak",
+      "meaning_en": "to take money with the intention to pay it back",
+      "meaning_uk": "позичати",
+      "meaning_es": "pedir prestado"
+    },
+    {
+      "term": "to lend",
+      "type": "Verb",
+      "example": "Can you *** me some cash until tomorrow?",
+      "meaning_tr": "ödünç vermek",
+      "meaning_en": "to give money to someone for a short time",
+      "meaning_uk": "давати в борг",
+      "meaning_es": "prestar"
+    },
+    {
+      "term": "to invest",
+      "type": "Verb",
+      "example": "They decided to *** in the stock market.",
+      "meaning_tr": "yatırım yapmak",
+      "meaning_en": "to put money into something to make more money",
+      "meaning_uk": "інвестувати",
+      "meaning_es": "invertir"
+    },
+    {
+      "term": "an economy",
+      "type": "Noun",
+      "example": "The global *** is growing slowly this year.",
+      "meaning_tr": "ekonomi",
+      "meaning_en": "the system of trade and industry in a country",
+      "meaning_uk": "економіка",
+      "meaning_es": "una economía"
+    },
+    {
+      "term": "a bank account",
+      "type": "Noun",
+      "example": "I opened a new *** to keep my savings safe.",
+      "meaning_tr": "banka hesabı",
+      "meaning_en": "an arrangement with a bank to keep money",
+      "meaning_uk": "банківський рахунок",
+      "meaning_es": "una cuenta bancaria"
+    },
+    {
+      "term": "a credit card",
+      "type": "Noun",
+      "example": "I usually pay with my *** when I shop online.",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "a plastic card used to buy things on credit",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "una tarjeta de crédito"
+    },
+    {
+      "term": "a currency",
+      "type": "Noun",
+      "example": "The local *** is very strong against the dollar.",
+      "meaning_tr": "para birimi",
+      "meaning_en": "the money used in a country",
+      "meaning_uk": "валюта",
+      "meaning_es": "una moneda"
+    },
+    {
+      "term": "wealthy",
+      "type": "Adjective",
+      "example": "He became *** after his company succeeded.",
+      "meaning_tr": "zengin",
+      "meaning_en": "having a lot of money",
+      "meaning_uk": "багатий",
+      "meaning_es": "rico"
+    },
+    {
+      "term": "poor",
+      "type": "Adjective",
+      "example": "Many families are struggling because they are ***.",
+      "meaning_tr": "fakir",
+      "meaning_en": "having little money",
+      "meaning_uk": "бідний",
+      "meaning_es": "pobre"
+    },
+    {
+      "term": "a bill",
+      "type": "Noun",
+      "example": "I need to pay the electricity *** before Friday.",
+      "meaning_tr": "fatura",
+      "meaning_en": "a statement of money owed for goods or services",
+      "meaning_uk": "рахунок",
+      "meaning_es": "una factura"
+    },
+    {
+      "term": "to charge",
+      "type": "Verb",
+      "example": "How much do they *** for a haircut?",
+      "meaning_tr": "ücret talep etmek",
+      "meaning_en": "to ask for a specific price",
+      "meaning_uk": "брати плату",
+      "meaning_es": "cobrar"
+    },
+    {
+      "term": "a discount",
+      "type": "Noun",
+      "example": "The shop offered a 20% *** on all winter clothes.",
+      "meaning_tr": "indirim",
+      "meaning_en": "a reduction in price",
+      "meaning_uk": "знижка",
+      "meaning_es": "un descuento"
+    },
+    {
+      "term": "a market",
+      "type": "Noun",
+      "example": "The housing *** is very active right now.",
+      "meaning_tr": "piyasa",
+      "meaning_en": "the business of buying and selling something",
+      "meaning_uk": "ринок",
+      "meaning_es": "un mercado"
+    },
+    {
+      "term": "an inflation",
+      "type": "Noun",
+      "example": "High *** makes daily life more difficult for everyone.",
+      "meaning_tr": "enflasyon",
+      "meaning_en": "a general increase in prices",
+      "meaning_uk": "інфляція",
+      "meaning_es": "una inflación"
+    },
+    {
+      "term": "a value",
+      "type": "Noun",
+      "example": "The *** of gold has risen significantly.",
+      "meaning_tr": "değer",
+      "meaning_en": "the worth of something in money",
+      "meaning_uk": "вартість",
+      "meaning_es": "un valor"
+    },
+    {
+      "term": "to waste",
+      "type": "Verb",
+      "example": "Don't *** your money on things you don't need.",
+      "meaning_tr": "boşa harcamak",
+      "meaning_en": "to use money in a careless way",
+      "meaning_uk": "марнувати",
+      "meaning_es": "malgastar"
+    },
+    {
+      "term": "financial",
+      "type": "Adjective",
+      "example": "She is looking for some *** advice for her new business.",
+      "meaning_tr": "finansal",
+      "meaning_en": "relating to money",
+      "meaning_uk": "фінансовий",
+      "meaning_es": "financiero"
+    },
+    {
+      "term": "a cash",
+      "type": "Noun",
+      "example": "Do you prefer to pay with card or ***?",
+      "meaning_tr": "nakit",
+      "meaning_en": "money in coins or notes",
+      "meaning_uk": "готівка",
+      "meaning_es": "efectivo"
+    },
+    {
+      "term": "a receipt",
+      "type": "Noun",
+      "example": "Always keep your *** in case you need to return the item.",
+      "meaning_tr": "fiş",
+      "meaning_en": "a paper document showing you paid for something",
+      "meaning_uk": "чек",
+      "meaning_es": "un recibo"
+    },
+    {
+      "term": "to earn",
+      "type": "Verb",
+      "example": "How much does she *** in her new job?",
+      "meaning_tr": "kazanmak",
+      "meaning_en": "to get money for work",
+      "meaning_uk": "заробляти",
+      "meaning_es": "ganar"
+    },
+    {
+      "term": "a cost",
+      "type": "Noun",
+      "example": "The total *** of the project was higher than expected.",
+      "meaning_tr": "maliyet",
+      "meaning_en": "the amount needed to pay for something",
+      "meaning_uk": "вартість",
+      "meaning_es": "un coste"
+    },
+    {
+      "term": "to affordably",
+      "type": "Adverb",
+      "example": "We want to live *** without sacrificing quality.",
+      "meaning_tr": "uygun fiyatlı bir şekilde",
+      "meaning_en": "in a way that is not too expensive",
+      "meaning_uk": "доступно",
+      "meaning_es": "asequiblemente"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Transporte y Movilidad (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la infraestructura",
+      "type": "Noun",
+      "example": "El gobierno ha anunciado una inversión masiva para mejorar *** del país.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "infrastructure",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "conjunto de elementos o servicios necesarios para el funcionamiento de una organización o país."
+    },
+    {
+      "term": "el carril bici",
+      "type": "Noun",
+      "example": "Es obligatorio circular por *** para garantizar la seguridad de los ciclistas.",
+      "meaning_tr": "bisiklet yolu",
+      "meaning_en": "bike lane",
+      "meaning_uk": "велодоріжка",
+      "meaning_es": "vía reservada para la circulación de bicicletas."
+    },
+    {
+      "term": "fletar",
+      "type": "Verb",
+      "example": "La aerolínea decidió *** un avión privado para evacuar a los pasajeros varados.",
+      "meaning_tr": "kiralamak (taşıt)",
+      "meaning_en": "to charter",
+      "meaning_uk": "фрахтувати",
+      "meaning_es": "contratar un vehículo de transporte para un uso específico."
+    },
+    {
+      "term": "la congestión",
+      "type": "Noun",
+      "example": "Debido a ***, llegaremos con una hora de retraso a la reunión.",
+      "meaning_tr": "trafik sıkışıklığı",
+      "meaning_en": "congestion",
+      "meaning_uk": "затори",
+      "meaning_es": "acumulación excesiva de vehículos en una vía."
+    },
+    {
+      "term": "el transbordo",
+      "type": "Noun",
+      "example": "Para llegar al centro, debes realizar un *** en la estación de Atocha.",
+      "meaning_tr": "aktarma",
+      "meaning_en": "transfer",
+      "meaning_uk": "пересадка",
+      "meaning_es": "acción de cambiar de un medio de transporte a otro."
+    },
+    {
+      "term": "la movilidad sostenible",
+      "type": "Noun",
+      "example": "Las ciudades modernas apuestan por *** para reducir las emisiones de CO2.",
+      "meaning_tr": "sürdürülebilir ulaşım",
+      "meaning_en": "sustainable mobility",
+      "meaning_uk": "стала мобільність",
+      "meaning_es": "desplazamiento que minimiza el impacto ambiental."
+    },
+    {
+      "term": "el peaje",
+      "type": "Noun",
+      "example": "El conductor tuvo que pagar *** al entrar en la autopista.",
+      "meaning_tr": "otoyol ücreti",
+      "meaning_en": "toll",
+      "meaning_uk": "плата за проїзд",
+      "meaning_es": "tasa que se paga por el uso de una vía o puente."
+    },
+    {
+      "term": "saturado",
+      "type": "Adjective",
+      "example": "El sistema de metro está completamente *** durante las horas punta.",
+      "meaning_tr": "doymuş / tıkalı",
+      "meaning_en": "saturated",
+      "meaning_uk": "перевантажений",
+      "meaning_es": "que ha llegado a su máxima capacidad o está lleno."
+    },
+    {
+      "term": "desplazarse",
+      "type": "Verb",
+      "example": "Muchas personas prefieren *** en bicicleta para evitar el tráfico urbano.",
+      "meaning_tr": "yer değiştirmek / seyahat etmek",
+      "meaning_en": "to commute/move",
+      "meaning_uk": "пересуватися",
+      "meaning_es": "moverse de un lugar a otro."
+    },
+    {
+      "term": "la intermodalidad",
+      "type": "Noun",
+      "example": "Fomentar *** es clave para optimizar el transporte público en las grandes urbes.",
+      "meaning_tr": "modlar arası taşımacılık",
+      "meaning_en": "intermodality",
+      "meaning_uk": "інтермодальність",
+      "meaning_es": "uso combinado de diferentes medios de transporte en un mismo trayecto."
+    },
+    {
+      "term": "el convoy",
+      "type": "Noun",
+      "example": "El último *** de mercancías llegó a la estación central a medianoche.",
+      "meaning_tr": "konvoy / tren dizisi",
+      "meaning_en": "convoy/train",
+      "meaning_uk": "конвой / потяг",
+      "meaning_es": "conjunto de vehículos o vagones que circulan juntos."
+    },
+    {
+      "term": "la accesibilidad",
+      "type": "Noun",
+      "example": "Debemos mejorar *** del transporte público para personas con movilidad reducida.",
+      "meaning_tr": "erişilebilirlik",
+      "meaning_en": "accessibility",
+      "meaning_uk": "доступність",
+      "meaning_es": "facilidad con la que se puede acceder a un lugar o servicio."
+    },
+    {
+      "term": "el estacionamiento",
+      "type": "Noun",
+      "example": "Es difícil encontrar *** gratuito en el centro de la ciudad.",
+      "meaning_tr": "otopark",
+      "meaning_en": "parking",
+      "meaning_uk": "паркування",
+      "meaning_es": "lugar destinado para dejar los vehículos."
+    },
+    {
+      "term": "el carril bus",
+      "type": "Noun",
+      "example": "Está prohibido circular por *** si no eres un vehículo autorizado.",
+      "meaning_tr": "otobüs şeridi",
+      "meaning_en": "bus lane",
+      "meaning_uk": "смуга для автобусів",
+      "meaning_es": "carril de uso exclusivo para autobuses y taxis."
+    },
+    {
+      "term": "la interrupción",
+      "type": "Noun",
+      "example": "Hubo una *** en la línea férrea debido a un fallo técnico.",
+      "meaning_tr": "aksama / kesinti",
+      "meaning_en": "interruption",
+      "meaning_uk": "переривання",
+      "meaning_es": "suspensión temporal de un servicio o actividad."
+    },
+    {
+      "term": "el vehículo de movilidad personal",
+      "type": "Noun",
+      "example": "El uso del *** ha crecido exponencialmente en las zonas peatonales.",
+      "meaning_tr": "kişisel hareket aracı",
+      "meaning_en": "personal mobility vehicle",
+      "meaning_uk": "засіб індивідуальної мобільності",
+      "meaning_es": "medio de transporte unipersonal, como patinetes eléctricos."
+    },
+    {
+      "term": "el desvío",
+      "type": "Noun",
+      "example": "Debido a las obras, han habilitado un *** por la calle secundaria.",
+      "meaning_tr": "sapma / servis yolu",
+      "meaning_en": "detour",
+      "meaning_uk": "об'їзд",
+      "meaning_es": "ruta alternativa para evitar un tramo cerrado."
+    },
+    {
+      "term": "la red viaria",
+      "type": "Noun",
+      "example": "Es necesario ampliar *** para conectar mejor las zonas rurales.",
+      "meaning_tr": "yol ağı",
+      "meaning_en": "road network",
+      "meaning_uk": "дорожня мережа",
+      "meaning_es": "conjunto de vías y carreteras de un territorio."
+    },
+    {
+      "term": "la hora punta",
+      "type": "Noun",
+      "example": "Evito conducir durante *** para no estresarme con el tráfico.",
+      "meaning_tr": "yoğun saatler",
+      "meaning_en": "rush hour",
+      "meaning_uk": "година пік",
+      "meaning_es": "periodo del día con mayor afluencia de tráfico."
+    },
+    {
+      "term": "el transporte multimodal",
+      "type": "Noun",
+      "example": "La logística actual depende en gran medida de ***.",
+      "meaning_tr": "çok modlu taşımacılık",
+      "meaning_en": "multimodal transport",
+      "meaning_uk": "мультимодальний транспорт",
+      "meaning_es": "uso de varios medios de transporte bajo un mismo contrato."
+    },
+    {
+      "term": "la viabilidad",
+      "type": "Noun",
+      "example": "Los ingenieros están estudiando *** de construir un nuevo túnel bajo el río.",
+      "meaning_tr": "uygulanabilirlik",
+      "meaning_en": "feasibility",
+      "meaning_uk": "життєздатність",
+      "meaning_es": "posibilidad de realizar un proyecto con éxito."
+    },
+    {
+      "term": "el trayecto",
+      "type": "Noun",
+      "example": "El *** en tren dura aproximadamente tres horas.",
+      "meaning_tr": "yolculuk / güzergah",
+      "meaning_en": "journey/trip",
+      "meaning_uk": "поїздка / маршрут",
+      "meaning_es": "espacio que se recorre en un viaje."
+    },
+    {
+      "term": "la flota",
+      "type": "Noun",
+      "example": "La empresa ha renovado toda *** de autobuses con modelos eléctricos.",
+      "meaning_tr": "filo",
+      "meaning_en": "fleet",
+      "meaning_uk": "флот / парк транспортних засобів",
+      "meaning_es": "conjunto de vehículos de una misma entidad."
+    },
+    {
+      "term": "el viandante",
+      "type": "Noun",
+      "example": "Las nuevas calles están diseñadas principalmente para ***.",
+      "meaning_tr": "yaya",
+      "meaning_en": "pedestrian",
+      "meaning_uk": "пішохід",
+      "meaning_es": "persona que transita a pie."
+    },
+    {
+      "term": "el flujo",
+      "type": "Noun",
+      "example": "Los semáforos inteligentes ayudan a regular *** de vehículos.",
+      "meaning_tr": "akış",
+      "meaning_en": "flow",
+      "meaning_uk": "потік",
+      "meaning_es": "movimiento continuo de personas o vehículos."
+    },
+    {
+      "term": "circunvalar",
+      "type": "Verb",
+      "example": "La nueva autovía permitirá *** la ciudad sin entrar en el centro.",
+      "meaning_tr": "çevre yolundan geçmek",
+      "meaning_en": "to bypass/circumvent",
+      "meaning_uk": "об'їжджати",
+      "meaning_es": "rodear una población o zona."
+    },
+    {
+      "term": "la peatonalización",
+      "type": "Noun",
+      "example": "Los vecinos apoyan *** del casco histórico para reducir la contaminación.",
+      "meaning_tr": "yayalaştırma",
+      "meaning_en": "pedestrianization",
+      "meaning_uk": "пішоходизація",
+      "meaning_es": "conversión de una vía en un espacio exclusivo para peatones."
+    },
+    {
+      "term": "el recargo",
+      "type": "Noun",
+      "example": "Por comprar el billete en la taquilla, aplican un pequeño ***.",
+      "meaning_tr": "ek ücret / zam",
+      "meaning_en": "surcharge",
+      "meaning_uk": "доплата",
+      "meaning_es": "aumento adicional sobre el precio base."
+    },
+    {
+      "term": "la infraestructura ferroviaria",
+      "type": "Noun",
+      "example": "El mantenimiento de *** es vital para la seguridad de los pasajeros.",
+      "meaning_tr": "demiryolu altyapısı",
+      "meaning_en": "railway infrastructure",
+      "meaning_uk": "залізнична інфраструктура",
+      "meaning_es": "elementos necesarios para el funcionamiento de los trenes."
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "example": "Cada *** debe validar su tarjeta al subir al autobús.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que utiliza un servicio o producto."
+    },
+    {
+      "term": "la interconexión",
+      "type": "Noun",
+      "example": "La *** entre el metro y el autobús es fundamental para la eficiencia del transporte.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "interconnection",
+      "meaning_uk": "взаємозв'язок",
+      "meaning_es": "unión o enlace entre diferentes sistemas."
+    },
+    {
+      "term": "fomentar",
+      "type": "Verb",
+      "example": "El ayuntamiento quiere *** el uso de la bicicleta en toda la ciudad.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to encourage/promote",
+      "meaning_uk": "сприяти / заохочувати",
+      "meaning_es": "incitar o promover una acción."
+    },
+    {
+      "term": "la restricción",
+      "type": "Noun",
+      "example": "Hay una *** de tráfico en el centro durante los fines de semana.",
+      "meaning_tr": "kısıtlama",
+      "meaning_en": "restriction",
+      "meaning_uk": "обмеження",
+      "meaning_es": "limitación impuesta sobre algo."
+    },
+    {
+      "term": "el atasco",
+      "type": "Noun",
+      "example": "Quedamos atrapados en un *** durante más de dos horas.",
+      "meaning_tr": "trafik sıkışıklığı",
+      "meaning_en": "traffic jam",
+      "meaning_uk": "затор",
+      "meaning_es": "obstrucción en el tráfico."
+    },
+    {
+      "term": "la intermodal",
+      "type": "Adjective",
+      "example": "La nueva estación *** facilita el cambio entre tren y autobús.",
+      "meaning_tr": "çok modlu",
+      "meaning_en": "intermodal",
+      "meaning_uk": "інтермодальний",
+      "meaning_es": "que combina varios medios de transporte."
+    },
+    {
+      "term": "el billete electrónico",
+      "type": "Noun",
+      "example": "Es más cómodo viajar con *** en el móvil.",
+      "meaning_tr": "elektronik bilet",
+      "meaning_en": "electronic ticket",
+      "meaning_uk": "електронний квиток",
+      "meaning_es": "ticket digital para viajar."
+    },
+    {
+      "term": "la autonomía",
+      "type": "Noun",
+      "example": "Los coches eléctricos actuales tienen una mayor *** que los antiguos.",
+      "meaning_tr": "menzil / otonomi",
+      "meaning_en": "range/autonomy",
+      "meaning_uk": "запас ходу / автономність",
+      "meaning_es": "distancia que puede recorrer un vehículo sin repostar."
+    },
+    {
+      "term": "el abono transporte",
+      "type": "Noun",
+      "example": "Con ***, puedes usar el metro y el bus de forma ilimitada.",
+      "meaning_tr": "ulaşım kartı (abonman)",
+      "meaning_en": "transport pass",
+      "meaning_uk": "проїзний квиток",
+      "meaning_es": "tarjeta de transporte de uso frecuente."
+    },
+    {
+      "term": "la vía urbana",
+      "type": "Noun",
+      "example": "El límite de velocidad en *** es de 30 km/h.",
+      "meaning_tr": "şehir içi yol",
+      "meaning_en": "urban road",
+      "meaning_uk": "міська дорога",
+      "meaning_es": "calle o avenida dentro de una ciudad."
+    },
+    {
+      "term": "la parada",
+      "type": "Noun",
+      "example": "El autobús no se detuvo en *** porque no había nadie esperando.",
+      "meaning_tr": "durak",
+      "meaning_en": "bus stop",
+      "meaning_uk": "зупинка",
+      "meaning_es": "lugar donde se detienen los medios de transporte."
+    },
+    {
+      "term": "el carril",
+      "type": "Noun",
+      "example": "Debes cambiar de *** con precaución antes de girar.",
+      "meaning_tr": "şerit",
+      "meaning_en": "lane",
+      "meaning_uk": "смуга (дорожнього руху)",
+      "meaning_es": "cada una de las bandas longitudinales de una calzada."
+    },
+    {
+      "term": "la terminal",
+      "type": "Noun",
+      "example": "El vuelo despega desde *** 4 del aeropuerto.",
+      "meaning_tr": "terminal",
+      "meaning_en": "terminal",
+      "meaning_uk": "термінал",
+      "meaning_es": "edificio o zona de un aeropuerto o estación."
+    },
+    {
+      "term": "el flete",
+      "type": "Noun",
+      "example": "El precio del *** ha subido debido al aumento del combustible.",
+      "meaning_tr": "navlun / taşıma ücreti",
+      "meaning_en": "freight/cargo cost",
+      "meaning_uk": "фрахт",
+      "meaning_es": "precio del transporte de mercancías."
+    },
+    {
+      "term": "la saturación",
+      "type": "Noun",
+      "example": "La *** de las carreteras principales causa accidentes.",
+      "meaning_tr": "doygunluk / yoğunluk",
+      "meaning_en": "saturation",
+      "meaning_uk": "перенасичення",
+      "meaning_es": "estado de máxima ocupación."
+    },
+    {
+      "term": "la señalización",
+      "type": "Noun",
+      "example": "Una buena *** es esencial para evitar confusiones en la carretera.",
+      "meaning_tr": "işaretleme / trafik levhaları",
+      "meaning_en": "signage",
+      "meaning_uk": "дорожні знаки",
+      "meaning_es": "conjunto de señales en una vía."
+    },
+    {
+      "term": "la expedición",
+      "type": "Noun",
+      "example": "La última *** del autobús sale a las 23:00.",
+      "meaning_tr": "sefer",
+      "meaning_en": "service/dispatch",
+      "meaning_uk": "рейс",
+      "meaning_es": "cada uno de los viajes programados de un transporte."
+    },
+    {
+      "term": "el tráfico rodado",
+      "type": "Noun",
+      "example": "Se prohibió *** por el centro para mejorar la calidad del aire.",
+      "meaning_tr": "araç trafiği",
+      "meaning_en": "road traffic",
+      "meaning_uk": "автомобільний рух",
+      "meaning_es": "circulación de vehículos por las vías."
+    },
+    {
+      "term": "la electrificación",
+      "type": "Noun",
+      "example": "Se está llevando a cabo *** de la línea férrea para usar trenes más rápidos.",
+      "meaning_tr": "elektrifikasyon",
+      "meaning_en": "electrification",
+      "meaning_uk": "електрифікація",
+      "meaning_es": "proceso de dotar de energía eléctrica a una vía o sistema."
+    },
+    {
+      "term": "el desplazamiento",
+      "type": "Noun",
+      "example": "El *** diario al trabajo consume demasiado tiempo.",
+      "meaning_tr": "yer değiştirme / ulaşım",
+      "meaning_en": "commute/movement",
+      "meaning_uk": "переміщення",
+      "meaning_es": "acción de ir de un lugar a otro."
+    },
+    {
+      "term": "la normativa",
+      "type": "Noun",
+      "example": "Debemos cumplir con *** vigente sobre emisiones de gases.",
+      "meaning_tr": "yönetmelik",
+      "meaning_en": "regulations",
+      "meaning_uk": "нормативні акти",
+      "meaning_es": "conjunto de leyes o normas que regulan algo."
+    },
+    {
+      "term": "la trazabilidad",
+      "type": "Noun",
+      "example": "La *** de las mercancías es importante en el transporte internacional.",
+      "meaning_tr": "izlenebilirlik",
+      "meaning_en": "traceability",
+      "meaning_uk": "відстежуваність",
+      "meaning_es": "capacidad de seguir el rastro de algo."
+    },
+    {
+      "term": "el estacionamiento disuasorio",
+      "type": "Noun",
+      "example": "El ayuntamiento ha creado un *** en las afueras para reducir el uso del coche.",
+      "meaning_tr": "aktarma otoparkı",
+      "meaning_en": "park and ride",
+      "meaning_uk": "перехоплююче паркування",
+      "meaning_es": "aparcamiento periférico para fomentar el transporte público."
+    },
+    {
+      "term": "el viaducto",
+      "type": "Noun",
+      "example": "El tren cruza el valle a través de un impresionante ***.",
+      "meaning_tr": "viyadük",
+      "meaning_en": "viaduct",
+      "meaning_uk": "віадук",
+      "meaning_es": "puente largo para salvar un gran desnivel."
+    },
+    {
+      "term": "el cuello de botella",
+      "type": "Noun",
+      "example": "Esa rotonda es un *** que provoca retenciones cada mañana.",
+      "meaning_tr": "darboğaz",
+      "meaning_en": "bottleneck",
+      "meaning_uk": "вузьке місце",
+      "meaning_es": "punto donde se reduce la fluidez del tráfico."
+    },
+    {
+      "term": "la red de cercanías",
+      "type": "Noun",
+      "example": "Muchos trabajadores utilizan *** para ir a la capital desde los pueblos cercanos.",
+      "meaning_tr": "banliyö tren ağı",
+      "meaning_en": "commuter rail network",
+      "meaning_uk": "мережа приміських поїздів",
+      "meaning_es": "sistema de trenes que conecta las afueras con el centro."
+    },
+    {
+      "term": "el transporte público",
+      "type": "Noun",
+      "example": "Invertir en *** es la mejor forma de luchar contra el cambio climático.",
+      "meaning_tr": "toplu taşıma",
+      "meaning_en": "public transport",
+      "meaning_uk": "громадський транспорт",
+      "meaning_es": "sistema de transporte compartido por el público."
+    },
+    {
+      "term": "el carril reversible",
+      "type": "Noun",
+      "example": "A partir de las ocho, el carril central se convierte en *** hacia la ciudad.",
+      "meaning_tr": "ters yönlü şerit",
+      "meaning_en": "reversible lane",
+      "meaning_uk": "реверсивна смуга",
+      "meaning_es": "carril que puede cambiar su sentido según la hora."
+    },
+    {
+      "term": "la intermodal",
+      "type": "Adjective",
+      "example": "El transporte *** permite mover carga de forma más eficiente.",
+      "meaning_tr": "çok modlu",
+      "meaning_en": "intermodal",
+      "meaning_uk": "інтермодальний",
+      "meaning_es": "que utiliza varios modos de transporte."
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "example": "La satisfacción del *** es nuestra prioridad principal.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "cliente de un sistema de transporte."
+    },
+    {
+      "term": "la infraestructura",
+      "type": "Noun",
+      "example": "Sin una *** adecuada, el tráfico nunca mejorará.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "infrastructure",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "base estructural de un sistema de movilidad."
+    }
+  ]
+}

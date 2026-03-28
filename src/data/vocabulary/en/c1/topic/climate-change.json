@@ -1,0 +1,546 @@
+{
+  "title": "Climate Change (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the greenhouse effect",
+      "type": "Noun",
+      "example": "Rising CO2 levels are intensifying ***.",
+      "meaning_tr": "sera etkisi",
+      "meaning_en": "the process by which radiation from a planet's atmosphere warms the planet's surface",
+      "meaning_uk": "парниковий ефект",
+      "meaning_es": "el efecto invernadero"
+    },
+    {
+      "term": "to mitigate",
+      "type": "Verb",
+      "example": "We must act now to *** the impact of global warming.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to make something less severe, serious, or painful",
+      "meaning_uk": "пом'якшити",
+      "meaning_es": "mitigar"
+    },
+    {
+      "term": "the carbon footprint",
+      "type": "Noun",
+      "example": "Individuals are encouraged to reduce their ***.",
+      "meaning_tr": "karbon ayak izi",
+      "meaning_en": "the amount of carbon dioxide released into the atmosphere as a result of the activities of a particular individual",
+      "meaning_uk": "вуглецевий слід",
+      "meaning_es": "la huella de carbono"
+    },
+    {
+      "term": "an anomaly",
+      "type": "Noun",
+      "example": "This temperature spike is a significant *** in our climate data.",
+      "meaning_tr": "anomali",
+      "meaning_en": "something that deviates from what is standard, normal, or expected",
+      "meaning_uk": "аномалія",
+      "meaning_es": "una anomalía"
+    },
+    {
+      "term": "catastrophic",
+      "type": "Adjective",
+      "example": "Failure to address climate change could lead to *** consequences.",
+      "meaning_tr": "felaket getiren",
+      "meaning_en": "involving or causing sudden great damage or suffering",
+      "meaning_uk": "катастрофічний",
+      "meaning_es": "catastrófico"
+    },
+    {
+      "term": "to exacerbate",
+      "type": "Verb",
+      "example": "Deforestation will only *** the existing drought conditions.",
+      "meaning_tr": "kötüleştirmek",
+      "meaning_en": "to make a problem, bad situation, or negative feeling worse",
+      "meaning_uk": "погіршувати",
+      "meaning_es": "exacerbar"
+    },
+    {
+      "term": "the biodiversity",
+      "type": "Noun",
+      "example": "The loss of *** threatens the stability of our ecosystems.",
+      "meaning_tr": "biyoçeşitlilik",
+      "meaning_en": "the variety of life in the world or in a particular habitat",
+      "meaning_uk": "біорізноманіття",
+      "meaning_es": "la biodiversidad"
+    },
+    {
+      "term": "the sustainability",
+      "type": "Noun",
+      "example": "We need to focus on long-term environmental ***.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "the ability to be maintained at a certain rate or level",
+      "meaning_uk": "сталість",
+      "meaning_es": "la sostenibilidad"
+    },
+    {
+      "term": "unprecedented",
+      "type": "Adjective",
+      "example": "The heatwave reached *** levels this summer.",
+      "meaning_tr": "emsalsiz",
+      "meaning_en": "never done or known before",
+      "meaning_uk": "безпрецедентний",
+      "meaning_es": "sin precedentes"
+    },
+    {
+      "term": "the glacial retreat",
+      "type": "Noun",
+      "example": "Scientists are monitoring the rapid *** in the Arctic.",
+      "meaning_tr": "buzul geri çekilmesi",
+      "meaning_en": "the process by which a glacier shrinks in size",
+      "meaning_uk": "відступ льодовиків",
+      "meaning_es": "el retroceso glaciar"
+    },
+    {
+      "term": "the fossil fuel",
+      "type": "Noun",
+      "example": "We must transition away from *** dependence.",
+      "meaning_tr": "fosil yakıt",
+      "meaning_en": "a natural fuel such as coal or gas",
+      "meaning_uk": "викопне паливо",
+      "meaning_es": "el combustible fósil"
+    },
+    {
+      "term": "the resilience",
+      "type": "Noun",
+      "example": "Building coastal *** is vital for flood-prone areas.",
+      "meaning_tr": "direnç",
+      "meaning_en": "the capacity to recover quickly from difficulties",
+      "meaning_uk": "стійкість",
+      "meaning_es": "la resiliencia"
+    },
+    {
+      "term": "the renewable energy",
+      "type": "Noun",
+      "example": "Investment in *** is surging globally.",
+      "meaning_tr": "yenilenebilir enerji",
+      "meaning_en": "energy from a source that is not depleted when used",
+      "meaning_uk": "відновлювана енергія",
+      "meaning_es": "la energía renovable"
+    },
+    {
+      "term": "to deplete",
+      "type": "Verb",
+      "example": "Overfishing continues to *** our ocean resources.",
+      "meaning_tr": "tüketmek",
+      "meaning_en": "to use up the supply or resources of",
+      "meaning_uk": "вичерпувати",
+      "meaning_es": "agotar"
+    },
+    {
+      "term": "the deforestation",
+      "type": "Noun",
+      "example": "Widespread *** is accelerating the loss of carbon sinks.",
+      "meaning_tr": "orman kaybı",
+      "meaning_en": "the action of clearing a wide area of trees",
+      "meaning_uk": "знеліснення",
+      "meaning_es": "la deforestación"
+    },
+    {
+      "term": "the desertification",
+      "type": "Noun",
+      "example": "Poor land management has led to severe *** in the region.",
+      "meaning_tr": "çölleşme",
+      "meaning_en": "the process by which fertile land becomes desert",
+      "meaning_uk": "опустелювання",
+      "meaning_es": "la desertificación"
+    },
+    {
+      "term": "the emission",
+      "type": "Noun",
+      "example": "Governments are setting targets to cap carbon ***.",
+      "meaning_tr": "emisyon",
+      "meaning_en": "the production and discharge of something, especially gas or radiation",
+      "meaning_uk": "викиди",
+      "meaning_es": "la emisión"
+    },
+    {
+      "term": "the mitigation",
+      "type": "Noun",
+      "example": "Climate change *** requires international cooperation.",
+      "meaning_tr": "hafifletme",
+      "meaning_en": "the action of reducing the severity or painfulness of something",
+      "meaning_uk": "пом'якшення",
+      "meaning_es": "la mitigación"
+    },
+    {
+      "term": "the adaptation",
+      "type": "Noun",
+      "example": "Strategies for climate *** are essential for vulnerable cities.",
+      "meaning_tr": "uyum",
+      "meaning_en": "the action or process of adapting or being adapted",
+      "meaning_uk": "адаптація",
+      "meaning_es": "la adaptación"
+    },
+    {
+      "term": "the ocean acidification",
+      "type": "Noun",
+      "example": "Rising CO2 levels are causing dangerous ***.",
+      "meaning_tr": "okyanus asitlenmesi",
+      "meaning_en": "the reduction in the pH of the ocean over an extended period",
+      "meaning_uk": "окислення океану",
+      "meaning_es": "la acidificación oceánica"
+    },
+    {
+      "term": "the weather pattern",
+      "type": "Noun",
+      "example": "Extreme *** are becoming the new normal.",
+      "meaning_tr": "hava durumu modeli",
+      "meaning_en": "recurring weather conditions in a particular area",
+      "meaning_uk": "погодні умови",
+      "meaning_es": "el patrón meteorológico"
+    },
+    {
+      "term": "the tipping point",
+      "type": "Noun",
+      "example": "We are dangerously close to a climate ***.",
+      "meaning_tr": "kırılma noktası",
+      "meaning_en": "the point at which a series of small changes becomes significant enough to cause a larger change",
+      "meaning_uk": "переломний момент",
+      "meaning_es": "el punto de inflexión"
+    },
+    {
+      "term": "to sequester",
+      "type": "Verb",
+      "example": "Forests help to *** carbon from the atmosphere.",
+      "meaning_tr": "ayrıştırmak/hapsetmek",
+      "meaning_en": "to isolate or hide away, specifically carbon storage",
+      "meaning_uk": "секвеструвати",
+      "meaning_es": "secuestrar"
+    },
+    {
+      "term": "the ecological footprint",
+      "type": "Noun",
+      "example": "Calculating your *** can reveal your impact on the planet.",
+      "meaning_tr": "ekolojik ayak izi",
+      "meaning_en": "the impact of a person or community on the environment",
+      "meaning_uk": "екологічний слід",
+      "meaning_es": "la huella ecológica"
+    },
+    {
+      "term": "the greenhouse gas",
+      "type": "Noun",
+      "example": "Methane is a potent ***.",
+      "meaning_tr": "sera gazı",
+      "meaning_en": "a gas that contributes to the greenhouse effect by absorbing infrared radiation",
+      "meaning_uk": "парниковий газ",
+      "meaning_es": "el gas de efecto invernadero"
+    },
+    {
+      "term": "volatile",
+      "type": "Adjective",
+      "example": "The climate in this region has become highly ***.",
+      "meaning_tr": "değişken",
+      "meaning_en": "liable to change rapidly and unpredictably",
+      "meaning_uk": "мінливий",
+      "meaning_es": "volátil"
+    },
+    {
+      "term": "the permafrost",
+      "type": "Noun",
+      "example": "Thawing *** releases trapped methane into the air.",
+      "meaning_tr": "donmuş toprak",
+      "meaning_en": "a thick subsurface layer of soil that remains frozen throughout the year",
+      "meaning_uk": "вічна мерзлота",
+      "meaning_es": "el permafrost"
+    },
+    {
+      "term": "the renewable",
+      "type": "Noun",
+      "example": "Wind and solar are the most popular forms of ***.",
+      "meaning_tr": "yenilenebilir enerji kaynağı",
+      "meaning_en": "a source of energy that is not depleted by use",
+      "meaning_uk": "відновлюване джерело",
+      "meaning_es": "la energía renovable"
+    },
+    {
+      "term": "the geothermal energy",
+      "type": "Noun",
+      "example": "*** provides a constant source of power.",
+      "meaning_tr": "jeotermal enerji",
+      "meaning_en": "heat from within the earth",
+      "meaning_uk": "геотермальна енергія",
+      "meaning_es": "la energía geotérmica"
+    },
+    {
+      "term": "the carbon neutrality",
+      "type": "Noun",
+      "example": "Many countries have pledged to reach *** by 2050.",
+      "meaning_tr": "karbon nötrlüğü",
+      "meaning_en": "having a balance between emitting carbon and absorbing carbon from the atmosphere",
+      "meaning_uk": "вуглецева нейтральність",
+      "meaning_es": "la neutralidad de carbono"
+    },
+    {
+      "term": "the eco-friendly",
+      "type": "Adjective",
+      "example": "Consumers prefer *** products to reduce waste.",
+      "meaning_tr": "çevre dostu",
+      "meaning_en": "not harmful to the environment",
+      "meaning_uk": "екологічний",
+      "meaning_es": "ecológico"
+    },
+    {
+      "term": "the habitat loss",
+      "type": "Noun",
+      "example": "Urban expansion is the primary cause of ***.",
+      "meaning_tr": "habitat kaybı",
+      "meaning_en": "the process by which a natural habitat becomes unable to support its native species",
+      "meaning_uk": "втрата середовища існування",
+      "meaning_es": "la pérdida de hábitat"
+    },
+    {
+      "term": "to exacerbate",
+      "type": "Verb",
+      "example": "Pollution will only *** the health crisis.",
+      "meaning_tr": "şiddetlendirmek",
+      "meaning_en": "to make a problem worse",
+      "meaning_uk": "посилювати",
+      "meaning_es": "exacerbar"
+    },
+    {
+      "term": "the climate refugee",
+      "type": "Noun",
+      "example": "Rising sea levels are creating a new class of ***.",
+      "meaning_tr": "iklim mültecisi",
+      "meaning_en": "a person forced to leave their home due to climate change",
+      "meaning_uk": "кліматичний біженець",
+      "meaning_es": "el refugiado climático"
+    },
+    {
+      "term": "the biomass",
+      "type": "Noun",
+      "example": "Plants are a common source of *** energy.",
+      "meaning_tr": "biyokütle",
+      "meaning_en": "the total mass of organisms in a given area or volume",
+      "meaning_uk": "біомаса",
+      "meaning_es": "la biomasa"
+    },
+    {
+      "term": "the drought",
+      "type": "Noun",
+      "example": "A prolonged *** has devastated the local agriculture.",
+      "meaning_tr": "kuraklık",
+      "meaning_en": "a prolonged period of abnormally low rainfall",
+      "meaning_uk": "посуха",
+      "meaning_es": "la sequía"
+    },
+    {
+      "term": "the flood",
+      "type": "Noun",
+      "example": "Coastal defenses were breached during the recent ***.",
+      "meaning_tr": "sel",
+      "meaning_en": "an overflow of a large amount of water beyond its normal limits",
+      "meaning_uk": "повінь",
+      "meaning_es": "la inundación"
+    },
+    {
+      "term": "the solar panel",
+      "type": "Noun",
+      "example": "Installing a *** can significantly lower your electricity bill.",
+      "meaning_tr": "güneş paneli",
+      "meaning_en": "a panel designed to absorb the sun's rays as a source of energy",
+      "meaning_uk": "сонячна панель",
+      "meaning_es": "el panel solar"
+    },
+    {
+      "term": "the wind turbine",
+      "type": "Noun",
+      "example": "The landscape is filled with large *** for power generation.",
+      "meaning_tr": "rüzgar türbini",
+      "meaning_en": "a turbine that has its rotation speed controlled by the wind",
+      "meaning_uk": "вітрогенератор",
+      "meaning_es": "el aerogenerador"
+    },
+    {
+      "term": "the smog",
+      "type": "Noun",
+      "example": "Heavy traffic in the city often leads to thick ***.",
+      "meaning_tr": "duman/sis",
+      "meaning_en": "fog or haze intensified by smoke or other atmospheric pollutants",
+      "meaning_uk": "смог",
+      "meaning_es": "el esmog"
+    },
+    {
+      "term": "the ozone layer",
+      "type": "Noun",
+      "example": "The *** protects the Earth from harmful ultraviolet radiation.",
+      "meaning_tr": "ozon tabakası",
+      "meaning_en": "a layer in the earth's stratosphere which absorbs most of the sun's ultraviolet radiation",
+      "meaning_uk": "озоновий шар",
+      "meaning_es": "la capa de ozono"
+    },
+    {
+      "term": "the pollutant",
+      "type": "Noun",
+      "example": "The factory was fined for releasing a toxic ***.",
+      "meaning_tr": "kirletici",
+      "meaning_en": "a substance or thing that has harmful or poisonous effects",
+      "meaning_uk": "забруднювач",
+      "meaning_es": "el contaminante"
+    },
+    {
+      "term": "the landfill",
+      "type": "Noun",
+      "example": "Plastic waste often ends up in a massive ***.",
+      "meaning_tr": "çöp depolama alanı",
+      "meaning_en": "a place to dispose of refuse and other waste material by burying it",
+      "meaning_uk": "сміттєзвалище",
+      "meaning_es": "el vertedero"
+    },
+    {
+      "term": "the carbon tax",
+      "type": "Noun",
+      "example": "Economists argue that a *** is necessary to curb emissions.",
+      "meaning_tr": "karbon vergisi",
+      "meaning_en": "a tax imposed on the burning of carbon-based fuels",
+      "meaning_uk": "вуглецевий податок",
+      "meaning_es": "el impuesto al carbono"
+    },
+    {
+      "term": "the incineration",
+      "type": "Noun",
+      "example": "Waste *** is a controversial method of energy production.",
+      "meaning_tr": "yakma/kül etme",
+      "meaning_en": "the destruction of something, especially waste, by burning",
+      "meaning_uk": "спалювання",
+      "meaning_es": "la incineración"
+    },
+    {
+      "term": "the urbanization",
+      "type": "Noun",
+      "example": "Rapid *** is changing local microclimates.",
+      "meaning_tr": "şehirleşme",
+      "meaning_en": "the process of making an area more urban",
+      "meaning_uk": "урбанізація",
+      "meaning_es": "la urbanización"
+    },
+    {
+      "term": "the ice cap",
+      "type": "Noun",
+      "example": "The melting of the polar *** is raising sea levels.",
+      "meaning_tr": "buzul örtüsü",
+      "meaning_en": "a covering of ice over a large area",
+      "meaning_uk": "льодовиковий щит",
+      "meaning_es": "el casquete polar"
+    },
+    {
+      "term": "the heatwave",
+      "type": "Noun",
+      "example": "This summer saw an unprecedented *** across Europe.",
+      "meaning_tr": "sıcak hava dalgası",
+      "meaning_en": "a prolonged period of excessively hot weather",
+      "meaning_uk": "спека",
+      "meaning_es": "la ola de calor"
+    },
+    {
+      "term": "the coral bleaching",
+      "type": "Noun",
+      "example": "Rising water temperatures are causing widespread ***.",
+      "meaning_tr": "mercan ağarması",
+      "meaning_en": "the loss of intracellular endosymbionts from coral tissue",
+      "meaning_uk": "знебарвлення коралів",
+      "meaning_es": "el blanqueamiento de coral"
+    },
+    {
+      "term": "the ecosystem",
+      "type": "Noun",
+      "example": "Each species plays a role in the health of the ***.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "a biological community of interacting organisms and their physical environment",
+      "meaning_uk": "екосистема",
+      "meaning_es": "el ecosistema"
+    },
+    {
+      "term": "the groundwater",
+      "type": "Noun",
+      "example": "Over-extraction is depleting our essential *** reserves.",
+      "meaning_tr": "yeraltı suyu",
+      "meaning_en": "water held underground in the soil or in pores and crevices in rock",
+      "meaning_uk": "підземні води",
+      "meaning_es": "el agua subterránea"
+    },
+    {
+      "term": "the radiation",
+      "type": "Noun",
+      "example": "The atmosphere traps solar ***, warming the Earth.",
+      "meaning_tr": "radyasyon",
+      "meaning_en": "the emission of energy as electromagnetic waves",
+      "meaning_uk": "випромінювання",
+      "meaning_es": "la radiación"
+    },
+    {
+      "term": "the precipitation",
+      "type": "Noun",
+      "example": "Climate change is altering global *** patterns.",
+      "meaning_tr": "yağış",
+      "meaning_en": "rain, snow, sleet, or hail that falls to the ground",
+      "meaning_uk": "опади",
+      "meaning_es": "la precipitación"
+    },
+    {
+      "term": "the salinity",
+      "type": "Noun",
+      "example": "Changes in ocean *** can disrupt marine currents.",
+      "meaning_tr": "tuzluluk",
+      "meaning_en": "the concentration of dissolved salts in water",
+      "meaning_uk": "солоність",
+      "meaning_es": "la salinidad"
+    },
+    {
+      "term": "the sea level rise",
+      "type": "Noun",
+      "example": "Coastal cities are preparing for future ***.",
+      "meaning_tr": "deniz seviyesi yükselmesi",
+      "meaning_en": "the increase in the global mean sea level",
+      "meaning_uk": "підвищення рівня моря",
+      "meaning_es": "el aumento del nivel del mar"
+    },
+    {
+      "term": "to adapt",
+      "type": "Verb",
+      "example": "Species must *** to the changing environment to survive.",
+      "meaning_tr": "uyum sağlamak",
+      "meaning_en": "to become adjusted to new conditions",
+      "meaning_uk": "адаптуватися",
+      "meaning_es": "adaptarse"
+    },
+    {
+      "term": "the climate policy",
+      "type": "Noun",
+      "example": "Effective *** is crucial for limiting temperature rise.",
+      "meaning_tr": "iklim politikası",
+      "meaning_en": "government measures to address climate change",
+      "meaning_uk": "кліматична політика",
+      "meaning_es": "la política climática"
+    },
+    {
+      "term": "the greenwashing",
+      "type": "Noun",
+      "example": "Many companies are accused of *** to deceive consumers.",
+      "meaning_tr": "yeşil aklama",
+      "meaning_en": "making misleading claims about the environmental benefits of a product",
+      "meaning_uk": "грінвошинг",
+      "meaning_es": "el lavado de imagen verde"
+    },
+    {
+      "term": "the methane",
+      "type": "Noun",
+      "example": "Livestock farming is a significant source of ***.",
+      "meaning_tr": "metan",
+      "meaning_en": "a colorless, odorless flammable gas",
+      "meaning_uk": "метан",
+      "meaning_es": "el metano"
+    },
+    {
+      "term": "the carbon capture",
+      "type": "Noun",
+      "example": "New technologies aim to improve *** efficiency.",
+      "meaning_tr": "karbon yakalama",
+      "meaning_en": "the process of trapping carbon dioxide emissions",
+      "meaning_uk": "вловлювання вуглецю",
+      "meaning_es": "la captura de carbono"
+    }
+  ]
+}

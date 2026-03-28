@@ -1,0 +1,546 @@
+{
+  "title": "Astronomia y Espacio (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el agujero negro",
+      "type": "Noun",
+      "example": "La luz no puede escapar de la atracción gravitatoria de ***.",
+      "meaning_tr": "kara delik",
+      "meaning_en": "black hole",
+      "meaning_uk": "чорна діра",
+      "meaning_es": "región del espacio con una gravedad tan intensa que nada puede escapar de ella"
+    },
+    {
+      "term": "la supernova",
+      "type": "Noun",
+      "example": "La explosión de *** iluminó toda la galaxia durante semanas.",
+      "meaning_tr": "süpernova",
+      "meaning_en": "supernova",
+      "meaning_uk": "наднова",
+      "meaning_es": "explosión estelar violenta al final de la vida de una estrella"
+    },
+    {
+      "term": "orbitar",
+      "type": "Verb",
+      "example": "Los satélites artificiales deben *** la Tierra a una velocidad constante.",
+      "meaning_tr": "yörüngede dönmek",
+      "meaning_en": "to orbit",
+      "meaning_uk": "обертатися по орбіті",
+      "meaning_es": "moverse en una trayectoria curva alrededor de un cuerpo celeste"
+    },
+    {
+      "term": "la materia oscura",
+      "type": "Noun",
+      "example": "Gran parte del universo está compuesto por ***, que no podemos observar directamente.",
+      "meaning_tr": "karanlık madde",
+      "meaning_en": "dark matter",
+      "meaning_uk": "темна матерія",
+      "meaning_es": "forma de materia que no emite radiación electromagnética"
+    },
+    {
+      "term": "el exoplaneta",
+      "type": "Noun",
+      "example": "Los astrónomos han descubierto un nuevo *** en la zona habitable de su estrella.",
+      "meaning_tr": "ötegezegen",
+      "meaning_en": "exoplanet",
+      "meaning_uk": "екзопланета",
+      "meaning_es": "planeta que orbita una estrella fuera del sistema solar"
+    },
+    {
+      "term": "la nebulosa",
+      "type": "Noun",
+      "example": "En el corazón de *** se están formando nuevas estrellas.",
+      "meaning_tr": "bulutsu",
+      "meaning_en": "nebula",
+      "meaning_uk": "туманність",
+      "meaning_es": "nube gigante de polvo y gas en el espacio interestelar"
+    },
+    {
+      "term": "el pulsar",
+      "type": "Noun",
+      "example": "La señal de radio emitida por *** es extremadamente precisa.",
+      "meaning_tr": "atarca",
+      "meaning_en": "pulsar",
+      "meaning_uk": "пульсар",
+      "meaning_es": "estrella de neutrones que emite haces de radiación periódicos"
+    },
+    {
+      "term": "la singularidad",
+      "type": "Noun",
+      "example": "En el centro de un agujero negro existe una *** de densidad infinita.",
+      "meaning_tr": "tekillik",
+      "meaning_en": "singularity",
+      "meaning_uk": "сингулярність",
+      "meaning_es": "punto de densidad y curvatura espacio-temporal infinita"
+    },
+    {
+      "term": "celeste",
+      "type": "Adjective",
+      "example": "El telescopio permitió observar un fenómeno *** muy poco común.",
+      "meaning_tr": "gök",
+      "meaning_en": "celestial",
+      "meaning_uk": "небесний",
+      "meaning_es": "relativo a los astros o al cielo"
+    },
+    {
+      "term": "la radiación de fondo",
+      "type": "Noun",
+      "example": "El Big Bang dejó como rastro *** que detectamos hoy en día.",
+      "meaning_tr": "kozmik mikrodalga arka plan ışıması",
+      "meaning_en": "cosmic background radiation",
+      "meaning_uk": "реліктове випромінювання",
+      "meaning_es": "radiación electromagnética que llena el universo"
+    },
+    {
+      "term": "la astrofísica",
+      "type": "Noun",
+      "example": "Su doctorado en *** le permitió entender la dinámica estelar.",
+      "meaning_tr": "astrofizik",
+      "meaning_en": "astrophysics",
+      "meaning_uk": "астрофізика",
+      "meaning_es": "ciencia que estudia los fenómenos físicos del universo"
+    },
+    {
+      "term": "el perihelio",
+      "type": "Noun",
+      "example": "La Tierra alcanza su *** en enero, estando más cerca del Sol.",
+      "meaning_tr": "günberi",
+      "meaning_en": "perihelion",
+      "meaning_uk": "перигелій",
+      "meaning_es": "punto de la órbita más cercano al Sol"
+    },
+    {
+      "term": "el apogeo",
+      "type": "Noun",
+      "example": "Cuando la Luna está en su ***, parece más pequeña desde la Tierra.",
+      "meaning_tr": "yeröte",
+      "meaning_en": "apogee",
+      "meaning_uk": "апогей",
+      "meaning_es": "punto de la órbita más alejado de la Tierra"
+    },
+    {
+      "term": "el espectro",
+      "type": "Noun",
+      "example": "Analizamos el *** de la luz estelar para determinar su composición química.",
+      "meaning_tr": "spektrum",
+      "meaning_en": "spectrum",
+      "meaning_uk": "спектр",
+      "meaning_es": "distribución de la intensidad de las radiaciones electromagnéticas"
+    },
+    {
+      "term": "la gravedad",
+      "type": "Noun",
+      "example": "La *** es la fuerza que mantiene unidos a los sistemas planetarios.",
+      "meaning_tr": "yerçekimi",
+      "meaning_en": "gravity",
+      "meaning_uk": "гравітація",
+      "meaning_es": "fuerza de atracción mutua entre cuerpos con masa"
+    },
+    {
+      "term": "la magnitud",
+      "type": "Noun",
+      "example": "Los astrónomos usan la *** para medir el brillo de una estrella.",
+      "meaning_tr": "büyüklük",
+      "meaning_en": "magnitude",
+      "meaning_uk": "зоряна величина",
+      "meaning_es": "medida del brillo de un objeto astronómico"
+    },
+    {
+      "term": "colapsar",
+      "type": "Verb",
+      "example": "Cuando el combustible nuclear se agota, la estrella tiende a ***.",
+      "meaning_tr": "çökmek",
+      "meaning_en": "to collapse",
+      "meaning_uk": "колапсувати",
+      "meaning_es": "caer sobre sí mismo por efecto de la gravedad"
+    },
+    {
+      "term": "el horizonte de sucesos",
+      "type": "Noun",
+      "example": "Nada, ni siquiera la luz, puede regresar una vez que cruza ***.",
+      "meaning_tr": "olay ufku",
+      "meaning_en": "event horizon",
+      "meaning_uk": "горизонт подій",
+      "meaning_es": "límite teórico alrededor de un agujero negro"
+    },
+    {
+      "term": "el sistema binario",
+      "type": "Noun",
+      "example": "Observamos un *** donde dos estrellas giran alrededor de un centro común.",
+      "meaning_tr": "çift yıldız sistemi",
+      "meaning_en": "binary system",
+      "meaning_uk": "подвійна зоряна система",
+      "meaning_es": "conjunto de dos estrellas que se atraen gravitatoriamente"
+    },
+    {
+      "term": "la expansión",
+      "type": "Noun",
+      "example": "La *** del universo se acelera debido a la energía oscura.",
+      "meaning_tr": "genişleme",
+      "meaning_en": "expansion",
+      "meaning_uk": "розширення",
+      "meaning_es": "aumento gradual del tamaño del universo"
+    },
+    {
+      "term": "interestelar",
+      "type": "Adjective",
+      "example": "El gas *** es la materia que se encuentra entre las estrellas.",
+      "meaning_tr": "yıldızlararası",
+      "meaning_en": "interstellar",
+      "meaning_uk": "міжзоряний",
+      "meaning_es": "que ocurre o se encuentra entre las estrellas"
+    },
+    {
+      "term": "la órbita",
+      "type": "Noun",
+      "example": "El cometa sigue una *** elíptica muy alargada.",
+      "meaning_tr": "yörünge",
+      "meaning_en": "orbit",
+      "meaning_uk": "орбіта",
+      "meaning_es": "trayectoria que recorre un cuerpo en el espacio"
+    },
+    {
+      "term": "la sonda espacial",
+      "type": "Noun",
+      "example": "La *** envió imágenes detalladas de los anillos de Saturno.",
+      "meaning_tr": "uzay sondası",
+      "meaning_en": "space probe",
+      "meaning_uk": "космічний зонд",
+      "meaning_es": "vehículo enviado al espacio para exploración científica"
+    },
+    {
+      "term": "la luz solar",
+      "type": "Noun",
+      "example": "La *** tarda aproximadamente ocho minutos en llegar a la Tierra.",
+      "meaning_tr": "güneş ışığı",
+      "meaning_en": "sunlight",
+      "meaning_uk": "сонячне світло",
+      "meaning_es": "radiación electromagnética emitida por el Sol"
+    },
+    {
+      "term": "el asteroide",
+      "type": "Noun",
+      "example": "Un *** pasó cerca de nuestro planeta sin representar peligro.",
+      "meaning_tr": "asteroit",
+      "meaning_en": "asteroid",
+      "meaning_uk": "астероїд",
+      "meaning_es": "cuerpo rocoso pequeño que orbita alrededor del Sol"
+    },
+    {
+      "term": "la atmósfera",
+      "type": "Noun",
+      "example": "La densa *** de Venus atrapa el calor de forma extrema.",
+      "meaning_tr": "atmosfer",
+      "meaning_en": "atmosphere",
+      "meaning_uk": "атмосфера",
+      "meaning_es": "capa de gases que rodea a un cuerpo celeste"
+    },
+    {
+      "term": "el cosmos",
+      "type": "Noun",
+      "example": "La inmensidad del *** nos hace cuestionar nuestro lugar en él.",
+      "meaning_tr": "evren",
+      "meaning_en": "cosmos",
+      "meaning_uk": "космос",
+      "meaning_es": "el universo considerado como un sistema ordenado"
+    },
+    {
+      "term": "la elipse",
+      "type": "Noun",
+      "example": "Los planetas se mueven siguiendo una trayectoria en forma de ***.",
+      "meaning_tr": "elips",
+      "meaning_en": "ellipse",
+      "meaning_uk": "еліпс",
+      "meaning_es": "figura geométrica curva y cerrada"
+    },
+    {
+      "term": "la materia bariónica",
+      "type": "Noun",
+      "example": "Solo una pequeña fracción del universo está hecha de ***.",
+      "meaning_tr": "baryonik madde",
+      "meaning_en": "baryonic matter",
+      "meaning_uk": "баріонна матерія",
+      "meaning_es": "materia compuesta por protones y neutrones"
+    },
+    {
+      "term": "el cuásar",
+      "type": "Noun",
+      "example": "Un *** es un núcleo galáctico extremadamente brillante y distante.",
+      "meaning_tr": "kuasar",
+      "meaning_en": "quasar",
+      "meaning_uk": "квазар",
+      "meaning_es": "fuente de energía extremadamente luminosa y lejana"
+    },
+    {
+      "term": "la eclíptica",
+      "type": "Noun",
+      "example": "El Sol parece moverse a lo largo de *** durante el año.",
+      "meaning_tr": "ekliptik",
+      "meaning_en": "ecliptic",
+      "meaning_uk": "екліптика",
+      "meaning_es": "trayectoria aparente del Sol en el cielo"
+    },
+    {
+      "term": "la inercia",
+      "type": "Noun",
+      "example": "Por la ***, el satélite sigue moviéndose aunque el motor esté apagado.",
+      "meaning_tr": "eylemsizlik",
+      "meaning_en": "inertia",
+      "meaning_uk": "інерція",
+      "meaning_es": "resistencia de un cuerpo a cambiar su estado de movimiento"
+    },
+    {
+      "term": "acotar",
+      "type": "Verb",
+      "example": "Debemos *** los límites de búsqueda para encontrar el planeta.",
+      "meaning_tr": "sınırlandırmak",
+      "meaning_en": "to bound",
+      "meaning_uk": "обмежувати",
+      "meaning_es": "establecer límites o fronteras"
+    },
+    {
+      "term": "la sonda",
+      "type": "Noun",
+      "example": "Lanzaron una *** para estudiar la composición de la atmósfera marciana.",
+      "meaning_tr": "sonda",
+      "meaning_en": "probe",
+      "meaning_uk": "зонд",
+      "meaning_es": "instrumento para explorar el espacio"
+    },
+    {
+      "term": "la traslación",
+      "type": "Noun",
+      "example": "El movimiento de *** de la Tierra dura 365 días.",
+      "meaning_tr": "öteleme",
+      "meaning_en": "translation",
+      "meaning_uk": "трансляція",
+      "meaning_es": "movimiento de un cuerpo alrededor de otro"
+    },
+    {
+      "term": "la rotación",
+      "type": "Noun",
+      "example": "La *** de la Tierra sobre su eje causa el día y la noche.",
+      "meaning_tr": "dönme",
+      "meaning_en": "rotation",
+      "meaning_uk": "обертання",
+      "meaning_es": "giro de un cuerpo sobre su propio eje"
+    },
+    {
+      "term": "la supernova",
+      "type": "Noun",
+      "example": "El brillo de *** superó al de una galaxia entera.",
+      "meaning_tr": "süpernova",
+      "meaning_en": "supernova",
+      "meaning_uk": "наднова",
+      "meaning_es": "explosión estelar"
+    },
+    {
+      "term": "la constelación",
+      "type": "Noun",
+      "example": "Orión es una de las *** más fáciles de reconocer en el cielo nocturno.",
+      "meaning_tr": "takımyıldız",
+      "meaning_en": "constellation",
+      "meaning_uk": "сузір'я",
+      "meaning_es": "agrupación convencional de estrellas"
+    },
+    {
+      "term": "la luz infrarroja",
+      "type": "Noun",
+      "example": "El telescopio James Webb observa el universo en ***.",
+      "meaning_tr": "kızılötesi ışık",
+      "meaning_en": "infrared light",
+      "meaning_uk": "інфрачервоне світло",
+      "meaning_es": "radiación con longitud de onda mayor a la luz visible"
+    },
+    {
+      "term": "la masa",
+      "type": "Noun",
+      "example": "La *** de la estrella determina su evolución final.",
+      "meaning_tr": "kütle",
+      "meaning_en": "mass",
+      "meaning_uk": "маса",
+      "meaning_es": "cantidad de materia de un cuerpo"
+    },
+    {
+      "term": "el vacío",
+      "type": "Noun",
+      "example": "El espacio es prácticamente un ***, con muy poca materia presente.",
+      "meaning_tr": "boşluk",
+      "meaning_en": "vacuum",
+      "meaning_uk": "вакуум",
+      "meaning_es": "ausencia de materia"
+    },
+    {
+      "term": "la radiación",
+      "type": "Noun",
+      "example": "Debemos protegernos de la *** cósmica durante los viajes espaciales.",
+      "meaning_tr": "radyasyon",
+      "meaning_en": "radiation",
+      "meaning_uk": "випромінювання",
+      "meaning_es": "emisión de energía a través de ondas"
+    },
+    {
+      "term": "la materia",
+      "type": "Noun",
+      "example": "La *** es todo lo que ocupa espacio y tiene masa.",
+      "meaning_tr": "madde",
+      "meaning_en": "matter",
+      "meaning_uk": "матерія",
+      "meaning_es": "sustancia física"
+    },
+    {
+      "term": "el telescopio",
+      "type": "Noun",
+      "example": "Usaron un gran *** para captar la luz de galaxias muy lejanas.",
+      "meaning_tr": "teleskop",
+      "meaning_en": "telescope",
+      "meaning_uk": "телескоп",
+      "meaning_es": "instrumento óptico para ver objetos lejanos"
+    },
+    {
+      "term": "la galaxia",
+      "type": "Noun",
+      "example": "Nuestra ***, la Vía Láctea, contiene miles de millones de estrellas.",
+      "meaning_tr": "galaksi",
+      "meaning_en": "galaxy",
+      "meaning_uk": "галактика",
+      "meaning_es": "sistema masivo de estrellas, gas y polvo"
+    },
+    {
+      "term": "la estrella",
+      "type": "Noun",
+      "example": "El Sol es *** más cercana a nosotros.",
+      "meaning_tr": "yıldız",
+      "meaning_en": "star",
+      "meaning_uk": "зірка",
+      "meaning_es": "cuerpo celeste que brilla con luz propia"
+    },
+    {
+      "term": "el planeta",
+      "type": "Noun",
+      "example": "Marte es conocido como el *** rojo.",
+      "meaning_tr": "gezegen",
+      "meaning_en": "planet",
+      "meaning_uk": "планета",
+      "meaning_es": "cuerpo celeste que orbita una estrella"
+    },
+    {
+      "term": "la luna",
+      "type": "Noun",
+      "example": "Júpiter tiene una gran cantidad de *** que orbitan a su alrededor.",
+      "meaning_tr": "ay",
+      "meaning_en": "moon",
+      "meaning_uk": "місяць",
+      "meaning_es": "satélite natural de un planeta"
+    },
+    {
+      "term": "el cometa",
+      "type": "Noun",
+      "example": "El paso de *** dejó una estela brillante en el cielo.",
+      "meaning_tr": "kuyruklu yıldız",
+      "meaning_en": "comet",
+      "meaning_uk": "комета",
+      "meaning_es": "cuerpo celeste helado con órbita elíptica"
+    },
+    {
+      "term": "el satélite",
+      "type": "Noun",
+      "example": "Un *** meteorológico proporciona datos climáticos en tiempo real.",
+      "meaning_tr": "uydu",
+      "meaning_en": "satellite",
+      "meaning_uk": "супутник",
+      "meaning_es": "cuerpo que orbita alrededor de otro"
+    },
+    {
+      "term": "el universo",
+      "type": "Noun",
+      "example": "El estudio de *** abarca desde partículas subatómicas hasta galaxias.",
+      "meaning_tr": "evren",
+      "meaning_en": "universe",
+      "meaning_uk": "всесвіт",
+      "meaning_es": "conjunto de todo lo que existe"
+    },
+    {
+      "term": "la sonda espacial",
+      "type": "Noun",
+      "example": "La *** fue lanzada para explorar el sistema solar exterior.",
+      "meaning_tr": "uzay sondası",
+      "meaning_en": "space probe",
+      "meaning_uk": "космічний зонд",
+      "meaning_es": "dispositivo robótico de exploración"
+    },
+    {
+      "term": "la luz",
+      "type": "Noun",
+      "example": "La velocidad de *** es una constante fundamental en física.",
+      "meaning_tr": "ışık",
+      "meaning_en": "light",
+      "meaning_uk": "світло",
+      "meaning_es": "forma de energía radiante"
+    },
+    {
+      "term": "el eje",
+      "type": "Noun",
+      "example": "La Tierra gira sobre su *** con una inclinación específica.",
+      "meaning_tr": "eksen",
+      "meaning_en": "axis",
+      "meaning_uk": "вісь",
+      "meaning_es": "línea imaginaria sobre la cual gira un cuerpo"
+    },
+    {
+      "term": "el gas",
+      "type": "Noun",
+      "example": "Las estrellas nacen a partir de grandes nubes de ***.",
+      "meaning_tr": "gaz",
+      "meaning_en": "gas",
+      "meaning_uk": "газ",
+      "meaning_es": "estado de la materia sin forma definida"
+    },
+    {
+      "term": "el polvo",
+      "type": "Noun",
+      "example": "El *** cósmico es fundamental para la formación de planetas.",
+      "meaning_tr": "toz",
+      "meaning_en": "dust",
+      "meaning_uk": "пил",
+      "meaning_es": "partículas sólidas pequeñas en el espacio"
+    },
+    {
+      "term": "la energía",
+      "type": "Noun",
+      "example": "El Sol genera *** a través de la fusión nuclear.",
+      "meaning_tr": "enerji",
+      "meaning_en": "energy",
+      "meaning_uk": "енергія",
+      "meaning_es": "capacidad para realizar un trabajo"
+    },
+    {
+      "term": "la órbita",
+      "type": "Noun",
+      "example": "El cohete alcanzó la *** terrestre tras varios minutos de vuelo.",
+      "meaning_tr": "yörünge",
+      "meaning_en": "orbit",
+      "meaning_uk": "орбіта",
+      "meaning_es": "trayectoria curva de un objeto"
+    },
+    {
+      "term": "el ciclo",
+      "type": "Noun",
+      "example": "El *** de vida de una estrella depende de su masa inicial.",
+      "meaning_tr": "döngü",
+      "meaning_en": "cycle",
+      "meaning_uk": "цикл",
+      "meaning_es": "serie de fases por las que pasa un objeto"
+    },
+    {
+      "term": "lejano",
+      "type": "Adjective",
+      "example": "Los astrónomos observan objetos muy *** con potentes telescopios.",
+      "meaning_tr": "uzak",
+      "meaning_en": "distant",
+      "meaning_uk": "далекий",
+      "meaning_es": "que se encuentra a gran distancia"
+    }
+  ]
+}

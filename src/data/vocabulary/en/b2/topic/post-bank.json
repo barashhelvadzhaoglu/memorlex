@@ -1,0 +1,411 @@
+{
+  "title": "Post Office & Banking (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a withdrawal",
+      "type": "Noun",
+      "example": "I need to make *** from my savings account to pay for the holiday.",
+      "meaning_tr": "para çekme",
+      "meaning_en": "the act of taking money out of an account",
+      "meaning_uk": "зняття коштів",
+      "meaning_es": "retiro"
+    },
+    {
+      "term": "a deposit",
+      "type": "Noun",
+      "example": "You can make *** into your account using the automated machine.",
+      "meaning_tr": "para yatırma",
+      "meaning_en": "a sum of money placed in a bank account",
+      "meaning_uk": "депозит",
+      "meaning_es": "depósito"
+    },
+    {
+      "term": "to transfer",
+      "type": "Verb",
+      "example": "I will *** the funds to your account by the end of the day.",
+      "meaning_tr": "havale etmek",
+      "meaning_en": "to move money from one account to another",
+      "meaning_uk": "переказувати",
+      "meaning_es": "transferir"
+    },
+    {
+      "term": "a balance",
+      "type": "Noun",
+      "example": "Could you please check the current *** of my checking account?",
+      "meaning_tr": "bakiye",
+      "meaning_en": "the amount of money held in an account",
+      "meaning_uk": "баланс",
+      "meaning_es": "saldo"
+    },
+    {
+      "term": "an interest rate",
+      "type": "Noun",
+      "example": "The bank offers a competitive *** on all long-term savings accounts.",
+      "meaning_tr": "faiz oranı",
+      "meaning_en": "the percentage charged or paid for the use of money",
+      "meaning_uk": "відсоткова ставка",
+      "meaning_es": "tasa de interés"
+    },
+    {
+      "term": "a branch",
+      "type": "Noun",
+      "example": "My local bank *** is closing down, so I have to travel further.",
+      "meaning_tr": "şube",
+      "meaning_en": "a local office of a bank or business",
+      "meaning_uk": "відділення",
+      "meaning_es": "sucursal"
+    },
+    {
+      "term": "to overdraft",
+      "type": "Verb",
+      "example": "I accidentally managed to *** my account by buying too many things online.",
+      "meaning_tr": "kredili mevduat hesabını aşmak",
+      "meaning_en": "to take out more money than is available in the account",
+      "meaning_uk": "перевищити ліміт",
+      "meaning_es": "sobregirar"
+    },
+    {
+      "term": "a statement",
+      "type": "Noun",
+      "example": "I received my monthly bank *** in the mail this morning.",
+      "meaning_tr": "hesap özeti",
+      "meaning_en": "a record of transactions on an account",
+      "meaning_uk": "виписка",
+      "meaning_es": "estado de cuenta"
+    },
+    {
+      "term": "a transaction",
+      "type": "Noun",
+      "example": "There is an unauthorized *** on my credit card statement.",
+      "meaning_tr": "işlem",
+      "meaning_en": "an instance of buying or selling something",
+      "meaning_uk": "транзакція",
+      "meaning_es": "transacción"
+    },
+    {
+      "term": "a currency",
+      "type": "Noun",
+      "example": "You should exchange your money into local *** before you travel.",
+      "meaning_tr": "para birimi",
+      "meaning_en": "the money used in a particular country",
+      "meaning_uk": "валюта",
+      "meaning_es": "moneda"
+    },
+    {
+      "term": "a mortgage",
+      "type": "Noun",
+      "example": "We are applying for a *** to buy our first house.",
+      "meaning_tr": "konut kredisi",
+      "meaning_en": "a loan to purchase property",
+      "meaning_uk": "іпотека",
+      "meaning_es": "hipoteca"
+    },
+    {
+      "term": "a loan",
+      "type": "Noun",
+      "example": "I took out a personal *** to pay for my car repairs.",
+      "meaning_tr": "kredi",
+      "meaning_en": "money that is borrowed and paid back with interest",
+      "meaning_uk": "позика",
+      "meaning_es": "préstamo"
+    },
+    {
+      "term": "a debit card",
+      "type": "Noun",
+      "example": "I prefer to pay with my *** instead of carrying cash.",
+      "meaning_tr": "banka kartı",
+      "meaning_en": "a card used to pay for goods directly from your account",
+      "meaning_uk": "дебетова картка",
+      "meaning_es": "tarjeta de débito"
+    },
+    {
+      "term": "a credit card",
+      "type": "Noun",
+      "example": "Make sure to pay off your *** bill in full every month.",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "a card that allows you to borrow money to pay for goods",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "tarjeta de crédito"
+    },
+    {
+      "term": "a PIN",
+      "type": "Noun",
+      "example": "Never tell anyone your secret *** for your bank account.",
+      "meaning_tr": "şifre",
+      "meaning_en": "a personal identification number",
+      "meaning_uk": "ПІН-код",
+      "meaning_es": "PIN"
+    },
+    {
+      "term": "to exchange",
+      "type": "Verb",
+      "example": "I need to *** my dollars for euros at the bank.",
+      "meaning_tr": "döviz çevirmek",
+      "meaning_en": "to give money in one currency and receive it in another",
+      "meaning_uk": "обмінювати",
+      "meaning_es": "cambiar"
+    },
+    {
+      "term": "an investment",
+      "type": "Noun",
+      "example": "She is looking for a safe *** to grow her savings.",
+      "meaning_tr": "yatırım",
+      "meaning_en": "putting money into something to make a profit",
+      "meaning_uk": "інвестиція",
+      "meaning_es": "inversión"
+    },
+    {
+      "term": "a teller",
+      "type": "Noun",
+      "example": "The bank *** helped me fill out the deposit slip.",
+      "meaning_tr": "banka görevlisi",
+      "meaning_en": "a person who works at a bank counter",
+      "meaning_uk": "касир",
+      "meaning_es": "cajero"
+    },
+    {
+      "term": "a fee",
+      "type": "Noun",
+      "example": "The bank charges a small service *** for international transfers.",
+      "meaning_tr": "ücret",
+      "meaning_en": "an amount of money paid for a service",
+      "meaning_uk": "комісія",
+      "meaning_es": "tarifa"
+    },
+    {
+      "term": "a signature",
+      "type": "Noun",
+      "example": "Please provide your *** on the bottom of the document.",
+      "meaning_tr": "imza",
+      "meaning_en": "your name written in your own handwriting",
+      "meaning_uk": "підпис",
+      "meaning_es": "firma"
+    },
+    {
+      "term": "a parcel",
+      "type": "Noun",
+      "example": "I went to the post office to send a heavy *** to my brother.",
+      "meaning_tr": "paket",
+      "meaning_en": "a package wrapped for mailing",
+      "meaning_uk": "посилка",
+      "meaning_es": "paquete"
+    },
+    {
+      "term": "a stamp",
+      "type": "Noun",
+      "example": "You need to put a *** on the envelope before mailing it.",
+      "meaning_tr": "pul",
+      "meaning_en": "a small adhesive sticker for mailing letters",
+      "meaning_uk": "марка",
+      "meaning_es": "sello"
+    },
+    {
+      "term": "a registered mail",
+      "type": "Noun",
+      "example": "I sent the contract by *** to ensure it arrived safely.",
+      "meaning_tr": "taahhütlü posta",
+      "meaning_en": "a mail service that provides extra security and tracking",
+      "meaning_uk": "замовний лист",
+      "meaning_es": "correo certificado"
+    },
+    {
+      "term": "a letter",
+      "type": "Noun",
+      "example": "I wrote a long *** to my friend living abroad.",
+      "meaning_tr": "mektup",
+      "meaning_en": "a written message sent by post",
+      "meaning_uk": "лист",
+      "meaning_es": "carta"
+    },
+    {
+      "term": "an envelope",
+      "type": "Noun",
+      "example": "Put the document inside the *** and seal it carefully.",
+      "meaning_tr": "zarf",
+      "meaning_en": "a paper container for letters",
+      "meaning_uk": "конверт",
+      "meaning_es": "sobre"
+    },
+    {
+      "term": "to mail",
+      "type": "Verb",
+      "example": "Did you remember to *** the invitation for the wedding?",
+      "meaning_tr": "postalamak",
+      "meaning_en": "to send something via the post office",
+      "meaning_uk": "надсилати поштою",
+      "meaning_es": "enviar por correo"
+    },
+    {
+      "term": "a postcode",
+      "type": "Noun",
+      "example": "Please write the *** clearly so the letter reaches the right address.",
+      "meaning_tr": "posta kodu",
+      "meaning_en": "a group of letters and numbers for a geographic area",
+      "meaning_uk": "поштовий індекс",
+      "meaning_es": "código postal"
+    },
+    {
+      "term": "a courier",
+      "type": "Noun",
+      "example": "We used a private *** service to deliver the urgent documents.",
+      "meaning_tr": "kurye",
+      "meaning_en": "a company that delivers parcels quickly",
+      "meaning_uk": "кур'єр",
+      "meaning_es": "mensajero"
+    },
+    {
+      "term": "a delivery",
+      "type": "Noun",
+      "example": "The *** of the package is expected by tomorrow afternoon.",
+      "meaning_tr": "teslimat",
+      "meaning_en": "the act of bringing goods to a destination",
+      "meaning_uk": "доставка",
+      "meaning_es": "entrega"
+    },
+    {
+      "term": "a mailbox",
+      "type": "Noun",
+      "example": "I dropped the letter into the blue *** on the street corner.",
+      "meaning_tr": "posta kutusu",
+      "meaning_en": "a box where mail is deposited",
+      "meaning_uk": "поштова скринька",
+      "meaning_es": "buzón"
+    },
+    {
+      "term": "a scale",
+      "type": "Noun",
+      "example": "The clerk put the parcel on the *** to calculate the postage.",
+      "meaning_tr": "tartı",
+      "meaning_en": "a device for weighing items",
+      "meaning_uk": "ваги",
+      "meaning_es": "balanza"
+    },
+    {
+      "term": "a recipient",
+      "type": "Noun",
+      "example": "Make sure the *** name is written correctly on the package.",
+      "meaning_tr": "alıcı",
+      "meaning_en": "the person who receives something",
+      "meaning_uk": "отримувач",
+      "meaning_es": "destinatario"
+    },
+    {
+      "term": "a sender",
+      "type": "Noun",
+      "example": "The *** address should be written on the back of the envelope.",
+      "meaning_tr": "gönderici",
+      "meaning_en": "the person who sends something",
+      "meaning_uk": "відправник",
+      "meaning_es": "remitente"
+    },
+    {
+      "term": "express",
+      "type": "Adjective",
+      "example": "I paid for *** delivery so the gift arrives on time.",
+      "meaning_tr": "ekspres",
+      "meaning_en": "fast or quick service",
+      "meaning_uk": "експрес",
+      "meaning_es": "exprés"
+    },
+    {
+      "term": "to weigh",
+      "type": "Verb",
+      "example": "You need to *** the parcel to determine how much postage you need.",
+      "meaning_tr": "tartmak",
+      "meaning_en": "to measure how heavy something is",
+      "meaning_uk": "зважувати",
+      "meaning_es": "pesar"
+    },
+    {
+      "term": "a shipping",
+      "type": "Noun",
+      "example": "The cost of *** varies depending on the destination country.",
+      "meaning_tr": "nakliye",
+      "meaning_en": "the transport of goods",
+      "meaning_uk": "транспортування",
+      "meaning_es": "envío"
+    },
+    {
+      "term": "to seal",
+      "type": "Verb",
+      "example": "Please *** the envelope tightly before handing it to the clerk.",
+      "meaning_tr": "mühürlemek/kapatmak",
+      "meaning_en": "to close something securely",
+      "meaning_uk": "запечатувати",
+      "meaning_es": "sellar"
+    },
+    {
+      "term": "a fragile",
+      "type": "Adjective",
+      "example": "Mark the box as *** so the handlers are careful with it.",
+      "meaning_tr": "kırılabilir",
+      "meaning_en": "easily broken",
+      "meaning_uk": "крихкий",
+      "meaning_es": "frágil"
+    },
+    {
+      "term": "a surcharge",
+      "type": "Noun",
+      "example": "There is an extra *** for sending items to remote areas.",
+      "meaning_tr": "ek ücret",
+      "meaning_en": "an additional charge",
+      "meaning_uk": "додаткова плата",
+      "meaning_es": "recargo"
+    },
+    {
+      "term": "a destination",
+      "type": "Noun",
+      "example": "What is the final *** of this international package?",
+      "meaning_tr": "varış noktası",
+      "meaning_en": "the place where something is being sent",
+      "meaning_uk": "пункт призначення",
+      "meaning_es": "destino"
+    },
+    {
+      "term": "a tracking number",
+      "type": "Noun",
+      "example": "You can check the status of your order using the ***.",
+      "meaning_tr": "takip numarası",
+      "meaning_en": "a code used to track a shipment",
+      "meaning_uk": "номер відстеження",
+      "meaning_es": "número de seguimiento"
+    },
+    {
+      "term": "a customs",
+      "type": "Noun",
+      "example": "The package is currently held at *** for inspection.",
+      "meaning_tr": "gümrük",
+      "meaning_en": "the authority responsible for controlling goods entering a country",
+      "meaning_uk": "митниця",
+      "meaning_es": "aduana"
+    },
+    {
+      "term": "to post",
+      "type": "Verb",
+      "example": "I need to *** these letters before the last collection time.",
+      "meaning_tr": "postalamak",
+      "meaning_en": "to send by mail",
+      "meaning_uk": "відправляти поштою",
+      "meaning_es": "enviar"
+    },
+    {
+      "term": "a savings account",
+      "type": "Noun",
+      "example": "I keep my emergency fund in a high-interest ***.",
+      "meaning_tr": "tasarruf hesabı",
+      "meaning_en": "a bank account that earns interest",
+      "meaning_uk": "ощадний рахунок",
+      "meaning_es": "cuenta de ahorros"
+    },
+    {
+      "term": "a current account",
+      "type": "Noun",
+      "example": "My salary is paid directly into my *** every month.",
+      "meaning_tr": "vadesiz hesap",
+      "meaning_en": "a bank account for everyday use",
+      "meaning_uk": "поточний рахунок",
+      "meaning_es": "cuenta corriente"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Kommunikation & Telefonate (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Konversation",
+      "type": "Noun",
+      "example": "Eine sachliche *** ist für das Betriebsklima essenziell.",
+      "meaning_tr": "sohbet",
+      "meaning_en": "conversation",
+      "meaning_uk": "розмова",
+      "meaning_es": "conversación"
+    },
+    {
+      "term": "erörtern",
+      "type": "Verb",
+      "example": "Wir müssen die verschiedenen Lösungsansätze detailliert ***.",
+      "meaning_tr": "tartışmak",
+      "meaning_en": "to discuss",
+      "meaning_uk": "обговорювати",
+      "meaning_es": "discutir"
+    },
+    {
+      "term": "die Rücksprache",
+      "type": "Noun",
+      "example": "Bitte halten Sie vor der Entscheidung noch einmal *** mit der Geschäftsleitung.",
+      "meaning_tr": "istişare",
+      "meaning_en": "consultation",
+      "meaning_uk": "консультація",
+      "meaning_es": "consulta"
+    },
+    {
+      "term": "missverständlich",
+      "type": "Adjective",
+      "example": "Die Anweisung war leider etwas *** formuliert.",
+      "meaning_tr": "yanlış anlaşılabilir",
+      "meaning_en": "ambiguous",
+      "meaning_uk": "двозначний",
+      "meaning_es": "ambiguo"
+    },
+    {
+      "term": "vermitteln",
+      "type": "Verb",
+      "example": "Darf ich Sie kurz an meinen Kollegen ***?",
+      "meaning_tr": "aktarmak",
+      "meaning_en": "to transfer/mediate",
+      "meaning_uk": "перемикати",
+      "meaning_es": "transferir"
+    },
+    {
+      "term": "die Durchwahl",
+      "type": "Noun",
+      "example": "Könnten Sie mir bitte Ihre direkte *** geben?",
+      "meaning_tr": "dahili numara",
+      "meaning_en": "extension",
+      "meaning_uk": "додатковий номер",
+      "meaning_es": "extensión"
+    },
+    {
+      "term": "subtil",
+      "type": "Adjective",
+      "example": "Er hat eine sehr *** Art, Kritik zu äußern.",
+      "meaning_tr": "ince/derin",
+      "meaning_en": "subtle",
+      "meaning_uk": "тонкий",
+      "meaning_es": "sutil"
+    },
+    {
+      "term": "die Nuance",
+      "type": "Noun",
+      "example": "Man muss auf jede kleine *** in seinem Tonfall achten.",
+      "meaning_tr": "nüans",
+      "meaning_en": "nuance",
+      "meaning_uk": "нюанс",
+      "meaning_es": "matiz"
+    },
+    {
+      "term": "artikulieren",
+      "type": "Verb",
+      "example": "Es fällt ihm schwer, seine Wünsche klar zu ***.",
+      "meaning_tr": "telaffuz etmek/ifade etmek",
+      "meaning_en": "to articulate",
+      "meaning_uk": "артикулювати",
+      "meaning_es": "articular"
+    },
+    {
+      "term": "die Eloquenz",
+      "type": "Noun",
+      "example": "Seine *** beeindruckte die gesamte Zuhörerschaft.",
+      "meaning_tr": "hitabet yeteneği",
+      "meaning_en": "eloquence",
+      "meaning_uk": "красномовство",
+      "meaning_es": "elocuencia"
+    },
+    {
+      "term": "unterbinden",
+      "type": "Verb",
+      "example": "Wir müssen diese Gerüchte sofort ***.",
+      "meaning_tr": "durdurmak/engellemek",
+      "meaning_en": "to suppress/prevent",
+      "meaning_uk": "припиняти",
+      "meaning_es": "impedir"
+    },
+    {
+      "term": "nachdrücklich",
+      "type": "Adverb",
+      "example": "Ich möchte *** darauf hinweisen, dass die Frist abgelaufen ist.",
+      "meaning_tr": "ısrarla",
+      "meaning_en": "emphatically",
+      "meaning_uk": "наполегливо",
+      "meaning_es": "enfáticamente"
+    },
+    {
+      "term": "die Replik",
+      "type": "Noun",
+      "example": "Auf seine Vorwürfe folgte eine schlagfertige ***.",
+      "meaning_tr": "karşılık",
+      "meaning_en": "reply",
+      "meaning_uk": "відповідь",
+      "meaning_es": "réplica"
+    },
+    {
+      "term": "konstatieren",
+      "type": "Verb",
+      "example": "Wir müssen ***, dass die Strategie nicht aufgegangen ist.",
+      "meaning_tr": "saptamak",
+      "meaning_en": "to state/note",
+      "meaning_uk": "констатувати",
+      "meaning_es": "constatar"
+    },
+    {
+      "term": "die Diskrepanz",
+      "type": "Noun",
+      "example": "Es gibt eine deutliche *** zwischen unseren Erwartungen und der Realität.",
+      "meaning_tr": "uyumsuzluk",
+      "meaning_en": "discrepancy",
+      "meaning_uk": "невідповідність",
+      "meaning_es": "discrepancia"
+    },
+    {
+      "term": "eingehend",
+      "type": "Adjective",
+      "example": "Wir haben das Thema *** analysiert.",
+      "meaning_tr": "ayrıntılı",
+      "meaning_en": "in-depth",
+      "meaning_uk": "детальний",
+      "meaning_es": "detallado"
+    },
+    {
+      "term": "der Konsens",
+      "type": "Noun",
+      "example": "Es war schwierig, einen *** in der Gruppe zu finden.",
+      "meaning_tr": "uzlaşma",
+      "meaning_en": "consensus",
+      "meaning_uk": "консенсус",
+      "meaning_es": "consenso"
+    },
+    {
+      "term": "erläutern",
+      "type": "Verb",
+      "example": "Könnten Sie mir diesen Punkt bitte näher ***?",
+      "meaning_tr": "açıklamak",
+      "meaning_en": "to explain",
+      "meaning_uk": "пояснювати",
+      "meaning_es": "explicar"
+    },
+    {
+      "term": "die Interaktion",
+      "type": "Noun",
+      "example": "Die soziale *** ist für die Teamentwicklung wichtig.",
+      "meaning_tr": "etkileşim",
+      "meaning_en": "interaction",
+      "meaning_uk": "взаємодія",
+      "meaning_es": "interacción"
+    },
+    {
+      "term": "provisorisch",
+      "type": "Adjective",
+      "example": "Dies ist nur eine *** Lösung für das Telefonproblem.",
+      "meaning_tr": "geçici",
+      "meaning_en": "provisional",
+      "meaning_uk": "тимчасовий",
+      "meaning_es": "provisional"
+    },
+    {
+      "term": "die Eloquenz",
+      "type": "Noun",
+      "example": "Mit großer *** überzeugte er das Publikum.",
+      "meaning_tr": "belagat",
+      "meaning_en": "eloquence",
+      "meaning_uk": "красномовство",
+      "meaning_es": "elocuencia"
+    },
+    {
+      "term": "verifizieren",
+      "type": "Verb",
+      "example": "Wir müssen die Daten am Telefon noch einmal ***.",
+      "meaning_tr": "doğrulamak",
+      "meaning_en": "to verify",
+      "meaning_uk": "верифікувати",
+      "meaning_es": "verificar"
+    },
+    {
+      "term": "die Diktion",
+      "type": "Noun",
+      "example": "Seine förmliche *** wirkte etwas distanziert.",
+      "meaning_tr": "üslup",
+      "meaning_en": "diction",
+      "meaning_uk": "дикція",
+      "meaning_es": "dicción"
+    },
+    {
+      "term": "eindringlich",
+      "type": "Adjective",
+      "example": "Er bat mich *** darum, das Gespräch zu führen.",
+      "meaning_tr": "ısrarlı/etkileyici",
+      "meaning_en": "urgent/persuasive",
+      "meaning_uk": "переконливий",
+      "meaning_es": "convincente"
+    },
+    {
+      "term": "revidieren",
+      "type": "Verb",
+      "example": "Ich muss meine Meinung zu diesem Punkt ***.",
+      "meaning_tr": "gözden geçirmek",
+      "meaning_en": "to revise",
+      "meaning_uk": "переглядати",
+      "meaning_es": "revisar"
+    },
+    {
+      "term": "die Konferenzschaltung",
+      "type": "Noun",
+      "example": "Wir benötigen für das Meeting eine ***.",
+      "meaning_tr": "konferans görüşmesi",
+      "meaning_en": "conference call",
+      "meaning_uk": "конференц-зв'язок",
+      "meaning_es": "conferencia telefónica"
+    },
+    {
+      "term": "souverän",
+      "type": "Adjective",
+      "example": "Er hat das schwierige Telefonat sehr *** gemeistert.",
+      "meaning_tr": "kendinden emin",
+      "meaning_en": "confident/sovereign",
+      "meaning_uk": "впевнений",
+      "meaning_es": "soberano"
+    },
+    {
+      "term": "die Frequenz",
+      "type": "Noun",
+      "example": "Die *** unserer Treffen sollte erhöht werden.",
+      "meaning_tr": "sıklık",
+      "meaning_en": "frequency",
+      "meaning_uk": "частота",
+      "meaning_es": "frecuencia"
+    },
+    {
+      "term": "adäquat",
+      "type": "Adjective",
+      "example": "Wir suchen eine *** Antwort auf diese Anfrage.",
+      "meaning_tr": "uygun",
+      "meaning_en": "adequate",
+      "meaning_uk": "адекватний",
+      "meaning_es": "adecuado"
+    },
+    {
+      "term": "unterbreiten",
+      "type": "Verb",
+      "example": "Ich möchte Ihnen gerne ein Angebot ***.",
+      "meaning_tr": "sunmak",
+      "meaning_en": "to submit/offer",
+      "meaning_uk": "пропонувати",
+      "meaning_es": "presentar"
+    },
+    {
+      "term": "die Relevanz",
+      "type": "Noun",
+      "example": "Die *** dieses Themas für unser Gespräch ist unbestritten.",
+      "meaning_tr": "ilgililik/önem",
+      "meaning_en": "relevance",
+      "meaning_uk": "релевантність",
+      "meaning_es": "relevancia"
+    },
+    {
+      "term": "abwägen",
+      "type": "Verb",
+      "example": "Wir müssen die Vor- und Nachteile sorgfältig ***.",
+      "meaning_tr": "tartmak/değerlendirmek",
+      "meaning_en": "to weigh/consider",
+      "meaning_uk": "зважувати",
+      "meaning_es": "ponderar"
+    },
+    {
+      "term": "ambivalent",
+      "type": "Adjective",
+      "example": "Ich stehe diesem Vorschlag etwas *** gegenüber.",
+      "meaning_tr": "ikircikli",
+      "meaning_en": "ambivalent",
+      "meaning_uk": "амбівалентний",
+      "meaning_es": "ambivalente"
+    },
+    {
+      "term": "die Korrespondenz",
+      "type": "Noun",
+      "example": "Die gesamte *** mit dem Kunden liegt vor.",
+      "meaning_tr": "yazışma",
+      "meaning_en": "correspondence",
+      "meaning_uk": "листування",
+      "meaning_es": "correspondencia"
+    },
+    {
+      "term": "erörtern",
+      "type": "Verb",
+      "example": "Lassen Sie uns die Details in Ruhe ***.",
+      "meaning_tr": "görüşmek",
+      "meaning_en": "to discuss",
+      "meaning_uk": "обговорювати",
+      "meaning_es": "discutir"
+    },
+    {
+      "term": "die Rückkoppelung",
+      "type": "Noun",
+      "example": "Bei der Telefonkonferenz gab es eine störende ***.",
+      "meaning_tr": "geri bildirim/yankı",
+      "meaning_en": "feedback/echo",
+      "meaning_uk": "зворотний зв'язок",
+      "meaning_es": "retroalimentación"
+    },
+    {
+      "term": "konsultieren",
+      "type": "Verb",
+      "example": "Ich muss dazu erst meinen Anwalt ***.",
+      "meaning_tr": "danışmak",
+      "meaning_en": "to consult",
+      "meaning_uk": "консультуватися",
+      "meaning_es": "consultar"
+    },
+    {
+      "term": "plausibel",
+      "type": "Adjective",
+      "example": "Seine Erklärung klingt durchaus ***.",
+      "meaning_tr": "makul",
+      "meaning_en": "plausible",
+      "meaning_uk": "правдоподібний",
+      "meaning_es": "plausible"
+    },
+    {
+      "term": "die Terminologie",
+      "type": "Noun",
+      "example": "In diesem Fachbereich ist die *** sehr spezifisch.",
+      "meaning_tr": "terminoloji",
+      "meaning_en": "terminology",
+      "meaning_uk": "термінологія",
+      "meaning_es": "terminología"
+    },
+    {
+      "term": "voraussetzen",
+      "type": "Verb",
+      "example": "Eine gute Kommunikation *** gegenseitigen Respekt.",
+      "meaning_tr": "ön koşul olmak",
+      "meaning_en": "to presuppose",
+      "meaning_uk": "передбачати",
+      "meaning_es": "presuponer"
+    },
+    {
+      "term": "dementieren",
+      "type": "Verb",
+      "example": "Er musste die Gerüchte öffentlich ***.",
+      "meaning_tr": "yalanlamak",
+      "meaning_en": "to deny",
+      "meaning_uk": "спростовувати",
+      "meaning_es": "desmentir"
+    },
+    {
+      "term": "die Eloquenz",
+      "type": "Noun",
+      "example": "Durch seine *** konnte er alle überzeugen.",
+      "meaning_tr": "hitabet",
+      "meaning_en": "eloquence",
+      "meaning_uk": "красномовство",
+      "meaning_es": "elocuencia"
+    },
+    {
+      "term": "mutmaßen",
+      "type": "Verb",
+      "example": "Man kann nur ***, warum er nicht angerufen hat.",
+      "meaning_tr": "tahmin etmek",
+      "meaning_en": "to surmise",
+      "meaning_uk": "припускати",
+      "meaning_es": "conjeturar"
+    },
+    {
+      "term": "faktisch",
+      "type": "Adjective",
+      "example": "Das ist eine *** korrekte Darstellung der Lage.",
+      "meaning_tr": "fiili/gerçek",
+      "meaning_en": "factual",
+      "meaning_uk": "фактичний",
+      "meaning_es": "fáctico"
+    },
+    {
+      "term": "die Debatte",
+      "type": "Noun",
+      "example": "Wir führen eine hitzige *** über dieses Thema.",
+      "meaning_tr": "tartışma",
+      "meaning_en": "debate",
+      "meaning_uk": "дебати",
+      "meaning_es": "debate"
+    },
+    {
+      "term": "anmahnen",
+      "type": "Verb",
+      "example": "Wir mussten die Zahlung bereits zum zweiten Mal ***.",
+      "meaning_tr": "uyarmak/hatırlatmak",
+      "meaning_en": "to urge/remind",
+      "meaning_uk": "нагадувати",
+      "meaning_es": "reclamar"
+    },
+    {
+      "term": "strittig",
+      "type": "Adjective",
+      "example": "Dieser Punkt ist noch sehr ***.",
+      "meaning_tr": "tartışmalı",
+      "meaning_en": "controversial",
+      "meaning_uk": "спірний",
+      "meaning_es": "controvertido"
+    },
+    {
+      "term": "die Resonanz",
+      "type": "Noun",
+      "example": "Die *** auf unseren Anruf war sehr positiv.",
+      "meaning_tr": "yankı/tepki",
+      "meaning_en": "response",
+      "meaning_uk": "резонанс",
+      "meaning_es": "resonancia"
+    },
+    {
+      "term": "abstimmen",
+      "type": "Verb",
+      "example": "Wir müssen unsere Termine kurz ***.",
+      "meaning_tr": "koordine etmek",
+      "meaning_en": "to coordinate",
+      "meaning_uk": "узгоджувати",
+      "meaning_es": "coordinar"
+    },
+    {
+      "term": "substanziell",
+      "type": "Adjective",
+      "example": "Es gab keine *** Änderung im Gesprächsverlauf.",
+      "meaning_tr": "önemli/esaslı",
+      "meaning_en": "substantial",
+      "meaning_uk": "суттєвий",
+      "meaning_es": "sustancial"
+    },
+    {
+      "term": "die Anbahnung",
+      "type": "Noun",
+      "example": "Die *** eines neuen Geschäftskontakts erfordert Zeit.",
+      "meaning_tr": "başlatma/hazırlık",
+      "meaning_en": "initiation",
+      "meaning_uk": "ініціювання",
+      "meaning_es": "iniciación"
+    },
+    {
+      "term": "erörtern",
+      "type": "Verb",
+      "example": "Wir müssen die Strategie morgen ***.",
+      "meaning_tr": "görüşmek",
+      "meaning_en": "to discuss",
+      "meaning_uk": "обговорювати",
+      "meaning_es": "discutir"
+    },
+    {
+      "term": "obgleich",
+      "type": "Conjunction",
+      "example": "*** er müde war, führte er das Telefonat zu Ende.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "die Eloquenz",
+      "type": "Noun",
+      "example": "Seine *** ist bei Verhandlungen sehr hilfreich.",
+      "meaning_tr": "hitabet yeteneği",
+      "meaning_en": "eloquence",
+      "meaning_uk": "красномовство",
+      "meaning_es": "elocuencia"
+    },
+    {
+      "term": "vermitteln",
+      "type": "Verb",
+      "example": "Ich kann Ihnen gerne einen Termin ***.",
+      "meaning_tr": "ayarlamak",
+      "meaning_en": "to arrange",
+      "meaning_uk": "домовлятися",
+      "meaning_es": "gestionar"
+    },
+    {
+      "term": "konsekutiv",
+      "type": "Adjective",
+      "example": "Wir haben *** Besprechungen den ganzen Tag.",
+      "meaning_tr": "ardışık",
+      "meaning_en": "consecutive",
+      "meaning_uk": "послідовний",
+      "meaning_es": "consecutivo"
+    },
+    {
+      "term": "die Intention",
+      "type": "Noun",
+      "example": "Was war Ihre genaue *** bei diesem Anruf?",
+      "meaning_tr": "niyet",
+      "meaning_en": "intention",
+      "meaning_uk": "намір",
+      "meaning_es": "intención"
+    },
+    {
+      "term": "anberaumen",
+      "type": "Verb",
+      "example": "Wir müssen für morgen ein Treffen ***.",
+      "meaning_tr": "kararlaştırmak",
+      "meaning_en": "to schedule",
+      "meaning_uk": "призначати",
+      "meaning_es": "programar"
+    },
+    {
+      "term": "zudem",
+      "type": "Adverb",
+      "example": "Er war sehr höflich und *** äußerst kompetent.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "moreover",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "die Quintessenz",
+      "type": "Noun",
+      "example": "Die *** unseres Gesprächs ist, dass wir mehr Zeit brauchen.",
+      "meaning_tr": "özet/öz",
+      "meaning_en": "essence",
+      "meaning_uk": "суть",
+      "meaning_es": "quintaesencia"
+    }
+  ]
+}

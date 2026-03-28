@@ -1,0 +1,546 @@
+{
+  "title": "Communication & Phone Calls (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a succinct message",
+      "type": "Noun",
+      "meaning_tr": "özlü bir mesaj",
+      "meaning_en": "a brief and clearly expressed message",
+      "meaning_uk": "стисле повідомлення",
+      "meaning_es": "un mensaje conciso",
+      "example": "Please ensure your voicemail is a ***, providing all necessary details."
+    },
+    {
+      "term": "to articulate clearly",
+      "type": "Verb",
+      "meaning_tr": "açıkça ifade etmek",
+      "meaning_en": "to express oneself clearly and effectively",
+      "meaning_uk": "чітко висловлювати",
+      "meaning_es": "articular claramente",
+      "example": "It's crucial to *** when explaining technical issues over the phone."
+    },
+    {
+      "term": "a concise explanation",
+      "type": "Noun",
+      "meaning_tr": "özlü bir açıklama",
+      "meaning_en": "a brief and to-the-point explanation",
+      "meaning_uk": "стисле пояснення",
+      "meaning_es": "una explicación concisa",
+      "example": "The operator provided a *** of the problem and its immediate solution."
+    },
+    {
+      "term": "to convey information",
+      "type": "Verb",
+      "meaning_tr": "bilgi iletmek",
+      "meaning_en": "to communicate or make information known",
+      "meaning_uk": "передавати інформацію",
+      "meaning_es": "transmitir información",
+      "example": "The primary goal of the call is to *** regarding the project update."
+    },
+    {
+      "term": "a brief interruption",
+      "type": "Noun",
+      "meaning_tr": "kısa bir kesinti",
+      "meaning_en": "a short pause or break in an activity",
+      "meaning_uk": "коротке переривання",
+      "meaning_es": "una breve interrupción",
+      "example": "Apologies for the ***; I had a network issue."
+    },
+    {
+      "term": "to elaborate on",
+      "type": "Verb",
+      "meaning_tr": "detaylandırmak",
+      "meaning_en": "to explain or develop further",
+      "meaning_uk": "розширювати (щось)",
+      "meaning_es": "elaborar sobre",
+      "example": "Could you please *** the timeline for the next phase?"
+    },
+    {
+      "term": "a follow-up call",
+      "type": "Noun",
+      "meaning_tr": "takip araması",
+      "meaning_en": "a call made to continue a previous conversation or action",
+      "meaning_uk": "наступний дзвінок",
+      "meaning_es": "una llamada de seguimiento",
+      "example": "I'll schedule *** to discuss the proposal once you've reviewed it."
+    },
+    {
+      "term": "to clarify a point",
+      "type": "Verb",
+      "meaning_tr": "bir noktayı açıklığa kavuşturmak",
+      "meaning_en": "to make something clearer or easier to understand",
+      "meaning_uk": "уточнити момент",
+      "meaning_es": "clarificar un punto",
+      "example": "I need to call back to *** about the invoice discrepancy."
+    },
+    {
+      "term": "a concise summary",
+      "type": "Noun",
+      "meaning_tr": "özlü bir özet",
+      "meaning_en": "a brief statement of the main points",
+      "meaning_uk": "стислий виклад",
+      "meaning_es": "un resumen conciso",
+      "example": "Before ending the call, could you provide *** of the agreed actions?"
+    },
+    {
+      "term": "to confirm receipt",
+      "type": "Verb",
+      "meaning_tr": "teslim aldığını doğrulamak",
+      "meaning_en": "to acknowledge that something has been received",
+      "meaning_uk": "підтвердити отримання",
+      "meaning_es": "confirmar recepción",
+      "example": "Please call me to *** of the signed contract."
+    },
+    {
+      "term": "a technical glitch",
+      "type": "Noun",
+      "meaning_tr": "teknik bir aksaklık",
+      "meaning_en": "a minor problem or fault in a system",
+      "meaning_uk": "технічний збій",
+      "meaning_es": "un fallo técnico",
+      "example": "We experienced *** during the conference call, which caused some delays."
+    },
+    {
+      "term": "to put someone on hold",
+      "type": "Verb",
+      "meaning_tr": "birini beklemeye almak",
+      "meaning_en": "to ask someone to wait on the phone",
+      "meaning_uk": "поставити когось на утримання",
+      "meaning_es": "poner a alguien en espera",
+      "example": "Could you *** for a moment while I retrieve that information?"
+    },
+    {
+      "term": "a lengthy explanation",
+      "type": "Noun",
+      "meaning_tr": "uzun bir açıklama",
+      "meaning_en": "a detailed and extended explanation",
+      "meaning_uk": "тривале пояснення",
+      "meaning_es": "una explicación larga",
+      "example": "The customer service representative gave a *** to resolve the issue."
+    },
+    {
+      "term": "to troubleshoot a problem",
+      "type": "Verb",
+      "meaning_tr": "bir sorunu gidermek",
+      "meaning_en": "to identify and solve problems",
+      "meaning_uk": "вирішувати проблему",
+      "meaning_es": "solucionar un problema",
+      "example": "I need to call IT to *** the connectivity issue."
+    },
+    {
+      "term": "a missed call",
+      "type": "Noun",
+      "meaning_tr": "kaçırılan çağrı",
+      "meaning_en": "a phone call that was not answered",
+      "meaning_uk": "пропущений дзвінок",
+      "meaning_es": "una llamada perdida",
+      "example": "I saw you had a ***; is everything alright?"
+    },
+    {
+      "term": "to relay a message",
+      "type": "Verb",
+      "meaning_tr": "bir mesaj iletmek",
+      "meaning_en": "to pass a message from one person to another",
+      "meaning_uk": "передати повідомлення",
+      "meaning_es": "transmitir un mensaje",
+      "example": "Could you please *** to Mr. Smith that I'll be late?"
+    },
+    {
+      "term": "a brief inquiry",
+      "type": "Noun",
+      "meaning_tr": "kısa bir soruşturma",
+      "meaning_en": "a short question or request for information",
+      "meaning_uk": "короткий запит",
+      "meaning_es": "una breve consulta",
+      "example": "I'm making a *** about the availability of the product."
+    },
+    {
+      "term": "to paraphrase effectively",
+      "type": "Verb",
+      "meaning_tr": "etkili bir şekilde özetlemek",
+      "meaning_en": "to rephrase something in your own words to show understanding",
+      "meaning_uk": "ефективно перефразувати",
+      "meaning_es": "parafrasear eficazmente",
+      "example": "It's good practice to *** what the other person has said to ensure accuracy."
+    },
+    {
+      "term": "a vague response",
+      "type": "Noun",
+      "meaning_tr": "belirsiz bir yanıt",
+      "meaning_en": "an unclear or imprecise answer",
+      "meaning_uk": "нечітка відповідь",
+      "meaning_es": "una respuesta vaga",
+      "example": "The agent gave a ***, so I had to ask for more details."
+    },
+    {
+      "term": "to get through to someone",
+      "type": "Verb",
+      "meaning_tr": "birine ulaşmak",
+      "meaning_en": "to successfully make contact with someone by phone",
+      "meaning_uk": "дозвонитися до когось",
+      "meaning_es": "comunicarse con alguien",
+      "example": "I've been trying all morning to *** the technical support department."
+    },
+    {
+      "term": "a direct line",
+      "type": "Noun",
+      "meaning_tr": "doğrudan hat",
+      "meaning_en": "a telephone line that connects directly to a specific person or department",
+      "meaning_uk": "пряма лінія",
+      "meaning_es": "una línea directa",
+      "example": "Could you give me *** to the sales manager?"
+    },
+    {
+      "term": "to interrupt politely",
+      "type": "Verb",
+      "meaning_tr": "nezaketle sözünü kesmek",
+      "meaning_en": "to break into someone's speech or activity in a courteous manner",
+      "meaning_uk": "чемно перебивати",
+      "meaning_es": "interrumpir cortésmente",
+      "example": "Excuse me, but may I *** to ask a quick question?"
+    },
+    {
+      "term": "an unsolicited call",
+      "type": "Noun",
+      "meaning_tr": "istenmeyen çağrı",
+      "meaning_en": "a call that is not requested or invited",
+      "meaning_uk": "небажаний дзвінок",
+      "meaning_es": "una llamada no solicitada",
+      "example": "My phone is constantly ringing with *** from telemarketers."
+    },
+    {
+      "term": "to schedule a call",
+      "type": "Verb",
+      "meaning_tr": "bir arama planlamak",
+      "meaning_en": "to arrange a time for a phone conversation",
+      "meaning_uk": "запланувати дзвінок",
+      "meaning_es": "programar una llamada",
+      "example": "Let's *** for next Tuesday to discuss the project proposal."
+    },
+    {
+      "term": "a brief hold",
+      "type": "Noun",
+      "meaning_tr": "kısa bir bekleme",
+      "meaning_en": "a short period of waiting on the phone",
+      "meaning_uk": "коротке очікування",
+      "meaning_es": "una breve espera",
+      "example": "Thank you for your patience during the ***."
+    },
+    {
+      "term": "to get cut off",
+      "type": "Verb",
+      "meaning_tr": "kesilmek",
+      "meaning_en": "to have a phone conversation end abruptly due to a bad connection",
+      "meaning_uk": "бути перерваним (зв'язком)",
+      "meaning_es": "ser cortado",
+      "example": "We were talking about the budget when suddenly we ***."
+    },
+    {
+      "term": "a conference call",
+      "type": "Noun",
+      "meaning_tr": "konferans görüşmesi",
+      "meaning_en": "a telephone call where more than two people are connected",
+      "meaning_uk": "конференц-дзвінок",
+      "meaning_es": "una conferencia telefónica",
+      "example": "We have a *** scheduled for 3 PM with the international team."
+    },
+    {
+      "term": "to leave a message",
+      "type": "Verb",
+      "meaning_tr": "bir mesaj bırakmak",
+      "meaning_en": "to tell someone something when they are not present",
+      "meaning_uk": "залишити повідомлення",
+      "meaning_es": "dejar un mensaje",
+      "example": "I'll call back later and *** for him."
+    },
+    {
+      "term": "a clear connection",
+      "type": "Noun",
+      "meaning_tr": "net bir bağlantı",
+      "meaning_en": "a phone line with good sound quality and no interference",
+      "meaning_uk": "чітке з'єднання",
+      "meaning_es": "una conexión clara",
+      "example": "I'm glad we finally have ***; I could barely hear you before."
+    },
+    {
+      "term": "to speak at length",
+      "type": "Verb",
+      "meaning_tr": "uzun uzun konuşmak",
+      "meaning_en": "to talk for a long time",
+      "meaning_uk": "говорити довго",
+      "meaning_es": "hablar extensamente",
+      "example": "The client wanted to *** about his concerns."
+    },
+    {
+      "term": "a detailed inquiry",
+      "type": "Noun",
+      "meaning_tr": "detaylı bir soruşturma",
+      "meaning_en": "a thorough request for information",
+      "meaning_uk": "детальний запит",
+      "meaning_es": "una consulta detallada",
+      "example": "She made a *** about the product specifications."
+    },
+    {
+      "term": "to voice a concern",
+      "type": "Verb",
+      "meaning_tr": "bir endişeyi dile getirmek",
+      "meaning_en": "to express a worry or doubt",
+      "meaning_uk": "висловити занепокоєння",
+      "meaning_es": "expresar una preocupación",
+      "example": "I need to call him to *** about the project's budget."
+    },
+    {
+      "term": "a quick question",
+      "type": "Noun",
+      "meaning_tr": "hızlı bir soru",
+      "meaning_en": "a brief question",
+      "meaning_uk": "швидке запитання",
+      "meaning_es": "una pregunta rápida",
+      "example": "I just have *** about the meeting agenda."
+    },
+    {
+      "term": "to clarify instructions",
+      "type": "Verb",
+      "meaning_tr": "talimatları açıklığa kavuşturmak",
+      "meaning_en": "to make instructions easier to understand",
+      "meaning_uk": "уточнити інструкції",
+      "meaning_es": "clarificar instrucciones",
+      "example": "Can you call me back to *** on how to use the software?"
+    },
+    {
+      "term": "a formal conversation",
+      "type": "Noun",
+      "meaning_tr": "resmi bir konuşma",
+      "meaning_en": "a conversation that follows strict rules of etiquette and politeness",
+      "meaning_uk": "офіційна розмова",
+      "meaning_es": "una conversación formal",
+      "example": "The job interview was conducted over ***."
+    },
+    {
+      "term": "to get cut off",
+      "type": "Verb",
+      "meaning_tr": "kesilmek",
+      "meaning_en": "to have a phone conversation end abruptly due to a bad connection",
+      "meaning_uk": "бути перерваним (зв'язком)",
+      "meaning_es": "ser cortado",
+      "example": "We were discussing the details when we suddenly ***."
+    },
+    {
+      "term": "a concise update",
+      "type": "Noun",
+      "meaning_tr": "özlü bir güncelleme",
+      "meaning_en": "a brief and informative report",
+      "meaning_uk": "стисле оновлення",
+      "meaning_es": "una actualización concisa",
+      "example": "Please call me with a *** on the project's progress."
+    },
+    {
+      "term": "to put through a call",
+      "type": "Verb",
+      "meaning_tr": "bir çağrıyı aktarmak",
+      "meaning_en": "to connect someone to the person they want to speak to",
+      "meaning_uk": "з'єднати дзвінок",
+      "meaning_es": "realizar una llamada",
+      "example": "The receptionist will *** to the appropriate department."
+    },
+    {
+      "term": "a lengthy discussion",
+      "type": "Noun",
+      "meaning_tr": "uzun bir tartışma",
+      "meaning_en": "a prolonged and detailed conversation",
+      "meaning_uk": "тривала дискусія",
+      "meaning_es": "una discusión larga",
+      "example": "We had a *** about the marketing strategy."
+    },
+    {
+      "term": "to get straight to the point",
+      "type": "Verb",
+      "meaning_tr": "konuya doğrudan geçmek",
+      "meaning_en": "to start talking about the most important thing immediately",
+      "meaning_uk": "перейти прямо до суті",
+      "meaning_es": "ir directo al grano",
+      "example": "In business calls, it's often best to ***."
+    },
+    {
+      "term": "a polite refusal",
+      "type": "Noun",
+      "meaning_tr": "nezaketli bir ret",
+      "meaning_en": "an act of saying no in a courteous way",
+      "meaning_uk": "ввічлива відмова",
+      "meaning_es": "una negativa educada",
+      "example": "She had to make a *** to the client's unreasonable request."
+    },
+    {
+      "term": "to confirm an appointment",
+      "type": "Verb",
+      "meaning_tr": "bir randevuyu doğrulamak",
+      "meaning_en": "to verify the details of a scheduled meeting",
+      "meaning_uk": "підтвердити зустріч",
+      "es": "confirmar una cita",
+      "example": "I will call you tomorrow to ***."
+    },
+    {
+      "term": "a brief overview",
+      "type": "Noun",
+      "meaning_tr": "kısa bir genel bakış",
+      "meaning_en": "a short summary of the main points",
+      "meaning_uk": "стислий огляд",
+      "es": "una visión general breve",
+      "example": "The manager gave *** of the new project during the call."
+    },
+    {
+      "term": "to elaborate on a point",
+      "type": "Verb",
+      "meaning_tr": "bir noktayı detaylandırmak",
+      "meaning_en": "to explain a point in more detail",
+      "meaning_uk": "розширити пункт",
+      "es": "elaborar un punto",
+      "example": "Could you please *** so that everyone understands?"
+    },
+    {
+      "term": "a congested line",
+      "type": "Noun",
+      "meaning_tr": "tıkanık hat",
+      "meaning_en": "a phone line that is busy or experiencing poor signal quality",
+      "meaning_uk": "перевантажена лінія",
+      "es": "una línea congestionada",
+      "example": "It's hard to have a proper conversation on this ***."
+    },
+    {
+      "term": "to convey a sense of urgency",
+      "type": "Verb",
+      "meaning_tr": "bir aciliyet hissi iletmek",
+      "meaning_en": "to communicate that something is very important and needs immediate attention",
+      "meaning_uk": "передати відчуття терміновості",
+      "es": "transmitir un sentido de urgencia",
+      "example": "His tone of voice helped to ***."
+    },
+    {
+      "term": "a brief hold",
+      "type": "Noun",
+      "meaning_tr": "kısa bir bekleme",
+      "meaning_en": "a short period of waiting on the phone",
+      "meaning_uk": "коротке очікування",
+      "es": "una breve espera",
+      "example": "Thank you for your patience during the ***."
+    },
+    {
+      "term": "to articulate a solution",
+      "type": "Verb",
+      "meaning_tr": "bir çözüm ifade etmek",
+      "meaning_en": "to express a solution clearly and effectively",
+      "meaning_uk": "артикулювати рішення",
+      "es": "articular una solución",
+      "example": "The engineer was able to *** to the complex technical issue."
+    },
+    {
+      "term": "a concise request",
+      "type": "Noun",
+      "meaning_tr": "özlü bir istek",
+      "meaning_en": "a brief and clear statement of what is wanted",
+      "meaning_uk": "стисле прохання",
+      "es": "una solicitud concisa",
+      "example": "He made a *** for additional resources."
+    },
+    {
+      "term": "to get through to voicemail",
+      "type": "Verb",
+      "meaning_tr": "sesli mesaja ulaşmak",
+      "meaning_en": "to reach someone's automated message system",
+      "meaning_uk": "досягти голосової пошти",
+      "es": "llegar al buzón de voz",
+      "example": "I tried calling the office, but I kept ***."
+    },
+    {
+      "term": "a formal inquiry",
+      "type": "Noun",
+      "meaning_tr": "resmi bir soruşturma",
+      "meaning_en": "a serious and official request for information",
+      "meaning_uk": "офіційний запит",
+      "es": "una consulta formal",
+      "example": "The company received a *** from a potential investor."
+    },
+    {
+      "term": "to convey empathy",
+      "type": "Verb",
+      "meaning_tr": "empati iletmek",
+      "meaning_en": "to communicate understanding and compassion",
+      "meaning_uk": "передати емпатію",
+      "es": "transmitir empatía",
+      "example": "The customer service representative managed to *** despite the difficult situation."
+    },
+    {
+      "term": "a brief interruption",
+      "type": "Noun",
+      "meaning_tr": "kısa bir kesinti",
+      "meaning_en": "a short pause or break in an activity",
+      "meaning_uk": "коротке переривання",
+      "es": "una breve interrupción",
+      "example": "Apologies for the ***; I had a slight connection issue."
+    },
+    {
+      "term": "to articulate a problem",
+      "type": "Verb",
+      "meaning_tr": "bir sorunu ifade etmek",
+      "meaning_en": "to express a problem clearly and effectively",
+      "meaning_uk": "артикулювати проблему",
+      "es": "articular un problema",
+      "example": "It's important to *** so that the support team can assist you."
+    },
+    {
+      "term": "a concise summary",
+      "type": "Noun",
+      "meaning_tr": "özlü bir özet",
+      "meaning_en": "a brief statement of the main points",
+      "meaning_uk": "стислий виклад",
+      "es": "un resumen conciso",
+      "example": "Before we end the call, could you provide *** of our agreement?"
+    },
+    {
+      "term": "to confirm understanding",
+      "type": "Verb",
+      "meaning_tr": "anlayışı doğrulamak",
+      "meaning_en": "to make sure that someone has understood something correctly",
+      "meaning_uk": "підтвердити розуміння",
+      "es": "confirmar comprensión",
+      "example": "Let me repeat that back to you to ***."
+    },
+    {
+      "term": "a technical query",
+      "type": "Noun",
+      "meaning_tr": "teknik bir sorgu",
+      "meaning_en": "a question about a technical matter",
+      "meaning_uk": "технічний запит",
+      "es": "una consulta técnica",
+      "example": "I need to call the help desk with a *** regarding the software update."
+    },
+    {
+      "term": "to relay instructions",
+      "type": "Verb",
+      "meaning_tr": "talimatları iletmek",
+      "meaning_en": "to pass on instructions from one person to another",
+      "meaning_uk": "передати інструкції",
+      "es": "transmitir instrucciones",
+      "example": "Could you please *** to the team about the new procedure?"
+    },
+    {
+      "term": "a brief overview",
+      "type": "Noun",
+      "meaning_tr": "kısa bir genel bakış",
+      "meaning_en": "a short summary of the main points",
+      "meaning_uk": "стислий огляд",
+      "es": "una visión general breve",
+      "example": "The manager gave *** of the new project during the call."
+    },
+    {
+      "term": "to elaborate on the details",
+      "type": "Verb",
+      "meaning_tr": "detayları detaylandırmak",
+      "meaning_en": "to explain the specific points of something further",
+      "meaning_uk": "розширити деталі",
+      "es": "elaborar sobre los detalles",
+      "example": "Could you please *** of the contract?"
+    }
+  ]
+}

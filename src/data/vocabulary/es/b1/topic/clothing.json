@@ -1,0 +1,321 @@
+{
+  "title": "Ropa y Moda (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la sudadera",
+      "type": "Noun",
+      "example": "Me gusta llevar *** cuando hace frío en casa.",
+      "meaning_tr": "sweatshirt",
+      "meaning_en": "sweatshirt",
+      "meaning_uk": "світшот",
+      "meaning_es": "prenda de algodón con mangas largas"
+    },
+    {
+      "term": "los vaqueros",
+      "type": "Noun",
+      "example": "He comprado *** azules muy cómodos.",
+      "meaning_tr": "kot pantolon",
+      "meaning_en": "jeans",
+      "meaning_uk": "джинси",
+      "meaning_es": "pantalones de tela vaquera"
+    },
+    {
+      "term": "la bufanda",
+      "type": "Noun",
+      "example": "No olvides ponerte *** porque nieva fuera.",
+      "meaning_tr": "atkı",
+      "meaning_en": "scarf",
+      "meaning_uk": "шарф",
+      "meaning_es": "prenda de lana para el cuello"
+    },
+    {
+      "term": "el estampado",
+      "type": "Noun",
+      "example": "Prefiero las camisas que no tienen ningún ***.",
+      "meaning_tr": "desen",
+      "meaning_en": "pattern/print",
+      "meaning_uk": "принт",
+      "meaning_es": "diseño impreso en la tela"
+    },
+    {
+      "term": "quedar",
+      "type": "Verb",
+      "example": "Estos pantalones me *** un poco grandes.",
+      "meaning_tr": "uymak (beden olarak)",
+      "meaning_en": "to fit",
+      "meaning_uk": "сидіти (про одяг)",
+      "meaning_es": "ajustar bien o mal una prenda"
+    },
+    {
+      "term": "la rebaja",
+      "type": "Noun",
+      "example": "Voy a comprar el abrigo en ***.",
+      "meaning_tr": "indirim",
+      "meaning_en": "sale/discount",
+      "meaning_uk": "знижка",
+      "meaning_es": "reducción en el precio"
+    },
+    {
+      "term": "elegante",
+      "type": "Adjective",
+      "example": "Para la boda, ella lleva un vestido muy ***.",
+      "meaning_tr": "şık",
+      "meaning_en": "elegant",
+      "meaning_uk": "елегантний",
+      "meaning_es": "que tiene distinción o buen gusto"
+    },
+    {
+      "term": "el accesorio",
+      "type": "Noun",
+      "example": "Los bolsos y cinturones son *** importantes.",
+      "meaning_tr": "aksesuar",
+      "meaning_en": "accessory",
+      "meaning_uk": "аксесуар",
+      "meaning_es": "complemento de la vestimenta"
+    },
+    {
+      "term": "probarse",
+      "type": "Verb",
+      "example": "¿Dónde puedo *** estos zapatos?",
+      "meaning_tr": "denemek",
+      "meaning_en": "to try on",
+      "meaning_uk": "міряти",
+      "meaning_es": "ponerse ropa para ver cómo queda"
+    },
+    {
+      "term": "la talla",
+      "type": "Noun",
+      "example": "Necesito una *** más pequeña, por favor.",
+      "meaning_tr": "beden",
+      "meaning_en": "size",
+      "meaning_uk": "розмір",
+      "meaning_es": "medida de la ropa"
+    },
+    {
+      "term": "de moda",
+      "type": "Adverb",
+      "example": "Este color está muy *** esta temporada.",
+      "meaning_tr": "moda (olan)",
+      "meaning_en": "fashionable",
+      "meaning_uk": "модний",
+      "meaning_es": "que se lleva mucho actualmente"
+    },
+    {
+      "term": "el algodón",
+      "type": "Noun",
+      "example": "Esta camiseta es de *** y es muy suave.",
+      "meaning_tr": "pamuk",
+      "meaning_en": "cotton",
+      "meaning_uk": "бавовна",
+      "meaning_es": "fibra textil vegetal"
+    },
+    {
+      "term": "la cremallera",
+      "type": "Noun",
+      "example": "No puedo cerrar la chaqueta porque la *** está rota.",
+      "meaning_tr": "fermuar",
+      "meaning_en": "zipper",
+      "meaning_uk": "блискавка",
+      "meaning_es": "cierre metálico o plástico"
+    },
+    {
+      "term": "combinar",
+      "type": "Verb",
+      "example": "Me cuesta *** los zapatos con este pantalón.",
+      "meaning_tr": "kombinlemek/uydurmak",
+      "meaning_en": "to match",
+      "meaning_uk": "поєднувати",
+      "meaning_es": "armonizar prendas entre sí"
+    },
+    {
+      "term": "la tendencia",
+      "type": "Noun",
+      "example": "Seguir la última *** puede ser caro.",
+      "meaning_tr": "trend",
+      "meaning_en": "trend",
+      "meaning_uk": "тренд",
+      "meaning_es": "preferencia predominante en la moda"
+    },
+    {
+      "term": "el cinturón",
+      "type": "Noun",
+      "example": "Lleva *** de cuero marrón.",
+      "meaning_tr": "kemer",
+      "meaning_en": "belt",
+      "meaning_uk": "ремінь",
+      "meaning_es": "tira para sujetar pantalones"
+    },
+    {
+      "term": "cómodo",
+      "type": "Adjective",
+      "example": "Prefiero vestir *** durante el fin de semana.",
+      "meaning_tr": "rahat",
+      "meaning_en": "comfortable",
+      "meaning_uk": "зручний",
+      "meaning_es": "que causa bienestar"
+    },
+    {
+      "term": "el traje",
+      "type": "Noun",
+      "example": "El novio lleva un *** gris muy formal.",
+      "meaning_tr": "takım elbise",
+      "meaning_en": "suit",
+      "meaning_uk": "костюм",
+      "meaning_es": "conjunto de chaqueta y pantalón"
+    },
+    {
+      "term": "la seda",
+      "type": "Noun",
+      "example": "Ese pañuelo está hecho de *** pura.",
+      "meaning_tr": "ipek",
+      "meaning_en": "silk",
+      "meaning_uk": "шовк",
+      "meaning_es": "tejido fino y brillante"
+    },
+    {
+      "term": "ajustado",
+      "type": "Adjective",
+      "example": "No me gustan los vestidos demasiado ***.",
+      "meaning_tr": "dar/vücuda oturan",
+      "meaning_en": "tight",
+      "meaning_uk": "вузький",
+      "meaning_es": "que se ciñe al cuerpo"
+    },
+    {
+      "term": "la percha",
+      "type": "Noun",
+      "example": "Cuelga el abrigo en la *** del armario.",
+      "meaning_tr": "askı",
+      "meaning_en": "hanger",
+      "meaning_uk": "вішалка",
+      "meaning_es": "objeto para colgar ropa"
+    },
+    {
+      "term": "quitarse",
+      "type": "Verb",
+      "example": "Tienes que *** los zapatos antes de entrar.",
+      "meaning_tr": "çıkarmak (kıyafet)",
+      "meaning_en": "to take off",
+      "meaning_uk": "знімати",
+      "meaning_es": "desprenderse de una prenda"
+    },
+    {
+      "term": "el zapato de tacón",
+      "type": "Noun",
+      "example": "Ella lleva *** para la fiesta.",
+      "meaning_tr": "topuklu ayakkabı",
+      "meaning_en": "high heel shoe",
+      "meaning_uk": "туфлі на підборах",
+      "meaning_es": "calzado con elevación en el talón"
+    },
+    {
+      "term": "la manga",
+      "type": "Noun",
+      "example": "Prefiero las camisas de *** larga en invierno.",
+      "meaning_tr": "kol (kıyafet)",
+      "meaning_en": "sleeve",
+      "meaning_uk": "рукав",
+      "meaning_es": "parte de la prenda que cubre el brazo"
+    },
+    {
+      "term": "estrenar",
+      "type": "Verb",
+      "example": "Voy a *** mis zapatos nuevos mañana.",
+      "meaning_tr": "ilk kez giymek/kullanmak",
+      "meaning_en": "to wear for the first time",
+      "meaning_uk": "вдягати вперше",
+      "meaning_es": "usar algo por primera vez"
+    },
+    {
+      "term": "la lana",
+      "type": "Noun",
+      "example": "Este jersey es de *** y pica un poco.",
+      "meaning_tr": "yün",
+      "meaning_en": "wool",
+      "meaning_uk": "вовна",
+      "meaning_es": "pelo de oveja usado como tejido"
+    },
+    {
+      "term": "el bolsillo",
+      "type": "Noun",
+      "example": "He perdido las llaves en el *** del pantalón.",
+      "meaning_tr": "cep",
+      "meaning_en": "pocket",
+      "meaning_uk": "кишеня",
+      "meaning_es": "parte de la ropa para guardar objetos"
+    },
+    {
+      "term": "desaliñado",
+      "type": "Adjective",
+      "example": "No vayas a la entrevista con ese aspecto tan ***.",
+      "meaning_tr": "pasaklı/dağınık",
+      "meaning_en": "unkempt/sloppy",
+      "meaning_uk": "неохайний",
+      "meaning_es": "que no cuida su apariencia"
+    },
+    {
+      "term": "el escaparate",
+      "type": "Noun",
+      "example": "He visto un vestido precioso en el ***.",
+      "meaning_tr": "vitrin",
+      "meaning_en": "shop window",
+      "meaning_uk": "вітрина",
+      "meaning_es": "cristalera de la tienda donde se expone la ropa"
+    },
+    {
+      "term": "la ropa interior",
+      "type": "Noun",
+      "example": "He ido a comprar *** nueva a la tienda.",
+      "meaning_tr": "iç çamaşırı",
+      "meaning_en": "underwear",
+      "meaning_uk": "спідня білизна",
+      "meaning_es": "prendas que se llevan debajo de la ropa"
+    },
+    {
+      "term": "ancho",
+      "type": "Adjective",
+      "example": "Ahora se llevan los pantalones muy ***.",
+      "meaning_tr": "bol/geniş",
+      "meaning_en": "wide/loose",
+      "meaning_uk": "широкий",
+      "meaning_es": "que no queda ajustado"
+    },
+    {
+      "term": "la gorra",
+      "type": "Noun",
+      "example": "Hace mucho sol, ponte ***.",
+      "meaning_tr": "şapka (beyzbol tipi)",
+      "meaning_en": "cap",
+      "meaning_uk": "кепка",
+      "meaning_es": "gorro con visera"
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "example": "Me gusta este vestido, *** es un poco caro.",
+      "meaning_tr": "-e rağmen/her ne kadar ... ise de",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "conjunción para expresar concesión"
+    },
+    {
+      "term": "encima de",
+      "type": "Preposition",
+      "example": "Llevo un jersey *** de la camisa.",
+      "meaning_tr": "üzerinde",
+      "meaning_en": "over/on top of",
+      "meaning_uk": "поверх",
+      "meaning_es": "posición superior a otra cosa"
+    },
+    {
+      "term": "siempre",
+      "type": "Adverb",
+      "example": "Ella *** viste de negro en invierno.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "en todo momento"
+    }
+  ]
+}

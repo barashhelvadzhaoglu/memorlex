@@ -1,0 +1,231 @@
+{
+  "title": "Tecnologia e Informatica (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el ordenador",
+      "type": "Noun",
+      "meaning_tr": "bilgisayar",
+      "meaning_en": "computer",
+      "meaning_uk": "комп'ютер",
+      "meaning_es": "máquina electrónica que procesa datos",
+      "example": "Necesito comprar *** para hacer mis deberes."
+    },
+    {
+      "term": "el ratón",
+      "type": "Noun",
+      "meaning_tr": "fare",
+      "meaning_en": "mouse",
+      "meaning_uk": "миша",
+      "meaning_es": "dispositivo para mover el cursor",
+      "example": "Haz clic con *** en el icono del programa."
+    },
+    {
+      "term": "la pantalla",
+      "type": "Noun",
+      "meaning_tr": "ekran",
+      "meaning_en": "screen",
+      "meaning_uk": "екран",
+      "meaning_es": "parte del monitor donde se ve la información",
+      "example": "La luz de *** es muy brillante."
+    },
+    {
+      "term": "el teclado",
+      "type": "Noun",
+      "meaning_tr": "klavye",
+      "meaning_en": "keyboard",
+      "meaning_uk": "клавіатура",
+      "meaning_es": "dispositivo con teclas para escribir",
+      "example": "Limpia *** porque tiene mucho polvo."
+    },
+    {
+      "term": "la contraseña",
+      "type": "Noun",
+      "meaning_tr": "şifre",
+      "meaning_en": "password",
+      "meaning_uk": "пароль",
+      "meaning_es": "código secreto de acceso",
+      "example": "No compartas *** con nadie."
+    },
+    {
+      "term": "el archivo",
+      "type": "Noun",
+      "meaning_tr": "dosya",
+      "meaning_en": "file",
+      "meaning_uk": "файл",
+      "meaning_es": "documento guardado en el ordenador",
+      "example": "He guardado *** en la carpeta de documentos."
+    },
+    {
+      "term": "el correo electrónico",
+      "type": "Noun",
+      "meaning_tr": "e-posta",
+      "meaning_en": "email",
+      "meaning_uk": "електронна пошта",
+      "meaning_es": "mensaje enviado por internet",
+      "example": "Te envié *** esta mañana."
+    },
+    {
+      "term": "la red",
+      "type": "Noun",
+      "meaning_tr": "ağ",
+      "meaning_en": "network / internet",
+      "meaning_uk": "мережа",
+      "meaning_es": "sistema de conexión informática",
+      "example": "No hay conexión a *** en esta habitación."
+    },
+    {
+      "term": "el sitio web",
+      "type": "Noun",
+      "meaning_tr": "web sitesi",
+      "meaning_en": "website",
+      "meaning_uk": "веб-сайт",
+      "meaning_es": "página en internet",
+      "example": "Visita *** oficial de la universidad."
+    },
+    {
+      "term": "el teléfono móvil",
+      "type": "Noun",
+      "meaning_tr": "cep telefonu",
+      "meaning_en": "mobile phone",
+      "meaning_uk": "мобільний телефон",
+      "meaning_es": "dispositivo portátil de comunicación",
+      "example": "Apaga *** durante la clase."
+    },
+    {
+      "term": "la impresora",
+      "type": "Noun",
+      "meaning_tr": "yazıcı",
+      "meaning_en": "printer",
+      "meaning_uk": "принтер",
+      "meaning_es": "máquina que imprime documentos",
+      "example": "Tengo que arreglar *** porque no funciona."
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que usa un sistema",
+      "example": "Introduce tu nombre de *** para entrar."
+    },
+    {
+      "term": "la aplicación",
+      "type": "Noun",
+      "meaning_tr": "uygulama",
+      "meaning_en": "application",
+      "meaning_uk": "додаток",
+      "meaning_es": "programa informático",
+      "example": "Instala *** nueva en tu teléfono."
+    },
+    {
+      "term": "el enlace",
+      "type": "Noun",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "link",
+      "meaning_uk": "посилання",
+      "meaning_es": "dirección para navegar en internet",
+      "example": "Haz clic en *** para ver el vídeo."
+    },
+    {
+      "term": "la carpeta",
+      "type": "Noun",
+      "meaning_tr": "klasör",
+      "meaning_en": "folder",
+      "meaning_uk": "папка",
+      "meaning_es": "espacio para organizar archivos",
+      "example": "Crea *** nueva para tus fotos."
+    },
+    {
+      "term": "descargar",
+      "type": "Verb",
+      "meaning_tr": "indirmek",
+      "meaning_en": "to download",
+      "meaning_uk": "завантажувати",
+      "meaning_es": "bajar información de internet",
+      "example": "Voy a *** un programa gratuito."
+    },
+    {
+      "term": "guardar",
+      "type": "Verb",
+      "meaning_tr": "kaydetmek",
+      "meaning_en": "to save",
+      "meaning_uk": "зберігати",
+      "meaning_es": "almacenar información",
+      "example": "Es importante *** el trabajo cada diez minutos."
+    },
+    {
+      "term": "borrar",
+      "type": "Verb",
+      "meaning_tr": "silmek",
+      "meaning_en": "to delete",
+      "meaning_uk": "видаляти",
+      "meaning_es": "eliminar algo del ordenador",
+      "example": "No olvides *** los archivos antiguos."
+    },
+    {
+      "term": "conectar",
+      "type": "Verb",
+      "meaning_tr": "bağlanmak",
+      "meaning_en": "to connect",
+      "meaning_uk": "підключатися",
+      "meaning_es": "establecer comunicación",
+      "example": "Necesito *** el cargador a la pared."
+    },
+    {
+      "term": "imprimir",
+      "type": "Verb",
+      "meaning_tr": "yazdırmak",
+      "meaning_en": "to print",
+      "meaning_uk": "друкувати",
+      "meaning_es": "sacar documentos en papel",
+      "example": "Voy a *** el informe mañana."
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "relativo a la tecnología informática",
+      "example": "Prefiero leer libros en formato ***."
+    },
+    {
+      "term": "rápido",
+      "type": "Adjective",
+      "meaning_tr": "hızlı",
+      "meaning_en": "fast",
+      "meaning_uk": "швидкий",
+      "meaning_es": "que va con mucha velocidad",
+      "example": "Mi ordenador nuevo es muy ***."
+    },
+    {
+      "term": "inalámbrico",
+      "type": "Adjective",
+      "meaning_tr": "kablosuz",
+      "meaning_en": "wireless",
+      "meaning_uk": "бездротовий",
+      "meaning_es": "sin cables",
+      "example": "He comprado un ratón *** para mi portátil."
+    },
+    {
+      "term": "lento",
+      "type": "Adjective",
+      "meaning_tr": "yavaş",
+      "meaning_en": "slow",
+      "meaning_uk": "повільний",
+      "meaning_es": "que va con poca velocidad",
+      "example": "El internet hoy está muy ***."
+    },
+    {
+      "term": "actualizado",
+      "type": "Adjective",
+      "meaning_tr": "güncel",
+      "meaning_en": "updated",
+      "meaning_uk": "оновлений",
+      "meaning_es": "que tiene la última versión",
+      "example": "Mantén tu sistema *** para mayor seguridad."
+    }
+  ]
+}

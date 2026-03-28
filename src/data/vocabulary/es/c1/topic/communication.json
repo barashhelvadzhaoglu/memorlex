@@ -1,0 +1,546 @@
+{
+  "title": "Comunicacion y Llamadas (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el interlocutor",
+      "type": "Noun",
+      "meaning_tr": "muhatap",
+      "meaning_en": "interlocutor",
+      "meaning_uk": "співрозмовник",
+      "meaning_es": "persona que participa en un diálogo",
+      "example": "*** escuchó atentamente mis argumentos durante la videoconferencia."
+    },
+    {
+      "term": "el malentendido",
+      "type": "Noun",
+      "meaning_tr": "yanlış anlaşılma",
+      "meaning_en": "misunderstanding",
+      "meaning_uk": "непорозуміння",
+      "meaning_es": "equivocación en el entendimiento",
+      "example": "Debido a un ***, no pudimos llegar a un acuerdo."
+    },
+    {
+      "term": "la elocuencia",
+      "type": "Noun",
+      "meaning_tr": "belagat",
+      "meaning_en": "eloquence",
+      "meaning_uk": "красномовство",
+      "meaning_es": "facilidad para hablar bien",
+      "example": "Su *** dejó a toda la audiencia impresionada."
+    },
+    {
+      "term": "la verborrea",
+      "type": "Noun",
+      "meaning_tr": "gevezelik",
+      "meaning_en": "verbiage",
+      "meaning_uk": "багатослівність",
+      "meaning_es": "abundancia excesiva de palabras",
+      "example": "El candidato se perdió en una *** innecesaria durante el debate."
+    },
+    {
+      "term": "la entonación",
+      "type": "Noun",
+      "meaning_tr": "tonlama",
+      "meaning_en": "intonation",
+      "meaning_uk": "інтонація",
+      "meaning_es": "variación de la voz al hablar",
+      "example": "Cambió la *** de su voz para enfatizar la gravedad del asunto."
+    },
+    {
+      "term": "el matiz",
+      "type": "Noun",
+      "meaning_tr": "nüans",
+      "meaning_en": "nuance",
+      "meaning_uk": "нюанс",
+      "meaning_es": "detalle sutil",
+      "example": "Es importante captar cada *** de su mensaje."
+    },
+    {
+      "term": "la asertividad",
+      "type": "Noun",
+      "meaning_tr": "atılganlık",
+      "meaning_en": "assertiveness",
+      "meaning_uk": "асертивність",
+      "meaning_es": "habilidad para expresar opiniones con firmeza",
+      "example": "La *** es fundamental para liderar un equipo de trabajo."
+    },
+    {
+      "term": "el lenguaje no verbal",
+      "type": "Noun",
+      "meaning_tr": "sözsüz iletişim",
+      "meaning_en": "non-verbal communication",
+      "meaning_uk": "невербальна комунікація",
+      "meaning_es": "gestos y posturas al comunicarse",
+      "example": "*** suele decir más que las palabras mismas."
+    },
+    {
+      "term": "la comunicación bidireccional",
+      "type": "Noun",
+      "meaning_tr": "çift yönlü iletişim",
+      "meaning_en": "two-way communication",
+      "meaning_uk": "двосторонній зв'язок",
+      "meaning_es": "intercambio mutuo de información",
+      "example": "Fomentar una *** es clave para la resolución de conflictos."
+    },
+    {
+      "term": "la interferencia",
+      "type": "Noun",
+      "meaning_tr": "parazit",
+      "meaning_en": "interference",
+      "meaning_uk": "перешкода",
+      "meaning_es": "obstáculo en la señal o conversación",
+      "example": "Hubo mucha *** en la línea y no pudimos terminar la llamada."
+    },
+    {
+      "term": "la jerga",
+      "type": "Noun",
+      "meaning_tr": "argo",
+      "meaning_en": "jargon/slang",
+      "meaning_uk": "жаргон",
+      "meaning_es": "lenguaje específico de un grupo",
+      "example": "El técnico utilizó mucha *** profesional que no pude entender."
+    },
+    {
+      "term": "el tono conciliador",
+      "type": "Noun",
+      "meaning_tr": "uzlaştırıcı ton",
+      "meaning_en": "conciliatory tone",
+      "meaning_uk": "примирливий тон",
+      "meaning_es": "manera de hablar para buscar acuerdo",
+      "example": "Adoptó un *** para calmar los ánimos en la reunión."
+    },
+    {
+      "term": "la veracidad",
+      "type": "Noun",
+      "meaning_tr": "doğruluk",
+      "meaning_en": "truthfulness",
+      "meaning_uk": "правдивість",
+      "meaning_es": "cualidad de ser verdadero",
+      "example": "Puse en duda la *** de sus declaraciones."
+    },
+    {
+      "term": "el emisor",
+      "type": "Noun",
+      "meaning_tr": "gönderici",
+      "meaning_en": "sender",
+      "meaning_uk": "відправник",
+      "meaning_es": "quien transmite el mensaje",
+      "example": "*** debe asegurarse de que el mensaje sea claro."
+    },
+    {
+      "term": "el receptor",
+      "type": "Noun",
+      "meaning_tr": "alıcı",
+      "meaning_en": "receiver",
+      "meaning_uk": "отримувач",
+      "meaning_es": "quien recibe el mensaje",
+      "example": "El mensaje no llegó correctamente al ***."
+    },
+    {
+      "term": "la retroalimentación",
+      "type": "Noun",
+      "meaning_tr": "geri bildirim",
+      "meaning_en": "feedback",
+      "meaning_uk": "зворотний зв'язок",
+      "meaning_es": "respuesta a un mensaje",
+      "example": "Espero recibir una *** constructiva sobre mi presentación."
+    },
+    {
+      "term": "la ambigüedad",
+      "type": "Noun",
+      "meaning_tr": "belirsizlik",
+      "meaning_en": "ambiguity",
+      "meaning_uk": "двозначність",
+      "meaning_es": "posibilidad de varias interpretaciones",
+      "example": "Sus palabras estaban llenas de *** y confusión."
+    },
+    {
+      "term": "la dialéctica",
+      "type": "Noun",
+      "meaning_tr": "diyalektik",
+      "meaning_en": "dialectic",
+      "meaning_uk": "діалектика",
+      "meaning_es": "técnica de diálogo y argumentación",
+      "example": "Su *** es impecable cuando debate temas políticos."
+    },
+    {
+      "term": "la retórica",
+      "type": "Noun",
+      "meaning_tr": "retorik",
+      "meaning_en": "rhetoric",
+      "meaning_uk": "риторика",
+      "meaning_es": "arte de hablar con eficacia",
+      "example": "Utilizó una *** muy persuasiva para convencer a los inversores."
+    },
+    {
+      "term": "la síntesis",
+      "type": "Noun",
+      "meaning_tr": "sentez/özet",
+      "meaning_en": "synthesis",
+      "meaning_uk": "синтез",
+      "meaning_es": "resumen de ideas principales",
+      "example": "Hizo una *** magistral de todo lo hablado."
+    },
+    {
+      "term": "articular",
+      "type": "Verb",
+      "meaning_tr": "telaffuz etmek",
+      "meaning_en": "to articulate",
+      "meaning_uk": "артикулювати",
+      "meaning_es": "pronunciar claramente",
+      "example": "Le cuesta *** las palabras cuando está nervioso."
+    },
+    {
+      "term": "explayarse",
+      "type": "Verb",
+      "meaning_tr": "uzun uzun anlatmak",
+      "meaning_en": "to elaborate",
+      "meaning_uk": "детально розповідати",
+      "meaning_es": "extenderse en una explicación",
+      "example": "No tuvo tiempo de *** en su exposición."
+    },
+    {
+      "term": "interpelar",
+      "type": "Verb",
+      "meaning_tr": "sorgulamak",
+      "meaning_en": "to question/interpellate",
+      "meaning_uk": "питати",
+      "meaning_es": "preguntar a alguien para que responda",
+      "example": "El periodista se atrevió a *** al ministro en directo."
+    },
+    {
+      "term": "conjeturar",
+      "type": "Verb",
+      "meaning_tr": "tahmin yürütmek",
+      "meaning_en": "to conjecture",
+      "meaning_uk": "припускати",
+      "meaning_es": "formar una opinión sin pruebas",
+      "example": "Es inútil *** sobre lo que pudo haber dicho."
+    },
+    {
+      "term": "rebatir",
+      "type": "Verb",
+      "meaning_tr": "çürütmek",
+      "meaning_en": "to refute",
+      "meaning_uk": "спростовувати",
+      "meaning_es": "rechazar argumentos con pruebas",
+      "example": "Logró *** cada uno de los puntos expuestos por su oponente."
+    },
+    {
+      "term": "matizar",
+      "meaning_tr": "nüans katmak",
+      "meaning_en": "to nuance",
+      "meaning_uk": "уточнювати",
+      "meaning_es": "dar un matiz a una idea",
+      "type": "Verb",
+      "example": "Es necesario *** sus comentarios para evitar confusiones."
+    },
+    {
+      "term": "fluir",
+      "type": "Verb",
+      "meaning_tr": "akmak",
+      "meaning_en": "to flow",
+      "meaning_uk": "текти",
+      "meaning_es": "hablar con naturalidad",
+      "example": "La conversación empezó a *** de forma muy distendida."
+    },
+    {
+      "term": "verbalizar",
+      "type": "Verb",
+      "meaning_tr": "ifade etmek",
+      "meaning_en": "to verbalize",
+      "meaning_uk": "вербалізувати",
+      "meaning_es": "expresar con palabras",
+      "example": "Le cuesta mucho *** sus sentimientos más profundos."
+    },
+    {
+      "term": "improvisar",
+      "type": "Verb",
+      "meaning_tr": "doğaçlama yapmak",
+      "meaning_en": "to improvise",
+      "meaning_uk": "імпровізувати",
+      "meaning_es": "hacer algo sin preparación",
+      "example": "Tuvo que *** su discurso porque perdió sus notas."
+    },
+    {
+      "term": "consensuar",
+      "type": "Verb",
+      "meaning_tr": "uzlaşmak",
+      "meaning_en": "to reach a consensus",
+      "meaning_uk": "досягати згоди",
+      "meaning_es": "llegar a un acuerdo común",
+      "example": "Debemos *** los términos del contrato antes de firmar."
+    },
+    {
+      "term": "elocuente",
+      "type": "Adjective",
+      "meaning_tr": "belagatli",
+      "meaning_en": "eloquent",
+      "meaning_uk": "красномовний",
+      "meaning_es": "que habla con eficacia",
+      "example": "Fue un discurso muy *** y emocionante."
+    },
+    {
+      "term": "ambiguo",
+      "type": "Adjective",
+      "meaning_tr": "belirsiz",
+      "meaning_en": "ambiguous",
+      "meaning_uk": "двозначний",
+      "meaning_es": "que tiene varias interpretaciones",
+      "example": "Su respuesta fue demasiado *** para ser tomada en serio."
+    },
+    {
+      "term": "conciso",
+      "type": "Adjective",
+      "meaning_tr": "öz",
+      "meaning_en": "concise",
+      "meaning_uk": "лаконічний",
+      "meaning_es": "breve y preciso",
+      "example": "Por favor, sea *** en su explicación."
+    },
+    {
+      "term": "persuasivo",
+      "type": "Adjective",
+      "meaning_tr": "ikna edici",
+      "meaning_en": "persuasive",
+      "meaning_uk": "переконливий",
+      "meaning_es": "capaz de convencer",
+      "example": "Tiene un estilo *** que atrae a muchos seguidores."
+    },
+    {
+      "term": "lacónico",
+      "type": "Adjective",
+      "meaning_tr": "az ve öz",
+      "meaning_en": "laconic",
+      "meaning_uk": "лаконічний",
+      "meaning_es": "que habla poco",
+      "example": "Su respuesta fue tan *** que nos dejó con dudas."
+    },
+    {
+      "term": "difuso",
+      "type": "Adjective",
+      "meaning_tr": "bulanık",
+      "meaning_en": "diffuse",
+      "meaning_uk": "розмитий",
+      "meaning_es": "poco claro",
+      "example": "El mensaje que recibimos era bastante ***."
+    },
+    {
+      "term": "críptico",
+      "type": "Adjective",
+      "meaning_tr": "şifreli",
+      "meaning_en": "cryptic",
+      "meaning_uk": "загадковий",
+      "meaning_es": "difícil de entender",
+      "example": "Envió un mensaje *** que nadie pudo descifrar."
+    },
+    {
+      "term": "asertivo",
+      "type": "Adjective",
+      "meaning_tr": "atılgan",
+      "meaning_en": "assertive",
+      "meaning_uk": "асертивний",
+      "meaning_es": "que expresa opiniones con seguridad",
+      "example": "Es un líder muy *** que sabe escuchar."
+    },
+    {
+      "term": "redundante",
+      "type": "Adjective",
+      "meaning_tr": "gereksiz tekrar",
+      "meaning_en": "redundant",
+      "meaning_uk": "надлишковий",
+      "meaning_es": "que sobra o se repite",
+      "example": "Esa frase es totalmente *** en el texto."
+    },
+    {
+      "term": "audible",
+      "type": "Adjective",
+      "meaning_tr": "işitilebilir",
+      "meaning_en": "audible",
+      "meaning_uk": "чутний",
+      "meaning_es": "que se puede oír",
+      "example": "Su voz apenas era *** debido al ruido ambiente."
+    },
+    {
+      "term": "implícito",
+      "type": "Adjective",
+      "meaning_tr": "üstü kapalı",
+      "meaning_en": "implicit",
+      "meaning_uk": "неявний",
+      "meaning_es": "que se entiende sin decirse",
+      "example": "Había un acuerdo *** entre ambos socios."
+    },
+    {
+      "term": "explícito",
+      "type": "Adjective",
+      "meaning_tr": "açık",
+      "meaning_en": "explicit",
+      "meaning_uk": "явний",
+      "meaning_es": "dicho con claridad",
+      "example": "Fue muy *** al explicar sus razones."
+    },
+    {
+      "term": "fidedigno",
+      "type": "Adjective",
+      "meaning_tr": "güvenilir",
+      "meaning_en": "reliable",
+      "meaning_uk": "достовірний",
+      "meaning_es": "digno de crédito",
+      "example": "Obtuvimos información *** de una fuente oficial."
+    },
+    {
+      "term": "coherente",
+      "type": "Adjective",
+      "meaning_tr": "tutarlı",
+      "meaning_en": "coherent",
+      "meaning_uk": "послідовний",
+      "meaning_es": "que tiene sentido",
+      "example": "Su argumento no parece nada ***."
+    },
+    {
+      "term": "ininteligible",
+      "type": "Adjective",
+      "meaning_tr": "anlaşılmaz",
+      "meaning_en": "unintelligible",
+      "meaning_uk": "незрозумілий",
+      "meaning_es": "que no se puede entender",
+      "example": "El audio estaba tan mal que resultó ***."
+    },
+    {
+      "term": "previamente",
+      "type": "Adverb",
+      "meaning_tr": "önceden",
+      "meaning_en": "previously",
+      "meaning_uk": "раніше",
+      "meaning_es": "con anterioridad",
+      "example": "Habíamos *** acordado los puntos a tratar."
+    },
+    {
+      "term": "brevemente",
+      "type": "Adverb",
+      "meaning_tr": "kısaca",
+      "meaning_en": "briefly",
+      "meaning_uk": "коротко",
+      "meaning_es": "de manera breve",
+      "example": "Voy a resumir *** lo ocurrido hoy."
+    },
+    {
+      "term": "francamente",
+      "type": "Adverb",
+      "meaning_tr": "açıkçası",
+      "meaning_en": "frankly",
+      "meaning_uk": "відверто",
+      "meaning_es": "con sinceridad",
+      "example": "***, no creo que esa sea la mejor solución."
+    },
+    {
+      "term": "asimismo",
+      "type": "Adverb",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "likewise",
+      "meaning_uk": "також",
+      "meaning_es": "también",
+      "example": "***, se ha decidido cambiar la fecha de la reunión."
+    },
+    {
+      "term": "efectivamente",
+      "type": "Adverb",
+      "meaning_tr": "gerçekten",
+      "meaning_en": "effectively",
+      "meaning_uk": "дійсно",
+      "meaning_es": "de manera efectiva o confirmatoria",
+      "example": "***, esa es la conclusión a la que llegamos."
+    },
+    {
+      "term": "no obstante",
+      "type": "Conjunction",
+      "meaning_tr": "buna rağmen",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "проте",
+      "meaning_es": "sin embargo",
+      "example": "El plan es bueno; ***, requiere ajustes."
+    },
+    {
+      "term": "puesto que",
+      "type": "Conjunction",
+      "meaning_tr": "çünkü",
+      "meaning_en": "since/given that",
+      "meaning_uk": "оскільки",
+      "meaning_es": "ya que",
+      "example": "No podemos avanzar *** faltan datos importantes."
+    },
+    {
+      "term": "a menos que",
+      "type": "Conjunction",
+      "meaning_tr": "medikçe",
+      "meaning_en": "unless",
+      "meaning_uk": "якщо не",
+      "meaning_es": "salvo que",
+      "example": "No podré llamarte *** me des tu número."
+    },
+    {
+      "term": "por consiguiente",
+      "type": "Conjunction",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por lo tanto",
+      "example": "No hubo acuerdo y, ***, se canceló el proyecto."
+    },
+    {
+      "term": "pese a que",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen",
+      "meaning_en": "even though",
+      "meaning_uk": "незважаючи на те, що",
+      "meaning_es": "aunque",
+      "example": "*** intenté explicarme, no me entendieron."
+    },
+    {
+      "term": "a través de",
+      "type": "Preposition",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "through/by means of",
+      "meaning_uk": "через",
+      "meaning_es": "mediante",
+      "example": "Nos comunicamos *** una plataforma segura."
+    },
+    {
+      "term": "en torno a",
+      "type": "Preposition",
+      "meaning_tr": "etrafında",
+      "meaning_en": "around/concerning",
+      "meaning_uk": "стосовно",
+      "meaning_es": "acerca de",
+      "example": "La conversación giró *** los nuevos objetivos."
+    },
+    {
+      "term": "en cuanto a",
+      "type": "Preposition",
+      "meaning_tr": "ile ilgili",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a",
+      "example": "*** su propuesta, aún estamos analizándola."
+    },
+    {
+      "term": "con respecto a",
+      "type": "Preposition",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "with respect to",
+      "meaning_uk": "стосовно",
+      "meaning_es": "referente a",
+      "example": "*** lo que dijiste, no estoy de acuerdo."
+    },
+    {
+      "term": "a raíz de",
+      "type": "Preposition",
+      "meaning_tr": "sonucunda",
+      "meaning_en": "as a result of",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "debido a",
+      "example": "*** la llamada, cambiamos toda la estrategia."
+    }
+  ]
+}

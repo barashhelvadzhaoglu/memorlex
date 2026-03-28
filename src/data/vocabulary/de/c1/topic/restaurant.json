@@ -1,0 +1,546 @@
+{
+  "title": "Im Restaurant (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Kulinarik",
+      "type": "Noun",
+      "example": "Die regionale *** spielt eine zentrale Rolle in diesem Gourmet-Restaurant.",
+      "meaning_tr": "mutfak kültürü",
+      "meaning_en": "culinary arts",
+      "meaning_uk": "кулінарія",
+      "meaning_es": "culinaria"
+    },
+    {
+      "term": "delikates",
+      "type": "Adjective",
+      "example": "Der Koch hat ein überaus *** Gericht für unsere Gäste zubereitet.",
+      "meaning_tr": "nefis",
+      "meaning_en": "delicate/exquisite",
+      "meaning_uk": "вишуканий",
+      "meaning_es": "delicado"
+    },
+    {
+      "term": "kredenzen",
+      "type": "Verb",
+      "example": "Der Sommelier wird uns einen exzellenten Wein ***.",
+      "meaning_tr": "sunmak (içki/yemek)",
+      "meaning_en": "to serve (formal)",
+      "meaning_uk": "подавати",
+      "meaning_es": "servir"
+    },
+    {
+      "term": "die Gaumenfreude",
+      "type": "Noun",
+      "example": "Dieses Dessert ist eine wahre *** für jeden Feinschmecker.",
+      "meaning_tr": "damak zevki",
+      "meaning_en": "culinary delight",
+      "meaning_uk": "насолода для піднебіння",
+      "meaning_es": "deleite para el paladar"
+    },
+    {
+      "term": "der Feinschmecker",
+      "type": "Noun",
+      "example": "Für einen *** ist die Frische der Zutaten das Wichtigste.",
+      "meaning_tr": "gurme",
+      "meaning_en": "gourmet",
+      "meaning_uk": "гурман",
+      "meaning_es": "gourmet"
+    },
+    {
+      "term": "exquisit",
+      "type": "Adjective",
+      "example": "Wir genießen ein *** Abendessen in einem Sterne-Restaurant.",
+      "meaning_tr": "seçkin/enfes",
+      "meaning_en": "exquisite",
+      "meaning_uk": "вишуканий",
+      "meaning_es": "exquisito"
+    },
+    {
+      "term": "der Nachgeschmack",
+      "type": "Noun",
+      "example": "Dieser Wein hinterlässt einen angenehmen *** am Gaumen.",
+      "meaning_tr": "ağızda kalan tat",
+      "meaning_en": "aftertaste",
+      "meaning_uk": "післясмак",
+      "meaning_es": "regusto"
+    },
+    {
+      "term": "degustieren",
+      "type": "Verb",
+      "example": "Wir haben die Gelegenheit, verschiedene Käsesorten zu ***.",
+      "meaning_tr": "tadına bakmak",
+      "meaning_en": "to degust/taste",
+      "meaning_uk": "дегустувати",
+      "meaning_es": "degustar"
+    },
+    {
+      "term": "die Speisekarte",
+      "type": "Noun",
+      "example": "Die *** bietet eine breite Palette an saisonalen Spezialitäten.",
+      "meaning_tr": "menü",
+      "meaning_en": "menu",
+      "meaning_uk": "меню",
+      "meaning_es": "menú"
+    },
+    {
+      "term": "reservieren",
+      "type": "Verb",
+      "example": "Ich möchte für heute Abend einen Tisch für zwei Personen ***.",
+      "meaning_tr": "rezervasyon yapmak",
+      "meaning_en": "to reserve",
+      "meaning_uk": "бронювати",
+      "meaning_es": "reservar"
+    },
+    {
+      "term": "die Zutat",
+      "type": "Noun",
+      "example": "Das Geheimnis liegt in der Qualität jeder einzelnen ***.",
+      "meaning_tr": "içerik/malzeme",
+      "meaning_en": "ingredient",
+      "meaning_uk": "інгредієнт",
+      "meaning_es": "ingrediente"
+    },
+    {
+      "term": "das Besteck",
+      "type": "Noun",
+      "example": "Bitte decken Sie den Tisch mit dem silbernen *** ein.",
+      "meaning_tr": "çatal bıçak takımı",
+      "meaning_en": "cutlery",
+      "meaning_uk": "столові прибори",
+      "meaning_es": "cubiertos"
+    },
+    {
+      "term": "die Rechnung",
+      "type": "Noun",
+      "example": "Könnten wir bitte die *** bekommen?",
+      "meaning_tr": "hesap",
+      "meaning_en": "bill/check",
+      "meaning_uk": "рахунок",
+      "meaning_es": "cuenta"
+    },
+    {
+      "term": "das Trinkgeld",
+      "type": "Noun",
+      "example": "Wir haben dem Kellner ein großzügiges *** gegeben.",
+      "meaning_tr": "bahşiş",
+      "meaning_en": "tip",
+      "meaning_uk": "чайові",
+      "meaning_es": "propina"
+    },
+    {
+      "term": "servieren",
+      "type": "Verb",
+      "example": "Das Personal wird die Hauptspeise in wenigen Minuten ***.",
+      "meaning_tr": "servis etmek",
+      "meaning_en": "to serve",
+      "meaning_uk": "подавати",
+      "meaning_es": "servir"
+    },
+    {
+      "term": "die Vorspeise",
+      "type": "Noun",
+      "example": "Als *** empfehle ich Ihnen die hausgemachte Suppe.",
+      "meaning_tr": "başlangıç",
+      "meaning_en": "appetizer",
+      "meaning_uk": "закуска",
+      "meaning_es": "entrante"
+    },
+    {
+      "term": "die Hauptspeise",
+      "type": "Noun",
+      "example": "Für die *** gibt es heute ein Filet vom Rind.",
+      "meaning_tr": "ana yemek",
+      "meaning_en": "main course",
+      "meaning_uk": "основна страва",
+      "meaning_es": "plato principal"
+    },
+    {
+      "term": "das Dessert",
+      "type": "Noun",
+      "example": "Zum *** haben wir eine Auswahl an frischen Früchten.",
+      "meaning_tr": "tatlı",
+      "meaning_en": "dessert",
+      "meaning_uk": "десерт",
+      "meaning_es": "postre"
+    },
+    {
+      "term": "die Bedienung",
+      "type": "Noun",
+      "example": "Die *** war heute besonders aufmerksam und freundlich.",
+      "meaning_tr": "garson/servis",
+      "meaning_en": "service/waiter",
+      "meaning_uk": "обслуговування",
+      "meaning_es": "servicio"
+    },
+    {
+      "term": "die Allergie",
+      "type": "Noun",
+      "example": "Gibt es bei Ihnen eine *** gegen bestimmte Lebensmittel?",
+      "meaning_tr": "alerji",
+      "meaning_en": "allergy",
+      "meaning_uk": "алергія",
+      "meaning_es": "alergia"
+    },
+    {
+      "term": "vegetarisch",
+      "type": "Adjective",
+      "example": "Wir haben auch eine große Auswahl an *** Gerichten.",
+      "meaning_tr": "vejetaryen",
+      "meaning_en": "vegetarian",
+      "meaning_uk": "вегетаріанський",
+      "meaning_es": "vegetariano"
+    },
+    {
+      "term": "vegan",
+      "type": "Adjective",
+      "example": "Können Sie mir sagen, welche Optionen auf der Karte *** sind?",
+      "meaning_tr": "vegan",
+      "meaning_en": "vegan",
+      "meaning_uk": "веганський",
+      "meaning_es": "vegano"
+    },
+    {
+      "term": "der Kellner",
+      "type": "Noun",
+      "example": "Der *** nimmt gerade die Bestellung am Nachbartisch auf.",
+      "meaning_tr": "garson",
+      "meaning_en": "waiter",
+      "meaning_uk": "офіціант",
+      "meaning_es": "camarero"
+    },
+    {
+      "term": "die Bestellung",
+      "type": "Noun",
+      "example": "Ich würde gerne meine *** aufgeben.",
+      "meaning_tr": "sipariş",
+      "meaning_en": "order",
+      "meaning_uk": "замовлення",
+      "meaning_es": "pedido"
+    },
+    {
+      "term": "bestellen",
+      "type": "Verb",
+      "example": "Wir möchten gerne ein Glas Wein ***.",
+      "meaning_tr": "sipariş etmek",
+      "meaning_en": "to order",
+      "meaning_uk": "замовляти",
+      "meaning_es": "pedir"
+    },
+    {
+      "term": "der Gutschein",
+      "type": "Noun",
+      "example": "Wir möchten diesen *** für unser Abendessen einlösen.",
+      "meaning_tr": "kupon/hediye çeki",
+      "meaning_en": "voucher/gift card",
+      "meaning_uk": "ваучер/подарунковий сертифікат",
+      "meaning_es": "vale/cupón"
+    },
+    {
+      "term": "die Atmosphäre",
+      "type": "Noun",
+      "example": "Das Restaurant bietet eine sehr gemütliche ***.",
+      "meaning_tr": "atmosfer",
+      "meaning_en": "atmosphere",
+      "meaning_uk": "атмосфера",
+      "meaning_es": "ambiente"
+    },
+    {
+      "term": "geschmackvoll",
+      "type": "Adjective",
+      "example": "Das Interieur des Lokals ist sehr *** gestaltet.",
+      "meaning_tr": "zevkli",
+      "meaning_en": "tasteful",
+      "meaning_uk": "зі смаком",
+      "meaning_es": "de buen gusto"
+    },
+    {
+      "term": "die Tagesempfehlung",
+      "type": "Noun",
+      "example": "Was ist Ihre *** für heute?",
+      "meaning_tr": "günün tavsiyesi",
+      "meaning_en": "daily special",
+      "meaning_uk": "рекомендація дня",
+      "meaning_es": "recomendación del día"
+    },
+    {
+      "term": "der Durst",
+      "type": "Noun",
+      "example": "Bei dieser Hitze habe ich einen riesigen ***.",
+      "meaning_tr": "susuzluk",
+      "meaning_en": "thirst",
+      "meaning_uk": "спрага",
+      "meaning_es": "sed"
+    },
+    {
+      "term": "der Hunger",
+      "type": "Noun",
+      "example": "Ich habe großen *** auf etwas Deftiges.",
+      "meaning_tr": "açlık",
+      "meaning_en": "hunger",
+      "meaning_uk": "голод",
+      "meaning_es": "hambre"
+    },
+    {
+      "term": "aufgrund",
+      "type": "Preposition",
+      "example": "*** der hohen Nachfrage ist eine Reservierung erforderlich.",
+      "meaning_tr": "yüzünden/nedeniyle",
+      "meaning_en": "due to",
+      "meaning_uk": "через",
+      "meaning_es": "debido a"
+    },
+    {
+      "term": "bezüglich",
+      "type": "Preposition",
+      "example": "*** Ihrer Anfrage haben wir einen Tisch am Fenster frei.",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "regarding",
+      "meaning_uk": "стосовно",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "enthalten",
+      "type": "Verb",
+      "example": "Dieses Gericht kann Spuren von Nüssen ***.",
+      "meaning_tr": "içermek",
+      "meaning_en": "to contain",
+      "meaning_uk": "містити",
+      "meaning_es": "contener"
+    },
+    {
+      "term": "die Beilage",
+      "type": "Noun",
+      "example": "Welche *** würden Sie zum Steak wählen?",
+      "meaning_tr": "yan ürün/garnitür",
+      "meaning_en": "side dish",
+      "meaning_uk": "гарнір",
+      "meaning_es": "guarnición"
+    },
+    {
+      "term": "der Wein",
+      "type": "Noun",
+      "example": "Haben Sie eine Empfehlung für einen passenden ***?",
+      "meaning_tr": "şarap",
+      "meaning_en": "wine",
+      "meaning_uk": "вино",
+      "meaning_es": "vino"
+    },
+    {
+      "term": "die Zitrone",
+      "type": "Noun",
+      "example": "Bitte reichen Sie mir eine Scheibe *** zum Fisch.",
+      "meaning_tr": "limon",
+      "meaning_en": "lemon",
+      "meaning_uk": "лимон",
+      "meaning_es": "limón"
+    },
+    {
+      "term": "das Salz",
+      "type": "Noun",
+      "example": "Könnten Sie mir bitte das *** reichen?",
+      "meaning_tr": "tuz",
+      "meaning_en": "salt",
+      "meaning_uk": "сіль",
+      "meaning_es": "sal"
+    },
+    {
+      "term": "der Pfeffer",
+      "type": "Noun",
+      "example": "Frisch gemahlener *** verfeinert dieses Gericht.",
+      "meaning_tr": "karabiber",
+      "meaning_en": "pepper",
+      "meaning_uk": "перець",
+      "meaning_es": "pimienta"
+    },
+    {
+      "term": "das Mineralwasser",
+      "type": "Noun",
+      "example": "Ich hätte gerne ein *** mit Kohlensäure.",
+      "meaning_tr": "maden suyu",
+      "meaning_en": "mineral water",
+      "meaning_uk": "мінеральна вода",
+      "meaning_es": "agua mineral"
+    },
+    {
+      "term": "der Gast",
+      "type": "Noun",
+      "example": "Wir begrüßen jeden *** herzlich in unserem Haus.",
+      "meaning_tr": "misafir/müşteri",
+      "meaning_en": "guest",
+      "meaning_uk": "гість",
+      "meaning_es": "invitado/cliente"
+    },
+    {
+      "term": "stornieren",
+      "type": "Verb",
+      "example": "Leider muss ich meine Reservierung für heute Abend ***.",
+      "meaning_tr": "iptal etmek",
+      "meaning_en": "to cancel",
+      "meaning_uk": "скасовувати",
+      "meaning_es": "cancelar"
+    },
+    {
+      "term": "die Karte",
+      "type": "Noun",
+      "example": "Darf ich Sie nach der *** fragen?",
+      "meaning_tr": "menü",
+      "meaning_en": "menu",
+      "meaning_uk": "карта/меню",
+      "meaning_es": "menú"
+    },
+    {
+      "term": "das Fleisch",
+      "type": "Noun",
+      "example": "Das *** ist perfekt gebraten.",
+      "meaning_tr": "et",
+      "meaning_en": "meat",
+      "meaning_uk": "м'ясо",
+      "meaning_es": "carne"
+    },
+    {
+      "term": "das Gemüse",
+      "type": "Noun",
+      "example": "Saisonal gepflücktes *** ist immer am schmackhaftesten.",
+      "meaning_tr": "sebze",
+      "meaning_en": "vegetables",
+      "meaning_uk": "овочі",
+      "meaning_es": "verdura"
+    },
+    {
+      "term": "die Soße",
+      "type": "Noun",
+      "example": "Die hausgemachte *** passt hervorragend zum Braten.",
+      "meaning_tr": "sos",
+      "meaning_en": "sauce",
+      "meaning_uk": "соус",
+      "meaning_es": "salsa"
+    },
+    {
+      "term": "der Koch",
+      "type": "Noun",
+      "example": "Unser *** bereitet alles frisch zu.",
+      "meaning_tr": "aşçı",
+      "meaning_en": "cook/chef",
+      "meaning_uk": "кухар",
+      "meaning_es": "cocinero"
+    },
+    {
+      "term": "verfeinern",
+      "type": "Verb",
+      "example": "Man kann die Suppe mit etwas Sahne ***.",
+      "meaning_tr": "lezzetlendirmek",
+      "meaning_en": "to refine/enhance",
+      "meaning_uk": "удосконалювати/покращувати смак",
+      "meaning_es": "refinar/realzar"
+    },
+    {
+      "term": "sättigend",
+      "type": "Adjective",
+      "example": "Diese Suppe ist sehr *** und gesund.",
+      "meaning_tr": "doyurucu",
+      "meaning_en": "filling",
+      "meaning_uk": "ситний",
+      "meaning_es": "saciante"
+    },
+    {
+      "term": "zudem",
+      "type": "Adverb",
+      "example": "Das Essen war hervorragend und *** sehr preiswert.",
+      "meaning_tr": "ayrıca/bununla birlikte",
+      "meaning_en": "moreover",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "dennoch",
+      "type": "Conjunction",
+      "example": "Das Restaurant war voll, *** haben wir einen Platz gefunden.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "проте",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "die Portion",
+      "type": "Noun",
+      "example": "Die *** ist für den Preis recht klein.",
+      "meaning_tr": "porsiyon",
+      "meaning_en": "portion",
+      "meaning_uk": "порція",
+      "meaning_es": "porción"
+    },
+    {
+      "term": "schmackhaft",
+      "type": "Adjective",
+      "example": "Das war eine sehr *** Mahlzeit.",
+      "meaning_tr": "lezzetli",
+      "meaning_en": "tasty",
+      "meaning_uk": "смачний",
+      "meaning_es": "sabroso"
+    },
+    {
+      "term": "die Einrichtung",
+      "type": "Noun",
+      "example": "Die moderne *** des Restaurants ist sehr einladend.",
+      "meaning_tr": "dekorasyon/döşeme",
+      "meaning_en": "furnishing/decor",
+      "meaning_uk": "обстановка",
+      "meaning_es": "decoración"
+    },
+    {
+      "term": "das Ambiente",
+      "type": "Noun",
+      "example": "Wir schätzen das entspannte *** bei Kerzenschein.",
+      "meaning_tr": "ortam/ambiyans",
+      "meaning_en": "ambiance",
+      "meaning_uk": "антураж",
+      "meaning_es": "ambiente"
+    },
+    {
+      "term": "gebraten",
+      "type": "Adjective",
+      "example": "Ich hätte gerne den *** Fisch mit Kartoffeln.",
+      "meaning_tr": "kızarmış/kızartılmış",
+      "meaning_en": "fried/roasted",
+      "meaning_uk": "смажений",
+      "meaning_es": "frito/asado"
+    },
+    {
+      "term": "gedünstet",
+      "type": "Adjective",
+      "example": "Für eine gesunde Ernährung ist *** Gemüse ideal.",
+      "meaning_tr": "buğulanmış/haşlanmış",
+      "meaning_en": "steamed/stewed",
+      "meaning_uk": "тушкований/паровий",
+      "meaning_es": "al vapor"
+    },
+    {
+      "term": "die Reservierung",
+      "type": "Noun",
+      "example": "Haben Sie eine *** auf einen Namen?",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "reservation",
+      "meaning_uk": "бронювання",
+      "meaning_es": "reserva"
+    },
+    {
+      "term": "die Auswahl",
+      "type": "Noun",
+      "example": "Es gibt eine große *** an verschiedenen Weinen.",
+      "meaning_tr": "seçenek/seçim",
+      "meaning_en": "selection",
+      "meaning_uk": "вибір",
+      "meaning_es": "selección"
+    },
+    {
+      "term": "kalt",
+      "type": "Adjective",
+      "example": "Die Suppe sollte heiß serviert werden, nicht ***.",
+      "meaning_tr": "soğuk",
+      "meaning_en": "cold",
+      "meaning_uk": "холодний",
+      "meaning_es": "frío"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Psicologia y Emociones (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la resiliencia",
+      "type": "Noun",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "capacidad de adaptación frente a la adversidad",
+      "example": "*** es fundamental para superar los traumas infantiles."
+    },
+    {
+      "term": "la introspección",
+      "type": "Noun",
+      "meaning_tr": "içebakış",
+      "meaning_en": "introspection",
+      "meaning_uk": "самоаналіз",
+      "meaning_es": "observación interna de los propios pensamientos",
+      "example": "A través de ***, logró comprender sus patrones de conducta."
+    },
+    {
+      "term": "el sesgo cognitivo",
+      "type": "Noun",
+      "meaning_tr": "bilişsel önyargı",
+      "meaning_en": "cognitive bias",
+      "meaning_uk": "когнітивне упередження",
+      "meaning_es": "error sistemático en el procesamiento de información",
+      "example": "Debemos ser conscientes de que *** afecta nuestra toma de decisiones."
+    },
+    {
+      "term": "la catarsis",
+      "type": "Noun",
+      "meaning_tr": "katarsis",
+      "meaning_en": "catharsis",
+      "meaning_uk": "катарсис",
+      "meaning_es": "liberación emocional",
+      "example": "Escribir sus memorias supuso una verdadera *** para ella."
+    },
+    {
+      "term": "el apego",
+      "type": "Noun",
+      "meaning_tr": "bağlanma",
+      "meaning_en": "attachment",
+      "meaning_uk": "прив'язаність",
+      "meaning_es": "vínculo afectivo",
+      "example": "Un *** inseguro puede dificultar las relaciones de pareja."
+    },
+    {
+      "term": "la empatía",
+      "type": "Noun",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "capacidad de ponerse en el lugar del otro",
+      "example": "La *** es una habilidad esencial para la inteligencia emocional."
+    },
+    {
+      "term": "la asertividad",
+      "type": "Noun",
+      "meaning_tr": "atılganlık",
+      "meaning_en": "assertiveness",
+      "meaning_uk": "асертивність",
+      "meaning_es": "habilidad de expresar opiniones sin agresividad",
+      "example": "Gracias a su ***, pudo poner límites claros en su trabajo."
+    },
+    {
+      "term": "la disonancia",
+      "type": "Noun",
+      "meaning_tr": "uyumsuzluk",
+      "meaning_en": "dissonance",
+      "meaning_uk": "дисонанс",
+      "meaning_es": "tensión interna por ideas contradictorias",
+      "example": "Sintió una fuerte *** al actuar contra sus propios principios."
+    },
+    {
+      "term": "el subconsciente",
+      "type": "Noun",
+      "meaning_tr": "bilinçaltı",
+      "meaning_en": "subconscious",
+      "meaning_uk": "підсвідомість",
+      "meaning_es": "parte de la mente fuera de la conciencia",
+      "example": "Muchos de nuestros miedos residen en ***."
+    },
+    {
+      "term": "la sublimación",
+      "type": "Noun",
+      "meaning_tr": "yüceltme",
+      "meaning_en": "sublimation",
+      "meaning_uk": "сублімація",
+      "meaning_es": "transformación de impulsos en actividades aceptables",
+      "example": "El artista utilizó *** para canalizar su ira en pintura."
+    },
+    {
+      "term": "la autopercepción",
+      "type": "Noun",
+      "meaning_tr": "öz algı",
+      "meaning_en": "self-perception",
+      "meaning_uk": "самосприйняття",
+      "meaning_es": "manera en que nos vemos a nosotros mismos",
+      "example": "Una *** distorsionada puede derivar en problemas de autoestima."
+    },
+    {
+      "term": "reprimir",
+      "type": "Verb",
+      "meaning_tr": "bastırmak",
+      "meaning_en": "to repress",
+      "meaning_uk": "пригнічувати",
+      "meaning_es": "contener un impulso o emoción",
+      "example": "No es saludable *** constantemente tus sentimientos."
+    },
+    {
+      "term": "mitigar",
+      "type": "Verb",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to mitigate",
+      "meaning_uk": "пом'якшувати",
+      "meaning_es": "hacer menos severo un problema",
+      "example": "La terapia ayuda a *** los síntomas de la ansiedad."
+    },
+    {
+      "term": "evocar",
+      "type": "Verb",
+      "meaning_tr": "çağrıştırmak",
+      "meaning_en": "to evoke",
+      "meaning_uk": "викликати",
+      "meaning_es": "traer algo a la memoria",
+      "example": "Ciertos aromas pueden *** recuerdos de la infancia."
+    },
+    {
+      "term": "racionalizar",
+      "type": "Verb",
+      "meaning_tr": "mantığa bürümek",
+      "meaning_en": "to rationalize",
+      "meaning_uk": "раціоналізувати",
+      "meaning_es": "buscar una explicación lógica a una conducta",
+      "example": "Suele *** sus errores para evitar sentirse culpable."
+    },
+    {
+      "term": "proyectar",
+      "type": "Verb",
+      "meaning_tr": "yansıtmak",
+      "meaning_en": "to project",
+      "meaning_uk": "проєктувати",
+      "meaning_es": "atribuir a otros sentimientos propios",
+      "example": "Es común *** nuestras inseguridades en los demás."
+    },
+    {
+      "term": "desencadenar",
+      "type": "Verb",
+      "meaning_tr": "tetiklemek",
+      "meaning_en": "to trigger",
+      "meaning_uk": "спровокувати",
+      "meaning_es": "provocar una reacción",
+      "example": "El estrés puede *** episodios de insomnio."
+    },
+    {
+      "term": "validar",
+      "type": "Verb",
+      "meaning_tr": "doğrulamak",
+      "meaning_en": "to validate",
+      "meaning_uk": "підтверджувати",
+      "meaning_es": "reconocer y aceptar las emociones del otro",
+      "example": "Es importante *** las emociones de los niños sin juzgarlas."
+    },
+    {
+      "term": "afrontar",
+      "type": "Verb",
+      "meaning_tr": "yüzleşmek",
+      "meaning_en": "to confront",
+      "meaning_uk": "протистояти",
+      "meaning_es": "hacer frente a una situación difícil",
+      "example": "Debes *** tus temores para poder avanzar."
+    },
+    {
+      "term": "sobrellevar",
+      "type": "Verb",
+      "meaning_tr": "katlanmak",
+      "meaning_en": "to cope with",
+      "meaning_uk": "переносити",
+      "meaning_es": "soportar una carga o dolor",
+      "example": "Le costó mucho *** la pérdida de su empleo."
+    },
+    {
+      "term": "anhedonia",
+      "type": "Adjective",
+      "meaning_tr": "zevk alamama",
+      "meaning_en": "anhedonic",
+      "meaning_uk": "ангедонічний",
+      "meaning_es": "incapaz de sentir placer",
+      "example": "El paciente mostraba un estado *** ante actividades que antes disfrutaba."
+    },
+    {
+      "term": "impulsivo",
+      "type": "Adjective",
+      "meaning_tr": "dürtüsel",
+      "meaning_en": "impulsive",
+      "meaning_uk": "імпульсивний",
+      "meaning_es": "que actúa sin reflexionar",
+      "example": "Su carácter *** le ha traído muchos problemas sociales."
+    },
+    {
+      "term": "vulnerable",
+      "type": "Adjective",
+      "meaning_tr": "savunmasız",
+      "meaning_en": "vulnerable",
+      "meaning_uk": "вразливий",
+      "meaning_es": "expuesto a ser dañado",
+      "example": "Sentirse *** es el primer paso hacia una conexión real."
+    },
+    {
+      "term": "inefable",
+      "type": "Adjective",
+      "meaning_tr": "anlatılamaz",
+      "meaning_en": "ineffable",
+      "meaning_uk": "невимовний",
+      "meaning_es": "que no se puede explicar con palabras",
+      "example": "Sintió una alegría *** al conocer a su hijo."
+    },
+    {
+      "term": "apático",
+      "type": "Adjective",
+      "meaning_tr": "ilgisiz",
+      "meaning_en": "apathetic",
+      "meaning_uk": "апатичний",
+      "meaning_es": "falto de motivación o interés",
+      "example": "Se siente *** respecto a su futuro profesional."
+    },
+    {
+      "term": "obsesivo",
+      "type": "Adjective",
+      "meaning_tr": "takıntılı",
+      "meaning_en": "obsessive",
+      "meaning_uk": "обсесивний",
+      "meaning_es": "que tiene ideas fijas",
+      "example": "Tiene un pensamiento *** sobre el orden de su escritorio."
+    },
+    {
+      "term": "empático",
+      "type": "Adjective",
+      "meaning_tr": "empatik",
+      "meaning_en": "empathic",
+      "meaning_uk": "емпатичний",
+      "meaning_es": "que tiene empatía",
+      "example": "Es un terapeuta muy *** con sus pacientes."
+    },
+    {
+      "term": "inestable",
+      "type": "Adjective",
+      "meaning_tr": "kararsız",
+      "meaning_en": "unstable",
+      "meaning_uk": "нестабільний",
+      "meaning_es": "que cambia con frecuencia",
+      "example": "Su estado de ánimo es muy *** últimamente."
+    },
+    {
+      "term": "reticente",
+      "type": "Adjective",
+      "meaning_tr": "isteksiz",
+      "meaning_en": "reluctant",
+      "meaning_uk": "неохочий",
+      "meaning_es": "que se resiste a algo",
+      "example": "Se mostró *** a hablar sobre su pasado."
+    },
+    {
+      "term": "lúcido",
+      "type": "Adjective",
+      "meaning_tr": "berrak",
+      "meaning_en": "lucid",
+      "meaning_uk": "усвідомлений",
+      "meaning_es": "que piensa con claridad",
+      "example": "Tuvo un momento *** en medio de su confusión."
+    },
+    {
+      "term": "el síndrome",
+      "type": "Noun",
+      "meaning_tr": "sendrom",
+      "meaning_en": "syndrome",
+      "meaning_uk": "синдром",
+      "meaning_es": "conjunto de síntomas",
+      "example": "Padece *** del impostor a pesar de sus logros."
+    },
+    {
+      "term": "la fobia",
+      "type": "Noun",
+      "meaning_tr": "fobi",
+      "meaning_en": "phobia",
+      "meaning_uk": "фобія",
+      "meaning_es": "miedo irracional",
+      "example": "Su *** a las alturas le impide viajar en avión."
+    },
+    {
+      "term": "la compulsión",
+      "type": "Noun",
+      "meaning_tr": "zorlantı",
+      "meaning_en": "compulsion",
+      "meaning_uk": "компульсія",
+      "meaning_es": "impulso irrefrenable",
+      "example": "La *** por revisar la puerta es agotadora."
+    },
+    {
+      "term": "el trauma",
+      "type": "Noun",
+      "meaning_tr": "travma",
+      "meaning_en": "trauma",
+      "meaning_uk": "травма",
+      "meaning_es": "choque emocional profundo",
+      "example": "El *** de la guerra dejó secuelas imborrables."
+    },
+    {
+      "term": "la estima",
+      "type": "Noun",
+      "meaning_tr": "saygı/değer",
+      "meaning_en": "esteem",
+      "meaning_uk": "повага/самооцінка",
+      "meaning_es": "valoración que se tiene de algo o alguien",
+      "example": "Tiene una alta *** de sí mismo."
+    },
+    {
+      "term": "la neurosis",
+      "type": "Noun",
+      "meaning_tr": "nevroz",
+      "meaning_en": "neurosis",
+      "meaning_uk": "невроз",
+      "meaning_es": "trastorno psicológico sin base orgánica",
+      "example": "La ansiedad crónica puede derivar en una ***."
+    },
+    {
+      "term": "el delirio",
+      "type": "Noun",
+      "meaning_tr": "sanrı",
+      "meaning_en": "delirium",
+      "meaning_uk": "марення",
+      "meaning_es": "creencia falsa y persistente",
+      "example": "El paciente sufría un *** de persecución constante."
+    },
+    {
+      "term": "el rasgo",
+      "type": "Noun",
+      "meaning_tr": "özellik",
+      "meaning_en": "trait",
+      "meaning_uk": "риса",
+      "meaning_es": "característica de la personalidad",
+      "example": "La timidez es un *** distintivo de su carácter."
+    },
+    {
+      "term": "la psique",
+      "type": "Noun",
+      "meaning_tr": "ruh",
+      "meaning_en": "psyche",
+      "meaning_uk": "психіка",
+      "meaning_es": "conjunto de facultades mentales",
+      "example": "Los sueños son una ventana a *** humana."
+    },
+    {
+      "term": "la actitud",
+      "type": "Noun",
+      "meaning_tr": "tutum",
+      "meaning_en": "attitude",
+      "meaning_uk": "ставлення",
+      "meaning_es": "disposición mental ante algo",
+      "example": "Cambiar su *** fue clave para su recuperación."
+    },
+    {
+      "term": "analizar",
+      "type": "Verb",
+      "meaning_tr": "analiz etmek",
+      "meaning_en": "to analyze",
+      "meaning_uk": "аналізувати",
+      "meaning_es": "estudiar detalladamente",
+      "example": "Vamos a *** las causas de su comportamiento."
+    },
+    {
+      "term": "interiorizar",
+      "type": "Verb",
+      "meaning_tr": "içselleştirmek",
+      "meaning_en": "to internalize",
+      "meaning_uk": "інтерналізувати",
+      "meaning_es": "hacer propios valores o ideas",
+      "example": "Es necesario *** las normas de conducta social."
+    },
+    {
+      "term": "reprimir",
+      "type": "Verb",
+      "meaning_tr": "bastırmak",
+      "meaning_en": "to repress",
+      "meaning_uk": "пригнічувати",
+      "meaning_es": "contener una emoción",
+      "example": "Intentó *** su llanto frente a todos."
+    },
+    {
+      "term": "identificar",
+      "type": "Verb",
+      "meaning_tr": "tanımlamak",
+      "meaning_en": "to identify",
+      "meaning_uk": "ідентифікувати",
+      "meaning_es": "reconocer a alguien o algo",
+      "example": "Debemos *** los factores de riesgo en el entorno."
+    },
+    {
+      "term": "desarrollar",
+      "type": "Verb",
+      "meaning_tr": "geliştirmek",
+      "meaning_en": "to develop",
+      "meaning_uk": "розвивати",
+      "meaning_es": "crecer o mejorar",
+      "example": "El niño comenzó a *** habilidades sociales complejas."
+    },
+    {
+      "term": "superar",
+      "type": "Verb",
+      "meaning_tr": "aşmak",
+      "meaning_en": "to overcome",
+      "meaning_uk": "долати",
+      "meaning_es": "vencer un obstáculo",
+      "example": "Logró *** su miedo a hablar en público."
+    },
+    {
+      "term": "interpretar",
+      "type": "Verb",
+      "meaning_tr": "yorumlamak",
+      "meaning_en": "to interpret",
+      "meaning_uk": "інтерпретувати",
+      "meaning_es": "explicar el sentido de algo",
+      "example": "El terapeuta ayudó a *** sus sueños recurrentes."
+    },
+    {
+      "term": "atenuar",
+      "type": "Verb",
+      "meaning_tr": "azaltmak",
+      "meaning_en": "to attenuate",
+      "meaning_uk": "послаблювати",
+      "meaning_es": "disminuir la intensidad",
+      "example": "La medicación ayudó a *** sus ataques de pánico."
+    },
+    {
+      "term": "evadir",
+      "type": "Verb",
+      "meaning_tr": "kaçınmak",
+      "meaning_en": "to evade",
+      "meaning_uk": "уникати",
+      "meaning_es": "evitar una situación",
+      "example": "Suele *** los problemas en lugar de resolverlos."
+    },
+    {
+      "term": "reaccionar",
+      "type": "Verb",
+      "meaning_tr": "tepki vermek",
+      "meaning_en": "to react",
+      "meaning_uk": "реагувати",
+      "meaning_es": "responder a un estímulo",
+      "example": "No supo cómo *** ante la noticia inesperada."
+    },
+    {
+      "term": "afectivo",
+      "type": "Adjective",
+      "meaning_tr": "duygusal",
+      "meaning_en": "affective",
+      "meaning_uk": "афективний",
+      "meaning_es": "relativo al afecto",
+      "example": "Tiene un trastorno *** que requiere medicación."
+    },
+    {
+      "term": "cognitivo",
+      "type": "Adjective",
+      "meaning_tr": "bilişsel",
+      "meaning_en": "cognitive",
+      "meaning_uk": "когнітивний",
+      "meaning_es": "relativo al conocimiento",
+      "example": "El desarrollo *** ocurre durante la infancia temprana."
+    },
+    {
+      "term": "constante",
+      "type": "Adjective",
+      "meaning_tr": "sürekli",
+      "meaning_en": "constant",
+      "meaning_uk": "постійний",
+      "meaning_es": "que no cesa",
+      "example": "Su *** preocupación le impide dormir bien."
+    },
+    {
+      "term": "ambivalente",
+      "type": "Adjective",
+      "meaning_tr": "kararsız/ikircikli",
+      "meaning_en": "ambivalent",
+      "meaning_uk": "амбівалентний",
+      "meaning_es": "que siente dos cosas opuestas",
+      "example": "Se siente *** respecto a mudarse de ciudad."
+    },
+    {
+      "term": "consciente",
+      "type": "Adjective",
+      "meaning_tr": "bilinçli",
+      "meaning_en": "conscious",
+      "meaning_uk": "свідомий",
+      "meaning_es": "que tiene conocimiento de algo",
+      "example": "Debes ser *** de las consecuencias de tus actos."
+    },
+    {
+      "term": "pese a",
+      "type": "Preposition",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "aunque",
+      "example": "*** los obstáculos, logró terminar su terapia."
+    },
+    {
+      "term": "tras",
+      "type": "Preposition",
+      "meaning_tr": "-den sonra",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "después de",
+      "example": "*** el análisis, el psicólogo dio su veredicto."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "a pesar de que",
+      "example": "*** estaba cansado, decidió acudir a la sesión."
+    },
+    {
+      "term": "siempre que",
+      "type": "Conjunction",
+      "meaning_tr": "şartıyla",
+      "meaning_en": "provided that",
+      "meaning_uk": "за умови, що",
+      "meaning_es": "con la condición de que",
+      "example": "Puede mejorar, *** siga el tratamiento adecuadamente."
+    },
+    {
+      "term": "acerca de",
+      "type": "Preposition",
+      "meaning_tr": "hakkında",
+      "meaning_en": "about",
+      "meaning_uk": "про",
+      "meaning_es": "sobre",
+      "example": "Hablaron *** sus traumas de la niñez."
+    }
+  ]
+}

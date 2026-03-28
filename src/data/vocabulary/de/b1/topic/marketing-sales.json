@@ -1,0 +1,321 @@
+{
+  "title": "Marketing & Verkauf (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Umsatz",
+      "type": "Noun",
+      "example": "Unser *** ist im letzten Quartal deutlich gestiegen.",
+      "meaning_tr": "ciro",
+      "meaning_en": "revenue",
+      "meaning_uk": "дохід",
+      "meaning_es": "volumen de ventas"
+    },
+    {
+      "term": "werben",
+      "type": "Verb",
+      "example": "Wir müssen mehr für unser neues Produkt ***.",
+      "meaning_tr": "reklam yapmak",
+      "meaning_en": "to advertise",
+      "meaning_uk": "рекламувати",
+      "meaning_es": "anunciar"
+    },
+    {
+      "term": "die Zielgruppe",
+      "type": "Noun",
+      "example": "Wer ist die *** für diese Luxusuhren?",
+      "meaning_tr": "hedef kitle",
+      "meaning_en": "target group",
+      "meaning_uk": "цільова аудиторія",
+      "meaning_es": "público objetivo"
+    },
+    {
+      "term": "der Rabatt",
+      "type": "Noun",
+      "example": "Kunden erhalten heute einen *** von zehn Prozent.",
+      "meaning_tr": "indirim",
+      "meaning_en": "discount",
+      "meaning_uk": "знижка",
+      "meaning_es": "descuento"
+    },
+    {
+      "term": "verhandeln",
+      "type": "Verb",
+      "example": "Wir müssen noch über den Preis ***.",
+      "meaning_tr": "pazarlık etmek",
+      "meaning_en": "to negotiate",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "negociar"
+    },
+    {
+      "term": "attraktiv",
+      "type": "Adjective",
+      "example": "Das Angebot ist sehr *** für junge Familien.",
+      "meaning_tr": "çekici",
+      "meaning_en": "attractive",
+      "meaning_uk": "привабливий",
+      "meaning_es": "atractivo"
+    },
+    {
+      "term": "die Strategie",
+      "type": "Noun",
+      "example": "Unsere neue *** basiert auf sozialen Medien.",
+      "meaning_tr": "strateji",
+      "meaning_en": "strategy",
+      "meaning_uk": "стратегія",
+      "meaning_es": "estrategia"
+    },
+    {
+      "term": "anbieten",
+      "type": "Verb",
+      "example": "Wir können Ihnen einen besseren Service ***.",
+      "meaning_tr": "sunmak",
+      "meaning_en": "to offer",
+      "meaning_uk": "пропонувати",
+      "meaning_es": "ofrecer"
+    },
+    {
+      "term": "der Wettbewerb",
+      "type": "Noun",
+      "example": "Der *** in dieser Branche ist sehr groß.",
+      "meaning_tr": "rekabet",
+      "meaning_en": "competition",
+      "meaning_uk": "конкуренція",
+      "meaning_es": "competencia"
+    },
+    {
+      "term": "die Dienstleistung",
+      "type": "Noun",
+      "example": "Unsere Firma bietet eine hochwertige *** an.",
+      "meaning_tr": "hizmet",
+      "meaning_en": "service",
+      "meaning_uk": "послуга",
+      "meaning_es": "servicio"
+    },
+    {
+      "term": "erfolgreich",
+      "type": "Adjective",
+      "example": "Das Projekt war sehr ***.",
+      "meaning_tr": "başarılı",
+      "meaning_en": "successful",
+      "meaning_uk": "успішний",
+      "meaning_es": "exitoso"
+    },
+    {
+      "term": "die Nachfrage",
+      "type": "Noun",
+      "example": "Die *** nach diesem Produkt ist riesig.",
+      "meaning_tr": "talep",
+      "meaning_en": "demand",
+      "meaning_uk": "попит",
+      "meaning_es": "demanda"
+    },
+    {
+      "term": "verkaufen",
+      "type": "Verb",
+      "example": "Wir *** unsere Waren weltweit.",
+      "meaning_tr": "satmak",
+      "meaning_en": "to sell",
+      "meaning_uk": "продавати",
+      "meaning_es": "vender"
+    },
+    {
+      "term": "die Marke",
+      "type": "Noun",
+      "example": "Diese *** ist weltweit bekannt.",
+      "meaning_tr": "marka",
+      "meaning_en": "brand",
+      "meaning_uk": "бренд",
+      "meaning_es": "marca"
+    },
+    {
+      "term": "der Kundenwunsch",
+      "type": "Noun",
+      "example": "Wir passen uns jedem *** an.",
+      "meaning_tr": "müşteri isteği",
+      "meaning_en": "customer wish",
+      "meaning_uk": "побажання клієнта",
+      "meaning_es": "deseo del cliente"
+    },
+    {
+      "term": "teuer",
+      "type": "Adjective",
+      "example": "Das Produkt ist leider etwas zu ***.",
+      "meaning_tr": "pahalı",
+      "meaning_en": "expensive",
+      "meaning_uk": "дорогий",
+      "meaning_es": "caro"
+    },
+    {
+      "term": "der Markt",
+      "type": "Noun",
+      "example": "Wir möchten einen neuen *** erschließen.",
+      "meaning_tr": "pazar",
+      "meaning_en": "market",
+      "meaning_uk": "ринок",
+      "meaning_es": "mercado"
+    },
+    {
+      "term": "die Werbung",
+      "type": "Noun",
+      "example": "Haben Sie die neue *** im Fernsehen gesehen?",
+      "meaning_tr": "reklam",
+      "meaning_en": "advertising",
+      "meaning_uk": "реклама",
+      "meaning_es": "publicidad"
+    },
+    {
+      "term": "liefern",
+      "type": "Verb",
+      "example": "Wir *** die Ware innerhalb von zwei Tagen.",
+      "meaning_tr": "teslim etmek",
+      "meaning_en": "to deliver",
+      "meaning_uk": "доставляти",
+      "meaning_es": "entregar"
+    },
+    {
+      "term": "preiswert",
+      "type": "Adjective",
+      "example": "Das ist ein sehr *** Angebot.",
+      "meaning_tr": "uygun fiyatlı",
+      "meaning_en": "inexpensive",
+      "meaning_uk": "недорогий",
+      "meaning_es": "económico"
+    },
+    {
+      "term": "der Verbraucher",
+      "type": "Noun",
+      "example": "Der *** entscheidet über den Kauf.",
+      "meaning_tr": "tüketici",
+      "meaning_en": "consumer",
+      "meaning_uk": "споживач",
+      "meaning_es": "consumidor"
+    },
+    {
+      "term": "die Qualität",
+      "type": "Noun",
+      "example": "Unsere Kunden schätzen die hohe ***.",
+      "meaning_tr": "kalite",
+      "meaning_en": "quality",
+      "meaning_uk": "якість",
+      "meaning_es": "calidad"
+    },
+    {
+      "term": "der Gewinn",
+      "type": "Noun",
+      "example": "Das Unternehmen macht einen großen ***.",
+      "meaning_tr": "kâr",
+      "meaning_en": "profit",
+      "meaning_uk": "прибуток",
+      "meaning_es": "beneficio"
+    },
+    {
+      "term": "konkurrieren",
+      "type": "Verb",
+      "example": "Wir müssen mit großen Firmen ***.",
+      "meaning_tr": "rekabet etmek",
+      "meaning_en": "to compete",
+      "meaning_uk": "конкурувати",
+      "meaning_es": "competir"
+    },
+    {
+      "term": "das Sortiment",
+      "type": "Noun",
+      "example": "Unser *** wird ständig erweitert.",
+      "meaning_tr": "ürün yelpazesi",
+      "meaning_en": "assortment",
+      "meaning_uk": "асортимент",
+      "meaning_es": "surtido"
+    },
+    {
+      "term": "der Handel",
+      "type": "Noun",
+      "example": "Der internationale *** wächst weiter.",
+      "meaning_tr": "ticaret",
+      "meaning_en": "trade",
+      "meaning_uk": "торгівля",
+      "meaning_es": "comercio"
+    },
+    {
+      "term": "bezahlen",
+      "type": "Verb",
+      "example": "Man kann hier einfach per App ***.",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to pay",
+      "meaning_uk": "платити",
+      "meaning_es": "pagar"
+    },
+    {
+      "term": "die Beratung",
+      "type": "Noun",
+      "example": "Wir bieten eine professionelle *** an.",
+      "meaning_tr": "danışmanlık",
+      "meaning_en": "consultation",
+      "meaning_uk": "консультація",
+      "meaning_es": "asesoramiento"
+    },
+    {
+      "term": "gefragt",
+      "type": "Adjective",
+      "example": "Dieses Modell ist aktuell sehr ***.",
+      "meaning_tr": "rağbet gören",
+      "meaning_en": "in demand",
+      "meaning_uk": "затребуваний",
+      "meaning_es": "solicitado"
+    },
+    {
+      "term": "der Bestand",
+      "type": "Noun",
+      "example": "Der *** im Lager ist fast leer.",
+      "meaning_tr": "stok",
+      "meaning_en": "stock",
+      "meaning_uk": "запас",
+      "meaning_es": "existencias"
+    },
+    {
+      "term": "kaufen",
+      "type": "Verb",
+      "example": "Viele Leute *** online ein.",
+      "meaning_tr": "satın almak",
+      "meaning_en": "to buy",
+      "meaning_uk": "купувати",
+      "meaning_es": "comprar"
+    },
+    {
+      "term": "die Filiale",
+      "type": "Noun",
+      "example": "Wir eröffnen eine neue *** in Berlin.",
+      "meaning_tr": "şube",
+      "meaning_en": "branch",
+      "meaning_uk": "філія",
+      "meaning_es": "sucursal"
+    },
+    {
+      "term": "der Vertrieb",
+      "type": "Noun",
+      "example": "Er arbeitet im *** für Europa.",
+      "meaning_tr": "dağıtım/satış",
+      "meaning_en": "distribution/sales",
+      "meaning_uk": "збут",
+      "meaning_es": "distribución"
+    },
+    {
+      "term": "kostenlos",
+      "type": "Adjective",
+      "example": "Der Versand ist heute ***.",
+      "meaning_tr": "ücretsiz",
+      "meaning_en": "free of charge",
+      "meaning_uk": "безкоштовно",
+      "meaning_es": "gratis"
+    },
+    {
+      "term": "der Vertrag",
+      "type": "Noun",
+      "example": "Wir müssen den *** noch unterschreiben.",
+      "meaning_tr": "sözleşme",
+      "meaning_en": "contract",
+      "meaning_uk": "контракт",
+      "meaning_es": "contrato"
+    }
+  ]
+}

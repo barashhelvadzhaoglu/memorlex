@@ -1,0 +1,231 @@
+{
+  "title": "Transporte y Movilidad (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el autobús",
+      "type": "Noun",
+      "meaning_tr": "otobüs",
+      "meaning_en": "bus",
+      "meaning_uk": "автобус",
+      "meaning_es": "vehículo de transporte público de pasajeros",
+      "example": "Voy a trabajar en *** todos los días."
+    },
+    {
+      "term": "el tren",
+      "type": "Noun",
+      "meaning_tr": "tren",
+      "meaning_en": "train",
+      "meaning_uk": "поїзд",
+      "meaning_es": "medio de transporte que circula sobre raíles",
+      "example": "El *** sale de la estación a las ocho."
+    },
+    {
+      "term": "la bicicleta",
+      "type": "Noun",
+      "meaning_tr": "bisiklet",
+      "meaning_en": "bicycle",
+      "meaning_uk": "велосипед",
+      "meaning_es": "vehículo de dos ruedas movido por pedales",
+      "example": "Me gusta ir al parque en ***."
+    },
+    {
+      "term": "el coche",
+      "type": "Noun",
+      "meaning_tr": "araba",
+      "meaning_en": "car",
+      "meaning_uk": "автомобіль",
+      "meaning_es": "vehículo automóvil de cuatro ruedas",
+      "example": "Mi padre conduce un *** rojo."
+    },
+    {
+      "term": "el metro",
+      "type": "Noun",
+      "meaning_tr": "metro",
+      "meaning_en": "subway",
+      "meaning_uk": "метро",
+      "meaning_es": "ferrocarril subterráneo",
+      "example": "El *** es la forma más rápida de cruzar la ciudad."
+    },
+    {
+      "term": "el avión",
+      "type": "Noun",
+      "meaning_tr": "uçak",
+      "meaning_en": "airplane",
+      "meaning_uk": "літак",
+      "meaning_es": "vehículo para el transporte aéreo",
+      "example": "El *** aterriza en diez minutos."
+    },
+    {
+      "term": "la estación",
+      "type": "Noun",
+      "meaning_tr": "istasyon",
+      "meaning_en": "station",
+      "meaning_uk": "станція",
+      "meaning_es": "lugar donde paran trenes o autobuses",
+      "example": "Nos vemos en la *** central."
+    },
+    {
+      "term": "el billete",
+      "type": "Noun",
+      "meaning_tr": "bilet",
+      "meaning_en": "ticket",
+      "meaning_uk": "квиток",
+      "meaning_es": "documento para viajar",
+      "example": "He comprado un *** de ida y vuelta."
+    },
+    {
+      "term": "la parada",
+      "type": "Noun",
+      "meaning_tr": "durak",
+      "meaning_en": "stop",
+      "meaning_uk": "зупинка",
+      "meaning_es": "sitio donde para el transporte público",
+      "example": "El autobús espera en la ***."
+    },
+    {
+      "term": "el viaje",
+      "type": "Noun",
+      "meaning_tr": "seyahat",
+      "meaning_en": "trip",
+      "meaning_uk": "подорож",
+      "meaning_es": "acción de trasladarse de un lugar a otro",
+      "example": "El *** fue muy largo pero divertido."
+    },
+    {
+      "term": "conducir",
+      "type": "Verb",
+      "meaning_tr": "araba sürmek",
+      "meaning_en": "to drive",
+      "meaning_uk": "водити",
+      "meaning_es": "manejar un vehículo",
+      "example": "Aprendí a *** el año pasado."
+    },
+    {
+      "term": "llegar",
+      "type": "Verb",
+      "meaning_tr": "varmak",
+      "meaning_en": "to arrive",
+      "meaning_uk": "прибувати",
+      "meaning_es": "alcanzar el destino",
+      "example": "Vamos a *** tarde a la reunión."
+    },
+    {
+      "term": "esperar",
+      "type": "Verb",
+      "meaning_tr": "beklemek",
+      "meaning_en": "to wait",
+      "meaning_uk": "чекати",
+      "meaning_es": "permanecer en un sitio hasta que algo ocurra",
+      "example": "Debemos *** al próximo tren."
+    },
+    {
+      "term": "viajar",
+      "type": "Verb",
+      "meaning_tr": "seyahat etmek",
+      "meaning_en": "to travel",
+      "meaning_uk": "подорожувати",
+      "meaning_es": "ir de un lugar a otro",
+      "example": "Me encanta *** en verano."
+    },
+    {
+      "term": "caminar",
+      "type": "Verb",
+      "meaning_tr": "yürümek",
+      "meaning_en": "to walk",
+      "meaning_uk": "йти пішки",
+      "meaning_es": "ir a pie",
+      "example": "Prefiero *** al trabajo si hace buen tiempo."
+    },
+    {
+      "term": "rápido",
+      "type": "Adjective",
+      "meaning_tr": "hızlı",
+      "meaning_en": "fast",
+      "meaning_uk": "швидкий",
+      "meaning_es": "que se mueve a gran velocidad",
+      "example": "El tren de alta velocidad es muy ***."
+    },
+    {
+      "term": "lejos",
+      "type": "Adverb",
+      "meaning_tr": "uzak",
+      "meaning_en": "far",
+      "meaning_uk": "далеко",
+      "meaning_es": "a gran distancia",
+      "example": "Mi casa está *** de aquí."
+    },
+    {
+      "term": "cerca",
+      "type": "Adverb",
+      "meaning_tr": "yakın",
+      "meaning_en": "near",
+      "meaning_uk": "близько",
+      "meaning_es": "a poca distancia",
+      "example": "El hotel está muy *** de la playa."
+    },
+    {
+      "term": "hacia",
+      "type": "Preposition",
+      "meaning_tr": "doğru",
+      "meaning_en": "towards",
+      "meaning_uk": "у напрямку до",
+      "meaning_es": "indicando dirección",
+      "example": "Vamos *** el centro de la ciudad."
+    },
+    {
+      "term": "desde",
+      "type": "Preposition",
+      "meaning_tr": "-den/-dan",
+      "meaning_en": "from",
+      "meaning_uk": "від",
+      "meaning_es": "punto de origen",
+      "example": "Vengo *** mi casa en metro."
+    },
+    {
+      "term": "la calle",
+      "type": "Noun",
+      "meaning_tr": "sokak",
+      "meaning_en": "street",
+      "meaning_uk": "вулиця",
+      "meaning_es": "vía pública en una ciudad",
+      "example": "Cruza la *** con cuidado."
+    },
+    {
+      "term": "el mapa",
+      "type": "Noun",
+      "meaning_tr": "harita",
+      "meaning_en": "map",
+      "meaning_uk": "карта",
+      "meaning_es": "representación gráfica de un territorio",
+      "example": "Mira el *** para encontrar la ruta."
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "conjunción copulativa",
+      "example": "Voy en coche *** tú vas en tren."
+    },
+    {
+      "term": "lento",
+      "type": "Adjective",
+      "meaning_tr": "yavaş",
+      "meaning_en": "slow",
+      "meaning_uk": "повільний",
+      "meaning_es": "que tiene poca velocidad",
+      "example": "El tráfico es muy *** hoy."
+    },
+    {
+      "term": "la carretera",
+      "type": "Noun",
+      "meaning_tr": "karayolu",
+      "meaning_en": "highway",
+      "meaning_uk": "шосе",
+      "meaning_es": "camino público para vehículos",
+      "example": "Hay mucho tráfico en la *** principal."
+    }
+  ]
+}

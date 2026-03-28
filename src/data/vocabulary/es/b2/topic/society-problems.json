@@ -1,0 +1,411 @@
+{
+  "title": "Problemas Sociales (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la desigualdad",
+      "type": "Noun",
+      "meaning_tr": "eşitsizlik",
+      "meaning_en": "inequality",
+      "meaning_uk": "нерівність",
+      "meaning_es": "diferencia o disparidad en la distribución de recursos",
+      "example": "*** económica es una preocupación creciente en las grandes ciudades."
+    },
+    {
+      "term": "la pobreza",
+      "type": "Noun",
+      "meaning_tr": "yoksulluk",
+      "meaning_en": "poverty",
+      "meaning_uk": "бідність",
+      "meaning_es": "carencia de lo necesario para vivir",
+      "example": "Debemos implementar políticas para reducir *** extrema."
+    },
+    {
+      "term": "la discriminación",
+      "type": "Noun",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "discrimination",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "trato desigual hacia una persona o grupo",
+      "example": "La lucha contra *** racial es fundamental en una sociedad moderna."
+    },
+    {
+      "term": "el desempleo",
+      "type": "Noun",
+      "meaning_tr": "işsizlik",
+      "meaning_en": "unemployment",
+      "meaning_uk": "безробіття",
+      "meaning_es": "falta de trabajo remunerado",
+      "example": "El aumento de *** afecta gravemente a los jóvenes graduados."
+    },
+    {
+      "term": "la corrupción",
+      "type": "Noun",
+      "meaning_tr": "yolsuzluk",
+      "meaning_en": "corruption",
+      "meaning_uk": "корупція",
+      "meaning_es": "abuso de poder para beneficio propio",
+      "example": "*** política debilita la confianza de los ciudadanos en las instituciones."
+    },
+    {
+      "term": "la marginación",
+      "type": "Noun",
+      "meaning_tr": "dışlanma",
+      "meaning_en": "marginalization",
+      "meaning_uk": "маргіналізація",
+      "meaning_es": "situación de aislamiento de un grupo social",
+      "example": "Es necesario integrar a los sectores que sufren *** social."
+    },
+    {
+      "term": "la delincuencia",
+      "type": "Noun",
+      "meaning_tr": "suç",
+      "meaning_en": "delinquency",
+      "meaning_uk": "злочинність",
+      "meaning_es": "comisión de delitos",
+      "example": "Las autoridades han reforzado la seguridad para combatir *** juvenil."
+    },
+    {
+      "term": "el racismo",
+      "type": "Noun",
+      "meaning_tr": "ırkçılık",
+      "meaning_en": "racism",
+      "meaning_uk": "расизм",
+      "meaning_es": "ideología de superioridad de una raza sobre otra",
+      "example": "Debemos educar a las nuevas generaciones para erradicar ***."
+    },
+    {
+      "term": "la xenofobia",
+      "type": "Noun",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "xenophobia",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "rechazo a los extranjeros",
+      "example": "Los discursos de odio alimentan *** en la sociedad."
+    },
+    {
+      "term": "el cambio climático",
+      "type": "Noun",
+      "meaning_tr": "iklim değişikliği",
+      "meaning_en": "climate change",
+      "meaning_uk": "зміна клімату",
+      "meaning_es": "variación global del clima de la Tierra",
+      "example": "*** representa una amenaza existencial para el futuro del planeta."
+    },
+    {
+      "term": "la contaminación",
+      "type": "Noun",
+      "meaning_tr": "kirlilik",
+      "meaning_en": "pollution",
+      "meaning_uk": "забруднення",
+      "meaning_es": "presencia de agentes nocivos en el medio ambiente",
+      "example": "Reducir *** es una prioridad urgente para las ciudades industriales."
+    },
+    {
+      "term": "el consumismo",
+      "type": "Noun",
+      "meaning_tr": "tüketim çılgınlığı",
+      "meaning_en": "consumerism",
+      "meaning_uk": "консюмеризм",
+      "meaning_es": "tendencia al consumo excesivo de bienes",
+      "example": "*** desmedido está agotando los recursos naturales del mundo."
+    },
+    {
+      "term": "la vivienda digna",
+      "type": "Noun",
+      "meaning_tr": "insani konut",
+      "meaning_en": "decent housing",
+      "meaning_uk": "гідне житло",
+      "meaning_es": "derecho a un hogar adecuado",
+      "example": "El acceso a *** es un derecho humano básico no garantizado para todos."
+    },
+    {
+      "term": "la exclusión",
+      "type": "Noun",
+      "meaning_tr": "dışlama",
+      "meaning_en": "exclusion",
+      "meaning_uk": "виключення",
+      "meaning_es": "situación de estar fuera de un sistema o grupo",
+      "example": "La falta de educación provoca *** laboral en muchas personas."
+    },
+    {
+      "term": "la violencia de género",
+      "type": "Noun",
+      "meaning_tr": "toplumsal cinsiyet şiddeti",
+      "meaning_en": "gender-based violence",
+      "meaning_uk": "гендерно зумовлене насильство",
+      "meaning_es": "violencia ejercida contra las mujeres",
+      "example": "Debemos unirnos para acabar con *** de una vez por todas."
+    },
+    {
+      "term": "el analfabetismo",
+      "type": "Noun",
+      "meaning_tr": "okuryazarlık eksikliği",
+      "meaning_en": "illiteracy",
+      "meaning_uk": "неписьменність",
+      "meaning_es": "incapacidad de leer o escribir",
+      "example": "El gobierno ha lanzado programas para combatir *** en las zonas rurales."
+    },
+    {
+      "term": "la precariedad",
+      "type": "Noun",
+      "meaning_tr": "istikrarsızlık",
+      "meaning_en": "precariousness",
+      "meaning_uk": "нестабільність",
+      "meaning_es": "falta de estabilidad económica o laboral",
+      "example": "*** laboral impide que muchos jóvenes se independicen."
+    },
+    {
+      "term": "la brecha salarial",
+      "type": "Noun",
+      "meaning_tr": "maaş farkı",
+      "meaning_en": "wage gap",
+      "meaning_uk": "різниця в оплаті праці",
+      "meaning_es": "diferencia de sueldo entre hombres y mujeres",
+      "example": "Es necesario reducir *** para alcanzar la igualdad real."
+    },
+    {
+      "term": "la indigencia",
+      "type": "Noun",
+      "meaning_tr": "evsizlik",
+      "meaning_en": "homelessness",
+      "meaning_uk": "бездомність",
+      "meaning_es": "situación de carecer de hogar",
+      "example": "*** ha aumentado significativamente debido a la crisis económica."
+    },
+    {
+      "term": "la sobrepoblación",
+      "type": "Noun",
+      "meaning_tr": "aşırı nüfus",
+      "meaning_en": "overpopulation",
+      "meaning_uk": "перенаселення",
+      "meaning_es": "exceso de habitantes en un lugar",
+      "example": "*** urbana genera problemas de gestión de residuos y transporte."
+    },
+    {
+      "term": "el acoso escolar",
+      "type": "Noun",
+      "meaning_tr": "zorbalık",
+      "meaning_en": "bullying",
+      "meaning_uk": "булінг",
+      "meaning_es": "maltrato entre estudiantes",
+      "example": "Los centros educativos deben prevenir *** mediante talleres de concienciación."
+    },
+    {
+      "term": "la adicción",
+      "type": "Noun",
+      "meaning_tr": "bağımlılık",
+      "meaning_en": "addiction",
+      "meaning_uk": "залежність",
+      "meaning_es": "dependencia de sustancias o actividades",
+      "example": "*** a las drogas destruye muchas familias cada año."
+    },
+    {
+      "term": "la desigualdad social",
+      "type": "Noun",
+      "meaning_tr": "sosyal eşitsizlik",
+      "meaning_en": "social inequality",
+      "meaning_uk": "соціальна нерівність",
+      "meaning_es": "desequilibrio en la posición social de las personas",
+      "example": "*** es un obstáculo para el progreso de cualquier país."
+    },
+    {
+      "term": "la corrupción política",
+      "type": "Noun",
+      "meaning_tr": "siyasi yolsuzluk",
+      "meaning_en": "political corruption",
+      "meaning_uk": "політична корупція",
+      "meaning_es": "corrupción en el ámbito público",
+      "example": "*** erosiona la democracia y la fe en los políticos."
+    },
+    {
+      "term": "el conflicto armado",
+      "type": "Noun",
+      "meaning_tr": "silahlı çatışma",
+      "meaning_en": "armed conflict",
+      "meaning_uk": "збройний конфлікт",
+      "meaning_es": "guerra o lucha con armas",
+      "example": "*** ha provocado el desplazamiento de miles de civiles."
+    },
+    {
+      "term": "la crisis migratoria",
+      "type": "Noun",
+      "meaning_tr": "göç krizi",
+      "meaning_en": "migration crisis",
+      "meaning_uk": "міграційна криза",
+      "meaning_es": "dificultad de gestionar el flujo de migrantes",
+      "example": "La comunidad internacional debe cooperar ante *** actual."
+    },
+    {
+      "term": "la injusticia",
+      "type": "Noun",
+      "meaning_tr": "adaletsizlik",
+      "meaning_en": "injustice",
+      "meaning_uk": "несправедливість",
+      "meaning_es": "falta de justicia",
+      "example": "No podemos tolerar *** que sufren los más vulnerables."
+    },
+    {
+      "term": "la falta de recursos",
+      "type": "Noun",
+      "meaning_tr": "kaynak eksikliği",
+      "meaning_en": "lack of resources",
+      "meaning_uk": "брак ресурсів",
+      "meaning_es": "escasez de medios necesarios",
+      "example": "*** en los hospitales afecta la calidad de la atención médica."
+    },
+    {
+      "term": "la delincuencia organizada",
+      "type": "Noun",
+      "meaning_tr": "organize suç",
+      "meaning_en": "organized crime",
+      "meaning_uk": "організована злочинність",
+      "meaning_es": "grupos criminales estructurados",
+      "example": "El Estado debe desmantelar las redes de ***."
+    },
+    {
+      "term": "la desigualdad educativa",
+      "type": "Noun",
+      "meaning_tr": "eğitimde eşitsizlik",
+      "meaning_en": "educational inequality",
+      "meaning_uk": "нерівність в освіті",
+      "meaning_es": "acceso desigual a la educación",
+      "example": "*** limita las oportunidades de éxito profesional de muchos niños."
+    },
+    {
+      "term": "excluir",
+      "type": "Verb",
+      "meaning_tr": "dışlamak",
+      "meaning_en": "to exclude",
+      "meaning_uk": "виключати",
+      "meaning_es": "dejar fuera a alguien",
+      "example": "No debemos *** a nadie por su origen o religión."
+    },
+    {
+      "term": "discriminar",
+      "type": "Verb",
+      "meaning_tr": "ayrımcılık yapmak",
+      "meaning_en": "to discriminate",
+      "meaning_uk": "дискримінувати",
+      "meaning_es": "tratar de forma diferente",
+      "example": "Es ilegal *** a los trabajadores por razones de género."
+    },
+    {
+      "term": "combatir",
+      "type": "Verb",
+      "meaning_tr": "mücadele etmek",
+      "meaning_en": "to fight",
+      "meaning_uk": "боротися",
+      "meaning_es": "luchar contra algo",
+      "example": "Debemos *** la corrupción con transparencia y leyes severas."
+    },
+    {
+      "term": "empeorar",
+      "type": "Verb",
+      "meaning_tr": "kötüleşmek",
+      "meaning_en": "to worsen",
+      "meaning_uk": "погіршуватися",
+      "meaning_es": "hacerse peor",
+      "example": "La situación económica podría *** si no tomamos medidas."
+    },
+    {
+      "term": "mejorar",
+      "type": "Verb",
+      "meaning_tr": "iyileştirmek",
+      "meaning_en": "to improve",
+      "meaning_uk": "покращувати",
+      "meaning_es": "hacer mejor",
+      "example": "El objetivo principal es *** las condiciones de vida de los ciudadanos."
+    },
+    {
+      "term": "integrar",
+      "type": "Verb",
+      "meaning_tr": "entegre etmek",
+      "meaning_en": "to integrate",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "hacer que alguien sea parte de un grupo",
+      "example": "Es importante *** a los refugiados en nuestra sociedad."
+    },
+    {
+      "term": "marginado",
+      "type": "Adjective",
+      "meaning_tr": "dışlanmış",
+      "meaning_en": "marginalized",
+      "meaning_uk": "маргіналізований",
+      "meaning_es": "que vive al margen de la sociedad",
+      "example": "Muchos colectivos se sienten *** por el sistema actual."
+    },
+    {
+      "term": "desigual",
+      "type": "Adjective",
+      "meaning_tr": "eşitsiz",
+      "meaning_en": "unequal",
+      "meaning_uk": "нерівний",
+      "meaning_es": "que no es igual",
+      "example": "La distribución de la riqueza es muy *** en este país."
+    },
+    {
+      "term": "precario",
+      "type": "Adjective",
+      "meaning_tr": "istikrarsız",
+      "meaning_en": "precarious",
+      "meaning_uk": "нестабільний",
+      "meaning_es": "que no tiene estabilidad",
+      "example": "Tener un empleo *** dificulta la planificación del futuro."
+    },
+    {
+      "term": "injusto",
+      "type": "Adjective",
+      "meaning_tr": "adaletsiz",
+      "meaning_en": "unfair",
+      "meaning_uk": "несправедливий",
+      "meaning_es": "que no es justo",
+      "example": "Es totalmente *** que trabajen tanto y ganen tan poco."
+    },
+    {
+      "term": "debido a",
+      "type": "Preposition",
+      "meaning_tr": "yüzünden",
+      "meaning_en": "due to",
+      "meaning_uk": "через",
+      "meaning_es": "a causa de",
+      "example": "*** la crisis, muchas empresas han cerrado."
+    },
+    {
+      "term": "a pesar de",
+      "type": "Preposition",
+      "meaning_tr": "rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "попри",
+      "meaning_es": "aunque",
+      "example": "*** las dificultades, el proyecto sigue adelante."
+    },
+    {
+      "term": "gravemente",
+      "type": "Adverb",
+      "meaning_tr": "ciddi şekilde",
+      "meaning_en": "gravely",
+      "meaning_uk": "серйозно",
+      "meaning_es": "de forma muy seria",
+      "example": "El problema afecta *** a la población infantil."
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "sin embargo",
+      "example": "Queremos ayudar, *** no tenemos los recursos necesarios."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "a pesar de que",
+      "example": "*** es un problema complejo, debemos buscar soluciones."
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Emergencias y Ayuda (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el siniestro",
+      "type": "Noun",
+      "example": "La aseguradora envió a un experto para evaluar los daños tras ***.",
+      "meaning_tr": "hasar/kaza",
+      "meaning_en": "incident/accident",
+      "meaning_uk": "пригода/аварія",
+      "meaning_es": "Suceso que produce un daño o pérdida material considerable."
+    },
+    {
+      "term": "el damnificado",
+      "type": "Noun",
+      "example": "El gobierno anunció ayudas económicas para cada *** por las inundaciones.",
+      "meaning_tr": "mağdur",
+      "meaning_en": "victim/casualty",
+      "meaning_uk": "потерпілий",
+      "meaning_es": "Persona que ha sufrido un daño grave, especialmente por una catástrofe."
+    },
+    {
+      "term": "socorrer",
+      "type": "Verb",
+      "example": "Los bomberos llegaron rápidamente para *** a los atrapados.",
+      "meaning_tr": "yardım etmek",
+      "meaning_en": "to help/to succor",
+      "meaning_uk": "допомагати/рятувати",
+      "meaning_es": "Prestar ayuda a alguien que se halla en peligro o necesidad."
+    },
+    {
+      "term": "inminente",
+      "type": "Adjective",
+      "example": "Ante el peligro *** de derrumbe, se ordenó el desalojo del edificio.",
+      "meaning_tr": "eli kulağında/yakın",
+      "meaning_en": "imminent",
+      "meaning_uk": "неминучий",
+      "meaning_es": "Que está a punto de suceder o que amenaza con suceder pronto."
+    },
+    {
+      "term": "el despliegue",
+      "type": "Noun",
+      "example": "Hubo un gran *** militar para contener la crisis en la frontera.",
+      "meaning_tr": "yayılma/konuşlandırma",
+      "meaning_en": "deployment",
+      "meaning_uk": "розгортання",
+      "meaning_es": "Acción de extender o distribuir fuerzas o medios para una operación."
+    },
+    {
+      "term": "paliar",
+      "type": "Verb",
+      "example": "Se necesitan medidas urgentes para *** los efectos de la sequía.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to mitigate/to alleviate",
+      "meaning_uk": "полегшувати/пом'якшувати",
+      "meaning_es": "Mitigar o suavizar la intensidad de algo malo o nocivo."
+    },
+    {
+      "term": "la catástrofe",
+      "type": "Noun",
+      "example": "El terremoto fue calificado como la mayor *** natural del siglo.",
+      "meaning_tr": "felaket",
+      "meaning_en": "catastrophe",
+      "meaning_uk": "катастрофа",
+      "meaning_es": "Suceso infausto que altera gravemente el orden regular de las cosas."
+    },
+    {
+      "term": "el auxilio",
+      "type": "Noun",
+      "example": "La víctima gritó pidiendo *** hasta que fue escuchada por los vecinos.",
+      "meaning_tr": "yardım/imdat",
+      "meaning_en": "aid/help",
+      "meaning_uk": "допомога",
+      "meaning_es": "Ayuda que se presta en una situación de peligro o necesidad."
+    },
+    {
+      "term": "el desfibrilador",
+      "type": "Noun",
+      "example": "Es obligatorio que haya un *** en todos los espacios públicos concurridos.",
+      "meaning_tr": "defibrilatör",
+      "meaning_en": "defibrillator",
+      "meaning_uk": "дефібрилятор",
+      "meaning_es": "Aparato electrónico que restablece el ritmo cardíaco mediante descargas."
+    },
+    {
+      "term": "el torniquete",
+      "type": "Noun",
+      "example": "El paramédico aplicó un *** para detener la hemorragia masiva.",
+      "meaning_tr": "turnike",
+      "meaning_en": "tourniquet",
+      "meaning_uk": "джгут",
+      "meaning_es": "Instrumento quirúrgico para comprimir una arteria y detener una hemorragia."
+    },
+    {
+      "term": "la hemorragia",
+      "type": "Noun",
+      "example": "La herida era profunda y causó una *** difícil de controlar.",
+      "meaning_tr": "kanama",
+      "meaning_en": "hemorrhage/bleeding",
+      "meaning_uk": "кровотеча",
+      "meaning_es": "Flujo de sangre por rotura de vasos sanguíneos."
+    },
+    {
+      "term": "la conmoción",
+      "type": "Noun",
+      "example": "El fuerte golpe en la cabeza le provocó una *** cerebral.",
+      "meaning_tr": "sarsıntı/şok",
+      "meaning_en": "concussion/shock",
+      "meaning_uk": "струс/шок",
+      "meaning_es": "Estado de aturdimiento o alteración tras un impacto físico o emocional."
+    },
+    {
+      "term": "el escombro",
+      "type": "Noun",
+      "example": "Los rescatistas buscaron sobrevivientes bajo *** tras la explosión.",
+      "meaning_tr": "enkaz",
+      "meaning_en": "rubble/debris",
+      "meaning_uk": "уламки/будівельне сміття",
+      "meaning_es": "Conjunto de desechos que quedan de una construcción derribada."
+    },
+    {
+      "term": "la brigada",
+      "type": "Noun",
+      "example": "Una *** de rescate alpino fue enviada a buscar a los montañistas.",
+      "meaning_tr": "tugay/ekip",
+      "meaning_en": "brigade/squad",
+      "meaning_uk": "бригада/загін",
+      "meaning_es": "Grupo de personas organizado para realizar una tarea específica."
+    },
+    {
+      "term": "el simulacro",
+      "type": "Noun",
+      "example": "Mañana realizaremos un *** de incendio para practicar la evacuación.",
+      "meaning_tr": "tatbikat",
+      "meaning_en": "drill/simulation",
+      "meaning_uk": "тренування/навчання",
+      "meaning_es": "Representación ficticia de una situación de emergencia para ensayo."
+    },
+    {
+      "term": "la evacuación",
+      "type": "Noun",
+      "example": "La *** de la costa fue obligatoria debido a la alerta de tsunami.",
+      "meaning_tr": "tahliye",
+      "meaning_en": "evacuation",
+      "meaning_uk": "евакуація",
+      "meaning_es": "Acción de desalojar a los habitantes de un lugar por peligro."
+    },
+    {
+      "term": "el peritaje",
+      "type": "Noun",
+      "example": "El informe del *** determinará el origen del incendio forestal.",
+      "meaning_tr": "ekspertiz",
+      "meaning_en": "expert report/survey",
+      "meaning_uk": "експертиза",
+      "meaning_es": "Trabajo o estudio que realiza un perito para esclarecer hechos."
+    },
+    {
+      "term": "la indemnización",
+      "type": "Noun",
+      "example": "Las víctimas tienen derecho a una *** por los daños sufridos.",
+      "meaning_tr": "tazminat",
+      "meaning_en": "compensation/indemnity",
+      "meaning_uk": "відшкодування",
+      "meaning_es": "Compensación económica por un daño o perjuicio recibido."
+    },
+    {
+      "term": "el rehén",
+      "type": "Noun",
+      "example": "El asaltante tomó a un cliente como *** durante el atraco al banco.",
+      "meaning_tr": "rehin",
+      "meaning_en": "hostage",
+      "meaning_uk": "заручник",
+      "meaning_es": "Persona retenida por alguien para obligar a un tercero a cumplir algo."
+    },
+    {
+      "term": "el naufragio",
+      "type": "Noun",
+      "example": "Solo tres personas sobrevivieron al *** del barco pesquero.",
+      "meaning_tr": "deniz kazası/batma",
+      "meaning_en": "shipwreck",
+      "meaning_uk": "корабельна аварія",
+      "meaning_es": "Pérdida o ruina de la embarcación en el mar o río."
+    },
+    {
+      "term": "el desprendimiento",
+      "type": "Noun",
+      "example": "Hubo un *** de rocas que bloqueó la carretera principal.",
+      "meaning_tr": "heyelan/kopma",
+      "meaning_en": "landslide/detachment",
+      "meaning_uk": "зсув/відшарування",
+      "meaning_es": "Acción de separarse o caerse una parte de algo, como tierra o rocas."
+    },
+    {
+      "term": "el alud",
+      "type": "Noun",
+      "example": "El *** de nieve sepultó varias cabañas en la estación de esquí.",
+      "meaning_tr": "çığ",
+      "meaning_en": "avalanche",
+      "meaning_uk": "лавина",
+      "meaning_es": "Gran masa de nieve que se desprende de los montes violentamente."
+    },
+    {
+      "term": "la inundación",
+      "type": "Noun",
+      "example": "La fuerte lluvia provocó una *** que anegó todo el centro histórico.",
+      "meaning_tr": "sel",
+      "meaning_en": "flood",
+      "meaning_uk": "повінь",
+      "meaning_es": "Abundancia excesiva de agua que cubre terrenos que suelen estar secos."
+    },
+    {
+      "term": "el brote",
+      "type": "Noun",
+      "example": "Las autoridades sanitarias detectaron un *** de cólera en la región.",
+      "meaning_tr": "salgın başlangıcı",
+      "meaning_en": "outbreak",
+      "meaning_uk": "спалах (хвороби)",
+      "meaning_es": "Aparición repentina de una enfermedad epidémica en un lugar."
+    },
+    {
+      "term": "el confinamiento",
+      "type": "Noun",
+      "example": "Se decretó el *** obligatorio para frenar la expansión del virus.",
+      "meaning_tr": "karantina/kapanma",
+      "meaning_en": "lockdown/confinement",
+      "meaning_uk": "ізоляція/карантин",
+      "meaning_es": "Obligación de permanecer en un lugar para evitar riesgos."
+    },
+    {
+      "term": "mitigar",
+      "type": "Verb",
+      "example": "El nuevo muro de contención servirá para *** el impacto de las olas.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to mitigate",
+      "meaning_uk": "пом'якшувати",
+      "meaning_es": "Moderar, aplacar o disminuir la dureza o intensidad de algo."
+    },
+    {
+      "term": "reanimar",
+      "type": "Verb",
+      "example": "Los médicos intentaron *** al paciente tras el paro cardíaco.",
+      "meaning_tr": "hayata döndürmek",
+      "meaning_en": "to resuscitate",
+      "meaning_uk": "реанімувати",
+      "meaning_es": "Restablecer los signos vitales de una persona que parece muerta."
+    },
+    {
+      "term": "alertar",
+      "type": "Verb",
+      "example": "Es fundamental *** a la población sobre el riesgo de tormentas.",
+      "meaning_tr": "uyarmak",
+      "meaning_en": "to alert",
+      "meaning_uk": "попереджати",
+      "meaning_es": "Poner en aviso sobre un peligro o situación urgente."
+    },
+    {
+      "term": "colapsar",
+      "type": "Verb",
+      "example": "El sistema sanitario podría *** si el número de heridos sigue subiendo.",
+      "meaning_tr": "çökmek",
+      "meaning_en": "to collapse",
+      "meaning_uk": "колапсувати/руйнуватися",
+      "meaning_es": "Sufrir una paralización o caída brusca de una estructura o sistema."
+    },
+    {
+      "term": "rescatar",
+      "type": "Verb",
+      "example": "El helicóptero logró *** a los náufragos en alta mar.",
+      "meaning_tr": "kurtarmak",
+      "meaning_en": "to rescue",
+      "meaning_uk": "рятувати",
+      "meaning_es": "Liberar de un peligro, daño o situación opresiva."
+    },
+    {
+      "term": "asistir",
+      "type": "Verb",
+      "example": "Los enfermeros corrieron para *** a los heridos del choque.",
+      "meaning_tr": "yardım etmek/bakmak",
+      "meaning_en": "to assist/to attend",
+      "meaning_uk": "допомагати/надавати допомогу",
+      "meaning_es": "Prestar socorro, favor o ayuda médica."
+    },
+    {
+      "term": "denunciar",
+      "type": "Verb",
+      "example": "Es importante *** cualquier actividad sospechosa a la policía.",
+      "meaning_tr": "ihbar etmek",
+      "meaning_en": "to report/to denounce",
+      "meaning_uk": "повідомляти/доносити",
+      "meaning_es": "Dar parte a la autoridad de un daño o delito."
+    },
+    {
+      "term": "periciar",
+      "type": "Verb",
+      "example": "Los ingenieros van a *** el puente para ver si es seguro cruzar.",
+      "meaning_tr": "incelemek (uzman)",
+      "meaning_en": "to appraise/to survey",
+      "meaning_uk": "проводити експертизу",
+      "meaning_es": "Realizar un estudio técnico o pericial sobre algo."
+    },
+    {
+      "term": "agravar",
+      "type": "Verb",
+      "example": "La falta de suministros médicos puede *** la situación de los enfermos.",
+      "meaning_tr": "kötüleştirmek",
+      "meaning_en": "to aggravate/to worsen",
+      "meaning_uk": "погіршувати",
+      "meaning_es": "Hacer más grave o difícil una situación o enfermedad."
+    },
+    {
+      "term": "salvaguardar",
+      "type": "Verb",
+      "example": "Nuestra prioridad es *** la integridad física de los ciudadanos.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to safeguard",
+      "meaning_uk": "захищати/оберігати",
+      "meaning_es": "Proteger o amparar a alguien o algo de un daño."
+    },
+    {
+      "term": "socavar",
+      "type": "Verb",
+      "example": "La erosión constante empezó a *** los cimientos de la casa.",
+      "meaning_tr": "baltalamak/altını oymak",
+      "meaning_en": "to undermine",
+      "meaning_uk": "підривати/розмивати",
+      "meaning_es": "Debilitar algo o a alguien, especialmente sus bases o fuerza."
+    },
+    {
+      "term": "crítico",
+      "type": "Adjective",
+      "example": "El paciente se encuentra en estado *** tras la cirugía de urgencia.",
+      "meaning_tr": "kritik",
+      "meaning_en": "critical",
+      "meaning_uk": "критичний",
+      "meaning_es": "Dicho de una situación: Muy grave o decisiva."
+    },
+    {
+      "term": "desolador",
+      "type": "Adjective",
+      "example": "El paisaje tras el paso del tornado era realmente ***.",
+      "meaning_tr": "yıkıcı/iç karartıcı",
+      "meaning_en": "devastating/bleak",
+      "meaning_uk": "спустошливий",
+      "meaning_es": "Que causa una sensación extrema de tristeza o vacío."
+    },
+    {
+      "term": "precario",
+      "type": "Adjective",
+      "example": "Viven en un equilibrio *** tras haberlo perdido todo en el incendio.",
+      "meaning_tr": "istikrarsız/güvencesiz",
+      "meaning_en": "precarious",
+      "meaning_uk": "непевний/крихкий",
+      "meaning_es": "Que no es estable ni seguro; con escasos recursos."
+    },
+    {
+      "term": "paliativo",
+      "type": "Adjective",
+      "example": "El tratamiento es solo ***, ya que no existe una cura definitiva.",
+      "meaning_tr": "hafifletici",
+      "meaning_en": "palliative",
+      "meaning_uk": "паліативний",
+      "meaning_es": "Que sirve para mitigar el dolor sin curar la enfermedad."
+    },
+    {
+      "term": "ileso",
+      "type": "Adjective",
+      "example": "Afortunadamente, el conductor resultó *** a pesar de la gravedad del choque.",
+      "meaning_tr": "yara almamış",
+      "meaning_en": "unharmed/unhurt",
+      "meaning_uk": "неушкоджений",
+      "meaning_es": "Que no ha recibido ningún daño o lesión."
+    },
+    {
+      "term": "catastrófico",
+      "type": "Adjective",
+      "example": "El impacto económico de la pandemia ha sido *** para el país.",
+      "meaning_tr": "feci/felaket",
+      "meaning_en": "catastrophic",
+      "meaning_uk": "катастрофічний",
+      "meaning_es": "Que causa una gran desgracia o destrucción."
+    },
+    {
+      "term": "urgente",
+      "type": "Adjective",
+      "example": "Necesitamos una respuesta *** para evitar más víctimas.",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміновий",
+      "meaning_es": "Que requiere una atención o solución inmediata."
+    },
+    {
+      "term": "drástico",
+      "type": "Adjective",
+      "example": "Tuvieron que tomar medidas *** para controlar la delincuencia.",
+      "meaning_tr": "şiddetli/sert",
+      "meaning_en": "drastic",
+      "meaning_uk": "радикальний/рішучий",
+      "meaning_es": "Riguroso, enérgico o radical."
+    },
+    {
+      "term": "la resiliencia",
+      "type": "Noun",
+      "example": "La *** de la comunidad permitió reconstruir el pueblo en tiempo récord.",
+      "meaning_tr": "dirençlilik",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "Capacidad de adaptación de un ser vivo frente a un agente perturbador."
+    },
+    {
+      "term": "la vulnerabilidad",
+      "type": "Noun",
+      "example": "La pobreza aumenta la *** de las personas ante desastres naturales.",
+      "meaning_tr": "savunmasızlık",
+      "meaning_en": "vulnerability",
+      "meaning_uk": "вразливість",
+      "meaning_es": "Cualidad de poder ser herido o dañado física o moralmente."
+    },
+    {
+      "term": "la precariedad",
+      "type": "Noun",
+      "example": "La *** de las viviendas fue la causa de tantos derrumbes.",
+      "meaning_tr": "güvencesizlik/yoksunluk",
+      "meaning_en": "precariousness",
+      "meaning_uk": "нестабільність",
+      "meaning_es": "Falta de estabilidad, seguridad o medios necesarios."
+    },
+    {
+      "term": "el desabastecimiento",
+      "type": "Noun",
+      "example": "El bloqueo de las rutas provocó un grave *** de alimentos.",
+      "meaning_tr": "stok yetersizliği",
+      "meaning_en": "shortage/lack of supplies",
+      "meaning_uk": "дефіцит товарів",
+      "meaning_es": "Falta de productos básicos en un mercado o población."
+    },
+    {
+      "term": "la asistencia",
+      "type": "Noun",
+      "example": "La *** humanitaria llegó tarde a las zonas más remotas.",
+      "meaning_tr": "yardım/katılım",
+      "meaning_en": "assistance",
+      "meaning_uk": "допомога",
+      "meaning_es": "Ayuda o auxilio que se presta a alguien."
+    },
+    {
+      "term": "el socorrista",
+      "type": "Noun",
+      "example": "El *** saltó al agua para salvar al niño que se ahogaba.",
+      "meaning_tr": "cankurtaran",
+      "meaning_en": "lifeguard/rescuer",
+      "meaning_uk": "рятувальник",
+      "meaning_es": "Persona entrenada para prestar primeros auxilios o rescates."
+    },
+    {
+      "term": "la camilla",
+      "type": "Noun",
+      "example": "Llevaron al herido en una *** hasta la ambulancia.",
+      "meaning_tr": "sedye",
+      "meaning_en": "stretcher",
+      "meaning_uk": "ноші",
+      "meaning_es": "Cama ligera y móvil para transportar enfermos o heridos."
+    },
+    {
+      "term": "el vendaje",
+      "type": "Noun",
+      "example": "El enfermero aplicó un *** firme sobre el tobillo torcido.",
+      "meaning_tr": "bandaj",
+      "meaning_en": "bandage",
+      "meaning_uk": "пов'язка",
+      "meaning_es": "Ligadura hecha con vendas en una parte del cuerpo."
+    },
+    {
+      "term": "la fractura",
+      "type": "Noun",
+      "example": "La radiografía confirmó una *** múltiple en el brazo.",
+      "meaning_tr": "kırık",
+      "meaning_en": "fracture",
+      "meaning_uk": "перелом",
+      "meaning_es": "Rotura de un hueso o de algo duro."
+    },
+    {
+      "term": "el traumatismo",
+      "type": "Noun",
+      "example": "Sufrió un *** severo tras caer desde una gran altura.",
+      "meaning_tr": "travma",
+      "meaning_en": "trauma",
+      "meaning_uk": "травма",
+      "meaning_es": "Lesión de los órganos o los tejidos por una acción mecánica externa."
+    },
+    {
+      "term": "la asfixia",
+      "type": "Noun",
+      "example": "El humo del incendio causó la muerte por *** a varias personas.",
+      "meaning_tr": "boğulma",
+      "meaning_en": "asphyxiation/suffocation",
+      "meaning_uk": "асфіксія/задуха",
+      "meaning_es": "Suspensión o dificultad grave de la respiración."
+    },
+    {
+      "term": "la intoxicación",
+      "type": "Noun",
+      "example": "Hubo una *** masiva por el consumo de agua contaminada.",
+      "meaning_tr": "zehirlenme",
+      "meaning_en": "poisoning/intoxication",
+      "meaning_uk": "отруєння",
+      "meaning_es": "Trastorno causado por la entrada de un tóxico en el organismo."
+    },
+    {
+      "term": "la quemadura",
+      "type": "Noun",
+      "example": "Recibió tratamiento por una *** de tercer grado en la mano.",
+      "meaning_tr": "yanık",
+      "meaning_en": "burn",
+      "meaning_uk": "опік",
+      "meaning_es": "Lesión en los tejidos producida por el calor o el fuego."
+    },
+    {
+      "term": "urgentemente",
+      "type": "Adverb",
+      "example": "El cirujano pidió que trajeran sangre *** al quirófano.",
+      "meaning_tr": "acil bir şekilde",
+      "meaning_en": "urgently",
+      "meaning_uk": "терміново",
+      "meaning_es": "De manera que requiere atención inmediata."
+    },
+    {
+      "term": "tras",
+      "type": "Preposition",
+      "example": "*** el terremoto, la ciudad quedó sumida en el caos.",
+      "meaning_tr": "sonra",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "Después de un tiempo o un suceso."
+    },
+    {
+      "term": "no obstante",
+      "type": "Conjunction",
+      "example": "La ayuda ha llegado; ***, todavía no es suficiente.",
+      "meaning_tr": "buna rağmen",
+      "meaning_en": "nevertheless/however",
+      "meaning_uk": "проте/тим не менш",
+      "meaning_es": "Expresión que indica oposición o salvedad a lo anterior."
+    }
+  ]
+}

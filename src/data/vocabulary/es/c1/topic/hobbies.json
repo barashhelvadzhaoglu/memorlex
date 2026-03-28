@@ -1,0 +1,546 @@
+{
+  "title": "Aficiones y Tiempo Libre (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la afición",
+      "type": "Noun",
+      "example": "Mi *** principal es la fotografía analógica.",
+      "meaning_tr": "hobi",
+      "meaning_en": "hobby",
+      "meaning_uk": "хобі",
+      "meaning_es": "interés o gusto por algo"
+    },
+    {
+      "term": "el ocio",
+      "type": "Noun",
+      "example": "Es fundamental encontrar un equilibrio entre el trabajo y el ***.",
+      "meaning_tr": "boş zaman",
+      "meaning_en": "leisure",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "tiempo libre"
+    },
+    {
+      "term": "desconectarse",
+      "type": "Verb",
+      "example": "Necesito *** de la rutina diaria para recuperar energías.",
+      "meaning_tr": "bağlantıyı kesmek",
+      "meaning_en": "to disconnect",
+      "meaning_uk": "відключитися",
+      "meaning_es": "separarse de las obligaciones"
+    },
+    {
+      "term": "el entretenimiento",
+      "type": "Noun",
+      "example": "El teatro es una forma de *** muy enriquecedora.",
+      "meaning_tr": "eğlence",
+      "meaning_en": "entertainment",
+      "meaning_uk": "розвага",
+      "meaning_es": "diversión o recreo"
+    },
+    {
+      "term": "apasionado",
+      "type": "Adjective",
+      "example": "Él es un *** lector de novelas históricas.",
+      "meaning_tr": "tutkulu",
+      "meaning_en": "passionate",
+      "meaning_uk": "пристрасний",
+      "meaning_es": "que siente gran afición"
+    },
+    {
+      "term": "el pasatiempo",
+      "type": "Noun",
+      "example": "Hacer crucigramas es mi *** favorito en el tren.",
+      "meaning_tr": "vakit geçirmece",
+      "meaning_en": "pastime",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "actividad para pasar el rato"
+    },
+    {
+      "term": "fomentar",
+      "type": "Verb",
+      "example": "Queremos *** la lectura entre los más jóvenes.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to foster",
+      "meaning_uk": "сприяти",
+      "meaning_es": "impulsar o promover"
+    },
+    {
+      "term": "el sedentarismo",
+      "type": "Noun",
+      "example": "Debemos combatir el *** practicando deporte regularmente.",
+      "meaning_tr": "hareketsizlik",
+      "meaning_en": "sedentary lifestyle",
+      "meaning_uk": "малорухливий спосіб життя",
+      "meaning_es": "falta de actividad física"
+    },
+    {
+      "term": "recreativo",
+      "type": "Adjective",
+      "example": "El ajedrez es una actividad de carácter ***.",
+      "meaning_tr": "eğlenceli",
+      "meaning_en": "recreational",
+      "meaning_uk": "рекреаційний",
+      "meaning_es": "que sirve para recrear"
+    },
+    {
+      "term": "la destreza",
+      "type": "Noun",
+      "example": "Tocar el piano requiere mucha *** manual.",
+      "meaning_tr": "beceri",
+      "meaning_en": "skill",
+      "meaning_uk": "вправність",
+      "meaning_es": "habilidad o arte"
+    },
+    {
+      "term": "el bienestar",
+      "type": "Noun",
+      "example": "El yoga contribuye enormemente al *** físico y mental.",
+      "meaning_tr": "esenlik",
+      "meaning_en": "well-being",
+      "meaning_uk": "благополуччя",
+      "meaning_es": "estado de satisfacción"
+    },
+    {
+      "term": "dedicarse",
+      "type": "Verb",
+      "example": "En mi tiempo libre, suelo *** a la pintura al óleo.",
+      "meaning_tr": "kendini adamak",
+      "meaning_en": "to dedicate oneself",
+      "meaning_uk": "присвятити себе",
+      "meaning_es": "ocupar el tiempo en algo"
+    },
+    {
+      "term": "la evasión",
+      "type": "Noun",
+      "example": "El cine es para muchos una forma de *** de la realidad.",
+      "meaning_tr": "kaçış",
+      "meaning_en": "escapism",
+      "meaning_uk": "втеча",
+      "meaning_es": "acción de evitar una situación"
+    },
+    {
+      "term": "gratificante",
+      "type": "Adjective",
+      "example": "El voluntariado es una experiencia muy ***.",
+      "meaning_tr": "tatmin edici",
+      "meaning_en": "rewarding",
+      "meaning_uk": "винагороджуючий",
+      "meaning_es": "que produce satisfacción"
+    },
+    {
+      "term": "el coleccionismo",
+      "type": "Noun",
+      "example": "El *** de sellos antiguos requiere mucha paciencia.",
+      "meaning_tr": "koleksiyonculuk",
+      "meaning_en": "collecting",
+      "meaning_uk": "колекціонування",
+      "meaning_es": "actividad de coleccionar"
+    },
+    {
+      "term": "el ocio creativo",
+      "type": "Noun",
+      "example": "La alfarería es una excelente opción de ***.",
+      "meaning_tr": "yaratıcı boş zaman",
+      "meaning_en": "creative leisure",
+      "meaning_uk": "творче дозвілля",
+      "meaning_es": "tiempo libre dedicado a crear"
+    },
+    {
+      "term": "al aire libre",
+      "type": "Adverb",
+      "example": "Prefiero realizar actividades *** cuando hace buen tiempo.",
+      "meaning_tr": "açık havada",
+      "meaning_en": "outdoors",
+      "meaning_uk": "на свіжому повітрі",
+      "meaning_es": "fuera de un recinto cerrado"
+    },
+    {
+      "term": "la destreza mental",
+      "type": "Noun",
+      "example": "Los rompecabezas ayudan a mantener la *** activa.",
+      "meaning_tr": "zihinsel beceri",
+      "meaning_en": "mental agility",
+      "meaning_uk": "розумова спритність",
+      "meaning_es": "agilidad de la mente"
+    },
+    {
+      "term": "implicarse",
+      "type": "Verb",
+      "example": "Debes *** más en las actividades del club.",
+      "meaning_tr": "dahil olmak",
+      "meaning_en": "to get involved",
+      "meaning_uk": "залучатися",
+      "meaning_es": "participar activamente"
+    },
+    {
+      "term": "el sedentarismo",
+      "type": "Noun",
+      "example": "El uso excesivo de pantallas fomenta el ***.",
+      "meaning_tr": "hareketsizlik",
+      "meaning_en": "sedentary lifestyle",
+      "meaning_uk": "малорухливість",
+      "meaning_es": "falta de movimiento"
+    },
+    {
+      "term": "la evasión",
+      "type": "Noun",
+      "example": "Leer es mi método favorito de ***.",
+      "meaning_tr": "kaçış",
+      "meaning_en": "escapism",
+      "meaning_uk": "втеча",
+      "meaning_es": "huida de la rutina"
+    },
+    {
+      "term": "esporádico",
+      "type": "Adjective",
+      "example": "Hago ejercicio de forma *** durante el fin de semana.",
+      "meaning_tr": "ara sıra olan",
+      "meaning_en": "sporadic",
+      "meaning_uk": "епізодичний",
+      "meaning_es": "que ocurre de vez en cuando"
+    },
+    {
+      "term": "el ocio nocturno",
+      "type": "Noun",
+      "example": "La ciudad ofrece una gran oferta de ***.",
+      "meaning_tr": "gece hayatı",
+      "meaning_en": "nightlife",
+      "meaning_uk": "нічне життя",
+      "meaning_es": "actividades de noche"
+    },
+    {
+      "term": "desestresarse",
+      "type": "Verb",
+      "example": "Caminar por el parque me ayuda a ***.",
+      "meaning_tr": "stres atmak",
+      "meaning_en": "to de-stress",
+      "meaning_uk": "зняти стрес",
+      "meaning_es": "liberar tensión"
+    },
+    {
+      "term": "la introspección",
+      "type": "Noun",
+      "example": "La meditación fomenta la *** y el autoconocimiento.",
+      "meaning_tr": "içebakış",
+      "meaning_en": "introspection",
+      "meaning_uk": "інтроспекція",
+      "meaning_es": "mirada al interior"
+    },
+    {
+      "term": "lúdico",
+      "type": "Adjective",
+      "example": "El aprendizaje a través de juegos tiene un enfoque ***.",
+      "meaning_tr": "oyunla ilgili",
+      "meaning_en": "playful",
+      "meaning_uk": "ігровий",
+      "meaning_es": "relativo al juego"
+    },
+    {
+      "term": "la desconexión",
+      "type": "Noun",
+      "example": "Las vacaciones son necesarias para una total ***.",
+      "meaning_tr": "bağlantı kopukluğu",
+      "meaning_en": "disconnection",
+      "meaning_uk": "відключення",
+      "meaning_es": "ausencia de conexión"
+    },
+    {
+      "term": "la destreza física",
+      "type": "Noun",
+      "example": "El parkour exige una gran ***.",
+      "meaning_tr": "fiziksel beceri",
+      "meaning_en": "physical skill",
+      "meaning_uk": "фізична вправність",
+      "meaning_es": "habilidad corporal"
+    },
+    {
+      "term": "el voluntariado",
+      "type": "Noun",
+      "example": "Dedico mis sábados al *** en un refugio de animales.",
+      "meaning_tr": "gönüllülük",
+      "meaning_en": "volunteering",
+      "meaning_uk": "волонтерство",
+      "meaning_es": "trabajo desinteresado"
+    },
+    {
+      "term": "la recreación",
+      "type": "Noun",
+      "example": "Los parques urbanos son espacios ideales para la ***.",
+      "meaning_tr": "dinlenme",
+      "meaning_en": "recreation",
+      "meaning_uk": "відпочинок",
+      "meaning_es": "diversión para el alivio"
+    },
+    {
+      "term": "el entretenimiento",
+      "type": "Noun",
+      "example": "Los videojuegos han evolucionado como forma de ***.",
+      "meaning_tr": "eğlence",
+      "meaning_en": "entertainment",
+      "meaning_uk": "розвага",
+      "meaning_es": "actividad para entretener"
+    },
+    {
+      "term": "la inmersión",
+      "type": "Noun",
+      "example": "El curso de idiomas ofrece una *** cultural total.",
+      "meaning_tr": "daldırma",
+      "meaning_en": "immersion",
+      "meaning_uk": "занурення",
+      "meaning_es": "inmersión completa"
+    },
+    {
+      "term": "el disfrute",
+      "type": "Noun",
+      "example": "El *** de la naturaleza es un derecho de todos.",
+      "meaning_tr": "keyif",
+      "meaning_en": "enjoyment",
+      "meaning_uk": "насолода",
+      "meaning_es": "goce o placer"
+    },
+    {
+      "term": "asiduamente",
+      "type": "Adverb",
+      "example": "Voy al gimnasio *** para mantenerme en forma.",
+      "meaning_tr": "sık sık",
+      "meaning_en": "frequently",
+      "meaning_uk": "часто",
+      "meaning_es": "con frecuencia"
+    },
+    {
+      "term": "la creatividad",
+      "type": "Noun",
+      "example": "El diseño gráfico requiere mucha ***.",
+      "meaning_tr": "yaratıcılık",
+      "meaning_en": "creativity",
+      "meaning_uk": "творчість",
+      "meaning_es": "capacidad de creación"
+    },
+    {
+      "term": "la evasión",
+      "type": "Noun",
+      "example": "El viaje fue una *** necesaria de la rutina.",
+      "meaning_tr": "kaçış",
+      "meaning_en": "escapism",
+      "meaning_uk": "втеча",
+      "meaning_es": "acto de evadirse"
+    },
+    {
+      "term": "la destreza",
+      "type": "Noun",
+      "example": "La caligrafía requiere *** y mucha paciencia.",
+      "meaning_tr": "beceri",
+      "meaning_en": "skill",
+      "meaning_uk": "вправність",
+      "meaning_es": "habilidad"
+    },
+    {
+      "term": "el sedentarismo",
+      "type": "Noun",
+      "example": "Debemos combatir el *** en la sociedad moderna.",
+      "meaning_tr": "hareketsizlik",
+      "meaning_en": "sedentary lifestyle",
+      "meaning_uk": "малорухливість",
+      "meaning_es": "estilo de vida sedentario"
+    },
+    {
+      "term": "el ocio saludable",
+      "type": "Noun",
+      "example": "Hacer deporte es una forma de ***.",
+      "meaning_tr": "sağlıklı boş zaman",
+      "meaning_en": "healthy leisure",
+      "meaning_uk": "здорове дозвілля",
+      "meaning_es": "ocio beneficioso"
+    },
+    {
+      "term": "la evasión",
+      "type": "Noun",
+      "example": "La música es mi vía de ***.",
+      "meaning_tr": "kaçış",
+      "meaning_en": "escapism",
+      "meaning_uk": "втеча",
+      "meaning_es": "forma de evadirse"
+    },
+    {
+      "term": "el entretenimiento",
+      "type": "Noun",
+      "example": "La televisión ofrece poco *** de calidad hoy en día.",
+      "meaning_tr": "eğlence",
+      "meaning_en": "entertainment",
+      "meaning_uk": "розвага",
+      "meaning_es": "diversión"
+    },
+    {
+      "term": "la desconexión",
+      "type": "Noun",
+      "example": "La tecnología a veces impide la *** mental.",
+      "meaning_tr": "bağlantı kopukluğu",
+      "meaning_en": "disconnection",
+      "meaning_uk": "відключення",
+      "meaning_es": "falta de conexión"
+    },
+    {
+      "term": "la destreza",
+      "type": "Noun",
+      "example": "Demostró una gran *** en el juego de ajedrez.",
+      "meaning_tr": "beceri",
+      "meaning_en": "skill",
+      "meaning_uk": "вправність",
+      "meaning_es": "capacidad"
+    },
+    {
+      "term": "gratificante",
+      "type": "Adjective",
+      "example": "Enseñar a otros es muy ***.",
+      "meaning_tr": "tatmin edici",
+      "meaning_en": "rewarding",
+      "meaning_uk": "винагороджуючий",
+      "meaning_es": "placentero"
+    },
+    {
+      "term": "el sedentarismo",
+      "type": "Noun",
+      "example": "El *** es el enemigo de la salud cardiovascular.",
+      "meaning_tr": "hareketsizlik",
+      "meaning_en": "sedentary lifestyle",
+      "meaning_uk": "малорухливість",
+      "meaning_es": "vida sedentaria"
+    },
+    {
+      "term": "la recreación",
+      "type": "Noun",
+      "example": "Los juegos de mesa son una forma clásica de ***.",
+      "meaning_tr": "dinlenme",
+      "meaning_en": "recreation",
+      "meaning_uk": "відпочинок",
+      "meaning_es": "entretenimiento"
+    },
+    {
+      "term": "el voluntariado",
+      "type": "Noun",
+      "example": "El *** nos permite ayudar a los más necesitados.",
+      "meaning_tr": "gönüllülük",
+      "meaning_en": "volunteering",
+      "meaning_uk": "волонтерство",
+      "meaning_es": "acción solidaria"
+    },
+    {
+      "term": "el ocio creativo",
+      "type": "Noun",
+      "example": "La escritura es una forma de *** muy terapéutica.",
+      "meaning_tr": "yaratıcı boş zaman",
+      "meaning_en": "creative leisure",
+      "meaning_uk": "творче дозвілля",
+      "meaning_es": "ocio artístico"
+    },
+    {
+      "term": "la inmersión",
+      "type": "Noun",
+      "example": "Para aprender idiomas, la *** es fundamental.",
+      "meaning_tr": "daldırma",
+      "meaning_en": "immersion",
+      "meaning_uk": "занурення",
+      "meaning_es": "sumergirse en algo"
+    },
+    {
+      "term": "desestresarse",
+      "type": "Verb",
+      "example": "Hacer jardinería ayuda a muchas personas a ***.",
+      "meaning_tr": "stres atmak",
+      "meaning_en": "to de-stress",
+      "meaning_uk": "зняти стрес",
+      "meaning_es": "relajarse"
+    },
+    {
+      "term": "la introspección",
+      "type": "Noun",
+      "example": "Escribir un diario es un ejercicio de ***.",
+      "meaning_tr": "içebakış",
+      "meaning_en": "introspection",
+      "meaning_uk": "інтроспекція",
+      "meaning_es": "reflexión interna"
+    },
+    {
+      "term": "lúdico",
+      "type": "Adjective",
+      "example": "El museo tiene un espacio *** para niños.",
+      "meaning_tr": "oyunla ilgili",
+      "meaning_en": "playful",
+      "meaning_uk": "ігровий",
+      "meaning_es": "de juego"
+    },
+    {
+      "term": "la desconexión",
+      "type": "Noun",
+      "example": "Necesito una *** total de las redes sociales.",
+      "meaning_tr": "bağlantı kopukluğu",
+      "meaning_en": "disconnection",
+      "meaning_uk": "відключення",
+      "meaning_es": "aislamiento momentáneo"
+    },
+    {
+      "term": "el disfrute",
+      "type": "Noun",
+      "example": "El *** de una buena película es inigualable.",
+      "meaning_tr": "keyif",
+      "meaning_en": "enjoyment",
+      "meaning_uk": "насолода",
+      "meaning_es": "placer"
+    },
+    {
+      "term": "asiduamente",
+      "type": "Adverb",
+      "example": "Lee *** sobre temas de actualidad.",
+      "meaning_tr": "sık sık",
+      "meaning_en": "frequently",
+      "meaning_uk": "часто",
+      "meaning_es": "con asiduidad"
+    },
+    {
+      "term": "la creatividad",
+      "type": "Noun",
+      "example": "La improvisación es una muestra de gran ***.",
+      "meaning_tr": "yaratıcılık",
+      "meaning_en": "creativity",
+      "meaning_uk": "творчість",
+      "meaning_es": "invención"
+    },
+    {
+      "term": "el coleccionismo",
+      "type": "Noun",
+      "example": "El *** puede ser una afición muy cara.",
+      "meaning_tr": "koleksiyonculuk",
+      "meaning_en": "collecting",
+      "meaning_uk": "колекціонування",
+      "meaning_es": "reunir objetos"
+    },
+    {
+      "term": "esporádico",
+      "type": "Adjective",
+      "example": "Es un lector ***, no lee muy a menudo.",
+      "meaning_tr": "ara sıra olan",
+      "meaning_en": "sporadic",
+      "meaning_uk": "епізодичний",
+      "meaning_es": "irregular"
+    },
+    {
+      "term": "el ocio nocturno",
+      "type": "Noun",
+      "example": "La ciudad tiene un *** muy variado.",
+      "meaning_tr": "gece hayatı",
+      "meaning_en": "nightlife",
+      "meaning_uk": "нічне життя",
+      "meaning_es": "vida de noche"
+    },
+    {
+      "term": "implicarse",
+      "type": "Verb",
+      "example": "Es necesario *** para mejorar la comunidad.",
+      "meaning_tr": "dahil olmak",
+      "meaning_en": "to get involved",
+      "meaning_uk": "залучатися",
+      "meaning_es": "comprometerse"
+    }
+  ]
+}

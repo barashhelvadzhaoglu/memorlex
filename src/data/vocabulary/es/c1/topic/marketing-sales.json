@@ -1,0 +1,546 @@
+{
+  "title": "Marketing y Ventas (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el posicionamiento",
+      "type": "Noun",
+      "meaning_tr": "konumlandırma",
+      "meaning_en": "positioning",
+      "meaning_uk": "позиціонування",
+      "meaning_es": "lugar que ocupa una marca en la mente del consumidor",
+      "example": "*** de la marca es crucial para diferenciarse de la competencia."
+    },
+    {
+      "term": "la segmentación",
+      "type": "Noun",
+      "meaning_tr": "segmentasyon",
+      "meaning_en": "segmentation",
+      "meaning_uk": "сегментація",
+      "meaning_es": "división de un mercado en grupos más pequeños",
+      "example": "Realizamos *** del mercado para dirigirnos a un público específico."
+    },
+    {
+      "term": "fidelizar",
+      "type": "Verb",
+      "meaning_tr": "sadık kılmak",
+      "meaning_en": "to build loyalty",
+      "meaning_uk": "формувати лояльність",
+      "meaning_es": "conseguir que el cliente permanezca fiel a la marca",
+      "example": "Es mucho más barato *** a un cliente actual que captar uno nuevo."
+    },
+    {
+      "term": "el nicho",
+      "type": "Noun",
+      "meaning_tr": "niş",
+      "meaning_en": "niche",
+      "meaning_uk": "ніша",
+      "meaning_es": "parte pequeña y específica de un mercado",
+      "example": "Hemos encontrado un *** rentable en el sector de la tecnología sostenible."
+    },
+    {
+      "term": "la propuesta de valor",
+      "type": "Noun",
+      "meaning_tr": "değer önerisi",
+      "meaning_en": "value proposition",
+      "meaning_uk": "ціннісна пропозиція",
+      "meaning_es": "beneficio principal que ofrece una empresa",
+      "example": "Nuestra *** se basa en la innovación constante y la calidad superior."
+    },
+    {
+      "term": "el embudo de ventas",
+      "type": "Noun",
+      "meaning_tr": "satış hunisi",
+      "meaning_en": "sales funnel",
+      "meaning_uk": "воронка продажів",
+      "meaning_es": "proceso por el que pasa un usuario antes de comprar",
+      "example": "Debemos optimizar *** para convertir más leads en clientes reales."
+    },
+    {
+      "term": "el lead",
+      "type": "Noun",
+      "meaning_tr": "potansiyel müşteri",
+      "meaning_en": "lead",
+      "meaning_uk": "потенційний клієнт",
+      "meaning_es": "usuario que ha mostrado interés en un producto",
+      "example": "Cada *** recibido a través de la web debe ser gestionado rápidamente."
+    },
+    {
+      "term": "rentable",
+      "type": "Adjective",
+      "meaning_tr": "kârlı",
+      "meaning_en": "profitable",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "que genera beneficio económico",
+      "example": "El nuevo plan de marketing ha resultado ser muy *** para la empresa."
+    },
+    {
+      "term": "la cuota de mercado",
+      "type": "Noun",
+      "meaning_tr": "pazar payı",
+      "meaning_en": "market share",
+      "meaning_uk": "частка ринку",
+      "meaning_es": "porcentaje de ventas total que posee una empresa",
+      "example": "Nuestro objetivo anual es aumentar nuestra *** en un cinco por ciento."
+    },
+    {
+      "term": "el engagement",
+      "type": "Noun",
+      "meaning_tr": "etkileşim",
+      "meaning_en": "engagement",
+      "meaning_uk": "залученість",
+      "meaning_es": "nivel de compromiso de la audiencia con la marca",
+      "example": "El contenido visual ha generado un *** muy elevado en las redes sociales."
+    },
+    {
+      "term": "escalar",
+      "type": "Verb",
+      "meaning_tr": "ölçeklendirmek",
+      "meaning_en": "to scale",
+      "meaning_uk": "масштабувати",
+      "meaning_es": "hacer crecer un modelo de negocio",
+      "example": "Necesitamos un sistema automatizado para poder *** las ventas sin aumentar el personal."
+    },
+    {
+      "term": "el ROI",
+      "type": "Noun",
+      "meaning_tr": "yatırım getirisi",
+      "meaning_en": "ROI",
+      "meaning_uk": "окупність інвестицій",
+      "meaning_es": "retorno de la inversión",
+      "example": "Analizaremos *** de la campaña publicitaria antes de invertir más presupuesto."
+    },
+    {
+      "term": "la tasa de conversión",
+      "type": "Noun",
+      "meaning_tr": "dönüşüm oranı",
+      "meaning_en": "conversion rate",
+      "meaning_uk": "коефіцієнт конверсії",
+      "meaning_es": "porcentaje de usuarios que realizan una acción deseada",
+      "example": "Una baja *** indica que el diseño de la página de aterrizaje no es efectivo."
+    },
+    {
+      "term": "el target",
+      "type": "Noun",
+      "meaning_tr": "hedef kitle",
+      "meaning_en": "target audience",
+      "meaning_uk": "цільова аудиторія",
+      "meaning_es": "público objetivo al que se dirige la campaña",
+      "example": "Debemos adaptar el mensaje según el *** al que nos dirijamos."
+    },
+    {
+      "term": "disruptivo",
+      "type": "Adjective",
+      "meaning_tr": "yıkıcı/ezber bozan",
+      "meaning_en": "disruptive",
+      "meaning_uk": "інноваційний/проривний",
+      "meaning_es": "que genera un cambio drástico en el mercado",
+      "example": "La empresa ha lanzado un producto *** que cambiará la forma de trabajar."
+    },
+    {
+      "term": "la preventa",
+      "type": "Noun",
+      "meaning_tr": "ön satış",
+      "meaning_en": "pre-sale",
+      "meaning_uk": "передпродаж",
+      "meaning_es": "venta realizada antes del lanzamiento oficial",
+      "example": "La *** del nuevo modelo de teléfono ha superado todas nuestras expectativas."
+    },
+    {
+      "term": "el churn rate",
+      "type": "Noun",
+      "meaning_tr": "müşteri kayıp oranı",
+      "meaning_en": "churn rate",
+      "meaning_uk": "відтік клієнтів",
+      "meaning_es": "tasa de cancelación de clientes",
+      "example": "Es fundamental reducir *** para garantizar la estabilidad de los ingresos."
+    },
+    {
+      "term": "el buyer persona",
+      "type": "Noun",
+      "meaning_tr": "ideal müşteri profili",
+      "meaning_en": "buyer persona",
+      "meaning_uk": "портрет покупця",
+      "meaning_es": "representación ficticia del cliente ideal",
+      "example": "Para crear mejores anuncios, primero debemos definir nuestro ***."
+    },
+    {
+      "term": "la prospección",
+      "type": "Noun",
+      "meaning_tr": "prospeksiyon/müşteri arayışı",
+      "meaning_en": "prospecting",
+      "meaning_uk": "пошук клієнтів",
+      "meaning_es": "búsqueda activa de clientes potenciales",
+      "example": "El equipo comercial dedica toda la mañana a labores de *** telefónica."
+    },
+    {
+      "term": "el inbound marketing",
+      "type": "Noun",
+      "meaning_tr": "içerik odaklı pazarlama",
+      "meaning_en": "inbound marketing",
+      "meaning_uk": "вхідний маркетинг",
+      "meaning_es": "estrategia basada en atraer clientes con contenido",
+      "example": "Hemos decidido invertir en *** para mejorar nuestra reputación online."
+    },
+    {
+      "term": "posventa",
+      "type": "Adjective",
+      "meaning_tr": "satış sonrası",
+      "meaning_en": "after-sales",
+      "meaning_uk": "післяпродажний",
+      "meaning_es": "relacionado con el servicio tras la venta",
+      "example": "Un buen servicio *** es clave para lograr la satisfacción del cliente."
+    },
+    {
+      "term": "el embajador de marca",
+      "type": "Noun",
+      "meaning_tr": "marka elçisi",
+      "meaning_en": "brand ambassador",
+      "meaning_uk": "амбасадор бренду",
+      "meaning_es": "persona que representa y promociona una marca",
+      "example": "Hemos contratado a un influencer famoso para que sea nuestro ***."
+    },
+    {
+      "term": "la ventaja competitiva",
+      "type": "Noun",
+      "meaning_tr": "rekabet avantajı",
+      "meaning_en": "competitive advantage",
+      "meaning_uk": "конкурентна перевага",
+      "meaning_es": "característica que hace superior a una empresa",
+      "example": "Nuestra principal *** es el uso de tecnología patentada propia."
+    },
+    {
+      "term": "captar",
+      "type": "Verb",
+      "meaning_tr": "kazanmak/elde etmek",
+      "meaning_en": "to acquire/capture",
+      "meaning_uk": "залучати",
+      "meaning_es": "conseguir atraer a nuevos clientes",
+      "example": "El objetivo de este mes es *** a cien nuevos suscriptores al servicio."
+    },
+    {
+      "term": "el cross-selling",
+      "type": "Noun",
+      "meaning_tr": "çapraz satış",
+      "meaning_en": "cross-selling",
+      "meaning_uk": "перехресні продажі",
+      "meaning_es": "venta de productos complementarios",
+      "example": "Implementaremos técnicas de *** para aumentar el valor medio del carrito."
+    },
+    {
+      "term": "el up-selling",
+      "type": "Noun",
+      "meaning_tr": "üst satış",
+      "meaning_en": "up-selling",
+      "meaning_uk": "підвищення рівня продажів",
+      "meaning_es": "técnica para vender un producto superior",
+      "example": "El vendedor utilizó el *** para ofrecer al cliente la versión premium."
+    },
+    {
+      "term": "la viralidad",
+      "type": "Noun",
+      "meaning_tr": "virallik",
+      "meaning_en": "virality",
+      "meaning_uk": "вірусність",
+      "meaning_es": "capacidad de un contenido de propagarse rápidamente",
+      "example": "El éxito de la campaña se debe a la *** del video en las redes sociales."
+    },
+    {
+      "term": "el lead nurturing",
+      "type": "Noun",
+      "meaning_tr": "potansiyel müşteri geliştirme",
+      "meaning_en": "lead nurturing",
+      "meaning_uk": "вирощування лідів",
+      "meaning_es": "proceso de maduración de prospectos",
+      "example": "Mediante el *** logramos que los usuarios se decidan finalmente a comprar."
+    },
+    {
+      "term": "la cuenta de resultados",
+      "type": "Noun",
+      "meaning_tr": "gelir tablosu",
+      "meaning_en": "profit and loss statement",
+      "meaning_uk": "звіт про прибутки та збитки",
+      "meaning_es": "informe financiero de ingresos y gastos",
+      "example": "Debemos revisar *** para ver si los gastos de marketing están justificados."
+    },
+    {
+      "term": "el branding",
+      "type": "Noun",
+      "meaning_tr": "markalaşma",
+      "meaning_en": "branding",
+      "meaning_uk": "брендинг",
+      "meaning_es": "gestión estratégica de una marca",
+      "example": "Una buena estrategia de *** ayuda a que los clientes reconozcan nuestra marca."
+    },
+    {
+      "term": "el ticket medio",
+      "type": "Noun",
+      "meaning_tr": "ortalama sepet tutarı",
+      "meaning_en": "average order value",
+      "meaning_uk": "середній чек",
+      "meaning_es": "valor promedio de cada transacción",
+      "example": "Si logramos subir ***, aumentaremos nuestra rentabilidad sin vender más unidades."
+    },
+    {
+      "term": "la cuota de suscripción",
+      "type": "Noun",
+      "meaning_tr": "abonelik ücreti",
+      "meaning_en": "subscription fee",
+      "meaning_uk": "абонентська плата",
+      "meaning_es": "pago periódico por un servicio",
+      "example": "El cliente puede cancelar *** en cualquier momento sin penalización."
+    },
+    {
+      "term": "el descuento",
+      "type": "Noun",
+      "meaning_tr": "indirim",
+      "meaning_en": "discount",
+      "meaning_uk": "знижка",
+      "meaning_es": "rebaja en el precio de un producto",
+      "example": "Aplicaremos un *** del veinte por ciento durante la semana de ofertas."
+    },
+    {
+      "term": "fomentar",
+      "type": "Verb",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to foster/encourage",
+      "meaning_uk": "стимулювати",
+      "meaning_es": "impulsar una acción o comportamiento",
+      "example": "Queremos *** la participación de nuestros empleados en el proceso creativo."
+    },
+    {
+      "term": "la red de contactos",
+      "type": "Noun",
+      "meaning_tr": "iş ağı",
+      "meaning_en": "networking",
+      "meaning_uk": "мережа контактів",
+      "meaning_es": "conjunto de relaciones profesionales",
+      "example": "Asistir a conferencias es fundamental para ampliar nuestra ***."
+    },
+    {
+      "term": "la omnicanalidad",
+      "type": "Noun",
+      "meaning_tr": "çok kanallı pazarlama",
+      "meaning_en": "omnichannel",
+      "meaning_uk": "омніканальність",
+      "meaning_es": "integración de todos los canales de venta",
+      "example": "La *** permite que el cliente compre online y recoja en tienda física."
+    },
+    {
+      "term": "el presupuesto",
+      "type": "Noun",
+      "meaning_tr": "bütçe",
+      "meaning_en": "budget",
+      "meaning_uk": "бюджет",
+      "meaning_es": "cantidad de dinero destinada a un fin",
+      "example": "El director ha aprobado el *** para la nueva campaña publicitaria."
+    },
+    {
+      "term": "la cuota de mercado",
+      "type": "Noun",
+      "meaning_tr": "pazar payı",
+      "meaning_en": "market share",
+      "meaning_uk": "частка ринку",
+      "meaning_es": "porcentaje de mercado que domina una empresa",
+      "example": "Estamos trabajando duro para ganar *** frente a nuestro mayor rival."
+    },
+    {
+      "term": "la fidelización",
+      "type": "Noun",
+      "meaning_tr": "sadakat oluşturma",
+      "meaning_en": "loyalty",
+      "meaning_uk": "лояльність",
+      "meaning_es": "proceso para mantener clientes a largo plazo",
+      "example": "Nuestro programa de *** ofrece puntos canjeables por productos gratis."
+    },
+    {
+      "term": "el posicionamiento SEO",
+      "type": "Noun",
+      "meaning_tr": "SEO sıralaması",
+      "meaning_en": "SEO ranking",
+      "meaning_uk": "SEO позиціонування",
+      "meaning_es": "ubicación en buscadores web",
+      "example": "Es crucial mejorar *** para aparecer en los primeros resultados de Google."
+    },
+    {
+      "term": "el mercado emergente",
+      "type": "Noun",
+      "meaning_tr": "gelişmekte olan pazar",
+      "meaning_en": "emerging market",
+      "meaning_uk": "ринок, що розвивається",
+      "meaning_es": "economía con gran potencial de crecimiento",
+      "example": "Hemos decidido expandir nuestras operaciones hacia un *** muy prometedor."
+    },
+    {
+      "term": "la estrategia comercial",
+      "type": "Noun",
+      "meaning_tr": "ticari strateji",
+      "meaning_en": "commercial strategy",
+      "meaning_uk": "комерційна стратегія",
+      "meaning_es": "plan para alcanzar los objetivos de venta",
+      "example": "Debemos revisar nuestra *** para adaptarnos a las nuevas tendencias."
+    },
+    {
+      "term": "el lanzamiento",
+      "type": "Noun",
+      "meaning_tr": "lansman/piyasaya sürme",
+      "meaning_en": "launch",
+      "meaning_uk": "запуск",
+      "meaning_es": "introducción de un producto al mercado",
+      "example": "Todo el equipo está preparado para *** del nuevo software el mes próximo."
+    },
+    {
+      "term": "la ventaja competitiva",
+      "type": "Noun",
+      "meaning_tr": "rekabet avantajı",
+      "meaning_en": "competitive advantage",
+      "meaning_uk": "конкурентна перевага",
+      "meaning_es": "atributo único de una empresa",
+      "example": "La calidad de nuestro servicio técnico es nuestra mayor ***."
+    },
+    {
+      "term": "la prospección",
+      "type": "Noun",
+      "meaning_tr": "müşteri arayışı",
+      "meaning_en": "prospecting",
+      "meaning_uk": "пошук клієнтів",
+      "meaning_es": "búsqueda de clientes potenciales",
+      "example": "La *** es una tarea diaria esencial para cualquier equipo de ventas."
+    },
+    {
+      "term": "la tasa de abandono",
+      "type": "Noun",
+      "meaning_tr": "terk etme oranı",
+      "meaning_en": "drop-off rate",
+      "meaning_uk": "показник відмов",
+      "meaning_es": "porcentaje de usuarios que dejan un proceso",
+      "example": "Hemos notado una alta *** en el formulario de registro de nuestra web."
+    },
+    {
+      "term": "la propuesta",
+      "type": "Noun",
+      "meaning_tr": "teklif",
+      "meaning_en": "proposal",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "oferta presentada a un cliente",
+      "example": "He enviado la *** económica para el nuevo proyecto de consultoría."
+    },
+    {
+      "term": "el valor añadido",
+      "type": "Noun",
+      "meaning_tr": "katma değer",
+      "meaning_en": "added value",
+      "meaning_uk": "додана вартість",
+      "meaning_es": "característica extra que aporta valor",
+      "example": "Nuestro servicio de atención al cliente es el *** de nuestra empresa."
+    },
+    {
+      "term": "el embudo",
+      "type": "Noun",
+      "meaning_tr": "huni",
+      "meaning_en": "funnel",
+      "meaning_uk": "воронка",
+      "meaning_es": "proceso de ventas",
+      "example": "Debemos analizar en qué parte del *** perdemos más clientes potenciales."
+    },
+    {
+      "term": "la conversión",
+      "type": "Noun",
+      "meaning_tr": "dönüşüm",
+      "meaning_en": "conversion",
+      "meaning_uk": "конверсія",
+      "meaning_es": "acción final esperada",
+      "example": "El objetivo de la página web es maximizar la *** de visitantes a clientes."
+    },
+    {
+      "term": "el análisis DAFO",
+      "type": "Noun",
+      "meaning_tr": "SWOT analizi",
+      "meaning_en": "SWOT analysis",
+      "meaning_uk": "SWOT-аналіз",
+      "meaning_es": "estudio de debilidades, amenazas, fortalezas y oportunidades",
+      "example": "Haremos un *** para entender nuestra situación actual antes de invertir."
+    },
+    {
+      "term": "la segmentación",
+      "type": "Noun",
+      "meaning_tr": "segmentasyon",
+      "meaning_en": "segmentation",
+      "meaning_uk": "сегментація",
+      "meaning_es": "división de un público",
+      "example": "Gracias a una correcta ***, nuestros anuncios son mucho más efectivos."
+    },
+    {
+      "term": "la notoriedad",
+      "type": "Noun",
+      "meaning_tr": "bilinirlik",
+      "meaning_en": "brand awareness",
+      "meaning_uk": "впізнаваність",
+      "meaning_es": "nivel de reconocimiento de una marca",
+      "example": "La campaña tiene como objetivo aumentar la *** de la empresa en el sector."
+    },
+    {
+      "term": "el lead magnet",
+      "type": "Noun",
+      "meaning_tr": "potansiyel müşteri mıknatısı",
+      "meaning_en": "lead magnet",
+      "meaning_uk": "магніт для лідів",
+      "meaning_es": "recurso gratuito para obtener datos de clientes",
+      "example": "Ofrecemos un ebook gratuito como *** para obtener correos electrónicos."
+    },
+    {
+      "term": "la demanda",
+      "type": "Noun",
+      "meaning_tr": "talep",
+      "meaning_en": "demand",
+      "meaning_uk": "попит",
+      "meaning_es": "interés del mercado por un producto",
+      "example": "La *** por productos ecológicos ha crecido significativamente este año."
+    },
+    {
+      "term": "la recurrencia",
+      "type": "Noun",
+      "meaning_tr": "tekrar eden gelir",
+      "meaning_en": "recurrence/recurring revenue",
+      "meaning_uk": "повторюваність",
+      "meaning_es": "frecuencia de compra de clientes",
+      "example": "Nuestro modelo de suscripción garantiza una *** mensual de ingresos."
+    },
+    {
+      "term": "el posicionamiento",
+      "type": "Noun",
+      "meaning_tr": "konumlandırma",
+      "meaning_en": "positioning",
+      "meaning_uk": "позиціонування",
+      "meaning_es": "lugar de la marca en la mente del consumidor",
+      "example": "Queremos lograr un *** de liderazgo en el mercado de la moda."
+    },
+    {
+      "term": "la oferta",
+      "type": "Noun",
+      "meaning_tr": "teklif/kampanya",
+      "meaning_en": "offer",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "propuesta comercial",
+      "example": "Hemos lanzado una *** especial por tiempo limitado para nuevos usuarios."
+    },
+    {
+      "term": "el plan de marketing",
+      "type": "Noun",
+      "meaning_tr": "pazarlama planı",
+      "meaning_en": "marketing plan",
+      "meaning_uk": "маркетинговий план",
+      "meaning_es": "documento con estrategias de promoción",
+      "example": "El nuevo *** incluye acciones tanto en redes sociales como en televisión."
+    },
+    {
+      "term": "liderar",
+      "type": "Verb",
+      "meaning_tr": "liderlik etmek",
+      "meaning_en": "to lead",
+      "meaning_uk": "очолювати",
+      "meaning_es": "estar a la cabeza de un mercado",
+      "example": "Nuestro objetivo es *** el sector de la energía renovable en España."
+    }
+  ]
+}

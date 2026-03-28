@@ -1,0 +1,411 @@
+{
+  "title": "Medienkritik (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Berichterstattung",
+      "type": "Noun",
+      "example": "Die *** über den Krieg war sehr detailliert.",
+      "meaning_tr": "haber yapma / raporlama",
+      "meaning_en": "coverage / reporting",
+      "meaning_uk": "висвітлення подій / репортаж",
+      "meaning_es": "cobertura informativa"
+    },
+    {
+      "term": "manipulieren",
+      "type": "Verb",
+      "example": "Man darf die öffentliche Meinung nicht durch Lügen ***.",
+      "meaning_tr": "manipüle etmek",
+      "meaning_en": "to manipulate",
+      "meaning_uk": "маніпулювати",
+      "meaning_es": "manipular"
+    },
+    {
+      "term": "die Glaubwürdigkeit",
+      "type": "Noun",
+      "example": "Die *** der Zeitung steht nach dem Skandal infrage.",
+      "meaning_tr": "güvenilirlik",
+      "meaning_en": "credibility",
+      "meaning_uk": "достовірність / довіра",
+      "meaning_es": "credibilidad"
+    },
+    {
+      "term": "reißerisch",
+      "type": "Adjective",
+      "example": "Viele Boulevardzeitungen nutzen *** Überschriften.",
+      "meaning_tr": "sansasyonel",
+      "meaning_en": "sensationalist",
+      "meaning_uk": "сенсаційний / кричущий",
+      "meaning_es": "sensacionalista"
+    },
+    {
+      "term": "die Schlagzeile",
+      "type": "Noun",
+      "example": "Die *** auf der Titelseite erregte viel Aufmerksamkeit.",
+      "meaning_tr": "manşet",
+      "meaning_en": "headline",
+      "meaning_uk": "заголовок",
+      "meaning_es": "titular"
+    },
+    {
+      "term": "verbreiten",
+      "type": "Verb",
+      "example": "Soziale Netzwerke helfen dabei, Informationen schnell zu ***.",
+      "meaning_tr": "yaymak",
+      "meaning_en": "to spread / disseminate",
+      "meaning_uk": "поширювати",
+      "meaning_es": "difundir"
+    },
+    {
+      "term": "die Falschmeldung",
+      "type": "Noun",
+      "example": "Es stellte sich heraus, dass der Bericht eine *** war.",
+      "meaning_tr": "asparagas haber / yalan haber",
+      "meaning_en": "false report / hoax",
+      "meaning_uk": "неправдиве повідомлення",
+      "meaning_es": "noticia falsa"
+    },
+    {
+      "term": "der Pressekodex",
+      "type": "Noun",
+      "example": "Journalisten sollten sich an den *** halten.",
+      "meaning_tr": "basın etik kuralları",
+      "meaning_en": "press code of ethics",
+      "meaning_uk": "кодекс преси",
+      "meaning_es": "código de prensa"
+    },
+    {
+      "term": "die Zensur",
+      "type": "Noun",
+      "example": "In manchen Ländern gibt es eine strenge *** der Medien.",
+      "meaning_tr": "sansür",
+      "meaning_en": "censorship",
+      "meaning_uk": "цензура",
+      "meaning_es": "censura"
+    },
+    {
+      "term": "hinterfragen",
+      "type": "Verb",
+      "example": "Man sollte Informationen aus dem Internet immer kritisch ***.",
+      "meaning_tr": "sorgulamak",
+      "meaning_en": "to scrutinize / question",
+      "meaning_uk": "ставити під сумнів",
+      "meaning_es": "cuestionar"
+    },
+    {
+      "term": "die Medienkompetenz",
+      "type": "Noun",
+      "example": "In der Schule lernen Kinder heute wichtige ***.",
+      "meaning_tr": "medya okuryazarlığı",
+      "meaning_en": "media literacy",
+      "meaning_uk": "медіаграмотність",
+      "meaning_es": "competencia mediática"
+    },
+    {
+      "term": "einseitig",
+      "type": "Adjective",
+      "example": "Die Darstellung des Problems war leider sehr ***.",
+      "meaning_tr": "tek taraflı",
+      "meaning_en": "one-sided / biased",
+      "meaning_uk": "однобічний",
+      "meaning_es": "unilateral / sesgado"
+    },
+    {
+      "term": "die Meinungsmache",
+      "type": "Noun",
+      "example": "Kritiker werfen dem Sender gezielte *** vor.",
+      "meaning_tr": "kamuoyu oluşturma çabası",
+      "meaning_en": "opinion-mongering",
+      "meaning_uk": "маніпуляція думкою",
+      "meaning_es": "creación de opinión"
+    },
+    {
+      "term": "die Informationsquelle",
+      "type": "Noun",
+      "example": "Man sollte immer mehr als eine *** nutzen.",
+      "meaning_tr": "bilgi kaynağı",
+      "meaning_en": "source of information",
+      "meaning_uk": "джерело інформації",
+      "meaning_es": "fuente de información"
+    },
+    {
+      "term": "recherchieren",
+      "type": "Verb",
+      "example": "Vor dem Schreiben muss man gründlich zum Thema ***.",
+      "meaning_tr": "araştırma yapmak",
+      "meaning_en": "to research / investigate",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "investigar"
+    },
+    {
+      "term": "die Objektivität",
+      "type": "Noun",
+      "example": "Journalisten müssen ihre *** bewahren.",
+      "meaning_tr": "tarafsızlık / nesnellik",
+      "meaning_en": "objectivity",
+      "meaning_uk": "об'єктивність",
+      "meaning_es": "objetividad"
+    },
+    {
+      "term": "subjektiv",
+      "type": "Adjective",
+      "example": "Das ist nur eine *** Meinung und kein Fakt.",
+      "meaning_tr": "öznel",
+      "meaning_en": "subjective",
+      "meaning_uk": "суб'єктивний",
+      "meaning_es": "subjetivo"
+    },
+    {
+      "term": "die Filterblase",
+      "type": "Noun",
+      "example": "In einer *** bekommt man nur Bestätigung für die eigene Meinung.",
+      "meaning_tr": "filtre balonu",
+      "meaning_en": "filter bubble",
+      "meaning_uk": "інформаційна бульбашка",
+      "meaning_es": "burbuja de filtro"
+    },
+    {
+      "term": "der Algorithmus",
+      "type": "Noun",
+      "example": "Der *** bestimmt, welche Beiträge wir sehen.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "algoritmo"
+    },
+    {
+      "term": "beeinflussen",
+      "type": "Verb",
+      "example": "Medien können die politische Einstellung der Menschen ***.",
+      "meaning_tr": "etkilemek",
+      "meaning_en": "to influence",
+      "meaning_uk": "впливати",
+      "meaning_es": "influir"
+    },
+    {
+      "term": "die Öffentlichkeit",
+      "type": "Noun",
+      "example": "Die Nachricht wurde der breiten *** zugänglich gemacht.",
+      "meaning_tr": "kamuoyu / halk",
+      "meaning_en": "the public",
+      "meaning_uk": "громадськість",
+      "meaning_es": "el público / opinión pública"
+    },
+    {
+      "term": "seriös",
+      "type": "Adjective",
+      "example": "Diese Nachrichtenquelle gilt als besonders ***.",
+      "meaning_tr": "ciddi / güvenilir",
+      "meaning_en": "reputable / serious",
+      "meaning_uk": "серйозний / надійний",
+      "meaning_es": "serio / fiable"
+    },
+    {
+      "term": "die Diffamierung",
+      "type": "Noun",
+      "example": "Die Kampagne zielte auf die *** des Politikers ab.",
+      "meaning_tr": "karalama / iftira",
+      "meaning_en": "defamation",
+      "meaning_uk": "дифамація / наклеп",
+      "meaning_es": "difamación"
+    },
+    {
+      "term": "verfälschen",
+      "type": "Verb",
+      "example": "Man darf Statistiken nicht ***, um Argumente zu stützen.",
+      "meaning_tr": "çarpıtmak / tahrif etmek",
+      "meaning_en": "to distort / falsify",
+      "meaning_uk": "спотворювати / фальсифікувати",
+      "meaning_es": "falsear"
+    },
+    {
+      "term": "die Transparenz",
+      "type": "Noun",
+      "example": "Die *** der Finanzierung ist für Medien wichtig.",
+      "meaning_tr": "şeffaflık",
+      "meaning_en": "transparency",
+      "meaning_uk": "прозорість",
+      "meaning_es": "transparencia"
+    },
+    {
+      "term": "kritisch",
+      "type": "Adjective",
+      "example": "Ein *** Leser prüft die Fakten selbst.",
+      "meaning_tr": "eleştirel",
+      "meaning_en": "critical",
+      "meaning_uk": "критичний",
+      "meaning_es": "crítico"
+    },
+    {
+      "term": "die Urheberrechtsverletzung",
+      "type": "Noun",
+      "example": "Das Hochladen des Videos war eine ***.",
+      "meaning_tr": "telif hakkı ihlali",
+      "meaning_en": "copyright infringement",
+      "meaning_uk": "порушення авторських прав",
+      "meaning_es": "infracción de derechos de autor"
+    },
+    {
+      "term": "die Plattform",
+      "type": "Noun",
+      "example": "Diese soziale *** hat Millionen von Nutzern.",
+      "meaning_tr": "platform",
+      "meaning_en": "platform",
+      "meaning_uk": "платформа",
+      "meaning_es": "plataforma"
+    },
+    {
+      "term": "die Reichweite",
+      "type": "Noun",
+      "example": "Der Post hatte eine enorme *** im Internet.",
+      "meaning_tr": "erişim / menzil",
+      "meaning_en": "reach / range",
+      "meaning_uk": "охоплення",
+      "meaning_es": "alcance"
+    },
+    {
+      "term": "polarisieren",
+      "type": "Verb",
+      "example": "Das Thema Migration neigt dazu, die Gesellschaft zu ***.",
+      "meaning_tr": "kutuplaştırmak",
+      "meaning_en": "to polarize",
+      "meaning_uk": "поляризувати",
+      "meaning_es": "polarizar"
+    },
+    {
+      "term": "die Fake News",
+      "type": "Noun",
+      "example": "Viele Menschen fallen auf *** herein.",
+      "meaning_tr": "sahte haberler",
+      "meaning_en": "fake news",
+      "meaning_uk": "фейкові новини",
+      "meaning_es": "noticias falsas"
+    },
+    {
+      "term": "ablenken",
+      "type": "Verb",
+      "example": "Diese Berichte sollen nur von den echten Problemen ***.",
+      "meaning_tr": "dikkat dağıtmak",
+      "meaning_en": "to distract",
+      "meaning_uk": "відволікати",
+      "meaning_es": "distraer"
+    },
+    {
+      "term": "die Unterhaltung",
+      "type": "Noun",
+      "example": "Fernsehen dient oft nur der reinen ***.",
+      "meaning_tr": "eğlence",
+      "meaning_en": "entertainment",
+      "meaning_uk": "розваги",
+      "meaning_es": "entretenimiento"
+    },
+    {
+      "term": "investigativ",
+      "type": "Adjective",
+      "example": "Der *** Journalismus deckte den Korruptionsfall auf.",
+      "meaning_tr": "araştırmacı",
+      "meaning_en": "investigative",
+      "meaning_uk": "розслідувальний",
+      "meaning_es": "investigativo"
+    },
+    {
+      "term": "die Enthüllung",
+      "type": "Noun",
+      "example": "Die *** der geheimen Dokumente sorgte für Aufsehen.",
+      "meaning_tr": "ifşa / açığa çıkarma",
+      "meaning_en": "revelation / disclosure",
+      "meaning_uk": "викриття",
+      "meaning_es": "revelación"
+    },
+    {
+      "term": "die Einschaltquote",
+      "type": "Noun",
+      "example": "Die *** war bei diesem Film besonders hoch.",
+      "meaning_tr": "izlenme oranı / reyting",
+      "meaning_en": "audience rating",
+      "meaning_uk": "рейтинг переглядів",
+      "meaning_es": "cuota de pantalla"
+    },
+    {
+      "term": "die Schleichwerbung",
+      "type": "Noun",
+      "example": "In dem Video wurde verbotene *** entdeckt.",
+      "meaning_tr": "gizli reklam",
+      "meaning_en": "surreptitious advertising",
+      "meaning_uk": "прихована реклама",
+      "meaning_es": "publicidad encubierta"
+    },
+    {
+      "term": "vermitteln",
+      "type": "Verb",
+      "example": "Medien sollen Wissen und Informationen ***.",
+      "meaning_tr": "aktarmak / iletmek",
+      "meaning_en": "to convey / impart",
+      "meaning_uk": "передавати / посередничати",
+      "meaning_es": "transmitir"
+    },
+    {
+      "term": "der Kommentar",
+      "type": "Noun",
+      "example": "In einem *** äußert der Journalist seine eigene Meinung.",
+      "meaning_tr": "yorum",
+      "meaning_en": "commentary / editorial",
+      "meaning_uk": "коментар",
+      "meaning_es": "comentario"
+    },
+    {
+      "term": "die Pressefreiheit",
+      "type": "Noun",
+      "example": "Die *** ist ein Grundpfeiler der Demokratie.",
+      "meaning_tr": "basın özgürlüğü",
+      "meaning_en": "freedom of the press",
+      "meaning_uk": "свобода преси",
+      "meaning_es": "libertad de prensa"
+    },
+    {
+      "term": "unparteiisch",
+      "type": "Adjective",
+      "example": "Ein guter Reporter sollte stets *** berichten.",
+      "meaning_tr": "tarafsız",
+      "meaning_en": "impartial / unbiased",
+      "meaning_uk": "неупереджений",
+      "meaning_es": "imparcial"
+    },
+    {
+      "term": "der Skandal",
+      "type": "Noun",
+      "example": "Der politische *** wurde zuerst in der Zeitung erwähnt.",
+      "meaning_tr": "skandal",
+      "meaning_en": "scandal",
+      "meaning_uk": "скандал",
+      "meaning_es": "escándalo"
+    },
+    {
+      "term": "die Nachricht",
+      "type": "Noun",
+      "example": "Ich habe die *** im Radio gehört.",
+      "meaning_tr": "haber",
+      "meaning_en": "news",
+      "meaning_uk": "новина",
+      "meaning_es": "noticia"
+    },
+    {
+      "term": "beurteilen",
+      "type": "Verb",
+      "example": "Es ist schwer, die Qualität des Beitrags zu ***.",
+      "meaning_tr": "değerlendirmek",
+      "meaning_en": "to judge / assess",
+      "meaning_uk": "оцінювати",
+      "meaning_es": "evaluar"
+    },
+    {
+      "term": "die Medienlandschaft",
+      "type": "Noun",
+      "example": "Die deutsche *** ist sehr vielfältig.",
+      "meaning_tr": "medya ortamı",
+      "meaning_en": "media landscape",
+      "meaning_uk": "медіа-ландшафт",
+      "meaning_es": "panorama mediático"
+    }
+  ]
+}

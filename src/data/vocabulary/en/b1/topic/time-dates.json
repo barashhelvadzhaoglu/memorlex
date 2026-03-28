@@ -1,0 +1,321 @@
+{
+  "title": "Time & Dates (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a century",
+      "type": "Noun",
+      "example": "The castle was built over *** ago.",
+      "meaning_tr": "bir yüzyıl",
+      "meaning_en": "a period of one hundred years",
+      "meaning_uk": "століття",
+      "meaning_es": "un siglo"
+    },
+    {
+      "term": "a decade",
+      "type": "Noun",
+      "example": "She has lived in this city for ***.",
+      "meaning_tr": "bir on yıl",
+      "meaning_en": "a period of ten years",
+      "meaning_uk": "десятиліття",
+      "meaning_es": "una década"
+    },
+    {
+      "term": "an appointment",
+      "type": "Noun",
+      "example": "I have *** with my dentist at 3 PM.",
+      "meaning_tr": "randevu",
+      "meaning_en": "a formal arrangement to meet someone",
+      "meaning_uk": "зустріч",
+      "meaning_es": "una cita"
+    },
+    {
+      "term": "a schedule",
+      "type": "Noun",
+      "example": "My daily *** is very busy this week.",
+      "meaning_tr": "program",
+      "meaning_en": "a plan for carrying out a process",
+      "meaning_uk": "розклад",
+      "meaning_es": "un horario"
+    },
+    {
+      "term": "to postpone",
+      "type": "Verb",
+      "example": "We had to *** the meeting until next Monday.",
+      "meaning_tr": "ertelemek",
+      "meaning_en": "to cause something to take place at a later time",
+      "meaning_uk": "відкладати",
+      "meaning_es": "posponer"
+    },
+    {
+      "term": "to expire",
+      "type": "Verb",
+      "example": "Your passport will *** at the end of the year.",
+      "meaning_tr": "süresi dolmak",
+      "meaning_en": "to come to an end",
+      "meaning_uk": "закінчуватися",
+      "meaning_es": "caducar"
+    },
+    {
+      "term": "to participate",
+      "type": "Verb",
+      "example": "Will you *** in the event on Friday?",
+      "meaning_tr": "katılmak",
+      "meaning_en": "to take part in an action or event",
+      "meaning_uk": "брати участь",
+      "meaning_es": "participar"
+    },
+    {
+      "term": "to last",
+      "type": "Verb",
+      "example": "The concert will *** for three hours.",
+      "meaning_tr": "sürmek",
+      "meaning_en": "to continue for a specified period",
+      "meaning_uk": "тривати",
+      "meaning_es": "durar"
+    },
+    {
+      "term": "punctual",
+      "type": "Adjective",
+      "example": "Please be *** for our morning meeting.",
+      "meaning_tr": "dakik",
+      "meaning_en": "happening at the agreed time",
+      "meaning_uk": "пунктуальний",
+      "meaning_es": "puntual"
+    },
+    {
+      "term": "frequent",
+      "type": "Adjective",
+      "example": "There are *** buses to the city center.",
+      "meaning_tr": "sık",
+      "meaning_en": "happening often",
+      "meaning_uk": "частий",
+      "meaning_es": "frecuente"
+    },
+    {
+      "term": "annual",
+      "type": "Adjective",
+      "example": "We are planning our *** company trip.",
+      "meaning_tr": "yıllık",
+      "meaning_en": "occurring once every year",
+      "meaning_uk": "щорічний",
+      "meaning_es": "anual"
+    },
+    {
+      "term": "temporary",
+      "type": "Adjective",
+      "example": "This is only a *** solution to the problem.",
+      "meaning_tr": "geçici",
+      "meaning_en": "lasting for a limited time",
+      "meaning_uk": "тимчасовий",
+      "meaning_es": "temporal"
+    },
+    {
+      "term": "during",
+      "type": "Preposition",
+      "example": "I fell asleep *** the movie.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "throughout the course of a period",
+      "meaning_uk": "протягом",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "until",
+      "type": "Preposition",
+      "example": "We stayed at the park *** sunset.",
+      "meaning_tr": "-e kadar",
+      "meaning_en": "up to the time that",
+      "meaning_uk": "до",
+      "meaning_es": "hasta"
+    },
+    {
+      "term": "throughout",
+      "type": "Preposition",
+      "example": "The museum is open *** the year.",
+      "meaning_tr": "boyunca",
+      "meaning_en": "in every part of a period",
+      "meaning_uk": "протягом усього часу",
+      "meaning_es": "a lo largo de"
+    },
+    {
+      "term": "since",
+      "type": "Preposition",
+      "example": "I have lived here *** 2010.",
+      "meaning_tr": "-den beri",
+      "meaning_en": "from a particular time in the past",
+      "meaning_uk": "з того часу як",
+      "meaning_es": "desde"
+    },
+    {
+      "term": "frequently",
+      "type": "Adverb",
+      "example": "She *** checks her watch when she is nervous.",
+      "meaning_tr": "sık sık",
+      "meaning_en": "at short intervals",
+      "meaning_uk": "часто",
+      "meaning_es": "frecuentemente"
+    },
+    {
+      "term": "occasionally",
+      "type": "Adverb",
+      "example": "We *** go out for dinner on Sundays.",
+      "meaning_tr": "ara sıra",
+      "meaning_en": "at infrequent intervals",
+      "meaning_uk": "іноді",
+      "meaning_es": "ocasionalmente"
+    },
+    {
+      "term": "meanwhile",
+      "type": "Adverb",
+      "example": "I will cook dinner; ***, you can set the table.",
+      "meaning_tr": "bu arada",
+      "meaning_en": "at the same time",
+      "meaning_uk": "тим часом",
+      "meaning_es": "mientras tanto"
+    },
+    {
+      "term": "eventually",
+      "type": "Adverb",
+      "example": "He *** finished his project after many weeks.",
+      "meaning_tr": "sonunda",
+      "meaning_en": "in the end",
+      "meaning_uk": "зрештою",
+      "meaning_es": "finalmente"
+    },
+    {
+      "term": "whenever",
+      "type": "Conjunction",
+      "example": "Call me *** you are ready.",
+      "meaning_tr": "her ne zaman",
+      "meaning_en": "at whatever time",
+      "meaning_uk": "коли б не",
+      "meaning_es": "cuando sea"
+    },
+    {
+      "term": "a deadline",
+      "type": "Noun",
+      "example": "The *** for the report is tomorrow at noon.",
+      "meaning_tr": "son teslim tarihi",
+      "meaning_en": "the latest time by which something must be done",
+      "meaning_uk": "крайній термін",
+      "meaning_es": "una fecha límite"
+    },
+    {
+      "term": "an era",
+      "type": "Noun",
+      "example": "This invention changed the whole ***.",
+      "meaning_tr": "çağ",
+      "meaning_en": "a long and distinct period of history",
+      "meaning_uk": "ера",
+      "meaning_es": "una era"
+    },
+    {
+      "term": "to schedule",
+      "type": "Verb",
+      "example": "Let's *** a meeting for next week.",
+      "meaning_tr": "planlamak",
+      "meaning_en": "to arrange for something to happen at a time",
+      "meaning_uk": "планувати",
+      "meaning_es": "programar"
+    },
+    {
+      "term": "to update",
+      "type": "Verb",
+      "example": "I need to *** my calendar.",
+      "meaning_tr": "güncellemek",
+      "meaning_en": "to make something modern or current",
+      "meaning_uk": "оновлювати",
+      "meaning_es": "actualizar"
+    },
+    {
+      "term": "current",
+      "type": "Adjective",
+      "example": "The *** date is the 15th of May.",
+      "meaning_tr": "mevcut",
+      "meaning_en": "belonging to the present time",
+      "meaning_uk": "поточний",
+      "meaning_es": "actual"
+    },
+    {
+      "term": "early",
+      "type": "Adjective",
+      "example": "We caught the *** train to London.",
+      "meaning_tr": "erken",
+      "meaning_en": "happening before the usual time",
+      "meaning_uk": "ранній",
+      "meaning_es": "temprano"
+    },
+    {
+      "term": "before",
+      "type": "Preposition",
+      "example": "Please wash your hands *** dinner.",
+      "meaning_tr": "önce",
+      "meaning_en": "during the period of time preceding",
+      "meaning_uk": "перед",
+      "meaning_es": "antes de"
+    },
+    {
+      "term": "after",
+      "type": "Preposition",
+      "example": "We are going to the cinema *** the class.",
+      "meaning_tr": "sonra",
+      "meaning_en": "at a time later than",
+      "meaning_uk": "після",
+      "meaning_es": "después de"
+    },
+    {
+      "term": "recently",
+      "type": "Adverb",
+      "example": "I have *** started a new hobby.",
+      "meaning_tr": "son zamanlarda",
+      "meaning_en": "not long ago",
+      "meaning_uk": "нещодавно",
+      "meaning_es": "recientemente"
+    },
+    {
+      "term": "already",
+      "type": "Adverb",
+      "example": "Have you finished your homework ***?",
+      "meaning_tr": "çoktan",
+      "meaning_en": "before the expected time",
+      "meaning_uk": "вже",
+      "meaning_es": "ya"
+    },
+    {
+      "term": "yet",
+      "type": "Adverb",
+      "example": "The train hasn't arrived ***.",
+      "meaning_tr": "henüz",
+      "meaning_en": "up to the present time",
+      "meaning_uk": "ще",
+      "meaning_es": "todavía"
+    },
+    {
+      "term": "while",
+      "type": "Conjunction",
+      "example": "I read a book *** I was waiting.",
+      "meaning_tr": "iken",
+      "meaning_en": "during the time that",
+      "meaning_uk": "поки",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "as soon as",
+      "type": "Conjunction",
+      "example": "Call me *** you arrive home.",
+      "meaning_tr": "yapar yapmaz",
+      "meaning_en": "immediately at or shortly after the time",
+      "meaning_uk": "як тільки",
+      "meaning_es": "tan pronto como"
+    },
+    {
+      "term": "a duration",
+      "type": "Noun",
+      "example": "The total *** of the flight is five hours.",
+      "meaning_tr": "süre",
+      "meaning_en": "the time during which something continues",
+      "meaning_uk": "тривалість",
+      "meaning_es": "una duración"
+    }
+  ]
+}

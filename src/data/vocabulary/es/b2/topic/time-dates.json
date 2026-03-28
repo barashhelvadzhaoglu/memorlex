@@ -1,0 +1,411 @@
+{
+  "title": "Tiempo y Fechas (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la antelación",
+      "type": "Noun",
+      "meaning_tr": "önceden olma",
+      "meaning_en": "advance notice",
+      "meaning_uk": "завчасність",
+      "meaning_es": "tiempo de espera previo",
+      "example": "Debes avisar con *** para organizar la reunión."
+    },
+    {
+      "term": "la brevedad",
+      "type": "Noun",
+      "meaning_tr": "kısalık",
+      "meaning_en": "brevity",
+      "meaning_uk": "стислість",
+      "meaning_es": "cualidad de ser breve",
+      "example": "Se ruega la mayor *** posible en las respuestas."
+    },
+    {
+      "term": "la caducidad",
+      "type": "Noun",
+      "meaning_tr": "son kullanma tarihi",
+      "meaning_en": "expiration",
+      "meaning_uk": "термін придатності",
+      "meaning_es": "fecha de vencimiento",
+      "example": "Revisa la *** del producto antes de consumirlo."
+    },
+    {
+      "term": "la coyuntura",
+      "type": "Noun",
+      "meaning_tr": "durum/konjonktür",
+      "meaning_en": "conjuncture",
+      "meaning_uk": "кон'юнктура",
+      "meaning_es": "circunstancia temporal",
+      "example": "Aprovecharemos esta *** económica para invertir."
+    },
+    {
+      "term": "la demora",
+      "type": "Noun",
+      "meaning_tr": "gecikme",
+      "meaning_en": "delay",
+      "meaning_uk": "затримка",
+      "meaning_es": "retraso",
+      "example": "Lamento la *** en la entrega de tu pedido."
+    },
+    {
+      "term": "la efimeridad",
+      "type": "Noun",
+      "meaning_tr": "geçicilik",
+      "meaning_en": "ephemerality",
+      "meaning_uk": "ефемерність",
+      "meaning_es": "carácter pasajero",
+      "example": "La *** de la fama es un tema recurrente en su obra."
+    },
+    {
+      "term": "la era",
+      "type": "Noun",
+      "meaning_tr": "çağ",
+      "meaning_en": "era",
+      "meaning_uk": "ера",
+      "meaning_es": "periodo histórico",
+      "example": "Vivimos en la *** de la inteligencia artificial."
+    },
+    {
+      "term": "la espera",
+      "type": "Noun",
+      "meaning_tr": "bekleme",
+      "meaning_en": "wait",
+      "meaning_uk": "очікування",
+      "meaning_es": "acto de esperar",
+      "example": "La *** en la sala fue bastante larga."
+    },
+    {
+      "term": "la frecuencia",
+      "type": "Noun",
+      "meaning_tr": "sıklık",
+      "meaning_en": "frequency",
+      "meaning_uk": "частота",
+      "meaning_es": "repetición de un suceso",
+      "example": "La *** de los trenes ha aumentado este mes."
+    },
+    {
+      "term": "la jornada",
+      "type": "Noun",
+      "meaning_tr": "günlük çalışma süresi",
+      "meaning_en": "working day",
+      "meaning_uk": "робочий день",
+      "meaning_es": "periodo de trabajo diario",
+      "example": "Terminé mi *** laboral agotado hoy."
+    },
+    {
+      "term": "la posteridad",
+      "type": "Noun",
+      "meaning_tr": "gelecek nesiller",
+      "meaning_en": "posterity",
+      "meaning_uk": "нащадки",
+      "meaning_es": "generaciones futuras",
+      "example": "Su legado quedará para la ***."
+    },
+    {
+      "term": "la prórroga",
+      "type": "Noun",
+      "meaning_tr": "ek süre/uzatma",
+      "meaning_en": "extension",
+      "meaning_uk": "відстрочка",
+      "meaning_es": "extensión de tiempo",
+      "example": "Solicitamos una *** para terminar el proyecto."
+    },
+    {
+      "term": "la puntualidad",
+      "type": "Noun",
+      "meaning_tr": "dakiklik",
+      "meaning_en": "punctuality",
+      "meaning_uk": "пунктуальність",
+      "meaning_es": "cualidad de ser puntual",
+      "example": "La *** es una virtud muy valorada en esta empresa."
+    },
+    {
+      "term": "la víspera",
+      "type": "Noun",
+      "meaning_tr": "bir gün öncesi",
+      "meaning_en": "eve",
+      "meaning_uk": "напередодні",
+      "meaning_es": "día anterior",
+      "example": "Llegamos la *** de la gran fiesta."
+    },
+    {
+      "term": "el amanecer",
+      "type": "Noun",
+      "meaning_tr": "şafak",
+      "meaning_en": "dawn",
+      "meaning_uk": "світанок",
+      "meaning_es": "salida del sol",
+      "example": "Salimos de casa justo al ***."
+    },
+    {
+      "term": "el aniversario",
+      "type": "Noun",
+      "meaning_tr": "yıl dönümü",
+      "meaning_en": "anniversary",
+      "meaning_uk": "річниця",
+      "meaning_es": "fecha de celebración anual",
+      "example": "Mañana celebramos nuestro décimo ***."
+    },
+    {
+      "term": "el atardecer",
+      "type": "Noun",
+      "meaning_tr": "gün batımı",
+      "meaning_en": "sunset",
+      "meaning_uk": "захід сонця",
+      "meaning_es": "puesta de sol",
+      "example": "El *** en la playa fue espectacular."
+    },
+    {
+      "term": "el bisiesto",
+      "type": "Noun",
+      "meaning_tr": "artık yıl",
+      "meaning_en": "leap year",
+      "meaning_uk": "високосний рік",
+      "meaning_es": "año con 366 días",
+      "example": "Nací un año ***, así que celebro poco."
+    },
+    {
+      "term": "el decenio",
+      "type": "Noun",
+      "meaning_tr": "on yıl",
+      "meaning_en": "decade",
+      "meaning_uk": "десятиліття",
+      "meaning_es": "periodo de diez años",
+      "example": "Han pasado un *** desde que nos vimos."
+    },
+    {
+      "term": "el lapso",
+      "type": "Noun",
+      "meaning_tr": "zaman aralığı",
+      "meaning_en": "interval",
+      "meaning_uk": "проміжок часу",
+      "meaning_es": "espacio de tiempo",
+      "example": "En un *** de dos horas, todo cambió."
+    },
+    {
+      "term": "el mediodía",
+      "type": "Noun",
+      "meaning_tr": "öğle vakti",
+      "meaning_en": "noon",
+      "meaning_uk": "полудень",
+      "meaning_es": "las doce del día",
+      "example": "Nos reuniremos al *** para almorzar."
+    },
+    {
+      "term": "el plazo",
+      "type": "Noun",
+      "meaning_tr": "süre/vade",
+      "meaning_en": "deadline",
+      "meaning_uk": "термін",
+      "meaning_es": "tiempo límite",
+      "example": "El *** de inscripción termina este viernes."
+    },
+    {
+      "term": "el porvenir",
+      "type": "Noun",
+      "meaning_tr": "gelecek",
+      "meaning_en": "future",
+      "meaning_uk": "майбутнє",
+      "meaning_es": "tiempo futuro",
+      "example": "Debemos trabajar duro por nuestro ***."
+    },
+    {
+      "term": "el preámbulo",
+      "type": "Noun",
+      "meaning_tr": "giriş/başlangıç",
+      "meaning_en": "preamble",
+      "meaning_uk": "передмова",
+      "meaning_es": "lo que precede",
+      "example": "Sin más ***, comencemos la presentación."
+    },
+    {
+      "term": "el siglo",
+      "type": "Noun",
+      "meaning_tr": "yüzyıl",
+      "meaning_en": "century",
+      "meaning_uk": "століття",
+      "meaning_es": "periodo de cien años",
+      "example": "Estamos en el *** veintiuno."
+    },
+    {
+      "term": "el trascurso",
+      "type": "Noun",
+      "meaning_tr": "zamanın geçişi",
+      "meaning_en": "passage of time",
+      "meaning_uk": "плив часу",
+      "meaning_es": "paso del tiempo",
+      "example": "Con el *** de los años, todo mejora."
+    },
+    {
+      "term": "el trimestre",
+      "type": "Noun",
+      "meaning_tr": "üç aylık dönem",
+      "meaning_en": "quarter",
+      "meaning_uk": "квартал",
+      "meaning_es": "periodo de tres meses",
+      "example": "Las notas del primer *** son excelentes."
+    },
+    {
+      "term": "el vencimiento",
+      "type": "Noun",
+      "meaning_tr": "vade sonu",
+      "meaning_en": "due date",
+      "meaning_uk": "термін платежу",
+      "meaning_es": "fecha de pago final",
+      "example": "La factura tiene el *** el día diez."
+    },
+    {
+      "term": "postergar",
+      "type": "Verb",
+      "meaning_tr": "ertelemek",
+      "meaning_en": "to postpone",
+      "meaning_uk": "відкладати",
+      "meaning_es": "dejar para más tarde",
+      "example": "No podemos *** más esta decisión importante."
+    },
+    {
+      "term": "anticipar",
+      "type": "Verb",
+      "meaning_tr": "öne almak/tahmin etmek",
+      "meaning_en": "to anticipate",
+      "meaning_uk": "передбачати",
+      "meaning_es": "hacer antes de tiempo",
+      "example": "Debemos *** la reunión para mañana mismo."
+    },
+    {
+      "term": "transcurrir",
+      "type": "Verb",
+      "meaning_tr": "geçip gitmek (zaman)",
+      "meaning_en": "to pass (time)",
+      "meaning_uk": "минати",
+      "meaning_es": "pasar el tiempo",
+      "example": "Los días han *** muy rápidamente."
+    },
+    {
+      "term": "frecuentar",
+      "type": "Verb",
+      "meaning_tr": "sık sık gitmek",
+      "meaning_en": "to frequent",
+      "meaning_uk": "відвідувати часто",
+      "meaning_es": "ir a menudo",
+      "example": "Suelo *** ese café por las mañanas."
+    },
+    {
+      "term": "perdurar",
+      "type": "Verb",
+      "meaning_tr": "sürmek/devam etmek",
+      "meaning_en": "to endure",
+      "meaning_uk": "тривати",
+      "meaning_es": "durar mucho tiempo",
+      "example": "Espero que nuestra amistad logre ***."
+    },
+    {
+      "term": "instantáneo",
+      "type": "Adjective",
+      "meaning_tr": "anlık",
+      "meaning_en": "instantaneous",
+      "meaning_uk": "миттєвий",
+      "meaning_es": "que ocurre en un instante",
+      "example": "El mensaje tuvo un éxito ***."
+    },
+    {
+      "term": "efímero",
+      "type": "Adjective",
+      "meaning_tr": "geçici",
+      "meaning_en": "ephemeral",
+      "meaning_uk": "ефемерний",
+      "meaning_es": "de corta duración",
+      "example": "La belleza de las flores es ***."
+    },
+    {
+      "term": "anual",
+      "type": "Adjective",
+      "meaning_tr": "yıllık",
+      "meaning_en": "annual",
+      "meaning_uk": "щорічний",
+      "meaning_es": "que ocurre cada año",
+      "example": "Mañana es nuestra revisión ***."
+    },
+    {
+      "term": "prematuro",
+      "type": "Adjective",
+      "meaning_tr": "erken/vaktinden önce",
+      "meaning_en": "premature",
+      "meaning_uk": "передчасний",
+      "meaning_es": "que ocurre antes de tiempo",
+      "example": "Su final fue muy *** y triste."
+    },
+    {
+      "term": "inminente",
+      "type": "Adjective",
+      "meaning_tr": "yakın/eli kulağında",
+      "meaning_en": "imminent",
+      "meaning_uk": "неминучий",
+      "meaning_es": "que está por ocurrir",
+      "example": "El peligro es ***, debemos irnos."
+    },
+    {
+      "term": "eterno",
+      "type": "Adjective",
+      "meaning_tr": "sonsuz",
+      "meaning_en": "eternal",
+      "meaning_uk": "вічний",
+      "meaning_es": "que no tiene fin",
+      "example": "Parece un invierno *** y frío."
+    },
+    {
+      "term": "duradero",
+      "type": "Adjective",
+      "meaning_tr": "dayanıklı/uzun ömürlü",
+      "meaning_en": "long-lasting",
+      "meaning_uk": "довговічний",
+      "meaning_es": "que dura mucho",
+      "example": "Buscamos un cambio *** en la política."
+    },
+    {
+      "term": "tras",
+      "type": "Preposition",
+      "meaning_tr": "sonra/ardından",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "después de",
+      "example": "Saldremos *** la cena."
+    },
+    {
+      "term": "durante",
+      "type": "Preposition",
+      "meaning_tr": "sırasında/boyunca",
+      "meaning_en": "during",
+      "meaning_uk": "протягом",
+      "meaning_es": "a lo largo de",
+      "example": "No hables *** la película, por favor."
+    },
+    {
+      "term": "próximamente",
+      "type": "Adverb",
+      "meaning_tr": "yakında",
+      "meaning_en": "soon",
+      "meaning_uk": "незабаром",
+      "meaning_es": "en poco tiempo",
+      "example": "La película se estrenará *** en cines."
+    },
+    {
+      "term": "anualmente",
+      "type": "Adverb",
+      "meaning_tr": "yıllık olarak",
+      "meaning_en": "annually",
+      "meaning_uk": "щорічно",
+      "meaning_es": "cada año",
+      "example": "Este evento se celebra *** aquí."
+    },
+    {
+      "term": "mientras",
+      "type": "Conjunction",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "поки",
+      "meaning_es": "al mismo tiempo que",
+      "example": "Estudiaré *** tú preparas la comida."
+    }
+  ]
+}

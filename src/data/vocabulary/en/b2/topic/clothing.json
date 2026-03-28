@@ -1,0 +1,411 @@
+{
+  "title": "Clothing & Fashion (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a blazer",
+      "type": "Noun",
+      "meaning_tr": "spor ceket",
+      "meaning_en": "a smart jacket that is not part of a suit",
+      "meaning_uk": "піджак",
+      "meaning_es": "una americana",
+      "example": "He wore *** over his shirt for the business meeting."
+    },
+    {
+      "term": "to accessorize",
+      "type": "Verb",
+      "meaning_tr": "aksesuar eklemek",
+      "meaning_en": "to add decorative items to an outfit",
+      "meaning_uk": "доповнювати аксесуарами",
+      "meaning_es": "complementar con accesorios",
+      "example": "She knows how to *** her simple black dress with bold jewelry."
+    },
+    {
+      "term": "baggy",
+      "type": "Adjective",
+      "meaning_tr": "bol",
+      "meaning_en": "loose-fitting clothing",
+      "meaning_uk": "мішкуватий",
+      "meaning_es": "holgado",
+      "example": "Teenagers often prefer *** jeans for a casual look."
+    },
+    {
+      "term": "a cardigan",
+      "type": "Noun",
+      "meaning_tr": "hırka",
+      "meaning_en": "a knitted garment that opens at the front",
+      "meaning_uk": "кардиган",
+      "meaning_es": "una rebeca",
+      "example": "It is quite chilly, so put on ***."
+    },
+    {
+      "term": "chic",
+      "type": "Adjective",
+      "meaning_tr": "şık",
+      "meaning_en": "elegant and stylish",
+      "meaning_uk": "шикарний",
+      "meaning_es": "elegante",
+      "example": "She looked very *** in her Parisian-inspired outfit."
+    },
+    {
+      "term": "to dress up",
+      "type": "Verb",
+      "meaning_tr": "giyinip kuşanmak",
+      "meaning_en": "to wear formal clothes for a special occasion",
+      "meaning_uk": "наряджатися",
+      "meaning_es": "arreglarse",
+      "example": "We don't need to *** for dinner at the local pub."
+    },
+    {
+      "term": "a garment",
+      "type": "Noun",
+      "meaning_tr": "giysi",
+      "meaning_en": "a piece of clothing",
+      "meaning_uk": "одяг",
+      "meaning_es": "una prenda",
+      "example": "This delicate *** should only be dry-cleaned."
+    },
+    {
+      "term": "a hem",
+      "type": "Noun",
+      "meaning_tr": "etek ucu",
+      "meaning_en": "the edge of a piece of cloth that has been turned under and sewn",
+      "meaning_uk": "підгин",
+      "meaning_es": "un dobladillo",
+      "example": "The *** of her dress was fraying after years of wear."
+    },
+    {
+      "term": "impeccable",
+      "type": "Adjective",
+      "meaning_tr": "kusursuz",
+      "meaning_en": "perfect and without faults",
+      "meaning_uk": "бездоганний",
+      "meaning_es": "impecable",
+      "example": "He is known for his *** taste in tailored suits."
+    },
+    {
+      "term": "a jumpsuit",
+      "type": "Noun",
+      "meaning_tr": "tulum",
+      "meaning_en": "a piece of clothing with trousers and a top in one",
+      "meaning_uk": "комбінезон",
+      "meaning_es": "un mono",
+      "example": "She wore a bright red *** to the summer party."
+    },
+    {
+      "term": "a knitwear",
+      "type": "Noun",
+      "meaning_tr": "triko",
+      "meaning_en": "clothes made of knitted fabric",
+      "meaning_uk": "трикотаж",
+      "meaning_es": "un género de punto",
+      "example": "High-quality *** is essential for the winter season."
+    },
+    {
+      "term": "a lapel",
+      "type": "Noun",
+      "meaning_tr": "yaka (ceket)",
+      "meaning_en": "the part of a coat folded back against the chest",
+      "meaning_uk": "лацкан",
+      "meaning_es": "una solapa",
+      "example": "He pinned a flower to his ***."
+    },
+    {
+      "term": "a linen",
+      "type": "Noun",
+      "meaning_tr": "keten",
+      "meaning_en": "a light, cool fabric made from flax",
+      "meaning_uk": "льон",
+      "meaning_es": "un lino",
+      "example": "Wearing *** is perfect for hot, humid weather."
+    },
+    {
+      "term": "a look",
+      "type": "Noun",
+      "meaning_tr": "stil/görünüm",
+      "meaning_en": "a particular style or appearance",
+      "meaning_uk": "образ",
+      "meaning_es": "un look",
+      "example": "She is trying to achieve a more professional *** for her new job."
+    },
+    {
+      "term": "a mock-neck",
+      "type": "Noun",
+      "meaning_tr": "yarım balıkçı yaka",
+      "meaning_en": "a high, close-fitting collar that does not fold over",
+      "meaning_uk": "комір-стійка",
+      "meaning_es": "un cuello perkins",
+      "example": "She bought a soft sweater with ***."
+    },
+    {
+      "term": "a must-have",
+      "type": "Noun",
+      "meaning_tr": "olmazsa olmaz",
+      "meaning_en": "something that is highly fashionable or necessary",
+      "meaning_uk": "маст-хев",
+      "meaning_es": "un imprescindible",
+      "example": "White sneakers are a *** for this season."
+    },
+    {
+      "term": "neat",
+      "type": "Adjective",
+      "meaning_tr": "derli toplu",
+      "meaning_en": "tidy and clean",
+      "meaning_uk": "охайний",
+      "meaning_es": "pulcro",
+      "example": "He always keeps a *** appearance at work."
+    },
+    {
+      "term": "outdated",
+      "type": "Adjective",
+      "meaning_tr": "demode",
+      "meaning_en": "old-fashioned",
+      "meaning_uk": "застарілий",
+      "meaning_es": "anticuado",
+      "example": "Those wide ties look quite *** now."
+    },
+    {
+      "term": "to overdress",
+      "type": "Verb",
+      "meaning_tr": "abartılı giyinmek",
+      "meaning_en": "to wear clothes that are too formal for the occasion",
+      "meaning_uk": "занадто ошатно вдягатися",
+      "meaning_es": "ir demasiado arreglado",
+      "example": "I felt awkward because I chose to *** for the casual picnic."
+    },
+    {
+      "term": "a pattern",
+      "type": "Noun",
+      "meaning_tr": "desen",
+      "meaning_en": "a repeated decorative design",
+      "meaning_uk": "візерунок",
+      "meaning_es": "un estampado",
+      "example": "The floral *** on her dress is very eye-catching."
+    },
+    {
+      "term": "a pleated skirt",
+      "type": "Noun",
+      "meaning_tr": "pileli etek",
+      "meaning_en": "a skirt with folds of fabric",
+      "meaning_uk": "спідниця в складку",
+      "meaning_es": "una falda plisada",
+      "example": "She paired *** with a simple white blouse."
+    },
+    {
+      "term": "a pocket square",
+      "type": "Noun",
+      "meaning_tr": "cep mendili",
+      "meaning_en": "a small cloth worn in the pocket of a jacket",
+      "meaning_uk": "хустинка в кишеню піджака",
+      "meaning_es": "un pañuelo de bolsillo",
+      "example": "A silk *** adds a touch of class to any suit."
+    },
+    {
+      "term": "a polyester",
+      "type": "Noun",
+      "meaning_tr": "polyester",
+      "meaning_en": "a synthetic fiber",
+      "meaning_uk": "поліестер",
+      "meaning_es": "un poliéster",
+      "example": "The jacket is made of 100% ***."
+    },
+    {
+      "term": "posh",
+      "type": "Adjective",
+      "meaning_tr": "lüks",
+      "meaning_en": "elegant, stylish, and expensive",
+      "meaning_uk": "шикарний",
+      "meaning_es": "pijo",
+      "example": "They went to a very *** restaurant in the city center."
+    },
+    {
+      "term": "a runway",
+      "type": "Noun",
+      "meaning_tr": "podyum",
+      "meaning_en": "a platform for fashion models",
+      "meaning_uk": "подіум",
+      "meaning_es": "una pasarela",
+      "example": "The designs displayed on the *** were truly innovative."
+    },
+    {
+      "term": "a scarf",
+      "type": "Noun",
+      "meaning_tr": "atkı/eşarp",
+      "meaning_en": "a piece of fabric worn around the neck",
+      "meaning_uk": "шарф",
+      "meaning_es": "una bufanda",
+      "example": "She wrapped a silk *** around her neck."
+    },
+    {
+      "term": "a seam",
+      "type": "Noun",
+      "meaning_tr": "dikiş yeri",
+      "meaning_en": "the line where two pieces of fabric are sewn together",
+      "meaning_uk": "шов",
+      "meaning_es": "una costura",
+      "example": "The *** ripped during the dance performance."
+    },
+    {
+      "term": "a silhouette",
+      "type": "Noun",
+      "meaning_tr": "silüet",
+      "meaning_en": "the shape of a person's body or clothing",
+      "meaning_uk": "силует",
+      "meaning_es": "una silueta",
+      "example": "The dress creates a very flattering ***."
+    },
+    {
+      "term": "a sleeve",
+      "type": "Noun",
+      "meaning_tr": "kol (giysi)",
+      "meaning_en": "the part of a garment that covers the arm",
+      "meaning_uk": "рукав",
+      "meaning_es": "una manga",
+      "example": "These long *** are perfect for the winter months."
+    },
+    {
+      "term": "smart",
+      "type": "Adjective",
+      "meaning_tr": "şık/resmi",
+      "meaning_en": "clean, tidy, and stylish",
+      "meaning_uk": "охайний",
+      "meaning_es": "elegante",
+      "example": "You need to wear *** clothes for the interview."
+    },
+    {
+      "term": "a sneaker",
+      "type": "Noun",
+      "meaning_tr": "spor ayakkabı",
+      "meaning_en": "a casual shoe for sports or walking",
+      "meaning_uk": "кросівки",
+      "meaning_es": "una zapatilla",
+      "example": "I prefer wearing a comfortable *** for everyday walking."
+    },
+    {
+      "term": "sophisticated",
+      "type": "Adjective",
+      "meaning_tr": "sofistike",
+      "meaning_en": "having a refined knowledge of fashion",
+      "meaning_uk": "витончений",
+      "meaning_es": "sofisticado",
+      "example": "Her style is very *** and timeless."
+    },
+    {
+      "term": "a stiletto",
+      "type": "Noun",
+      "meaning_tr": "ince topuklu ayakkabı",
+      "meaning_en": "a high, thin heel on a woman's shoe",
+      "meaning_uk": "шпилька",
+      "meaning_es": "un tacón de aguja",
+      "example": "Walking in a *** requires a lot of practice."
+    },
+    {
+      "term": "a strap",
+      "type": "Noun",
+      "meaning_tr": "askı",
+      "meaning_en": "a strip of fabric used to fasten or hold something",
+      "meaning_uk": "ремінець",
+      "meaning_es": "una correa",
+      "example": "The *** of her bag broke while she was shopping."
+    },
+    {
+      "term": "a suede",
+      "type": "Noun",
+      "meaning_tr": "süet",
+      "meaning_en": "leather with a soft, fuzzy surface",
+      "meaning_uk": "замша",
+      "meaning_es": "un ante",
+      "example": "These *** boots are difficult to clean in the rain."
+    },
+    {
+      "term": "a suit",
+      "type": "Noun",
+      "meaning_tr": "takım elbise",
+      "meaning_en": "a set of clothes made of the same fabric",
+      "meaning_uk": "костюм",
+      "meaning_es": "un traje",
+      "example": "He bought a navy blue *** for his wedding."
+    },
+    {
+      "term": "a tailor",
+      "type": "Noun",
+      "meaning_tr": "terzi",
+      "meaning_en": "a person who makes or alters clothes",
+      "meaning_uk": "кравець",
+      "meaning_es": "un sastre",
+      "example": "The *** adjusted the waist of my trousers."
+    },
+    {
+      "term": "tailored",
+      "type": "Adjective",
+      "meaning_tr": "özel dikim",
+      "meaning_en": "fitted or made to measure",
+      "meaning_uk": "приталений",
+      "meaning_es": "hecho a medida",
+      "example": "She loves wearing *** jackets that fit perfectly."
+    },
+    {
+      "term": "a texture",
+      "type": "Noun",
+      "meaning_tr": "doku",
+      "meaning_en": "the feel or appearance of a fabric",
+      "meaning_uk": "текстура",
+      "meaning_es": "una textura",
+      "example": "The rough *** of the wool felt a bit itchy."
+    },
+    {
+      "term": "timeless",
+      "type": "Adjective",
+      "meaning_tr": "zamansız",
+      "meaning_en": "not affected by the passage of time or changes in fashion",
+      "meaning_uk": "позачасовий",
+      "meaning_es": "atemporal",
+      "example": "A little black dress is a *** fashion choice."
+    },
+    {
+      "term": "to try on",
+      "type": "Verb",
+      "meaning_tr": "denemek (giysi)",
+      "meaning_en": "to put on clothes to see if they fit",
+      "meaning_uk": "міряти",
+      "meaning_es": "probarse",
+      "example": "Can I *** this shirt in a smaller size?"
+    },
+    {
+      "term": "trendy",
+      "type": "Adjective",
+      "meaning_tr": "modaya uygun",
+      "meaning_en": "very fashionable",
+      "meaning_uk": "модний",
+      "meaning_es": "de moda",
+      "example": "She always keeps up with the most *** styles."
+    },
+    {
+      "term": "versatile",
+      "type": "Adjective",
+      "meaning_tr": "çok yönlü",
+      "meaning_en": "able to be used in many different ways",
+      "meaning_uk": "універсальний",
+      "meaning_es": "versátil",
+      "example": "A denim jacket is a very *** piece of clothing."
+    },
+    {
+      "term": "vintage",
+      "type": "Adjective",
+      "meaning_tr": "eski moda/vintage",
+      "meaning_en": "representing high quality from the past",
+      "meaning_uk": "вінтажний",
+      "meaning_es": "vintage",
+      "example": "She found a beautiful *** dress at the local flea market."
+    },
+    {
+      "term": "a wardrobe",
+      "type": "Noun",
+      "meaning_tr": "gardırop",
+      "meaning_en": "the collection of clothes a person owns",
+      "meaning_uk": "гардероб",
+      "meaning_es": "un armario",
+      "example": "She decided to update her entire *** for the new season."
+    }
+  ]
+}

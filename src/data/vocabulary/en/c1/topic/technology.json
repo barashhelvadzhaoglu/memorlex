@@ -1,0 +1,546 @@
+{
+  "title": "Technology & IT (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the algorithm",
+      "type": "Noun",
+      "example": "The search engine uses a complex *** to rank websites.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "a process or set of rules to be followed in calculations",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "algoritmo"
+    },
+    {
+      "term": "to automate",
+      "type": "Verb",
+      "example": "The factory plans to *** its production line next year.",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to convert a process to be operated by automatic equipment",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "automatizar"
+    },
+    {
+      "term": "the bandwidth",
+      "type": "Noun",
+      "example": "We need more *** to support the high-definition video streaming.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "the transmission capacity of a computer network",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "ancho de banda"
+    },
+    {
+      "term": "the biotechnology",
+      "type": "Noun",
+      "example": "Advances in *** have revolutionized modern medicine.",
+      "meaning_tr": "biyoteknoloji",
+      "meaning_en": "the exploitation of biological processes for industrial purposes",
+      "meaning_uk": "біотехнологія",
+      "meaning_es": "biotecnología"
+    },
+    {
+      "term": "the bug",
+      "type": "Noun",
+      "example": "The software developer spent all night fixing a critical ***.",
+      "meaning_tr": "yazılım hatası",
+      "meaning_en": "an error or flaw in a computer program",
+      "meaning_uk": "помилка в програмі",
+      "meaning_es": "error de software"
+    },
+    {
+      "term": "the cache",
+      "type": "Noun",
+      "example": "Clearing the browser *** often helps resolve loading issues.",
+      "meaning_tr": "önbellek",
+      "meaning_en": "a hardware or software component that stores data",
+      "meaning_uk": "кеш",
+      "meaning_es": "caché"
+    },
+    {
+      "term": "the cloud",
+      "type": "Noun",
+      "example": "Most of our company data is stored in the ***.",
+      "meaning_tr": "bulut",
+      "meaning_en": "a network of remote servers hosted on the internet",
+      "meaning_uk": "хмара",
+      "meaning_es": "nube"
+    },
+    {
+      "term": "to compile",
+      "type": "Verb",
+      "example": "The programmer needs to *** the source code before running it.",
+      "meaning_tr": "derlemek",
+      "meaning_en": "to convert source code into machine code",
+      "meaning_uk": "компілювати",
+      "meaning_es": "compilar"
+    },
+    {
+      "term": "the connectivity",
+      "type": "Noun",
+      "example": "The remote area suffers from poor internet ***.",
+      "meaning_tr": "bağlanabilirlik",
+      "meaning_en": "the state of being connected to a network",
+      "meaning_uk": "можливість підключення",
+      "meaning_es": "conectividad"
+    },
+    {
+      "term": "the cryptocurrency",
+      "type": "Noun",
+      "example": "Many investors are interested in trading ***.",
+      "meaning_tr": "kripto para",
+      "meaning_en": "a digital currency secured by cryptography",
+      "meaning_uk": "криптовалюта",
+      "meaning_es": "criptomoneda"
+    },
+    {
+      "term": "the cybersecurity",
+      "type": "Noun",
+      "example": "The bank has invested heavily in robust *** measures.",
+      "meaning_tr": "siber güvenlik",
+      "meaning_en": "the protection of computer systems from theft or damage",
+      "meaning_uk": "кібербезпека",
+      "meaning_es": "ciberseguridad"
+    },
+    {
+      "term": "the database",
+      "type": "Noun",
+      "example": "We need to update the customer *** regularly.",
+      "meaning_tr": "veritabanı",
+      "meaning_en": "a structured set of data held in a computer",
+      "meaning_uk": "база даних",
+      "meaning_es": "base de datos"
+    },
+    {
+      "term": "the decryption",
+      "type": "Noun",
+      "example": "The forensic team is working on the *** of the encrypted files.",
+      "meaning_tr": "şifre çözme",
+      "meaning_en": "the process of converting encoded data back into its original form",
+      "meaning_uk": "дешифрування",
+      "meaning_es": "descifrado"
+    },
+    {
+      "term": "the deployment",
+      "type": "Noun",
+      "example": "The final *** of the application will happen on Friday.",
+      "meaning_tr": "yayına alma",
+      "meaning_en": "the process of making a software system available for use",
+      "meaning_uk": "розгортання",
+      "meaning_es": "despliegue"
+    },
+    {
+      "term": "the digital",
+      "type": "Adjective",
+      "example": "We are living in a fast-paced *** era.",
+      "meaning_tr": "dijital",
+      "meaning_en": "involving or relating to the use of computer technology",
+      "meaning_uk": "цифровий",
+      "meaning_es": "digital"
+    },
+    {
+      "term": "the disruption",
+      "type": "Noun",
+      "example": "New technology often causes a market ***.",
+      "meaning_tr": "yıkıcı değişim",
+      "meaning_en": "a radical change in an industry due to innovation",
+      "meaning_uk": "руйнування",
+      "meaning_es": "disrupción"
+    },
+    {
+      "term": "the encryption",
+      "type": "Noun",
+      "example": "End-to-end *** ensures your messages remain private.",
+      "meaning_tr": "şifreleme",
+      "meaning_en": "the process of converting information into code",
+      "meaning_uk": "шифрування",
+      "meaning_es": "cifrado"
+    },
+    {
+      "term": "the firewall",
+      "type": "Noun",
+      "example": "The network *** prevents unauthorized access to our servers.",
+      "meaning_tr": "güvenlik duvarı",
+      "meaning_en": "a network security system that monitors and controls traffic",
+      "meaning_uk": "міжмережевий екран",
+      "meaning_es": "cortafuegos"
+    },
+    {
+      "term": "the firmware",
+      "type": "Noun",
+      "example": "You should update the router *** for better performance.",
+      "meaning_tr": "aygıt yazılımı",
+      "meaning_en": "permanent software programmed into a hardware device",
+      "meaning_uk": "прошивка",
+      "meaning_es": "firmware"
+    },
+    {
+      "term": "the framework",
+      "type": "Noun",
+      "example": "We are building the app using a popular web ***.",
+      "meaning_tr": "çerçeve/altyapı",
+      "meaning_en": "a basic structure underlying a system or concept",
+      "meaning_uk": "фреймворк",
+      "meaning_es": "marco de trabajo"
+    },
+    {
+      "term": "the hardware",
+      "type": "Noun",
+      "example": "The software is compatible with most modern ***.",
+      "meaning_tr": "donanım",
+      "meaning_en": "the physical components of a computer system",
+      "meaning_uk": "апаратне забезпечення",
+      "meaning_es": "hardware"
+    },
+    {
+      "term": "the infrastructure",
+      "type": "Noun",
+      "example": "The city is upgrading its digital ***.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "the underlying foundation of a system or organization",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "infraestructura"
+    },
+    {
+      "term": "the innovation",
+      "type": "Noun",
+      "example": "This company is known for its constant technical ***.",
+      "meaning_tr": "inovasyon",
+      "meaning_en": "the action or process of innovating",
+      "meaning_uk": "інновація",
+      "meaning_es": "innovación"
+    },
+    {
+      "term": "the integration",
+      "type": "Noun",
+      "example": "The *** of AI into the system improved efficiency.",
+      "meaning_tr": "entegrasyon",
+      "meaning_en": "the act of combining two or more things",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "integración"
+    },
+    {
+      "term": "the interface",
+      "type": "Noun",
+      "example": "The new user *** is much more intuitive.",
+      "meaning_tr": "arayüz",
+      "meaning_en": "a point where two systems or a user and a computer interact",
+      "meaning_uk": "інтерфейс",
+      "meaning_es": "interfaz"
+    },
+    {
+      "term": "the latency",
+      "type": "Noun",
+      "example": "High *** can make online gaming very frustrating.",
+      "meaning_tr": "gecikme süresi",
+      "meaning_en": "the delay before a transfer of data begins",
+      "meaning_uk": "затримка",
+      "meaning_es": "latencia"
+    },
+    {
+      "term": "the machine learning",
+      "type": "Noun",
+      "example": "Our system uses *** to predict customer behavior.",
+      "meaning_tr": "makine öğrenimi",
+      "meaning_en": "the use of data to train computers to learn",
+      "meaning_uk": "машинне навчання",
+      "meaning_es": "aprendizaje automático"
+    },
+    {
+      "term": "the mainframe",
+      "type": "Noun",
+      "example": "The bank still relies on a large *** for transactions.",
+      "meaning_tr": "ana bilgisayar",
+      "meaning_en": "a large, powerful computer capable of processing bulk data",
+      "meaning_uk": "мейнфрейм",
+      "meaning_es": "computadora central"
+    },
+    {
+      "term": "the malware",
+      "type": "Noun",
+      "example": "The computer was infected with *** after clicking the link.",
+      "meaning_tr": "kötü amaçlı yazılım",
+      "meaning_en": "software that is intended to damage or disable computers",
+      "meaning_uk": "шкідливе програмне забезпечення",
+      "meaning_es": "software malicioso"
+    },
+    {
+      "term": "the metadata",
+      "type": "Noun",
+      "example": "The photo contains *** about the location and date.",
+      "meaning_tr": "üstveri",
+      "meaning_en": "data that provides information about other data",
+      "meaning_uk": "метадані",
+      "meaning_es": "metadatos"
+    },
+    {
+      "term": "the migration",
+      "type": "Noun",
+      "example": "We are planning a server *** to the cloud.",
+      "meaning_tr": "göç/taşıma",
+      "meaning_en": "the process of moving data or software to a new environment",
+      "meaning_uk": "міграція",
+      "meaning_es": "migración"
+    },
+    {
+      "term": "the network",
+      "type": "Noun",
+      "example": "The company *** is down due to a power failure.",
+      "meaning_tr": "ağ",
+      "meaning_en": "a group of interconnected computers",
+      "meaning_uk": "мережа",
+      "meaning_es": "red"
+    },
+    {
+      "term": "the open source",
+      "type": "Adjective",
+      "example": "We prefer using *** software for its flexibility.",
+      "meaning_tr": "açık kaynak",
+      "meaning_en": "software with source code that anyone can inspect",
+      "meaning_uk": "відкритий вихідний код",
+      "meaning_es": "código abierto"
+    },
+    {
+      "term": "the patch",
+      "type": "Noun",
+      "example": "The developer released a *** to fix the security vulnerability.",
+      "meaning_tr": "yama",
+      "meaning_en": "a piece of software designed to fix a problem",
+      "meaning_uk": "патч",
+      "meaning_es": "parche"
+    },
+    {
+      "term": "the platform",
+      "type": "Noun",
+      "example": "The new streaming *** has gained millions of users.",
+      "meaning_tr": "platform",
+      "meaning_en": "a computer system or software environment",
+      "meaning_uk": "платформа",
+      "meaning_es": "plataforma"
+    },
+    {
+      "term": "the prototype",
+      "type": "Noun",
+      "example": "We have developed a working *** of the device.",
+      "meaning_tr": "prototip",
+      "meaning_en": "a first or preliminary model of something",
+      "meaning_uk": "прототип",
+      "meaning_es": "prototipo"
+    },
+    {
+      "term": "the scalability",
+      "type": "Noun",
+      "example": "The system's *** allows it to handle millions of requests.",
+      "meaning_tr": "ölçeklenebilirlik",
+      "meaning_en": "the ability to grow and manage increased demand",
+      "meaning_uk": "масштабованість",
+      "meaning_es": "escalabilidad"
+    },
+    {
+      "term": "the server",
+      "type": "Noun",
+      "example": "The web *** crashed due to too much traffic.",
+      "meaning_tr": "sunucu",
+      "meaning_en": "a computer that provides data to other computers",
+      "meaning_uk": "сервер",
+      "meaning_es": "servidor"
+    },
+    {
+      "term": "the software",
+      "type": "Noun",
+      "example": "We need to install the latest *** update.",
+      "meaning_tr": "yazılım",
+      "meaning_en": "the programs used by a computer",
+      "meaning_uk": "програмне забезпечення",
+      "meaning_es": "software"
+    },
+    {
+      "term": "the storage",
+      "type": "Noun",
+      "example": "The device has 512GB of internal ***.",
+      "meaning_tr": "depolama",
+      "meaning_en": "the capacity to hold data",
+      "meaning_uk": "сховище",
+      "meaning_es": "almacenamiento"
+    },
+    {
+      "term": "the syntax",
+      "type": "Noun",
+      "example": "There is a *** error in your code line.",
+      "meaning_tr": "sözdizimi",
+      "meaning_en": "the set of rules that defines the structure of a language",
+      "meaning_uk": "синтаксис",
+      "meaning_es": "sintaxis"
+    },
+    {
+      "term": "the throughput",
+      "type": "Noun",
+      "example": "The system ensures high *** for data processing.",
+      "meaning_tr": "veri işleme kapasitesi",
+      "meaning_en": "the amount of material or items passing through a system",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "rendimiento"
+    },
+    {
+      "term": "the uptime",
+      "type": "Noun",
+      "example": "We guarantee 99.9% *** for our hosting service.",
+      "meaning_tr": "çalışma süresi",
+      "meaning_en": "the time during which a machine is in operation",
+      "meaning_uk": "час безперебійної роботи",
+      "meaning_es": "tiempo de actividad"
+    },
+    {
+      "term": "the user",
+      "type": "Noun",
+      "example": "The *** interface is designed to be simple.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "a person who uses a computer or service",
+      "meaning_uk": "користувач",
+      "meaning_es": "usuario"
+    },
+    {
+      "term": "the virtualization",
+      "type": "Noun",
+      "example": "Using *** allows us to run multiple operating systems.",
+      "meaning_tr": "sanallaştırma",
+      "meaning_en": "the creation of a virtual version of something",
+      "meaning_uk": "віртуалізація",
+      "meaning_es": "virtualización"
+    },
+    {
+      "term": "the vulnerability",
+      "type": "Noun",
+      "example": "The security audit found a critical *** in the system.",
+      "meaning_tr": "güvenlik açığı",
+      "meaning_en": "a weakness in a system that can be exploited",
+      "meaning_uk": "вразливість",
+      "meaning_es": "vulnerabilidad"
+    },
+    {
+      "term": "the wearable",
+      "type": "Noun",
+      "example": "The new *** tracks your heart rate and sleep.",
+      "meaning_tr": "giyilebilir teknoloji",
+      "meaning_en": "an electronic device capable of being worn",
+      "meaning_uk": "носимий пристрій",
+      "meaning_es": "dispositivo vestible"
+    },
+    {
+      "term": "the web",
+      "type": "Noun",
+      "example": "Most information is now found on the ***.",
+      "meaning_tr": "web",
+      "meaning_en": "a system of interconnected documents",
+      "meaning_uk": "веб",
+      "meaning_es": "web"
+    },
+    {
+      "term": "the widget",
+      "type": "Noun",
+      "example": "You can add a weather *** to your home screen.",
+      "meaning_tr": "araç takımı/widget",
+      "meaning_en": "a small application or component in a user interface",
+      "meaning_uk": "віджет",
+      "meaning_es": "widget"
+    },
+    {
+      "term": "to debug",
+      "type": "Verb",
+      "example": "It took hours to *** the complex script.",
+      "meaning_tr": "hata ayıklamak",
+      "meaning_en": "to identify and remove errors from computer hardware or software",
+      "meaning_uk": "налагоджувати",
+      "meaning_es": "depurar"
+    },
+    {
+      "term": "to encrypt",
+      "type": "Verb",
+      "example": "Make sure to *** all sensitive files before sending them.",
+      "meaning_tr": "şifrelemek",
+      "meaning_en": "to convert data into a code to prevent unauthorized access",
+      "meaning_uk": "шифрувати",
+      "meaning_es": "cifrar"
+    },
+    {
+      "term": "to execute",
+      "type": "Verb",
+      "example": "The system will *** the command once you press enter.",
+      "meaning_tr": "çalıştırmak/yürütmek",
+      "meaning_en": "to carry out a command or program",
+      "meaning_uk": "виконувати",
+      "meaning_es": "ejecutar"
+    },
+    {
+      "term": "to implement",
+      "type": "Verb",
+      "example": "We will *** the new policy next month.",
+      "meaning_tr": "uygulamak",
+      "meaning_en": "to put a decision or plan into effect",
+      "meaning_uk": "впроваджувати",
+      "meaning_es": "implementar"
+    },
+    {
+      "term": "to iterate",
+      "type": "Verb",
+      "example": "We need to *** on the design until it works perfectly.",
+      "meaning_tr": "yinelemek",
+      "meaning_en": "to perform a process repeatedly",
+      "meaning_uk": "повторювати",
+      "meaning_es": "iterar"
+    },
+    {
+      "term": "to optimize",
+      "type": "Verb",
+      "example": "We need to *** the code for better performance.",
+      "meaning_tr": "optimize etmek",
+      "meaning_en": "to make the best or most effective use of a situation",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "optimizar"
+    },
+    {
+      "term": "to reboot",
+      "type": "Verb",
+      "example": "Try to *** your computer if it freezes.",
+      "meaning_tr": "yeniden başlatmak",
+      "meaning_en": "to restart a computer",
+      "meaning_uk": "перезавантажити",
+      "meaning_es": "reiniciar"
+    },
+    {
+      "term": "to sync",
+      "type": "Verb",
+      "example": "I need to *** my phone with my laptop.",
+      "meaning_tr": "eşitlemek",
+      "meaning_en": "to synchronize data between devices",
+      "meaning_uk": "синхронізувати",
+      "meaning_es": "sincronizar"
+    },
+    {
+      "term": "the agile",
+      "type": "Adjective",
+      "example": "The team uses an *** methodology for development.",
+      "meaning_tr": "çevik",
+      "meaning_en": "relating to a method of project management",
+      "meaning_uk": "гнучкий",
+      "meaning_es": "ágil"
+    },
+    {
+      "term": "the autonomous",
+      "type": "Adjective",
+      "example": "The company is testing an *** delivery vehicle.",
+      "meaning_tr": "otonom",
+      "meaning_en": "having the freedom to act independently",
+      "meaning_uk": "автономний",
+      "meaning_es": "autónomo"
+    },
+    {
+      "term": "the legacy",
+      "type": "Adjective",
+      "example": "We need to replace the outdated *** systems.",
+      "meaning_tr": "eski (sistem)",
+      "meaning_en": "relating to old computer systems that are still in use",
+      "meaning_uk": "застарілий",
+      "meaning_es": "heredado"
+    }
+  ]
+}

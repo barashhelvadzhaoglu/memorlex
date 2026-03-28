@@ -1,0 +1,546 @@
+{
+  "title": "Finanzen & Wirtschaft (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Konjunktur",
+      "type": "Noun",
+      "example": "Die allgemeine *** hat sich im letzten Quartal deutlich verbessert.",
+      "meaning_tr": "ekonomik konjonktür",
+      "meaning_en": "economic trend",
+      "meaning_uk": "економічна кон'юнктура",
+      "meaning_es": "coyuntura económica"
+    },
+    {
+      "term": "die Inflation",
+      "type": "Noun",
+      "example": "Die hohe *** schmälert die Kaufkraft der Verbraucher.",
+      "meaning_tr": "enflasyon",
+      "meaning_en": "inflation",
+      "meaning_uk": "інфляція",
+      "meaning_es": "inflación"
+    },
+    {
+      "term": "die Rezession",
+      "type": "Noun",
+      "example": "Das Land befindet sich offiziell in einer schweren ***.",
+      "meaning_tr": "resesyon",
+      "meaning_en": "recession",
+      "meaning_uk": "рецесія",
+      "meaning_es": "recesión"
+    },
+    {
+      "term": "die Rendite",
+      "type": "Noun",
+      "example": "Anleger suchen nach Anlagen mit einer attraktiven ***.",
+      "meaning_tr": "getiri",
+      "meaning_en": "yield",
+      "meaning_uk": "дохідність",
+      "meaning_es": "rentabilidad"
+    },
+    {
+      "term": "die Insolvenz",
+      "type": "Noun",
+      "example": "Das Unternehmen musste wegen Zahlungsunfähigkeit *** anmelden.",
+      "meaning_tr": "iflas",
+      "meaning_en": "insolvency",
+      "meaning_uk": "банкрутство",
+      "meaning_es": "insolvencia"
+    },
+    {
+      "term": "die Bilanz",
+      "type": "Noun",
+      "example": "Der Vorstand stellte heute die aktuelle *** vor.",
+      "meaning_tr": "bilanço",
+      "meaning_en": "balance sheet",
+      "meaning_uk": "баланс",
+      "meaning_es": "balance"
+    },
+    {
+      "term": "die Liquidität",
+      "type": "Noun",
+      "example": "Die *** des Unternehmens ist derzeit nicht gefährdet.",
+      "meaning_tr": "likidite",
+      "meaning_en": "liquidity",
+      "meaning_uk": "ліквідність",
+      "meaning_es": "liquidez"
+    },
+    {
+      "term": "das Defizit",
+      "type": "Noun",
+      "example": "Der Staatshaushalt weist ein beachtliches *** auf.",
+      "meaning_tr": "açık",
+      "meaning_en": "deficit",
+      "meaning_uk": "дефіцит",
+      "meaning_es": "déficit"
+    },
+    {
+      "term": "der Zins",
+      "type": "Noun",
+      "example": "Die Zentralbank hat den *** erneut angehoben.",
+      "meaning_tr": "faiz",
+      "meaning_en": "interest",
+      "meaning_uk": "відсоток",
+      "meaning_es": "interés"
+    },
+    {
+      "term": "die Aktie",
+      "type": "Noun",
+      "example": "Der Kurs dieser *** ist heute stark gefallen.",
+      "meaning_tr": "hisse senedi",
+      "meaning_en": "stock",
+      "meaning_uk": "акція",
+      "meaning_es": "acción"
+    },
+    {
+      "term": "das Kapital",
+      "type": "Noun",
+      "example": "Für dieses Projekt wird viel frisches *** benötigt.",
+      "meaning_tr": "sermaye",
+      "meaning_en": "capital",
+      "meaning_uk": "капітал",
+      "meaning_es": "capital"
+    },
+    {
+      "term": "die Dividende",
+      "type": "Noun",
+      "example": "Die Aktionäre freuen sich über eine hohe ***.",
+      "meaning_tr": "temettü",
+      "meaning_en": "dividend",
+      "meaning_uk": "дивіденд",
+      "meaning_es": "dividendo"
+    },
+    {
+      "term": "der Marktanteil",
+      "type": "Noun",
+      "example": "Das Ziel ist es, den *** weiter auszubauen.",
+      "meaning_tr": "pazar payı",
+      "meaning_en": "market share",
+      "meaning_uk": "частка ринку",
+      "meaning_es": "cuota de mercado"
+    },
+    {
+      "term": "die Akquisition",
+      "type": "Noun",
+      "example": "Durch die *** eines Konkurrenten wächst der Konzern schnell.",
+      "meaning_tr": "satın alma",
+      "meaning_en": "acquisition",
+      "meaning_uk": "придбання",
+      "meaning_es": "adquisición"
+    },
+    {
+      "term": "der Umsatz",
+      "type": "Noun",
+      "example": "Der *** ist im Vergleich zum Vorjahr gestiegen.",
+      "meaning_tr": "ciro",
+      "meaning_en": "turnover",
+      "meaning_uk": "товарообіг",
+      "meaning_es": "volumen de ventas"
+    },
+    {
+      "term": "der Gewinn",
+      "type": "Noun",
+      "example": "Das Unternehmen konnte den *** deutlich steigern.",
+      "meaning_tr": "kâr",
+      "meaning_en": "profit",
+      "meaning_uk": "прибуток",
+      "meaning_es": "beneficio"
+    },
+    {
+      "term": "die Steuer",
+      "type": "Noun",
+      "example": "Die ***belastung für kleine Unternehmen ist zu hoch.",
+      "meaning_tr": "vergi",
+      "meaning_en": "tax",
+      "meaning_uk": "податок",
+      "meaning_es": "impuesto"
+    },
+    {
+      "term": "der Wettbewerb",
+      "type": "Noun",
+      "example": "Der internationale *** wird immer härter.",
+      "meaning_tr": "rekabet",
+      "meaning_en": "competition",
+      "meaning_uk": "конкуренція",
+      "meaning_es": "competencia"
+    },
+    {
+      "term": "die Fusion",
+      "type": "Noun",
+      "example": "Die geplante *** beider Firmen wurde von den Behörden geprüft.",
+      "meaning_tr": "birleşme",
+      "meaning_en": "merger",
+      "meaning_uk": "злиття",
+      "meaning_es": "fusión"
+    },
+    {
+      "term": "das Bruttoinlandsprodukt",
+      "type": "Noun",
+      "example": "Das *** ist ein wichtiger Indikator für wirtschaftliches Wachstum.",
+      "meaning_tr": "gayrisafi yurtiçi hasıla",
+      "meaning_en": "GDP",
+      "meaning_uk": "ВВП",
+      "meaning_es": "PIB"
+    },
+    {
+      "term": "investieren",
+      "type": "Verb",
+      "example": "Wir müssen mehr in neue Technologien ***.",
+      "meaning_tr": "yatırım yapmak",
+      "meaning_en": "to invest",
+      "meaning_uk": "інвестувати",
+      "meaning_es": "invertir"
+    },
+    {
+      "term": "expandieren",
+      "type": "Verb",
+      "example": "Das Unternehmen plant, in den asiatischen Markt zu ***.",
+      "meaning_tr": "genişlemek",
+      "meaning_en": "to expand",
+      "meaning_uk": "розширюватися",
+      "meaning_es": "expandirse"
+    },
+    {
+      "term": "akquirieren",
+      "type": "Verb",
+      "example": "Die Firma versucht, neue Kunden zu ***.",
+      "meaning_tr": "kazanmak/satın almak",
+      "meaning_en": "to acquire",
+      "meaning_uk": "здобувати",
+      "meaning_es": "adquirir"
+    },
+    {
+      "term": "subventionieren",
+      "type": "Verb",
+      "example": "Der Staat sollte umweltfreundliche Energien ***.",
+      "meaning_tr": "desteklemek/sübvanse etmek",
+      "meaning_en": "to subsidize",
+      "meaning_uk": "субсидувати",
+      "meaning_es": "subvencionar"
+    },
+    {
+      "term": "rationalisieren",
+      "type": "Verb",
+      "example": "Um Kosten zu sparen, muss die Produktion *** werden.",
+      "meaning_tr": "rasyonalize etmek",
+      "meaning_en": "to streamline",
+      "meaning_uk": "раціоналізувати",
+      "meaning_es": "racionalizar"
+    },
+    {
+      "term": "bilanzieren",
+      "type": "Verb",
+      "example": "Die Verluste wurden korrekt in der Jahresrechnung ***.",
+      "meaning_tr": "bilançoya geçirmek",
+      "meaning_en": "to account for",
+      "meaning_uk": "вносити в баланс",
+      "meaning_es": "contabilizar"
+    },
+    {
+      "term": "veräußern",
+      "type": "Verb",
+      "example": "Der Konzern möchte seine Tochtergesellschaft ***.",
+      "meaning_tr": "elden çıkarmak/satmak",
+      "meaning_en": "to sell off",
+      "meaning_uk": "продавати",
+      "meaning_es": "vender"
+    },
+    {
+      "term": "konkurrieren",
+      "type": "Verb",
+      "example": "Wir *** weltweit mit starken Anbietern.",
+      "meaning_tr": "rekabet etmek",
+      "meaning_en": "to compete",
+      "meaning_uk": "конкурувати",
+      "meaning_es": "competir"
+    },
+    {
+      "term": "ausschütten",
+      "type": "Verb",
+      "example": "Die Aktiengesellschaft wird eine Dividende ***.",
+      "meaning_tr": "dağıtmak",
+      "meaning_en": "to distribute",
+      "meaning_uk": "виплачувати",
+      "meaning_es": "distribuir"
+    },
+    {
+      "term": "konsolidieren",
+      "type": "Verb",
+      "example": "Nach der schnellen Expansion muss sich die Firma nun ***.",
+      "meaning_tr": "pekiştirmek/konsolide etmek",
+      "meaning_en": "to consolidate",
+      "meaning_uk": "консолідувати",
+      "meaning_es": "consolidar"
+    },
+    {
+      "term": "lukrativ",
+      "type": "Adjective",
+      "example": "Das ist ein sehr *** Geschäft für uns.",
+      "meaning_tr": "kârlı",
+      "meaning_en": "lucrative",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "lucrativo"
+    },
+    {
+      "term": "insolvent",
+      "type": "Adjective",
+      "example": "Die Firma ist nach dem Skandal *** geworden.",
+      "meaning_tr": "iflas etmiş",
+      "meaning_en": "insolvent",
+      "meaning_uk": "банкрут",
+      "meaning_es": "insolvente"
+    },
+    {
+      "term": "inflationär",
+      "type": "Adjective",
+      "example": "Die Preisentwicklung wirkt sich *** aus.",
+      "meaning_tr": "enflasyonist",
+      "meaning_en": "inflationary",
+      "meaning_uk": "інфляційний",
+      "meaning_es": "inflacionario"
+    },
+    {
+      "term": "wettbewerbsfähig",
+      "type": "Adjective",
+      "example": "Unsere Produkte sind auf dem Weltmarkt sehr ***.",
+      "meaning_tr": "rekabetçi",
+      "meaning_en": "competitive",
+      "meaning_uk": "конкурентоспроможний",
+      "meaning_es": "competitivo"
+    },
+    {
+      "term": "defizitär",
+      "type": "Adjective",
+      "example": "Die Sparte arbeitet seit Jahren ***.",
+      "meaning_tr": "zararda/açık veren",
+      "meaning_en": "loss-making",
+      "meaning_uk": "збитковий",
+      "meaning_es": "deficitario"
+    },
+    {
+      "term": "liquide",
+      "type": "Adjective",
+      "example": "Das Unternehmen ist derzeit ausreichend ***.",
+      "meaning_tr": "likit/nakit durumu iyi",
+      "meaning_en": "liquid",
+      "meaning_uk": "ліквідний",
+      "meaning_es": "líquido"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir setzen auf eine *** Wachstumsstrategie.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "prognostiziert",
+      "type": "Adjective",
+      "example": "Das *** Wachstum liegt unter den Erwartungen.",
+      "meaning_tr": "öngörülen",
+      "meaning_en": "forecasted",
+      "meaning_uk": "прогнозований",
+      "meaning_es": "pronosticado"
+    },
+    {
+      "term": "fiskalisch",
+      "type": "Adjective",
+      "example": "Es gibt neue *** Maßnahmen der Regierung.",
+      "meaning_tr": "mali",
+      "meaning_en": "fiscal",
+      "meaning_uk": "фіскальний",
+      "meaning_es": "fiscal"
+    },
+    {
+      "term": "monetär",
+      "type": "Adjective",
+      "example": "Die *** Politik der Zentralbank beeinflusst alle Märkte.",
+      "meaning_tr": "parasal",
+      "meaning_en": "monetary",
+      "meaning_uk": "монетарний",
+      "meaning_es": "monetario"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "Es gibt noch Klärungsbedarf *** der Kosten.",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "infolge",
+      "type": "Preposition",
+      "example": "Die Preise stiegen *** der hohen Nachfrage.",
+      "meaning_tr": "sonucunda",
+      "meaning_en": "as a result of",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "a consecuencia de"
+    },
+    {
+      "term": "zwecks",
+      "type": "Preposition",
+      "example": "Wir treffen uns *** einer Besprechung der Quartalszahlen.",
+      "meaning_tr": "amacıyla",
+      "meaning_en": "for the purpose of",
+      "meaning_uk": "з метою",
+      "meaning_es": "a efectos de"
+    },
+    {
+      "term": "angesichts",
+      "type": "Preposition",
+      "example": "*** der aktuellen Krise müssen wir vorsichtig sein.",
+      "meaning_tr": "göz önüne alındığında",
+      "meaning_en": "in view of",
+      "meaning_uk": "зважаючи на",
+      "meaning_es": "ante"
+    },
+    {
+      "term": "mithilfe",
+      "type": "Preposition",
+      "example": "*** einer neuen Software optimieren wir die Logistik.",
+      "meaning_tr": "yardımıyla",
+      "meaning_en": "with the help of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "con la ayuda de"
+    },
+    {
+      "term": "zudem",
+      "type": "Adverb",
+      "example": "Der Umsatz stieg und *** sanken die Kosten.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "moreover",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "dennoch",
+      "type": "Adverb",
+      "example": "Die Lage ist schwierig, *** bleiben wir optimistisch.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "проте",
+      "meaning_es": "no obstante"
+    },
+    {
+      "term": "folglich",
+      "type": "Adverb",
+      "example": "Die Nachfrage sank, *** mussten wir die Produktion drosseln.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "hingegen",
+      "type": "Adverb",
+      "example": "Das erste Quartal war stark, das zweite *** eher schwach.",
+      "meaning_tr": "aksine/diğer taraftan",
+      "meaning_en": "on the other hand",
+      "meaning_uk": "натомість",
+      "meaning_es": "en cambio"
+    },
+    {
+      "term": "mittlerweile",
+      "type": "Adverb",
+      "example": "*** hat sich die wirtschaftliche Lage stabilisiert.",
+      "meaning_tr": "bu arada/şimdiye kadar",
+      "meaning_en": "meanwhile",
+      "meaning_uk": "тим часом",
+      "meaning_es": "mientras tanto"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "*** wir expandieren, achten wir auf die Kosten.",
+      "meaning_tr": "-iken",
+      "meaning_en": "while",
+      "meaning_uk": "під час того як",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "indem",
+      "type": "Conjunction",
+      "example": "Man kann Kosten sparen, *** man Prozesse automatisiert.",
+      "meaning_tr": "-erek/-arak",
+      "meaning_en": "by (doing)",
+      "meaning_uk": "шляхом",
+      "meaning_es": "al + infinitivo"
+    },
+    {
+      "term": "sofern",
+      "type": "Conjunction",
+      "example": "*** die Zinsen stabil bleiben, können wir investieren.",
+      "meaning_tr": "eğer/koşuluyla",
+      "meaning_en": "provided that",
+      "meaning_uk": "за умови якщо",
+      "meaning_es": "siempre que"
+    },
+    {
+      "term": "obgleich",
+      "type": "Conjunction",
+      "example": "*** die Konkurrenz groß ist, wachsen wir weiter.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "insofern",
+      "type": "Conjunction",
+      "example": "Die Strategie ist erfolgreich, *** sie konsequent umgesetzt wird.",
+      "meaning_tr": "bu bağlamda/o ölçüde",
+      "meaning_en": "in so far as",
+      "meaning_uk": "остільки",
+      "meaning_es": "en la medida en que"
+    },
+    {
+      "term": "die Marktsättigung",
+      "type": "Noun",
+      "example": "Wir haben bei diesem Produkt fast die *** erreicht.",
+      "meaning_tr": "pazar doygunluğu",
+      "meaning_en": "market saturation",
+      "meaning_uk": "насичення ринку",
+      "meaning_es": "saturación del mercado"
+    },
+    {
+      "term": "die Bonität",
+      "type": "Noun",
+      "example": "Die Bank prüft vor der Kreditvergabe die *** des Kunden.",
+      "meaning_tr": "kredi itibarı",
+      "meaning_en": "creditworthiness",
+      "meaning_uk": "кредитоспроможність",
+      "meaning_es": "solvencia"
+    },
+    {
+      "term": "die Diversifikation",
+      "type": "Noun",
+      "example": "Eine gute *** schützt das Portfolio vor Risiken.",
+      "meaning_tr": "çeşitlendirme",
+      "meaning_en": "diversification",
+      "meaning_uk": "диверсифікація",
+      "meaning_es": "diversificación"
+    },
+    {
+      "term": "die Volatilität",
+      "type": "Noun",
+      "example": "An den Börsen herrscht derzeit eine hohe ***.",
+      "meaning_tr": "oynaklık",
+      "meaning_en": "volatility",
+      "meaning_uk": "волатильність",
+      "meaning_es": "volatilidad"
+    },
+    {
+      "term": "die Wertschöpfung",
+      "type": "Noun",
+      "example": "Die *** findet hauptsächlich in unserem Stammwerk statt.",
+      "meaning_tr": "katma değer",
+      "meaning_en": "value added",
+      "meaning_uk": "додана вартість",
+      "meaning_es": "valor añadido"
+    }
+  ]
+}

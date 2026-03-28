@@ -1,0 +1,411 @@
+{
+  "title": "Technology & IT (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a cloud",
+      "type": "Noun",
+      "example": "All your photos are stored in *** so you can access them anywhere.",
+      "meaning_tr": "bulut",
+      "meaning_en": "a network of remote servers hosted on the internet",
+      "meaning_uk": "хмара",
+      "meaning_es": "una nube"
+    },
+    {
+      "term": "to upgrade",
+      "type": "Verb",
+      "example": "You should *** your software to the latest version for better security.",
+      "meaning_tr": "yükseltmek",
+      "meaning_en": "to improve or replace with a better version",
+      "meaning_uk": "оновити",
+      "meaning_es": "actualizar"
+    },
+    {
+      "term": "wireless",
+      "type": "Adjective",
+      "example": "The hotel provides free *** internet access in all rooms.",
+      "meaning_tr": "kablosuz",
+      "meaning_en": "using radio signals rather than wires to connect",
+      "meaning_uk": "бездротовий",
+      "meaning_es": "inalámbrico"
+    },
+    {
+      "term": "a firewall",
+      "type": "Noun",
+      "example": "The company installed a strong *** to prevent unauthorized access.",
+      "meaning_tr": "güvenlik duvarı",
+      "meaning_en": "a security system that monitors and controls network traffic",
+      "meaning_uk": "міжмережевий екран",
+      "meaning_es": "un cortafuegos"
+    },
+    {
+      "term": "to encrypt",
+      "type": "Verb",
+      "example": "It is important to *** sensitive data before sending it over email.",
+      "meaning_tr": "şifrelemek",
+      "meaning_en": "to convert information into a code to prevent unauthorized access",
+      "meaning_uk": "зашифрувати",
+      "meaning_es": "encriptar"
+    },
+    {
+      "term": "a browser",
+      "type": "Noun",
+      "example": "Which *** do you prefer for surfing the internet?",
+      "meaning_tr": "tarayıcı",
+      "meaning_en": "a program used to view web pages",
+      "meaning_uk": "браузер",
+      "meaning_es": "un navegador"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "example": "We are living in a fast-paced *** age.",
+      "meaning_tr": "dijital",
+      "meaning_en": "involving or relating to the use of computer technology",
+      "meaning_uk": "цифровий",
+      "meaning_es": "digital"
+    },
+    {
+      "term": "to reboot",
+      "type": "Verb",
+      "example": "If the computer freezes, try to *** the system.",
+      "meaning_tr": "yeniden başlatmak",
+      "meaning_en": "to turn a computer off and on again",
+      "meaning_uk": "перезавантажити",
+      "meaning_es": "reiniciar"
+    },
+    {
+      "term": "a bandwidth",
+      "type": "Noun",
+      "example": "Streaming high-definition video requires a high ***.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "the capacity to transfer data over a network",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "un ancho de banda"
+    },
+    {
+      "term": "a database",
+      "type": "Noun",
+      "example": "The company keeps all customer information in a central ***.",
+      "meaning_tr": "veritabanı",
+      "meaning_en": "a structured set of data held in a computer",
+      "meaning_uk": "база даних",
+      "meaning_es": "una base de datos"
+    },
+    {
+      "term": "user-friendly",
+      "type": "Adjective",
+      "example": "The new interface is very *** and easy to navigate.",
+      "meaning_tr": "kullanıcı dostu",
+      "meaning_en": "easy to use or understand",
+      "meaning_uk": "зручний для користувача",
+      "meaning_es": "fácil de usar"
+    },
+    {
+      "term": "to back up",
+      "type": "Verb",
+      "example": "Don't forget to *** your files to an external hard drive.",
+      "meaning_tr": "yedeklemek",
+      "meaning_en": "to make a copy of information stored on a computer",
+      "meaning_uk": "зробити резервну копію",
+      "meaning_es": "hacer una copia de seguridad"
+    },
+    {
+      "term": "a hardware",
+      "type": "Noun",
+      "example": "The problem might be with the *** rather than the software.",
+      "meaning_tr": "donanım",
+      "meaning_en": "the physical components of a computer system",
+      "meaning_uk": "апаратне забезпечення",
+      "meaning_es": "un hardware"
+    },
+    {
+      "term": "a software",
+      "type": "Noun",
+      "example": "This editing *** is very popular among graphic designers.",
+      "meaning_tr": "yazılım",
+      "meaning_en": "the programs used by a computer",
+      "meaning_uk": "програмне забезпечення",
+      "meaning_es": "un software"
+    },
+    {
+      "term": "a glitch",
+      "type": "Noun",
+      "example": "There was a minor *** in the system that caused a brief delay.",
+      "meaning_tr": "aksaklık",
+      "meaning_en": "a sudden, usually temporary, malfunction",
+      "meaning_uk": "збій",
+      "meaning_es": "un fallo"
+    },
+    {
+      "term": "a cyberattack",
+      "type": "Noun",
+      "example": "The bank reported a major *** on its servers yesterday.",
+      "meaning_tr": "siber saldırı",
+      "meaning_en": "an attempt to damage or gain unauthorized access to a computer system",
+      "meaning_uk": "кібератака",
+      "meaning_es": "un ciberataque"
+    },
+    {
+      "term": "to crash",
+      "type": "Verb",
+      "example": "My laptop tends to *** when I open too many tabs.",
+      "meaning_tr": "çökmek",
+      "meaning_en": "to fail suddenly and stop working",
+      "meaning_uk": "вийти з ладу",
+      "meaning_es": "bloquearse"
+    },
+    {
+      "term": "a gadget",
+      "type": "Noun",
+      "example": "He loves buying every new electronic *** on the market.",
+      "meaning_tr": "alet",
+      "meaning_en": "a small mechanical or electronic device",
+      "meaning_uk": "гаджет",
+      "meaning_es": "un aparato"
+    },
+    {
+      "term": "to sync",
+      "type": "Verb",
+      "example": "I need to *** my phone with my laptop to transfer photos.",
+      "meaning_tr": "eşitlemek",
+      "meaning_en": "to make two things happen at the same time or match",
+      "meaning_uk": "синхронізувати",
+      "meaning_es": "sincronizar"
+    },
+    {
+      "term": "a password",
+      "type": "Noun",
+      "example": "Make sure you choose a strong *** for your account.",
+      "meaning_tr": "şifre",
+      "meaning_en": "a secret word or phrase used to gain access",
+      "meaning_uk": "пароль",
+      "meaning_es": "una contraseña"
+    },
+    {
+      "term": "a network",
+      "type": "Noun",
+      "example": "The office has a secure local *** for all employees.",
+      "meaning_tr": "ağ",
+      "meaning_en": "a group of interconnected computers",
+      "meaning_uk": "мережа",
+      "meaning_es": "una red"
+    },
+    {
+      "term": "to upload",
+      "type": "Verb",
+      "example": "It takes a few minutes to *** the video to the platform.",
+      "meaning_tr": "yüklemek",
+      "meaning_en": "to move data to a larger computer system",
+      "meaning_uk": "завантажити (на сервер)",
+      "meaning_es": "subir"
+    },
+    {
+      "term": "to download",
+      "type": "Verb",
+      "example": "You can *** the manual from our website.",
+      "meaning_tr": "indirmek",
+      "meaning_en": "to move data from a larger system to your computer",
+      "meaning_uk": "завантажити (з сервера)",
+      "meaning_es": "descargar"
+    },
+    {
+      "term": "a bug",
+      "type": "Noun",
+      "example": "The developers are working to fix a *** in the app.",
+      "meaning_tr": "hata",
+      "meaning_en": "an error or flaw in a computer program",
+      "meaning_uk": "помилка (баг)",
+      "meaning_es": "un error"
+    },
+    {
+      "term": "a platform",
+      "type": "Noun",
+      "example": "This social media *** is very popular among teenagers.",
+      "meaning_tr": "platform",
+      "meaning_en": "a system that allows software to run",
+      "meaning_uk": "платформа",
+      "meaning_es": "una plataforma"
+    },
+    {
+      "term": "to browse",
+      "type": "Verb",
+      "example": "I spent an hour just *** the internet looking for news.",
+      "meaning_tr": "göz atmak",
+      "meaning_en": "to look through or scan information on the web",
+      "meaning_uk": "переглядати",
+      "meaning_es": "navegar"
+    },
+    {
+      "term": "a server",
+      "type": "Noun",
+      "example": "The website went down because the *** was overloaded.",
+      "meaning_tr": "sunucu",
+      "meaning_en": "a powerful computer that provides services to other computers",
+      "meaning_uk": "сервер",
+      "meaning_es": "un servidor"
+    },
+    {
+      "term": "an interface",
+      "type": "Noun",
+      "example": "The new design features a much simpler user ***.",
+      "meaning_tr": "arayüz",
+      "meaning_en": "the point where a user interacts with a computer",
+      "meaning_uk": "інтерфейс",
+      "meaning_es": "una interfaz"
+    },
+    {
+      "term": "virtual",
+      "type": "Adjective",
+      "example": "We held a *** meeting using video conferencing software.",
+      "meaning_tr": "sanal",
+      "meaning_en": "not physically existing but made to appear by software",
+      "meaning_uk": "віртуальний",
+      "meaning_es": "virtual"
+    },
+    {
+      "term": "a bandwidth",
+      "type": "Noun",
+      "example": "Our office needs more *** to support all the connected devices.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "the transmission capacity of a connection",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "un ancho de banda"
+    },
+    {
+      "term": "to automate",
+      "type": "Verb",
+      "example": "We decided to *** the entire billing process.",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to make a process operate by machines or computers",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "automatizar"
+    },
+    {
+      "term": "an algorithm",
+      "type": "Noun",
+      "example": "The search engine uses a complex *** to rank results.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "a set of rules to be followed in calculations",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "un algoritmo"
+    },
+    {
+      "term": "a storage",
+      "type": "Noun",
+      "example": "My phone is running out of *** space.",
+      "meaning_tr": "depolama",
+      "meaning_en": "the capacity to hold data",
+      "meaning_uk": "пам'ять (сховище)",
+      "meaning_es": "un almacenamiento"
+    },
+    {
+      "term": "to log in",
+      "type": "Verb",
+      "example": "You need your username and password to ***.",
+      "meaning_tr": "giriş yapmak",
+      "meaning_en": "to gain access to a computer system or account",
+      "meaning_uk": "увійти в систему",
+      "meaning_es": "iniciar sesión"
+    },
+    {
+      "term": "a bandwidth",
+      "type": "Noun",
+      "example": "Low *** can cause videos to pause frequently.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "the speed of data transfer",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "un ancho de banda"
+    },
+    {
+      "term": "a firewall",
+      "type": "Noun",
+      "example": "Make sure your *** is active to block malicious traffic.",
+      "meaning_tr": "güvenlik duvarı",
+      "meaning_en": "software that protects against unauthorized network access",
+      "meaning_uk": "міжмережевий екран",
+      "meaning_es": "un cortafuegos"
+    },
+    {
+      "term": "to code",
+      "type": "Verb",
+      "example": "She is learning how to *** in Python.",
+      "meaning_tr": "kod yazmak",
+      "meaning_en": "to write computer programs",
+      "meaning_uk": "писати код",
+      "meaning_es": "programar"
+    },
+    {
+      "term": "an application",
+      "type": "Noun",
+      "example": "I downloaded a new fitness *** to track my steps.",
+      "meaning_tr": "uygulama",
+      "meaning_en": "a program designed for a specific task",
+      "meaning_uk": "додаток",
+      "meaning_es": "una aplicación"
+    },
+    {
+      "term": "a processor",
+      "type": "Noun",
+      "example": "This laptop has a very fast *** for gaming.",
+      "meaning_tr": "işlemci",
+      "meaning_en": "the main component of a computer that performs calculations",
+      "meaning_uk": "процесор",
+      "meaning_es": "un procesador"
+    },
+    {
+      "term": "a resolution",
+      "type": "Noun",
+      "example": "The image looks blurry because of the low screen ***.",
+      "meaning_tr": "çözünürlük",
+      "meaning_en": "the clarity and detail of an image or screen",
+      "meaning_uk": "роздільна здатність",
+      "meaning_es": "una resolución"
+    },
+    {
+      "term": "a shortcut",
+      "type": "Noun",
+      "example": "You can use a keyboard *** to copy and paste quickly.",
+      "meaning_tr": "kısayol",
+      "meaning_en": "a key or icon that performs a task quickly",
+      "meaning_uk": "ярлик (швидкий доступ)",
+      "meaning_es": "un atajo"
+    },
+    {
+      "term": "to navigate",
+      "type": "Verb",
+      "example": "It is very easy to *** through the website's menu.",
+      "meaning_tr": "gezinmek",
+      "meaning_en": "to move through a computer system or website",
+      "meaning_uk": "навігація",
+      "meaning_es": "navegar"
+    },
+    {
+      "term": "a configuration",
+      "type": "Noun",
+      "example": "Check the system *** to ensure the settings are correct.",
+      "meaning_tr": "yapılandırma",
+      "meaning_en": "the arrangement of hardware and software settings",
+      "meaning_uk": "конфігурація",
+      "meaning_es": "una configuración"
+    },
+    {
+      "term": "a bandwidth",
+      "type": "Noun",
+      "example": "We have limited *** for the entire department.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "the amount of data that can be transmitted",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "un ancho de banda"
+    },
+    {
+      "term": "to install",
+      "type": "Verb",
+      "example": "You need to *** the latest drivers for the printer.",
+      "meaning_tr": "yüklemek",
+      "meaning_en": "to set up software on a computer",
+      "meaning_uk": "встановити",
+      "meaning_es": "instalar"
+    }
+  ]
+}

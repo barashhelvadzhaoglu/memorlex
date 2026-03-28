@@ -1,0 +1,546 @@
+{
+  "title": "Culture & Traditions (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a cultural heritage",
+      "type": "Noun",
+      "example": "The preservation of *** is essential for future generations to understand their roots.",
+      "meaning_tr": "kültürel miras",
+      "meaning_en": "the traditions, monuments, and objects inherited from past generations",
+      "meaning_uk": "культурна спадщина",
+      "meaning_es": "patrimonio cultural"
+    },
+    {
+      "term": "to assimilate",
+      "type": "Verb",
+      "example": "It can be difficult for immigrants to fully *** into a new society without losing their identity.",
+      "meaning_tr": "asimile etmek",
+      "meaning_en": "to absorb and integrate people or ideas into a wider society or culture",
+      "meaning_uk": "асимілюватися",
+      "meaning_es": "asimilar"
+    },
+    {
+      "term": "ingrained",
+      "type": "Adjective",
+      "example": "Respect for elders is deeply *** in many Asian cultures.",
+      "meaning_tr": "kökleşmiş",
+      "meaning_en": "firmly fixed or established; difficult to change",
+      "meaning_uk": "укорінений",
+      "meaning_es": "arraigado"
+    },
+    {
+      "term": "a social norm",
+      "type": "Noun",
+      "example": "In some countries, it is a *** to remove your shoes before entering a home.",
+      "meaning_tr": "sosyal norm",
+      "meaning_en": "a rule that is socially enforced",
+      "meaning_uk": "соціальна норма",
+      "meaning_es": "norma social"
+    },
+    {
+      "term": "to marginalize",
+      "type": "Verb",
+      "example": "We must ensure that minority groups are not *** by mainstream cultural policies.",
+      "meaning_tr": "marjinalleştirmek",
+      "meaning_en": "to treat a person or group as insignificant",
+      "meaning_uk": "маргіналізувати",
+      "meaning_es": "marginar"
+    },
+    {
+      "term": "ethnocentric",
+      "type": "Adjective",
+      "example": "An *** perspective often prevents people from appreciating the diversity of other cultures.",
+      "meaning_tr": "etnosentrik",
+      "meaning_en": "evaluating other cultures according to the standards of one's own culture",
+      "meaning_uk": "етноцентричний",
+      "meaning_es": "etnocéntrico"
+    },
+    {
+      "term": "a rite of passage",
+      "type": "Noun",
+      "example": "Graduation is considered a significant *** in many modern societies.",
+      "meaning_tr": "geçiş töreni",
+      "meaning_en": "a ceremony or event marking an important stage in someone's life",
+      "meaning_uk": "обряд ініціації",
+      "meaning_es": "rito de paso"
+    },
+    {
+      "term": "to preserve",
+      "type": "Verb",
+      "example": "Local communities are working hard to *** their traditional crafts.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to maintain something in its original or existing state",
+      "meaning_uk": "зберігати",
+      "meaning_es": "preservar"
+    },
+    {
+      "term": "homogeneous",
+      "type": "Adjective",
+      "example": "The village was a small, *** community where everyone shared the same values.",
+      "meaning_tr": "homojen",
+      "meaning_en": "consisting of parts or people that are similar to each other",
+      "meaning_uk": "гомогенний",
+      "meaning_es": "homogéneo"
+    },
+    {
+      "term": "a taboo",
+      "type": "Noun",
+      "example": "Discussing politics at the dinner table is a cultural *** in this household.",
+      "meaning_tr": "tabu",
+      "meaning_en": "a social or religious custom prohibiting a particular practice",
+      "meaning_uk": "табу",
+      "meaning_es": "tabú"
+    },
+    {
+      "term": "cosmopolitan",
+      "type": "Adjective",
+      "example": "London is a truly *** city with residents from every corner of the globe.",
+      "meaning_tr": "kozmopolit",
+      "meaning_en": "familiar with and at ease in many different countries and cultures",
+      "meaning_uk": "космополітичний",
+      "meaning_es": "cosmopolita"
+    },
+    {
+      "term": "to stigmatize",
+      "type": "Verb",
+      "example": "Society should not *** individuals based on their cultural background.",
+      "meaning_tr": "damgalamak",
+      "meaning_en": "to describe or regard as worthy of disgrace or great disapproval",
+      "meaning_uk": "таврувати",
+      "meaning_es": "estigmatizar"
+    },
+    {
+      "term": "a misconception",
+      "type": "Noun",
+      "example": "There is a common *** that all nomadic tribes are primitive.",
+      "meaning_tr": "yanlış anlama",
+      "meaning_en": "a view or opinion that is incorrect because based on faulty thinking",
+      "meaning_uk": "хибне уявлення",
+      "meaning_es": "idea errónea"
+    },
+    {
+      "term": "multiculturalism",
+      "type": "Noun",
+      "example": "The government promotes *** as a way to enrich the national identity.",
+      "meaning_tr": "çok kültürlülük",
+      "meaning_en": "the presence of several distinct cultural or ethnic groups within a society",
+      "meaning_uk": "мультикультуралізм",
+      "meaning_es": "multiculturalismo"
+    },
+    {
+      "term": "inherent",
+      "type": "Adjective",
+      "example": "There are *** risks in trying to change ancient traditions overnight.",
+      "meaning_tr": "doğasında olan",
+      "meaning_en": "existing in something as a permanent, essential, or characteristic attribute",
+      "meaning_uk": "невід'ємний",
+      "meaning_es": "inherente"
+    },
+    {
+      "term": "to uphold",
+      "type": "Verb",
+      "example": "The community strives to *** the values passed down by their ancestors.",
+      "meaning_tr": "desteklemek",
+      "meaning_en": "to maintain or support a custom or practice",
+      "meaning_uk": "підтримувати",
+      "meaning_es": "defender"
+    },
+    {
+      "term": "a collective consciousness",
+      "type": "Noun",
+      "example": "National holidays help strengthen the *** of the country.",
+      "meaning_tr": "kolektif bilinç",
+      "meaning_en": "the set of shared beliefs, ideas, and moral attitudes which operate as a unifying force",
+      "meaning_uk": "колективна свідомість",
+      "meaning_es": "conciencia colectiva"
+    },
+    {
+      "term": "secular",
+      "type": "Adjective",
+      "example": "In a *** society, religious traditions are often separated from public life.",
+      "meaning_tr": "laik",
+      "meaning_en": "denoting attitudes or activities that have no religious or spiritual basis",
+      "meaning_uk": "світський",
+      "meaning_es": "secular"
+    },
+    {
+      "term": "an indigenous group",
+      "type": "Noun",
+      "example": "The government has finally recognized the land rights of the ***.",
+      "meaning_tr": "yerli grup",
+      "meaning_en": "people originating or occurring naturally in a particular place",
+      "meaning_uk": "корінний народ",
+      "meaning_es": "grupo indígena"
+    },
+    {
+      "term": "to revere",
+      "type": "Verb",
+      "example": "The elders are *** for their wisdom and knowledge of local customs.",
+      "meaning_tr": "saygı duymak",
+      "meaning_en": "to feel deep respect or admiration for something",
+      "meaning_uk": "шанувати",
+      "meaning_es": "venerar"
+    },
+    {
+      "term": "globalization",
+      "type": "Noun",
+      "example": "Critics argue that *** is leading to the erosion of unique local cultures.",
+      "meaning_tr": "küreselleşme",
+      "meaning_en": "the process by which businesses or other organizations develop international influence",
+      "meaning_uk": "глобалізація",
+      "meaning_es": "globalización"
+    },
+    {
+      "term": "a legacy",
+      "type": "Noun",
+      "example": "The artistic *** of the Renaissance continues to influence modern design.",
+      "meaning_tr": "miras",
+      "meaning_en": "an amount of money or property left to someone in a will or a long-lasting impact",
+      "meaning_uk": "спадщина",
+      "meaning_es": "legado"
+    },
+    {
+      "term": "to alienate",
+      "type": "Verb",
+      "example": "Strict enforcement of new laws might *** the traditional rural population.",
+      "meaning_tr": "yabancılaştırmak",
+      "meaning_en": "to cause someone to feel isolated or estranged",
+      "meaning_uk": "відчужувати",
+      "meaning_es": "alienar"
+    },
+    {
+      "term": "a custom",
+      "type": "Noun",
+      "example": "It is a local *** to drink tea with every meal.",
+      "meaning_tr": "gelenek",
+      "meaning_en": "a traditional and widely accepted way of behaving or doing something",
+      "meaning_uk": "звичай",
+      "meaning_es": "costumbre"
+    },
+    {
+      "term": "vibrant",
+      "type": "Adjective",
+      "example": "The city has a *** arts scene that reflects its diverse population.",
+      "meaning_tr": "canlı",
+      "meaning_en": "full of energy and enthusiasm",
+      "meaning_uk": "яскравий",
+      "meaning_es": "vibrante"
+    },
+    {
+      "term": "to foster",
+      "type": "Verb",
+      "example": "Schools should *** an appreciation for different cultural perspectives.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to encourage or promote the development of something",
+      "meaning_uk": "сприяти",
+      "meaning_es": "fomentar"
+    },
+    {
+      "term": "a stereotype",
+      "type": "Noun",
+      "example": "We must challenge the *** that all people from this region are aggressive.",
+      "meaning_tr": "klişe",
+      "meaning_en": "a widely held but fixed and oversimplified image of a particular type of person",
+      "meaning_uk": "стереотип",
+      "meaning_es": "estereotipo"
+    },
+    {
+      "term": "nuanced",
+      "type": "Adjective",
+      "example": "Understanding the conflict requires a *** appreciation of the local culture.",
+      "meaning_tr": "incelikli",
+      "meaning_en": "characterized by subtle shades of meaning or expression",
+      "meaning_uk": "нюансований",
+      "meaning_es": "matizado"
+    },
+    {
+      "term": "to evolve",
+      "type": "Verb",
+      "example": "Cultures do not stay static; they *** over time due to external influences.",
+      "meaning_tr": "evrilmek",
+      "meaning_en": "to develop gradually",
+      "meaning_uk": "еволюціонувати",
+      "meaning_es": "evolucionar"
+    },
+    {
+      "term": "a folk tale",
+      "type": "Noun",
+      "example": "My grandmother used to tell me a *** about the spirits of the forest.",
+      "meaning_tr": "halk masalı",
+      "meaning_en": "a story originating in popular culture, typically passed on by word of mouth",
+      "meaning_uk": "народна казка",
+      "meaning_es": "cuento popular"
+    },
+    {
+      "term": "cultural appropriation",
+      "type": "Noun",
+      "example": "The debate over *** centers on the unacknowledged adoption of elements from a minority culture.",
+      "meaning_tr": "kültürel sahiplenme",
+      "meaning_en": "the unacknowledged or inappropriate adoption of the customs of one people by another",
+      "meaning_uk": "культурна апропріація",
+      "meaning_es": "apropiación cultural"
+    },
+    {
+      "term": "to assimilate",
+      "type": "Verb",
+      "example": "New arrivals often struggle to *** into the workforce.",
+      "meaning_tr": "asimile olmak",
+      "meaning_en": "to take in and understand fully",
+      "meaning_uk": "асимілюватися",
+      "meaning_es": "asimilar"
+    },
+    {
+      "term": "an identity",
+      "type": "Noun",
+      "example": "Language is a crucial part of one's cultural ***.",
+      "meaning_tr": "kimlik",
+      "meaning_en": "the fact of being who or what a person or thing is",
+      "meaning_uk": "ідентичність",
+      "meaning_es": "identidad"
+    },
+    {
+      "term": "pluralistic",
+      "type": "Adjective",
+      "example": "Modern democracies are typically *** in nature.",
+      "meaning_tr": "çoğulcu",
+      "meaning_en": "a system in which two or more groups coexist",
+      "meaning_uk": "плюралістичний",
+      "meaning_es": "pluralista"
+    },
+    {
+      "term": "to diminish",
+      "type": "Verb",
+      "example": "We cannot allow the importance of historical context to ***.",
+      "meaning_tr": "azaltmak",
+      "meaning_en": "to make or become less",
+      "meaning_uk": "зменшувати",
+      "meaning_es": "disminuir"
+    },
+    {
+      "term": "an artifact",
+      "type": "Noun",
+      "example": "The museum displays an ancient *** found during the excavation.",
+      "meaning_tr": "eser",
+      "meaning_en": "an object made by a human being, typically one of cultural or historical interest",
+      "meaning_uk": "артефакт",
+      "meaning_es": "artefacto"
+    },
+    {
+      "term": "to integrate",
+      "type": "Verb",
+      "example": "The program helps refugees *** into the local community.",
+      "meaning_tr": "entegre etmek",
+      "meaning_en": "to bring people or groups into equal participation",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "integrar"
+    },
+    {
+      "term": "a ritual",
+      "type": "Noun",
+      "example": "They performed a daily *** to ensure a good harvest.",
+      "meaning_tr": "ritüel",
+      "meaning_en": "a religious or solemn ceremony consisting of a series of actions",
+      "meaning_uk": "ритуал",
+      "meaning_es": "ritual"
+    },
+    {
+      "term": "diverse",
+      "type": "Adjective",
+      "example": "The region is known for its *** culinary traditions.",
+      "meaning_tr": "çeşitli",
+      "meaning_en": "showing a great deal of variety",
+      "meaning_uk": "різноманітний",
+      "meaning_es": "diverso"
+    },
+    {
+      "term": "to commemorate",
+      "type": "Verb",
+      "example": "Every year, we *** the signing of the peace treaty.",
+      "meaning_tr": "anmak",
+      "meaning_en": "to recall and show respect for someone or something",
+      "meaning_uk": "вшановувати",
+      "meaning_es": "conmemorar"
+    },
+    {
+      "term": "a social hierarchy",
+      "type": "Noun",
+      "example": "In some traditional societies, the *** is strictly enforced.",
+      "meaning_tr": "sosyal hiyerarşi",
+      "meaning_en": "a system in which members of a society are ranked according to relative status",
+      "meaning_uk": "соціальна ієрархія",
+      "meaning_es": "jerarquía social"
+    },
+    {
+      "term": "contemporary",
+      "type": "Adjective",
+      "example": "The exhibition features *** art from young local painters.",
+      "meaning_tr": "çağdaş",
+      "meaning_en": "belonging to or occurring in the present",
+      "meaning_uk": "сучасний",
+      "meaning_es": "contemporáneo"
+    },
+    {
+      "term": "to transmit",
+      "type": "Verb",
+      "example": "Parents are responsible for the task of *** cultural values to their children.",
+      "meaning_tr": "aktarmak",
+      "meaning_en": "to pass on from one generation to another",
+      "meaning_uk": "передавати",
+      "meaning_es": "transmitir"
+    },
+    {
+      "term": "a worldview",
+      "type": "Noun",
+      "example": "Traveling can significantly broaden your ***.",
+      "meaning_tr": "dünya görüşü",
+      "meaning_en": "a particular philosophy of life or conception of the world",
+      "meaning_uk": "світогляд",
+      "meaning_es": "cosmovisión"
+    },
+    {
+      "term": "ancestral",
+      "type": "Adjective",
+      "example": "They returned to their *** village to celebrate the festival.",
+      "meaning_tr": "atalara ait",
+      "meaning_en": "relating to or inherited from an ancestor",
+      "meaning_uk": "родовий",
+      "meaning_es": "ancestral"
+    },
+    {
+      "term": "to marginalize",
+      "type": "Verb",
+      "example": "The policy effectively *** those who do not speak the majority language.",
+      "meaning_tr": "marjinalleştirmek",
+      "meaning_en": "to relegate to a lower social standing",
+      "meaning_uk": "маргіналізувати",
+      "meaning_es": "marginar"
+    },
+    {
+      "term": "a dialect",
+      "type": "Noun",
+      "example": "He speaks a local *** that is difficult for outsiders to understand.",
+      "meaning_tr": "lehçe",
+      "meaning_en": "a particular form of a language which is peculiar to a specific region",
+      "meaning_uk": "діалект",
+      "meaning_es": "dialecto"
+    },
+    {
+      "term": "exclusive",
+      "type": "Adjective",
+      "example": "Membership in the club is *** to people from certain families.",
+      "meaning_tr": "özel",
+      "meaning_en": "restricted or limited to a particular group",
+      "meaning_uk": "ексклюзивний",
+      "meaning_es": "exclusivo"
+    },
+    {
+      "term": "to interpret",
+      "type": "Verb",
+      "example": "Different cultures might *** the same gesture in very different ways.",
+      "meaning_tr": "yorumlamak",
+      "meaning_en": "to understand or explain the meaning of something",
+      "meaning_uk": "інтерпретувати",
+      "meaning_es": "interpretar"
+    },
+    {
+      "term": "an ethos",
+      "type": "Noun",
+      "example": "The company’s *** is based on hard work and community service.",
+      "meaning_tr": "etik anlayış",
+      "meaning_en": "the characteristic spirit of a culture or community",
+      "meaning_uk": "етос",
+      "meaning_es": "ethos"
+    },
+    {
+      "term": "secularism",
+      "type": "Noun",
+      "example": "The nation is built on the principles of ***.",
+      "meaning_tr": "laiklik",
+      "meaning_en": "the principle of separation of the state from religious institutions",
+      "meaning_uk": "секуляризм",
+      "meaning_es": "secularismo"
+    },
+    {
+      "term": "to advocate",
+      "type": "Verb",
+      "example": "Many organizations *** for the protection of endangered languages.",
+      "meaning_tr": "savunmak",
+      "meaning_en": "to publicly recommend or support",
+      "meaning_uk": "захищати",
+      "meaning_es": "abogar"
+    },
+    {
+      "term": "a phenomenon",
+      "type": "Noun",
+      "example": "The migration of the birds is a natural *** that local people celebrate.",
+      "meaning_tr": "fenomen",
+      "meaning_en": "a fact or situation that is observed to exist or happen",
+      "meaning_uk": "феномен",
+      "meaning_es": "fenómeno"
+    },
+    {
+      "term": "distinct",
+      "type": "Adjective",
+      "example": "Each region of the country has a *** style of music.",
+      "meaning_tr": "farklı",
+      "meaning_en": "recognizably different in nature from something else",
+      "meaning_uk": "виразний",
+      "meaning_es": "distinto"
+    },
+    {
+      "term": "to overlook",
+      "type": "Verb",
+      "example": "We should not *** the importance of oral traditions in history.",
+      "meaning_tr": "göz ardı etmek",
+      "meaning_en": "to fail to notice or consider",
+      "meaning_uk": "не помічати",
+      "meaning_es": "pasar por alto"
+    },
+    {
+      "term": "a cultural exchange",
+      "type": "Noun",
+      "example": "The student program promotes *** between the two nations.",
+      "meaning_tr": "kültürel değişim",
+      "meaning_en": "the sharing of ideas and customs between different cultures",
+      "meaning_uk": "культурний обмін",
+      "meaning_es": "intercambio cultural"
+    },
+    {
+      "term": "inclusive",
+      "type": "Adjective",
+      "example": "We aim to create an *** environment where everyone feels welcome.",
+      "meaning_tr": "kapsayıcı",
+      "meaning_en": "including all the services or items normally expected",
+      "meaning_uk": "інклюзивний",
+      "meaning_es": "inclusivo"
+    },
+    {
+      "term": "to diminish",
+      "type": "Verb",
+      "example": "The impact of the old traditions has begun to ***.",
+      "meaning_tr": "azalmak",
+      "meaning_en": "to become smaller or less important",
+      "meaning_uk": "зменшуватися",
+      "meaning_es": "disminuir"
+    },
+    {
+      "term": "a heritage site",
+      "type": "Noun",
+      "example": "The temple is protected as an official ***.",
+      "meaning_tr": "kültürel miras alanı",
+      "meaning_en": "a place of historical or cultural significance",
+      "meaning_uk": "об'єкт спадщини",
+      "meaning_es": "sitio de patrimonio"
+    },
+    {
+      "term": "traditional",
+      "type": "Adjective",
+      "example": "They wear *** clothing during the annual wedding ceremony.",
+      "meaning_tr": "geleneksel",
+      "meaning_en": "existing in or as part of a tradition",
+      "meaning_uk": "традиційний",
+      "meaning_es": "tradicional"
+    }
+  ]
+}

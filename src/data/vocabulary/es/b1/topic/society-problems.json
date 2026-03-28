@@ -1,0 +1,321 @@
+{
+  "title": "Problemas Sociales (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la pobreza",
+      "type": "Noun",
+      "meaning_tr": "yoksulluk",
+      "meaning_en": "poverty",
+      "meaning_uk": "бідність",
+      "meaning_es": "estado de carencia de recursos necesarios para vivir",
+      "example": "*** es un desafío global que afecta a millones de personas."
+    },
+    {
+      "term": "el desempleo",
+      "type": "Noun",
+      "meaning_tr": "işsizlik",
+      "meaning_en": "unemployment",
+      "meaning_uk": "безробіття",
+      "meaning_es": "falta de trabajo remunerado",
+      "example": "El gobierno busca reducir *** mediante nuevos programas de formación."
+    },
+    {
+      "term": "la desigualdad",
+      "type": "Noun",
+      "meaning_tr": "eşitsizlik",
+      "meaning_en": "inequality",
+      "meaning_uk": "нерівність",
+      "meaning_es": "diferencia o falta de equilibrio entre personas",
+      "example": "Debemos luchar contra *** social en nuestra comunidad."
+    },
+    {
+      "term": "la discriminación",
+      "type": "Noun",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "discrimination",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "trato diferente y perjudicial a una persona",
+      "example": "No se debe tolerar *** por motivos de raza o género."
+    },
+    {
+      "term": "el racismo",
+      "type": "Noun",
+      "meaning_tr": "ırkçılık",
+      "meaning_en": "racism",
+      "meaning_uk": "расизм",
+      "meaning_es": "ideología que defiende la superioridad de una raza",
+      "example": "*** es una forma de odio que debemos erradicar."
+    },
+    {
+      "term": "la delincuencia",
+      "type": "Noun",
+      "meaning_tr": "suç",
+      "meaning_en": "crime",
+      "meaning_uk": "злочинність",
+      "meaning_es": "conjunto de delitos o actos ilegales",
+      "example": "La falta de oportunidades a veces aumenta *** en los barrios."
+    },
+    {
+      "term": "la corrupción",
+      "type": "Noun",
+      "meaning_tr": "yolsuzluk",
+      "meaning_en": "corruption",
+      "meaning_uk": "корупція",
+      "meaning_es": "abuso de poder para beneficio propio",
+      "example": "Los ciudadanos exigen mayor transparencia contra *** política."
+    },
+    {
+      "term": "la contaminación",
+      "type": "Noun",
+      "meaning_tr": "kirlilik",
+      "meaning_en": "pollution",
+      "meaning_uk": "забруднення",
+      "meaning_es": "degradación del medio ambiente",
+      "example": "*** del aire es un problema grave en las grandes ciudades."
+    },
+    {
+      "term": "la vivienda",
+      "type": "Noun",
+      "meaning_tr": "konut",
+      "meaning_en": "housing",
+      "meaning_uk": "житло",
+      "meaning_es": "lugar protegido para vivir",
+      "example": "El acceso a *** digna es un derecho humano fundamental."
+    },
+    {
+      "term": "la educación",
+      "type": "Noun",
+      "meaning_tr": "eğitim",
+      "meaning_en": "education",
+      "meaning_uk": "освіта",
+      "meaning_es": "proceso de formación y enseñanza",
+      "example": "Invertir en *** es la mejor forma de progresar."
+    },
+    {
+      "term": "el medio ambiente",
+      "type": "Noun",
+      "meaning_tr": "çevre",
+      "meaning_en": "environment",
+      "meaning_uk": "довкілля",
+      "meaning_es": "entorno natural que rodea a los seres vivos",
+      "example": "Debemos proteger *** para las futuras generaciones."
+    },
+    {
+      "term": "la inmigración",
+      "type": "Noun",
+      "meaning_tr": "göç",
+      "meaning_en": "immigration",
+      "meaning_uk": "імміграція",
+      "meaning_es": "llegada de personas a un país extranjero",
+      "example": "*** requiere políticas de integración justas."
+    },
+    {
+      "term": "la violencia",
+      "type": "Noun",
+      "meaning_tr": "şiddet",
+      "meaning_en": "violence",
+      "meaning_uk": "насильство",
+      "meaning_es": "uso de la fuerza para causar daño",
+      "example": "Es importante educar en paz para evitar ***."
+    },
+    {
+      "term": "el cambio climático",
+      "type": "Noun",
+      "meaning_tr": "iklim değişikliği",
+      "meaning_en": "climate change",
+      "meaning_uk": "зміна клімату",
+      "meaning_es": "variación significativa del clima terrestre",
+      "example": "*** afecta a todo el planeta de manera negativa."
+    },
+    {
+      "term": "la exclusión",
+      "type": "Noun",
+      "meaning_tr": "dışlanma",
+      "meaning_en": "exclusion",
+      "meaning_uk": "виключення",
+      "meaning_es": "marginación de personas de la vida social",
+      "example": "Debemos trabajar para evitar *** de los colectivos más vulnerables."
+    },
+    {
+      "term": "la sanidad",
+      "type": "Noun",
+      "meaning_tr": "sağlık hizmeti",
+      "meaning_en": "healthcare",
+      "meaning_uk": "охорона здоров'я",
+      "meaning_es": "sistema de servicios médicos",
+      "example": "El acceso a *** pública es esencial para todos."
+    },
+    {
+      "term": "el hambre",
+      "type": "Noun",
+      "meaning_tr": "açlık",
+      "meaning_en": "hunger",
+      "meaning_uk": "голод",
+      "meaning_es": "carencia de alimentos",
+      "example": "Millones de niños sufren *** en el mundo."
+    },
+    {
+      "term": "la inseguridad",
+      "type": "Noun",
+      "meaning_tr": "güvensizlik",
+      "meaning_en": "insecurity",
+      "meaning_uk": "небезпека",
+      "meaning_es": "falta de protección o riesgo",
+      "example": "*** ciudadana es una preocupación constante para los vecinos."
+    },
+    {
+      "term": "la injusticia",
+      "type": "Noun",
+      "meaning_tr": "adaletsizlik",
+      "meaning_en": "injustice",
+      "meaning_uk": "несправедливість",
+      "meaning_es": "acción contraria a la justicia",
+      "example": "La sociedad no puede permanecer callada ante ***."
+    },
+    {
+      "term": "el activismo",
+      "type": "Noun",
+      "meaning_tr": "aktivizm",
+      "meaning_en": "activism",
+      "meaning_uk": "активізм",
+      "meaning_es": "participación activa en causas sociales",
+      "example": "*** es necesario para lograr cambios reales."
+    },
+    {
+      "term": "luchar",
+      "type": "Verb",
+      "meaning_tr": "mücadele etmek",
+      "meaning_en": "to fight",
+      "meaning_uk": "боротися",
+      "meaning_es": "esforzarse para conseguir algo",
+      "example": "Debemos *** por un mundo mejor para todos."
+    },
+    {
+      "term": "proteger",
+      "type": "Verb",
+      "meaning_tr": "korumak",
+      "meaning_en": "to protect",
+      "meaning_uk": "захищати",
+      "meaning_es": "resguardar de un peligro",
+      "example": "Es deber de todos *** el medio ambiente."
+    },
+    {
+      "term": "mejorar",
+      "type": "Verb",
+      "meaning_tr": "iyileştirmek",
+      "meaning_en": "to improve",
+      "meaning_uk": "покращувати",
+      "meaning_es": "hacer que algo sea mejor",
+      "example": "El gobierno quiere *** las condiciones de vida de los pobres."
+    },
+    {
+      "term": "ayudar",
+      "type": "Verb",
+      "meaning_tr": "yardım etmek",
+      "meaning_en": "to help",
+      "meaning_uk": "допомагати",
+      "meaning_es": "colaborar con alguien",
+      "example": "Podemos *** a las personas necesitadas mediante donaciones."
+    },
+    {
+      "term": "denunciar",
+      "type": "Verb",
+      "meaning_tr": "ihbar etmek",
+      "meaning_en": "to report",
+      "meaning_uk": "повідомляти",
+      "meaning_es": "declarar públicamente un hecho ilegal",
+      "example": "Es necesario *** cualquier caso de discriminación."
+    },
+    {
+      "term": "vulnerable",
+      "type": "Adjective",
+      "meaning_tr": "savunmasız",
+      "meaning_en": "vulnerable",
+      "meaning_uk": "вразливий",
+      "meaning_es": "que puede ser herido o recibir daño",
+      "example": "Los niños son el grupo más *** de la sociedad."
+    },
+    {
+      "term": "injusto",
+      "type": "Adjective",
+      "meaning_tr": "adaletsiz",
+      "meaning_en": "unfair",
+      "meaning_uk": "несправедливий",
+      "meaning_es": "que no es justo",
+      "example": "Es *** que algunas personas no tengan acceso a agua potable."
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "que se puede mantener a largo plazo",
+      "example": "Necesitamos un modelo de desarrollo más ***."
+    },
+    {
+      "term": "urgente",
+      "type": "Adjective",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміновий",
+      "meaning_es": "que requiere atención inmediata",
+      "example": "El cambio climático es un problema *** de resolver."
+    },
+    {
+      "term": "desigual",
+      "type": "Adjective",
+      "meaning_tr": "eşitsiz",
+      "meaning_en": "unequal",
+      "meaning_uk": "нерівний",
+      "meaning_es": "que no tiene igualdad",
+      "example": "El reparto de la riqueza es muy *** en este país."
+    },
+    {
+      "term": "contra",
+      "type": "Preposition",
+      "meaning_tr": "karşı",
+      "meaning_en": "against",
+      "meaning_uk": "проти",
+      "meaning_es": "oposición a algo",
+      "example": "Debemos actuar *** la corrupción con firmeza."
+    },
+    {
+      "term": "además",
+      "type": "Adverb",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "indica adición",
+      "example": "La pobreza es grave; ***, genera otros problemas sociales."
+    },
+    {
+      "term": "especialmente",
+      "type": "Adverb",
+      "meaning_tr": "özellikle",
+      "meaning_en": "especially",
+      "meaning_uk": "особливо",
+      "meaning_es": "de manera particular",
+      "example": "Este problema afecta *** a las familias numerosas."
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "conjunción copulativa",
+      "example": "La educación *** la salud son pilares de una sociedad."
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa",
+      "example": "Queremos ayudar, *** no tenemos los recursos suficientes."
+    }
+  ]
+}

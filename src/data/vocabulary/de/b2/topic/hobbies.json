@@ -1,331 +1,411 @@
-[
-  {
-    "term": "das Brettspiel",
-    "meaning_tr": "kutu oyunu",
-    "meaning_en": "board game",
-    "meaning_uk": "настільна гра",
-    "meaning_es": "juego de mesa"
-  },
-  {
-    "term": "das Hobby",
-    "meaning_tr": "hobi",
-    "meaning_en": "hobby",
-    "meaning_uk": "хобі",
-    "meaning_es": "pasatiempo"
-  },
-  {
-    "term": "die Freizeit",
-    "meaning_tr": "boş zaman",
-    "meaning_en": "leisure time",
-    "meaning_uk": "вільний час",
-    "meaning_es": "tiempo libre"
-  },
-  {
-    "term": "die Veranstaltung",
-    "meaning_tr": "etkinlik, organizasyon",
-    "meaning_en": "event, organization",
-    "meaning_uk": "подія, захід, організація",
-    "meaning_es": "evento, organización"
-  },
-  {
-    "term": "das Vereinswesen",
-    "meaning_tr": "kulüpçülük, dernekçilik",
-    "meaning_en": "club life, association system",
-    "meaning_uk": "клубне життя, асоціативна діяльність",
-    "meaning_es": "vida asociativa, sistema de clubes"
-  },
-  {
-    "term": "das Ehrenamt",
-    "meaning_tr": "gönüllülük, fahri görev",
-    "meaning_en": "voluntary work, honorary office",
-    "meaning_uk": "волонтерство, почесна посада",
-    "meaning_es": "trabajo voluntario, cargo honorífico"
-  },
-  {
-    "term": "das Engagement",
-    "meaning_tr": "katılım, bağlılık, adanmışlık",
-    "meaning_en": "commitment, involvement, dedication",
-    "meaning_uk": "залученість, відданість, зобов'язання",
-    "meaning_es": "compromiso, participación, dedicación"
-  },
-  {
-    "term": "die Entspannung",
-    "meaning_tr": "rahatlama, dinlenme",
-    "meaning_en": "relaxation",
-    "meaning_uk": "розслаблення",
-    "meaning_es": "relajación"
-  },
-  {
-    "term": "die Erholung",
-    "meaning_tr": "dinlenme, iyileşme",
-    "meaning_en": "recreation, recovery",
-    "meaning_uk": "відпочинок, відновлення",
-    "meaning_es": "recreación, recuperación"
-  },
-  {
-    "term": "das Ausgehen",
-    "meaning_tr": "dışarı çıkma, gezme",
-    "meaning_en": "going out",
-    "meaning_uk": "виходити (гуляти, в кафе тощо)",
-    "meaning_es": "salir"
-  },
-  {
-    "term": "der Zeitvertreib",
-    "meaning_tr": "zaman geçirme, oyalanma",
-    "meaning_en": "pastime",
-    "meaning_uk": "заняття для проведення часу",
-    "meaning_es": "pasatiempo"
-  },
-  {
-    "term": "die Ausdauer",
-    "meaning_tr": "dayanıklılık, kondisyon",
-    "meaning_en": "endurance, stamina",
-    "meaning_uk": "витривалість",
-    "meaning_es": "resistencia"
-  },
-  {
-    "term": "die Geschicklichkeit",
-    "meaning_tr": "beceri, el çabukluğu",
-    "meaning_en": "dexterity, skillfulness",
-    "meaning_uk": "спритність, вправність",
-    "meaning_es": "destreza, habilidad"
-  },
-  {
-    "term": "die Kreativität",
-    "meaning_tr": "yaratıcılık",
-    "meaning_en": "creativity",
-    "meaning_uk": "креативність",
-    "meaning_es": "creatividad"
-  },
-  {
-    "term": "die Teamfähigkeit",
-    "meaning_tr": "takım çalışması becerisi",
-    "meaning_en": "teamwork ability",
-    "meaning_uk": "здатність до командної роботи",
-    "meaning_es": "capacidad de trabajo en equipo"
-  },
-  {
-    "term": "die Leidenschaft",
-    "meaning_tr": "tutku, tutkuyla bağlılık",
-    "meaning_en": "passion",
-    "meaning_uk": "пристрасть, захоплення",
-    "meaning_es": "pasión"
-  },
-  {
-    "term": "das Interesse",
-    "meaning_tr": "ilgi, alaka",
-    "meaning_en": "interest",
-    "meaning_uk": "інтерес",
-    "meaning_es": "interés"
-  },
-  {
-    "term": "die Sammlung",
-    "meaning_tr": "koleksiyon, toplama",
-    "meaning_en": "collection",
-    "meaning_uk": "колекція",
-    "meaning_es": "colección"
-  },
-  {
-    "term": "der Sammler",
-    "meaning_tr": "koleksiyoncu",
-    "meaning_en": "collector",
-    "meaning_uk": "колекціонер",
-    "meaning_es": "coleccionista"
-  },
-  {
-    "term": "die Ausrüstung",
-    "meaning_tr": "ekipman, donanım",
-    "meaning_en": "equipment",
-    "meaning_uk": "обладнання, спорядження",
-    "meaning_es": "equipo"
-  },
-  {
-    "term": "der Reiseführer",
-    "meaning_tr": "rehber kitap, gezi rehberi",
-    "meaning_en": "guidebook",
-    "meaning_uk": "путівник",
-    "meaning_es": "guía turística"
-  },
-  {
-    "term": "die Wanderung",
-    "meaning_tr": "doğa yürüyüşü",
-    "meaning_en": "hike, trek",
-    "meaning_uk": "похід",
-    "meaning_es": "senderismo"
-  },
-  {
-    "term": "das Bergsteigen",
-    "meaning_tr": "dağcılık",
-    "meaning_en": "mountain climbing",
-    "meaning_uk": "альпінізм",
-    "meaning_es": "alpinismo"
-  },
-  {
-    "term": "das Radfahren",
-    "meaning_tr": "bisiklete binme",
-    "meaning_en": "cycling",
-    "meaning_uk": "велосипедна прогулянка",
-    "meaning_es": "ciclismo"
-  },
-  {
-    "term": "das Schwimmen",
-    "meaning_tr": "yüzme",
-    "meaning_en": "swimming",
-    "meaning_uk": "плавання",
-    "meaning_es": "natación"
-  },
-  {
-    "term": "das Joggen",
-    "meaning_tr": "koşma, tempolu yürüme",
-    "meaning_en": "jogging",
-    "meaning_uk": "біг підтюпцем",
-    "meaning_es": "trotar"
-  },
-  {
-    "term": "das Tanzen",
-    "meaning_tr": "dans etme",
-    "meaning_en": "dancing",
-    "meaning_uk": "танці",
-    "meaning_es": "bailar"
-  },
-  {
-    "term": "das Singen",
-    "meaning_tr": "şarkı söyleme",
-    "meaning_en": "singing",
-    "meaning_uk": "спів",
-    "meaning_es": "cantar"
-  },
-  {
-    "term": "das Musizieren",
-    "meaning_tr": "müzik yapma",
-    "meaning_en": "making music",
-    "meaning_uk": "грати на музичних інструментах",
-    "meaning_es": "hacer música"
-  },
-  {
-    "term": "das Malen",
-    "meaning_tr": "resim yapma",
-    "meaning_en": "painting",
-    "meaning_uk": "малювання",
-    "meaning_es": "pintar"
-  },
-  {
-    "term": "das Zeichnen",
-    "meaning_tr": "çizim yapma",
-    "meaning_en": "drawing",
-    "meaning_uk": "креслення",
-    "meaning_es": "dibujar"
-  },
-  {
-    "term": "das Basteln",
-    "meaning_tr": "el işi yapma",
-    "meaning_en": "crafting, DIY",
-    "meaning_uk": "ремесло, рукоділля",
-    "meaning_es": "manualidades"
-  },
-  {
-    "term": "das Kochen",
-    "meaning_tr": "yemek yapma",
-    "meaning_en": "cooking",
-    "meaning_uk": "готувати їжу",
-    "meaning_es": "cocinar"
-  },
-  {
-    "term": "das Backen",
-    "meaning_tr": "fırında pişirme, pasta yapma",
-    "meaning_en": "baking",
-    "meaning_uk": "випікання",
-    "meaning_es": "hornear"
-  },
-  {
-    "term": "das Gärtnern",
-    "meaning_tr": "bahçıvanlık",
-    "meaning_en": "gardening",
-    "meaning_uk": "садівництво",
-    "meaning_es": "jardinería"
-  },
-  {
-    "term": "das Lesen",
-    "meaning_tr": "okuma",
-    "meaning_en": "reading",
-    "meaning_uk": "читання",
-    "meaning_es": "leer"
-  },
-  {
-    "term": "das Schreiben",
-    "meaning_tr": "yazma",
-    "meaning_en": "writing",
-    "meaning_uk": "письмо",
-    "meaning_es": "escribir"
-  },
-  {
-    "term": "das Fotografieren",
-    "meaning_tr": "fotoğraf çekme",
-    "meaning_en": "photography",
-    "meaning_uk": "фотографія",
-    "meaning_es": "fotografía"
-  },
-  {
-    "term": "das Filmen",
-    "meaning_tr": "film çekme",
-    "meaning_en": "filming",
-    "meaning_uk": "кінозйомка",
-    "meaning_es": "filmación"
-  },
-  {
-    "term": "das Programmieren",
-    "meaning_tr": "programlama",
-    "meaning_en": "programming",
-    "meaning_uk": "програмування",
-    "meaning_es": "programación"
-  },
-  {
-    "term": "das Spielen",
-    "meaning_tr": "oynama",
-    "meaning_en": "playing",
-    "meaning_uk": "грати",
-    "meaning_es": "jugar"
-  },
-  {
-    "term": "das Theater",
-    "meaning_tr": "tiyatro",
-    "meaning_en": "theater",
-    "meaning_uk": "театр",
-    "meaning_es": "teatro"
-  },
-  {
-    "term": "das Kino",
-    "meaning_tr": "sinema",
-    "meaning_en": "cinema",
-    "meaning_uk": "кінотеатр",
-    "meaning_es": "cine"
-  },
-  {
-    "term": "das Museum",
-    "meaning_tr": "müze",
-    "meaning_en": "museum",
-    "meaning_uk": "музей",
-    "meaning_es": "museo"
-  },
-  {
-    "term": "der Zoo",
-    "meaning_tr": "hayvanat bahçesi",
-    "meaning_en": "zoo",
-    "meaning_uk": "зоопарк",
-    "meaning_es": "zoológico"
-  },
-  {
-    "term": "der Park",
-    "meaning_tr": "park",
-    "meaning_en": "park",
-    "meaning_uk": "парк",
-    "meaning_es": "parque"
-  },
-  {
-    "term": "der Wald",
-    "meaning_tr": "orman",
-    "meaning_en": "forest",
-    "meaning_uk": "ліс",
-    "meaning_es": "bosque"
-  }
-]
+{
+  "title": "Hobbys & Freizeit (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Entspannung",
+      "type": "Noun",
+      "example": "Nach einem langen Arbeitstag brauche ich etwas ***.",
+      "meaning_tr": "rahatlama",
+      "meaning_en": "relaxation",
+      "meaning_uk": "розслаблення",
+      "meaning_es": "relajación"
+    },
+    {
+      "term": "ausgleichen",
+      "type": "Verb",
+      "example": "Sport hilft mir, den Stress im Alltag zu ***.",
+      "meaning_tr": "dengelemek",
+      "meaning_en": "to balance",
+      "meaning_uk": "врівноважувати",
+      "meaning_es": "compensar"
+    },
+    {
+      "term": "vielseitig",
+      "type": "Adjective",
+      "example": "Sie ist sehr *** interessiert und liest viele verschiedene Bücher.",
+      "meaning_tr": "çok yönlü",
+      "meaning_en": "versatile",
+      "meaning_uk": "різнобічний",
+      "meaning_es": "polifacético"
+    },
+    {
+      "term": "der Ausgleich",
+      "type": "Noun",
+      "example": "Ein Hobby ist ein guter *** zur Arbeit.",
+      "meaning_tr": "denge",
+      "meaning_en": "balance",
+      "meaning_uk": "баланс",
+      "meaning_es": "equilibrio"
+    },
+    {
+      "term": "sich widmen",
+      "type": "Verb",
+      "example": "Am Wochenende möchte ich mich wieder meinem Hobby ***.",
+      "meaning_tr": "kendini adamak",
+      "meaning_en": "to dedicate oneself",
+      "meaning_uk": "присвячувати себе",
+      "meaning_es": "dedicarse"
+    },
+    {
+      "term": "begeistert",
+      "type": "Adjective",
+      "example": "Er ist ein *** Anhänger dieses Vereins.",
+      "meaning_tr": "coşkulu",
+      "meaning_en": "enthusiastic",
+      "meaning_uk": "захоплений",
+      "meaning_es": "entusiasta"
+    },
+    {
+      "term": "die Freizeitgestaltung",
+      "type": "Noun",
+      "example": "Die *** sollte abwechslungsreich sein.",
+      "meaning_tr": "boş zaman değerlendirme",
+      "meaning_en": "leisure activity planning",
+      "meaning_uk": "організація дозвілля",
+      "meaning_es": "organización del tiempo libre"
+    },
+    {
+      "term": "sich beschäftigen mit",
+      "type": "Verb",
+      "example": "Ich *** gerne mit Fotografie.",
+      "meaning_tr": "ile meşgul olmak",
+      "meaning_en": "to occupy oneself with",
+      "meaning_uk": "займатися чимось",
+      "meaning_es": "ocuparse con"
+    },
+    {
+      "term": "der Zeitvertreib",
+      "type": "Noun",
+      "example": "Lesen ist mein liebster ***.",
+      "meaning_tr": "vakit geçirme",
+      "meaning_en": "pastime",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "pasatiempo"
+    },
+    {
+      "term": "kreativ",
+      "type": "Adjective",
+      "example": "Malen ist eine sehr *** Tätigkeit.",
+      "meaning_tr": "yaratıcı",
+      "meaning_en": "creative",
+      "meaning_uk": "творчий",
+      "meaning_es": "creativo"
+    },
+    {
+      "term": "die Leidenschaft",
+      "type": "Noun",
+      "example": "Kochen ist meine größte ***.",
+      "meaning_tr": "tutku",
+      "meaning_en": "passion",
+      "meaning_uk": "пристрасть",
+      "meaning_es": "pasión"
+    },
+    {
+      "term": "ausüben",
+      "type": "Verb",
+      "example": "Welchen Sport *** Sie aktiv aus?",
+      "meaning_tr": "icra etmek",
+      "meaning_en": "to practice",
+      "meaning_uk": "виконувати",
+      "meaning_es": "ejercer"
+    },
+    {
+      "term": "der Verein",
+      "type": "Noun",
+      "example": "Ich bin Mitglied in einem Sport***.",
+      "meaning_tr": "dernek",
+      "meaning_en": "club",
+      "meaning_uk": "клуб",
+      "meaning_es": "club"
+    },
+    {
+      "term": "entspannend",
+      "type": "Adjective",
+      "example": "Yoga wirkt sehr *** auf mich.",
+      "meaning_tr": "rahatlatıcı",
+      "meaning_en": "relaxing",
+      "meaning_uk": "розслаблюючий",
+      "meaning_es": "relajante"
+    },
+    {
+      "term": "unterhaltsam",
+      "type": "Adjective",
+      "example": "Der Film war sehr ***.",
+      "meaning_tr": "eğlenceli",
+      "meaning_en": "entertaining",
+      "meaning_uk": "розважальний",
+      "meaning_es": "entretenido"
+    },
+    {
+      "term": "die Abwechslung",
+      "type": "Noun",
+      "example": "Ich brauche dringend eine *** vom Alltag.",
+      "meaning_tr": "değişiklik",
+      "meaning_en": "variety",
+      "meaning_uk": "різноманітність",
+      "meaning_es": "variedad"
+    },
+    {
+      "term": "bevorzugen",
+      "type": "Verb",
+      "example": "Ich *** es, in der Natur zu wandern.",
+      "meaning_tr": "tercih etmek",
+      "meaning_en": "to prefer",
+      "meaning_uk": "надавати перевагу",
+      "meaning_es": "preferir"
+    },
+    {
+      "term": "die Erholung",
+      "type": "Noun",
+      "example": "Nach dem Urlaub brauche ich keine weitere ***.",
+      "meaning_tr": "dinlenme",
+      "meaning_en": "recovery",
+      "meaning_uk": "відпочинок",
+      "meaning_es": "descanso"
+    },
+    {
+      "term": "aktiv",
+      "type": "Adverb",
+      "example": "Er ist auch im Alter noch ***.",
+      "meaning_tr": "aktif",
+      "meaning_en": "actively",
+      "meaning_uk": "активно",
+      "meaning_es": "activamente"
+    },
+    {
+      "term": "die Herausforderung",
+      "type": "Noun",
+      "example": "Dieses Spiel ist eine echte ***.",
+      "meaning_tr": "zorluk",
+      "meaning_en": "challenge",
+      "meaning_uk": "виклик",
+      "meaning_es": "desafío"
+    },
+    {
+      "term": "sich erholen",
+      "type": "Verb",
+      "example": "Man muss sich am Wochenende gut ***.",
+      "meaning_tr": "dinlenmek",
+      "meaning_en": "to recover",
+      "meaning_uk": "відпочивати",
+      "meaning_es": "descansar"
+    },
+    {
+      "term": "die Ausdauer",
+      "type": "Noun",
+      "example": "Laufen trainiert die ***.",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "stamina",
+      "meaning_uk": "витривалість",
+      "meaning_es": "resistencia"
+    },
+    {
+      "term": "geschickt",
+      "type": "Adjective",
+      "example": "Er ist sehr *** mit handwerklichen Arbeiten.",
+      "meaning_tr": "becerikli",
+      "meaning_en": "skillful",
+      "meaning_uk": "вправний",
+      "meaning_es": "hábil"
+    },
+    {
+      "term": "der Wettkampf",
+      "type": "Noun",
+      "example": "Er nimmt an einem großen *** teil.",
+      "meaning_tr": "müsabaka",
+      "meaning_en": "competition",
+      "meaning_uk": "змагання",
+      "meaning_es": "competición"
+    },
+    {
+      "term": "beleben",
+      "type": "Verb",
+      "example": "Ein Spaziergang kann den Geist ***.",
+      "meaning_tr": "canlandırmak",
+      "meaning_en": "to invigorate",
+      "meaning_uk": "оживляти",
+      "meaning_es": "animar"
+    },
+    {
+      "term": "die Gemeinschaft",
+      "type": "Noun",
+      "example": "In einem Verein findet man eine tolle ***.",
+      "meaning_tr": "topluluk",
+      "meaning_en": "community",
+      "meaning_uk": "спільнота",
+      "meaning_es": "comunidad"
+    },
+    {
+      "term": "anstrengend",
+      "type": "Adjective",
+      "example": "Das Training war heute sehr ***.",
+      "meaning_tr": "yorucu",
+      "meaning_en": "strenuous",
+      "meaning_uk": "виснажливий",
+      "meaning_es": "agotador"
+    },
+    {
+      "term": "die Inspiration",
+      "type": "Noun",
+      "example": "Die Natur ist für ihn eine große ***.",
+      "meaning_tr": "ilham",
+      "meaning_en": "inspiration",
+      "meaning_uk": "натхнення",
+      "meaning_es": "inspiración"
+    },
+    {
+      "term": "sich entspannen",
+      "type": "Verb",
+      "example": "Ich *** mich am besten bei Musik.",
+      "meaning_tr": "rahatlamak",
+      "meaning_en": "to relax",
+      "meaning_uk": "розслаблятися",
+      "meaning_es": "relajarse"
+    },
+    {
+      "term": "außerordentlich",
+      "type": "Adverb",
+      "example": "Dieses Hobby ist *** zeitaufwendig.",
+      "meaning_tr": "olağanüstü",
+      "meaning_en": "extraordinarily",
+      "meaning_uk": "надзвичайно",
+      "meaning_es": "extraordinariamente"
+    },
+    {
+      "term": "der Zeitaufwand",
+      "type": "Noun",
+      "example": "Der *** für dieses Hobby ist sehr hoch.",
+      "meaning_tr": "zaman harcama",
+      "meaning_en": "time expenditure",
+      "meaning_uk": "витрати часу",
+      "meaning_es": "inversión de tiempo"
+    },
+    {
+      "term": "sich vergnügen",
+      "type": "Verb",
+      "example": "Sie *** sich gerne im Park.",
+      "meaning_tr": "eğlenmek",
+      "meaning_en": "to amuse oneself",
+      "meaning_uk": "розважатися",
+      "meaning_es": "divertirse"
+    },
+    {
+      "term": "die Muße",
+      "type": "Noun",
+      "example": "Ich habe heute endlich etwas *** zum Lesen.",
+      "meaning_tr": "boş vakit",
+      "meaning_en": "leisure",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "ocio"
+    },
+    {
+      "term": "begeistern",
+      "type": "Verb",
+      "example": "Das neue Projekt wird sicher viele Leute ***.",
+      "meaning_tr": "coşturmak",
+      "meaning_en": "to inspire",
+      "meaning_uk": "натхнути",
+      "meaning_es": "entusiasmar"
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "example": "*** meiner Freizeit spiele ich Klavier.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "dennoch",
+      "type": "Conjunction",
+      "example": "Es war anstrengend, *** hat es Spaß gemacht.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "проте",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "die Fertigkeit",
+      "type": "Noun",
+      "example": "Er hat handwerkliche ***.",
+      "meaning_tr": "beceri",
+      "meaning_en": "skill",
+      "meaning_uk": "навичка",
+      "meaning_es": "habilidad"
+    },
+    {
+      "term": "gelegentlich",
+      "type": "Adverb",
+      "example": "Ich gehe *** ins Kino.",
+      "meaning_tr": "ara sıra",
+      "meaning_en": "occasionally",
+      "meaning_uk": "іноді",
+      "meaning_es": "ocasionalmente"
+    },
+    {
+      "term": "sich konzentrieren",
+      "type": "Verb",
+      "example": "Beim Malen kann ich mich gut ***.",
+      "meaning_tr": "odaklanmak",
+      "meaning_en": "to concentrate",
+      "meaning_uk": "зосереджуватися",
+      "meaning_es": "concentrarse"
+    },
+    {
+      "term": "die Vorliebe",
+      "type": "Noun",
+      "example": "Er hat eine *** für klassische Musik.",
+      "meaning_tr": "tercih",
+      "meaning_en": "preference",
+      "meaning_uk": "перевага",
+      "meaning_es": "preferencia"
+    },
+    {
+      "term": "abwechslungsreich",
+      "type": "Adjective",
+      "example": "Mein Alltag ist sehr ***.",
+      "meaning_tr": "çeşitli",
+      "meaning_en": "varied",
+      "meaning_uk": "різноманітний",
+      "meaning_es": "variado"
+    },
+    {
+      "term": "verweilen",
+      "type": "Verb",
+      "example": "Wir *** gerne eine Weile im Café.",
+      "meaning_tr": "vakit geçirmek",
+      "meaning_en": "to linger",
+      "meaning_uk": "затримуватися",
+      "meaning_es": "permanecer"
+    },
+    {
+      "term": "die Erlebnispädagogik",
+      "type": "Noun",
+      "example": "Er arbeitet im Bereich der ***.",
+      "meaning_tr": "deneyimsel eğitim",
+      "meaning_en": "experiential education",
+      "meaning_uk": "експериментальна педагогіка",
+      "meaning_es": "educación vivencial"
+    },
+    {
+      "term": "schöpferisch",
+      "type": "Adjective",
+      "example": "Er ist in seiner Freizeit sehr *** tätig.",
+      "meaning_tr": "yaratıcı",
+      "meaning_en": "creative",
+      "meaning_uk": "творчий",
+      "meaning_es": "creativo"
+    },
+    {
+      "term": "die Begeisterung",
+      "type": "Noun",
+      "example": "Er spricht mit großer *** über sein Hobby.",
+      "meaning_tr": "coşku",
+      "meaning_en": "enthusiasm",
+      "meaning_uk": "захоплення",
+      "meaning_es": "entusiasmo"
+    }
+  ]
+}

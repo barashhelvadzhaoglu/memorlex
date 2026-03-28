@@ -3,7 +3,7 @@ import path from 'path';
 
 export async function getVocab(lang: string, subject: string, level: string, category: string, unit: string) {
   // 1. Öğrenilen dile göre ana klasörü belirle (Örn: german -> de)
-  const targetSub = subject === 'german' ? 'de' : subject;
+  const targetSub = subject === 'german' ? 'de' : subject === 'spanish' ? 'es' : subject === 'english' ? 'en' : subject;
   
   // 2. Dosya yolu (Artık tüm çeviriler tek bir merkezde: /de/ klasöründe)
   const filePath = path.join(

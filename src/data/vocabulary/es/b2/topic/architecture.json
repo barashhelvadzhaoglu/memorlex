@@ -1,0 +1,411 @@
+{
+  "title": "Arquitectura (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el rascacielos",
+      "type": "Noun",
+      "example": "*** es el edificio más alto de la ciudad.",
+      "meaning_tr": "gökdelen",
+      "meaning_en": "skyscraper",
+      "meaning_uk": "хмарочос",
+      "meaning_es": "edificio de gran altura"
+    },
+    {
+      "term": "la fachada",
+      "type": "Noun",
+      "example": "Han restaurado *** principal del museo.",
+      "meaning_tr": "cephe",
+      "meaning_en": "facade",
+      "meaning_uk": "фасад",
+      "meaning_es": "parte exterior de un edificio"
+    },
+    {
+      "term": "el plano",
+      "type": "Noun",
+      "example": "El arquitecto revisó *** antes de empezar la obra.",
+      "meaning_tr": "plan",
+      "meaning_en": "blueprint",
+      "meaning_uk": "креслення",
+      "meaning_es": "dibujo técnico de una construcción"
+    },
+    {
+      "term": "la cimentación",
+      "type": "Noun",
+      "example": "Es crucial reforzar *** para evitar grietas.",
+      "meaning_tr": "temel",
+      "meaning_en": "foundation",
+      "meaning_uk": "фундамент",
+      "meaning_es": "base sobre la que se construye"
+    },
+    {
+      "term": "el hormigón",
+      "type": "Noun",
+      "example": "Utilizaron *** armado para la estructura.",
+      "meaning_tr": "beton",
+      "meaning_en": "concrete",
+      "meaning_uk": "бетон",
+      "meaning_es": "material de construcción compuesto"
+    },
+    {
+      "term": "la bóveda",
+      "type": "Noun",
+      "example": "La catedral destaca por su impresionante *** gótica.",
+      "meaning_tr": "tonoz",
+      "meaning_en": "vault",
+      "meaning_uk": "склепіння",
+      "meaning_es": "techo curvo"
+    },
+    {
+      "term": "el vano",
+      "type": "Noun",
+      "example": "El *** de la ventana permite la entrada de luz.",
+      "meaning_tr": "açıklık",
+      "meaning_en": "opening",
+      "meaning_uk": "отвір",
+      "meaning_es": "hueco en un muro"
+    },
+    {
+      "term": "la sostenibilidad",
+      "type": "Noun",
+      "example": "El proyecto prioriza *** mediante materiales reciclados.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталість",
+      "meaning_es": "capacidad de mantenerse sin agotar recursos"
+    },
+    {
+      "term": "la viga",
+      "type": "Noun",
+      "example": "Una *** de acero sostiene el techo.",
+      "meaning_tr": "kiriş",
+      "meaning_en": "beam",
+      "meaning_uk": "балка",
+      "meaning_es": "elemento estructural horizontal"
+    },
+    {
+      "term": "el pilar",
+      "type": "Noun",
+      "example": "El peso recae sobre un *** central.",
+      "meaning_tr": "sütun",
+      "meaning_en": "pillar",
+      "meaning_uk": "колона",
+      "meaning_es": "elemento vertical de soporte"
+    },
+    {
+      "term": "la carpintería",
+      "type": "Noun",
+      "example": "La *** de madera le da calidez a la casa.",
+      "meaning_tr": "marangozluk",
+      "meaning_en": "carpentry",
+      "meaning_uk": "столярство",
+      "meaning_es": "trabajo de madera"
+    },
+    {
+      "term": "la cúpula",
+      "type": "Noun",
+      "example": "La *** del palacio es visible desde lejos.",
+      "meaning_tr": "kubbe",
+      "meaning_en": "dome",
+      "meaning_uk": "купол",
+      "meaning_es": "techo hemisférico"
+    },
+    {
+      "term": "el alzado",
+      "type": "Noun",
+      "example": "El arquitecto presentó el *** de la vivienda.",
+      "meaning_tr": "görünüş",
+      "meaning_en": "elevation",
+      "meaning_uk": "вигляд збоку",
+      "meaning_es": "representación vertical"
+    },
+    {
+      "term": "la normativa",
+      "type": "Noun",
+      "example": "Debemos cumplir con la *** urbanística vigente.",
+      "meaning_tr": "yönetmelik",
+      "meaning_en": "regulations",
+      "meaning_uk": "регламент",
+      "meaning_es": "conjunto de reglas"
+    },
+    {
+      "term": "el aislamiento",
+      "type": "Noun",
+      "example": "Un buen *** térmico ahorra mucha energía.",
+      "meaning_tr": "yalıtım",
+      "meaning_en": "insulation",
+      "meaning_uk": "ізоляція",
+      "meaning_es": "protección contra agentes externos"
+    },
+    {
+      "term": "la reforma",
+      "type": "Noun",
+      "example": "Hicieron una *** integral del apartamento.",
+      "meaning_tr": "tadilat",
+      "meaning_en": "renovation",
+      "meaning_uk": "ремонт",
+      "meaning_es": "modificación de una construcción"
+    },
+    {
+      "term": "el andamio",
+      "type": "Noun",
+      "example": "Los obreros subieron al *** para pintar.",
+      "meaning_tr": "iskele",
+      "meaning_en": "scaffolding",
+      "meaning_uk": "риштування",
+      "meaning_es": "estructura temporal"
+    },
+    {
+      "term": "el revestimiento",
+      "type": "Noun",
+      "example": "El *** de piedra protege la pared.",
+      "meaning_tr": "kaplama",
+      "meaning_en": "cladding",
+      "meaning_uk": "облицювання",
+      "meaning_es": "capa exterior de una superficie"
+    },
+    {
+      "term": "la urbanización",
+      "type": "Noun",
+      "example": "Viven en una *** a las afueras.",
+      "meaning_tr": "yerleşim alanı",
+      "meaning_en": "residential area",
+      "meaning_uk": "житловий масив",
+      "meaning_es": "conjunto de edificios residenciales"
+    },
+    {
+      "term": "el solar",
+      "type": "Noun",
+      "example": "Han comprado un *** para construir un hotel.",
+      "meaning_tr": "arsa",
+      "meaning_en": "plot",
+      "meaning_uk": "земельна ділянка",
+      "meaning_es": "terreno para construir"
+    },
+    {
+      "term": "la claraboya",
+      "type": "Noun",
+      "example": "La *** ilumina el pasillo central.",
+      "meaning_tr": "çatı penceresi",
+      "meaning_en": "skylight",
+      "meaning_uk": "мансардне вікно",
+      "meaning_es": "ventana en el techo"
+    },
+    {
+      "term": "el voladizo",
+      "type": "Noun",
+      "example": "La terraza tiene un *** impresionante.",
+      "meaning_tr": "çıkma",
+      "meaning_en": "overhang",
+      "meaning_uk": "консольний виступ",
+      "meaning_es": "parte saliente de una construcción"
+    },
+    {
+      "term": "el tejado",
+      "type": "Noun",
+      "example": "Hay que reparar el *** antes de que llueva.",
+      "meaning_tr": "çatı",
+      "meaning_en": "roof",
+      "meaning_uk": "дах",
+      "meaning_es": "parte superior de una casa"
+    },
+    {
+      "term": "la cota",
+      "type": "Noun",
+      "example": "La *** de altura está marcada en el plano.",
+      "meaning_tr": "kot",
+      "meaning_en": "level",
+      "meaning_uk": "відмітка висоти",
+      "meaning_es": "medida de altura"
+    },
+    {
+      "term": "diseñar",
+      "type": "Verb",
+      "example": "El arquitecto va a *** el nuevo centro cultural.",
+      "meaning_tr": "tasarlamak",
+      "meaning_en": "to design",
+      "meaning_uk": "проектувати",
+      "meaning_es": "crear un esquema o plano"
+    },
+    {
+      "term": "edificar",
+      "type": "Verb",
+      "example": "Van a *** un complejo deportivo aquí.",
+      "meaning_tr": "inşa etmek",
+      "meaning_en": "to build",
+      "meaning_uk": "будувати",
+      "meaning_es": "construir un edificio"
+    },
+    {
+      "term": "rehabilitar",
+      "type": "Verb",
+      "example": "Es importante *** los edificios históricos.",
+      "meaning_tr": "restore etmek",
+      "meaning_en": "to rehabilitate",
+      "meaning_uk": "реставрувати",
+      "meaning_es": "recuperar un edificio antiguo"
+    },
+    {
+      "term": "acristalar",
+      "type": "Verb",
+      "example": "Decidieron *** el balcón para ganar espacio.",
+      "meaning_tr": "camla kaplamak",
+      "meaning_en": "to glaze",
+      "meaning_uk": "склити",
+      "meaning_es": "poner cristales"
+    },
+    {
+      "term": "cimentar",
+      "type": "Verb",
+      "example": "Deben *** el suelo antes de levantar los muros.",
+      "meaning_tr": "temel atmak",
+      "meaning_en": "to lay foundations",
+      "meaning_uk": "закладати фундамент",
+      "meaning_es": "poner los cimientos"
+    },
+    {
+      "term": "estructural",
+      "type": "Adjective",
+      "example": "El ingeniero detectó un problema ***.",
+      "meaning_tr": "yapısal",
+      "meaning_en": "structural",
+      "meaning_uk": "структурний",
+      "meaning_es": "relativo a la estructura"
+    },
+    {
+      "term": "diáfano",
+      "type": "Adjective",
+      "example": "Queremos un salón amplio y ***.",
+      "meaning_tr": "açık, ferah",
+      "meaning_en": "open-plan",
+      "meaning_uk": "відкритий",
+      "meaning_es": "espacio sin divisiones"
+    },
+    {
+      "term": "prefabricado",
+      "type": "Adjective",
+      "example": "Usan paneles *** para acelerar la obra.",
+      "meaning_tr": "prefabrik",
+      "meaning_en": "prefabricated",
+      "meaning_uk": "збірний",
+      "meaning_es": "hecho con piezas previamente fabricadas"
+    },
+    {
+      "term": "monumental",
+      "type": "Adjective",
+      "example": "Es una obra de carácter ***.",
+      "meaning_tr": "anıtsal",
+      "meaning_en": "monumental",
+      "meaning_uk": "монументальний",
+      "meaning_es": "de gran tamaño o importancia"
+    },
+    {
+      "term": "funcional",
+      "type": "Adjective",
+      "example": "El diseño moderno es extremadamente ***.",
+      "meaning_tr": "işlevsel",
+      "meaning_en": "functional",
+      "meaning_uk": "функціональний",
+      "meaning_es": "que sirve para su función"
+    },
+    {
+      "term": "vanguardista",
+      "type": "Adjective",
+      "example": "Su estilo arquitectónico es muy ***.",
+      "meaning_tr": "avangart",
+      "meaning_en": "avant-garde",
+      "meaning_uk": "авангардний",
+      "meaning_es": "innovador"
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "example": "Este edificio es altamente ***.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "que respeta el medio ambiente"
+    },
+    {
+      "term": "minimalista",
+      "type": "Adjective",
+      "example": "La decoración es de estilo ***.",
+      "meaning_tr": "minimalist",
+      "meaning_en": "minimalist",
+      "meaning_uk": "мінімалістичний",
+      "meaning_es": "simple y austero"
+    },
+    {
+      "term": "bajo",
+      "type": "Preposition",
+      "example": "El edificio se construyó *** la supervisión de un experto.",
+      "meaning_tr": "altında",
+      "meaning_en": "under",
+      "meaning_uk": "під",
+      "meaning_es": "debajo de"
+    },
+    {
+      "term": "sobre",
+      "type": "Preposition",
+      "example": "La viga descansa *** los pilares.",
+      "meaning_tr": "üzerinde",
+      "meaning_en": "on",
+      "meaning_uk": "на",
+      "meaning_es": "encima de"
+    },
+    {
+      "term": "dentro de",
+      "type": "Preposition",
+      "example": "Todo el cableado va *** las paredes.",
+      "meaning_tr": "içinde",
+      "meaning_en": "inside",
+      "meaning_uk": "всередині",
+      "meaning_es": "en el interior de"
+    },
+    {
+      "term": "a través de",
+      "type": "Preposition",
+      "example": "La luz entra *** los grandes ventanales.",
+      "meaning_tr": "vasıtasıyla",
+      "meaning_en": "through",
+      "meaning_uk": "через",
+      "meaning_es": "pasando por"
+    },
+    {
+      "term": "asimismo",
+      "type": "Adverb",
+      "example": "El diseño es elegante; ***, es muy resistente.",
+      "meaning_tr": "aynı şekilde",
+      "meaning_en": "likewise",
+      "meaning_uk": "також",
+      "meaning_es": "además"
+    },
+    {
+      "term": "estéticamente",
+      "type": "Adverb",
+      "example": "El edificio está *** muy bien integrado.",
+      "meaning_tr": "estetik olarak",
+      "meaning_en": "aesthetically",
+      "meaning_uk": "естетично",
+      "meaning_es": "desde el punto de vista estético"
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "example": "*** es un edificio antiguo, está reformado.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "a pesar de que"
+    },
+    {
+      "term": "ya que",
+      "type": "Conjunction",
+      "example": "Usamos acero *** es más resistente.",
+      "meaning_tr": "çünkü",
+      "meaning_en": "because",
+      "meaning_uk": "оскільки",
+      "meaning_es": "debido a que"
+    }
+  ]
+}

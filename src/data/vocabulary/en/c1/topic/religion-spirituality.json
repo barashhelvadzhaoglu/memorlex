@@ -1,0 +1,546 @@
+{
+  "title": "Religion & Spirituality (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the dogma",
+      "type": "Noun",
+      "example": "He refused to accept the rigid *** of the institution without questioning it.",
+      "meaning_tr": "dogma",
+      "meaning_en": "a principle or set of principles laid down by an authority as incontrovertibly true",
+      "meaning_uk": "догма",
+      "meaning_es": "dogma"
+    },
+    {
+      "term": "to proselytize",
+      "type": "Verb",
+      "example": "Some activists are eager to *** their beliefs to anyone who will listen.",
+      "meaning_tr": "din değiştirmeye ikna etmek",
+      "meaning_en": "to attempt to convert someone from one religion, belief, or opinion to another",
+      "meaning_uk": "прозелітизувати",
+      "meaning_es": "proselitizar"
+    },
+    {
+      "term": "secular",
+      "type": "Adjective",
+      "example": "The country maintains a strictly *** government, separating church and state.",
+      "meaning_tr": "laik",
+      "meaning_en": "denoting attitudes, activities, or other things that have no religious or spiritual basis",
+      "meaning_uk": "світський",
+      "meaning_es": "secular"
+    },
+    {
+      "term": "an ascetic",
+      "type": "Noun",
+      "example": "The monk lived as an ***, renouncing all material possessions and comforts.",
+      "meaning_tr": "çileci",
+      "meaning_en": "a person who practices severe self-discipline and abstention from all forms of indulgence",
+      "meaning_uk": "аскет",
+      "meaning_es": "asceta"
+    },
+    {
+      "term": "sacrosanct",
+      "type": "Adjective",
+      "example": "In this culture, the family unit is considered *** and beyond criticism.",
+      "meaning_tr": "kutsal ve dokunulmaz",
+      "meaning_en": "regarded as too important or valuable to be interfered with",
+      "meaning_uk": "священний",
+      "meaning_es": "sacrosanto"
+    },
+    {
+      "term": "to revere",
+      "type": "Verb",
+      "example": "The community continues to *** the memory of their founding spiritual leader.",
+      "meaning_tr": "derin saygı duymak",
+      "meaning_en": "to feel deep respect or admiration for something",
+      "meaning_uk": "шанувати",
+      "meaning_es": "venerar"
+    },
+    {
+      "term": "the piety",
+      "type": "Noun",
+      "example": "Her quiet *** was evident in the way she spent hours in daily meditation.",
+      "meaning_tr": "dindarlık",
+      "meaning_en": "the quality of being religious or reverent",
+      "meaning_uk": "побожність",
+      "meaning_es": "piedad"
+    },
+    {
+      "term": "to blaspheme",
+      "type": "Verb",
+      "example": "He was accused of trying to *** against the sacred texts of the temple.",
+      "meaning_tr": "küfretmek (kutsal değerlere)",
+      "meaning_en": "to speak irreverently about God or sacred things",
+      "meaning_uk": "блюзнірствувати",
+      "meaning_es": "blasfemar"
+    },
+    {
+      "term": "the liturgy",
+      "type": "Noun",
+      "example": "The ancient *** was performed in a language that few congregants understood.",
+      "meaning_tr": "ayin",
+      "meaning_en": "a form or formulary according to which public religious worship is conducted",
+      "meaning_uk": "літургія",
+      "meaning_es": "liturgia"
+    },
+    {
+      "term": "transcendent",
+      "type": "Adjective",
+      "example": "Many mystics describe a *** experience that goes beyond physical reality.",
+      "meaning_tr": "aşkın",
+      "meaning_en": "beyond or above the range of normal or merely physical human experience",
+      "meaning_uk": "трансцендентний",
+      "meaning_es": "trascendente"
+    },
+    {
+      "term": "the heresy",
+      "type": "Noun",
+      "example": "His unconventional views were branded as *** by the high council.",
+      "meaning_tr": "sapkınlık",
+      "meaning_en": "belief or opinion contrary to orthodox religious doctrine",
+      "meaning_uk": "єресь",
+      "meaning_es": "herejía"
+    },
+    {
+      "term": "an agnostic",
+      "type": "Noun",
+      "example": "As an ***, he remains unconvinced by arguments for or against the existence of God.",
+      "meaning_tr": "agnostik",
+      "meaning_en": "a person who believes that nothing is known or can be known of the existence of God",
+      "meaning_uk": "агностик",
+      "meaning_es": "agnóstico"
+    },
+    {
+      "term": "the pilgrimage",
+      "type": "Noun",
+      "example": "Thousands of followers embark on a yearly *** to the holy mountain.",
+      "meaning_tr": "hac yolculuğu",
+      "meaning_en": "a pilgrim's journey to a place of religious significance",
+      "meaning_uk": "паломництво",
+      "meaning_es": "peregrinaje"
+    },
+    {
+      "term": "to consecrate",
+      "type": "Verb",
+      "example": "The bishop arrived to *** the new chapel and dedicate it to the saint.",
+      "meaning_tr": "kutsamak",
+      "meaning_en": "to make or declare something sacred",
+      "meaning_uk": "освятити",
+      "meaning_es": "consagrar"
+    },
+    {
+      "term": "esoteric",
+      "type": "Adjective",
+      "example": "They practiced an *** form of meditation known only to a select few initiates.",
+      "meaning_tr": "ezoterik",
+      "meaning_en": "intended for or likely to be understood by only a small number of people",
+      "meaning_uk": "езотеричний",
+      "meaning_es": "esotérico"
+    },
+    {
+      "term": "an epiphany",
+      "type": "Noun",
+      "example": "She had a sudden *** while walking in the woods, realizing the interconnectedness of life.",
+      "meaning_tr": "aydınlanma anı",
+      "meaning_en": "a moment of sudden revelation or insight",
+      "meaning_uk": "прозріння",
+      "meaning_es": "epifanía"
+    },
+    {
+      "term": "the clergy",
+      "type": "Noun",
+      "example": "The *** gathered to discuss the new reforms within the church hierarchy.",
+      "meaning_tr": "din adamları sınıfı",
+      "meaning_en": "the body of all people ordained for religious duties",
+      "meaning_uk": "духовенство",
+      "meaning_es": "clero"
+    },
+    {
+      "term": "to venerate",
+      "type": "Verb",
+      "example": "Believers *** the relics of the saints kept in the cathedral.",
+      "meaning_tr": "büyük saygı göstermek",
+      "meaning_en": "to regard with great respect",
+      "meaning_uk": "шанувати",
+      "meaning_es": "venerar"
+    },
+    {
+      "term": "the schism",
+      "type": "Noun",
+      "example": "The disagreement over leadership led to a permanent *** within the congregation.",
+      "meaning_tr": "ayrılık",
+      "meaning_en": "a split or division between strongly opposed sections or parties",
+      "meaning_uk": "розкол",
+      "meaning_es": "cisma"
+    },
+    {
+      "term": "the mysticism",
+      "type": "Noun",
+      "example": "His work explores the deep *** found in traditional Eastern philosophies.",
+      "meaning_tr": "mistisizm",
+      "meaning_en": "belief that union with or absorption into the Deity or the absolute may be attained through contemplation",
+      "meaning_uk": "містицизм",
+      "meaning_es": "misticismo"
+    },
+    {
+      "term": "the creed",
+      "type": "Noun",
+      "example": "They lived according to a simple *** of kindness and charity.",
+      "meaning_tr": "inanç ilkesi",
+      "meaning_en": "a system of Christian or other religious belief; a faith",
+      "meaning_uk": "кредо",
+      "meaning_es": "credo"
+    },
+    {
+      "term": "divine",
+      "type": "Adjective",
+      "example": "The poet claimed that his inspiration came from a *** source.",
+      "meaning_tr": "ilahi",
+      "meaning_en": "of, from, or like God or a god",
+      "meaning_uk": "божественний",
+      "meaning_es": "divino"
+    },
+    {
+      "term": "the zealot",
+      "type": "Noun",
+      "example": "He was a religious *** who would not tolerate any deviation from his interpretation.",
+      "meaning_tr": "bağnaz kimse",
+      "meaning_en": "a person who is fanatical and uncompromising in pursuit of their religious ideals",
+      "meaning_uk": "фанатик",
+      "meaning_es": "fanático"
+    },
+    {
+      "term": "to repent",
+      "type": "Verb",
+      "example": "The sermon urged the congregation to *** for their past wrongdoings.",
+      "meaning_tr": "tövbe etmek",
+      "meaning_en": "to feel or express sincere regret about one's wrongdoing or sin",
+      "meaning_uk": "каятися",
+      "meaning_es": "arrepentirse"
+    },
+    {
+      "term": "mundane",
+      "type": "Adjective",
+      "example": "He sought to escape his *** existence through deep spiritual practice.",
+      "meaning_tr": "dünyevi",
+      "meaning_en": "lacking interest or excitement; dull; relating to the earthly world",
+      "meaning_uk": "буденний",
+      "meaning_es": "mundano"
+    },
+    {
+      "term": "the theology",
+      "type": "Noun",
+      "example": "She enrolled in the seminary to study advanced systematic ***.",
+      "meaning_tr": "ilahiyat",
+      "meaning_en": "the study of the nature of God and religious belief",
+      "meaning_uk": "богослов'я",
+      "meaning_es": "teología"
+    },
+    {
+      "term": "to absolve",
+      "type": "Verb",
+      "example": "The priest prayed to *** him of all his sins.",
+      "meaning_tr": "günahını bağışlamak",
+      "meaning_en": "to declare someone free from blame, guilt, or sin",
+      "meaning_uk": "відпускати гріхи",
+      "meaning_es": "absolver"
+    },
+    {
+      "term": "immanent",
+      "type": "Adjective",
+      "example": "Some religions believe that God is ***, present in all things in the material world.",
+      "meaning_tr": "içkin",
+      "meaning_en": "existing or operating within; inherent",
+      "meaning_uk": "іманентний",
+      "meaning_es": "inmanente"
+    },
+    {
+      "term": "the pantheon",
+      "type": "Noun",
+      "example": "The ancient Greeks worshipped a vast *** of gods and goddesses.",
+      "meaning_tr": "panteon",
+      "meaning_en": "all the gods of a people or religion collectively",
+      "meaning_uk": "пантеон",
+      "meaning_es": "panteón"
+    },
+    {
+      "term": "the liturgy",
+      "type": "Noun",
+      "example": "The choir practiced the complex *** for the upcoming holiday service.",
+      "meaning_tr": "ayin",
+      "meaning_en": "a form of public religious worship",
+      "meaning_uk": "літургія",
+      "meaning_es": "liturgia"
+    },
+    {
+      "term": "the providence",
+      "type": "Noun",
+      "example": "They viewed their miraculous survival as an act of divine ***.",
+      "meaning_tr": "ilahi takdir",
+      "meaning_en": "the protective care of God or of nature as a spiritual power",
+      "meaning_uk": "провидіння",
+      "meaning_es": "providencia"
+    },
+    {
+      "term": "to excommunicate",
+      "type": "Verb",
+      "example": "The church decided to *** him for refusing to follow the established rules.",
+      "meaning_tr": "aforoz etmek",
+      "meaning_en": "to officially exclude someone from participation in the sacraments and services of the Christian Church",
+      "meaning_uk": "відлучати від церкви",
+      "meaning_es": "excomulgar"
+    },
+    {
+      "term": "the canon",
+      "type": "Noun",
+      "example": "The religious leaders debated which books should be included in the official ***.",
+      "meaning_tr": "kutsal kitap külliyatı",
+      "meaning_en": "a general law, rule, principle, or criterion by which something is judged",
+      "meaning_uk": "канон",
+      "meaning_es": "canon"
+    },
+    {
+      "term": "to proselytize",
+      "type": "Verb",
+      "example": "The group was accused of trying to *** members of the local community.",
+      "meaning_tr": "din değiştirmeye çalışmak",
+      "meaning_en": "to attempt to convert someone to one's own religion",
+      "meaning_uk": "прозелітизувати",
+      "meaning_es": "proselitizar"
+    },
+    {
+      "term": "the sanctity",
+      "type": "Noun",
+      "example": "He spoke about the *** of human life and the importance of compassion.",
+      "meaning_tr": "kutsallık",
+      "meaning_en": "the state or quality of being holy, sacred, or saintly",
+      "meaning_uk": "святість",
+      "meaning_es": "santidad"
+    },
+    {
+      "term": "to ordain",
+      "type": "Verb",
+      "example": "The bishop will *** the new deacons during the Sunday mass.",
+      "meaning_tr": "din görevlisi olarak atamak",
+      "meaning_en": "to make someone a priest or minister; confer holy orders on",
+      "meaning_uk": "висвячувати",
+      "meaning_es": "ordenar"
+    },
+    {
+      "term": "the rite",
+      "type": "Noun",
+      "example": "The passage to adulthood was marked by an ancient initiation ***.",
+      "meaning_tr": "ayin",
+      "meaning_en": "a religious or other solemn ceremony or act",
+      "meaning_uk": "обряд",
+      "meaning_es": "rito"
+    },
+    {
+      "term": "the secularism",
+      "type": "Noun",
+      "example": "The rise of *** has led to a decline in traditional religious observance.",
+      "meaning_tr": "laiklik",
+      "meaning_en": "the principle of separation of the state from religious institutions",
+      "meaning_uk": "секуляризм",
+      "meaning_es": "secularismo"
+    },
+    {
+      "term": "the asceticism",
+      "type": "Noun",
+      "example": "His extreme *** involved fasting for days on end.",
+      "meaning_tr": "çilecilik",
+      "meaning_en": "severe self-discipline and avoidance of all forms of indulgence",
+      "meaning_uk": "аскетизм",
+      "meaning_es": "ascetismo"
+    },
+    {
+      "term": "the sacrilege",
+      "type": "Noun",
+      "example": "Stealing from the temple was considered a grave ***.",
+      "meaning_tr": "kutsallığa hakaret",
+      "meaning_en": "violation or misuse of what is regarded as sacred",
+      "meaning_uk": "святотатство",
+      "meaning_es": "sacrilegio"
+    },
+    {
+      "term": "the doctrine",
+      "type": "Noun",
+      "example": "The core *** of the faith emphasizes love and forgiveness.",
+      "meaning_tr": "doktrin",
+      "meaning_en": "a belief or set of beliefs held and taught by a Church, political party, or other group",
+      "meaning_uk": "доктрина",
+      "meaning_es": "doctrina"
+    },
+    {
+      "term": "to invoke",
+      "type": "Verb",
+      "example": "The priest began to *** the name of the deity in his opening prayer.",
+      "meaning_tr": "dua ile çağırmak",
+      "meaning_en": "to call on a deity or spirit in prayer, as a witness, or for inspiration",
+      "meaning_uk": "закликати",
+      "meaning_es": "invocar"
+    },
+    {
+      "term": "the sect",
+      "type": "Noun",
+      "example": "They belong to a small, reclusive *** that lives away from modern society.",
+      "meaning_tr": "mezhep",
+      "meaning_en": "a group of people with somewhat different religious beliefs from those of a larger group",
+      "meaning_uk": "секта",
+      "meaning_es": "secta"
+    },
+    {
+      "term": "the incarnation",
+      "type": "Noun",
+      "example": "Many traditions believe in the *** of the divine into human form.",
+      "meaning_tr": "enkarnasyon (cismanileşme)",
+      "meaning_en": "a person who embodies in the flesh a deity, spirit, or abstract quality",
+      "meaning_uk": "втілення",
+      "meaning_es": "encarnación"
+    },
+    {
+      "term": "the blasphemy",
+      "type": "Noun",
+      "example": "He was condemned for his public *** against the temple's teachings.",
+      "meaning_tr": "küfür",
+      "meaning_en": "the act of insulting or showing contempt or lack of reverence for God",
+      "meaning_uk": "блюзнірство",
+      "meaning_es": "blasfemia"
+    },
+    {
+      "term": "to meditate",
+      "type": "Verb",
+      "example": "She likes to *** in the garden every morning before the sun rises.",
+      "meaning_tr": "meditasyon yapmak",
+      "meaning_en": "to think deeply or focus one's mind for a period of time, in silence or with the aid of chanting",
+      "meaning_uk": "медитувати",
+      "meaning_es": "meditar"
+    },
+    {
+      "term": "the idolatry",
+      "type": "Noun",
+      "example": "The prophets warned against the *** of worshipping man-made images.",
+      "meaning_tr": "putperestlik",
+      "meaning_en": "the worship of idols",
+      "meaning_uk": "ідолопоклонство",
+      "meaning_es": "idolatría"
+    },
+    {
+      "term": "the dogma",
+      "type": "Noun",
+      "example": "They were taught to accept the *** without question or doubt.",
+      "meaning_tr": "dogma",
+      "meaning_en": "a principle or set of principles laid down by an authority as incontrovertibly true",
+      "meaning_uk": "догма",
+      "meaning_es": "dogma"
+    },
+    {
+      "term": "the congregation",
+      "type": "Noun",
+      "example": "The entire *** stood up to sing the closing hymn.",
+      "meaning_tr": "cemaat",
+      "meaning_en": "a group of people assembled for religious worship",
+      "meaning_uk": "паства",
+      "meaning_es": "congregación"
+    },
+    {
+      "term": "the liturgy",
+      "type": "Noun",
+      "example": "The priest followed the traditional *** for the Easter service.",
+      "meaning_tr": "ayin",
+      "meaning_en": "a form of public religious worship",
+      "meaning_uk": "літургія",
+      "meaning_es": "liturgia"
+    },
+    {
+      "term": "the pantheism",
+      "type": "Noun",
+      "example": "His worldview is rooted in ***, believing that God is everything in the universe.",
+      "meaning_tr": "panteizm",
+      "meaning_en": "a doctrine that identifies God with the universe, or regards the universe as a manifestation of God",
+      "meaning_uk": "пантеїзм",
+      "meaning_es": "panteísmo"
+    },
+    {
+      "term": "the dogma",
+      "type": "Noun",
+      "example": "He spent years studying the complex *** of the medieval church.",
+      "meaning_tr": "dogma",
+      "meaning_en": "a doctrine or body of doctrines formally proclaimed by a church",
+      "meaning_uk": "догма",
+      "meaning_es": "dogma"
+    },
+    {
+      "term": "to proselytize",
+      "type": "Verb",
+      "example": "They were sent abroad to *** in regions where the faith was unknown.",
+      "meaning_tr": "misyonerlik yapmak",
+      "meaning_en": "to recruit new members to a religion",
+      "meaning_uk": "прозелітизувати",
+      "meaning_es": "proselitizar"
+    },
+    {
+      "term": "the heresy",
+      "type": "Noun",
+      "example": "Even discussing such topics was considered a dangerous ***.",
+      "meaning_tr": "sapkınlık",
+      "meaning_en": "an opinion or doctrine at variance with the orthodox or accepted doctrine",
+      "meaning_uk": "єресь",
+      "meaning_es": "herejía"
+    },
+    {
+      "term": "the epiphany",
+      "type": "Noun",
+      "example": "The religious text describes an *** where the truth was revealed to the prophet.",
+      "meaning_tr": "ilahi vahiy",
+      "meaning_en": "a manifestation of a divine or supernatural being",
+      "meaning_uk": "об'явлення",
+      "meaning_es": "epifanía"
+    },
+    {
+      "term": "the clergy",
+      "type": "Noun",
+      "example": "The local *** was very active in social work within the city.",
+      "meaning_tr": "din adamları",
+      "meaning_en": "the collective body of people ordained as religious ministers",
+      "meaning_uk": "духовенство",
+      "meaning_es": "clero"
+    },
+    {
+      "term": "to revere",
+      "type": "Verb",
+      "example": "The people continue to *** the old traditions passed down for generations.",
+      "meaning_tr": "saygı duymak",
+      "meaning_en": "to regard with great respect",
+      "meaning_uk": "шанувати",
+      "meaning_es": "venerar"
+    },
+    {
+      "term": "the piety",
+      "type": "Noun",
+      "example": "His life was a testament to his deep *** and selfless service to others.",
+      "meaning_tr": "dindarlık",
+      "meaning_en": "devoutness; religious devotion",
+      "meaning_uk": "побожність",
+      "meaning_es": "piedad"
+    },
+    {
+      "term": "to consecrate",
+      "type": "Verb",
+      "example": "The ground was *** as a final resting place for the martyrs.",
+      "meaning_tr": "kutsamak",
+      "meaning_en": "to dedicate formally to a religious or divine purpose",
+      "meaning_uk": "освятити",
+      "meaning_es": "consagrar"
+    },
+    {
+      "term": "esoteric",
+      "type": "Adjective",
+      "example": "He delved into *** texts that were not meant for the general public.",
+      "meaning_tr": "ezoterik",
+      "meaning_en": "understood by or meant for only the select few who have special knowledge",
+      "meaning_uk": "езотеричний",
+      "meaning_es": "esotérico"
+    }
+  ]
+}

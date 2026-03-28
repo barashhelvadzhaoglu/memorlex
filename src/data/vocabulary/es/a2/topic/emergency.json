@@ -1,0 +1,231 @@
+{
+  "title": "Emergencias y Ayuda (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la emergencia",
+      "type": "Noun",
+      "example": "Llama al 112 en caso de ***.",
+      "meaning_tr": "acil durum",
+      "meaning_en": "emergency",
+      "meaning_uk": "надзвичайна ситуація",
+      "meaning_es": "situación crítica que requiere atención inmediata"
+    },
+    {
+      "term": "el accidente",
+      "type": "Noun",
+      "example": "He visto un *** en la calle principal.",
+      "meaning_tr": "kaza",
+      "meaning_en": "accident",
+      "meaning_uk": "аварія",
+      "meaning_es": "suceso eventual que causa daño"
+    },
+    {
+      "term": "la ambulancia",
+      "type": "Noun",
+      "example": "Necesitamos llamar a *** pronto.",
+      "meaning_tr": "ambulans",
+      "meaning_en": "ambulance",
+      "meaning_uk": "швидка допомога",
+      "meaning_es": "vehículo para transportar enfermos o heridos"
+    },
+    {
+      "term": "ayudar",
+      "type": "Verb",
+      "example": "Por favor, ¿puede ***me con esto?",
+      "meaning_tr": "yardım etmek",
+      "meaning_en": "to help",
+      "meaning_uk": "допомагати",
+      "meaning_es": "prestar apoyo o auxilio a alguien"
+    },
+    {
+      "term": "el hospital",
+      "type": "Noun",
+      "example": "El médico trabaja en este ***.",
+      "meaning_tr": "hastane",
+      "meaning_en": "hospital",
+      "meaning_uk": "лікарня",
+      "meaning_es": "lugar donde se cura a los enfermos"
+    },
+    {
+      "term": "la policía",
+      "type": "Noun",
+      "example": "Llama a *** si ves algo extraño.",
+      "meaning_tr": "polis",
+      "meaning_en": "police",
+      "meaning_uk": "поліція",
+      "meaning_es": "fuerza de seguridad pública"
+    },
+    {
+      "term": "el dolor",
+      "type": "Noun",
+      "example": "Siento mucho *** en el brazo.",
+      "meaning_tr": "ağrı",
+      "meaning_en": "pain",
+      "meaning_uk": "біль",
+      "meaning_es": "sensación molesta o aflictiva"
+    },
+    {
+      "term": "peligroso",
+      "type": "Adjective",
+      "example": "No cruces el puente, es muy ***.",
+      "meaning_tr": "tehlikeli",
+      "meaning_en": "dangerous",
+      "meaning_uk": "небезпечний",
+      "meaning_es": "que puede causar daño"
+    },
+    {
+      "term": "llamar",
+      "type": "Verb",
+      "example": "Debes *** a los bomberos ahora.",
+      "meaning_tr": "aramak",
+      "meaning_en": "to call",
+      "meaning_uk": "дзвонити",
+      "meaning_es": "comunicarse por teléfono o gritar"
+    },
+    {
+      "term": "herido",
+      "type": "Adjective",
+      "example": "Hay una persona *** en el suelo.",
+      "meaning_tr": "yaralı",
+      "meaning_en": "injured",
+      "meaning_uk": "поранений",
+      "meaning_es": "que tiene una herida o daño físico"
+    },
+    {
+      "term": "la farmacia",
+      "type": "Noun",
+      "example": "Voy a la *** a comprar medicinas.",
+      "meaning_tr": "eczane",
+      "meaning_en": "pharmacy",
+      "meaning_uk": "аптека",
+      "meaning_es": "tienda donde se venden medicamentos"
+    },
+    {
+      "term": "rápido",
+      "type": "Adverb",
+      "example": "¡Por favor, ven muy ***!",
+      "meaning_tr": "hızlı",
+      "meaning_en": "fast",
+      "meaning_uk": "швидко",
+      "meaning_es": "con gran velocidad"
+    },
+    {
+      "term": "el médico",
+      "type": "Noun",
+      "example": "Necesito ver a un *** urgentemente.",
+      "meaning_tr": "doktor",
+      "meaning_en": "doctor",
+      "meaning_uk": "лікар",
+      "meaning_es": "profesional de la medicina"
+    },
+    {
+      "term": "perderse",
+      "type": "Verb",
+      "example": "Creo que nos hemos *** en el bosque.",
+      "meaning_tr": "kaybolmak",
+      "meaning_en": "to get lost",
+      "meaning_uk": "загубитися",
+      "meaning_es": "no saber dónde se está"
+    },
+    {
+      "term": "la medicina",
+      "type": "Noun",
+      "example": "Tengo que tomar esta *** cada ocho horas.",
+      "meaning_tr": "ilaç",
+      "meaning_en": "medicine",
+      "meaning_uk": "ліки",
+      "meaning_es": "sustancia para curar enfermedades"
+    },
+    {
+      "term": "el fuego",
+      "type": "Noun",
+      "example": "¡Cuidado, hay *** en la cocina!",
+      "meaning_tr": "ateş",
+      "meaning_en": "fire",
+      "meaning_uk": "вогонь",
+      "meaning_es": "combustión que produce luz y calor"
+    },
+    {
+      "term": "urgente",
+      "type": "Adjective",
+      "example": "Tengo un mensaje *** para ti.",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміновий",
+      "meaning_es": "que requiere atención inmediata"
+    },
+    {
+      "term": "la dirección",
+      "type": "Noun",
+      "example": "¿Cuál es la *** de tu casa?",
+      "meaning_tr": "adres",
+      "meaning_en": "address",
+      "meaning_uk": "адреса",
+      "meaning_es": "lugar donde vive alguien o ubicación"
+    },
+    {
+      "term": "robar",
+      "type": "Verb",
+      "example": "Alguien me ha *** la cartera.",
+      "meaning_tr": "çalmak",
+      "meaning_en": "to steal",
+      "meaning_uk": "красти",
+      "meaning_es": "tomar algo ajeno sin permiso"
+    },
+    {
+      "term": "cuidado",
+      "type": "Noun",
+      "example": "¡Ten *** al cruzar la calle!",
+      "meaning_tr": "dikkat",
+      "meaning_en": "care/caution",
+      "meaning_uk": "обережність",
+      "meaning_es": "atención o vigilancia"
+    },
+    {
+      "term": "la sangre",
+      "type": "Noun",
+      "example": "Tiene un poco de *** en la mano.",
+      "meaning_tr": "kan",
+      "meaning_en": "blood",
+      "meaning_uk": "кров",
+      "meaning_es": "líquido rojo que recorre el cuerpo"
+    },
+    {
+      "term": "salvar",
+      "type": "Verb",
+      "example": "El bombero pudo *** al gato.",
+      "meaning_tr": "kurtarmak",
+      "meaning_en": "to save",
+      "meaning_uk": "рятувати",
+      "meaning_es": "librar de un peligro"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "Quiero ayudar, *** no sé cómo.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "la ayuda",
+      "type": "Noun",
+      "example": "Necesito ***, por favor.",
+      "meaning_tr": "yardım",
+      "meaning_en": "help",
+      "meaning_uk": "допомога",
+      "meaning_es": "acción de ayudar"
+    },
+    {
+      "term": "cerca",
+      "type": "Adverb",
+      "example": "¿Hay una farmacia ***?",
+      "meaning_tr": "yakın",
+      "meaning_en": "near",
+      "meaning_uk": "поруч",
+      "meaning_es": "a poca distancia"
+    }
+  ]
+}

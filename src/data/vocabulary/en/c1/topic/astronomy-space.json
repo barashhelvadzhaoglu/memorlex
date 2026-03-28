@@ -1,0 +1,546 @@
+{
+  "title": "Astronomy & Space (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the accretion disk",
+      "type": "Noun",
+      "example": "Matter spiraling into a black hole forms ***.",
+      "meaning_tr": "yığılma diski",
+      "meaning_en": "a rotating disk of matter formed by accretion around a massive body",
+      "meaning_uk": "акреційний диск",
+      "meaning_es": "disco de acreción"
+    },
+    {
+      "term": "to oscillate",
+      "type": "Verb",
+      "example": "The star's brightness began to *** due to periodic pulsations.",
+      "meaning_tr": "salınmak",
+      "meaning_en": "to move or swing back and forth at a regular speed",
+      "meaning_uk": "коливатися",
+      "meaning_es": "oscilar"
+    },
+    {
+      "term": "celestial",
+      "type": "Adjective",
+      "example": "Ancient navigators used *** bodies to find their way across the ocean.",
+      "meaning_tr": "gök ile ilgili",
+      "meaning_en": "positioned in or relating to the sky, or outer space",
+      "meaning_uk": "небесний",
+      "meaning_es": "celestial"
+    },
+    {
+      "term": "the singularity",
+      "type": "Noun",
+      "example": "At the center of a black hole lies a gravitational ***.",
+      "meaning_tr": "tekillik",
+      "meaning_en": "a point in space-time at which gravitational forces cause matter to have infinite density",
+      "meaning_uk": "сингулярність",
+      "meaning_es": "singularidad"
+    },
+    {
+      "term": "interstellar",
+      "type": "Adjective",
+      "example": "The probe is currently traveling through the *** medium.",
+      "meaning_tr": "yıldızlararası",
+      "meaning_en": "occurring or situated between stars",
+      "meaning_uk": "міжзоряний",
+      "meaning_es": "interestelar"
+    },
+    {
+      "term": "the magnitude",
+      "type": "Noun",
+      "example": "Astronomers measure the brightness of stars using a scale of ***.",
+      "meaning_tr": "kadir (parlaklık derecesi)",
+      "meaning_en": "the great size or extent of something; in astronomy, the brightness of a star",
+      "meaning_uk": "зоряна величина",
+      "meaning_es": "magnitud"
+    },
+    {
+      "term": "to coalesce",
+      "type": "Verb",
+      "example": "Gas clouds began to *** under the influence of gravity to form protostars.",
+      "meaning_tr": "birleşmek",
+      "meaning_en": "to come together to form one mass or whole",
+      "meaning_uk": "зливатися",
+      "meaning_es": "fusionarse"
+    },
+    {
+      "term": "the luminosity",
+      "type": "Noun",
+      "example": "The star's *** is thousands of times greater than that of the Sun.",
+      "meaning_tr": "ışınım gücü",
+      "meaning_en": "the total amount of energy emitted by a star, galaxy, or other astronomical object",
+      "meaning_uk": "світність",
+      "meaning_es": "luminosidad"
+    },
+    {
+      "term": "extraterrestrial",
+      "type": "Adjective",
+      "example": "Scientists are actively searching for signs of *** intelligence.",
+      "meaning_tr": "dünya dışı",
+      "meaning_en": "relating to or coming from outside the earth or its atmosphere",
+      "meaning_uk": "позаземний",
+      "meaning_es": "extraterrestre"
+    },
+    {
+      "term": "the nebula",
+      "type": "Noun",
+      "example": "The Orion *** is a massive cloud of dust and gas where stars are born.",
+      "meaning_tr": "bulutsu",
+      "meaning_en": "a cloud of gas and dust in outer space",
+      "meaning_uk": "туманність",
+      "meaning_es": "nebulosa"
+    },
+    {
+      "term": "to traverse",
+      "type": "Verb",
+      "example": "The spacecraft will *** the vast distances between the outer planets.",
+      "meaning_tr": "katetmek",
+      "meaning_en": "to travel across or through",
+      "meaning_uk": "перетинати",
+      "meaning_es": "atravesar"
+    },
+    {
+      "term": "the zenith",
+      "type": "Noun",
+      "example": "The star reached its *** directly above the observer.",
+      "meaning_tr": "başucu",
+      "meaning_en": "the point in the sky or celestial sphere directly above an observer",
+      "meaning_uk": "зеніт",
+      "meaning_es": "cenit"
+    },
+    {
+      "term": "ephemeral",
+      "type": "Adjective",
+      "example": "Supernovae are *** events in the context of cosmic time.",
+      "meaning_tr": "kısa ömürlü",
+      "meaning_en": "lasting for a very short time",
+      "meaning_uk": "ефемерний",
+      "meaning_es": "efímero"
+    },
+    {
+      "term": "the trajectory",
+      "type": "Noun",
+      "example": "The probe's flight *** was calculated to use a gravity assist from Jupiter.",
+      "meaning_tr": "yörünge/gidiş yolu",
+      "meaning_en": "the path followed by a projectile flying or an object moving under the action of given forces",
+      "meaning_uk": "траєкторія",
+      "meaning_es": "trayectoria"
+    },
+    {
+      "term": "to attenuate",
+      "type": "Verb",
+      "example": "The interstellar dust will *** the light reaching our telescopes.",
+      "meaning_tr": "zayıflatmak",
+      "meaning_en": "to reduce the force, effect, or value of",
+      "meaning_uk": "послаблювати",
+      "meaning_es": "atenuar"
+    },
+    {
+      "term": "the parallax",
+      "type": "Noun",
+      "example": "Astronomers use *** to calculate the distance to nearby stars.",
+      "meaning_tr": "ıraklık açısı",
+      "meaning_en": "the effect whereby the position or direction of an object appears to differ when viewed from different positions",
+      "meaning_uk": "паралакс",
+      "meaning_es": "paralaje"
+    },
+    {
+      "term": "incandescent",
+      "type": "Adjective",
+      "example": "The *** gas of the corona is visible during a total solar eclipse.",
+      "meaning_tr": "akkor",
+      "meaning_en": "emitting light as a result of being heated",
+      "meaning_uk": "розжарений",
+      "meaning_es": "incandescente"
+    },
+    {
+      "term": "the perihelion",
+      "type": "Noun",
+      "example": "The planet moves fastest when it is at its ***.",
+      "meaning_tr": "günberi",
+      "meaning_en": "the point in the orbit of a planet or comet at which it is nearest to the sun",
+      "meaning_uk": "перигелій",
+      "meaning_es": "perihelio"
+    },
+    {
+      "term": "to emanate",
+      "type": "Verb",
+      "example": "Powerful radio waves *** from the center of the galaxy.",
+      "meaning_tr": "yayılmak",
+      "meaning_en": "to issue or spread out from a source",
+      "meaning_uk": "виходити/випромінюватися",
+      "meaning_es": "emanar"
+    },
+    {
+      "term": "the aperture",
+      "type": "Noun",
+      "example": "A larger telescope *** allows for more light collection.",
+      "meaning_tr": "açıklık",
+      "meaning_en": "the diameter of the opening through which light enters a telescope",
+      "meaning_uk": "апертура",
+      "meaning_es": "apertura"
+    },
+    {
+      "term": "oblique",
+      "type": "Adjective",
+      "example": "The planet's axis has an *** tilt relative to its orbital plane.",
+      "meaning_tr": "eğik",
+      "meaning_en": "neither parallel nor at a right angle to a specified or implied line",
+      "meaning_uk": "похилий",
+      "meaning_es": "oblicuo"
+    },
+    {
+      "term": "the heliosphere",
+      "type": "Noun",
+      "example": "The Voyager probes have finally exited the ***.",
+      "meaning_tr": "güneş küre",
+      "meaning_en": "the region of space, encompassing the solar system, in which the solar wind has a significant influence",
+      "meaning_uk": "геліосфера",
+      "meaning_es": "heliosfera"
+    },
+    {
+      "term": "to scrutinize",
+      "type": "Verb",
+      "example": "Astrophysicists continue to *** the data from the new deep-space survey.",
+      "meaning_tr": "incelemek",
+      "meaning_en": "to examine or inspect closely and thoroughly",
+      "meaning_uk": "ретельно вивчати",
+      "meaning_es": "escrutar"
+    },
+    {
+      "term": "the spectroscopy",
+      "type": "Noun",
+      "example": "Through ***, we can determine the chemical composition of distant stars.",
+      "meaning_tr": "spektroskopi",
+      "meaning_en": "the study of the interaction between matter and electromagnetic radiation",
+      "meaning_uk": "спектроскопія",
+      "meaning_es": "espectroscopia"
+    },
+    {
+      "term": "primordial",
+      "type": "Adjective",
+      "example": "The cosmic microwave background radiation is a relic of the *** universe.",
+      "meaning_tr": "ilkel",
+      "meaning_en": "existing at or from the beginning of time",
+      "meaning_uk": "первісний",
+      "meaning_es": "primordial"
+    },
+    {
+      "term": "the continuum",
+      "type": "Noun",
+      "example": "The light spectrum shows a continuous *** of wavelengths.",
+      "meaning_tr": "süreklilik",
+      "meaning_en": "a continuous sequence in which adjacent elements are not perceptibly different from each other",
+      "meaning_uk": "континуум",
+      "meaning_es": "continuo"
+    },
+    {
+      "term": "to dissipate",
+      "type": "Verb",
+      "example": "The heat from the star will eventually *** into the vacuum of space.",
+      "meaning_tr": "dağılmak/yok olmak",
+      "meaning_en": "to disappear or cause to disappear",
+      "meaning_uk": "розсіюватися",
+      "meaning_es": "disipar"
+    },
+    {
+      "term": "the eccentricity",
+      "type": "Noun",
+      "example": "Comets often have an orbit with very high ***.",
+      "meaning_tr": "dış merkezlilik",
+      "meaning_en": "a parameter that determines the amount by which an orbit deviates from a perfect circle",
+      "meaning_uk": "ексцентриситет",
+      "meaning_es": "excentricidad"
+    },
+    {
+      "term": "subatomic",
+      "type": "Adjective",
+      "example": "Neutrinos are *** particles that pass through ordinary matter.",
+      "meaning_tr": "atom altı",
+      "meaning_en": "smaller than an atom",
+      "meaning_uk": "субатомний",
+      "meaning_es": "subatómico"
+    },
+    {
+      "term": "the equinox",
+      "type": "Noun",
+      "example": "During the ***, day and night are approximately equal in length everywhere.",
+      "meaning_tr": "ekinoks",
+      "meaning_en": "the time or date at which the sun crosses the celestial equator",
+      "meaning_uk": "рівнодення",
+      "meaning_es": "equinoccio"
+    },
+    {
+      "term": "to traverse",
+      "type": "Verb",
+      "example": "The light must *** the entire galaxy to reach our detectors.",
+      "meaning_tr": "katetmek",
+      "meaning_en": "to travel across or through",
+      "meaning_uk": "перетинати",
+      "meaning_es": "atravesar"
+    },
+    {
+      "term": "the redshift",
+      "type": "Noun",
+      "example": "The *** of distant galaxies provides evidence for the expansion of the universe.",
+      "meaning_tr": "kırmızıya kayma",
+      "meaning_en": "the displacement of spectral lines toward longer wavelengths in radiation from distant galaxies",
+      "meaning_uk": "червоне зміщення",
+      "meaning_es": "corrimiento al rojo"
+    },
+    {
+      "term": "anisotropy",
+      "type": "Noun",
+      "example": "Small fluctuations in the cosmic background radiation reveal an *** in the early universe.",
+      "meaning_tr": "anizotropi",
+      "meaning_en": "the quality of being directionally dependent",
+      "meaning_uk": "анізотропія",
+      "meaning_es": "anisotropía"
+    },
+    {
+      "term": "the aphelion",
+      "type": "Noun",
+      "example": "The Earth is furthest from the Sun at its ***.",
+      "meaning_tr": "günöte",
+      "meaning_en": "the point in the orbit of a planet or comet at which it is furthest from the sun",
+      "meaning_uk": "афелій",
+      "meaning_es": "afelio"
+    },
+    {
+      "term": "to oscillate",
+      "type": "Verb",
+      "example": "The star's surface began to *** as it became unstable.",
+      "meaning_tr": "salınmak",
+      "meaning_en": "to swing back and forth",
+      "meaning_uk": "коливатися",
+      "meaning_es": "oscilar"
+    },
+    {
+      "term": "the synchrotron",
+      "type": "Noun",
+      "example": "The radiation is produced by electrons moving in a *** magnetic field.",
+      "meaning_tr": "senkrotron",
+      "meaning_en": "a type of particle accelerator in which the magnetic field is synchronized with the particle beam",
+      "meaning_uk": "синхротрон",
+      "meaning_es": "sincrotrón"
+    },
+    {
+      "term": "diffuse",
+      "type": "Adjective",
+      "example": "The galaxy has a *** structure with no clear central core.",
+      "meaning_tr": "dağınık",
+      "meaning_en": "spread out over a large area; not concentrated",
+      "meaning_uk": "дифузний",
+      "meaning_es": "difuso"
+    },
+    {
+      "term": "the bolide",
+      "type": "Noun",
+      "example": "The bright *** exploded in the upper atmosphere, creating a sonic boom.",
+      "meaning_tr": "büyük meteor",
+      "meaning_en": "an exceptionally bright meteor that explodes in the atmosphere",
+      "meaning_uk": "болід",
+      "meaning_es": "bólido"
+    },
+    {
+      "term": "to orbit",
+      "type": "Verb",
+      "example": "Several moons *** the gas giant Saturn.",
+      "meaning_tr": "yörüngesinde dönmek",
+      "meaning_en": "to move in a regular, repeating curved path around a star or planet",
+      "meaning_uk": "обертатися по орбіті",
+      "meaning_es": "orbitar"
+    },
+    {
+      "term": "the light-year",
+      "type": "Noun",
+      "example": "Proxima Centauri is more than four *** away from our solar system.",
+      "meaning_tr": "ışık yılı",
+      "meaning_en": "a unit of astronomical distance equivalent to the distance that light travels in one year",
+      "meaning_uk": "світловий рік",
+      "meaning_es": "año luz"
+    },
+    {
+      "term": "interplanetary",
+      "type": "Adjective",
+      "example": "The probe is designed for long-term *** travel.",
+      "meaning_tr": "gezegenlerarası",
+      "meaning_en": "situated or traveling between planets",
+      "meaning_uk": "міжпланетний",
+      "meaning_es": "interplanetario"
+    },
+    {
+      "term": "the parallax",
+      "type": "Noun",
+      "example": "Precise measurements of *** are essential for mapping the Milky Way.",
+      "meaning_tr": "ıraklık açısı",
+      "meaning_en": "the apparent displacement of an object due to a change in the position of the observer",
+      "meaning_uk": "паралакс",
+      "meaning_es": "paralaje"
+    },
+    {
+      "term": "to synthesize",
+      "type": "Verb",
+      "example": "Stars *** heavier elements from hydrogen and helium.",
+      "meaning_tr": "sentezlemek",
+      "meaning_en": "to combine a number of things into a coherent whole or chemical compound",
+      "meaning_uk": "синтезувати",
+      "meaning_es": "sintetizar"
+    },
+    {
+      "term": "the photosphere",
+      "type": "Noun",
+      "example": "Sunspots appear as dark patches on the solar ***.",
+      "meaning_tr": "ışık küre",
+      "meaning_en": "the luminous envelope of a star from which its light and heat radiate",
+      "meaning_uk": "фотосфера",
+      "meaning_es": "fotosfera"
+    },
+    {
+      "term": "gaseous",
+      "type": "Adjective",
+      "example": "Jupiter is classified as a *** giant due to its composition.",
+      "meaning_tr": "gazsal",
+      "meaning_en": "relating to or having the characteristics of a gas",
+      "meaning_uk": "газоподібний",
+      "meaning_es": "gaseoso"
+    },
+    {
+      "term": "the solstice",
+      "type": "Noun",
+      "example": "The winter *** marks the shortest day of the year.",
+      "meaning_tr": "gündönümü",
+      "meaning_en": "either of the two times in the year when the sun reaches its highest or lowest point in the sky",
+      "meaning_uk": "сонцестояння",
+      "meaning_es": "solsticio"
+    },
+    {
+      "term": "to aggregate",
+      "type": "Verb",
+      "example": "Dust and rocks began to *** into larger planetesimals.",
+      "meaning_tr": "toplanmak",
+      "meaning_en": "to form or group into a class or cluster",
+      "meaning_uk": "агрегувати",
+      "meaning_es": "agregar"
+    },
+    {
+      "term": "the vacuum",
+      "type": "Noun",
+      "example": "Sound cannot travel through the *** of space.",
+      "meaning_tr": "boşluk",
+      "meaning_en": "a space entirely devoid of matter",
+      "meaning_uk": "вакуум",
+      "meaning_es": "vacío"
+    },
+    {
+      "term": "gravitational",
+      "type": "Adjective",
+      "example": "The *** pull of the black hole is strong enough to bend light.",
+      "meaning_tr": "kütleçekimsel",
+      "meaning_en": "relating to or caused by gravity",
+      "meaning_uk": "гравітаційний",
+      "meaning_es": "gravitatorio"
+    },
+    {
+      "term": "the quasar",
+      "type": "Noun",
+      "example": "A *** is an extremely luminous active galactic nucleus.",
+      "meaning_tr": "kuasar",
+      "meaning_en": "a massive and extremely remote celestial object emitting exceptionally large amounts of energy",
+      "meaning_uk": "квазар",
+      "meaning_es": "cuásar"
+    },
+    {
+      "term": "to collide",
+      "type": "Verb",
+      "example": "Galaxies are predicted to *** in the distant future.",
+      "meaning_tr": "çarpışmak",
+      "meaning_en": "to hit with force when moving",
+      "meaning_uk": "зіштовхуватися",
+      "meaning_es": "colisionar"
+    },
+    {
+      "term": "the constellation",
+      "type": "Noun",
+      "example": "Orion is one of the most recognizable *** in the night sky.",
+      "meaning_tr": "takımyıldız",
+      "meaning_en": "a group of stars forming a recognizable pattern",
+      "meaning_uk": "сузір'я",
+      "meaning_es": "constelación"
+    },
+    {
+      "term": "elliptical",
+      "type": "Adjective",
+      "example": "The planets move in *** orbits around the Sun.",
+      "meaning_tr": "eliptik",
+      "meaning_en": "having the shape of an ellipse; oval",
+      "meaning_uk": "еліптичний",
+      "meaning_es": "elíptico"
+    },
+    {
+      "term": "the dark matter",
+      "type": "Noun",
+      "example": "We cannot see ***, but we know it exists due to its gravitational effects.",
+      "meaning_tr": "karanlık madde",
+      "meaning_en": "a hypothetical form of matter that is thought to account for approximately 85% of the matter in the universe",
+      "meaning_uk": "темна матерія",
+      "meaning_es": "materia oscura"
+    },
+    {
+      "term": "to eclipse",
+      "type": "Verb",
+      "example": "The moon will *** the sun during the upcoming event.",
+      "meaning_tr": "tutulmak/örtelemek",
+      "meaning_en": "to obscure the light from or to another celestial body",
+      "meaning_uk": "затемнювати",
+      "meaning_es": "eclipsar"
+    },
+    {
+      "term": "the pulsar",
+      "type": "Noun",
+      "example": "A *** is a rapidly rotating neutron star that emits regular pulses of radiation.",
+      "meaning_tr": "atarca",
+      "meaning_en": "a highly magnetized rotating neutron star that emits a beam of electromagnetic radiation",
+      "meaning_uk": "пульсар",
+      "meaning_es": "púlsar"
+    },
+    {
+      "term": "intergalactic",
+      "type": "Adjective",
+      "example": "The space between galaxies is known as the *** medium.",
+      "meaning_tr": "galaksilerarası",
+      "meaning_en": "relating to the space between galaxies",
+      "meaning_uk": "міжгалактичний",
+      "meaning_es": "intergaláctico"
+    },
+    {
+      "term": "the aurora",
+      "type": "Noun",
+      "example": "The *** is caused by the interaction of solar wind with the Earth's atmosphere.",
+      "meaning_tr": "kutup ışıkları",
+      "meaning_en": "a natural electrical phenomenon characterized by the appearance of streamers of reddish or greenish light in the sky",
+      "meaning_uk": "полярне сяйво",
+      "meaning_es": "aurora"
+    },
+    {
+      "term": "to radiate",
+      "type": "Verb",
+      "example": "The star will continue to *** energy for billions of years.",
+      "meaning_tr": "ışımak",
+      "meaning_en": "to emit energy in the form of rays or waves",
+      "meaning_uk": "випромінювати",
+      "meaning_es": "irradiar"
+    },
+    {
+      "term": "the exoplanet",
+      "type": "Noun",
+      "example": "The Kepler telescope has discovered thousands of *** orbiting other stars.",
+      "meaning_tr": "ötegezegen",
+      "meaning_en": "a planet that orbits a star outside the solar system",
+      "meaning_uk": "екзопланета",
+      "meaning_es": "exoplaneta"
+    }
+  ]
+}

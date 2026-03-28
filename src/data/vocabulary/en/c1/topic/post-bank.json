@@ -1,0 +1,546 @@
+{
+  "title": "Post Office & Banking (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a remittance",
+      "type": "Noun",
+      "example": "The company sent *** to its overseas branch to cover the monthly expenses.",
+      "meaning_tr": "havale",
+      "meaning_en": "a sum of money sent in payment or as a gift",
+      "meaning_uk": "грошовий переказ",
+      "meaning_es": "una remesa"
+    },
+    {
+      "term": "to liquidate",
+      "type": "Verb",
+      "example": "The investor decided to *** his assets to pay off the outstanding debt.",
+      "meaning_tr": "nakde çevirmek",
+      "meaning_en": "to convert assets into cash",
+      "meaning_uk": "ліквідувати",
+      "meaning_es": "liquidar"
+    },
+    {
+      "term": "an overdraft",
+      "type": "Noun",
+      "example": "The bank allows a temporary *** on your account if you have a good credit history.",
+      "meaning_tr": "kredili mevduat hesabı",
+      "meaning_en": "a deficit in a bank account caused by drawing more money than the account holds",
+      "meaning_uk": "овердрафт",
+      "meaning_es": "un descubierto"
+    },
+    {
+      "term": "insolvent",
+      "type": "Adjective",
+      "example": "The business became *** after failing to meet its financial obligations for three consecutive months.",
+      "meaning_tr": "ödeme gücü olmayan",
+      "meaning_en": "unable to pay one's debts",
+      "meaning_uk": "неплатоспроможний",
+      "meaning_es": "insolvente"
+    },
+    {
+      "term": "a fiscal year",
+      "type": "Noun",
+      "example": "The *** ends in March, so we need to finalize all our financial reports by then.",
+      "meaning_tr": "mali yıl",
+      "meaning_en": "a period of one year used for financial accounting",
+      "meaning_uk": "фінансовий рік",
+      "meaning_es": "un año fiscal"
+    },
+    {
+      "term": "to endorse",
+      "type": "Verb",
+      "example": "You must *** the back of the cheque before depositing it at the teller window.",
+      "meaning_tr": "ciro etmek",
+      "meaning_en": "to sign the back of a cheque to make it payable",
+      "meaning_uk": "індосувати",
+      "meaning_es": "endosar"
+    },
+    {
+      "term": "an amortization",
+      "type": "Noun",
+      "example": "The *** schedule shows that most of the early payments go toward interest rather than the principal.",
+      "meaning_tr": "itfa",
+      "meaning_en": "the action or process of gradually writing off the initial cost of an asset",
+      "meaning_uk": "амортизація",
+      "meaning_es": "una amortización"
+    },
+    {
+      "term": "a collateral",
+      "type": "Noun",
+      "example": "The bank required some form of ***, such as property, to secure the large business loan.",
+      "meaning_tr": "teminat",
+      "meaning_en": "something pledged as security for repayment of a loan",
+      "meaning_uk": "застава",
+      "meaning_es": "una garantía"
+    },
+    {
+      "term": "a fiduciary",
+      "type": "Noun",
+      "example": "As a financial advisor, he acts as a *** for his clients, always prioritizing their best interests.",
+      "meaning_tr": "yediemin",
+      "meaning_en": "a person who holds assets in trust for a beneficiary",
+      "meaning_uk": "довірчий керуючий",
+      "meaning_es": "un fiduciario"
+    },
+    {
+      "term": "to default",
+      "type": "Verb",
+      "example": "If the borrower continues to miss payments, they will eventually *** on the mortgage.",
+      "meaning_tr": "temerrüde düşmek",
+      "meaning_en": "to fail to fulfill an obligation, especially to repay a loan",
+      "meaning_uk": "не виконати зобов'язання",
+      "meaning_es": "incumplir"
+    },
+    {
+      "term": "a disbursement",
+      "type": "Noun",
+      "example": "The bank delayed the *** of funds until all the necessary documents were verified.",
+      "meaning_tr": "ödenek",
+      "meaning_en": "the payment of money from a fund",
+      "meaning_uk": "виплата",
+      "meaning_es": "un desembolso"
+    },
+    {
+      "term": "arbitrage",
+      "type": "Noun",
+      "example": "The trader made a profit through *** by exploiting price differences in two different currency markets.",
+      "meaning_tr": "arbitraj",
+      "meaning_en": "the simultaneous buying and selling of securities in different markets to profit from price differences",
+      "meaning_uk": "арбітраж",
+      "meaning_es": "arbitraje"
+    },
+    {
+      "term": "an annuity",
+      "type": "Noun",
+      "example": "She invested in an *** to ensure she would have a steady income after she retires.",
+      "meaning_tr": "yıllık gelir sigortası",
+      "meaning_en": "a fixed sum of money paid to someone each year",
+      "meaning_uk": "ануїтет",
+      "meaning_es": "una anualidad"
+    },
+    {
+      "term": "a dividend",
+      "type": "Noun",
+      "example": "Shareholders received a generous *** following the company's record-breaking quarterly profits.",
+      "meaning_tr": "kâr payı",
+      "meaning_en": "a sum of money paid regularly by a company to its shareholders",
+      "meaning_uk": "дивіденд",
+      "meaning_es": "un dividendo"
+    },
+    {
+      "term": "to audit",
+      "type": "Verb",
+      "example": "The tax authorities decided to *** the company's financial records to ensure compliance.",
+      "meaning_tr": "denetlemek",
+      "meaning_en": "to conduct an official financial examination of an individual's or organization's accounts",
+      "meaning_uk": "аудирувати",
+      "meaning_es": "auditar"
+    },
+    {
+      "term": "a bearer",
+      "type": "Noun",
+      "example": "The cheque was made out to the ***, meaning anyone in possession of it could cash it.",
+      "meaning_tr": "hamil",
+      "meaning_en": "a person who holds or carries a document such as a cheque",
+      "meaning_uk": "пред'явник",
+      "meaning_es": "un portador"
+    },
+    {
+      "term": "a liquidity",
+      "type": "Noun",
+      "example": "The central bank injected cash into the market to improve overall ***.",
+      "meaning_tr": "likidite",
+      "meaning_en": "the availability of liquid assets to a market or company",
+      "meaning_uk": "ліквідність",
+      "meaning_es": "una liquidez"
+    },
+    {
+      "term": "a premium",
+      "type": "Noun",
+      "example": "You have to pay a monthly *** to keep your life insurance policy active.",
+      "meaning_tr": "prim",
+      "meaning_en": "an amount to be paid for an insurance policy",
+      "meaning_uk": "страховий внесок",
+      "meaning_es": "una prima"
+    },
+    {
+      "term": "a ledger",
+      "type": "Noun",
+      "example": "The accountant meticulously recorded every transaction in the general ***.",
+      "meaning_tr": "defter-i kebir",
+      "meaning_en": "a book or collection of financial accounts",
+      "meaning_uk": "бухгалтерська книга",
+      "meaning_es": "un libro mayor"
+    },
+    {
+      "term": "a liability",
+      "type": "Noun",
+      "example": "Long-term debts are recorded as a *** on the company's balance sheet.",
+      "meaning_tr": "yükümlülük",
+      "meaning_en": "a thing for which someone is responsible, especially a debt",
+      "meaning_uk": "зобов'язання",
+      "meaning_es": "un pasivo"
+    },
+    {
+      "term": "a portfolio",
+      "type": "Noun",
+      "example": "She manages a diverse *** of stocks and bonds to minimize investment risk.",
+      "meaning_tr": "portföy",
+      "meaning_en": "a range of investments held by an individual or organization",
+      "meaning_uk": "портфель",
+      "meaning_es": "una cartera"
+    },
+    {
+      "term": "to reconcile",
+      "type": "Verb",
+      "example": "It is important to *** your bank statement with your own records every month.",
+      "meaning_tr": "mutabakat sağlamak",
+      "meaning_en": "to make financial accounts consistent with each other",
+      "meaning_uk": "звіряти",
+      "meaning_es": "conciliar"
+    },
+    {
+      "term": "a surcharge",
+      "type": "Noun",
+      "example": "The ATM charged an extra *** for using a card issued by a different bank.",
+      "meaning_tr": "ek ücret",
+      "meaning_en": "an additional charge or payment",
+      "meaning_uk": "додаткова плата",
+      "meaning_es": "un recargo"
+    },
+    {
+      "term": "a solvency",
+      "type": "Noun",
+      "example": "The company's long-term *** depends on its ability to generate consistent revenue.",
+      "meaning_tr": "ödeme gücü",
+      "meaning_en": "the possession of assets in excess of liabilities",
+      "meaning_uk": "платоспроможність",
+      "meaning_es": "una solvencia"
+    },
+    {
+      "term": "to remit",
+      "type": "Verb",
+      "example": "Please *** the payment by the end of the week to avoid late fees.",
+      "meaning_tr": "göndermek",
+      "meaning_en": "to send money in payment or as a gift",
+      "meaning_uk": "надсилати гроші",
+      "meaning_es": "remitir"
+    },
+    {
+      "term": "a voucher",
+      "type": "Noun",
+      "example": "The post office issued a *** that can be exchanged for stamps or other services.",
+      "meaning_tr": "kupon",
+      "meaning_en": "a small printed piece of paper that entitles the holder to a discount or service",
+      "meaning_uk": "ваучер",
+      "meaning_es": "un vale"
+    },
+    {
+      "term": "a remittance advice",
+      "type": "Noun",
+      "example": "The client sent a *** to confirm that the wire transfer had been processed.",
+      "meaning_tr": "ödeme bildirimi",
+      "meaning_en": "a document sent by a customer to a supplier to inform them that their invoice has been paid",
+      "meaning_uk": "повідомлення про переказ",
+      "meaning_es": "un aviso de remesa"
+    },
+    {
+      "term": "an escrow",
+      "type": "Noun",
+      "example": "The money for the house purchase is being held in *** until the legal checks are complete.",
+      "meaning_tr": "emanet hesabı",
+      "meaning_en": "a bond, deed, or other document kept in the custody of a third party",
+      "meaning_uk": "ескроу",
+      "meaning_es": "un depósito en garantía"
+    },
+    {
+      "term": "to underwrite",
+      "type": "Verb",
+      "example": "The bank agreed to *** the insurance policy for the new shipping company.",
+      "meaning_tr": "sigorta etmek",
+      "meaning_en": "to sign and accept liability under an insurance policy",
+      "meaning_uk": "гарантувати",
+      "meaning_es": "asegurar"
+    },
+    {
+      "term": "a standing order",
+      "type": "Noun",
+      "example": "I set up a *** to pay my rent automatically every first of the month.",
+      "meaning_tr": "otomatik ödeme talimatı",
+      "meaning_en": "an instruction to a bank to pay a fixed amount at regular intervals",
+      "meaning_uk": "постійне платіжне доручення",
+      "meaning_es": "una orden permanente"
+    },
+    {
+      "term": "a yield",
+      "type": "Noun",
+      "example": "The current *** on these government bonds is around four percent per annum.",
+      "meaning_tr": "getiri",
+      "meaning_en": "the earnings generated and realized on an investment over a particular period",
+      "meaning_uk": "дохідність",
+      "meaning_es": "un rendimiento"
+    },
+    {
+      "term": "a remittance slip",
+      "type": "Noun",
+      "example": "Please fill out the *** and include it with your cheque in the envelope.",
+      "meaning_tr": "ödeme fişi",
+      "meaning_en": "a slip of paper sent with a payment to identify the account to be credited",
+      "meaning_uk": "квитанція про оплату",
+      "meaning_es": "un talón de pago"
+    },
+    {
+      "term": "a capital gain",
+      "type": "Noun",
+      "example": "Selling the shares at a higher price than the purchase price resulted in a significant ***.",
+      "meaning_tr": "sermaye kazancı",
+      "meaning_en": "a profit from the sale of property or an investment",
+      "meaning_uk": "приріст капіталу",
+      "meaning_es": "una ganancia de capital"
+    },
+    {
+      "term": "a fiscal",
+      "type": "Adjective",
+      "example": "The government is introducing new *** measures to control the national deficit.",
+      "meaning_tr": "mali",
+      "meaning_en": "relating to government revenue, especially taxes",
+      "meaning_uk": "фіскальний",
+      "meaning_es": "fiscal"
+    },
+    {
+      "term": "a transaction fee",
+      "type": "Noun",
+      "example": "Be aware that every international transfer incurs a small ***.",
+      "meaning_tr": "işlem ücreti",
+      "meaning_en": "a charge applied to a financial transaction",
+      "meaning_uk": "комісія за транзакцію",
+      "meaning_es": "una comisión por transacción"
+    },
+    {
+      "term": "a credit rating",
+      "type": "Noun",
+      "example": "Having a poor *** can make it very difficult to secure a loan from a reputable bank.",
+      "meaning_tr": "kredi notu",
+      "meaning_en": "an estimate of the ability of a person or organization to fulfill their financial commitments",
+      "meaning_uk": "кредитний рейтинг",
+      "meaning_es": "una calificación crediticia"
+    },
+    {
+      "term": "a brokerage",
+      "type": "Noun",
+      "example": "He works for a top-tier *** that helps clients trade stocks on the global market.",
+      "meaning_tr": "aracı kurum",
+      "meaning_en": "a firm that buys and sells stocks and other securities for both retail and institutional clients",
+      "meaning_uk": "брокерська фірма",
+      "meaning_es": "una agencia de valores"
+    },
+    {
+      "term": "a liquidity ratio",
+      "type": "Noun",
+      "example": "The bank maintains a high *** to ensure it can meet short-term obligations.",
+      "meaning_tr": "likidite oranı",
+      "meaning_en": "a class of financial metrics used to determine a company's ability to pay off its short-term debts",
+      "meaning_uk": "коефіцієнт ліквідності",
+      "meaning_es": "un ratio de liquidez"
+    },
+    {
+      "term": "to debit",
+      "type": "Verb",
+      "example": "The bank will *** your account automatically once the monthly subscription is due.",
+      "meaning_tr": "hesaptan düşmek",
+      "meaning_en": "to remove an amount of money from a bank account",
+      "meaning_uk": "дебетувати",
+      "meaning_es": "adeudar"
+    },
+    {
+      "term": "a fiduciary duty",
+      "type": "Noun",
+      "example": "Financial managers have a *** to act in the best interest of their clients at all times.",
+      "meaning_tr": "yediemin yükümlülüğü",
+      "meaning_en": "a legal obligation of one party to act in the best interest of another",
+      "meaning_uk": "фідуціарний обов'язок",
+      "meaning_es": "un deber fiduciario"
+    },
+    {
+      "term": "a postal order",
+      "type": "Noun",
+      "example": "She bought a *** at the post office to send as a secure payment through the mail.",
+      "meaning_tr": "posta havalesi",
+      "meaning_en": "a printed form issued by a post office for sending money through the mail",
+      "meaning_uk": "поштовий переказ",
+      "meaning_es": "un giro postal"
+    },
+    {
+      "term": "a registered mail",
+      "type": "Noun",
+      "example": "Important legal documents should always be sent via *** for tracking and security.",
+      "meaning_tr": "taahhütlü posta",
+      "meaning_en": "mail for which a fee is paid for special handling and proof of delivery",
+      "meaning_uk": "рекомендований лист",
+      "meaning_es": "un correo certificado"
+    },
+    {
+      "term": "a parcel",
+      "type": "Noun",
+      "example": "I need to drop off this *** at the post office before they close at five o'clock.",
+      "meaning_tr": "paket",
+      "meaning_en": "a thing or collection of things wrapped in paper in order to be carried or sent by mail",
+      "meaning_uk": "посилка",
+      "meaning_es": "un paquete"
+    },
+    {
+      "term": "a franking machine",
+      "type": "Noun",
+      "example": "The office uses a *** to stamp envelopes with the appropriate postage automatically.",
+      "meaning_tr": "damga makinesi",
+      "meaning_en": "a machine that prints a mark on an envelope to show that postage has been paid",
+      "meaning_uk": "франкувальна машина",
+      "meaning_es": "una máquina franqueadora"
+    },
+    {
+      "term": "a courier",
+      "type": "Noun",
+      "example": "We hired a private *** to ensure the sensitive documents were delivered within two hours.",
+      "meaning_tr": "kurye",
+      "meaning_en": "a messenger who transports goods or documents",
+      "meaning_uk": "кур'єр",
+      "meaning_es": "un mensajero"
+    },
+    {
+      "term": "a money order",
+      "type": "Noun",
+      "example": "He sent a *** to pay his utility bill since he didn't have a checking account.",
+      "meaning_tr": "ödeme emri",
+      "meaning_en": "a payment order for a pre-specified amount of money",
+      "meaning_uk": "грошовий переказ",
+      "meaning_es": "un giro postal"
+    },
+    {
+      "term": "to dispatch",
+      "type": "Verb",
+      "example": "The post office will *** the letters to their destinations early tomorrow morning.",
+      "meaning_tr": "göndermek",
+      "meaning_en": "to send off to a destination or for a purpose",
+      "meaning_uk": "відправляти",
+      "meaning_es": "despachar"
+    },
+    {
+      "term": "a postmark",
+      "type": "Noun",
+      "example": "The date on the *** proved that the application had been mailed before the deadline.",
+      "meaning_tr": "posta damgası",
+      "meaning_en": "an official mark stamped on a letter or package, indicating the date and place of mailing",
+      "meaning_uk": "поштовий штемпель",
+      "meaning_es": "un matasellos"
+    },
+    {
+      "term": "an airmail",
+      "type": "Noun",
+      "example": "Sending the package by *** is much faster, though it costs significantly more.",
+      "meaning_tr": "uçak postası",
+      "meaning_en": "mail transported by aircraft",
+      "meaning_uk": "авіапошта",
+      "meaning_es": "un correo aéreo"
+    },
+    {
+      "term": "a sorting office",
+      "type": "Noun",
+      "example": "The letter was delayed at the *** due to the high volume of holiday mail.",
+      "meaning_tr": "ayrıştırma merkezi",
+      "meaning_en": "a building where mail is sorted for distribution",
+      "meaning_uk": "сортувальний центр",
+      "meaning_es": "una oficina de clasificación"
+    },
+    {
+      "term": "a stamp",
+      "type": "Noun",
+      "example": "You need to stick a *** on the top right corner of the envelope.",
+      "meaning_tr": "posta pulu",
+      "meaning_en": "a small adhesive piece of paper stuck to an envelope as evidence of payment of postage",
+      "meaning_uk": "поштова марка",
+      "meaning_es": "un sello"
+    },
+    {
+      "term": "a zip code",
+      "type": "Noun",
+      "example": "Please make sure to include the correct *** so the letter reaches the right district.",
+      "meaning_tr": "posta kodu",
+      "meaning_en": "a code of letters and digits used to assist in the routing of mail",
+      "meaning_uk": "поштовий індекс",
+      "meaning_es": "un código postal"
+    },
+    {
+      "term": "a postbox",
+      "type": "Noun",
+      "example": "I dropped the letters into the red *** on the corner of the street.",
+      "meaning_tr": "posta kutusu",
+      "meaning_en": "a box for the collection of outgoing mail",
+      "meaning_uk": "поштова скринька",
+      "meaning_es": "un buzón"
+    },
+    {
+      "term": "a correspondence",
+      "type": "Noun",
+      "example": "She keeps all her business *** in a separate folder for easy reference.",
+      "meaning_tr": "yazışma",
+      "meaning_en": "communication by exchanging letters",
+      "meaning_uk": "листування",
+      "meaning_es": "una correspondencia"
+    },
+    {
+      "term": "an express delivery",
+      "type": "Noun",
+      "example": "If you need it tomorrow, you should choose *** as your shipping method.",
+      "meaning_tr": "hızlı teslimat",
+      "meaning_en": "a service for the rapid delivery of mail or packages",
+      "meaning_uk": "експрес-доставка",
+      "meaning_es": "una entrega urgente"
+    },
+    {
+      "term": "a PO Box",
+      "type": "Noun",
+      "example": "The company prefers to receive all official mail at their *** rather than the office address.",
+      "meaning_tr": "posta kutusu adresi",
+      "meaning_en": "a numbered box at a post office where mail is kept until called for",
+      "meaning_uk": "абонентська скринька",
+      "meaning_es": "un apartado de correos"
+    },
+    {
+      "term": "a delivery note",
+      "type": "Noun",
+      "example": "Please sign the *** to confirm that you have received all the items listed.",
+      "meaning_tr": "teslimat fişi",
+      "meaning_en": "a document listing the goods being delivered",
+      "meaning_uk": "накладна",
+      "meaning_es": "un albarán"
+    },
+    {
+      "term": "a postage",
+      "type": "Noun",
+      "example": "The cost of *** has increased due to rising fuel prices for transportation.",
+      "meaning_tr": "posta ücreti",
+      "meaning_en": "the charge for sending something by mail",
+      "meaning_uk": "поштові витрати",
+      "meaning_es": "un franqueo"
+    },
+    {
+      "term": "a postmaster",
+      "type": "Noun",
+      "example": "The *** is responsible for the overall operations of the local post office branch.",
+      "meaning_tr": "posta müdürü",
+      "meaning_en": "a person in charge of a post office",
+      "meaning_uk": "начальник поштового відділення",
+      "meaning_es": "un administrador de correos"
+    },
+    {
+      "term": "a surface mail",
+      "type": "Noun",
+      "example": "We sent the heavy books by *** to save money, even though it takes longer.",
+      "meaning_tr": "kara yolu postası",
+      "meaning_en": "mail transported by land or sea rather than air",
+      "meaning_uk": "наземна пошта",
+      "meaning_es": "un correo ordinario"
+    }
+  ]
+}

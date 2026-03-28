@@ -1,0 +1,546 @@
+{
+  "title": "Umwelt & Natur (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Treibhauseffekt",
+      "type": "Noun",
+      "example": "*** trägt maßgeblich zur globalen Erwärmung bei.",
+      "meaning_tr": "Sera etkisi",
+      "meaning_en": "Greenhouse effect",
+      "meaning_uk": "Парниковий ефект",
+      "meaning_es": "Efecto invernadero"
+    },
+    {
+      "term": "die Artenvielfalt",
+      "type": "Noun",
+      "example": "Der Schutz der *** ist für das ökologische Gleichgewicht essenziell.",
+      "meaning_tr": "Biyoçeşitlilik",
+      "meaning_en": "Biodiversity",
+      "meaning_uk": "Біорізноманіття",
+      "meaning_es": "Biodiversidad"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir müssen unsere Ressourcen deutlich *** nutzen.",
+      "meaning_tr": "Sürdürülebilir",
+      "meaning_en": "Sustainable",
+      "meaning_uk": "Сталий",
+      "meaning_es": "Sostenible"
+    },
+    {
+      "term": "die Emission",
+      "type": "Noun",
+      "example": "Die Industrie muss ihre *** drastisch reduzieren.",
+      "meaning_tr": "Emisyon",
+      "meaning_en": "Emission",
+      "meaning_uk": "Викиди",
+      "meaning_es": "Emisión"
+    },
+    {
+      "term": "die Erderwärmung",
+      "type": "Noun",
+      "example": "Die Folgen der *** sind weltweit spürbar.",
+      "meaning_tr": "Küresel ısınma",
+      "meaning_en": "Global warming",
+      "meaning_uk": "Глобальне потепління",
+      "meaning_es": "Calentamiento global"
+    },
+    {
+      "term": "verheerend",
+      "type": "Adjective",
+      "example": "Die Waldbrände hatten *** Auswirkungen auf die Flora.",
+      "meaning_tr": "Yıkıcı",
+      "meaning_en": "Devastating",
+      "meaning_uk": "Руйнівний",
+      "meaning_es": "Devastador"
+    },
+    {
+      "term": "die Umweltbelastung",
+      "type": "Noun",
+      "example": "Die zunehmende *** gefährdet unsere Gesundheit.",
+      "meaning_tr": "Çevre kirliliği",
+      "meaning_en": "Environmental pollution",
+      "meaning_uk": "Забруднення довкілля",
+      "meaning_es": "Contaminación ambiental"
+    },
+    {
+      "term": "erschöpfen",
+      "type": "Verb",
+      "example": "Wir dürfen die natürlichen Reserven nicht vollständig ***.",
+      "meaning_tr": "Tüketmek",
+      "meaning_en": "To exhaust",
+      "meaning_uk": "Вичерпувати",
+      "meaning_es": "Agotar"
+    },
+    {
+      "term": "das Ökosystem",
+      "type": "Noun",
+      "example": "Ein intaktes *** ist die Lebensgrundlage für viele Tiere.",
+      "meaning_tr": "Ekosistem",
+      "meaning_en": "Ecosystem",
+      "meaning_uk": "Екосистема",
+      "meaning_es": "Ecosistema"
+    },
+    {
+      "term": "die Ressourcen",
+      "type": "Noun",
+      "example": "Der verantwortungsvolle Umgang mit *** ist entscheidend.",
+      "meaning_tr": "Kaynaklar",
+      "meaning_en": "Resources",
+      "meaning_uk": "Ресурси",
+      "meaning_es": "Recursos"
+    },
+    {
+      "term": "umweltverträglich",
+      "type": "Adjective",
+      "example": "Wir suchen nach einer *** Lösung für das Energieproblem.",
+      "meaning_tr": "Çevre dostu",
+      "meaning_en": "Environmentally friendly",
+      "meaning_uk": "Екологічно безпечний",
+      "meaning_es": "Respetuoso con el medio ambiente"
+    },
+    {
+      "term": "die Renaturierung",
+      "type": "Noun",
+      "example": "Die *** von Flüssen hilft bei der Hochwasserprävention.",
+      "meaning_tr": "Doğaya geri döndürme",
+      "meaning_en": "Renaturation",
+      "meaning_uk": "Ренатуралізація",
+      "meaning_es": "Renaturalización"
+    },
+    {
+      "term": "die Energiewende",
+      "type": "Noun",
+      "example": "Die *** ist ein zentrales politisches Ziel.",
+      "meaning_tr": "Enerji dönüşümü",
+      "meaning_en": "Energy transition",
+      "meaning_uk": "Енергетичний перехід",
+      "meaning_es": "Transición energética"
+    },
+    {
+      "term": "klimaneutral",
+      "type": "Adjective",
+      "example": "Das Ziel ist eine vollständig *** Produktion bis 2040.",
+      "meaning_tr": "İklim nötr",
+      "meaning_en": "Climate-neutral",
+      "meaning_uk": "Кліматично нейтральний",
+      "meaning_es": "Climáticamente neutral"
+    },
+    {
+      "term": "die Entsorgung",
+      "type": "Noun",
+      "example": "Die fachgerechte *** von Giftmüll ist streng geregelt.",
+      "meaning_tr": "Atık bertarafı",
+      "meaning_en": "Disposal",
+      "meaning_uk": "Утилізація",
+      "meaning_es": "Eliminación"
+    },
+    {
+      "term": "die Dürre",
+      "type": "Noun",
+      "example": "Die anhaltende *** führt zu massiven Ernteausfällen.",
+      "meaning_tr": "Kuraklık",
+      "meaning_en": "Drought",
+      "meaning_uk": "Посуха",
+      "meaning_es": "Sequía"
+    },
+    {
+      "term": "der Artenschutz",
+      "type": "Noun",
+      "example": "Der *** ist eine globale Herausforderung.",
+      "meaning_tr": "Tür koruma",
+      "meaning_en": "Species conservation",
+      "meaning_uk": "Охорона видів",
+      "meaning_es": "Conservación de especies"
+    },
+    {
+      "term": "verunreinigen",
+      "type": "Verb",
+      "example": "Industrieabwässer *** oft unsere Trinkwasserquellen.",
+      "meaning_tr": "Kirletmek",
+      "meaning_en": "To contaminate",
+      "meaning_uk": "Забруднювати",
+      "meaning_es": "Contaminar"
+    },
+    {
+      "term": "die Entwaldung",
+      "type": "Noun",
+      "example": "Die rasante *** gefährdet das Weltklima.",
+      "meaning_tr": "Ormansızlaşma",
+      "meaning_en": "Deforestation",
+      "meaning_uk": "Знеліснення",
+      "meaning_es": "Deforestación"
+    },
+    {
+      "term": "die Erneuerbare Energie",
+      "type": "Noun",
+      "example": "Wir setzen verstärkt auf ***.",
+      "meaning_tr": "Yenilenebilir enerji",
+      "meaning_en": "Renewable energy",
+      "meaning_uk": "Відновлювана енергія",
+      "meaning_es": "Energía renovable"
+    },
+    {
+      "term": "der Klimawandel",
+      "type": "Noun",
+      "example": "Die Bekämpfung vom *** duldet keinen Aufschub.",
+      "meaning_tr": "İklim değişikliği",
+      "meaning_en": "Climate change",
+      "meaning_uk": "Зміна клімату",
+      "meaning_es": "Cambio climático"
+    },
+    {
+      "term": "die Nachhaltigkeit",
+      "type": "Noun",
+      "example": "Das Prinzip der *** sollte in allen Branchen gelten.",
+      "meaning_tr": "Sürdürülebilirlik",
+      "meaning_en": "Sustainability",
+      "meaning_uk": "Сталість",
+      "meaning_es": "Sostenibilidad"
+    },
+    {
+      "term": "die Flora und Fauna",
+      "type": "Noun",
+      "example": "Die lokale *** ist durch den Bau gefährdet.",
+      "meaning_tr": "Flora ve fauna",
+      "meaning_en": "Flora and fauna",
+      "meaning_uk": "Флора і фауна",
+      "meaning_es": "Flora y fauna"
+    },
+    {
+      "term": "die Bodenversiegelung",
+      "type": "Noun",
+      "example": "Durch *** geht wertvoller Lebensraum verloren.",
+      "meaning_tr": "Zemin yalıtımı/betonlaşma",
+      "meaning_en": "Soil sealing",
+      "meaning_uk": "Запечатування ґрунту",
+      "meaning_es": "Sellado del suelo"
+    },
+    {
+      "term": "die Treibhausgase",
+      "type": "Noun",
+      "example": "Der Ausstoß von *** muss dringend gesenkt werden.",
+      "meaning_tr": "Sera gazları",
+      "meaning_en": "Greenhouse gases",
+      "meaning_uk": "Парникові гази",
+      "meaning_es": "Gases de efecto invernadero"
+    },
+    {
+      "term": "die Massentierhaltung",
+      "type": "Noun",
+      "example": "Kritiker fordern ein Ende der ***.",
+      "meaning_tr": "Endüstriyel hayvancılık",
+      "meaning_en": "Factory farming",
+      "meaning_uk": "Промислове тваринництво",
+      "meaning_es": "Ganadería intensiva"
+    },
+    {
+      "term": "das Artensterben",
+      "type": "Noun",
+      "example": "Das schleichende *** ist ein alarmierendes Signal.",
+      "meaning_tr": "Türlerin tükenmesi",
+      "meaning_en": "Extinction of species",
+      "meaning_uk": "Вимирання видів",
+      "meaning_es": "Extinción de especies"
+    },
+    {
+      "term": "ökologisch",
+      "type": "Adjective",
+      "example": "Wir müssen einen *** Fußabdruck hinterlassen.",
+      "meaning_tr": "Ekolojik",
+      "meaning_en": "Ecological",
+      "meaning_uk": "Екологічний",
+      "meaning_es": "Ecológico"
+    },
+    {
+      "term": "die Verschmutzung",
+      "type": "Noun",
+      "example": "Die *** der Meere durch Plastik ist katastrophal.",
+      "meaning_tr": "Kirlilik",
+      "meaning_en": "Pollution",
+      "meaning_uk": "Забруднення",
+      "meaning_es": "Contaminación"
+    },
+    {
+      "term": "der Umweltschutz",
+      "type": "Noun",
+      "example": "Aktiver *** beginnt im Alltag.",
+      "meaning_tr": "Çevre koruma",
+      "meaning_en": "Environmental protection",
+      "meaning_uk": "Охорона довкілля",
+      "meaning_es": "Protección del medio ambiente"
+    },
+    {
+      "term": "die Umweltverträglichkeitsprüfung",
+      "type": "Noun",
+      "example": "Vor dem Bau ist eine *** zwingend erforderlich.",
+      "meaning_tr": "Çevresel etki değerlendirmesi",
+      "meaning_en": "Environmental impact assessment",
+      "meaning_uk": "Оцінка впливу на довкілля",
+      "meaning_es": "Evaluación de impacto ambiental"
+    },
+    {
+      "term": "recyceln",
+      "type": "Verb",
+      "example": "Es ist wichtig, Materialien korrekt zu ***.",
+      "meaning_tr": "Geri dönüştürmek",
+      "meaning_en": "To recycle",
+      "meaning_uk": "Переробляти",
+      "meaning_es": "Reciclar"
+    },
+    {
+      "term": "biologisch abbaubar",
+      "type": "Adjective",
+      "example": "Diese Verpackung ist vollständig ***.",
+      "meaning_tr": "Biyolojik olarak parçalanabilir",
+      "meaning_en": "Biodegradable",
+      "meaning_uk": "Біорозкладний",
+      "meaning_es": "Biodegradable"
+    },
+    {
+      "term": "der CO2-Fußabdruck",
+      "type": "Noun",
+      "example": "Jeder Einzelne kann seinen *** verringern.",
+      "meaning_tr": "Karbon ayak izi",
+      "meaning_en": "Carbon footprint",
+      "meaning_uk": "Вуглецевий слід",
+      "meaning_es": "Huella de carbono"
+    },
+    {
+      "term": "die Überfischung",
+      "type": "Noun",
+      "example": "Die *** bedroht die Bestände in den Ozeanen.",
+      "meaning_tr": "Aşırı avlanma",
+      "meaning_en": "Overfishing",
+      "meaning_uk": "Надмірний вилов риби",
+      "meaning_es": "Sobrepesca"
+    },
+    {
+      "term": "die Klimaneutralität",
+      "type": "Noun",
+      "example": "Das Unternehmen strebt die *** bis 2030 an.",
+      "meaning_tr": "İklim nötrlüğü",
+      "meaning_en": "Climate neutrality",
+      "meaning_uk": "Кліматична нейтральність",
+      "meaning_es": "Neutralidad climática"
+    },
+    {
+      "term": "die Energiegewinnung",
+      "type": "Noun",
+      "example": "Die *** aus Windkraft ist sehr effizient.",
+      "meaning_tr": "Enerji üretimi",
+      "meaning_en": "Energy generation",
+      "meaning_uk": "Виробництво енергії",
+      "meaning_es": "Generación de energía"
+    },
+    {
+      "term": "der Lebensraum",
+      "type": "Noun",
+      "example": "Viele Tiere verlieren ihren *** durch Rodungen.",
+      "meaning_tr": "Yaşam alanı",
+      "meaning_en": "Habitat",
+      "meaning_uk": "Середовище існування",
+      "meaning_es": "Hábitat"
+    },
+    {
+      "term": "die Umweltauflagen",
+      "type": "Noun",
+      "example": "Die Firma muss die strengen *** erfüllen.",
+      "meaning_tr": "Çevre düzenlemeleri",
+      "meaning_en": "Environmental regulations",
+      "meaning_uk": "Екологічні норми",
+      "meaning_es": "Normativas ambientales"
+    },
+    {
+      "term": "schonen",
+      "type": "Verb",
+      "example": "Wir müssen unsere natürlichen Ressourcen ***.",
+      "meaning_tr": "Korumak/idareli kullanmak",
+      "meaning_en": "To conserve/spare",
+      "meaning_uk": "Берегти",
+      "meaning_es": "Conservar/ahorrar"
+    },
+    {
+      "term": "die Luftverschmutzung",
+      "type": "Noun",
+      "example": "In Großstädten ist die *** oft gesundheitsgefährdend.",
+      "meaning_tr": "Hava kirliliği",
+      "meaning_en": "Air pollution",
+      "meaning_uk": "Забруднення повітря",
+      "meaning_es": "Contaminación del aire"
+    },
+    {
+      "term": "die Solarenergie",
+      "type": "Noun",
+      "example": "Die Nutzung von *** nimmt weltweit zu.",
+      "meaning_tr": "Güneş enerjisi",
+      "meaning_en": "Solar energy",
+      "meaning_uk": "Сонячна енергія",
+      "meaning_es": "Energía solar"
+    },
+    {
+      "term": "die Kreislaufwirtschaft",
+      "type": "Noun",
+      "example": "Die *** ist essenziell für eine abfallfreie Zukunft.",
+      "meaning_tr": "Döngüsel ekonomi",
+      "meaning_en": "Circular economy",
+      "meaning_uk": "Циркулярна економіка",
+      "meaning_es": "Economía circular"
+    },
+    {
+      "term": "der Pestizideinsatz",
+      "type": "Noun",
+      "example": "Ein reduzierter *** schont die Insektenpopulation.",
+      "meaning_tr": "Pestisit kullanımı",
+      "meaning_en": "Pesticide use",
+      "meaning_uk": "Використання пестицидів",
+      "meaning_es": "Uso de pesticidas"
+    },
+    {
+      "term": "das Artensterben",
+      "type": "Noun",
+      "example": "Das beschleunigte *** ist eine ökologische Krise.",
+      "meaning_tr": "Türlerin tükenmesi",
+      "meaning_en": "Extinction of species",
+      "meaning_uk": "Вимирання видів",
+      "meaning_es": "Extinción de especies"
+    },
+    {
+      "term": "die Übernutzung",
+      "type": "Noun",
+      "example": "Die *** der Böden führt zu deren Degradation.",
+      "meaning_tr": "Aşırı kullanım",
+      "meaning_en": "Overuse",
+      "meaning_uk": "Надмірне використання",
+      "meaning_es": "Sobreexplotación"
+    },
+    {
+      "term": "die Klimakatastrophe",
+      "type": "Noun",
+      "example": "Wir müssen alles tun, um eine *** zu verhindern.",
+      "meaning_tr": "İklim felaketi",
+      "meaning_en": "Climate catastrophe",
+      "meaning_uk": "Кліматична катастрофа",
+      "meaning_es": "Catástrofe climática"
+    },
+    {
+      "term": "umweltschonend",
+      "type": "Adjective",
+      "example": "Eine *** Lebensweise reduziert den persönlichen Verbrauch.",
+      "meaning_tr": "Çevre dostu",
+      "meaning_en": "Eco-friendly",
+      "meaning_uk": "Екологічно безпечний",
+      "meaning_es": "Respetuoso con el medio ambiente"
+    },
+    {
+      "term": "die Windkraftanlage",
+      "type": "Noun",
+      "example": "Die *** erzeugt sauberen Strom.",
+      "meaning_tr": "Rüzgar türbini",
+      "meaning_en": "Wind turbine",
+      "meaning_uk": "Вітряна електростанція",
+      "meaning_es": "Aerogenerador"
+    },
+    {
+      "term": "die Wasserknappheit",
+      "type": "Noun",
+      "example": "In vielen Regionen ist die *** ein ernstes Problem.",
+      "meaning_tr": "Su kıtlığı",
+      "meaning_en": "Water scarcity",
+      "meaning_uk": "Дефіцит води",
+      "meaning_es": "Escasez de agua"
+    },
+    {
+      "term": "die Aufforstung",
+      "type": "Noun",
+      "example": "Die *** spielt eine wichtige Rolle bei der CO2-Bindung.",
+      "meaning_tr": "Ağaçlandırma",
+      "meaning_en": "Reforestation",
+      "meaning_uk": "Лісовідновлення",
+      "meaning_es": "Reforestación"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir streben eine *** Entwicklung an.",
+      "meaning_tr": "Sürdürülebilir",
+      "meaning_en": "Sustainable",
+      "meaning_uk": "Сталий",
+      "meaning_es": "Sostenible"
+    },
+    {
+      "term": "die Erderwärmung",
+      "type": "Noun",
+      "example": "Die *** ist die größte Bedrohung für das 21. Jahrhundert.",
+      "meaning_tr": "Küresel ısınma",
+      "meaning_en": "Global warming",
+      "meaning_uk": "Глобальне потепління",
+      "meaning_es": "Calentamiento global"
+    },
+    {
+      "term": "ökologisch",
+      "type": "Adjective",
+      "example": "Er bevorzugt *** angebaute Lebensmittel.",
+      "meaning_tr": "Organik/Ekolojik",
+      "meaning_en": "Organic/Ecological",
+      "meaning_uk": "Органічний",
+      "meaning_es": "Orgánico/Ecológico"
+    },
+    {
+      "term": "die Schadstoffbelastung",
+      "type": "Noun",
+      "example": "Die *** hat in diesem Gebiet stark abgenommen.",
+      "meaning_tr": "Kirletici yükü",
+      "meaning_en": "Pollutant load",
+      "meaning_uk": "Забруднення шкідливими речовинами",
+      "meaning_es": "Carga contaminante"
+    },
+    {
+      "term": "die Energiewende",
+      "type": "Noun",
+      "example": "Ohne die *** werden wir die Klimaziele nicht erreichen.",
+      "meaning_tr": "Enerji dönüşümü",
+      "meaning_en": "Energy transition",
+      "meaning_uk": "Енергетичний перехід",
+      "meaning_es": "Transición energética"
+    },
+    {
+      "term": "die Artenvielfalt",
+      "type": "Noun",
+      "example": "Der Schutz der *** ist ein globales Anliegen.",
+      "meaning_tr": "Biyoçeşitlilik",
+      "meaning_en": "Biodiversity",
+      "meaning_uk": "Біорізноманіття",
+      "meaning_es": "Biodiversidad"
+    },
+    {
+      "term": "die Umweltbelastung",
+      "type": "Noun",
+      "example": "Die Industrie verursacht eine hohe ***.",
+      "meaning_tr": "Çevre yükü/kirliliği",
+      "meaning_en": "Environmental burden",
+      "meaning_uk": "Навантаження на довкілля",
+      "meaning_es": "Carga ambiental"
+    },
+    {
+      "term": "verheerend",
+      "type": "Adjective",
+      "example": "Die Folgen für das Klima sind absolut ***.",
+      "meaning_tr": "Yıkıcı",
+      "meaning_en": "Devastating",
+      "meaning_uk": "Руйнівний",
+      "meaning_es": "Devastador"
+    },
+    {
+      "term": "das Ökosystem",
+      "type": "Noun",
+      "example": "Das *** Wald ist besonders empfindlich.",
+      "meaning_tr": "Ekosistem",
+      "meaning_en": "Ecosystem",
+      "meaning_uk": "Екосистема",
+      "meaning_es": "Ecosistema"
+    }
+  ]
+}

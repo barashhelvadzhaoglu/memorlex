@@ -1,0 +1,411 @@
+{
+  "title": "Globalizacion (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la globalización",
+      "type": "Noun",
+      "example": "*** ha transformado profundamente la economía mundial en las últimas décadas.",
+      "meaning_tr": "küreselleşme",
+      "meaning_en": "globalization",
+      "meaning_uk": "глобалізація",
+      "meaning_es": "Proceso de integración mundial en los ámbitos económico, político y tecnológico."
+    },
+    {
+      "term": "el mercado",
+      "type": "Noun",
+      "example": "Las empresas buscan expandirse a un nuevo *** internacional.",
+      "meaning_tr": "pazar",
+      "meaning_en": "market",
+      "meaning_uk": "ринок",
+      "meaning_es": "Lugar o ámbito donde se realizan transacciones comerciales."
+    },
+    {
+      "term": "interdependiente",
+      "type": "Adjective",
+      "example": "En el mundo actual, todos los países son ***.",
+      "meaning_tr": "birbirine bağımlı",
+      "meaning_en": "interdependent",
+      "meaning_uk": "взаємозалежний",
+      "meaning_es": "Que depende recíprocamente de otro."
+    },
+    {
+      "term": "la exportación",
+      "type": "Noun",
+      "example": "*** de productos agrícolas es vital para la economía nacional.",
+      "meaning_tr": "ihracat",
+      "meaning_en": "export",
+      "meaning_uk": "експорт",
+      "meaning_es": "Acción de enviar bienes o servicios a otro país."
+    },
+    {
+      "term": "la importación",
+      "type": "Noun",
+      "example": "El gobierno ha reducido los impuestos sobre *** de tecnología.",
+      "meaning_tr": "ithalat",
+      "meaning_en": "import",
+      "meaning_uk": "імпорт",
+      "meaning_es": "Acción de introducir bienes o servicios extranjeros en un país."
+    },
+    {
+      "term": "el arancel",
+      "type": "Noun",
+      "example": "El nuevo *** ha encarecido los productos electrónicos importados.",
+      "meaning_tr": "gümrük vergisi",
+      "meaning_en": "tariff",
+      "meaning_uk": "митний тариф",
+      "meaning_es": "Impuesto que se aplica a los bienes que son objeto de importación o exportación."
+    },
+    {
+      "term": "la multinacional",
+      "type": "Noun",
+      "example": "*** tiene sedes en más de cincuenta países diferentes.",
+      "meaning_tr": "çok uluslu şirket",
+      "meaning_en": "multinational corporation",
+      "meaning_uk": "транснаціональна компанія",
+      "meaning_es": "Empresa que opera en diversos países del mundo."
+    },
+    {
+      "term": "la competencia",
+      "type": "Noun",
+      "example": "*** entre las grandes empresas favorece la innovación tecnológica.",
+      "meaning_tr": "rekabet",
+      "meaning_en": "competition",
+      "meaning_uk": "конкуренція",
+      "meaning_es": "Situación en la que varias entidades buscan el mismo objetivo o mercado."
+    },
+    {
+      "term": "deslocalizar",
+      "type": "Verb",
+      "example": "La empresa decidió *** su producción a países con mano de obra más barata.",
+      "meaning_tr": "üretimi başka yere taşımak",
+      "meaning_en": "to offshore",
+      "meaning_uk": "переносити виробництво за кордон",
+      "meaning_es": "Trasladar una actividad productiva a otro país para reducir costos."
+    },
+    {
+      "term": "la desigualdad",
+      "type": "Noun",
+      "example": "*** económica sigue siendo un problema grave en muchas regiones.",
+      "meaning_tr": "eşitsizlik",
+      "meaning_en": "inequality",
+      "meaning_uk": "нерівність",
+      "meaning_es": "Cualidad de tener una distribución injusta o desequilibrada de recursos."
+    },
+    {
+      "term": "la inversión",
+      "type": "Noun",
+      "example": "*** extranjera es fundamental para el desarrollo de infraestructuras.",
+      "meaning_tr": "yatırım",
+      "meaning_en": "investment",
+      "meaning_uk": "інвестиція",
+      "meaning_es": "Acción de destinar capital a una actividad económica con el fin de obtener un beneficio."
+    },
+    {
+      "term": "el libre comercio",
+      "type": "Noun",
+      "example": "Los tratados de *** facilitan el intercambio de bienes sin barreras.",
+      "meaning_tr": "serbest ticaret",
+      "meaning_en": "free trade",
+      "meaning_uk": "вільна торгівля",
+      "meaning_es": "Sistema económico sin restricciones arancelarias entre países."
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "El cambio climático es un problema de alcance ***.",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "Que abarca a todo el mundo."
+    },
+    {
+      "term": "la sostenibilidad",
+      "type": "Noun",
+      "example": "Debemos garantizar *** de nuestros recursos naturales para el futuro.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталий розвиток",
+      "meaning_es": "Capacidad de mantenerse por sí mismo sin agotar los recursos."
+    },
+    {
+      "term": "el flujo",
+      "type": "Noun",
+      "example": "*** de capitales se mueve rápidamente por todo el mundo.",
+      "meaning_tr": "akış",
+      "meaning_en": "flow",
+      "meaning_uk": "потік",
+      "meaning_es": "Movimiento constante de personas, dinero o mercancías."
+    },
+    {
+      "term": "la brecha",
+      "type": "Noun",
+      "example": "*** digital impide que muchos ciudadanos accedan a la información.",
+      "meaning_tr": "uçurum / boşluk",
+      "meaning_en": "gap / divide",
+      "meaning_uk": "прірва / розрив",
+      "meaning_es": "Diferencia o separación entre dos niveles o grupos sociales."
+    },
+    {
+      "term": "la homogeneización",
+      "type": "Noun",
+      "example": "*** cultural es una de las críticas más frecuentes a la globalización.",
+      "meaning_tr": "homojenleşme / tek tipleşme",
+      "meaning_en": "homogenization",
+      "meaning_uk": "гомогенізація",
+      "meaning_es": "Proceso por el cual las culturas se vuelven uniformes o similares."
+    },
+    {
+      "term": "integrar",
+      "type": "Verb",
+      "example": "Es necesario *** a los países menos desarrollados en la economía mundial.",
+      "meaning_tr": "entegre etmek / birleştirmek",
+      "meaning_en": "to integrate",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "Hacer que algo o alguien pase a formar parte de un todo."
+    },
+    {
+      "term": "la mano de obra",
+      "type": "Noun",
+      "example": "Muchas fábricas buscan *** barata en Asia.",
+      "meaning_tr": "iş gücü",
+      "meaning_en": "labor force",
+      "meaning_uk": "робоча сила",
+      "meaning_es": "Conjunto de trabajadores que realizan una actividad productiva."
+    },
+    {
+      "term": "el desarrollo",
+      "type": "Noun",
+      "example": "*** económico ha permitido reducir la pobreza en muchas regiones.",
+      "meaning_tr": "kalkınma / gelişim",
+      "meaning_en": "development",
+      "meaning_uk": "розвиток",
+      "meaning_es": "Crecimiento o progreso en el ámbito económico, social o cultural."
+    },
+    {
+      "term": "el proteccionismo",
+      "type": "Noun",
+      "example": "*** busca defender la industria nacional frente a la extranjera.",
+      "meaning_tr": "korumacılık",
+      "meaning_en": "protectionism",
+      "meaning_uk": "протекціонізм",
+      "meaning_es": "Política económica que protege la producción propia frente a la competencia exterior."
+    },
+    {
+      "term": "la migración",
+      "type": "Noun",
+      "example": "*** es un fenómeno creciente debido a la inestabilidad global.",
+      "meaning_tr": "göç",
+      "meaning_en": "migration",
+      "meaning_uk": "міграція",
+      "meaning_es": "Desplazamiento de poblaciones de un lugar a otro."
+    },
+    {
+      "term": "la interconexión",
+      "type": "Noun",
+      "example": "*** tecnológica ha cambiado nuestra forma de comunicarnos.",
+      "meaning_tr": "birbirine bağlılık",
+      "meaning_en": "interconnection",
+      "meaning_uk": "взаємозв'язок",
+      "meaning_es": "Estado de estar conectado entre sí."
+    },
+    {
+      "term": "la materia prima",
+      "type": "Noun",
+      "example": "El país exporta mucha *** sin procesar.",
+      "meaning_tr": "hammadde",
+      "meaning_en": "raw material",
+      "meaning_uk": "сировина",
+      "meaning_es": "Producto extraído de la naturaleza que sirve para fabricar otros bienes."
+    },
+    {
+      "term": "el tratado",
+      "type": "Noun",
+      "example": "El nuevo *** comercial fue firmado por varios países europeos.",
+      "meaning_tr": "anlaşma / antlaşma",
+      "meaning_en": "treaty / agreement",
+      "meaning_uk": "договір",
+      "meaning_es": "Acuerdo formal entre dos o más partes para establecer normas comunes."
+    },
+    {
+      "term": "la crisis",
+      "type": "Noun",
+      "example": "*** financiera tuvo repercusiones en todo el planeta.",
+      "meaning_tr": "kriz",
+      "meaning_en": "crisis",
+      "meaning_uk": "криза",
+      "meaning_es": "Situación grave y difícil que pone en peligro el desarrollo de un proceso."
+    },
+    {
+      "term": "la competitividad",
+      "type": "Noun",
+      "example": "La educación es clave para mejorar *** de un país.",
+      "meaning_tr": "rekabet edebilirlik",
+      "meaning_en": "competitiveness",
+      "meaning_uk": "конкурентоспроможність",
+      "meaning_es": "Capacidad de ser competitivo en un entorno determinado."
+    },
+    {
+      "term": "la moneda",
+      "type": "Noun",
+      "example": "La fluctuación de *** afecta directamente a los precios de importación.",
+      "meaning_tr": "para birimi",
+      "meaning_en": "currency",
+      "meaning_uk": "валюта",
+      "meaning_es": "Dinero en curso legal utilizado en un país o región."
+    },
+    {
+      "term": "la externalización",
+      "type": "Noun",
+      "example": "*** de servicios permite reducir costos operativos.",
+      "meaning_tr": "dış kaynak kullanımı (outsourcing)",
+      "meaning_en": "outsourcing",
+      "meaning_uk": "аутсорсинг",
+      "meaning_es": "Contratar servicios externos para realizar tareas de la empresa."
+    },
+    {
+      "term": "la riqueza",
+      "type": "Noun",
+      "example": "*** mundial está repartida de forma muy desigual.",
+      "meaning_tr": "zenginlik / servet",
+      "meaning_en": "wealth",
+      "meaning_uk": "багатство",
+      "meaning_es": "Abundancia de bienes y recursos económicos."
+    },
+    {
+      "term": "el consumidor",
+      "type": "Noun",
+      "example": "*** actual tiene acceso a productos de todo el mundo.",
+      "meaning_tr": "tüketici",
+      "meaning_en": "consumer",
+      "meaning_uk": "споживач",
+      "meaning_es": "Persona que compra bienes o servicios para su uso."
+    },
+    {
+      "term": "la barrera",
+      "type": "Noun",
+      "example": "Se han eliminado muchas *** comerciales entre los países miembros.",
+      "meaning_tr": "engel",
+      "meaning_en": "barrier",
+      "meaning_uk": "бар'єр",
+      "meaning_es": "Obstáculo que impide o dificulta el paso o progreso."
+    },
+    {
+      "term": "la infraestructura",
+      "type": "Noun",
+      "example": "Sin una buena ***, el comercio es mucho más lento.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "infrastructure",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "Conjunto de elementos necesarios para el funcionamiento de una estructura."
+    },
+    {
+      "term": "la regulación",
+      "type": "Noun",
+      "example": "Es necesaria una mayor *** del sector financiero internacional.",
+      "meaning_tr": "düzenleme",
+      "meaning_en": "regulation",
+      "meaning_uk": "регулювання",
+      "meaning_es": "Conjunto de normas que controlan una actividad."
+    },
+    {
+      "term": "el intercambio",
+      "type": "Noun",
+      "example": "*** cultural enriquece nuestra visión del mundo.",
+      "meaning_tr": "değiş tokuş / alışveriş",
+      "meaning_en": "exchange",
+      "meaning_uk": "обмін",
+      "meaning_es": "Acción de dar algo y recibir otra cosa a cambio."
+    },
+    {
+      "term": "la empresa",
+      "type": "Noun",
+      "example": "*** ha logrado posicionarse como líder en el mercado global.",
+      "meaning_tr": "şirket / firma",
+      "meaning_en": "company",
+      "meaning_uk": "компанія",
+      "meaning_es": "Organización dedicada a actividades comerciales o industriales."
+    },
+    {
+      "term": "el crecimiento",
+      "type": "Noun",
+      "example": "*** económico ha sido constante durante los últimos años.",
+      "meaning_tr": "büyüme",
+      "meaning_en": "growth",
+      "meaning_uk": "зростання",
+      "meaning_es": "Aumento de tamaño, cantidad o importancia de algo."
+    },
+    {
+      "term": "globalmente",
+      "type": "Adverb",
+      "example": "La situación debe analizarse *** para entender sus causas.",
+      "meaning_tr": "küresel olarak",
+      "meaning_en": "globally",
+      "meaning_uk": "глобально",
+      "meaning_es": "De manera que comprende a todo el mundo."
+    },
+    {
+      "term": "la tecnología",
+      "type": "Noun",
+      "example": "*** ha facilitado la comunicación instantánea en todo el planeta.",
+      "meaning_tr": "teknoloji",
+      "meaning_en": "technology",
+      "meaning_uk": "технологія",
+      "meaning_es": "Conjunto de conocimientos aplicados para resolver problemas."
+    },
+    {
+      "term": "la red",
+      "type": "Noun",
+      "example": "*** de transporte conecta las principales ciudades del mundo.",
+      "meaning_tr": "ağ",
+      "meaning_en": "network",
+      "meaning_uk": "мережа",
+      "meaning_es": "Sistema de elementos conectados entre sí."
+    },
+    {
+      "term": "la apertura",
+      "type": "Noun",
+      "example": "*** económica ha permitido la entrada de nuevas empresas.",
+      "meaning_tr": "açılım / açıklık",
+      "meaning_en": "opening",
+      "meaning_uk": "відкритість",
+      "meaning_es": "Acción de hacer accesible algo que antes estaba restringido."
+    },
+    {
+      "term": "el impacto",
+      "type": "Noun",
+      "example": "*** ambiental de esta industria es preocupante.",
+      "meaning_tr": "etki",
+      "meaning_en": "impact",
+      "meaning_uk": "вплив",
+      "meaning_es": "Efecto o consecuencia de una acción sobre algo."
+    },
+    {
+      "term": "la globalidad",
+      "type": "Noun",
+      "example": "Debemos considerar el problema en su *** total.",
+      "meaning_tr": "bütünlük / küresellik",
+      "meaning_en": "globality",
+      "meaning_uk": "глобальність",
+      "meaning_es": "Cualidad de ser global o de abarcar la totalidad."
+    },
+    {
+      "term": "globalizador",
+      "type": "Adjective",
+      "example": "El efecto *** de internet ha cambiado la sociedad.",
+      "meaning_tr": "küreselleştirici",
+      "meaning_en": "globalizing",
+      "meaning_uk": "глобалізаційний",
+      "meaning_es": "Que tiene la capacidad de globalizar."
+    },
+    {
+      "term": "la soberanía",
+      "type": "Noun",
+      "example": "Algunos países temen perder su *** ante las organizaciones internacionales.",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_uk": "суверенітет",
+      "meaning_es": "Poder político supremo de un Estado independiente."
+    }
+  ]
+}

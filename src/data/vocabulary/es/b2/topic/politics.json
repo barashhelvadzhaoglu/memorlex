@@ -1,0 +1,411 @@
+{
+  "title": "Politica y Estado (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la democracia",
+      "type": "Noun",
+      "example": "*** es la base de nuestra sociedad moderna.",
+      "meaning_tr": "demokrasi",
+      "meaning_en": "democracy",
+      "meaning_uk": "демократія",
+      "meaning_es": "Sistema político en el cual la soberanía reside en el pueblo."
+    },
+    {
+      "term": "el gobierno",
+      "type": "Noun",
+      "example": "*** ha anunciado nuevas medidas económicas.",
+      "meaning_tr": "hükümet",
+      "meaning_en": "government",
+      "meaning_uk": "уряд",
+      "meaning_es": "Conjunto de los organismos y personas que dirigen una nación."
+    },
+    {
+      "term": "votar",
+      "type": "Verb",
+      "example": "Es fundamental acudir a las urnas para ***.",
+      "meaning_tr": "oy vermek",
+      "meaning_en": "to vote",
+      "meaning_uk": "голосувати",
+      "meaning_es": "Emitir un voto en una elección."
+    },
+    {
+      "term": "la ley",
+      "type": "Noun",
+      "example": "Nadie está por encima de ***.",
+      "meaning_tr": "yasa",
+      "meaning_en": "law",
+      "meaning_uk": "закон",
+      "meaning_es": "Regla establecida por la autoridad superior."
+    },
+    {
+      "term": "el ciudadano",
+      "type": "Noun",
+      "example": "Cada *** tiene derechos y deberes.",
+      "meaning_tr": "vatandaş",
+      "meaning_en": "citizen",
+      "meaning_uk": "громадянин",
+      "meaning_es": "Persona considerada como miembro activo de un Estado."
+    },
+    {
+      "term": "político",
+      "type": "Adjective",
+      "example": "El ambiente *** es muy tenso actualmente.",
+      "meaning_tr": "siyasi",
+      "meaning_en": "political",
+      "meaning_uk": "політичний",
+      "meaning_es": "Relativo a la política o a la organización del Estado."
+    },
+    {
+      "term": "la elección",
+      "type": "Noun",
+      "example": "Se celebrará una *** el próximo domingo.",
+      "meaning_tr": "seçim",
+      "meaning_en": "election",
+      "meaning_uk": "вибори",
+      "meaning_es": "Proceso para elegir representantes mediante votos."
+    },
+    {
+      "term": "el parlamento",
+      "type": "Noun",
+      "example": "El debate tuvo lugar en ***.",
+      "meaning_tr": "parlamento",
+      "meaning_en": "parliament",
+      "meaning_uk": "парламент",
+      "meaning_es": "Cuerpo legislativo de un Estado."
+    },
+    {
+      "term": "la constitución",
+      "type": "Noun",
+      "example": "La *** garantiza los derechos fundamentales.",
+      "meaning_tr": "anayasa",
+      "meaning_en": "constitution",
+      "meaning_uk": "конституція",
+      "meaning_es": "Ley fundamental de un Estado."
+    },
+    {
+      "term": "el partido",
+      "type": "Noun",
+      "example": "El *** opositor presentó una moción.",
+      "meaning_tr": "siyasi parti",
+      "meaning_en": "party",
+      "meaning_uk": "партія",
+      "meaning_es": "Organización política que agrupa a ciudadanos con ideología común."
+    },
+    {
+      "term": "aprobar",
+      "type": "Verb",
+      "example": "El senado debe *** la nueva reforma.",
+      "meaning_tr": "onaylamak",
+      "meaning_en": "to approve",
+      "meaning_uk": "схвалювати",
+      "meaning_es": "Dar por buena una ley o decisión."
+    },
+    {
+      "term": "el derecho",
+      "type": "Noun",
+      "example": "Todo trabajador tiene *** a una jornada justa.",
+      "meaning_tr": "hak",
+      "meaning_en": "right",
+      "meaning_uk": "право",
+      "meaning_es": "Facultad o potestad de hacer algo según la ley."
+    },
+    {
+      "term": "la política",
+      "type": "Noun",
+      "example": "*** es el arte de gobernar los asuntos públicos.",
+      "meaning_tr": "siyaset",
+      "meaning_en": "politics",
+      "meaning_uk": "політика",
+      "meaning_es": "Actividad del ciudadano cuando interviene en los asuntos públicos."
+    },
+    {
+      "term": "el candidato",
+      "type": "Noun",
+      "example": "El *** presentó su programa electoral.",
+      "meaning_tr": "aday",
+      "meaning_en": "candidate",
+      "meaning_uk": "кандидат",
+      "meaning_es": "Persona que aspira a un cargo o elección."
+    },
+    {
+      "term": "la soberanía",
+      "type": "Noun",
+      "example": "El pueblo ejerce su *** mediante el voto.",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_uk": "суверенітет",
+      "meaning_es": "Poder supremo que reside en el pueblo."
+    },
+    {
+      "term": "la reforma",
+      "type": "Noun",
+      "example": "Es necesaria una *** del sistema educativo.",
+      "meaning_tr": "reform",
+      "meaning_en": "reform",
+      "meaning_uk": "реформа",
+      "meaning_es": "Cambio o modificación para mejorar algo."
+    },
+    {
+      "term": "el estado",
+      "type": "Noun",
+      "example": "El *** debe proteger a sus ciudadanos.",
+      "meaning_tr": "devlet",
+      "meaning_en": "state",
+      "meaning_uk": "держава",
+      "meaning_es": "Forma de organización política soberana."
+    },
+    {
+      "term": "la diplomacia",
+      "type": "Noun",
+      "example": "La *** es clave para resolver conflictos internacionales.",
+      "meaning_tr": "diplomasi",
+      "meaning_en": "diplomacy",
+      "meaning_uk": "дипломатія",
+      "meaning_es": "Gestión de las relaciones internacionales."
+    },
+    {
+      "term": "el ministro",
+      "type": "Noun",
+      "example": "El *** de Economía hablará hoy.",
+      "meaning_tr": "bakan",
+      "meaning_en": "minister",
+      "meaning_uk": "міністр",
+      "meaning_es": "Miembro del gabinete de gobierno."
+    },
+    {
+      "term": "la campaña",
+      "type": "Noun",
+      "example": "La *** electoral ha sido muy intensa.",
+      "meaning_tr": "kampanya",
+      "meaning_en": "campaign",
+      "meaning_uk": "кампанія",
+      "meaning_es": "Actividades para obtener apoyo político."
+    },
+    {
+      "term": "el parlamento",
+      "type": "Noun",
+      "example": "La sesión en *** fue interrumpida.",
+      "meaning_tr": "parlamento",
+      "meaning_en": "parliament",
+      "meaning_uk": "парламент",
+      "meaning_es": "Cuerpo legislativo."
+    },
+    {
+      "term": "la oposición",
+      "type": "Noun",
+      "example": "*** critica las medidas del gobierno.",
+      "meaning_tr": "muhalefet",
+      "meaning_en": "opposition",
+      "meaning_uk": "опозиція",
+      "meaning_es": "Conjunto de partidos que no gobiernan."
+    },
+    {
+      "term": "el decreto",
+      "type": "Noun",
+      "example": "El presidente firmó un nuevo ***.",
+      "meaning_tr": "kararname",
+      "meaning_en": "decree",
+      "meaning_uk": "декрет",
+      "meaning_es": "Decisión de una autoridad sobre asuntos públicos."
+    },
+    {
+      "term": "democrático",
+      "type": "Adjective",
+      "example": "Vivimos en un país ***.",
+      "meaning_tr": "demokratik",
+      "meaning_en": "democratic",
+      "meaning_uk": "демократичний",
+      "meaning_es": "Que sigue los principios de la democracia."
+    },
+    {
+      "term": "el conflicto",
+      "type": "Noun",
+      "example": "Buscan una solución al *** fronterizo.",
+      "meaning_tr": "çatışma",
+      "meaning_en": "conflict",
+      "meaning_uk": "конфлікт",
+      "meaning_es": "Situación de lucha o desacuerdo grave."
+    },
+    {
+      "term": "la mayoría",
+      "type": "Noun",
+      "example": "El partido obtuvo la *** absoluta.",
+      "meaning_tr": "çoğunluk",
+      "meaning_en": "majority",
+      "meaning_uk": "більшість",
+      "meaning_es": "La mayor parte de los votos o escaños."
+    },
+    {
+      "term": "el debate",
+      "type": "Noun",
+      "example": "El *** sobre el presupuesto fue largo.",
+      "meaning_tr": "tartışma",
+      "meaning_en": "debate",
+      "meaning_uk": "дебати",
+      "meaning_es": "Discusión formal sobre un tema."
+    },
+    {
+      "term": "el electorado",
+      "type": "Noun",
+      "example": "El *** decidirá el futuro del país.",
+      "meaning_tr": "seçmen kitlesi",
+      "meaning_en": "electorate",
+      "meaning_uk": "електорат",
+      "meaning_es": "Conjunto de electores."
+    },
+    {
+      "term": "negociar",
+      "type": "Verb",
+      "example": "Es necesario *** las condiciones del acuerdo.",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to negotiate",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "Tratar un asunto para llegar a un acuerdo."
+    },
+    {
+      "term": "la libertad",
+      "type": "Noun",
+      "example": "*** de expresión es un pilar social.",
+      "meaning_tr": "özgürlük",
+      "meaning_en": "freedom",
+      "meaning_uk": "свобода",
+      "meaning_es": "Facultad natural del ser humano para actuar."
+    },
+    {
+      "term": "el sistema",
+      "type": "Noun",
+      "example": "*** electoral debe ser transparente.",
+      "meaning_tr": "sistem",
+      "meaning_en": "system",
+      "meaning_uk": "система",
+      "meaning_es": "Conjunto de normas o elementos interrelacionados."
+    },
+    {
+      "term": "la administración",
+      "type": "Noun",
+      "example": "La *** pública gestiona los recursos.",
+      "meaning_tr": "yönetim",
+      "meaning_en": "administration",
+      "meaning_uk": "адміністрація",
+      "meaning_es": "Gestión de los bienes y servicios públicos."
+    },
+    {
+      "term": "el poder",
+      "type": "Noun",
+      "example": "El *** legislativo reside en el congreso.",
+      "meaning_tr": "güç",
+      "meaning_en": "power",
+      "meaning_uk": "влада",
+      "meaning_es": "Dominio o autoridad que tiene alguien sobre otros."
+    },
+    {
+      "term": "la ideología",
+      "type": "Noun",
+      "example": "Cada partido tiene una *** distinta.",
+      "meaning_tr": "ideoloji",
+      "meaning_en": "ideology",
+      "meaning_uk": "ідеологія",
+      "meaning_es": "Conjunto de ideas fundamentales de un movimiento."
+    },
+    {
+      "term": "el representante",
+      "type": "Noun",
+      "example": "El *** de la región viajó a la capital.",
+      "meaning_tr": "temsilci",
+      "meaning_en": "representative",
+      "meaning_uk": "представник",
+      "meaning_es": "Persona que actúa en nombre de otros."
+    },
+    {
+      "term": "la crisis",
+      "type": "Noun",
+      "example": "El país atraviesa una *** política.",
+      "meaning_tr": "kriz",
+      "meaning_en": "crisis",
+      "meaning_uk": "криза",
+      "meaning_es": "Situación grave y decisiva."
+    },
+    {
+      "term": "autoritario",
+      "type": "Adjective",
+      "example": "El régimen era demasiado ***.",
+      "meaning_tr": "otoriter",
+      "meaning_en": "authoritarian",
+      "meaning_uk": "авторитарний",
+      "meaning_es": "Que impone su voluntad sin consultar."
+    },
+    {
+      "term": "el presupuesto",
+      "type": "Noun",
+      "example": "El parlamento aprobó el *** anual.",
+      "meaning_tr": "bütçe",
+      "meaning_en": "budget",
+      "meaning_uk": "бюджет",
+      "meaning_es": "Cálculo de ingresos y gastos."
+    },
+    {
+      "term": "la manifestación",
+      "type": "Noun",
+      "example": "Hubo una gran *** en la plaza mayor.",
+      "meaning_tr": "gösteri",
+      "meaning_en": "demonstration",
+      "meaning_uk": "демонстрація",
+      "meaning_es": "Reunión pública para expresar una opinión."
+    },
+    {
+      "term": "social",
+      "type": "Adjective",
+      "example": "La justicia *** es un objetivo principal.",
+      "meaning_tr": "sosyal",
+      "meaning_en": "social",
+      "meaning_uk": "соціальний",
+      "meaning_es": "Relativo a la sociedad."
+    },
+    {
+      "term": "el tratado",
+      "type": "Noun",
+      "example": "Se firmó un *** entre ambos países.",
+      "meaning_tr": "antlaşma",
+      "meaning_en": "treaty",
+      "meaning_uk": "договір",
+      "meaning_es": "Acuerdo entre dos o más Estados."
+    },
+    {
+      "term": "la gestión",
+      "type": "Noun",
+      "example": "Su *** ha sido muy eficiente.",
+      "meaning_tr": "yönetim",
+      "meaning_en": "management",
+      "meaning_uk": "управління",
+      "meaning_es": "Acción de gestionar o administrar."
+    },
+    {
+      "term": "público",
+      "type": "Adjective",
+      "example": "El servicio *** debe ser gratuito.",
+      "meaning_tr": "kamusal",
+      "meaning_en": "public",
+      "meaning_uk": "публічний",
+      "meaning_es": "Que pertenece a toda la comunidad."
+    },
+    {
+      "term": "la coalición",
+      "type": "Noun",
+      "example": "Formaron una *** para gobernar.",
+      "meaning_tr": "koalisyon",
+      "meaning_en": "coalition",
+      "meaning_uk": "коаліція",
+      "meaning_es": "Alianza entre partidos para formar gobierno."
+    },
+    {
+      "term": "el mandato",
+      "type": "Noun",
+      "example": "Su *** terminó el mes pasado.",
+      "meaning_tr": "görev süresi",
+      "meaning_en": "mandate",
+      "meaning_uk": "мандат",
+      "meaning_es": "Periodo en el que se ejerce un cargo."
+    }
+  ]
+}

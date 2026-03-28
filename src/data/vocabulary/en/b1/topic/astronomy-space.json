@@ -1,0 +1,321 @@
+{
+  "title": "Astronomy & Space (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a planet",
+      "type": "Noun",
+      "example": "Earth is *** that orbits the Sun.",
+      "meaning_tr": "gezegen",
+      "meaning_en": "a large natural object that orbits a star",
+      "meaning_uk": "планета",
+      "meaning_es": "un planeta"
+    },
+    {
+      "term": "a star",
+      "type": "Noun",
+      "example": "The Sun is the closest *** to us.",
+      "meaning_tr": "yıldız",
+      "meaning_en": "a bright ball of burning gas in space",
+      "meaning_uk": "зірка",
+      "meaning_es": "una estrella"
+    },
+    {
+      "term": "to orbit",
+      "type": "Verb",
+      "example": "The Moon continues to *** the Earth.",
+      "meaning_tr": "yörüngesinde dönmek",
+      "meaning_en": "to move in a curved path around a star or planet",
+      "meaning_uk": "обертатися навколо",
+      "meaning_es": "orbitar"
+    },
+    {
+      "term": "a galaxy",
+      "type": "Noun",
+      "example": "Our solar system is part of the Milky Way ***.",
+      "meaning_tr": "galaksi",
+      "meaning_en": "a large group of stars, gas, and dust held together by gravity",
+      "meaning_uk": "галактика",
+      "meaning_es": "una galaxia"
+    },
+    {
+      "term": "the universe",
+      "type": "Noun",
+      "example": "Scientists are still learning about the size of ***.",
+      "meaning_tr": "evren",
+      "meaning_en": "everything that exists, including all space and matter",
+      "meaning_uk": "всесвіт",
+      "meaning_es": "el universo"
+    },
+    {
+      "term": "a telescope",
+      "type": "Noun",
+      "example": "We used *** to look at the craters on the Moon.",
+      "meaning_tr": "teleskop",
+      "meaning_en": "a tool used to see distant objects in space",
+      "meaning_uk": "телескоп",
+      "meaning_es": "un telescopio"
+    },
+    {
+      "term": "an astronaut",
+      "type": "Noun",
+      "example": "Being *** is a very difficult and dangerous job.",
+      "meaning_tr": "astronot",
+      "meaning_en": "a person who is trained to travel in a spacecraft",
+      "meaning_uk": "астронавт",
+      "meaning_es": "un astronauta"
+    },
+    {
+      "term": "a moon",
+      "type": "Noun",
+      "example": "Jupiter has more than 90 objects that ***.",
+      "meaning_tr": "ay",
+      "meaning_en": "a natural satellite that orbits a planet",
+      "meaning_uk": "місяць",
+      "meaning_es": "una luna"
+    },
+    {
+      "term": "to explore",
+      "type": "Verb",
+      "example": "Humans want to *** Mars in the near future.",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "to travel through an area to learn about it",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "explorar"
+    },
+    {
+      "term": "a comet",
+      "type": "Noun",
+      "example": "The tail of *** is made of ice and dust.",
+      "meaning_tr": "kuyruklu yıldız",
+      "meaning_en": "an object made of ice and dust with a glowing tail",
+      "meaning_uk": "комета",
+      "meaning_es": "un cometa"
+    },
+    {
+      "term": "a spacecraft",
+      "type": "Noun",
+      "example": "The *** landed safely on the surface of Mars.",
+      "meaning_tr": "uzay aracı",
+      "meaning_en": "a vehicle designed for travel in space",
+      "meaning_uk": "космічний корабель",
+      "meaning_es": "una nave espacial"
+    },
+    {
+      "term": "gravity",
+      "type": "Noun",
+      "example": "Without ***, we would float away into space.",
+      "meaning_tr": "yerçekimi",
+      "meaning_en": "the force that pulls objects toward a planet or star",
+      "meaning_uk": "гравітація",
+      "meaning_es": "la gravedad"
+    },
+    {
+      "term": "vast",
+      "type": "Adjective",
+      "example": "Space is a *** area that we are still studying.",
+      "meaning_tr": "uçsuz bucaksız",
+      "meaning_en": "extremely large in size or area",
+      "meaning_uk": "величезний",
+      "meaning_es": "vasto"
+    },
+    {
+      "term": "an asteroid",
+      "type": "Noun",
+      "example": "Many scientists worry about *** hitting the Earth.",
+      "meaning_tr": "asteroit",
+      "meaning_en": "a small rocky object that orbits the Sun",
+      "meaning_uk": "астероїд",
+      "meaning_es": "un asteroide"
+    },
+    {
+      "term": "to launch",
+      "type": "Verb",
+      "example": "They will *** the rocket early tomorrow morning.",
+      "meaning_tr": "fırlatmak",
+      "meaning_en": "to send a rocket or spacecraft into the air",
+      "meaning_uk": "запускати",
+      "meaning_es": "lanzar"
+    },
+    {
+      "term": "a solar system",
+      "type": "Noun",
+      "example": "Our *** consists of eight planets and the Sun.",
+      "meaning_tr": "güneş sistemi",
+      "meaning_en": "a sun and the objects that orbit it",
+      "meaning_uk": "сонячна система",
+      "meaning_es": "el sistema solar"
+    },
+    {
+      "term": "lunar",
+      "type": "Adjective",
+      "example": "The *** surface is full of holes called craters.",
+      "meaning_tr": "ay ile ilgili",
+      "meaning_en": "relating to the Moon",
+      "meaning_uk": "місячний",
+      "meaning_es": "lunar"
+    },
+    {
+      "term": "an eclipse",
+      "type": "Noun",
+      "example": "We wore special glasses to watch the solar ***.",
+      "meaning_tr": "tutulma",
+      "meaning_en": "when one space object blocks the light of another",
+      "meaning_uk": "затемнення",
+      "meaning_es": "un eclipse"
+    },
+    {
+      "term": "atmospheric",
+      "type": "Adjective",
+      "example": "Mars has very thin *** conditions compared to Earth.",
+      "meaning_tr": "atmosferik",
+      "meaning_en": "relating to the air or gases around a planet",
+      "meaning_uk": "атмосферний",
+      "meaning_es": "atmosférico"
+    },
+    {
+      "term": "to observe",
+      "type": "Verb",
+      "example": "Astronomers *** the night sky to find new stars.",
+      "meaning_tr": "gözlemlemek",
+      "meaning_en": "to watch carefully to learn something",
+      "meaning_uk": "спостерігати",
+      "meaning_es": "observar"
+    },
+    {
+      "term": "remote",
+      "type": "Adjective",
+      "example": "The satellite sends data from a *** part of space.",
+      "meaning_tr": "uzak",
+      "meaning_en": "far away from other places",
+      "meaning_uk": "віддалений",
+      "meaning_es": "remoto"
+    },
+    {
+      "term": "an orbit",
+      "type": "Noun",
+      "example": "The satellite is currently in a stable ***.",
+      "meaning_tr": "yörünge",
+      "meaning_en": "the path an object takes around a star or planet",
+      "meaning_uk": "орбіта",
+      "meaning_es": "una órbita"
+    },
+    {
+      "term": "to land",
+      "type": "Verb",
+      "example": "The probe managed to *** on the planet safely.",
+      "meaning_tr": "iniş yapmak",
+      "meaning_en": "to come down to the surface",
+      "meaning_uk": "приземлятися",
+      "meaning_es": "aterrizar"
+    },
+    {
+      "term": "an observatory",
+      "type": "Noun",
+      "example": "They visited the *** to see the giant telescope.",
+      "meaning_tr": "gözlemevi",
+      "meaning_en": "a place with telescopes for studying space",
+      "meaning_uk": "обсерваторія",
+      "meaning_es": "un observatorio"
+    },
+    {
+      "term": "infinite",
+      "type": "Adjective",
+      "example": "Some people believe the universe is ***.",
+      "meaning_tr": "sonsuz",
+      "meaning_en": "having no end or limit",
+      "meaning_uk": "нескінченний",
+      "meaning_es": "infinito"
+    },
+    {
+      "term": "a constellation",
+      "type": "Noun",
+      "example": "Orion is a famous *** in the night sky.",
+      "meaning_tr": "takımyıldız",
+      "meaning_en": "a group of stars that form a shape",
+      "meaning_uk": "сузір'я",
+      "meaning_es": "una constelación"
+    },
+    {
+      "term": "to rotate",
+      "type": "Verb",
+      "example": "The Earth takes 24 hours to *** once.",
+      "meaning_tr": "kendi ekseni etrafında dönmek",
+      "meaning_en": "to spin around a center point",
+      "meaning_uk": "обертатися",
+      "meaning_es": "rotar"
+    },
+    {
+      "term": "a satellite",
+      "type": "Noun",
+      "example": "The weather *** sends images back to Earth.",
+      "meaning_tr": "uydu",
+      "meaning_en": "an object that orbits a planet, natural or man-made",
+      "meaning_uk": "супутник",
+      "meaning_es": "un satélite"
+    },
+    {
+      "term": "darkly",
+      "type": "Adverb",
+      "example": "The black hole shone *** against the bright stars.",
+      "meaning_tr": "karanlık bir şekilde",
+      "meaning_en": "in a way that is dark or without light",
+      "meaning_uk": "темно",
+      "meaning_es": "oscuramente"
+    },
+    {
+      "term": "and",
+      "type": "Conjunction",
+      "example": "Stars *** planets are found throughout the galaxy.",
+      "meaning_tr": "ve",
+      "meaning_en": "used to connect words or ideas",
+      "meaning_uk": "і",
+      "meaning_es": "y"
+    },
+    {
+      "term": "above",
+      "type": "Preposition",
+      "example": "The stars were shining bright *** the horizon.",
+      "meaning_tr": "üzerinde",
+      "meaning_en": "at a higher level or position",
+      "meaning_uk": "над",
+      "meaning_es": "encima de"
+    },
+    {
+      "term": "a light-year",
+      "type": "Noun",
+      "example": "The nearest star is many *** away.",
+      "meaning_tr": "ışık yılı",
+      "meaning_en": "the distance light travels in one year",
+      "meaning_uk": "світловий рік",
+      "meaning_es": "un año luz"
+    },
+    {
+      "term": "to float",
+      "type": "Verb",
+      "example": "In zero gravity, things will *** in the air.",
+      "meaning_tr": "süzülmek",
+      "meaning_en": "to move slowly in the air or water",
+      "meaning_uk": "плавати",
+      "meaning_es": "flotar"
+    },
+    {
+      "term": "a rocket",
+      "type": "Noun",
+      "example": "The *** moved quickly into the atmosphere.",
+      "meaning_tr": "roket",
+      "meaning_en": "a vehicle that uses engines to travel into space",
+      "meaning_uk": "ракета",
+      "meaning_es": "un cohete"
+    },
+    {
+      "term": "a vacuum",
+      "type": "Noun",
+      "example": "Space is essentially a giant *** without air.",
+      "meaning_tr": "vakum",
+      "meaning_en": "a space with no matter or air inside",
+      "meaning_uk": "вакуум",
+      "meaning_es": "un vacío"
+    }
+  ]
+}

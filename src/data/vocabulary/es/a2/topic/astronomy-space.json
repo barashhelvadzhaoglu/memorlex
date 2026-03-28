@@ -1,0 +1,231 @@
+{
+  "title": "Astronomia y Espacio (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el planeta",
+      "type": "Noun",
+      "meaning_tr": "gezegen",
+      "meaning_en": "planet",
+      "meaning_uk": "планета",
+      "meaning_es": "cuerpo celeste que gira alrededor de una estrella",
+      "example": "*** Marte es conocido como el planeta rojo."
+    },
+    {
+      "term": "la estrella",
+      "type": "Noun",
+      "meaning_tr": "yıldız",
+      "meaning_en": "star",
+      "meaning_uk": "зірка",
+      "meaning_es": "cuerpo celeste que brilla con luz propia",
+      "example": "*** El Sol es la estrella más cercana a la Tierra."
+    },
+    {
+      "term": "la luna",
+      "type": "Noun",
+      "meaning_tr": "ay",
+      "meaning_en": "moon",
+      "meaning_uk": "місяць",
+      "meaning_es": "satélite natural de la Tierra",
+      "example": "*** Podemos ver la luz de la luna durante la noche."
+    },
+    {
+      "term": "el sol",
+      "type": "Noun",
+      "meaning_tr": "güneş",
+      "meaning_en": "sun",
+      "meaning_uk": "сонце",
+      "meaning_es": "estrella central de nuestro sistema planetario",
+      "example": "*** El *** ilumina nuestro planeta cada mañana."
+    },
+    {
+      "term": "el telescopio",
+      "type": "Noun",
+      "meaning_tr": "teleskop",
+      "meaning_en": "telescope",
+      "meaning_uk": "телескоп",
+      "meaning_es": "instrumento óptico para ver objetos lejanos",
+      "example": "*** Usamos un *** para observar los cráteres de la luna."
+    },
+    {
+      "term": "el astronauta",
+      "type": "Noun",
+      "meaning_tr": "astronot",
+      "meaning_en": "astronaut",
+      "meaning_uk": "астронавт",
+      "meaning_es": "persona que viaja al espacio",
+      "example": "*** El *** camina sobre la superficie lunar."
+    },
+    {
+      "term": "la galaxia",
+      "type": "Noun",
+      "meaning_tr": "galaksi",
+      "meaning_en": "galaxy",
+      "meaning_uk": "галактика",
+      "meaning_es": "agrupación masiva de estrellas",
+      "example": "*** Nuestra galaxia se llama la Vía Láctea."
+    },
+    {
+      "term": "orbitar",
+      "type": "Verb",
+      "meaning_tr": "yörüngede dönmek",
+      "meaning_en": "to orbit",
+      "meaning_uk": "обертатися по орбіті",
+      "meaning_es": "moverse alrededor de un cuerpo celeste",
+      "example": "*** La Tierra tarda un año en *** el Sol."
+    },
+    {
+      "term": "brillante",
+      "type": "Adjective",
+      "meaning_tr": "parlak",
+      "meaning_en": "bright",
+      "meaning_uk": "яскравий",
+      "meaning_es": "que emite o refleja mucha luz",
+      "example": "*** Esa estrella es muy *** en el cielo nocturno."
+    },
+    {
+      "term": "el espacio",
+      "type": "Noun",
+      "meaning_tr": "uzay",
+      "meaning_en": "space",
+      "meaning_uk": "космос",
+      "meaning_es": "el universo fuera de la atmósfera terrestre",
+      "example": "*** Me gustaría viajar al *** algún día."
+    },
+    {
+      "term": "el cohete",
+      "type": "Noun",
+      "meaning_tr": "roket",
+      "meaning_en": "rocket",
+      "meaning_uk": "ракета",
+      "meaning_es": "vehículo diseñado para viajar al espacio",
+      "example": "*** El *** despegó muy rápido hacia el cielo."
+    },
+    {
+      "term": "aterrizar",
+      "type": "Verb",
+      "meaning_tr": "iniş yapmak",
+      "meaning_en": "to land",
+      "meaning_uk": "приземлятися",
+      "meaning_es": "llegar a una superficie desde el aire o el espacio",
+      "example": "*** La nave espacial va a *** en Marte mañana."
+    },
+    {
+      "term": "lejos",
+      "type": "Adverb",
+      "meaning_tr": "uzak",
+      "meaning_en": "far",
+      "meaning_uk": "далеко",
+      "meaning_es": "a gran distancia",
+      "example": "*** Las estrellas están muy *** de nosotros."
+    },
+    {
+      "term": "la oscuridad",
+      "type": "Noun",
+      "meaning_tr": "karanlık",
+      "meaning_en": "darkness",
+      "meaning_uk": "темрява",
+      "meaning_es": "falta de luz",
+      "example": "*** En el espacio profundo hay mucha ***."
+    },
+    {
+      "term": "el cometa",
+      "type": "Noun",
+      "meaning_tr": "kuyruklu yıldız",
+      "meaning_en": "comet",
+      "meaning_uk": "комета",
+      "meaning_es": "cuerpo celeste de hielo y polvo",
+      "example": "*** Un *** pasó cerca de la Tierra ayer."
+    },
+    {
+      "term": "gigante",
+      "type": "Adjective",
+      "meaning_tr": "dev",
+      "meaning_en": "giant",
+      "meaning_uk": "гігантський",
+      "meaning_es": "muy grande",
+      "example": "*** Júpiter es un planeta *** en nuestro sistema."
+    },
+    {
+      "term": "explorar",
+      "type": "Verb",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "to explore",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "viajar por un lugar para conocerlo",
+      "example": "*** Queremos *** nuevos mundos en el futuro."
+    },
+    {
+      "term": "el universo",
+      "type": "Noun",
+      "meaning_tr": "evren",
+      "meaning_en": "universe",
+      "meaning_uk": "всесвіт",
+      "meaning_es": "el conjunto de todo lo que existe",
+      "example": "*** El *** es infinito y misterioso."
+    },
+    {
+      "term": "la gravedad",
+      "type": "Noun",
+      "meaning_tr": "yerçekimi",
+      "meaning_en": "gravity",
+      "meaning_uk": "гравітація",
+      "meaning_es": "fuerza que atrae los cuerpos hacia el centro",
+      "example": "*** En la luna hay menos *** que en la Tierra."
+    },
+    {
+      "term": "el cielo",
+      "type": "Noun",
+      "meaning_tr": "gökyüzü",
+      "meaning_en": "sky",
+      "meaning_uk": "небо",
+      "meaning_es": "la atmósfera que vemos desde la Tierra",
+      "example": "*** Miro al *** para ver las estrellas."
+    },
+    {
+      "term": "la nave",
+      "type": "Noun",
+      "meaning_tr": "uzay aracı",
+      "meaning_en": "spaceship",
+      "meaning_uk": "космічний корабель",
+      "meaning_es": "vehículo para viajar por el espacio",
+      "example": "*** La *** espacial regresó a la Tierra con éxito."
+    },
+    {
+      "term": "despegar",
+      "type": "Verb",
+      "meaning_tr": "havalanmak",
+      "meaning_en": "to take off",
+      "meaning_uk": "злітати",
+      "meaning_es": "iniciar el vuelo",
+      "example": "*** El cohete va a *** en cinco minutos."
+    },
+    {
+      "term": "cerca",
+      "type": "Adverb",
+      "meaning_tr": "yakın",
+      "meaning_en": "near",
+      "meaning_uk": "близько",
+      "meaning_es": "a poca distancia",
+      "example": "*** La luna está *** de nuestro planeta."
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "para unir palabras o ideas",
+      "example": "*** El sol *** la luna son importantes."
+    },
+    {
+      "term": "infinito",
+      "type": "Adjective",
+      "meaning_tr": "sonsuz",
+      "meaning_en": "infinite",
+      "meaning_uk": "нескінченний",
+      "meaning_es": "que no tiene fin",
+      "example": "*** El espacio parece ser ***."
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Ethik & KI (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die algorithmische Voreingenommenheit",
+      "type": "Noun",
+      "example": "Die *** kann zu diskriminierenden Entscheidungen in der Kreditvergabe führen.",
+      "meaning_tr": "algoritmik önyargı",
+      "meaning_en": "algorithmic bias",
+      "meaning_uk": "алгоритмічна упередженість",
+      "meaning_es": "sesgo algorítmico"
+    },
+    {
+      "term": "die Transparenz",
+      "type": "Noun",
+      "example": "Für das Vertrauen in KI-Systeme ist eine hohe *** unerlässlich.",
+      "meaning_tr": "şeffaflık",
+      "meaning_en": "transparency",
+      "meaning_uk": "прозорість",
+      "meaning_es": "transparencia"
+    },
+    {
+      "term": "die Rechenschaftspflicht",
+      "type": "Noun",
+      "example": "Bei Fehlern autonomer Systeme muss die *** klar geregelt sein.",
+      "meaning_tr": "hesap verebilirlik",
+      "meaning_en": "accountability",
+      "meaning_uk": "підзвітність",
+      "meaning_es": "rendición de cuentas"
+    },
+    {
+      "term": "die Datensouveränität",
+      "type": "Noun",
+      "example": "Die *** der Nutzer muss bei der Entwicklung von KI-Modellen gewahrt bleiben.",
+      "meaning_tr": "veri egemenliği",
+      "meaning_en": "data sovereignty",
+      "meaning_uk": "суверенітет даних",
+      "meaning_es": "soberanía de datos"
+    },
+    {
+      "term": "die Privatsphäre",
+      "type": "Noun",
+      "example": "Der Schutz der *** ist ein zentrales ethisches Anliegen in der digitalen Welt.",
+      "meaning_tr": "özel hayat",
+      "meaning_en": "privacy",
+      "meaning_uk": "приватність",
+      "meaning_es": "privacidad"
+    },
+    {
+      "term": "die Diskriminierung",
+      "type": "Noun",
+      "example": "KI darf nicht zur systematischen *** von Minderheiten beitragen.",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "discrimination",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "discriminación"
+    },
+    {
+      "term": "die Objektivität",
+      "type": "Noun",
+      "example": "Man darf nicht annehmen, dass KI-Systeme absolute *** besitzen.",
+      "meaning_tr": "objektiflik",
+      "meaning_en": "objectivity",
+      "meaning_uk": "об'єктивність",
+      "meaning_es": "objetividad"
+    },
+    {
+      "term": "die Manipulationsgefahr",
+      "type": "Noun",
+      "example": "Personalisierte Algorithmen bergen eine hohe *** durch Filterblasen.",
+      "meaning_tr": "manipülasyon tehlikesi",
+      "meaning_en": "risk of manipulation",
+      "meaning_uk": "ризик маніпуляції",
+      "meaning_es": "riesgo de manipulación"
+    },
+    {
+      "term": "die Überwachungskultur",
+      "type": "Noun",
+      "example": "Der Einsatz von Gesichtserkennung fördert eine bedenkliche ***.",
+      "meaning_tr": "gözetim kültürü",
+      "meaning_en": "surveillance culture",
+      "meaning_uk": "культура стеження",
+      "meaning_es": "cultura de vigilancia"
+    },
+    {
+      "term": "die Automatisierung",
+      "type": "Noun",
+      "example": "Die zunehmende *** verändert die Struktur des Arbeitsmarktes grundlegend.",
+      "meaning_tr": "otomasyon",
+      "meaning_en": "automation",
+      "meaning_uk": "автоматизація",
+      "meaning_es": "automatización"
+    },
+    {
+      "term": "die ethische Leitlinie",
+      "type": "Noun",
+      "example": "Unternehmen sollten sich an eine verbindliche *** halten.",
+      "meaning_tr": "etik kılavuz",
+      "meaning_en": "ethical guideline",
+      "meaning_uk": "етична настанова",
+      "meaning_es": "guía ética"
+    },
+    {
+      "term": "die Verantwortung",
+      "type": "Noun",
+      "example": "Wir tragen die *** für die Auswirkungen unserer technologischen Innovationen.",
+      "meaning_tr": "sorumluluk",
+      "meaning_en": "responsibility",
+      "meaning_uk": "відповідальність",
+      "meaning_es": "responsabilidad"
+    },
+    {
+      "term": "die Urheberrechtsverletzung",
+      "type": "Noun",
+      "example": "Das Training von KI mit geschützten Werken kann zu einer *** führen.",
+      "meaning_tr": "telif hakkı ihlali",
+      "meaning_en": "copyright infringement",
+      "meaning_uk": "порушення авторських прав",
+      "meaning_es": "infracción de derechos de autor"
+    },
+    {
+      "term": "die Autonomie",
+      "type": "Noun",
+      "example": "Der Grad der menschlichen *** muss bei KI-Entscheidungen erhalten bleiben.",
+      "meaning_tr": "özerklik",
+      "meaning_en": "autonomy",
+      "meaning_uk": "автономія",
+      "meaning_es": "autonomía"
+    },
+    {
+      "term": "die Regulierung",
+      "type": "Noun",
+      "example": "Eine strenge *** ist notwendig, um Missbrauch von KI zu verhindern.",
+      "meaning_tr": "düzenleme",
+      "meaning_en": "regulation",
+      "meaning_uk": "регулювання",
+      "meaning_es": "regulación"
+    },
+    {
+      "term": "die Voreingenommenheit",
+      "type": "Noun",
+      "example": "Unbewusste *** in Datensätzen führt zu verzerrten Ergebnissen.",
+      "meaning_tr": "önyargı",
+      "meaning_en": "bias",
+      "meaning_uk": "упередженість",
+      "meaning_es": "sesgo"
+    },
+    {
+      "term": "die Vorhersehbarkeit",
+      "type": "Noun",
+      "example": "Bei KI-Systemen ist die *** von Handlungen oft schwer zu gewährleisten.",
+      "meaning_tr": "öngörülebilirlik",
+      "meaning_en": "predictability",
+      "meaning_uk": "передбачуваність",
+      "meaning_es": "previsibilidad"
+    },
+    {
+      "term": "die Deepfake-Technologie",
+      "type": "Noun",
+      "example": "Die *** stellt eine neue Herausforderung für die Wahrheit in den Medien dar.",
+      "meaning_tr": "deepfake teknolojisi",
+      "meaning_en": "deepfake technology",
+      "meaning_uk": "технологія діпфейків",
+      "meaning_es": "tecnología deepfake"
+    },
+    {
+      "term": "die Mensch-Maschine-Interaktion",
+      "type": "Noun",
+      "example": "In der *** müssen klare Grenzen definiert werden.",
+      "meaning_tr": "insan-makine etkileşimi",
+      "meaning_en": "human-machine interaction",
+      "meaning_uk": "взаємодія людини і машини",
+      "meaning_es": "interacción humano-máquina"
+    },
+    {
+      "term": "die gesellschaftliche Akzeptanz",
+      "type": "Noun",
+      "example": "Ohne *** wird sich diese Technologie nicht durchsetzen.",
+      "meaning_tr": "toplumsal kabul",
+      "meaning_en": "social acceptance",
+      "meaning_uk": "суспільне визнання",
+      "meaning_es": "aceptación social"
+    },
+    {
+      "term": "manipulieren",
+      "type": "Verb",
+      "example": "KI-Systeme könnten dazu genutzt werden, das Wählerverhalten zu ***.",
+      "meaning_tr": "manipüle etmek",
+      "meaning_en": "to manipulate",
+      "meaning_uk": "маніпулювати",
+      "meaning_es": "manipular"
+    },
+    {
+      "term": "diskriminieren",
+      "type": "Verb",
+      "example": "Es ist inakzeptabel, wenn Algorithmen bestimmte Personengruppen ***.",
+      "meaning_tr": "ayrımcılık yapmak",
+      "meaning_en": "to discriminate",
+      "meaning_uk": "дискримінувати",
+      "meaning_es": "discriminar"
+    },
+    {
+      "term": "regulieren",
+      "type": "Verb",
+      "example": "Der Staat versucht, den Einsatz von KI durch Gesetze zu ***.",
+      "meaning_tr": "düzenlemek",
+      "meaning_en": "to regulate",
+      "meaning_uk": "регулювати",
+      "meaning_es": "regular"
+    },
+    {
+      "term": "überwachen",
+      "type": "Verb",
+      "example": "Es ist schwierig, die Einhaltung ethischer Standards bei KI zu ***.",
+      "meaning_tr": "gözetlemek/denetlemek",
+      "meaning_en": "to monitor/surveil",
+      "meaning_uk": "спостерігати/контролювати",
+      "meaning_es": "monitorear/vigilar"
+    },
+    {
+      "term": "verzerren",
+      "type": "Verb",
+      "example": "Einseitige Trainingsdaten können die Wahrnehmung der KI ***.",
+      "meaning_tr": "çarpıtmak",
+      "meaning_en": "to distort/bias",
+      "meaning_uk": "спотворювати",
+      "meaning_es": "distorsionar"
+    },
+    {
+      "term": "automatisieren",
+      "type": "Verb",
+      "example": "Viele Unternehmen versuchen, ihre Produktionsprozesse zu ***.",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to automate",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "automatizar"
+    },
+    {
+      "term": "abwägen",
+      "type": "Verb",
+      "example": "Man muss Nutzen und Risiken der KI sorgfältig gegeneinander ***.",
+      "meaning_tr": "tartmak/değerlendirmek",
+      "meaning_en": "to weigh/balance",
+      "meaning_uk": "зважувати",
+      "meaning_es": "sopesar"
+    },
+    {
+      "term": "schützen",
+      "type": "Verb",
+      "example": "Die Gesetzgebung soll die Daten der Bürger vor Missbrauch ***.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to protect",
+      "meaning_uk": "захищати",
+      "meaning_es": "proteger"
+    },
+    {
+      "term": "auswerten",
+      "type": "Verb",
+      "example": "KI-Systeme können riesige Datenmengen in kürzester Zeit ***.",
+      "meaning_tr": "değerlendirmek/analiz etmek",
+      "meaning_en": "to evaluate/analyze",
+      "meaning_uk": "аналізувати/оцінювати",
+      "meaning_es": "evaluar/analizar"
+    },
+    {
+      "term": "eingreifen",
+      "type": "Verb",
+      "example": "Der Mensch muss jederzeit in der Lage sein, in den Prozess zu ***.",
+      "meaning_tr": "müdahale etmek",
+      "meaning_en": "to intervene",
+      "meaning_uk": "втручатися",
+      "meaning_es": "intervenir"
+    },
+    {
+      "term": "ethisch",
+      "type": "Adjective",
+      "example": "Die Entwicklung von KI-Technologien wirft viele *** Fragen auf.",
+      "meaning_tr": "etik",
+      "meaning_en": "ethical",
+      "meaning_uk": "етичний",
+      "meaning_es": "ético"
+    },
+    {
+      "term": "transparent",
+      "type": "Adjective",
+      "example": "Algorithmen müssen für Nutzer verständlich und *** sein.",
+      "meaning_tr": "şeffaf",
+      "meaning_en": "transparent",
+      "meaning_uk": "прозорий",
+      "meaning_es": "transparente"
+    },
+    {
+      "term": "autonom",
+      "type": "Adjective",
+      "example": "Ein *** fahrendes Auto muss in Gefahrensituationen entscheiden können.",
+      "meaning_tr": "özerk",
+      "meaning_en": "autonomous",
+      "meaning_uk": "автономний",
+      "meaning_es": "autónomo"
+    },
+    {
+      "term": "voreingenommen",
+      "type": "Adjective",
+      "example": "Wenn die Daten falsch sind, bleibt das Ergebnis der KI ***.",
+      "meaning_tr": "önyargılı",
+      "meaning_en": "biased",
+      "meaning_uk": "упереджений",
+      "meaning_es": "sesgado"
+    },
+    {
+      "term": "unvorhersehbar",
+      "type": "Adjective",
+      "example": "Das Verhalten komplexer KI-Systeme ist manchmal völlig ***.",
+      "meaning_tr": "öngörülemez",
+      "meaning_en": "unpredictable",
+      "meaning_uk": "непередбачуваний",
+      "meaning_es": "impredecible"
+    },
+    {
+      "term": "verantwortungsbewusst",
+      "type": "Adjective",
+      "example": "Wir müssen *** mit den Möglichkeiten der KI umgehen.",
+      "meaning_tr": "sorumlu/bilinçli",
+      "meaning_en": "responsible",
+      "meaning_uk": "відповідальний",
+      "meaning_es": "responsable"
+    },
+    {
+      "term": "diskriminierungsfrei",
+      "type": "Adjective",
+      "example": "Ein Ziel der Forschung ist die Entwicklung *** Algorithmen.",
+      "meaning_tr": "ayrımcılıktan uzak",
+      "meaning_en": "non-discriminatory",
+      "meaning_uk": "недискримінаційний",
+      "meaning_es": "no discriminatorio"
+    },
+    {
+      "term": "manipulativ",
+      "type": "Adjective",
+      "example": "Die Werbung nutzt oft *** Methoden, um Konsumenten zu beeinflussen.",
+      "meaning_tr": "manipülatif",
+      "meaning_en": "manipulative",
+      "meaning_uk": "маніпулятивний",
+      "meaning_es": "manipulador"
+    },
+    {
+      "term": "datengestützt",
+      "type": "Adjective",
+      "example": "Diese Entscheidung basiert auf einer *** Analyse.",
+      "meaning_tr": "veri destekli",
+      "meaning_en": "data-driven",
+      "meaning_uk": "керований даними",
+      "meaning_es": "basado en datos"
+    },
+    {
+      "term": "kritisch",
+      "type": "Adjective",
+      "example": "Wir sollten den Einsatz von KI stets *** hinterfragen.",
+      "meaning_tr": "eleştirel",
+      "meaning_en": "critical",
+      "meaning_uk": "критичний",
+      "meaning_es": "crítico"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "*** der Sicherheit gibt es noch viele offene Fragen.",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "regarding/with regard to",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "trotz",
+      "type": "Preposition",
+      "example": "*** der technologischen Fortschritte bleibt menschliches Urteilsvermögen wichtig.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "попри",
+      "meaning_es": "a pesar de"
+    },
+    {
+      "term": "bezüglich",
+      "type": "Preposition",
+      "example": "*** der Datenschutzrichtlinien muss nachgebessert werden.",
+      "meaning_tr": "ilişkin",
+      "meaning_en": "concerning",
+      "meaning_uk": "стосовно",
+      "meaning_es": "en relación a"
+    },
+    {
+      "term": "gemäß",
+      "type": "Preposition",
+      "example": "*** der neuen EU-Verordnung müssen KI-Systeme zertifiziert werden.",
+      "meaning_tr": "uyarınca/göre",
+      "meaning_en": "according to",
+      "meaning_uk": "згідно з",
+      "meaning_es": "según"
+    },
+    {
+      "term": "angesichts",
+      "type": "Preposition",
+      "example": "*** der rasanten Entwicklung ist eine schnelle Regulierung geboten.",
+      "meaning_tr": "karşısında/göz önüne alındığında",
+      "meaning_en": "in view of/given",
+      "meaning_uk": "з огляду на",
+      "meaning_es": "dado/teniendo en cuenta"
+    },
+    {
+      "term": "mithilfe",
+      "type": "Preposition",
+      "example": "*** modernster KI-Methoden konnten komplexe Probleme gelöst werden.",
+      "meaning_tr": "yardımıyla",
+      "meaning_en": "with the help of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "con la ayuda de"
+    },
+    {
+      "term": "aufgrund",
+      "type": "Preposition",
+      "example": "*** mangelnder Datenqualität sind die Ergebnisse ungenau.",
+      "meaning_tr": "nedeniyle",
+      "meaning_en": "due to",
+      "meaning_uk": "через",
+      "meaning_es": "debido a"
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "example": "*** der Entwicklung müssen Sicherheitschecks durchgeführt werden.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "statt",
+      "type": "Preposition",
+      "example": "*** einer menschlichen Interaktion wählt das System eine automatisierte Antwort.",
+      "meaning_tr": "yerine",
+      "meaning_en": "instead of",
+      "meaning_uk": "замість",
+      "meaning_es": "en lugar de"
+    },
+    {
+      "term": "inmitten",
+      "type": "Preposition",
+      "example": "*** einer Debatte über Ethik müssen wir konkrete Standards setzen.",
+      "meaning_tr": "ortasında",
+      "meaning_en": "in the midst of",
+      "meaning_uk": "посеред",
+      "meaning_es": "en medio de"
+    },
+    {
+      "term": "folglich",
+      "type": "Adverb",
+      "example": "Die Algorithmen sind voreingenommen; *** sind die Ergebnisse diskriminierend.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "dennoch",
+      "type": "Adverb",
+      "example": "KI bietet viele Vorteile, *** bleiben die ethischen Risiken bestehen.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "тим не менш",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "allerdings",
+      "type": "Adverb",
+      "example": "Die Effizienz ist hoch; *** ist die Transparenz oft mangelhaft.",
+      "meaning_tr": "gerçi/bununla birlikte",
+      "meaning_en": "however",
+      "meaning_uk": "однак",
+      "meaning_es": "no obstante"
+    },
+    {
+      "term": "zudem",
+      "type": "Adverb",
+      "example": "KI spart Zeit; *** verbessert sie die Genauigkeit bei Diagnosen.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "hingegen",
+      "type": "Adverb",
+      "example": "Menschliche Experten urteilen intuitiv, KI *** agiert rein regelbasiert.",
+      "meaning_tr": "aksine",
+      "meaning_en": "on the other hand",
+      "meaning_uk": "натомість",
+      "meaning_es": "en cambio"
+    },
+    {
+      "term": "sowohl ... als auch",
+      "type": "Conjunction",
+      "example": "Wir müssen *** die Chancen *** die Risiken der KI betrachten.",
+      "meaning_tr": "hem ... hem de",
+      "meaning_en": "both ... and",
+      "meaning_uk": "як ... так і",
+      "meaning_es": "tanto ... como"
+    },
+    {
+      "term": "weder ... noch",
+      "type": "Conjunction",
+      "example": "Das System ist *** vollständig sicher *** vollständig transparent.",
+      "meaning_tr": "ne ... ne de",
+      "meaning_en": "neither ... nor",
+      "meaning_uk": "ні ... ні",
+      "meaning_es": "ni ... ni"
+    },
+    {
+      "term": "entweder ... oder",
+      "type": "Conjunction",
+      "example": "Wir müssen uns *** für Datenschutz *** für maximale Innovation entscheiden.",
+      "meaning_tr": "ya ... ya da",
+      "meaning_en": "either ... or",
+      "meaning_uk": "або ... або",
+      "meaning_es": "o ... o"
+    },
+    {
+      "term": "nicht nur ... sondern auch",
+      "type": "Conjunction",
+      "example": "KI ist *** ein technisches Werkzeug, *** ein ethisches Instrument.",
+      "meaning_tr": "sadece ... değil, aynı zamanda ...",
+      "meaning_en": "not only ... but also",
+      "meaning_uk": "не тільки ... а й",
+      "meaning_es": "no solo ... sino también"
+    },
+    {
+      "term": "obwohl",
+      "type": "Conjunction",
+      "example": "*** KI sehr leistungsfähig ist, fehlt ihr das menschliche Bewusstsein.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Mass Tourism & Its Impact (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the overcrowding",
+      "type": "Noun",
+      "example": "Local residents are increasingly frustrated by *** in the city center during peak season.",
+      "meaning_tr": "aşırı kalabalık",
+      "meaning_en": "the situation of having too many people in one place",
+      "meaning_uk": "переповненість",
+      "meaning_es": "el hacinamiento"
+    },
+    {
+      "term": "to degrade",
+      "type": "Verb",
+      "example": "Uncontrolled tourism often threatens to *** the natural beauty of pristine landscapes.",
+      "meaning_tr": "bozmak, kötüleştirmek",
+      "meaning_en": "to lower the character or quality of something",
+      "meaning_uk": "погіршувати",
+      "meaning_es": "degradar"
+    },
+    {
+      "term": "the influx",
+      "type": "Noun",
+      "example": "The massive *** of visitors puts an enormous strain on local infrastructure.",
+      "meaning_tr": "akın",
+      "meaning_en": "an arrival or entry of large numbers of people or things",
+      "meaning_uk": "приплив",
+      "meaning_es": "la afluencia"
+    },
+    {
+      "term": "sustainable",
+      "type": "Adjective",
+      "example": "Governments must promote *** tourism practices to preserve heritage sites for future generations.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "able to be maintained at a certain rate or level",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "the gentrification",
+      "type": "Noun",
+      "example": "Rapid tourism development has led to the *** of historical neighborhoods, pricing out locals.",
+      "meaning_tr": "soylulaştırma",
+      "meaning_en": "the process of changing an area to make it more appealing to wealthy people",
+      "meaning_uk": "джентрифікація",
+      "meaning_es": "la gentrificación"
+    },
+    {
+      "term": "to exacerbate",
+      "type": "Verb",
+      "example": "Massive cruise ships only serve to *** existing pollution levels in coastal towns.",
+      "meaning_tr": "kötüleştirmek, şiddetlendirmek",
+      "meaning_en": "to make a problem or bad situation worse",
+      "meaning_uk": "посилювати",
+      "meaning_es": "exacerbar"
+    },
+    {
+      "term": "the heritage",
+      "type": "Noun",
+      "example": "Protecting cultural *** is essential when managing high volumes of international tourists.",
+      "meaning_tr": "miras",
+      "meaning_en": "property that is or may be inherited; valued objects and qualities",
+      "meaning_uk": "спадщина",
+      "meaning_es": "el patrimonio"
+    },
+    {
+      "term": "the infrastructure",
+      "type": "Noun",
+      "example": "The city lacks the necessary *** to handle such a high density of visitors.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "the basic physical and organizational structures needed for the operation of a society",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "la infraestructura"
+    },
+    {
+      "term": "the commodification",
+      "type": "Noun",
+      "example": "The *** of local traditions for profit often strips them of their original meaning.",
+      "meaning_tr": "metalaştırma",
+      "meaning_en": "the action of treating something as a mere commodity",
+      "meaning_uk": "товаризація",
+      "meaning_es": "la mercantilización"
+    },
+    {
+      "term": "the footprint",
+      "type": "Noun",
+      "example": "Travelers are encouraged to reduce their carbon *** by choosing more eco-friendly transport.",
+      "meaning_tr": "ayak izi",
+      "meaning_en": "the impact of a person or community on the environment",
+      "meaning_uk": "слід",
+      "meaning_es": "la huella"
+    },
+    {
+      "term": "the displacement",
+      "type": "Noun",
+      "example": "The *** of residents from city centers is a direct consequence of short-term rental platforms.",
+      "meaning_tr": "yerinden edilme",
+      "meaning_en": "the forcing of people to leave their homes",
+      "meaning_uk": "витіснення",
+      "meaning_es": "el desplazamiento"
+    },
+    {
+      "term": "transient",
+      "type": "Adjective",
+      "example": "A *** population of tourists can disrupt the social fabric of small communities.",
+      "meaning_tr": "geçici",
+      "meaning_en": "lasting only for a short time",
+      "meaning_uk": "тимчасовий",
+      "meaning_es": "transitorio"
+    },
+    {
+      "term": "the depletion",
+      "type": "Noun",
+      "example": "The rapid *** of local water resources is a major concern in desert resort areas.",
+      "meaning_tr": "tükenme",
+      "meaning_en": "the reduction in the number or quantity of something",
+      "meaning_uk": "виснаження",
+      "meaning_es": "el agotamiento"
+    },
+    {
+      "term": "to proliferate",
+      "type": "Verb",
+      "example": "Souvenir shops have started to *** along the main boulevard to cater to tourists.",
+      "meaning_tr": "çoğalmak",
+      "meaning_en": "to increase rapidly in numbers",
+      "meaning_uk": "поширюватися",
+      "meaning_es": "proliferar"
+    },
+    {
+      "term": "the encroachment",
+      "type": "Noun",
+      "example": "Urban *** on protected wildlife areas is a significant threat to biodiversity.",
+      "meaning_tr": "tecavüz, izinsiz giriş",
+      "meaning_en": "the act of slowly moving into an area that belongs to someone else",
+      "meaning_uk": "посягання",
+      "meaning_es": "la invasión"
+    },
+    {
+      "term": "the saturation",
+      "type": "Noun",
+      "example": "Market *** in popular tourist destinations leads to a decline in service quality.",
+      "meaning_tr": "doygunluk",
+      "meaning_en": "the state or process that occurs when no more of something can be absorbed",
+      "meaning_uk": "насичення",
+      "meaning_es": "la saturación"
+    },
+    {
+      "term": "vulnerable",
+      "type": "Adjective",
+      "example": "Small island nations are particularly *** to the negative effects of mass tourism.",
+      "meaning_tr": "savunmasız",
+      "meaning_en": "susceptible to physical or emotional attack or harm",
+      "meaning_uk": "вразливий",
+      "meaning_es": "vulnerable"
+    },
+    {
+      "term": "the mitigation",
+      "type": "Noun",
+      "example": "Effective *** strategies are needed to reduce the impact of tourism on the environment.",
+      "meaning_tr": "hafifletme",
+      "meaning_en": "the action of reducing the severity or painfulness of something",
+      "meaning_uk": "пом'якшення",
+      "meaning_es": "la mitigación"
+    },
+    {
+      "term": "the authenticity",
+      "type": "Noun",
+      "example": "Many tourists search for the *** of a place, avoiding staged cultural performances.",
+      "meaning_tr": "özgünlük",
+      "meaning_en": "the quality of being genuine or real",
+      "meaning_uk": "автентичність",
+      "meaning_es": "la autenticidad"
+    },
+    {
+      "term": "to incentivize",
+      "type": "Verb",
+      "example": "The local government plans to *** off-season travel to distribute visitor numbers evenly.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to provide with an incentive or reason to do something",
+      "meaning_uk": "стимулювати",
+      "meaning_es": "incentivar"
+    },
+    {
+      "term": "the degradation",
+      "type": "Noun",
+      "example": "Environmental *** has become an unavoidable reality in over-visited national parks.",
+      "meaning_tr": "bozulma",
+      "meaning_en": "the process of damaging or ruining something",
+      "meaning_uk": "деградація",
+      "meaning_es": "la degradación"
+    },
+    {
+      "term": "the viability",
+      "type": "Noun",
+      "example": "Experts are questioning the long-term economic *** of relying solely on tourism.",
+      "meaning_tr": "uygulanabilirlik, yaşayabilirlik",
+      "meaning_en": "the ability to work successfully",
+      "meaning_uk": "життєздатність",
+      "meaning_es": "la viabilidad"
+    },
+    {
+      "term": "the preservation",
+      "type": "Noun",
+      "example": "The *** of local dialects is vital as tourism promotes a globalized, uniform culture.",
+      "meaning_tr": "koruma",
+      "meaning_en": "the action of preserving something",
+      "meaning_uk": "збереження",
+      "meaning_es": "la preservación"
+    },
+    {
+      "term": "the burden",
+      "type": "Noun",
+      "example": "The financial *** of maintaining public facilities falls heavily on the local taxpayers.",
+      "meaning_tr": "yük",
+      "meaning_en": "a load, typically a heavy one",
+      "meaning_uk": "тягар",
+      "meaning_es": "la carga"
+    },
+    {
+      "term": "the incentive",
+      "type": "Noun",
+      "example": "Tax breaks are a strong *** for companies to invest in sustainable tourism projects.",
+      "meaning_tr": "teşvik",
+      "meaning_en": "a thing that motivates or encourages one to do something",
+      "meaning_uk": "стимул",
+      "meaning_es": "el incentivo"
+    },
+    {
+      "term": "the revenue",
+      "type": "Noun",
+      "example": "While tourism generates significant tax ***, the environmental costs are often ignored.",
+      "meaning_tr": "gelir",
+      "meaning_en": "income, especially when of a company or organization",
+      "meaning_uk": "дохід",
+      "meaning_es": "los ingresos"
+    },
+    {
+      "term": "the regulation",
+      "type": "Noun",
+      "example": "Stricter *** on short-term rentals is being implemented in major European capitals.",
+      "meaning_tr": "düzenleme",
+      "meaning_en": "a rule or directive made and maintained by an authority",
+      "meaning_uk": "регулювання",
+      "meaning_es": "la regulación"
+    },
+    {
+      "term": "the congestion",
+      "type": "Noun",
+      "example": "Traffic *** in the city center has reached an all-time high during the summer months.",
+      "meaning_tr": "sıkışıklık",
+      "meaning_en": "the state of being overcrowded or blocked",
+      "meaning_uk": "затори",
+      "meaning_es": "la congestión"
+    },
+    {
+      "term": "the amenity",
+      "type": "Noun",
+      "example": "The hotel offers every modern *** to ensure guests are comfortable during their stay.",
+      "meaning_tr": "olanak, konfor",
+      "meaning_en": "a desirable or useful feature or facility of a building or place",
+      "meaning_uk": "зручність",
+      "meaning_es": "la comodidad"
+    },
+    {
+      "term": "the biodiversity",
+      "type": "Noun",
+      "example": "Tourism activities can lead to a significant loss of local *** in coastal regions.",
+      "meaning_tr": "biyoçeşitlilik",
+      "meaning_en": "the variety of life in the world or in a particular habitat",
+      "meaning_uk": "біорізноманіття",
+      "meaning_es": "la biodiversidad"
+    },
+    {
+      "term": "the influx",
+      "type": "Noun",
+      "example": "The rapid *** of cruise ship passengers overwhelmed the small port town.",
+      "meaning_tr": "akın",
+      "meaning_en": "an arrival of large numbers of people",
+      "meaning_uk": "приплив",
+      "meaning_es": "la afluencia"
+    },
+    {
+      "term": "to stifle",
+      "type": "Verb",
+      "example": "The dominance of international hotel chains can *** local businesses from growing.",
+      "meaning_tr": "boğmak, bastırmak",
+      "meaning_en": "to restrain or stop the development of something",
+      "meaning_uk": "стримувати",
+      "meaning_es": "sofocar"
+    },
+    {
+      "term": "the sustainability",
+      "type": "Noun",
+      "example": "Achieving long-term *** requires a balance between economic gain and ecological care.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "the ability to be maintained at a steady level",
+      "meaning_uk": "сталість",
+      "meaning_es": "la sostenibilidad"
+    },
+    {
+      "term": "the footprint",
+      "type": "Noun",
+      "example": "Reducing one's ecological *** is essential for responsible travel.",
+      "meaning_tr": "ayak izi",
+      "meaning_en": "the environmental impact left by human activity",
+      "meaning_uk": "слід",
+      "meaning_es": "la huella"
+    },
+    {
+      "term": "the integration",
+      "type": "Noun",
+      "example": "Successful tourism requires the *** of local communities into the planning process.",
+      "meaning_tr": "entegrasyon, bütünleşme",
+      "meaning_en": "the action of mixing or combining",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "la integración"
+    },
+    {
+      "term": "the impact",
+      "type": "Noun",
+      "example": "We must carefully assess the environmental *** of new resort developments.",
+      "meaning_tr": "etki",
+      "meaning_en": "the effect or influence of one person or thing on another",
+      "meaning_uk": "вплив",
+      "meaning_es": "el impacto"
+    },
+    {
+      "term": "the sprawl",
+      "type": "Noun",
+      "example": "Urban *** caused by tourism development is destroying the surrounding natural landscape.",
+      "meaning_tr": "düzensiz kentleşme",
+      "meaning_en": "the disorganized expansion of an urban area",
+      "meaning_uk": "розростання",
+      "meaning_es": "la expansión urbana"
+    },
+    {
+      "term": "the aesthetic",
+      "type": "Noun",
+      "example": "The city's unique *** is being compromised by the construction of generic high-rise hotels.",
+      "meaning_tr": "estetik",
+      "meaning_en": "a set of principles underlying the work of a particular art or movement",
+      "meaning_uk": "естетика",
+      "meaning_es": "la estética"
+    },
+    {
+      "term": "the exploitation",
+      "type": "Noun",
+      "example": "Labor *** in the tourism sector remains a hidden issue in many developing countries.",
+      "meaning_tr": "sömürü",
+      "meaning_en": "the action of treating someone unfairly in order to benefit from their work",
+      "meaning_uk": "експлуатація",
+      "meaning_es": "la explotación"
+    },
+    {
+      "term": "the influx",
+      "type": "Noun",
+      "example": "Such a massive *** of tourists makes it impossible to preserve the quiet atmosphere.",
+      "meaning_tr": "akın",
+      "meaning_en": "a sudden arrival of large numbers of people",
+      "meaning_uk": "приплив",
+      "meaning_es": "la afluencia"
+    },
+    {
+      "term": "to deplete",
+      "type": "Verb",
+      "example": "Over-tourism can quickly *** the natural resources that the destination relies on.",
+      "meaning_tr": "tüketmek",
+      "meaning_en": "to use up the supply or resources of something",
+      "meaning_uk": "виснажувати",
+      "meaning_es": "agotar"
+    },
+    {
+      "term": "the influx",
+      "type": "Noun",
+      "example": "The seasonal *** of vacationers creates a temporary but intense demand for services.",
+      "meaning_tr": "akın",
+      "meaning_en": "the steady arrival of large numbers of people",
+      "meaning_uk": "приплив",
+      "meaning_es": "la afluencia"
+    },
+    {
+      "term": "the restoration",
+      "type": "Noun",
+      "example": "The *** of ancient monuments is funded by entrance fees paid by tourists.",
+      "meaning_tr": "restorasyon, yenileme",
+      "meaning_en": "the action of returning something to a former, better state",
+      "meaning_uk": "реставрація",
+      "meaning_es": "la restauración"
+    },
+    {
+      "term": "the mitigation",
+      "type": "Noun",
+      "example": "The city council is focusing on the *** of noise pollution caused by nightlife.",
+      "meaning_tr": "hafifletme",
+      "meaning_en": "the act of making something less severe",
+      "meaning_uk": "пом'якшення",
+      "meaning_es": "la mitigación"
+    },
+    {
+      "term": "the infrastructure",
+      "type": "Noun",
+      "example": "Developing sustainable *** is the first step toward managing mass tourism.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "the physical facilities of a region",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "la infraestructura"
+    },
+    {
+      "term": "the commodification",
+      "type": "Noun",
+      "example": "Critics argue that the *** of local culture turns traditions into mere souvenirs.",
+      "meaning_tr": "metalaştırma",
+      "meaning_en": "the process of making something into a commodity for sale",
+      "meaning_uk": "товаризація",
+      "meaning_es": "la mercantilización"
+    },
+    {
+      "term": "the overcrowding",
+      "type": "Noun",
+      "example": "The persistent *** in the museum makes it difficult for visitors to appreciate the art.",
+      "meaning_tr": "aşırı kalabalık",
+      "meaning_en": "the state of having too many people in a restricted space",
+      "meaning_uk": "переповненість",
+      "meaning_es": "el hacinamiento"
+    },
+    {
+      "term": "the authenticity",
+      "type": "Noun",
+      "example": "Tourists often feel that the *** of the experience is lost in crowded areas.",
+      "meaning_tr": "özgünlük",
+      "meaning_en": "the quality of being genuine",
+      "meaning_uk": "автентичність",
+      "meaning_es": "la autenticidad"
+    },
+    {
+      "term": "to exacerbate",
+      "type": "Verb",
+      "example": "Lack of waste management systems will only *** the pollution problems in the area.",
+      "meaning_tr": "kötüleştirmek",
+      "meaning_en": "to aggravate a problem",
+      "meaning_uk": "посилювати",
+      "meaning_es": "exacerbar"
+    },
+    {
+      "term": "the displacement",
+      "type": "Noun",
+      "example": "The *** of long-term tenants in favor of tourist apartments is a growing concern.",
+      "meaning_tr": "yerinden edilme",
+      "meaning_en": "the involuntary movement of people from their homes",
+      "meaning_uk": "витіснення",
+      "meaning_es": "el desplazamiento"
+    },
+    {
+      "term": "the gentrification",
+      "type": "Noun",
+      "example": "The neighborhood has undergone significant *** as a result of becoming a tourist hotspot.",
+      "meaning_tr": "soylulaştırma",
+      "meaning_en": "the process of renewing a neighborhood to attract wealthier residents",
+      "meaning_uk": "джентрифікація",
+      "meaning_es": "la gentrificación"
+    },
+    {
+      "term": "the degradation",
+      "type": "Noun",
+      "example": "Environmental *** is the price paid for unregulated mass tourism.",
+      "meaning_tr": "bozulma",
+      "meaning_en": "the state of being degraded",
+      "meaning_uk": "деградація",
+      "meaning_es": "la degradación"
+    },
+    {
+      "term": "the burden",
+      "type": "Noun",
+      "example": "The *** on public transport is significant during the peak holiday season.",
+      "meaning_tr": "yük",
+      "meaning_en": "a heavy responsibility or load",
+      "meaning_uk": "тягар",
+      "meaning_es": "la carga"
+    },
+    {
+      "term": "the saturation",
+      "type": "Noun",
+      "example": "Once a destination reaches total ***, the experience for tourists begins to decline.",
+      "meaning_tr": "doygunluk",
+      "meaning_en": "the point at which no more can be added",
+      "meaning_uk": "насичення",
+      "meaning_es": "la saturación"
+    },
+    {
+      "term": "the encroachment",
+      "type": "Noun",
+      "example": "The *** of hotels onto the beach limits public access to the coastline.",
+      "meaning_tr": "tecavüz, izinsiz giriş",
+      "meaning_en": "gradual intrusion into someone else's territory",
+      "meaning_uk": "посягання",
+      "meaning_es": "la invasión"
+    },
+    {
+      "term": "the viability",
+      "type": "Noun",
+      "example": "The economic *** of the region depends on diversifying beyond just seasonal tourism.",
+      "meaning_tr": "uygulanabilirlik",
+      "meaning_en": "the ability to exist or be sustained",
+      "meaning_uk": "життєздатність",
+      "meaning_es": "la viabilidad"
+    },
+    {
+      "term": "the preservation",
+      "type": "Noun",
+      "example": "The *** of historical sites is a priority for the ministry of culture.",
+      "meaning_tr": "koruma",
+      "meaning_en": "the act of keeping something in its original state",
+      "meaning_uk": "збереження",
+      "meaning_es": "la preservación"
+    },
+    {
+      "term": "the incentive",
+      "type": "Noun",
+      "example": "Government grants are a key *** for businesses to adopt greener practices.",
+      "meaning_tr": "teşvik",
+      "meaning_en": "a motivation to perform an action",
+      "meaning_uk": "стимул",
+      "meaning_es": "el incentivo"
+    },
+    {
+      "term": "the congestion",
+      "type": "Noun",
+      "example": "Reducing urban *** is a major challenge for cities popular with tourists.",
+      "meaning_tr": "sıkışıklık",
+      "meaning_en": "the condition of being blocked or crowded",
+      "meaning_uk": "затори",
+      "meaning_es": "la congestión"
+    },
+    {
+      "term": "the amenity",
+      "type": "Noun",
+      "example": "The hotel provides every luxury ***, from a spa to a private beach.",
+      "meaning_tr": "olanak",
+      "meaning_en": "a useful feature or facility",
+      "meaning_uk": "зручність",
+      "meaning_es": "la comodidad"
+    }
+  ]
+}

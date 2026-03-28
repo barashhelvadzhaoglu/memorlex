@@ -1,0 +1,411 @@
+{
+  "title": "Hobbies & Leisure (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a pastime",
+      "type": "Noun",
+      "example": "Reading historical biographies is my favorite ***.",
+      "meaning_tr": "uğraş, hobi",
+      "meaning_en": "a hobby or activity done for enjoyment",
+      "meaning_uk": "дозвілля, хобі",
+      "meaning_es": "pasatiempo"
+    },
+    {
+      "term": "to unwind",
+      "type": "Verb",
+      "example": "I like to listen to jazz music to *** after a long day at work.",
+      "meaning_tr": "rahatlamak, gevşemek",
+      "meaning_en": "to relax after a period of work or tension",
+      "meaning_uk": "розслаблятися",
+      "meaning_es": "relajarse"
+    },
+    {
+      "term": "an avid",
+      "type": "Adjective",
+      "example": "She is an *** reader who finishes at least three books a week.",
+      "meaning_tr": "tutkulu, hevesli",
+      "meaning_en": "having or showing a keen interest in or enthusiasm for something",
+      "meaning_uk": "завзятий",
+      "meaning_es": "ávido"
+    },
+    {
+      "term": "to dabble in",
+      "type": "Verb",
+      "example": "He decided to *** painting to see if he had any hidden talent.",
+      "meaning_tr": "yüzeysel olarak ilgilenmek",
+      "meaning_en": "to take part in an activity in a casual or superficial way",
+      "meaning_uk": "займатися чимось несерйозно",
+      "meaning_es": "incursionar en"
+    },
+    {
+      "term": "leisurely",
+      "type": "Adverb",
+      "example": "We took a *** stroll through the park on Sunday afternoon.",
+      "meaning_tr": "keyifli, acele etmeden",
+      "meaning_en": "acting or done in an unhurried or relaxed way",
+      "meaning_uk": "неквапливо",
+      "meaning_es": "pausadamente"
+    },
+    {
+      "term": "a craft",
+      "type": "Noun",
+      "example": "Pottery is a traditional *** that requires a lot of patience.",
+      "meaning_tr": "el sanatı",
+      "meaning_en": "an activity involving skill in making things by hand",
+      "meaning_uk": "ремесло",
+      "meaning_es": "artesanía"
+    },
+    {
+      "term": "to recharge",
+      "type": "Verb",
+      "example": "A weekend in the mountains helps me to *** my batteries.",
+      "meaning_tr": "enerji toplamak",
+      "meaning_en": "to regain energy and enthusiasm",
+      "meaning_uk": "відновлювати сили",
+      "meaning_es": "recargar"
+    },
+    {
+      "term": "a pursuit",
+      "type": "Noun",
+      "example": "Creative ***s like photography keep my mind sharp.",
+      "meaning_tr": "uğraş, arayış",
+      "meaning_en": "an activity that one engages in as a pastime",
+      "meaning_uk": "заняття, прагнення",
+      "meaning_es": "actividad"
+    },
+    {
+      "term": "sedentary",
+      "type": "Adjective",
+      "example": "I want to move away from my *** lifestyle and start exercising.",
+      "meaning_tr": "hareketsiz, oturan",
+      "meaning_en": "tending to spend much time seated; somewhat inactive",
+      "meaning_uk": "сидячий",
+      "meaning_es": "sedentario"
+    },
+    {
+      "term": "to immerse oneself",
+      "type": "Verb",
+      "example": "When I paint, I completely *** in the creative process.",
+      "meaning_tr": "kendini kaptırmak",
+      "meaning_en": "to involve oneself deeply in a particular activity",
+      "meaning_uk": "занурюватися",
+      "meaning_es": "sumergirse"
+    },
+    {
+      "term": "recreational",
+      "type": "Adjective",
+      "example": "The city provides many *** facilities like tennis courts and pools.",
+      "meaning_tr": "eğlence amaçlı, dinlenme ile ilgili",
+      "meaning_en": "relating to activity done for enjoyment when one is not working",
+      "meaning_uk": "оздоровчий, розважальний",
+      "meaning_es": "recreativo"
+    },
+    {
+      "term": "a hobbyist",
+      "type": "Noun",
+      "example": "As a serious ***, he spends thousands on high-quality camera gear.",
+      "meaning_tr": "hobi meraklısı",
+      "meaning_en": "a person who pursues a particular hobby",
+      "meaning_uk": "аматор, любитель",
+      "meaning_es": "aficionado"
+    },
+    {
+      "term": "to cultivate",
+      "type": "Verb",
+      "example": "She tries to *** an interest in classical music.",
+      "meaning_tr": "geliştirmek, beslemek",
+      "meaning_en": "to try to acquire or develop a quality or skill",
+      "meaning_uk": "розвивати",
+      "meaning_es": "cultivar"
+    },
+    {
+      "term": "a skill set",
+      "type": "Noun",
+      "example": "Learning to cook has added a valuable *** to my daily life.",
+      "meaning_tr": "beceri seti",
+      "meaning_en": "a person's range of skills or abilities",
+      "meaning_uk": "набір навичок",
+      "meaning_es": "conjunto de habilidades"
+    },
+    {
+      "term": "to socialize",
+      "type": "Verb",
+      "example": "Joining a club is a great way to *** with like-minded people.",
+      "meaning_tr": "sosyalleşmek",
+      "meaning_en": "to participate in social activities",
+      "meaning_uk": "спілкуватися",
+      "meaning_es": "socializar"
+    },
+    {
+      "term": "an outlet",
+      "type": "Noun",
+      "example": "Writing poetry provides a creative *** for my emotions.",
+      "meaning_tr": "dışavurum yolu, kanal",
+      "meaning_en": "a means of expressing one's talents or energy",
+      "meaning_uk": "вихід (для емоцій)",
+      "meaning_es": "vía de escape"
+    },
+    {
+      "term": "to be hooked on",
+      "type": "Adjective",
+      "example": "Once I started watching this series, I was totally *** it.",
+      "meaning_tr": "bağımlısı olmak",
+      "meaning_en": "to be addicted or very interested in something",
+      "meaning_uk": "бути захопленим чимось",
+      "meaning_es": "estar enganchado a"
+    },
+    {
+      "term": "a pastime",
+      "type": "Noun",
+      "example": "Gardening is a relaxing *** for many retirees.",
+      "meaning_tr": "uğraş, hobi",
+      "meaning_en": "an activity that you enjoy doing in your free time",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "pasatiempo"
+    },
+    {
+      "term": "to devote to",
+      "type": "Verb",
+      "example": "I *** two hours every evening to learning the guitar.",
+      "meaning_tr": "adamak, ayırmak",
+      "meaning_en": "to give time or effort to an activity",
+      "meaning_uk": "присвячувати",
+      "meaning_es": "dedicar a"
+    },
+    {
+      "term": "an enthusiast",
+      "type": "Noun",
+      "example": "He is a car *** who spends his weekends at local racing tracks.",
+      "meaning_tr": "meraklı, hayran",
+      "meaning_en": "a person who is highly interested in a particular activity",
+      "meaning_uk": "ентузіаст, фанат",
+      "meaning_es": "entusiasta"
+    },
+    {
+      "term": "to keep fit",
+      "type": "Verb",
+      "example": "Swimming is the best way for me to *** during the winter.",
+      "meaning_tr": "formda kalmak",
+      "meaning_en": "to stay in good physical condition",
+      "meaning_uk": "підтримувати форму",
+      "meaning_es": "mantenerse en forma"
+    },
+    {
+      "term": "a pastime",
+      "type": "Noun",
+      "example": "Birdwatching has become a popular *** in this region.",
+      "meaning_tr": "uğraş, hobi",
+      "meaning_en": "an activity done for pleasure",
+      "meaning_uk": "хобі",
+      "meaning_es": "pasatiempo"
+    },
+    {
+      "term": "intense",
+      "type": "Adjective",
+      "example": "Rock climbing is an *** sport that requires full concentration.",
+      "meaning_tr": "yoğun, şiddetli",
+      "meaning_en": "having or showing great force or extreme degree",
+      "meaning_uk": "інтенсивний",
+      "meaning_es": "intenso"
+    },
+    {
+      "term": "to partake in",
+      "type": "Verb",
+      "example": "Would you like to *** the festivities tonight?",
+      "meaning_tr": "katılmak, yer almak",
+      "meaning_en": "to join in or take part in an activity",
+      "meaning_uk": "брати участь",
+      "meaning_es": "participar en"
+    },
+    {
+      "term": "a diversion",
+      "type": "Noun",
+      "example": "Video games are a harmless *** from the stress of exams.",
+      "meaning_tr": "eğlence, dikkat dağıtıcı şey",
+      "meaning_en": "an activity that diverts the mind from tedious or serious concerns",
+      "meaning_uk": "розвага",
+      "meaning_es": "distracción"
+    },
+    {
+      "term": "to master",
+      "type": "Verb",
+      "example": "It takes years to truly *** the art of sushi making.",
+      "meaning_tr": "ustalaşmak, öğrenmek",
+      "meaning_en": "to acquire complete knowledge or skill in something",
+      "meaning_uk": "опанувати",
+      "meaning_es": "dominar"
+    },
+    {
+      "term": "an inclination",
+      "type": "Noun",
+      "example": "I have a natural *** towards creative writing.",
+      "meaning_tr": "eğilim, meyil",
+      "meaning_en": "a natural tendency to act or feel in a particular way",
+      "meaning_uk": "схильність",
+      "meaning_es": "inclinación"
+    },
+    {
+      "term": "to excel at",
+      "type": "Verb",
+      "example": "She really *** tennis and has won many local tournaments.",
+      "meaning_tr": "bir konuda üstün olmak",
+      "meaning_en": "to be exceptionally good at an activity",
+      "meaning_uk": "досягати успіхів у чомусь",
+      "meaning_es": "sobresalir en"
+    },
+    {
+      "term": "a hobby",
+      "type": "Noun",
+      "example": "Collecting stamps is an old-fashioned but fascinating ***.",
+      "meaning_tr": "hobi",
+      "meaning_en": "an activity done regularly in one's leisure time",
+      "meaning_uk": "хобі",
+      "meaning_es": "pasatiempo"
+    },
+    {
+      "term": "to engage in",
+      "type": "Verb",
+      "example": "Students are encouraged to *** extracurricular activities.",
+      "meaning_tr": "ile meşgul olmak, katılmak",
+      "meaning_en": "to participate or become involved in",
+      "meaning_uk": "брати участь",
+      "meaning_es": "participar en"
+    },
+    {
+      "term": "a challenge",
+      "type": "Noun",
+      "example": "Learning a new language is a great *** for the brain.",
+      "meaning_tr": "zorlu iş, meydan okuma",
+      "meaning_en": "a task or situation that tests someone's abilities",
+      "meaning_uk": "виклик",
+      "meaning_es": "desafío"
+    },
+    {
+      "term": "to occupy",
+      "type": "Verb",
+      "example": "Solving crossword puzzles helps to *** my mind during flights.",
+      "meaning_tr": "meşgul etmek",
+      "meaning_en": "to fill or keep busy (the mind or time)",
+      "meaning_uk": "займати",
+      "meaning_es": "ocupar"
+    },
+    {
+      "term": "a preference",
+      "type": "Noun",
+      "example": "My *** is for outdoor activities rather than staying inside.",
+      "meaning_tr": "tercih",
+      "meaning_en": "a greater liking for one alternative over another",
+      "meaning_uk": "перевага",
+      "meaning_es": "preferencia"
+    },
+    {
+      "term": "to unwind",
+      "type": "Verb",
+      "example": "I find that yoga is the best way to *** after work.",
+      "meaning_tr": "rahatlamak, gevşemek",
+      "meaning_en": "to relax and release stress",
+      "meaning_uk": "розслаблятися",
+      "meaning_es": "relajarse"
+    },
+    {
+      "term": "a routine",
+      "type": "Noun",
+      "example": "Incorporating exercise into my daily *** has improved my health.",
+      "meaning_tr": "rutin",
+      "meaning_en": "a sequence of actions regularly followed",
+      "meaning_uk": "рутина",
+      "meaning_es": "rutina"
+    },
+    {
+      "term": "to pursue",
+      "type": "Verb",
+      "example": "He wants to *** photography as a professional career.",
+      "meaning_tr": "sürdürmek, peşinden gitmek",
+      "meaning_en": "to follow or engage in an activity or course of action",
+      "meaning_uk": "займатися, переслідувати",
+      "meaning_es": "dedicarse a"
+    },
+    {
+      "term": "an aptitude",
+      "type": "Noun",
+      "example": "She has a natural *** for learning musical instruments.",
+      "meaning_tr": "yetenek, yatkınlık",
+      "meaning_en": "a natural ability to do something",
+      "meaning_uk": "хист, здібність",
+      "meaning_es": "aptitud"
+    },
+    {
+      "term": "to be fond of",
+      "type": "Adjective",
+      "example": "I am very *** hiking in the countryside on weekends.",
+      "meaning_tr": "düşkün olmak, hoşlanmak",
+      "meaning_en": "to like or enjoy something very much",
+      "meaning_uk": "любити",
+      "meaning_es": "ser aficionado a"
+    },
+    {
+      "term": "a relaxation",
+      "type": "Noun",
+      "example": "Meditation is a form of deep *** that reduces anxiety.",
+      "meaning_tr": "rahatlama, dinlenme",
+      "meaning_en": "the state of being free from tension and anxiety",
+      "meaning_uk": "відпочинок, розслаблення",
+      "meaning_es": "relajación"
+    },
+    {
+      "term": "to participate",
+      "type": "Verb",
+      "example": "Many local residents *** the annual marathon.",
+      "meaning_tr": "katılmak",
+      "meaning_en": "to take part in an action or endeavor",
+      "meaning_uk": "брати участь",
+      "meaning_es": "participar"
+    },
+    {
+      "term": "an activity",
+      "type": "Noun",
+      "example": "Group sports are a great social *** for teenagers.",
+      "meaning_tr": "aktivite, etkinlik",
+      "meaning_en": "a thing that you do for enjoyment",
+      "meaning_uk": "заняття, діяльність",
+      "meaning_es": "actividad"
+    },
+    {
+      "term": "to sharpen",
+      "type": "Verb",
+      "example": "Reading helps to *** your critical thinking skills.",
+      "meaning_tr": "keskinleştirmek, geliştirmek",
+      "meaning_en": "to improve or make more effective",
+      "meaning_uk": "відточувати, покращувати",
+      "meaning_es": "agudizar"
+    },
+    {
+      "term": "a distraction",
+      "type": "Noun",
+      "example": "Social media can be a major *** when you are trying to study.",
+      "meaning_tr": "dikkat dağıtıcı şey",
+      "meaning_en": "something that prevents someone from giving full attention to something else",
+      "meaning_uk": "відволікання",
+      "meaning_es": "distracción"
+    },
+    {
+      "term": "to invigorate",
+      "type": "Verb",
+      "example": "A morning run always helps to *** me for the busy day ahead.",
+      "meaning_tr": "canlandırmak, enerji vermek",
+      "meaning_en": "to give strength or energy to",
+      "meaning_uk": "надавати сил",
+      "meaning_es": "vigorizar"
+    },
+    {
+      "term": "the downtime",
+      "type": "Noun",
+      "example": "I use my *** to catch up on reading novels.",
+      "meaning_tr": "boş zaman, dinlenme vakti",
+      "meaning_en": "time for relaxing or when one is not working",
+      "meaning_uk": "час відпочинку",
+      "meaning_es": "tiempo libre"
+    }
+  ]
+}

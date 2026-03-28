@@ -1,0 +1,546 @@
+{
+  "title": "Psychology & Emotions (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "an anomaly",
+      "type": "Noun",
+      "example": "The sudden change in his behavior was such *** that the doctors requested further testing.",
+      "meaning_tr": "anomali",
+      "meaning_en": "something that deviates from what is standard",
+      "meaning_uk": "аномалія",
+      "meaning_es": "anomalía"
+    },
+    {
+      "term": "to exacerbate",
+      "type": "Verb",
+      "example": "Ignoring your symptoms will only *** the underlying psychological distress.",
+      "meaning_tr": "kötüleştirmek",
+      "meaning_en": "to make a problem worse",
+      "meaning_uk": "погіршувати",
+      "meaning_es": "exacerbar"
+    },
+    {
+      "term": "apprehensive",
+      "type": "Adjective",
+      "example": "She felt deeply *** about the upcoming therapy session.",
+      "meaning_tr": "endişeli",
+      "meaning_en": "anxious or fearful that something bad will happen",
+      "meaning_uk": "стурбований",
+      "meaning_es": "aprensivo"
+    },
+    {
+      "term": "to delineate",
+      "type": "Verb",
+      "example": "It is important to *** the boundaries between professional and personal life.",
+      "meaning_tr": "çizmek/tanımlamak",
+      "meaning_en": "to describe or portray something precisely",
+      "meaning_uk": "окреслювати",
+      "meaning_es": "delinear"
+    },
+    {
+      "term": "a disposition",
+      "type": "Noun",
+      "example": "He has a sunny *** despite the challenges he faces.",
+      "meaning_tr": "mizaç",
+      "meaning_en": "a person's inherent qualities of mind and character",
+      "meaning_uk": "схильність/вдача",
+      "meaning_es": "disposición"
+    },
+    {
+      "term": "impervious",
+      "type": "Adjective",
+      "example": "He remained *** to criticism, maintaining his focus on his goals.",
+      "meaning_tr": "etkilenmez",
+      "meaning_en": "unable to be affected by",
+      "meaning_uk": "несприйнятливий",
+      "meaning_es": "impermeable"
+    },
+    {
+      "term": "to rationalize",
+      "type": "Verb",
+      "example": "People often *** their poor decisions to avoid feeling guilty.",
+      "meaning_tr": "mantığa bürümek",
+      "meaning_en": "to attempt to explain behavior with logical reasons",
+      "meaning_uk": "раціоналізувати",
+      "meaning_es": "racionalizar"
+    },
+    {
+      "term": "a catharsis",
+      "type": "Noun",
+      "example": "Writing in her journal provided a necessary *** for her pent-up emotions.",
+      "meaning_tr": "arınma",
+      "meaning_en": "the process of releasing strong or repressed emotions",
+      "meaning_uk": "катарсис",
+      "meaning_es": "catarsis"
+    },
+    {
+      "term": "subconscious",
+      "type": "Adjective",
+      "example": "Her fear of water was rooted in a *** memory from childhood.",
+      "meaning_tr": "bilinçaltı",
+      "meaning_en": "part of the mind of which one is not fully aware",
+      "meaning_uk": "підсвідомий",
+      "meaning_es": "subconsciente"
+    },
+    {
+      "term": "to alleviate",
+      "type": "Verb",
+      "example": "Meditation can help to *** symptoms of chronic anxiety.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to make suffering less severe",
+      "meaning_uk": "полегшувати",
+      "meaning_es": "aliviar"
+    },
+    {
+      "term": "a propensity",
+      "type": "Noun",
+      "example": "He has a natural *** for taking risks when under pressure.",
+      "meaning_tr": "eğilim",
+      "meaning_en": "an inclination or natural tendency to behave in a particular way",
+      "meaning_uk": "схильність",
+      "meaning_es": "propensión"
+    },
+    {
+      "term": "detrimental",
+      "type": "Adjective",
+      "example": "Chronic stress can be *** to your overall mental health.",
+      "meaning_tr": "zararlı",
+      "meaning_en": "tending to cause harm",
+      "meaning_uk": "шкідливий",
+      "meaning_es": "perjudicial"
+    },
+    {
+      "term": "to manifest",
+      "type": "Verb",
+      "example": "Psychological trauma often begins to *** as physical pain.",
+      "meaning_tr": "ortaya çıkmak",
+      "meaning_en": "to become apparent or visible",
+      "meaning_uk": "проявлятися",
+      "meaning_es": "manifestar"
+    },
+    {
+      "term": "a paradigm",
+      "type": "Noun",
+      "example": "The therapist introduced a new *** for understanding cognitive patterns.",
+      "meaning_tr": "model/örnek",
+      "meaning_en": "a typical example or pattern of something",
+      "meaning_uk": "парадигма",
+      "meaning_es": "paradigma"
+    },
+    {
+      "term": "tenuous",
+      "type": "Adjective",
+      "example": "His grasp on reality seemed quite *** during the breakdown.",
+      "meaning_tr": "zayıf/dayanıksız",
+      "meaning_en": "very weak or slight",
+      "meaning_uk": "неміцний",
+      "meaning_es": "tenue"
+    },
+    {
+      "term": "to validate",
+      "type": "Verb",
+      "example": "It is crucial to *** a child's feelings rather than dismissing them.",
+      "meaning_tr": "onaylamak/doğrulamak",
+      "meaning_en": "to demonstrate or support the truth or value of something",
+      "meaning_uk": "підтверджувати",
+      "meaning_es": "validar"
+    },
+    {
+      "term": "a malaise",
+      "type": "Noun",
+      "example": "A general sense of *** pervaded the office after the layoffs.",
+      "meaning_tr": "halsizlik/keyifsizlik",
+      "meaning_en": "a general feeling of discomfort or unhappiness",
+      "meaning_uk": "нездужання",
+      "meaning_es": "malestar"
+    },
+    {
+      "term": "stoic",
+      "type": "Adjective",
+      "example": "He remained ***, refusing to show any signs of grief at the funeral.",
+      "meaning_tr": "metanetli",
+      "meaning_en": "able to endure pain or hardship without showing feelings",
+      "meaning_uk": "стоїчний",
+      "meaning_es": "estoico"
+    },
+    {
+      "term": "to circumvent",
+      "type": "Verb",
+      "example": "She tried to *** her fears by avoiding social situations.",
+      "meaning_tr": "atlatmak/çevresinden dolaşmak",
+      "meaning_en": "to find a way around an obstacle",
+      "meaning_uk": "обходити",
+      "meaning_es": "eludir"
+    },
+    {
+      "term": "a cognitive bias",
+      "type": "Noun",
+      "example": "Confirmation bias is a common *** that affects decision making.",
+      "meaning_tr": "bilişsel önyargı",
+      "meaning_en": "a systematic error in thinking",
+      "meaning_uk": "когнітивне упередження",
+      "meaning_es": "sesgo cognitivo"
+    },
+    {
+      "term": "apathetic",
+      "type": "Adjective",
+      "example": "The patient became increasingly *** towards his own recovery.",
+      "meaning_tr": "duyarsız/ilgisiz",
+      "meaning_en": "showing or feeling no interest or enthusiasm",
+      "meaning_uk": "апатичний",
+      "meaning_es": "apático"
+    },
+    {
+      "term": "to inhibit",
+      "type": "Verb",
+      "example": "Excessive fear can *** personal growth and development.",
+      "meaning_tr": "engellemek",
+      "meaning_en": "to hinder or restrain an action",
+      "meaning_uk": "стримувати",
+      "meaning_es": "inhibir"
+    },
+    {
+      "term": "a compulsion",
+      "type": "Noun",
+      "example": "He felt an overwhelming *** to check the locks repeatedly.",
+      "meaning_tr": "zorlantı/saplantı",
+      "meaning_en": "an irresistible urge to behave in a certain way",
+      "meaning_uk": "примус",
+      "meaning_es": "compulsión"
+    },
+    {
+      "term": "resilient",
+      "type": "Adjective",
+      "example": "Children are often surprisingly *** in the face of tragedy.",
+      "meaning_tr": "dayanıklı",
+      "meaning_en": "able to withstand or recover quickly from difficulties",
+      "meaning_uk": "життєстійкий",
+      "meaning_es": "resiliente"
+    },
+    {
+      "term": "to misinterpret",
+      "type": "Verb",
+      "example": "It is easy to *** silence as a sign of agreement.",
+      "meaning_tr": "yanlış yorumlamak",
+      "meaning_en": "to understand something wrongly",
+      "meaning_uk": "неправильно витлумачити",
+      "meaning_es": "malinterpretar"
+    },
+    {
+      "term": "an epiphany",
+      "type": "Noun",
+      "example": "She had an *** that changed her perspective on her entire life.",
+      "meaning_tr": "aydınlanma/ani farkındalık",
+      "meaning_en": "a moment of sudden revelation",
+      "meaning_uk": "осяяння",
+      "meaning_es": "epifanía"
+    },
+    {
+      "term": "volatile",
+      "type": "Adjective",
+      "example": "Her emotions were highly ***, shifting from joy to rage in seconds.",
+      "meaning_tr": "değişken",
+      "meaning_en": "liable to change rapidly and unpredictably",
+      "meaning_uk": "мінливий",
+      "meaning_es": "volátil"
+    },
+    {
+      "term": "to exacerbate",
+      "type": "Verb",
+      "example": "Social isolation tends to *** feelings of depression.",
+      "meaning_tr": "şiddetlendirmek",
+      "meaning_en": "to make a bad situation worse",
+      "meaning_uk": "посилювати",
+      "meaning_es": "agravar"
+    },
+    {
+      "term": "a dichotomy",
+      "type": "Noun",
+      "example": "There is a clear *** between his public persona and his private self.",
+      "meaning_tr": "ikilem/zıtlık",
+      "meaning_en": "a division between two things that are represented as opposed",
+      "meaning_uk": "дихотомія",
+      "meaning_es": "dicotomía"
+    },
+    {
+      "term": "ambivalent",
+      "type": "Adjective",
+      "example": "She felt *** about the move; excited but also terrified.",
+      "meaning_tr": "ikircikli",
+      "meaning_en": "having mixed feelings about something",
+      "meaning_uk": "амбівалентний",
+      "meaning_es": "ambivalente"
+    },
+    {
+      "term": "to internalize",
+      "type": "Verb",
+      "example": "Children often *** the criticism they receive from parents.",
+      "meaning_tr": "içselleştirmek",
+      "meaning_en": "to make attitudes part of one's nature by unconscious learning",
+      "meaning_uk": "інтерналізувати",
+      "meaning_es": "interiorizar"
+    },
+    {
+      "term": "a predisposition",
+      "type": "Noun",
+      "example": "There is a genetic *** for certain anxiety disorders.",
+      "meaning_tr": "yatkınlık",
+      "meaning_en": "a liability or tendency to suffer from a condition",
+      "meaning_uk": "схильність",
+      "meaning_es": "predisposición"
+    },
+    {
+      "term": "elusive",
+      "type": "Adjective",
+      "example": "True happiness remains an *** goal for many people.",
+      "meaning_tr": "yakalanması zor",
+      "meaning_en": "difficult to find, catch, or achieve",
+      "meaning_uk": "невловимий",
+      "meaning_es": "elusivo"
+    },
+    {
+      "term": "to scrutinize",
+      "type": "Verb",
+      "example": "The psychologist began to *** his childhood memories for clues.",
+      "meaning_tr": "incelemek",
+      "meaning_en": "to examine or inspect closely and thoroughly",
+      "meaning_uk": "ретельно вивчати",
+      "meaning_es": "escrutar"
+    },
+    {
+      "term": "an inhibition",
+      "type": "Noun",
+      "example": "Alcohol often lowers one's social ***.",
+      "meaning_tr": "çekingenlik/kısıtlama",
+      "meaning_en": "a feeling that makes one unable to act in a relaxed way",
+      "meaning_uk": "стриманість",
+      "meaning_es": "inhibición"
+    },
+    {
+      "term": "pragmatic",
+      "type": "Adjective",
+      "example": "She took a *** approach to solving her relationship problems.",
+      "meaning_tr": "pratik/faydacı",
+      "meaning_en": "dealing with things sensibly and realistically",
+      "meaning_uk": "прагматичний",
+      "meaning_es": "pragmático"
+    },
+    {
+      "term": "to repress",
+      "type": "Verb",
+      "example": "He tried to *** the traumatic memories of the accident.",
+      "meaning_tr": "bastırmak",
+      "meaning_en": "to subdue or push down an emotion or memory",
+      "meaning_uk": "пригнічувати",
+      "meaning_es": "reprimir"
+    },
+    {
+      "term": "a temperament",
+      "type": "Noun",
+      "example": "She has a quiet, reflective ***.",
+      "meaning_tr": "mizaç",
+      "meaning_en": "the combination of mental and emotional traits of a person",
+      "meaning_uk": "темперамент",
+      "meaning_es": "temperamento"
+    },
+    {
+      "term": "superficial",
+      "type": "Adjective",
+      "example": "They only had a *** understanding of the patient's condition.",
+      "meaning_tr": "yüzeysel",
+      "meaning_en": "not exhibiting serious thought or depth",
+      "meaning_uk": "поверхневий",
+      "meaning_es": "superficial"
+    },
+    {
+      "term": "to cultivate",
+      "type": "Verb",
+      "example": "Mindfulness is a skill you can *** over time.",
+      "meaning_tr": "geliştirmek",
+      "meaning_en": "to try to acquire or develop a quality or sentiment",
+      "meaning_uk": "розвивати",
+      "meaning_es": "cultivar"
+    },
+    {
+      "term": "an equilibrium",
+      "type": "Noun",
+      "example": "He struggled to maintain emotional *** after the loss.",
+      "meaning_tr": "denge",
+      "meaning_en": "a state of physical or mental balance",
+      "meaning_uk": "рівновага",
+      "meaning_es": "equilibrio"
+    },
+    {
+      "term": "incoherent",
+      "type": "Adjective",
+      "example": "His speech became *** when he was under extreme stress.",
+      "meaning_tr": "tutarsız/anlaşılmaz",
+      "meaning_en": "expressed in an incomprehensible or confusing way",
+      "meaning_uk": "незв'язний",
+      "meaning_es": "incoherente"
+    },
+    {
+      "term": "to transcend",
+      "type": "Verb",
+      "example": "The bond between them seemed to *** mere physical attraction.",
+      "meaning_tr": "aşmak",
+      "meaning_en": "to go beyond the range or limits of",
+      "meaning_uk": "перевершувати",
+      "meaning_es": "trascender"
+    },
+    {
+      "term": "a fixation",
+      "type": "Noun",
+      "example": "He had a strange *** on his childhood toys.",
+      "meaning_tr": "saplantı",
+      "meaning_en": "an obsessive interest in someone or something",
+      "meaning_uk": "фіксація",
+      "meaning_es": "fijación"
+    },
+    {
+      "term": "gregarious",
+      "type": "Adjective",
+      "example": "Her *** nature makes her popular in social settings.",
+      "meaning_tr": "sosyal/cana yakın",
+      "meaning_en": "fond of company; sociable",
+      "meaning_uk": "товариський",
+      "meaning_es": "gregario"
+    },
+    {
+      "term": "to articulate",
+      "type": "Verb",
+      "example": "It is difficult to *** exactly what you are feeling.",
+      "meaning_tr": "ifade etmek",
+      "meaning_en": "to express an idea or feeling fluently and coherently",
+      "meaning_uk": "чітко висловлювати",
+      "meaning_es": "articular"
+    },
+    {
+      "term": "a facade",
+      "type": "Noun",
+      "example": "He maintained a brave *** despite his inner turmoil.",
+      "meaning_tr": "dış görünüş/maske",
+      "meaning_en": "an outward appearance that is maintained to conceal a less pleasant reality",
+      "meaning_uk": "фасад/маска",
+      "meaning_es": "fachada"
+    },
+    {
+      "term": "erratic",
+      "type": "Adjective",
+      "example": "His *** behavior alarmed the entire staff.",
+      "meaning_tr": "düzensiz/kararsız",
+      "meaning_en": "not even or regular in pattern or movement",
+      "meaning_uk": "непередбачуваний",
+      "meaning_es": "errático"
+    },
+    {
+      "term": "to oscillate",
+      "type": "Verb",
+      "example": "His mood would *** between extreme elation and deep despair.",
+      "meaning_tr": "gidip gelmek",
+      "meaning_en": "to move or swing back and forth",
+      "meaning_uk": "коливатися",
+      "meaning_es": "oscilar"
+    },
+    {
+      "term": "a consensus",
+      "type": "Noun",
+      "example": "There is a general *** among psychologists about this theory.",
+      "meaning_tr": "görüş birliği",
+      "meaning_en": "a general agreement",
+      "meaning_uk": "консенсус",
+      "meaning_es": "consenso"
+    },
+    {
+      "term": "perceptive",
+      "type": "Adjective",
+      "example": "She is very *** and can read people's emotions easily.",
+      "meaning_tr": "sezgileri güçlü",
+      "meaning_en": "having or showing sensitive insight",
+      "meaning_uk": "проникливий",
+      "meaning_es": "perceptivo"
+    },
+    {
+      "term": "to integrate",
+      "type": "Verb",
+      "example": "The goal of therapy is to *** these fragmented memories.",
+      "meaning_tr": "bütünleştirmek",
+      "meaning_en": "to combine into a whole",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "integrar"
+    },
+    {
+      "term": "a grievance",
+      "type": "Noun",
+      "example": "He harbored a long-standing *** against his colleague.",
+      "meaning_tr": "yakınma/şikayet",
+      "meaning_en": "a real or imagined wrong or cause for complaint",
+      "meaning_uk": "скарга/образа",
+      "meaning_es": "agravio"
+    },
+    {
+      "term": "solitary",
+      "type": "Adjective",
+      "example": "He enjoyed a *** lifestyle, preferring his own company.",
+      "meaning_tr": "yalnız",
+      "meaning_en": "done or existing alone",
+      "meaning_uk": "самотній",
+      "meaning_es": "solitario"
+    },
+    {
+      "term": "to undermine",
+      "type": "Verb",
+      "example": "Constant criticism can *** a person's self-esteem.",
+      "meaning_tr": "altını oymak/zayıflatmak",
+      "meaning_en": "to damage or weaken someone's confidence",
+      "meaning_uk": "підривати",
+      "meaning_es": "socavar"
+    },
+    {
+      "term": "a misconception",
+      "type": "Noun",
+      "example": "It is a common *** that introverts do not like people.",
+      "meaning_tr": "yanlış anlama",
+      "meaning_en": "a view or opinion that is incorrect",
+      "meaning_uk": "хибне уявлення",
+      "meaning_es": "idea errónea"
+    },
+    {
+      "term": "vulnerable",
+      "type": "Adjective",
+      "example": "Feeling *** is a necessary part of emotional intimacy.",
+      "meaning_tr": "savunmasız",
+      "meaning_en": "susceptible to physical or emotional attack or harm",
+      "meaning_uk": "вразливий",
+      "meaning_es": "vulnerable"
+    },
+    {
+      "term": "to alleviate",
+      "type": "Verb",
+      "example": "Talking to a friend can help to *** your anxiety.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to ease or reduce",
+      "meaning_uk": "полегшувати",
+      "meaning_es": "aliviar"
+    },
+    {
+      "term": "a perception",
+      "type": "Noun",
+      "example": "Your *** of reality is influenced by your past experiences.",
+      "meaning_tr": "algı",
+      "meaning_en": "the way in which something is regarded or understood",
+      "meaning_uk": "сприйняття",
+      "meaning_es": "percepción"
+    },
+    {
+      "term": "imminent",
+      "type": "Adjective",
+      "example": "He felt a sense of *** danger, even though nothing was wrong.",
+      "meaning_tr": "yaklaşan/eli kulağında",
+      "meaning_en": "about to happen",
+      "meaning_uk": "неминучий",
+      "meaning_es": "inminente"
+    }
+  ]
+}

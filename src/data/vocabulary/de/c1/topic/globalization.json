@@ -1,0 +1,546 @@
+{
+  "title": "Globalisierung (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Globalisierung",
+      "type": "Noun",
+      "example": "*** führt zu einer stärkeren Vernetzung der Weltwirtschaft.",
+      "meaning_tr": "küreselleşme",
+      "meaning_en": "globalization",
+      "meaning_uk": "глобалізація",
+      "meaning_es": "globalización"
+    },
+    {
+      "term": "der Freihandel",
+      "type": "Noun",
+      "example": "Viele Länder setzen sich für den *** ein.",
+      "meaning_tr": "serbest ticaret",
+      "meaning_en": "free trade",
+      "meaning_uk": "вільна торгівля",
+      "meaning_es": "libre comercio"
+    },
+    {
+      "term": "die Standortverlagerung",
+      "type": "Noun",
+      "example": "Die *** ins Ausland senkt die Produktionskosten.",
+      "meaning_tr": "lokasyon değişikliği",
+      "meaning_en": "relocation of production sites",
+      "meaning_uk": "перенесення виробництва",
+      "meaning_es": "deslocalización"
+    },
+    {
+      "term": "die Wettbewerbsfähigkeit",
+      "type": "Noun",
+      "example": "Innovation steigert die *** eines Unternehmens.",
+      "meaning_tr": "rekabet gücü",
+      "meaning_en": "competitiveness",
+      "meaning_uk": "конкурентоспроможність",
+      "meaning_es": "competitividad"
+    },
+    {
+      "term": "die Interdependenz",
+      "type": "Noun",
+      "example": "Die wirtschaftliche *** zwischen den Staaten ist gewachsen.",
+      "meaning_tr": "karşılıklı bağımlılık",
+      "meaning_en": "interdependence",
+      "meaning_uk": "взаємозалежність",
+      "meaning_es": "interdependencia"
+    },
+    {
+      "term": "die Handelsbarriere",
+      "type": "Noun",
+      "example": "Der Abbau von *** fördert den internationalen Austausch.",
+      "meaning_tr": "ticari engel",
+      "meaning_en": "trade barrier",
+      "meaning_uk": "торговельний бар'єр",
+      "meaning_es": "barrera comercial"
+    },
+    {
+      "term": "der multinationale Konzern",
+      "type": "Noun",
+      "example": "Jeder *** operiert in zahlreichen Ländern weltweit.",
+      "meaning_tr": "çok uluslu şirket",
+      "meaning_en": "multinational corporation",
+      "meaning_uk": "транснаціональна корпорація",
+      "meaning_es": "empresa multinacional"
+    },
+    {
+      "term": "die Wertschöpfungskette",
+      "type": "Noun",
+      "example": "Die *** erstreckt sich heute über mehrere Kontinente.",
+      "meaning_tr": "değer zinciri",
+      "meaning_en": "value chain",
+      "meaning_uk": "ланцюг створення вартості",
+      "meaning_es": "cadena de valor"
+    },
+    {
+      "term": "die Digitalisierung",
+      "type": "Noun",
+      "example": "Durch die *** wird die Welt noch vernetzter.",
+      "meaning_tr": "dijitalleşme",
+      "meaning_en": "digitalization",
+      "meaning_uk": "цифровізація",
+      "meaning_es": "digitalización"
+    },
+    {
+      "term": "die Arbeitsmigration",
+      "type": "Noun",
+      "example": "Die *** ist ein zentrales Thema der modernen Globalisierung.",
+      "meaning_tr": "iş gücü göçü",
+      "meaning_en": "labor migration",
+      "meaning_uk": "трудова міграція",
+      "meaning_es": "migración laboral"
+    },
+    {
+      "term": "die Kapitalflucht",
+      "type": "Noun",
+      "example": "Instabile Märkte führen oft zur ***.",
+      "meaning_tr": "sermaye kaçışı",
+      "meaning_en": "capital flight",
+      "meaning_uk": "відтік капіталу",
+      "meaning_es": "fuga de capitales"
+    },
+    {
+      "term": "die Deregulierung",
+      "type": "Noun",
+      "example": "Die *** der Finanzmärkte hat weit reichende Folgen.",
+      "meaning_tr": "kuralsızlaştırma",
+      "meaning_en": "deregulation",
+      "meaning_uk": "дерегулювання",
+      "meaning_es": "desregulación"
+    },
+    {
+      "term": "der Protektionismus",
+      "type": "Noun",
+      "example": "Einige Staaten setzen vermehrt auf ***.",
+      "meaning_tr": "korumacılık",
+      "meaning_en": "protectionism",
+      "meaning_uk": "протекціонізм",
+      "meaning_es": "proteccionismo"
+    },
+    {
+      "term": "die Ausbeutung",
+      "type": "Noun",
+      "example": "Kritiker beklagen die *** von Arbeitskräften in Schwellenländern.",
+      "meaning_tr": "sömürü",
+      "meaning_en": "exploitation",
+      "meaning_uk": "експлуатація",
+      "meaning_es": "explotación"
+    },
+    {
+      "term": "die Nachhaltigkeit",
+      "type": "Noun",
+      "example": "Es ist schwierig, *** bei globalen Lieferketten zu garantieren.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталий розвиток",
+      "meaning_es": "sostenibilidad"
+    },
+    {
+      "term": "die Wohlstandslücke",
+      "type": "Noun",
+      "example": "Die *** zwischen armen und reichen Ländern bleibt groß.",
+      "meaning_tr": "refah uçurumu",
+      "meaning_en": "prosperity gap",
+      "meaning_uk": "прірва у добробуті",
+      "meaning_es": "brecha de prosperidad"
+    },
+    {
+      "term": "der Marktzugang",
+      "type": "Noun",
+      "example": "Der *** ist für exportorientierte Firmen essenziell.",
+      "meaning_tr": "pazara giriş",
+      "meaning_en": "market access",
+      "meaning_uk": "доступ до ринку",
+      "meaning_es": "acceso al mercado"
+    },
+    {
+      "term": "die Kaufkraft",
+      "type": "Noun",
+      "example": "Die *** der Konsumenten beeinflusst den globalen Handel.",
+      "meaning_tr": "satın alma gücü",
+      "meaning_en": "purchasing power",
+      "meaning_uk": "купівельна спроможність",
+      "meaning_es": "poder adquisitivo"
+    },
+    {
+      "term": "die Fusion",
+      "type": "Noun",
+      "example": "Die *** der beiden Firmen schuf einen neuen Weltmarktführer.",
+      "meaning_tr": "birleşme",
+      "meaning_en": "merger",
+      "meaning_uk": "злиття",
+      "meaning_es": "fusión"
+    },
+    {
+      "term": "die Infrastruktur",
+      "type": "Noun",
+      "example": "Eine gute *** ist Voraussetzung für ausländische Investitionen.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "infrastructure",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "infraestructura"
+    },
+    {
+      "term": "die Zollschranke",
+      "type": "Noun",
+      "example": "Die *** behindert den freien Austausch von Waren.",
+      "meaning_tr": "gümrük vergisi engeli",
+      "meaning_en": "tariff barrier",
+      "meaning_uk": "митний бар'єр",
+      "meaning_es": "barrera arancelaria"
+    },
+    {
+      "term": "der Absatzmarkt",
+      "type": "Noun",
+      "example": "Asien ist ein wichtiger *** für europäische Autos.",
+      "meaning_tr": "satış pazarı",
+      "meaning_en": "sales market",
+      "meaning_uk": "ринок збуту",
+      "meaning_es": "mercado de ventas"
+    },
+    {
+      "term": "die Subvention",
+      "type": "Noun",
+      "example": "Staatliche *** können den Wettbewerb verzerren.",
+      "meaning_tr": "sübvansiyon",
+      "meaning_en": "subsidy",
+      "meaning_uk": "субсидія",
+      "meaning_es": "subvención"
+    },
+    {
+      "term": "die Währungsschwankung",
+      "type": "Noun",
+      "example": "Starke *** erschweren die Kalkulation für Exporteure.",
+      "meaning_tr": "kur dalgalanması",
+      "meaning_en": "currency fluctuation",
+      "meaning_uk": "валютні коливання",
+      "meaning_es": "fluctuación monetaria"
+    },
+    {
+      "term": "die Außenhandelsbilanz",
+      "type": "Noun",
+      "example": "Das Land weist eine positive *** auf.",
+      "meaning_tr": "dış ticaret dengesi",
+      "meaning_en": "foreign trade balance",
+      "meaning_uk": "зовнішньоторговельний баланс",
+      "meaning_es": "balanza comercial"
+    },
+    {
+      "term": "die Abhängigkeit",
+      "type": "Noun",
+      "example": "Die *** von Rohstoffimporten ist ein strategisches Risiko.",
+      "meaning_tr": "bağımlılık",
+      "meaning_en": "dependency",
+      "meaning_uk": "залежність",
+      "meaning_es": "dependencia"
+    },
+    {
+      "term": "der Standortvorteil",
+      "type": "Noun",
+      "example": "Niedrige Lohnkosten sind ein klassischer ***.",
+      "meaning_tr": "lokasyon avantajı",
+      "meaning_en": "locational advantage",
+      "meaning_uk": "перевага розташування",
+      "meaning_es": "ventaja locacional"
+    },
+    {
+      "term": "die Globalisierungskritik",
+      "type": "Noun",
+      "example": "Die *** fordert gerechtere Handelsbedingungen.",
+      "meaning_tr": "küreselleşme eleştirisi",
+      "meaning_en": "critique of globalization",
+      "meaning_uk": "критика глобалізації",
+      "meaning_es": "crítica a la globalización"
+    },
+    {
+      "term": "die Internationalisierung",
+      "type": "Noun",
+      "example": "Die *** des Unternehmens war sehr erfolgreich.",
+      "meaning_tr": "uluslararasılaşma",
+      "meaning_en": "internationalization",
+      "meaning_uk": "інтернаціоналізація",
+      "meaning_es": "internacionalización"
+    },
+    {
+      "term": "der Protektionismus",
+      "type": "Noun",
+      "example": "Der *** schadet langfristig der Weltwirtschaft.",
+      "meaning_tr": "korumacılık",
+      "meaning_en": "protectionism",
+      "meaning_uk": "протекціонізм",
+      "meaning_es": "proteccionismo"
+    },
+    {
+      "term": "globalisieren",
+      "type": "Verb",
+      "example": "Die Märkte *** sich immer weiter.",
+      "meaning_tr": "küreselleştirmek",
+      "meaning_en": "to globalize",
+      "meaning_uk": "глобалізувати",
+      "meaning_es": "globalizar"
+    },
+    {
+      "term": "integrieren",
+      "type": "Verb",
+      "example": "Schwellenländer werden zunehmend in den Weltmarkt ***.",
+      "meaning_tr": "entegre etmek",
+      "meaning_en": "to integrate",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "integrar"
+    },
+    {
+      "term": "expandieren",
+      "type": "Verb",
+      "example": "Das Unternehmen möchte in den asiatischen Raum ***.",
+      "meaning_tr": "genişlemek",
+      "meaning_en": "to expand",
+      "meaning_uk": "розширюватися",
+      "meaning_es": "expandir"
+    },
+    {
+      "term": "subventionieren",
+      "type": "Verb",
+      "example": "Die Regierung sollte den Sektor nicht künstlich ***.",
+      "meaning_tr": "sübvanse etmek",
+      "meaning_en": "to subsidize",
+      "meaning_uk": "субсидувати",
+      "meaning_es": "subvencionar"
+    },
+    {
+      "term": "vernetzen",
+      "type": "Verb",
+      "example": "Das Internet hilft, die Welt besser zu ***.",
+      "meaning_tr": "ağ kurmak",
+      "meaning_en": "to network/connect",
+      "meaning_uk": "об'єднувати в мережу",
+      "meaning_es": "conectar"
+    },
+    {
+      "term": "importieren",
+      "type": "Verb",
+      "example": "Wir *** viele Rohstoffe aus dem Ausland.",
+      "meaning_tr": "ithal etmek",
+      "meaning_en": "to import",
+      "meaning_uk": "імпортувати",
+      "meaning_es": "importar"
+    },
+    {
+      "term": "exportieren",
+      "type": "Verb",
+      "example": "Deutschland *** Maschinen in die ganze Welt.",
+      "meaning_tr": "ihraç etmek",
+      "meaning_en": "to export",
+      "meaning_uk": "експортувати",
+      "meaning_es": "exportar"
+    },
+    {
+      "term": "auslagern",
+      "type": "Verb",
+      "example": "Viele Firmen *** ihre Produktion in Billiglohnländer.",
+      "meaning_tr": "dış kaynak kullanmak",
+      "meaning_en": "to outsource",
+      "meaning_uk": "переносити виробництво",
+      "meaning_es": "subcontratar"
+    },
+    {
+      "term": "konkurrieren",
+      "type": "Verb",
+      "example": "Lokale Betriebe müssen mit globalen Konzernen ***.",
+      "meaning_tr": "rekabet etmek",
+      "meaning_en": "to compete",
+      "meaning_uk": "конкурувати",
+      "meaning_es": "competir"
+    },
+    {
+      "term": "investieren",
+      "type": "Verb",
+      "example": "Ausländische Firmen *** viel in neue Technologien.",
+      "meaning_tr": "yatırım yapmak",
+      "meaning_en": "to invest",
+      "meaning_uk": "інвестувати",
+      "meaning_es": "invertir"
+    },
+    {
+      "term": "profitieren",
+      "type": "Verb",
+      "example": "Alle Länder sollten vom freien Handel ***.",
+      "meaning_tr": "yararlanmak",
+      "meaning_en": "to profit",
+      "meaning_uk": "отримувати вигоду",
+      "meaning_es": "beneficiarse"
+    },
+    {
+      "term": "liberalisieren",
+      "type": "Verb",
+      "example": "Der Staat beschloss, den Strommarkt zu ***.",
+      "meaning_tr": "serbestleştirmek",
+      "meaning_en": "to liberalize",
+      "meaning_uk": "лібералізувати",
+      "meaning_es": "liberalizar"
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "Wir leben in einer *** vernetzten Welt.",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "global"
+    },
+    {
+      "term": "international",
+      "type": "Adjective",
+      "example": "Die *** Zusammenarbeit ist für den Frieden wichtig.",
+      "meaning_tr": "uluslararası",
+      "meaning_en": "international",
+      "meaning_uk": "міжнародний",
+      "meaning_es": "internacional"
+    },
+    {
+      "term": "wettbewerbsfähig",
+      "type": "Adjective",
+      "example": "Das Produkt ist auf dem Markt sehr ***.",
+      "meaning_tr": "rekabetçi",
+      "meaning_en": "competitive",
+      "meaning_uk": "конкурентоспроможний",
+      "meaning_es": "competitivo"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir müssen eine *** Wirtschaft aufbauen.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "grenzüberschreitend",
+      "type": "Adjective",
+      "example": "Der *** Warenverkehr wächst stetig.",
+      "meaning_tr": "sınır ötesi",
+      "meaning_en": "transboundary",
+      "meaning_uk": "транскордонний",
+      "meaning_es": "transfronterizo"
+    },
+    {
+      "term": "multinational",
+      "type": "Adjective",
+      "example": "Der *** Konzern hat seinen Sitz in New York.",
+      "meaning_tr": "çok uluslu",
+      "meaning_en": "multinational",
+      "meaning_uk": "транснаціональний",
+      "meaning_es": "multinacional"
+    },
+    {
+      "term": "wirtschaftlich",
+      "type": "Adjective",
+      "example": "Die *** Lage in Europa ist derzeit angespannt.",
+      "meaning_tr": "ekonomik",
+      "meaning_en": "economic",
+      "meaning_uk": "економічний",
+      "meaning_es": "económico"
+    },
+    {
+      "term": "verflochten",
+      "type": "Adjective",
+      "example": "Die Märkte sind eng miteinander ***.",
+      "meaning_tr": "iç içe geçmiş",
+      "meaning_en": "intertwined",
+      "meaning_uk": "переплетений",
+      "meaning_es": "entrelazado"
+    },
+    {
+      "term": "weltweit",
+      "type": "Adverb",
+      "example": "Das Unternehmen ist *** tätig.",
+      "meaning_tr": "dünya çapında",
+      "meaning_en": "worldwide",
+      "meaning_uk": "всесвітньо",
+      "meaning_es": "a nivel mundial"
+    },
+    {
+      "term": "zunehmend",
+      "type": "Adverb",
+      "example": "Die Preise steigen ***.",
+      "meaning_tr": "giderek artan şekilde",
+      "meaning_en": "increasingly",
+      "meaning_uk": "все більше",
+      "meaning_es": "cada vez más"
+    },
+    {
+      "term": "trotz",
+      "type": "Preposition",
+      "example": "*** der Krise wächst der Handel weiter.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "попри",
+      "meaning_es": "a pesar de"
+    },
+    {
+      "term": "infolge",
+      "type": "Preposition",
+      "example": "*** der Globalisierung haben sich viele Lebensstile angeglichen.",
+      "meaning_tr": "sonucunda",
+      "meaning_en": "as a result of",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "a consecuencia de"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "*** einige Länder profitieren, bleiben andere zurück.",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "у той час як",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "obwohl",
+      "type": "Conjunction",
+      "example": "*** die Gewinne steigen, sinken die Löhne.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "der Schwellenland",
+      "type": "Noun",
+      "example": "Brasilien gilt als aufstrebendes ***.",
+      "meaning_tr": "gelişmekte olan ülke",
+      "meaning_en": "emerging market",
+      "meaning_uk": "країна, що розвивається",
+      "meaning_es": "país emergente"
+    },
+    {
+      "term": "der Binnenmarkt",
+      "type": "Noun",
+      "example": "Der EU-*** ermöglicht freien Warenverkehr.",
+      "meaning_tr": "iç pazar",
+      "meaning_en": "internal market",
+      "meaning_uk": "внутрішній ринок",
+      "meaning_es": "mercado interior"
+    },
+    {
+      "term": "die Entfremdung",
+      "type": "Noun",
+      "example": "Die *** zwischen Konsumenten und Produktion nimmt zu.",
+      "meaning_tr": "yabancılaşma",
+      "meaning_en": "alienation",
+      "meaning_uk": "відчуження",
+      "meaning_es": "alienación"
+    },
+    {
+      "term": "der Rohstoff",
+      "type": "Noun",
+      "example": "Der Kampf um *** bestimmt oft die Außenpolitik.",
+      "meaning_tr": "hammadde",
+      "meaning_en": "raw material",
+      "meaning_uk": "сировина",
+      "meaning_es": "materia prima"
+    }
+  ]
+}

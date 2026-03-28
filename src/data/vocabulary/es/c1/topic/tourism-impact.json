@@ -1,0 +1,546 @@
+{
+  "title": "Turismo Masivo y sus Consecuencias (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la gentrificación",
+      "type": "Noun",
+      "example": "*** ha provocado que los vecinos de toda la vida se muden a la periferia.",
+      "meaning_tr": "soylulaştırma",
+      "meaning_en": "gentrification",
+      "meaning_uk": "джентрифікація",
+      "meaning_es": "Proceso de transformación de un espacio urbano deteriorado mediante la llegada de población con mayor poder adquisitivo."
+    },
+    {
+      "term": "el encarecimiento",
+      "type": "Noun",
+      "example": "El turismo masivo produce un notable *** de la vivienda en el centro de las ciudades.",
+      "meaning_tr": "fiyat artışı",
+      "meaning_en": "price increase",
+      "meaning_uk": "подорожчання",
+      "meaning_es": "Acción de aumentar el precio de algo."
+    },
+    {
+      "term": "el desplazamiento",
+      "type": "Noun",
+      "example": "Muchos residentes sufren el *** forzado debido al auge de los pisos turísticos.",
+      "meaning_tr": "yerinden edilme",
+      "meaning_en": "displacement",
+      "meaning_uk": "витіснення",
+      "meaning_es": "Acción de mover a alguien o algo del lugar en que estaba."
+    },
+    {
+      "term": "la huella de carbono",
+      "type": "Noun",
+      "example": "Los vuelos internacionales contribuyen significativamente a *** global.",
+      "meaning_tr": "karbon ayak izi",
+      "meaning_en": "carbon footprint",
+      "meaning_uk": "вуглецевий слід",
+      "meaning_es": "Medida del impacto que las actividades humanas tienen en el medio ambiente en términos de gases de efecto invernadero."
+    },
+    {
+      "term": "la sostenibilidad",
+      "type": "Noun",
+      "example": "Debemos buscar la *** para que el turismo no destruya los recursos locales.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталість",
+      "meaning_es": "Cualidad de poder mantenerse por sí mismo sin agotar los recursos."
+    },
+    {
+      "term": "la masificación",
+      "type": "Noun",
+      "example": "*** de las playas durante el verano impide disfrutar del paisaje natural.",
+      "meaning_tr": "kalabalıklaşma",
+      "meaning_en": "overcrowding",
+      "meaning_uk": "масовість",
+      "meaning_es": "Acción de hacer masivo algo que no lo era."
+    },
+    {
+      "term": "la saturación",
+      "type": "Noun",
+      "example": "La ciudad ha llegado a un punto de *** turística que afecta los servicios públicos.",
+      "meaning_tr": "doygunluk",
+      "meaning_en": "saturation",
+      "meaning_uk": "перенасичення",
+      "meaning_es": "Estado de lo que ha alcanzado el límite de su capacidad."
+    },
+    {
+      "term": "la precariedad laboral",
+      "type": "Noun",
+      "example": "El sector servicios a menudo se caracteriza por *** y los bajos salarios.",
+      "meaning_tr": "iş güvencesizliği",
+      "meaning_en": "job insecurity",
+      "meaning_uk": "нестабільність зайнятості",
+      "meaning_es": "Falta de estabilidad o seguridad en el trabajo."
+    },
+    {
+      "term": "el patrimonio cultural",
+      "type": "Noun",
+      "example": "Es fundamental proteger *** de las hordas de turistas irresponsables.",
+      "meaning_tr": "kültürel miras",
+      "meaning_en": "cultural heritage",
+      "meaning_uk": "культурна спадщина",
+      "meaning_es": "Conjunto de bienes que una comunidad hereda de sus antepasados."
+    },
+    {
+      "term": "la degradación ambiental",
+      "type": "Noun",
+      "example": "El turismo sin control acelera *** en zonas costeras vírgenes.",
+      "meaning_tr": "çevresel bozulma",
+      "meaning_en": "environmental degradation",
+      "meaning_uk": "деградація довкілля",
+      "meaning_es": "Deterioro del medio ambiente a través del agotamiento de recursos."
+    },
+    {
+      "term": "el alojamiento turístico",
+      "type": "Noun",
+      "example": "La proliferación de *** ilegales es un problema para el ayuntamiento.",
+      "meaning_tr": "turistik konaklama",
+      "meaning_en": "tourist accommodation",
+      "meaning_uk": "туристичне житло",
+      "meaning_es": "Lugar destinado a hospedar a personas que viajan por ocio."
+    },
+    {
+      "term": "la tasa turística",
+      "type": "Noun",
+      "example": "Algunas ciudades aplican una *** para financiar la limpieza de las calles.",
+      "meaning_tr": "turizm vergisi",
+      "meaning_en": "tourist tax",
+      "meaning_uk": "туристичний збір",
+      "meaning_es": "Impuesto que los viajeros pagan por alojarse en un destino."
+    },
+    {
+      "term": "la estacionalidad",
+      "type": "Noun",
+      "example": "*** del empleo es uno de los mayores retos de la economía local.",
+      "meaning_tr": "mevsimsellik",
+      "meaning_en": "seasonality",
+      "meaning_uk": "сезонність",
+      "meaning_es": "Dependencia de las estaciones del año para realizar una actividad."
+    },
+    {
+      "term": "el flujo migratorio",
+      "type": "Noun",
+      "example": "El constante *** de visitantes altera la vida cotidiana del barrio.",
+      "meaning_tr": "göç akışı",
+      "meaning_en": "migratory flow",
+      "meaning_uk": "міграційний потік",
+      "meaning_es": "Movimiento de personas que entran o salen de un territorio."
+    },
+    {
+      "term": "la convivencia",
+      "type": "Noun",
+      "example": "El ruido nocturno dificulta la sana *** entre turistas y residentes.",
+      "meaning_tr": "birlikte yaşam",
+      "meaning_en": "coexistence",
+      "meaning_uk": "співіснування",
+      "meaning_es": "Acción de vivir en compañía de otros."
+    },
+    {
+      "term": "el ecosistema",
+      "type": "Noun",
+      "example": "El vertido de residuos daña el frágil *** de la isla.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "ecosystem",
+      "meaning_uk": "екосистема",
+      "meaning_es": "Comunidad de los seres vivos cuyos procesos vitales se relacionan entre sí."
+    },
+    {
+      "term": "el desabastecimiento",
+      "type": "Noun",
+      "example": "En temporada alta, algunos pueblos sufren *** de agua potable.",
+      "meaning_tr": "tedarik sıkıntısı",
+      "meaning_en": "shortage",
+      "meaning_uk": "дефіцит товарів",
+      "meaning_es": "Falta de productos o recursos básicos en un lugar."
+    },
+    {
+      "term": "la infraestructura",
+      "type": "Noun",
+      "example": "*** de la ciudad no está preparada para recibir a millones de personas.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "infrastructure",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "Conjunto de elementos o servicios que se consideran necesarios para el funcionamiento de una organización o ciudad."
+    },
+    {
+      "term": "la normativa",
+      "type": "Noun",
+      "example": "Es necesario endurecer la *** sobre el alquiler vacacional.",
+      "meaning_tr": "mevzuat",
+      "meaning_en": "regulations",
+      "meaning_uk": "нормативна база",
+      "meaning_es": "Conjunto de normas aplicables a una determinada materia."
+    },
+    {
+      "term": "el centro histórico",
+      "type": "Noun",
+      "example": "*** se ha convertido en un parque temático para extranjeros.",
+      "meaning_tr": "tarihi merkez",
+      "meaning_en": "historic center",
+      "meaning_uk": "історичний центр",
+      "meaning_es": "Zona más antigua y con valor arquitectónico de una ciudad."
+    },
+    {
+      "term": "masificar",
+      "type": "Verb",
+      "example": "No debemos *** los espacios naturales si queremos conservarlos.",
+      "meaning_tr": "kalabalıklaştırmak",
+      "meaning_en": "to overcrowd",
+      "meaning_uk": "переповнювати",
+      "meaning_es": "Hacer que algo sea masivo o llegue a una gran cantidad de personas."
+    },
+    {
+      "term": "saturar",
+      "type": "Verb",
+      "example": "El exceso de cruceros llega a *** el puerto principal.",
+      "meaning_tr": "doyurmak",
+      "meaning_en": "to saturate",
+      "meaning_uk": "насичувати",
+      "meaning_es": "Llenar o ocupar algo hasta el límite de su capacidad."
+    },
+    {
+      "term": "desplazar",
+      "type": "Verb",
+      "example": "Los altos precios terminan por *** a los jóvenes de sus barrios natales.",
+      "meaning_tr": "yerinden etmek",
+      "meaning_en": "to displace",
+      "meaning_uk": "витісняти",
+      "meaning_es": "Mover a alguien o algo del lugar en que se hallaba."
+    },
+    {
+      "term": "encarecer",
+      "type": "Verb",
+      "example": "La demanda turística suele *** la cesta de la compra local.",
+      "meaning_tr": "pahalılaştırmak",
+      "meaning_en": "to make more expensive",
+      "meaning_uk": "здорожувати",
+      "meaning_es": "Aumentar el precio de un bien o servicio."
+    },
+    {
+      "term": "degradar",
+      "type": "Verb",
+      "example": "El comportamiento incívico puede *** el mobiliario urbano rápidamente.",
+      "meaning_tr": "bozmak",
+      "meaning_en": "to degrade",
+      "meaning_uk": "деградувати",
+      "meaning_es": "Reducir o desgastar las cualidades de algo."
+    },
+    {
+      "term": "mitigar",
+      "type": "Verb",
+      "example": "Las autoridades buscan medidas para *** los efectos negativos del turismo.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to mitigate",
+      "meaning_uk": "пом'якшувати",
+      "meaning_es": "Moderar, aplacar o disminuir la dureza de algo."
+    },
+    {
+      "term": "gestionar",
+      "type": "Verb",
+      "example": "Es vital *** los flujos de personas en los museos más famosos.",
+      "meaning_tr": "yönetmek",
+      "meaning_en": "to manage",
+      "meaning_uk": "керувати",
+      "meaning_es": "Hacer las diligencias necesarias para resolver un asunto."
+    },
+    {
+      "term": "regular",
+      "type": "Verb",
+      "example": "El gobierno municipal intenta *** el número de apartamentos turísticos.",
+      "meaning_tr": "düzenlemek",
+      "meaning_en": "to regulate",
+      "meaning_uk": "регулювати",
+      "meaning_es": "Ajustar o poner en orden algo según una norma."
+    },
+    {
+      "term": "preservar",
+      "type": "Verb",
+      "example": "Debemos *** la autenticidad de nuestras tradiciones frente a lo comercial.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to preserve",
+      "meaning_uk": "зберігати",
+      "meaning_es": "Proteger o resguardar a alguien o algo de algún daño o peligro."
+    },
+    {
+      "term": "agotar",
+      "type": "Verb",
+      "example": "El consumo excesivo puede *** las reservas de agua de la región.",
+      "meaning_tr": "tüketmek",
+      "meaning_en": "to exhaust",
+      "meaning_uk": "вичерпувати",
+      "meaning_es": "Extraer todo el líquido que hay en un sitio o gastar algo por completo."
+    },
+    {
+      "term": "convivir",
+      "type": "Verb",
+      "example": "Los ciudadanos tienen que *** con miles de visitantes a diario.",
+      "meaning_tr": "birlikte yaşamak",
+      "meaning_en": "to coexist",
+      "meaning_uk": "співіснувати",
+      "meaning_es": "Vivir en compañía de otros."
+    },
+    {
+      "term": "impactar",
+      "type": "Verb",
+      "example": "La construcción de hoteles puede *** negativamente en el paisaje.",
+      "meaning_tr": "etkilemek",
+      "meaning_en": "to impact",
+      "meaning_uk": "впливати",
+      "meaning_es": "Causar un efecto o impresión fuerte en algo o alguien."
+    },
+    {
+      "term": "concienciar",
+      "type": "Verb",
+      "example": "Hay que *** a los viajeros sobre la importancia de no dejar basura.",
+      "meaning_tr": "bilinçlendirmek",
+      "meaning_en": "to raise awareness",
+      "meaning_uk": "усвідомлювати",
+      "meaning_es": "Hacer que alguien sea consciente de algo."
+    },
+    {
+      "term": "desbordar",
+      "type": "Verb",
+      "example": "La afluencia de gente puede *** la capacidad del transporte público.",
+      "meaning_tr": "aşmak",
+      "meaning_en": "to overflow",
+      "meaning_uk": "переповнювати",
+      "meaning_es": "Superar el límite de la capacidad de algo."
+    },
+    {
+      "term": "rentabilizar",
+      "type": "Verb",
+      "example": "Las empresas solo piensan en *** al máximo cada metro cuadrado.",
+      "meaning_tr": "karlı hale getirmek",
+      "meaning_en": "to make profitable",
+      "meaning_uk": "робити прибутковим",
+      "meaning_es": "Hacer que algo produzca beneficio o renta."
+    },
+    {
+      "term": "fomentar",
+      "type": "Verb",
+      "example": "Se debe *** un turismo de calidad en lugar de uno de borrachera.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to promote",
+      "meaning_uk": "сприяти",
+      "meaning_es": "Impulsar o promover el desarrollo de una actividad."
+    },
+    {
+      "term": "insostenible",
+      "type": "Adjective",
+      "example": "El modelo actual de crecimiento ilimitado es *** a largo plazo.",
+      "meaning_tr": "sürdürülemez",
+      "meaning_en": "unsustainable",
+      "meaning_uk": "нежиттєздатний",
+      "meaning_es": "Que no se puede mantener por mucho tiempo."
+    },
+    {
+      "term": "masivo",
+      "type": "Adjective",
+      "example": "El turismo *** genera grandes beneficios pero también grandes costes.",
+      "meaning_tr": "kitlesel",
+      "meaning_en": "massive",
+      "meaning_uk": "масовий",
+      "meaning_es": "Que se aplica a gran cantidad de personas o cosas."
+    },
+    {
+      "term": "nocivo",
+      "type": "Adjective",
+      "example": "El ruido constante es *** para la salud mental de los vecinos.",
+      "meaning_tr": "zararlı",
+      "meaning_en": "harmful",
+      "meaning_uk": "шкідливий",
+      "meaning_es": "Que causa daño o es perjudicial."
+    },
+    {
+      "term": "perjudicial",
+      "type": "Adjective",
+      "example": "La falta de regulación es *** para la economía local a largo plazo.",
+      "meaning_tr": "zararlı",
+      "meaning_en": "detrimental",
+      "meaning_uk": "згубний",
+      "meaning_es": "Que ocasiona daño o perjuicio."
+    },
+    {
+      "term": "efímero",
+      "type": "Adjective",
+      "example": "Muchos empleos en el sector turístico son de carácter ***.",
+      "meaning_tr": "geçici",
+      "meaning_en": "ephemeral",
+      "meaning_uk": "ефемерний",
+      "meaning_es": "Que dura muy poco tiempo."
+    },
+    {
+      "term": "lucrativo",
+      "type": "Adjective",
+      "example": "El negocio de los cruceros es extremadamente *** para las navieras.",
+      "meaning_tr": "karlı",
+      "meaning_en": "lucrative",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "Que produce utilidad o ganancia."
+    },
+    {
+      "term": "estacional",
+      "type": "Adjective",
+      "example": "La demanda *** obliga a muchos negocios a cerrar en invierno.",
+      "meaning_tr": "mevsimlik",
+      "meaning_en": "seasonal",
+      "meaning_uk": "сезонний",
+      "meaning_es": "Que depende de la estación del año."
+    },
+    {
+      "term": "saturado",
+      "type": "Adjective",
+      "example": "El mercado de alquiler está *** por la oferta vacacional.",
+      "meaning_tr": "doymuş",
+      "meaning_en": "saturated",
+      "meaning_uk": "насичений",
+      "meaning_es": "Que está lleno hasta el límite."
+    },
+    {
+      "term": "vulnerable",
+      "type": "Adjective",
+      "example": "Las comunidades locales son muy *** ante los cambios del mercado global.",
+      "meaning_tr": "savunmasız",
+      "meaning_en": "vulnerable",
+      "meaning_uk": "вразливий",
+      "meaning_es": "Que puede ser herido o recibir daños física o moralmente."
+    },
+    {
+      "term": "autóctono",
+      "type": "Adjective",
+      "example": "El comercio *** está desapareciendo en favor de las franquicias.",
+      "meaning_tr": "yerli",
+      "meaning_en": "indigenous/local",
+      "meaning_uk": "автохтонний",
+      "meaning_es": "Que es originario del lugar donde vive."
+    },
+    {
+      "term": "cosmopolita",
+      "type": "Adjective",
+      "example": "Barcelona es una ciudad ***, pero corre el riesgo de perder su esencia.",
+      "meaning_tr": "kozmopolit",
+      "meaning_en": "cosmopolitan",
+      "meaning_uk": "космополітичний",
+      "meaning_es": "Que es común a gran número de países o culturas."
+    },
+    {
+      "term": "precario",
+      "type": "Adjective",
+      "example": "El estado de algunos monumentos es *** debido a la falta de mantenimiento.",
+      "meaning_tr": "istikrarsız",
+      "meaning_en": "precarious",
+      "meaning_uk": "нестабільний",
+      "meaning_es": "Que no tiene la estabilidad o duración necesarias."
+    },
+    {
+      "term": "exorbitante",
+      "type": "Adjective",
+      "example": "El precio de un café en la plaza principal es ***.",
+      "meaning_tr": "fahiş",
+      "meaning_en": "exorbitant",
+      "meaning_uk": "надмірний",
+      "meaning_es": "Que excede de lo que se considera normal o razonable."
+    },
+    {
+      "term": "masificado",
+      "type": "Adjective",
+      "example": "Un destino *** suele perder su atractivo para el viajero exigente.",
+      "meaning_tr": "kalabalıklaşmış",
+      "meaning_en": "overcrowded",
+      "meaning_uk": "переповнений",
+      "meaning_es": "Que se ha hecho masivo."
+    },
+    {
+      "term": "paulatinamente",
+      "type": "Adverb",
+      "example": "El barrio ha ido perdiendo su identidad *** a lo largo de los años.",
+      "meaning_tr": "yavaş yavaş",
+      "meaning_en": "gradually",
+      "meaning_uk": "поступово",
+      "meaning_es": "Poco a poco, despacio."
+    },
+    {
+      "term": "excesivamente",
+      "type": "Adverb",
+      "example": "Algunas zonas están *** concurridas durante los fines de semana.",
+      "meaning_tr": "aşırı derecede",
+      "meaning_en": "excessively",
+      "meaning_uk": "надмірно",
+      "meaning_es": "De forma excesiva o que supera un límite."
+    },
+    {
+      "term": "drásticamente",
+      "type": "Adverb",
+      "example": "El número de residentes bajó *** tras la apertura de los hoteles.",
+      "meaning_tr": "radikal bir şekilde",
+      "meaning_en": "drastically",
+      "meaning_uk": "радикально",
+      "meaning_es": "De manera radical o tajante."
+    },
+    {
+      "term": "pese a",
+      "type": "Preposition",
+      "example": "*** las quejas de los vecinos, el ayuntamiento no ha tomado medidas.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "A pesar de algo."
+    },
+    {
+      "term": "ante",
+      "type": "Preposition",
+      "example": "*** la avalancha de turistas, se ha limitado el acceso al centro.",
+      "meaning_tr": "karşısında",
+      "meaning_en": "in the face of",
+      "meaning_uk": "перед лицем",
+      "meaning_es": "En presencia de o ante una situación."
+    },
+    {
+      "term": "debido a",
+      "type": "Preposition",
+      "example": "La playa está cerrada *** la contaminación del agua.",
+      "meaning_tr": "-den dolayı",
+      "meaning_en": "due to",
+      "meaning_uk": "через",
+      "meaning_es": "A causa de."
+    },
+    {
+      "term": "el recurso natural",
+      "type": "Noun",
+      "example": "El agua es *** más escaso en las zonas áridas turísticas.",
+      "meaning_tr": "doğal kaynak",
+      "meaning_en": "natural resource",
+      "meaning_uk": "природний ресурс",
+      "meaning_es": "Bien que se obtiene de la naturaleza sin intervención humana."
+    },
+    {
+      "term": "la planificación urbana",
+      "type": "Noun",
+      "example": "Una buena *** es clave para evitar la saturación de los barrios.",
+      "meaning_tr": "şehir planlaması",
+      "meaning_en": "urban planning",
+      "meaning_uk": "міське планування",
+      "meaning_es": "Organización del diseño y uso del suelo en las ciudades."
+    },
+    {
+      "term": "la oferta y demanda",
+      "type": "Noun",
+      "example": "La ley de *** rige los precios de los hoteles en temporada alta.",
+      "meaning_tr": "arz ve talep",
+      "meaning_en": "supply and demand",
+      "meaning_uk": "попит і пропозиція",
+      "meaning_es": "Modelo económico que explica la formación de precios en un mercado."
+    },
+    {
+      "term": "el impacto socioeconómico",
+      "type": "Noun",
+      "example": "Debemos analizar *** del turismo en las familias locales.",
+      "meaning_tr": "sosyo-ekonomik etki",
+      "meaning_en": "socioeconomic impact",
+      "meaning_uk": "соціально-економічний вплив",
+      "meaning_es": "Efecto que tiene una actividad en la sociedad y la economía."
+    }
+  ]
+}

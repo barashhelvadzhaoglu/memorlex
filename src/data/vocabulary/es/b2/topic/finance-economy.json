@@ -1,0 +1,411 @@
+{
+  "title": "Finanzas y Economia (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el activo",
+      "type": "Noun",
+      "example": "La empresa ha aumentado su *** principal durante el último trimestre.",
+      "meaning_tr": "varlık",
+      "meaning_en": "asset",
+      "meaning_uk": "актив",
+      "meaning_es": "bien o derecho propiedad de una empresa"
+    },
+    {
+      "term": "el pasivo",
+      "type": "Noun",
+      "example": "Es fundamental controlar el *** para evitar problemas de liquidez.",
+      "meaning_tr": "yükümlülük",
+      "meaning_en": "liability",
+      "meaning_uk": "пасив",
+      "meaning_es": "deudas y obligaciones de una entidad"
+    },
+    {
+      "term": "la inflación",
+      "type": "Noun",
+      "example": "El banco central intenta frenar la *** subiendo los tipos de interés.",
+      "meaning_tr": "enflasyon",
+      "meaning_en": "inflation",
+      "meaning_uk": "інфляція",
+      "meaning_es": "aumento generalizado de los precios"
+    },
+    {
+      "term": "invertir",
+      "type": "Verb",
+      "example": "Muchos jóvenes deciden *** en el mercado de valores a largo plazo.",
+      "meaning_tr": "yatırım yapmak",
+      "meaning_en": "to invest",
+      "meaning_uk": "інвестувати",
+      "meaning_es": "emplear capital en una actividad con fines de lucro"
+    },
+    {
+      "term": "rentable",
+      "type": "Adjective",
+      "example": "Este modelo de negocio es mucho más *** de lo que esperábamos.",
+      "meaning_tr": "kârlı",
+      "meaning_en": "profitable",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "que produce beneficio suficiente"
+    },
+    {
+      "term": "la cotización",
+      "type": "Noun",
+      "example": "La *** de las acciones ha caído considerablemente hoy.",
+      "meaning_tr": "borsa değeri",
+      "meaning_en": "quotation/price",
+      "meaning_uk": "котирування",
+      "meaning_es": "precio asignado a un valor en el mercado"
+    },
+    {
+      "term": "el presupuesto",
+      "type": "Noun",
+      "example": "Debemos ajustar el *** para cubrir los gastos imprevistos.",
+      "meaning_tr": "bütçe",
+      "meaning_en": "budget",
+      "meaning_uk": "бюджет",
+      "meaning_es": "cálculo anticipado de los ingresos y gastos"
+    },
+    {
+      "term": "el préstamo",
+      "type": "Noun",
+      "example": "Solicité un *** al banco para reformar mi vivienda.",
+      "meaning_tr": "kredi/borç",
+      "meaning_en": "loan",
+      "meaning_uk": "позика",
+      "meaning_es": "dinero que se presta con la condición de devolverlo"
+    },
+    {
+      "term": "la deuda",
+      "type": "Noun",
+      "example": "El país está intentando reducir su *** externa mediante nuevas políticas.",
+      "meaning_tr": "borç",
+      "meaning_en": "debt",
+      "meaning_uk": "борг",
+      "meaning_es": "obligación de pagar algo"
+    },
+    {
+      "term": "el dividendo",
+      "type": "Noun",
+      "example": "Los accionistas recibirán un *** anual por sus participaciones.",
+      "meaning_tr": "kâr payı",
+      "meaning_en": "dividend",
+      "meaning_uk": "дивіденд",
+      "meaning_es": "parte de los beneficios que se reparte entre los socios"
+    },
+    {
+      "term": "la recesión",
+      "type": "Noun",
+      "example": "Los expertos advierten que estamos entrando en una fase de *** económica.",
+      "meaning_tr": "durgunluk",
+      "meaning_en": "recession",
+      "meaning_uk": "рецесія",
+      "meaning_es": "periodo de decrecimiento de la actividad económica"
+    },
+    {
+      "term": "el tipo de interés",
+      "type": "Noun",
+      "example": "Un *** alto encarece el acceso a la financiación.",
+      "meaning_tr": "faiz oranı",
+      "meaning_en": "interest rate",
+      "meaning_uk": "відсоткова ставка",
+      "meaning_es": "precio del dinero en el mercado financiero"
+    },
+    {
+      "term": "la liquidez",
+      "type": "Noun",
+      "example": "La empresa tiene problemas de *** para pagar a corto plazo.",
+      "meaning_tr": "likidite",
+      "meaning_en": "liquidity",
+      "meaning_uk": "ліквідність",
+      "meaning_es": "capacidad de convertir activos en dinero efectivo"
+    },
+    {
+      "term": "aumentar",
+      "type": "Verb",
+      "example": "El gobierno decidió *** los impuestos para equilibrar las cuentas.",
+      "meaning_tr": "artırmak",
+      "meaning_en": "to increase",
+      "meaning_uk": "збільшувати",
+      "meaning_es": "hacer que algo sea mayor en cantidad o grado"
+    },
+    {
+      "term": "la acción",
+      "type": "Noun",
+      "example": "Compré una *** de esa empresa tecnológica esperando que suba.",
+      "meaning_tr": "hisse senedi",
+      "meaning_en": "share/stock",
+      "meaning_uk": "акція",
+      "meaning_es": "parte alícuota del capital de una sociedad"
+    },
+    {
+      "term": "el mercado",
+      "type": "Noun",
+      "example": "El *** laboral es muy competitivo actualmente.",
+      "meaning_tr": "piyasa",
+      "meaning_en": "market",
+      "meaning_uk": "ринок",
+      "meaning_es": "lugar donde se realizan transacciones comerciales"
+    },
+    {
+      "term": "el consumidor",
+      "type": "Noun",
+      "example": "El *** moderno valora mucho la sostenibilidad de los productos.",
+      "meaning_tr": "tüketici",
+      "meaning_en": "consumer",
+      "meaning_uk": "споживач",
+      "meaning_es": "persona que compra bienes o servicios"
+    },
+    {
+      "term": "la oferta",
+      "type": "Noun",
+      "example": "Si la *** es baja pero la demanda es alta, los precios suben.",
+      "meaning_tr": "arz",
+      "meaning_en": "supply",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "cantidad de bienes puestos a la venta"
+    },
+    {
+      "term": "la demanda",
+      "type": "Noun",
+      "example": "La *** de vehículos eléctricos ha crecido exponencialmente.",
+      "meaning_tr": "talep",
+      "meaning_en": "demand",
+      "meaning_uk": "попит",
+      "meaning_es": "deseo o necesidad de un bien por parte del público"
+    },
+    {
+      "term": "bancario",
+      "type": "Adjective",
+      "example": "El sector *** ha implementado nuevas medidas de seguridad.",
+      "meaning_tr": "bankacılık ile ilgili",
+      "meaning_en": "banking",
+      "meaning_uk": "банківський",
+      "meaning_es": "relativo a los bancos"
+    },
+    {
+      "term": "el capital",
+      "type": "Noun",
+      "example": "Necesitamos más *** para expandir nuestras operaciones al extranjero.",
+      "meaning_tr": "sermaye",
+      "meaning_en": "capital",
+      "meaning_uk": "капітал",
+      "meaning_es": "recursos económicos destinados a la producción"
+    },
+    {
+      "term": "la divisa",
+      "type": "Noun",
+      "example": "El valor de esta *** fluctúa constantemente frente al dólar.",
+      "meaning_tr": "döviz",
+      "meaning_en": "currency",
+      "meaning_uk": "валюта",
+      "meaning_es": "moneda extranjera"
+    },
+    {
+      "term": "deficitario",
+      "type": "Adjective",
+      "example": "El presupuesto de este año es claramente ***.",
+      "meaning_tr": "açık veren",
+      "meaning_en": "deficitary",
+      "meaning_uk": "дефіцитний",
+      "meaning_es": "que tiene un déficit o pérdida"
+    },
+    {
+      "term": "la quiebra",
+      "type": "Noun",
+      "example": "La empresa se declaró en *** tras varios años de pérdidas.",
+      "meaning_tr": "iflas",
+      "meaning_en": "bankruptcy",
+      "meaning_uk": "банкрутство",
+      "meaning_es": "situación de insolvencia económica"
+    },
+    {
+      "term": "el ahorro",
+      "type": "Noun",
+      "example": "Fomentar el *** es vital para la estabilidad financiera personal.",
+      "meaning_tr": "tasarruf",
+      "meaning_en": "savings",
+      "meaning_uk": "заощадження",
+      "meaning_es": "dinero guardado para el futuro"
+    },
+    {
+      "term": "fiscal",
+      "type": "Adjective",
+      "example": "La reforma *** busca simplificar los impuestos para las pymes.",
+      "meaning_tr": "mali",
+      "meaning_en": "fiscal",
+      "meaning_uk": "фіскальний",
+      "meaning_es": "relativo al fisco o a los impuestos"
+    },
+    {
+      "term": "el impuesto",
+      "type": "Noun",
+      "example": "El *** sobre el valor añadido ha subido este mes.",
+      "meaning_tr": "vergi",
+      "meaning_en": "tax",
+      "meaning_uk": "податок",
+      "meaning_es": "tributo que se paga al Estado"
+    },
+    {
+      "term": "el beneficio",
+      "type": "Noun",
+      "example": "Obtuvimos un *** neto muy superior al del ejercicio anterior.",
+      "meaning_tr": "kâr",
+      "meaning_en": "profit",
+      "meaning_uk": "прибуток",
+      "meaning_es": "ganancia económica obtenida"
+    },
+    {
+      "term": "la exportación",
+      "type": "Noun",
+      "example": "La *** de productos agrícolas es el pilar de nuestra economía.",
+      "meaning_tr": "ihracat",
+      "meaning_en": "export",
+      "meaning_uk": "експорт",
+      "meaning_es": "venta de bienes al extranjero"
+    },
+    {
+      "term": "la importación",
+      "type": "Noun",
+      "example": "Dependemos mucho de la *** de materias primas.",
+      "meaning_tr": "ithalat",
+      "meaning_en": "import",
+      "meaning_uk": "імпорт",
+      "meaning_es": "compra de bienes del extranjero"
+    },
+    {
+      "term": "el balance",
+      "type": "Noun",
+      "example": "El *** financiero muestra un estado de salud muy sólido.",
+      "meaning_tr": "bilanço",
+      "meaning_en": "balance sheet",
+      "meaning_uk": "баланс",
+      "meaning_es": "documento contable que refleja la situación económica"
+    },
+    {
+      "term": "financiero",
+      "type": "Adjective",
+      "example": "El asesor *** nos recomendó diversificar nuestra cartera.",
+      "meaning_tr": "finansal",
+      "meaning_en": "financial",
+      "meaning_uk": "фінансовий",
+      "meaning_es": "relativo a las finanzas"
+    },
+    {
+      "term": "la auditoría",
+      "type": "Noun",
+      "example": "La empresa se someterá a una *** externa el próximo mes.",
+      "meaning_tr": "denetim",
+      "meaning_en": "audit",
+      "meaning_uk": "аудит",
+      "meaning_es": "revisión de las cuentas de una empresa"
+    },
+    {
+      "term": "el ingreso",
+      "type": "Noun",
+      "example": "Nuestro *** mensual ha disminuido debido a la crisis.",
+      "meaning_tr": "gelir",
+      "meaning_en": "income",
+      "meaning_uk": "дохід",
+      "meaning_es": "cantidad de dinero percibida"
+    },
+    {
+      "term": "el gasto",
+      "type": "Noun",
+      "example": "Debemos recortar el *** público para reducir el déficit.",
+      "meaning_tr": "gider",
+      "meaning_en": "expense",
+      "meaning_uk": "витрати",
+      "meaning_es": "cantidad de dinero que se gasta"
+    },
+    {
+      "term": "la bolsa",
+      "type": "Noun",
+      "example": "Los inversores están nerviosos por la volatilidad de la ***.",
+      "meaning_tr": "borsa",
+      "meaning_en": "stock exchange",
+      "meaning_uk": "фондова біржа",
+      "meaning_es": "mercado de valores"
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "La economía *** está interconectada de forma compleja.",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "que abarca todo el mundo"
+    },
+    {
+      "term": "solventar",
+      "type": "Verb",
+      "example": "Debemos *** estas deudas antes de pensar en nuevas inversiones.",
+      "meaning_tr": "çözmek/ödemek",
+      "meaning_en": "to solve/pay off",
+      "meaning_uk": "вирішувати",
+      "meaning_es": "resolver un problema o pagar una deuda"
+    },
+    {
+      "term": "la subvención",
+      "type": "Noun",
+      "example": "La empresa recibió una *** estatal para proyectos de energía limpia.",
+      "meaning_tr": "destek/hibe",
+      "meaning_en": "subsidy",
+      "meaning_uk": "субсидія",
+      "meaning_es": "ayuda económica oficial"
+    },
+    {
+      "term": "el crecimiento",
+      "type": "Noun",
+      "example": "El *** económico ha sido más lento de lo previsto este año.",
+      "meaning_tr": "büyüme",
+      "meaning_en": "growth",
+      "meaning_uk": "зростання",
+      "meaning_es": "aumento de la actividad económica"
+    },
+    {
+      "term": "la competencia",
+      "type": "Noun",
+      "example": "La *** en este sector es feroz debido a las nuevas empresas.",
+      "meaning_tr": "rekabet",
+      "meaning_en": "competition",
+      "meaning_uk": "конкуренція",
+      "meaning_es": "rivalidad en el mercado"
+    },
+    {
+      "term": "el socio",
+      "type": "Noun",
+      "example": "Mi *** y yo decidimos vender el negocio el año pasado.",
+      "meaning_tr": "ortak",
+      "meaning_en": "partner",
+      "meaning_uk": "партнер",
+      "meaning_es": "persona que comparte propiedad o riesgos"
+    },
+    {
+      "term": "la fluctuación",
+      "type": "Noun",
+      "example": "La *** de los precios de la energía afecta a toda la cadena.",
+      "meaning_tr": "dalgalanma",
+      "meaning_en": "fluctuation",
+      "meaning_uk": "коливання",
+      "meaning_es": "cambio frecuente de nivel o precio"
+    },
+    {
+      "term": "la rentabilidad",
+      "type": "Noun",
+      "example": "Hemos analizado la *** de cada producto antes de lanzarlo.",
+      "meaning_tr": "kârlılık",
+      "meaning_en": "profitability",
+      "meaning_uk": "рентабельність",
+      "meaning_es": "capacidad de obtener beneficio"
+    },
+    {
+      "term": "el arancel",
+      "type": "Noun",
+      "example": "El nuevo *** sobre el acero afectará a las importaciones.",
+      "meaning_tr": "gümrük vergisi",
+      "meaning_en": "tariff",
+      "meaning_uk": "тариф",
+      "meaning_es": "tasa que se aplica a los productos importados"
+    }
+  ]
+}

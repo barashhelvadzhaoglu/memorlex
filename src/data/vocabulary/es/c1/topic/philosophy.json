@@ -1,0 +1,546 @@
+{
+  "title": "Filosofia y Valores (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la ética",
+      "type": "Noun",
+      "example": "*** es la rama de la filosofía que estudia la conducta humana.",
+      "meaning_tr": "etik",
+      "meaning_en": "ethics",
+      "meaning_uk": "етика",
+      "meaning_es": "disciplina filosófica que estudia el bien y el mal"
+    },
+    {
+      "term": "la ontología",
+      "type": "Noun",
+      "example": "El estudio del ser se denomina ***.",
+      "meaning_tr": "ontoloji",
+      "meaning_en": "ontology",
+      "meaning_uk": "онтологія",
+      "meaning_es": "parte de la metafísica que trata del ser en general"
+    },
+    {
+      "term": "la epistemología",
+      "type": "Noun",
+      "example": "*** analiza los fundamentos y métodos del conocimiento científico.",
+      "meaning_tr": "bilgi felsefesi",
+      "meaning_en": "epistemology",
+      "meaning_uk": "епістемологія",
+      "meaning_es": "teoría del conocimiento"
+    },
+    {
+      "term": "el libre albedrío",
+      "type": "Noun",
+      "example": "Muchos filósofos debaten sobre la existencia del ***.",
+      "meaning_tr": "özgür irade",
+      "meaning_en": "free will",
+      "meaning_uk": "вільна воля",
+      "meaning_es": "potestad de obrar por reflexión y elección"
+    },
+    {
+      "term": "la virtud",
+      "type": "Noun",
+      "example": "Aristóteles consideraba que *** es el hábito de hacer el bien.",
+      "meaning_tr": "erdem",
+      "meaning_en": "virtue",
+      "meaning_uk": "чеснота",
+      "meaning_es": "disposición constante de obrar bien"
+    },
+    {
+      "term": "reflexionar",
+      "type": "Verb",
+      "example": "Es necesario *** profundamente sobre nuestras acciones diarias.",
+      "meaning_tr": "düşünmek",
+      "meaning_en": "to reflect",
+      "meaning_uk": "розмірковувати",
+      "meaning_es": "pensar detenida y cuidadosamente"
+    },
+    {
+      "term": "intrínseco",
+      "type": "Adjective",
+      "example": "La dignidad humana tiene un valor ***.",
+      "meaning_tr": "içsel",
+      "meaning_en": "intrinsic",
+      "meaning_uk": "внутрішній",
+      "meaning_es": "que es propio o característico de la cosa misma"
+    },
+    {
+      "term": "la cosmovisión",
+      "type": "Noun",
+      "example": "Cada cultura posee una *** distinta del universo.",
+      "meaning_tr": "dünya görüşü",
+      "meaning_en": "worldview",
+      "meaning_uk": "світогляд",
+      "meaning_es": "manera de ver e interpretar el mundo"
+    },
+    {
+      "term": "trascender",
+      "type": "Verb",
+      "example": "El arte busca *** las limitaciones del tiempo.",
+      "meaning_tr": "aşmak",
+      "meaning_en": "to transcend",
+      "meaning_uk": "виходити за межі",
+      "meaning_es": "superar las limitaciones"
+    },
+    {
+      "term": "la axiología",
+      "type": "Noun",
+      "example": "*** se ocupa del estudio de los valores.",
+      "meaning_tr": "değerler felsefesi",
+      "meaning_en": "axiology",
+      "meaning_uk": "аксіологія",
+      "meaning_es": "teoría de los valores"
+    },
+    {
+      "term": "la dialéctica",
+      "type": "Noun",
+      "example": "El diálogo socrático es una forma de ***.",
+      "meaning_tr": "diyalektik",
+      "meaning_en": "dialectic",
+      "meaning_uk": "діалектика",
+      "meaning_es": "arte de dialogar y argumentar"
+    },
+    {
+      "term": "esencial",
+      "type": "Adjective",
+      "example": "La justicia es un pilar *** para la democracia.",
+      "meaning_tr": "temel",
+      "meaning_en": "essential",
+      "meaning_uk": "суттєвий",
+      "meaning_es": "que es fundamental y necesario"
+    },
+    {
+      "term": "la moralidad",
+      "type": "Noun",
+      "example": "Debemos cuestionar la *** de nuestras decisiones políticas.",
+      "meaning_tr": "ahlak",
+      "meaning_en": "morality",
+      "meaning_uk": "мораль",
+      "meaning_es": "sistema de normas y valores"
+    },
+    {
+      "term": "la justicia",
+      "type": "Noun",
+      "example": "*** es el valor supremo en cualquier sociedad equitativa.",
+      "meaning_tr": "adalet",
+      "meaning_en": "justice",
+      "meaning_uk": "справедливість",
+      "meaning_es": "principio de dar a cada uno lo que le corresponde"
+    },
+    {
+      "term": "la equidad",
+      "type": "Noun",
+      "example": "Buscamos la *** en el acceso a la educación.",
+      "meaning_tr": "hakkaniyet",
+      "meaning_en": "equity",
+      "meaning_uk": "рівність",
+      "meaning_es": "igualdad de ánimo y justicia"
+    },
+    {
+      "term": "cuestionar",
+      "type": "Verb",
+      "example": "Un buen filósofo siempre debe *** las verdades establecidas.",
+      "meaning_tr": "sorgulamak",
+      "meaning_en": "to question",
+      "meaning_uk": "ставити під сумнів",
+      "meaning_es": "poner en duda algo"
+    },
+    {
+      "term": "subjetivo",
+      "type": "Adjective",
+      "example": "El gusto artístico es algo puramente ***.",
+      "meaning_tr": "öznel",
+      "meaning_en": "subjective",
+      "meaning_uk": "суб'єктивний",
+      "meaning_es": "que depende del modo de pensar de cada persona"
+    },
+    {
+      "term": "objetivo",
+      "type": "Adjective",
+      "example": "La ciencia intenta ser *** en sus análisis.",
+      "meaning_tr": "nesnel",
+      "meaning_en": "objective",
+      "meaning_uk": "об'єктивний",
+      "meaning_es": "que no se deja influir por sentimientos"
+    },
+    {
+      "term": "la empatía",
+      "type": "Noun",
+      "example": "*** es fundamental para una convivencia pacífica.",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "capacidad de identificarse con alguien"
+    },
+    {
+      "term": "la integridad",
+      "type": "Noun",
+      "example": "La *** personal requiere coherencia entre actos y principios.",
+      "meaning_tr": "dürüstlük",
+      "meaning_en": "integrity",
+      "meaning_uk": "чесність",
+      "meaning_es": "rectitud y honradez"
+    },
+    {
+      "term": "la alteridad",
+      "type": "Noun",
+      "example": "Reconocer la *** es aceptar al otro como un igual.",
+      "meaning_tr": "başkası olma durumu",
+      "meaning_en": "otherness",
+      "meaning_uk": "іншість",
+      "meaning_es": "condición de ser otro"
+    },
+    {
+      "term": "el imperativo",
+      "type": "Noun",
+      "example": "Kant hablaba del *** categórico en la moral.",
+      "meaning_tr": "buyruk",
+      "meaning_en": "imperative",
+      "meaning_uk": "імператив",
+      "meaning_es": "mandato o exigencia"
+    },
+    {
+      "term": "la prudencia",
+      "type": "Noun",
+      "example": "Actuar con *** evita muchos conflictos innecesarios.",
+      "meaning_tr": "tedbirlilik",
+      "meaning_en": "prudence",
+      "meaning_uk": "розсудливість",
+      "meaning_es": "capacidad de pensar antes de actuar"
+    },
+    {
+      "term": "desmitificar",
+      "type": "Verb",
+      "example": "Es necesario *** las falsas creencias sobre la historia.",
+      "meaning_tr": "mitlerden arındırmak",
+      "meaning_en": "to demystify",
+      "meaning_uk": "демістифікувати",
+      "meaning_es": "quitar el carácter mítico"
+    },
+    {
+      "term": "la resiliencia",
+      "type": "Noun",
+      "example": "La *** nos permite superar las adversidades de la vida.",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "capacidad de adaptación ante el trauma"
+    },
+    {
+      "term": "la benevolencia",
+      "type": "Noun",
+      "example": "Tratar a los demás con *** mejora el entorno social.",
+      "meaning_tr": "iyilikseverlik",
+      "meaning_en": "benevolence",
+      "meaning_uk": "доброзичливість",
+      "meaning_es": "inclinación a hacer el bien"
+    },
+    {
+      "term": "la coherencia",
+      "type": "Noun",
+      "example": "La *** entre palabras y hechos define el carácter.",
+      "meaning_tr": "tutarlılık",
+      "meaning_en": "coherence",
+      "meaning_uk": "послідовність",
+      "meaning_es": "relación lógica entre ideas o acciones"
+    },
+    {
+      "term": "la tolerancia",
+      "type": "Noun",
+      "example": "*** es respetar las opiniones ajenas aunque no las compartamos.",
+      "meaning_tr": "hoşgörü",
+      "meaning_en": "tolerance",
+      "meaning_uk": "толерантність",
+      "meaning_es": "respeto a las ideas de los demás"
+    },
+    {
+      "term": "la praxis",
+      "type": "Noun",
+      "example": "La teoría debe transformarse en *** para tener impacto.",
+      "meaning_tr": "uygulama",
+      "meaning_en": "praxis",
+      "meaning_uk": "практика",
+      "meaning_es": "práctica frente a la teoría"
+    },
+    {
+      "term": "el dogma",
+      "type": "Noun",
+      "example": "La ciencia se aleja de cualquier tipo de ***.",
+      "meaning_tr": "dogma",
+      "meaning_en": "dogma",
+      "meaning_uk": "догма",
+      "meaning_es": "proposición que se asienta como verdad innegable"
+    },
+    {
+      "term": "la libertad",
+      "type": "Noun",
+      "example": "*** implica la responsabilidad de nuestras propias elecciones.",
+      "meaning_tr": "özgürlük",
+      "meaning_en": "freedom",
+      "meaning_uk": "свобода",
+      "meaning_es": "facultad natural de obrar"
+    },
+    {
+      "term": "la dignidad",
+      "type": "Noun",
+      "example": "Todos los seres humanos tienen una *** inherente.",
+      "meaning_tr": "onur",
+      "meaning_en": "dignity",
+      "meaning_uk": "гідність",
+      "meaning_es": "valor inherente a la persona"
+    },
+    {
+      "term": "la razón",
+      "type": "Noun",
+      "example": "El uso de la *** es la herramienta principal de la filosofía.",
+      "meaning_tr": "akıl",
+      "meaning_en": "reason",
+      "meaning_uk": "розум",
+      "meaning_es": "capacidad de pensar y entender"
+    },
+    {
+      "term": "racional",
+      "type": "Adjective",
+      "example": "Debemos buscar soluciones *** a los problemas globales.",
+      "meaning_tr": "akılcı",
+      "meaning_en": "rational",
+      "meaning_uk": "раціональний",
+      "meaning_es": "conforme a la razón"
+    },
+    {
+      "term": "la falacia",
+      "type": "Noun",
+      "example": "Debemos evitar caer en cualquier *** argumentativa.",
+      "meaning_tr": "safsata",
+      "meaning_en": "fallacy",
+      "meaning_uk": "помилка",
+      "meaning_es": "engaño o argumento falso"
+    },
+    {
+      "term": "la autenticidad",
+      "type": "Noun",
+      "example": "Vivir con *** significa ser fiel a uno mismo.",
+      "meaning_tr": "özgünlük",
+      "meaning_en": "authenticity",
+      "meaning_uk": "автентичність",
+      "meaning_es": "cualidad de ser auténtico"
+    },
+    {
+      "term": "la trascendencia",
+      "type": "Noun",
+      "example": "La *** es una búsqueda espiritual en muchas culturas.",
+      "meaning_tr": "aşkınlık",
+      "meaning_en": "transcendence",
+      "meaning_uk": "трансцендентність",
+      "meaning_es": "superación de los límites"
+    },
+    {
+      "term": "la honestidad",
+      "type": "Noun",
+      "example": "La *** es la base de cualquier relación de confianza.",
+      "meaning_tr": "dürüstlük",
+      "meaning_en": "honesty",
+      "meaning_uk": "чесність",
+      "meaning_es": "cualidad de ser honesto"
+    },
+    {
+      "term": "la responsabilidad",
+      "type": "Noun",
+      "example": "La libertad conlleva una gran *** social.",
+      "meaning_tr": "sorumluluk",
+      "meaning_en": "responsibility",
+      "meaning_uk": "відповідальність",
+      "meaning_es": "capacidad de responder por actos propios"
+    },
+    {
+      "term": "la soberanía",
+      "type": "Noun",
+      "example": "La *** popular es el fundamento de la democracia.",
+      "meaning_tr": "egemenlik",
+      "meaning_en": "sovereignty",
+      "meaning_uk": "суверенітет",
+      "meaning_es": "poder supremo"
+    },
+    {
+      "term": "la alienación",
+      "type": "Noun",
+      "example": "Marx analizó la *** del trabajador en el sistema industrial.",
+      "meaning_tr": "yabancılaşma",
+      "meaning_en": "alienation",
+      "meaning_uk": "відчуження",
+      "meaning_es": "proceso de pérdida de la propia identidad"
+    },
+    {
+      "term": "la sabiduría",
+      "type": "Noun",
+      "example": "La *** no es solo acumular datos, sino entender la vida.",
+      "meaning_tr": "bilgelik",
+      "meaning_en": "wisdom",
+      "meaning_uk": "мудрість",
+      "meaning_es": "grado más alto de conocimiento"
+    },
+    {
+      "term": "la utopía",
+      "type": "Noun",
+      "example": "A veces, la *** sirve para orientar nuestros ideales.",
+      "meaning_tr": "ütopya",
+      "meaning_en": "utopia",
+      "meaning_uk": "утопія",
+      "meaning_es": "plan o sistema ideal pero irrealizable"
+    },
+    {
+      "term": "el altruismo",
+      "type": "Noun",
+      "example": "El *** es una forma elevada de conducta humana.",
+      "meaning_tr": "özgecilik",
+      "meaning_en": "altruism",
+      "meaning_uk": "альтруїзм",
+      "meaning_es": "procurar el bien ajeno sin esperar nada"
+    },
+    {
+      "term": "la hermenéutica",
+      "type": "Noun",
+      "example": "*** es el arte de interpretar textos complejos.",
+      "meaning_tr": "yorumbilim",
+      "meaning_en": "hermeneutics",
+      "meaning_uk": "герменевтика",
+      "meaning_es": "arte de la interpretación"
+    },
+    {
+      "term": "la contingencia",
+      "type": "Noun",
+      "example": "La vida humana está llena de ***.",
+      "meaning_tr": "olumsallık",
+      "meaning_en": "contingency",
+      "meaning_uk": "контингентність",
+      "meaning_es": "posibilidad de que algo suceda o no"
+    },
+    {
+      "term": "la voluntad",
+      "type": "Noun",
+      "example": "La *** de poder es un concepto central en Nietzsche.",
+      "meaning_tr": "isteme",
+      "meaning_en": "will",
+      "meaning_uk": "воля",
+      "meaning_es": "facultad de decidir y ordenar"
+    },
+    {
+      "term": "el paradigma",
+      "type": "Noun",
+      "example": "Estamos ante un cambio de *** científico.",
+      "meaning_tr": "paradigma",
+      "meaning_en": "paradigm",
+      "meaning_uk": "парадигма",
+      "meaning_es": "modelo o ejemplo de algo"
+    },
+    {
+      "term": "la mesura",
+      "type": "Noun",
+      "example": "Los griegos recomendaban la *** en todas las acciones.",
+      "meaning_tr": "ölçülülük",
+      "meaning_en": "moderation",
+      "meaning_uk": "поміркованість",
+      "meaning_es": "moderación y equilibrio"
+    },
+    {
+      "term": "la fenomenología",
+      "type": "Noun",
+      "example": "*** estudia las estructuras de la experiencia consciente.",
+      "meaning_tr": "görüngübilim",
+      "meaning_en": "phenomenology",
+      "meaning_uk": "феноменологія",
+      "meaning_es": "estudio de los fenómenos"
+    },
+    {
+      "term": "la empatía",
+      "type": "Noun",
+      "example": "Sin *** es difícil construir comunidades sólidas.",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "capacidad de entender los sentimientos ajenos"
+    },
+    {
+      "term": "la virtud",
+      "type": "Noun",
+      "example": "La *** es el camino medio entre dos extremos.",
+      "meaning_tr": "erdem",
+      "meaning_en": "virtue",
+      "meaning_uk": "чеснота",
+      "meaning_es": "hábito de obrar bien"
+    },
+    {
+      "term": "la dialéctica",
+      "type": "Noun",
+      "example": "La *** nos ayuda a llegar a síntesis más completas.",
+      "meaning_tr": "diyalektik",
+      "meaning_en": "dialectic",
+      "meaning_uk": "діалектика",
+      "meaning_es": "método de razonamiento"
+    },
+    {
+      "term": "la equidad",
+      "type": "Noun",
+      "example": "Promover la *** es un compromiso ético ineludible.",
+      "meaning_tr": "hakkaniyet",
+      "meaning_en": "equity",
+      "meaning_uk": "рівність",
+      "meaning_es": "justicia natural"
+    },
+    {
+      "term": "la integridad",
+      "type": "Noun",
+      "example": "Mantener la *** en momentos difíciles es un reto.",
+      "meaning_tr": "dürüstlük",
+      "meaning_en": "integrity",
+      "meaning_uk": "чесність",
+      "meaning_es": "honradez"
+    },
+    {
+      "term": "la otredad",
+      "type": "Noun",
+      "example": "El respeto a la *** es esencial en una sociedad diversa.",
+      "meaning_tr": "başkası olma durumu",
+      "meaning_en": "otherness",
+      "meaning_uk": "іншість",
+      "meaning_es": "cualidad de ser otro"
+    },
+    {
+      "term": "la prudencia",
+      "type": "Noun",
+      "example": "Actuar con *** es signo de madurez intelectual.",
+      "meaning_tr": "tedbirlilik",
+      "meaning_en": "prudence",
+      "meaning_uk": "розсудливість",
+      "meaning_es": "sensatez"
+    },
+    {
+      "term": "la resiliencia",
+      "type": "Noun",
+      "example": "La *** nos permite transformar el dolor en aprendizaje.",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "capacidad de superación"
+    },
+    {
+      "term": "la benevolencia",
+      "type": "Noun",
+      "example": "La *** es una virtud que suaviza las relaciones humanas.",
+      "meaning_tr": "iyilikseverlik",
+      "meaning_en": "benevolence",
+      "meaning_uk": "доброзичливість",
+      "meaning_es": "bondad"
+    },
+    {
+      "term": "la coherencia",
+      "type": "Noun",
+      "example": "Buscamos una *** total entre nuestros valores y acciones.",
+      "meaning_tr": "tutarlılık",
+      "meaning_en": "coherence",
+      "meaning_uk": "послідовність",
+      "meaning_es": "congruencia"
+    }
+  ]
+}

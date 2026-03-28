@@ -1,0 +1,231 @@
+{
+  "title": "Rutina Diaria (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "despertarse",
+      "type": "Verb",
+      "example": "Yo suelo *** a las siete de la mañana.",
+      "meaning_tr": "uyanmak",
+      "meaning_en": "to wake up",
+      "meaning_uk": "прокидатися",
+      "meaning_es": "empezar a estar despierto"
+    },
+    {
+      "term": "la alarma",
+      "type": "Noun",
+      "example": "Apago *** todos los días.",
+      "meaning_tr": "alarm",
+      "meaning_en": "alarm",
+      "meaning_uk": "будильник",
+      "meaning_es": "dispositivo que avisa a una hora determinada"
+    },
+    {
+      "term": "levantarse",
+      "type": "Verb",
+      "example": "Después de sonar la alarma, debo ***.",
+      "meaning_tr": "kalkmak",
+      "meaning_en": "to get up",
+      "meaning_uk": "вставати",
+      "meaning_es": "salir de la cama"
+    },
+    {
+      "term": "la ducha",
+      "type": "Noun",
+      "example": "Me gusta tomar *** con agua caliente.",
+      "meaning_tr": "duş",
+      "meaning_en": "shower",
+      "meaning_uk": "душ",
+      "meaning_es": "acto de lavarse bajo el agua"
+    },
+    {
+      "term": "lavarse",
+      "type": "Verb",
+      "example": "Es importante *** los dientes después de comer.",
+      "meaning_tr": "yıkamak",
+      "meaning_en": "to wash oneself",
+      "meaning_uk": "митися",
+      "meaning_es": "limpiarse con agua y jabón"
+    },
+    {
+      "term": "vestirse",
+      "type": "Verb",
+      "example": "Tengo que *** para ir al trabajo.",
+      "meaning_tr": "giyinmek",
+      "meaning_en": "to get dressed",
+      "meaning_uk": "одягатися",
+      "meaning_es": "ponerse la ropa"
+    },
+    {
+      "term": "el desayuno",
+      "type": "Noun",
+      "example": "Preparo *** muy temprano.",
+      "meaning_tr": "kahvaltı",
+      "meaning_en": "breakfast",
+      "meaning_uk": "сніданок",
+      "meaning_es": "primera comida del día"
+    },
+    {
+      "term": "peinarse",
+      "type": "Verb",
+      "example": "Ella necesita *** antes de salir.",
+      "meaning_tr": "taranmak",
+      "meaning_en": "to comb one's hair",
+      "meaning_uk": "розчісуватися",
+      "meaning_es": "arreglarse el cabello"
+    },
+    {
+      "term": "salir",
+      "type": "Verb",
+      "example": "Voy a *** de casa a las ocho.",
+      "meaning_tr": "çıkmak",
+      "meaning_en": "to leave",
+      "meaning_uk": "виходити",
+      "meaning_es": "ir a un lugar fuera de casa"
+    },
+    {
+      "term": "el trabajo",
+      "type": "Noun",
+      "example": "Llego a *** en autobús.",
+      "meaning_tr": "iş",
+      "meaning_en": "work",
+      "meaning_uk": "робота",
+      "meaning_es": "lugar donde uno ejerce su profesión"
+    },
+    {
+      "term": "trabajar",
+      "type": "Verb",
+      "example": "Debo *** ocho horas hoy.",
+      "meaning_tr": "çalışmak",
+      "meaning_en": "to work",
+      "meaning_uk": "працювати",
+      "meaning_es": "ejercer una actividad profesional"
+    },
+    {
+      "term": "el almuerzo",
+      "type": "Noun",
+      "example": "Como *** a la una de la tarde.",
+      "meaning_tr": "öğle yemeği",
+      "meaning_en": "lunch",
+      "meaning_uk": "обід",
+      "meaning_es": "comida de mediodía"
+    },
+    {
+      "term": "luego",
+      "type": "Adverb",
+      "example": "Estudio español y *** veo la televisión.",
+      "meaning_tr": "sonra",
+      "meaning_en": "later",
+      "meaning_uk": "потім",
+      "meaning_es": "después en el tiempo"
+    },
+    {
+      "term": "regresar",
+      "type": "Verb",
+      "example": "Voy a *** a mi casa a las seis.",
+      "meaning_tr": "dönmek",
+      "meaning_en": "to return",
+      "meaning_uk": "повертатися",
+      "meaning_es": "volver a un lugar"
+    },
+    {
+      "term": "preparar",
+      "type": "Verb",
+      "example": "Voy a *** la cena para mi familia.",
+      "meaning_tr": "hazırlamak",
+      "meaning_en": "to prepare",
+      "meaning_uk": "готувати",
+      "meaning_es": "hacer algo necesario"
+    },
+    {
+      "term": "la cena",
+      "type": "Noun",
+      "example": "Comemos *** muy ligero por la noche.",
+      "meaning_tr": "akşam yemeği",
+      "meaning_en": "dinner",
+      "meaning_uk": "вечеря",
+      "meaning_es": "última comida del día"
+    },
+    {
+      "term": "limpiar",
+      "type": "Verb",
+      "example": "Es necesario *** la casa los sábados.",
+      "meaning_tr": "temizlemek",
+      "meaning_en": "to clean",
+      "meaning_uk": "прибирати",
+      "meaning_es": "quitar la suciedad"
+    },
+    {
+      "term": "leer",
+      "type": "Verb",
+      "example": "Me gusta *** un libro antes de dormir.",
+      "meaning_tr": "okumak",
+      "meaning_en": "to read",
+      "meaning_uk": "читати",
+      "meaning_es": "pasar la vista por lo escrito"
+    },
+    {
+      "term": "descansar",
+      "type": "Verb",
+      "example": "Necesito *** un poco después del trabajo.",
+      "meaning_tr": "dinlenmek",
+      "meaning_en": "to rest",
+      "meaning_uk": "відпочивати",
+      "meaning_es": "estar tranquilo sin hacer nada"
+    },
+    {
+      "term": "acostarse",
+      "type": "Verb",
+      "example": "Me gusta *** temprano los domingos.",
+      "meaning_tr": "yatmak",
+      "meaning_en": "to go to bed",
+      "meaning_uk": "лягати спати",
+      "meaning_es": "meterse en la cama para dormir"
+    },
+    {
+      "term": "cansado",
+      "type": "Adjective",
+      "example": "Estoy muy *** después de estudiar.",
+      "meaning_tr": "yorgun",
+      "meaning_en": "tired",
+      "meaning_uk": "втомлений",
+      "meaning_es": "que siente falta de energía"
+    },
+    {
+      "term": "después",
+      "type": "Preposition",
+      "example": "*** de comer, me gusta caminar.",
+      "meaning_tr": "sonra",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "con posterioridad a"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "Quiero dormir, *** tengo mucho trabajo.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "a veces",
+      "type": "Adverb",
+      "example": "*** voy al cine los viernes.",
+      "meaning_tr": "bazen",
+      "meaning_en": "sometimes",
+      "meaning_uk": "іноді",
+      "meaning_es": "en ocasiones"
+    },
+    {
+      "term": "siempre",
+      "type": "Adverb",
+      "example": "Yo *** bebo café por la mañana.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "en todo momento"
+    }
+  ]
+}

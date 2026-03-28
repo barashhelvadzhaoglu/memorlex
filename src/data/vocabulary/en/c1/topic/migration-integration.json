@@ -1,0 +1,546 @@
+{
+  "title": "Migration & Integration (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the diaspora",
+      "type": "Noun",
+      "example": "The musician felt a strong connection to ***, even though she had lived abroad for decades.",
+      "meaning_tr": "diaspora",
+      "meaning_en": "The dispersion of any people from their original homeland.",
+      "meaning_uk": "діаспора",
+      "meaning_es": "la diáspora"
+    },
+    {
+      "term": "assimilation",
+      "type": "Noun",
+      "example": "The process of *** can be challenging for individuals who move to a new country.",
+      "meaning_tr": "asimülasyon, uyum sağlama",
+      "meaning_en": "The process of adapting or adjusting to the customs and attitudes of a group or nation.",
+      "meaning_uk": "асиміляція",
+      "meaning_es": "la asimilación"
+    },
+    {
+      "term": "integration",
+      "type": "Noun",
+      "example": "Successful *** into a new society requires effort from both immigrants and the host community.",
+      "meaning_tr": "entegrasyon, bütünleşme",
+      "meaning_en": "The process of combining or coordinating things so they work together.",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "la integración"
+    },
+    {
+      "term": "expatriate",
+      "type": "Noun",
+      "example": "Many *** professionals find opportunities in global financial hubs.",
+      "meaning_tr": "vatandaşlıktan çıkmış kimse, yurt dışına yerleşmiş vatandaş",
+      "meaning_en": "A person living outside their native country.",
+      "meaning_uk": "емігрант",
+      "meaning_es": "el expatriado"
+    },
+    {
+      "term": "refugee",
+      "type": "Noun",
+      "example": "The organization provides aid to *** fleeing conflict zones.",
+      "meaning_tr": "mülteci",
+      "meaning_en": "A person who has been forced to leave their country or home in order to escape war, persecution, or natural disaster.",
+      "meaning_uk": "біженець",
+      "meaning_es": "el refugiado"
+    },
+    {
+      "term": "asylum seeker",
+      "type": "Noun",
+      "example": "The ***'s application for political protection was under review.",
+      "meaning_tr": "iltica talebinde bulunan kişi",
+      "meaning_en": "A person who has left their country and is asking for protection from another country.",
+      "meaning_uk": "шукач притулку",
+      "meaning_es": "el solicitante de asilo"
+    },
+    {
+      "term": "transnational",
+      "type": "Adjective",
+      "example": "The company operates on a *** level, with branches in multiple continents.",
+      "meaning_tr": "uluslararası, birden çok ülkeyi ilgilendiren",
+      "meaning_en": "Extending or operating across national boundaries.",
+      "meaning_uk": "транснаціональний",
+      "meaning_es": "transnacional"
+    },
+    {
+      "term": "multiculturalism",
+      "type": "Noun",
+      "example": "The city is a vibrant example of ***, with people from all over the world living together.",
+      "meaning_tr": "çokkültürlülük",
+      "meaning_en": "The presence of, or support for, the presence of several distinct cultural or ethnic groups within a society.",
+      "meaning_uk": "мультикультуралізм",
+      "meaning_es": "el multiculturalismo"
+    },
+    {
+      "term": "acculturation",
+      "type": "Noun",
+      "example": "The children are undergoing ***, learning the language and customs of their new home.",
+      "meaning_tr": "kültürleşme",
+      "meaning_en": "The process of cultural change and psychological change that results following meeting between cultures.",
+      "meaning_uk": "акультурація",
+      "meaning_es": "la aculturación"
+    },
+    {
+      "term": "detention center",
+      "type": "Noun",
+      "example": "Migrants are often held in *** while their immigration status is processed.",
+      "meaning_tr": "gözaltı merkezi",
+      "meaning_en": "A place where people are held, especially as punishment or while awaiting trial or deportation.",
+      "meaning_uk": "центр утримання",
+      "meaning_es": "el centro de detención"
+    },
+    {
+      "term": "deportation",
+      "type": "Noun",
+      "example": "The threat of *** looms over undocumented immigrants.",
+      "meaning_tr": "sınır dışı etme, deportasyon",
+      "meaning_en": "The action of expelling a foreigner from a country.",
+      "meaning_uk": "депортація",
+      "meaning_es": "la deportación"
+    },
+    {
+      "term": "remittance",
+      "type": "Noun",
+      "example": "Many families rely on *** sent from relatives working abroad.",
+      "meaning_tr": "havale, geri ödeme",
+      "meaning_en": "A sum of money sent, especially by mail or by electronic transfer.",
+      "meaning_uk": "грошовий переказ",
+      "meaning_es": "la remesa"
+    },
+    {
+      "term": "undocumented",
+      "type": "Adjective",
+      "example": "The debate over *** immigration continues to be a major political issue.",
+      "meaning_tr": "belgesiz, kayıtsız",
+      "meaning_en": "Not having the necessary documents or permits.",
+      "meaning_uk": "недокументований",
+      "meaning_es": "indocumentado"
+    },
+    {
+      "term": "xenophobia",
+      "type": "Noun",
+      "example": "Education is crucial in combating *** and promoting understanding.",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "Dislike of or prejudice against people from other countries.",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "la xenofobia"
+    },
+    {
+      "term": "brain drain",
+      "type": "Noun",
+      "example": "The country suffers from a significant *** as its most talented individuals seek opportunities elsewhere.",
+      "meaning_tr": "beyin göçü",
+      "meaning_en": "The emigration of highly trained or qualified people from a particular country.",
+      "meaning_uk": "відтік мізків",
+      "meaning_es": "la fuga de cerebros"
+    },
+    {
+      "term": "brain gain",
+      "type": "Noun",
+      "example": "The influx of skilled professionals can lead to *** for the host nation.",
+      "meaning_tr": "beyin akışı (girişi)",
+      "meaning_en": "The immigration of highly trained or qualified people to a particular country.",
+      "meaning_uk": "приплив мізків",
+      "meaning_es": "la ganancia de cerebros"
+    },
+    {
+      "term": "resettlement",
+      "type": "Noun",
+      "example": "The government announced a new program for the *** of refugees.",
+      "meaning_tr": "yeniden yerleştirme",
+      "meaning_en": "The process of establishing someone in a new place to live.",
+      "meaning_uk": "переселення",
+      "meaning_es": "el reasentamiento"
+    },
+    {
+      "term": "enclave",
+      "type": "Noun",
+      "example": "The immigrant community formed a distinct *** within the city.",
+      "meaning_tr": "bölge, yerleşim yeri (genellikle belirli bir etnik grubun yaşadığı)",
+      "meaning_en": "A district or country viewed as detached from a larger area; an area inhabited by a particular group of people.",
+      "meaning_uk": "анклав",
+      "meaning_es": "el enclave"
+    },
+    {
+      "term": "ghetto",
+      "type": "Noun",
+      "example": "Historically, ***s were areas where specific ethnic or racial groups were forced to live.",
+      "meaning_tr": "getto",
+      "meaning_en": "A part of a city, especially a slum area, occupied by a minority group or groups.",
+      "meaning_uk": "гетто",
+      "meaning_es": "el gueto"
+    },
+    {
+      "term": "marginalization",
+      "type": "Noun",
+      "example": "Many immigrants face *** due to language barriers and discrimination.",
+      "meaning_tr": "marjinalleşme, dışlanma",
+      "meaning_en": "The process of making a person or group of people feel like they are unimportant or don't belong.",
+      "meaning_uk": "маргіналізація",
+      "meaning_es": "la marginación"
+    },
+    {
+      "term": "integrationist",
+      "type": "Adjective",
+      "example": "The politician advocated for *** policies to help newcomers adapt.",
+      "meaning_tr": "entegrasyonist, bütünleştirici",
+      "meaning_en": "Promoting or favoring integration.",
+      "meaning_uk": "інтеграціоністський",
+      "meaning_es": "integracionista"
+    },
+    {
+      "term": "assimilationist",
+      "type": "Adjective",
+      "example": "Critics argued that the school's approach was too ***, discouraging cultural diversity.",
+      "meaning_tr": "asimülasyoncu, uyum sağlatıcı",
+      "meaning_en": "Favoring or promoting assimilation.",
+      "ukrainian": "асиміляціоністський",
+      "es": "asimilacionista"
+    },
+    {
+      "term": "cosmopolitan",
+      "type": "Adjective",
+      "example": "The city's vibrant atmosphere and diverse population made it feel truly ***.",
+      "meaning_tr": "kozmopolit, dünya vatandaşı",
+      "meaning_en": "Including people from many different countries and cultures.",
+      "meaning_uk": "космополітичний",
+      "meaning_es": "cosmopolita"
+    },
+    {
+      "term": "nomadic",
+      "type": "Adjective",
+      "example": "Historically, *** tribes followed herds across vast plains.",
+      "meaning_tr": "göçebe, konar göçer",
+      "meaning_en": "Living the life of a nomad; wandering.",
+      "meaning_uk": "кочовий",
+      "meaning_es": "nómada"
+    },
+    {
+      "term": "sedentary",
+      "type": "Adjective",
+      "example": "Unlike their *** neighbors, the family moved frequently for work.",
+      "meaning_tr": "yerleşik",
+      "meaning_en": "(Of a person) tending to spend much time seated; somewhat inactive.",
+      "meaning_uk": "осілий",
+      "meaning_es": "sedentario"
+    },
+    {
+      "term": "diasporic",
+      "type": "Adjective",
+      "example": "The novel explored the *** experience of displacement and longing.",
+      "meaning_tr": "diasporik",
+      "meaning_en": "Relating to or characteristic of a diaspora.",
+      "meaning_uk": "діаспорний",
+      "meaning_es": "diaspórico"
+    },
+    {
+      "term": "sojourner",
+      "type": "Noun",
+      "example": "He was a *** in a foreign land, planning to return home eventually.",
+      "meaning_tr": "geçici ikamet eden kimse, konuk",
+      "meaning_en": "A person who lives somewhere temporarily.",
+      "meaning_uk": "тимчасовий мешканець",
+      "meaning_es": "el sojourner"
+    },
+    {
+      "term": "emigrate",
+      "type": "Verb",
+      "example": "Many people *** from their home countries in search of better economic opportunities.",
+      "meaning_tr": "göç etmek (dış ülkeye)",
+      "meaning_en": "To leave one's own country in order to settle permanently in another.",
+      "meaning_uk": "емігрувати",
+      "meaning_es": "emigrar"
+    },
+    {
+      "term": "immigrate",
+      "type": "Verb",
+      "example": "She decided to *** to Canada after completing her studies.",
+      "meaning_tr": "göç etmek (yeni ülkeye)",
+      "meaning_en": "To come to live in another country and especially by permanent residence.",
+      "meaning_uk": "іммігрувати",
+      "meaning_es": "inmigrar"
+    },
+    {
+      "term": "migrate",
+      "type": "Verb",
+      "example": "Birds *** south for the winter, seeking warmer climates.",
+      "meaning_tr": "göç etmek (hayvanlar için de kullanılır)",
+      "meaning_en": "To move from one place to another, especially in order to find work or better living conditions.",
+      "meaning_uk": "мігрувати",
+      "meaning_es": "migrar"
+    },
+    {
+      "term": "displace",
+      "type": "Verb",
+      "example": "Natural disasters can *** entire communities.",
+      "meaning_tr": "yerinden etmek, göçe zorlamak",
+      "meaning_en": "To force someone to leave their home or country.",
+      "meaning_uk": "витіснити",
+      "meaning_es": "desplazar"
+    },
+    {
+      "term": "integrate",
+      "type": "Verb",
+      "example": "The goal is to help refugees *** into the local workforce.",
+      "meaning_tr": "entegre etmek, bütünleştirmek",
+      "meaning_en": "To combine (one thing) with another so that they become a whole.",
+      "meaning_uk": "інтегрувати",
+      "es": "integrar"
+    },
+    {
+      "term": "assimilate",
+      "type": "Verb",
+      "example": "It can take years for immigrants to fully *** into a new culture.",
+      "meaning_tr": "asimile etmek, uyum sağlamak",
+      "meaning_en": "To take in and understand fully; to absorb and integrate (people, ideas, or culture) into a wider society.",
+      "meaning_uk": "асимілювати",
+      "es": "asimilar"
+    },
+    {
+      "term": "naturalize",
+      "type": "Verb",
+      "example": "She worked hard to *** and become a citizen of her new country.",
+      "meaning_tr": "vatandaşlığa kabul etmek, doğal hale getirmek",
+      "meaning_en": "To admit (an alien) to the citizenship of a country.",
+      "meaning_uk": "натуралізувати",
+      "es": "naturalizar"
+    },
+    {
+      "term": "exile",
+      "type": "Verb",
+      "example": "The political dissidents were ***d from their homeland.",
+      "meaning_tr": "sürgün etmek",
+      "meaning_en": "The state of being barred from one's native country or social group; banishment.",
+      "meaning_uk": "вигнати",
+      "es": "exiliar"
+    },
+    {
+      "term": "detain",
+      "type": "Verb",
+      "example": "Authorities decided to *** the suspects pending further investigation.",
+      "meaning_tr": "gözaltına almak, alıkoymak",
+      "meaning_en": "To keep (someone) in official custody, typically for questioning about a crime or in politically sensitive situations.",
+      "meaning_uk": "затримати",
+      "es": "detener"
+    },
+    {
+      "term": "repatriate",
+      "type": "Verb",
+      "example": "The government facilitated the *** of its citizens stranded abroad.",
+      "meaning_tr": "vatana geri göndermek",
+      "meaning_en": "To send or bring back (a person, a thing, or a right) to their own country.",
+      "meaning_uk": "репатріювати",
+      "es": "repatriar"
+    },
+    {
+      "term": "persecute",
+      "type": "Verb",
+      "example": "They fled their country to escape those who sought to *** them.",
+      "meaning_tr": "zulmetmek, işkence etmek",
+      "meaning_en": "To subject (someone) to hostility and ill-treatment, especially because of their race or political or religious beliefs.",
+      "meaning_uk": "переслідувати",
+      "es": "perseguir"
+    },
+    {
+      "term": "discriminate",
+      "type": "Verb",
+      "example": "It is illegal to *** against someone based on their origin.",
+      "meaning_tr": "ayrımcılık yapmak",
+      "meaning_en": "To treat (a person or group of people) unfairly in a way that is based on prejudice.",
+      "meaning_uk": "дискримінувати",
+      "es": "discriminar"
+    },
+    {
+      "term": "marginalize",
+      "type": "Verb",
+      "example": "The community felt ***d by the lack of investment in their area.",
+      "meaning_tr": "marjinalleştirmek, dışlamak",
+      "meaning_en": "To treat (a person or group of people) as insignificant or peripheral.",
+      "meaning_uk": "маргіналізувати",
+      "es": "marginar"
+    },
+    {
+      "term": "empower",
+      "type": "Verb",
+      "example": "Educational programs aim to *** immigrants with the skills they need.",
+      "meaning_tr": "güçlendirmek, yetki vermek",
+      "meaning_en": "To give (someone) the authority or power to do something; to make (someone) stronger and more confident.",
+      "meaning_uk": "надати повноваження",
+      "es": "empoderar"
+    },
+    {
+      "term": "uplift",
+      "type": "Verb",
+      "example": "Stories of successful integration can *** and inspire others.",
+      "meaning_tr": "yükseltmek, neşelendirmek",
+      "meaning_en": "To raise the spirits of; to encourage.",
+      "meaning_uk": "підносити",
+      "es": "elevar"
+    },
+    {
+      "term": "detrimental",
+      "type": "Adjective",
+      "example": "Lack of social support can be *** to the mental health of migrants.",
+      "meaning_tr": "zararlı, hasar verici",
+      "meaning_en": "Tending to cause harm.",
+      "meaning_uk": "шкідливий",
+      "es": "perjudicial"
+    },
+    {
+      "term": "beneficial",
+      "type": "Adjective",
+      "example": "Learning the local language is *** for integrating into society.",
+      "meaning_tr": "faydalı, yararlı",
+      "meaning_en": "Favorable or advantageous; resulting in good.",
+      "meaning_uk": "корисний",
+      "es": "beneficioso"
+    },
+    {
+      "term": "culturally sensitive",
+      "type": "Adjective",
+      "example": "Healthcare providers must be *** to the diverse backgrounds of their patients.",
+      "meaning_tr": "kültürel olarak hassas",
+      "meaning_en": "Aware of and respectful of cultural differences.",
+      "meaning_uk": "культурно чутливий",
+      "es": "culturalmente sensible"
+    },
+    {
+      "term": "social cohesion",
+      "type": "Noun",
+      "example": "Policies that promote *** are vital for a harmonious society.",
+      "meaning_tr": "sosyal uyum, toplumsal bütünlük",
+      "meaning_en": "The ability of a society to live together peacefully and harmoniously.",
+      "meaning_uk": "соціальна згуртованість",
+      "es": "cohesión social"
+    },
+    {
+      "term": "societal",
+      "type": "Adjective",
+      "example": "The impact of migration on *** structures is profound.",
+      "meaning_tr": "toplumsal, sosyetal",
+      "meaning_en": "Relating to society or social organization.",
+      "meaning_uk": "суспільний",
+      "es": "societal"
+    },
+    {
+      "term": "linguistic barrier",
+      "type": "Noun",
+      "example": "The *** often hinders communication and access to services.",
+      "meaning_tr": "dil engeli",
+      "meaning_en": "A difficulty in communication due to differences in language.",
+      "meaning_uk": "мовний бар'єр",
+      "es": "barrera lingüística"
+    },
+    {
+      "term": "cultural shock",
+      "type": "Noun",
+      "example": "Experiencing *** is a common part of adjusting to a new environment.",
+      "meaning_tr": "kültür şoku",
+      "meaning_en": "The feeling of disorientation experienced by someone when suddenly subjected to an unfamiliar culture, way of life, or set of attitudes.",
+      "meaning_uk": "культурний шок",
+      "es": "choque cultural"
+    },
+    {
+      "term": "intercultural dialogue",
+      "type": "Noun",
+      "example": "Promoting *** is essential for fostering understanding between different communities.",
+      "meaning_tr": "kültürlerarası diyalog",
+      "meaning_en": "Communication and interaction between people from different cultural backgrounds.",
+      "ukrainian": "міжкультурний діалог",
+      "es": "diálogo intercultural"
+    },
+    {
+      "term": "transcultural",
+      "type": "Adjective",
+      "example": "The artist's work explored *** themes, blending influences from various cultures.",
+      "meaning_tr": "kültürlerarası, farklı kültürlere ait",
+      "meaning_en": "Involving or relating to the interaction of people from different cultures.",
+      "meaning_uk": "транскультурний",
+      "es": "transcultural"
+    },
+    {
+      "term": "assimilationist pressure",
+      "type": "Noun",
+      "example": "Migrants sometimes face *** from the dominant culture.",
+      "meaning_tr": "uyum sağlama baskısı",
+      "meaning_en": "The social or institutional expectation for newcomers to adopt the customs and norms of the host society.",
+      "meaning_uk": "асиміляційний тиск",
+      "es": "presión asimilacionista"
+    },
+    {
+      "term": "cultural preservation",
+      "type": "Noun",
+      "example": "Many immigrant communities strive for *** of their traditions.",
+      "meaning_tr": "kültürel koruma",
+      "meaning_en": "The effort to maintain and protect cultural heritage.",
+      "meaning_uk": "збереження культури",
+      "es": "preservación cultural"
+    },
+    {
+      "term": "social capital",
+      "type": "Noun",
+      "example": "Strong *** networks can greatly aid in the integration process.",
+      "meaning_tr": "sosyal sermaye",
+      "meaning_en": "The networks of relationships among people who live and work in a particular society, enabling that society to function effectively.",
+      "meaning_uk": "соціальний капітал",
+      "es": "capital social"
+    },
+    {
+      "term": "economic migrant",
+      "type": "Noun",
+      "example": "The majority of people crossing the border were ***s seeking employment.",
+      "meaning_tr": "ekonomik göçmen",
+      "meaning_en": "A person who moves from one country or area to another for the purpose of finding work.",
+      "meaning_uk": "економічний мігрант",
+      "es": "migrante económico"
+    },
+    {
+      "term": "forced migration",
+      "type": "Noun",
+      "example": " *** can occur due to war, persecution, or environmental disaster.",
+      "meaning_tr": "zorunlu göç",
+      "meaning_en": "The displacement of people who have been forced to leave their homes.",
+      "meaning_uk": "примусова міграція",
+      "es": "migración forzada"
+    },
+    {
+      "term": "voluntary migration",
+      "type": "Noun",
+      "example": " *** is when people choose to move to a new place for better opportunities.",
+      "meaning_tr": "gönüllü göç",
+      "meaning_en": "The movement of people from one place to another by choice.",
+      "meaning_uk": "добровільна міграція",
+      "es": "migración voluntaria"
+    },
+    {
+      "term": "settler",
+      "type": "Noun",
+      "example": "The first ***s in the region faced many challenges establishing their farms.",
+      "meaning_tr": "yerleşimci",
+      "meaning_en": "A person who settles in a new country or area.",
+      "meaning_uk": "осадник",
+      "es": "el colono"
+    },
+    {
+      "term": "indigenous",
+      "type": "Adjective",
+      "example": "The country has a rich history of *** cultures.",
+      "meaning_tr": "yerli, yerel",
+      "meaning_en": "Originating or occurring naturally in a particular place; native.",
+      "meaning_uk": "корінний",
+      "es": "indígena"
+    },
+    {
+      "term": "acculturation gap",
+      "type": "Noun",
+      "example": "Differences in *** between parents and children can lead to family conflict.",
+      "meaning_tr": "kültürleşme farkı",
+      "meaning_en": "The difference in the degree of acculturation between generations or groups within a society.",
+      "meaning_uk": "розрив в акультурації",
+      "es": "brecha de aculturación"
+    }
+  ]
+}

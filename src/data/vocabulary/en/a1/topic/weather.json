@@ -1,0 +1,141 @@
+{
+  "title": "Weather & Seasons (A1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the sun",
+      "type": "Noun",
+      "example": "*** is very hot today.",
+      "meaning_tr": "güneş",
+      "meaning_en": "the star around which the earth orbits",
+      "meaning_uk": "сонце",
+      "meaning_es": "el sol"
+    },
+    {
+      "term": "a cloud",
+      "type": "Noun",
+      "example": "There is *** in the sky.",
+      "meaning_tr": "bulut",
+      "meaning_en": "a white or grey mass in the sky",
+      "meaning_uk": "хмара",
+      "meaning_es": "una nube"
+    },
+    {
+      "term": "rain",
+      "type": "Noun",
+      "example": "I need an umbrella because of the ***.",
+      "meaning_tr": "yağmur",
+      "meaning_en": "water falling from the sky",
+      "meaning_uk": "дощ",
+      "meaning_es": "la lluvia"
+    },
+    {
+      "term": "snow",
+      "type": "Noun",
+      "example": "The children play in the ***.",
+      "meaning_tr": "kar",
+      "meaning_en": "frozen water falling as white flakes",
+      "meaning_uk": "сніг",
+      "meaning_es": "la nieve"
+    },
+    {
+      "term": "hot",
+      "type": "Adjective",
+      "example": "It is very *** in summer.",
+      "meaning_tr": "sıcak",
+      "meaning_en": "having a high temperature",
+      "meaning_uk": "гарячий",
+      "meaning_es": "caliente"
+    },
+    {
+      "term": "cold",
+      "type": "Adjective",
+      "example": "Wear a coat because it is ***.",
+      "meaning_tr": "soğuk",
+      "meaning_en": "having a low temperature",
+      "meaning_uk": "холодний",
+      "meaning_es": "frío"
+    },
+    {
+      "term": "to rain",
+      "type": "Verb",
+      "example": "It is going to *** tomorrow.",
+      "meaning_tr": "yağmur yağmak",
+      "meaning_en": "to have water fall from the sky",
+      "meaning_uk": "йти (про дощ)",
+      "meaning_es": "llover"
+    },
+    {
+      "term": "summer",
+      "type": "Noun",
+      "example": "I like swimming in ***.",
+      "meaning_tr": "yaz",
+      "meaning_en": "the warmest season of the year",
+      "meaning_uk": "літо",
+      "meaning_es": "el verano"
+    },
+    {
+      "term": "winter",
+      "type": "Noun",
+      "example": "We go skiing in ***.",
+      "meaning_tr": "kış",
+      "meaning_en": "the coldest season of the year",
+      "meaning_uk": "зима",
+      "meaning_es": "el invierno"
+    },
+    {
+      "term": "spring",
+      "type": "Noun",
+      "example": "Flowers grow in ***.",
+      "meaning_tr": "ilkbahar",
+      "meaning_en": "the season between winter and summer",
+      "meaning_uk": "весна",
+      "meaning_es": "la primavera"
+    },
+    {
+      "term": "autumn",
+      "type": "Noun",
+      "example": "The leaves fall in ***.",
+      "meaning_tr": "sonbahar",
+      "meaning_en": "the season between summer and winter",
+      "meaning_uk": "осінь",
+      "meaning_es": "el otoño"
+    },
+    {
+      "term": "windy",
+      "type": "Adjective",
+      "example": "It is very *** outside today.",
+      "meaning_tr": "rüzgarlı",
+      "meaning_en": "with a lot of wind",
+      "meaning_uk": "вітряний",
+      "meaning_es": "ventoso"
+    },
+    {
+      "term": "sunny",
+      "type": "Adjective",
+      "example": "It is a *** day at the beach.",
+      "meaning_tr": "güneşli",
+      "meaning_en": "with a lot of sun",
+      "meaning_uk": "сонячний",
+      "meaning_es": "soleado"
+    },
+    {
+      "term": "stormy",
+      "type": "Adjective",
+      "example": "Stay inside because it is ***.",
+      "meaning_tr": "fırtınalı",
+      "meaning_en": "with strong wind and rain",
+      "meaning_uk": "штормовий",
+      "meaning_es": "tormentoso"
+    },
+    {
+      "term": "outside",
+      "type": "Adverb",
+      "example": "It is beautiful *** today.",
+      "meaning_tr": "dışarıda",
+      "meaning_en": "not inside a building",
+      "meaning_uk": "надворі",
+      "meaning_es": "afuera"
+    }
+  ]
+}

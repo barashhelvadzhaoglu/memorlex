@@ -1,0 +1,546 @@
+{
+  "title": "Psychologie & Gefühle (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Resilienz",
+      "type": "Noun",
+      "example": "Psychologische *** ist entscheidend, um Krisen erfolgreich zu bewältigen.",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "resiliencia"
+    },
+    {
+      "term": "die Ambivalenz",
+      "type": "Noun",
+      "example": "Er empfand eine tiefe *** gegenüber der neuen beruflichen Herausforderung.",
+      "meaning_tr": "kararsızlık",
+      "meaning_en": "ambivalence",
+      "meaning_uk": "амбівалентність",
+      "meaning_es": "ambivalencia"
+    },
+    {
+      "term": "die Empathie",
+      "type": "Noun",
+      "example": "Ein guter Therapeut zeichnet sich durch hohe *** aus.",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "empatía"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Nach dem Erfolg war die *** im Team förmlich greifbar.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Melancholie",
+      "type": "Noun",
+      "example": "Der Herbst löst bei ihm oft eine leichte *** aus.",
+      "meaning_tr": "hüzün",
+      "meaning_en": "melancholy",
+      "meaning_uk": "меланхолія",
+      "meaning_es": "melancolía"
+    },
+    {
+      "term": "die Intrinsik",
+      "type": "Noun",
+      "example": "Seine *** treibt ihn dazu an, ständig Neues zu lernen.",
+      "meaning_tr": "içsel motivasyon",
+      "meaning_en": "intrinsic motivation",
+      "meaning_uk": "внутрішня мотивація",
+      "meaning_es": "motivación intrínseca"
+    },
+    {
+      "term": "die Apathie",
+      "type": "Noun",
+      "example": "Der Patient verfiel nach dem Schock in eine tiefe ***.",
+      "meaning_tr": "ilgisizlik",
+      "meaning_en": "apathy",
+      "meaning_uk": "апатія",
+      "meaning_es": "apatía"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die plötzliche *** über den Sieg hielt nicht lange an.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Frustration",
+      "type": "Noun",
+      "example": "Die *** über das Scheitern war deutlich in seinem Gesicht zu sehen.",
+      "meaning_tr": "hayal kırıklığı",
+      "meaning_en": "frustration",
+      "meaning_uk": "розчарування",
+      "meaning_es": "frustración"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** verflog schnell, als die Realität zurückkehrte.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Desillusionierung",
+      "type": "Noun",
+      "example": "Nach der Entlassung folgte eine Phase der bitteren ***.",
+      "meaning_tr": "hayal kırıklığına uğrama",
+      "meaning_en": "disillusionment",
+      "meaning_uk": "розчарування",
+      "meaning_es": "desilusión"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Trotz der *** blieb er realistisch.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Introvertiertheit",
+      "type": "Noun",
+      "example": "Seine *** hindert ihn manchmal daran, auf andere zuzugehen.",
+      "meaning_tr": "içe dönüklük",
+      "meaning_en": "introversion",
+      "meaning_uk": "інтровертність",
+      "meaning_es": "introversión"
+    },
+    {
+      "term": "die Extrovertiertheit",
+      "type": "Noun",
+      "example": "Ihre *** macht sie zur perfekten Rednerin.",
+      "meaning_tr": "dışa dönüklük",
+      "meaning_en": "extroversion",
+      "meaning_uk": "екстравертність",
+      "meaning_es": "extroversión"
+    },
+    {
+      "term": "die Agonie",
+      "type": "Noun",
+      "example": "Er durchlebte eine lange *** der Ungewissheit.",
+      "meaning_tr": "ıstırap",
+      "meaning_en": "agony",
+      "meaning_uk": "агонія",
+      "meaning_es": "agonía"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war ansteckend für das ganze Publikum.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Er konnte die *** kaum verbergen.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** nach der bestandenen Prüfung war groß.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Ohne die *** wäre das Projekt nicht möglich gewesen.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die anfängliche *** schlug bald in Skepsis um.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Trotz der *** gab es ernste Bedenken.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Ihre *** wirkte auf manche fast übertrieben.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** der Menge war ohrenbetäubend.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Nach der *** kam die Ernüchterung.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** ließ ihn alle Sorgen vergessen.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Er versuchte, die *** zu kontrollieren.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** hielt den ganzen Abend an.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Seine *** war für alle spürbar.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war ein wichtiger Antrieb.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Wegen der *** vergaß er die Zeit.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Er teilte die *** seiner Freunde.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war ein flüchtiger Moment.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Trotz der *** gab es Fehler.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war nicht von Dauer.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Mit der *** kam neuer Mut.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** steckte alle an.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Er genoss die *** des Augenblicks.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** ist verflogen.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Sie ließen sich von der *** mitreißen.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war ein schönes Gefühl.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Er brauchte diese ***.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** wurde zur Gewohnheit.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** ist ein starkes Gefühl.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Wegen der *** handelte er vorschnell.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war unbeschreiblich.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Er kannte keine *** mehr.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** wirkte befreiend.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war ein Geschenk.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** ist weg.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Er suchte die ***.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war sein Ziel.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** ist ein Prozess.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war überall.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Er fühlte die ***.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** ist gut.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war zu sehen.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war ihm wichtig.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** macht Spaß.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** war ein Erfolg.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "example": "Die *** ist hier.",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia"
+    }
+  ]
+}

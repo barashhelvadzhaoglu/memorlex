@@ -1,0 +1,411 @@
+{
+  "title": "Deporte y Nutricion (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el rendimiento",
+      "type": "Noun",
+      "meaning_tr": "performans",
+      "meaning_en": "performance",
+      "meaning_uk": "продуктивність",
+      "meaning_es": "Capacidad de una persona para realizar una actividad",
+      "example": "Un buen descanso es fundamental para mejorar *** deportivo."
+    },
+    {
+      "term": "la resistencia",
+      "type": "Noun",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "endurance",
+      "meaning_uk": "витривалість",
+      "meaning_es": "Capacidad de aguantar un esfuerzo prolongado",
+      "example": "El entrenamiento de fondo ayuda a aumentar *** física."
+    },
+    {
+      "term": "los nutrientes",
+      "type": "Noun",
+      "meaning_tr": "besinler",
+      "meaning_en": "nutrients",
+      "meaning_uk": "поживні речовини",
+      "meaning_es": "Sustancias que proporcionan energía al cuerpo",
+      "example": "Es importante consumir *** esenciales en cada comida."
+    },
+    {
+      "term": "la hidratación",
+      "type": "Noun",
+      "meaning_tr": "hidrasyon",
+      "meaning_en": "hydration",
+      "meaning_uk": "гідратація",
+      "meaning_es": "Acción de mantener el cuerpo con agua suficiente",
+      "example": "Una correcta *** es vital durante los meses de verano."
+    },
+    {
+      "term": "fortalecer",
+      "type": "Verb",
+      "meaning_tr": "güçlendirmek",
+      "meaning_en": "to strengthen",
+      "meaning_uk": "зміцнювати",
+      "meaning_es": "Hacer más fuerte",
+      "example": "Debes realizar ejercicios de pesas para *** tus músculos."
+    },
+    {
+      "term": "metabólico",
+      "type": "Adjective",
+      "meaning_tr": "metabolik",
+      "meaning_en": "metabolic",
+      "meaning_uk": "метаболічний",
+      "meaning_es": "Relativo al metabolismo",
+      "example": "El ejercicio intenso acelera el proceso *** del organismo."
+    },
+    {
+      "term": "la suplementación",
+      "type": "Noun",
+      "meaning_tr": "takviye",
+      "meaning_en": "supplementation",
+      "meaning_uk": "добавки",
+      "meaning_es": "Uso de complementos alimenticios",
+      "example": "La *** nunca debe sustituir a una dieta equilibrada."
+    },
+    {
+      "term": "el tejido muscular",
+      "type": "Noun",
+      "meaning_tr": "kas dokusu",
+      "meaning_en": "muscle tissue",
+      "meaning_uk": "м'язова тканина",
+      "meaning_es": "Conjunto de células musculares",
+      "example": "El entrenamiento de fuerza provoca microrroturas en ***."
+    },
+    {
+      "term": "sobreentrenar",
+      "type": "Verb",
+      "meaning_tr": "aşırı antrenman yapmak",
+      "meaning_en": "to overtrain",
+      "meaning_uk": "перетреновуватися",
+      "meaning_es": "Entrenar más de lo que el cuerpo puede recuperar",
+      "example": "Si no descansas lo suficiente, podrías empezar a ***."
+    },
+    {
+      "term": "la ingesta",
+      "type": "Noun",
+      "meaning_tr": "alım",
+      "meaning_en": "intake",
+      "meaning_uk": "споживання",
+      "meaning_es": "Cantidad de comida o bebida consumida",
+      "example": "Se recomienda controlar la *** de azúcares refinados."
+    },
+    {
+      "term": "progresivo",
+      "type": "Adjective",
+      "meaning_tr": "kademeli",
+      "meaning_en": "progressive",
+      "meaning_uk": "поступовий",
+      "meaning_es": "Que aumenta poco a poco",
+      "example": "El aumento de la carga debe ser *** para evitar lesiones."
+    },
+    {
+      "term": "la recuperación",
+      "type": "Noun",
+      "meaning_tr": "iyileşme",
+      "meaning_en": "recovery",
+      "meaning_uk": "відновлення",
+      "meaning_es": "Proceso de volver al estado normal tras el esfuerzo",
+      "example": "El sueño es la etapa más importante de la ***."
+    },
+    {
+      "term": "quemar",
+      "type": "Verb",
+      "meaning_tr": "yakmak",
+      "meaning_en": "to burn",
+      "meaning_uk": "спалювати",
+      "meaning_es": "Consumir energía o grasas",
+      "example": "Correr ayuda a *** calorías de forma eficiente."
+    },
+    {
+      "term": "la masa magra",
+      "type": "Noun",
+      "meaning_tr": "yağsız kütle",
+      "meaning_en": "lean mass",
+      "meaning_uk": "нежирова маса",
+      "meaning_es": "Peso del cuerpo sin contar la grasa",
+      "example": "El objetivo de este atleta es aumentar su ***."
+    },
+    {
+      "term": "la inflamación",
+      "type": "Noun",
+      "meaning_tr": "enflamasyon",
+      "meaning_en": "inflammation",
+      "meaning_uk": "запалення",
+      "meaning_es": "Reacción del tejido ante una lesión",
+      "example": "El hielo ayuda a reducir *** después de una contusión."
+    },
+    {
+      "term": "el déficit calórico",
+      "type": "Noun",
+      "meaning_tr": "kalori açığı",
+      "meaning_en": "caloric deficit",
+      "meaning_uk": "дефіцит калорій",
+      "meaning_es": "Consumir menos calorías de las que se gastan",
+      "example": "Para perder peso, es necesario mantener un ***."
+    },
+    {
+      "term": "la frecuencia cardíaca",
+      "type": "Noun",
+      "meaning_tr": "kalp atış hızı",
+      "meaning_en": "heart rate",
+      "meaning_uk": "частота серцевих скорочень",
+      "meaning_es": "Número de latidos del corazón por minuto",
+      "example": "Durante el sprint, su *** aumentó drásticamente."
+    },
+    {
+      "term": "el sedentarismo",
+      "type": "Noun",
+      "meaning_tr": "hareketsiz yaşam",
+      "meaning_en": "sedentary lifestyle",
+      "meaning_uk": "малорухливий спосіб життя",
+      "meaning_es": "Falta de actividad física",
+      "example": "El *** es una de las causas principales de obesidad."
+    },
+    {
+      "term": "cardiovascular",
+      "type": "Adjective",
+      "meaning_tr": "kardiyovasküler",
+      "meaning_en": "cardiovascular",
+      "meaning_uk": "серцево-судинний",
+      "meaning_es": "Relativo al corazón y los vasos sanguíneos",
+      "example": "El ejercicio *** mejora la salud del corazón."
+    },
+    {
+      "term": "la fatiga",
+      "type": "Noun",
+      "meaning_tr": "yorgunluk",
+      "meaning_en": "fatigue",
+      "meaning_uk": "втома",
+      "meaning_es": "Sensación de cansancio extremo",
+      "example": "La falta de carbohidratos puede provocar *** prematura."
+    },
+    {
+      "term": "el glucógeno",
+      "type": "Noun",
+      "meaning_tr": "glikojen",
+      "meaning_en": "glycogen",
+      "meaning_uk": "глікоген",
+      "meaning_es": "Reserva de energía en el hígado y músculos",
+      "example": "Los carbohidratos reponen los depósitos de ***."
+    },
+    {
+      "term": "la flexibilidad",
+      "type": "Noun",
+      "meaning_tr": "esneklik",
+      "meaning_en": "flexibility",
+      "meaning_uk": "гнучкість",
+      "meaning_es": "Capacidad de estiramiento de los músculos",
+      "example": "El yoga es una excelente forma de mejorar ***."
+    },
+    {
+      "term": "el entrenamiento cruzado",
+      "type": "Noun",
+      "meaning_tr": "çapraz antrenman",
+      "meaning_en": "cross-training",
+      "meaning_uk": "крос-тренінг",
+      "meaning_es": "Combinar diferentes disciplinas deportivas",
+      "example": "Hacer natación como *** ayuda a prevenir lesiones."
+    },
+    {
+      "term": "equilibrado",
+      "type": "Adjective",
+      "meaning_tr": "dengeli",
+      "meaning_en": "balanced",
+      "meaning_uk": "збалансований",
+      "meaning_es": "Que tiene los componentes adecuados",
+      "example": "Mantener una dieta *** es la clave para la salud."
+    },
+    {
+      "term": "la intensidad",
+      "type": "Noun",
+      "meaning_tr": "yoğunluk",
+      "meaning_en": "intensity",
+      "meaning_uk": "інтенсивність",
+      "meaning_es": "Fuerza o grado de actividad",
+      "example": "Aumentar la *** del ejercicio requiere una buena base."
+    },
+    {
+      "term": "la fibra",
+      "type": "Noun",
+      "meaning_tr": "lif",
+      "meaning_en": "fiber",
+      "meaning_uk": "клітковина",
+      "meaning_es": "Componente vegetal que ayuda a la digestión",
+      "example": "Es recomendable comer cereales integrales por su alto contenido en ***."
+    },
+    {
+      "term": "la síntesis proteica",
+      "type": "Noun",
+      "meaning_tr": "protein sentezi",
+      "meaning_en": "protein synthesis",
+      "meaning_uk": "білковий синтез",
+      "meaning_es": "Proceso de creación de proteínas musculares",
+      "example": "El descanso nocturno favorece la ***."
+    },
+    {
+      "term": "el rendimiento aeróbico",
+      "type": "Noun",
+      "meaning_tr": "aerobik performans",
+      "meaning_en": "aerobic performance",
+      "meaning_uk": "аеробна продуктивність",
+      "meaning_es": "Capacidad de realizar ejercicio con oxígeno",
+      "example": "El ciclismo es ideal para mejorar el ***."
+    },
+    {
+      "term": "el sobrepeso",
+      "type": "Noun",
+      "meaning_tr": "aşırı kilo",
+      "meaning_en": "overweight",
+      "meaning_uk": "надмірна вага",
+      "meaning_es": "Tener más peso del recomendado",
+      "example": "El *** puede afectar negativamente a las articulaciones."
+    },
+    {
+      "term": "la capacidad pulmonar",
+      "type": "Noun",
+      "meaning_tr": "akciğer kapasitesi",
+      "meaning_en": "lung capacity",
+      "meaning_uk": "ємність легень",
+      "meaning_es": "Volumen de aire que pueden contener los pulmones",
+      "example": "El entrenamiento en altura ayuda a aumentar ***."
+    },
+    {
+      "term": "la masa ósea",
+      "type": "Noun",
+      "meaning_tr": "kemik kütlesi",
+      "meaning_en": "bone mass",
+      "meaning_uk": "кісткова маса",
+      "meaning_es": "Cantidad de mineral óseo en el esqueleto",
+      "example": "Los ejercicios de impacto ayudan a fortalecer ***."
+    },
+    {
+      "term": "la adherencia",
+      "type": "Noun",
+      "meaning_tr": "uyum",
+      "meaning_en": "adherence",
+      "meaning_uk": "прихильність",
+      "meaning_es": "Capacidad de seguir un plan a largo plazo",
+      "example": "La *** a la dieta es más importante que la perfección."
+    },
+    {
+      "term": "el calentamiento",
+      "type": "Noun",
+      "meaning_tr": "ısınma",
+      "meaning_en": "warm-up",
+      "meaning_uk": "розминка",
+      "meaning_es": "Ejercicios previos al entrenamiento",
+      "example": "Nunca empieces a correr sin un *** adecuado."
+    },
+    {
+      "term": "la carga",
+      "type": "Noun",
+      "meaning_tr": "yük",
+      "meaning_en": "load",
+      "meaning_uk": "навантаження",
+      "meaning_es": "Peso o nivel de esfuerzo aplicado",
+      "example": "Debes ajustar la *** de entrenamiento según tus objetivos."
+    },
+    {
+      "term": "la descomposición",
+      "type": "Noun",
+      "meaning_tr": "parçalanma",
+      "meaning_en": "breakdown",
+      "meaning_uk": "розпад",
+      "meaning_es": "Proceso de degradación de sustancias",
+      "example": "La *** de los carbohidratos proporciona glucosa rápida."
+    },
+    {
+      "term": "la deshidratación",
+      "type": "Noun",
+      "meaning_tr": "dehidrasyon",
+      "meaning_en": "dehydration",
+      "meaning_uk": "зневоднення",
+      "meaning_es": "Falta de agua en el cuerpo",
+      "example": "La *** puede causar mareos durante el ejercicio."
+    },
+    {
+      "term": "el metabolismo basal",
+      "type": "Noun",
+      "meaning_tr": "bazal metabolizma",
+      "meaning_en": "basal metabolic rate",
+      "meaning_uk": "базовий метаболізм",
+      "meaning_es": "Energía mínima para vivir en reposo",
+      "example": "Calcular tu *** ayuda a planificar tu dieta."
+    },
+    {
+      "term": "el entrenamiento HIIT",
+      "type": "Noun",
+      "meaning_tr": "HIIT antrenmanı",
+      "meaning_en": "HIIT workout",
+      "meaning_uk": "HIIT тренування",
+      "meaning_es": "Entrenamiento de intervalos de alta intensidad",
+      "example": "El *** es muy eficaz para quemar grasa en poco tiempo."
+    },
+    {
+      "term": "la suplementación deportiva",
+      "type": "Noun",
+      "meaning_tr": "spor takviyesi",
+      "meaning_en": "sports supplementation",
+      "meaning_uk": "спортивне харчування",
+      "meaning_es": "Productos para mejorar el rendimiento",
+      "example": "Consulta con un nutricionista antes de empezar la ***."
+    },
+    {
+      "term": "la movilidad",
+      "type": "Noun",
+      "meaning_tr": "hareketlilik",
+      "meaning_en": "mobility",
+      "meaning_uk": "мобільність",
+      "meaning_es": "Capacidad de movimiento de las articulaciones",
+      "example": "Ejercicios de *** son esenciales para evitar lesiones."
+    },
+    {
+      "term": "anaeróbico",
+      "type": "Adjective",
+      "meaning_tr": "anaerobik",
+      "meaning_en": "anaerobic",
+      "meaning_uk": "анаеробний",
+      "meaning_es": "Que se realiza sin oxígeno",
+      "example": "El levantamiento de pesas es un ejercicio de tipo ***."
+    },
+    {
+      "term": "la masa grasa",
+      "type": "Noun",
+      "meaning_tr": "yağ kütlesi",
+      "meaning_en": "fat mass",
+      "meaning_uk": "жирова маса",
+      "meaning_es": "Cantidad total de grasa corporal",
+      "example": "Reducir la *** requiere constancia y disciplina."
+    },
+    {
+      "term": "el consumo calórico",
+      "type": "Noun",
+      "meaning_tr": "kalori tüketimi",
+      "meaning_en": "caloric consumption",
+      "meaning_uk": "споживання калорій",
+      "meaning_es": "Gasto de energía total",
+      "example": "El *** diario depende de la actividad física realizada."
+    },
+    {
+      "term": "el sobreesfuerzo",
+      "type": "Noun",
+      "meaning_tr": "aşırı çaba",
+      "meaning_en": "overexertion",
+      "meaning_uk": "перенапруження",
+      "meaning_es": "Esfuerzo excesivo que supera los límites",
+      "example": "Evita el *** para prevenir daños en los tendones."
+    },
+    {
+      "term": "nutritivo",
+      "type": "Adjective",
+      "meaning_tr": "besleyici",
+      "meaning_en": "nutritious",
+      "meaning_uk": "поживний",
+      "meaning_es": "Que alimenta bien",
+      "example": "Un desayuno *** es fundamental para empezar el día."
+    }
+  ]
+}

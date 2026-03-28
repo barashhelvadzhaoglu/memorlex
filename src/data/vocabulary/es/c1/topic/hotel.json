@@ -1,0 +1,546 @@
+{
+  "title": "En el Hotel (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la estancia",
+      "type": "Noun",
+      "meaning_tr": "konaklama",
+      "meaning_en": "stay",
+      "meaning_uk": "перебування",
+      "meaning_es": "periodo de tiempo que se pasa en un lugar",
+      "example": "*** en el hotel fue sumamente placentera y tranquila."
+    },
+    {
+      "term": "la reserva",
+      "type": "Noun",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "reservation",
+      "meaning_uk": "бронювання",
+      "meaning_es": "acción de reservar algo",
+      "example": "He verificado mi *** y todo está en orden."
+    },
+    {
+      "term": "el huésped",
+      "type": "Noun",
+      "meaning_tr": "misafir",
+      "meaning_en": "guest",
+      "meaning_uk": "гість",
+      "meaning_es": "persona alojada en un hotel",
+      "example": "Cada *** tiene derecho a utilizar las instalaciones del spa."
+    },
+    {
+      "term": "la recepción",
+      "type": "Noun",
+      "meaning_tr": "resepsiyon",
+      "meaning_en": "front desk",
+      "meaning_uk": "рецепція",
+      "meaning_es": "lugar de atención al cliente",
+      "example": "Por favor, diríjase a la *** para realizar el registro."
+    },
+    {
+      "term": "la suite",
+      "type": "Noun",
+      "meaning_tr": "süit",
+      "meaning_en": "suite",
+      "meaning_uk": "люкс",
+      "meaning_es": "habitación de lujo",
+      "example": "La *** cuenta con vistas panorámicas a la ciudad."
+    },
+    {
+      "term": "el botones",
+      "type": "Noun",
+      "meaning_tr": "bellboy",
+      "meaning_en": "bellboy",
+      "meaning_uk": "посильний",
+      "meaning_es": "empleado que ayuda con el equipaje",
+      "example": "El *** subió nuestras maletas a la habitación."
+    },
+    {
+      "term": "la tarifa",
+      "type": "Noun",
+      "meaning_tr": "tarife",
+      "meaning_en": "rate",
+      "meaning_uk": "тариф",
+      "meaning_es": "precio estipulado",
+      "example": "La *** incluye desayuno buffet y acceso al gimnasio."
+    },
+    {
+      "term": "la disponibilidad",
+      "type": "Noun",
+      "meaning_tr": "müsaitlik",
+      "meaning_en": "availability",
+      "meaning_uk": "наявність",
+      "meaning_es": "posibilidad de acceso",
+      "example": "Consultaremos la *** para las fechas solicitadas."
+    },
+    {
+      "term": "el check-in",
+      "type": "Noun",
+      "meaning_tr": "giriş işlemi",
+      "meaning_en": "check-in",
+      "meaning_uk": "реєстрація заїзду",
+      "meaning_es": "registro de entrada",
+      "example": "El *** se realiza a partir de las tres de la tarde."
+    },
+    {
+      "term": "el check-out",
+      "type": "Noun",
+      "meaning_tr": "çıkış işlemi",
+      "meaning_en": "check-out",
+      "meaning_uk": "реєстрація виїзду",
+      "meaning_es": "registro de salida",
+      "example": "Debemos completar el *** antes del mediodía."
+    },
+    {
+      "term": "la llave magnética",
+      "type": "Noun",
+      "meaning_tr": "manyetik anahtar",
+      "meaning_en": "key card",
+      "meaning_uk": "магнітна картка",
+      "meaning_es": "tarjeta para abrir puertas",
+      "example": "He perdido mi ***, ¿podría hacerme otra?"
+    },
+    {
+      "term": "el servicio de habitaciones",
+      "type": "Noun",
+      "meaning_tr": "oda servisi",
+      "meaning_en": "room service",
+      "meaning_uk": "обслуговування номерів",
+      "meaning_es": "servicio de comida en la habitación",
+      "example": "Solicitamos el *** para cenar tranquilamente."
+    },
+    {
+      "term": "la lavandería",
+      "type": "Noun",
+      "meaning_tr": "çamaşırhane",
+      "meaning_en": "laundry",
+      "meaning_uk": "пральня",
+      "meaning_es": "servicio de lavado de ropa",
+      "example": "El hotel ofrece un servicio exprés de ***."
+    },
+    {
+      "term": "la consigna",
+      "type": "Noun",
+      "meaning_tr": "emanet odası",
+      "meaning_en": "luggage storage",
+      "meaning_uk": "камера схову",
+      "meaning_es": "lugar para dejar equipaje",
+      "example": "Dejamos nuestras maletas en la *** antes de ir al aeropuerto."
+    },
+    {
+      "term": "el aire acondicionado",
+      "type": "Noun",
+      "meaning_tr": "klima",
+      "meaning_en": "air conditioning",
+      "meaning_uk": "кондиціонер",
+      "meaning_es": "sistema de refrigeración",
+      "example": "El *** no funciona correctamente en mi habitación."
+    },
+    {
+      "term": "el minibar",
+      "type": "Noun",
+      "meaning_tr": "minibar",
+      "meaning_en": "minibar",
+      "meaning_uk": "міні-бар",
+      "meaning_es": "pequeña nevera con bebidas",
+      "example": "Los artículos del *** tienen un cargo adicional."
+    },
+    {
+      "term": "la caja fuerte",
+      "type": "Noun",
+      "meaning_tr": "kasa",
+      "meaning_en": "safe",
+      "meaning_uk": "сейф",
+      "meaning_es": "caja de seguridad",
+      "example": "Guarde sus objetos de valor en la ***."
+    },
+    {
+      "term": "el albornoz",
+      "type": "Noun",
+      "meaning_tr": "bornoz",
+      "meaning_en": "bathrobe",
+      "meaning_uk": "халат",
+      "meaning_es": "bata de baño",
+      "example": "En el armario encontrará un *** para su comodidad."
+    },
+    {
+      "term": "la percha",
+      "type": "Noun",
+      "meaning_tr": "askı",
+      "meaning_en": "hanger",
+      "meaning_uk": "вішалка",
+      "meaning_es": "objeto para colgar ropa",
+      "example": "Necesito más *** para mis trajes."
+    },
+    {
+      "term": "la toalla",
+      "type": "Noun",
+      "meaning_tr": "havlu",
+      "meaning_en": "towel",
+      "meaning_uk": "рушник",
+      "meaning_es": "tela para secarse",
+      "example": "Por favor, deje la *** usada en el suelo."
+    },
+    {
+      "term": "alojarse",
+      "type": "Verb",
+      "meaning_tr": "konaklamak",
+      "meaning_en": "to stay",
+      "meaning_uk": "зупинитися",
+      "meaning_es": "hospedarse en un lugar",
+      "example": "Decidimos *** en este hotel por su ubicación céntrica."
+    },
+    {
+      "term": "reservar",
+      "type": "Verb",
+      "meaning_tr": "ayırtmak",
+      "meaning_en": "to book",
+      "meaning_uk": "бронювати",
+      "meaning_es": "hacer una reserva",
+      "example": "Es recomendable *** con antelación durante la temporada alta."
+    },
+    {
+      "term": "cancelar",
+      "type": "Verb",
+      "meaning_tr": "iptal etmek",
+      "meaning_en": "to cancel",
+      "meaning_uk": "скасувати",
+      "meaning_es": "anular un servicio",
+      "example": "Si desea ***, debe hacerlo con 24 horas de antelación."
+    },
+    {
+      "term": "registrarse",
+      "type": "Verb",
+      "meaning_tr": "giriş yapmak",
+      "meaning_en": "to check in",
+      "meaning_uk": "зареєструватися",
+      "meaning_es": "formalizar la entrada",
+      "example": "Al ***, le pedirán su documento de identidad."
+    },
+    {
+      "term": "facturar",
+      "type": "Verb",
+      "meaning_tr": "fatura kesmek",
+      "meaning_en": "to bill/check out",
+      "meaning_uk": "оформляти рахунок",
+      "meaning_es": "pagar la cuenta",
+      "example": "Mañana procederemos a *** antes de partir."
+    },
+    {
+      "term": "desalojar",
+      "type": "Verb",
+      "meaning_tr": "boşaltmak",
+      "meaning_en": "to vacate",
+      "meaning_uk": "звільняти",
+      "meaning_es": "dejar libre la habitación",
+      "example": "Debemos *** la habitación antes de las once."
+    },
+    {
+      "term": "solicitar",
+      "type": "Verb",
+      "meaning_tr": "talep etmek",
+      "meaning_en": "to request",
+      "meaning_uk": "запитувати",
+      "meaning_es": "pedir formalmente",
+      "example": "Puede *** un despertador a la recepción."
+    },
+    {
+      "term": "incluir",
+      "type": "Verb",
+      "meaning_tr": "dahil etmek",
+      "meaning_en": "to include",
+      "meaning_uk": "включати",
+      "meaning_es": "contener dentro",
+      "example": "El precio no suele *** los impuestos locales."
+    },
+    {
+      "term": "ampliar",
+      "type": "Verb",
+      "meaning_tr": "uzatmak",
+      "meaning_en": "to extend",
+      "meaning_uk": "продовжувати",
+      "meaning_es": "prolongar la estancia",
+      "example": "Quisiéramos *** nuestra estancia una noche más."
+    },
+    {
+      "term": "recomendar",
+      "type": "Verb",
+      "meaning_tr": "tavsiye etmek",
+      "meaning_en": "to recommend",
+      "meaning_uk": "рекомендувати",
+      "meaning_es": "aconsejar",
+      "example": "El conserje puede *** excelentes restaurantes locales."
+    },
+    {
+      "term": "exclusivo",
+      "type": "Adjective",
+      "meaning_tr": "özel",
+      "meaning_en": "exclusive",
+      "meaning_uk": "ексклюзивний",
+      "meaning_es": "único o selecto",
+      "example": "Este hotel ofrece acceso a un club ***."
+    },
+    {
+      "term": "espacioso",
+      "type": "Adjective",
+      "meaning_tr": "geniş",
+      "meaning_en": "spacious",
+      "meaning_uk": "просторий",
+      "meaning_es": "con mucho espacio",
+      "example": "La habitación principal es realmente ***."
+    },
+    {
+      "term": "impecable",
+      "type": "Adjective",
+      "meaning_tr": "kusursuz",
+      "meaning_en": "flawless/clean",
+      "meaning_uk": "бездоганний",
+      "meaning_es": "muy limpio o perfecto",
+      "example": "El servicio de limpieza dejó la habitación ***."
+    },
+    {
+      "term": "lujoso",
+      "type": "Adjective",
+      "meaning_tr": "lüks",
+      "meaning_en": "luxurious",
+      "meaning_uk": "розкішний",
+      "meaning_es": "que tiene lujo",
+      "example": "Disfrutamos de una estancia en un hotel ***."
+    },
+    {
+      "term": "disponible",
+      "type": "Adjective",
+      "meaning_tr": "müsait",
+      "meaning_en": "available",
+      "meaning_uk": "доступний",
+      "meaning_es": "que se puede utilizar",
+      "example": "No hay ninguna habitación *** para esas fechas."
+    },
+    {
+      "term": "céntrico",
+      "type": "Adjective",
+      "meaning_tr": "merkezi",
+      "meaning_en": "central",
+      "meaning_uk": "центральний",
+      "meaning_es": "situado en el centro",
+      "example": "Es un hotel muy *** cerca de la plaza principal."
+    },
+    {
+      "term": "acogedor",
+      "type": "Adjective",
+      "meaning_tr": "sıcak/konuksever",
+      "meaning_en": "cozy",
+      "meaning_uk": "затишний",
+      "meaning_es": "agradable y cómodo",
+      "example": "El vestíbulo es un lugar muy *** para leer."
+    },
+    {
+      "term": "adicional",
+      "type": "Adjective",
+      "meaning_tr": "ek",
+      "meaning_en": "additional",
+      "meaning_uk": "додатковий",
+      "meaning_es": "que se añade",
+      "example": "Por una cama *** deberá pagar un suplemento."
+    },
+    {
+      "term": "obligatorio",
+      "type": "Adjective",
+      "meaning_tr": "zorunlu",
+      "meaning_en": "mandatory",
+      "meaning_uk": "обов'язковий",
+      "meaning_es": "que se debe hacer",
+      "example": "El uso de la mascarilla sigue siendo ***."
+    },
+    {
+      "term": "completamente",
+      "type": "Adverb",
+      "meaning_tr": "tamamen",
+      "meaning_en": "completely",
+      "meaning_uk": "повністю",
+      "meaning_es": "de modo total",
+      "example": "El hotel está *** reservado para el fin de semana."
+    },
+    {
+      "term": "amablemente",
+      "type": "Adverb",
+      "meaning_tr": "nazikçe",
+      "meaning_en": "kindly",
+      "meaning_uk": "люб'язно",
+      "meaning_es": "con amabilidad",
+      "example": "El personal nos atendió *** en todo momento."
+    },
+    {
+      "term": "gratuitamente",
+      "type": "Adverb",
+      "meaning_tr": "ücretsiz olarak",
+      "meaning_en": "for free",
+      "meaning_uk": "безкоштовно",
+      "meaning_es": "sin coste",
+      "example": "El acceso al gimnasio se ofrece ***."
+    },
+    {
+      "term": "diariamente",
+      "type": "Adverb",
+      "meaning_tr": "günlük olarak",
+      "meaning_en": "daily",
+      "meaning_uk": "щодня",
+      "meaning_es": "cada día",
+      "example": "Las toallas se cambian ***."
+    },
+    {
+      "term": "previamente",
+      "type": "Adverb",
+      "meaning_tr": "önceden",
+      "meaning_en": "previously",
+      "meaning_uk": "попередньо",
+      "meaning_es": "con anterioridad",
+      "example": "Habíamos acordado *** la hora de llegada."
+    },
+    {
+      "term": "cerca de",
+      "type": "Preposition",
+      "meaning_tr": "yakınında",
+      "meaning_en": "near",
+      "meaning_uk": "поблизу",
+      "meaning_es": "a poca distancia",
+      "example": "El hotel se encuentra *** la estación de tren."
+    },
+    {
+      "term": "alrededor de",
+      "type": "Preposition",
+      "meaning_tr": "etrafında",
+      "meaning_en": "around",
+      "meaning_uk": "навколо",
+      "meaning_es": "aproximadamente o en el entorno",
+      "example": "Hay varios restaurantes *** del establecimiento."
+    },
+    {
+      "term": "debido a",
+      "type": "Preposition",
+      "meaning_tr": "nedeniyle",
+      "meaning_en": "due to",
+      "meaning_uk": "через",
+      "meaning_es": "a causa de",
+      "example": "No pudimos acceder a la piscina *** las obras."
+    },
+    {
+      "term": "a pesar de",
+      "type": "Preposition",
+      "meaning_tr": "rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "aunque",
+      "example": "Descansamos bien *** el ruido de la calle."
+    },
+    {
+      "term": "con respecto a",
+      "type": "Preposition",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "en relación a",
+      "example": "Tengo una duda *** los horarios del desayuno."
+    },
+    {
+      "term": "puesto que",
+      "type": "Conjunction",
+      "meaning_tr": "çünkü",
+      "meaning_en": "since",
+      "meaning_uk": "оскільки",
+      "meaning_es": "porque",
+      "example": "Le pedimos silencio *** hay otros huéspedes durmiendo."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen/olsa da",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "a pesar de que",
+      "example": "El hotel es antiguo, *** está muy bien mantenido."
+    },
+    {
+      "term": "siempre que",
+      "type": "Conjunction",
+      "meaning_tr": "şartıyla",
+      "meaning_en": "provided that",
+      "meaning_uk": "за умови, що",
+      "meaning_es": "a condición de que",
+      "example": "Podemos hacer el late check-out, *** haya disponibilidad."
+    },
+    {
+      "term": "mientras que",
+      "type": "Conjunction",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "тоді як",
+      "meaning_es": "al mismo tiempo que",
+      "example": "Yo iré a la playa *** tú te quedas en el spa."
+    },
+    {
+      "term": "ya que",
+      "type": "Conjunction",
+      "meaning_tr": "çünkü",
+      "meaning_en": "since",
+      "meaning_uk": "оскільки",
+      "meaning_es": "dado que",
+      "example": "Llamaré a recepción *** no funciona la televisión."
+    },
+    {
+      "term": "la media pensión",
+      "type": "Noun",
+      "meaning_tr": "yarım pansiyon",
+      "meaning_en": "half board",
+      "meaning_uk": "напівпансіон",
+      "meaning_es": "alojamiento con desayuno y cena",
+      "example": "Contratamos *** para olvidarnos de buscar restaurante."
+    },
+    {
+      "term": "la pensión completa",
+      "type": "Noun",
+      "meaning_tr": "tam pansiyon",
+      "meaning_en": "full board",
+      "meaning_uk": "повний пансіон",
+      "meaning_es": "alojamiento con tres comidas",
+      "example": "La *** incluye todas las comidas del día."
+    },
+    {
+      "term": "el suplemento",
+      "type": "Noun",
+      "meaning_tr": "ek ücret",
+      "meaning_en": "surcharge",
+      "meaning_uk": "доплата",
+      "meaning_es": "pago añadido",
+      "example": "Se aplicará un *** por el uso de la cama supletoria."
+    },
+    {
+      "term": "la sugerencia",
+      "type": "Noun",
+      "meaning_tr": "öneri",
+      "meaning_en": "suggestion",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "propuesta",
+      "example": "Agradecemos cualquier *** para mejorar nuestro servicio."
+    },
+    {
+      "term": "la política",
+      "type": "Noun",
+      "meaning_tr": "politika",
+      "meaning_en": "policy",
+      "meaning_uk": "політика",
+      "meaning_es": "normas establecidas",
+      "example": "Nuestra *** de mascotas es muy estricta."
+    },
+    {
+      "term": "la estancia",
+      "type": "Noun",
+      "meaning_tr": "konaklama",
+      "meaning_en": "stay",
+      "meaning_uk": "перебування",
+      "meaning_es": "periodo de permanencia",
+      "example": "Esperamos que su *** sea inolvidable."
+    }
+  ]
+}

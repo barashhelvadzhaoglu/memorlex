@@ -1,0 +1,321 @@
+{
+  "title": "Arquitectura (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el edificio",
+      "type": "Noun",
+      "meaning_tr": "bina",
+      "meaning_en": "building",
+      "meaning_uk": "будівля",
+      "meaning_es": "construcción hecha con diversos materiales para habitar",
+      "example": "*** es muy alto y moderno."
+    },
+    {
+      "term": "la fachada",
+      "type": "Noun",
+      "meaning_tr": "cephe",
+      "meaning_en": "facade",
+      "meaning_uk": "фасад",
+      "meaning_es": "parte exterior o frontal de un edificio",
+      "example": "Pintaron *** de color blanco."
+    },
+    {
+      "term": "diseñar",
+      "type": "Verb",
+      "meaning_tr": "tasarlamak",
+      "meaning_en": "to design",
+      "meaning_uk": "проектувати",
+      "meaning_es": "crear el plan o bosquejo de una obra",
+      "example": "El arquitecto va a *** la nueva casa."
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "que se puede mantener sin agotar recursos",
+      "example": "Este proyecto es muy *** con el medio ambiente."
+    },
+    {
+      "term": "la columna",
+      "type": "Noun",
+      "meaning_tr": "sütun",
+      "meaning_en": "column",
+      "meaning_uk": "колона",
+      "meaning_es": "soporte vertical de forma cilíndrica",
+      "example": "*** sostiene el peso del techo."
+    },
+    {
+      "term": "construir",
+      "type": "Verb",
+      "meaning_tr": "inşa etmek",
+      "meaning_en": "to build",
+      "meaning_uk": "будувати",
+      "meaning_es": "hacer una obra de arquitectura o ingeniería",
+      "example": "Quieren *** un puente en esta zona."
+    },
+    {
+      "term": "el plano",
+      "type": "Noun",
+      "meaning_tr": "plan",
+      "meaning_en": "blueprint",
+      "meaning_uk": "план",
+      "meaning_es": "representación gráfica de una obra",
+      "example": "El arquitecto revisó *** antes de empezar."
+    },
+    {
+      "term": "la estructura",
+      "type": "Noun",
+      "meaning_tr": "yapı",
+      "meaning_en": "structure",
+      "meaning_uk": "структура",
+      "meaning_es": "distribución y orden de las partes de un edificio",
+      "example": "*** de metal es muy resistente."
+    },
+    {
+      "term": "el material",
+      "type": "Noun",
+      "meaning_tr": "malzeme",
+      "meaning_en": "material",
+      "meaning_uk": "матеріал",
+      "meaning_es": "sustancia necesaria para una obra",
+      "example": "Necesitamos comprar *** de buena calidad."
+    },
+    {
+      "term": "el techo",
+      "type": "Noun",
+      "meaning_tr": "çatı / tavan",
+      "meaning_en": "roof / ceiling",
+      "meaning_uk": "дах / стеля",
+      "meaning_es": "parte superior de una construcción",
+      "example": "Hay una gotera en ***."
+    },
+    {
+      "term": "moderno",
+      "type": "Adjective",
+      "meaning_tr": "modern",
+      "meaning_en": "modern",
+      "meaning_uk": "сучасний",
+      "meaning_es": "que es actual o reciente",
+      "example": "El estilo de la oficina es muy ***."
+    },
+    {
+      "term": "la ventana",
+      "type": "Noun",
+      "meaning_tr": "pencere",
+      "meaning_en": "window",
+      "meaning_uk": "вікно",
+      "meaning_es": "abertura en la pared para luz y aire",
+      "example": "Abrió *** para que entrara aire fresco."
+    },
+    {
+      "term": "la escalera",
+      "type": "Noun",
+      "meaning_tr": "merdiven",
+      "meaning_en": "staircase",
+      "meaning_uk": "сходи",
+      "meaning_es": "serie de escalones para subir o bajar",
+      "example": "Subieron por *** principal."
+    },
+    {
+      "term": "el suelo",
+      "type": "Noun",
+      "meaning_tr": "zemin",
+      "meaning_en": "floor / ground",
+      "meaning_uk": "підлога / земля",
+      "meaning_es": "superficie sobre la que se camina",
+      "example": "Han puesto mármol en ***."
+    },
+    {
+      "term": "la pared",
+      "type": "Noun",
+      "meaning_tr": "duvar",
+      "meaning_en": "wall",
+      "meaning_uk": "стіна",
+      "meaning_es": "obra vertical que limita un espacio",
+      "example": "Pintaron *** de color azul."
+    },
+    {
+      "term": "el hormigón",
+      "type": "Noun",
+      "meaning_tr": "beton",
+      "meaning_en": "concrete",
+      "meaning_uk": "бетон",
+      "meaning_es": "mezcla de cemento, agua y arena",
+      "example": "La base es de *** armado."
+    },
+    {
+      "term": "la madera",
+      "type": "Noun",
+      "meaning_tr": "ahşap",
+      "meaning_en": "wood",
+      "meaning_uk": "деревина",
+      "meaning_es": "parte sólida de los árboles usada en construcción",
+      "example": "Usaron *** para el suelo de la terraza."
+    },
+    {
+      "term": "remodelar",
+      "type": "Verb",
+      "meaning_tr": "yenilemek",
+      "meaning_en": "to remodel",
+      "meaning_uk": "ремонтувати",
+      "meaning_es": "hacer cambios o mejoras en un edificio",
+      "example": "Vamos a *** la cocina el próximo mes."
+    },
+    {
+      "term": "la entrada",
+      "type": "Noun",
+      "meaning_tr": "giriş",
+      "meaning_en": "entrance",
+      "meaning_uk": "вхід",
+      "meaning_es": "lugar por donde se accede",
+      "example": "Debes esperar en *** del edificio."
+    },
+    {
+      "term": "la planta",
+      "type": "Noun",
+      "meaning_tr": "kat",
+      "meaning_en": "floor / level",
+      "meaning_uk": "поверх",
+      "meaning_es": "cada uno de los niveles de un edificio",
+      "example": "El apartamento está en la tercera ***."
+    },
+    {
+      "term": "el arquitecto",
+      "type": "Noun",
+      "meaning_tr": "mimar",
+      "meaning_en": "architect",
+      "meaning_uk": "архітектор",
+      "meaning_es": "persona profesional que diseña edificios",
+      "example": "*** presentó el proyecto al cliente."
+    },
+    {
+      "term": "la altura",
+      "type": "Noun",
+      "meaning_tr": "yükseklik",
+      "meaning_en": "height",
+      "meaning_uk": "висота",
+      "meaning_es": "dimensión vertical de un cuerpo",
+      "example": "*** del techo es de tres metros."
+    },
+    {
+      "term": "amplio",
+      "type": "Adjective",
+      "meaning_tr": "geniş",
+      "meaning_en": "spacious",
+      "meaning_uk": "просторий",
+      "meaning_es": "que tiene mucho espacio",
+      "example": "El salón es muy *** y luminoso."
+    },
+    {
+      "term": "la obra",
+      "type": "Noun",
+      "meaning_tr": "inşaat alanı",
+      "meaning_en": "construction site",
+      "meaning_uk": "будівельний майданчик",
+      "meaning_es": "lugar donde se realiza una construcción",
+      "example": "El ingeniero visita *** todos los días."
+    },
+    {
+      "term": "el cristal",
+      "type": "Noun",
+      "meaning_tr": "cam",
+      "meaning_en": "glass",
+      "meaning_uk": "скло",
+      "meaning_es": "material transparente y sólido",
+      "example": "La puerta es de *** grueso."
+    },
+    {
+      "term": "iluminado",
+      "type": "Adjective",
+      "meaning_tr": "aydınlık",
+      "meaning_en": "well-lit",
+      "meaning_uk": "освітлений",
+      "meaning_es": "que tiene mucha luz",
+      "example": "El pasillo está muy bien ***."
+    },
+    {
+      "term": "la reforma",
+      "type": "Noun",
+      "meaning_tr": "tadilat",
+      "meaning_en": "renovation",
+      "meaning_uk": "реконструкція",
+      "meaning_es": "acción de mejorar algo ya construido",
+      "example": "Hicieron una *** total en el baño."
+    },
+    {
+      "term": "el balcón",
+      "type": "Noun",
+      "meaning_tr": "balkon",
+      "meaning_en": "balcony",
+      "meaning_uk": "балкон",
+      "meaning_es": "plataforma que sobresale de una pared",
+      "example": "Salieron al *** para ver la calle."
+    },
+    {
+      "term": "la base",
+      "type": "Noun",
+      "meaning_tr": "temel",
+      "meaning_en": "foundation / base",
+      "meaning_uk": "фундамент / основа",
+      "meaning_es": "parte inferior que sostiene un edificio",
+      "example": "Es importante reforzar *** de la casa."
+    },
+    {
+      "term": "clásico",
+      "type": "Adjective",
+      "meaning_tr": "klasik",
+      "meaning_en": "classic",
+      "meaning_uk": "класичний",
+      "meaning_es": "que sigue formas tradicionales",
+      "example": "Prefiero el estilo *** en la decoración."
+    },
+    {
+      "term": "la vivienda",
+      "type": "Noun",
+      "meaning_tr": "konut",
+      "meaning_en": "housing / dwelling",
+      "meaning_uk": "житло",
+      "meaning_es": "lugar destinado a ser habitado",
+      "example": "Buscan una *** más cerca del centro."
+    },
+    {
+      "term": "la fachada",
+      "type": "Noun",
+      "meaning_tr": "cephe",
+      "meaning_en": "facade",
+      "meaning_uk": "фасад",
+      "meaning_es": "cara exterior de un edificio",
+      "example": "Restauraron *** del museo antiguo."
+    },
+    {
+      "term": "el espacio",
+      "type": "Noun",
+      "meaning_tr": "alan",
+      "meaning_en": "space",
+      "meaning_uk": "простір",
+      "meaning_es": "extensión que contiene materia",
+      "example": "Necesitamos aprovechar mejor ***."
+    },
+    {
+      "term": "la piedra",
+      "type": "Noun",
+      "meaning_tr": "taş",
+      "meaning_en": "stone",
+      "meaning_uk": "камінь",
+      "meaning_es": "material natural usado en muros",
+      "example": "La casa está construida con *** natural."
+    },
+    {
+      "term": "el diseño",
+      "type": "Noun",
+      "meaning_tr": "tasarım",
+      "meaning_en": "design",
+      "meaning_uk": "дизайн",
+      "meaning_es": "proceso de configuración mental de algo",
+      "example": "*** es muy creativo y original."
+    }
+  ]
+}

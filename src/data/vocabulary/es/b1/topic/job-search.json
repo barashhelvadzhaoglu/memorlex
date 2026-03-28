@@ -1,0 +1,321 @@
+{
+  "title": "Busqueda de Empleo (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el currículum",
+      "type": "Noun",
+      "example": "He enviado *** a varias empresas esta mañana.",
+      "meaning_tr": "özgeçmiş",
+      "meaning_en": "resume/CV",
+      "meaning_uk": "резюме",
+      "meaning_es": "documento con la trayectoria profesional"
+    },
+    {
+      "term": "la entrevista",
+      "type": "Noun",
+      "example": "Tengo *** de trabajo el próximo martes.",
+      "meaning_tr": "mülakat",
+      "meaning_en": "interview",
+      "meaning_uk": "співбесіда",
+      "meaning_es": "reunión para evaluar a un candidato"
+    },
+    {
+      "term": "solicitar",
+      "type": "Verb",
+      "example": "Voy a *** un puesto en el departamento de marketing.",
+      "meaning_tr": "başvurmak",
+      "meaning_en": "to apply for",
+      "meaning_uk": "подавати заявку",
+      "meaning_es": "pedir o pedir formalmente un empleo"
+    },
+    {
+      "term": "la oferta de empleo",
+      "type": "Noun",
+      "example": "He visto *** muy interesante en Internet.",
+      "meaning_tr": "iş ilanı",
+      "meaning_en": "job offer",
+      "meaning_uk": "вакансія",
+      "meaning_es": "anuncio de trabajo disponible"
+    },
+    {
+      "term": "el puesto",
+      "type": "Noun",
+      "example": "Busco *** de administrativo en una oficina.",
+      "meaning_tr": "pozisyon",
+      "meaning_en": "position",
+      "meaning_uk": "посада",
+      "meaning_es": "cargo o empleo específico"
+    },
+    {
+      "term": "la experiencia laboral",
+      "type": "Noun",
+      "example": "Necesitas demostrar *** en el sector de ventas.",
+      "meaning_tr": "iş deneyimi",
+      "meaning_en": "work experience",
+      "meaning_uk": "досвід роботи",
+      "meaning_es": "trabajos realizados anteriormente"
+    },
+    {
+      "term": "contratar",
+      "type": "Verb",
+      "example": "La empresa decidió *** a tres nuevos empleados.",
+      "meaning_tr": "işe almak",
+      "meaning_en": "to hire",
+      "meaning_uk": "наймати",
+      "meaning_es": "dar un empleo a alguien"
+    },
+    {
+      "term": "el candidato",
+      "type": "Noun",
+      "example": "El entrevistador analizó el perfil de cada ***.",
+      "meaning_tr": "aday",
+      "meaning_en": "candidate",
+      "meaning_uk": "кандидат",
+      "meaning_es": "persona que aspira a un puesto"
+    },
+    {
+      "term": "la carta de presentación",
+      "type": "Noun",
+      "example": "Es importante adjuntar *** junto con el CV.",
+      "meaning_tr": "ön yazı",
+      "meaning_en": "cover letter",
+      "meaning_uk": "супровідний лист",
+      "meaning_es": "documento que explica el interés en el puesto"
+    },
+    {
+      "term": "la jornada completa",
+      "type": "Noun",
+      "example": "El horario es de ***, de lunes a viernes.",
+      "meaning_tr": "tam zamanlı çalışma",
+      "meaning_en": "full-time",
+      "meaning_uk": "повна зайнятість",
+      "meaning_es": "horario de ocho horas diarias"
+    },
+    {
+      "term": "la jornada parcial",
+      "type": "Noun",
+      "example": "Prefiero *** porque estudio por las tardes.",
+      "meaning_tr": "yarı zamanlı çalışma",
+      "meaning_en": "part-time",
+      "meaning_uk": "неповна зайнятість",
+      "meaning_es": "horario con menos horas que el estándar"
+    },
+    {
+      "term": "el sueldo",
+      "type": "Noun",
+      "example": "El *** de este trabajo es bastante competitivo.",
+      "meaning_tr": "maaş",
+      "meaning_en": "salary",
+      "meaning_uk": "зарплата",
+      "meaning_es": "dinero que se recibe por el trabajo"
+    },
+    {
+      "term": "cualificado",
+      "type": "Adjective",
+      "example": "Es un profesional muy *** para este sector.",
+      "meaning_tr": "nitelikli",
+      "meaning_en": "qualified",
+      "meaning_uk": "кваліфікований",
+      "meaning_es": "que tiene la preparación necesaria"
+    },
+    {
+      "term": "la empresa",
+      "type": "Noun",
+      "example": "Quiero trabajar en una *** multinacional.",
+      "meaning_tr": "şirket",
+      "meaning_en": "company",
+      "meaning_uk": "компанія",
+      "meaning_es": "organización dedicada a actividades comerciales"
+    },
+    {
+      "term": "el contrato",
+      "type": "Noun",
+      "example": "Mañana voy a firmar *** de trabajo.",
+      "meaning_tr": "sözleşme",
+      "meaning_en": "contract",
+      "meaning_uk": "контракт",
+      "meaning_es": "acuerdo legal entre empleado y empleador"
+    },
+    {
+      "term": "desempleado",
+      "type": "Adjective",
+      "example": "Lleva tres meses *** buscando una oportunidad.",
+      "meaning_tr": "işsiz",
+      "meaning_en": "unemployed",
+      "meaning_uk": "безробітний",
+      "meaning_es": "persona que no tiene empleo"
+    },
+    {
+      "term": "el requisito",
+      "type": "Noun",
+      "example": "Hablar inglés es *** indispensable.",
+      "meaning_tr": "şart/gereksinim",
+      "meaning_en": "requirement",
+      "meaning_uk": "вимога",
+      "meaning_es": "condición necesaria para algo"
+    },
+    {
+      "term": "la habilidad",
+      "type": "Noun",
+      "example": "Tengo mucha *** para resolver problemas complejos.",
+      "meaning_tr": "yetenek/beceri",
+      "meaning_en": "skill",
+      "meaning_uk": "навичка",
+      "meaning_es": "capacidad para realizar algo bien"
+    },
+    {
+      "term": "seleccionar",
+      "type": "Verb",
+      "example": "El departamento de recursos humanos debe *** al mejor personal.",
+      "meaning_tr": "seçmek",
+      "meaning_en": "to select",
+      "meaning_uk": "обирати",
+      "meaning_es": "elegir a alguien entre varios"
+    },
+    {
+      "term": "la vacante",
+      "type": "Noun",
+      "example": "Hay una *** abierta en el equipo de ventas.",
+      "meaning_tr": "açık pozisyon",
+      "meaning_en": "vacancy",
+      "meaning_uk": "вакансія",
+      "meaning_es": "puesto de trabajo sin cubrir"
+    },
+    {
+      "term": "el perfil",
+      "type": "Noun",
+      "example": "Tu *** profesional encaja perfectamente con nosotros.",
+      "meaning_tr": "profil",
+      "meaning_en": "profile",
+      "meaning_uk": "профіль",
+      "meaning_es": "conjunto de rasgos profesionales"
+    },
+    {
+      "term": "la formación",
+      "type": "Noun",
+      "example": "Mi *** académica incluye un máster en ingeniería.",
+      "meaning_tr": "eğitim",
+      "meaning_en": "education/training",
+      "meaning_uk": "освіта",
+      "meaning_es": "estudios o preparación académica"
+    },
+    {
+      "term": "trabajar",
+      "type": "Verb",
+      "example": "Me gustaría *** en el extranjero el próximo año.",
+      "meaning_tr": "çalışmak",
+      "meaning_en": "to work",
+      "meaning_uk": "працювати",
+      "meaning_es": "ejercer una actividad profesional"
+    },
+    {
+      "term": "actualmente",
+      "type": "Adverb",
+      "example": "*** estoy buscando un nuevo reto profesional.",
+      "meaning_tr": "şu anda",
+      "meaning_en": "currently",
+      "meaning_uk": "зараз",
+      "meaning_es": "en el momento presente"
+    },
+    {
+      "term": "el ascenso",
+      "type": "Noun",
+      "example": "He solicitado un *** en mi departamento.",
+      "meaning_tr": "terfi",
+      "meaning_en": "promotion",
+      "meaning_uk": "підвищення",
+      "meaning_es": "mejora de categoría en el trabajo"
+    },
+    {
+      "term": "la reunión",
+      "type": "Noun",
+      "example": "Tenemos una *** con el jefe a las diez.",
+      "meaning_tr": "toplantı",
+      "meaning_en": "meeting",
+      "meaning_uk": "зустріч",
+      "meaning_es": "encuentro de varias personas para tratar un tema"
+    },
+    {
+      "term": "despedir",
+      "type": "Verb",
+      "example": "La empresa tuvo que *** a varios trabajadores por la crisis.",
+      "meaning_tr": "işten çıkarmak",
+      "meaning_en": "to fire/dismiss",
+      "meaning_uk": "звільняти",
+      "meaning_es": "expulsar a alguien de su trabajo"
+    },
+    {
+      "term": "dimitir",
+      "type": "Verb",
+      "example": "Decidí *** porque encontré un empleo mejor.",
+      "meaning_tr": "istifa etmek",
+      "meaning_en": "to resign",
+      "meaning_uk": "подавати у відставку",
+      "meaning_es": "renunciar voluntariamente a un cargo"
+    },
+    {
+      "term": "la competencia",
+      "type": "Noun",
+      "example": "Es una *** muy fuerte en este sector comercial.",
+      "meaning_tr": "rekabet",
+      "meaning_en": "competition",
+      "meaning_uk": "конкуренція",
+      "meaning_es": "rivalidad entre empresas o candidatos"
+    },
+    {
+      "term": "remoto",
+      "type": "Adjective",
+      "example": "Busco un trabajo *** para poder viajar.",
+      "meaning_tr": "uzaktan",
+      "meaning_en": "remote",
+      "meaning_uk": "віддалений",
+      "meaning_es": "trabajo realizado desde casa"
+    },
+    {
+      "term": "la oficina",
+      "type": "Noun",
+      "example": "Mi nueva *** está en el centro de la ciudad.",
+      "meaning_tr": "ofis",
+      "meaning_en": "office",
+      "meaning_uk": "офіс",
+      "meaning_es": "lugar donde se realiza trabajo administrativo"
+    },
+    {
+      "term": "el compañero",
+      "type": "Noun",
+      "example": "Tengo un buen *** de trabajo que me ayuda siempre.",
+      "meaning_tr": "iş arkadaşı",
+      "meaning_en": "colleague",
+      "meaning_uk": "колега",
+      "meaning_es": "persona con la que se comparte el trabajo"
+    },
+    {
+      "term": "a tiempo",
+      "type": "Preposition",
+      "example": "Es importante llegar *** a la entrevista.",
+      "meaning_tr": "zamanında",
+      "meaning_en": "on time",
+      "meaning_uk": "вчасно",
+      "meaning_es": "puntualmente"
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "example": "*** no tengo mucha experiencia, aprendo rápido.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "conector para expresar una dificultad"
+    },
+    {
+      "term": "profesional",
+      "type": "Adjective",
+      "example": "Debes mantener una actitud *** en todo momento.",
+      "meaning_tr": "profesyonel",
+      "meaning_en": "professional",
+      "meaning_uk": "професійний",
+      "meaning_es": "que actúa con seriedad y competencia"
+    }
+  ]
+}

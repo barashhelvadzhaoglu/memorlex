@@ -1,0 +1,546 @@
+{
+  "title": "Correos y Banco (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el giro postal",
+      "type": "Noun",
+      "meaning_tr": "posta havalesi",
+      "meaning_en": "postal money order",
+      "meaning_uk": "поштовий переказ",
+      "meaning_es": "servicio de envío de dinero por correo",
+      "example": "He enviado *** para pagar la factura del alquiler."
+    },
+    {
+      "term": "la transferencia bancaria",
+      "type": "Noun",
+      "meaning_tr": "banka havalesi",
+      "meaning_en": "bank transfer",
+      "meaning_uk": "банківський переказ",
+      "meaning_es": "movimiento de fondos entre cuentas",
+      "example": "La *** se ha realizado correctamente esta mañana."
+    },
+    {
+      "term": "el extracto bancario",
+      "type": "Noun",
+      "meaning_tr": "banka hesap özeti",
+      "meaning_en": "bank statement",
+      "meaning_uk": "банківська виписка",
+      "meaning_es": "documento con los movimientos de una cuenta",
+      "example": "Debo revisar el *** para verificar los cargos."
+    },
+    {
+      "term": "la comisión",
+      "type": "Noun",
+      "meaning_tr": "komisyon",
+      "meaning_en": "commission/fee",
+      "meaning_uk": "комісія",
+      "meaning_es": "cantidad que cobra el banco por un servicio",
+      "example": "El banco me ha cobrado una *** excesiva por el mantenimiento."
+    },
+    {
+      "term": "el tipo de interés",
+      "type": "Noun",
+      "meaning_tr": "faiz oranı",
+      "meaning_en": "interest rate",
+      "meaning_uk": "відсоткова ставка",
+      "meaning_es": "porcentaje de beneficio o coste de un préstamo",
+      "example": "El *** ha subido significativamente este trimestre."
+    },
+    {
+      "term": "el plazo fijo",
+      "type": "Noun",
+      "meaning_tr": "vadeli mevduat",
+      "meaning_en": "fixed-term deposit",
+      "meaning_uk": "строковий депозит",
+      "meaning_es": "inversión con rentabilidad a un tiempo concreto",
+      "example": "He decidido invertir mis ahorros en un ***."
+    },
+    {
+      "term": "la hipoteca",
+      "type": "Noun",
+      "meaning_tr": "ipotek/konut kredisi",
+      "meaning_en": "mortgage",
+      "meaning_uk": "іпотека",
+      "meaning_es": "préstamo para la compra de una vivienda",
+      "example": "Estamos pagando la *** de nuestra nueva casa."
+    },
+    {
+      "term": "el saldo",
+      "type": "Noun",
+      "meaning_tr": "bakiye",
+      "meaning_en": "balance",
+      "meaning_uk": "баланс",
+      "meaning_es": "dinero disponible en una cuenta",
+      "example": "Consulté mi *** antes de realizar la compra."
+    },
+    {
+      "term": "la cuenta corriente",
+      "type": "Noun",
+      "meaning_tr": "vadesiz hesap",
+      "meaning_en": "checking account",
+      "meaning_uk": "поточний рахунок",
+      "meaning_es": "cuenta para operaciones diarias",
+      "example": "He abierto una *** para domiciliar mis recibos."
+    },
+    {
+      "term": "el envío certificado",
+      "type": "Noun",
+      "meaning_tr": "taahhütlü gönderi",
+      "meaning_en": "certified mail",
+      "meaning_uk": "рекомендований лист",
+      "meaning_es": "envío con acuse de recibo",
+      "example": "He mandado el contrato mediante un ***."
+    },
+    {
+      "term": "el destinatario",
+      "type": "Noun",
+      "meaning_tr": "alıcı",
+      "meaning_en": "recipient",
+      "meaning_uk": "одержувач",
+      "meaning_es": "persona que recibe un envío",
+      "example": "El *** no se encontraba en su domicilio."
+    },
+    {
+      "term": "el remitente",
+      "type": "Noun",
+      "meaning_tr": "gönderici",
+      "meaning_en": "sender",
+      "meaning_uk": "відправник",
+      "meaning_es": "persona que envía algo",
+      "example": "He olvidado escribir los datos del *** en el sobre."
+    },
+    {
+      "term": "la sucursal",
+      "type": "Noun",
+      "meaning_tr": "şube",
+      "meaning_en": "branch",
+      "meaning_uk": "відділення",
+      "meaning_es": "oficina local de un banco",
+      "example": "Debo ir a la *** para firmar unos documentos."
+    },
+    {
+      "term": "el cajero automático",
+      "type": "Noun",
+      "meaning_tr": "ATM/bankamatik",
+      "meaning_en": "ATM",
+      "meaning_uk": "банкомат",
+      "meaning_es": "máquina para sacar dinero",
+      "example": "El *** está fuera de servicio temporalmente."
+    },
+    {
+      "term": "la divisa",
+      "type": "Noun",
+      "meaning_tr": "döviz",
+      "meaning_en": "foreign currency",
+      "meaning_uk": "валюта",
+      "meaning_es": "moneda extranjera",
+      "example": "El cambio de *** ha fluctuado durante el día."
+    },
+    {
+      "term": "la solvencia",
+      "type": "Noun",
+      "meaning_tr": "ödeme gücü",
+      "meaning_en": "solvency/creditworthiness",
+      "meaning_uk": "платоспроможність",
+      "meaning_es": "capacidad para pagar deudas",
+      "example": "El banco evaluó nuestra *** antes de conceder el préstamo."
+    },
+    {
+      "term": "la morosidad",
+      "type": "Noun",
+      "meaning_tr": "gecikmiş ödeme durumu",
+      "meaning_en": "delinquency/default",
+      "meaning_uk": "прострочення платежу",
+      "meaning_es": "incumplimiento en los pagos",
+      "example": "La tasa de *** ha aumentado debido a la crisis."
+    },
+    {
+      "term": "el aval",
+      "type": "Noun",
+      "meaning_tr": "teminat/kefalet",
+      "meaning_en": "guarantee/collateral",
+      "meaning_uk": "гарантія/поручительство",
+      "meaning_es": "garantía de pago",
+      "example": "Mis padres han servido de *** para mi préstamo estudiantil."
+    },
+    {
+      "term": "el descubierto",
+      "type": "Noun",
+      "meaning_tr": "hesap eksisi",
+      "meaning_en": "overdraft",
+      "meaning_uk": "овердрафт",
+      "meaning_es": "saldo negativo en una cuenta",
+      "example": "Me han cobrado intereses por estar en ***."
+    },
+    {
+      "term": "la domiciliación",
+      "type": "Noun",
+      "meaning_tr": "otomatik ödeme talimatı",
+      "meaning_en": "direct debit",
+      "meaning_uk": "автоматичне списання",
+      "meaning_es": "pago automático de recibos",
+      "example": "He configurado la *** de la luz en mi banco."
+    },
+    {
+      "term": "el franqueo",
+      "type": "Noun",
+      "meaning_tr": "posta ücreti",
+      "meaning_en": "postage",
+      "meaning_uk": "поштова оплата",
+      "meaning_es": "precio del envío postal",
+      "example": "He pagado el *** necesario para enviar esta carta."
+    },
+    {
+      "term": "el paquete",
+      "type": "Noun",
+      "meaning_tr": "paket",
+      "meaning_en": "parcel/package",
+      "meaning_uk": "пакунок",
+      "meaning_es": "objeto enviado por correo",
+      "example": "El *** llegará a su destino mañana."
+    },
+    {
+      "term": "el código postal",
+      "type": "Noun",
+      "meaning_tr": "posta kodu",
+      "meaning_en": "zip code",
+      "meaning_uk": "поштовий індекс",
+      "meaning_es": "número de identificación geográfica",
+      "example": "Por favor, indique correctamente el ***."
+    },
+    {
+      "term": "la ventanilla",
+      "type": "Noun",
+      "meaning_tr": "gişe",
+      "meaning_en": "counter/window",
+      "meaning_uk": "віконце/каса",
+      "meaning_es": "lugar de atención al cliente",
+      "example": "Había mucha cola en la *** de correos."
+    },
+    {
+      "term": "la tarjeta de débito",
+      "type": "Noun",
+      "meaning_tr": "banka kartı",
+      "meaning_en": "debit card",
+      "meaning_uk": "дебетова картка",
+      "meaning_es": "tarjeta vinculada a cuenta corriente",
+      "example": "He perdido mi *** y tengo que cancelarla."
+    },
+    {
+      "term": "el ingreso",
+      "type": "Noun",
+      "meaning_tr": "para yatırma",
+      "meaning_en": "deposit",
+      "meaning_uk": "депозит/внесок",
+      "meaning_es": "acción de poner dinero en cuenta",
+      "example": "He realizado un *** esta mañana en la oficina."
+    },
+    {
+      "term": "la amortización",
+      "type": "Noun",
+      "meaning_tr": "borç ödeme/itfa",
+      "meaning_en": "amortization/repayment",
+      "meaning_uk": "амортизація/погашення",
+      "meaning_es": "pago gradual de una deuda",
+      "example": "La *** de la hipoteca se hará en veinte años."
+    },
+    {
+      "term": "el préstamo",
+      "type": "Noun",
+      "meaning_tr": "kredi/borç",
+      "meaning_en": "loan",
+      "meaning_uk": "позика",
+      "meaning_es": "dinero prestado por el banco",
+      "example": "He solicitado un *** para comprar un coche."
+    },
+    {
+      "term": "la cuenta bancaria",
+      "type": "Noun",
+      "meaning_tr": "banka hesabı",
+      "meaning_en": "bank account",
+      "meaning_uk": "банківський рахунок",
+      "meaning_es": "registro de movimientos financieros",
+      "example": "Necesito los dígitos de mi *** para el pago."
+    },
+    {
+      "term": "el sello",
+      "type": "Noun",
+      "meaning_tr": "posta pulu",
+      "meaning_en": "stamp",
+      "meaning_uk": "поштова марка",
+      "meaning_es": "papel adhesivo para envío",
+      "example": "No olvides pegar el *** en el sobre."
+    },
+    {
+      "term": "ingresar",
+      "type": "Verb",
+      "meaning_tr": "para yatırmak",
+      "meaning_en": "to deposit",
+      "meaning_uk": "вносити кошти",
+      "meaning_es": "poner dinero en una cuenta",
+      "example": "Debo *** el dinero antes de las dos."
+    },
+    {
+      "term": "transferir",
+      "type": "Verb",
+      "meaning_tr": "havale etmek",
+      "meaning_en": "to transfer",
+      "meaning_uk": "переказувати",
+      "meaning_es": "mover dinero de una cuenta a otra",
+      "example": "Voy a *** los fondos a tu cuenta ahora."
+    },
+    {
+      "term": "amortizar",
+      "type": "Verb",
+      "meaning_tr": "borcu ödemek/itfa etmek",
+      "meaning_en": "to pay off/amortize",
+      "meaning_uk": "погашати",
+      "meaning_es": "devolver un préstamo poco a poco",
+      "example": "Quiero *** parte de la deuda este mes."
+    },
+    {
+      "term": "domiciliar",
+      "type": "Verb",
+      "meaning_tr": "otomatik ödemeye bağlamak",
+      "meaning_en": "to set up direct debit",
+      "meaning_uk": "оформити автоплатіж",
+      "meaning_es": "autorizar cobros automáticos",
+      "example": "He decidido *** todos mis recibos en el banco."
+    },
+    {
+      "term": "retirar",
+      "type": "Verb",
+      "meaning_tr": "para çekmek",
+      "meaning_en": "to withdraw",
+      "meaning_uk": "знімати кошти",
+      "meaning_es": "sacar dinero de una cuenta",
+      "example": "Necesito *** efectivo para el viaje."
+    },
+    {
+      "term": "cancelar",
+      "type": "Verb",
+      "meaning_tr": "iptal etmek",
+      "meaning_en": "to cancel",
+      "meaning_uk": "скасовувати",
+      "meaning_es": "dar de baja una cuenta o servicio",
+      "example": "He decidido *** la tarjeta de crédito."
+    },
+    {
+      "term": "enviar",
+      "type": "Verb",
+      "meaning_tr": "göndermek",
+      "meaning_en": "to send",
+      "meaning_uk": "надсилати",
+      "meaning_es": "hacer llegar algo a otro lugar",
+      "example": "Voy a *** este paquete por correo urgente."
+    },
+    {
+      "term": "recibir",
+      "type": "Verb",
+      "meaning_tr": "almak",
+      "meaning_en": "to receive",
+      "meaning_uk": "отримувати",
+      "meaning_es": "obtener algo que envían",
+      "example": "Espero *** la notificación pronto."
+    },
+    {
+      "term": "financiar",
+      "type": "Verb",
+      "meaning_tr": "finanse etmek",
+      "meaning_en": "to finance",
+      "meaning_uk": "фінансувати",
+      "meaning_es": "proporcionar el dinero necesario",
+      "example": "El banco va a *** nuestro proyecto empresarial."
+    },
+    {
+      "term": "reclamar",
+      "type": "Verb",
+      "meaning_tr": "şikayet etmek/talep etmek",
+      "meaning_en": "to claim/complain",
+      "meaning_uk": "вимагати/скаржитися",
+      "meaning_es": "exigir algo por un error",
+      "example": "Voy a *** la comisión que me han cobrado."
+    },
+    {
+      "term": "bancario",
+      "type": "Adjective",
+      "meaning_tr": "banka ile ilgili",
+      "meaning_en": "banking",
+      "meaning_uk": "банківський",
+      "meaning_es": "relativo a la banca",
+      "example": "El sector *** está cambiando rápidamente."
+    },
+    {
+      "term": "insolvente",
+      "type": "Adjective",
+      "meaning_tr": "ödeme gücü olmayan",
+      "meaning_en": "insolvent",
+      "meaning_uk": "неплатоспроможний",
+      "meaning_es": "que no puede pagar sus deudas",
+      "example": "La empresa se declaró *** el mes pasado."
+    },
+    {
+      "term": "urgente",
+      "type": "Adjective",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміновий",
+      "meaning_es": "que requiere atención inmediata",
+      "example": "He enviado el sobre por correo ***."
+    },
+    {
+      "term": "rentable",
+      "type": "Adjective",
+      "meaning_tr": "karlı",
+      "meaning_en": "profitable",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "que genera beneficio",
+      "example": "Es una inversión muy *** a largo plazo."
+    },
+    {
+      "term": "gratuito",
+      "type": "Adjective",
+      "meaning_tr": "ücretsiz",
+      "meaning_en": "free",
+      "meaning_uk": "безкоштовний",
+      "meaning_es": "que no cuesta dinero",
+      "example": "Este servicio es *** para los clientes."
+    },
+    {
+      "term": "financiero",
+      "type": "Adjective",
+      "meaning_tr": "finansal",
+      "meaning_en": "financial",
+      "meaning_uk": "фінансовий",
+      "meaning_es": "relativo al dinero",
+      "example": "Necesitamos asesoramiento *** experto."
+    },
+    {
+      "term": "pendiente",
+      "type": "Adjective",
+      "meaning_tr": "beklemede",
+      "meaning_en": "pending",
+      "meaning_uk": "в очікуванні",
+      "meaning_es": "que falta por realizar",
+      "example": "Tengo un pago *** desde hace dos semanas."
+    },
+    {
+      "term": "anual",
+      "type": "Adjective",
+      "meaning_tr": "yıllık",
+      "meaning_en": "annual",
+      "meaning_uk": "щорічний",
+      "meaning_es": "que ocurre cada año",
+      "example": "El interés *** es del tres por ciento."
+    },
+    {
+      "term": "electrónico",
+      "type": "Adjective",
+      "meaning_tr": "elektronik",
+      "meaning_en": "electronic",
+      "meaning_uk": "електронний",
+      "meaning_es": "que funciona mediante electricidad",
+      "example": "He realizado el pago por medio ***."
+    },
+    {
+      "term": "internacional",
+      "type": "Adjective",
+      "meaning_tr": "uluslararası",
+      "meaning_en": "international",
+      "meaning_uk": "міжнародний",
+      "meaning_es": "entre varios países",
+      "example": "Hice una transferencia *** ayer."
+    },
+    {
+      "term": "mediante",
+      "type": "Preposition",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "a través de un medio",
+      "example": "He pagado *** tarjeta de crédito."
+    },
+    {
+      "term": "tras",
+      "type": "Preposition",
+      "meaning_tr": "sonra/ardından",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "después de un evento",
+      "example": "Recibí el dinero *** realizar el trámite."
+    },
+    {
+      "term": "durante",
+      "type": "Preposition",
+      "meaning_tr": "esnasında/boyunca",
+      "meaning_en": "during",
+      "meaning_uk": "протягом",
+      "meaning_es": "a lo largo de un tiempo",
+      "example": "El banco estuvo cerrado *** toda la mañana."
+    },
+    {
+      "term": "a través de",
+      "type": "Preposition",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "through",
+      "meaning_uk": "через",
+      "meaning_es": "por medio de un conducto",
+      "example": "Gestioné todo *** la banca online."
+    },
+    {
+      "term": "bajo",
+      "type": "Preposition",
+      "meaning_tr": "altında",
+      "meaning_en": "under",
+      "meaning_uk": "під",
+      "meaning_es": "sujeto a condiciones",
+      "example": "Operamos *** estrictas normas de seguridad."
+    },
+    {
+      "term": "asimismo",
+      "type": "Adverb",
+      "meaning_tr": "ayrıca/aynı şekilde",
+      "meaning_en": "likewise/also",
+      "meaning_uk": "також",
+      "meaning_es": "también",
+      "example": "He enviado el pago y *** la factura."
+    },
+    {
+      "term": "actualmente",
+      "type": "Adverb",
+      "meaning_tr": "şu anda",
+      "meaning_en": "currently",
+      "meaning_uk": "зараз",
+      "meaning_es": "en el momento presente",
+      "example": "El banco *** ofrece mejores tipos."
+    },
+    {
+      "term": "igualmente",
+      "type": "Adverb",
+      "meaning_tr": "aynı şekilde",
+      "meaning_en": "equally",
+      "meaning_uk": "однаково",
+      "meaning_es": "de la misma manera",
+      "example": "El proceso es *** sencillo para todos."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen/olsa da",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "a pesar de que",
+      "example": "He enviado el paquete *** sea tarde."
+    },
+    {
+      "term": "puesto que",
+      "type": "Conjunction",
+      "meaning_tr": "-dığı için",
+      "meaning_en": "since/because",
+      "meaning_uk": "оскільки",
+      "meaning_es": "debido a que",
+      "example": "He cambiado de banco *** las comisiones eran altas."
+    }
+  ]
+}

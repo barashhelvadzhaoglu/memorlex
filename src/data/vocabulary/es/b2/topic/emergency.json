@@ -1,0 +1,411 @@
+{
+  "title": "Emergencias y Ayuda (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la ambulancia",
+      "type": "Noun",
+      "example": "Llamaron a *** para trasladar al herido al hospital.",
+      "meaning_tr": "ambulans",
+      "meaning_en": "ambulance",
+      "meaning_uk": "швидка допомога",
+      "meaning_es": "vehículo para transporte de enfermos"
+    },
+    {
+      "term": "socorrer",
+      "type": "Verb",
+      "example": "Es fundamental *** a las víctimas inmediatamente.",
+      "meaning_tr": "yardım etmek",
+      "meaning_en": "to help/rescue",
+      "meaning_uk": "рятувати",
+      "meaning_es": "ayudar a alguien en peligro"
+    },
+    {
+      "term": "el incendio",
+      "type": "Noun",
+      "example": "Los bomberos llegaron rápido para apagar ***.",
+      "meaning_tr": "yangın",
+      "meaning_en": "fire",
+      "meaning_uk": "пожежа",
+      "meaning_es": "fuego grande que destruye algo"
+    },
+    {
+      "term": "la urgencia",
+      "type": "Noun",
+      "example": "Debido a la ***, el médico tuvo que actuar de inmediato.",
+      "meaning_tr": "acil durum",
+      "meaning_en": "emergency",
+      "meaning_uk": "терміновість",
+      "meaning_es": "necesidad de atención rápida"
+    },
+    {
+      "term": "el paramédico",
+      "type": "Noun",
+      "example": "*** le proporcionó los primeros auxilios al ciclista.",
+      "meaning_tr": "sağlık görevlisi",
+      "meaning_en": "paramedic",
+      "meaning_uk": "фельдшер",
+      "meaning_es": "profesional de atención prehospitalaria"
+    },
+    {
+      "term": "evacuar",
+      "type": "Verb",
+      "example": "La policía ordenó *** el edificio por seguridad.",
+      "meaning_tr": "tahliye etmek",
+      "meaning_en": "to evacuate",
+      "meaning_uk": "евакуювати",
+      "meaning_es": "desalojar un lugar"
+    },
+    {
+      "term": "la herida",
+      "type": "Noun",
+      "example": "La víctima tenía una *** profunda en el brazo.",
+      "meaning_tr": "yara",
+      "meaning_en": "wound",
+      "meaning_uk": "рана",
+      "meaning_es": "corte o lesión en la piel"
+    },
+    {
+      "term": "la hemorragia",
+      "type": "Noun",
+      "example": "Había que detener *** para salvar al paciente.",
+      "meaning_tr": "kanama",
+      "meaning_en": "hemorrhage/bleeding",
+      "meaning_uk": "кровотеча",
+      "meaning_es": "pérdida de sangre"
+    },
+    {
+      "term": "desmayarse",
+      "type": "Verb",
+      "example": "El hombre empezó a marearse y terminó por ***.",
+      "meaning_tr": "bayılmak",
+      "meaning_en": "to faint",
+      "meaning_uk": "знепритомніти",
+      "meaning_es": "perder el conocimiento"
+    },
+    {
+      "term": "el rescate",
+      "type": "Noun",
+      "example": "El equipo de *** comenzó la operación en la montaña.",
+      "meaning_tr": "kurtarma",
+      "meaning_en": "rescue",
+      "meaning_uk": "порятунок",
+      "meaning_es": "acción de salvar a alguien"
+    },
+    {
+      "term": "grave",
+      "type": "Adjective",
+      "example": "El estado del paciente es bastante ***.",
+      "meaning_tr": "ciddi",
+      "meaning_en": "serious/severe",
+      "meaning_uk": "серйозний",
+      "meaning_es": "de mucha importancia o peligro"
+    },
+    {
+      "term": "la camilla",
+      "type": "Noun",
+      "example": "Colocaron al paciente en *** con mucho cuidado.",
+      "meaning_tr": "sedye",
+      "meaning_en": "stretcher",
+      "meaning_uk": "ноші",
+      "meaning_es": "cama portátil para enfermos"
+    },
+    {
+      "term": "la asfixia",
+      "type": "Noun",
+      "example": "El humo causó *** en varias personas dentro del local.",
+      "meaning_tr": "boğulma",
+      "meaning_en": "suffocation",
+      "meaning_uk": "задуха",
+      "meaning_es": "dificultad para respirar"
+    },
+    {
+      "term": "desesperadamente",
+      "type": "Adverb",
+      "example": "La familia buscaba *** a los desaparecidos.",
+      "meaning_tr": "umutsuzca",
+      "meaning_en": "desperately",
+      "meaning_uk": "відчайдушно",
+      "meaning_es": "con mucha desesperación"
+    },
+    {
+      "term": "la inundación",
+      "type": "Noun",
+      "example": "Tras la lluvia, *** afectó a toda la ciudad.",
+      "meaning_tr": "sel",
+      "meaning_en": "flood",
+      "meaning_uk": "повінь",
+      "meaning_es": "desbordamiento de agua"
+    },
+    {
+      "term": "el sismo",
+      "type": "Noun",
+      "example": "El *** destruyó varios edificios antiguos.",
+      "meaning_tr": "deprem",
+      "meaning_en": "earthquake",
+      "meaning_uk": "землетрус",
+      "meaning_es": "movimiento de tierra"
+    },
+    {
+      "term": "la alarma",
+      "type": "Noun",
+      "example": "Al sonar ***, todos salieron al patio.",
+      "meaning_tr": "alarm",
+      "meaning_en": "alarm",
+      "meaning_uk": "сигнал тривоги",
+      "meaning_es": "señal de aviso"
+    },
+    {
+      "term": "auxiliar",
+      "type": "Verb",
+      "example": "Debemos *** a los damnificados por el desastre.",
+      "meaning_tr": "yardım etmek",
+      "meaning_en": "to assist/aid",
+      "meaning_uk": "допомагати",
+      "meaning_es": "dar asistencia"
+    },
+    {
+      "term": "inconsciente",
+      "type": "Adjective",
+      "example": "Encontraron al conductor *** tras el choque.",
+      "meaning_tr": "bilinçsiz",
+      "meaning_en": "unconscious",
+      "meaning_uk": "непритомний",
+      "meaning_es": "sin conocimiento"
+    },
+    {
+      "term": "el vendaje",
+      "type": "Noun",
+      "example": "Le cambiaron *** de la pierna dos veces al día.",
+      "meaning_tr": "bandaj",
+      "meaning_en": "bandage",
+      "meaning_uk": "пов'язка",
+      "meaning_es": "material para cubrir heridas"
+    },
+    {
+      "term": "alerta",
+      "type": "Adjective",
+      "example": "Debemos permanecer *** ante cualquier señal de peligro.",
+      "meaning_tr": "tetikte",
+      "meaning_en": "alert",
+      "meaning_uk": "насторожений",
+      "meaning_es": "atento a un peligro"
+    },
+    {
+      "term": "el refugio",
+      "type": "Noun",
+      "example": "Llevaron a los afectados a un *** seguro.",
+      "meaning_tr": "sığınak",
+      "meaning_en": "shelter",
+      "meaning_uk": "притулок",
+      "meaning_es": "lugar de protección"
+    },
+    {
+      "term": "colapsar",
+      "type": "Verb",
+      "example": "El techo empezó a *** debido al peso de la nieve.",
+      "meaning_tr": "çökmek",
+      "meaning_en": "to collapse",
+      "meaning_uk": "обвалитися",
+      "meaning_es": "derrumbarse"
+    },
+    {
+      "term": "la fractura",
+      "type": "Noun",
+      "example": "La radiografía confirmó una *** en el tobillo.",
+      "meaning_tr": "kırık",
+      "meaning_en": "fracture",
+      "meaning_uk": "перелом",
+      "meaning_es": "rotura de un hueso"
+    },
+    {
+      "term": "el derrumbe",
+      "type": "Noun",
+      "example": "El camino quedó bloqueado por *** de rocas.",
+      "meaning_tr": "heyelan / göçük",
+      "meaning_en": "landslide/collapse",
+      "meaning_uk": "обвал",
+      "meaning_es": "caída de tierra o edificios"
+    },
+    {
+      "term": "urgente",
+      "type": "Adjective",
+      "example": "Necesitamos una solución *** para este problema.",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміновий",
+      "meaning_es": "que requiere atención inmediata"
+    },
+    {
+      "term": "la quemadura",
+      "type": "Noun",
+      "example": "Se hizo una *** grave al tocar la olla caliente.",
+      "meaning_tr": "yanık",
+      "meaning_en": "burn",
+      "meaning_uk": "опік",
+      "meaning_es": "lesión por fuego o calor"
+    },
+    {
+      "term": "resucitar",
+      "type": "Verb",
+      "example": "Los médicos intentaron *** al paciente sin éxito.",
+      "meaning_tr": "hayata döndürmek",
+      "meaning_en": "to resuscitate",
+      "meaning_uk": "реанімувати",
+      "meaning_es": "devolver la vida o el pulso"
+    },
+    {
+      "term": "la evacuación",
+      "type": "Noun",
+      "example": "*** del centro comercial fue muy ordenada.",
+      "meaning_tr": "tahliye",
+      "meaning_en": "evacuation",
+      "meaning_uk": "евакуація",
+      "meaning_es": "acción de desalojar"
+    },
+    {
+      "term": "atropellar",
+      "type": "Verb",
+      "example": "Un coche intentó *** a un peatón en la esquina.",
+      "meaning_tr": "ezmek (araçla)",
+      "meaning_en": "to run over",
+      "meaning_uk": "збити (автомобілем)",
+      "meaning_es": "golpear con un vehículo"
+    },
+    {
+      "term": "la víctima",
+      "type": "Noun",
+      "example": "Identificaron a *** del accidente poco después.",
+      "meaning_tr": "kurban",
+      "meaning_en": "victim",
+      "meaning_uk": "жертва",
+      "meaning_es": "persona que sufre un daño"
+    },
+    {
+      "term": "la ambulancia",
+      "type": "Noun",
+      "example": "Llamaron a *** para trasladar al herido al hospital.",
+      "meaning_tr": "ambulans",
+      "meaning_en": "ambulance",
+      "meaning_uk": "швидка допомога",
+      "meaning_es": "vehículo sanitario"
+    },
+    {
+      "term": "el socorro",
+      "type": "Noun",
+      "example": "Pidió *** a gritos porque no podía salir.",
+      "meaning_tr": "yardım",
+      "meaning_en": "help/relief",
+      "meaning_uk": "допомога",
+      "meaning_es": "ayuda en peligro"
+    },
+    {
+      "term": "inmediatamente",
+      "type": "Adverb",
+      "example": "Debes llamar a emergencias ***.",
+      "meaning_tr": "hemen",
+      "meaning_en": "immediately",
+      "meaning_uk": "негайно",
+      "meaning_es": "sin dilación"
+    },
+    {
+      "term": "la catástrofe",
+      "type": "Noun",
+      "example": "El país sufrió una *** natural sin precedentes.",
+      "meaning_tr": "felaket",
+      "meaning_en": "catastrophe",
+      "meaning_uk": "катастрофа",
+      "meaning_es": "desastre de gran magnitud"
+    },
+    {
+      "term": "lesionado",
+      "type": "Adjective",
+      "example": "El jugador *** tuvo que salir del campo.",
+      "meaning_tr": "yaralı",
+      "meaning_en": "injured",
+      "meaning_uk": "поранений",
+      "meaning_es": "que tiene una lesión"
+    },
+    {
+      "term": "la dosis",
+      "type": "Noun",
+      "example": "Es importante seguir la *** exacta del medicamento.",
+      "meaning_tr": "doz",
+      "meaning_en": "dose",
+      "meaning_uk": "доза",
+      "meaning_es": "cantidad de medicina"
+    },
+    {
+      "term": "a salvo",
+      "type": "Adverb",
+      "example": "Finalmente, todos los niños están ***.",
+      "meaning_tr": "güvende",
+      "meaning_en": "safe",
+      "meaning_uk": "у безпеці",
+      "meaning_es": "fuera de peligro"
+    },
+    {
+      "term": "el antídoto",
+      "type": "Noun",
+      "example": "Administraron el *** contra el veneno rápidamente.",
+      "meaning_tr": "panzehir",
+      "meaning_en": "antidote",
+      "meaning_uk": "антидот",
+      "meaning_es": "sustancia contra un veneno"
+    },
+    {
+      "term": "la conmoción",
+      "type": "Noun",
+      "example": "El golpe le causó una *** cerebral leve.",
+      "meaning_tr": "sarsıntı",
+      "meaning_en": "concussion",
+      "meaning_uk": "струс",
+      "meaning_es": "impacto o golpe fuerte"
+    },
+    {
+      "term": "peligroso",
+      "type": "Adjective",
+      "example": "Es muy *** cruzar la calle sin mirar.",
+      "meaning_tr": "tehlikeli",
+      "meaning_en": "dangerous",
+      "meaning_uk": "небезпечний",
+      "meaning_es": "que ofrece riesgo"
+    },
+    {
+      "term": "la deshidratación",
+      "type": "Noun",
+      "example": "El niño sufría *** por falta de agua.",
+      "meaning_tr": "dehidrasyon",
+      "meaning_en": "dehydration",
+      "meaning_uk": "зневоднення",
+      "meaning_es": "falta de líquidos"
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "example": "Llamaron a la policía *** a los médicos.",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "conjunción copulativa"
+    },
+    {
+      "term": "o",
+      "type": "Conjunction",
+      "example": "Debes ir al hospital *** llamar al médico.",
+      "meaning_tr": "veya",
+      "meaning_en": "or",
+      "meaning_uk": "або",
+      "meaning_es": "conjunción disyuntiva"
+    },
+    {
+      "term": "bajo",
+      "type": "Preposition",
+      "example": "Se escondieron *** los escombros durante el temblor.",
+      "meaning_tr": "altında",
+      "meaning_en": "under",
+      "meaning_uk": "під",
+      "meaning_es": "debajo de algo"
+    }
+  ]
+}

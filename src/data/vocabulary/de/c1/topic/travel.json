@@ -1,0 +1,546 @@
+{
+  "title": "Reisen & Urlaub (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Fernweh",
+      "type": "Noun",
+      "meaning_tr": "uzaklara duyulan özlem",
+      "meaning_en": "wanderlust",
+      "meaning_uk": "туга за далекими країнами",
+      "meaning_es": "ansias de viajar",
+      "example": "Schon beim Anblick des Globus packt mich das ***."
+    },
+    {
+      "term": "die Pauschalreise",
+      "type": "Noun",
+      "meaning_tr": "paket tur",
+      "meaning_en": "package tour",
+      "meaning_uk": "пакетний тур",
+      "meaning_es": "viaje organizado",
+      "example": "Viele Familien bevorzugen eine ***, um sich um nichts kümmern zu müssen."
+    },
+    {
+      "term": "der Individualtourismus",
+      "type": "Noun",
+      "meaning_tr": "bireysel turizm",
+      "meaning_en": "independent tourism",
+      "meaning_uk": "індивідуальний туризм",
+      "meaning_es": "turismo individual",
+      "example": "Im Gegensatz zum Massentourismus legt der *** Wert auf Flexibilität."
+    },
+    {
+      "term": "die Auszeit",
+      "type": "Noun",
+      "meaning_tr": "mola, ara",
+      "meaning_en": "time-out / break",
+      "meaning_uk": "перерва, відпустка",
+      "meaning_es": "tiempo de descanso",
+      "example": "Ich brauche dringend eine *** vom stressigen Büroalltag."
+    },
+    {
+      "term": "das Reiseziel",
+      "type": "Noun",
+      "meaning_tr": "seyahat destinasyonu",
+      "meaning_en": "destination",
+      "meaning_uk": "пункт призначення",
+      "meaning_es": "destino de viaje",
+      "example": "Dieses Jahr haben wir uns ein exotisches *** ausgesucht."
+    },
+    {
+      "term": "die Unterkunft",
+      "type": "Noun",
+      "meaning_tr": "konaklama",
+      "meaning_en": "accommodation",
+      "meaning_uk": "житло, розміщення",
+      "meaning_es": "alojamiento",
+      "example": "Die *** war sehr einfach, aber sauber."
+    },
+    {
+      "term": "die Sehenswürdigkeit",
+      "type": "Noun",
+      "meaning_tr": "turistik yer",
+      "meaning_en": "sight / tourist attraction",
+      "meaning_uk": "пам'ятка",
+      "meaning_es": "lugar de interés",
+      "example": "In Rom gibt es an jeder Ecke eine historische ***."
+    },
+    {
+      "term": "die Reiseroute",
+      "type": "Noun",
+      "meaning_tr": "seyahat rotası",
+      "meaning_en": "itinerary",
+      "meaning_uk": "маршрут подорожі",
+      "meaning_es": "itinerario",
+      "example": "Wir haben unsere *** so geplant, dass wir möglichst viel sehen."
+    },
+    {
+      "term": "die Abreise",
+      "type": "Noun",
+      "meaning_tr": "hareket, kalkış",
+      "meaning_en": "departure",
+      "meaning_uk": "від'їзд",
+      "meaning_es": "salida",
+      "example": "Kurz vor der *** herrscht bei uns immer Hektik."
+    },
+    {
+      "term": "die Ankunft",
+      "type": "Noun",
+      "meaning_tr": "varış",
+      "meaning_en": "arrival",
+      "meaning_uk": "прибуття",
+      "meaning_es": "llegada",
+      "example": "Nach der *** haben wir erst einmal im Hotel eingecheckt."
+    },
+    {
+      "term": "die Buchung",
+      "type": "Noun",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "booking",
+      "meaning_uk": "бронювання",
+      "meaning_es": "reserva",
+      "example": "Die *** für den Flug wurde sofort bestätigt."
+    },
+    {
+      "term": "der Zwischenstopp",
+      "type": "Noun",
+      "meaning_tr": "mola, aktarma",
+      "meaning_en": "layover / stopover",
+      "meaning_uk": "зупинка в дорозі",
+      "meaning_es": "escala",
+      "example": "Wir machen einen kurzen *** in Dubai, bevor es weitergeht."
+    },
+    {
+      "term": "die Verpflegung",
+      "type": "Noun",
+      "meaning_tr": "yeme içme",
+      "meaning_en": "catering / board",
+      "meaning_uk": "харчування",
+      "meaning_es": "manutención",
+      "example": "In diesem Hotel ist die *** im Preis inbegriffen."
+    },
+    {
+      "term": "die Rundreise",
+      "type": "Noun",
+      "meaning_tr": "tur gezisi",
+      "meaning_en": "round trip",
+      "meaning_uk": "кругова поїздка",
+      "meaning_es": "viaje circular",
+      "example": "Eine *** durch Vietnam ist sehr abwechslungsreich."
+    },
+    {
+      "term": "die Abgeschiedenheit",
+      "type": "Noun",
+      "meaning_tr": "inziva, yalnızlık",
+      "meaning_en": "seclusion",
+      "meaning_uk": "усамітнення",
+      "meaning_es": "aislamiento",
+      "example": "Wir suchten die *** in den Alpen, um zu entspannen."
+    },
+    {
+      "term": "die Reiselust",
+      "type": "Noun",
+      "meaning_tr": "seyahat etme isteği",
+      "meaning_en": "desire to travel",
+      "meaning_uk": "бажання подорожувати",
+      "meaning_es": "ganas de viajar",
+      "example": "Sobald der Frühling kommt, packt mich die ***."
+    },
+    {
+      "term": "das Reisegepäck",
+      "type": "Noun",
+      "meaning_tr": "seyahat bagajı",
+      "meaning_en": "luggage",
+      "meaning_uk": "багаж",
+      "meaning_es": "equipaje",
+      "example": "Bitte achten Sie auf Ihr *** am Flughafen."
+    },
+    {
+      "term": "die Pauschale",
+      "type": "Noun",
+      "meaning_tr": "sabit ücret",
+      "meaning_en": "flat rate",
+      "meaning_uk": "фіксована сума",
+      "meaning_es": "tarifa plana",
+      "example": "Wir haben eine *** für den gesamten Ausflug bezahlt."
+    },
+    {
+      "term": "der Reiseführer",
+      "type": "Noun",
+      "meaning_tr": "tur rehberi / rehber kitap",
+      "meaning_en": "guidebook / tour guide",
+      "meaning_uk": "путівник / гід",
+      "meaning_es": "guía (persona o libro)",
+      "example": "Der *** hat uns viele versteckte Orte gezeigt."
+    },
+    {
+      "term": "die Fernreise",
+      "type": "Noun",
+      "meaning_tr": "uzak mesafe seyahati",
+      "meaning_en": "long-distance trip",
+      "meaning_uk": "далека подорож",
+      "meaning_es": "viaje de larga distancia",
+      "example": "Für eine *** sollte man genug Zeit einplanen."
+    },
+    {
+      "term": "erkunden",
+      "type": "Verb",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "to explore",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "explorar",
+      "example": "Wir wollen die Altstadt zu Fuß ***."
+    },
+    {
+      "term": "sich erholen",
+      "type": "Verb",
+      "meaning_tr": "dinlenmek, iyileşmek",
+      "meaning_en": "to recover / relax",
+      "meaning_uk": "відпочивати",
+      "meaning_es": "descansar",
+      "example": "Im Urlaub kann man sich wunderbar vom Stress ***."
+    },
+    {
+      "term": "verweilen",
+      "type": "Verb",
+      "meaning_tr": "kalmak, oyalanmak",
+      "meaning_en": "to linger / stay",
+      "meaning_uk": "затримуватися",
+      "meaning_es": "permanecer",
+      "example": "Wir möchten gerne noch etwas länger an diesem schönen Ort ***."
+    },
+    {
+      "term": "entfliehen",
+      "type": "Verb",
+      "meaning_tr": "kaçmak",
+      "meaning_en": "to escape",
+      "meaning_uk": "втекти",
+      "meaning_es": "escapar",
+      "example": "Viele Menschen wollen dem Alltag ***."
+    },
+    {
+      "term": "buchen",
+      "type": "Verb",
+      "meaning_tr": "rezervasyon yapmak",
+      "meaning_en": "to book",
+      "meaning_uk": "бронювати",
+      "meaning_es": "reservar",
+      "example": "Hast du den Flug schon ***?"
+    },
+    {
+      "term": "schlendern",
+      "type": "Verb",
+      "meaning_tr": "gezinmek",
+      "meaning_en": "to stroll",
+      "meaning_uk": "прогулюватися",
+      "meaning_es": "pasear",
+      "example": "Wir sind durch die engen Gassen der Stadt ***."
+    },
+    {
+      "term": "besichtigen",
+      "type": "Verb",
+      "meaning_tr": "ziyaret etmek (turistik)",
+      "meaning_en": "to visit / sightsee",
+      "meaning_uk": "оглядати",
+      "meaning_es": "visitar",
+      "example": "Wir haben das Museum und das Schloss ***."
+    },
+    {
+      "term": "einchecken",
+      "type": "Verb",
+      "meaning_tr": "giriş yapmak",
+      "meaning_en": "to check in",
+      "meaning_uk": "реєструватися",
+      "meaning_es": "registrarse",
+      "example": "Wir konnten bereits um 12 Uhr im Hotel ***."
+    },
+    {
+      "term": "auschecken",
+      "type": "Verb",
+      "meaning_tr": "çıkış yapmak",
+      "meaning_en": "to check out",
+      "meaning_uk": "виселятися",
+      "meaning_es": "hacer el check-out",
+      "example": "Bitte denken Sie daran, bis 11 Uhr zu ***."
+    },
+    {
+      "term": "verreisen",
+      "type": "Verb",
+      "meaning_tr": "seyahate çıkmak",
+      "meaning_en": "to go on a trip",
+      "meaning_uk": "їхати у подорож",
+      "meaning_es": "irse de viaje",
+      "example": "Nächsten Monat werde ich für zwei Wochen ***."
+    },
+    {
+      "term": "anreisen",
+      "type": "Verb",
+      "meaning_tr": "varmak",
+      "meaning_en": "to arrive / travel to",
+      "meaning_uk": "приїжджати",
+      "meaning_es": "llegar",
+      "example": "Die meisten Gäste *** am Freitagabend."
+    },
+    {
+      "term": "abfahren",
+      "type": "Verb",
+      "meaning_tr": "hareket etmek",
+      "meaning_en": "to depart",
+      "meaning_uk": "відправлятися",
+      "meaning_es": "salir",
+      "example": "Der Zug wird pünktlich ***."
+    },
+    {
+      "term": "einkehren",
+      "type": "Verb",
+      "meaning_tr": "uğramak (restorana vs.)",
+      "meaning_en": "to stop for a bite/drink",
+      "meaning_uk": "завітати (в ресторан)",
+      "meaning_es": "parar a comer/beber",
+      "example": "Nach der Wanderung sind wir in einer Berghütte ***."
+    },
+    {
+      "term": "durchqueren",
+      "type": "Verb",
+      "meaning_tr": "boydan boya geçmek",
+      "meaning_en": "to cross / traverse",
+      "meaning_uk": "перетинати",
+      "meaning_es": "atravesar",
+      "example": "Sie haben das Land mit dem Fahrrad ***."
+    },
+    {
+      "term": "ansteuern",
+      "type": "Verb",
+      "meaning_tr": "hedeflemek, yönelmek",
+      "meaning_en": "to head for",
+      "meaning_uk": "прямувати до",
+      "meaning_es": "dirigirse a",
+      "example": "Wir werden zuerst den Hafen ***."
+    },
+    {
+      "term": "auskosten",
+      "type": "Verb",
+      "meaning_tr": "tadını çıkarmak",
+      "meaning_en": "to enjoy / savor",
+      "meaning_uk": "насолоджуватися",
+      "meaning_es": "saborear",
+      "example": "Wir haben jeden Tag am Strand in vollen Zügen ***."
+    },
+    {
+      "term": "abenteuerlustig",
+      "type": "Adjective",
+      "meaning_tr": "maceracı",
+      "meaning_en": "adventurous",
+      "meaning_uk": "шукач пригод",
+      "meaning_es": "aventurero",
+      "example": "Er ist sehr *** und liebt das Trekking."
+    },
+    {
+      "term": "malerisch",
+      "type": "Adjective",
+      "meaning_tr": "tablo gibi, pitoresk",
+      "meaning_en": "picturesque",
+      "meaning_uk": "мальовничий",
+      "meaning_es": "pintoresco",
+      "example": "Das Dorf liegt in einer *** Landschaft."
+    },
+    {
+      "term": "idyllisch",
+      "type": "Adjective",
+      "meaning_tr": "cennet gibi, huzurlu",
+      "meaning_en": "idyllic",
+      "meaning_uk": "ідилічний",
+      "meaning_es": "idílico",
+      "example": "Wir verbrachten einen *** Urlaub auf dem Land."
+    },
+    {
+      "term": "touristisch",
+      "type": "Adjective",
+      "meaning_tr": "turistik",
+      "meaning_en": "touristic",
+      "meaning_uk": "туристичний",
+      "meaning_es": "turístico",
+      "example": "Dieser Ort ist sehr *** und entsprechend überlaufen."
+    },
+    {
+      "term": "abgelegen",
+      "type": "Adjective",
+      "meaning_tr": "ücra, sapa",
+      "meaning_en": "remote / isolated",
+      "meaning_uk": "віддалений",
+      "meaning_es": "remoto",
+      "example": "Wir suchten eine *** Hütte in den Bergen."
+    },
+    {
+      "term": "exotisch",
+      "type": "Adjective",
+      "meaning_tr": "egzotik",
+      "meaning_en": "exotic",
+      "meaning_uk": "екзотичний",
+      "meaning_es": "exótico",
+      "example": "Sie liebt *** Früchte und fremde Kulturen."
+    },
+    {
+      "term": "atemberaubend",
+      "type": "Adjective",
+      "meaning_tr": "nefes kesici",
+      "meaning_en": "breathtaking",
+      "meaning_uk": "захопливий",
+      "meaning_es": "impresionante",
+      "example": "Die Aussicht vom Gipfel war einfach ***."
+    },
+    {
+      "term": "vielversprechend",
+      "type": "Adjective",
+      "meaning_tr": "umut verici",
+      "meaning_en": "promising",
+      "meaning_uk": "багатообіцяльний",
+      "meaning_es": "prometedor",
+      "example": "Das neue Hotelkonzept klingt sehr ***."
+    },
+    {
+      "term": "komfortabel",
+      "type": "Adjective",
+      "meaning_tr": "konforlu",
+      "meaning_en": "comfortable",
+      "meaning_uk": "комфортний",
+      "meaning_es": "cómodo",
+      "example": "Das Zimmer war sehr *** eingerichtet."
+    },
+    {
+      "term": "unvergesslich",
+      "type": "Adjective",
+      "meaning_tr": "unutulmaz",
+      "meaning_en": "unforgettable",
+      "meaning_uk": "незабутній",
+      "meaning_es": "inolvidable",
+      "example": "Es war eine *** Reise mit vielen Erlebnissen."
+    },
+    {
+      "term": "anspruchsvoll",
+      "type": "Adjective",
+      "meaning_tr": "zorlu, iddialı",
+      "meaning_en": "demanding / sophisticated",
+      "meaning_uk": "вимогливий",
+      "meaning_es": "exigente",
+      "example": "Die Wanderung war körperlich sehr ***."
+    },
+    {
+      "term": "gepflegt",
+      "type": "Adjective",
+      "meaning_tr": "bakımlı",
+      "meaning_en": "well-maintained",
+      "meaning_uk": "доглянутий",
+      "meaning_es": "bien cuidado",
+      "example": "Der Garten des Hotels ist sehr ***."
+    },
+    {
+      "term": "einsam",
+      "type": "Adjective",
+      "meaning_tr": "ıssız, yalnız",
+      "meaning_en": "lonely / solitary",
+      "meaning_uk": "самотній",
+      "meaning_es": "solitario",
+      "example": "Wir genossen die *** Strände auf der Insel."
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "regarding / with regard to",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a",
+      "example": "*** der Reiseplanung gibt es noch einige Fragen."
+    },
+    {
+      "term": "abseits",
+      "type": "Preposition",
+      "meaning_tr": "dışında, uzağında",
+      "meaning_en": "off / away from",
+      "meaning_uk": "поза",
+      "meaning_es": "lejos de",
+      "example": "*** der großen Touristenpfade ist es viel ruhiger."
+    },
+    {
+      "term": "inmitten",
+      "type": "Preposition",
+      "meaning_tr": "ortasında",
+      "meaning_en": "in the middle of",
+      "meaning_uk": "посеред",
+      "meaning_es": "en medio de",
+      "example": "Das Haus liegt *** eines großen Waldes."
+    },
+    {
+      "term": "hinterher",
+      "type": "Adverb",
+      "meaning_tr": "sonradan, arkasından",
+      "meaning_en": "afterwards",
+      "meaning_uk": "згодом",
+      "meaning_es": "después",
+      "example": "Wir haben den Ausflug gemacht und *** sind wir essen gegangen."
+    },
+    {
+      "term": "vorübergehend",
+      "type": "Adverb",
+      "meaning_tr": "geçici olarak",
+      "meaning_en": "temporarily",
+      "meaning_uk": "тимчасово",
+      "meaning_es": "temporalmente",
+      "example": "Das Hotel ist *** geschlossen."
+    },
+    {
+      "term": "ununterbrochen",
+      "type": "Adverb",
+      "meaning_tr": "kesintisiz",
+      "meaning_en": "continuously",
+      "meaning_uk": "безперервно",
+      "meaning_es": "continuamente",
+      "example": "Es hat während der ganzen Reise *** geregnet."
+    },
+    {
+      "term": "gelegentlich",
+      "type": "Adverb",
+      "meaning_tr": "ara sıra",
+      "meaning_en": "occasionally",
+      "meaning_uk": "зрідка",
+      "meaning_es": "ocasionalmente",
+      "example": "Wir machen *** kleine Ausflüge in die Umgebung."
+    },
+    {
+      "term": "weder ... noch",
+      "type": "Conjunction",
+      "meaning_tr": "ne ... ne de",
+      "meaning_en": "neither ... nor",
+      "meaning_uk": "ні ... ні",
+      "meaning_es": "ni ... ni",
+      "example": "Wir haben *** Zeit *** Lust auf eine lange Busfahrt."
+    },
+    {
+      "term": "sowohl ... als auch",
+      "type": "Conjunction",
+      "meaning_tr": "hem ... hem de",
+      "meaning_en": "both ... and",
+      "meaning_uk": "як ... так і",
+      "meaning_es": "tanto ... como",
+      "example": "Das Hotel bietet *** einen Pool *** einen Fitnessraum."
+    },
+    {
+      "term": "zwar ... aber",
+      "type": "Conjunction",
+      "meaning_tr": "gerçi ... ama",
+      "meaning_en": "admittedly ... but",
+      "meaning_uk": "хоча ... але",
+      "meaning_es": "aunque ... pero",
+      "example": "Es war *** teuer, *** die Aussicht war es wert."
+    },
+    {
+      "term": "entweder ... oder",
+      "type": "Conjunction",
+      "meaning_tr": "ya ... ya da",
+      "meaning_en": "either ... or",
+      "meaning_uk": "або ... або",
+      "meaning_es": "o ... o",
+      "example": "Wir können *** fliegen *** mit dem Zug fahren."
+    }
+  ]
+}

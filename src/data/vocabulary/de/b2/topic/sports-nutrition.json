@@ -1,0 +1,411 @@
+{
+  "title": "Leistungssport & Ernährung (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Leistungssportler",
+      "type": "Noun",
+      "example": "Ein professioneller *** trainiert oft mehrmals am Tag.",
+      "meaning_tr": "profesyonel sporcu",
+      "meaning_en": "competitive athlete",
+      "meaning_uk": "професійний спортсмен",
+      "meaning_es": "atleta de alto rendimiento"
+    },
+    {
+      "term": "die Ausdauer",
+      "type": "Noun",
+      "example": "Laufen verbessert die kardiovaskuläre ***.",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "endurance",
+      "meaning_uk": "витривалість",
+      "meaning_es": "resistencia"
+    },
+    {
+      "term": "der Stoffwechsel",
+      "type": "Noun",
+      "example": "Regelmäßiger Sport kurbelt den *** an.",
+      "meaning_tr": "metabolizma",
+      "meaning_en": "metabolism",
+      "meaning_uk": "обмін речовин",
+      "meaning_es": "metabolismo"
+    },
+    {
+      "term": "sich ernähren",
+      "type": "Verb",
+      "example": "Sportler müssen *** gesund ***, um Leistung zu bringen.",
+      "meaning_tr": "beslenmek",
+      "meaning_en": "to nourish oneself",
+      "meaning_uk": "харчуватися",
+      "meaning_es": "alimentarse"
+    },
+    {
+      "term": "ausgewogen",
+      "type": "Adjective",
+      "example": "Eine *** Ernährung ist die Basis für den Erfolg.",
+      "meaning_tr": "dengeli",
+      "meaning_en": "balanced",
+      "meaning_uk": "збалансований",
+      "meaning_es": "equilibrado"
+    },
+    {
+      "term": "die Kohlenhydrate",
+      "type": "Noun",
+      "example": "Vor dem Marathon essen viele Läufer viele ***.",
+      "meaning_tr": "karbonhidratlar",
+      "meaning_en": "carbohydrates",
+      "meaning_uk": "вуглеводи",
+      "meaning_es": "carbohidratos"
+    },
+    {
+      "term": "das Eiweiß",
+      "type": "Noun",
+      "example": "Für den Muskelaufbau ist *** besonders wichtig.",
+      "meaning_tr": "protein",
+      "meaning_en": "protein",
+      "meaning_uk": "білок",
+      "meaning_es": "proteína"
+    },
+    {
+      "term": "die Regeneration",
+      "type": "Noun",
+      "example": "Nach dem Training braucht der Körper Zeit zur ***.",
+      "meaning_tr": "yenilenme",
+      "meaning_en": "regeneration",
+      "meaning_uk": "відновлення",
+      "meaning_es": "regeneración"
+    },
+    {
+      "term": "steigern",
+      "type": "Verb",
+      "example": "Durch hartes Training kann man seine Leistung ***.",
+      "meaning_tr": "artırmak",
+      "meaning_en": "to increase / enhance",
+      "meaning_uk": "підвищувати",
+      "meaning_es": "aumentar"
+    },
+    {
+      "term": "die Nahrungsergänzungsmittel",
+      "type": "Noun",
+      "example": "Viele Athleten nehmen *** wie Vitamine oder Proteinpulver.",
+      "meaning_tr": "takviye edici gıdalar",
+      "meaning_en": "dietary supplements",
+      "meaning_uk": "дієтичні добавки",
+      "meaning_es": "suplementos alimenticios"
+    },
+    {
+      "term": "der Muskelkater",
+      "type": "Noun",
+      "example": "Nach dem ersten Training hatte ich einen starken ***.",
+      "meaning_tr": "kas ağrısı",
+      "meaning_en": "muscle soreness",
+      "meaning_uk": "кріпатура",
+      "meaning_es": "agujetas"
+    },
+    {
+      "term": "die Leistungsfähigkeit",
+      "type": "Noun",
+      "example": "Schlafmangel reduziert die körperliche ***.",
+      "meaning_tr": "performans kapasitesi",
+      "meaning_en": "performance capacity",
+      "meaning_uk": "працездатність",
+      "meaning_es": "capacidad de rendimiento"
+    },
+    {
+      "term": "verzichten",
+      "type": "Verb",
+      "example": "Ich muss während der Diät auf Süßigkeiten ***.",
+      "meaning_tr": "vazgeçmek / sakınmak",
+      "meaning_en": "to do without",
+      "meaning_uk": "відмовлятися",
+      "meaning_es": "renunciar"
+    },
+    {
+      "term": "intensiv",
+      "type": "Adjective",
+      "example": "Die Vorbereitung auf den Wettkampf war sehr ***.",
+      "meaning_tr": "yoğun",
+      "meaning_en": "intensive",
+      "meaning_uk": "інтенсивний",
+      "meaning_es": "intensivo"
+    },
+    {
+      "term": "der Trainingsplan",
+      "type": "Noun",
+      "example": "Der Coach erstellt für jeden Sportler einen individuellen ***.",
+      "meaning_tr": "antrenman planı",
+      "meaning_en": "training plan",
+      "meaning_uk": "план тренувань",
+      "meaning_es": "plan de entrenamiento"
+    },
+    {
+      "term": "die Kalorienzufuhr",
+      "type": "Noun",
+      "example": "Im Kraftsport muss man auf eine ausreichende *** achten.",
+      "meaning_tr": "kalori alımı",
+      "meaning_en": "calorie intake",
+      "meaning_uk": "споживання калорій",
+      "meaning_es": "ingesta de calorías"
+    },
+    {
+      "term": "optimal",
+      "type": "Adjective",
+      "example": "Diese Bedingungen sind *** für einen neuen Weltrekord.",
+      "meaning_tr": "en uygun / optimal",
+      "meaning_en": "optimal",
+      "meaning_uk": "оптимальний",
+      "meaning_es": "óptimo"
+    },
+    {
+      "term": "sich verletzen",
+      "type": "Verb",
+      "example": "Ohne Aufwärmen kann man *** leicht ***.",
+      "meaning_tr": "yaralanmak",
+      "meaning_en": "to injure oneself",
+      "meaning_uk": "поранитися",
+      "meaning_es": "lesionarse"
+    },
+    {
+      "term": "die Disziplin",
+      "type": "Noun",
+      "example": "Ohne eiserne *** erreicht man im Profisport nichts.",
+      "meaning_tr": "disiplin",
+      "meaning_en": "discipline",
+      "meaning_uk": "дисципліна",
+      "meaning_es": "disciplina"
+    },
+    {
+      "term": "der Wettkampf",
+      "type": "Noun",
+      "example": "Am Wochenende findet der große *** statt.",
+      "meaning_tr": "yarışma / müsabaka",
+      "meaning_en": "competition",
+      "meaning_uk": "змагання",
+      "meaning_es": "competición"
+    },
+    {
+      "term": "abwechslungsreich",
+      "type": "Adjective",
+      "example": "Das Training sollte *** gestaltet werden, um Langeweile zu vermeiden.",
+      "meaning_tr": "çeşitli / varyasyonlu",
+      "meaning_en": "varied",
+      "meaning_uk": "різноманітний",
+      "meaning_es": "variado"
+    },
+    {
+      "term": "das Fett",
+      "type": "Noun",
+      "example": "Gesunde ***e sind essentiell für die Hormonproduktion.",
+      "meaning_tr": "yağ",
+      "meaning_en": "fat",
+      "meaning_uk": "жир",
+      "meaning_es": "grasa"
+    },
+    {
+      "term": "die Flüssigkeitsaufnahme",
+      "type": "Noun",
+      "example": "Eine ausreichende *** ist während des Sports lebensnotwendig.",
+      "meaning_tr": "sıvı alımı",
+      "meaning_en": "fluid intake",
+      "meaning_uk": "прийом рідини",
+      "meaning_es": "ingesta de líquidos"
+    },
+    {
+      "term": "fördern",
+      "type": "Verb",
+      "example": "Sport kann die Konzentration bei Kindern ***.",
+      "meaning_tr": "teşvik etmek / desteklemek",
+      "meaning_en": "to promote / encourage",
+      "meaning_uk": "сприяти",
+      "meaning_es": "fomentar"
+    },
+    {
+      "term": "regelmäßig",
+      "type": "Adjective",
+      "example": "Nur durch ***es Training erzielt man Fortschritte.",
+      "meaning_tr": "düzenli",
+      "meaning_en": "regular",
+      "meaning_uk": "регулярний",
+      "meaning_es": "regular"
+    },
+    {
+      "term": "die Mineralstoffe",
+      "type": "Noun",
+      "example": "Magnesium und Calcium sind wichtige *** für Sportler.",
+      "meaning_tr": "mineraller",
+      "meaning_en": "minerals",
+      "meaning_uk": "мінерали",
+      "meaning_es": "minerales"
+    },
+    {
+      "term": "die Vitamine",
+      "type": "Noun",
+      "example": "Obst und Gemüse enthalten viele wichtige ***.",
+      "meaning_tr": "vitaminler",
+      "meaning_en": "vitamins",
+      "meaning_uk": "вітаміни",
+      "meaning_es": "vitaminas"
+    },
+    {
+      "term": "der Energiebedarf",
+      "type": "Noun",
+      "example": "Bei intensivem Training steigt der *** deutlich an.",
+      "meaning_tr": "enerji ihtiyacı",
+      "meaning_en": "energy requirement",
+      "meaning_uk": "енергетична потреба",
+      "meaning_es": "necesidad energética"
+    },
+    {
+      "term": "aufbauen",
+      "type": "Verb",
+      "example": "Er möchte durch Krafttraining mehr Muskeln ***.",
+      "meaning_tr": "inşa etmek / geliştirmek",
+      "meaning_en": "to build up",
+      "meaning_uk": "нарощувати",
+      "meaning_es": "desarrollar / construir"
+    },
+    {
+      "term": "körperlich",
+      "type": "Adjective",
+      "example": "Leistungssport ist eine enorme ***e Belastung.",
+      "meaning_tr": "fiziksel",
+      "meaning_en": "physical",
+      "meaning_uk": "фізичний",
+      "meaning_es": "físico"
+    },
+    {
+      "term": "die Erschöpfung",
+      "type": "Noun",
+      "example": "Nach dem Training fühlte er eine tiefe ***.",
+      "meaning_tr": "bitkinlik",
+      "meaning_en": "exhaustion",
+      "meaning_uk": "виснаження",
+      "meaning_es": "agotamiento"
+    },
+    {
+      "term": "das Ziel",
+      "type": "Noun",
+      "example": "Sein großes *** ist die Teilnahme an den Olympischen Spielen.",
+      "meaning_tr": "hedef",
+      "meaning_en": "goal",
+      "meaning_uk": "ціль",
+      "meaning_es": "meta"
+    },
+    {
+      "term": "erreichen",
+      "type": "Verb",
+      "example": "Mit Fleiß kann man seine sportlichen Ziele ***.",
+      "meaning_tr": "ulaşmak / başarmak",
+      "meaning_en": "to achieve / reach",
+      "meaning_uk": "досягати",
+      "meaning_es": "alcanzar"
+    },
+    {
+      "term": "präventiv",
+      "type": "Adjective",
+      "example": "Dehnübungen wirken *** gegen Verletzungen.",
+      "meaning_tr": "önleyici",
+      "meaning_en": "preventive",
+      "meaning_uk": "превентивний",
+      "meaning_es": "preventivo"
+    },
+    {
+      "term": "der Blutzuckerspiegel",
+      "type": "Noun",
+      "example": "Süße Snacks lassen den *** schnell ansteigen.",
+      "meaning_tr": "kan şekeri seviyesi",
+      "meaning_en": "blood sugar level",
+      "meaning_uk": "рівень цукру в крові",
+      "meaning_es": "nivel de azúcar en sangre"
+    },
+    {
+      "term": "die Belastung",
+      "type": "Noun",
+      "example": "Die psychische *** vor einem Finale ist oft sehr hoch.",
+      "meaning_tr": "yük / zorlanma",
+      "meaning_en": "strain / load",
+      "meaning_uk": "навантаження",
+      "meaning_es": "carga / esfuerzo"
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "example": "*** des Trainings darf man das Trinken nicht vergessen.",
+      "meaning_tr": "esnasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "jedoch",
+      "type": "Adverb",
+      "example": "Er trainiert viel, er macht *** kaum Fortschritte.",
+      "meaning_tr": "ancak",
+      "meaning_en": "however",
+      "meaning_uk": "проте",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "obwohl",
+      "type": "Conjunction",
+      "example": "Er geht joggen, *** es regnet.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "deshalb",
+      "type": "Adverb",
+      "example": "Er will gewinnen, *** trainiert er so hart.",
+      "meaning_tr": "bu yüzden",
+      "meaning_en": "therefore",
+      "meaning_uk": "тому",
+      "meaning_es": "por eso"
+    },
+    {
+      "term": "die Motivation",
+      "type": "Noun",
+      "example": "Ohne die richtige *** ist es schwer, dranzubleiben.",
+      "meaning_tr": "motivasyon",
+      "meaning_en": "motivation",
+      "meaning_uk": "мотивація",
+      "meaning_es": "motivación"
+    },
+    {
+      "term": "analysieren",
+      "type": "Verb",
+      "example": "Wir müssen die Fehler im letzten Spiel genau ***.",
+      "meaning_tr": "analiz etmek",
+      "meaning_en": "to analyze",
+      "meaning_uk": "аналізувати",
+      "meaning_es": "analizar"
+    },
+    {
+      "term": "das Gewicht",
+      "type": "Noun",
+      "example": "In vielen Sportarten spielt das *** eine große Rolle.",
+      "meaning_tr": "ağırlık",
+      "meaning_en": "weight",
+      "meaning_uk": "вага",
+      "meaning_es": "peso"
+    },
+    {
+      "term": "gesund",
+      "type": "Adjective",
+      "example": "Ein ***er Lebensstil verlängert die Karriere.",
+      "meaning_tr": "sağlıklı",
+      "meaning_en": "healthy",
+      "meaning_uk": "здоровий",
+      "meaning_es": "saludable"
+    },
+    {
+      "term": "die Ausrüstung",
+      "type": "Noun",
+      "example": "Die richtige *** schützt vor Unfällen.",
+      "meaning_tr": "ekipman",
+      "meaning_en": "equipment",
+      "meaning_uk": "спорядження",
+      "meaning_es": "equipamiento"
+    }
+  ]
+}

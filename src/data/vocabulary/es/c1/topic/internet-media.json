@@ -1,0 +1,546 @@
+{
+  "title": "Internet y Redes Sociales (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la brecha digital",
+      "type": "Noun",
+      "example": "Es fundamental reducir *** para garantizar la igualdad de oportunidades.",
+      "meaning_tr": "dijital uçurum",
+      "meaning_en": "digital divide",
+      "meaning_uk": "цифровий розрив",
+      "meaning_es": "desigualdad en el acceso a las tecnologías"
+    },
+    {
+      "term": "la ciberseguridad",
+      "type": "Noun",
+      "example": "Las empresas deben invertir más en *** para proteger sus datos.",
+      "meaning_tr": "siber güvenlik",
+      "meaning_en": "cybersecurity",
+      "meaning_uk": "кібербезпека",
+      "meaning_es": "protección de la información en redes"
+    },
+    {
+      "term": "viralizar",
+      "type": "Verb",
+      "example": "El contenido logró *** en cuestión de pocas horas.",
+      "meaning_tr": "viral yapmak",
+      "meaning_en": "to make viral",
+      "meaning_uk": "поширювати вірусно",
+      "meaning_es": "hacer que un contenido se difunda rápidamente"
+    },
+    {
+      "term": "la privacidad",
+      "type": "Noun",
+      "example": "Debemos ser cautelosos con *** al publicar en redes sociales.",
+      "meaning_tr": "gizlilik",
+      "meaning_en": "privacy",
+      "meaning_uk": "конфіденційність",
+      "meaning_es": "derecho a mantener la intimidad"
+    },
+    {
+      "term": "el algoritmo",
+      "type": "Noun",
+      "example": "A veces *** de las redes sociales nos muestra contenido sesgado.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "conjunto de reglas para procesar datos"
+    },
+    {
+      "term": "la desinformación",
+      "type": "Noun",
+      "example": "Luchar contra *** es un reto para la democracia actual.",
+      "meaning_tr": "dezenformasyon",
+      "meaning_en": "disinformation",
+      "meaning_uk": "дезінформація",
+      "meaning_es": "información falsa difundida deliberadamente"
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "example": "Cada *** tiene una experiencia personalizada en la plataforma.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que utiliza un servicio digital"
+    },
+    {
+      "term": "el ciberacoso",
+      "type": "Noun",
+      "example": "Las escuelas deben educar sobre los peligros de ***.",
+      "meaning_tr": "siber zorbalık",
+      "meaning_en": "cyberbullying",
+      "meaning_uk": "кібербулінг",
+      "meaning_es": "acoso a través de medios digitales"
+    },
+    {
+      "term": "interactuar",
+      "type": "Verb",
+      "example": "Es importante *** de manera respetuosa en los foros.",
+      "meaning_tr": "etkileşime girmek",
+      "meaning_en": "to interact",
+      "meaning_uk": "взаємодіяти",
+      "meaning_es": "relacionarse con otros digitalmente"
+    },
+    {
+      "term": "la identidad digital",
+      "type": "Noun",
+      "example": "Cuidar nuestra *** es vital en la era de la información.",
+      "meaning_tr": "dijital kimlik",
+      "meaning_en": "digital identity",
+      "meaning_uk": "цифрова ідентичність",
+      "meaning_es": "conjunto de rasgos que definen a alguien online"
+    },
+    {
+      "term": "la nube",
+      "type": "Noun",
+      "example": "He guardado todas mis fotos en *** para no perderlas.",
+      "meaning_tr": "bulut",
+      "meaning_en": "the cloud",
+      "meaning_uk": "хмара",
+      "meaning_es": "almacenamiento remoto de datos"
+    },
+    {
+      "term": "cifrar",
+      "type": "Verb",
+      "example": "Es recomendable *** los mensajes para mayor seguridad.",
+      "meaning_tr": "şifrelemek",
+      "meaning_en": "to encrypt",
+      "meaning_uk": "шифрувати",
+      "meaning_es": "codificar información para protegerla"
+    },
+    {
+      "term": "el perfil",
+      "type": "Noun",
+      "example": "Ha configurado su *** para que sea privado.",
+      "meaning_tr": "profil",
+      "meaning_en": "profile",
+      "meaning_uk": "профіль",
+      "meaning_es": "información personal en una red social"
+    },
+    {
+      "term": "la huella digital",
+      "type": "Noun",
+      "example": "Todo lo que publicamos contribuye a ***.",
+      "meaning_tr": "dijital ayak izi",
+      "meaning_en": "digital footprint",
+      "meaning_uk": "цифровий слід",
+      "meaning_es": "rastro que dejamos en internet"
+    },
+    {
+      "term": "el ancho de banda",
+      "type": "Noun",
+      "example": "Necesitamos más *** para hacer videoconferencias de alta calidad.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "bandwidth",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "capacidad de transmisión de datos"
+    },
+    {
+      "term": "inmediato",
+      "type": "Adjective",
+      "example": "El acceso a la información hoy en día es ***.",
+      "meaning_tr": "anlık",
+      "meaning_en": "immediate",
+      "meaning_uk": "негайний",
+      "meaning_es": "que ocurre sin demora"
+    },
+    {
+      "term": "la red social",
+      "type": "Noun",
+      "example": "Pasar demasiado tiempo en *** puede afectar la salud mental.",
+      "meaning_tr": "sosyal ağ",
+      "meaning_en": "social network",
+      "meaning_uk": "соціальна мережа",
+      "meaning_es": "plataforma de conexión interpersonal"
+    },
+    {
+      "term": "la noticia falsa",
+      "type": "Noun",
+      "example": "No debemos compartir *** sin verificar la fuente.",
+      "meaning_tr": "yalan haber",
+      "meaning_en": "fake news",
+      "meaning_uk": "фейкова новина",
+      "meaning_es": "información falsa publicada como real"
+    },
+    {
+      "term": "suscribirse",
+      "type": "Verb",
+      "example": "Decidí *** al canal para recibir notificaciones.",
+      "meaning_tr": "abone olmak",
+      "meaning_en": "to subscribe",
+      "meaning_uk": "підписатися",
+      "meaning_es": "registrarse para recibir contenido"
+    },
+    {
+      "term": "la conexión",
+      "type": "Noun",
+      "example": "La *** a internet es inestable en esta zona.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "connection",
+      "meaning_uk": "з'єднання",
+      "meaning_es": "enlace con la red"
+    },
+    {
+      "term": "el foro",
+      "type": "Noun",
+      "example": "Participé en un *** sobre tecnología sostenible.",
+      "meaning_tr": "forum",
+      "meaning_en": "forum",
+      "meaning_uk": "форум",
+      "meaning_es": "espacio de debate online"
+    },
+    {
+      "term": "bloquear",
+      "type": "Verb",
+      "example": "Tuve que *** a ese contacto por comentarios ofensivos.",
+      "meaning_tr": "engellemek",
+      "meaning_en": "to block",
+      "meaning_uk": "заблокувати",
+      "meaning_es": "impedir el acceso de alguien"
+    },
+    {
+      "term": "el servidor",
+      "type": "Noun",
+      "example": "El *** ha caído debido al exceso de tráfico.",
+      "meaning_tr": "sunucu",
+      "meaning_en": "server",
+      "meaning_uk": "сервер",
+      "meaning_es": "ordenador que presta servicios a otros"
+    },
+    {
+      "term": "la interactividad",
+      "type": "Noun",
+      "example": "La *** es una característica clave del diseño web moderno.",
+      "meaning_tr": "etkileşimlilik",
+      "meaning_en": "interactivity",
+      "meaning_uk": "інтерактивність",
+      "meaning_es": "capacidad de interactuar"
+    },
+    {
+      "term": "el enlace",
+      "type": "Noun",
+      "example": "Haz clic en *** para acceder al artículo completo.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "link",
+      "meaning_uk": "посилання",
+      "meaning_es": "hipervínculo a otra página"
+    },
+    {
+      "term": "la brecha",
+      "type": "Noun",
+      "example": "Existe una gran *** entre quienes tienen acceso y quienes no.",
+      "meaning_tr": "uçurum",
+      "meaning_en": "gap",
+      "meaning_uk": "прірва",
+      "meaning_es": "separación o diferencia"
+    },
+    {
+      "term": "el dominio",
+      "type": "Noun",
+      "example": "Han registrado un nuevo *** para su tienda online.",
+      "meaning_tr": "alan adı",
+      "meaning_en": "domain",
+      "meaning_uk": "домен",
+      "meaning_es": "dirección web"
+    },
+    {
+      "term": "navegar",
+      "type": "Verb",
+      "example": "Suelo *** por internet durante mis ratos libres.",
+      "meaning_tr": "gezinmek",
+      "meaning_en": "to browse",
+      "meaning_uk": "переглядати (веб-сторінки)",
+      "meaning_es": "moverse por la web"
+    },
+    {
+      "term": "la cookie",
+      "type": "Noun",
+      "example": "Debes aceptar *** para continuar navegando.",
+      "meaning_tr": "çerez",
+      "meaning_en": "cookie",
+      "meaning_uk": "кукі",
+      "meaning_es": "archivo de datos del navegador"
+    },
+    {
+      "term": "la tendencia",
+      "type": "Noun",
+      "example": "Ese tema es una *** mundial en Twitter ahora mismo.",
+      "meaning_tr": "trend",
+      "meaning_en": "trend",
+      "meaning_uk": "тренд",
+      "meaning_es": "tema de moda"
+    },
+    {
+      "term": "el ancho",
+      "type": "Noun",
+      "example": "El *** de banda es insuficiente para ver videos en 4K.",
+      "meaning_tr": "genişlik",
+      "meaning_en": "width",
+      "meaning_uk": "ширина",
+      "meaning_es": "medida de capacidad"
+    },
+    {
+      "term": "virtual",
+      "type": "Adjective",
+      "example": "La asistencia a la reunión será totalmente ***.",
+      "meaning_tr": "sanal",
+      "meaning_en": "virtual",
+      "meaning_uk": "віртуальний",
+      "meaning_es": "que existe en el mundo digital"
+    },
+    {
+      "term": "la red",
+      "type": "Noun",
+      "example": "La *** se ha saturado por la cantidad de usuarios.",
+      "meaning_tr": "ağ",
+      "meaning_en": "network",
+      "meaning_uk": "мережа",
+      "meaning_es": "sistema de interconexión"
+    },
+    {
+      "term": "la plataforma",
+      "type": "Noun",
+      "example": "Esta *** educativa ofrece cursos online gratuitos.",
+      "meaning_tr": "platform",
+      "meaning_en": "platform",
+      "meaning_uk": "платформа",
+      "meaning_es": "entorno digital de servicios"
+    },
+    {
+      "term": "el usuario registrado",
+      "type": "Noun",
+      "example": "Solo *** puede acceder a este contenido exclusivo.",
+      "meaning_tr": "kayıtlı kullanıcı",
+      "meaning_en": "registered user",
+      "meaning_uk": "зареєстрований користувач",
+      "meaning_es": "persona que tiene una cuenta activa"
+    },
+    {
+      "term": "la ciberdelincuencia",
+      "type": "Noun",
+      "example": "La policía ha creado una unidad contra ***.",
+      "meaning_tr": "siber suç",
+      "meaning_en": "cybercrime",
+      "meaning_uk": "кіберзлочинність",
+      "meaning_es": "delitos cometidos a través de internet"
+    },
+    {
+      "term": "el archivo",
+      "type": "Noun",
+      "example": "No puedo abrir *** porque está dañado.",
+      "meaning_tr": "dosya",
+      "meaning_en": "file",
+      "meaning_uk": "файл",
+      "meaning_es": "documento digital"
+    },
+    {
+      "term": "el comentario",
+      "type": "Noun",
+      "example": "El *** que dejaste en el post fue muy acertado.",
+      "meaning_tr": "yorum",
+      "meaning_en": "comment",
+      "meaning_uk": "коментар",
+      "meaning_es": "opinión escrita en un post"
+    },
+    {
+      "term": "la etiqueta",
+      "type": "Noun",
+      "example": "Usa una *** adecuada para que encuentren tu publicación.",
+      "meaning_tr": "etiket",
+      "meaning_en": "tag",
+      "meaning_uk": "тег",
+      "meaning_es": "palabra clave para categorizar"
+    },
+    {
+      "term": "la moderación",
+      "type": "Noun",
+      "example": "Es necesaria una buena *** para evitar insultos en el chat.",
+      "meaning_tr": "denetim",
+      "meaning_en": "moderation",
+      "meaning_uk": "модерація",
+      "meaning_es": "control de contenidos"
+    },
+    {
+      "term": "el ancho de banda",
+      "type": "Noun",
+      "example": "Necesitamos incrementar *** para mejorar la velocidad.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "bandwidth",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "velocidad de transferencia de datos"
+    },
+    {
+      "term": "el acceso",
+      "type": "Noun",
+      "example": "Tener *** a la información es un derecho fundamental.",
+      "meaning_tr": "erişim",
+      "meaning_en": "access",
+      "meaning_uk": "доступ",
+      "meaning_es": "posibilidad de entrar o usar algo"
+    },
+    {
+      "term": "el buscador",
+      "type": "Noun",
+      "example": "Utilicé *** para encontrar la información necesaria.",
+      "meaning_tr": "arama motoru",
+      "meaning_en": "search engine",
+      "meaning_uk": "пошукова система",
+      "meaning_es": "herramienta para buscar en la web"
+    },
+    {
+      "term": "la configuración",
+      "type": "Noun",
+      "example": "Debes revisar *** de seguridad de tu cuenta.",
+      "meaning_tr": "yapılandırma",
+      "meaning_en": "settings",
+      "meaning_uk": "налаштування",
+      "meaning_es": "ajustes de un sistema"
+    },
+    {
+      "term": "la red de contactos",
+      "type": "Noun",
+      "example": "LinkedIn te permite ampliar tu *** profesional.",
+      "meaning_tr": "iletişim ağı",
+      "meaning_en": "network of contacts",
+      "meaning_uk": "мережа контактів",
+      "meaning_es": "conjunto de personas conocidas profesionalmente"
+    },
+    {
+      "term": "el enlace roto",
+      "type": "Noun",
+      "example": "Esta página tiene *** y no carga correctamente.",
+      "meaning_tr": "bozuk bağlantı",
+      "meaning_en": "broken link",
+      "meaning_uk": "бите посилання",
+      "meaning_es": "enlace que no funciona"
+    },
+    {
+      "term": "descargar",
+      "type": "Verb",
+      "example": "Es legal *** contenido que sea de dominio público.",
+      "meaning_tr": "indirmek",
+      "meaning_en": "to download",
+      "meaning_uk": "завантажувати",
+      "meaning_es": "bajar archivos de la red"
+    },
+    {
+      "term": "el cifrado",
+      "type": "Noun",
+      "example": "El *** de extremo a extremo garantiza la confidencialidad.",
+      "meaning_tr": "şifreleme",
+      "meaning_en": "encryption",
+      "meaning_uk": "шифрування",
+      "meaning_es": "proceso de codificación"
+    },
+    {
+      "term": "el seguidor",
+      "type": "Noun",
+      "example": "Ha ganado un gran número de *** en poco tiempo.",
+      "meaning_tr": "takipçi",
+      "meaning_en": "follower",
+      "meaning_uk": "підписник",
+      "meaning_es": "persona que sigue a otra en redes"
+    },
+    {
+      "term": "el contenido",
+      "type": "Noun",
+      "example": "Debemos crear *** de calidad para atraer audiencia.",
+      "meaning_tr": "içerik",
+      "meaning_en": "content",
+      "meaning_uk": "контент",
+      "meaning_es": "información o material expuesto"
+    },
+    {
+      "term": "la actualización",
+      "type": "Noun",
+      "example": "Instala la última *** para solucionar errores.",
+      "meaning_tr": "güncelleme",
+      "meaning_en": "update",
+      "meaning_uk": "оновлення",
+      "meaning_es": "mejora de un software"
+    },
+    {
+      "term": "la interfaz",
+      "type": "Noun",
+      "example": "Esta aplicación tiene una *** muy intuitiva.",
+      "meaning_tr": "arayüz",
+      "meaning_en": "interface",
+      "meaning_uk": "інтерфейс",
+      "meaning_es": "aspecto visual de un programa"
+    },
+    {
+      "term": "el historial",
+      "type": "Noun",
+      "example": "He borrado *** de navegación por privacidad.",
+      "meaning_tr": "geçmiş",
+      "meaning_en": "history",
+      "meaning_uk": "історія",
+      "meaning_es": "registro de actividades pasadas"
+    },
+    {
+      "term": "la contraseña",
+      "type": "Noun",
+      "example": "Es vital crear una *** segura y única.",
+      "meaning_tr": "şifre",
+      "meaning_en": "password",
+      "meaning_uk": "пароль",
+      "meaning_es": "clave de acceso"
+    },
+    {
+      "term": "el cortafuegos",
+      "type": "Noun",
+      "example": "El *** protege nuestra red de intrusiones externas.",
+      "meaning_tr": "güvenlik duvarı",
+      "meaning_en": "firewall",
+      "meaning_uk": "файрвол",
+      "meaning_es": "sistema de defensa de red"
+    },
+    {
+      "term": "el ancho",
+      "type": "Noun",
+      "example": "El *** de la imagen no es compatible con el formato.",
+      "meaning_tr": "genişlik",
+      "meaning_en": "width",
+      "meaning_uk": "ширина",
+      "meaning_es": "dimensión horizontal"
+    },
+    {
+      "term": "compartir",
+      "type": "Verb",
+      "example": "No olvides *** las noticias importantes con tus amigos.",
+      "meaning_tr": "paylaşmak",
+      "meaning_en": "to share",
+      "meaning_uk": "ділитися",
+      "meaning_es": "difundir información"
+    },
+    {
+      "term": "el dispositivo",
+      "type": "Noun",
+      "example": "Este *** es compatible con todas las aplicaciones.",
+      "meaning_tr": "cihaz",
+      "meaning_en": "device",
+      "meaning_uk": "пристрій",
+      "meaning_es": "equipo o aparato electrónico"
+    },
+    {
+      "term": "la red inalámbrica",
+      "type": "Noun",
+      "example": "La *** es muy lenta en este edificio.",
+      "meaning_tr": "kablosuz ağ",
+      "meaning_en": "wireless network",
+      "meaning_uk": "бездротова мережа",
+      "meaning_es": "conexión sin cables"
+    },
+    {
+      "term": "la tendencia",
+      "type": "Noun",
+      "example": "Seguir la *** actual ayuda a mejorar el alcance.",
+      "meaning_tr": "eğilim",
+      "meaning_en": "trend",
+      "meaning_uk": "тенденція",
+      "meaning_es": "dirección hacia donde algo se mueve"
+    }
+  ]
+}

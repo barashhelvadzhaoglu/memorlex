@@ -1,0 +1,546 @@
+{
+  "title": "Kleidung & Mode (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Garderobe",
+      "type": "Noun",
+      "example": "Sie hat ihre gesamte *** für die kommende Saison komplett ausgetauscht.",
+      "meaning_tr": "gardırop",
+      "meaning_en": "wardrobe",
+      "meaning_uk": "гардероб",
+      "meaning_es": "armario"
+    },
+    {
+      "term": "der Dresscode",
+      "type": "Noun",
+      "example": "Bei der Galaveranstaltung ist ein strenger *** vorgeschrieben.",
+      "meaning_tr": "kıyafet zorunluluğu",
+      "meaning_en": "dress code",
+      "meaning_uk": "дрес-код",
+      "meaning_es": "código de vestimenta"
+    },
+    {
+      "term": "die Textilie",
+      "type": "Noun",
+      "example": "Das Unternehmen spezialisiert sich auf nachhaltige *** aus Bio-Baumwolle.",
+      "meaning_tr": "tekstil ürünü",
+      "meaning_en": "textile",
+      "meaning_uk": "текстиль",
+      "meaning_es": "textil"
+    },
+    {
+      "term": "der Schneider",
+      "type": "Noun",
+      "example": "Mein Anzug wurde von einem renommierten *** maßgefertigt.",
+      "meaning_tr": "terzi",
+      "meaning_en": "tailor",
+      "meaning_uk": "кравець",
+      "meaning_es": "sastre"
+    },
+    {
+      "term": "das Accessoire",
+      "type": "Noun",
+      "example": "Ein elegantes *** wertet jedes schlichte Outfit sofort auf.",
+      "meaning_tr": "aksesuar",
+      "meaning_en": "accessory",
+      "meaning_uk": "аксесуар",
+      "meaning_es": "accesorio"
+    },
+    {
+      "term": "die Faser",
+      "type": "Noun",
+      "example": "Diese synthetische *** ist besonders strapazierfähig und pflegeleicht.",
+      "meaning_tr": "elyaf",
+      "meaning_en": "fiber",
+      "meaning_uk": "волокно",
+      "meaning_es": "fibra"
+    },
+    {
+      "term": "das Revers",
+      "type": "Noun",
+      "example": "Er trug eine kleine Ansteckblume an seinem ***.",
+      "meaning_tr": "ceket yakası",
+      "meaning_en": "lapel",
+      "meaning_uk": "лацкан",
+      "meaning_es": "solapa"
+    },
+    {
+      "term": "die Konfektion",
+      "type": "Noun",
+      "example": "Die Firma produziert hochwertige *** für den internationalen Markt.",
+      "meaning_tr": "hazır giyim",
+      "meaning_en": "ready-to-wear",
+      "meaning_uk": "конфекція",
+      "meaning_es": "confección"
+    },
+    {
+      "term": "der Saum",
+      "type": "Noun",
+      "example": "Der *** des Kleides muss noch ein wenig gekürzt werden.",
+      "meaning_tr": "etek ucu",
+      "meaning_en": "hem",
+      "meaning_uk": "підгин",
+      "meaning_es": "dobladillo"
+    },
+    {
+      "term": "die Passform",
+      "type": "Noun",
+      "example": "Trotz des günstigen Preises überzeugt die *** dieses Mantels.",
+      "meaning_tr": "kalıp / oturuş",
+      "meaning_en": "fit",
+      "meaning_uk": "посадка",
+      "meaning_es": "ajuste"
+    },
+    {
+      "term": "das Label",
+      "type": "Noun",
+      "example": "Dieses junge *** setzt neue Maßstäbe in der nachhaltigen Mode.",
+      "meaning_tr": "marka",
+      "meaning_en": "label",
+      "meaning_uk": "бренд",
+      "meaning_es": "marca"
+    },
+    {
+      "term": "die Stola",
+      "type": "Noun",
+      "example": "Sie legte sich eine edle *** um die Schultern.",
+      "meaning_tr": "şal",
+      "meaning_en": "stole",
+      "meaning_uk": "палантин",
+      "meaning_es": "estola"
+    },
+    {
+      "term": "die Seide",
+      "type": "Noun",
+      "example": "Das Kleid aus reiner *** fühlt sich sehr angenehm auf der Haut an.",
+      "meaning_tr": "ipek",
+      "meaning_en": "silk",
+      "meaning_uk": "шовк",
+      "meaning_es": "seda"
+    },
+    {
+      "term": "die Stickerei",
+      "type": "Noun",
+      "example": "Die aufwendige *** macht das Kleidungsstück zu einem Unikat.",
+      "meaning_tr": "nakış",
+      "meaning_en": "embroidery",
+      "meaning_uk": "вишивка",
+      "meaning_es": "bordado"
+    },
+    {
+      "term": "das Ensemble",
+      "type": "Noun",
+      "example": "Ihr gesamtes *** wirkte sehr harmonisch und gut abgestimmt.",
+      "meaning_tr": "kıyafet takımı",
+      "meaning_en": "ensemble",
+      "meaning_uk": "ансамбль",
+      "meaning_es": "conjunto"
+    },
+    {
+      "term": "die Silhouette",
+      "type": "Noun",
+      "example": "Der Schnitt des Rocks betont eine elegante ***.",
+      "meaning_tr": "silüet",
+      "meaning_en": "silhouette",
+      "meaning_uk": "силует",
+      "meaning_es": "silueta"
+    },
+    {
+      "term": "der Entwurf",
+      "type": "Noun",
+      "example": "Der erste *** für die neue Kollektion wurde vom Designer präsentiert.",
+      "meaning_tr": "tasarım",
+      "meaning_en": "design / draft",
+      "meaning_uk": "ескіз",
+      "meaning_es": "diseño"
+    },
+    {
+      "term": "die Nuance",
+      "type": "Noun",
+      "example": "Es gibt nur eine kleine *** zwischen diesem Blau und dem Grauton.",
+      "meaning_tr": "ton farkı",
+      "meaning_en": "nuance / shade",
+      "meaning_uk": "відтінок",
+      "meaning_es": "matiz"
+    },
+    {
+      "term": "das Reißverschluss",
+      "type": "Noun",
+      "example": "Der *** klemmte beim Hochziehen.",
+      "meaning_tr": "fermuar",
+      "meaning_en": "zipper",
+      "meaning_uk": "блискавка",
+      "meaning_es": "cremallera"
+    },
+    {
+      "term": "die Manschette",
+      "type": "Noun",
+      "example": "Er trug edle Manschettenknöpfe an seiner ***.",
+      "meaning_tr": "manşet",
+      "meaning_en": "cuff",
+      "meaning_uk": "манжет",
+      "meaning_es": "puño"
+    },
+    {
+      "term": "schneidern",
+      "type": "Verb",
+      "example": "Sie hat sich ihr Hochzeitskleid selbst *** lassen.",
+      "meaning_tr": "dikmek",
+      "meaning_en": "to tailor",
+      "meaning_uk": "шити",
+      "meaning_es": "confeccionar"
+    },
+    {
+      "term": "entwerfen",
+      "type": "Verb",
+      "example": "Er beginnt gerade damit, die nächste Sommerkollektion zu ***.",
+      "meaning_tr": "tasarlamak",
+      "meaning_en": "to design",
+      "meaning_uk": "розробляти",
+      "meaning_es": "diseñar"
+    },
+    {
+      "term": "kombinieren",
+      "type": "Verb",
+      "example": "Man kann diese Hose hervorragend mit einem schlichten Blazer ***.",
+      "meaning_tr": "kombinlemek",
+      "meaning_en": "to combine",
+      "meaning_uk": "поєднувати",
+      "meaning_es": "combinar"
+    },
+    {
+      "term": "anprobieren",
+      "type": "Verb",
+      "example": "Darf ich dieses Modell in einer anderen Größe ***?",
+      "meaning_tr": "denemek",
+      "meaning_en": "to try on",
+      "meaning_uk": "міряти",
+      "meaning_es": "probarse"
+    },
+    {
+      "term": "kaschieren",
+      "type": "Verb",
+      "example": "Der dunkle Stoff hilft dabei, kleine Problemzonen zu ***.",
+      "meaning_tr": "gizlemek",
+      "meaning_en": "to conceal",
+      "meaning_uk": "приховувати",
+      "meaning_es": "ocultar"
+    },
+    {
+      "term": "betonen",
+      "type": "Verb",
+      "example": "Der Gürtel hilft dabei, die Taille modisch zu ***.",
+      "meaning_tr": "vurgulamak",
+      "meaning_en": "to emphasize",
+      "meaning_uk": "підкреслювати",
+      "meaning_es": "resaltar"
+    },
+    {
+      "term": "ausstatten",
+      "type": "Verb",
+      "example": "Die Firma wird die Sportler mit neuer Kleidung ***.",
+      "meaning_tr": "donatmak",
+      "meaning_en": "to equip",
+      "meaning_uk": "обладнувати",
+      "meaning_es": "equipar"
+    },
+    {
+      "term": "sich kleiden",
+      "type": "Verb",
+      "example": "Er weiß genau, wie er sich für formelle Anlässe *** muss.",
+      "meaning_tr": "giyinmek",
+      "meaning_en": "to dress",
+      "meaning_uk": "одягатися",
+      "meaning_es": "vestirse"
+    },
+    {
+      "term": "maßgeschneidert",
+      "type": "Adjective",
+      "example": "Er trägt immer nur *** Anzüge, die perfekt sitzen.",
+      "meaning_tr": "özel dikim",
+      "meaning_en": "tailor-made",
+      "meaning_uk": "зшитий на замовлення",
+      "meaning_es": "hecho a medida"
+    },
+    {
+      "term": "zeitlos",
+      "type": "Adjective",
+      "example": "Ein schwarzes Kleid ist ein *** Klassiker.",
+      "meaning_tr": "zamansız",
+      "meaning_en": "timeless",
+      "meaning_uk": "позачасовий",
+      "meaning_es": "atemporal"
+    },
+    {
+      "term": "extravagant",
+      "type": "Adjective",
+      "example": "Ihre Outfits sind stets sehr *** und ziehen alle Blicke auf sich.",
+      "meaning_tr": "gösterişli",
+      "meaning_en": "extravagant",
+      "meaning_uk": "екстравагантний",
+      "meaning_es": "extravagante"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Immer mehr Kunden achten beim Kauf auf *** Mode.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "dezent",
+      "type": "Adjective",
+      "example": "Sie bevorzugt *** Farben statt auffälliger Muster.",
+      "meaning_tr": "sade / hafif",
+      "meaning_en": "subtle",
+      "meaning_uk": "стриманий",
+      "meaning_es": "discreto"
+    },
+    {
+      "term": "hochwertig",
+      "type": "Adjective",
+      "example": "Das Material wirkt sehr *** und fühlt sich sehr weich an.",
+      "meaning_tr": "yüksek kaliteli",
+      "meaning_en": "high-quality",
+      "meaning_uk": "високоякісний",
+      "meaning_es": "de alta calidad"
+    },
+    {
+      "term": "formell",
+      "type": "Adjective",
+      "example": "Bei dem Bankett ist eine *** Kleidung zwingend erforderlich.",
+      "meaning_tr": "resmi",
+      "meaning_en": "formal",
+      "meaning_uk": "офіційний",
+      "meaning_es": "formal"
+    },
+    {
+      "term": "lässig",
+      "type": "Adjective",
+      "example": "Für das Wochenende bevorzuge ich einen eher *** Stil.",
+      "meaning_tr": "rahat",
+      "meaning_en": "casual",
+      "meaning_uk": "невимушений",
+      "meaning_es": "informal"
+    },
+    {
+      "term": "raffiniert",
+      "type": "Adjective",
+      "example": "Das Kleid hat einen wirklich *** Schnitt am Rücken.",
+      "meaning_tr": "sofistike",
+      "meaning_en": "sophisticated",
+      "meaning_uk": "вишуканий",
+      "meaning_es": "sofisticado"
+    },
+    {
+      "term": "transparent",
+      "type": "Adjective",
+      "example": "Der Stoff ist sehr fein und leicht ***.",
+      "meaning_tr": "şeffaf",
+      "meaning_en": "transparent",
+      "meaning_uk": "прозорий",
+      "meaning_es": "transparente"
+    },
+    {
+      "term": "passgenau",
+      "type": "Adjective",
+      "example": "Die Hose ist *** geschneidert und sitzt wie angegossen.",
+      "meaning_tr": "tam oturan",
+      "meaning_en": "well-fitting",
+      "meaning_uk": "точно підігнаний",
+      "meaning_es": "ajustado"
+    },
+    {
+      "term": "verschlissen",
+      "type": "Adjective",
+      "example": "Nach Jahren des Tragens sind die Ärmel der Jacke langsam ***.",
+      "meaning_tr": "yıpranmış",
+      "meaning_en": "worn out",
+      "meaning_uk": "зношений",
+      "meaning_es": "desgastado"
+    },
+    {
+      "term": "farbenfroh",
+      "type": "Adjective",
+      "example": "Im Sommer trage ich gerne *** Kleidung.",
+      "meaning_tr": "rengarenk",
+      "meaning_en": "colorful",
+      "meaning_uk": "барвистий",
+      "meaning_es": "colorido"
+    },
+    {
+      "term": "schlicht",
+      "type": "Adjective",
+      "example": "Manchmal ist ein *** Design die eleganteste Wahl.",
+      "meaning_tr": "sade",
+      "meaning_en": "plain",
+      "meaning_uk": "простий",
+      "meaning_es": "sencillo"
+    },
+    {
+      "term": "knitterfrei",
+      "type": "Adjective",
+      "example": "Dieser Stoff ist ideal für Reisen, da er absolut *** ist.",
+      "meaning_tr": "kırışmaz",
+      "meaning_en": "wrinkle-free",
+      "meaning_uk": "незминальний",
+      "meaning_es": "sin arrugas"
+    },
+    {
+      "term": "figurbetont",
+      "type": "Adjective",
+      "example": "Sie trägt am liebsten *** Kleider.",
+      "meaning_tr": "vücuda oturan",
+      "meaning_en": "form-fitting",
+      "meaning_uk": "облягаючий",
+      "meaning_es": "entallado"
+    },
+    {
+      "term": "im Trend",
+      "type": "Adverb",
+      "example": "Diese Farbe liegt diesen Sommer voll ***.",
+      "meaning_tr": "moda",
+      "meaning_en": "in fashion",
+      "meaning_uk": "в тренді",
+      "meaning_es": "de moda"
+    },
+    {
+      "term": "geschmackvoll",
+      "type": "Adverb",
+      "example": "Das Outfit war sehr *** zusammengestellt.",
+      "meaning_tr": "zevkli bir şekilde",
+      "meaning_en": "tastefully",
+      "meaning_uk": "зі смаком",
+      "meaning_es": "con buen gusto"
+    },
+    {
+      "term": "vorteilhaft",
+      "type": "Adverb",
+      "example": "Der Schnitt kleidet sie sehr ***.",
+      "meaning_tr": "avantajlı bir şekilde",
+      "meaning_en": "flatteringly",
+      "meaning_uk": "вигідно",
+      "meaning_es": "de forma favorecedora"
+    },
+    {
+      "term": "schick",
+      "type": "Adverb",
+      "example": "Du siehst heute wirklich *** aus!",
+      "meaning_tr": "şık",
+      "meaning_en": "chic",
+      "meaning_uk": "шикарно",
+      "meaning_es": "elegante"
+    },
+    {
+      "term": "modisch",
+      "type": "Adverb",
+      "example": "Sie kleidet sich immer sehr ***.",
+      "meaning_tr": "modaya uygun",
+      "meaning_en": "fashionably",
+      "meaning_uk": "модно",
+      "meaning_es": "a la moda"
+    },
+    {
+      "term": "weder ... noch",
+      "type": "Conjunction",
+      "example": "Das Kleid war *** schick *** besonders bequem.",
+      "meaning_tr": "ne ... ne de",
+      "meaning_en": "neither ... nor",
+      "meaning_uk": "ні ... ні",
+      "meaning_es": "ni ... ni"
+    },
+    {
+      "term": "sowohl ... als auch",
+      "type": "Conjunction",
+      "example": "Die Jacke ist *** praktisch *** modisch ein echter Gewinn.",
+      "meaning_tr": "hem ... hem de",
+      "meaning_en": "both ... and",
+      "meaning_uk": "як ... так і",
+      "meaning_es": "tanto ... como"
+    },
+    {
+      "term": "die Konfektionsgröße",
+      "type": "Noun",
+      "example": "Ich bin mir unsicher, welche *** ich bei dieser Marke brauche.",
+      "meaning_tr": "konfeksiyon bedeni",
+      "meaning_en": "clothing size",
+      "meaning_uk": "розмір одягу",
+      "meaning_es": "talla"
+    },
+    {
+      "term": "die Textur",
+      "type": "Noun",
+      "example": "Die grobe *** des Stoffes verleiht dem Mantel einen rustikalen Look.",
+      "meaning_tr": "doku",
+      "meaning_en": "texture",
+      "meaning_uk": "текстура",
+      "meaning_es": "textura"
+    },
+    {
+      "term": "der Entwurf",
+      "type": "Noun",
+      "example": "Der erste *** der Designerin stieß auf große Begeisterung.",
+      "meaning_tr": "taslak",
+      "meaning_en": "draft",
+      "meaning_uk": "ескіз",
+      "meaning_es": "borrador"
+    },
+    {
+      "term": "die Optik",
+      "type": "Noun",
+      "example": "Die *** des Leders wirkt sehr hochwertig.",
+      "meaning_tr": "görünüm",
+      "meaning_en": "look / appearance",
+      "meaning_uk": "вигляд",
+      "meaning_es": "aspecto"
+    },
+    {
+      "term": "verarbeiten",
+      "type": "Verb",
+      "example": "Bei dieser Jacke wurden nur die besten Materialien ***.",
+      "meaning_tr": "işlemek",
+      "meaning_en": "to process / use",
+      "meaning_uk": "обробляти",
+      "meaning_es": "procesar"
+    },
+    {
+      "term": "die Kollektion",
+      "type": "Noun",
+      "example": "Die neue *** wurde auf der Fashion Week vorgestellt.",
+      "meaning_tr": "koleksiyon",
+      "meaning_en": "collection",
+      "meaning_uk": "колекція",
+      "meaning_es": "colección"
+    },
+    {
+      "term": "der Trend",
+      "type": "Noun",
+      "example": "Ein aktueller *** ist die Kombination von sportlich und elegant.",
+      "meaning_tr": "trend",
+      "meaning_en": "trend",
+      "meaning_uk": "тренд",
+      "meaning_es": "tendencia"
+    },
+    {
+      "term": "die Anprobe",
+      "type": "Noun",
+      "example": "Vor dem Kauf sollte man unbedingt eine *** machen.",
+      "meaning_tr": "prova",
+      "meaning_en": "fitting",
+      "meaning_uk": "примірка",
+      "meaning_es": "prueba"
+    },
+    {
+      "term": "die Viskose",
+      "type": "Noun",
+      "example": "Dieses T-Shirt besteht aus weicher ***.",
+      "meaning_tr": "viskon",
+      "meaning_en": "viscose",
+      "meaning_uk": "віскоза",
+      "meaning_es": "viscosa"
+    }
+  ]
+}

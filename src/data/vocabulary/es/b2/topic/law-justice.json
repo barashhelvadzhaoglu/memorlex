@@ -1,0 +1,411 @@
+{
+  "title": "Derecho y Justicia (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el abogado",
+      "type": "Noun",
+      "meaning_tr": "avukat",
+      "meaning_en": "lawyer",
+      "meaning_uk": "адвокат",
+      "meaning_es": "persona legalmente autorizada para defender en juicio los derechos o intereses de los litigantes",
+      "example": "*** defendió a su cliente con gran elocuencia."
+    },
+    {
+      "term": "la sentencia",
+      "type": "Noun",
+      "meaning_tr": "hüküm",
+      "meaning_en": "sentence/verdict",
+      "meaning_uk": "вирок",
+      "meaning_es": "declaración del juicio y resolución del juez",
+      "example": "El juez dictó la *** tras analizar todas las pruebas."
+    },
+    {
+      "term": "el delito",
+      "type": "Noun",
+      "meaning_tr": "suç",
+      "meaning_en": "crime",
+      "meaning_uk": "злочин",
+      "meaning_es": "acción que va contra lo establecido por la ley",
+      "example": "Cometió un *** grave contra la propiedad privada."
+    },
+    {
+      "term": "el juicio",
+      "type": "Noun",
+      "meaning_tr": "dava/yargılama",
+      "meaning_en": "trial",
+      "meaning_uk": "судовий процес",
+      "meaning_es": "proceso judicial donde se debate un caso",
+      "example": "El *** comenzará el próximo lunes en la Audiencia Nacional."
+    },
+    {
+      "term": "la ley",
+      "type": "Noun",
+      "meaning_tr": "yasa/kanun",
+      "meaning_en": "law",
+      "meaning_uk": "закон",
+      "meaning_es": "regla o norma establecida por una autoridad",
+      "example": "Nadie está por encima de la *** en este país."
+    },
+    {
+      "term": "el tribunal",
+      "type": "Noun",
+      "meaning_tr": "mahkeme",
+      "meaning_en": "court",
+      "meaning_uk": "суд",
+      "meaning_es": "lugar donde los jueces administran justicia",
+      "example": "El *** ha decidido anular la orden de detención."
+    },
+    {
+      "term": "la fiscalía",
+      "type": "Noun",
+      "meaning_tr": "savcılık",
+      "meaning_en": "prosecutor's office",
+      "meaning_uk": "прокуратура",
+      "meaning_es": "institución que ejerce la acción penal",
+      "example": "La *** solicita cinco años de prisión para el acusado."
+    },
+    {
+      "term": "culpable",
+      "type": "Adjective",
+      "meaning_tr": "suçlu",
+      "meaning_en": "guilty",
+      "meaning_uk": "винний",
+      "meaning_es": "que ha cometido un delito o falta",
+      "example": "El jurado declaró al sospechoso *** de todos los cargos."
+    },
+    {
+      "term": "inocente",
+      "type": "Adjective",
+      "meaning_tr": "masum",
+      "meaning_en": "innocent",
+      "meaning_uk": "невинний",
+      "meaning_es": "que no tiene culpa de un delito",
+      "example": "Él siempre ha mantenido que es *** de lo que se le acusa."
+    },
+    {
+      "term": "el recurso",
+      "type": "Noun",
+      "meaning_tr": "temyiz/başvuru",
+      "meaning_en": "appeal",
+      "meaning_uk": "апеляція",
+      "meaning_es": "medio legal para impugnar una decisión judicial",
+      "example": "Los abogados presentaron un *** ante el Tribunal Supremo."
+    },
+    {
+      "term": "la demanda",
+      "type": "Noun",
+      "meaning_tr": "dava dilekçesi",
+      "meaning_en": "lawsuit",
+      "meaning_uk": "позов",
+      "meaning_es": "petición formal ante un tribunal",
+      "example": "Han interpuesto una *** por daños y perjuicios."
+    },
+    {
+      "term": "la justicia",
+      "type": "Noun",
+      "meaning_tr": "adalet",
+      "meaning_en": "justice",
+      "meaning_uk": "справедливість",
+      "meaning_es": "principio moral que inclina a obrar según la verdad",
+      "example": "La *** debe ser igual para todos los ciudadanos."
+    },
+    {
+      "term": "la absolución",
+      "type": "Noun",
+      "meaning_tr": "beraat",
+      "meaning_en": "acquittal",
+      "meaning_uk": "виправдання",
+      "meaning_es": "declaración de que alguien no es culpable",
+      "example": "El abogado pidió la *** de su defendido por falta de pruebas."
+    },
+    {
+      "term": "el acusado",
+      "type": "Noun",
+      "meaning_tr": "sanık",
+      "meaning_en": "defendant",
+      "meaning_uk": "обвинувачений",
+      "meaning_es": "persona a la que se le imputa un delito",
+      "example": "El *** se negó a declarar durante la audiencia."
+    },
+    {
+      "term": "la condena",
+      "type": "Noun",
+      "meaning_tr": "mahkumiyet",
+      "meaning_en": "conviction",
+      "meaning_uk": "засудження",
+      "meaning_es": "pena impuesta por un juez",
+      "example": "La *** fue reducida gracias a la buena conducta del preso."
+    },
+    {
+      "term": "el testigo",
+      "type": "Noun",
+      "meaning_tr": "tanık",
+      "meaning_en": "witness",
+      "meaning_uk": "свідок",
+      "meaning_es": "persona que presencia un hecho",
+      "example": "El *** principal cambió su versión de los hechos."
+    },
+    {
+      "term": "la prueba",
+      "type": "Noun",
+      "meaning_tr": "kanıt",
+      "meaning_en": "evidence",
+      "meaning_uk": "доказ",
+      "meaning_es": "elemento que demuestra la veracidad de un hecho",
+      "example": "No existen *** suficientes para condenar al sospechoso."
+    },
+    {
+      "term": "el derecho",
+      "type": "Noun",
+      "meaning_tr": "hukuk/hak",
+      "meaning_en": "right/law",
+      "meaning_uk": "право",
+      "meaning_es": "conjunto de normas que regulan la conducta humana",
+      "example": "Tiene usted *** a guardar silencio."
+    },
+    {
+      "term": "la libertad",
+      "type": "Noun",
+      "meaning_tr": "özgürlük",
+      "meaning_en": "freedom",
+      "meaning_uk": "свобода",
+      "meaning_es": "facultad natural de obrar según la propia voluntad",
+      "example": "Le concedieron la libertad bajo fianza tras el ***."
+    },
+    {
+      "term": "la fianza",
+      "type": "Noun",
+      "meaning_tr": "kefalet",
+      "meaning_en": "bail",
+      "meaning_uk": "застава",
+      "meaning_es": "cantidad de dinero para asegurar la presencia del acusado",
+      "example": "Pagó una *** de diez mil euros para salir de prisión."
+    },
+    {
+      "term": "la apelación",
+      "type": "Noun",
+      "meaning_tr": "temyiz",
+      "meaning_en": "appeal",
+      "meaning_uk": "апеляція",
+      "meaning_es": "recurso contra una sentencia",
+      "example": "El caso sigue abierto tras la *** presentada por la defensa."
+    },
+    {
+      "term": "el delito menor",
+      "type": "Noun",
+      "meaning_tr": "kabahat",
+      "meaning_en": "misdemeanor",
+      "meaning_uk": "дрібне правопорушення",
+      "meaning_es": "infracción penal de menor gravedad",
+      "example": "Se trata de un ***, por lo que no irá a la cárcel."
+    },
+    {
+      "term": "el delito grave",
+      "type": "Noun",
+      "meaning_tr": "ağır suç",
+      "meaning_en": "felony",
+      "meaning_uk": "тяжкий злочин",
+      "meaning_es": "infracción penal de gran gravedad",
+      "example": "El sospechoso ha sido arrestado por un ***."
+    },
+    {
+      "term": "la custodia",
+      "type": "Noun",
+      "meaning_tr": "gözetim/velayet",
+      "meaning_en": "custody",
+      "meaning_uk": "опіка",
+      "meaning_es": "cuidado o tenencia de alguien o algo",
+      "example": "El juez otorgó la *** de los niños a la madre."
+    },
+    {
+      "term": "la normativa",
+      "type": "Noun",
+      "meaning_tr": "mevzuat",
+      "meaning_en": "regulations",
+      "meaning_uk": "нормативна база",
+      "meaning_es": "conjunto de normas aplicables",
+      "example": "Debemos cumplir con la *** vigente en materia de seguridad."
+    },
+    {
+      "term": "el decreto",
+      "type": "Noun",
+      "meaning_tr": "kararname",
+      "meaning_en": "decree",
+      "meaning_uk": "указ",
+      "meaning_es": "decisión de una autoridad sobre asuntos de su competencia",
+      "example": "El gobierno aprobó un nuevo *** para mejorar la economía."
+    },
+    {
+      "term": "el jurado",
+      "type": "Noun",
+      "meaning_tr": "jüri",
+      "meaning_en": "jury",
+      "meaning_uk": "присяжні",
+      "meaning_es": "grupo de personas que juzga los hechos",
+      "example": "El *** tardó seis horas en alcanzar un veredicto."
+    },
+    {
+      "term": "la querella",
+      "type": "Noun",
+      "meaning_tr": "dava açma/şikayet",
+      "meaning_en": "complaint/lawsuit",
+      "meaning_uk": "скарга",
+      "meaning_es": "acusación formal ante un juez",
+      "example": "La empresa presentó una *** contra su exdirector."
+    },
+    {
+      "term": "el perito",
+      "type": "Noun",
+      "meaning_tr": "bilirkişi",
+      "meaning_en": "expert witness",
+      "meaning_uk": "експерт",
+      "meaning_es": "persona experta que asesora al juez",
+      "example": "El *** confirmó que la firma del documento era falsa."
+    },
+    {
+      "term": "juzgar",
+      "type": "Verb",
+      "meaning_tr": "yargılamak",
+      "meaning_en": "to judge",
+      "meaning_uk": "судити",
+      "meaning_es": "formar opinión sobre algo o alguien",
+      "example": "No es correcto *** a las personas sin conocer sus motivos."
+    },
+    {
+      "term": "acusar",
+      "type": "Verb",
+      "meaning_tr": "suçlamak",
+      "meaning_en": "to accuse",
+      "meaning_uk": "звинувачувати",
+      "meaning_es": "imputar un delito a alguien",
+      "example": "Le han *** de robar información confidencial."
+    },
+    {
+      "term": "defender",
+      "type": "Verb",
+      "meaning_tr": "savunmak",
+      "meaning_en": "to defend",
+      "meaning_uk": "захищати",
+      "meaning_es": "proteger ante un ataque o acusación",
+      "example": "El abogado se encargará de *** los intereses del cliente."
+    },
+    {
+      "term": "condenar",
+      "type": "Verb",
+      "meaning_tr": "hüküm giydirmek",
+      "meaning_en": "to convict",
+      "meaning_uk": "засуджувати",
+      "meaning_es": "imponer una pena",
+      "example": "El juez decidió *** al acusado a diez años de prisión."
+    },
+    {
+      "term": "absolver",
+      "type": "Verb",
+      "meaning_tr": "beraat ettirmek",
+      "meaning_en": "to acquit",
+      "meaning_uk": "виправдовувати",
+      "meaning_es": "declarar libre de culpa",
+      "example": "El tribunal decidió *** al sospechoso por falta de evidencias."
+    },
+    {
+      "term": "ilegal",
+      "type": "Adjective",
+      "meaning_tr": "yasadışı",
+      "meaning_en": "illegal",
+      "meaning_uk": "незаконний",
+      "meaning_es": "que no está permitido por la ley",
+      "example": "La venta de esas armas es completamente ***."
+    },
+    {
+      "term": "legal",
+      "type": "Adjective",
+      "meaning_tr": "yasal",
+      "meaning_en": "legal",
+      "meaning_uk": "законний",
+      "meaning_es": "que está conforme a la ley",
+      "example": "Necesitamos buscar una vía *** para resolver el conflicto."
+    },
+    {
+      "term": "vinculante",
+      "type": "Adjective",
+      "meaning_tr": "bağlayıcı",
+      "meaning_en": "binding",
+      "meaning_uk": "обов'язковий",
+      "meaning_es": "que obliga a su cumplimiento",
+      "example": "La decisión del tribunal es *** para ambas partes."
+    },
+    {
+      "term": "la indemnización",
+      "type": "Noun",
+      "meaning_tr": "tazminat",
+      "meaning_en": "compensation",
+      "meaning_uk": "компенсація",
+      "meaning_es": "dinero que se paga por un daño recibido",
+      "example": "La víctima recibirá una *** por los daños sufridos."
+    },
+    {
+      "term": "la apelación",
+      "type": "Noun",
+      "meaning_tr": "temyiz",
+      "meaning_en": "appeal",
+      "meaning_uk": "апеляція",
+      "meaning_es": "impugnación de una sentencia",
+      "example": "Presentaron un recurso de *** contra la decisión del juez."
+    },
+    {
+      "term": "la audiencia",
+      "type": "Noun",
+      "meaning_tr": "duruşma",
+      "meaning_en": "hearing",
+      "meaning_uk": "слухання",
+      "meaning_es": "sesión pública ante un juez",
+      "example": "La próxima *** será la semana que viene."
+    },
+    {
+      "term": "ejecutar",
+      "type": "Verb",
+      "meaning_tr": "uygulamak/icra etmek",
+      "meaning_en": "to execute",
+      "meaning_uk": "виконувати",
+      "meaning_es": "poner en práctica una resolución",
+      "example": "Es necesario *** la sentencia de inmediato."
+    },
+    {
+      "term": "el fraude",
+      "type": "Noun",
+      "meaning_tr": "dolandırıcılık",
+      "meaning_en": "fraud",
+      "meaning_uk": "шахрайство",
+      "meaning_es": "acción de engañar para obtener beneficio",
+      "example": "Cometió un *** fiscal de gran magnitud."
+    },
+    {
+      "term": "la normativa",
+      "type": "Noun",
+      "meaning_tr": "mevzuat",
+      "meaning_en": "regulation",
+      "meaning_uk": "норма",
+      "meaning_es": "reglas que regulan una materia",
+      "example": "Esta *** es muy estricta respecto al medio ambiente."
+    },
+    {
+      "term": "deliberar",
+      "type": "Verb",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to deliberate",
+      "meaning_uk": "обговорювати",
+      "meaning_es": "reflexionar antes de tomar una decisión",
+      "example": "El jurado se retiró a *** sobre el veredicto."
+    },
+    {
+      "term": "la prueba",
+      "type": "Noun",
+      "meaning_tr": "delil",
+      "meaning_en": "evidence",
+      "meaning_uk": "доказ",
+      "meaning_es": "lo que demuestra la verdad de un hecho",
+      "example": "La policía encontró una *** clave en el escenario."
+    }
+  ]
+}

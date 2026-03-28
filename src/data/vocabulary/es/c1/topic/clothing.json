@@ -1,0 +1,546 @@
+{
+  "title": "Ropa y Moda (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la vanguardia",
+      "type": "Noun",
+      "meaning_tr": "öncü, avangart",
+      "meaning_en": "vanguard/forefront",
+      "meaning_uk": "авангард",
+      "meaning_es": "posición adelantada en las tendencias",
+      "example": "El diseñador siempre se mantiene en *** de la moda internacional."
+    },
+    {
+      "term": "entallar",
+      "type": "Verb",
+      "meaning_tr": "dar etmek, vücuda oturtmak",
+      "meaning_en": "to tailor/fit",
+      "meaning_uk": "приталювати",
+      "meaning_es": "ajustar una prenda al cuerpo",
+      "example": "Es necesario *** la chaqueta para que luzca perfecta."
+    },
+    {
+      "term": "el atuendo",
+      "type": "Noun",
+      "meaning_tr": "kıyafet, giyim",
+      "meaning_en": "attire/outfit",
+      "meaning_uk": "вбрання",
+      "meaning_es": "conjunto de prendas que viste una persona",
+      "example": "Su *** para la gala fue sumamente elegante y sofisticado."
+    },
+    {
+      "term": "sobrio",
+      "type": "Adjective",
+      "meaning_tr": "sade, ağırbaşlı",
+      "meaning_en": "sober/understated",
+      "meaning_uk": "стриманий",
+      "meaning_es": "que es sencillo y sin adornos excesivos",
+      "example": "Prefiero un estilo *** para las reuniones de trabajo."
+    },
+    {
+      "term": "el estampado",
+      "type": "Noun",
+      "meaning_tr": "desen, baskı",
+      "meaning_en": "pattern/print",
+      "meaning_uk": "принт",
+      "meaning_es": "dibujo impreso en una tela",
+      "example": "Este vestido tiene un *** floral muy llamativo."
+    },
+    {
+      "term": "esquilmar",
+      "type": "Verb",
+      "meaning_tr": "tüketmek, bitirmek",
+      "meaning_en": "to deplete/exhaust",
+      "meaning_uk": "виснажувати",
+      "meaning_es": "agotar una fuente o recurso",
+      "example": "El consumo masivo tiende a *** los recursos naturales de la industria textil."
+    },
+    {
+      "term": "la solapa",
+      "type": "Noun",
+      "meaning_tr": "yaka (ceket)",
+      "meaning_en": "lapel",
+      "meaning_uk": "лацкан",
+      "meaning_es": "parte delantera de una chaqueta que se dobla",
+      "example": "Llevaba una flor pequeña en la *** de su saco."
+    },
+    {
+      "term": "desenfadado",
+      "type": "Adjective",
+      "meaning_tr": "rahat, kaygısız",
+      "meaning_en": "casual/carefree",
+      "meaning_uk": "невимушений",
+      "meaning_es": "que muestra naturalidad y falta de rigidez",
+      "example": "Optó por un look *** para el fin de semana."
+    },
+    {
+      "term": "la pasarela",
+      "type": "Noun",
+      "meaning_tr": "podyum",
+      "meaning_en": "runway/catwalk",
+      "meaning_uk": "подіум",
+      "meaning_es": "plataforma donde desfilan los modelos",
+      "example": "La colección causó sensación en la última *** de París."
+    },
+    {
+      "term": "el lino",
+      "type": "Noun",
+      "meaning_tr": "keten",
+      "meaning_en": "linen",
+      "meaning_uk": "льон",
+      "meaning_es": "fibra textil natural muy fresca",
+      "example": "El *** es el tejido ideal para los climas cálidos."
+    },
+    {
+      "term": "estrafalario",
+      "type": "Adjective",
+      "meaning_tr": "tuhaf, acayip",
+      "meaning_en": "eccentric/bizarre",
+      "meaning_uk": "химерний",
+      "meaning_es": "que es extravagante o raro",
+      "example": "Su gusto por la moda es un poco *** y difícil de seguir."
+    },
+    {
+      "term": "el modisto",
+      "type": "Noun",
+      "meaning_tr": "terzi, moda tasarımcısı",
+      "meaning_en": "fashion designer",
+      "meaning_uk": "модельєр",
+      "meaning_es": "diseñador de alta costura",
+      "example": "Aquel *** es famoso por sus vestidos de seda."
+    },
+    {
+      "term": "el encaje",
+      "type": "Noun",
+      "meaning_tr": "dantel",
+      "meaning_en": "lace",
+      "meaning_uk": "мереживо",
+      "meaning_es": "tejido ornamental con calados",
+      "example": "El vestido de novia estaba adornado con un *** delicado."
+    },
+    {
+      "term": "confeccionar",
+      "type": "Verb",
+      "meaning_tr": "hazırlamak, dikmek",
+      "meaning_en": "to manufacture/tailor",
+      "meaning_uk": "виготовляти",
+      "meaning_es": "fabricar prendas de vestir",
+      "example": "Tardaron un mes en *** el traje a medida."
+    },
+    {
+      "term": "el dobladillo",
+      "type": "Noun",
+      "meaning_tr": "etek ucu katlaması",
+      "meaning_en": "hem",
+      "meaning_uk": "підгин",
+      "meaning_es": "borde de la tela doblado y cosido",
+      "example": "Debes ajustar el *** del pantalón porque te queda largo."
+    },
+    {
+      "term": "la tendencia",
+      "type": "Noun",
+      "meaning_tr": "eğilim, moda akımı",
+      "meaning_en": "trend",
+      "meaning_uk": "тренд",
+      "meaning_es": "corriente o preferencia en la moda",
+      "example": "La última *** dicta que los colores neón regresan con fuerza."
+    },
+    {
+      "term": "el prêt-à-porter",
+      "type": "Noun",
+      "meaning_tr": "hazır giyim",
+      "meaning_en": "ready-to-wear",
+      "meaning_uk": "прет-а-порте",
+      "meaning_es": "ropa producida en serie",
+      "example": "La marca presentó su nueva línea de *** para el otoño."
+    },
+    {
+      "term": "esbelto",
+      "type": "Adjective",
+      "meaning_tr": "ince, uzun boylu",
+      "meaning_en": "slender/slim",
+      "meaning_uk": "стрункий",
+      "meaning_es": "que tiene una figura elegante y delgada",
+      "example": "Aquel corte de pantalón resalta su figura ***."
+    },
+    {
+      "term": "el accesorio",
+      "type": "Noun",
+      "meaning_tr": "aksesuar",
+      "meaning_en": "accessory",
+      "meaning_uk": "аксесуар",
+      "meaning_es": "complemento de la vestimenta",
+      "example": "Un buen *** puede transformar un conjunto sencillo."
+    },
+    {
+      "term": "la seda",
+      "type": "Noun",
+      "meaning_tr": "ipek",
+      "meaning_en": "silk",
+      "meaning_uk": "шовк",
+      "meaning_es": "fibra textil natural muy suave",
+      "example": "Esta blusa está hecha de *** pura."
+    },
+    {
+      "term": "el atavío",
+      "type": "Noun",
+      "meaning_tr": "giyim kuşam",
+      "meaning_en": "garb/apparel",
+      "meaning_uk": "одяг",
+      "meaning_es": "vestimenta, generalmente lujosa",
+      "example": "El rey lucía un *** real impresionante durante la ceremonia."
+    },
+    {
+      "term": "estilizar",
+      "type": "Verb",
+      "meaning_tr": "biçimlendirmek, inceltmek",
+      "meaning_en": "to stylize/slim down",
+      "meaning_uk": "стилізувати",
+      "meaning_es": "dar forma para que algo parezca más fino",
+      "example": "Los zapatos de tacón ayudan a *** la figura femenina."
+    },
+    {
+      "term": "la sisa",
+      "type": "Noun",
+      "meaning_tr": "kol evi",
+      "meaning_en": "armhole",
+      "meaning_uk": "пройма",
+      "meaning_es": "curva de la prenda por donde pasa el brazo",
+      "example": "La *** de esta camisa me queda un poco apretada."
+    },
+    {
+      "term": "sobrio",
+      "type": "Adjective",
+      "meaning_tr": "ağırbaşlı, sade",
+      "meaning_en": "sober",
+      "meaning_uk": "стриманий",
+      "meaning_es": "que denota discreción",
+      "example": "Llevaba un traje *** de color gris oscuro."
+    },
+    {
+      "term": "la pasamanería",
+      "type": "Noun",
+      "meaning_tr": "süs şeridi, galon",
+      "meaning_en": "trimmings",
+      "meaning_uk": "тасьма",
+      "meaning_es": "adornos de cintas o cordones en la ropa",
+      "example": "El vestido antiguo tenía detalles de *** dorada."
+    },
+    {
+      "term": "deslumbrante",
+      "type": "Adjective",
+      "meaning_tr": "göz kamaştırıcı",
+      "meaning_en": "dazzling",
+      "meaning_uk": "осліпливий",
+      "meaning_es": "que impresiona mucho por su belleza",
+      "example": "Llevaba un vestido *** que atrajo todas las miradas."
+    },
+    {
+      "term": "el brocado",
+      "type": "Noun",
+      "meaning_tr": "sırma işlemeli kumaş",
+      "meaning_en": "brocade",
+      "meaning_uk": "парча",
+      "meaning_es": "tela con dibujos en relieve",
+      "example": "El chaleco estaba hecho de un *** exquisito."
+    },
+    {
+      "term": "emular",
+      "type": "Verb",
+      "meaning_tr": "taklit etmek, örnek almak",
+      "meaning_en": "to emulate",
+      "meaning_uk": "наслідувати",
+      "meaning_es": "imitar las acciones o el estilo de alguien",
+      "example": "Muchos jóvenes intentan *** el estilo de los artistas de moda."
+    },
+    {
+      "term": "la lazada",
+      "type": "Noun",
+      "meaning_tr": "fiyonk",
+      "meaning_en": "bow/knot",
+      "meaning_uk": "бант",
+      "meaning_es": "nudo en forma de lazo",
+      "example": "El vestido tiene una *** en la cintura que le da un toque romántico."
+    },
+    {
+      "term": "vaporoso",
+      "type": "Adjective",
+      "meaning_tr": "uçuş uçuş, hafif",
+      "meaning_en": "light/airy",
+      "meaning_uk": "легкий/повітряний",
+      "meaning_es": "que es muy ligero y fino",
+      "example": "Elegí un vestido *** para la fiesta en la playa."
+    },
+    {
+      "term": "la hechura",
+      "type": "Noun",
+      "meaning_tr": "kesim, biçim",
+      "meaning_en": "cut/make",
+      "meaning_uk": "крій",
+      "meaning_es": "la forma o el corte de una prenda",
+      "example": "La *** de este abrigo es impecable."
+    },
+    {
+      "term": "arremangar",
+      "type": "Verb",
+      "meaning_tr": "kıvırmak (kolu)",
+      "meaning_en": "to roll up sleeves",
+      "meaning_uk": "закачувати рукави",
+      "meaning_es": "doblar las mangas hacia arriba",
+      "example": "Tuvo que *** las mangas para empezar a trabajar."
+    },
+    {
+      "term": "el pespunte",
+      "type": "Noun",
+      "meaning_tr": "makine dikişi",
+      "meaning_en": "topstitch",
+      "meaning_uk": "строчка",
+      "meaning_es": "costura visible en la superficie de la tela",
+      "example": "El diseñador añadió un *** en color contraste."
+    },
+    {
+      "term": "ornamental",
+      "type": "Adjective",
+      "meaning_tr": "süsleyici",
+      "meaning_en": "ornamental",
+      "meaning_uk": "декоративний",
+      "meaning_es": "que sirve para adornar",
+      "example": "Los botones solo tienen una función *** en este diseño."
+    },
+    {
+      "term": "la badana",
+      "type": "Noun",
+      "meaning_tr": "koyun derisi",
+      "meaning_en": "sheepskin/leather",
+      "meaning_uk": "овеча шкіра",
+      "meaning_es": "piel de oveja curtida",
+      "example": "Los zapatos están forrados con *** de alta calidad."
+    },
+    {
+      "term": "entallado",
+      "type": "Adjective",
+      "meaning_tr": "vücuda oturan",
+      "meaning_en": "fitted",
+      "meaning_uk": "приталений",
+      "meaning_es": "que se ajusta al cuerpo",
+      "example": "Prefiero usar un blazer *** para ir a la oficina."
+    },
+    {
+      "term": "deshilachar",
+      "type": "Verb",
+      "meaning_tr": "sökmek, saçaklandırmak",
+      "meaning_en": "to fray",
+      "meaning_uk": "розпускати нитки",
+      "meaning_es": "quitar hilos a una tela",
+      "example": "Es moda *** los bordes de los pantalones vaqueros."
+    },
+    {
+      "term": "la entretela",
+      "type": "Noun",
+      "meaning_tr": "tela tela (ara kat)",
+      "meaning_en": "interlining",
+      "meaning_uk": "прокладка",
+      "meaning_es": "capa de tela interna para dar rigidez",
+      "example": "Esta chaqueta tiene una *** que le da estructura al cuello."
+    },
+    {
+      "term": "opulento",
+      "type": "Adjective",
+      "meaning_tr": "gösterişli, zengin",
+      "meaning_en": "opulent/lavish",
+      "meaning_uk": "розкішний",
+      "meaning_es": "que es muy lujoso",
+      "example": "Llevaba un collar *** que brillaba bajo las luces."
+    },
+    {
+      "term": "el atavismo",
+      "type": "Noun",
+      "meaning_tr": "geriye dönüş, atavizm",
+      "meaning_en": "atavism",
+      "meaning_uk": "атавізм",
+      "meaning_es": "retorno a formas antiguas en la moda",
+      "example": "El diseño muestra un claro *** de la época victoriana."
+    },
+    {
+      "term": "ajustar",
+      "type": "Verb",
+      "meaning_tr": "ayarlamak, daraltmak",
+      "meaning_en": "to adjust",
+      "meaning_uk": "підганяти",
+      "meaning_es": "hacer que una prenda quede perfecta",
+      "example": "Voy a *** la cintura del vestido para que me quede mejor."
+    },
+    {
+      "term": "la muselina",
+      "type": "Noun",
+      "meaning_tr": "muslin (ince kumaş)",
+      "meaning_en": "muslin",
+      "meaning_uk": "муслін",
+      "meaning_es": "tela fina y transparente",
+      "example": "El vestido de verano está confeccionado en ***."
+    },
+    {
+      "term": "sobrio",
+      "type": "Adjective",
+      "meaning_tr": "ciddi, ağır",
+      "meaning_en": "serious/austere",
+      "meaning_uk": "суворий",
+      "meaning_es": "que denota seriedad",
+      "example": "Eligió un conjunto *** para la entrevista de trabajo."
+    },
+    {
+      "term": "la solapa",
+      "type": "Noun",
+      "meaning_tr": "yaka",
+      "meaning_en": "lapel",
+      "meaning_uk": "лацкан",
+      "meaning_es": "parte doblada del cuello de una prenda",
+      "example": "La *** de su abrigo es de un color diferente."
+    },
+    {
+      "term": "desaliñado",
+      "type": "Adjective",
+      "meaning_tr": "pasaklı, bakımsız",
+      "meaning_en": "sloppy/unkempt",
+      "meaning_uk": "неохайний",
+      "meaning_es": "que no cuida su aspecto",
+      "example": "Aunque es un estilo moderno, parece un poco ***."
+    },
+    {
+      "term": "el talle",
+      "type": "Noun",
+      "meaning_tr": "bel, kesim",
+      "meaning_en": "waist/fit",
+      "meaning_uk": "талія/крій",
+      "meaning_es": "parte del cuerpo o de la prenda en la cintura",
+      "example": "Este vestido tiene el *** muy alto."
+    },
+    {
+      "term": "esmerarse",
+      "type": "Verb",
+      "meaning_tr": "özen göstermek",
+      "meaning_en": "to strive/take pains",
+      "meaning_uk": "старатися",
+      "meaning_es": "poner mucho cuidado en hacer algo",
+      "example": "El sastre se *** en cada detalle del traje."
+    },
+    {
+      "term": "la pasamanería",
+      "type": "Noun",
+      "meaning_tr": "kordon, şerit",
+      "meaning_en": "trimming/braid",
+      "meaning_uk": "тасьма",
+      "meaning_es": "adornos hechos con hilos",
+      "example": "La *** de este vestido es artesanal."
+    },
+    {
+      "term": "deslumbrante",
+      "type": "Adjective",
+      "meaning_tr": "parlak, büyüleyici",
+      "meaning_en": "stunning",
+      "meaning_uk": "приголомшливий",
+      "meaning_es": "que deslumbra por su calidad",
+      "example": "Presentó una colección *** en la semana de la moda."
+    },
+    {
+      "term": "el brocado",
+      "type": "Noun",
+      "meaning_tr": "işlemeli kumaş",
+      "meaning_en": "brocade",
+      "meaning_uk": "парча",
+      "meaning_es": "tejido lujoso con relieve",
+      "example": "Usó una falda de *** para la cena formal."
+    },
+    {
+      "term": "emular",
+      "type": "Verb",
+      "meaning_tr": "taklit etmek",
+      "meaning_en": "to copy",
+      "meaning_uk": "наслідувати",
+      "meaning_es": "copiar el estilo de otro diseñador",
+      "example": "Es imposible *** la genialidad de ese diseñador."
+    },
+    {
+      "term": "la lazada",
+      "type": "Noun",
+      "meaning_tr": "fiyonk",
+      "meaning_en": "bow",
+      "meaning_uk": "бант",
+      "meaning_es": "nudo decorativo",
+      "example": "La blusa tiene una *** elegante en el cuello."
+    },
+    {
+      "term": "vaporoso",
+      "type": "Adjective",
+      "meaning_tr": "hafif, ince",
+      "meaning_en": "sheer/light",
+      "meaning_uk": "легкий",
+      "meaning_es": "tejido que parece flotar",
+      "example": "El pañuelo es muy *** y suave."
+    },
+    {
+      "term": "la hechura",
+      "type": "Noun",
+      "meaning_tr": "biçim, yapı",
+      "meaning_en": "construction",
+      "meaning_uk": "крій",
+      "meaning_es": "la forma en que está hecha la ropa",
+      "example": "La *** de los zapatos garantiza comodidad."
+    },
+    {
+      "term": "arremangar",
+      "type": "Verb",
+      "meaning_tr": "sıvamak",
+      "meaning_en": "to tuck up",
+      "meaning_uk": "закачувати",
+      "meaning_es": "subir las mangas",
+      "example": "Se tuvo que *** la camisa para lavar el coche."
+    },
+    {
+      "term": "el pespunte",
+      "type": "Noun",
+      "meaning_tr": "dikiş",
+      "meaning_en": "stitch",
+      "meaning_uk": "строчка",
+      "meaning_es": "costura decorativa",
+      "example": "El *** le da un aspecto más deportivo a la prenda."
+    },
+    {
+      "term": "ornamental",
+      "type": "Adjective",
+      "meaning_tr": "dekoratif",
+      "meaning_en": "decorative",
+      "meaning_uk": "декоративний",
+      "meaning_es": "relativo al adorno",
+      "example": "Añadieron elementos *** al diseño original."
+    },
+    {
+      "term": "la badana",
+      "type": "Noun",
+      "meaning_tr": "deri",
+      "meaning_en": "leather",
+      "meaning_uk": "шкіра",
+      "meaning_es": "tipo de piel suave",
+      "example": "El interior del bolso es de ***."
+    },
+    {
+      "term": "entallado",
+      "type": "Adjective",
+      "meaning_tr": "dar",
+      "meaning_en": "slim-fit",
+      "meaning_uk": "приталений",
+      "meaning_es": "que marca la figura",
+      "example": "Ese traje *** te sienta muy bien."
+    },
+    {
+      "term": "deshilachar",
+      "type": "Verb",
+      "meaning_tr": "ipliklerini çıkarmak",
+      "meaning_en": "to fray",
+      "meaning_uk": "розпускати",
+      "meaning_es": "dañar los bordes de una tela",
+      "example": "No tires del hilo o vas a *** toda la manga."
+    }
+  ]
+}

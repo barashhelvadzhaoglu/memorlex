@@ -1,0 +1,546 @@
+{
+  "title": "Internet & Social Media (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "an algorithm",
+      "type": "Noun",
+      "example": "The social media platform uses *** to curate your personalized news feed.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "a set of rules to be followed in calculations or other problem-solving operations",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "algoritmo"
+    },
+    {
+      "term": "to amplify",
+      "type": "Verb",
+      "example": "Influencers often *** controversial opinions to gain more engagement.",
+      "meaning_tr": "büyütmek, güçlendirmek",
+      "meaning_en": "to increase the volume or intensity of something",
+      "meaning_uk": "посилювати",
+      "meaning_es": "amplificar"
+    },
+    {
+      "term": "an echo chamber",
+      "type": "Noun",
+      "example": "Social media sites can become an *** where users only hear their own opinions reflected back.",
+      "meaning_tr": "yankı odası",
+      "meaning_en": "an environment where a person only encounters information or opinions that reflect and reinforce their own",
+      "meaning_uk": "луна-камера",
+      "meaning_es": "cámara de eco"
+    },
+    {
+      "term": "dissemination",
+      "type": "Noun",
+      "example": "The rapid *** of misinformation is a major concern for digital literacy experts.",
+      "meaning_tr": "yayılım, dağıtım",
+      "meaning_en": "the act of spreading information or knowledge widely",
+      "meaning_uk": "поширення",
+      "meaning_es": "difusión"
+    },
+    {
+      "term": "ubiquitous",
+      "type": "Adjective",
+      "example": "Smartphones have become *** in modern society, changing how we interact daily.",
+      "meaning_tr": "her yerde bulunan",
+      "meaning_en": "present, appearing, or found everywhere",
+      "meaning_uk": "повсюдний",
+      "meaning_es": "ubicuo"
+    },
+    {
+      "term": "to curate",
+      "type": "Verb",
+      "example": "She takes great care to *** her online profile to reflect her professional interests.",
+      "meaning_tr": "düzenlemek, seçip bir araya getirmek",
+      "meaning_en": "to select, organize, and look after items in a collection",
+      "meaning_uk": "курувати",
+      "meaning_es": "comisariar"
+    },
+    {
+      "term": "anonymity",
+      "type": "Noun",
+      "example": "The *** provided by the internet allows some people to act maliciously without consequence.",
+      "meaning_tr": "anonimlik",
+      "meaning_en": "the state of being anonymous",
+      "meaning_uk": "анонімність",
+      "meaning_es": "anonimato"
+    },
+    {
+      "term": "bandwidth",
+      "type": "Noun",
+      "example": "We need more *** to stream high-definition video without interruptions.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "the capacity for data transfer of an electronic communications system",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "ancho de banda"
+    },
+    {
+      "term": "to circumvent",
+      "type": "Verb",
+      "example": "Users in some countries use VPNs to *** censorship and access blocked websites.",
+      "meaning_tr": "etrafından dolaşmak, aşmak",
+      "meaning_en": "to find a way around an obstacle or rule",
+      "meaning_uk": "обходити",
+      "meaning_es": "eludir"
+    },
+    {
+      "term": "a digital footprint",
+      "type": "Noun",
+      "example": "Be careful what you post, as you are leaving a permanent *** behind.",
+      "meaning_tr": "dijital ayak izi",
+      "meaning_en": "the trail of data you create while using the internet",
+      "meaning_uk": "цифровий слід",
+      "meaning_es": "huella digital"
+    },
+    {
+      "term": "disruptive",
+      "type": "Adjective",
+      "example": "The new app is a *** technology that has completely changed the taxi industry.",
+      "meaning_tr": "yıkıcı, düzeni bozan",
+      "meaning_en": "causing or tending to cause disruption",
+      "meaning_uk": "руйнівний",
+      "meaning_es": "disruptivo"
+    },
+    {
+      "term": "to engage",
+      "type": "Verb",
+      "example": "Brands try to *** with their audience by posting interactive content.",
+      "meaning_tr": "etkileşime geçmek, ilgilenmek",
+      "meaning_en": "to participate or become involved in something",
+      "meaning_uk": "взаємодіяти",
+      "meaning_es": "interactuar"
+    },
+    {
+      "term": "ephemeral",
+      "type": "Adjective",
+      "example": "Snapchat is famous for its *** content that disappears after being viewed.",
+      "meaning_tr": "kısa ömürlü, geçici",
+      "meaning_en": "lasting for a very short time",
+      "meaning_uk": "ефемерний",
+      "meaning_es": "efímero"
+    },
+    {
+      "term": "a firewall",
+      "type": "Noun",
+      "example": "The company installed a strong *** to prevent unauthorized access to their servers.",
+      "meaning_tr": "güvenlik duvarı",
+      "meaning_en": "a network security system that monitors and controls incoming and outgoing network traffic",
+      "meaning_uk": "міжмережевий екран",
+      "meaning_es": "cortafuegos"
+    },
+    {
+      "term": "gamification",
+      "type": "Noun",
+      "example": "The app uses *** to encourage users to learn languages by earning points and badges.",
+      "meaning_tr": "oyunlaştırma",
+      "meaning_en": "the application of game-design elements in non-game contexts",
+      "meaning_uk": "гейміфікація",
+      "meaning_es": "gamificación"
+    },
+    {
+      "term": "hyperlink",
+      "type": "Noun",
+      "example": "Click on the *** to be redirected to the official documentation page.",
+      "meaning_tr": "köprü, bağlantı",
+      "meaning_en": "a link from a hypertext file to another location or file",
+      "meaning_uk": "гіперпосилання",
+      "meaning_es": "hipervínculo"
+    },
+    {
+      "term": "immersive",
+      "type": "Adjective",
+      "example": "Virtual reality provides an *** experience that makes you feel like you are actually there.",
+      "meaning_tr": "sürükleyici",
+      "meaning_en": "generating a three-dimensional image which appears to surround the user",
+      "meaning_uk": "занурювальний",
+      "meaning_es": "inmersivo"
+    },
+    {
+      "term": "infrastructure",
+      "type": "Noun",
+      "example": "Significant investment in internet *** is needed to support remote work in rural areas.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "the basic physical and organizational structures and facilities needed for the operation of a society",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "infraestructura"
+    },
+    {
+      "term": "latency",
+      "type": "Noun",
+      "example": "Low *** is crucial for online gaming to prevent delays in response time.",
+      "meaning_tr": "gecikme süresi",
+      "meaning_en": "the time it takes for a data packet to travel from source to destination",
+      "meaning_uk": "затримка",
+      "meaning_es": "latencia"
+    },
+    {
+      "term": "malware",
+      "type": "Noun",
+      "example": "You should install antivirus software to protect your system from ***.",
+      "meaning_tr": "kötü amaçlı yazılım",
+      "meaning_en": "software that is specifically designed to disrupt, damage, or gain unauthorized access to a computer system",
+      "meaning_uk": "шкідливе програмне забезпечення",
+      "meaning_es": "software malicioso"
+    },
+    {
+      "term": "monetization",
+      "type": "Noun",
+      "example": "The creator is exploring different ways of *** for her popular video channel.",
+      "meaning_tr": "gelire dönüştürme",
+      "meaning_en": "the process of converting something into money",
+      "meaning_uk": "монетизація",
+      "meaning_es": "monetización"
+    },
+    {
+      "term": "net neutrality",
+      "type": "Noun",
+      "example": "The debate over *** is focused on whether ISPs should treat all internet traffic equally.",
+      "meaning_tr": "ağ tarafsızlığı",
+      "meaning_en": "the principle that internet service providers should enable access to all content and applications regardless of the source",
+      "meaning_uk": "мережевий нейтралітет",
+      "meaning_es": "neutralidad de la red"
+    },
+    {
+      "term": "online",
+      "type": "Adverb",
+      "example": "I prefer to do most of my shopping *** to save time.",
+      "meaning_tr": "çevrimiçi",
+      "meaning_en": "connected to or available via the internet",
+      "meaning_uk": "онлайн",
+      "meaning_es": "en línea"
+    },
+    {
+      "term": "phishing",
+      "type": "Noun",
+      "example": "He fell victim to a *** scam that tricked him into revealing his bank password.",
+      "meaning_tr": "oltalama",
+      "meaning_en": "the fraudulent practice of sending emails purporting to be from reputable companies to induce individuals to reveal personal information",
+      "meaning_uk": "фішинг",
+      "meaning_es": "phishing"
+    },
+    {
+      "term": "platform",
+      "type": "Noun",
+      "example": "Twitter is a popular social media *** for real-time news updates.",
+      "meaning_tr": "platform",
+      "meaning_en": "a group of technologies that are used as a base upon which other applications are developed",
+      "meaning_uk": "платформа",
+      "meaning_es": "plataforma"
+    },
+    {
+      "term": "privacy",
+      "type": "Noun",
+      "example": "Many users are concerned about the lack of data *** on social media sites.",
+      "meaning_tr": "gizlilik",
+      "meaning_en": "the state or condition of being free from being observed or disturbed by other people",
+      "meaning_uk": "конфіденційність",
+      "meaning_es": "privacidad"
+    },
+    {
+      "term": "to propagate",
+      "type": "Verb",
+      "example": "False information can *** across the internet in a matter of seconds.",
+      "meaning_tr": "yaymak, çoğaltmak",
+      "meaning_en": "to spread and promote an idea or theory widely",
+      "meaning_uk": "поширювати",
+      "meaning_es": "propagar"
+    },
+    {
+      "term": "proxy",
+      "type": "Noun",
+      "example": "Using a *** server can help you access content restricted in your region.",
+      "meaning_tr": "vekil sunucu",
+      "meaning_en": "a server that acts as an intermediary for requests from clients seeking resources from other servers",
+      "meaning_uk": "проксі",
+      "meaning_es": "proxy"
+    },
+    {
+      "term": "reputation",
+      "type": "Noun",
+      "example": "In the digital age, your online *** can be damaged by a single viral post.",
+      "meaning_tr": "itibar",
+      "meaning_en": "the beliefs or opinions that are generally held about someone or something",
+      "meaning_uk": "репутація",
+      "meaning_es": "reputación"
+    },
+    {
+      "term": "scalability",
+      "type": "Noun",
+      "example": "The software architecture was designed with *** in mind to handle millions of users.",
+      "meaning_tr": "ölçeklenebilirlik",
+      "meaning_en": "the capacity to be changed in size or scale",
+      "meaning_uk": "масштабованість",
+      "meaning_es": "escalabilidad"
+    },
+    {
+      "term": "secure",
+      "type": "Adjective",
+      "example": "Always ensure the website is *** before entering your credit card details.",
+      "meaning_tr": "güvenli",
+      "meaning_en": "fixed or fastened so as not to give way, become loose, or be lost",
+      "meaning_uk": "безпечний",
+      "meaning_es": "seguro"
+    },
+    {
+      "term": "to segment",
+      "type": "Verb",
+      "example": "Marketers *** their audience based on demographics to show relevant ads.",
+      "meaning_tr": "bölümlere ayırmak",
+      "meaning_en": "to divide something into separate parts or sections",
+      "meaning_uk": "сегментувати",
+      "meaning_es": "segmentar"
+    },
+    {
+      "term": "social",
+      "type": "Adjective",
+      "example": "The *** media landscape is constantly evolving with new trends and features.",
+      "meaning_tr": "sosyal",
+      "meaning_en": "relating to society or its organization",
+      "meaning_uk": "соціальний",
+      "meaning_es": "social"
+    },
+    {
+      "term": "spam",
+      "type": "Noun",
+      "example": "I check my *** folder daily to ensure I haven't missed any legitimate emails.",
+      "meaning_tr": "istenmeyen posta",
+      "meaning_en": "irrelevant or unsolicited messages sent over the internet",
+      "meaning_uk": "спам",
+      "meaning_es": "spam"
+    },
+    {
+      "term": "to stream",
+      "type": "Verb",
+      "example": "Many people now prefer to *** movies instead of buying physical copies.",
+      "meaning_tr": "yayınlamak, canlı yayın akışı yapmak",
+      "meaning_en": "to transmit or receive data over the internet as a continuous flow",
+      "meaning_uk": "транслювати",
+      "meaning_es": "transmitir"
+    },
+    {
+      "term": "synchronous",
+      "type": "Adjective",
+      "example": "Zoom meetings are a form of *** communication where everyone participates in real-time.",
+      "meaning_tr": "eşzamanlı",
+      "meaning_en": "existing or occurring at the same time",
+      "meaning_uk": "синхронний",
+      "meaning_es": "sincrónico"
+    },
+    {
+      "term": "the cloud",
+      "type": "Noun",
+      "example": "I store all my photos in *** so I can access them from any device.",
+      "meaning_tr": "bulut (bilişim)",
+      "meaning_en": "the practice of using a network of remote servers hosted on the internet to store, manage, and process data",
+      "meaning_uk": "хмара",
+      "meaning_es": "la nube"
+    },
+    {
+      "term": "trending",
+      "type": "Adjective",
+      "example": "The hashtag is currently *** on Twitter due to the major political event.",
+      "meaning_tr": "trend olan, popüler",
+      "meaning_en": "currently popular or widely discussed on social media",
+      "meaning_uk": "у тренді",
+      "meaning_es": "en tendencia"
+    },
+    {
+      "term": "a troll",
+      "type": "Noun",
+      "example": "Don't feed the ***; it's best to ignore negative comments meant to provoke you.",
+      "meaning_tr": "trol (internette kışkırtıcı)",
+      "meaning_en": "a person who makes purposely offensive or provocative online posts",
+      "meaning_uk": "троль",
+      "meaning_es": "troll"
+    },
+    {
+      "term": "unsolicited",
+      "type": "Adjective",
+      "example": "The company was fined for sending *** marketing emails to customers.",
+      "meaning_tr": "istenmeyen, talep edilmemiş",
+      "meaning_en": "not asked for; given or done voluntarily",
+      "meaning_uk": "незапитаний",
+      "meaning_es": "no solicitado"
+    },
+    {
+      "term": "user-friendly",
+      "type": "Adjective",
+      "example": "The new interface is very ***, making it easy for beginners to navigate.",
+      "meaning_tr": "kullanıcı dostu",
+      "meaning_en": "easy to use or understand",
+      "meaning_uk": "зручний для користувача",
+      "meaning_es": "fácil de usar"
+    },
+    {
+      "term": "viral",
+      "type": "Adjective",
+      "example": "Her video went *** overnight, reaching millions of views in just one day.",
+      "meaning_tr": "viral (hızla yayılan)",
+      "meaning_en": "circulating rapidly and widely from one internet user to another",
+      "meaning_uk": "вірусний",
+      "meaning_es": "viral"
+    },
+    {
+      "term": "virtual",
+      "type": "Adjective",
+      "example": "We attended a *** conference instead of traveling to the physical location.",
+      "meaning_tr": "sanal",
+      "meaning_en": "carried out, accessed, or stored by means of a computer",
+      "meaning_uk": "віртуальний",
+      "meaning_es": "virtual"
+    },
+    {
+      "term": "vulnerability",
+      "type": "Noun",
+      "example": "The software update patched a major security *** that hackers were exploiting.",
+      "meaning_tr": "savunmasızlık, güvenlik açığı",
+      "meaning_en": "a weakness which can be exploited by a threat actor",
+      "meaning_uk": "вразливість",
+      "meaning_es": "vulnerabilidad"
+    },
+    {
+      "term": "wearable",
+      "type": "Adjective",
+      "example": "Smartwatches are the most popular type of *** technology today.",
+      "meaning_tr": "giyilebilir",
+      "meaning_en": "designed to be worn on the body",
+      "meaning_uk": "ношуваний",
+      "meaning_es": "vestible"
+    },
+    {
+      "term": "webinar",
+      "type": "Noun",
+      "example": "I signed up for a *** to learn more about digital marketing strategies.",
+      "meaning_tr": "web semineri",
+      "meaning_en": "a seminar conducted over the internet",
+      "meaning_uk": "вебінар",
+      "meaning_es": "seminario web"
+    },
+    {
+      "term": "to whitelist",
+      "type": "Verb",
+      "example": "You need to *** this email address so that future messages don't go to spam.",
+      "meaning_tr": "beyaz listeye almak",
+      "meaning_en": "to put an item on a list of approved or trusted entities",
+      "meaning_uk": "додавати до білого списку",
+      "meaning_es": "incluir en lista blanca"
+    },
+    {
+      "term": "bandwidth-intensive",
+      "type": "Adjective",
+      "example": "4K video streaming is a *** task that requires a fast internet connection.",
+      "meaning_tr": "yüksek bant genişliği gerektiren",
+      "meaning_en": "requiring a large amount of data transmission",
+      "meaning_uk": "високошвидкісний",
+      "meaning_es": "que consume mucho ancho de banda"
+    },
+    {
+      "term": "cyberbullying",
+      "type": "Noun",
+      "example": "Schools are taking stronger measures to combat the rising issue of ***.",
+      "meaning_tr": "siber zorbalık",
+      "meaning_en": "the use of electronic communication to bully a person",
+      "meaning_uk": "кібербулінг",
+      "meaning_es": "ciberacoso"
+    },
+    {
+      "term": "data-driven",
+      "type": "Adjective",
+      "example": "Our marketing strategy is purely ***, based on analyzing customer behavior.",
+      "meaning_tr": "veriye dayalı",
+      "meaning_en": "determined by or dependent on the collection or analysis of data",
+      "meaning_uk": "керований даними",
+      "meaning_es": "basado en datos"
+    },
+    {
+      "term": "the dark web",
+      "type": "Noun",
+      "example": "Illegal goods are often traded on ***, which is not indexed by search engines.",
+      "meaning_tr": "karanlık ağ (dark web)",
+      "meaning_en": "the part of the internet that is only accessible by means of special software",
+      "meaning_uk": "даркнет",
+      "meaning_es": "la web oscura"
+    },
+    {
+      "term": "encryption",
+      "type": "Noun",
+      "example": "End-to-end *** ensures that only the sender and recipient can read the messages.",
+      "meaning_tr": "şifreleme",
+      "meaning_en": "the process of converting information into code to prevent unauthorized access",
+      "meaning_uk": "шифрування",
+      "meaning_es": "cifrado"
+    },
+    {
+      "term": "to follow",
+      "type": "Verb",
+      "example": "You should *** this account if you want daily updates on technology news.",
+      "meaning_tr": "takip etmek",
+      "meaning_en": "to subscribe to a social media account to see their updates",
+      "meaning_uk": "підписуватися",
+      "meaning_es": "seguir"
+    },
+    {
+      "term": "interoperability",
+      "type": "Noun",
+      "example": "The system lacks ***, making it difficult to share data with other platforms.",
+      "meaning_tr": "birlikte çalışabilirlik",
+      "meaning_en": "the ability of computer systems to exchange and make use of information",
+      "meaning_uk": "сумісність",
+      "meaning_es": "interoperabilidad"
+    },
+    {
+      "term": "metadata",
+      "type": "Noun",
+      "example": "The photo contains *** which reveals the location and time it was taken.",
+      "meaning_tr": "üstveri",
+      "meaning_en": "a set of data that describes and gives information about other data",
+      "meaning_uk": "метадані",
+      "meaning_es": "metadatos"
+    },
+    {
+      "term": "open-source",
+      "type": "Adjective",
+      "example": "The software is ***, so anyone can contribute to its development.",
+      "meaning_tr": "açık kaynak kodlu",
+      "meaning_en": "denoting software for which the original source code is made freely available",
+      "meaning_uk": "відкритий код",
+      "meaning_es": "código abierto"
+    },
+    {
+      "term": "phishing",
+      "type": "Noun",
+      "example": "Be cautious of *** attempts that ask for your login credentials via email.",
+      "meaning_tr": "oltalama",
+      "meaning_en": "the practice of tricking users into revealing sensitive information",
+      "meaning_uk": "фішинг",
+      "meaning_es": "phishing"
+    },
+    {
+      "term": "server",
+      "type": "Noun",
+      "example": "The website went down because the *** could not handle the high traffic volume.",
+      "meaning_tr": "sunucu",
+      "meaning_en": "a computer or computer program that manages access to a centralized resource",
+      "meaning_uk": "сервер",
+      "meaning_es": "servidor"
+    },
+    {
+      "term": "to tag",
+      "type": "Verb",
+      "example": "Please *** your friends in the photo so they get a notification.",
+      "meaning_tr": "etiketlemek",
+      "meaning_en": "to label someone or something in a digital photo or post",
+      "meaning_uk": "позначати",
+      "meaning_es": "etiquetar"
+    },
+    {
+      "term": "user-generated",
+      "type": "Adjective",
+      "example": "The platform relies on *** content, such as reviews and photos from its members.",
+      "meaning_tr": "kullanıcı tarafından oluşturulan",
+      "meaning_en": "content created by the users of a system rather than the owners",
+      "meaning_uk": "створений користувачами",
+      "meaning_es": "generado por el usuario"
+    }
+  ]
+}

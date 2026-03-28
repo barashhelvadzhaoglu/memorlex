@@ -1,0 +1,546 @@
+{
+  "title": "Schule & Universität (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Immatrikulation",
+      "type": "Noun",
+      "example": "Für die *** ist eine beglaubigte Kopie des Abiturzeugnisses erforderlich.",
+      "meaning_tr": "kayıt",
+      "meaning_en": "enrollment",
+      "meaning_uk": "зарахування",
+      "meaning_es": "matriculación"
+    },
+    {
+      "term": "das Tutorium",
+      "type": "Noun",
+      "example": "Im *** werden die wöchentlichen Übungsaufgaben detailliert besprochen.",
+      "meaning_tr": "öğretici çalışma grubu",
+      "meaning_en": "tutorial",
+      "meaning_uk": "семінар",
+      "meaning_es": "tutoría"
+    },
+    {
+      "term": "die Exmatrikulation",
+      "type": "Noun",
+      "example": "Nach Abschluss des Studiums erfolgt die offizielle ***.",
+      "meaning_tr": "kayıt silme",
+      "meaning_en": "exmatriculation",
+      "meaning_uk": "відрахування",
+      "meaning_es": "exmatriculación"
+    },
+    {
+      "term": "die Habilitation",
+      "type": "Noun",
+      "example": "Er strebt nach seinem Doktorat die *** an, um Professor zu werden.",
+      "meaning_tr": "doçentlik tezi",
+      "meaning_en": "habilitation",
+      "meaning_uk": "габілітація",
+      "meaning_es": "habilitación"
+    },
+    {
+      "term": "das Stipendium",
+      "type": "Noun",
+      "example": "Sie hat ein *** für ihre herausragenden akademischen Leistungen erhalten.",
+      "meaning_tr": "burs",
+      "meaning_en": "scholarship",
+      "meaning_uk": "стипендія",
+      "meaning_es": "beca"
+    },
+    {
+      "term": "die Fakultät",
+      "type": "Noun",
+      "example": "Die juristische *** der Universität genießt einen exzellenten Ruf.",
+      "meaning_tr": "fakülte",
+      "meaning_en": "faculty",
+      "meaning_uk": "факультет",
+      "meaning_es": "facultad"
+    },
+    {
+      "term": "die Dissertation",
+      "type": "Noun",
+      "example": "Sie arbeitet seit zwei Jahren intensiv an ihrer ***.",
+      "meaning_tr": "doktora tezi",
+      "meaning_en": "dissertation",
+      "meaning_uk": "дисертація",
+      "meaning_es": "tesis doctoral"
+    },
+    {
+      "term": "das Modulhandbuch",
+      "type": "Noun",
+      "example": "Alle Details zum Studienverlauf finden sich im ***.",
+      "meaning_tr": "modül el kitabı",
+      "meaning_en": "module handbook",
+      "meaning_uk": "довідник модулів",
+      "meaning_es": "guía de módulos"
+    },
+    {
+      "term": "die Anwesenheitspflicht",
+      "type": "Noun",
+      "example": "In diesem Seminar herrscht strikte ***.",
+      "meaning_tr": "devam zorunluluğu",
+      "meaning_en": "compulsory attendance",
+      "meaning_uk": "обов'язкова присутність",
+      "meaning_es": "asistencia obligatoria"
+    },
+    {
+      "term": "die Prüfungsordnung",
+      "type": "Noun",
+      "example": "Die *** regelt alle Fristen und Anforderungen für den Abschluss.",
+      "meaning_tr": "sınav yönetmeliği",
+      "meaning_en": "examination regulations",
+      "meaning_uk": "екзаменаційні правила",
+      "meaning_es": "reglamento de exámenes"
+    },
+    {
+      "term": "die Lehrveranstaltung",
+      "type": "Noun",
+      "example": "Die *** findet jeden Dienstag im großen Hörsaal statt.",
+      "meaning_tr": "ders / öğretim faaliyeti",
+      "meaning_en": "course / lecture",
+      "meaning_uk": "навчальний курс",
+      "meaning_es": "curso / clase"
+    },
+    {
+      "term": "der Dozent",
+      "type": "Noun",
+      "example": "Der *** erläuterte die komplexe Theorie anhand eines Beispiels.",
+      "meaning_tr": "öğretim görevlisi",
+      "meaning_en": "lecturer",
+      "meaning_uk": "викладач",
+      "meaning_es": "profesor / docente"
+    },
+    {
+      "term": "die Seminararbeit",
+      "type": "Noun",
+      "example": "Die *** muss bis Ende des Semesters eingereicht werden.",
+      "meaning_tr": "dönem ödevi",
+      "meaning_en": "term paper",
+      "meaning_uk": "семінарська робота",
+      "meaning_es": "trabajo de seminario"
+    },
+    {
+      "term": "der Kommilitone",
+      "type": "Noun",
+      "example": "Ich treffe mich heute mit einem *** in der Bibliothek.",
+      "meaning_tr": "üniversite arkadaşı",
+      "meaning_en": "fellow student",
+      "meaning_uk": "однокурсник",
+      "meaning_es": "compañero de estudios"
+    },
+    {
+      "term": "die Klausur",
+      "type": "Noun",
+      "example": "Die *** am Ende des Semesters ist sehr anspruchsvoll.",
+      "meaning_tr": "yazılı sınav",
+      "meaning_en": "written exam",
+      "meaning_uk": "письмовий іспит",
+      "meaning_es": "examen escrito"
+    },
+    {
+      "term": "das Vorlesungsverzeichnis",
+      "type": "Noun",
+      "example": "Im *** kann man alle angebotenen Kurse einsehen.",
+      "meaning_tr": "ders programı kataloğu",
+      "meaning_en": "course catalog",
+      "meaning_uk": "каталог курсів",
+      "meaning_es": "catálogo de cursos"
+    },
+    {
+      "term": "die ECTS-Punkte",
+      "type": "Noun",
+      "example": "Für den Bachelorabschluss benötigt man insgesamt 180 ***.",
+      "meaning_tr": "AKTS kredileri",
+      "meaning_en": "ECTS credits",
+      "meaning_uk": "кредити ECTS",
+      "meaning_es": "créditos ECTS"
+    },
+    {
+      "term": "die Fachschaft",
+      "type": "Noun",
+      "example": "Die *** vertritt die Interessen der Studierenden gegenüber der Fakultät.",
+      "meaning_tr": "öğrenci temsilciliği",
+      "meaning_en": "student representative body",
+      "meaning_uk": "студентська рада",
+      "meaning_es": "representación estudiantil"
+    },
+    {
+      "term": "die Exkursion",
+      "type": "Noun",
+      "example": "Im Rahmen der Geologie-Vorlesung findet eine *** statt.",
+      "meaning_tr": "bilimsel gezi",
+      "meaning_en": "field trip",
+      "meaning_uk": "екскурсія",
+      "meaning_es": "excursión"
+    },
+    {
+      "term": "die Studiengebühr",
+      "type": "Noun",
+      "example": "An dieser Universität fällt für das Erststudium keine *** an.",
+      "meaning_tr": "öğrenim harcı",
+      "meaning_en": "tuition fee",
+      "meaning_uk": "плата за навчання",
+      "meaning_es": "tasas académicas"
+    },
+    {
+      "term": "die Immatrikulationsbescheinigung",
+      "type": "Noun",
+      "example": "Bitte legen Sie die aktuelle *** beim Amt vor.",
+      "meaning_tr": "öğrenci belgesi",
+      "meaning_en": "certificate of enrollment",
+      "meaning_uk": "довідка про зарахування",
+      "meaning_es": "certificado de matrícula"
+    },
+    {
+      "term": "die Korrektur",
+      "type": "Noun",
+      "example": "Die *** der Prüfungen wird etwa zwei Wochen dauern.",
+      "meaning_tr": "düzeltme / değerlendirme",
+      "meaning_en": "correction / grading",
+      "meaning_uk": "виправлення / оцінювання",
+      "meaning_es": "corrección"
+    },
+    {
+      "term": "die Präsenzzeit",
+      "type": "Noun",
+      "example": "Neben der *** muss man viel Zeit für das Selbststudium einplanen.",
+      "meaning_tr": "ders saati / yüz yüze eğitim süresi",
+      "meaning_en": "contact hours",
+      "meaning_uk": "години аудиторних занять",
+      "meaning_es": "horas de clase presencial"
+    },
+    {
+      "term": "die Sprechstunde",
+      "type": "Noun",
+      "example": "Der Professor bietet mittwochs eine *** für offene Fragen an.",
+      "meaning_tr": "görüşme saati",
+      "meaning_en": "office hour",
+      "meaning_uk": "консультаційна година",
+      "meaning_es": "hora de tutoría"
+    },
+    {
+      "term": "das Proseminar",
+      "type": "Noun",
+      "example": "Das *** vermittelt die Grundlagen des wissenschaftlichen Arbeitens.",
+      "meaning_tr": "başlangıç semineri",
+      "meaning_en": "introductory seminar",
+      "meaning_uk": "вступний семінар",
+      "meaning_es": "seminario introductorio"
+    },
+    {
+      "term": "die Hausarbeit",
+      "type": "Noun",
+      "example": "Für dieses Fach muss ich eine *** schreiben.",
+      "meaning_tr": "dönem ödevi",
+      "meaning_en": "term paper",
+      "meaning_uk": "письмова робота",
+      "meaning_es": "trabajo de curso"
+    },
+    {
+      "term": "die Vorlesung",
+      "type": "Noun",
+      "example": "Die *** findet im größten Hörsaal des Gebäudes statt.",
+      "meaning_tr": "ders / konferans",
+      "meaning_en": "lecture",
+      "meaning_uk": "лекція",
+      "meaning_es": "lección magistral"
+    },
+    {
+      "term": "der Hörsaal",
+      "type": "Noun",
+      "example": "Wir müssen uns beeilen, um im *** noch einen Platz zu finden.",
+      "meaning_tr": "amfi",
+      "meaning_en": "lecture hall",
+      "meaning_uk": "лекційна зала",
+      "meaning_es": "aula magna"
+    },
+    {
+      "term": "das Semesterticket",
+      "type": "Noun",
+      "example": "Mit dem *** kann man den regionalen Nahverkehr kostenlos nutzen.",
+      "meaning_tr": "dönemlik ulaşım kartı",
+      "meaning_en": "semester ticket",
+      "meaning_uk": "студентський проїзний",
+      "meaning_es": "abono transporte semestral"
+    },
+    {
+      "term": "die Fakultätsbibliothek",
+      "type": "Noun",
+      "example": "Die *** bietet spezialisierte Literatur für unser Fachgebiet.",
+      "meaning_tr": "fakülte kütüphanesi",
+      "meaning_en": "faculty library",
+      "meaning_uk": "факультетська бібліотека",
+      "meaning_es": "biblioteca de facultad"
+    },
+    {
+      "term": "immatrikulieren",
+      "type": "Verb",
+      "example": "Nach der Zusage muss man sich an der Universität ***.",
+      "meaning_tr": "kayıt yaptırmak",
+      "meaning_en": "to enroll",
+      "meaning_uk": "зарахувати",
+      "meaning_es": "matricularse"
+    },
+    {
+      "term": "recherchieren",
+      "type": "Verb",
+      "example": "Für die Hausarbeit muss man gründlich in Datenbanken ***.",
+      "meaning_tr": "araştırmak",
+      "meaning_en": "to research",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "investigar"
+    },
+    {
+      "term": "evaluieren",
+      "type": "Verb",
+      "example": "Die Studierenden sollen die Qualität der Lehre regelmäßig ***.",
+      "meaning_tr": "değerlendirmek",
+      "meaning_en": "to evaluate",
+      "meaning_uk": "оцінювати",
+      "meaning_es": "evaluar"
+    },
+    {
+      "term": "abgeben",
+      "type": "Verb",
+      "example": "Die Frist, um die Arbeit zu ***, endet morgen.",
+      "meaning_tr": "teslim etmek",
+      "meaning_en": "to submit",
+      "meaning_uk": "здавати",
+      "meaning_es": "entregar"
+    },
+    {
+      "term": "promovieren",
+      "type": "Verb",
+      "example": "Nach dem Masterstudium möchte sie in Biologie ***.",
+      "meaning_tr": "doktora yapmak",
+      "meaning_en": "to pursue a PhD",
+      "meaning_uk": "отримувати ступінь доктора",
+      "meaning_es": "doctorarse"
+    },
+    {
+      "term": "anrechnen",
+      "type": "Verb",
+      "example": "Man kann sich die Leistungen aus dem Auslandssemester *** lassen.",
+      "meaning_tr": "saydırmak",
+      "meaning_en": "to credit / recognize",
+      "meaning_uk": "зарахувати",
+      "meaning_es": "convalidar"
+    },
+    {
+      "term": "einschreiben",
+      "type": "Verb",
+      "example": "Man muss sich rechtzeitig für die Kurse ***.",
+      "meaning_tr": "kaydolmak",
+      "meaning_en": "to enroll / register",
+      "meaning_uk": "реєструватися",
+      "meaning_es": "inscribirse"
+    },
+    {
+      "term": "belegen",
+      "type": "Verb",
+      "example": "Dieses Semester werde ich ein Seminar über Ethik ***.",
+      "meaning_tr": "ders almak (kaydolmak)",
+      "meaning_en": "to take a course",
+      "meaning_uk": "записатися на курс",
+      "meaning_es": "cursar"
+    },
+    {
+      "term": "referieren",
+      "type": "Verb",
+      "example": "Nächste Woche muss ich über das Thema im Seminar ***.",
+      "meaning_tr": "sunum yapmak / bildiri sunmak",
+      "meaning_en": "to give a presentation",
+      "meaning_uk": "виступати з доповіддю",
+      "meaning_es": "exponer"
+    },
+    {
+      "term": "exmatrikulieren",
+      "type": "Verb",
+      "example": "Wer sein Studium abbricht, muss sich förmlich ***.",
+      "meaning_tr": "kaydını sildirmek",
+      "meaning_en": "to unenroll",
+      "meaning_uk": "відраховуватися",
+      "meaning_es": "darse de baja"
+    },
+    {
+      "term": "akademisch",
+      "type": "Adjective",
+      "example": "Er hat eine sehr *** Laufbahn eingeschlagen.",
+      "meaning_tr": "akademik",
+      "meaning_en": "academic",
+      "meaning_uk": "академічний",
+      "meaning_es": "académico"
+    },
+    {
+      "term": "wissenschaftlich",
+      "type": "Adjective",
+      "example": "Das Schreiben einer *** Arbeit erfordert Präzision.",
+      "meaning_tr": "bilimsel",
+      "meaning_en": "scientific",
+      "meaning_uk": "науковий",
+      "meaning_es": "científico"
+    },
+    {
+      "term": "obligatorisch",
+      "type": "Adjective",
+      "example": "Die Teilnahme an dieser Einführung ist ***.",
+      "meaning_tr": "zorunlu",
+      "meaning_en": "mandatory",
+      "meaning_uk": "обов'язковий",
+      "meaning_es": "obligatorio"
+    },
+    {
+      "term": "fundiert",
+      "type": "Adjective",
+      "example": "Die Argumentation in ihrem Aufsatz war sehr ***.",
+      "meaning_tr": "temellendirilmiş / derinlemesine",
+      "meaning_en": "well-founded",
+      "meaning_uk": "обґрунтований",
+      "meaning_es": "fundamentado"
+    },
+    {
+      "term": "kompetent",
+      "type": "Adjective",
+      "example": "Der Professor ist ein *** Ansprechpartner für dieses Thema.",
+      "meaning_tr": "yetkin",
+      "meaning_en": "competent",
+      "meaning_uk": "компетентний",
+      "meaning_es": "competente"
+    },
+    {
+      "term": "interdisziplinär",
+      "type": "Adjective",
+      "example": "Das Projekt verfolgt einen *** Ansatz.",
+      "meaning_tr": "disiplinlerarası",
+      "meaning_en": "interdisciplinary",
+      "meaning_uk": "міждисциплінарний",
+      "meaning_es": "interdisciplinario"
+    },
+    {
+      "term": "methodisch",
+      "type": "Adjective",
+      "example": "Die Studie wurde sehr *** durchgeführt.",
+      "meaning_tr": "yöntemsel",
+      "meaning_en": "methodical",
+      "meaning_uk": "методичний",
+      "meaning_es": "metódico"
+    },
+    {
+      "term": "didaktisch",
+      "type": "Adjective",
+      "example": "Die Vorlesung war sehr *** gut aufbereitet.",
+      "meaning_tr": "didaktik / öğretici",
+      "meaning_en": "didactic",
+      "meaning_uk": "дидактичний",
+      "meaning_es": "didáctico"
+    },
+    {
+      "term": "prägnant",
+      "type": "Adjective",
+      "example": "Bitte fassen Sie Ihre Ergebnisse *** zusammen.",
+      "meaning_tr": "özlü / kısa ve öz",
+      "meaning_en": "concise",
+      "meaning_uk": "лаконічний",
+      "meaning_es": "conciso"
+    },
+    {
+      "term": "relevant",
+      "type": "Adjective",
+      "example": "Diese Daten sind für unsere Forschung absolut ***.",
+      "meaning_tr": "ilgili / önemli",
+      "meaning_en": "relevant",
+      "meaning_uk": "релевантний",
+      "meaning_es": "relevante"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "Es gibt noch Klärungsbedarf *** der Fristen.",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "inmitten",
+      "type": "Preposition",
+      "example": "*** des Campus befindet sich die alte Bibliothek.",
+      "meaning_tr": "ortasında",
+      "meaning_en": "in the middle of",
+      "meaning_uk": "посеред",
+      "meaning_es": "en medio de"
+    },
+    {
+      "term": "zwecks",
+      "type": "Preposition",
+      "example": "*** einer besseren Übersicht habe ich eine Tabelle erstellt.",
+      "meaning_tr": "amacıyla",
+      "meaning_en": "for the purpose of",
+      "meaning_uk": "з метою",
+      "meaning_es": "con el fin de"
+    },
+    {
+      "term": "mithilfe",
+      "type": "Preposition",
+      "example": "*** moderner Software konnten die Daten ausgewertet werden.",
+      "meaning_tr": "yardımıyla",
+      "meaning_en": "with the help of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "con la ayuda de"
+    },
+    {
+      "term": "anhand",
+      "type": "Preposition",
+      "example": "*** der Literaturliste lässt sich das Thema vertiefen.",
+      "meaning_tr": "yardımıyla / vasıtasıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "на основі",
+      "meaning_es": "mediante"
+    },
+    {
+      "term": "folglich",
+      "type": "Adverb",
+      "example": "Die Prüfung war schwer, *** ist die Durchfallquote hoch.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "demzufolge",
+      "type": "Adverb",
+      "example": "Er hat nicht gelernt, *** hat er die Prüfung nicht bestanden.",
+      "meaning_tr": "buna göre / bu nedenle",
+      "meaning_en": "accordingly",
+      "meaning_uk": "відповідно",
+      "meaning_es": "en consecuencia"
+    },
+    {
+      "term": "nämlich",
+      "type": "Adverb",
+      "example": "Er hat das Ziel erreicht, *** durch harte Arbeit.",
+      "meaning_tr": "yani / nitekim",
+      "meaning_en": "namely",
+      "meaning_uk": "а саме",
+      "meaning_es": "es decir"
+    },
+    {
+      "term": "sowohl... als auch",
+      "type": "Conjunction",
+      "example": "Das Studium erfordert *** theoretisches Wissen *** praktische Erfahrung.",
+      "meaning_tr": "hem... hem de",
+      "meaning_en": "both... and",
+      "meaning_uk": "як... так і",
+      "meaning_es": "tanto... como"
+    },
+    {
+      "term": "entweder... oder",
+      "type": "Conjunction",
+      "example": "Du musst dich *** für das Seminar *** für das Tutorium entscheiden.",
+      "meaning_tr": "ya... ya da",
+      "meaning_en": "either... or",
+      "meaning_uk": "або... або",
+      "meaning_es": "o... o"
+    }
+  ]
+}

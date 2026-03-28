@@ -1,0 +1,411 @@
+{
+  "title": "Educacion y Universidad (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la asignatura",
+      "type": "Noun",
+      "meaning_tr": "ders",
+      "meaning_en": "subject",
+      "meaning_uk": "предмет",
+      "meaning_es": "materia de estudio",
+      "example": "*** es obligatoria para todos los estudiantes de primer año."
+    },
+    {
+      "term": "la matrícula",
+      "type": "Noun",
+      "meaning_tr": "kayıt",
+      "meaning_en": "enrollment / tuition fee",
+      "meaning_uk": "реєстрація / плата за навчання",
+      "meaning_es": "inscripción oficial en un curso o pago",
+      "example": "He pagado *** de la universidad esta mañana."
+    },
+    {
+      "term": "el expediente académico",
+      "type": "Noun",
+      "meaning_tr": "öğrenim dosyası",
+      "meaning_en": "academic record",
+      "meaning_uk": "академічна довідка",
+      "meaning_es": "historial de notas y logros del estudiante",
+      "example": "Para solicitar la beca, necesito presentar mi ***."
+    },
+    {
+      "term": "convalidar",
+      "type": "Verb",
+      "meaning_tr": "denklik sağlamak",
+      "meaning_en": "to validate / to recognize credits",
+      "meaning_uk": "зарахувати / визнати",
+      "meaning_es": "reconocer estudios realizados en otro centro",
+      "example": "Espero que me puedan *** las asignaturas que aprobé en el extranjero."
+    },
+    {
+      "term": "el campus",
+      "type": "Noun",
+      "meaning_tr": "kampüs",
+      "meaning_en": "campus",
+      "meaning_uk": "кампус",
+      "meaning_es": "terreno y conjunto de edificios universitarios",
+      "example": "El *** cuenta con una biblioteca muy moderna."
+    },
+    {
+      "term": "la beca",
+      "type": "Noun",
+      "meaning_tr": "burs",
+      "meaning_en": "scholarship",
+      "meaning_uk": "стипендія",
+      "meaning_es": "ayuda económica para estudiar",
+      "example": "Gracias a la ***, pudo terminar sus estudios de doctorado."
+    },
+    {
+      "term": "el claustro",
+      "type": "Noun",
+      "meaning_tr": "öğretim üyeleri kurulu",
+      "meaning_en": "faculty / academic staff",
+      "meaning_uk": "викладацький склад",
+      "meaning_es": "conjunto de profesores de una universidad",
+      "example": "El *** se reunirá mañana para discutir la nueva normativa."
+    },
+    {
+      "term": "el posgrado",
+      "type": "Noun",
+      "meaning_tr": "lisansüstü eğitim",
+      "meaning_en": "postgraduate degree",
+      "meaning_uk": "післядипломна освіта",
+      "meaning_es": "estudios realizados tras obtener el grado",
+      "example": "Después de graduarme, quiero hacer un *** en negocios."
+    },
+    {
+      "term": "el doctorado",
+      "type": "Noun",
+      "meaning_tr": "doktora",
+      "meaning_en": "PhD / doctorate",
+      "meaning_uk": "докторантура",
+      "meaning_es": "grado académico más alto",
+      "example": "Ella está realizando su *** sobre inteligencia artificial."
+    },
+    {
+      "term": "la tesis",
+      "type": "Noun",
+      "meaning_tr": "tez",
+      "meaning_en": "thesis",
+      "meaning_uk": "дисертація",
+      "meaning_es": "trabajo de investigación original",
+      "example": "Tengo que terminar mi *** antes de junio."
+    },
+    {
+      "term": "el seminario",
+      "type": "Noun",
+      "meaning_tr": "seminer",
+      "meaning_en": "seminar",
+      "meaning_uk": "семінар",
+      "meaning_es": "clase especializada de debate",
+      "example": "El *** de literatura contemporánea es muy interesante."
+    },
+    {
+      "term": "suspender",
+      "type": "Verb",
+      "meaning_tr": "sınıfta kalmak / başarısız olmak",
+      "meaning_en": "to fail (an exam)",
+      "meaning_uk": "провалити іспит",
+      "meaning_es": "no aprobar un examen",
+      "example": "Si no estudio este fin de semana, voy a *** el examen."
+    },
+    {
+      "term": "aprobar",
+      "type": "Verb",
+      "meaning_tr": "geçmek",
+      "meaning_en": "to pass (an exam)",
+      "meaning_uk": "скласти іспит",
+      "meaning_es": "superar un examen con nota suficiente",
+      "example": "Espero *** todas las asignaturas este semestre."
+    },
+    {
+      "term": "la nota de corte",
+      "type": "Noun",
+      "meaning_tr": "taban puan",
+      "meaning_en": "cutoff grade",
+      "meaning_uk": "прохідний бал",
+      "meaning_es": "calificación mínima para acceder a una carrera",
+      "example": "La *** para Medicina es extremadamente alta."
+    },
+    {
+      "term": "el semestre",
+      "type": "Noun",
+      "meaning_tr": "dönem",
+      "meaning_en": "semester",
+      "meaning_uk": "семестр",
+      "meaning_es": "periodo lectivo de seis meses",
+      "example": "El primer *** termina en diciembre."
+    },
+    {
+      "term": "la facultad",
+      "type": "Noun",
+      "meaning_tr": "fakülte",
+      "meaning_en": "faculty / department",
+      "meaning_uk": "факультет",
+      "meaning_es": "división de una universidad",
+      "example": "La *** de Derecho está situada en el centro de la ciudad."
+    },
+    {
+      "term": "el decano",
+      "type": "Noun",
+      "meaning_tr": "dekan",
+      "meaning_en": "dean",
+      "meaning_uk": "декан",
+      "meaning_es": "persona que dirige una facultad",
+      "example": "El *** inauguró la conferencia de prensa."
+    },
+    {
+      "term": "el aula",
+      "type": "Noun",
+      "meaning_tr": "derslik / sınıf",
+      "meaning_en": "classroom",
+      "meaning_uk": "аудиторія",
+      "meaning_es": "sala donde se imparten clases",
+      "example": "La clase se cambió al *** 204."
+    },
+    {
+      "term": "el tutor",
+      "type": "Noun",
+      "meaning_tr": "danışman / eğitmen",
+      "meaning_en": "tutor / advisor",
+      "meaning_uk": "тьютор / куратор",
+      "meaning_es": "profesor que guía a un estudiante",
+      "example": "Debo hablar con mi *** sobre mi proyecto final."
+    },
+    {
+      "term": "el currículo",
+      "type": "Noun",
+      "meaning_tr": "müfredat",
+      "meaning_en": "curriculum",
+      "meaning_uk": "навчальна програма",
+      "meaning_es": "plan de estudios",
+      "example": "El *** de esta carrera ha cambiado este año."
+    },
+    {
+      "term": "exigente",
+      "type": "Adjective",
+      "meaning_tr": "zorlu / talepkar",
+      "meaning_en": "demanding",
+      "meaning_uk": "вимогливий",
+      "meaning_es": "que requiere mucho esfuerzo",
+      "example": "Este profesor es muy *** con sus alumnos."
+    },
+    {
+      "term": "el examen parcial",
+      "type": "Noun",
+      "meaning_tr": "vize sınavı",
+      "meaning_en": "midterm exam",
+      "meaning_uk": "проміжний іспит",
+      "meaning_es": "examen que cubre una parte de la materia",
+      "example": "Tengo un *** la próxima semana."
+    },
+    {
+      "term": "la convocatoria",
+      "type": "Noun",
+      "meaning_tr": "sınav dönemi / çağrı",
+      "meaning_en": "exam period / call",
+      "meaning_uk": "екзаменаційна сесія",
+      "meaning_es": "fecha oficial para realizar un examen",
+      "example": "Me presentaré en la segunda *** en septiembre."
+    },
+    {
+      "term": "la optativa",
+      "type": "Noun",
+      "meaning_tr": "seçmeli ders",
+      "meaning_en": "elective course",
+      "meaning_uk": "вибіркова дисципліна",
+      "meaning_es": "materia que el estudiante puede elegir",
+      "example": "He elegido una *** de fotografía."
+    },
+    {
+      "term": "el trabajo de fin de grado",
+      "type": "Noun",
+      "meaning_tr": "bitirme projesi",
+      "meaning_en": "final degree project",
+      "meaning_uk": "дипломна робота",
+      "meaning_es": "proyecto necesario para graduarse",
+      "example": "Estoy muy estresado escribiendo mi ***."
+    },
+    {
+      "term": "la investigación",
+      "type": "Noun",
+      "meaning_tr": "araştırma",
+      "meaning_en": "research",
+      "meaning_uk": "дослідження",
+      "meaning_es": "estudio profundo sobre un tema",
+      "example": "La universidad financia esta *** científica."
+    },
+    {
+      "term": "el crédito",
+      "type": "Noun",
+      "meaning_tr": "kredi",
+      "meaning_en": "credit (academic)",
+      "meaning_uk": "кредит (академічний)",
+      "meaning_es": "unidad de medida del trabajo académico",
+      "example": "Necesito 240 créditos para obtener el título."
+    },
+    {
+      "term": "el campus virtual",
+      "type": "Noun",
+      "meaning_tr": "sanal kampüs",
+      "meaning_en": "virtual campus",
+      "meaning_uk": "віртуальний кампус",
+      "meaning_es": "plataforma online de la universidad",
+      "example": "Todos los materiales están en el ***."
+    },
+    {
+      "term": "la biblioteca",
+      "type": "Noun",
+      "meaning_tr": "kütüphane",
+      "meaning_en": "library",
+      "meaning_uk": "бібліотека",
+      "meaning_es": "lugar de estudio y consulta de libros",
+      "example": "Prefiero estudiar en *** porque hay silencio."
+    },
+    {
+      "term": "el horario",
+      "type": "Noun",
+      "meaning_tr": "ders programı",
+      "meaning_en": "schedule",
+      "meaning_uk": "розклад",
+      "meaning_es": "distribución de las horas de clase",
+      "example": "El *** de clases es de lunes a viernes."
+    },
+    {
+      "term": "presencial",
+      "type": "Adjective",
+      "meaning_tr": "yüz yüze",
+      "meaning_en": "in-person",
+      "meaning_uk": "очний",
+      "meaning_es": "que requiere presencia física",
+      "example": "Esta clase es ***, así que debo ir a la universidad."
+    },
+    {
+      "term": "el estudiante de intercambio",
+      "type": "Noun",
+      "meaning_tr": "değişim öğrencisi",
+      "meaning_en": "exchange student",
+      "meaning_uk": "студент за обміном",
+      "meaning_es": "alumno que estudia fuera temporalmente",
+      "example": "Conocí a un *** de Italia."
+    },
+    {
+      "term": "el doctor",
+      "type": "Noun",
+      "meaning_tr": "doktora sahibi kişi",
+      "meaning_en": "doctor (academic title)",
+      "meaning_uk": "доктор (науковий ступінь)",
+      "meaning_es": "persona que tiene un doctorado",
+      "example": "El *** García hablará sobre física cuántica."
+    },
+    {
+      "term": "la lección",
+      "type": "Noun",
+      "meaning_tr": "ders",
+      "meaning_en": "lesson",
+      "meaning_uk": "урок",
+      "meaning_es": "unidad de enseñanza",
+      "example": "He aprendido mucho en la *** de hoy."
+    },
+    {
+      "term": "el máster",
+      "type": "Noun",
+      "meaning_tr": "yüksek lisans",
+      "meaning_en": "master's degree",
+      "meaning_uk": "магістратура",
+      "meaning_es": "estudios de especialización tras el grado",
+      "example": "Estoy haciendo un *** en administración de empresas."
+    },
+    {
+      "term": "académico",
+      "type": "Adjective",
+      "meaning_tr": "akademik",
+      "meaning_en": "academic",
+      "meaning_uk": "академічний",
+      "meaning_es": "relativo a la escuela o universidad",
+      "example": "El rendimiento *** de este alumno es excelente."
+    },
+    {
+      "term": "el aula magna",
+      "type": "Noun",
+      "meaning_tr": "konferans salonu",
+      "meaning_en": "main lecture hall / auditorium",
+      "meaning_uk": "актова зала",
+      "meaning_es": "salón principal de la universidad",
+      "example": "La ceremonia será en el ***."
+    },
+    {
+      "term": "exponer",
+      "type": "Verb",
+      "meaning_tr": "sunum yapmak",
+      "meaning_en": "to present",
+      "meaning_uk": "презентувати",
+      "meaning_es": "presentar un tema en público",
+      "example": "Mañana tengo que *** mi trabajo ante toda la clase."
+    },
+    {
+      "term": "el decanato",
+      "type": "Noun",
+      "meaning_tr": "dekanlık",
+      "meaning_en": "dean's office",
+      "meaning_uk": "деканат",
+      "meaning_es": "oficina del decano",
+      "example": "Debes entregar los documentos en el ***."
+    },
+    {
+      "term": "matricularse",
+      "type": "Verb",
+      "meaning_tr": "kaydolmak",
+      "meaning_en": "to enroll",
+      "meaning_uk": "зареєструватися",
+      "meaning_es": "inscribirse en una institución",
+      "example": "Voy a *** en la universidad la próxima semana."
+    },
+    {
+      "term": "el debate",
+      "type": "Noun",
+      "meaning_tr": "tartışma",
+      "meaning_en": "debate",
+      "meaning_uk": "дискусія",
+      "meaning_es": "discusión formal sobre un tema",
+      "example": "Participamos en un *** sobre ética profesional."
+    },
+    {
+      "term": "la beca Erasmus",
+      "type": "Noun",
+      "meaning_tr": "Erasmus bursu",
+      "meaning_en": "Erasmus scholarship",
+      "meaning_uk": "стипендія Еразмус",
+      "meaning_es": "programa de intercambio europeo",
+      "example": "Solicité la *** para estudiar en Alemania."
+    },
+    {
+      "term": "la facultad de letras",
+      "type": "Noun",
+      "meaning_tr": "edebiyat fakültesi",
+      "meaning_en": "faculty of arts / humanities",
+      "meaning_uk": "гуманітарний факультет",
+      "meaning_es": "departamento de estudios humanísticos",
+      "example": "Estudió filosofía en la ***."
+    },
+    {
+      "term": "el catedrático",
+      "type": "Noun",
+      "meaning_tr": "profesör",
+      "meaning_en": "full professor",
+      "meaning_uk": "професор",
+      "meaning_es": "profesor de mayor rango universitario",
+      "example": "El *** dará una clase magistral el lunes."
+    },
+    {
+      "term": "la excelencia",
+      "type": "Noun",
+      "meaning_tr": "mükemmellik",
+      "meaning_en": "excellence",
+      "meaning_uk": "досконалість",
+      "meaning_es": "calidad superior",
+      "example": "La universidad busca la *** en todos sus programas."
+    }
+  ]
+}

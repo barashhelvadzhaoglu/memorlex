@@ -1,0 +1,546 @@
+{
+  "title": "Kultur & Traditionen (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Kulturerbe",
+      "type": "Noun",
+      "example": "Die Erhaltung *** ist eine gesamtgesellschaftliche Aufgabe.",
+      "meaning_tr": "kültürel miras",
+      "meaning_en": "cultural heritage",
+      "meaning_uk": "культурна спадщина",
+      "meaning_es": "patrimonio cultural"
+    },
+    {
+      "term": "die Identitätsstiftung",
+      "type": "Noun",
+      "example": "Traditionen dienen oft der *** innerhalb einer Gemeinschaft.",
+      "meaning_tr": "kimlik oluşturma",
+      "meaning_en": "identity formation",
+      "meaning_uk": "формування ідентичності",
+      "meaning_es": "formación de identidad"
+    },
+    {
+      "term": "verinnerlichen",
+      "type": "Verb",
+      "example": "Man sollte die Werte der neuen Kultur tief ***.",
+      "meaning_tr": "içselleştirmek",
+      "meaning_en": "to internalize",
+      "meaning_uk": "засвоювати",
+      "meaning_es": "internalizar"
+    },
+    {
+      "term": "kulturell geprägt",
+      "type": "Adjective",
+      "example": "Unser Denken ist stark ***.",
+      "meaning_tr": "kültürel olarak şekillenmiş",
+      "meaning_en": "culturally influenced",
+      "meaning_uk": "культурно зумовлений",
+      "meaning_es": "influenciado culturalmente"
+    },
+    {
+      "term": "die Sitten",
+      "type": "Noun",
+      "example": "In diesem Land gelten strenge ***.",
+      "meaning_tr": "adetler",
+      "meaning_en": "customs",
+      "meaning_uk": "звичаї",
+      "meaning_es": "costumbres"
+    },
+    {
+      "term": "die Entfremdung",
+      "type": "Noun",
+      "example": "Die soziale *** führt oft zu gesellschaftlichen Spannungen.",
+      "meaning_tr": "yabancılaşma",
+      "meaning_en": "alienation",
+      "meaning_uk": "відчуження",
+      "meaning_es": "alienación"
+    },
+    {
+      "term": "pflegen",
+      "type": "Verb",
+      "example": "Es ist wichtig, alte Bräuche zu ***.",
+      "meaning_tr": "sürdürmek / korumak",
+      "meaning_en": "to maintain / cultivate",
+      "meaning_uk": "плекати / підтримувати",
+      "meaning_es": "cultivar / mantener"
+    },
+    {
+      "term": "multikulturell",
+      "type": "Adjective",
+      "example": "Berlin ist eine sehr *** Stadt.",
+      "meaning_tr": "çok kültürlü",
+      "meaning_en": "multicultural",
+      "meaning_uk": "мультикультурний",
+      "meaning_es": "multicultural"
+    },
+    {
+      "term": "der Brauch",
+      "type": "Noun",
+      "example": "Dieser *** wird seit Jahrhunderten praktiziert.",
+      "meaning_tr": "gelenek / adet",
+      "meaning_en": "custom / tradition",
+      "meaning_uk": "традиція / звичай",
+      "meaning_es": "costumbre / tradición"
+    },
+    {
+      "term": "die Integration",
+      "type": "Noun",
+      "example": "Die *** erfordert gegenseitige Offenheit.",
+      "meaning_tr": "entegrasyon",
+      "meaning_en": "integration",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "integración"
+    },
+    {
+      "term": "die Assimilation",
+      "type": "Noun",
+      "example": "Vollständige *** ist ein umstrittenes Konzept.",
+      "meaning_tr": "asimilasyon",
+      "meaning_en": "assimilation",
+      "meaning_uk": "асиміляція",
+      "meaning_es": "asimilación"
+    },
+    {
+      "term": "die Konvention",
+      "type": "Noun",
+      "example": "Man sollte sich an die gesellschaftlichen *** halten.",
+      "meaning_tr": "gelenek / kural",
+      "meaning_en": "convention",
+      "meaning_uk": "конвенція / норма",
+      "meaning_es": "convención"
+    },
+    {
+      "term": "die kulturelle Vielfalt",
+      "type": "Noun",
+      "example": "*** bereichert unsere Gesellschaft.",
+      "meaning_tr": "kültürel çeşitlilik",
+      "meaning_en": "cultural diversity",
+      "meaning_uk": "культурне розмаїття",
+      "meaning_es": "diversidad cultural"
+    },
+    {
+      "term": "die Globalisierung",
+      "type": "Noun",
+      "example": "Durch die *** verschwimmen kulturelle Grenzen.",
+      "meaning_tr": "küreselleşme",
+      "meaning_en": "globalization",
+      "meaning_uk": "глобалізація",
+      "meaning_es": "globalización"
+    },
+    {
+      "term": "die Weltoffenheit",
+      "type": "Noun",
+      "example": "*** ist eine wichtige Eigenschaft in einer vernetzten Welt.",
+      "meaning_tr": "dünyaya açıklık",
+      "meaning_en": "cosmopolitanism / open-mindedness",
+      "meaning_uk": "відкритість світу",
+      "meaning_es": "apertura al mundo"
+    },
+    {
+      "term": "die Ausgrenzung",
+      "type": "Noun",
+      "example": "*** darf in einer modernen Gesellschaft keinen Platz haben.",
+      "meaning_tr": "dışlama",
+      "meaning_en": "exclusion",
+      "meaning_uk": "виключення",
+      "meaning_es": "exclusión"
+    },
+    {
+      "term": "die Interkulturalität",
+      "type": "Noun",
+      "example": "*** fördert das gegenseitige Verständnis.",
+      "meaning_tr": "kültürlerarasılık",
+      "meaning_en": "interculturality",
+      "meaning_uk": "міжкультурність",
+      "meaning_es": "interculturalidad"
+    },
+    {
+      "term": "die Traditionspflege",
+      "type": "Noun",
+      "example": "Die *** trägt zur kulturellen Stabilität bei.",
+      "meaning_tr": "gelenekleri koruma",
+      "meaning_en": "preservation of traditions",
+      "meaning_uk": "збереження традицій",
+      "meaning_es": "preservación de tradiciones"
+    },
+    {
+      "term": "die Säkularisierung",
+      "type": "Noun",
+      "example": "Die *** hat das gesellschaftliche Leben stark verändert.",
+      "meaning_tr": "sekülerleşme",
+      "meaning_en": "secularization",
+      "meaning_uk": "секуляризація",
+      "meaning_es": "secularización"
+    },
+    {
+      "term": "kulturell bedingt",
+      "type": "Adjective",
+      "example": "Diese Verhaltensweise ist rein ***.",
+      "meaning_tr": "kültürel nedenli",
+      "meaning_en": "culturally conditioned",
+      "meaning_uk": "культурно зумовлений",
+      "meaning_es": "condicionado culturalmente"
+    },
+    {
+      "term": "die kulturelle Identität",
+      "type": "Noun",
+      "example": "Die *** ist für viele Menschen ein hohes Gut.",
+      "meaning_tr": "kültürel kimlik",
+      "meaning_en": "cultural identity",
+      "meaning_uk": "культурна ідентичність",
+      "meaning_es": "identidad cultural"
+    },
+    {
+      "term": "die Heimatverbundenheit",
+      "type": "Noun",
+      "example": "Trotz vieler Reisen blieb seine *** bestehen.",
+      "meaning_tr": "memleket sevgisi / bağlılığı",
+      "meaning_en": "connection to one's homeland",
+      "meaning_uk": "зв'язок з батьківщиною",
+      "meaning_es": "apego a la patria"
+    },
+    {
+      "term": "die Vorurteile",
+      "type": "Noun",
+      "example": "*** verhindern oft einen echten Dialog.",
+      "meaning_tr": "önyargılar",
+      "meaning_en": "prejudices",
+      "meaning_uk": "упередження",
+      "meaning_es": "prejuicios"
+    },
+    {
+      "term": "die kulturelle Aneignung",
+      "type": "Noun",
+      "example": "Über *** wird derzeit viel diskutiert.",
+      "meaning_tr": "kültürel aidiyet / sahiplenme",
+      "meaning_en": "cultural appropriation",
+      "meaning_uk": "культурне привласнення",
+      "meaning_es": "apropiación cultural"
+    },
+    {
+      "term": "das Brauchtum",
+      "type": "Noun",
+      "example": "Das regionale *** ist sehr vielfältig.",
+      "meaning_tr": "gelenekler bütünü",
+      "meaning_en": "customs and traditions",
+      "meaning_uk": "звичаї",
+      "meaning_es": "conjunto de costumbres"
+    },
+    {
+      "term": "die Wertevorstellung",
+      "type": "Noun",
+      "example": "Jede Kultur hat eigene ***.",
+      "meaning_tr": "değer yargısı",
+      "meaning_en": "set of values",
+      "meaning_uk": "система цінностей",
+      "meaning_es": "sistema de valores"
+    },
+    {
+      "term": "die Folklore",
+      "type": "Noun",
+      "example": "Die *** ist ein wichtiger Teil der lokalen Kultur.",
+      "meaning_tr": "folklor",
+      "meaning_en": "folklore",
+      "meaning_uk": "фольклор",
+      "meaning_es": "folclore"
+    },
+    {
+      "term": "die kulturelle Prägung",
+      "type": "Noun",
+      "example": "Unsere *** beeinflusst unsere Entscheidungen.",
+      "meaning_tr": "kültürel etki / şekillenme",
+      "meaning_en": "cultural imprint",
+      "meaning_uk": "культурний вплив",
+      "meaning_es": "impronta cultural"
+    },
+    {
+      "term": "die kulturelle Überlieferung",
+      "type": "Noun",
+      "example": "Die *** erfolgt oft durch Geschichten.",
+      "meaning_tr": "kültürel aktarım / gelenek",
+      "meaning_en": "cultural transmission",
+      "meaning_uk": "культурна спадкоємність",
+      "meaning_es": "transmisión cultural"
+    },
+    {
+      "term": "traditionsbewusst",
+      "type": "Adjective",
+      "example": "Sie ist sehr *** erzogen worden.",
+      "meaning_tr": "geleneklerine bağlı",
+      "meaning_en": "tradition-conscious",
+      "meaning_uk": "шануючий традиції",
+      "meaning_es": "consciente de las tradiciones"
+    },
+    {
+      "term": "das Kulturgut",
+      "type": "Noun",
+      "example": "Die Museen schützen wertvolles ***.",
+      "meaning_tr": "kültürel varlık",
+      "meaning_en": "cultural asset",
+      "meaning_uk": "культурна цінність",
+      "meaning_es": "bien cultural"
+    },
+    {
+      "term": "die Sittenwidrigkeit",
+      "type": "Noun",
+      "example": "Das Gericht prüfte die *** des Vertrages.",
+      "meaning_tr": "ahlaka aykırılık",
+      "meaning_en": "immorality / contrary to public policy",
+      "meaning_uk": "аморальність",
+      "meaning_es": "inmoralidad"
+    },
+    {
+      "term": "kulturell verwurzelt",
+      "type": "Adjective",
+      "example": "Er ist tief in seiner Heimat ***.",
+      "meaning_tr": "kültürel kökleri olan",
+      "meaning_en": "culturally rooted",
+      "meaning_uk": "культурно вкорінений",
+      "meaning_es": "culturalmente arraigado"
+    },
+    {
+      "term": "die Akzeptanz",
+      "type": "Noun",
+      "example": "*** ist die Voraussetzung für ein friedliches Zusammenleben.",
+      "meaning_tr": "kabul / hoşgörü",
+      "meaning_en": "acceptance",
+      "meaning_uk": "прийняття",
+      "meaning_es": "aceptación"
+    },
+    {
+      "term": "die kulturelle Hegemonie",
+      "type": "Noun",
+      "example": "Der Begriff *** stammt von Gramsci.",
+      "meaning_tr": "kültürel hegemonya",
+      "meaning_en": "cultural hegemony",
+      "meaning_uk": "культурна гегемонія",
+      "meaning_es": "hegemonía cultural"
+    },
+    {
+      "term": "die kulturelle Divergenz",
+      "type": "Noun",
+      "example": "Trotz *** können Kulturen koexistieren.",
+      "meaning_tr": "kültürel farklılık / ayrışma",
+      "meaning_en": "cultural divergence",
+      "meaning_uk": "культурна розбіжність",
+      "meaning_es": "divergencia cultural"
+    },
+    {
+      "term": "die kulturelle Hybridität",
+      "type": "Noun",
+      "example": "In modernen Städten entsteht oft ***.",
+      "meaning_tr": "kültürel hibritlik",
+      "meaning_en": "cultural hybridity",
+      "meaning_uk": "культурна гібридність",
+      "meaning_es": "hibridez cultural"
+    },
+    {
+      "term": "kulturell sensibilisieren",
+      "type": "Verb",
+      "example": "Man muss die Menschen für andere Kulturen ***.",
+      "meaning_tr": "kültürel olarak duyarlılaştırmak",
+      "meaning_en": "to sensitize culturally",
+      "meaning_uk": "культурно просвіщати",
+      "meaning_es": "sensibilizar culturalmente"
+    },
+    {
+      "term": "die kulturelle Exzellenz",
+      "type": "Noun",
+      "example": "Das Land ist bekannt für seine ***.",
+      "meaning_tr": "kültürel mükemmeliyet",
+      "meaning_en": "cultural excellence",
+      "meaning_uk": "культурна досконалість",
+      "meaning_es": "excelencia cultural"
+    },
+    {
+      "term": "die kulturelle Barriere",
+      "type": "Noun",
+      "example": "Die *** erschwert die Kommunikation.",
+      "meaning_tr": "kültürel engel",
+      "meaning_en": "cultural barrier",
+      "meaning_uk": "культурний бар'єр",
+      "meaning_es": "barrera cultural"
+    },
+    {
+      "term": "kulturell vermitteln",
+      "type": "Verb",
+      "example": "Lehrer sollten zwischen den Kulturen ***.",
+      "meaning_tr": "kültürel arabuluculuk yapmak",
+      "meaning_en": "to mediate culturally",
+      "meaning_uk": "культурно посередникувати",
+      "meaning_es": "mediar culturalmente"
+    },
+    {
+      "term": "die kulturelle Identitätskrise",
+      "type": "Noun",
+      "example": "Ein Umzug kann eine *** auslösen.",
+      "meaning_tr": "kültürel kimlik krizi",
+      "meaning_en": "cultural identity crisis",
+      "meaning_uk": "криза культурної ідентичності",
+      "meaning_es": "crisis de identidad cultural"
+    },
+    {
+      "term": "die kulturelle Globalisierung",
+      "type": "Noun",
+      "example": "*** führt zur Angleichung von Lebensstilen.",
+      "meaning_tr": "kültürel küreselleşme",
+      "meaning_en": "cultural globalization",
+      "meaning_uk": "культурна глобалізація",
+      "meaning_es": "globalización cultural"
+    },
+    {
+      "term": "kulturell bereichern",
+      "type": "Verb",
+      "example": "Neue Einflüsse *** unsere Gesellschaft.",
+      "meaning_tr": "kültürel olarak zenginleştirmek",
+      "meaning_en": "to enrich culturally",
+      "meaning_uk": "культурно збагачувати",
+      "meaning_es": "enriquecer culturalmente"
+    },
+    {
+      "term": "die kulturelle Sphäre",
+      "type": "Noun",
+      "example": "Das Theater gehört zur ***.",
+      "meaning_tr": "kültürel alan",
+      "meaning_en": "cultural sphere",
+      "meaning_uk": "культурна сфера",
+      "meaning_es": "esfera cultural"
+    },
+    {
+      "term": "die kulturelle Tradition",
+      "type": "Noun",
+      "example": "Jede Familie hat ihre eigene ***.",
+      "meaning_tr": "kültürel gelenek",
+      "meaning_en": "cultural tradition",
+      "meaning_uk": "культурна традиція",
+      "meaning_es": "tradición cultural"
+    },
+    {
+      "term": "die kulturelle Vielfalt fördern",
+      "type": "Verb",
+      "example": "Die Stadt möchte ***.",
+      "meaning_tr": "kültürel çeşitliliği desteklemek",
+      "meaning_en": "to promote cultural diversity",
+      "meaning_uk": "сприяти культурному розмаїттю",
+      "meaning_es": "promover la diversidad cultural"
+    },
+    {
+      "term": "die kulturelle Auffassung",
+      "type": "Noun",
+      "example": "Das ist eine sehr spezifische ***.",
+      "meaning_tr": "kültürel anlayış",
+      "meaning_en": "cultural perception",
+      "meaning_uk": "культурне сприйняття",
+      "meaning_es": "percepción cultural"
+    },
+    {
+      "term": "kulturell bedingt",
+      "type": "Adjective",
+      "example": "Dieser Fehler war ***.",
+      "meaning_tr": "kültürel kaynaklı",
+      "meaning_en": "culturally caused",
+      "meaning_uk": "культурно зумовлений",
+      "meaning_es": "causado culturalmente"
+    },
+    {
+      "term": "die kulturelle Teilhabe",
+      "type": "Noun",
+      "example": "*** ist ein Menschenrecht.",
+      "meaning_tr": "kültürel katılım",
+      "meaning_en": "cultural participation",
+      "meaning_uk": "культурна участь",
+      "meaning_es": "participación cultural"
+    },
+    {
+      "term": "die kulturelle Entwicklung",
+      "type": "Noun",
+      "example": "Die *** schreitet stetig voran.",
+      "meaning_tr": "kültürel gelişim",
+      "meaning_en": "cultural development",
+      "meaning_uk": "культурний розвиток",
+      "meaning_es": "desarrollo cultural"
+    },
+    {
+      "term": "kulturell aufgeschlossen",
+      "type": "Adjective",
+      "example": "Sie sind sehr ***.",
+      "meaning_tr": "kültürel olarak açık fikirli",
+      "meaning_en": "culturally open-minded",
+      "meaning_uk": "культурно відкритий",
+      "meaning_es": "culturalmente de mente abierta"
+    },
+    {
+      "term": "die kulturelle Dynamik",
+      "type": "Noun",
+      "example": "Die *** einer Stadt ist faszinierend.",
+      "meaning_tr": "kültürel dinamik",
+      "meaning_en": "cultural dynamic",
+      "meaning_uk": "культурна динаміка",
+      "meaning_es": "dinámica cultural"
+    },
+    {
+      "term": "die kulturelle Transformation",
+      "type": "Noun",
+      "example": "Wir erleben eine starke ***.",
+      "meaning_tr": "kültürel dönüşüm",
+      "meaning_en": "cultural transformation",
+      "meaning_uk": "культурна трансформація",
+      "meaning_es": "transformación cultural"
+    },
+    {
+      "term": "kulturell integrieren",
+      "type": "Verb",
+      "example": "Es ist wichtig, sich gut zu ***.",
+      "meaning_tr": "kültürel olarak entegre olmak",
+      "meaning_en": "to integrate culturally",
+      "meaning_uk": "культурно інтегруватися",
+      "meaning_es": "integrarse culturalmente"
+    },
+    {
+      "term": "die kulturelle Besonderheit",
+      "type": "Noun",
+      "example": "Das ist eine echte *** dieser Region.",
+      "meaning_tr": "kültürel özellik",
+      "meaning_en": "cultural peculiarity",
+      "meaning_uk": "культурна особливість",
+      "meaning_es": "particularidad cultural"
+    },
+    {
+      "term": "die kulturelle Identitätsbildung",
+      "type": "Noun",
+      "example": "Schulen unterstützen die ***.",
+      "meaning_tr": "kültürel kimlik inşası",
+      "meaning_en": "cultural identity construction",
+      "meaning_uk": "формування культурної ідентичності",
+      "meaning_es": "construcción de identidad cultural"
+    },
+    {
+      "term": "kulturell beeinflusst",
+      "type": "Adjective",
+      "example": "Dieses Essen ist stark ***.",
+      "meaning_tr": "kültürel etkilenmiş",
+      "meaning_en": "culturally influenced",
+      "meaning_uk": "культурно впливовий",
+      "meaning_es": "influenciado culturalmente"
+    },
+    {
+      "term": "die kulturelle Vielfalt schätzen",
+      "type": "Verb",
+      "example": "Wir sollten ***.",
+      "meaning_tr": "kültürel çeşitliliği takdir etmek",
+      "meaning_en": "to appreciate cultural diversity",
+      "meaning_uk": "цінувати культурне розмаїття",
+      "meaning_es": "apreciar la diversidad cultural"
+    },
+    {
+      "term": "die kulturelle Offenheit",
+      "type": "Noun",
+      "example": "*** baut Brücken zwischen Menschen.",
+      "meaning_tr": "kültürel açıklık",
+      "meaning_en": "cultural openness",
+      "meaning_uk": "культурна відкритість",
+      "meaning_es": "apertura cultural"
+    }
+  ]
+}

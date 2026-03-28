@@ -1,0 +1,231 @@
+{
+  "title": "Musica y Cine (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la película",
+      "type": "Noun",
+      "example": "*** es muy interesante.",
+      "meaning_tr": "film",
+      "meaning_en": "movie",
+      "meaning_uk": "фільм",
+      "meaning_es": "obra cinematográfica"
+    },
+    {
+      "term": "la música",
+      "type": "Noun",
+      "example": "Me gusta escuchar *** clásica.",
+      "meaning_tr": "müzik",
+      "meaning_en": "music",
+      "meaning_uk": "музика",
+      "meaning_es": "arte de combinar sonidos"
+    },
+    {
+      "term": "el actor",
+      "type": "Noun",
+      "example": "*** trabaja en esta serie.",
+      "meaning_tr": "erkek oyuncu",
+      "meaning_en": "actor",
+      "meaning_uk": "актор",
+      "meaning_es": "persona que interpreta un papel"
+    },
+    {
+      "term": "la actriz",
+      "type": "Noun",
+      "example": "*** es muy famosa en España.",
+      "meaning_tr": "kadın oyuncu",
+      "meaning_en": "actress",
+      "meaning_uk": "акторка",
+      "meaning_es": "mujer que interpreta un papel"
+    },
+    {
+      "term": "ver",
+      "type": "Verb",
+      "example": "Vamos a *** una comedia.",
+      "meaning_tr": "görmek/izlemek",
+      "meaning_en": "to see/watch",
+      "meaning_uk": "дивитися",
+      "meaning_es": "percibir con los ojos"
+    },
+    {
+      "term": "la canción",
+      "type": "Noun",
+      "example": "Esta *** es muy bonita.",
+      "meaning_tr": "şarkı",
+      "meaning_en": "song",
+      "meaning_uk": "пісня",
+      "meaning_es": "composición musical con letra"
+    },
+    {
+      "term": "divertido",
+      "type": "Adjective",
+      "example": "El documental es muy ***.",
+      "meaning_tr": "eğlenceli",
+      "meaning_en": "fun/entertaining",
+      "meaning_uk": "веселий",
+      "meaning_es": "que divierte o entretiene"
+    },
+    {
+      "term": "aburrido",
+      "type": "Adjective",
+      "example": "No me gusta este cine, es ***.",
+      "meaning_tr": "sıkıcı",
+      "meaning_en": "boring",
+      "meaning_uk": "нудний",
+      "meaning_es": "que no tiene interés"
+    },
+    {
+      "term": "el cine",
+      "type": "Noun",
+      "example": "Quedamos en *** a las ocho.",
+      "meaning_tr": "sinema",
+      "meaning_en": "cinema",
+      "meaning_uk": "кінотеатр",
+      "meaning_es": "lugar donde se proyectan películas"
+    },
+    {
+      "term": "cantar",
+      "type": "Verb",
+      "example": "A ella le encanta *** en la ducha.",
+      "meaning_tr": "şarkı söylemek",
+      "meaning_en": "to sing",
+      "meaning_uk": "співати",
+      "meaning_es": "producir sonidos musicales con la voz"
+    },
+    {
+      "term": "el concierto",
+      "type": "Noun",
+      "example": "Mañana hay un *** de rock.",
+      "meaning_tr": "konser",
+      "meaning_en": "concert",
+      "meaning_uk": "концерт",
+      "meaning_es": "presentación musical en público"
+    },
+    {
+      "term": "la entrada",
+      "type": "Noun",
+      "example": "He comprado una *** para el estreno.",
+      "meaning_tr": "bilet",
+      "meaning_en": "ticket",
+      "meaning_uk": "квиток",
+      "meaning_es": "papel para acceder a un evento"
+    },
+    {
+      "term": "el director",
+      "type": "Noun",
+      "example": "*** ha ganado un premio importante.",
+      "meaning_tr": "yönetmen",
+      "meaning_en": "director",
+      "meaning_uk": "режисер",
+      "meaning_es": "persona que dirige una obra o película"
+    },
+    {
+      "term": "escuchar",
+      "type": "Verb",
+      "example": "Me gusta *** música pop.",
+      "meaning_tr": "dinlemek",
+      "meaning_en": "to listen",
+      "meaning_uk": "слухати",
+      "meaning_es": "prestar atención a sonidos"
+    },
+    {
+      "term": "la comedia",
+      "type": "Noun",
+      "example": "Esta *** me hace reír mucho.",
+      "meaning_tr": "komedi",
+      "meaning_en": "comedy",
+      "meaning_uk": "комедія",
+      "meaning_es": "obra de cine o teatro humorística"
+    },
+    {
+      "term": "el instrumento",
+      "type": "Noun",
+      "example": "Toco un *** llamado guitarra.",
+      "meaning_tr": "enstrüman",
+      "meaning_en": "instrument",
+      "meaning_uk": "інструмент",
+      "meaning_es": "objeto para producir música"
+    },
+    {
+      "term": "famoso",
+      "type": "Adjective",
+      "example": "Es un cantante muy ***.",
+      "meaning_tr": "ünlü",
+      "meaning_en": "famous",
+      "meaning_uk": "відомий",
+      "meaning_es": "que tiene mucha fama"
+    },
+    {
+      "term": "lento",
+      "type": "Adjective",
+      "example": "El ritmo de la canción es muy ***.",
+      "meaning_tr": "yavaş",
+      "meaning_en": "slow",
+      "meaning_uk": "повільний",
+      "meaning_es": "que no es rápido"
+    },
+    {
+      "term": "rápido",
+      "type": "Adjective",
+      "example": "Tiene un estilo muy ***.",
+      "meaning_tr": "hızlı",
+      "meaning_en": "fast",
+      "meaning_uk": "швидкий",
+      "meaning_es": "que sucede con velocidad"
+    },
+    {
+      "term": "tocar",
+      "type": "Verb",
+      "example": "Voy a *** el piano hoy.",
+      "meaning_tr": "çalmak (enstrüman)",
+      "meaning_en": "to play (instrument)",
+      "meaning_uk": "грати (на інструменті)",
+      "meaning_es": "ejecutar un instrumento musical"
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "example": "Me gusta el cine *** la música.",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і/та",
+      "meaning_es": "conjunción copulativa"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "La película es larga *** divertida.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "bien",
+      "type": "Adverb",
+      "example": "Canta muy ***.",
+      "meaning_tr": "iyi",
+      "meaning_en": "well",
+      "meaning_uk": "добре",
+      "meaning_es": "de manera correcta"
+    },
+    {
+      "term": "mal",
+      "type": "Adverb",
+      "example": "Hoy la televisión funciona ***.",
+      "meaning_tr": "kötü",
+      "meaning_en": "badly",
+      "meaning_uk": "погано",
+      "meaning_es": "de manera incorrecta"
+    },
+    {
+      "term": "sobre",
+      "type": "Preposition",
+      "example": "Es una película *** la historia.",
+      "meaning_tr": "hakkında",
+      "meaning_en": "about",
+      "meaning_uk": "про",
+      "meaning_es": "acerca de un tema"
+    }
+  ]
+}

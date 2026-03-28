@@ -1,0 +1,321 @@
+{
+  "title": "Recht & Justiz (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "das Gesetz",
+      "type": "Noun",
+      "example": "Jeder Bürger muss sich an *** halten.",
+      "meaning_tr": "yasa",
+      "meaning_en": "law",
+      "meaning_uk": "закон",
+      "meaning_es": "ley"
+    },
+    {
+      "term": "der Anwalt",
+      "type": "Noun",
+      "example": "Mein *** hat mich vor Gericht verteidigt.",
+      "meaning_tr": "avukat",
+      "meaning_en": "lawyer",
+      "meaning_uk": "адвокат",
+      "meaning_es": "abogado"
+    },
+    {
+      "term": "das Gericht",
+      "type": "Noun",
+      "example": "Der Prozess findet heute vor *** statt.",
+      "meaning_tr": "mahkeme",
+      "meaning_en": "court",
+      "meaning_uk": "суд",
+      "meaning_es": "tribunal"
+    },
+    {
+      "term": "der Richter",
+      "type": "Noun",
+      "example": "Der *** hat ein Urteil gefällt.",
+      "meaning_tr": "yargıç",
+      "meaning_en": "judge",
+      "meaning_uk": "суддя",
+      "meaning_es": "juez"
+    },
+    {
+      "term": "die Straftat",
+      "type": "Noun",
+      "example": "Die Polizei untersucht eine schwere ***.",
+      "meaning_tr": "suç",
+      "meaning_en": "crime",
+      "meaning_uk": "злочин",
+      "meaning_es": "delito"
+    },
+    {
+      "term": "verhaften",
+      "type": "Verb",
+      "example": "Die Polizei musste den Verdächtigen ***.",
+      "meaning_tr": "tutuklamak",
+      "meaning_en": "to arrest",
+      "meaning_uk": "заарештувати",
+      "meaning_es": "detener"
+    },
+    {
+      "term": "schuldig",
+      "type": "Adjective",
+      "example": "Der Angeklagte wurde für *** befunden.",
+      "meaning_tr": "suçlu",
+      "meaning_en": "guilty",
+      "meaning_uk": "винний",
+      "meaning_es": "culpable"
+    },
+    {
+      "term": "unschuldig",
+      "type": "Adjective",
+      "example": "Er sagt, dass er *** ist.",
+      "meaning_tr": "masum",
+      "meaning_en": "innocent",
+      "meaning_uk": "невинний",
+      "meaning_es": "inocente"
+    },
+    {
+      "term": "die Strafe",
+      "type": "Noun",
+      "example": "Er muss eine hohe *** bezahlen.",
+      "meaning_tr": "ceza",
+      "meaning_en": "punishment",
+      "meaning_uk": "покарання",
+      "meaning_es": "castigo"
+    },
+    {
+      "term": "der Beweis",
+      "type": "Noun",
+      "example": "Es gibt leider keine *** für seine Tat.",
+      "meaning_tr": "kanıt",
+      "meaning_en": "proof",
+      "meaning_uk": "доказ",
+      "meaning_es": "prueba"
+    },
+    {
+      "term": "das Urteil",
+      "type": "Noun",
+      "example": "Das *** war sehr hart.",
+      "meaning_tr": "hüküm",
+      "meaning_en": "verdict",
+      "meaning_uk": "вирок",
+      "meaning_es": "sentencia"
+    },
+    {
+      "term": "die Polizei",
+      "type": "Noun",
+      "example": "Ich habe die *** angerufen.",
+      "meaning_tr": "polis",
+      "meaning_en": "police",
+      "meaning_uk": "поліція",
+      "meaning_es": "policía"
+    },
+    {
+      "term": "beobachten",
+      "type": "Verb",
+      "example": "Die Zeugen haben den Diebstahl ***.",
+      "meaning_tr": "gözlemlemek",
+      "meaning_en": "to observe",
+      "meaning_uk": "спостерігати",
+      "meaning_es": "observar"
+    },
+    {
+      "term": "der Zeuge",
+      "type": "Noun",
+      "example": "Der *** hat alles gesehen.",
+      "meaning_tr": "tanık",
+      "meaning_en": "witness",
+      "meaning_uk": "свідок",
+      "meaning_es": "testigo"
+    },
+    {
+      "term": "verurteilen",
+      "type": "Verb",
+      "example": "Der Mann wurde zu einer Geldstrafe ***.",
+      "meaning_tr": "mahkum etmek",
+      "meaning_en": "to convict",
+      "meaning_uk": "засудити",
+      "meaning_es": "condenar"
+    },
+    {
+      "term": "die Freiheit",
+      "type": "Noun",
+      "example": "Jeder Mensch hat das Recht auf ***.",
+      "meaning_tr": "özgürlük",
+      "meaning_en": "freedom",
+      "meaning_uk": "свобода",
+      "meaning_es": "libertad"
+    },
+    {
+      "term": "stehlen",
+      "type": "Verb",
+      "example": "Er hat im Supermarkt Äpfel ***.",
+      "meaning_tr": "çalmak",
+      "meaning_en": "to steal",
+      "meaning_uk": "красти",
+      "meaning_es": "robar"
+    },
+    {
+      "term": "illegal",
+      "type": "Adjective",
+      "example": "Das Parken hier ist ***.",
+      "meaning_tr": "yasadışı",
+      "meaning_en": "illegal",
+      "meaning_uk": "незаконний",
+      "meaning_es": "ilegal"
+    },
+    {
+      "term": "der Diebstahl",
+      "type": "Noun",
+      "example": "Der *** wurde sofort gemeldet.",
+      "meaning_tr": "hırsızlık",
+      "meaning_en": "theft",
+      "meaning_uk": "крадіжка",
+      "meaning_es": "robo"
+    },
+    {
+      "term": "der Verdächtige",
+      "type": "Noun",
+      "example": "Der *** wurde festgenommen.",
+      "meaning_tr": "şüpheli",
+      "meaning_en": "suspect",
+      "meaning_uk": "підозрюваний",
+      "meaning_es": "sospechoso"
+    },
+    {
+      "term": "die Klage",
+      "type": "Noun",
+      "example": "Er hat eine *** gegen die Firma eingereicht.",
+      "meaning_tr": "dava",
+      "meaning_en": "lawsuit",
+      "meaning_uk": "позов",
+      "meaning_es": "demanda"
+    },
+    {
+      "term": "entscheiden",
+      "type": "Verb",
+      "example": "Der Richter muss über den Fall ***.",
+      "meaning_tr": "karar vermek",
+      "meaning_en": "to decide",
+      "meaning_uk": "вирішувати",
+      "meaning_es": "decidir"
+    },
+    {
+      "term": "rechtlich",
+      "type": "Adjective",
+      "example": "Wir brauchen eine *** Beratung.",
+      "meaning_tr": "hukuki",
+      "meaning_en": "legal",
+      "meaning_uk": "юридичний",
+      "meaning_es": "legal"
+    },
+    {
+      "term": "der Einbruch",
+      "type": "Noun",
+      "example": "Nach dem *** fehlten alle Wertsachen.",
+      "meaning_tr": "hırsızlık (eve girerek)",
+      "meaning_en": "burglary",
+      "meaning_uk": "злам",
+      "meaning_es": "allanamiento"
+    },
+    {
+      "term": "verhören",
+      "type": "Verb",
+      "example": "Die Polizei wird den Täter ***.",
+      "meaning_tr": "sorgulamak",
+      "meaning_en": "to interrogate",
+      "meaning_uk": "допитувати",
+      "meaning_es": "interrogar"
+    },
+    {
+      "term": "die Strafe",
+      "type": "Noun",
+      "example": "Die *** für zu schnelles Fahren ist hoch.",
+      "meaning_tr": "ceza",
+      "meaning_en": "penalty",
+      "meaning_uk": "штраф",
+      "meaning_es": "multa"
+    },
+    {
+      "term": "die Akte",
+      "type": "Noun",
+      "example": "Ich habe die *** gründlich gelesen.",
+      "meaning_tr": "dosya",
+      "meaning_en": "file",
+      "meaning_uk": "справа",
+      "meaning_es": "expediente"
+    },
+    {
+      "term": "der Betrug",
+      "type": "Noun",
+      "example": "Der *** wurde durch die Bank aufgedeckt.",
+      "meaning_tr": "dolandırıcılık",
+      "meaning_en": "fraud",
+      "meaning_uk": "шахрайство",
+      "meaning_es": "fraude"
+    },
+    {
+      "term": "die Haft",
+      "type": "Noun",
+      "example": "Er muss für zwei Jahre in ***.",
+      "meaning_tr": "hapis",
+      "meaning_en": "detention",
+      "meaning_uk": "ув'язнення",
+      "meaning_es": "prisión"
+    },
+    {
+      "term": "verantwortlich",
+      "type": "Adjective",
+      "example": "Wer ist für diesen Fehler ***?",
+      "meaning_tr": "sorumlu",
+      "meaning_en": "responsible",
+      "meaning_uk": "відповідальний",
+      "meaning_es": "responsable"
+    },
+    {
+      "term": "die Gerechtigkeit",
+      "type": "Noun",
+      "example": "Alle Menschen fordern ***.",
+      "meaning_tr": "adalet",
+      "meaning_en": "justice",
+      "meaning_uk": "справедливість",
+      "meaning_es": "justicia"
+    },
+    {
+      "term": "bestrafen",
+      "type": "Verb",
+      "example": "Der Lehrer wird das Kind nicht ***.",
+      "meaning_tr": "cezalandırmak",
+      "meaning_en": "to punish",
+      "meaning_uk": "карати",
+      "meaning_es": "castigar"
+    },
+    {
+      "term": "trotz",
+      "type": "Preposition",
+      "example": "*** der Beweise leugnet er die Tat.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "a pesar de"
+    },
+    {
+      "term": "deshalb",
+      "type": "Adverb",
+      "example": "Er hat gestohlen, *** sitzt er im Gefängnis.",
+      "meaning_tr": "bu yüzden",
+      "meaning_en": "therefore",
+      "meaning_uk": "тому",
+      "meaning_es": "por eso"
+    },
+    {
+      "term": "bevor",
+      "type": "Conjunction",
+      "example": "Er darf gehen, *** das Gericht entscheidet.",
+      "meaning_tr": "önce",
+      "meaning_en": "before",
+      "meaning_uk": "перш ніж",
+      "meaning_es": "antes de que"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "title": "Architecture (A2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a building",
+      "type": "Noun",
+      "example": "That is the tallest *** in the city.",
+      "meaning_tr": "bina",
+      "meaning_en": "a structure with a roof and walls",
+      "meaning_uk": "будівля",
+      "meaning_es": "un edificio"
+    },
+    {
+      "term": "a house",
+      "type": "Noun",
+      "example": "They live in a small blue ***.",
+      "meaning_tr": "ev",
+      "meaning_en": "a place where people live",
+      "meaning_uk": "будинок",
+      "meaning_es": "una casa"
+    },
+    {
+      "term": "a roof",
+      "type": "Noun",
+      "example": "The cat is sitting on the ***.",
+      "meaning_tr": "çatı",
+      "meaning_en": "the top covering of a building",
+      "meaning_uk": "дах",
+      "meaning_es": "un techo"
+    },
+    {
+      "term": "a wall",
+      "type": "Noun",
+      "example": "Please hang the picture on the ***.",
+      "meaning_tr": "duvar",
+      "meaning_en": "a vertical structure that encloses an area",
+      "meaning_uk": "стіна",
+      "meaning_es": "una pared"
+    },
+    {
+      "term": "a door",
+      "type": "Noun",
+      "example": "Please close the *** behind you.",
+      "meaning_tr": "kapı",
+      "meaning_en": "a movable barrier used to enter a room",
+      "meaning_uk": "двері",
+      "meaning_es": "una puerta"
+    },
+    {
+      "term": "a window",
+      "type": "Noun",
+      "example": "Open the *** to let some fresh air in.",
+      "meaning_tr": "pencere",
+      "meaning_en": "an opening in a wall to let in light or air",
+      "meaning_uk": "вікно",
+      "meaning_es": "una ventana"
+    },
+    {
+      "term": "a floor",
+      "type": "Noun",
+      "example": "Be careful, the *** is wet.",
+      "meaning_tr": "zemin",
+      "meaning_en": "the lower surface of a room",
+      "meaning_uk": "підлога",
+      "meaning_es": "un suelo"
+    },
+    {
+      "term": "a room",
+      "type": "Noun",
+      "example": "My bedroom is my favorite *** in the house.",
+      "meaning_tr": "oda",
+      "meaning_en": "a space within a building",
+      "meaning_uk": "кімната",
+      "meaning_es": "una habitación"
+    },
+    {
+      "term": "to build",
+      "type": "Verb",
+      "example": "They want to *** a new bridge here.",
+      "meaning_tr": "inşa etmek",
+      "meaning_en": "to construct something",
+      "meaning_uk": "будувати",
+      "meaning_es": "construir"
+    },
+    {
+      "term": "to design",
+      "type": "Verb",
+      "example": "Who did you *** this house for?",
+      "meaning_tr": "tasarlamak",
+      "meaning_en": "to plan the look or function of something",
+      "meaning_uk": "проектувати",
+      "meaning_es": "diseñar"
+    },
+    {
+      "term": "a balcony",
+      "type": "Noun",
+      "example": "We like to drink coffee on the ***.",
+      "meaning_tr": "balkon",
+      "meaning_en": "a platform enclosed by a wall or railing on the outside of a building",
+      "meaning_uk": "балкон",
+      "meaning_es": "un balcón"
+    },
+    {
+      "term": "a garden",
+      "type": "Noun",
+      "example": "The children are playing in the ***.",
+      "meaning_tr": "bahçe",
+      "meaning_en": "a piece of ground used for growing plants",
+      "meaning_uk": "сад",
+      "meaning_es": "un jardín"
+    },
+    {
+      "term": "a staircase",
+      "type": "Noun",
+      "example": "Walk carefully down the ***.",
+      "meaning_tr": "merdiven",
+      "meaning_en": "a set of steps leading from one floor to another",
+      "meaning_uk": "сходи",
+      "meaning_es": "una escalera"
+    },
+    {
+      "term": "modern",
+      "type": "Adjective",
+      "example": "They live in a very *** apartment.",
+      "meaning_tr": "modern",
+      "meaning_en": "relating to the present time",
+      "meaning_uk": "сучасний",
+      "meaning_es": "moderno"
+    },
+    {
+      "term": "old",
+      "type": "Adjective",
+      "example": "This is a very *** building from the last century.",
+      "meaning_tr": "eski",
+      "meaning_en": "having lived or existed for a long time",
+      "meaning_uk": "старий",
+      "meaning_es": "viejo"
+    },
+    {
+      "term": "a kitchen",
+      "type": "Noun",
+      "example": "My mother is cooking in the ***.",
+      "meaning_tr": "mutfak",
+      "meaning_en": "a room used for cooking",
+      "meaning_uk": "кухня",
+      "meaning_es": "una cocina"
+    },
+    {
+      "term": "a bathroom",
+      "type": "Noun",
+      "example": "Where is the ***, please?",
+      "meaning_tr": "banyo",
+      "meaning_en": "a room containing a toilet and bath or shower",
+      "meaning_uk": "ванна кімната",
+      "meaning_es": "un baño"
+    },
+    {
+      "term": "a flat",
+      "type": "Noun",
+      "example": "They rent a small *** in the city center.",
+      "meaning_tr": "daire",
+      "meaning_en": "a set of rooms for living in as part of a larger building",
+      "meaning_uk": "квартира",
+      "meaning_es": "un piso"
+    },
+    {
+      "term": "tall",
+      "type": "Adjective",
+      "example": "That is a very *** skyscraper.",
+      "meaning_tr": "uzun",
+      "meaning_en": "having a greater than average height",
+      "meaning_uk": "високий",
+      "meaning_es": "alto"
+    },
+    {
+      "term": "inside",
+      "type": "Preposition",
+      "example": "It is cold *** the house.",
+      "meaning_tr": "içinde",
+      "meaning_en": "in or into the interior of something",
+      "meaning_uk": "всередині",
+      "meaning_es": "dentro"
+    },
+    {
+      "term": "outside",
+      "type": "Preposition",
+      "example": "Wait for me *** the building.",
+      "meaning_tr": "dışında",
+      "meaning_en": "situated on or near the exterior",
+      "meaning_uk": "зовні",
+      "meaning_es": "fuera"
+    },
+    {
+      "term": "a garage",
+      "type": "Noun",
+      "example": "I parked my car in the ***.",
+      "meaning_tr": "garaj",
+      "meaning_en": "a building for housing a motor vehicle",
+      "meaning_uk": "гараж",
+      "meaning_es": "un garaje"
+    },
+    {
+      "term": "a ceiling",
+      "type": "Noun",
+      "example": "The *** in this room is very high.",
+      "meaning_tr": "tavan",
+      "meaning_en": "the upper interior surface of a room",
+      "meaning_uk": "стеля",
+      "meaning_es": "un techo"
+    },
+    {
+      "term": "a hall",
+      "type": "Noun",
+      "example": "Leave your coat in the ***.",
+      "meaning_tr": "hol",
+      "meaning_en": "an area inside the entrance of a building",
+      "meaning_uk": "коридор",
+      "meaning_es": "un recibidor"
+    },
+    {
+      "term": "big",
+      "type": "Adjective",
+      "example": "They bought a *** house with many rooms.",
+      "meaning_tr": "büyük",
+      "meaning_en": "large in size",
+      "meaning_uk": "великий",
+      "meaning_es": "grande"
+    }
+  ]
+}

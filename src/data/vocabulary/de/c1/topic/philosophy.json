@@ -1,0 +1,546 @@
+{
+  "title": "Philosophie & Werte (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Erkenntnistheorie",
+      "type": "Noun",
+      "example": "In der *** wird untersucht, wie Wissen entsteht.",
+      "meaning_tr": "bilgi kuramı",
+      "meaning_en": "epistemology",
+      "meaning_uk": "епістемологія",
+      "meaning_es": "epistemología"
+    },
+    {
+      "term": "die Ethik",
+      "type": "Noun",
+      "example": "Die *** befasst sich mit moralischem Handeln.",
+      "meaning_tr": "etik",
+      "meaning_en": "ethics",
+      "meaning_uk": "етика",
+      "meaning_es": "ética"
+    },
+    {
+      "term": "der Utilitarismus",
+      "type": "Noun",
+      "example": "Der *** strebt das größte Glück für die größte Zahl an.",
+      "meaning_tr": "faydacılık",
+      "meaning_en": "utilitarianism",
+      "meaning_uk": "утилітаризм",
+      "meaning_es": "utilitarismo"
+    },
+    {
+      "term": "die Metaphysik",
+      "type": "Noun",
+      "example": "Die *** hinterfragt die Grundstrukturen des Seins.",
+      "meaning_tr": "metafizik",
+      "meaning_en": "metaphysics",
+      "meaning_uk": "метафізика",
+      "meaning_es": "metafísica"
+    },
+    {
+      "term": "der Determinismus",
+      "type": "Noun",
+      "example": "Der *** besagt, dass alles Ereignis kausal festgelegt ist.",
+      "meaning_tr": "determinizm",
+      "meaning_en": "determinism",
+      "meaning_uk": "детермінізм",
+      "meaning_es": "determinismo"
+    },
+    {
+      "term": "die Autonomie",
+      "type": "Noun",
+      "example": "Die *** des Einzelnen ist ein hohes Gut.",
+      "meaning_tr": "özerklik",
+      "meaning_en": "autonomy",
+      "meaning_uk": "автономія",
+      "meaning_es": "autonomía"
+    },
+    {
+      "term": "der Existenzialismus",
+      "type": "Noun",
+      "example": "Der *** betont die Freiheit des Individuums.",
+      "meaning_tr": "varoluşçuluk",
+      "meaning_en": "existentialism",
+      "meaning_uk": "екзистенціалізм",
+      "meaning_es": "existencialismo"
+    },
+    {
+      "term": "die Moralität",
+      "type": "Noun",
+      "example": "Die *** einer Handlung sollte kritisch geprüft werden.",
+      "meaning_tr": "ahlaklılık",
+      "meaning_en": "morality",
+      "meaning_uk": "моральність",
+      "meaning_es": "moralidad"
+    },
+    {
+      "term": "der Nihilismus",
+      "type": "Noun",
+      "example": "Der *** leugnet den Sinn des Daseins.",
+      "meaning_tr": "nihilizm",
+      "meaning_en": "nihilism",
+      "meaning_uk": "нігілізм",
+      "meaning_es": "nihilismo"
+    },
+    {
+      "term": "die Tugend",
+      "type": "Noun",
+      "example": "Bescheidenheit gilt als eine wichtige ***.",
+      "meaning_tr": "erdem",
+      "meaning_en": "virtue",
+      "meaning_uk": "чеснота",
+      "meaning_es": "virtud"
+    },
+    {
+      "term": "die Transzendenz",
+      "type": "Noun",
+      "example": "Die *** beschreibt das Überschreiten der Erfahrungsgrenzen.",
+      "meaning_tr": "aşkınlık",
+      "meaning_en": "transcendence",
+      "meaning_uk": "трансцендентність",
+      "meaning_es": "trascendencia"
+    },
+    {
+      "term": "der Hedonismus",
+      "type": "Noun",
+      "example": "Der *** stellt das Luststreben in den Mittelpunkt.",
+      "meaning_tr": "hazcılık",
+      "meaning_en": "hedonism",
+      "meaning_uk": "гедонізм",
+      "meaning_es": "hedonismo"
+    },
+    {
+      "term": "die Integrität",
+      "type": "Noun",
+      "example": "Er bewahrte seine *** trotz des Drucks.",
+      "meaning_tr": "dürüstlük",
+      "meaning_en": "integrity",
+      "meaning_uk": "цілісність",
+      "meaning_es": "integridad"
+    },
+    {
+      "term": "die Ambivalenz",
+      "type": "Noun",
+      "example": "Die *** seiner Gefühle war deutlich spürbar.",
+      "meaning_tr": "ikirciklilik",
+      "meaning_en": "ambivalence",
+      "meaning_uk": "амбівалентність",
+      "meaning_es": "ambivalencia"
+    },
+    {
+      "term": "die Subjektivität",
+      "type": "Noun",
+      "example": "Die *** prägt unsere Wahrnehmung der Welt.",
+      "meaning_tr": "öznellik",
+      "meaning_en": "subjectivity",
+      "meaning_uk": "суб'єктивність",
+      "meaning_es": "subjetividad"
+    },
+    {
+      "term": "die Objektivität",
+      "type": "Noun",
+      "example": "Wissenschaft verlangt nach höchster ***.",
+      "meaning_tr": "nesnellik",
+      "meaning_en": "objectivity",
+      "meaning_uk": "об'єктивність",
+      "meaning_es": "objetividad"
+    },
+    {
+      "term": "die Empathie",
+      "type": "Noun",
+      "example": "Ohne *** ist ein soziales Miteinander schwierig.",
+      "meaning_tr": "empati",
+      "meaning_en": "empathy",
+      "meaning_uk": "емпатія",
+      "meaning_es": "empatía"
+    },
+    {
+      "term": "die Vernunft",
+      "type": "Noun",
+      "example": "Die *** leitet uns bei rationalen Entscheidungen.",
+      "meaning_tr": "akıl",
+      "meaning_en": "reason",
+      "meaning_uk": "розум",
+      "meaning_es": "razón"
+    },
+    {
+      "term": "die Solidarität",
+      "type": "Noun",
+      "example": "Wir zeigen *** mit den Bedürftigen.",
+      "meaning_tr": "dayanışma",
+      "meaning_en": "solidarity",
+      "meaning_uk": "солідарність",
+      "meaning_es": "solidaridad"
+    },
+    {
+      "term": "die Emigration",
+      "type": "Noun",
+      "example": "Die *** aus seiner Heimat war eine schwere Entscheidung.",
+      "meaning_tr": "göç",
+      "meaning_en": "emigration",
+      "meaning_uk": "еміграція",
+      "meaning_es": "emigración"
+    },
+    {
+      "term": "hinterfragen",
+      "type": "Verb",
+      "example": "Wir müssen bestehende Normen kritisch ***.",
+      "meaning_tr": "sorgulamak",
+      "meaning_en": "to question",
+      "meaning_uk": "ставити під сумнів",
+      "meaning_es": "cuestionar"
+    },
+    {
+      "term": "abwägen",
+      "type": "Verb",
+      "example": "Man muss Vor- und Nachteile sorgfältig ***.",
+      "meaning_tr": "tartmak",
+      "meaning_en": "to weigh",
+      "meaning_uk": "зважувати",
+      "meaning_es": "sopesar"
+    },
+    {
+      "term": "reflektieren",
+      "type": "Verb",
+      "example": "Es ist wichtig, das eigene Handeln zu ***.",
+      "meaning_tr": "düşünmek/yansıtmak",
+      "meaning_en": "to reflect",
+      "meaning_uk": "рефлексувати",
+      "meaning_es": "reflexionar"
+    },
+    {
+      "term": "legitimieren",
+      "type": "Verb",
+      "example": "Der Erfolg kann das Mittel nicht ***.",
+      "meaning_tr": "meşrulaştırmak",
+      "meaning_en": "to legitimize",
+      "meaning_uk": "легітимізувати",
+      "meaning_es": "legitimar"
+    },
+    {
+      "term": "verinnerlichen",
+      "type": "Verb",
+      "example": "Kinder sollten positive Werte ***.",
+      "meaning_tr": "içselleştirmek",
+      "meaning_en": "to internalize",
+      "meaning_uk": "інтерналізувати",
+      "meaning_es": "interiorizar"
+    },
+    {
+      "term": "anerkennen",
+      "type": "Verb",
+      "example": "Wir müssen die Würde des anderen ***.",
+      "meaning_tr": "tanımak/kabul etmek",
+      "meaning_en": "to acknowledge",
+      "meaning_uk": "визнавати",
+      "meaning_es": "reconocer"
+    },
+    {
+      "term": "postulieren",
+      "type": "Verb",
+      "example": "Er *** ein moralisches Gesetz für alle Menschen.",
+      "meaning_tr": "öne sürmek",
+      "meaning_en": "to postulate",
+      "meaning_uk": "постулювати",
+      "meaning_es": "postular"
+    },
+    {
+      "term": "konfrontieren",
+      "type": "Verb",
+      "example": "Man sollte sich mit anderen Meinungen ***.",
+      "meaning_tr": "yüzleşmek",
+      "meaning_en": "to confront",
+      "meaning_uk": "конфронтувати",
+      "meaning_es": "confrontar"
+    },
+    {
+      "term": "differenzieren",
+      "type": "Verb",
+      "example": "Man muss zwischen Recht und Gerechtigkeit ***.",
+      "meaning_tr": "ayırt etmek",
+      "meaning_en": "to differentiate",
+      "meaning_uk": "диференціювати",
+      "meaning_es": "diferenciar"
+    },
+    {
+      "term": "erörtern",
+      "type": "Verb",
+      "example": "Wir werden dieses Thema ausführlich ***.",
+      "meaning_tr": "tartışmak",
+      "meaning_en": "to discuss",
+      "meaning_uk": "обговорювати",
+      "meaning_es": "debatir"
+    },
+    {
+      "term": "normativ",
+      "type": "Adjective",
+      "example": "Das sind *** Vorgaben für unser Verhalten.",
+      "meaning_tr": "kural koyucu",
+      "meaning_en": "normative",
+      "meaning_uk": "нормативний",
+      "meaning_es": "normativo"
+    },
+    {
+      "term": "ethisch",
+      "type": "Adjective",
+      "example": "Dies ist eine komplexe *** Frage.",
+      "meaning_tr": "etik",
+      "meaning_en": "ethical",
+      "meaning_uk": "етичний",
+      "meaning_es": "ético"
+    },
+    {
+      "term": "moralisch",
+      "type": "Adjective",
+      "example": "Er hat eine hohe *** Integrität.",
+      "meaning_tr": "ahlaki",
+      "meaning_en": "moral",
+      "meaning_uk": "моральний",
+      "meaning_es": "moral"
+    },
+    {
+      "term": "rational",
+      "type": "Adjective",
+      "example": "Eine *** Entscheidung ist hier notwendig.",
+      "meaning_tr": "rasyonel",
+      "meaning_en": "rational",
+      "meaning_uk": "раціональний",
+      "meaning_es": "racional"
+    },
+    {
+      "term": "subjektiv",
+      "type": "Adjective",
+      "example": "Das ist nur eine *** Einschätzung.",
+      "meaning_tr": "öznel",
+      "meaning_en": "subjective",
+      "meaning_uk": "суб'єктивний",
+      "meaning_es": "subjetivo"
+    },
+    {
+      "term": "universell",
+      "type": "Adjective",
+      "example": "Menschenrechte sollten *** gelten.",
+      "meaning_tr": "evrensel",
+      "meaning_en": "universal",
+      "meaning_uk": "універсальний",
+      "meaning_es": "universal"
+    },
+    {
+      "term": "kontrovers",
+      "type": "Adjective",
+      "example": "Das Thema wurde sehr *** diskutiert.",
+      "meaning_tr": "tartışmalı",
+      "meaning_en": "controversial",
+      "meaning_uk": "суперечливий",
+      "meaning_es": "controvertido"
+    },
+    {
+      "term": "pragmatisch",
+      "type": "Adjective",
+      "example": "Wir brauchen eine *** Lösung für das Problem.",
+      "meaning_tr": "pragmatik",
+      "meaning_en": "pragmatic",
+      "meaning_uk": "прагматичний",
+      "meaning_es": "pragmático"
+    },
+    {
+      "term": "abstrakt",
+      "type": "Adjective",
+      "example": "Philosophie wirkt oft sehr ***.",
+      "meaning_tr": "soyut",
+      "meaning_en": "abstract",
+      "meaning_uk": "абстрактний",
+      "meaning_es": "abstracto"
+    },
+    {
+      "term": "ambivalent",
+      "type": "Adjective",
+      "example": "Die Situation ist äußerst ***.",
+      "meaning_tr": "ikircikli",
+      "meaning_en": "ambivalent",
+      "meaning_uk": "амбівалентний",
+      "meaning_es": "ambivalente"
+    },
+    {
+      "term": "konsequent",
+      "type": "Adjective",
+      "example": "Er handelt immer sehr ***.",
+      "meaning_tr": "tutarlı",
+      "meaning_en": "consistent",
+      "meaning_uk": "послідовний",
+      "meaning_es": "consecuente"
+    },
+    {
+      "term": "kritisch",
+      "type": "Adjective",
+      "example": "Ein *** Denker hinterfragt alles.",
+      "meaning_tr": "eleştirel",
+      "meaning_en": "critical",
+      "meaning_uk": "критичний",
+      "meaning_es": "crítico"
+    },
+    {
+      "term": "dogmatisch",
+      "type": "Adjective",
+      "example": "Sein Auftreten wirkt sehr ***.",
+      "meaning_tr": "dogmatik",
+      "meaning_en": "dogmatic",
+      "meaning_uk": "догматичний",
+      "meaning_es": "dogmático"
+    },
+    {
+      "term": "autonom",
+      "type": "Adjective",
+      "example": "Jeder Mensch sollte *** handeln können.",
+      "meaning_tr": "özerk",
+      "meaning_en": "autonomous",
+      "meaning_uk": "автономний",
+      "meaning_es": "autónomo"
+    },
+    {
+      "term": "transzendent",
+      "type": "Adjective",
+      "example": "Die Erfahrung war fast ***.",
+      "meaning_tr": "aşkın",
+      "meaning_en": "transcendent",
+      "meaning_uk": "трансцендентний",
+      "meaning_es": "trascendente"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "*** dieser Frage gibt es viele Meinungen.",
+      "meaning_tr": "bakımından",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "angesichts",
+      "type": "Preposition",
+      "example": "*** der Lage müssen wir handeln.",
+      "meaning_tr": "karşısında",
+      "meaning_en": "in view of",
+      "meaning_uk": "зважаючи на",
+      "meaning_es": "ante"
+    },
+    {
+      "term": "zugunsten",
+      "type": "Preposition",
+      "example": "Er entschied sich *** der Wahrheit.",
+      "meaning_tr": "lehine",
+      "meaning_en": "in favor of",
+      "meaning_uk": "на користь",
+      "meaning_es": "a favor de"
+    },
+    {
+      "term": "mithilfe",
+      "type": "Preposition",
+      "example": "*** der Vernunft lösen wir Konflikte.",
+      "meaning_tr": "yardımıyla",
+      "meaning_en": "with the help of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "con la ayuda de"
+    },
+    {
+      "term": "infolgedessen",
+      "type": "Adverb",
+      "example": "Er handelte falsch, *** verlor er sein Vertrauen.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "внаслідок цього",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "folglich",
+      "type": "Adverb",
+      "example": "Die Logik ist klar, *** ist das Ergebnis korrekt.",
+      "meaning_tr": "dolayısıyla",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por lo tanto"
+    },
+    {
+      "term": "demzufolge",
+      "type": "Adverb",
+      "example": "Die Regeln gelten, *** müssen wir uns anpassen.",
+      "meaning_tr": "buna göre",
+      "meaning_en": "accordingly",
+      "meaning_uk": "відповідно",
+      "meaning_es": "en consecuencia"
+    },
+    {
+      "term": "nichtsdestotrotz",
+      "type": "Adverb",
+      "example": "Es war schwer, *** gab er nicht auf.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "попри все",
+      "meaning_es": "no obstante"
+    },
+    {
+      "term": "allerdings",
+      "type": "Adverb",
+      "example": "Das ist wahr, *** gibt es Ausnahmen.",
+      "meaning_tr": "gerçi/elbette",
+      "meaning_en": "however/certainly",
+      "meaning_uk": "проте",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "indem",
+      "type": "Conjunction",
+      "example": "Er lernt, *** er viel liest.",
+      "meaning_tr": "-erek/-arak",
+      "meaning_en": "by (doing)",
+      "meaning_uk": "тим, що",
+      "meaning_es": "haciendo"
+    },
+    {
+      "term": "obgleich",
+      "type": "Conjunction",
+      "example": "*** er müde war, arbeitete er weiter.",
+      "meaning_tr": "-mesine rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "sofern",
+      "type": "Conjunction",
+      "example": "*** du zustimmst, machen wir das.",
+      "meaning_tr": "şayet/eğer",
+      "meaning_en": "provided that",
+      "meaning_uk": "якщо",
+      "meaning_es": "siempre que"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "*** ich lese, denke ich nach.",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "під час того, як",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "jedoch",
+      "type": "Conjunction",
+      "example": "Er wollte helfen, *** er konnte nicht.",
+      "meaning_tr": "fakat",
+      "meaning_en": "however",
+      "meaning_uk": "однак",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "deshalb",
+      "type": "Conjunction",
+      "example": "Er war überzeugt, *** handelte er so.",
+      "meaning_tr": "bu yüzden",
+      "meaning_en": "therefore",
+      "meaning_uk": "тому",
+      "meaning_es": "por eso"
+    }
+  ]
+}

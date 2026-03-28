@@ -1,0 +1,411 @@
+{
+  "title": "Science & Research (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a hypothesis",
+      "type": "Noun",
+      "example": "The researchers formulated *** to test their theory.",
+      "meaning_tr": "hipotez",
+      "meaning_en": "a proposed explanation made on the basis of limited evidence",
+      "meaning_uk": "гіпотеза",
+      "meaning_es": "una hipótesis"
+    },
+    {
+      "term": "to conduct",
+      "type": "Verb",
+      "example": "It is important to *** the experiment in a controlled environment.",
+      "meaning_tr": "yürütmek",
+      "meaning_en": "to organize and carry out an activity",
+      "meaning_uk": "проводити",
+      "meaning_es": "llevar a cabo"
+    },
+    {
+      "term": "empirical",
+      "type": "Adjective",
+      "example": "We need *** evidence to support this claim.",
+      "meaning_tr": "deneysel",
+      "meaning_en": "based on observation or experience rather than theory",
+      "meaning_uk": "емпіричний",
+      "meaning_es": "empírico"
+    },
+    {
+      "term": "the methodology",
+      "type": "Noun",
+      "example": "The team explained *** used to gather the data.",
+      "meaning_tr": "yöntembilim",
+      "meaning_en": "a system of methods used in a particular area of study",
+      "meaning_uk": "методологія",
+      "meaning_es": "la metodología"
+    },
+    {
+      "term": "to analyze",
+      "type": "Verb",
+      "example": "Scientists will *** the results to find a pattern.",
+      "meaning_tr": "analiz etmek",
+      "meaning_en": "to examine methodically and in detail",
+      "meaning_uk": "аналізувати",
+      "meaning_es": "analizar"
+    },
+    {
+      "term": "significant",
+      "type": "Adjective",
+      "example": "There was a *** increase in the number of bacteria.",
+      "meaning_tr": "önemli",
+      "meaning_en": "sufficiently great or important to be worthy of attention",
+      "meaning_uk": "значний",
+      "meaning_es": "significativo"
+    },
+    {
+      "term": "the variable",
+      "type": "Noun",
+      "example": "We must isolate every *** to ensure accuracy.",
+      "meaning_tr": "değişken",
+      "meaning_en": "an element or factor that is liable to change",
+      "meaning_uk": "змінна",
+      "meaning_es": "la variable"
+    },
+    {
+      "term": "to verify",
+      "type": "Verb",
+      "example": "Independent labs will *** the findings of the study.",
+      "meaning_tr": "doğrulamak",
+      "meaning_en": "to make sure or demonstrate that something is true",
+      "meaning_uk": "перевіряти",
+      "meaning_es": "verificar"
+    },
+    {
+      "term": "the conclusion",
+      "type": "Noun",
+      "example": "The researchers reached a surprising *** after months of work.",
+      "meaning_tr": "sonuç",
+      "meaning_en": "a judgment or decision reached by reasoning",
+      "meaning_uk": "висновок",
+      "meaning_es": "la conclusión"
+    },
+    {
+      "term": "quantitative",
+      "type": "Adjective",
+      "example": "The study focuses on *** data collected from surveys.",
+      "meaning_tr": "nicel",
+      "meaning_en": "relating to, measuring, or measured by the quantity of something",
+      "meaning_uk": "кількісний",
+      "meaning_es": "cuantitativo"
+    },
+    {
+      "term": "qualitative",
+      "type": "Adjective",
+      "example": "They performed a *** analysis of the interviews.",
+      "meaning_tr": "nitel",
+      "meaning_en": "relating to, measuring, or measured by the quality of something",
+      "meaning_uk": "якісний",
+      "meaning_es": "cualitativo"
+    },
+    {
+      "term": "the phenomenon",
+      "type": "Noun",
+      "example": "Scientists are trying to explain this strange ***.",
+      "meaning_tr": "olgu",
+      "meaning_en": "a fact or situation that is observed to exist or happen",
+      "meaning_uk": "явище",
+      "meaning_es": "el fenómeno"
+    },
+    {
+      "term": "to synthesize",
+      "type": "Verb",
+      "example": "The laboratory was able to *** a new chemical compound.",
+      "meaning_tr": "sentezlemek",
+      "meaning_en": "to combine a number of things into a coherent whole",
+      "meaning_uk": "синтезувати",
+      "meaning_es": "sintetizar"
+    },
+    {
+      "term": "the correlation",
+      "type": "Noun",
+      "example": "There is a strong *** between diet and health.",
+      "meaning_tr": "korelasyon",
+      "meaning_en": "a mutual relationship or connection between two or more things",
+      "meaning_uk": "кореляція",
+      "meaning_es": "la correlación"
+    },
+    {
+      "term": "rigorous",
+      "type": "Adjective",
+      "example": "The study underwent a *** peer review process.",
+      "meaning_tr": "titiz",
+      "meaning_en": "extremely thorough and accurate",
+      "meaning_uk": "ретельний",
+      "meaning_es": "riguroso"
+    },
+    {
+      "term": "the sample",
+      "type": "Noun",
+      "example": "They collected a blood *** from every participant.",
+      "meaning_tr": "numune",
+      "meaning_en": "a small part or quantity intended to show what the whole is like",
+      "meaning_uk": "зразок",
+      "meaning_es": "la muestra"
+    },
+    {
+      "term": "to evaluate",
+      "type": "Verb",
+      "example": "Experts will *** the safety of the new vaccine.",
+      "meaning_tr": "değerlendirmek",
+      "meaning_en": "to form an idea of the amount, number, or value of",
+      "meaning_uk": "оцінювати",
+      "meaning_es": "evaluar"
+    },
+    {
+      "term": "the objective",
+      "type": "Noun",
+      "example": "The main *** of the research is to cure the disease.",
+      "meaning_tr": "amaç",
+      "meaning_en": "a thing aimed at or sought; a goal",
+      "meaning_uk": "мета",
+      "meaning_es": "el objetivo"
+    },
+    {
+      "term": "objective",
+      "type": "Adjective",
+      "example": "Scientists must remain *** when interpreting their data.",
+      "meaning_tr": "nesnel",
+      "meaning_en": "not influenced by personal feelings or opinions",
+      "meaning_uk": "об'єктивний",
+      "meaning_es": "objetivo"
+    },
+    {
+      "term": "the evidence",
+      "type": "Noun",
+      "example": "There is no scientific *** to support that theory.",
+      "meaning_tr": "kanıt",
+      "meaning_en": "the available body of facts or information indicating whether a belief is true",
+      "meaning_uk": "доказ",
+      "meaning_es": "la evidencia"
+    },
+    {
+      "term": "to investigate",
+      "type": "Verb",
+      "example": "Police and scientists continue to *** the cause of the fire.",
+      "meaning_tr": "araştırmak",
+      "meaning_en": "to carry out a systematic or formal inquiry",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "investigar"
+    },
+    {
+      "term": "the accuracy",
+      "type": "Noun",
+      "example": "We checked the equipment to ensure the *** of the measurements.",
+      "meaning_tr": "doğruluk",
+      "meaning_en": "the quality or state of being correct or precise",
+      "meaning_uk": "точність",
+      "meaning_es": "la precisión"
+    },
+    {
+      "term": "preliminary",
+      "type": "Adjective",
+      "example": "These are only *** results and may change.",
+      "meaning_tr": "ön",
+      "meaning_en": "denoting an action or event preceding something else",
+      "meaning_uk": "попередній",
+      "meaning_es": "preliminar"
+    },
+    {
+      "term": "subsequently",
+      "type": "Adverb",
+      "example": "The sample was frozen and *** analyzed in the lab.",
+      "meaning_tr": "daha sonra",
+      "meaning_en": "after a particular thing has happened; afterward",
+      "meaning_uk": "згодом",
+      "meaning_es": "posteriormente"
+    },
+    {
+      "term": "the foundation",
+      "type": "Noun",
+      "example": "His work laid the *** for modern physics.",
+      "meaning_tr": "temel",
+      "meaning_en": "the basis or groundwork of anything",
+      "meaning_uk": "основа",
+      "meaning_es": "la base"
+    },
+    {
+      "term": "to replicate",
+      "type": "Verb",
+      "example": "Other scientists failed to *** the original study's results.",
+      "meaning_tr": "kopyalamak",
+      "meaning_en": "to make an exact copy of; reproduce",
+      "meaning_uk": "відтворювати",
+      "meaning_es": "replicar"
+    },
+    {
+      "term": "the constraint",
+      "type": "Noun",
+      "example": "Budgetary *** limited the scope of the project.",
+      "meaning_tr": "kısıtlama",
+      "meaning_en": "a limitation or restriction",
+      "meaning_uk": "обмеження",
+      "meaning_es": "la restricción"
+    },
+    {
+      "term": "to interpret",
+      "type": "Verb",
+      "example": "It is difficult to *** the data without more context.",
+      "meaning_tr": "yorumlamak",
+      "meaning_en": "to explain the meaning of information or actions",
+      "meaning_uk": "інтерпретувати",
+      "meaning_es": "interpretar"
+    },
+    {
+      "term": "the consensus",
+      "type": "Noun",
+      "example": "There is a growing *** among climate scientists.",
+      "meaning_tr": "uzlaşma",
+      "meaning_en": "a general agreement",
+      "meaning_uk": "консенсус",
+      "meaning_es": "el consenso"
+    },
+    {
+      "term": "to formulate",
+      "type": "Verb",
+      "example": "They need to *** a plan before starting the trial.",
+      "meaning_tr": "formüle etmek",
+      "meaning_en": "to create or prepare methodically",
+      "meaning_uk": "формулювати",
+      "meaning_es": "formular"
+    },
+    {
+      "term": "the bias",
+      "type": "Noun",
+      "example": "The study was criticized for its gender ***.",
+      "meaning_tr": "yanlılık",
+      "meaning_en": "prejudice in favor of or against one thing",
+      "meaning_uk": "упередженість",
+      "meaning_es": "el sesgo"
+    },
+    {
+      "term": "empirical",
+      "type": "Adjective",
+      "example": "We rely on *** data rather than intuition.",
+      "meaning_tr": "deneysel",
+      "meaning_en": "based on observation or experience",
+      "meaning_uk": "емпіричний",
+      "meaning_es": "empírico"
+    },
+    {
+      "term": "the protocol",
+      "type": "Noun",
+      "example": "The researchers followed a strict safety ***.",
+      "meaning_tr": "protokol",
+      "meaning_en": "the official procedure or system of rules",
+      "meaning_uk": "протокол",
+      "meaning_es": "el protocolo"
+    },
+    {
+      "term": "to establish",
+      "type": "Verb",
+      "example": "The experiment helped to *** a link between the two factors.",
+      "meaning_tr": "kurmak",
+      "meaning_en": "to show something to be true or certain",
+      "meaning_uk": "встановлювати",
+      "meaning_es": "establecer"
+    },
+    {
+      "term": "the observation",
+      "type": "Noun",
+      "example": "Careful *** is the first step of the scientific method.",
+      "meaning_tr": "gözlem",
+      "meaning_en": "the action of watching something carefully",
+      "meaning_uk": "спостереження",
+      "meaning_es": "la observación"
+    },
+    {
+      "term": "random",
+      "type": "Adjective",
+      "example": "They used a *** selection process for the participants.",
+      "meaning_tr": "rastgele",
+      "meaning_en": "chosen without method or conscious decision",
+      "meaning_uk": "випадковий",
+      "meaning_es": "aleatorio"
+    },
+    {
+      "term": "to validate",
+      "type": "Verb",
+      "example": "The results were used to *** the new software model.",
+      "meaning_tr": "doğrulamak",
+      "meaning_en": "to check or prove the validity or accuracy of",
+      "meaning_uk": "підтверджувати",
+      "meaning_es": "validar"
+    },
+    {
+      "term": "the paradigm",
+      "type": "Noun",
+      "example": "This discovery caused a shift in the current scientific ***.",
+      "meaning_tr": "paradigma",
+      "meaning_en": "a typical example or pattern of something",
+      "meaning_uk": "парадигма",
+      "meaning_es": "el paradigma"
+    },
+    {
+      "term": "to observe",
+      "type": "Verb",
+      "example": "We were able to *** the reaction in real time.",
+      "meaning_tr": "gözlemlemek",
+      "meaning_en": "to notice or perceive something",
+      "meaning_uk": "спостерігати",
+      "meaning_es": "observar"
+    },
+    {
+      "term": "consequently",
+      "type": "Adverb",
+      "example": "The experiment failed; ***, we had to start over.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "as a result",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "the trial",
+      "type": "Noun",
+      "example": "The drug is currently in a clinical ***.",
+      "meaning_tr": "deneme",
+      "meaning_en": "a test of the performance or qualities of someone or something",
+      "meaning_uk": "випробування",
+      "meaning_es": "el ensayo"
+    },
+    {
+      "term": "to synthesize",
+      "type": "Verb",
+      "example": "The team worked together to *** their findings.",
+      "meaning_tr": "sentezlemek",
+      "meaning_en": "to combine ideas to form a theory or system",
+      "meaning_uk": "синтезувати",
+      "meaning_es": "sintetizar"
+    },
+    {
+      "term": "the discrepancy",
+      "type": "Noun",
+      "example": "There was a small *** between the two sets of data.",
+      "meaning_tr": "tutarsızlık",
+      "meaning_en": "a lack of compatibility or similarity",
+      "meaning_uk": "невідповідність",
+      "meaning_es": "la discrepancia"
+    },
+    {
+      "term": "relevant",
+      "type": "Adjective",
+      "example": "Please provide only the *** information for the report.",
+      "meaning_tr": "ilgili",
+      "meaning_en": "closely connected or appropriate to the matter at hand",
+      "meaning_uk": "доречний",
+      "meaning_es": "relevante"
+    },
+    {
+      "term": "to hypothesize",
+      "type": "Verb",
+      "example": "Scientists *** that the climate change is accelerating.",
+      "meaning_tr": "hipotez kurmak",
+      "meaning_en": "to put forward a theory or hypothesis",
+      "meaning_uk": "висувати гіпотезу",
+      "meaning_es": "plantear una hipótesis"
+    }
+  ]
+}

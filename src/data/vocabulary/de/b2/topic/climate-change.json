@@ -1,0 +1,411 @@
+{
+  "title": "Klimawandel (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Klimawandel",
+      "type": "Noun",
+      "example": "Der *** ist eine der größten Herausforderungen unserer Zeit.",
+      "meaning_tr": "iklim değişikliği",
+      "meaning_en": "climate change",
+      "meaning_uk": "зміна клімату",
+      "meaning_es": "el cambio climático"
+    },
+    {
+      "term": "die Erderwärmung",
+      "type": "Noun",
+      "example": "Die globale *** führt zum Schmelzen der Pole.",
+      "meaning_tr": "küresel ısınma",
+      "meaning_en": "global warming",
+      "meaning_uk": "глобальне потепління",
+      "meaning_es": "el calentamiento global"
+    },
+    {
+      "term": "das Treibhausgas",
+      "type": "Noun",
+      "example": "Wir müssen den Ausstoß von ***en drastisch reduzieren.",
+      "meaning_tr": "sera gazı",
+      "meaning_en": "greenhouse gas",
+      "meaning_uk": "парниковий газ",
+      "meaning_es": "el gas de efecto invernadero"
+    },
+    {
+      "term": "der Ausstoß",
+      "type": "Noun",
+      "example": "Der *** von Kohlendioxid muss weltweit sinken.",
+      "meaning_tr": "emisyon / dışarı atma",
+      "meaning_en": "emission",
+      "meaning_uk": "викид",
+      "meaning_es": "la emisión"
+    },
+    {
+      "term": "verursachen",
+      "type": "Verb",
+      "example": "Menschliche Aktivitäten *** den Anstieg der Temperaturen.",
+      "meaning_tr": "sebep olmak",
+      "meaning_en": "to cause",
+      "meaning_uk": "спричиняти",
+      "meaning_es": "causar"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir brauchen eine ***e Entwicklung für unsere Zukunft.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "schützen",
+      "type": "Verb",
+      "example": "Es ist wichtig, die Umwelt vor Zerstörung zu ***.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to protect",
+      "meaning_uk": "захищати",
+      "meaning_es": "proteger"
+    },
+    {
+      "term": "die erneuerbare Energie",
+      "type": "Noun",
+      "example": "Der Übergang zu ***n ***n ist unumgänglich.",
+      "meaning_tr": "yenilenebilir enerji",
+      "meaning_en": "renewable energy",
+      "meaning_uk": "відновлювана енергія",
+      "meaning_es": "la energía renovable"
+    },
+    {
+      "term": "die Umweltbelastung",
+      "type": "Noun",
+      "example": "Die hohe *** schadet der Gesundheit der Menschen.",
+      "meaning_tr": "çevre kirliliği / yükü",
+      "meaning_en": "environmental pollution",
+      "meaning_uk": "забруднення довкілля",
+      "meaning_es": "la contaminación ambiental"
+    },
+    {
+      "term": "der Meeresspiegel",
+      "type": "Noun",
+      "example": "Der *** steigt aufgrund der Eisschmelze an.",
+      "meaning_tr": "deniz seviyesi",
+      "meaning_en": "sea level",
+      "meaning_uk": "рівень моря",
+      "meaning_es": "el nivel del mar"
+    },
+    {
+      "term": "ansteigen",
+      "type": "Verb",
+      "example": "Die Durchschnittstemperaturen *** jedes Jahr weiter ***.",
+      "meaning_tr": "yükselmek",
+      "meaning_en": "to rise",
+      "meaning_uk": "зростати",
+      "meaning_es": "aumentar"
+    },
+    {
+      "term": "schmelzen",
+      "type": "Verb",
+      "example": "Die Gletscher in den Alpen *** immer schneller.",
+      "meaning_tr": "erimek",
+      "meaning_en": "to melt",
+      "meaning_uk": "танути",
+      "meaning_es": "derretirse"
+    },
+    {
+      "term": "der Gletscher",
+      "type": "Noun",
+      "example": "Wenn ein *** schmilzt, steigt der Wasserspiegel.",
+      "meaning_tr": "buzul",
+      "meaning_en": "glacier",
+      "meaning_uk": "льодовик",
+      "meaning_es": "el glaciar"
+    },
+    {
+      "term": "die Dürre",
+      "type": "Noun",
+      "example": "Die lange *** hat die gesamte Ernte vernichtet.",
+      "meaning_tr": "kuraklık",
+      "meaning_en": "drought",
+      "meaning_uk": "посуха",
+      "meaning_es": "la sequía"
+    },
+    {
+      "term": "die Überschwemmung",
+      "type": "Noun",
+      "example": "Nach dem Starkregen kam es zu einer schweren ***.",
+      "meaning_tr": "sel / su baskını",
+      "meaning_en": "flood",
+      "meaning_uk": "повінь",
+      "meaning_es": "la inundación"
+    },
+    {
+      "term": "der Umweltschutz",
+      "type": "Noun",
+      "example": "Jeder Bürger sollte einen Beitrag zum *** leisten.",
+      "meaning_tr": "çevre koruma",
+      "meaning_en": "environmental protection",
+      "meaning_uk": "захист довкілля",
+      "meaning_es": "la protección del medio ambiente"
+    },
+    {
+      "term": "reduzieren",
+      "type": "Verb",
+      "example": "Wir müssen unseren Energieverbrauch deutlich ***.",
+      "meaning_tr": "azaltmak",
+      "meaning_en": "to reduce",
+      "meaning_uk": "зменшувати",
+      "meaning_es": "reducir"
+    },
+    {
+      "term": "verzichten",
+      "type": "Verb",
+      "example": "Viele Menschen *** heute auf Plastiktüten.",
+      "meaning_tr": "vazgeçmek / feragat etmek",
+      "meaning_en": "to do without",
+      "meaning_uk": "відмовлятися",
+      "meaning_es": "renunciar"
+    },
+    {
+      "term": "das Kohlendioxid",
+      "type": "Noun",
+      "example": "Pflanzen wandeln *** in Sauerstoff um.",
+      "meaning_tr": "karbondioksit",
+      "meaning_en": "carbon dioxide",
+      "meaning_uk": "вуглекислий газ",
+      "meaning_es": "el dióxido de carbono"
+    },
+    {
+      "term": "die Ozonschicht",
+      "type": "Noun",
+      "example": "Das Loch in der *** wird allmählich kleiner.",
+      "meaning_tr": "ozon tabakası",
+      "meaning_en": "ozone layer",
+      "meaning_uk": "озоновий шар",
+      "meaning_es": "la capa de ozono"
+    },
+    {
+      "term": "umweltfreundlich",
+      "type": "Adjective",
+      "example": "Fahrradfahren ist eine ***e Art der Fortbewegung.",
+      "meaning_tr": "çevre dostu",
+      "meaning_en": "environmentally friendly",
+      "meaning_uk": "екологічно чистий",
+      "meaning_es": "ecológico"
+    },
+    {
+      "term": "schädlich",
+      "type": "Adjective",
+      "example": "Abgase sind *** für die Atmosphäre.",
+      "meaning_tr": "zararlı",
+      "meaning_en": "harmful",
+      "meaning_uk": "шкідливий",
+      "meaning_es": "dañino"
+    },
+    {
+      "term": "die Ressourcen",
+      "type": "Noun",
+      "example": "Wir müssen die natürlichen *** unseres Planeten schonen.",
+      "meaning_tr": "kaynaklar",
+      "meaning_en": "resources",
+      "meaning_uk": "ресурси",
+      "meaning_es": "los recursos"
+    },
+    {
+      "term": "verbrauchen",
+      "type": "Verb",
+      "example": "Industrieländer *** mehr Energie als Entwicklungsländer.",
+      "meaning_tr": "tüketmek",
+      "meaning_en": "to consume",
+      "meaning_uk": "споживати",
+      "meaning_es": "consumir"
+    },
+    {
+      "term": "die Energiequelle",
+      "type": "Noun",
+      "example": "Die Sonne ist eine unerschöpfliche ***.",
+      "meaning_tr": "enerji kaynağı",
+      "meaning_en": "energy source",
+      "meaning_uk": "джерело енергії",
+      "meaning_es": "la fuente de energía"
+    },
+    {
+      "term": "die Solarenergie",
+      "type": "Noun",
+      "example": "Mit *** kann man Strom auf dem eigenen Dach erzeugen.",
+      "meaning_tr": "güneş enerjisi",
+      "meaning_en": "solar energy",
+      "meaning_uk": "сонячна енергія",
+      "meaning_es": "la energía solar"
+    },
+    {
+      "term": "die Windkraft",
+      "type": "Noun",
+      "example": "An der Küste wird viel Strom durch *** gewonnen.",
+      "meaning_tr": "rüzgar gücü",
+      "meaning_en": "wind power",
+      "meaning_uk": "енергія вітру",
+      "meaning_es": "la energía eólica"
+    },
+    {
+      "term": "der Naturschutz",
+      "type": "Noun",
+      "example": "Organisationen setzen sich weltweit für den *** ein.",
+      "meaning_tr": "doğa koruma",
+      "meaning_en": "nature conservation",
+      "meaning_uk": "охорона природи",
+      "meaning_es": "la conservación de la naturaleza"
+    },
+    {
+      "term": "die Artenvielfalt",
+      "type": "Noun",
+      "example": "Der Verlust der *** ist eine Folge der Zerstörung von Lebensräumen.",
+      "meaning_tr": "biyoçeşitlilik",
+      "meaning_en": "biodiversity",
+      "meaning_uk": "біорізноманіття",
+      "meaning_es": "la biodiversidad"
+    },
+    {
+      "term": "bedrohen",
+      "type": "Verb",
+      "example": "Der Klimawandel *** viele Tier- und Pflanzenarten.",
+      "meaning_tr": "tehdit etmek",
+      "meaning_en": "to threaten",
+      "meaning_uk": "загрожувати",
+      "meaning_es": "amenazar"
+    },
+    {
+      "term": "aussterben",
+      "type": "Verb",
+      "example": "Wenn wir nichts tun, werden Eisbären bald ***.",
+      "meaning_tr": "nesli tükenmek",
+      "meaning_en": "to go extinct",
+      "meaning_uk": "вимирати",
+      "meaning_es": "extinguirse"
+    },
+    {
+      "term": "die Abgase",
+      "type": "Noun",
+      "example": "Die *** von Fabriken verschmutzen die Luft.",
+      "meaning_tr": "egzoz gazları",
+      "meaning_en": "exhaust gases",
+      "meaning_uk": "вихлопні гази",
+      "meaning_es": "los gases de escape"
+    },
+    {
+      "term": "das Ökosystem",
+      "type": "Noun",
+      "example": "Ein gesundes *** kann sich besser an Veränderungen anpassen.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "ecosystem",
+      "meaning_uk": "екосистема",
+      "meaning_es": "el ecosistema"
+    },
+    {
+      "term": "die Luftverschmutzung",
+      "type": "Noun",
+      "example": "In vielen Großstädten ist die *** ein großes Problem.",
+      "meaning_tr": "hava kirliliği",
+      "meaning_en": "air pollution",
+      "meaning_uk": "забруднення повітря",
+      "meaning_es": "la contaminación del aire"
+    },
+    {
+      "term": "effizient",
+      "type": "Adjective",
+      "example": "Wir müssen lernen, Energie ***er zu nutzen.",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "eficiente"
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "Der Klimaschutz erfordert eine ***e Zusammenarbeit.",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "global"
+    },
+    {
+      "term": "die Katastrophe",
+      "type": "Noun",
+      "example": "Die Flut war eine ökologische *** für die Region.",
+      "meaning_tr": "felaket",
+      "meaning_en": "catastrophe",
+      "meaning_uk": "катастрофа",
+      "meaning_es": "la catástrofe"
+    },
+    {
+      "term": "bekämpfen",
+      "type": "Verb",
+      "example": "Wir müssen die Ursachen des Klimawandels gemeinsam ***.",
+      "meaning_tr": "mücadele etmek",
+      "meaning_en": "to combat",
+      "meaning_uk": "боротися",
+      "meaning_es": "combatir"
+    },
+    {
+      "term": "anpassen",
+      "type": "Verb",
+      "example": "Die Landwirtschaft muss sich den neuen klimatischen Bedingungen ***.",
+      "meaning_tr": "uyum sağlamak",
+      "meaning_en": "to adapt",
+      "meaning_uk": "адаптуватися",
+      "meaning_es": "adaptarse"
+    },
+    {
+      "term": "die Maßnahme",
+      "type": "Noun",
+      "example": "Die Regierung hat neue ***n zum Klimaschutz beschlossen.",
+      "meaning_tr": "önlem",
+      "meaning_en": "measure",
+      "meaning_uk": "захід",
+      "meaning_es": "la medida"
+    },
+    {
+      "term": "das Abkommen",
+      "type": "Noun",
+      "example": "Das Pariser *** zielt darauf ab, die Erwärmung zu begrenzen.",
+      "meaning_tr": "anlaşma / sözleşme",
+      "meaning_en": "agreement",
+      "meaning_uk": "угода",
+      "meaning_es": "el acuerdo"
+    },
+    {
+      "term": "die Ernte",
+      "type": "Noun",
+      "example": "Wegen der Hitze fiel die *** dieses Jahr sehr gering aus.",
+      "meaning_tr": "hasat",
+      "meaning_en": "harvest",
+      "meaning_uk": "врожай",
+      "meaning_es": "la cosecha"
+    },
+    {
+      "term": "extrem",
+      "type": "Adjective",
+      "example": "Wir beobachten immer häufiger ***e Wetterereignisse.",
+      "meaning_tr": "aşırı",
+      "meaning_en": "extreme",
+      "meaning_uk": "екстремальний",
+      "meaning_es": "extremo"
+    },
+    {
+      "term": "infolge",
+      "type": "Preposition",
+      "example": "*** des Klimawandels schmelzen die Polkappen.",
+      "meaning_tr": "sonucunda",
+      "meaning_en": "as a result of",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "a consecuencia de"
+    },
+    {
+      "term": "deshalb",
+      "type": "Adverb",
+      "example": "Das Klima ändert sich, *** müssen wir jetzt handeln.",
+      "meaning_tr": "bu yüzden",
+      "meaning_en": "therefore",
+      "meaning_uk": "тому",
+      "meaning_es": "por lo tanto"
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "title": "Music & Cinema (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a poignant scene",
+      "type": "Noun",
+      "meaning_tr": "dokunaklı bir sahne",
+      "meaning_en": "a scene that evokes a keen sense of sadness or regret",
+      "meaning_uk": "зворушлива сцена",
+      "meaning_es": "una escena conmovedora",
+      "example": "The film concludes with *** that leaves the audience in tears."
+    },
+    {
+      "term": "to underscore",
+      "type": "Verb",
+      "meaning_tr": "vurgulamak, altını çizmek",
+      "meaning_en": "to emphasize or highlight something",
+      "meaning_uk": "підкреслювати",
+      "meaning_es": "subrayar",
+      "example": "The haunting violin melody serves to *** the isolation of the protagonist."
+    },
+    {
+      "term": "an avant-garde film",
+      "type": "Noun",
+      "meaning_tr": "yenilikçi film",
+      "meaning_en": "experimental and innovative film",
+      "meaning_uk": "авангардний фільм",
+      "meaning_es": "una película vanguardista",
+      "example": "The director is known for his *** which challenges traditional narrative structures."
+    },
+    {
+      "term": "a virtuoso",
+      "type": "Noun",
+      "meaning_tr": "virtüöz",
+      "meaning_en": "a person highly skilled in music or another artistic pursuit",
+      "meaning_uk": "віртуоз",
+      "meaning_es": "un virtuoso",
+      "example": "The pianist is a true *** who plays with incredible technical precision."
+    },
+    {
+      "term": "a cinematic masterpiece",
+      "type": "Noun",
+      "meaning_tr": "sinematik başyapıt",
+      "meaning_en": "an excellent film of high quality",
+      "meaning_uk": "кінематографічний шедевр",
+      "meaning_es": "una obra maestra cinematográfica",
+      "example": "Many critics consider this historical drama to be ***."
+    },
+    {
+      "term": "a cacophony",
+      "type": "Noun",
+      "meaning_tr": "kakofoni, uyumsuz sesler",
+      "meaning_en": "a harsh, discordant mixture of sounds",
+      "meaning_uk": "какофонія",
+      "meaning_es": "una cacofonía",
+      "example": "The experimental jazz track sounded like *** to the untrained ear."
+    },
+    {
+      "term": "evocative",
+      "type": "Adjective",
+      "meaning_tr": "çağrışım yapan",
+      "meaning_en": "bringing strong images, memories, or feelings to mind",
+      "meaning_uk": "спонукальний",
+      "meaning_es": "evocador",
+      "example": "The soundtrack is incredibly ***, transporting the listener back to the 1920s."
+    },
+    {
+      "term": "a plot twist",
+      "type": "Noun",
+      "meaning_tr": "olay örgüsü sürprizi",
+      "meaning_en": "an unexpected development in a story",
+      "meaning_uk": "несподіваний поворот сюжету",
+      "meaning_es": "un giro argumental",
+      "example": "The film ends with *** that completely changes our understanding of the main character."
+    },
+    {
+      "term": "to resonate",
+      "type": "Verb",
+      "meaning_tr": "yankı uyandırmak",
+      "meaning_en": "to evoke images, memories, or emotions",
+      "meaning_uk": "резонувати",
+      "meaning_es": "resonar",
+      "example": "The themes of the movie *** with audiences across different generations."
+    },
+    {
+      "term": "a screenplay",
+      "type": "Noun",
+      "meaning_tr": "senaryo",
+      "meaning_en": "the script of a movie",
+      "meaning_uk": "сценарій",
+      "meaning_es": "un guion",
+      "example": "She won an award for the best original *** at the festival."
+    },
+    {
+      "term": "a crescendo",
+      "type": "Noun",
+      "meaning_tr": "crescendo, ses yükselişi",
+      "meaning_en": "a gradual increase in loudness in a piece of music",
+      "meaning_uk": "крещендо",
+      "meaning_es": "un crescendo",
+      "example": "The symphony builds to a powerful *** before coming to a sudden halt."
+    },
+    {
+      "term": "an ensemble cast",
+      "type": "Noun",
+      "meaning_tr": "topluluk oyuncu kadrosu",
+      "meaning_en": "a group of actors who perform together",
+      "meaning_uk": "акторський ансамбль",
+      "meaning_es": "un reparto coral",
+      "example": "The movie features *** that includes several Academy Award winners."
+    },
+    {
+      "term": "a cinematic backdrop",
+      "type": "Noun",
+      "meaning_tr": "sinematik fon",
+      "meaning_en": "the background setting of a film",
+      "meaning_uk": "кінематографічний фон",
+      "meaning_es": "un telón de fondo cinematográfico",
+      "example": "The rugged mountains provided *** for the intense chase sequence."
+    },
+    {
+      "term": "melodic",
+      "type": "Adjective",
+      "meaning_tr": "melodik",
+      "meaning_en": "having a pleasant, tuneful sound",
+      "meaning_uk": "мелодійний",
+      "meaning_es": "melódico",
+      "example": "His guitar solos are always highly *** and easy to remember."
+    },
+    {
+      "term": "to portray",
+      "type": "Verb",
+      "meaning_tr": "canlandırmak, tasvir etmek",
+      "meaning_en": "to depict someone or something in a work of art",
+      "meaning_uk": "зображувати",
+      "meaning_es": "retratar",
+      "example": "The actor was praised for his ability to *** such a complex villain."
+    },
+    {
+      "term": "a score",
+      "type": "Noun",
+      "meaning_tr": "film müziği",
+      "meaning_en": "the music written for a film",
+      "meaning_uk": "партитура, саундтрек",
+      "meaning_es": "una partitura",
+      "example": "The orchestral *** adds a layer of tension to every scene."
+    },
+    {
+      "term": "a blockbuster",
+      "type": "Noun",
+      "meaning_tr": "gişe rekorları kıran film",
+      "meaning_en": "a highly successful film",
+      "meaning_uk": "блокбастер",
+      "meaning_es": "un éxito de taquilla",
+      "example": "The summer season is dominated by yet another superhero ***."
+    },
+    {
+      "term": "dissonant",
+      "type": "Adjective",
+      "meaning_tr": "uyumsuz",
+      "meaning_en": "lacking harmony",
+      "meaning_uk": "дисонуючий",
+      "meaning_es": "disonante",
+      "example": "The composer used *** chords to create a sense of unease."
+    },
+    {
+      "term": "a cinematography",
+      "type": "Noun",
+      "meaning_tr": "sinematografi",
+      "meaning_en": "the art of making motion pictures",
+      "meaning_uk": "кінематографія",
+      "meaning_es": "una cinematografía",
+      "example": "The film’s stunning *** captured the beauty of the desert landscape."
+    },
+    {
+      "term": "a subtext",
+      "meaning_tr": "alt metin",
+      "meaning_en": "an underlying theme or message",
+      "meaning_uk": "підтекст",
+      "meaning_es": "un subtexto",
+      "example": "There is a strong political *** hidden within the dialogue of the play."
+    },
+    {
+      "term": "to improvise",
+      "type": "Verb",
+      "meaning_tr": "doğaçlama yapmak",
+      "meaning_en": "to create music or speech without preparation",
+      "meaning_uk": "імпровізувати",
+      "meaning_es": "improvisar",
+      "example": "The jazz band decided to *** during the second half of the performance."
+    },
+    {
+      "term": "a protagonist",
+      "type": "Noun",
+      "meaning_tr": "ana karakter",
+      "meaning_en": "the leading character in a story",
+      "meaning_uk": "головний герой",
+      "meaning_es": "un protagonista",
+      "example": "The *** must overcome many obstacles to reach their goal."
+    },
+    {
+      "term": "a leitmotif",
+      "type": "Noun",
+      "meaning_tr": "ana tema, leitmotif",
+      "meaning_en": "a recurrent theme throughout a musical or literary composition",
+      "meaning_uk": "лейтмотив",
+      "meaning_es": "un leitmotiv",
+      "example": "The composer uses a distinct *** to represent the main character's grief."
+    },
+    {
+      "term": "a mise-en-scène",
+      "type": "Noun",
+      "meaning_tr": "sahneleme",
+      "meaning_en": "the arrangement of scenery and stage properties in a play or film",
+      "meaning_uk": "мізансцена",
+      "meaning_es": "una puesta en escena",
+      "example": "The elaborate *** creates a sense of claustrophobia for the viewer."
+    },
+    {
+      "term": "rhythmic",
+      "type": "Adjective",
+      "meaning_tr": "ritmik",
+      "meaning_en": "having a strong, regular, repeated pattern of sound",
+      "meaning_uk": "ритмічний",
+      "meaning_es": "rítmico",
+      "example": "The drummer maintained a complex *** pattern throughout the track."
+    },
+    {
+      "term": "a screenplay",
+      "type": "Noun",
+      "meaning_tr": "senaryo",
+      "meaning_en": "the script of a movie",
+      "meaning_uk": "сценарій",
+      "meaning_es": "un guion",
+      "example": "The writer spent three years perfecting the ***."
+    },
+    {
+      "term": "an adaptation",
+      "type": "Noun",
+      "meaning_tr": "uyarlama",
+      "meaning_en": "a film or play based on a book or other work",
+      "meaning_uk": "адаптація",
+      "meaning_es": "una adaptación",
+      "example": "This new *** of the classic novel is surprisingly modern."
+    },
+    {
+      "term": "a tempo",
+      "type": "Noun",
+      "meaning_tr": "tempo, hız",
+      "meaning_en": "the speed at which a piece of music is played",
+      "meaning_uk": "темп",
+      "meaning_es": "un tempo",
+      "example": "The conductor increased the *** to build excitement in the finale."
+    },
+    {
+      "term": "a genre",
+      "type": "Noun",
+      "meaning_tr": "tür",
+      "meaning_en": "a category of artistic composition",
+      "meaning_uk": "жанр",
+      "meaning_es": "un género",
+      "example": "Science fiction is my favorite film ***."
+    },
+    {
+      "term": "to orchestrate",
+      "type": "Verb",
+      "meaning_tr": "orkestre etmek, düzenlemek",
+      "meaning_en": "to arrange music for an orchestra",
+      "meaning_uk": "оркеструвати",
+      "meaning_es": "orquestar",
+      "example": "He was commissioned to *** the entire musical score for the ballet."
+    },
+    {
+      "term": "a sequence",
+      "type": "Noun",
+      "meaning_tr": "sekans, dizi",
+      "meaning_en": "a particular order or a set of scenes",
+      "meaning_uk": "послідовність",
+      "meaning_es": "una secuencia",
+      "example": "The opening *** of the film is visually breathtaking."
+    },
+    {
+      "term": "a lyric",
+      "type": "Noun",
+      "meaning_tr": "şarkı sözü",
+      "meaning_en": "the words of a song",
+      "meaning_uk": "текст пісні",
+      "meaning_es": "una letra",
+      "example": "The *** of the song explore themes of heartbreak and loss."
+    },
+    {
+      "term": "a dialogue",
+      "type": "Noun",
+      "meaning_tr": "diyalog",
+      "meaning_en": "conversation between two or more people",
+      "meaning_uk": "діалог",
+      "meaning_es": "un diálogo",
+      "example": "The film is famous for its snappy and witty ***."
+    },
+    {
+      "term": "an acoustic",
+      "type": "Adjective",
+      "meaning_tr": "akustik",
+      "meaning_en": "relating to sound or the sense of hearing",
+      "meaning_uk": "акустичний",
+      "meaning_es": "acústico",
+      "example": "They performed an *** version of their biggest hit."
+    },
+    {
+      "term": "a performance",
+      "type": "Noun",
+      "meaning_tr": "performans",
+      "meaning_en": "the act of presenting a play, concert, or other form of entertainment",
+      "meaning_uk": "виступ",
+      "meaning_es": "una actuación",
+      "example": "Her *** in the lead role was nothing short of brilliant."
+    },
+    {
+      "term": "a monologue",
+      "type": "Noun",
+      "meaning_tr": "tirad, monolog",
+      "meaning_en": "a long speech by one actor in a play or movie",
+      "meaning_uk": "монолог",
+      "meaning_es": "un monólogo",
+      "example": "The actor delivered a powerful *** that lasted for five minutes."
+    },
+    {
+      "term": "a harmony",
+      "type": "Noun",
+      "meaning_tr": "uyum, armoni",
+      "meaning_en": "the combination of simultaneously sounded musical notes",
+      "meaning_uk": "гармонія",
+      "meaning_es": "una armonía",
+      "example": "The choir sang in perfect *** throughout the church."
+    },
+    {
+      "term": "a cut",
+      "type": "Noun",
+      "meaning_tr": "kurgu, kesim",
+      "meaning_en": "the transition between two shots in a film",
+      "meaning_uk": "монтажна склейка",
+      "meaning_es": "un corte",
+      "example": "The director used a fast *** to increase the tension in the scene."
+    },
+    {
+      "term": "to premiere",
+      "type": "Verb",
+      "meaning_tr": "ilk gösterimini yapmak",
+      "meaning_en": "to give the first public performance of a work",
+      "meaning_uk": "прем'єрувати",
+      "meaning_es": "estrenar",
+      "example": "The documentary will *** at the international film festival next month."
+    },
+    {
+      "term": "a composition",
+      "type": "Noun",
+      "meaning_tr": "beste",
+      "meaning_en": "a musical work",
+      "meaning_uk": "композиція",
+      "meaning_es": "una composición",
+      "example": "This piano *** is one of the most difficult pieces to master."
+    },
+    {
+      "term": "a motif",
+      "type": "Noun",
+      "meaning_tr": "motif",
+      "meaning_en": "a distinctive feature or dominant idea",
+      "meaning_uk": "мотив",
+      "meaning_es": "un motivo",
+      "example": "The recurring water *** symbolizes the passage of time in the film."
+    },
+    {
+      "term": "vocal",
+      "type": "Adjective",
+      "meaning_tr": "vokal, sesli",
+      "meaning_en": "relating to the human voice",
+      "meaning_uk": "вокальний",
+      "meaning_es": "vocal",
+      "example": "The singer's *** range is truly impressive for a newcomer."
+    },
+    {
+      "term": "an edit",
+      "type": "Noun",
+      "meaning_tr": "düzenleme, kurgu",
+      "meaning_en": "a version of a film after it has been cut",
+      "meaning_uk": "редагування",
+      "meaning_es": "un montaje",
+      "example": "The director's final *** includes scenes that were previously deleted."
+    },
+    {
+      "term": "a score",
+      "type": "Noun",
+      "meaning_tr": "film müziği",
+      "meaning_en": "written music for a film",
+      "meaning_uk": "саундтрек",
+      "meaning_es": "una partitura",
+      "example": "The sweeping orchestral *** was nominated for an Oscar."
+    },
+    {
+      "term": "a stage",
+      "type": "Noun",
+      "meaning_tr": "sahne",
+      "meaning_en": "a raised floor or platform",
+      "meaning_uk": "сцена",
+      "meaning_es": "un escenario",
+      "example": "The band took the *** to a thunderous applause from the crowd."
+    },
+    {
+      "term": "a resonance",
+      "type": "Noun",
+      "meaning_tr": "tınlama, yankı",
+      "meaning_en": "the quality in a sound of being deep, full, and reverberating",
+      "meaning_uk": "резонанс",
+      "meaning_es": "una resonancia",
+      "example": "The cello has a beautiful, deep *** that fills the entire hall."
+    },
+    {
+      "term": "to dub",
+      "type": "Verb",
+      "meaning_tr": "seslendirmek (film)",
+      "meaning_en": "to replace the original speech in a film with a translation",
+      "meaning_uk": "дублювати",
+      "meaning_es": "doblar",
+      "example": "They decided to *** the movie into Spanish for the international release."
+    },
+    {
+      "term": "a crescendo",
+      "type": "Noun",
+      "meaning_tr": "ses yükselişi",
+      "meaning_en": "the peak of intensity",
+      "meaning_uk": "крещендо",
+      "meaning_es": "un crescendo",
+      "example": "The argument reached a *** before they both fell silent."
+    },
+    {
+      "term": "a cinematographer",
+      "type": "Noun",
+      "meaning_tr": "görüntü yönetmeni",
+      "meaning_en": "the person responsible for camera work in a film",
+      "meaning_uk": "кінооператор",
+      "meaning_es": "un director de fotografía",
+      "example": "The *** worked closely with the director to achieve a vintage look."
+    },
+    {
+      "term": "a score",
+      "type": "Noun",
+      "meaning_tr": "müzik notası",
+      "meaning_en": "the sheet music for a piece of music",
+      "meaning_uk": "партитура",
+      "meaning_es": "una partitura",
+      "example": "She spent hours studying the complex musical *** before the rehearsal."
+    },
+    {
+      "term": "a cameo",
+      "type": "Noun",
+      "meaning_tr": "kısa rol",
+      "meaning_en": "a brief appearance of a famous person in a film or play",
+      "meaning_uk": "камео",
+      "meaning_es": "un cameo",
+      "example": "The director made a funny *** in the final scene of the comedy."
+    },
+    {
+      "term": "a soundtrack",
+      "type": "Noun",
+      "meaning_tr": "film müziği albümü",
+      "meaning_en": "the music from a film sold as an album",
+      "meaning_uk": "саундтрек",
+      "meaning_es": "una banda sonora",
+      "example": "I bought the *** because I loved the songs featured in the movie."
+    },
+    {
+      "term": "a rhythm",
+      "type": "Noun",
+      "meaning_tr": "ritim",
+      "meaning_en": "a strong, regular, repeated pattern of movement or sound",
+      "meaning_uk": "ритм",
+      "meaning_es": "un ritmo",
+      "example": "The *** of the song is infectious and makes you want to dance."
+    },
+    {
+      "term": "a set",
+      "type": "Noun",
+      "meaning_tr": "film seti / dekor",
+      "meaning_en": "the scenery and props for a film or play",
+      "meaning_uk": "декорації",
+      "meaning_es": "un decorado",
+      "example": "The actors felt right at home on the meticulously designed ***."
+    },
+    {
+      "term": "a score",
+      "type": "Noun",
+      "meaning_tr": "müzik skoru",
+      "meaning_en": "a set of music written for a specific purpose",
+      "meaning_uk": "музичний супровід",
+      "meaning_es": "una banda sonora",
+      "example": "The film's *** effectively captures the mood of the Victorian era."
+    },
+    {
+      "term": "a finale",
+      "type": "Noun",
+      "meaning_tr": "final",
+      "meaning_en": "the last part of a performance",
+      "meaning_uk": "фінал",
+      "meaning_es": "un final",
+      "example": "The grand *** of the opera left the entire audience standing."
+    },
+    {
+      "term": "a script",
+      "type": "Noun",
+      "meaning_tr": "metin, senaryo",
+      "meaning_en": "the written text of a play, film, or broadcast",
+      "meaning_uk": "сценарій",
+      "meaning_es": "un guion",
+      "example": "He read through the *** several times to memorize his lines."
+    },
+    {
+      "term": "a harmony",
+      "type": "Noun",
+      "meaning_tr": "uyum",
+      "meaning_en": "the quality of sounding pleasant together",
+      "meaning_uk": "гармонія",
+      "meaning_es": "una armonía",
+      "example": "The two singers found a beautiful *** during the chorus."
+    },
+    {
+      "term": "a rhythm",
+      "type": "Noun",
+      "meaning_tr": "ritim",
+      "meaning_en": "a pattern of long and short sounds",
+      "meaning_uk": "ритм",
+      "meaning_es": "un ritmo",
+      "example": "He tapped out a complex *** on the table while waiting."
+    },
+    {
+      "term": "a cut",
+      "type": "Noun",
+      "meaning_tr": "kesim",
+      "meaning_en": "a version of a film",
+      "meaning_uk": "версія фільму",
+      "meaning_es": "un montaje",
+      "example": "The director's extended *** includes twenty minutes of extra footage."
+    }
+  ]
+}

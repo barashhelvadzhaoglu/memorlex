@@ -1,0 +1,321 @@
+{
+  "title": "City & Country Life (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a skyscraper",
+      "type": "Noun",
+      "example": "The city skyline is dominated by ***.",
+      "meaning_tr": "gökdelen",
+      "meaning_en": "a very tall building",
+      "meaning_uk": "хмарочос",
+      "meaning_es": "un rascacielos"
+    },
+    {
+      "term": "the countryside",
+      "type": "Noun",
+      "example": "We love spending our weekends in ***.",
+      "meaning_tr": "kırsal bölge",
+      "meaning_en": "land not in towns or cities",
+      "meaning_uk": "сільська місцевість",
+      "meaning_es": "el campo"
+    },
+    {
+      "term": "to commute",
+      "type": "Verb",
+      "example": "Many people *** to work by train every day.",
+      "meaning_tr": "işe gidip gelmek",
+      "meaning_en": "to travel a distance to work",
+      "meaning_uk": "їздити на роботу",
+      "meaning_es": "desplazarse al trabajo"
+    },
+    {
+      "term": "a resident",
+      "type": "Noun",
+      "example": "Every local *** has access to the public park.",
+      "meaning_tr": "sakin",
+      "meaning_en": "a person who lives somewhere",
+      "meaning_uk": "мешканець",
+      "meaning_es": "un residente"
+    },
+    {
+      "term": "convenient",
+      "type": "Adjective",
+      "example": "Living near the subway is very ***.",
+      "meaning_tr": "uygun, elverişli",
+      "meaning_en": "easy to use or reach",
+      "meaning_uk": "зручний",
+      "meaning_es": "conveniente"
+    },
+    {
+      "term": "a suburb",
+      "type": "Noun",
+      "example": "They moved to a quiet *** to raise their children.",
+      "meaning_tr": "banliyö",
+      "meaning_en": "an area on the edge of a large town",
+      "meaning_uk": "передмістя",
+      "meaning_es": "un suburbio"
+    },
+    {
+      "term": "peaceful",
+      "type": "Adjective",
+      "example": "Life in the village is very *** and quiet.",
+      "meaning_tr": "huzurlu",
+      "meaning_en": "calm and quiet",
+      "meaning_uk": "мирний",
+      "meaning_es": "pacífico"
+    },
+    {
+      "term": "polluted",
+      "type": "Adjective",
+      "example": "The air in big cities can be quite ***.",
+      "meaning_tr": "kirli",
+      "meaning_en": "dirty or contaminated",
+      "meaning_uk": "забруднений",
+      "meaning_es": "contaminado"
+    },
+    {
+      "term": "a neighbor",
+      "type": "Noun",
+      "example": "Our *** helped us carry the groceries inside.",
+      "meaning_tr": "komşu",
+      "meaning_en": "a person living near you",
+      "meaning_uk": "сусід",
+      "meaning_es": "un vecino"
+    },
+    {
+      "term": "to cultivate",
+      "type": "Verb",
+      "example": "Farmers *** the land to grow vegetables.",
+      "meaning_tr": "ekip biçmek, yetiştirmek",
+      "meaning_en": "to grow crops",
+      "meaning_uk": "вирощувати",
+      "meaning_es": "cultivar"
+    },
+    {
+      "term": "bustling",
+      "type": "Adjective",
+      "example": "The city center is *** with activity all day.",
+      "meaning_tr": "hareketli, kalabalık",
+      "meaning_en": "full of energy and activity",
+      "meaning_uk": "метушливий",
+      "meaning_es": "bullicioso"
+    },
+    {
+      "term": "an environment",
+      "type": "Noun",
+      "example": "We should protect our natural ***.",
+      "meaning_tr": "çevre",
+      "meaning_en": "the natural world",
+      "meaning_uk": "довкілля",
+      "meaning_es": "un medio ambiente"
+    },
+    {
+      "term": "isolated",
+      "type": "Adjective",
+      "example": "Living on a farm can sometimes feel ***.",
+      "meaning_tr": "izole, yalnız",
+      "meaning_en": "far away from other places",
+      "meaning_uk": "ізольований",
+      "meaning_es": "aislado"
+    },
+    {
+      "term": "a facility",
+      "type": "Noun",
+      "example": "The town has excellent sports *** for teenagers.",
+      "meaning_tr": "tesis",
+      "meaning_en": "a place or building for a specific purpose",
+      "meaning_uk": "об'єкт",
+      "meaning_es": "una instalación"
+    },
+    {
+      "term": "to inhabit",
+      "type": "Verb",
+      "example": "Many rare birds *** this forest.",
+      "meaning_tr": "yaşamak, ikamet etmek",
+      "meaning_en": "to live in a place",
+      "meaning_uk": "населяти",
+      "meaning_es": "habitar"
+    },
+    {
+      "term": "urban",
+      "type": "Adjective",
+      "example": "She prefers an *** lifestyle with many shops.",
+      "meaning_tr": "kentsel",
+      "meaning_en": "relating to a city",
+      "meaning_uk": "міський",
+      "meaning_es": "urbano"
+    },
+    {
+      "term": "rural",
+      "type": "Adjective",
+      "example": "He enjoys the slow pace of *** life.",
+      "meaning_tr": "kırsal",
+      "meaning_en": "relating to the countryside",
+      "meaning_uk": "сільський",
+      "meaning_es": "rural"
+    },
+    {
+      "term": "to migrate",
+      "type": "Verb",
+      "example": "Many young people *** to cities for better jobs.",
+      "meaning_tr": "göç etmek",
+      "meaning_en": "to move from one place to another",
+      "meaning_uk": "мігрувати",
+      "meaning_es": "migrar"
+    },
+    {
+      "term": "a marketplace",
+      "type": "Noun",
+      "example": "We bought fresh fruit at the local ***.",
+      "meaning_tr": "pazar yeri",
+      "meaning_en": "a place where goods are sold",
+      "meaning_uk": "ринок",
+      "meaning_es": "un mercado"
+    },
+    {
+      "term": "modern",
+      "type": "Adjective",
+      "example": "The city is full of *** architecture.",
+      "meaning_tr": "modern",
+      "meaning_en": "relating to the present time",
+      "meaning_uk": "сучасний",
+      "meaning_es": "moderno"
+    },
+    {
+      "term": "an inhabitant",
+      "type": "Noun",
+      "example": "The city has over a million ***.",
+      "meaning_tr": "sakin, yaşayan",
+      "meaning_en": "a person who lives in a place",
+      "meaning_uk": "мешканець",
+      "meaning_es": "un habitante"
+    },
+    {
+      "term": "abroad",
+      "type": "Adverb",
+      "example": "He decided to move *** to find new opportunities.",
+      "meaning_tr": "yurt dışı",
+      "meaning_en": "in or to a foreign country",
+      "meaning_uk": "за кордоном",
+      "meaning_es": "en el extranjero"
+    },
+    {
+      "term": "a traffic jam",
+      "type": "Noun",
+      "example": "I was late because I got stuck in a ***.",
+      "meaning_tr": "trafik sıkışıklığı",
+      "meaning_en": "a long line of stopped cars",
+      "meaning_uk": "затор",
+      "meaning_es": "un atasco"
+    },
+    {
+      "term": "nearby",
+      "type": "Adverb",
+      "example": "There is a great cafe ***.",
+      "meaning_tr": "yakınlarda",
+      "meaning_en": "not far away",
+      "meaning_uk": "поблизу",
+      "meaning_es": "cerca"
+    },
+    {
+      "term": "to develop",
+      "type": "Verb",
+      "example": "The government plans to *** the city center.",
+      "meaning_tr": "geliştirmek",
+      "meaning_en": "to grow or change over time",
+      "meaning_uk": "розвивати",
+      "meaning_es": "desarrollar"
+    },
+    {
+      "term": "a pedestrian",
+      "type": "Noun",
+      "example": "The street is for *** only, no cars allowed.",
+      "meaning_tr": "yaya",
+      "meaning_en": "a person walking in the street",
+      "meaning_uk": "пішохід",
+      "meaning_es": "un peatón"
+    },
+    {
+      "term": "a skyscraper",
+      "type": "Noun",
+      "example": "They built a massive new *** downtown.",
+      "meaning_tr": "gökdelen",
+      "meaning_en": "a very tall city building",
+      "meaning_uk": "хмарочос",
+      "meaning_es": "un rascacielos"
+    },
+    {
+      "term": "public",
+      "type": "Adjective",
+      "example": "We use *** transport to get around the city.",
+      "meaning_tr": "kamusal, halk",
+      "meaning_en": "for everyone to use",
+      "meaning_uk": "громадський",
+      "meaning_es": "público"
+    },
+    {
+      "term": "crowded",
+      "type": "Adjective",
+      "example": "The subway is very *** during rush hour.",
+      "meaning_tr": "kalabalık",
+      "meaning_en": "full of people",
+      "meaning_uk": "переповнений",
+      "meaning_es": "lleno de gente"
+    },
+    {
+      "term": "to reside",
+      "type": "Verb",
+      "example": "They *** in a small apartment near the park.",
+      "meaning_tr": "ikamet etmek",
+      "meaning_en": "to live in a particular place",
+      "meaning_uk": "проживати",
+      "meaning_es": "residir"
+    },
+    {
+      "term": "an amenity",
+      "type": "Noun",
+      "example": "The house has every modern *** you need.",
+      "meaning_tr": "olanak, konfor",
+      "meaning_en": "a useful or pleasant feature",
+      "meaning_uk": "зручність",
+      "meaning_es": "una comodidad"
+    },
+    {
+      "term": "local",
+      "type": "Adjective",
+      "example": "I prefer shopping at *** stores.",
+      "meaning_tr": "yerel",
+      "meaning_en": "from the nearby area",
+      "meaning_uk": "місцевий",
+      "meaning_es": "local"
+    },
+    {
+      "term": "noise",
+      "type": "Noun",
+      "example": "The city *** can be very distracting at night.",
+      "meaning_tr": "gürültü",
+      "meaning_en": "unwanted sound",
+      "meaning_uk": "шум",
+      "meaning_es": "el ruido"
+    },
+    {
+      "term": "besides",
+      "type": "Preposition",
+      "example": "*** living in the city, she also works there.",
+      "meaning_tr": "yanı sıra, haricinde",
+      "meaning_en": "in addition to",
+      "meaning_uk": "крім того",
+      "meaning_es": "además de"
+    },
+    {
+      "term": "although",
+      "type": "Conjunction",
+      "example": "*** it is expensive, city life is very exciting.",
+      "meaning_tr": "rağmen, -sa bile",
+      "meaning_en": "in spite of the fact that",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    }
+  ]
+}

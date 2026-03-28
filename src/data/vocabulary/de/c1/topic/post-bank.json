@@ -1,0 +1,546 @@
+{
+  "title": "Post & Bank (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Überweisung",
+      "type": "Noun",
+      "example": "Ich habe die *** bereits gestern getätigt.",
+      "meaning_tr": "havale",
+      "meaning_en": "bank transfer",
+      "meaning_uk": "банківський переказ",
+      "meaning_es": "transferencia bancaria"
+    },
+    {
+      "term": "der Dauerauftrag",
+      "type": "Noun",
+      "example": "Für die Miete habe ich einen *** eingerichtet.",
+      "meaning_tr": "otomatik ödeme talimatı",
+      "meaning_en": "standing order",
+      "meaning_uk": "постійне доручення",
+      "meaning_es": "orden permanente"
+    },
+    {
+      "term": "das Lastschriftverfahren",
+      "type": "Noun",
+      "example": "Sie können bequem per *** bezahlen.",
+      "meaning_tr": "otomatik ödeme yöntemi",
+      "meaning_en": "direct debit",
+      "meaning_uk": "пряме дебетування",
+      "meaning_es": "domiciliación bancaria"
+    },
+    {
+      "term": "die Bonität",
+      "type": "Noun",
+      "example": "Die Bank prüft vor der Kreditvergabe Ihre ***.",
+      "meaning_tr": "kredi itibarı",
+      "meaning_en": "creditworthiness",
+      "meaning_uk": "кредитоспроможність",
+      "meaning_es": "solvencia"
+    },
+    {
+      "term": "die Zinsmarge",
+      "type": "Noun",
+      "example": "Die Bank erwirtschaftet ihren Gewinn durch die ***.",
+      "meaning_tr": "faiz marjı",
+      "meaning_en": "interest margin",
+      "meaning_uk": "відсоткова маржа",
+      "meaning_es": "margen de interés"
+    },
+    {
+      "term": "das Wertpapierdepot",
+      "type": "Noun",
+      "example": "Er verwaltet seine Aktien in einem ***.",
+      "meaning_tr": "menkul kıymet hesabı",
+      "meaning_en": "securities account",
+      "meaning_uk": "рахунок цінних паперів",
+      "meaning_es": "cuenta de valores"
+    },
+    {
+      "term": "die Einlage",
+      "type": "Noun",
+      "example": "Die gesetzliche Sicherung schützt Ihre ***.",
+      "meaning_tr": "mevduat",
+      "meaning_en": "deposit",
+      "meaning_uk": "депозит",
+      "meaning_es": "depósito"
+    },
+    {
+      "term": "die Kontoführungsgebühr",
+      "type": "Noun",
+      "example": "Die monatliche *** ist bei diesem Konto entfallen.",
+      "meaning_tr": "hesap işletim ücreti",
+      "meaning_en": "account maintenance fee",
+      "meaning_uk": "комісія за обслуговування рахунку",
+      "meaning_es": "comisión de mantenimiento"
+    },
+    {
+      "term": "der Dispositionskredit",
+      "type": "Noun",
+      "example": "Der *** ist aufgrund der hohen Zinsen teuer.",
+      "meaning_tr": "kredili mevduat hesabı",
+      "meaning_en": "overdraft facility",
+      "meaning_uk": "овердрафт",
+      "meaning_es": "crédito descubierto"
+    },
+    {
+      "term": "die Tilgung",
+      "type": "Noun",
+      "example": "Mit jeder Rate steigt der Anteil der ***.",
+      "meaning_tr": "itfa",
+      "meaning_en": "repayment",
+      "meaning_uk": "погашення",
+      "meaning_es": "amortización"
+    },
+    {
+      "term": "die Hypothek",
+      "type": "Noun",
+      "example": "Wir haben eine *** auf das Haus aufgenommen.",
+      "meaning_tr": "ipotek",
+      "meaning_en": "mortgage",
+      "meaning_uk": "іпотека",
+      "meaning_es": "hipoteca"
+    },
+    {
+      "term": "die Währungsdifferenz",
+      "type": "Noun",
+      "example": "Aufgrund der *** verlor das Konto an Wert.",
+      "meaning_tr": "kur farkı",
+      "meaning_en": "currency difference",
+      "meaning_uk": "валютна різниця",
+      "meaning_es": "diferencia de cambio"
+    },
+    {
+      "term": "verpfänden",
+      "type": "Verb",
+      "example": "Er musste sein Vermögen als Sicherheit ***.",
+      "meaning_tr": "rehin vermek",
+      "meaning_en": "to pledge",
+      "meaning_uk": "закладати",
+      "meaning_es": "hipotecar"
+    },
+    {
+      "term": "stornieren",
+      "type": "Verb",
+      "example": "Ich möchte die fehlerhafte Buchung ***.",
+      "meaning_tr": "iptal etmek",
+      "meaning_en": "to cancel",
+      "meaning_uk": "скасувати",
+      "meaning_es": "cancelar"
+    },
+    {
+      "term": "gutschreiben",
+      "type": "Verb",
+      "example": "Der Betrag wird Ihnen morgen ***.",
+      "meaning_tr": "hesaba yatırmak",
+      "meaning_en": "to credit",
+      "meaning_uk": "зарахувати на рахунок",
+      "meaning_es": "abonar"
+    },
+    {
+      "term": "abbuchen",
+      "type": "Verb",
+      "example": "Der Betrag wurde automatisch vom Konto ***.",
+      "meaning_tr": "hesaptan düşmek",
+      "meaning_en": "to debit",
+      "meaning_uk": "списати з рахунку",
+      "meaning_es": "cargar en cuenta"
+    },
+    {
+      "term": "verzinsen",
+      "type": "Verb",
+      "example": "Das Sparkonto wird mit zwei Prozent ***.",
+      "meaning_tr": "faizlendirmek",
+      "meaning_en": "to pay interest",
+      "meaning_uk": "нараховувати відсотки",
+      "meaning_es": "devengar intereses"
+    },
+    {
+      "term": "fällig",
+      "type": "Adjective",
+      "example": "Die nächste Rate ist am Monatsende ***.",
+      "meaning_tr": "vadesi gelmiş",
+      "meaning_en": "due",
+      "meaning_uk": "термін сплати настав",
+      "meaning_es": "vencido"
+    },
+    {
+      "term": "insolvent",
+      "type": "Adjective",
+      "example": "Das Unternehmen ist leider *** geworden.",
+      "meaning_tr": "iflas etmiş",
+      "meaning_en": "insolvent",
+      "meaning_uk": "неплатоспроможний",
+      "meaning_es": "insolvente"
+    },
+    {
+      "term": "liquide",
+      "type": "Adjective",
+      "example": "Die Firma ist derzeit nicht ausreichend ***.",
+      "meaning_tr": "nakit durumu iyi",
+      "meaning_en": "liquid",
+      "meaning_uk": "ліквідний",
+      "meaning_es": "líquido"
+    },
+    {
+      "term": "zinsgünstig",
+      "type": "Adjective",
+      "example": "Wir bieten Ihnen ein *** Darlehen an.",
+      "meaning_tr": "düşük faizli",
+      "meaning_en": "low-interest",
+      "meaning_uk": "з низькою відсотковою ставкою",
+      "meaning_es": "de bajo interés"
+    },
+    {
+      "term": "einschreiben",
+      "type": "Verb",
+      "example": "Bitte senden Sie das Dokument per ***.",
+      "meaning_tr": "taahhütlü göndermek",
+      "meaning_en": "to send by registered mail",
+      "meaning_uk": "відправити рекомендованим листом",
+      "meaning_es": "enviar por correo certificado"
+    },
+    {
+      "term": "die Zustellung",
+      "type": "Noun",
+      "example": "Die *** des Pakets erfolgt innerhalb von zwei Tagen.",
+      "meaning_tr": "teslimat",
+      "meaning_en": "delivery",
+      "meaning_uk": "доставка",
+      "meaning_es": "entrega"
+    },
+    {
+      "term": "das Postfach",
+      "type": "Noun",
+      "example": "Ich habe meine Briefe heute aus dem *** geholt.",
+      "meaning_tr": "posta kutusu",
+      "meaning_en": "PO box",
+      "meaning_uk": "абонентська скринька",
+      "meaning_es": "apartado de correos"
+    },
+    {
+      "term": "die Sendungsverfolgung",
+      "type": "Noun",
+      "example": "Mit der *** können Sie den Status einsehen.",
+      "meaning_tr": "gönderi takibi",
+      "meaning_en": "tracking",
+      "meaning_uk": "відстеження відправлення",
+      "meaning_es": "seguimiento de envío"
+    },
+    {
+      "term": "das Einschreiben",
+      "type": "Noun",
+      "example": "Ein *** ist sicher für wichtige Dokumente.",
+      "meaning_tr": "taahhütlü mektup",
+      "meaning_en": "registered letter",
+      "meaning_uk": "рекомендований лист",
+      "meaning_es": "correo certificado"
+    },
+    {
+      "term": "die Portokosten",
+      "type": "Noun",
+      "example": "Die *** sind im Preis bereits enthalten.",
+      "meaning_tr": "posta ücreti",
+      "meaning_en": "postage costs",
+      "meaning_uk": "поштові витрати",
+      "meaning_es": "gastos de envío"
+    },
+    {
+      "term": "frankieren",
+      "type": "Verb",
+      "example": "Sie müssen den Brief ausreichend ***.",
+      "meaning_tr": "pul yapıştırmak",
+      "meaning_en": "to stamp",
+      "meaning_uk": "наклеїти марку",
+      "meaning_es": "franquear"
+    },
+    {
+      "term": "der Empfänger",
+      "type": "Noun",
+      "example": "Bitte notieren Sie die Adresse des ***.",
+      "meaning_tr": "alıcı",
+      "meaning_en": "recipient",
+      "meaning_uk": "отримувач",
+      "meaning_es": "destinatario"
+    },
+    {
+      "term": "der Absender",
+      "type": "Noun",
+      "example": "Der *** ist auf der Rückseite vermerkt.",
+      "meaning_tr": "gönderici",
+      "meaning_en": "sender",
+      "meaning_uk": "відправник",
+      "meaning_es": "remitente"
+    },
+    {
+      "term": "aufgeben",
+      "type": "Verb",
+      "example": "Ich möchte ein Paket bei der Post ***.",
+      "meaning_tr": "göndermek/vermek",
+      "meaning_en": "to post",
+      "meaning_uk": "відправити",
+      "meaning_es": "enviar"
+    },
+    {
+      "term": "der Briefumschlag",
+      "type": "Noun",
+      "example": "Haben Sie einen passenden ***?",
+      "meaning_tr": "zarf",
+      "meaning_en": "envelope",
+      "meaning_uk": "конверт",
+      "meaning_es": "sobre"
+    },
+    {
+      "term": "das Päckchen",
+      "type": "Noun",
+      "example": "Das *** ist heute angekommen.",
+      "meaning_tr": "küçük paket",
+      "meaning_en": "small parcel",
+      "meaning_uk": "невелика посилка",
+      "meaning_es": "paquete pequeño"
+    },
+    {
+      "term": "die Quittung",
+      "type": "Noun",
+      "example": "Verlangen Sie unbedingt eine ***.",
+      "meaning_tr": "makbuz",
+      "meaning_en": "receipt",
+      "meaning_uk": "квитанція",
+      "meaning_es": "recibo"
+    },
+    {
+      "term": "der Schalter",
+      "type": "Noun",
+      "example": "Am *** ist heute viel los.",
+      "meaning_tr": "gişe",
+      "meaning_en": "counter",
+      "meaning_uk": "віконце/стійка",
+      "meaning_es": "ventanilla"
+    },
+    {
+      "term": "die Filiale",
+      "type": "Noun",
+      "example": "Diese *** schließt leider bald.",
+      "meaning_tr": "şube",
+      "meaning_en": "branch",
+      "meaning_uk": "філія",
+      "meaning_es": "sucursal"
+    },
+    {
+      "term": "die Ankunft",
+      "type": "Noun",
+      "example": "Die *** des Briefes verzögert sich.",
+      "meaning_tr": "varış",
+      "meaning_en": "arrival",
+      "meaning_uk": "прибуття",
+      "meaning_es": "llegada"
+    },
+    {
+      "term": "der Verzug",
+      "type": "Noun",
+      "example": "Bei *** fallen Mahngebühren an.",
+      "meaning_tr": "gecikme",
+      "meaning_en": "delay",
+      "meaning_uk": "затримка",
+      "meaning_es": "retraso"
+    },
+    {
+      "term": "beiliegend",
+      "type": "Adjective",
+      "example": "Bitte beachten Sie das *** Dokument.",
+      "meaning_tr": "ilişikteki",
+      "meaning_en": "enclosed",
+      "meaning_uk": "доданий",
+      "meaning_es": "adjunto"
+    },
+    {
+      "term": "unfrei",
+      "type": "Adjective",
+      "example": "Das Paket wurde *** versendet.",
+      "meaning_tr": "ödemeli (alıcı ödemeli)",
+      "meaning_en": "postage due",
+      "meaning_uk": "оплата при отриманні",
+      "meaning_es": "a portes debidos"
+    },
+    {
+      "term": "vorab",
+      "type": "Adverb",
+      "example": "Ich sende Ihnen die Kopie *** per Mail.",
+      "meaning_tr": "önceden",
+      "meaning_en": "in advance",
+      "meaning_uk": "заздалегідь",
+      "meaning_es": "por adelantado"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "Ich schreibe *** Ihrer Anfrage.",
+      "meaning_tr": "ile ilgili",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "der Kontostand",
+      "type": "Noun",
+      "example": "Wie ist mein aktueller ***?",
+      "meaning_tr": "hesap bakiyesi",
+      "meaning_en": "account balance",
+      "meaning_uk": "стан рахунку",
+      "meaning_es": "saldo de cuenta"
+    },
+    {
+      "term": "die Überziehung",
+      "type": "Noun",
+      "example": "Eine *** des Kontos kostet Zinsen.",
+      "meaning_tr": "aşım",
+      "meaning_en": "overdraft",
+      "meaning_uk": "перевищення ліміту",
+      "meaning_es": "descubierto"
+    },
+    {
+      "term": "die Bankleitzahl",
+      "type": "Noun",
+      "example": "Die *** identifiziert das Kreditinstitut.",
+      "meaning_tr": "banka kodu",
+      "meaning_en": "bank code",
+      "meaning_uk": "банківський ідентифікаційний код",
+      "meaning_es": "código bancario"
+    },
+    {
+      "term": "das Girokonto",
+      "type": "Noun",
+      "example": "Ich möchte ein neues *** eröffnen.",
+      "meaning_tr": "vadesiz hesap",
+      "meaning_en": "checking account",
+      "meaning_uk": "поточний рахунок",
+      "meaning_es": "cuenta corriente"
+    },
+    {
+      "term": "die Kreditkarte",
+      "type": "Noun",
+      "example": "Zahlen Sie bar oder mit ***?",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "credit card",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "tarjeta de crédito"
+    },
+    {
+      "term": "die PIN",
+      "type": "Noun",
+      "example": "Geben Sie Ihre *** am Automaten ein.",
+      "meaning_tr": "şifre",
+      "meaning_en": "PIN",
+      "meaning_uk": "ПІН-код",
+      "meaning_es": "PIN"
+    },
+    {
+      "term": "der Geldautomat",
+      "type": "Noun",
+      "example": "Wo ist der nächste ***?",
+      "meaning_tr": "bankamatik",
+      "meaning_en": "ATM",
+      "meaning_uk": "банкомат",
+      "meaning_es": "cajero automático"
+    },
+    {
+      "term": "die Einzahlung",
+      "type": "Noun",
+      "example": "Die *** von Bargeld ist kostenlos.",
+      "meaning_tr": "para yatırma",
+      "meaning_en": "deposit",
+      "meaning_uk": "внесення готівки",
+      "meaning_es": "ingreso"
+    },
+    {
+      "term": "die Auszahlung",
+      "type": "Noun",
+      "example": "Die *** erfolgt sofort.",
+      "meaning_tr": "para çekme",
+      "meaning_en": "withdrawal",
+      "meaning_uk": "зняття готівки",
+      "meaning_es": "retirada"
+    },
+    {
+      "term": "die Währung",
+      "type": "Noun",
+      "example": "Welche *** wird hier akzeptiert?",
+      "meaning_tr": "para birimi",
+      "meaning_en": "currency",
+      "meaning_uk": "валюта",
+      "meaning_es": "moneda"
+    },
+    {
+      "term": "der Wechselkurs",
+      "type": "Noun",
+      "example": "Der *** ist heute sehr günstig.",
+      "meaning_tr": "döviz kuru",
+      "meaning_en": "exchange rate",
+      "meaning_uk": "обмінний курс",
+      "meaning_es": "tipo de cambio"
+    },
+    {
+      "term": "die Zinsen",
+      "type": "Noun",
+      "example": "Die *** für Sparbücher sind niedrig.",
+      "meaning_tr": "faizler",
+      "meaning_en": "interest",
+      "meaning_uk": "відсотки",
+      "meaning_es": "intereses"
+    },
+    {
+      "term": "die Rendite",
+      "type": "Noun",
+      "example": "Diese Anlage bietet eine hohe ***.",
+      "meaning_tr": "getiri",
+      "meaning_en": "yield",
+      "meaning_uk": "дохідність",
+      "meaning_es": "rendimiento"
+    },
+    {
+      "term": "die Aktie",
+      "type": "Noun",
+      "example": "Er investiert in eine neue ***.",
+      "meaning_tr": "hisse senedi",
+      "meaning_en": "share",
+      "meaning_uk": "акція",
+      "meaning_es": "acción"
+    },
+    {
+      "term": "die Anlage",
+      "type": "Noun",
+      "example": "Diese *** ist sehr sicher.",
+      "meaning_tr": "yatırım",
+      "meaning_en": "investment",
+      "meaning_uk": "інвестиція",
+      "meaning_es": "inversión"
+    },
+    {
+      "term": "die Mahnung",
+      "type": "Noun",
+      "example": "Ich habe heute eine *** erhalten.",
+      "meaning_tr": "ihtarname",
+      "meaning_en": "reminder",
+      "meaning_uk": "нагадування про борг",
+      "meaning_es": "recordatorio de pago"
+    },
+    {
+      "term": "der Empfang",
+      "type": "Noun",
+      "example": "Bitte bestätigen Sie den *** des Briefes.",
+      "meaning_tr": "teslim alma",
+      "meaning_en": "receipt",
+      "meaning_uk": "отримання",
+      "meaning_es": "recepción"
+    },
+    {
+      "term": "dementsprechend",
+      "type": "Adverb",
+      "example": "Die Kosten sind hoch, *** sollten Sie sparen.",
+      "meaning_tr": "buna göre",
+      "meaning_en": "accordingly",
+      "meaning_uk": "відповідно",
+      "meaning_es": "en consecuencia"
+    }
+  ]
+}

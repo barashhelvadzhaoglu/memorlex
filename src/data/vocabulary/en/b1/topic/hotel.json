@@ -1,0 +1,321 @@
+{
+  "title": "At the Hotel (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a booking",
+      "type": "Noun",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "an arrangement to have a room, table, etc. at a particular time in the future",
+      "meaning_uk": "бронювання",
+      "meaning_es": "una reserva",
+      "example": "I need to confirm *** for two nights."
+    },
+    {
+      "term": "a reservation",
+      "type": "Noun",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "an arrangement to have a room, table, etc. at a particular time in the future",
+      "meaning_uk": "резервація",
+      "meaning_es": "una reserva",
+      "example": "Do you have a *** under the name Smith?"
+    },
+    {
+      "term": "a room",
+      "type": "Noun",
+      "meaning_tr": "oda",
+      "meaning_en": "a part of a house or building that is used for a particular purpose, such as sleeping, eating, or working",
+      "meaning_uk": "кімната",
+      "meaning_es": "una habitación",
+      "example": "My *** number is 305."
+    },
+    {
+      "term": "a single room",
+      "type": "Noun",
+      "meaning_tr": "tek kişilik oda",
+      "meaning_en": "a room for one person",
+      "meaning_uk": "одномісний номер",
+      "meaning_es": "una habitación individual",
+      "example": "I'd like to book *** for one night."
+    },
+    {
+      "term": "a double room",
+      "type": "Noun",
+      "meaning_tr": "çift kişilik oda",
+      "meaning_en": "a room for two people",
+      "ukrainian": "двомісний номер",
+      "meaning_es": "una habitación doble",
+      "example": "We need *** with a queen-size bed."
+    },
+    {
+      "term": "a twin room",
+      "type": "Noun",
+      "meaning_tr": "iki ayrı yataklı oda",
+      "meaning_en": "a room with two separate beds",
+      "meaning_uk": "номер з двома окремими ліжками",
+      "meaning_es": "una habitación con dos camas individuales",
+      "example": "Could we have ***, please?"
+    },
+    {
+      "term": "a suite",
+      "type": "Noun",
+      "meaning_tr": "süit",
+      "meaning_en": "a set of rooms for one person or a family in a hotel or a large house",
+      "meaning_uk": "люкс",
+      "meaning_es": "una suite",
+      "example": "We're staying in *** 12A."
+    },
+    {
+      "term": "a lobby",
+      "type": "Noun",
+      "meaning_tr": "lobi",
+      "meaning_en": "a large area at the entrance to a hotel, office building, or theatre",
+      "meaning_uk": "хол",
+      "meaning_es": "un vestíbulo",
+      "example": "Meet me in the *** at 7 PM."
+    },
+    {
+      "term": "a reception desk",
+      "type": "Noun",
+      "meaning_tr": "resepsiyon bankosu",
+      "meaning_en": "the place where guests are greeted and checked in or out of a hotel",
+      "meaning_uk": "стійка реєстрації",
+      "meaning_es": "un mostrador de recepción",
+      "example": "Please go to the *** to check in."
+    },
+    {
+      "term": "a key card",
+      "type": "Noun",
+      "meaning_tr": "anahtar kart",
+      "meaning_en": "a plastic card used to open a hotel room door",
+      "meaning_uk": "ключ-карта",
+      "meaning_es": "una tarjeta llave",
+      "example": "Here is your ***."
+    },
+    {
+      "term": "a lift",
+      "type": "Noun",
+      "meaning_tr": "asansör",
+      "meaning_en": "a machine that carries people up and down between floors in a building",
+      "meaning_uk": "ліфт",
+      "meaning_es": "un ascensor",
+      "example": "The *** is on the right."
+    },
+    {
+      "term": "an elevator",
+      "type": "Noun",
+      "meaning_tr": "asansör",
+      "meaning_en": "a machine that carries people up and down between floors in a building",
+      "meaning_uk": "ліфт",
+      "meaning_es": "un ascensor",
+      "example": "Take the *** to the fifth floor."
+    },
+    {
+      "term": "a corridor",
+      "type": "Noun",
+      "meaning_tr": "koridor",
+      "meaning_en": "a long passage in a building or house",
+      "meaning_uk": "коридор",
+      "meaning_es": "un pasillo",
+      "example": "Your room is at the end of the ***."
+    },
+    {
+      "term": "a bathroom",
+      "type": "Noun",
+      "meaning_tr": "banyo",
+      "meaning_en": "a room with a toilet, sink, and usually a bath or shower",
+      "meaning_uk": "ванна кімната",
+      "meaning_es": "un baño",
+      "example": "The *** is very clean."
+    },
+    {
+      "term": "a shower",
+      "type": "Noun",
+      "meaning_tr": "duş",
+      "meaning_en": "a device that sprays water, used for washing yourself",
+      "meaning_uk": "душ",
+      "meaning_es": "una ducha",
+      "example": "There is a *** and a bathtub in the room."
+    },
+    {
+      "term": "a bathtub",
+      "type": "Noun",
+      "meaning_tr": "küvet",
+      "meaning_en": "a large container for water that you sit or lie in to wash yourself",
+      "meaning_uk": "ванна",
+      "meaning_es": "una bañera",
+      "example": "I'd like to have a relaxing ***."
+    },
+    {
+      "term": "a bed",
+      "type": "Noun",
+      "meaning_tr": "yatak",
+      "meaning_en": "a piece of furniture for sleeping on",
+      "meaning_uk": "ліжко",
+      "meaning_es": "una cama",
+      "example": "The *** was very comfortable."
+    },
+    {
+      "term": "a pillow",
+      "type": "Noun",
+      "meaning_tr": "yastık",
+      "meaning_en": "a rectangular cloth bag filled with soft material, used to support the head when lying down",
+      "meaning_uk": "подушка",
+      "meaning_es": "una almohada",
+      "example": "I need an extra ***."
+    },
+    {
+      "term": "a blanket",
+      "type": "Noun",
+      "meaning_tr": "battaniye",
+      "meaning_en": "a thick layer of cloth used to keep warm",
+      "meaning_uk": "ковдра",
+      "meaning_es": "una manta",
+      "example": "Could I have another ***, please?"
+    },
+    {
+      "term": "a towel",
+      "type": "Noun",
+      "meaning_tr": "havlu",
+      "meaning_en": "a piece of absorbent cloth used for drying oneself",
+      "meaning_uk": "рушник",
+      "meaning_es": "una toalla",
+      "example": "Please leave fresh ***s every day."
+    },
+    {
+      "term": "a wardrobe",
+      "type": "Noun",
+      "meaning_tr": "gardırop",
+      "meaning_en": "a tall cupboard in which clothes can be hung",
+      "meaning_uk": "шафа для одягу",
+      "meaning_es": "un armario",
+      "example": "There's a *** for your clothes."
+    },
+    {
+      "term": "a closet",
+      "type": "Noun",
+      "meaning_tr": "dolap",
+      "meaning_en": "a small room or a large cupboard used for storing things, especially clothes",
+      "meaning_uk": "шафа",
+      "meaning_es": "un armario",
+      "example": "I put my suitcase in the ***."
+    },
+    {
+      "term": "a minibar",
+      "type": "Noun",
+      "meaning_tr": "mini bar",
+      "meaning_en": "a small refrigerator in a hotel room containing drinks and snacks",
+      "meaning_uk": "міні-бар",
+      "meaning_es": "un minibar",
+      "example": "The *** prices are quite high."
+    },
+    {
+      "term": "a safe",
+      "type": "Noun",
+      "meaning_tr": "kasa",
+      "meaning_en": "a strong metal box where you can keep money and valuable things",
+      "meaning_uk": "сейф",
+      "meaning_es": "una caja fuerte",
+      "example": "Please use the *** in your room for valuables."
+    },
+    {
+      "term": "a balcony",
+      "type": "Noun",
+      "meaning_tr": "balkon",
+      "meaning_en": "a platform on the outside of a house, attached to the wall",
+      "meaning_uk": "балкон",
+      "meaning_es": "un balcón",
+      "example": "My room has a *** with a sea view."
+    },
+    {
+      "term": "a view",
+      "type": "Noun",
+      "meaning_tr": "manzara",
+      "meaning_en": "what you can see from a particular place",
+      "meaning_uk": "краєвид",
+      "meaning_es": "una vista",
+      "example": "The hotel has a beautiful *** of the mountains."
+    },
+    {
+      "term": " Wi-Fi",
+      "type": "Noun",
+      "meaning_tr": "kablosuz internet",
+      "meaning_en": "a way of connecting to the internet without wires",
+      "meaning_uk": "Wi-Fi",
+      "meaning_es": "Wi-Fi",
+      "example": "Is the *** free for guests?"
+    },
+    {
+      "term": "air conditioning",
+      "type": "Noun",
+      "meaning_tr": "klima",
+      "meaning_en": "a system that cools the air in a room or building",
+      "meaning_uk": "кондиціонування повітря",
+      "meaning_es": "aire acondicionado",
+      "example": "The *** in the room is not working."
+    },
+    {
+      "term": "heating",
+      "type": "Noun",
+      "meaning_tr": "ısıtma",
+      "meaning_en": "a system that makes a building warm",
+      "meaning_uk": "опалення",
+      "meaning_es": "calefacción",
+      "example": "Could you turn up the ***, please?"
+    },
+    {
+      "term": "room service",
+      "type": "Noun",
+      "meaning_tr": "oda servisi",
+      "meaning_en": "service that provides food and drinks to people in their hotel rooms",
+      "meaning_uk": "обслуговування номерів",
+      "meaning_es": "servicio de habitaciones",
+      "example": "We ordered *** for dinner."
+    },
+    {
+      "term": "check in",
+      "type": "Verb",
+      "meaning_tr": "giriş yapmak",
+      "meaning_en": "to register your name on a list when you arrive at a hotel or on a plane",
+      "meaning_uk": "зареєструватися",
+      "meaning_es": "registrar",
+      "example": "You can *** after 2 PM."
+    },
+    {
+      "term": "check out",
+      "type": "Verb",
+      "meaning_tr": "çıkış yapmak",
+      "meaning_en": "to leave a hotel or to pay your bill before leaving",
+      "meaning_uk": "виписатися",
+      "meaning_es": "salir",
+      "example": "We have to *** by 11 AM."
+    },
+    {
+      "term": "wake up call",
+      "type": "Noun",
+      "meaning_tr": "uyandırma servisi",
+      "meaning_en": "a phone call to wake someone up at a particular time",
+      "meaning_uk": "будильний дзвінок",
+      "meaning_es": "una llamada de despertador",
+      "example": "Could I have a *** at 7 AM tomorrow?"
+    },
+    {
+      "term": "full board",
+      "type": "Noun",
+      "meaning_tr": "tam pansiyon",
+      "meaning_en": "a type of hotel service that includes breakfast, lunch, and dinner",
+      "meaning_uk": "повний пансіон",
+      "meaning_es": "pensión completa",
+      "example": "We booked a *** package."
+    },
+    {
+      "term": "half board",
+      "type": "Noun",
+      "meaning_tr": "yarım pansiyon",
+      "meaning_en": "a type of hotel service that includes breakfast and dinner",
+      "meaning_uk": "напівпансіон",
+      "meaning_es": "media pensión",
+      "example": "Our reservation is for ***."
+    }
+  ]
+}

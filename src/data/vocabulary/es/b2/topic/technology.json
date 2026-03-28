@@ -1,0 +1,411 @@
+{
+  "title": "Tecnologia e Informatica (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el algoritmo",
+      "type": "Noun",
+      "example": "*** optimiza los resultados de búsqueda en la red.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "conjunto ordenado de operaciones sistemáticas"
+    },
+    {
+      "term": "la ciberseguridad",
+      "type": "Noun",
+      "example": "Es fundamental invertir en *** para proteger datos sensibles.",
+      "meaning_tr": "siber güvenlik",
+      "meaning_en": "cybersecurity",
+      "meaning_uk": "кібербезпека",
+      "meaning_es": "protección de activos de información"
+    },
+    {
+      "term": "cifrar",
+      "type": "Verb",
+      "example": "Debes *** tus archivos importantes antes de enviarlos.",
+      "meaning_tr": "şifrelemek",
+      "meaning_en": "to encrypt",
+      "meaning_uk": "шифрувати",
+      "meaning_es": "proteger información mediante claves"
+    },
+    {
+      "term": "la computación en la nube",
+      "type": "Noun",
+      "example": "*** permite acceder a archivos desde cualquier lugar.",
+      "meaning_tr": "bulut bilişim",
+      "meaning_en": "cloud computing",
+      "meaning_uk": "хмарні обчислення",
+      "meaning_es": "servicios informáticos a través de internet"
+    },
+    {
+      "term": "la brecha digital",
+      "type": "Noun",
+      "example": "El gobierno busca reducir *** en las zonas rurales.",
+      "meaning_tr": "dijital uçurum",
+      "meaning_en": "digital divide",
+      "meaning_uk": "цифровий розрив",
+      "meaning_es": "desigualdad en el acceso a las TIC"
+    },
+    {
+      "term": "la inteligencia artificial",
+      "type": "Noun",
+      "example": "*** está transformando el mercado laboral actual.",
+      "meaning_tr": "yapay zeka",
+      "meaning_en": "artificial intelligence",
+      "meaning_uk": "штучний інтелект",
+      "meaning_es": "simulación de procesos de inteligencia humana"
+    },
+    {
+      "term": "inalámbrico",
+      "type": "Adjective",
+      "example": "Prefiero usar un ratón *** para trabajar mejor.",
+      "meaning_tr": "kablosuz",
+      "meaning_en": "wireless",
+      "meaning_uk": "бездротовий",
+      "meaning_es": "que no requiere cables físicos"
+    },
+    {
+      "term": "el cortafuegos",
+      "type": "Noun",
+      "example": "Un *** robusto evita accesos no autorizados a la red.",
+      "meaning_tr": "güvenlik duvarı",
+      "meaning_en": "firewall",
+      "meaning_uk": "міжмережевий екран",
+      "meaning_es": "sistema de defensa de red"
+    },
+    {
+      "term": "actualizar",
+      "type": "Verb",
+      "example": "Es necesario *** el sistema operativo regularmente.",
+      "meaning_tr": "güncellemek",
+      "meaning_en": "to update",
+      "meaning_uk": "оновлювати",
+      "meaning_es": "poner al día un software o equipo"
+    },
+    {
+      "term": "la base de datos",
+      "type": "Noun",
+      "example": "La empresa gestiona su *** con mucha eficiencia.",
+      "meaning_tr": "veri tabanı",
+      "meaning_en": "database",
+      "meaning_uk": "база даних",
+      "meaning_es": "almacén de datos estructurados"
+    },
+    {
+      "term": "el ancho de banda",
+      "type": "Noun",
+      "example": "Necesitamos más *** para realizar videoconferencias.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "bandwidth",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "capacidad de transmisión de datos"
+    },
+    {
+      "term": "la encriptación",
+      "type": "Noun",
+      "example": "*** de extremo a extremo garantiza la privacidad.",
+      "meaning_tr": "şifreleme",
+      "meaning_en": "encryption",
+      "meaning_uk": "шифрування",
+      "meaning_es": "proceso de codificación de información"
+    },
+    {
+      "term": "el servidor",
+      "type": "Noun",
+      "example": "*** principal está caído por mantenimiento técnico.",
+      "meaning_tr": "sunucu",
+      "meaning_en": "server",
+      "meaning_uk": "сервер",
+      "meaning_es": "computadora que suministra servicios a otras"
+    },
+    {
+      "term": "la interfaz",
+      "type": "Noun",
+      "example": "La nueva *** es mucho más intuitiva para el usuario.",
+      "meaning_tr": "arayüz",
+      "meaning_en": "interface",
+      "meaning_uk": "інтерфейс",
+      "meaning_es": "conexión entre usuario y sistema"
+    },
+    {
+      "term": "virtual",
+      "type": "Adjective",
+      "example": "La realidad *** permite experiencias inmersivas.",
+      "meaning_tr": "sanal",
+      "meaning_en": "virtual",
+      "meaning_uk": "віртуальний",
+      "meaning_es": "que existe solo en el entorno digital"
+    },
+    {
+      "term": "el periférico",
+      "type": "Noun",
+      "example": "Conecté un *** nuevo para imprimir documentos.",
+      "meaning_tr": "çevre birimi",
+      "meaning_en": "peripheral",
+      "meaning_uk": "периферійний пристрій",
+      "meaning_es": "dispositivo externo conectado al ordenador"
+    },
+    {
+      "term": "automatizar",
+      "type": "Verb",
+      "example": "Queremos *** los procesos de facturación este mes.",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to automate",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "hacer que una máquina realice tareas"
+    },
+    {
+      "term": "el procesador",
+      "type": "Noun",
+      "example": "Este ordenador tiene un *** de última generación.",
+      "meaning_tr": "işlemci",
+      "meaning_en": "processor",
+      "meaning_uk": "процесор",
+      "meaning_es": "unidad central de procesamiento"
+    },
+    {
+      "term": "la vulnerabilidad",
+      "type": "Noun",
+      "example": "Detectaron una *** grave en el software del banco.",
+      "meaning_tr": "güvenlik açığı",
+      "meaning_en": "vulnerability",
+      "meaning_uk": "вразливість",
+      "meaning_es": "debilidad que permite un ataque"
+    },
+    {
+      "term": "el almacenamiento",
+      "type": "Noun",
+      "example": "El *** externo es ideal para copias de seguridad.",
+      "meaning_tr": "depolama",
+      "meaning_en": "storage",
+      "meaning_uk": "зберігання",
+      "meaning_es": "capacidad de guardar datos"
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "example": "Cada *** debe tener una contraseña única.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que utiliza un sistema"
+    },
+    {
+      "term": "la aplicación",
+      "type": "Noun",
+      "example": "He descargado una *** para aprender idiomas.",
+      "meaning_tr": "uygulama",
+      "meaning_en": "application",
+      "meaning_uk": "додаток",
+      "meaning_es": "programa informático diseñado para una tarea"
+    },
+    {
+      "term": "la red",
+      "type": "Noun",
+      "example": "La *** inalámbrica funciona muy lento hoy.",
+      "meaning_tr": "ağ",
+      "meaning_en": "network",
+      "meaning_uk": "мережа",
+      "meaning_es": "conjunto de equipos interconectados"
+    },
+    {
+      "term": "programar",
+      "type": "Verb",
+      "example": "Aprendí a *** en Python durante el verano.",
+      "meaning_tr": "programlamak",
+      "meaning_en": "to program",
+      "meaning_uk": "програмувати",
+      "meaning_es": "escribir código para software"
+    },
+    {
+      "term": "el código",
+      "type": "Noun",
+      "example": "El *** fuente está disponible en GitHub.",
+      "meaning_tr": "kod",
+      "meaning_en": "code",
+      "meaning_uk": "код",
+      "meaning_es": "instrucciones de un programa"
+    },
+    {
+      "term": "el bit",
+      "type": "Noun",
+      "example": "Un *** es la unidad mínima de información.",
+      "meaning_tr": "bit",
+      "meaning_en": "bit",
+      "meaning_uk": "біт",
+      "meaning_es": "unidad básica de información"
+    },
+    {
+      "term": "el sistema operativo",
+      "type": "Noun",
+      "example": "Mi ordenador usa un *** basado en Linux.",
+      "meaning_tr": "işletim sistemi",
+      "meaning_en": "operating system",
+      "meaning_uk": "операційна система",
+      "meaning_es": "software principal de un equipo"
+    },
+    {
+      "term": "inalámbricamente",
+      "type": "Adverb",
+      "example": "El dispositivo se conecta *** al router.",
+      "meaning_tr": "kablosuz olarak",
+      "meaning_en": "wirelessly",
+      "meaning_uk": "бездротовим способом",
+      "meaning_es": "de forma sin cables"
+    },
+    {
+      "term": "la fibra óptica",
+      "type": "Noun",
+      "example": "Con la *** la velocidad de internet es altísima.",
+      "meaning_tr": "fiber optik",
+      "meaning_en": "fiber optics",
+      "meaning_uk": "оптоволокно",
+      "meaning_es": "medio de transmisión de alta velocidad"
+    },
+    {
+      "term": "el malware",
+      "type": "Noun",
+      "example": "El antivirus detectó un *** peligroso en el sistema.",
+      "meaning_tr": "kötü amaçlı yazılım",
+      "meaning_en": "malware",
+      "meaning_uk": "шкідливе програмне забезпечення",
+      "meaning_es": "software malintencionado"
+    },
+    {
+      "term": "la copia de seguridad",
+      "type": "Noun",
+      "example": "Es vital realizar una *** cada semana.",
+      "meaning_tr": "yedekleme",
+      "meaning_en": "backup",
+      "meaning_uk": "резервна копія",
+      "meaning_es": "duplicado de datos para prevenir pérdidas"
+    },
+    {
+      "term": "el desarrollador",
+      "type": "Noun",
+      "example": "El *** corrigió el error en la última versión.",
+      "meaning_tr": "geliştirici",
+      "meaning_en": "developer",
+      "meaning_uk": "розробник",
+      "meaning_es": "persona que crea software"
+    },
+    {
+      "term": "el dominio",
+      "type": "Noun",
+      "example": "Debemos comprar el *** antes de lanzar la web.",
+      "meaning_tr": "alan adı",
+      "meaning_en": "domain",
+      "meaning_uk": "домен",
+      "meaning_es": "nombre único de un sitio web"
+    },
+    {
+      "term": "la latencia",
+      "type": "Noun",
+      "example": "Una baja *** es esencial para los videojuegos online.",
+      "meaning_tr": "gecikme",
+      "meaning_en": "latency",
+      "meaning_uk": "затримка",
+      "meaning_es": "tiempo de respuesta de una red"
+    },
+    {
+      "term": "el hardware",
+      "type": "Noun",
+      "example": "El *** de este equipo es muy potente.",
+      "meaning_tr": "donanım",
+      "meaning_en": "hardware",
+      "meaning_uk": "апаратне забезпечення",
+      "meaning_es": "componentes físicos de un ordenador"
+    },
+    {
+      "term": "el software",
+      "type": "Noun",
+      "example": "Necesito instalar un *** de edición de video.",
+      "meaning_tr": "yazılım",
+      "meaning_en": "software",
+      "meaning_uk": "програмне забезпечення",
+      "meaning_es": "componentes lógicos de un sistema"
+    },
+    {
+      "term": "el protocolo",
+      "type": "Noun",
+      "example": "El *** de comunicación asegura la transferencia.",
+      "meaning_tr": "protokol",
+      "meaning_en": "protocol",
+      "meaning_uk": "протокол",
+      "meaning_es": "reglas para el intercambio de datos"
+    },
+    {
+      "term": "la biometría",
+      "type": "Noun",
+      "example": "La *** es más segura que las contraseñas clásicas.",
+      "meaning_tr": "biyometri",
+      "meaning_en": "biometrics",
+      "meaning_uk": "біометрія",
+      "meaning_es": "identificación por rasgos físicos"
+    },
+    {
+      "term": "el ancho",
+      "type": "Noun",
+      "example": "*** de la banda define la velocidad de carga.",
+      "meaning_tr": "genişlik",
+      "meaning_en": "width",
+      "meaning_uk": "ширина",
+      "meaning_es": "dimensión o capacidad de un canal"
+    },
+    {
+      "term": "digitalizar",
+      "type": "Verb",
+      "example": "Vamos a *** todos los archivos antiguos de la oficina.",
+      "meaning_tr": "dijitalleştirmek",
+      "meaning_en": "to digitize",
+      "meaning_uk": "оцифровувати",
+      "meaning_es": "convertir información a formato digital"
+    },
+    {
+      "term": "el servidor proxy",
+      "type": "Noun",
+      "example": "Usamos un *** para navegar de forma anónima.",
+      "meaning_tr": "proxy sunucusu",
+      "meaning_en": "proxy server",
+      "meaning_uk": "проксі-сервер",
+      "meaning_es": "servidor intermediario en la red"
+    },
+    {
+      "term": "sincronizar",
+      "type": "Verb",
+      "example": "Debo *** mi móvil con el ordenador.",
+      "meaning_tr": "senkronize etmek",
+      "meaning_en": "to synchronize",
+      "meaning_uk": "синхронізувати",
+      "meaning_es": "hacer que dos datos coincidan en tiempo real"
+    },
+    {
+      "term": "la encriptada",
+      "type": "Adjective",
+      "example": "La comunicación es *** para evitar espionaje.",
+      "meaning_tr": "şifreli",
+      "meaning_en": "encrypted",
+      "meaning_uk": "зашифрований",
+      "meaning_es": "información codificada"
+    },
+    {
+      "term": "el usuario administrador",
+      "type": "Noun",
+      "example": "Solo el *** tiene permisos para instalar programas.",
+      "meaning_tr": "yönetici kullanıcı",
+      "meaning_en": "admin user",
+      "meaning_uk": "адміністратор користувач",
+      "meaning_es": "cuenta con privilegios totales"
+    },
+    {
+      "term": "la red social",
+      "type": "Noun",
+      "example": "Pasar mucho tiempo en *** puede afectar la concentración.",
+      "meaning_tr": "sosyal ağ",
+      "meaning_en": "social network",
+      "meaning_uk": "соціальна мережа",
+      "meaning_es": "plataforma de interacción digital"
+    }
+  ]
+}

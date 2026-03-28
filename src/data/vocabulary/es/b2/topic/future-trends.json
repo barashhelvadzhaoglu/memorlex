@@ -1,0 +1,411 @@
+{
+  "title": "Tendencias de Futuro (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la inteligencia artificial",
+      "type": "Noun",
+      "example": "*** está transformando todos los sectores de la industria moderna.",
+      "meaning_tr": "yapay zeka",
+      "meaning_en": "artificial intelligence",
+      "meaning_uk": "штучний інтелект",
+      "meaning_es": "tecnología que simula procesos de inteligencia humana"
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "example": "Debemos apostar por un modelo de desarrollo *** para proteger el planeta.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "que se puede mantener durante largo tiempo sin agotar recursos"
+    },
+    {
+      "term": "automatizar",
+      "type": "Verb",
+      "example": "Las empresas buscan *** los procesos repetitivos para aumentar la productividad.",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to automate",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "hacer que un proceso funcione de manera automática"
+    },
+    {
+      "term": "la realidad virtual",
+      "type": "Noun",
+      "example": "Gracias a ***, podemos visitar museos lejanos desde casa.",
+      "meaning_tr": "sanal gerçeklik",
+      "meaning_en": "virtual reality",
+      "meaning_uk": "віртуальна реальність",
+      "meaning_es": "entorno de escenas y objetos de apariencia real generado por tecnología"
+    },
+    {
+      "term": "innovador",
+      "type": "Adjective",
+      "example": "Su enfoque *** ha permitido resolver problemas que antes parecían imposibles.",
+      "meaning_tr": "yenilikçi",
+      "meaning_en": "innovative",
+      "meaning_uk": "інноваційний",
+      "meaning_es": "que introduce novedades o mejoras"
+    },
+    {
+      "term": "la biotecnología",
+      "type": "Noun",
+      "example": "*** está revolucionando la medicina personalizada.",
+      "meaning_tr": "biyoteknoloji",
+      "meaning_en": "biotechnology",
+      "meaning_uk": "біотехнологія",
+      "meaning_es": "uso de sistemas biológicos para crear productos"
+    },
+    {
+      "term": "prever",
+      "type": "Verb",
+      "example": "Es difícil *** cómo será el mercado laboral en diez años.",
+      "meaning_tr": "öngörmek",
+      "meaning_en": "to foresee",
+      "meaning_uk": "передбачати",
+      "meaning_es": "conocer o adivinar algo a través de señales"
+    },
+    {
+      "term": "la huella de carbono",
+      "type": "Noun",
+      "example": "Reducir *** es una prioridad para combatir el cambio climático.",
+      "meaning_tr": "karbon ayak izi",
+      "meaning_en": "carbon footprint",
+      "meaning_uk": "вуглецевий слід",
+      "meaning_es": "medida de las emisiones de gases de efecto invernadero"
+    },
+    {
+      "term": "inevitablemente",
+      "type": "Adverb",
+      "example": "La tecnología *** cambiará nuestra forma de relacionarnos.",
+      "meaning_tr": "kaçınılmaz olarak",
+      "meaning_en": "inevitably",
+      "meaning_uk": "неминуче",
+      "meaning_es": "de forma que no se puede evitar"
+    },
+    {
+      "term": "el teletrabajo",
+      "type": "Noun",
+      "example": "Muchas empresas han adoptado *** como una modalidad permanente.",
+      "meaning_tr": "uzaktan çalışma",
+      "meaning_en": "remote work",
+      "meaning_uk": "дистанційна робота",
+      "meaning_es": "trabajo realizado desde un lugar distinto a la oficina"
+    },
+    {
+      "term": "la digitalización",
+      "type": "Noun",
+      "example": "*** de los servicios públicos facilita la vida de los ciudadanos.",
+      "meaning_tr": "dijitalleşme",
+      "meaning_en": "digitalization",
+      "meaning_uk": "цифровізація",
+      "meaning_es": "conversión de procesos analógicos a formatos digitales"
+    },
+    {
+      "term": "emergente",
+      "type": "Adjective",
+      "example": "Las economías *** están creciendo a un ritmo acelerado.",
+      "meaning_tr": "gelişmekte olan",
+      "meaning_en": "emerging",
+      "meaning_uk": "новий / той, що розвивається",
+      "meaning_es": "que aparece o sale a la luz"
+    },
+    {
+      "term": "la robótica",
+      "type": "Noun",
+      "example": "*** avanzada permite realizar cirugías con mayor precisión.",
+      "meaning_tr": "robotik",
+      "meaning_en": "robotics",
+      "meaning_uk": "робототехніка",
+      "meaning_es": "técnica que diseña y construye robots"
+    },
+    {
+      "term": "la ciberseguridad",
+      "type": "Noun",
+      "example": "Invertir en *** es fundamental para proteger los datos personales.",
+      "meaning_tr": "siber güvenlik",
+      "meaning_en": "cybersecurity",
+      "meaning_uk": "кібербезпека",
+      "meaning_es": "protección de sistemas informáticos contra ataques"
+    },
+    {
+      "term": "impulsar",
+      "type": "Verb",
+      "example": "El gobierno quiere *** la investigación científica con nuevas becas.",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to boost/promote",
+      "meaning_uk": "стимулювати",
+      "meaning_es": "promover o dar fuerza a algo"
+    },
+    {
+      "term": "la economía circular",
+      "type": "Noun",
+      "example": "Debemos transitar hacia *** para reducir el desperdicio.",
+      "meaning_tr": "döngüsel ekonomi",
+      "meaning_en": "circular economy",
+      "meaning_uk": "циркулярна економіка",
+      "meaning_es": "modelo de producción que prioriza el reciclaje y la reutilización"
+    },
+    {
+      "term": "el avance",
+      "type": "Noun",
+      "example": "Cada *** tecnológico nos ofrece nuevas oportunidades.",
+      "meaning_tr": "ilerleme",
+      "meaning_en": "advance",
+      "meaning_uk": "прогрес",
+      "meaning_es": "mejora o progreso en algún campo"
+    },
+    {
+      "term": "hiperconectado",
+      "type": "Adjective",
+      "example": "Vivimos en un mundo *** donde la información circula al instante.",
+      "meaning_tr": "hiper bağlantılı",
+      "meaning_en": "hyper-connected",
+      "meaning_uk": "гіперпідключений",
+      "meaning_es": "que tiene múltiples conexiones constantes"
+    },
+    {
+      "term": "la brecha digital",
+      "type": "Noun",
+      "example": "Es necesario combatir *** para garantizar la igualdad de oportunidades.",
+      "meaning_tr": "dijital uçurum",
+      "meaning_en": "digital divide",
+      "meaning_uk": "цифровий розрив",
+      "meaning_es": "desigualdad en el acceso a las tecnologías"
+    },
+    {
+      "term": "potencial",
+      "type": "Adjective",
+      "example": "Esta nueva energía tiene un *** enorme para sustituir al petróleo.",
+      "meaning_tr": "potansiyel",
+      "meaning_en": "potential",
+      "meaning_uk": "потенційний",
+      "meaning_es": "que tiene capacidad de existir o suceder"
+    },
+    {
+      "term": "la automatización",
+      "type": "Noun",
+      "example": "*** de las fábricas reduce los costes de producción.",
+      "meaning_tr": "otomasyon",
+      "meaning_en": "automation",
+      "meaning_uk": "автоматизація",
+      "meaning_es": "acción de automatizar"
+    },
+    {
+      "term": "la tendencia",
+      "type": "Noun",
+      "example": "La principal *** de este año es el consumo responsable.",
+      "meaning_tr": "eğilim",
+      "meaning_en": "trend",
+      "meaning_uk": "тенденція",
+      "meaning_es": "propensión o inclinación hacia algo"
+    },
+    {
+      "term": "transformar",
+      "type": "Verb",
+      "example": "La tecnología está empezando a *** nuestras ciudades.",
+      "meaning_tr": "dönüştürmek",
+      "meaning_en": "to transform",
+      "meaning_uk": "трансформувати",
+      "meaning_es": "cambiar la forma o aspecto de algo"
+    },
+    {
+      "term": "sosteniblemente",
+      "type": "Adverb",
+      "example": "Debemos producir *** para no agotar los recursos naturales.",
+      "meaning_tr": "sürdürülebilir bir şekilde",
+      "meaning_en": "sustainably",
+      "meaning_uk": "стало",
+      "meaning_es": "de manera sostenible"
+    },
+    {
+      "term": "la inteligencia colectiva",
+      "type": "Noun",
+      "example": "*** ayuda a resolver problemas complejos mediante la colaboración.",
+      "meaning_tr": "kolektif zeka",
+      "meaning_en": "collective intelligence",
+      "meaning_uk": "колективний інтелект",
+      "meaning_es": "inteligencia que surge de la colaboración de muchos individuos"
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "example": "La experiencia de *** es clave en el diseño de aplicaciones.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que utiliza un servicio o producto"
+    },
+    {
+      "term": "obsoleto",
+      "type": "Adjective",
+      "example": "Muchos aparatos electrónicos se quedan *** muy rápidamente.",
+      "meaning_tr": "modası geçmiş",
+      "meaning_en": "obsolete",
+      "meaning_uk": "застарілий",
+      "meaning_es": "que ya no se usa o ha quedado anticuado"
+    },
+    {
+      "term": "la movilidad urbana",
+      "type": "Noun",
+      "example": "Mejorar *** es vital para reducir la contaminación en las ciudades.",
+      "meaning_tr": "kentsel hareketlilik",
+      "meaning_en": "urban mobility",
+      "meaning_uk": "міська мобільність",
+      "meaning_es": "forma en que se desplazan las personas en la ciudad"
+    },
+    {
+      "term": "la descentralización",
+      "type": "Noun",
+      "example": "La tecnología blockchain permite la *** de las transacciones.",
+      "meaning_tr": "merkezsizleşme",
+      "meaning_en": "decentralization",
+      "meaning_uk": "децентралізація",
+      "meaning_es": "transferencia de poder de un lugar central a otros"
+    },
+    {
+      "term": "sino que",
+      "type": "Conjunction",
+      "example": "El futuro no es algo que llega, *** algo que construimos hoy.",
+      "meaning_tr": "aksine / değil, ...-dir",
+      "meaning_en": "but rather",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa que indica contraste"
+    },
+    {
+      "term": "la nanotecnología",
+      "type": "Noun",
+      "example": "*** permite manipular materiales a escala atómica.",
+      "meaning_tr": "nanoteknoloji",
+      "meaning_en": "nanotechnology",
+      "meaning_uk": "нанотехнологія",
+      "meaning_es": "tecnología a escala nanométrica"
+    },
+    {
+      "term": "el dato",
+      "type": "Noun",
+      "example": "Hoy en día, *** es el activo más valioso de las empresas.",
+      "meaning_tr": "veri",
+      "meaning_en": "data",
+      "meaning_uk": "дані",
+      "meaning_es": "información concreta sobre hechos o elementos"
+    },
+    {
+      "term": "el paradigma",
+      "type": "Noun",
+      "example": "Estamos ante un cambio de *** en la forma de consumir energía.",
+      "meaning_tr": "paradigma",
+      "meaning_en": "paradigm",
+      "meaning_uk": "парадигма",
+      "meaning_es": "modelo o ejemplo que sirve de norma"
+    },
+    {
+      "term": "alrededor de",
+      "type": "Preposition",
+      "example": "El debate gira *** de la ética en la inteligencia artificial.",
+      "meaning_tr": "etrafında / hakkında",
+      "meaning_en": "around / about",
+      "meaning_uk": "навколо",
+      "meaning_es": "preposición que indica entorno o tema central"
+    },
+    {
+      "term": "la eficiencia",
+      "type": "Noun",
+      "example": "La *** energética es fundamental para reducir costes.",
+      "meaning_tr": "verimlilik",
+      "meaning_en": "efficiency",
+      "meaning_uk": "ефективність",
+      "meaning_es": "capacidad de lograr algo con el mínimo de recursos"
+    },
+    {
+      "term": "interactivo",
+      "type": "Adjective",
+      "example": "Los libros *** ofrecen una experiencia de aprendizaje más dinámica.",
+      "meaning_tr": "etkileşimli",
+      "meaning_en": "interactive",
+      "meaning_uk": "інтерактивний",
+      "meaning_es": "que permite la interacción entre usuario y sistema"
+    },
+    {
+      "term": "el ecosistema",
+      "type": "Noun",
+      "example": "Debemos proteger el *** digital frente a las amenazas externas.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "ecosystem",
+      "meaning_uk": "екосистема",
+      "meaning_es": "conjunto de elementos que interactúan entre sí"
+    },
+    {
+      "term": "la red",
+      "type": "Noun",
+      "example": "*** permite conectar a personas de todo el mundo.",
+      "meaning_tr": "ağ / internet",
+      "meaning_en": "network / web",
+      "meaning_uk": "мережа",
+      "meaning_es": "sistema de conexiones o internet"
+    },
+    {
+      "term": "el almacenamiento",
+      "type": "Noun",
+      "example": "La nube ofrece opciones de *** ilimitadas.",
+      "meaning_tr": "depolama",
+      "meaning_en": "storage",
+      "meaning_uk": "зберігання",
+      "meaning_es": "acción de guardar información o productos"
+    },
+    {
+      "term": "la capacidad",
+      "type": "Noun",
+      "example": "La *** de procesamiento de los ordenadores aumenta cada año.",
+      "meaning_tr": "kapasite",
+      "meaning_en": "capacity",
+      "meaning_uk": "здатність / потужність",
+      "meaning_es": "aptitud para contener o realizar algo"
+    },
+    {
+      "term": "incluso",
+      "type": "Adverb",
+      "example": "La tecnología es útil, e *** necesaria, para el progreso.",
+      "meaning_tr": "hatta",
+      "meaning_en": "even",
+      "meaning_uk": "навіть",
+      "meaning_es": "adverbio que indica énfasis"
+    },
+    {
+      "term": "la automatización",
+      "type": "Noun",
+      "example": "La industria 4.0 se basa en la *** total de las líneas de montaje.",
+      "meaning_tr": "otomasyon",
+      "meaning_en": "automation",
+      "meaning_uk": "автоматизація",
+      "meaning_es": "automatización de procesos"
+    },
+    {
+      "term": "la vanguardia",
+      "type": "Noun",
+      "example": "Esta empresa está a la *** de la investigación en energías limpias.",
+      "meaning_tr": "öncü / ileri saf",
+      "meaning_en": "forefront",
+      "meaning_uk": "авангард / передові позиції",
+      "meaning_es": "posición más avanzada en un campo"
+    },
+    {
+      "term": "la conectividad",
+      "type": "Noun",
+      "example": "Una buena *** es imprescindible para el desarrollo económico.",
+      "meaning_tr": "bağlanabilirlik",
+      "meaning_en": "connectivity",
+      "meaning_uk": "підключення",
+      "meaning_es": "capacidad de establecer una conexión"
+    },
+    {
+      "term": "la optimización",
+      "type": "Noun",
+      "example": "La *** de recursos es vital para la supervivencia de las startups.",
+      "meaning_tr": "optimizasyon",
+      "meaning_en": "optimization",
+      "meaning_uk": "оптимізація",
+      "meaning_es": "búsqueda de la mejor manera de realizar una tarea"
+    }
+  ]
+}

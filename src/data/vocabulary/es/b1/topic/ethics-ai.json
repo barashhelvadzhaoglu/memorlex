@@ -1,0 +1,321 @@
+{
+  "title": "Etica e IA (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la inteligencia artificial",
+      "type": "Noun",
+      "meaning_tr": "yapay zeka",
+      "meaning_en": "artificial intelligence",
+      "meaning_uk": "штучний інтелект",
+      "meaning_es": "tecnología que simula la inteligencia humana",
+      "example": "*** es una herramienta muy poderosa en la actualidad."
+    },
+    {
+      "term": "el algoritmo",
+      "type": "Noun",
+      "meaning_tr": "algoritma",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "conjunto de instrucciones para resolver problemas",
+      "example": "El funcionamiento de esta aplicación depende de un *** complejo."
+    },
+    {
+      "term": "ético",
+      "type": "Adjective",
+      "meaning_tr": "etik",
+      "meaning_en": "ethical",
+      "meaning_uk": "етичний",
+      "meaning_es": "relacionado con la moral y las buenas prácticas",
+      "example": "Es importante tomar una decisión *** ante este problema."
+    },
+    {
+      "term": "el sesgo",
+      "type": "Noun",
+      "meaning_tr": "önyargı",
+      "meaning_en": "bias",
+      "meaning_uk": "упередження",
+      "meaning_es": "inclinación o preferencia injusta",
+      "example": "El sistema presenta un *** que afecta a ciertos grupos sociales."
+    },
+    {
+      "term": "la privacidad",
+      "type": "Noun",
+      "meaning_tr": "gizlilik",
+      "meaning_en": "privacy",
+      "meaning_uk": "приватність",
+      "meaning_es": "derecho a mantener la información personal oculta",
+      "example": "Debemos proteger la *** de todos los usuarios en Internet."
+    },
+    {
+      "term": "automatizar",
+      "type": "Verb",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to automate",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "hacer que un proceso funcione por sí solo",
+      "example": "La empresa decidió *** sus procesos de producción."
+    },
+    {
+      "term": "la responsabilidad",
+      "type": "Noun",
+      "meaning_tr": "sorumluluk",
+      "meaning_en": "responsibility",
+      "meaning_uk": "відповідальність",
+      "meaning_es": "capacidad para asumir las consecuencias de los actos",
+      "example": "El desarrollador tiene la *** de crear programas seguros."
+    },
+    {
+      "term": "transparente",
+      "type": "Adjective",
+      "meaning_tr": "şeffaf",
+      "meaning_en": "transparent",
+      "meaning_uk": "прозорий",
+      "meaning_es": "claro, fácil de entender y sin secretos",
+      "example": "El funcionamiento de la IA debe ser *** para los usuarios."
+    },
+    {
+      "term": "el dato",
+      "type": "Noun",
+      "meaning_tr": "veri",
+      "meaning_en": "data",
+      "meaning_uk": "дані",
+      "meaning_es": "información numérica o simbólica",
+      "example": "Cada *** que compartimos se guarda en una base de datos."
+    },
+    {
+      "term": "desarrollar",
+      "type": "Verb",
+      "meaning_tr": "geliştirmek",
+      "meaning_en": "to develop",
+      "meaning_uk": "розробляти",
+      "meaning_es": "crear o mejorar algo",
+      "example": "Es necesario *** nuevas normas para controlar la tecnología."
+    },
+    {
+      "term": "la seguridad",
+      "type": "Noun",
+      "meaning_tr": "güvenlik",
+      "meaning_en": "security",
+      "meaning_uk": "безпека",
+      "meaning_es": "ausencia de peligro o riesgo",
+      "example": "La *** de los datos personales es nuestra prioridad."
+    },
+    {
+      "term": "el impacto",
+      "type": "Noun",
+      "meaning_tr": "etki",
+      "meaning_en": "impact",
+      "meaning_uk": "вплив",
+      "meaning_es": "efecto o huella que algo deja",
+      "example": "La tecnología tiene un gran *** en nuestra vida diaria."
+    },
+    {
+      "term": "discriminatorio",
+      "type": "Adjective",
+      "meaning_tr": "ayrımcı",
+      "meaning_en": "discriminatory",
+      "meaning_uk": "дискримінаційний",
+      "meaning_es": "que trata a otros de manera injusta",
+      "example": "Un software *** es peligroso para la igualdad social."
+    },
+    {
+      "term": "analizar",
+      "type": "Verb",
+      "meaning_tr": "analiz etmek",
+      "meaning_en": "to analyze",
+      "meaning_uk": "аналізувати",
+      "meaning_es": "examinar algo detalladamente",
+      "example": "Los científicos deben *** los resultados de la investigación."
+    },
+    {
+      "term": "el riesgo",
+      "type": "Noun",
+      "meaning_tr": "risk",
+      "meaning_en": "risk",
+      "meaning_uk": "ризик",
+      "meaning_es": "posibilidad de que ocurra algo malo",
+      "example": "Existe un *** real de que la información sea robada."
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "relacionado con la tecnología informática",
+      "example": "La era *** ha cambiado nuestra forma de trabajar."
+    },
+    {
+      "term": "la máquina",
+      "type": "Noun",
+      "meaning_tr": "makine",
+      "meaning_en": "machine",
+      "meaning_uk": "машина",
+      "meaning_es": "dispositivo que realiza un trabajo",
+      "example": "A veces, la *** puede cometer errores graves."
+    },
+    {
+      "term": "humano",
+      "type": "Adjective",
+      "meaning_tr": "insani",
+      "meaning_en": "human",
+      "meaning_uk": "людський",
+      "meaning_es": "relativo al ser humano",
+      "example": "El factor *** es fundamental para supervisar a los robots."
+    },
+    {
+      "term": "la red",
+      "type": "Noun",
+      "meaning_tr": "ağ",
+      "meaning_en": "network",
+      "meaning_uk": "мережа",
+      "meaning_es": "conjunto de conexiones o Internet",
+      "example": "La información circula rápidamente por toda la ***."
+    },
+    {
+      "term": "controlar",
+      "type": "Verb",
+      "meaning_tr": "kontrol etmek",
+      "meaning_en": "to control",
+      "meaning_uk": "контролювати",
+      "meaning_es": "ejercer dominio sobre algo",
+      "example": "Debemos *** el uso de la IA en el gobierno."
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "que afecta a todo el mundo",
+      "example": "El problema de la IA es un desafío ***."
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que utiliza un servicio",
+      "example": "Cada *** debe saber cómo se usan sus datos."
+    },
+    {
+      "term": "justo",
+      "type": "Adjective",
+      "meaning_tr": "adil",
+      "meaning_en": "fair",
+      "meaning_uk": "справедливий",
+      "meaning_es": "que actúa conforme a la justicia",
+      "example": "Es necesario crear un sistema más *** para todos."
+    },
+    {
+      "term": "proteger",
+      "type": "Verb",
+      "meaning_tr": "korumak",
+      "meaning_en": "to protect",
+      "meaning_uk": "захищати",
+      "meaning_es": "resguardar de un peligro",
+      "example": "Las leyes ayudan a *** nuestros derechos digitales."
+    },
+    {
+      "term": "la verdad",
+      "type": "Noun",
+      "meaning_tr": "gerçek",
+      "meaning_en": "truth",
+      "meaning_uk": "правда",
+      "meaning_es": "conformidad con la realidad",
+      "example": "A veces es difícil saber la *** en las noticias falsas."
+    },
+    {
+      "term": "falso",
+      "type": "Adjective",
+      "meaning_tr": "sahte",
+      "meaning_en": "false",
+      "meaning_uk": "фальшивий",
+      "meaning_es": "que no es verdadero",
+      "example": "El contenido *** puede engañar a muchas personas."
+    },
+    {
+      "term": "informar",
+      "type": "Verb",
+      "meaning_tr": "bilgilendirmek",
+      "meaning_en": "to inform",
+      "meaning_uk": "інформувати",
+      "meaning_es": "dar noticia de algo",
+      "example": "La empresa debe *** sobre cómo usa la IA."
+    },
+    {
+      "term": "porque",
+      "type": "Conjunction",
+      "meaning_tr": "çünkü",
+      "meaning_en": "because",
+      "meaning_uk": "тому що",
+      "meaning_es": "indica causa o motivo",
+      "example": "Debemos tener cuidado *** la tecnología puede fallar."
+    },
+    {
+      "term": "siempre",
+      "type": "Adverb",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "en todo momento",
+      "example": "La ética debe estar *** presente en la ciencia."
+    },
+    {
+      "term": "el conocimiento",
+      "type": "Noun",
+      "meaning_tr": "bilgi",
+      "meaning_en": "knowledge",
+      "meaning_uk": "знання",
+      "meaning_es": "entendimiento o saber",
+      "example": "El *** técnico no es suficiente sin valores morales."
+    },
+    {
+      "term": "avanzado",
+      "type": "Adjective",
+      "meaning_tr": "gelişmiş",
+      "meaning_en": "advanced",
+      "meaning_uk": "передовий",
+      "meaning_es": "que está muy adelantado o desarrollado",
+      "example": "Tenemos un sistema muy *** para resolver problemas."
+    },
+    {
+      "term": "entre",
+      "type": "Preposition",
+      "meaning_tr": "arasında",
+      "meaning_en": "between",
+      "meaning_uk": "між",
+      "meaning_es": "en medio de dos cosas",
+      "example": "Hay una gran diferencia *** la IA y la inteligencia real."
+    },
+    {
+      "term": "el derecho",
+      "type": "Noun",
+      "meaning_tr": "hak",
+      "meaning_en": "right",
+      "meaning_uk": "право",
+      "meaning_es": "facultad legal o moral",
+      "example": "Todos tenemos el *** a ser tratados con respeto."
+    },
+    {
+      "term": "mejorar",
+      "type": "Verb",
+      "meaning_tr": "iyileştirmek",
+      "meaning_en": "to improve",
+      "meaning_uk": "покращувати",
+      "meaning_es": "hacer que algo sea mejor",
+      "example": "Podemos *** la seguridad si cambiamos la contraseña."
+    },
+    {
+      "term": "claramente",
+      "type": "Adverb",
+      "meaning_tr": "açıkça",
+      "meaning_en": "clearly",
+      "meaning_uk": "чітко",
+      "meaning_es": "de manera comprensible",
+      "example": "Las normas deben explicarse *** para todos."
+    }
+  ]
+}

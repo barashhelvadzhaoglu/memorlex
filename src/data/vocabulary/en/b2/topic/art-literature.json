@@ -1,0 +1,411 @@
+{
+  "title": "Art & Literature (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a masterpiece",
+      "type": "Noun",
+      "example": "The artist spent ten years creating such ***.",
+      "meaning_tr": "başyapıt",
+      "meaning_en": "a work of outstanding artistry, skill, or workmanship",
+      "meaning_uk": "шедевр",
+      "meaning_es": "una obra maestra"
+    },
+    {
+      "term": "to depict",
+      "type": "Verb",
+      "example": "The painting aims to *** the harsh reality of war.",
+      "meaning_tr": "tasvir etmek",
+      "meaning_en": "to show or represent by a drawing, painting, or other art form",
+      "meaning_uk": "зображувати",
+      "meaning_es": "representar"
+    },
+    {
+      "term": "a narrative",
+      "type": "Noun",
+      "example": "The novel features a complex *** that spans several decades.",
+      "meaning_tr": "anlatı",
+      "meaning_en": "a spoken or written account of connected events; a story",
+      "meaning_uk": "наратив",
+      "meaning_es": "una narrativa"
+    },
+    {
+      "term": "abstract",
+      "type": "Adjective",
+      "example": "I find it difficult to understand the meaning behind *** art.",
+      "meaning_tr": "soyut",
+      "meaning_en": "existing in thought or as an idea but not having a physical or concrete existence",
+      "meaning_uk": "абстрактний",
+      "meaning_es": "abstracto"
+    },
+    {
+      "term": "a protagonist",
+      "type": "Noun",
+      "example": "The *** of the story faces many difficult moral dilemmas.",
+      "meaning_tr": "başkahraman",
+      "meaning_en": "the leading character or one of the major characters in a play, film, or novel",
+      "meaning_uk": "головний герой",
+      "meaning_es": "un protagonista"
+    },
+    {
+      "term": "to interpret",
+      "type": "Verb",
+      "example": "Critics often *** his poems in very different ways.",
+      "meaning_tr": "yorumlamak",
+      "meaning_en": "to explain the meaning of information, words, or actions",
+      "meaning_uk": "інтерпретувати",
+      "meaning_es": "interpretar"
+    },
+    {
+      "term": "an exhibition",
+      "type": "Noun",
+      "example": "We visited the local gallery to see the new photography ***.",
+      "meaning_tr": "sergi",
+      "meaning_en": "a public display of works of art or items of interest",
+      "meaning_uk": "виставка",
+      "meaning_es": "una exposición"
+    },
+    {
+      "term": "a contemporary",
+      "type": "Adjective",
+      "example": "The museum focuses exclusively on *** art from the 21st century.",
+      "meaning_tr": "çağdaş",
+      "meaning_en": "belonging to or occurring in the present",
+      "meaning_uk": "сучасний",
+      "meaning_es": "contemporáneo"
+    },
+    {
+      "term": "a genre",
+      "type": "Noun",
+      "example": "Science fiction is my favorite literary ***.",
+      "meaning_tr": "tür",
+      "meaning_en": "a category of artistic composition, as in music or literature",
+      "meaning_uk": "жанр",
+      "meaning_es": "un género"
+    },
+    {
+      "term": "a portrait",
+      "type": "Noun",
+      "example": "The museum houses a beautiful 18th-century *** of the Queen.",
+      "meaning_tr": "portre",
+      "meaning_en": "a painting, drawing, photograph, or engraving of a person",
+      "meaning_uk": "портрет",
+      "meaning_es": "un retrato"
+    },
+    {
+      "term": "to compose",
+      "type": "Verb",
+      "example": "Mozart began to *** music at a very young age.",
+      "meaning_tr": "bestelemek",
+      "meaning_en": "to write or create a piece of music",
+      "meaning_uk": "компонувати",
+      "meaning_es": "componer"
+    },
+    {
+      "term": "a prose",
+      "type": "Noun",
+      "example": "She is well-known for her elegant and descriptive ***.",
+      "meaning_tr": "nesir",
+      "meaning_en": "written or spoken language in its ordinary form, without metrical structure",
+      "meaning_uk": "проза",
+      "meaning_es": "la prosa"
+    },
+    {
+      "term": "an aesthetic",
+      "type": "Adjective",
+      "example": "The film was visually stunning and had a unique *** appeal.",
+      "meaning_tr": "estetik",
+      "meaning_en": "concerned with beauty or the appreciation of beauty",
+      "meaning_uk": "естетичний",
+      "meaning_es": "estético"
+    },
+    {
+      "term": "a volume",
+      "type": "Noun",
+      "example": "This library contains a rare *** of ancient poetry.",
+      "meaning_tr": "cilt",
+      "meaning_en": "a book forming part of a work or series",
+      "meaning_uk": "том",
+      "meaning_es": "un volumen"
+    },
+    {
+      "term": "a critic",
+      "type": "Noun",
+      "example": "The play received mixed reviews from every major theater ***.",
+      "meaning_tr": "eleştirmen",
+      "meaning_en": "a person who judges the merits of literary, artistic, or musical works",
+      "meaning_uk": "критик",
+      "meaning_es": "un crítico"
+    },
+    {
+      "term": "a manuscript",
+      "type": "Noun",
+      "example": "The author submitted her original *** to the publisher yesterday.",
+      "meaning_tr": "el yazması",
+      "meaning_en": "a book, document, or piece of music written by hand rather than typed or printed",
+      "meaning_uk": "рукопис",
+      "meaning_es": "un manuscrito"
+    },
+    {
+      "term": "a medium",
+      "type": "Noun",
+      "example": "Oil paint is a traditional *** for fine art.",
+      "meaning_tr": "araç",
+      "meaning_en": "the materials used by an artist to create a work of art",
+      "meaning_uk": "засіб",
+      "meaning_es": "un medio"
+    },
+    {
+      "term": "a plot",
+      "type": "Noun",
+      "example": "The book has a complicated *** with many unexpected twists.",
+      "meaning_tr": "kurgu",
+      "meaning_en": "the main events of a play, novel, or movie",
+      "meaning_uk": "сюжет",
+      "meaning_es": "una trama"
+    },
+    {
+      "term": "to illustrate",
+      "type": "Verb",
+      "example": "The book is intended to *** the history of modern architecture.",
+      "meaning_tr": "resimlemek",
+      "meaning_en": "to provide a book or other text with pictures",
+      "meaning_uk": "ілюструвати",
+      "meaning_es": "ilustrar"
+    },
+    {
+      "term": "a masterpiece",
+      "type": "Noun",
+      "example": "His final novel is considered a true *** of 20th-century literature.",
+      "meaning_tr": "başyapıt",
+      "meaning_en": "a work of outstanding artistry or skill",
+      "meaning_uk": "шедевр",
+      "meaning_es": "una obra maestra"
+    },
+    {
+      "term": "a chapter",
+      "type": "Noun",
+      "example": "I just finished the first *** of the book.",
+      "meaning_tr": "bölüm",
+      "meaning_en": "a main division of a book",
+      "meaning_uk": "розділ",
+      "meaning_es": "un capítulo"
+    },
+    {
+      "term": "to publish",
+      "type": "Verb",
+      "example": "The author decided to *** her work independently.",
+      "meaning_tr": "yayımlamak",
+      "meaning_en": "to prepare and issue a book or piece of music for public sale",
+      "meaning_uk": "публікувати",
+      "meaning_es": "publicar"
+    },
+    {
+      "term": "an anthology",
+      "type": "Noun",
+      "example": "The teacher assigned an *** of short stories for the class.",
+      "meaning_tr": "antoloji",
+      "meaning_en": "a collection of literary passages or works",
+      "meaning_uk": "антологія",
+      "meaning_es": "una antología"
+    },
+    {
+      "term": "a sculpture",
+      "type": "Noun",
+      "example": "The park features a giant bronze *** in the center.",
+      "meaning_tr": "heykel",
+      "meaning_en": "the art of making two- or three-dimensional representative or abstract forms",
+      "meaning_uk": "скульптура",
+      "meaning_es": "una escultura"
+    },
+    {
+      "term": "a stanza",
+      "type": "Noun",
+      "example": "The poet repeated the final *** for emphasis.",
+      "meaning_tr": "kıta",
+      "meaning_en": "a group of lines forming the basic recurring metrical unit in a poem",
+      "meaning_uk": "строфа",
+      "meaning_es": "una estrofa"
+    },
+    {
+      "term": "an imitation",
+      "type": "Noun",
+      "example": "This is a cheap *** of the original painting.",
+      "meaning_tr": "taklit",
+      "meaning_en": "a thing intended to simulate or copy something else",
+      "meaning_uk": "імітація",
+      "meaning_es": "una imitación"
+    },
+    {
+      "term": "a masterpiece",
+      "type": "Noun",
+      "example": "The cathedral is an architectural ***.",
+      "meaning_tr": "başyapıt",
+      "meaning_en": "an excellent piece of work",
+      "meaning_uk": "шедевр",
+      "meaning_es": "una obra maestra"
+    },
+    {
+      "term": "a satire",
+      "type": "Noun",
+      "example": "The play is a biting *** of modern political life.",
+      "meaning_tr": "yergi",
+      "meaning_en": "the use of humor, irony, or exaggeration to criticize people's stupidity",
+      "meaning_uk": "сатира",
+      "meaning_es": "una sátira"
+    },
+    {
+      "term": "to draft",
+      "type": "Verb",
+      "example": "I need to *** the outline before I start writing the essay.",
+      "meaning_tr": "taslak hazırlamak",
+      "meaning_en": "to write a preliminary version of a document",
+      "meaning_uk": "писати чернетку",
+      "meaning_es": "redactar"
+    },
+    {
+      "term": "a backdrop",
+      "type": "Noun",
+      "example": "The beautiful mountains provided a perfect *** for the scene.",
+      "meaning_tr": "arka plan",
+      "meaning_en": "a painted cloth hung at the back of a theater stage",
+      "meaning_uk": "фон",
+      "meaning_es": "un telón de fondo"
+    },
+    {
+      "term": "an epic",
+      "type": "Noun",
+      "example": "The movie is an *** that tells the story of an ancient king.",
+      "meaning_tr": "destan",
+      "meaning_en": "a long poem or story typically derived from ancient oral tradition",
+      "meaning_uk": "епос",
+      "meaning_es": "una epopeya"
+    },
+    {
+      "term": "a masterpiece",
+      "type": "Noun",
+      "example": "Critics hailed the album as a musical ***.",
+      "meaning_tr": "başyapıt",
+      "meaning_en": "a perfect work of art",
+      "meaning_uk": "шедевр",
+      "meaning_es": "una obra maestra"
+    },
+    {
+      "term": "a protagonist",
+      "type": "Noun",
+      "example": "The *** struggles to overcome his own fears throughout the book.",
+      "meaning_tr": "başkahraman",
+      "meaning_en": "the main character in a narrative",
+      "meaning_uk": "головний герой",
+      "meaning_es": "un protagonista"
+    },
+    {
+      "term": "to exhibit",
+      "type": "Verb",
+      "example": "The artist will *** his latest work in the city gallery.",
+      "meaning_tr": "sergilemek",
+      "meaning_en": "to display a work of art in a public place",
+      "meaning_uk": "виставляти",
+      "meaning_es": "exhibir"
+    },
+    {
+      "term": "a manuscript",
+      "type": "Noun",
+      "example": "The library holds a 12th-century *** of the bible.",
+      "meaning_tr": "el yazması",
+      "meaning_en": "a hand-written document",
+      "meaning_uk": "рукопис",
+      "meaning_es": "un manuscrito"
+    },
+    {
+      "term": "a theme",
+      "type": "Noun",
+      "example": "The central *** of the novel is the loss of innocence.",
+      "meaning_tr": "tema",
+      "meaning_en": "the subject of a talk, a piece of writing, or an exhibition",
+      "meaning_uk": "тема",
+      "meaning_es": "un tema"
+    },
+    {
+      "term": "to revise",
+      "type": "Verb",
+      "example": "I need to *** the final chapter before it goes to print.",
+      "meaning_tr": "gözden geçirmek",
+      "meaning_en": "to re-examine and make alterations to a written work",
+      "meaning_uk": "переглядати",
+      "meaning_es": "revisar"
+    },
+    {
+      "term": "a masterpiece",
+      "type": "Noun",
+      "example": "Her collection of paintings is considered a *** of modern art.",
+      "meaning_tr": "başyapıt",
+      "meaning_en": "a work of great skill",
+      "meaning_uk": "шедевр",
+      "meaning_es": "una obra maestra"
+    },
+    {
+      "term": "a classic",
+      "type": "Noun",
+      "example": "Jane Austen's novels are considered a literary ***.",
+      "meaning_tr": "klasik",
+      "meaning_en": "a work of art of recognized and established value",
+      "meaning_uk": "класика",
+      "meaning_es": "un clásico"
+    },
+    {
+      "term": "a perspective",
+      "type": "Noun",
+      "example": "The painter used a unique *** to create depth in the scene.",
+      "meaning_tr": "perspektif",
+      "meaning_en": "the art of representing three-dimensional objects on a two-dimensional surface",
+      "meaning_uk": "перспектива",
+      "meaning_es": "una perspectiva"
+    },
+    {
+      "term": "a biography",
+      "type": "Noun",
+      "example": "I just finished reading a fascinating *** about Leonardo da Vinci.",
+      "meaning_tr": "biyografi",
+      "meaning_en": "an account of someone's life written by someone else",
+      "meaning_uk": "біографія",
+      "meaning_es": "una biografía"
+    },
+    {
+      "term": "a sketch",
+      "type": "Noun",
+      "example": "The artist made a quick *** of the landscape before it started to rain.",
+      "meaning_tr": "taslak",
+      "meaning_en": "a rough or unfinished drawing or painting",
+      "meaning_uk": "ескіз",
+      "meaning_es": "un boceto"
+    },
+    {
+      "term": "an inspiration",
+      "type": "Noun",
+      "example": "Nature served as the main *** for his latest collection.",
+      "meaning_tr": "ilham",
+      "meaning_en": "the process of being mentally stimulated to do or feel something",
+      "meaning_uk": "натхнення",
+      "meaning_es": "una inspiración"
+    },
+    {
+      "term": "a masterpiece",
+      "type": "Noun",
+      "example": "The sculpture is often cited as a *** of the Renaissance.",
+      "meaning_tr": "başyapıt",
+      "meaning_en": "a work of art that is of the highest quality",
+      "meaning_uk": "шедевр",
+      "meaning_es": "una obra maestra"
+    },
+    {
+      "term": "a narrative",
+      "type": "Noun",
+      "example": "The film uses a non-linear *** to explore the protagonist's memories.",
+      "meaning_tr": "anlatı",
+      "meaning_en": "a story or description of events",
+      "meaning_uk": "наратив",
+      "meaning_es": "una narrativa"
+    }
+  ]
+}

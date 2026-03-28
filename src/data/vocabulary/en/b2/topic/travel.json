@@ -1,0 +1,411 @@
+{
+  "title": "Travel & Tourism (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a destination",
+      "type": "Noun",
+      "example": "Paris is a popular tourist *** for millions of people.",
+      "meaning_tr": "varış noktası",
+      "meaning_en": "the place to which someone or something is going",
+      "meaning_uk": "місце призначення",
+      "meaning_es": "destino"
+    },
+    {
+      "term": "a layover",
+      "type": "Noun",
+      "example": "We had a long *** in Frankfurt before flying to New York.",
+      "meaning_tr": "aktarma / bekleme süresi",
+      "meaning_en": "a period of waiting during a journey",
+      "meaning_uk": "пересадка",
+      "meaning_es": "escala"
+    },
+    {
+      "term": "to board",
+      "type": "Verb",
+      "example": "Passengers are requested to *** the plane through gate B12.",
+      "meaning_tr": "uçağa/gemiye binmek",
+      "meaning_en": "to get on a ship, aircraft, or other vehicle",
+      "meaning_uk": "сідати на борт",
+      "meaning_es": "embarcar"
+    },
+    {
+      "term": "an itinerary",
+      "type": "Noun",
+      "example": "Our travel *** includes visits to three different historical cities.",
+      "meaning_tr": "seyahat programı",
+      "meaning_en": "a planned route or journey",
+      "meaning_uk": "маршрут",
+      "meaning_es": "itinerario"
+    },
+    {
+      "term": "breathtaking",
+      "type": "Adjective",
+      "example": "The view from the top of the mountain was absolutely ***.",
+      "meaning_tr": "nefes kesici",
+      "meaning_en": "astonishing or awe-inspiring in quality",
+      "meaning_uk": "захоплюючий",
+      "meaning_es": "impresionante"
+    },
+    {
+      "term": "to check in",
+      "type": "Verb",
+      "example": "You need to *** at the hotel reception upon arrival.",
+      "meaning_tr": "giriş yapmak",
+      "meaning_en": "to report one's arrival at a hotel or airport",
+      "meaning_uk": "зареєструватися",
+      "meaning_es": "registrarse"
+    },
+    {
+      "term": "an excursion",
+      "type": "Noun",
+      "example": "We went on a boat *** to explore the nearby islands.",
+      "meaning_tr": "kısa gezi / tur",
+      "meaning_en": "a short journey or trip",
+      "meaning_uk": "екскурсія",
+      "meaning_es": "excursión"
+    },
+    {
+      "term": "off the beaten track",
+      "type": "Adjective",
+      "example": "They prefer to visit places that are ***.",
+      "meaning_tr": "alışılmışın dışında / ıssız",
+      "meaning_en": "in a remote or isolated location",
+      "meaning_uk": "далеко від протоптаних шляхів",
+      "meaning_es": "fuera de lo común"
+    },
+    {
+      "term": "a landmark",
+      "type": "Noun",
+      "example": "The Eiffel Tower is the most famous *** in France.",
+      "meaning_tr": "simge yapı",
+      "meaning_en": "an object or feature of a landscape that is easily seen",
+      "meaning_uk": "визначна пам'ятка",
+      "meaning_es": "punto de referencia"
+    },
+    {
+      "term": "to wander",
+      "type": "Verb",
+      "example": "We spent the afternoon *** through the narrow streets of the old town.",
+      "meaning_tr": "dolaşmak / gezinmek",
+      "meaning_en": "to walk or move in a leisurely way",
+      "meaning_uk": "блукати",
+      "meaning_es": "vagar"
+    },
+    {
+      "term": "an accommodation",
+      "type": "Noun",
+      "example": "We need to book our *** well in advance during peak season.",
+      "meaning_tr": "konaklama",
+      "meaning_en": "a room, group of rooms, or building in which someone may live",
+      "meaning_uk": "житло",
+      "meaning_es": "alojamiento"
+    },
+    {
+      "term": "scenic",
+      "type": "Adjective",
+      "example": "We took the *** route to enjoy the beautiful countryside.",
+      "meaning_tr": "manzaralı",
+      "meaning_en": "providing views of impressive natural scenery",
+      "meaning_uk": "мальовничий",
+      "meaning_es": "escénico"
+    },
+    {
+      "term": "a package holiday",
+      "type": "Noun",
+      "example": "We decided to book a *** because it was much cheaper.",
+      "meaning_tr": "paket tur",
+      "meaning_en": "a holiday organized by a travel company for a fixed price",
+      "meaning_uk": "пакетний тур",
+      "meaning_es": "paquete turístico"
+    },
+    {
+      "term": "to set off",
+      "type": "Verb",
+      "example": "We plan to *** early in the morning to avoid the traffic.",
+      "meaning_tr": "yola çıkmak",
+      "meaning_en": "to start a journey",
+      "meaning_uk": "вирушати",
+      "meaning_es": "partir"
+    },
+    {
+      "term": "a souvenir",
+      "type": "Noun",
+      "example": "I bought a small statue as a *** of my trip to Rome.",
+      "meaning_tr": "hediyelik eşya",
+      "meaning_en": "a thing that is kept as a reminder of a person, place, or event",
+      "meaning_uk": "сувенір",
+      "meaning_es": "recuerdo"
+    },
+    {
+      "term": "picturesque",
+      "type": "Adjective",
+      "example": "The village is very *** with its colorful houses.",
+      "meaning_tr": "resim gibi",
+      "meaning_en": "visually attractive, especially in a quaint way",
+      "meaning_uk": "мальовничий",
+      "meaning_es": "pintoresco"
+    },
+    {
+      "term": "a customs officer",
+      "type": "Noun",
+      "example": "The *** checked our passports at the border.",
+      "meaning_tr": "gümrük memuru",
+      "meaning_en": "an official who checks goods entering a country",
+      "meaning_uk": "митник",
+      "meaning_es": "oficial de aduanas"
+    },
+    {
+      "term": "to book",
+      "type": "Verb",
+      "example": "I would like to *** a table for two at your restaurant.",
+      "meaning_tr": "rezervasyon yapmak",
+      "meaning_en": "to reserve accommodation or a ticket",
+      "meaning_uk": "бронювати",
+      "meaning_es": "reservar"
+    },
+    {
+      "term": "a trek",
+      "type": "Noun",
+      "example": "It was a difficult *** to reach the summit of the hill.",
+      "meaning_tr": "uzun ve zorlu yürüyüş",
+      "meaning_en": "a long, arduous journey, typically on foot",
+      "meaning_uk": "похід",
+      "meaning_es": "caminata"
+    },
+    {
+      "term": "vast",
+      "type": "Adjective",
+      "example": "The desert landscape was absolutely ***.",
+      "meaning_tr": "geniş / uçsuz bucaksız",
+      "meaning_en": "very great in extent or quantity",
+      "meaning_uk": "величезний",
+      "meaning_es": "vasto"
+    },
+    {
+      "term": "to disembark",
+      "type": "Verb",
+      "example": "All passengers must *** the ferry upon arrival at the port.",
+      "meaning_tr": "gemiden/uçaktan inmek",
+      "meaning_en": "to leave a ship, aircraft, or other vehicle",
+      "meaning_uk": "висаджуватися",
+      "meaning_es": "desembarcar"
+    },
+    {
+      "term": "a backpacker",
+      "type": "Noun",
+      "example": "As a ***, he stayed in cheap hostels while traveling around Asia.",
+      "meaning_tr": "sırt çantalı gezgin",
+      "meaning_en": "a person who travels with a backpack",
+      "meaning_uk": "бекпекер",
+      "meaning_es": "mochilero"
+    },
+    {
+      "term": "remote",
+      "type": "Adjective",
+      "example": "They lived in a *** village in the mountains.",
+      "meaning_tr": "uzak / ücra",
+      "meaning_en": "situated far from the main centers of population",
+      "meaning_uk": "віддалений",
+      "meaning_es": "remoto"
+    },
+    {
+      "term": "a boarding pass",
+      "type": "Noun",
+      "example": "Don't forget to show your *** at the departure gate.",
+      "meaning_tr": "biniş kartı",
+      "meaning_en": "a document provided by an airline during check-in",
+      "meaning_uk": "посадковий талон",
+      "meaning_es": "tarjeta de embarque"
+    },
+    {
+      "term": "to explore",
+      "type": "Verb",
+      "example": "We spent days trying to *** the hidden caves along the coast.",
+      "meaning_tr": "keşfetmek",
+      "meaning_en": "to travel in or through an unfamiliar area",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "explorar"
+    },
+    {
+      "term": "a getaway",
+      "type": "Noun",
+      "example": "We are planning a weekend *** to the countryside.",
+      "meaning_tr": "kısa tatil",
+      "meaning_en": "a short holiday",
+      "meaning_uk": "відпочинок",
+      "meaning_es": "escapada"
+    },
+    {
+      "term": "vibrant",
+      "type": "Adjective",
+      "example": "Tokyo is a *** city that never seems to sleep.",
+      "meaning_tr": "canlı / hareketli",
+      "meaning_en": "full of energy and life",
+      "meaning_uk": "яскравий",
+      "meaning_es": "vibrante"
+    },
+    {
+      "term": "to sightsee",
+      "type": "Verb",
+      "example": "We spent the whole day *** in the city center.",
+      "meaning_tr": "turistik yerleri gezmek",
+      "meaning_en": "to visit places of interest",
+      "meaning_uk": "оглядати пам'ятки",
+      "meaning_es": "hacer turismo"
+    },
+    {
+      "term": "a visa",
+      "type": "Noun",
+      "example": "You need to apply for a *** before traveling to that country.",
+      "meaning_tr": "vize",
+      "meaning_en": "an official endorsement on a passport",
+      "meaning_uk": "віза",
+      "meaning_es": "visado"
+    },
+    {
+      "term": "luxurious",
+      "type": "Adjective",
+      "example": "They stayed at a *** resort with private pools.",
+      "meaning_tr": "lüks",
+      "meaning_en": "extremely comfortable or elegant",
+      "meaning_uk": "розкішний",
+      "meaning_es": "lujoso"
+    },
+    {
+      "term": "a terminal",
+      "type": "Noun",
+      "example": "Our flight leaves from the international ***.",
+      "meaning_tr": "terminal",
+      "meaning_en": "a building at an airport where passengers arrive and depart",
+      "meaning_uk": "термінал",
+      "meaning_es": "terminal"
+    },
+    {
+      "term": "to delay",
+      "type": "Verb",
+      "example": "The flight was *** due to bad weather conditions.",
+      "meaning_tr": "geciktirmek / ertelemek",
+      "meaning_en": "to make something happen later than expected",
+      "meaning_uk": "затримувати",
+      "meaning_es": "retrasar"
+    },
+    {
+      "term": "an expedition",
+      "type": "Noun",
+      "example": "The scientists went on an *** to the Arctic.",
+      "meaning_tr": "keşif gezisi",
+      "meaning_en": "a journey undertaken by a group of people for a specific purpose",
+      "meaning_uk": "експедиція",
+      "meaning_es": "expedición"
+    },
+    {
+      "term": "exotic",
+      "type": "Adjective",
+      "example": "She loves trying *** fruits when she travels abroad.",
+      "meaning_tr": "egzotik",
+      "meaning_en": "originating in or characteristic of a distant foreign country",
+      "meaning_uk": "екзотичний",
+      "meaning_es": "exótico"
+    },
+    {
+      "term": "to wander off",
+      "type": "Verb",
+      "example": "Don't *** from the group during the guided tour.",
+      "meaning_tr": "gruptan ayrılıp uzaklaşmak",
+      "meaning_en": "to walk away from a group or path",
+      "meaning_uk": "відхилятися",
+      "meaning_es": "alejarse"
+    },
+    {
+      "term": "a travel agent",
+      "type": "Noun",
+      "example": "Our *** helped us find the best flight options.",
+      "meaning_tr": "seyahat acentesi çalışanı",
+      "meaning_en": "a person whose job is to make travel arrangements",
+      "meaning_uk": "туроператор",
+      "meaning_es": "agente de viajes"
+    },
+    {
+      "term": "bustling",
+      "type": "Adjective",
+      "example": "The market was *** with shoppers and tourists.",
+      "meaning_tr": "kalabalık / hareketli",
+      "meaning_en": "full of energetic and noisy activity",
+      "meaning_uk": "метушливий",
+      "meaning_es": "animado"
+    },
+    {
+      "term": "to pack",
+      "type": "Verb",
+      "example": "I still need to *** my suitcase before we leave tonight.",
+      "meaning_tr": "valiz hazırlamak",
+      "meaning_en": "to fill a suitcase with clothes and other items",
+      "meaning_uk": "пакувати",
+      "meaning_es": "hacer la maleta"
+    },
+    {
+      "term": "an overnighter",
+      "type": "Noun",
+      "example": "We took an *** train to save on hotel costs.",
+      "meaning_tr": "gece yolculuğu",
+      "meaning_en": "a journey or stay that lasts for a night",
+      "meaning_uk": "нічна поїздка",
+      "meaning_es": "viaje nocturno"
+    },
+    {
+      "term": "well-preserved",
+      "type": "Adjective",
+      "example": "The castle is remarkably *** for its age.",
+      "meaning_tr": "iyi korunmuş",
+      "meaning_en": "kept in good condition",
+      "meaning_uk": "добре збережений",
+      "meaning_es": "bien conservado"
+    },
+    {
+      "term": "to land",
+      "type": "Verb",
+      "example": "The plane is expected to *** in ten minutes.",
+      "meaning_tr": "iniş yapmak",
+      "meaning_en": "to arrive on the ground after a flight",
+      "meaning_uk": "приземлятися",
+      "meaning_es": "aterrizar"
+    },
+    {
+      "term": "a round-trip ticket",
+      "type": "Noun",
+      "example": "It is cheaper to buy a *** than two single tickets.",
+      "meaning_tr": "gidiş-dönüş bileti",
+      "meaning_en": "a ticket for a journey to a place and back again",
+      "meaning_uk": "квиток в обидва боки",
+      "meaning_es": "billete de ida y vuelta"
+    },
+    {
+      "term": "isolated",
+      "type": "Adjective",
+      "example": "The beach is very *** and hard to reach.",
+      "meaning_tr": "izole / gözlerden uzak",
+      "meaning_en": "far away from other places or people",
+      "meaning_uk": "ізольований",
+      "meaning_es": "aislado"
+    },
+    {
+      "term": "to commute",
+      "type": "Verb",
+      "example": "Many people *** to the city for work every day.",
+      "meaning_tr": "işe gidip gelmek",
+      "meaning_en": "to travel some distance between one's home and place of work",
+      "meaning_uk": "їздити на роботу",
+      "meaning_es": "desplazarse"
+    },
+    {
+      "term": "a peak season",
+      "type": "Noun",
+      "example": "Prices are much higher during the *** in summer.",
+      "meaning_tr": "turizm sezonu / yoğun sezon",
+      "meaning_en": "the time of year when travel is most popular",
+      "meaning_uk": "пік сезону",
+      "meaning_es": "temporada alta"
+    }
+  ]
+}

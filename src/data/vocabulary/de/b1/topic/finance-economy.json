@@ -1,0 +1,321 @@
+{
+  "title": "Finanzen & Wirtschaft (B1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Bank",
+      "type": "Noun",
+      "example": "Ich gehe heute zur ***, um Geld abzuheben.",
+      "meaning_tr": "banka",
+      "meaning_en": "bank",
+      "meaning_uk": "банк",
+      "meaning_es": "banco"
+    },
+    {
+      "term": "das Geld",
+      "type": "Noun",
+      "example": "Hast du genug *** für den Einkauf dabei?",
+      "meaning_tr": "para",
+      "meaning_en": "money",
+      "meaning_uk": "гроші",
+      "meaning_es": "dinero"
+    },
+    {
+      "term": "sparen",
+      "type": "Verb",
+      "example": "Wir müssen mehr ***, um uns ein Auto zu kaufen.",
+      "meaning_tr": "biriktirmek / tasarruf etmek",
+      "meaning_en": "to save",
+      "meaning_uk": "економити",
+      "meaning_es": "ahorrar"
+    },
+    {
+      "term": "die Rechnung",
+      "type": "Noun",
+      "example": "Könnten Sie mir bitte die *** bringen?",
+      "meaning_tr": "fatura / hesap",
+      "meaning_en": "bill / invoice",
+      "meaning_uk": "рахунок",
+      "meaning_es": "factura"
+    },
+    {
+      "term": "teuer",
+      "type": "Adjective",
+      "example": "Dieses Haus ist leider viel zu *** für uns.",
+      "meaning_tr": "pahalı",
+      "meaning_en": "expensive",
+      "meaning_uk": "дорогий",
+      "meaning_es": "caro"
+    },
+    {
+      "term": "günstig",
+      "type": "Adjective",
+      "example": "Das ist ein sehr *** Angebot.",
+      "meaning_tr": "ucuz / uygun fiyatlı",
+      "meaning_en": "cheap / affordable",
+      "meaning_uk": "дешевий / вигідний",
+      "meaning_es": "barato"
+    },
+    {
+      "term": "bezahlen",
+      "type": "Verb",
+      "example": "Kann ich hier mit Karte ***?",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to pay",
+      "meaning_uk": "платити",
+      "meaning_es": "pagar"
+    },
+    {
+      "term": "das Konto",
+      "type": "Noun",
+      "example": "Ich habe ein neues *** bei dieser Bank eröffnet.",
+      "meaning_tr": "hesap",
+      "meaning_en": "account",
+      "meaning_uk": "рахунок",
+      "meaning_es": "cuenta"
+    },
+    {
+      "term": "die Kreditkarte",
+      "type": "Noun",
+      "example": "Ich bezahle den Flug mit meiner ***.",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "credit card",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "tarjeta de crédito"
+    },
+    {
+      "term": "der Preis",
+      "type": "Noun",
+      "example": "Der *** für Benzin ist heute gestiegen.",
+      "meaning_tr": "fiyat",
+      "meaning_en": "price",
+      "meaning_uk": "ціна",
+      "meaning_es": "precio"
+    },
+    {
+      "term": "verdienen",
+      "type": "Verb",
+      "example": "Wie viel Geld *** du in deinem neuen Job?",
+      "meaning_tr": "kazanmak",
+      "meaning_en": "to earn",
+      "meaning_uk": "заробляти",
+      "meaning_es": "ganar"
+    },
+    {
+      "term": "die Steuer",
+      "type": "Noun",
+      "example": "Jeder Bürger muss regelmäßig *** zahlen.",
+      "meaning_tr": "vergi",
+      "meaning_en": "tax",
+      "meaning_uk": "податок",
+      "meaning_es": "impuesto"
+    },
+    {
+      "term": "ausgeben",
+      "type": "Verb",
+      "example": "Er möchte nicht so viel Geld für Kleidung ***.",
+      "meaning_tr": "harcamak",
+      "meaning_en": "to spend",
+      "meaning_uk": "витрачати",
+      "meaning_es": "gastar"
+    },
+    {
+      "term": "der Kredit",
+      "type": "Noun",
+      "example": "Wir haben einen *** für den Hauskauf aufgenommen.",
+      "meaning_tr": "kredi",
+      "meaning_en": "loan / credit",
+      "meaning_uk": "кредит",
+      "meaning_es": "crédito"
+    },
+    {
+      "term": "die Wirtschaft",
+      "type": "Noun",
+      "example": "Die *** wächst in diesem Jahr nur langsam.",
+      "meaning_tr": "ekonomi",
+      "meaning_en": "economy",
+      "meaning_uk": "економіка",
+      "meaning_es": "economía"
+    },
+    {
+      "term": "der Gewinn",
+      "type": "Noun",
+      "example": "Die Firma hat in diesem Quartal einen hohen *** gemacht.",
+      "meaning_tr": "kâr",
+      "meaning_en": "profit",
+      "meaning_uk": "прибуток",
+      "meaning_es": "ganancia"
+    },
+    {
+      "term": "der Verlust",
+      "type": "Noun",
+      "example": "Nach dem schlechten Jahr gab es einen großen ***.",
+      "meaning_tr": "zarar",
+      "meaning_en": "loss",
+      "meaning_uk": "збиток",
+      "meaning_es": "pérdida"
+    },
+    {
+      "term": "die Firma",
+      "type": "Noun",
+      "example": "Meine *** sucht neue Mitarbeiter.",
+      "meaning_tr": "firma / şirket",
+      "meaning_en": "company",
+      "meaning_uk": "фірма / компанія",
+      "meaning_es": "empresa"
+    },
+    {
+      "term": "der Kunde",
+      "type": "Noun",
+      "example": "Der *** ist mit dem Produkt sehr zufrieden.",
+      "meaning_tr": "müşteri",
+      "meaning_en": "customer",
+      "meaning_uk": "клієнт",
+      "meaning_es": "cliente"
+    },
+    {
+      "term": "das Angebot",
+      "type": "Noun",
+      "example": "Dieses *** gilt nur für diese Woche.",
+      "meaning_tr": "teklif / indirim",
+      "meaning_en": "offer / deal",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "oferta"
+    },
+    {
+      "term": "die Investition",
+      "type": "Noun",
+      "example": "Die *** in neue Maschinen war sehr wichtig.",
+      "meaning_tr": "yatırım",
+      "meaning_en": "investment",
+      "meaning_uk": "інвестиція",
+      "meaning_es": "inversión"
+    },
+    {
+      "term": "die Währung",
+      "type": "Noun",
+      "example": "Der Euro ist die offizielle *** in Deutschland.",
+      "meaning_tr": "para birimi",
+      "meaning_en": "currency",
+      "meaning_uk": "валюта",
+      "meaning_es": "moneda"
+    },
+    {
+      "term": "der Markt",
+      "type": "Noun",
+      "example": "Das Unternehmen möchte neue *** erschließen.",
+      "meaning_tr": "pazar / piyasa",
+      "meaning_en": "market",
+      "meaning_uk": "ринок",
+      "meaning_es": "mercado"
+    },
+    {
+      "term": "handeln",
+      "type": "Verb",
+      "example": "Viele Länder *** weltweit miteinander.",
+      "meaning_tr": "ticaret yapmak",
+      "meaning_en": "to trade",
+      "meaning_uk": "торгувати",
+      "meaning_es": "comerciar"
+    },
+    {
+      "term": "finanziell",
+      "type": "Adjective",
+      "example": "Sie haben momentan *** Schwierigkeiten.",
+      "meaning_tr": "finansal / mali",
+      "meaning_en": "financial",
+      "meaning_uk": "фінансовий",
+      "meaning_es": "financiero"
+    },
+    {
+      "term": "das Budget",
+      "type": "Noun",
+      "example": "Wir müssen innerhalb des *** bleiben.",
+      "meaning_tr": "bütçe",
+      "meaning_en": "budget",
+      "meaning_uk": "бюджет",
+      "meaning_es": "presupuesto"
+    },
+    {
+      "term": "der Umsatz",
+      "type": "Noun",
+      "example": "Der *** ist im letzten Monat stark gestiegen.",
+      "meaning_tr": "ciro / satış hacmi",
+      "meaning_en": "revenue / turnover",
+      "meaning_uk": "товарообіг",
+      "meaning_es": "volumen de ventas"
+    },
+    {
+      "term": "die Inflation",
+      "type": "Noun",
+      "example": "Die *** führt dazu, dass alles teurer wird.",
+      "meaning_tr": "enflasyon",
+      "meaning_en": "inflation",
+      "meaning_uk": "інфляція",
+      "meaning_es": "inflación"
+    },
+    {
+      "term": "wirtschaftlich",
+      "type": "Adjective",
+      "example": "Die *** Lage in Europa ist stabil.",
+      "meaning_tr": "ekonomik",
+      "meaning_en": "economic",
+      "meaning_uk": "економічний",
+      "meaning_es": "económico"
+    },
+    {
+      "term": "überweisen",
+      "type": "Verb",
+      "example": "Ich werde das Geld morgen auf dein Konto ***.",
+      "meaning_tr": "havale etmek / transfer etmek",
+      "meaning_en": "to transfer (money)",
+      "meaning_uk": "переказувати",
+      "meaning_es": "transferir"
+    },
+    {
+      "term": "die Gebühr",
+      "type": "Noun",
+      "example": "Für diesen Service fällt eine kleine *** an.",
+      "meaning_tr": "ücret / harç",
+      "meaning_en": "fee",
+      "meaning_uk": "комісія / плата",
+      "meaning_es": "tarifa / comisión"
+    },
+    {
+      "term": "bar",
+      "type": "Adverb",
+      "example": "Möchten Sie mit Karte oder *** bezahlen?",
+      "meaning_tr": "nakit",
+      "meaning_en": "cash",
+      "meaning_uk": "готівкою",
+      "meaning_es": "en efectivo"
+    },
+    {
+      "term": "die Aktie",
+      "type": "Noun",
+      "example": "Er hat viel Geld in *** investiert.",
+      "meaning_tr": "hisse senedi",
+      "meaning_en": "stock / share",
+      "meaning_uk": "акція",
+      "meaning_es": "acción"
+    },
+    {
+      "term": "kaufen",
+      "type": "Verb",
+      "example": "Wir müssen für das Wochenende Lebensmittel ***.",
+      "meaning_tr": "satın almak",
+      "meaning_en": "to buy",
+      "meaning_uk": "купувати",
+      "meaning_es": "comprar"
+    },
+    {
+      "term": "verkaufen",
+      "type": "Verb",
+      "example": "Sie möchte ihr altes Auto ***.",
+      "meaning_tr": "satmak",
+      "meaning_en": "to sell",
+      "meaning_uk": "продавати",
+      "meaning_es": "vender"
+    }
+  ]
+}

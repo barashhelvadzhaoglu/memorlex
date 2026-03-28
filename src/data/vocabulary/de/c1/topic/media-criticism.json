@@ -1,0 +1,546 @@
+{
+  "title": "Medienkritik (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Manipulation",
+      "type": "Noun",
+      "example": "Durch gezielte *** werden die Leser in eine bestimmte Richtung gelenkt.",
+      "meaning_tr": "Manipülasyon",
+      "meaning_en": "manipulation",
+      "meaning_uk": "маніпуляція",
+      "meaning_es": "manipulación"
+    },
+    {
+      "term": "die Echokammer",
+      "type": "Noun",
+      "example": "Soziale Medien führen oft zur Bildung einer ***.",
+      "meaning_tr": "Yankı odası",
+      "meaning_en": "echo chamber",
+      "meaning_uk": "ехо-камера",
+      "meaning_es": "cámara de eco"
+    },
+    {
+      "term": "die Desinformation",
+      "type": "Noun",
+      "example": "Die Verbreitung von *** gefährdet den demokratischen Diskurs.",
+      "meaning_tr": "Dezenformasyon",
+      "meaning_en": "disinformation",
+      "meaning_uk": "дезінформація",
+      "meaning_es": "desinformación"
+    },
+    {
+      "term": "die Filterblase",
+      "type": "Noun",
+      "example": "Algorithmen isolieren Nutzer in einer ***.",
+      "meaning_tr": "Filtre balonu",
+      "meaning_en": "filter bubble",
+      "meaning_uk": "фільтр-бульбашка",
+      "meaning_es": "burbuja de filtro"
+    },
+    {
+      "term": "die Meinungsmache",
+      "type": "Noun",
+      "example": "Kritiker werfen dem Sender eine einseitige *** vor.",
+      "meaning_tr": "Kamuoyu oluşturma / Manipülasyon",
+      "meaning_en": "opinion molding",
+      "meaning_uk": "формування громадської думки",
+      "meaning_es": "formación de opinión"
+    },
+    {
+      "term": "die Zensur",
+      "type": "Noun",
+      "example": "In autoritären Staaten ist die *** an der Tagesordnung.",
+      "meaning_tr": "Sansür",
+      "meaning_en": "censorship",
+      "meaning_uk": "цензура",
+      "meaning_es": "censura"
+    },
+    {
+      "term": "die Nachrichtenkompetenz",
+      "type": "Noun",
+      "example": "Schulen sollten verstärkt *** vermitteln.",
+      "meaning_tr": "Haber okuryazarlığı",
+      "meaning_en": "news literacy",
+      "meaning_uk": "медіаграмотність",
+      "meaning_es": "alfabetización mediática"
+    },
+    {
+      "term": "die Verharmlosung",
+      "type": "Noun",
+      "example": "Die *** von Gewalt in Medien ist ethisch bedenklich.",
+      "meaning_tr": "Önemsizleştirme",
+      "meaning_en": "trivialization",
+      "meaning_uk": "применшення",
+      "meaning_es": "trivialización"
+    },
+    {
+      "term": "die Glaubwürdigkeit",
+      "type": "Noun",
+      "example": "Die *** des Journalismus leidet unter Skandalen.",
+      "meaning_tr": "Güvenilirlik",
+      "meaning_en": "credibility",
+      "meaning_uk": "достовірність",
+      "meaning_es": "credibilidad"
+    },
+    {
+      "term": "die Sensationsgier",
+      "type": "Noun",
+      "example": "Die *** der Boulevardpresse kennt keine Grenzen.",
+      "meaning_tr": "Sansasyon düşkünlüğü",
+      "meaning_en": "sensationalism",
+      "meaning_uk": "гонитва за сенсаціями",
+      "meaning_es": "sensacionalismo"
+    },
+    {
+      "term": "die Objektivität",
+      "type": "Noun",
+      "example": "Vollständige *** ist in der Berichterstattung schwer zu erreichen.",
+      "meaning_tr": "Objektiflik",
+      "meaning_en": "objectivity",
+      "meaning_uk": "об'єктивність",
+      "meaning_es": "objetividad"
+    },
+    {
+      "term": "die Medienethik",
+      "type": "Noun",
+      "example": "Ein Verstoß gegen die *** hat Konsequenzen.",
+      "meaning_tr": "Medya etiği",
+      "meaning_en": "media ethics",
+      "meaning_uk": "медіаетика",
+      "meaning_es": "ética de los medios"
+    },
+    {
+      "term": "die Überwachung",
+      "type": "Noun",
+      "example": "Digitale *** wird zunehmend kritisch diskutiert.",
+      "meaning_tr": "Gözetim",
+      "meaning_en": "surveillance",
+      "meaning_uk": "стеження",
+      "meaning_es": "vigilancia"
+    },
+    {
+      "term": "die Privatsphäre",
+      "type": "Noun",
+      "example": "Soziale Netzwerke gefährden oft die *** der Nutzer.",
+      "meaning_tr": "Özel hayat",
+      "meaning_en": "privacy",
+      "meaning_uk": "приватність",
+      "meaning_es": "privacidad"
+    },
+    {
+      "term": "die Meinungsfreiheit",
+      "type": "Noun",
+      "example": "Die *** ist ein hohes Gut unserer Gesellschaft.",
+      "meaning_tr": "İfade özgürlüğü",
+      "meaning_en": "freedom of speech",
+      "meaning_uk": "свобода слова",
+      "meaning_es": "libertad de expresión"
+    },
+    {
+      "term": "die Polarisierung",
+      "type": "Noun",
+      "example": "Die mediale Debatte führt zu einer starken *** der Gesellschaft.",
+      "meaning_tr": "Kutuplaşma",
+      "meaning_en": "polarization",
+      "meaning_uk": "поляризація",
+      "meaning_es": "polarización"
+    },
+    {
+      "term": "die Hetze",
+      "type": "Noun",
+      "example": "Online-*** gegen Minderheiten muss strafrechtlich verfolgt werden.",
+      "meaning_tr": "Kışkırtma / Nefret söylemi",
+      "meaning_en": "incitement / hate speech",
+      "meaning_uk": "підбурювання",
+      "meaning_es": "incitación al odio"
+    },
+    {
+      "term": "die Boulevardisierung",
+      "type": "Noun",
+      "example": "Die *** des Qualitätsjournalismus ist ein besorgniserregender Trend.",
+      "meaning_tr": "Magazinleşme",
+      "meaning_en": "tabloidization",
+      "meaning_uk": "таблоїдизація",
+      "meaning_es": "tabloideización"
+    },
+    {
+      "term": "die Transparenz",
+      "type": "Noun",
+      "example": "Medien fordern von Politikern mehr ***.",
+      "meaning_tr": "Şeffaflık",
+      "meaning_en": "transparency",
+      "meaning_uk": "прозорість",
+      "meaning_es": "transparencia"
+    },
+    {
+      "term": "die Diskursverengung",
+      "type": "Noun",
+      "example": "Kritiker warnen vor einer *** durch einseitige Berichterstattung.",
+      "meaning_tr": "Söylem daralması",
+      "meaning_en": "narrowing of discourse",
+      "meaning_uk": "звуження дискурсу",
+      "meaning_es": "estrechamiento del discurso"
+    },
+    {
+      "term": "verzerren",
+      "type": "Verb",
+      "example": "Manche Medien *** die Realität bewusst.",
+      "meaning_tr": "Çarpıtmak",
+      "meaning_en": "to distort",
+      "meaning_uk": "викривляти",
+      "meaning_es": "distorsionar"
+    },
+    {
+      "term": "instrumentalisieren",
+      "type": "Verb",
+      "example": "Politiker versuchen oft, Medien für ihre Ziele zu ***.",
+      "meaning_tr": "Araçsallaştırmak",
+      "meaning_en": "to instrumentalize",
+      "meaning_uk": "інструменталізувати",
+      "meaning_es": "instrumentalizar"
+    },
+    {
+      "term": "aufhetzen",
+      "type": "Verb",
+      "example": "Die Berichte versuchen, die Bevölkerung gegeneinander zu ***.",
+      "meaning_tr": "Kışkırtmak",
+      "meaning_en": "to incite",
+      "meaning_uk": "підбурювати",
+      "meaning_es": "incitar"
+    },
+    {
+      "term": "thematisieren",
+      "type": "Verb",
+      "example": "Die Zeitung wird dieses Problem morgen ausführlich ***.",
+      "meaning_tr": "Konu edinmek",
+      "meaning_en": "to address / to discuss",
+      "meaning_uk": "обговорювати",
+      "meaning_es": "tratar / tematizar"
+    },
+    {
+      "term": "diffamieren",
+      "type": "Verb",
+      "example": "Er wurde in der Presse massiv ***.",
+      "meaning_tr": "İftira atmak / Karalamak",
+      "meaning_en": "to defame",
+      "meaning_uk": "наклепувати",
+      "meaning_es": "difamar"
+    },
+    {
+      "term": "recherchieren",
+      "type": "Verb",
+      "example": "Journalisten müssen sorgfältig ***, bevor sie veröffentlichen.",
+      "meaning_tr": "Araştırmak",
+      "meaning_en": "to research",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "investigar"
+    },
+    {
+      "term": "verharmlosen",
+      "type": "Verb",
+      "example": "Es ist gefährlich, solche Vorfälle zu ***.",
+      "meaning_tr": "Önemsizleştirmek",
+      "meaning_en": "to trivialize",
+      "meaning_uk": "применшувати",
+      "meaning_es": "trivializar"
+    },
+    {
+      "term": "inszenieren",
+      "type": "Verb",
+      "example": "Ereignisse werden oft künstlich für die Kamera ***.",
+      "meaning_tr": "Sahnelemek / Kurgulamak",
+      "meaning_en": "to stage",
+      "meaning_uk": "інсценувати",
+      "meaning_es": "escenificar"
+    },
+    {
+      "term": "ausblenden",
+      "type": "Verb",
+      "example": "Wichtige Fakten wurden in diesem Beitrag komplett ***.",
+      "meaning_tr": "Görmezden gelmek",
+      "meaning_en": "to fade out / ignore",
+      "meaning_uk": "ігнорувати",
+      "meaning_es": "ignorar / omitir"
+    },
+    {
+      "term": "indoktrinieren",
+      "type": "Verb",
+      "example": "Propaganda versucht, die Massen zu ***.",
+      "meaning_tr": "Beyin yıkamak",
+      "meaning_en": "to indoctrinate",
+      "meaning_uk": "індоктринувати",
+      "meaning_es": "adoctrinar"
+    },
+    {
+      "term": "manipulativ",
+      "type": "Adjective",
+      "example": "Die Überschrift wirkt sehr ***.",
+      "meaning_tr": "Manipülatif",
+      "meaning_en": "manipulative",
+      "meaning_uk": "маніпулятивний",
+      "meaning_es": "manipulador"
+    },
+    {
+      "term": "einseitig",
+      "type": "Adjective",
+      "example": "Die Berichterstattung war völlig ***.",
+      "meaning_tr": "Tek taraflı",
+      "meaning_en": "one-sided",
+      "meaning_uk": "односторонній",
+      "meaning_es": "unilateral"
+    },
+    {
+      "term": "reißerisch",
+      "type": "Adjective",
+      "example": "Die Schlagzeilen sind oft unnötig ***.",
+      "meaning_tr": "Sansasyonel / Abartılı",
+      "meaning_en": "sensational",
+      "meaning_uk": "сенсаційний",
+      "meaning_es": "sensacionalista"
+    },
+    {
+      "term": "subjektiv",
+      "type": "Adjective",
+      "example": "Jeder Bericht ist von Natur aus etwas ***.",
+      "meaning_tr": "Öznel",
+      "meaning_en": "subjective",
+      "meaning_uk": "суб'єктивний",
+      "meaning_es": "subjetivo"
+    },
+    {
+      "term": "neutral",
+      "type": "Adjective",
+      "example": "Ein guter Journalist sollte stets *** bleiben.",
+      "meaning_tr": "Tarafsız",
+      "meaning_en": "neutral",
+      "meaning_uk": "нейтральний",
+      "meaning_es": "neutral"
+    },
+    {
+      "term": "unabhängig",
+      "type": "Adjective",
+      "example": "Die Presse muss vom Staat *** sein.",
+      "meaning_tr": "Bağımsız",
+      "meaning_en": "independent",
+      "meaning_uk": "незалежний",
+      "meaning_es": "independiente"
+    },
+    {
+      "term": "kritisch",
+      "type": "Adjective",
+      "example": "Man sollte Medienberichte stets *** hinterfragen.",
+      "meaning_tr": "Eleştirel",
+      "meaning_en": "critical",
+      "meaning_uk": "критичний",
+      "meaning_es": "crítico"
+    },
+    {
+      "term": "seriös",
+      "type": "Adjective",
+      "example": "Das ist keine *** Quelle für diese Informationen.",
+      "meaning_tr": "Ciddi / Güvenilir",
+      "meaning_en": "serious / reliable",
+      "meaning_uk": "серйозний",
+      "meaning_es": "serio"
+    },
+    {
+      "term": "plakativ",
+      "type": "Adjective",
+      "example": "Die Argumente waren zu *** und oberflächlich.",
+      "meaning_tr": "Çarpıcı / Yüzeysel",
+      "meaning_en": "striking / superficial",
+      "meaning_uk": "плакатний",
+      "meaning_es": "llamativo / simplista"
+    },
+    {
+      "term": "recherchiert",
+      "type": "Adjective",
+      "example": "Der Artikel war hervorragend ***.",
+      "meaning_tr": "Araştırılmış",
+      "meaning_en": "researched",
+      "meaning_uk": "досліджений",
+      "meaning_es": "investigado"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "*** der Medienqualität gibt es große Unterschiede.",
+      "meaning_tr": "Bakımından / İle ilgili olarak",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "trotz",
+      "type": "Preposition",
+      "example": "*** der Kritik bleibt der Sender bei seiner Linie.",
+      "meaning_tr": "Rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "попри",
+      "meaning_es": "a pesar de"
+    },
+    {
+      "term": "aufgrund",
+      "type": "Preposition",
+      "example": "*** der hohen Nachfrage wurde der Bericht gekürzt.",
+      "meaning_tr": "Nedeniyle",
+      "meaning_en": "due to",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "debido a"
+    },
+    {
+      "term": "angesichts",
+      "type": "Preposition",
+      "example": "*** der aktuellen Lage ist Vorsicht geboten.",
+      "meaning_tr": "Göz önüne alındığında",
+      "meaning_en": "in view of",
+      "meaning_uk": "зважаючи на",
+      "meaning_es": "en vista de"
+    },
+    {
+      "term": "bezüglich",
+      "type": "Preposition",
+      "example": "*** dieses Themas gibt es noch Klärungsbedarf.",
+      "meaning_tr": "Hakkında",
+      "meaning_en": "concerning",
+      "meaning_uk": "стосовно",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "kritisch",
+      "type": "Adverb",
+      "example": "Wir müssen die Quellen *** betrachten.",
+      "meaning_tr": "Eleştirel bir şekilde",
+      "meaning_en": "critically",
+      "meaning_uk": "критично",
+      "meaning_es": "críticamente"
+    },
+    {
+      "term": "bewusst",
+      "type": "Adverb",
+      "example": "Er hat *** falsche Informationen gestreut.",
+      "meaning_tr": "Bilinçli olarak",
+      "meaning_en": "deliberately",
+      "meaning_uk": "свідомо",
+      "meaning_es": "conscientemente"
+    },
+    {
+      "term": "zunehmend",
+      "type": "Adverb",
+      "example": "Die Medienlandschaft verändert sich ***.",
+      "meaning_tr": "Giderek artan bir şekilde",
+      "meaning_en": "increasingly",
+      "meaning_uk": "дедалі більше",
+      "meaning_es": "cada vez más"
+    },
+    {
+      "term": "teilweise",
+      "type": "Adverb",
+      "example": "Der Bericht ist *** faktisch falsch.",
+      "meaning_tr": "Kısmen",
+      "meaning_en": "partly",
+      "meaning_uk": "частково",
+      "meaning_es": "parcialmente"
+    },
+    {
+      "term": "jedoch",
+      "type": "Adverb",
+      "example": "Die Fakten sind klar, *** wird die Darstellung verzerrt.",
+      "meaning_tr": "Ancak",
+      "meaning_en": "however",
+      "meaning_uk": "однак",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "obwohl",
+      "type": "Conjunction",
+      "example": "*** die Quellen seriös sind, gibt es Fehler.",
+      "meaning_tr": "Rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "*** die einen die Nachricht feiern, lehnen sie andere ab.",
+      "meaning_tr": "-iken",
+      "meaning_en": "while",
+      "meaning_uk": "у той час як",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "da",
+      "type": "Conjunction",
+      "example": "*** die Medien die Macht haben, müssen sie verantwortungsbewusst handeln.",
+      "meaning_tr": "Çünkü",
+      "meaning_en": "since / because",
+      "meaning_uk": "оскільки",
+      "meaning_es": "puesto que"
+    },
+    {
+      "term": "sodass",
+      "type": "Conjunction",
+      "example": "Die Nachricht wurde gestreut, *** sich die Meinung schnell änderte.",
+      "meaning_tr": "Öyle ki",
+      "meaning_en": "so that",
+      "meaning_uk": "так що",
+      "meaning_es": "de modo que"
+    },
+    {
+      "term": "indem",
+      "type": "Conjunction",
+      "example": "Man erkennt Manipulation, *** man verschiedene Quellen vergleicht.",
+      "meaning_tr": "-erek/-arak",
+      "meaning_en": "by (doing)",
+      "meaning_uk": "шляхом",
+      "meaning_es": "mediante"
+    },
+    {
+      "term": "der Faktencheck",
+      "type": "Noun",
+      "example": "Ein regelmäßiger *** hilft, Falschmeldungen zu entlarven.",
+      "meaning_tr": "Doğrulama / Gerçek kontrolü",
+      "meaning_en": "fact-check",
+      "meaning_uk": "перевірка фактів",
+      "meaning_es": "verificación de hechos"
+    },
+    {
+      "term": "die Falschmeldung",
+      "type": "Noun",
+      "example": "Die Verbreitung von *** ist ein großes digitales Problem.",
+      "meaning_tr": "Yalan haber",
+      "meaning_en": "fake news / false report",
+      "meaning_uk": "фейкова новина",
+      "meaning_es": "noticia falsa"
+    },
+    {
+      "term": "die Redaktionslinie",
+      "type": "Noun",
+      "example": "Jede Zeitung folgt einer bestimmten ***.",
+      "meaning_tr": "Yayın politikası",
+      "meaning_en": "editorial policy",
+      "meaning_uk": "редакційна політика",
+      "meaning_es": "línea editorial"
+    },
+    {
+      "term": "entlarven",
+      "type": "Verb",
+      "example": "Es ist wichtig, Lügen in den Medien zu ***.",
+      "meaning_tr": "Maskesini düşürmek / Ortaya çıkarmak",
+      "meaning_en": "to expose / unmask",
+      "meaning_uk": "викривати",
+      "meaning_es": "desenmascarar"
+    },
+    {
+      "term": "manipuliert",
+      "type": "Adjective",
+      "example": "Das Foto wurde digital ***.",
+      "meaning_tr": "Manipüle edilmiş",
+      "meaning_en": "manipulated",
+      "meaning_uk": "маніпульований",
+      "meaning_es": "manipulado"
+    }
+  ]
+}

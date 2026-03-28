@@ -1,0 +1,411 @@
+{
+  "title": "Finance & Economy (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a recession",
+      "type": "Noun",
+      "example": "The country is currently going through *** due to low consumer spending.",
+      "meaning_tr": "ekonomik durgunluk",
+      "meaning_en": "a period of temporary economic decline",
+      "meaning_uk": "економічний спад",
+      "meaning_es": "una recesión"
+    },
+    {
+      "term": "to invest",
+      "type": "Verb",
+      "example": "It is wise *** in stocks for long-term growth.",
+      "meaning_tr": "yatırım yapmak",
+      "meaning_en": "to put money into something for profit",
+      "meaning_uk": "інвестувати",
+      "meaning_es": "invertir"
+    },
+    {
+      "term": "inflation",
+      "type": "Noun",
+      "example": "High *** makes the cost of living rise significantly.",
+      "meaning_tr": "enflasyon",
+      "meaning_en": "a general increase in prices",
+      "meaning_uk": "інфляція",
+      "meaning_es": "la inflación"
+    },
+    {
+      "term": "profitable",
+      "type": "Adjective",
+      "example": "The small business became *** after only six months.",
+      "meaning_tr": "kârlı",
+      "meaning_en": "yielding profit or financial gain",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "rentable"
+    },
+    {
+      "term": "a budget",
+      "type": "Noun",
+      "example": "We need to stick to our *** to avoid unnecessary debt.",
+      "meaning_tr": "bütçe",
+      "meaning_en": "an estimate of income and expenditure",
+      "meaning_uk": "бюджет",
+      "meaning_es": "un presupuesto"
+    },
+    {
+      "term": "to bankrupt",
+      "type": "Verb",
+      "example": "The sudden market crash caused the company ***.",
+      "meaning_tr": "iflas ettirmek",
+      "meaning_en": "to make someone unable to pay debts",
+      "meaning_uk": "збанкрутувати",
+      "meaning_es": "llevar a la quiebra"
+    },
+    {
+      "term": "fiscal",
+      "type": "Adjective",
+      "example": "The government announced new *** policies to boost the economy.",
+      "meaning_tr": "mali",
+      "meaning_en": "relating to government revenue or taxes",
+      "meaning_uk": "фіскальний",
+      "meaning_es": "fiscal"
+    },
+    {
+      "term": "a share",
+      "type": "Noun",
+      "example": "She decided to buy a *** in the tech company.",
+      "meaning_tr": "hisse",
+      "meaning_en": "a part of the capital of a company",
+      "meaning_uk": "акція",
+      "meaning_es": "una acción"
+    },
+    {
+      "term": "to fluctuate",
+      "type": "Verb",
+      "example": "Exchange rates tend *** depending on global events.",
+      "meaning_tr": "dalgalanmak",
+      "meaning_en": "to rise and fall irregularly",
+      "meaning_uk": "коливатися",
+      "meaning_es": "fluctuar"
+    },
+    {
+      "term": "an expenditure",
+      "type": "Noun",
+      "example": "The company reduced its total *** to save money.",
+      "meaning_tr": "harcama",
+      "meaning_en": "the action of spending funds",
+      "meaning_uk": "витрати",
+      "meaning_es": "un gasto"
+    },
+    {
+      "term": "a liability",
+      "type": "Noun",
+      "example": "The company has a large *** that it must pay off soon.",
+      "meaning_tr": "yükümlülük",
+      "meaning_en": "a thing for which someone is responsible",
+      "meaning_uk": "зобов'язання",
+      "meaning_es": "un pasivo"
+    },
+    {
+      "term": "to withdraw",
+      "type": "Verb",
+      "example": "I need to go to the bank to *** some cash.",
+      "meaning_tr": "para çekmek",
+      "meaning_en": "to remove money from an account",
+      "meaning_uk": "знімати кошти",
+      "meaning_es": "retirar"
+    },
+    {
+      "term": "a dividend",
+      "type": "Noun",
+      "example": "Shareholders receive a *** twice a year.",
+      "meaning_tr": "kâr payı",
+      "meaning_en": "a sum of money paid regularly by a company",
+      "meaning_uk": "дивіденд",
+      "meaning_es": "un dividendo"
+    },
+    {
+      "term": "an asset",
+      "type": "Noun",
+      "example": "Property is considered a valuable *** for long-term security.",
+      "meaning_tr": "varlık",
+      "meaning_en": "a useful or valuable thing",
+      "meaning_uk": "актив",
+      "meaning_es": "un activo"
+    },
+    {
+      "term": "monetary",
+      "type": "Adjective",
+      "example": "The central bank controls the *** policy of the country.",
+      "meaning_tr": "parasal",
+      "meaning_en": "relating to money or currency",
+      "meaning_uk": "грошовий",
+      "meaning_es": "monetario"
+    },
+    {
+      "term": "a commodity",
+      "type": "Noun",
+      "example": "Gold is a popular *** traded on the global market.",
+      "meaning_tr": "emtia",
+      "meaning_en": "a raw material that can be bought and sold",
+      "meaning_uk": "товар",
+      "meaning_es": "una mercancía"
+    },
+    {
+      "term": "to diversify",
+      "type": "Verb",
+      "example": "It is important to *** your portfolio to reduce risk.",
+      "meaning_tr": "çeşitlendirmek",
+      "meaning_en": "to enlarge or vary the range of products",
+      "meaning_uk": "диверсифікувати",
+      "meaning_es": "diversificar"
+    },
+    {
+      "term": "a surplus",
+      "type": "Noun",
+      "example": "The government reported a budget *** for the first time in years.",
+      "meaning_tr": "fazlalık",
+      "meaning_en": "an amount left over when requirements are met",
+      "meaning_uk": "надлишок",
+      "meaning_es": "un superávit"
+    },
+    {
+      "term": "to audit",
+      "type": "Verb",
+      "example": "The firm hired an outside accountant to *** their books.",
+      "meaning_tr": "denetlemek",
+      "meaning_en": "to conduct an official financial examination",
+      "meaning_uk": "проводити аудит",
+      "meaning_es": "auditar"
+    },
+    {
+      "term": "lucrative",
+      "type": "Adjective",
+      "example": "He signed a very *** contract with a major firm.",
+      "meaning_tr": "kazançlı",
+      "meaning_en": "producing a great deal of profit",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "lucrativo"
+    },
+    {
+      "term": "a revenue",
+      "type": "Noun",
+      "example": "The company's annual *** has increased by ten percent.",
+      "meaning_tr": "gelir",
+      "meaning_en": "income, especially when of a large organization",
+      "meaning_uk": "дохід",
+      "meaning_es": "un ingreso"
+    },
+    {
+      "term": "to subsidize",
+      "type": "Verb",
+      "example": "The government plans to *** renewable energy projects.",
+      "meaning_tr": "sübvanse etmek",
+      "meaning_en": "to support an organization financially",
+      "meaning_uk": "субсидувати",
+      "meaning_es": "subsidiar"
+    },
+    {
+      "term": "a deficit",
+      "type": "Noun",
+      "example": "The trade *** has widened due to increased imports.",
+      "meaning_tr": "açık",
+      "meaning_en": "the amount by which something is too small",
+      "meaning_uk": "дефіцит",
+      "meaning_es": "un déficit"
+    },
+    {
+      "term": "volatile",
+      "type": "Adjective",
+      "example": "The stock market has been very *** this week.",
+      "meaning_tr": "değişken",
+      "meaning_en": "liable to change rapidly and unpredictably",
+      "meaning_uk": "мінливий",
+      "meaning_es": "volátil"
+    },
+    {
+      "term": "a recession",
+      "type": "Noun",
+      "example": "Many experts fear we are heading into a global ***.",
+      "meaning_tr": "durgunluk",
+      "meaning_en": "a period of economic downturn",
+      "meaning_uk": "рецесія",
+      "meaning_es": "una recesión"
+    },
+    {
+      "term": "to auction",
+      "type": "Verb",
+      "example": "They decided to *** the antique furniture to raise funds.",
+      "meaning_tr": "açık artırmayla satmak",
+      "meaning_en": "to sell items to the highest bidder",
+      "meaning_uk": "продавати на аукціоні",
+      "meaning_es": "subastar"
+    },
+    {
+      "term": "a mortgage",
+      "type": "Noun",
+      "example": "He is paying off a 30-year *** on his house.",
+      "meaning_tr": "ipotek",
+      "meaning_en": "a legal agreement to borrow money for a house",
+      "meaning_uk": "іпотека",
+      "meaning_es": "una hipoteca"
+    },
+    {
+      "term": "to depreciate",
+      "type": "Verb",
+      "example": "New cars tend to *** significantly in the first year.",
+      "meaning_tr": "değer kaybetmek",
+      "meaning_en": "to diminish in value over time",
+      "meaning_uk": "знецінюватися",
+      "meaning_es": "depreciarse"
+    },
+    {
+      "term": "a merger",
+      "type": "Noun",
+      "example": "The *** between the two banks created a financial giant.",
+      "meaning_tr": "birleşme",
+      "meaning_en": "the combination of two companies into one",
+      "meaning_uk": "злиття",
+      "meaning_es": "una fusión"
+    },
+    {
+      "term": "an equity",
+      "type": "Noun",
+      "example": "She holds significant *** in the startup she helped found.",
+      "meaning_tr": "öz sermaye",
+      "meaning_en": "the value of the shares issued by a company",
+      "meaning_uk": "власний капітал",
+      "meaning_es": "un capital"
+    },
+    {
+      "term": "to negotiate",
+      "type": "Verb",
+      "example": "Management will *** a new salary deal with the union.",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to obtain something by discussion",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "negociar"
+    },
+    {
+      "term": "a tariff",
+      "type": "Noun",
+      "example": "The government imposed a new *** on imported steel.",
+      "meaning_tr": "gümrük vergisi",
+      "meaning_en": "a tax on imports or exports",
+      "meaning_uk": "тариф",
+      "meaning_es": "un arancel"
+    },
+    {
+      "term": "to liquidate",
+      "type": "Verb",
+      "example": "The company had to *** its assets to pay the creditors.",
+      "meaning_tr": "tasfiye etmek",
+      "meaning_en": "to sell off assets to pay debts",
+      "meaning_uk": "ліквідувати",
+      "meaning_es": "liquidar"
+    },
+    {
+      "term": "a conglomerate",
+      "type": "Noun",
+      "example": "The media *** owns several newspapers and TV stations.",
+      "meaning_tr": "holding",
+      "meaning_en": "a large corporation made of different companies",
+      "meaning_uk": "конгломерат",
+      "meaning_es": "un conglomerado"
+    },
+    {
+      "term": "to overdraw",
+      "type": "Verb",
+      "example": "If you *** your account, you will be charged a fee.",
+      "meaning_tr": "hesaptan fazla para çekmek",
+      "meaning_en": "to take more money than is available",
+      "meaning_uk": "перевитрачати кошти",
+      "meaning_es": "descubrir la cuenta"
+    },
+    {
+      "term": "a bear market",
+      "type": "Noun",
+      "example": "Investors are cautious because we are in a ***.",
+      "meaning_tr": "düşüş piyasası",
+      "meaning_en": "a market where prices are falling",
+      "meaning_uk": "ведмежий ринок",
+      "meaning_es": "un mercado bajista"
+    },
+    {
+      "term": "to inflate",
+      "type": "Verb",
+      "example": "The company tried to *** its sales figures to look better.",
+      "meaning_tr": "şişirmek",
+      "meaning_en": "to increase the size or value of something",
+      "meaning_uk": "надувати",
+      "meaning_es": "inflar"
+    },
+    {
+      "term": "a portfolio",
+      "type": "Noun",
+      "example": "He keeps a diverse *** of stocks and bonds.",
+      "meaning_tr": "portföy",
+      "meaning_en": "a range of investments held by a person",
+      "meaning_uk": "портфель",
+      "meaning_es": "una cartera"
+    },
+    {
+      "term": "to underperform",
+      "type": "Verb",
+      "example": "The stock continues to *** compared to the industry average.",
+      "meaning_tr": "düşük performans göstermek",
+      "meaning_en": "to perform less well than expected",
+      "meaning_uk": "показувати низькі результати",
+      "meaning_es": "tener un rendimiento inferior"
+    },
+    {
+      "term": "a recession",
+      "type": "Noun",
+      "example": "Economic experts are predicting a severe *** next year.",
+      "meaning_tr": "ekonomik kriz",
+      "meaning_en": "a downturn in economic activity",
+      "meaning_uk": "рецесія",
+      "meaning_es": "una recesión"
+    },
+    {
+      "term": "to remit",
+      "type": "Verb",
+      "example": "Workers often *** money back to their families abroad.",
+      "meaning_tr": "para göndermek",
+      "meaning_en": "to send money in payment",
+      "meaning_uk": "переказувати",
+      "meaning_es": "remitir"
+    },
+    {
+      "term": "an overhead",
+      "type": "Noun",
+      "example": "High rent increases our monthly *** significantly.",
+      "meaning_tr": "genel gider",
+      "meaning_en": "business expenses not related to production",
+      "meaning_uk": "накладні витрати",
+      "meaning_es": "un gasto general"
+    },
+    {
+      "term": "to default",
+      "type": "Verb",
+      "example": "The company might *** on its loan if sales don't improve.",
+      "meaning_tr": "borcunu ödeyememek",
+      "meaning_en": "to fail to fulfill an obligation",
+      "meaning_uk": "не виконувати зобов'язання",
+      "meaning_es": "incumplir"
+    },
+    {
+      "term": "a recession",
+      "type": "Noun",
+      "example": "The government is trying to prevent a deep ***.",
+      "meaning_tr": "daralma",
+      "meaning_en": "a period of economic contraction",
+      "meaning_uk": "рецесія",
+      "meaning_es": "una recesión"
+    },
+    {
+      "term": "to outsource",
+      "type": "Verb",
+      "example": "They decided to *** their customer service to another country.",
+      "meaning_tr": "dış kaynak kullanmak",
+      "meaning_en": "to obtain goods from an outside source",
+      "meaning_uk": "передавати на аутсорсинг",
+      "meaning_es": "externalizar"
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "title": "Umwelt & Natur (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Klimawandel",
+      "type": "Noun",
+      "example": "*** ist eine der größten Herausforderungen unserer Zeit.",
+      "meaning_tr": "iklim değişikliği",
+      "meaning_en": "climate change",
+      "meaning_uk": "зміна клімату",
+      "meaning_es": "cambio climático"
+    },
+    {
+      "term": "die Nachhaltigkeit",
+      "type": "Noun",
+      "example": "Wir müssen mehr Wert auf *** legen.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталий розвиток",
+      "meaning_es": "sostenibilidad"
+    },
+    {
+      "term": "die Umweltverschmutzung",
+      "type": "Noun",
+      "example": "Die *** nimmt in Großstädten ständig zu.",
+      "meaning_tr": "çevre kirliliği",
+      "meaning_en": "environmental pollution",
+      "meaning_uk": "забруднення довкілля",
+      "meaning_es": "contaminación ambiental"
+    },
+    {
+      "term": "der Umweltschutz",
+      "type": "Noun",
+      "example": "Aktiver *** geht uns alle an.",
+      "meaning_tr": "çevre koruma",
+      "meaning_en": "environmental protection",
+      "meaning_uk": "охорона довкілля",
+      "meaning_es": "protección del medio ambiente"
+    },
+    {
+      "term": "der Treibhauseffekt",
+      "type": "Noun",
+      "example": "Der *** führt zur Erwärmung der Erde.",
+      "meaning_tr": "sera etkisi",
+      "meaning_en": "greenhouse effect",
+      "meaning_uk": "парниковий ефект",
+      "meaning_es": "efecto invernadero"
+    },
+    {
+      "term": "die Erderwärmung",
+      "type": "Noun",
+      "example": "Die *** hat gravierende Folgen für die Pole.",
+      "meaning_tr": "küresel ısınma",
+      "meaning_en": "global warming",
+      "meaning_uk": "глобальне потепління",
+      "meaning_es": "calentamiento global"
+    },
+    {
+      "term": "das Ökosystem",
+      "type": "Noun",
+      "example": "Ein sensibles *** darf nicht gestört werden.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "ecosystem",
+      "meaning_uk": "екосистема",
+      "meaning_es": "ecosistema"
+    },
+    {
+      "term": "die Artenvielfalt",
+      "type": "Noun",
+      "example": "Der Schutz der *** ist essenziell für die Natur.",
+      "meaning_tr": "biyoçeşitlilik",
+      "meaning_en": "biodiversity",
+      "meaning_uk": "біорізноманіття",
+      "meaning_es": "biodiversidad"
+    },
+    {
+      "term": "die erneuerbaren Energien",
+      "type": "Noun",
+      "example": "Wir setzen verstärkt auf ***.",
+      "meaning_tr": "yenilenebilir enerjiler",
+      "meaning_en": "renewable energies",
+      "meaning_uk": "відновлювані джерела енергії",
+      "meaning_es": "energías renovables"
+    },
+    {
+      "term": "das Treibhausgas",
+      "type": "Noun",
+      "example": "CO2 ist ein bekanntes ***.",
+      "meaning_tr": "sera gazı",
+      "meaning_en": "greenhouse gas",
+      "meaning_uk": "парниковий газ",
+      "meaning_es": "gas de efecto invernadero"
+    },
+    {
+      "term": "recyceln",
+      "type": "Verb",
+      "example": "Man sollte Plastikflaschen konsequent ***.",
+      "meaning_tr": "geri dönüştürmek",
+      "meaning_en": "to recycle",
+      "meaning_uk": "переробляти",
+      "meaning_es": "reciclar"
+    },
+    {
+      "term": "vermeiden",
+      "type": "Verb",
+      "example": "Wir müssen unnötigen Müll ***.",
+      "meaning_tr": "kaçınmak / önlemek",
+      "meaning_en": "to avoid",
+      "meaning_uk": "уникати",
+      "meaning_es": "evitar"
+    },
+    {
+      "term": "schützen",
+      "type": "Verb",
+      "example": "Wir müssen unsere Wälder vor dem Abholzen ***.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to protect",
+      "meaning_uk": "захищати",
+      "meaning_es": "proteger"
+    },
+    {
+      "term": "verschmutzen",
+      "type": "Verb",
+      "example": "Industrieabfälle *** unsere Flüsse.",
+      "meaning_tr": "kirletmek",
+      "meaning_en": "to pollute",
+      "meaning_uk": "забруднювати",
+      "meaning_es": "contaminar"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir benötigen eine *** Lösung für dieses Problem.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "umweltfreundlich",
+      "type": "Adjective",
+      "example": "Das neue Auto ist sehr ***.",
+      "meaning_tr": "çevre dostu",
+      "meaning_en": "eco-friendly",
+      "meaning_uk": "екологічний",
+      "meaning_es": "ecológico"
+    },
+    {
+      "term": "ökologisch",
+      "type": "Adjective",
+      "example": "Der *** Fußabdruck sollte klein gehalten werden.",
+      "meaning_tr": "ekolojik",
+      "meaning_en": "ecological",
+      "meaning_uk": "екологічний",
+      "meaning_es": "ecológico"
+    },
+    {
+      "term": "biologisch",
+      "type": "Adjective",
+      "example": "Ich kaufe nur *** angebaute Lebensmittel.",
+      "meaning_tr": "biyolojik / organik",
+      "meaning_en": "organic/biological",
+      "meaning_uk": "біологічний",
+      "meaning_es": "biológico"
+    },
+    {
+      "term": "klimaneutral",
+      "type": "Adjective",
+      "example": "Das Unternehmen arbeitet mittlerweile ***.",
+      "meaning_tr": "iklim nötr",
+      "meaning_en": "climate-neutral",
+      "meaning_uk": "кліматично нейтральний",
+      "meaning_es": "climáticamente neutro"
+    },
+    {
+      "term": "gefährdet",
+      "type": "Adjective",
+      "example": "Viele Tierarten sind durch den Menschen ***.",
+      "meaning_tr": "tehlike altında",
+      "meaning_en": "endangered",
+      "meaning_uk": "під загрозою",
+      "meaning_es": "en peligro"
+    },
+    {
+      "term": "die Abholzung",
+      "type": "Noun",
+      "example": "Die *** des Regenwaldes ist alarmierend.",
+      "meaning_tr": "orman kesimi / tahribatı",
+      "meaning_en": "deforestation",
+      "meaning_uk": "вирубка лісів",
+      "meaning_es": "deforestación"
+    },
+    {
+      "term": "die Dürre",
+      "type": "Noun",
+      "example": "Die lange *** hat die Ernte vernichtet.",
+      "meaning_tr": "kuraklık",
+      "meaning_en": "drought",
+      "meaning_uk": "посуха",
+      "meaning_es": "sequía"
+    },
+    {
+      "term": "die Überschwemmung",
+      "type": "Noun",
+      "example": "Nach dem Starkregen kam es zur ***.",
+      "meaning_tr": "sel baskını",
+      "meaning_en": "flood",
+      "meaning_uk": "повінь",
+      "meaning_es": "inundación"
+    },
+    {
+      "term": "die Entsorgung",
+      "type": "Noun",
+      "example": "Die *** von Giftmüll ist sehr teuer.",
+      "meaning_tr": "atık bertarafı",
+      "meaning_en": "disposal",
+      "meaning_uk": "утилізація",
+      "meaning_es": "eliminación"
+    },
+    {
+      "term": "der Müll",
+      "type": "Noun",
+      "example": "Bitte trennen Sie Ihren *** richtig.",
+      "meaning_tr": "çöp",
+      "meaning_en": "garbage",
+      "meaning_uk": "сміття",
+      "meaning_es": "basura"
+    },
+    {
+      "term": "die Ressource",
+      "type": "Noun",
+      "example": "Wir müssen unsere knappen Ressourcen schonen.",
+      "meaning_tr": "kaynak",
+      "meaning_en": "resource",
+      "meaning_uk": "ресурс",
+      "meaning_es": "recurso"
+    },
+    {
+      "term": "die Solarenergie",
+      "type": "Noun",
+      "example": "Wir nutzen *** für unser Haus.",
+      "meaning_tr": "güneş enerjisi",
+      "meaning_en": "solar energy",
+      "meaning_uk": "сонячна енергія",
+      "meaning_es": "energía solar"
+    },
+    {
+      "term": "die Windkraft",
+      "type": "Noun",
+      "example": "Die *** ist ein wichtiger Teil der Energiewende.",
+      "meaning_tr": "rüzgar enerjisi",
+      "meaning_en": "wind power",
+      "meaning_uk": "вітроенергетика",
+      "meaning_es": "energía eólica"
+    },
+    {
+      "term": "der Artenschutz",
+      "type": "Noun",
+      "example": "Der *** ist ein wichtiges politisches Thema.",
+      "meaning_tr": "tür koruma",
+      "meaning_en": "species conservation",
+      "meaning_uk": "охорона видів",
+      "meaning_es": "conservación de especies"
+    },
+    {
+      "term": "die Atmosphäre",
+      "type": "Noun",
+      "example": "Schadstoffe gelangen in die ***.",
+      "meaning_tr": "atmosfer",
+      "meaning_en": "atmosphere",
+      "meaning_uk": "атмосфера",
+      "meaning_es": "atmósfera"
+    },
+    {
+      "term": "schonen",
+      "type": "Verb",
+      "example": "Wir sollten die natürlichen Ressourcen ***.",
+      "meaning_tr": "korumak / dikkatli kullanmak",
+      "meaning_en": "to conserve/spare",
+      "meaning_uk": "берегти",
+      "meaning_es": "ahorrar/cuidar"
+    },
+    {
+      "term": "belasten",
+      "type": "Verb",
+      "example": "Abgase *** die Umwelt stark.",
+      "meaning_tr": "yük olmak / kirletmek",
+      "meaning_en": "to burden/pollute",
+      "meaning_uk": "обтяжувати",
+      "meaning_es": "contaminar/cargar"
+    },
+    {
+      "term": "verbrauchen",
+      "type": "Verb",
+      "example": "Wie viel Energie *** Sie im Monat?",
+      "meaning_tr": "tüketmek",
+      "meaning_en": "to consume",
+      "meaning_uk": "споживати",
+      "meaning_es": "consumir"
+    },
+    {
+      "term": "aussterben",
+      "type": "Verb",
+      "example": "Viele Tierarten drohen bald auszusterben.",
+      "meaning_tr": "nesli tükenmek",
+      "meaning_en": "to become extinct",
+      "meaning_uk": "вимирати",
+      "meaning_es": "extinguirse"
+    },
+    {
+      "term": "zerstören",
+      "type": "Verb",
+      "example": "Der Mensch *** oft seinen eigenen Lebensraum.",
+      "meaning_tr": "yıkmak / yok etmek",
+      "meaning_en": "to destroy",
+      "meaning_uk": "руйнувати",
+      "meaning_es": "destruir"
+    },
+    {
+      "term": "umweltbewusst",
+      "type": "Adjective",
+      "example": "Ein *** Verhalten ist im Alltag sehr wichtig.",
+      "meaning_tr": "çevre bilincine sahip",
+      "meaning_en": "environmentally conscious",
+      "meaning_uk": "екологічно свідомий",
+      "meaning_es": "consciente con el medio ambiente"
+    },
+    {
+      "term": "erneuerbar",
+      "type": "Adjective",
+      "example": "Wir müssen mehr auf *** Energien setzen.",
+      "meaning_tr": "yenilenebilir",
+      "meaning_en": "renewable",
+      "meaning_uk": "відновлюваний",
+      "meaning_es": "renovable"
+    },
+    {
+      "term": "giftig",
+      "type": "Adjective",
+      "example": "Diese Chemikalien sind extrem ***.",
+      "meaning_tr": "zehirli",
+      "meaning_en": "toxic",
+      "meaning_uk": "отруйний",
+      "meaning_es": "tóxico"
+    },
+    {
+      "term": "trotzdem",
+      "type": "Conjunction",
+      "example": "Es ist teuer, *** investieren wir in Solarzellen.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "попри це",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "deswegen",
+      "type": "Conjunction",
+      "example": "Die Luft ist schlecht, *** fahren wir mit dem Rad.",
+      "meaning_tr": "bu yüzden",
+      "meaning_en": "therefore/that's why",
+      "meaning_uk": "тому",
+      "meaning_es": "por eso"
+    },
+    {
+      "term": "zudem",
+      "type": "Adverb",
+      "example": "Es ist umweltfreundlich; *** spart es Geld.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "statt",
+      "type": "Preposition",
+      "example": "*** des Autos nehme ich das Fahrrad.",
+      "meaning_tr": "yerine",
+      "meaning_en": "instead of",
+      "meaning_uk": "замість",
+      "meaning_es": "en lugar de"
+    },
+    {
+      "term": "wegen",
+      "type": "Preposition",
+      "example": "*** des Klimawandels schmelzen die Gletscher.",
+      "meaning_tr": "yüzünden / nedeniyle",
+      "meaning_en": "because of",
+      "meaning_uk": "через",
+      "meaning_es": "debido a"
+    },
+    {
+      "term": "angesichts",
+      "type": "Preposition",
+      "example": "*** der Lage müssen wir handeln.",
+      "meaning_tr": "göz önüne alındığında / karşısında",
+      "meaning_en": "in view of",
+      "meaning_uk": "зважаючи на",
+      "meaning_es": "ante/en vista de"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "*** der Umweltpolitik gibt es viele Pläne.",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "with regard to",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    }
+  ]
+}

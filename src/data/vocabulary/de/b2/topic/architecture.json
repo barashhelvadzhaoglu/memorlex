@@ -1,0 +1,411 @@
+{
+  "title": "Architektur (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Grundriss",
+      "type": "Noun",
+      "example": "Bevor wir bauen, müssen wir den *** genau studieren.",
+      "meaning_tr": "kat planı",
+      "meaning_en": "floor plan",
+      "meaning_uk": "план поверху",
+      "meaning_es": "plano de planta"
+    },
+    {
+      "term": "die Fassade",
+      "type": "Noun",
+      "example": "Die historische *** des Gebäudes wurde aufwendig restauriert.",
+      "meaning_tr": "cephe",
+      "meaning_en": "facade",
+      "meaning_uk": "фасад",
+      "meaning_es": "fachada"
+    },
+    {
+      "term": "das Fundament",
+      "type": "Noun",
+      "example": "Ohne ein stabiles *** kann kein Hochhaus stehen.",
+      "meaning_tr": "temel",
+      "meaning_en": "foundation",
+      "meaning_uk": "фундамент",
+      "meaning_es": "cimiento"
+    },
+    {
+      "term": "der Baustil",
+      "type": "Noun",
+      "example": "Welcher *** gefällt dir besser: Gotik oder Barock?",
+      "meaning_tr": "mimari tarz",
+      "meaning_en": "architectural style",
+      "meaning_uk": "архітектурний стиль",
+      "meaning_es": "estilo arquitectónico"
+    },
+    {
+      "term": "das Denkmal",
+      "type": "Noun",
+      "example": "Dieses alte Rathaus steht als *** unter Schutz.",
+      "meaning_tr": "anıt",
+      "meaning_en": "monument",
+      "meaning_uk": "пам'ятка",
+      "meaning_es": "monumento"
+    },
+    {
+      "term": "die Nachhaltigkeit",
+      "type": "Noun",
+      "example": "In der modernen Architektur spielt die *** eine zentrale Rolle.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталість",
+      "meaning_es": "sostenibilidad"
+    },
+    {
+      "term": "der Entwurf",
+      "type": "Noun",
+      "example": "Der erste *** für das Museum wurde vom Stadtrat abgelehnt.",
+      "meaning_tr": "taslak",
+      "meaning_en": "draft/design",
+      "meaning_uk": "проєкт/чернетка",
+      "meaning_es": "boceto/diseño"
+    },
+    {
+      "term": "der Denkmalschutz",
+      "type": "Noun",
+      "example": "Wegen des ***s dürfen die Fenster nicht verändert werden.",
+      "meaning_tr": "tarihi eserleri koruma",
+      "meaning_en": "historical preservation",
+      "meaning_uk": "охорона пам'яток",
+      "meaning_es": "protección de monumentos"
+    },
+    {
+      "term": "die Statik",
+      "type": "Noun",
+      "example": "Ein Ingenieur muss die *** des Daches prüfen.",
+      "meaning_tr": "statik",
+      "meaning_en": "statics/structural engineering",
+      "meaning_uk": "статика",
+      "meaning_es": "estática"
+    },
+    {
+      "term": "das Gerüst",
+      "type": "Noun",
+      "example": "Die Arbeiter stehen auf dem ***, um die Wand zu streichen.",
+      "meaning_tr": "iskele",
+      "meaning_en": "scaffolding",
+      "meaning_uk": "риштування",
+      "meaning_es": "andamio"
+    },
+    {
+      "term": "der Ziegel",
+      "type": "Noun",
+      "example": "Das Haus wurde traditionell aus rotem *** gebaut.",
+      "meaning_tr": "tuğla",
+      "meaning_en": "brick",
+      "meaning_uk": "цегла",
+      "meaning_es": "ladrillo"
+    },
+    {
+      "term": "der Beton",
+      "type": "Noun",
+      "example": "Moderner *** ermöglicht sehr hohe Bauwerke.",
+      "meaning_tr": "beton",
+      "meaning_en": "concrete",
+      "meaning_uk": "бетон",
+      "meaning_es": "hormigón"
+    },
+    {
+      "term": "der Stahl",
+      "type": "Noun",
+      "example": "Die Skelettbauweise nutzt oft *** als tragendes Element.",
+      "meaning_tr": "çelik",
+      "meaning_en": "steel",
+      "meaning_uk": "сталь",
+      "meaning_es": "acero"
+    },
+    {
+      "term": "die Säule",
+      "type": "Noun",
+      "example": "Die griechischen Tempel sind bekannt für ihre prächtigen ***n.",
+      "meaning_tr": "sütun",
+      "meaning_en": "column",
+      "meaning_uk": "колона",
+      "meaning_es": "columna"
+    },
+    {
+      "term": "der Bogen",
+      "type": "Noun",
+      "example": "Ein römischer *** ist ein Meisterwerk der Ingenieurskunst.",
+      "meaning_tr": "kemer",
+      "meaning_en": "arch",
+      "meaning_uk": "арка",
+      "meaning_es": "arco"
+    },
+    {
+      "term": "das Gewölbe",
+      "type": "Noun",
+      "example": "In der Krypta der Kirche befindet sich ein eindrucksvolles ***.",
+      "meaning_tr": "kubbe/tonoz",
+      "meaning_en": "vault",
+      "meaning_uk": "склепіння",
+      "meaning_es": "bóveda"
+    },
+    {
+      "term": "die Kuppel",
+      "type": "Noun",
+      "example": "Die goldene *** glänzt schon von weitem in der Sonne.",
+      "meaning_tr": "kubbe",
+      "meaning_en": "dome",
+      "meaning_uk": "купол",
+      "meaning_es": "cúpula"
+    },
+    {
+      "term": "die Baugrube",
+      "type": "Noun",
+      "example": "Die *** für das neue Einkaufszentrum ist bereits ausgehoben.",
+      "meaning_tr": "temel çukuru",
+      "meaning_en": "construction pit",
+      "meaning_uk": "котлован",
+      "meaning_es": "excavación/fosa de obra"
+    },
+    {
+      "term": "der Architekt",
+      "type": "Noun",
+      "example": "Der *** plant das Gebäude nach den Wünschen des Kunden.",
+      "meaning_tr": "mimar",
+      "meaning_en": "architect",
+      "meaning_uk": "архітектор",
+      "meaning_es": "arquitecto"
+    },
+    {
+      "term": "die Raumplanung",
+      "type": "Noun",
+      "example": "Eine gute *** sorgt für eine effiziente Nutzung der Fläche.",
+      "meaning_tr": "mekan planlaması",
+      "meaning_en": "spatial planning",
+      "meaning_uk": "планування простору",
+      "meaning_es": "planificación espacial"
+    },
+    {
+      "term": "die Infrastruktur",
+      "type": "Noun",
+      "example": "Zur städtischen *** gehören Straßen, Wasser und Strom.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "infrastructure",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "infraestructura"
+    },
+    {
+      "term": "die Sanierung",
+      "type": "Noun",
+      "example": "Die energetische *** des Hauses spart viel Heizkosten.",
+      "meaning_tr": "yenileme/iyileştirme",
+      "meaning_en": "refurbishment/renovation",
+      "meaning_uk": "реновація/санація",
+      "meaning_es": "rehabilitación"
+    },
+    {
+      "term": "der Neubau",
+      "type": "Noun",
+      "example": "Wir ziehen nächsten Monat in einen modernen ***.",
+      "meaning_tr": "yeni bina",
+      "meaning_en": "new building",
+      "meaning_uk": "новобудова",
+      "meaning_es": "edificio de nueva planta"
+    },
+    {
+      "term": "der Altbau",
+      "type": "Noun",
+      "example": "Hohe Decken sind typisch für einen Berliner ***.",
+      "meaning_tr": "eski bina",
+      "meaning_en": "old building",
+      "meaning_uk": "старий будинок",
+      "meaning_es": "edificio antiguo"
+    },
+    {
+      "term": "die Baugenehmigung",
+      "type": "Noun",
+      "example": "Ohne eine offizielle *** darf man nicht anbauen.",
+      "meaning_tr": "yapı ruhsatı",
+      "meaning_en": "building permit",
+      "meaning_uk": "дозвіл на будівництво",
+      "meaning_es": "licencia de obra"
+    },
+    {
+      "term": "die Siedlung",
+      "type": "Noun",
+      "example": "Diese *** am Stadtrand wurde in den 1920er Jahren gebaut.",
+      "meaning_tr": "yerleşim yeri",
+      "meaning_en": "settlement/housing estate",
+      "meaning_uk": "селище/житловий масив",
+      "meaning_es": "asentamiento/urbanización"
+    },
+    {
+      "term": "die Ästhetik",
+      "type": "Noun",
+      "example": "In der Architektur ist die *** genauso wichtig wie die Funktion.",
+      "meaning_tr": "estetik",
+      "meaning_en": "aesthetics",
+      "meaning_uk": "естетика",
+      "meaning_es": "estética"
+    },
+    {
+      "term": "der Hochbau",
+      "type": "Noun",
+      "example": "Er arbeitet als Ingenieur im Bereich ***.",
+      "meaning_tr": "üst yapı",
+      "meaning_en": "structural engineering",
+      "meaning_uk": "висотне будівництво",
+      "meaning_es": "edificación"
+    },
+    {
+      "term": "der Tiefbau",
+      "type": "Noun",
+      "example": "Der Tunnelbau gehört zum Fachbereich ***.",
+      "meaning_tr": "altyapı inşaatı",
+      "meaning_en": "civil engineering",
+      "meaning_uk": "підземне будівництво",
+      "meaning_es": "ingeniería civil/obras subterráneas"
+    },
+    {
+      "term": "das Wahrzeichen",
+      "type": "Noun",
+      "example": "Der Eiffelturm ist das bekannteste *** von Paris.",
+      "meaning_tr": "simge yapı",
+      "meaning_en": "landmark",
+      "meaning_uk": "символ міста/орієнтир",
+      "meaning_es": "emblema/punto de referencia"
+    },
+    {
+      "term": "entwerfen",
+      "type": "Verb",
+      "example": "Sie möchte ein nachhaltiges Wohnhaus ***.",
+      "meaning_tr": "tasarlamak",
+      "meaning_en": "to design",
+      "meaning_uk": "проектувати",
+      "meaning_es": "diseñar"
+    },
+    {
+      "term": "konstruieren",
+      "type": "Verb",
+      "example": "Wir müssen die Brücke so ***, dass sie Wind standhält.",
+      "meaning_tr": "inşa etmek/kurmak",
+      "meaning_en": "to construct",
+      "meaning_uk": "конструювати",
+      "meaning_es": "construir"
+    },
+    {
+      "term": "renovieren",
+      "type": "Verb",
+      "example": "Wir werden die Küche im Sommer komplett ***.",
+      "meaning_tr": "yenilemek",
+      "meaning_en": "to renovate",
+      "meaning_uk": "ремонтувати",
+      "meaning_es": "renovar"
+    },
+    {
+      "term": "sanieren",
+      "type": "Verb",
+      "example": "Das alte Viertel muss dringend *** werden.",
+      "meaning_tr": "sağlıklaştırmak/onarmak",
+      "meaning_en": "to refurbish/redevelop",
+      "meaning_uk": "реконструювати",
+      "meaning_es": "sanear/rehabilitar"
+    },
+    {
+      "term": "abreißen",
+      "type": "Verb",
+      "example": "Die alte Fabrik soll nächste Woche *** werden.",
+      "meaning_tr": "yıkmak",
+      "meaning_en": "to demolish",
+      "meaning_uk": "зносити",
+      "meaning_es": "demoler"
+    },
+    {
+      "term": "planen",
+      "type": "Verb",
+      "example": "Wir *** den Bau einer neuen Bibliothek.",
+      "meaning_tr": "planlamak",
+      "meaning_en": "to plan",
+      "meaning_uk": "планувати",
+      "meaning_es": "planificar"
+    },
+    {
+      "term": "gestalten",
+      "type": "Verb",
+      "example": "Wie wollen Sie den Innenraum des Hauses ***?",
+      "meaning_tr": "biçimlendirmek",
+      "meaning_en": "to shape/design",
+      "meaning_uk": "оформляти",
+      "meaning_es": "dar forma/diseñar"
+    },
+    {
+      "term": "restaurieren",
+      "type": "Verb",
+      "example": "Es ist teuer, alte Wandgemälde zu ***.",
+      "meaning_tr": "restore etmek",
+      "meaning_en": "to restore",
+      "meaning_uk": "реставрувати",
+      "meaning_es": "restaurar"
+    },
+    {
+      "term": "funktional",
+      "type": "Adjective",
+      "example": "Das Design ist nicht nur schön, sondern auch sehr ***.",
+      "meaning_tr": "işlevsel",
+      "meaning_en": "functional",
+      "meaning_uk": "функціональний",
+      "meaning_es": "funcional"
+    },
+    {
+      "term": "ästhetisch",
+      "type": "Adjective",
+      "example": "Die Glasfront wirkt sehr *** und modern.",
+      "meaning_tr": "estetik",
+      "meaning_en": "aesthetic",
+      "meaning_uk": "естетичний",
+      "meaning_es": "estético"
+    },
+    {
+      "term": "barrierefrei",
+      "type": "Adjective",
+      "example": "Öffentliche Gebäude müssen heute *** sein.",
+      "meaning_tr": "engelsiz",
+      "meaning_en": "barrier-free/accessible",
+      "meaning_uk": "безбар'єрний",
+      "meaning_es": "accesible"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Holz ist ein sehr ***er Baustoff.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "zeitgenössisch",
+      "type": "Adjective",
+      "example": "Wir interessieren uns für ***e Architektur.",
+      "meaning_tr": "çağdaş",
+      "meaning_en": "contemporary",
+      "meaning_uk": "сучасний",
+      "meaning_es": "contemporáneo"
+    },
+    {
+      "term": "massiv",
+      "type": "Adjective",
+      "example": "Die Wände der Burg sind extrem *** gebaut.",
+      "meaning_tr": "masif/sağlam",
+      "meaning_en": "massive/solid",
+      "meaning_uk": "масивний",
+      "meaning_es": "macizo"
+    },
+    {
+      "term": "baulich",
+      "type": "Adjective",
+      "example": "Es müssen einige ***e Veränderungen vorgenommen werden.",
+      "meaning_tr": "yapısal",
+      "meaning_en": "structural/constructional",
+      "meaning_uk": "будівельний",
+      "meaning_es": "de construcción"
+    }
+  ]
+}

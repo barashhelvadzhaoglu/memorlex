@@ -1,0 +1,411 @@
+{
+  "title": "Notfälle & Hilfe (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Notfall",
+      "type": "Noun",
+      "example": "Im *** bewahren Sie bitte Ruhe.",
+      "meaning_tr": "acil durum",
+      "meaning_en": "emergency",
+      "meaning_uk": "надзвичайна ситуація",
+      "meaning_es": "emergencia"
+    },
+    {
+      "term": "der Rettungsdienst",
+      "type": "Noun",
+      "example": "Rufen Sie sofort den *** an.",
+      "meaning_tr": "acil servis",
+      "meaning_en": "emergency medical service",
+      "meaning_uk": "швидка допомога",
+      "meaning_es": "servicio de emergencias"
+    },
+    {
+      "term": "die Feuerwehr",
+      "type": "Noun",
+      "example": "Die *** ist bereits auf dem Weg.",
+      "meaning_tr": "itfaiye",
+      "meaning_en": "fire department",
+      "meaning_uk": "пожежна служба",
+      "meaning_es": "bomberos"
+    },
+    {
+      "term": "die Polizei",
+      "type": "Noun",
+      "example": "Wir müssen die *** verständigen.",
+      "meaning_tr": "polis",
+      "meaning_en": "police",
+      "meaning_uk": "поліція",
+      "meaning_es": "policía"
+    },
+    {
+      "term": "der Krankenwagen",
+      "type": "Noun",
+      "example": "Der *** kam mit Blaulicht.",
+      "meaning_tr": "ambulans",
+      "meaning_en": "ambulance",
+      "meaning_uk": "машина швидкої допомоги",
+      "meaning_es": "ambulancia"
+    },
+    {
+      "term": "verletzen",
+      "type": "Verb",
+      "example": "Haben Sie sich beim Sturz ***?",
+      "meaning_tr": "yaralamak",
+      "meaning_en": "to injure",
+      "meaning_uk": "поранити",
+      "meaning_es": "herir"
+    },
+    {
+      "term": "die Erste Hilfe",
+      "type": "Noun",
+      "example": "Er leistete sofort ***.",
+      "meaning_tr": "ilk yardım",
+      "meaning_en": "first aid",
+      "meaning_uk": "перша допомога",
+      "meaning_es": "primeros auxilios"
+    },
+    {
+      "term": "dringend",
+      "type": "Adjective",
+      "example": "Wir brauchen *** Hilfe.",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміново",
+      "meaning_es": "urgente"
+    },
+    {
+      "term": "die Gefahr",
+      "type": "Noun",
+      "example": "Es besteht keine *** mehr.",
+      "meaning_tr": "tehlike",
+      "meaning_en": "danger",
+      "meaning_uk": "небезпека",
+      "meaning_es": "peligro"
+    },
+    {
+      "term": "gefährlich",
+      "type": "Adjective",
+      "example": "Die Situation ist sehr ***.",
+      "meaning_tr": "tehlikeli",
+      "meaning_en": "dangerous",
+      "meaning_uk": "небезпечний",
+      "meaning_es": "peligroso"
+    },
+    {
+      "term": "die Wunde",
+      "type": "Noun",
+      "example": "Die *** muss versorgt werden.",
+      "meaning_tr": "yara",
+      "meaning_en": "wound",
+      "meaning_uk": "рана",
+      "meaning_es": "herida"
+    },
+    {
+      "term": "bluten",
+      "type": "Verb",
+      "example": "Die Wunde hört nicht auf zu ***.",
+      "meaning_tr": "kanamak",
+      "meaning_en": "to bleed",
+      "meaning_uk": "кровоточити",
+      "meaning_es": "sangrar"
+    },
+    {
+      "term": "bewusstlos",
+      "type": "Adjective",
+      "example": "Er liegt *** am Boden.",
+      "meaning_tr": "bilinci kapalı",
+      "meaning_en": "unconscious",
+      "meaning_uk": "непритомний",
+      "meaning_es": "inconsciente"
+    },
+    {
+      "term": "das Krankenhaus",
+      "type": "Noun",
+      "example": "Er wurde ins *** gebracht.",
+      "meaning_tr": "hastane",
+      "meaning_en": "hospital",
+      "meaning_uk": "лікарня",
+      "meaning_es": "hospital"
+    },
+    {
+      "term": "die Notaufnahme",
+      "type": "Noun",
+      "example": "Gehen Sie bitte direkt in die ***.",
+      "meaning_tr": "acil servis",
+      "meaning_en": "emergency room",
+      "meaning_uk": "приймальне відділення",
+      "meaning_es": "urgencias"
+    },
+    {
+      "term": "der Unfall",
+      "type": "Noun",
+      "example": "Auf der Autobahn gab es einen ***.",
+      "meaning_tr": "kaza",
+      "meaning_en": "accident",
+      "meaning_uk": "нещасний випадок",
+      "meaning_es": "accidente"
+    },
+    {
+      "term": "retten",
+      "type": "Verb",
+      "example": "Die Feuerwehr konnte das Kind ***.",
+      "meaning_tr": "kurtarmak",
+      "meaning_en": "to rescue",
+      "meaning_uk": "рятувати",
+      "meaning_es": "salvar"
+    },
+    {
+      "term": "der Schmerz",
+      "type": "Noun",
+      "example": "Wo spüren Sie den *** am stärksten?",
+      "meaning_tr": "ağrı",
+      "meaning_en": "pain",
+      "meaning_uk": "біль",
+      "meaning_es": "dolor"
+    },
+    {
+      "term": "der Verband",
+      "type": "Noun",
+      "example": "Ich muss den *** wechseln.",
+      "meaning_tr": "sargı",
+      "meaning_en": "bandage",
+      "meaning_uk": "пов'язка",
+      "meaning_es": "vendaje"
+    },
+    {
+      "term": "die Atemnot",
+      "type": "Noun",
+      "example": "Er leidet unter akuter ***.",
+      "meaning_tr": "nefes darlığı",
+      "meaning_en": "shortness of breath",
+      "meaning_uk": "задишка",
+      "meaning_es": "dificultad respiratoria"
+    },
+    {
+      "term": "der Herzinfarkt",
+      "type": "Noun",
+      "example": "Es besteht der Verdacht auf einen ***.",
+      "meaning_tr": "kalp krizi",
+      "meaning_en": "heart attack",
+      "meaning_uk": "інфаркт",
+      "meaning_es": "infarto"
+    },
+    {
+      "term": "die Brandwunde",
+      "type": "Noun",
+      "example": "Kühlen Sie die *** mit kaltem Wasser.",
+      "meaning_tr": "yanık",
+      "meaning_en": "burn",
+      "meaning_uk": "опік",
+      "meaning_es": "quemadura"
+    },
+    {
+      "term": "der Giftnotruf",
+      "type": "Noun",
+      "example": "Wählen Sie im Vergiftungsfall den ***.",
+      "meaning_tr": "zehir danışma hattı",
+      "meaning_en": "poison control center",
+      "meaning_uk": "центр контролю отруєнь",
+      "meaning_es": "centro de toxicología"
+    },
+    {
+      "term": "die Stabile Seitenlage",
+      "type": "Noun",
+      "example": "Bringen Sie die Person in die ***.",
+      "meaning_tr": "yan yatış pozisyonu",
+      "meaning_en": "recovery position",
+      "meaning_uk": "стабільне бічне положення",
+      "meaning_es": "posición lateral de seguridad"
+    },
+    {
+      "term": "der Defibrillator",
+      "type": "Noun",
+      "example": "Wo befindet sich der nächste ***?",
+      "meaning_tr": "defibrilatör",
+      "meaning_en": "defibrillator",
+      "meaning_uk": "дефібрилятор",
+      "meaning_es": "desfibrilador"
+    },
+    {
+      "term": "die Wiederbelebung",
+      "type": "Noun",
+      "example": "Er musste einer *** unterzogen werden.",
+      "meaning_tr": "canlandırma",
+      "meaning_en": "resuscitation",
+      "meaning_uk": "реанімація",
+      "meaning_es": "reanimación"
+    },
+    {
+      "term": "der Schock",
+      "type": "Noun",
+      "example": "Der Patient steht unter ***.",
+      "meaning_tr": "şok",
+      "meaning_en": "shock",
+      "meaning_uk": "шок",
+      "meaning_es": "choque"
+    },
+    {
+      "term": "die Evakuierung",
+      "type": "Noun",
+      "example": "Die *** des Gebäudes verlief ruhig.",
+      "meaning_tr": "tahliye",
+      "meaning_en": "evacuation",
+      "meaning_uk": "евакуація",
+      "meaning_es": "evacuación"
+    },
+    {
+      "term": "evakuieren",
+      "type": "Verb",
+      "example": "Wir müssen das Haus sofort ***.",
+      "meaning_tr": "tahliye etmek",
+      "meaning_en": "to evacuate",
+      "meaning_uk": "евакуювати",
+      "meaning_es": "evacuar"
+    },
+    {
+      "term": "die Sicherheit",
+      "type": "Noun",
+      "example": "Bringen Sie sich in ***.",
+      "meaning_tr": "güvenlik",
+      "meaning_en": "safety",
+      "meaning_uk": "безпека",
+      "meaning_es": "seguridad"
+    },
+    {
+      "term": "der Brand",
+      "type": "Noun",
+      "example": "Der *** wurde schnell gelöscht.",
+      "meaning_tr": "yangın",
+      "meaning_en": "fire",
+      "meaning_uk": "пожежа",
+      "meaning_es": "incendio"
+    },
+    {
+      "term": "der Zeuge",
+      "type": "Noun",
+      "example": "Gibt es für den Vorfall einen ***?",
+      "meaning_tr": "tanık",
+      "meaning_en": "witness",
+      "meaning_uk": "свідок",
+      "meaning_es": "testigo"
+    },
+    {
+      "term": "der Einbruch",
+      "type": "Noun",
+      "example": "Wir hatten einen *** in unserer Wohnung.",
+      "meaning_tr": "hırsızlık",
+      "meaning_en": "burglary",
+      "meaning_uk": "крадіжка зі зломом",
+      "meaning_es": "robo"
+    },
+    {
+      "term": "die Anzeige",
+      "type": "Noun",
+      "example": "Ich möchte eine *** erstatten.",
+      "meaning_tr": "şikayet",
+      "meaning_en": "complaint/report",
+      "meaning_uk": "заява (до поліції)",
+      "meaning_es": "denuncia"
+    },
+    {
+      "term": "vermisst",
+      "type": "Adjective",
+      "example": "Das Kind wird seit gestern ***.",
+      "meaning_tr": "kayıp",
+      "meaning_en": "missing",
+      "meaning_uk": "зниклий безвісти",
+      "meaning_es": "desaparecido"
+    },
+    {
+      "term": "die Panne",
+      "type": "Noun",
+      "example": "Wir haben eine *** auf der Autobahn.",
+      "meaning_tr": "arıza",
+      "meaning_en": "breakdown",
+      "meaning_uk": "поломка",
+      "meaning_es": "avería"
+    },
+    {
+      "term": "der Abschleppdienst",
+      "type": "Noun",
+      "example": "Rufen Sie bitte den ***.",
+      "meaning_tr": "çekici hizmeti",
+      "meaning_en": "tow truck service",
+      "meaning_uk": "евакуатор",
+      "meaning_es": "servicio de grúa"
+    },
+    {
+      "term": "die Vorsicht",
+      "type": "Noun",
+      "example": "*** ist bei Glatteis geboten.",
+      "meaning_tr": "dikkat",
+      "meaning_en": "caution",
+      "meaning_uk": "обережність",
+      "meaning_es": "precaución"
+    },
+    {
+      "term": "vorsichtig",
+      "type": "Adjective",
+      "example": "Seien Sie *** bei der Arbeit.",
+      "meaning_tr": "dikkatli",
+      "meaning_en": "careful",
+      "meaning_uk": "обережний",
+      "meaning_es": "cuidadoso"
+    },
+    {
+      "term": "der Notausgang",
+      "type": "Noun",
+      "example": "Der *** befindet sich links.",
+      "meaning_tr": "acil çıkış",
+      "meaning_en": "emergency exit",
+      "meaning_uk": "аварійний вихід",
+      "meaning_es": "salida de emergencia"
+    },
+    {
+      "term": "sofort",
+      "type": "Adverb",
+      "example": "Wir brauchen Hilfe ***!",
+      "meaning_tr": "derhal",
+      "meaning_en": "immediately",
+      "meaning_uk": "негайно",
+      "meaning_es": "inmediatamente"
+    },
+    {
+      "term": "aufgrund",
+      "type": "Preposition",
+      "example": "*** des Unfalls ist die Straße gesperrt.",
+      "meaning_tr": "nedeniyle",
+      "meaning_en": "due to",
+      "meaning_uk": "через",
+      "meaning_es": "debido a"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "*** wir warteten, kam Hilfe.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "while",
+      "meaning_uk": "під час",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "beobachten",
+      "type": "Verb",
+      "example": "Können Sie genau ***, was passiert ist?",
+      "meaning_tr": "gözlemlemek",
+      "meaning_en": "to observe",
+      "meaning_uk": "спостерігати",
+      "meaning_es": "observar"
+    },
+    {
+      "term": "der Defekt",
+      "type": "Noun",
+      "example": "Das Gerät hat einen ***.",
+      "meaning_tr": "arıza",
+      "meaning_en": "defect",
+      "meaning_uk": "дефект",
+      "meaning_es": "defecto"
+    }
+  ]
+}

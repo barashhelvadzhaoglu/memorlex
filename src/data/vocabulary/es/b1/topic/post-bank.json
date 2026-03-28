@@ -1,0 +1,321 @@
+{
+  "title": "Correos y Banco (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el paquete",
+      "type": "Noun",
+      "meaning_tr": "paket",
+      "meaning_en": "package",
+      "meaning_uk": "пакунок",
+      "meaning_es": "objeto enviado por correo",
+      "example": "He enviado *** a mi madre por correo urgente."
+    },
+    {
+      "term": "la cuenta bancaria",
+      "type": "Noun",
+      "meaning_tr": "banka hesabı",
+      "meaning_en": "bank account",
+      "meaning_uk": "банківський рахунок",
+      "meaning_es": "registro de dinero en un banco",
+      "example": "Necesito abrir *** para recibir mi nómina."
+    },
+    {
+      "term": "ingresar",
+      "type": "Verb",
+      "meaning_tr": "yatırmak",
+      "meaning_en": "to deposit",
+      "meaning_uk": "вносити на рахунок",
+      "meaning_es": "poner dinero en una cuenta",
+      "example": "Voy a *** quinientos euros en mi cuenta hoy."
+    },
+    {
+      "term": "el sobre",
+      "type": "Noun",
+      "meaning_tr": "zarf",
+      "meaning_en": "envelope",
+      "meaning_uk": "конверт",
+      "meaning_es": "cubierta de papel para cartas",
+      "example": "Pon la carta dentro de *** y ciérralo bien."
+    },
+    {
+      "term": "retirar",
+      "type": "Verb",
+      "meaning_tr": "çekmek",
+      "meaning_en": "to withdraw",
+      "meaning_uk": "знімати гроші",
+      "meaning_es": "sacar dinero del banco",
+      "example": "Tengo que *** dinero del cajero automático."
+    },
+    {
+      "term": "el sello",
+      "type": "Noun",
+      "meaning_tr": "pul",
+      "meaning_en": "stamp",
+      "meaning_uk": "поштова марка",
+      "meaning_es": "etiqueta adhesiva para enviar correo",
+      "example": "No olvides pegar *** en la esquina superior derecha."
+    },
+    {
+      "term": "la transferencia",
+      "type": "Noun",
+      "meaning_tr": "havale",
+      "meaning_en": "transfer",
+      "meaning_uk": "переказ",
+      "meaning_es": "envío de dinero de una cuenta a otra",
+      "example": "He hecho *** para pagar el alquiler del piso."
+    },
+    {
+      "term": "el cajero automático",
+      "type": "Noun",
+      "meaning_tr": "ATM",
+      "meaning_en": "ATM",
+      "meaning_uk": "банкомат",
+      "meaning_es": "máquina para operar con dinero",
+      "example": "Hay *** cerca de la estación de metro."
+    },
+    {
+      "term": "enviar",
+      "type": "Verb",
+      "meaning_tr": "göndermek",
+      "meaning_en": "to send",
+      "meaning_uk": "надсилати",
+      "meaning_es": "hacer llegar algo a un destino",
+      "example": "Quiero *** esta carta certificada a Madrid."
+    },
+    {
+      "term": "la oficina de correos",
+      "type": "Noun",
+      "meaning_tr": "postane",
+      "meaning_en": "post office",
+      "meaning_uk": "поштове відділення",
+      "meaning_es": "lugar donde se gestiona el envío de cartas",
+      "example": "La *** cierra a las ocho de la tarde."
+    },
+    {
+      "term": "el saldo",
+      "type": "Noun",
+      "meaning_tr": "bakiye",
+      "meaning_en": "balance",
+      "meaning_uk": "баланс",
+      "meaning_es": "dinero disponible en una cuenta",
+      "example": "He consultado *** y tengo menos de lo que pensaba."
+    },
+    {
+      "term": "el remitente",
+      "type": "Noun",
+      "meaning_tr": "gönderici",
+      "meaning_en": "sender",
+      "meaning_uk": "відправник",
+      "meaning_es": "persona que envía una carta",
+      "example": "Escribe tus datos en la parte de ***."
+    },
+    {
+      "term": "el destinatario",
+      "type": "Noun",
+      "meaning_tr": "alıcı",
+      "meaning_en": "recipient",
+      "meaning_uk": "отримувач",
+      "meaning_es": "persona que recibe el envío",
+      "example": "El nombre de *** debe aparecer en el centro del sobre."
+    },
+    {
+      "term": "cobrar",
+      "type": "Verb",
+      "meaning_tr": "tahsil etmek",
+      "meaning_en": "to charge / to get paid",
+      "meaning_uk": "отримувати гроші",
+      "meaning_es": "recibir dinero por un trabajo o servicio",
+      "example": "Voy a *** mi sueldo a finales de mes."
+    },
+    {
+      "term": "el préstamo",
+      "type": "Noun",
+      "meaning_tr": "kredi",
+      "meaning_en": "loan",
+      "meaning_uk": "позика",
+      "meaning_es": "dinero prestado por el banco",
+      "example": "El banco me ha concedido *** para comprar un coche."
+    },
+    {
+      "term": "la tarjeta de crédito",
+      "type": "Noun",
+      "meaning_tr": "kredi kartı",
+      "meaning_en": "credit card",
+      "meaning_uk": "кредитна картка",
+      "meaning_es": "tarjeta para pagar a plazos",
+      "example": "He perdido *** y tengo que cancelarla inmediatamente."
+    },
+    {
+      "term": "certificado",
+      "type": "Adjective",
+      "meaning_tr": "taahhütlü",
+      "meaning_en": "registered (mail)",
+      "meaning_uk": "рекомендований",
+      "meaning_es": "envío con garantía de entrega",
+      "example": "Es mejor enviar este documento como correo ***."
+    },
+    {
+      "term": "ahorrar",
+      "type": "Verb",
+      "meaning_tr": "biriktirmek",
+      "meaning_en": "to save",
+      "meaning_uk": "заощаджувати",
+      "meaning_es": "guardar dinero para el futuro",
+      "example": "Intento *** un poco cada mes para las vacaciones."
+    },
+    {
+      "term": "la ventanilla",
+      "type": "Noun",
+      "meaning_tr": "gişe",
+      "meaning_en": "counter/window",
+      "meaning_uk": "віконце/каса",
+      "meaning_es": "ventana de atención al público",
+      "example": "Tienes que esperar en la *** para hablar con el empleado."
+    },
+    {
+      "term": "la comisión",
+      "type": "Noun",
+      "meaning_tr": "komisyon",
+      "meaning_en": "commission/fee",
+      "meaning_uk": "комісія",
+      "meaning_es": "dinero que cobra el banco por un servicio",
+      "example": "El banco me ha cobrado *** por hacer la transferencia."
+    },
+    {
+      "term": "pagar",
+      "type": "Verb",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to pay",
+      "meaning_uk": "платити",
+      "meaning_es": "dar dinero a cambio de algo",
+      "example": "Debes *** la factura de la luz antes de mañana."
+    },
+    {
+      "term": "la sucursal",
+      "type": "Noun",
+      "meaning_tr": "şube",
+      "meaning_en": "branch",
+      "meaning_uk": "відділення банку",
+      "meaning_es": "oficina secundaria de una entidad",
+      "example": "Mi *** está cerrada hoy por ser festivo."
+    },
+    {
+      "term": "el formulario",
+      "type": "Noun",
+      "meaning_tr": "form",
+      "meaning_en": "form",
+      "meaning_uk": "бланк",
+      "meaning_es": "papel para rellenar con datos",
+      "example": "Tienes que rellenar *** antes de ir a la ventanilla."
+    },
+    {
+      "term": "el código postal",
+      "type": "Noun",
+      "meaning_tr": "posta kodu",
+      "meaning_en": "postal code",
+      "meaning_uk": "поштовий індекс",
+      "meaning_es": "número de identificación de una zona",
+      "example": "No te olvides de escribir *** en la dirección."
+    },
+    {
+      "term": "la divisa",
+      "type": "Noun",
+      "meaning_tr": "döviz",
+      "meaning_en": "foreign currency",
+      "meaning_uk": "іноземна валюта",
+      "meaning_es": "moneda extranjera",
+      "example": "Necesito cambiar *** antes de viajar al extranjero."
+    },
+    {
+      "term": "el recibo",
+      "type": "Noun",
+      "meaning_tr": "fatura/makbuz",
+      "meaning_en": "receipt/bill",
+      "meaning_uk": "квитанція",
+      "meaning_es": "documento de pago",
+      "example": "Guarda *** por si hay algún problema con la compra."
+    },
+    {
+      "term": "urgente",
+      "type": "Adjective",
+      "meaning_tr": "acil",
+      "meaning_en": "urgent",
+      "meaning_uk": "терміновий",
+      "meaning_es": "que requiere atención rápida",
+      "example": "Es un envío ***, debe llegar mañana mismo."
+    },
+    {
+      "term": "el banco",
+      "type": "Noun",
+      "meaning_tr": "banka",
+      "meaning_en": "bank",
+      "meaning_uk": "банк",
+      "meaning_es": "institución financiera",
+      "example": "Voy al *** para pedir información sobre una hipoteca."
+    },
+    {
+      "term": "firmar",
+      "type": "Verb",
+      "meaning_tr": "imzalamak",
+      "meaning_en": "to sign",
+      "meaning_uk": "підписувати",
+      "meaning_es": "poner la firma en un documento",
+      "example": "Tienes que *** este contrato en todas las páginas."
+    },
+    {
+      "term": "el número de cuenta",
+      "type": "Noun",
+      "meaning_tr": "hesap numarası",
+      "meaning_en": "account number",
+      "meaning_uk": "номер рахунку",
+      "meaning_es": "código identificativo de una cuenta",
+      "example": "Necesito tu *** para hacerte el ingreso."
+    },
+    {
+      "term": "la libreta de ahorros",
+      "type": "Noun",
+      "meaning_tr": "tasarruf cüzdanı",
+      "meaning_en": "savings passbook",
+      "meaning_uk": "ощадна книжка",
+      "meaning_es": "libro donde se anotan los movimientos bancarios",
+      "example": "Actualicé *** en el cajero para ver mis movimientos."
+    },
+    {
+      "term": "el envío",
+      "type": "Noun",
+      "meaning_tr": "gönderi",
+      "meaning_en": "shipment",
+      "meaning_uk": "відправлення",
+      "meaning_es": "acción de enviar algo",
+      "example": "El coste de *** depende del peso del paquete."
+    },
+    {
+      "term": "el cartero",
+      "type": "Noun",
+      "meaning_tr": "postacı",
+      "meaning_en": "mailman",
+      "meaning_uk": "листоноша",
+      "meaning_es": "persona que reparte el correo",
+      "example": "El *** ha traído una carta muy importante hoy."
+    },
+    {
+      "term": "anular",
+      "type": "Verb",
+      "meaning_tr": "iptal etmek",
+      "meaning_en": "to cancel",
+      "meaning_uk": "анулювати",
+      "meaning_es": "cancelar una operación",
+      "example": "Quiero *** mi tarjeta porque la he perdido."
+    },
+    {
+      "term": "la clave",
+      "type": "Noun",
+      "meaning_tr": "şifre",
+      "meaning_en": "password/PIN",
+      "meaning_uk": "пароль",
+      "meaning_es": "código secreto de acceso",
+      "example": "Nunca digas tu *** a nadie, ni siquiera al banco."
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "title": "Tiempo y Estaciones (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el verano",
+      "type": "Noun",
+      "example": "Me gusta ir a la playa en ***.",
+      "meaning_tr": "yaz",
+      "meaning_en": "summer",
+      "meaning_uk": "літо",
+      "meaning_es": "estación del año después de la primavera"
+    },
+    {
+      "term": "el invierno",
+      "type": "Noun",
+      "example": "Hace mucho frío durante ***.",
+      "meaning_tr": "kış",
+      "meaning_en": "winter",
+      "meaning_uk": "зима",
+      "meaning_es": "estación más fría del año"
+    },
+    {
+      "term": "la primavera",
+      "type": "Noun",
+      "example": "Las flores nacen en ***.",
+      "meaning_tr": "ilkbahar",
+      "meaning_en": "spring",
+      "meaning_uk": "весна",
+      "meaning_es": "estación entre el invierno y el verano"
+    },
+    {
+      "term": "el otoño",
+      "type": "Noun",
+      "example": "Las hojas caen de los árboles en ***.",
+      "meaning_tr": "sonbahar",
+      "meaning_en": "autumn",
+      "meaning_uk": "осінь",
+      "meaning_es": "estación que precede al invierno"
+    },
+    {
+      "term": "el sol",
+      "type": "Noun",
+      "example": "Hoy *** brilla mucho en el cielo.",
+      "meaning_tr": "güneş",
+      "meaning_en": "sun",
+      "meaning_uk": "сонце",
+      "meaning_es": "estrella central del sistema solar"
+    },
+    {
+      "term": "la lluvia",
+      "type": "Noun",
+      "example": "No me gusta salir cuando hay ***.",
+      "meaning_tr": "yağmur",
+      "meaning_en": "rain",
+      "meaning_uk": "дощ",
+      "meaning_es": "precipitación de agua de las nubes"
+    },
+    {
+      "term": "la nieve",
+      "type": "Noun",
+      "example": "Los niños juegan con *** en el parque.",
+      "meaning_tr": "kar",
+      "meaning_en": "snow",
+      "meaning_uk": "сніг",
+      "meaning_es": "agua helada que cae de las nubes"
+    },
+    {
+      "term": "el viento",
+      "type": "Noun",
+      "example": "Hace mucho *** hoy, ten cuidado con tu sombrero.",
+      "meaning_tr": "rüzgar",
+      "meaning_en": "wind",
+      "meaning_uk": "вітер",
+      "meaning_es": "corriente de aire"
+    },
+    {
+      "term": "la nube",
+      "type": "Noun",
+      "example": "Hay una *** gris en el cielo.",
+      "meaning_tr": "bulut",
+      "meaning_en": "cloud",
+      "meaning_uk": "хмара",
+      "meaning_es": "masa de vapor de agua en la atmósfera"
+    },
+    {
+      "term": "la tormenta",
+      "type": "Noun",
+      "example": "Escuchamos truenos durante ***.",
+      "meaning_tr": "fırtına",
+      "meaning_en": "storm",
+      "meaning_uk": "шторм",
+      "meaning_es": "fenómeno meteorológico con lluvia y viento"
+    },
+    {
+      "term": "nevar",
+      "type": "Verb",
+      "example": "Mañana va a *** en la montaña.",
+      "meaning_tr": "kar yağmak",
+      "meaning_en": "to snow",
+      "meaning_uk": "сніжити",
+      "meaning_es": "caer nieve"
+    },
+    {
+      "term": "llover",
+      "type": "Verb",
+      "example": "Es probable que empiece a *** pronto.",
+      "meaning_tr": "yağmur yağmak",
+      "meaning_en": "to rain",
+      "meaning_uk": "йти (про дощ)",
+      "meaning_es": "caer agua de las nubes"
+    },
+    {
+      "term": "hacer",
+      "type": "Verb",
+      "example": "Hoy *** mucho calor en la ciudad.",
+      "meaning_tr": "yapmak",
+      "meaning_en": "to do/to make (used for weather)",
+      "meaning_uk": "робити",
+      "meaning_es": "verbo usado para describir el estado del tiempo"
+    },
+    {
+      "term": "caluroso",
+      "type": "Adjective",
+      "example": "Es un día muy *** para caminar.",
+      "meaning_tr": "sıcak",
+      "meaning_en": "hot",
+      "meaning_uk": "спекотний",
+      "meaning_es": "que tiene mucho calor"
+    },
+    {
+      "term": "frío",
+      "type": "Adjective",
+      "example": "El agua del río está muy ***.",
+      "meaning_tr": "soğuk",
+      "meaning_en": "cold",
+      "meaning_uk": "холодний",
+      "meaning_es": "que tiene baja temperatura"
+    },
+    {
+      "term": "nublado",
+      "type": "Adjective",
+      "example": "El cielo está *** y parece que va a llover.",
+      "meaning_tr": "bulutlu",
+      "meaning_en": "cloudy",
+      "meaning_uk": "хмарний",
+      "meaning_es": "cubierto de nubes"
+    },
+    {
+      "term": "despejado",
+      "type": "Adjective",
+      "example": "El día está *** y podemos ver el sol.",
+      "meaning_tr": "açık/güneşli",
+      "meaning_en": "clear",
+      "meaning_uk": "безхмарний",
+      "meaning_es": "sin nubes"
+    },
+    {
+      "term": "fresco",
+      "type": "Adjective",
+      "example": "Hace un aire *** por la tarde.",
+      "meaning_tr": "serin",
+      "meaning_en": "cool",
+      "meaning_uk": "прохолодний",
+      "meaning_es": "ligeramente frío"
+    },
+    {
+      "term": "dentro",
+      "type": "Preposition",
+      "example": "Estamos *** de la casa porque llueve.",
+      "meaning_tr": "içinde",
+      "meaning_en": "inside",
+      "meaning_uk": "всередині",
+      "meaning_es": "en la parte interior"
+    },
+    {
+      "term": "fuera",
+      "type": "Preposition",
+      "example": "No puedes jugar *** porque hace frío.",
+      "meaning_tr": "dışarıda",
+      "meaning_en": "outside",
+      "meaning_uk": "зовні",
+      "meaning_es": "en la parte exterior"
+    },
+    {
+      "term": "siempre",
+      "type": "Adverb",
+      "example": "En esta ciudad *** llueve en abril.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "en todo momento"
+    },
+    {
+      "term": "a veces",
+      "type": "Adverb",
+      "example": "*** hace sol en invierno.",
+      "meaning_tr": "bazen",
+      "meaning_en": "sometimes",
+      "meaning_uk": "іноді",
+      "meaning_es": "de vez en cuando"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "Hace sol, *** hace mucho frío.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "example": "El verano es largo *** caluroso.",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "conjunción copulativa"
+    },
+    {
+      "term": "la temperatura",
+      "type": "Noun",
+      "example": "La *** va a subir mañana.",
+      "meaning_tr": "sıcaklık",
+      "meaning_en": "temperature",
+      "meaning_uk": "температура",
+      "meaning_es": "grado de calor o frío"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Cambio Climatico (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el calentamiento global",
+      "type": "Noun",
+      "example": "*** es la mayor amenaza para la biodiversidad del siglo XXI.",
+      "meaning_tr": "küresel ısınma",
+      "meaning_en": "global warming",
+      "meaning_uk": "глобальне потепління",
+      "meaning_es": "aumento de la temperatura media del planeta"
+    },
+    {
+      "term": "la huella de carbono",
+      "type": "Noun",
+      "example": "Debemos reducir nuestra *** para frenar el impacto ambiental.",
+      "meaning_tr": "karbon ayak izi",
+      "meaning_en": "carbon footprint",
+      "meaning_uk": "вуглецевий слід",
+      "meaning_es": "total de gases de efecto invernadero emitidos"
+    },
+    {
+      "term": "mitigar",
+      "type": "Verb",
+      "example": "Es urgente *** los efectos devastadores de las sequías.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to mitigate",
+      "meaning_uk": "пом'якшити",
+      "meaning_es": "atenuar o suavizar algo negativo"
+    },
+    {
+      "term": "la sostenibilidad",
+      "type": "Noun",
+      "example": "La *** es el pilar fundamental del desarrollo económico moderno.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталий розвиток",
+      "meaning_es": "capacidad de mantenerse sin agotar recursos"
+    },
+    {
+      "term": "el efecto invernadero",
+      "type": "Noun",
+      "example": "El aumento de gases intensifica *** de forma peligrosa.",
+      "meaning_tr": "sera etkisi",
+      "meaning_en": "greenhouse effect",
+      "meaning_uk": "парниковий ефект",
+      "meaning_es": "retención de calor en la atmósfera"
+    },
+    {
+      "term": "la desertificación",
+      "type": "Noun",
+      "example": "El mal uso del suelo acelera *** en las zonas áridas.",
+      "meaning_tr": "çölleşme",
+      "meaning_en": "desertification",
+      "meaning_uk": "опустелювання",
+      "meaning_es": "degradación de tierras en zonas áridas"
+    },
+    {
+      "term": "renovable",
+      "type": "Adjective",
+      "example": "La inversión en energía *** es clave para la transición ecológica.",
+      "meaning_tr": "yenilenebilir",
+      "meaning_en": "renewable",
+      "meaning_uk": "відновлюваний",
+      "meaning_es": "que puede restaurarse por procesos naturales"
+    },
+    {
+      "term": "el combustible fósil",
+      "type": "Noun",
+      "example": "Depender de *** es insostenible a largo plazo.",
+      "meaning_tr": "fosil yakıt",
+      "meaning_en": "fossil fuel",
+      "meaning_uk": "викопне паливо",
+      "meaning_es": "recurso energético derivado de restos orgánicos"
+    },
+    {
+      "term": "la biodiversidad",
+      "type": "Noun",
+      "example": "La pérdida de *** compromete el equilibrio de los ecosistemas.",
+      "meaning_tr": "biyoçeşitlilik",
+      "meaning_en": "biodiversity",
+      "meaning_uk": "біорізноманіття",
+      "meaning_es": "variedad de seres vivos en un entorno"
+    },
+    {
+      "term": "la resiliencia",
+      "type": "Noun",
+      "example": "Las ciudades deben mejorar su *** ante desastres naturales.",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "capacidad de adaptación frente a agentes perturbadores"
+    },
+    {
+      "term": "irreversible",
+      "type": "Adjective",
+      "example": "El daño causado a algunos glaciares es ya ***.",
+      "meaning_tr": "geri döndürülemez",
+      "meaning_en": "irreversible",
+      "meaning_uk": "незворотний",
+      "meaning_es": "que no puede volver a un estado anterior"
+    },
+    {
+      "term": "el ecosistema",
+      "type": "Noun",
+      "example": "Cada especie cumple una función vital en ***.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "ecosystem",
+      "meaning_uk": "екосистема",
+      "meaning_es": "comunidad de seres vivos y su entorno"
+    },
+    {
+      "term": "la emisión",
+      "type": "Noun",
+      "example": "Debemos controlar *** de gases contaminantes en la industria.",
+      "meaning_tr": "emisyon",
+      "meaning_en": "emission",
+      "meaning_uk": "викид",
+      "meaning_es": "exhalación o expulsión de gases"
+    },
+    {
+      "term": "degradar",
+      "type": "Verb",
+      "example": "La actividad humana tiende a *** los recursos naturales rápidamente.",
+      "meaning_tr": "bozmak",
+      "meaning_en": "to degrade",
+      "meaning_uk": "деградувати",
+      "meaning_es": "reducir la calidad o condición de algo"
+    },
+    {
+      "term": "la atmósfera",
+      "type": "Noun",
+      "example": "La composición química de *** está cambiando drásticamente.",
+      "meaning_tr": "atmosfer",
+      "meaning_en": "atmosphere",
+      "meaning_uk": "атмосфера",
+      "meaning_es": "capa gaseosa que rodea la Tierra"
+    },
+    {
+      "term": "la capa de ozono",
+      "type": "Noun",
+      "example": "La recuperación de *** es un éxito de la cooperación global.",
+      "meaning_tr": "ozon tabakası",
+      "meaning_en": "ozone layer",
+      "meaning_uk": "озоновий шар",
+      "meaning_es": "zona de la atmósfera que filtra radiación ultravioleta"
+    },
+    {
+      "term": "el derretimiento",
+      "type": "Noun",
+      "example": "El rápido *** de los polos eleva el nivel del mar.",
+      "meaning_tr": "erime",
+      "meaning_en": "melting",
+      "meaning_uk": "танення",
+      "meaning_es": "acción de pasar del estado sólido al líquido"
+    },
+    {
+      "term": "la sequía",
+      "type": "Noun",
+      "example": "La falta de lluvias ha provocado una *** sin precedentes.",
+      "meaning_tr": "kuraklık",
+      "meaning_en": "drought",
+      "meaning_uk": "посуха",
+      "meaning_es": "periodo prolongado de escasez de agua"
+    },
+    {
+      "term": "la deforestación",
+      "type": "Noun",
+      "example": "Proteger los bosques es frenar la *** masiva.",
+      "meaning_tr": "orman kaybı",
+      "meaning_en": "deforestation",
+      "meaning_uk": "знеліснення",
+      "meaning_es": "reducción de la superficie forestal"
+    },
+    {
+      "term": "la catástrofe",
+      "type": "Noun",
+      "example": "El cambio climático podría desencadenar una *** climática global.",
+      "meaning_tr": "felaket",
+      "meaning_en": "catastrophe",
+      "meaning_uk": "катастрофа",
+      "meaning_es": "suceso infausto que altera gravemente el orden"
+    },
+    {
+      "term": "la escasez",
+      "type": "Noun",
+      "example": "La *** de agua potable afectará a millones de personas.",
+      "meaning_tr": "kıtlık",
+      "meaning_en": "scarcity",
+      "meaning_uk": "дефіцит",
+      "meaning_es": "falta o insuficiencia de recursos"
+    },
+    {
+      "term": "la mitigación",
+      "type": "Noun",
+      "example": "El plan estratégico se enfoca en la *** de riesgos ambientales.",
+      "meaning_tr": "hafifletme",
+      "meaning_en": "mitigation",
+      "meaning_uk": "пом'якшення",
+      "meaning_es": "acción de reducir la severidad de un daño"
+    },
+    {
+      "term": "la adaptación",
+      "type": "Noun",
+      "example": "La *** al nuevo clima es un desafío urgente para la agricultura.",
+      "meaning_tr": "uyum",
+      "meaning_en": "adaptation",
+      "meaning_uk": "адаптація",
+      "meaning_es": "proceso de ajustarse a nuevas condiciones"
+    },
+    {
+      "term": "el recurso",
+      "type": "Noun",
+      "example": "Debemos gestionar cada *** natural con mayor responsabilidad.",
+      "meaning_tr": "kaynak",
+      "meaning_en": "resource",
+      "meaning_uk": "ресурс",
+      "meaning_es": "bien o medio disponible para satisfacer necesidades"
+    },
+    {
+      "term": "la contaminación",
+      "type": "Noun",
+      "example": "La industria pesada es responsable de gran parte de *** del aire.",
+      "meaning_tr": "kirlilik",
+      "meaning_en": "pollution",
+      "meaning_uk": "забруднення",
+      "meaning_es": "degradación del medio por agentes externos"
+    },
+    {
+      "term": "eficiente",
+      "type": "Adjective",
+      "example": "Necesitamos un sistema energético más ***.",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "que logra el mejor resultado con el mínimo esfuerzo"
+    },
+    {
+      "term": "el glaciar",
+      "type": "Noun",
+      "example": "El retroceso de cada *** es un indicador del cambio climático.",
+      "meaning_tr": "buzul",
+      "meaning_en": "glacier",
+      "meaning_uk": "льодовик",
+      "meaning_es": "masa de hielo perenne"
+    },
+    {
+      "term": "el metano",
+      "type": "Noun",
+      "example": "El *** es un gas de efecto invernadero muy potente.",
+      "meaning_tr": "metan",
+      "meaning_en": "methane",
+      "meaning_uk": "метан",
+      "meaning_es": "gas inflamable que contribuye al calentamiento"
+    },
+    {
+      "term": "la acidificación",
+      "type": "Noun",
+      "example": "La *** de los océanos pone en peligro la vida marina.",
+      "meaning_tr": "asitlenme",
+      "meaning_en": "acidification",
+      "meaning_uk": "окислення",
+      "meaning_es": "aumento de la acidez del agua"
+    },
+    {
+      "term": "exacerbar",
+      "type": "Verb",
+      "example": "Las olas de calor tienden a *** los problemas de salud.",
+      "meaning_tr": "şiddetlendirmek",
+      "meaning_en": "to exacerbate",
+      "meaning_uk": "загострювати",
+      "meaning_es": "agravar una situación"
+    },
+    {
+      "term": "la biomasa",
+      "type": "Noun",
+      "example": "La *** se utiliza como una alternativa energética limpia.",
+      "meaning_tr": "biyokütle",
+      "meaning_en": "biomass",
+      "meaning_uk": "біомаса",
+      "meaning_es": "materia orgánica usada como energía"
+    },
+    {
+      "term": "la transición",
+      "type": "Noun",
+      "example": "Estamos en plena *** hacia una economía descarbonizada.",
+      "meaning_tr": "geçiş",
+      "meaning_en": "transition",
+      "meaning_uk": "перехід",
+      "meaning_es": "cambio de un estado a otro"
+    },
+    {
+      "term": "el vertido",
+      "type": "Noun",
+      "example": "El *** de plásticos en el mar es un problema grave.",
+      "meaning_tr": "atık dökme",
+      "meaning_en": "dumping",
+      "meaning_uk": "скидання відходів",
+      "meaning_es": "acción de arrojar desechos al medio ambiente"
+    },
+    {
+      "term": "la escorrentía",
+      "type": "Noun",
+      "example": "El exceso de *** puede provocar inundaciones en las ciudades.",
+      "meaning_tr": "yüzey akışı",
+      "meaning_en": "runoff",
+      "meaning_uk": "поверхневий стік",
+      "meaning_es": "agua que fluye por la superficie del terreno"
+    },
+    {
+      "term": "la incertidumbre",
+      "type": "Noun",
+      "example": "Existe mucha *** sobre los modelos climáticos futuros.",
+      "meaning_tr": "belirsizlik",
+      "meaning_en": "uncertainty",
+      "meaning_uk": "невизначеність",
+      "meaning_es": "falta de certeza o seguridad"
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "example": "Debemos construir un modelo de vida más ***.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "que puede mantenerse a largo plazo"
+    },
+    {
+      "term": "la toxicidad",
+      "type": "Noun",
+      "example": "La *** de los residuos químicos contamina los acuíferos.",
+      "meaning_tr": "toksisite",
+      "meaning_en": "toxicity",
+      "meaning_uk": "токсичність",
+      "meaning_es": "capacidad de una sustancia para causar daño"
+    },
+    {
+      "term": "la vulnerabilidad",
+      "type": "Noun",
+      "example": "Las regiones costeras presentan una mayor *** ante el ascenso del nivel del mar.",
+      "meaning_tr": "kırılganlık",
+      "meaning_en": "vulnerability",
+      "meaning_uk": "вразливість",
+      "meaning_es": "fragilidad ante posibles daños"
+    },
+    {
+      "term": "la mitigación",
+      "type": "Noun",
+      "example": "Los esfuerzos de *** deben ser globales.",
+      "meaning_tr": "hafifletme",
+      "meaning_en": "mitigation",
+      "meaning_uk": "пом'якшення",
+      "meaning_es": "reducción de impactos negativos"
+    },
+    {
+      "term": "la combustión",
+      "type": "Noun",
+      "example": "La *** de hidrocarburos libera grandes cantidades de CO2.",
+      "meaning_tr": "yanma",
+      "meaning_en": "combustion",
+      "meaning_uk": "горіння",
+      "meaning_es": "proceso químico de oxidación rápida"
+    },
+    {
+      "term": "la desertización",
+      "type": "Noun",
+      "example": "La *** es un proceso causado principalmente por la actividad humana.",
+      "meaning_tr": "çölleşme",
+      "meaning_en": "desertization",
+      "meaning_uk": "опустелювання",
+      "meaning_es": "proceso de transformación en desierto"
+    },
+    {
+      "term": "el ecosistema",
+      "type": "Noun",
+      "example": "La protección de *** es vital para la supervivencia.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "ecosystem",
+      "meaning_uk": "екосистема",
+      "meaning_es": "comunidad de seres vivos"
+    },
+    {
+      "term": "la energía eólica",
+      "type": "Noun",
+      "example": "Debemos apostar por *** en las zonas costeras.",
+      "meaning_tr": "rüzgar enerjisi",
+      "meaning_en": "wind energy",
+      "meaning_uk": "вітроенергетика",
+      "meaning_es": "energía obtenida del viento"
+    },
+    {
+      "term": "la energía solar",
+      "type": "Noun",
+      "example": "El uso de *** es cada vez más común en hogares.",
+      "meaning_tr": "güneş enerjisi",
+      "meaning_en": "solar energy",
+      "meaning_uk": "сонячна енергія",
+      "meaning_es": "energía obtenida del sol"
+    },
+    {
+      "term": "la gestión",
+      "type": "Noun",
+      "example": "Una buena *** de los residuos es fundamental.",
+      "meaning_tr": "yönetim",
+      "meaning_en": "management",
+      "meaning_uk": "управління",
+      "meaning_es": "acción de administrar o gestionar"
+    },
+    {
+      "term": "la huella ecológica",
+      "type": "Noun",
+      "example": "Cada ciudadano debe conocer su ***.",
+      "meaning_tr": "ekolojik ayak izi",
+      "meaning_en": "ecological footprint",
+      "meaning_uk": "екологічний слід",
+      "meaning_es": "indicador del impacto ambiental"
+    },
+    {
+      "term": "el impacto",
+      "type": "Noun",
+      "example": "El *** de la actividad industrial es severo.",
+      "meaning_tr": "etki",
+      "meaning_en": "impact",
+      "meaning_uk": "вплив",
+      "meaning_es": "efecto o huella de una acción"
+    },
+    {
+      "term": "la inundación",
+      "type": "Noun",
+      "example": "La *** repentina destruyó toda la infraestructura local.",
+      "meaning_tr": "sel",
+      "meaning_en": "flood",
+      "meaning_uk": "повінь",
+      "meaning_es": "desbordamiento de agua"
+    },
+    {
+      "term": "la legislación",
+      "type": "Noun",
+      "example": "Necesitamos una *** más estricta contra la contaminación.",
+      "meaning_tr": "mevzuat",
+      "meaning_en": "legislation",
+      "meaning_uk": "законодавство",
+      "meaning_es": "conjunto de leyes"
+    },
+    {
+      "term": "la meteorología",
+      "type": "Noun",
+      "example": "Los fenómenos de *** extrema son más frecuentes ahora.",
+      "meaning_tr": "meteoroloji",
+      "meaning_en": "meteorology",
+      "meaning_uk": "метеорологія",
+      "meaning_es": "ciencia que estudia el clima"
+    },
+    {
+      "term": "la ozonosfera",
+      "type": "Noun",
+      "example": "La *** protege la vida de la radiación ultravioleta.",
+      "meaning_tr": "ozonosfer",
+      "meaning_en": "ozonosphere",
+      "meaning_uk": "озоносфера",
+      "meaning_es": "capa de ozono"
+    },
+    {
+      "term": "la preservación",
+      "type": "Noun",
+      "example": "La *** de los bosques es una responsabilidad global.",
+      "meaning_tr": "koruma",
+      "meaning_en": "preservation",
+      "meaning_uk": "збереження",
+      "meaning_es": "acción de proteger algo"
+    },
+    {
+      "term": "la radiación",
+      "type": "Noun",
+      "example": "La *** solar es mayor debido a la pérdida de ozono.",
+      "meaning_tr": "radyasyon",
+      "meaning_en": "radiation",
+      "meaning_uk": "випромінювання",
+      "meaning_es": "emisión de energía"
+    },
+    {
+      "term": "el reciclaje",
+      "type": "Noun",
+      "example": "Fomentar *** es esencial para reducir residuos.",
+      "meaning_tr": "geri dönüşüm",
+      "meaning_en": "recycling",
+      "meaning_uk": "переробка",
+      "meaning_es": "proceso de reusar materiales"
+    },
+    {
+      "term": "la reducción",
+      "type": "Noun",
+      "example": "La *** de emisiones es el objetivo principal.",
+      "meaning_tr": "azaltma",
+      "meaning_en": "reduction",
+      "meaning_uk": "скорочення",
+      "meaning_es": "acción de disminuir algo"
+    },
+    {
+      "term": "el residuo",
+      "type": "Noun",
+      "example": "Cada *** plástico tarda siglos en degradarse.",
+      "meaning_tr": "atık",
+      "meaning_en": "waste",
+      "meaning_uk": "відходи",
+      "meaning_es": "basura o material sobrante"
+    },
+    {
+      "term": "la salvaguardia",
+      "type": "Noun",
+      "example": "Debemos trabajar por la *** del medio ambiente.",
+      "meaning_tr": "koruma",
+      "meaning_en": "safeguard",
+      "meaning_uk": "захист",
+      "meaning_es": "acción de preservar o defender"
+    },
+    {
+      "term": "la sensibilización",
+      "type": "Noun",
+      "example": "La *** pública es clave para el cambio de hábitos.",
+      "meaning_tr": "farkındalık",
+      "meaning_en": "awareness",
+      "meaning_uk": "обізнаність",
+      "meaning_es": "acción de hacer consciente a la población"
+    },
+    {
+      "term": "la temperatura",
+      "type": "Noun",
+      "example": "El aumento de la *** media es preocupante.",
+      "meaning_tr": "sıcaklık",
+      "meaning_en": "temperature",
+      "meaning_uk": "температура",
+      "meaning_es": "grado de calor en el ambiente"
+    },
+    {
+      "term": "la urbanización",
+      "type": "Noun",
+      "example": "La *** descontrolada afecta al entorno natural.",
+      "meaning_tr": "kentleşme",
+      "meaning_en": "urbanization",
+      "meaning_uk": "урбанізація",
+      "meaning_es": "crecimiento de las ciudades"
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "title": "Law & Justice (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a judge",
+      "type": "Noun",
+      "example": "*** presided over the trial with great impartiality.",
+      "meaning_tr": "yargıç",
+      "meaning_en": "a public official appointed to decide cases in a court of law",
+      "meaning_uk": "суддя",
+      "meaning_es": "un juez"
+    },
+    {
+      "term": "a lawyer",
+      "type": "Noun",
+      "example": "I need to consult my *** before signing this contract.",
+      "meaning_tr": "avukat",
+      "meaning_en": "a person who practices or studies law",
+      "meaning_uk": "адвокат",
+      "meaning_es": "un abogado"
+    },
+    {
+      "term": "to accuse",
+      "type": "Verb",
+      "example": "They decided to *** him of stealing the company funds.",
+      "meaning_tr": "suçlamak",
+      "meaning_en": "to charge someone with an offense or crime",
+      "meaning_uk": "звинувачувати",
+      "meaning_es": "acusar"
+    },
+    {
+      "term": "the evidence",
+      "type": "Noun",
+      "example": "The police failed to find enough *** to convict the suspect.",
+      "meaning_tr": "kanıt",
+      "meaning_en": "information indicating whether a belief or proposition is true",
+      "meaning_uk": "докази",
+      "meaning_es": "la evidencia"
+    },
+    {
+      "term": "the jury",
+      "type": "Noun",
+      "example": "After three days of deliberation, *** reached a unanimous verdict.",
+      "meaning_tr": "jüri",
+      "meaning_en": "a body of people sworn to give a verdict in a legal case",
+      "meaning_uk": "присяжні",
+      "meaning_es": "el jurado"
+    },
+    {
+      "term": "a witness",
+      "type": "Noun",
+      "example": "The main *** was unable to identify the attacker in the lineup.",
+      "meaning_tr": "tanık",
+      "meaning_en": "a person who sees an event take place",
+      "meaning_uk": "свідок",
+      "meaning_es": "un testigo"
+    },
+    {
+      "term": "to arrest",
+      "type": "Verb",
+      "example": "The police had to *** the man for disturbing the peace.",
+      "meaning_tr": "tutuklamak",
+      "meaning_en": "to seize someone by legal authority",
+      "meaning_uk": "заарештувати",
+      "meaning_es": "arrestar"
+    },
+    {
+      "term": "innocent",
+      "type": "Adjective",
+      "example": "He maintained that he was *** of all charges brought against him.",
+      "meaning_tr": "masum",
+      "meaning_en": "not guilty of a crime or offense",
+      "meaning_uk": "невинний",
+      "meaning_es": "inocente"
+    },
+    {
+      "term": "guilty",
+      "type": "Adjective",
+      "example": "The jury found the defendant *** of the crime.",
+      "meaning_tr": "suçlu",
+      "meaning_en": "responsible for a specified wrongdoing",
+      "meaning_uk": "винний",
+      "meaning_es": "culpable"
+    },
+    {
+      "term": "a trial",
+      "type": "Noun",
+      "example": "The high-profile *** lasted for over six months.",
+      "meaning_tr": "duruşma",
+      "meaning_en": "a formal examination of evidence before a judge",
+      "meaning_uk": "судовий процес",
+      "meaning_es": "un juicio"
+    },
+    {
+      "term": "a sentence",
+      "type": "Noun",
+      "example": "The judge handed down a life *** to the serial offender.",
+      "meaning_tr": "hüküm",
+      "meaning_en": "the punishment assigned to a defendant found guilty",
+      "meaning_uk": "вирок",
+      "meaning_es": "una sentencia"
+    },
+    {
+      "term": "to convict",
+      "type": "Verb",
+      "example": "It is difficult to *** a criminal without physical proof.",
+      "meaning_tr": "mahkum etmek",
+      "meaning_en": "to declare someone to be guilty of a criminal offense",
+      "meaning_uk": "засудити",
+      "meaning_es": "condenar"
+    },
+    {
+      "term": "the justice",
+      "type": "Noun",
+      "example": "The victim is still waiting for *** to be served.",
+      "meaning_tr": "adalet",
+      "meaning_en": "just behavior or treatment",
+      "meaning_uk": "справедливість",
+      "meaning_es": "la justicia"
+    },
+    {
+      "term": "the court",
+      "type": "Noun",
+      "example": "She had to appear in *** to answer the charges.",
+      "meaning_tr": "mahkeme",
+      "meaning_en": "a tribunal presided over by a judge or judges",
+      "meaning_uk": "суд",
+      "meaning_es": "la corte"
+    },
+    {
+      "term": "the crime",
+      "type": "Noun",
+      "example": "The local police are working hard to reduce the rate of *** in the city.",
+      "meaning_tr": "suç",
+      "meaning_en": "an action which constitutes an offense",
+      "meaning_uk": "злочин",
+      "meaning_es": "el crimen"
+    },
+    {
+      "term": "a defendant",
+      "type": "Noun",
+      "example": "The *** remained silent throughout the entire proceedings.",
+      "meaning_tr": "sanık",
+      "meaning_en": "an individual sued or accused in a court of law",
+      "meaning_uk": "підсудний",
+      "meaning_es": "un acusado"
+    },
+    {
+      "term": "legal",
+      "type": "Adjective",
+      "example": "It is a *** requirement to wear a seatbelt while driving.",
+      "meaning_tr": "yasal",
+      "meaning_en": "permitted by law",
+      "meaning_uk": "законний",
+      "meaning_es": "legal"
+    },
+    {
+      "term": "illegal",
+      "type": "Adjective",
+      "example": "Selling tobacco to minors is strictly ***.",
+      "meaning_tr": "yasadışı",
+      "meaning_en": "contrary to or forbidden by law",
+      "meaning_uk": "незаконний",
+      "meaning_es": "ilegal"
+    },
+    {
+      "term": "a verdict",
+      "type": "Noun",
+      "example": "The jury took only an hour to reach a *** of not guilty.",
+      "meaning_tr": "karar",
+      "meaning_en": "a decision on a disputed issue in a civil or criminal case",
+      "meaning_uk": "вердикт",
+      "meaning_es": "un veredicto"
+    },
+    {
+      "term": "to sue",
+      "type": "Verb",
+      "example": "He decided to *** his neighbor for damages to his fence.",
+      "meaning_tr": "dava açmak",
+      "meaning_en": "to institute legal proceedings against a person",
+      "meaning_uk": "подавати до суду",
+      "meaning_es": "demandar"
+    },
+    {
+      "term": "the legislation",
+      "type": "Noun",
+      "example": "The government is introducing new *** to protect the environment.",
+      "meaning_tr": "mevzuat",
+      "meaning_en": "laws, considered collectively",
+      "meaning_uk": "законодавство",
+      "meaning_es": "la legislación"
+    },
+    {
+      "term": "a penalty",
+      "type": "Noun",
+      "example": "The maximum *** for this offense is ten years in prison.",
+      "meaning_tr": "ceza",
+      "meaning_en": "a punishment imposed for breaking a law",
+      "meaning_uk": "покарання",
+      "meaning_es": "una pena"
+    },
+    {
+      "term": "to testify",
+      "type": "Verb",
+      "example": "She was asked to *** in front of the grand jury.",
+      "meaning_tr": "tanıklık etmek",
+      "meaning_en": "to give evidence as a witness in a law court",
+      "meaning_uk": "давати свідчення",
+      "meaning_es": "testificar"
+    },
+    {
+      "term": "the prosecution",
+      "type": "Noun",
+      "example": "The *** argued that the evidence was overwhelming.",
+      "meaning_tr": "iddia makamı",
+      "meaning_en": "the institution and conducting of legal proceedings against someone",
+      "meaning_uk": "обвинувачення",
+      "meaning_es": "la fiscalía"
+    },
+    {
+      "term": "the defense",
+      "type": "Noun",
+      "example": "The *** lawyer presented a strong case for his client.",
+      "meaning_tr": "savunma",
+      "meaning_en": "the case presented by or on behalf of the party being accused",
+      "meaning_uk": "захист",
+      "meaning_es": "la defensa"
+    },
+    {
+      "term": "a prison",
+      "type": "Noun",
+      "example": "He was sent to *** after being found guilty of robbery.",
+      "meaning_tr": "hapishane",
+      "meaning_en": "a building to which people are legally committed as a punishment",
+      "meaning_uk": "в'язниця",
+      "meaning_es": "una prisión"
+    },
+    {
+      "term": "a burglary",
+      "type": "Noun",
+      "example": "The police are investigating a series of *** in the neighborhood.",
+      "meaning_tr": "hırsızlık",
+      "meaning_en": "the act of entering a building illegally with intent to commit a crime",
+      "meaning_uk": "крадіжка зі зломом",
+      "meaning_es": "un robo"
+    },
+    {
+      "term": "to commit",
+      "type": "Verb",
+      "example": "He was desperate enough to *** a serious crime.",
+      "meaning_tr": "işlemek",
+      "meaning_en": "to carry out or perpetrate a mistake or crime",
+      "meaning_uk": "вчинити",
+      "meaning_es": "cometer"
+    },
+    {
+      "term": "a fine",
+      "type": "Noun",
+      "example": "You will have to pay a hefty *** for speeding.",
+      "meaning_tr": "para cezası",
+      "meaning_en": "a sum of money exacted as a penalty",
+      "meaning_uk": "штраф",
+      "meaning_es": "una multa"
+    },
+    {
+      "term": "a probation",
+      "type": "Noun",
+      "example": "The judge gave him two years of *** instead of jail time.",
+      "meaning_tr": "denetimli serbestlik",
+      "meaning_en": "the release of an offender from detention, subject to good behavior",
+      "meaning_uk": "умовне звільнення",
+      "meaning_es": "una libertad condicional"
+    },
+    {
+      "term": "a lawyer",
+      "type": "Noun",
+      "example": "You should hire a skilled *** to represent you.",
+      "meaning_tr": "avukat",
+      "meaning_en": "a person who practices law",
+      "meaning_uk": "юрист",
+      "meaning_es": "un abogado"
+    },
+    {
+      "term": "a theft",
+      "type": "Noun",
+      "example": "The *** of the painting was reported to the authorities immediately.",
+      "meaning_tr": "hırsızlık",
+      "meaning_en": "the action or crime of stealing",
+      "meaning_uk": "крадіжка",
+      "meaning_es": "un robo"
+    },
+    {
+      "term": "the appeal",
+      "type": "Noun",
+      "example": "His lawyers are planning to file an *** against the court's decision.",
+      "meaning_tr": "temyiz",
+      "meaning_en": "an application to a higher court for a decision to be reversed",
+      "meaning_uk": "апеляція",
+      "meaning_es": "la apelación"
+    },
+    {
+      "term": "a fraud",
+      "type": "Noun",
+      "example": "The company was accused of tax *** by the government.",
+      "meaning_tr": "dolandırıcılık",
+      "meaning_en": "wrongful or criminal deception intended to result in financial gain",
+      "meaning_uk": "шахрайство",
+      "meaning_es": "un fraude"
+    },
+    {
+      "term": "a regulation",
+      "type": "Noun",
+      "example": "The company failed to comply with safety ***.",
+      "meaning_tr": "yönetmelik",
+      "meaning_en": "a rule or directive made and maintained by an authority",
+      "meaning_uk": "регулювання",
+      "meaning_es": "una regulación"
+    },
+    {
+      "term": "to violate",
+      "type": "Verb",
+      "example": "If you *** the terms of the contract, you will be sued.",
+      "meaning_tr": "ihlal etmek",
+      "meaning_en": "to break or fail to comply with a rule or formal agreement",
+      "meaning_uk": "порушувати",
+      "meaning_es": "violar"
+    },
+    {
+      "term": "a suspect",
+      "type": "Noun",
+      "example": "The police finally captured the primary *** in the bank robbery.",
+      "meaning_tr": "şüpheli",
+      "meaning_en": "a person thought to be guilty of a crime",
+      "meaning_uk": "підозрюваний",
+      "meaning_es": "un sospechoso"
+    },
+    {
+      "term": "the custody",
+      "type": "Noun",
+      "example": "The man was taken into *** for further questioning.",
+      "meaning_tr": "gözaltı",
+      "meaning_en": "the protective care or guardianship of someone or something",
+      "meaning_uk": "під вартою",
+      "meaning_es": "la custodia"
+    },
+    {
+      "term": "a criminal",
+      "type": "Noun",
+      "example": "The notorious *** was finally caught after years on the run.",
+      "meaning_tr": "suçlu",
+      "meaning_en": "a person who has committed a crime",
+      "meaning_uk": "злочинець",
+      "meaning_es": "un criminal"
+    },
+    {
+      "term": "a bail",
+      "type": "Noun",
+      "example": "The judge set the *** at ten thousand dollars.",
+      "meaning_tr": "kefalet",
+      "meaning_en": "the temporary release of an accused person awaiting trial",
+      "meaning_uk": "застава",
+      "meaning_es": "una fianza"
+    },
+    {
+      "term": "to settle",
+      "type": "Verb",
+      "example": "Both parties agreed to *** the dispute out of court.",
+      "meaning_tr": "anlaşmaya varmak",
+      "meaning_en": "to reach an agreement to resolve a dispute",
+      "meaning_uk": "врегулювати",
+      "meaning_es": "llegar a un acuerdo"
+    },
+    {
+      "term": "the testimony",
+      "type": "Noun",
+      "example": "Her *** was crucial in solving the case.",
+      "meaning_tr": "ifade",
+      "meaning_en": "a formal written or spoken statement",
+      "meaning_uk": "свідчення",
+      "meaning_es": "el testimonio"
+    },
+    {
+      "term": "a robbery",
+      "type": "Noun",
+      "example": "The bank *** was planned with military precision.",
+      "meaning_tr": "soygun",
+      "meaning_en": "the action of taking property unlawfully from a person or place",
+      "meaning_uk": "пограбування",
+      "meaning_es": "un robo"
+    },
+    {
+      "term": "a breach",
+      "type": "Noun",
+      "example": "He was sued for *** of contract.",
+      "meaning_tr": "ihlal",
+      "meaning_en": "an act of breaking or failing to observe a law or agreement",
+      "meaning_uk": "порушення",
+      "meaning_es": "un incumplimiento"
+    },
+    {
+      "term": "a litigation",
+      "type": "Noun",
+      "example": "The company wants to avoid lengthy *** at all costs.",
+      "meaning_tr": "dava süreci",
+      "meaning_en": "the process of taking legal action",
+      "meaning_uk": "судовий процес",
+      "meaning_es": "un litigio"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Astronomie & Weltraum (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Himmelskörper",
+      "type": "Noun",
+      "example": "Ein *** kann ein Planet, ein Stern oder ein Asteroid sein.",
+      "meaning_tr": "gök cismi",
+      "meaning_en": "celestial body",
+      "meaning_uk": "небесне тіло",
+      "meaning_es": "cuerpo celeste"
+    },
+    {
+      "term": "die Umlaufbahn",
+      "type": "Noun",
+      "example": "Die Erde befindet sich in einer stabilen *** um die Sonne.",
+      "meaning_tr": "yörünge",
+      "meaning_en": "orbit",
+      "meaning_uk": "орбіта",
+      "meaning_es": "órbita"
+    },
+    {
+      "term": "das Weltall",
+      "type": "Noun",
+      "example": "Die Erforschung des ***s stellt die Menschheit vor große Herausforderungen.",
+      "meaning_tr": "uzay",
+      "meaning_en": "outer space",
+      "meaning_uk": "всесвіт",
+      "meaning_es": "espacio exterior"
+    },
+    {
+      "term": "die Schwerelosigkeit",
+      "type": "Noun",
+      "example": "In der Internationalen Raumstation herrscht dauerhafte ***.",
+      "meaning_tr": "yerçekimsiz ortam",
+      "meaning_en": "weightlessness",
+      "meaning_uk": "невагомість",
+      "meaning_es": "ingravidez"
+    },
+    {
+      "term": "das Schwarze Loch",
+      "type": "Noun",
+      "example": "Ein *** hat eine so starke Gravitation, dass nicht einmal Licht entweichen kann.",
+      "meaning_tr": "kara delik",
+      "meaning_en": "black hole",
+      "meaning_uk": "чорна діра",
+      "meaning_es": "agujero negro"
+    },
+    {
+      "term": "der Urknall",
+      "type": "Noun",
+      "example": "Nach der Theorie des ***s entstand das Universum vor Milliarden von Jahren.",
+      "meaning_tr": "Büyük Patlama",
+      "meaning_en": "Big Bang",
+      "meaning_uk": "Великий вибух",
+      "meaning_es": "Big Bang"
+    },
+    {
+      "term": "die Lichtgeschwindigkeit",
+      "type": "Noun",
+      "example": "Nichts im Universum kann sich schneller als mit *** bewegen.",
+      "meaning_tr": "ışık hızı",
+      "meaning_en": "speed of light",
+      "meaning_uk": "швидкість світла",
+      "meaning_es": "velocidad de la luz"
+    },
+    {
+      "term": "die Milchstraße",
+      "type": "Noun",
+      "example": "Unsere Sonne ist nur einer von Milliarden Sternen in der ***.",
+      "meaning_tr": "Samanyolu",
+      "meaning_en": "Milky Way",
+      "meaning_uk": "Чумацький Шлях",
+      "meaning_es": "Vía Láctea"
+    },
+    {
+      "term": "die Dunkle Materie",
+      "type": "Noun",
+      "example": "Die Wissenschaft rätselt noch immer über die Beschaffenheit der ***.",
+      "meaning_tr": "karanlık madde",
+      "meaning_en": "dark matter",
+      "meaning_uk": "темна матерія",
+      "meaning_es": "materia oscura"
+    },
+    {
+      "term": "der Ereignishorizont",
+      "type": "Noun",
+      "example": "Hinter dem *** eines Schwarzen Lochs sind keine Informationen mehr zugänglich.",
+      "meaning_tr": "olay ufku",
+      "meaning_en": "event horizon",
+      "meaning_uk": "горизонт подій",
+      "meaning_es": "horizonte de sucesos"
+    },
+    {
+      "term": "die Rotverschiebung",
+      "type": "Noun",
+      "example": "Die *** des Lichts ferner Galaxien beweist die Expansion des Weltalls.",
+      "meaning_tr": "kırmızıya kayma",
+      "meaning_en": "redshift",
+      "meaning_uk": "червоне зміщення",
+      "meaning_es": "corrimiento al rojo"
+    },
+    {
+      "term": "die kosmische Strahlung",
+      "type": "Noun",
+      "example": "Astronauten müssen vor der gefährlichen *** geschützt werden.",
+      "meaning_tr": "kozmik radyasyon",
+      "meaning_en": "cosmic radiation",
+      "meaning_uk": "космічне випромінювання",
+      "meaning_es": "radiación cósmica"
+    },
+    {
+      "term": "der Exoplanet",
+      "type": "Noun",
+      "example": "Bisher wurden Tausende von ***en außerhalb unseres Sonnensystems entdeckt.",
+      "meaning_tr": "ötegezegen",
+      "meaning_en": "exoplanet",
+      "meaning_uk": "екзопланета",
+      "meaning_es": "exoplaneta"
+    },
+    {
+      "term": "die Supernova",
+      "type": "Noun",
+      "example": "Wenn ein massereicher Stern am Ende seines Lebens explodiert, spricht man von einer ***.",
+      "meaning_tr": "süpernova",
+      "meaning_en": "supernova",
+      "meaning_uk": "наднова",
+      "meaning_es": "supernova"
+    },
+    {
+      "term": "das Sonnensystem",
+      "type": "Noun",
+      "example": "Unser *** besteht aus acht Planeten und zahlreichen kleineren Objekten.",
+      "meaning_tr": "güneş sistemi",
+      "meaning_en": "solar system",
+      "meaning_uk": "сонячна система",
+      "meaning_es": "sistema solar"
+    },
+    {
+      "term": "die Raumsonde",
+      "type": "Noun",
+      "example": "Die *** schickte hochauflösende Bilder von der Oberfläche des Mars.",
+      "meaning_tr": "uzay sondası",
+      "meaning_en": "space probe",
+      "meaning_uk": "космічний зонд",
+      "meaning_es": "sonda espacial"
+    },
+    {
+      "term": "der Asteroidengürtel",
+      "type": "Noun",
+      "example": "Zwischen Mars und Jupiter befindet sich der ***.",
+      "meaning_tr": "asteroit kuşağı",
+      "meaning_en": "asteroid belt",
+      "meaning_uk": "пояс астероїдів",
+      "meaning_es": "cinturón de asteroides"
+    },
+    {
+      "term": "die Gezeitenkraft",
+      "type": "Noun",
+      "example": "Die *** des Mondes ist verantwortlich für Ebbe und Flut auf der Erde.",
+      "meaning_tr": "gelgit kuvveti",
+      "meaning_en": "tidal force",
+      "meaning_uk": "припливна сила",
+      "meaning_es": "fuerza de marea"
+    },
+    {
+      "term": "die Sternschnuppe",
+      "type": "Noun",
+      "example": "Wenn ein kleiner Meteorid in der Atmosphäre verglüht, sehen wir eine ***.",
+      "meaning_tr": "kayan yıldız",
+      "meaning_en": "shooting star",
+      "meaning_uk": "метеор (падаюча зірка)",
+      "meaning_es": "estrella fugaz"
+    },
+    {
+      "term": "das Sternbild",
+      "type": "Noun",
+      "example": "Der Große Wagen ist eines der bekanntesten ***er am Nordhimmel.",
+      "meaning_tr": "takımyıldız",
+      "meaning_en": "constellation",
+      "meaning_uk": "сузір'я",
+      "meaning_es": "constelación"
+    },
+    {
+      "term": "die Galaxie",
+      "type": "Noun",
+      "example": "Andromeda ist die der Milchstraße am nächsten gelegene große ***.",
+      "meaning_tr": "galaksi",
+      "meaning_en": "galaxy",
+      "meaning_uk": "галактика",
+      "meaning_es": "galaxia"
+    },
+    {
+      "term": "der Fixstern",
+      "type": "Noun",
+      "example": "Früher glaubte man, dass ein *** seine Position am Himmel niemals ändert.",
+      "meaning_tr": "sabit yıldız",
+      "meaning_en": "fixed star",
+      "meaning_uk": "нерухома зірка",
+      "meaning_es": "estrella fija"
+    },
+    {
+      "term": "die Sonnenfinsternis",
+      "type": "Noun",
+      "example": "Bei einer totalen *** schiebt sich der Mond komplett vor die Sonne.",
+      "meaning_tr": "güneş tutulması",
+      "meaning_en": "solar eclipse",
+      "meaning_uk": "сонячне затемнення",
+      "meaning_es": "eclipse solar"
+    },
+    {
+      "term": "die Mondfinsternis",
+      "type": "Noun",
+      "example": "Während einer *** tritt der Mond in den Kernschatten der Erde.",
+      "meaning_tr": "ay tutulması",
+      "meaning_en": "lunar eclipse",
+      "meaning_uk": "місячне затемнення",
+      "meaning_es": "eclipse lunar"
+    },
+    {
+      "term": "die bemannte Raumfahrt",
+      "type": "Noun",
+      "example": "Die *** zum Mars ist das nächste große Ziel der NASA.",
+      "meaning_tr": "insanlı uzay uçuşu",
+      "meaning_en": "manned spaceflight",
+      "meaning_uk": "пілотована космонавтика",
+      "meaning_es": "vuelos espaciales tripulados"
+    },
+    {
+      "term": "die Sternwarte",
+      "type": "Noun",
+      "example": "Von der *** aus beobachteten die Astronomen den Kometen.",
+      "meaning_tr": "gözlemevi",
+      "meaning_en": "observatory",
+      "meaning_uk": "обсерваторія",
+      "meaning_es": "observatorio"
+    },
+    {
+      "term": "die Lichtverschmutzung",
+      "type": "Noun",
+      "example": "Wegen der starken *** kann man in Großstädten kaum Sterne sehen.",
+      "meaning_tr": "ışık kirliliği",
+      "meaning_en": "light pollution",
+      "meaning_uk": "світлове забруднення",
+      "meaning_es": "contaminación lumínica"
+    },
+    {
+      "term": "die Magnetosphäre",
+      "type": "Noun",
+      "example": "Die *** schützt die Erde vor dem gefährlichen Sonnenwind.",
+      "meaning_tr": "manyetosfer",
+      "meaning_en": "magnetosphere",
+      "meaning_uk": "магнітосфера",
+      "meaning_es": "magnetosfera"
+    },
+    {
+      "term": "die Ozonschicht",
+      "type": "Noun",
+      "example": "Die *** filtert einen Großteil der ultravioletten Strahlung der Sonne.",
+      "meaning_tr": "ozon tabakası",
+      "meaning_en": "ozone layer",
+      "meaning_uk": "озоновий шар",
+      "meaning_es": "capa de ozono"
+    },
+    {
+      "term": "die Kosmologie",
+      "type": "Noun",
+      "example": "Die *** beschäftigt sich mit der Entstehung und Entwicklung des Universums.",
+      "meaning_tr": "kozmoloji",
+      "meaning_en": "cosmology",
+      "meaning_uk": "космологія",
+      "meaning_es": "cosmología"
+    },
+    {
+      "term": "die Astrophysik",
+      "type": "Noun",
+      "example": "In der *** werden physikalische Gesetze auf astronomische Objekte angewandt.",
+      "meaning_tr": "astrofizik",
+      "meaning_en": "astrophysics",
+      "meaning_uk": "астрофізика",
+      "meaning_es": "astrofísica"
+    },
+    {
+      "term": "der Meteoriteneinschlag",
+      "type": "Noun",
+      "example": "Ein gigantischer *** führte vermutlich zum Aussterben der Dinosaurier.",
+      "meaning_tr": "meteorit çarpması",
+      "meaning_en": "meteorite impact",
+      "meaning_uk": "падіння метеорита",
+      "meaning_es": "impacto de meteorito"
+    },
+    {
+      "term": "das Wurmloch",
+      "type": "Noun",
+      "example": "Theoretisch könnte ein *** eine Abkürzung durch die Raumzeit ermöglichen.",
+      "meaning_tr": "solucan deliği",
+      "meaning_en": "wormhole",
+      "meaning_uk": "кротова нора",
+      "meaning_es": "agujero de gusano"
+    },
+    {
+      "term": "die Singularität",
+      "type": "Noun",
+      "example": "Im Zentrum eines Schwarzen Lochs befindet sich eine physikalische ***.",
+      "meaning_tr": "tekillik",
+      "meaning_en": "singularity",
+      "meaning_uk": "сингулярність",
+      "meaning_es": "singularidad"
+    },
+    {
+      "term": "die Hintergrundstrahlung",
+      "type": "Noun",
+      "example": "Die kosmische *** ist ein direktes Überbleibsel des Urknalls.",
+      "meaning_tr": "fon radyasyonu",
+      "meaning_en": "background radiation",
+      "meaning_uk": "реліктове випромінювання",
+      "meaning_es": "radiación de fondo"
+    },
+    {
+      "term": "expandieren",
+      "type": "Verb",
+      "example": "Beobachtungen zeigen, dass das Universum immer schneller ***.",
+      "meaning_tr": "genişlemek",
+      "meaning_en": "to expand",
+      "meaning_uk": "розширюватися",
+      "meaning_es": "expandirse"
+    },
+    {
+      "term": "rotieren",
+      "type": "Verb",
+      "example": "Die meisten Planeten *** um ihre eigene Achse.",
+      "meaning_tr": "dönmek",
+      "meaning_en": "to rotate",
+      "meaning_uk": "обертатися",
+      "meaning_es": "rotar"
+    },
+    {
+      "term": "kreisen",
+      "type": "Verb",
+      "example": "Die Satelliten *** in unterschiedlichen Höhen um die Erde.",
+      "meaning_tr": "yörüngede dönmek",
+      "meaning_en": "to orbit",
+      "meaning_uk": "кружляти",
+      "meaning_es": "orbitar"
+    },
+    {
+      "term": "erforschen",
+      "type": "Verb",
+      "example": "Die Menschheit möchte die Geheimnisse des tiefen Weltraums ***.",
+      "meaning_tr": "araştırmak",
+      "meaning_en": "to explore",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "investigar"
+    },
+    {
+      "term": "kollidieren",
+      "type": "Verb",
+      "example": "In Milliarden von Jahren werden die Milchstraße und Andromeda ***.",
+      "meaning_tr": "çarpışmak",
+      "meaning_en": "to collide",
+      "meaning_uk": "зіштовхуватися",
+      "meaning_es": "colisionar"
+    },
+    {
+      "term": "emittieren",
+      "type": "Verb",
+      "example": "Sterne *** Energie in Form von Licht und Wärme.",
+      "meaning_tr": "yaymak",
+      "meaning_en": "to emit",
+      "meaning_uk": "випромінювати",
+      "meaning_es": "emitir"
+    },
+    {
+      "term": "absorbieren",
+      "type": "Verb",
+      "example": "Staubwolken im All können das Licht dahinter liegender Sterne ***.",
+      "meaning_tr": "soğurmak",
+      "meaning_en": "to absorb",
+      "meaning_uk": "поглинати",
+      "meaning_es": "absorber"
+    },
+    {
+      "term": "entschlüsseln",
+      "type": "Verb",
+      "example": "Wissenschaftler versuchen, die Signale aus dem All zu ***.",
+      "meaning_tr": "şifresini çözmek",
+      "meaning_en": "to decode",
+      "meaning_uk": "розшифровувати",
+      "meaning_es": "descifrar"
+    },
+    {
+      "term": "kolonisieren",
+      "type": "Verb",
+      "example": "Es gibt Pläne, in ferner Zukunft den Mars zu ***.",
+      "meaning_tr": "sömürgeleştirmek",
+      "meaning_en": "to colonize",
+      "meaning_uk": "колонізувати",
+      "meaning_es": "colonizar"
+    },
+    {
+      "term": "navigieren",
+      "type": "Verb",
+      "example": "Raumsonden müssen präzise durch das Sonnensystem ***.",
+      "meaning_tr": "yön bulmak",
+      "meaning_en": "to navigate",
+      "meaning_uk": "навігувати",
+      "meaning_es": "navegar"
+    },
+    {
+      "term": "interstellar",
+      "type": "Adjective",
+      "example": "Die Voyager-Sonden befinden sich nun im ***en Raum.",
+      "meaning_tr": "yıldızlararası",
+      "meaning_en": "interstellar",
+      "meaning_uk": "міжзоряний",
+      "meaning_es": "interestelar"
+    },
+    {
+      "term": "galaktisch",
+      "type": "Adjective",
+      "example": "Das ***e Zentrum ist von dichten Staubwolken verdeckt.",
+      "meaning_tr": "galaktik",
+      "meaning_en": "galactic",
+      "meaning_uk": "галактичний",
+      "meaning_es": "galáctico"
+    },
+    {
+      "term": "kosmisch",
+      "type": "Adjective",
+      "example": "Die Entfernungen im ***en Maßstab sind für uns unvorstellbar.",
+      "meaning_tr": "kozmik",
+      "meaning_en": "cosmic",
+      "meaning_uk": "космічний",
+      "meaning_es": "cósmico"
+    },
+    {
+      "term": "unendlich",
+      "type": "Adjective",
+      "example": "Die Weiten des Universums scheinen fast *** zu sein.",
+      "meaning_tr": "sonsuz",
+      "meaning_en": "infinite",
+      "meaning_uk": "нескінченний",
+      "meaning_es": "infinito"
+    },
+    {
+      "term": "außerirdisch",
+      "type": "Adjective",
+      "example": "Bisher gibt es keinen Beweis für ***es Leben.",
+      "meaning_tr": "dünya dışı",
+      "meaning_en": "extraterrestrial",
+      "meaning_uk": "позаземний",
+      "meaning_es": "extraterrestre"
+    },
+    {
+      "term": "elliptisch",
+      "type": "Adjective",
+      "example": "Die Planeten bewegen sich auf ***en Bahnen um die Sonne.",
+      "meaning_tr": "eliptik",
+      "meaning_en": "elliptical",
+      "meaning_uk": "еліптичний",
+      "meaning_es": "elíptico"
+    },
+    {
+      "term": "sphärisch",
+      "type": "Adjective",
+      "example": "Die Erde hat keine perfekte, sondern eine annähernd ***e Form.",
+      "meaning_tr": "küresel",
+      "meaning_en": "spherical",
+      "meaning_uk": "сферичний",
+      "meaning_es": "esférico"
+    },
+    {
+      "term": "stellar",
+      "type": "Adjective",
+      "example": "Die ***e Entwicklung hängt maßgeblich von der Masse des Sterns ab.",
+      "meaning_tr": "yıldızla ilgili",
+      "meaning_en": "stellar",
+      "meaning_uk": "зоряний",
+      "meaning_es": "estelar"
+    },
+    {
+      "term": "leuchtstark",
+      "type": "Adjective",
+      "example": "Quasare gehören zu den ***sten Objekten im Universum.",
+      "meaning_tr": "parlak",
+      "meaning_en": "luminous",
+      "meaning_uk": "яскравий",
+      "meaning_es": "luminoso"
+    },
+    {
+      "term": "gravitativ",
+      "type": "Adjective",
+      "example": "Die ***e Anziehungskraft der Sonne hält die Planeten auf Kurs.",
+      "meaning_tr": "kütleçekimsel",
+      "meaning_en": "gravitational",
+      "meaning_uk": "гравітаційний",
+      "meaning_es": "gravitatorio"
+    },
+    {
+      "term": "jenseits",
+      "type": "Preposition",
+      "example": "*** des Pluto befinden sich noch viele weitere Zwergplaneten.",
+      "meaning_tr": "ötesinde",
+      "meaning_en": "beyond",
+      "meaning_uk": "по той бік",
+      "meaning_es": "más allá de"
+    },
+    {
+      "term": "inmitten",
+      "type": "Preposition",
+      "example": "*** der Dunkelheit leuchten die Sterne am hellsten.",
+      "meaning_tr": "ortasında",
+      "meaning_en": "in the midst of",
+      "meaning_uk": "посеред",
+      "meaning_es": "en medio de"
+    },
+    {
+      "term": "allmählich",
+      "type": "Adverb",
+      "example": "Die Sonne wird sich in ferner Zukunft *** zu einem Roten Riesen aufblähen.",
+      "meaning_tr": "yavaş yavaş",
+      "meaning_en": "gradually",
+      "meaning_uk": "поступово",
+      "meaning_es": "gradualmente"
+    },
+    {
+      "term": "unaufhörlich",
+      "type": "Adverb",
+      "example": "Das Universum dehnt sich *** in alle Richtungen aus.",
+      "meaning_tr": "durmaksızın",
+      "meaning_en": "incessantly",
+      "meaning_uk": "безперервно",
+      "meaning_es": "incesantemente"
+    },
+    {
+      "term": "sofern",
+      "type": "Conjunction",
+      "example": "Wir könnten dort landen, *** die technischen Voraussetzungen erfüllt sind.",
+      "meaning_tr": "eğer",
+      "meaning_en": "provided that",
+      "meaning_uk": "за умови що",
+      "meaning_es": "siempre que"
+    }
+  ]
+}

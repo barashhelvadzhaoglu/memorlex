@@ -1,0 +1,231 @@
+{
+  "title": "Ciudad y Campo (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la ciudad",
+      "type": "Noun",
+      "example": "*** es muy ruidosa durante el día.",
+      "meaning_tr": "şehir",
+      "meaning_en": "city",
+      "meaning_uk": "місто",
+      "meaning_es": "lugar donde vive mucha gente"
+    },
+    {
+      "term": "el campo",
+      "type": "Noun",
+      "example": "Me gusta vivir en *** porque es tranquilo.",
+      "meaning_tr": "kırsal bölge",
+      "meaning_en": "countryside",
+      "meaning_uk": "сільська місцевість",
+      "meaning_es": "terreno fuera de la ciudad"
+    },
+    {
+      "term": "el edificio",
+      "type": "Noun",
+      "example": "Ese *** es muy alto y moderno.",
+      "meaning_tr": "bina",
+      "meaning_en": "building",
+      "meaning_uk": "будівля",
+      "meaning_es": "construcción de piedra o ladrillo"
+    },
+    {
+      "term": "la calle",
+      "type": "Noun",
+      "example": "Hay mucha gente caminando por la ***.",
+      "meaning_tr": "sokak",
+      "meaning_en": "street",
+      "meaning_uk": "вулиця",
+      "meaning_es": "vía pública entre edificios"
+    },
+    {
+      "term": "el árbol",
+      "type": "Noun",
+      "example": "Hay un *** grande en el jardín.",
+      "meaning_tr": "ağaç",
+      "meaning_en": "tree",
+      "meaning_uk": "дерево",
+      "meaning_es": "planta alta de tronco leñoso"
+    },
+    {
+      "term": "el tráfico",
+      "type": "Noun",
+      "example": "El *** en la ciudad es terrible hoy.",
+      "meaning_tr": "trafik",
+      "meaning_en": "traffic",
+      "meaning_uk": "трафік",
+      "meaning_es": "movimiento de vehículos"
+    },
+    {
+      "term": "la granja",
+      "type": "Noun",
+      "example": "En la *** hay vacas y gallinas.",
+      "meaning_tr": "çiftlik",
+      "meaning_en": "farm",
+      "meaning_uk": "ферма",
+      "meaning_es": "lugar para cultivar y criar animales"
+    },
+    {
+      "term": "la montaña",
+      "type": "Noun",
+      "example": "Vamos a subir a la *** este fin de semana.",
+      "meaning_tr": "dağ",
+      "meaning_en": "mountain",
+      "meaning_uk": "гора",
+      "meaning_es": "gran elevación natural del terreno"
+    },
+    {
+      "term": "el ruido",
+      "type": "Noun",
+      "example": "No puedo dormir por el *** de los coches.",
+      "meaning_tr": "gürültü",
+      "meaning_en": "noise",
+      "meaning_uk": "шум",
+      "meaning_es": "sonido inarticulado y molesto"
+    },
+    {
+      "term": "el aire puro",
+      "type": "Noun",
+      "example": "En el campo podemos respirar ***.",
+      "meaning_tr": "temiz hava",
+      "meaning_en": "fresh air",
+      "meaning_uk": "чисте повітря",
+      "meaning_es": "aire sin contaminación"
+    },
+    {
+      "term": "vivir",
+      "type": "Verb",
+      "example": "Prefiero *** en un lugar tranquilo.",
+      "meaning_tr": "yaşamak",
+      "meaning_en": "to live",
+      "meaning_uk": "жити",
+      "meaning_es": "tener vida"
+    },
+    {
+      "term": "caminar",
+      "type": "Verb",
+      "example": "Me gusta *** por el parque.",
+      "meaning_tr": "yürümek",
+      "meaning_en": "to walk",
+      "meaning_uk": "ходити пішки",
+      "meaning_es": "moverse dando pasos"
+    },
+    {
+      "term": "visitar",
+      "type": "Verb",
+      "example": "Vamos a *** a mis abuelos en el pueblo.",
+      "meaning_tr": "ziyaret etmek",
+      "meaning_en": "to visit",
+      "meaning_uk": "відвідувати",
+      "meaning_es": "ir a ver a alguien o algún lugar"
+    },
+    {
+      "term": "contaminar",
+      "type": "Verb",
+      "example": "Los coches pueden *** el medio ambiente.",
+      "meaning_tr": "kirletmek",
+      "meaning_en": "to pollute",
+      "meaning_uk": "забруднювати",
+      "meaning_es": "alterar nocivamente la pureza de algo"
+    },
+    {
+      "term": "tranquilo",
+      "type": "Adjective",
+      "example": "El campo es muy *** por las noches.",
+      "meaning_tr": "sakin",
+      "meaning_en": "quiet/calm",
+      "meaning_uk": "спокійний",
+      "meaning_es": "que no tiene ruido o agitación"
+    },
+    {
+      "term": "ruidoso",
+      "type": "Adjective",
+      "example": "El centro es muy *** durante el día.",
+      "meaning_tr": "gürültülü",
+      "meaning_en": "noisy",
+      "meaning_uk": "шумний",
+      "meaning_es": "que tiene mucho ruido"
+    },
+    {
+      "term": "grande",
+      "type": "Adjective",
+      "example": "Madrid es una ciudad muy ***.",
+      "meaning_tr": "büyük",
+      "meaning_en": "big",
+      "meaning_uk": "великий",
+      "meaning_es": "que tiene gran tamaño"
+    },
+    {
+      "term": "limpio",
+      "type": "Adjective",
+      "example": "El agua del río está muy ***.",
+      "meaning_tr": "temiz",
+      "meaning_en": "clean",
+      "meaning_uk": "чистий",
+      "meaning_es": "que no tiene suciedad"
+    },
+    {
+      "term": "cerca de",
+      "type": "Preposition",
+      "example": "Vivo *** la estación de tren.",
+      "meaning_tr": "yakınında",
+      "meaning_en": "near",
+      "meaning_uk": "поруч з",
+      "meaning_es": "a poca distancia"
+    },
+    {
+      "term": "lejos de",
+      "type": "Preposition",
+      "example": "Trabajo *** mi casa.",
+      "meaning_tr": "uzağında",
+      "meaning_en": "far from",
+      "meaning_uk": "далеко від",
+      "meaning_es": "a mucha distancia"
+    },
+    {
+      "term": "siempre",
+      "type": "Adverb",
+      "example": "En la ciudad *** hay mucha gente.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "en todo momento"
+    },
+    {
+      "term": "a veces",
+      "type": "Adverb",
+      "example": "Voy al campo *** los fines de semana.",
+      "meaning_tr": "bazen",
+      "meaning_en": "sometimes",
+      "meaning_uk": "іноді",
+      "meaning_es": "en alguna ocasión"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "Me gusta la ciudad, *** prefiero el campo.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "example": "Hay árboles *** flores en el jardín.",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "conjunción copulativa"
+    },
+    {
+      "term": "porque",
+      "type": "Conjunction",
+      "example": "Me gusta el campo *** es tranquilo.",
+      "meaning_tr": "çünkü",
+      "meaning_en": "because",
+      "meaning_uk": "тому що",
+      "meaning_es": "conjunción causal"
+    }
+  ]
+}

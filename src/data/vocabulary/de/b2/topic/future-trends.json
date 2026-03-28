@@ -1,0 +1,411 @@
+{
+  "title": "Zukunftstrends (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Digitalisierung",
+      "type": "Noun",
+      "example": "*** verändert unsere Art zu arbeiten grundlegend.",
+      "meaning_tr": "Dijitalleşme",
+      "meaning_en": "digitalization",
+      "meaning_uk": "цифровізація",
+      "meaning_es": "digitalización"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir müssen in Zukunft viel mehr *** produzieren.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "der Klimawandel",
+      "type": "Noun",
+      "example": "*** ist eine der größten Herausforderungen unserer Zeit.",
+      "meaning_tr": "iklim değişikliği",
+      "meaning_en": "climate change",
+      "meaning_uk": "зміна клімату",
+      "meaning_es": "cambio climático"
+    },
+    {
+      "term": "automatisieren",
+      "type": "Verb",
+      "example": "Viele Fabriken *** ihre Produktionsabläufe zunehmend.",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to automate",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "automatizar"
+    },
+    {
+      "term": "die künstliche Intelligenz",
+      "type": "Noun",
+      "example": "*** wird viele Berufe in der Zukunft verändern.",
+      "meaning_tr": "yapay zeka",
+      "meaning_en": "artificial intelligence",
+      "meaning_uk": "штучний інтелект",
+      "meaning_es": "inteligencia artificial"
+    },
+    {
+      "term": "erneuerbar",
+      "type": "Adjective",
+      "example": "Der Ausbau von *** Energien ist für die Umwelt wichtig.",
+      "meaning_tr": "yenilenebilir",
+      "meaning_en": "renewable",
+      "meaning_uk": "відновлюваний",
+      "meaning_es": "renovable"
+    },
+    {
+      "term": "die Fernarbeit",
+      "type": "Noun",
+      "example": "Immer mehr Unternehmen ermöglichen ihren Mitarbeitern ***.",
+      "meaning_tr": "uzaktan çalışma",
+      "meaning_en": "remote work",
+      "meaning_uk": "дистанційна робота",
+      "meaning_es": "trabajo remoto"
+    },
+    {
+      "term": "innovativ",
+      "type": "Adjective",
+      "example": "Start-ups entwickeln oft sehr *** Lösungen für Alltagsprobleme.",
+      "meaning_tr": "yenilikçi",
+      "meaning_en": "innovative",
+      "meaning_uk": "інноваційний",
+      "meaning_es": "innovador"
+    },
+    {
+      "term": "die Globalisierung",
+      "type": "Noun",
+      "example": "*** beeinflusst die Weltwirtschaft in hohem Maße.",
+      "meaning_tr": "küreselleşme",
+      "meaning_en": "globalization",
+      "meaning_uk": "глобалізація",
+      "meaning_es": "globalización"
+    },
+    {
+      "term": "der Fachkräftemangel",
+      "type": "Noun",
+      "example": "In vielen Branchen herrscht ein gravierender ***.",
+      "meaning_tr": "nitelikli iş gücü açığı",
+      "meaning_en": "skills shortage",
+      "meaning_uk": "дефіцит кваліфікованих кадрів",
+      "meaning_es": "escasez de mano de obra cualificada"
+    },
+    {
+      "term": "effizient",
+      "type": "Adjective",
+      "example": "Neue Technologien machen unsere Arbeitsprozesse ***.",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "eficiente"
+    },
+    {
+      "term": "die Ressourcenschonung",
+      "type": "Noun",
+      "example": "*** spielt eine zentrale Rolle in der modernen Industriepolitik.",
+      "meaning_tr": "kaynak tasarrufu",
+      "meaning_en": "resource conservation",
+      "meaning_uk": "збереження ресурсів",
+      "meaning_es": "conservación de recursos"
+    },
+    {
+      "term": "vernetzt",
+      "type": "Adjective",
+      "example": "In der Zukunft wird alles mit dem Internet *** sein.",
+      "meaning_tr": "bağlantılı / ağa bağlı",
+      "meaning_en": "connected",
+      "meaning_uk": "мережевий",
+      "meaning_es": "conectado"
+    },
+    {
+      "term": "die Mobilitätswende",
+      "type": "Noun",
+      "example": "*** ist notwendig, um die Innenstädte zu entlasten.",
+      "meaning_tr": "ulaşım dönüşümü",
+      "meaning_en": "mobility transition",
+      "meaning_uk": "транспортна трансформація",
+      "meaning_es": "transición de la movilidad"
+    },
+    {
+      "term": "optimieren",
+      "type": "Verb",
+      "example": "Wir müssen unsere Zeit besser ***.",
+      "meaning_tr": "optimize etmek",
+      "meaning_en": "to optimize",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "optimizar"
+    },
+    {
+      "term": "die Lebensqualität",
+      "type": "Noun",
+      "example": "Eine gute Work-Life-Balance steigert die ***.",
+      "meaning_tr": "yaşam kalitesi",
+      "meaning_en": "quality of life",
+      "meaning_uk": "якість життя",
+      "meaning_es": "calidad de vida"
+    },
+    {
+      "term": "autonom",
+      "type": "Adjective",
+      "example": "In Zukunft werden viele Autos *** fahren.",
+      "meaning_tr": "otonom / bağımsız",
+      "meaning_en": "autonomous",
+      "meaning_uk": "автономний",
+      "meaning_es": "autónomo"
+    },
+    {
+      "term": "die Kreislaufwirtschaft",
+      "type": "Noun",
+      "example": "Das Ziel der *** ist es, Abfall zu vermeiden.",
+      "meaning_tr": "döngüsel ekonomi",
+      "meaning_en": "circular economy",
+      "meaning_uk": "циркулярна економіка",
+      "meaning_es": "economía circular"
+    },
+    {
+      "term": "vorhersagen",
+      "type": "Verb",
+      "example": "Experten *** für das nächste Jahrzehnt große Veränderungen.",
+      "meaning_tr": "öngörmek",
+      "meaning_en": "to predict",
+      "meaning_uk": "передбачати",
+      "meaning_es": "predecir"
+    },
+    {
+      "term": "die Cybersicherheit",
+      "type": "Noun",
+      "example": "*** wird durch die zunehmende Digitalisierung immer wichtiger.",
+      "meaning_tr": "siber güvenlik",
+      "meaning_en": "cybersecurity",
+      "meaning_uk": "кібербезпека",
+      "meaning_es": "ciberseguridad"
+    },
+    {
+      "term": "fortschrittlich",
+      "type": "Adjective",
+      "example": "Das Unternehmen hat eine sehr *** Einstellung zu neuen Ideen.",
+      "meaning_tr": "ilerici",
+      "meaning_en": "progressive",
+      "meaning_uk": "прогресивний",
+      "meaning_es": "progresista"
+    },
+    {
+      "term": "die Altersvorsorge",
+      "type": "Noun",
+      "example": "Man sollte frühzeitig mit der *** beginnen.",
+      "meaning_tr": "emeklilik planlaması",
+      "meaning_en": "retirement provision",
+      "meaning_uk": "пенсійне забезпечення",
+      "meaning_es": "plan de pensiones"
+    },
+    {
+      "term": "anpassen",
+      "type": "Verb",
+      "example": "Wir müssen uns an die neuen Marktbedingungen ***.",
+      "meaning_tr": "uyum sağlamak",
+      "meaning_en": "to adapt",
+      "meaning_uk": "адаптуватися",
+      "meaning_es": "adaptarse"
+    },
+    {
+      "term": "die Energiewende",
+      "type": "Noun",
+      "example": "*** ist ein wichtiger Schritt für den Umweltschutz.",
+      "meaning_tr": "enerji dönüşümü",
+      "meaning_en": "energy transition",
+      "meaning_uk": "енергетичний перехід",
+      "meaning_es": "transición energética"
+    },
+    {
+      "term": "zunehmend",
+      "type": "Adverb",
+      "example": "Die Menschen nutzen *** digitale Dienstleistungen.",
+      "meaning_tr": "giderek artan şekilde",
+      "meaning_en": "increasingly",
+      "meaning_uk": "дедалі більше",
+      "meaning_es": "cada vez más"
+    },
+    {
+      "term": "die Telemedizin",
+      "type": "Noun",
+      "example": "*** ermöglicht Behandlungen aus der Ferne.",
+      "meaning_tr": "teletıp",
+      "meaning_en": "telemedicine",
+      "meaning_uk": "телемедицина",
+      "meaning_es": "telemedicina"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir brauchen *** Konzepte für die Stadtplanung.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "vermeiden",
+      "type": "Verb",
+      "example": "Wir sollten Plastikmüll konsequent ***.",
+      "meaning_tr": "kaçınmak / önlemek",
+      "meaning_en": "to avoid",
+      "meaning_uk": "уникати",
+      "meaning_es": "evitar"
+    },
+    {
+      "term": "die Urbanisierung",
+      "type": "Noun",
+      "example": "*** führt zu einer höheren Bevölkerungsdichte in Städten.",
+      "meaning_tr": "kentleşme",
+      "meaning_en": "urbanization",
+      "meaning_uk": "урбанізація",
+      "meaning_es": "urbanización"
+    },
+    {
+      "term": "zukunftsfähig",
+      "type": "Adjective",
+      "example": "Ist unser Geschäftsmodell wirklich ***?",
+      "meaning_tr": "geleceğe uygun",
+      "meaning_en": "future-proof",
+      "meaning_uk": "життєздатний у майбутньому",
+      "meaning_es": "preparado para el futuro"
+    },
+    {
+      "term": "die Privatsphäre",
+      "type": "Noun",
+      "example": "Im digitalen Zeitalter ist *** oft gefährdet.",
+      "meaning_tr": "mahremiyet",
+      "meaning_en": "privacy",
+      "meaning_uk": "приватність",
+      "meaning_es": "privacidad"
+    },
+    {
+      "term": "transformieren",
+      "type": "Verb",
+      "example": "Die digitale Revolution wird unsere Gesellschaft ***.",
+      "meaning_tr": "dönüştürmek",
+      "meaning_en": "to transform",
+      "meaning_uk": "трансформувати",
+      "meaning_es": "transformar"
+    },
+    {
+      "term": "die CO2-Bilanz",
+      "type": "Noun",
+      "example": "Jeder Einzelne kann seine *** verbessern.",
+      "meaning_tr": "karbon ayak izi",
+      "meaning_en": "carbon footprint",
+      "meaning_uk": "вуглецевий слід",
+      "meaning_es": "huella de carbono"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "*** wir über die Zukunft sprechen, entwickelt sich die Technik weiter.",
+      "meaning_tr": "iken / esnasında",
+      "meaning_en": "while",
+      "meaning_uk": "у той час як",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "der Technologietransfer",
+      "type": "Noun",
+      "example": "*** ist entscheidend für die globale Entwicklung.",
+      "meaning_tr": "teknoloji transferi",
+      "meaning_en": "technology transfer",
+      "meaning_uk": "трансфер технологій",
+      "meaning_es": "transferencia tecnológica"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "example": "Wir leben in einer zunehmend *** Welt.",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "digital"
+    },
+    {
+      "term": "die Weiterbildung",
+      "type": "Noun",
+      "example": "Lebenslanges Lernen durch *** ist heute essenziell.",
+      "meaning_tr": "mesleki eğitim / kendini geliştirme",
+      "meaning_en": "further education",
+      "meaning_uk": "підвищення кваліфікації",
+      "meaning_es": "formación continua"
+    },
+    {
+      "term": "aufgrund",
+      "type": "Preposition",
+      "example": "*** technischer Fortschritte können wir heute effizienter arbeiten.",
+      "meaning_tr": "nedeniyle",
+      "meaning_en": "due to",
+      "meaning_uk": "через / завдяки",
+      "meaning_es": "debido a"
+    },
+    {
+      "term": "der Wohlstand",
+      "type": "Noun",
+      "example": "Wird der *** in Zukunft gerecht verteilt sein?",
+      "meaning_tr": "refah",
+      "meaning_en": "prosperity",
+      "meaning_uk": "добробут",
+      "meaning_es": "prosperidad"
+    },
+    {
+      "term": "flexibel",
+      "type": "Adjective",
+      "example": "Moderne Arbeitsmodelle müssen *** sein.",
+      "meaning_tr": "esnek",
+      "meaning_en": "flexible",
+      "meaning_uk": "гнучкий",
+      "meaning_es": "flexible"
+    },
+    {
+      "term": "die Biotechnologie",
+      "type": "Noun",
+      "example": "*** bietet neue Möglichkeiten in der Medizin.",
+      "meaning_tr": "biyoteknoloji",
+      "meaning_en": "biotechnology",
+      "meaning_uk": "біотехнологія",
+      "meaning_es": "biotecnología"
+    },
+    {
+      "term": "erforschen",
+      "type": "Verb",
+      "example": "Wissenschaftler *** neue Wege zur sauberen Energieerzeugung.",
+      "meaning_tr": "araştırmak",
+      "meaning_en": "to research",
+      "meaning_uk": "досліджувати",
+      "meaning_es": "investigar"
+    },
+    {
+      "term": "die Chancengleichheit",
+      "type": "Noun",
+      "example": "Bildung ist der Schlüssel zur ***.",
+      "meaning_tr": "fırsat eşitliği",
+      "meaning_en": "equal opportunity",
+      "meaning_uk": "рівність можливостей",
+      "meaning_es": "igualdad de oportunidades"
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "Wir stehen vor *** Herausforderungen.",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "global"
+    },
+    {
+      "term": "die Gesellschaft",
+      "type": "Noun",
+      "example": "Wie wird unsere *** in zwanzig Jahren aussehen?",
+      "meaning_tr": "toplum",
+      "meaning_en": "society",
+      "meaning_uk": "суспільство",
+      "meaning_es": "sociedad"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Jobsuche & Bewerbung (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Stellenausschreibung",
+      "type": "Noun",
+      "meaning_tr": "iş ilanı",
+      "meaning_en": "job advertisement",
+      "meaning_uk": "оголошення про вакансію",
+      "meaning_es": "anuncio de empleo",
+      "example": "Ich habe eine interessante *** in der Fachzeitschrift gelesen."
+    },
+    {
+      "term": "das Anschreiben",
+      "type": "Noun",
+      "meaning_tr": "ön yazı",
+      "meaning_en": "cover letter",
+      "meaning_uk": "супровідний лист",
+      "meaning_es": "carta de presentación",
+      "example": "Im *** sollten Sie Ihre Motivation klar darlegen."
+    },
+    {
+      "term": "der Lebenslauf",
+      "type": "Noun",
+      "meaning_tr": "özgeçmiş",
+      "meaning_en": "curriculum vitae",
+      "meaning_uk": "резюме",
+      "meaning_es": "currículum vítae",
+      "example": "Ein lückenloser *** ist für viele Arbeitgeber sehr wichtig."
+    },
+    {
+      "term": "das Vorstellungsgespräch",
+      "type": "Noun",
+      "meaning_tr": "iş görüşmesi",
+      "meaning_en": "job interview",
+      "meaning_uk": "співбесіда",
+      "meaning_es": "entrevista de trabajo",
+      "example": "Morgen habe ich ein wichtiges *** bei einer Werbeagentur."
+    },
+    {
+      "term": "die Gehaltsvorstellung",
+      "type": "Noun",
+      "meaning_tr": "maaş beklentisi",
+      "meaning_en": "salary expectation",
+      "meaning_uk": "очікування щодо заробітної плати",
+      "meaning_es": "expectativa salarial",
+      "example": "Nennen Sie bitte Ihre *** in der Bewerbung."
+    },
+    {
+      "term": "die Qualifikation",
+      "type": "Noun",
+      "meaning_tr": "nitelik",
+      "meaning_en": "qualification",
+      "meaning_uk": "кваліфікація",
+      "meaning_es": "calificación",
+      "example": "Er besitzt die nötige *** für diese anspruchsvolle Position."
+    },
+    {
+      "term": "die Führungserfahrung",
+      "type": "Noun",
+      "meaning_tr": "yönetim deneyimi",
+      "meaning_en": "leadership experience",
+      "meaning_uk": "досвід керівництва",
+      "meaning_es": "experiencia de liderazgo",
+      "example": "Für die Stelle als Abteilungsleiter ist mehrjährige *** erforderlich."
+    },
+    {
+      "term": "die Probezeit",
+      "type": "Noun",
+      "meaning_tr": "deneme süresi",
+      "meaning_en": "probationary period",
+      "meaning_uk": "випробувальний термін",
+      "meaning_es": "período de prueba",
+      "example": "Während der *** können beide Seiten den Vertrag schnell kündigen."
+    },
+    {
+      "term": "die Kündigungsfrist",
+      "type": "Noun",
+      "meaning_tr": "ihbar süresi",
+      "meaning_en": "notice period",
+      "meaning_uk": "строк попередження про звільнення",
+      "meaning_es": "plazo de preaviso",
+      "example": "Meine *** beträgt laut Vertrag drei Monate zum Monatsende."
+    },
+    {
+      "term": "der Arbeitsvertrag",
+      "type": "Noun",
+      "meaning_tr": "iş sözleşmesi",
+      "meaning_en": "employment contract",
+      "meaning_uk": "трудовий договір",
+      "meaning_es": "contrato de trabajo",
+      "example": "Bevor ich unterschreibe, muss ich den *** genau prüfen."
+    },
+    {
+      "term": "die Eigeninitiative",
+      "type": "Noun",
+      "meaning_tr": "inisiyatif",
+      "meaning_en": "self-initiative",
+      "meaning_uk": "власна ініціатива",
+      "meaning_es": "iniciativa propia",
+      "example": "In unserem Unternehmen legen wir großen Wert auf ***."
+    },
+    {
+      "term": "die Belastbarkeit",
+      "type": "Noun",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience / ability to work under pressure",
+      "meaning_uk": "стресостійкість",
+      "meaning_es": "capacidad de resistencia",
+      "example": "Hohe *** ist in Stresssituationen unverzichtbar."
+    },
+    {
+      "term": "die Teamfähigkeit",
+      "type": "Noun",
+      "meaning_tr": "takım çalışmasına yatkınlık",
+      "meaning_en": "ability to work in a team",
+      "meaning_uk": "здатність працювати в команді",
+      "meaning_es": "capacidad de trabajar en equipo",
+      "example": "Ohne *** lassen sich komplexe Projekte kaum realisieren."
+    },
+    {
+      "term": "die Führungskompetenz",
+      "type": "Noun",
+      "meaning_tr": "liderlik yetkinliği",
+      "meaning_en": "leadership competence",
+      "meaning_uk": "керівна компетентність",
+      "meaning_es": "competencia de liderazgo",
+      "example": "Sie hat ihre *** bereits in mehreren Projekten bewiesen."
+    },
+    {
+      "term": "die Weiterbildung",
+      "type": "Noun",
+      "meaning_tr": "ileri eğitim",
+      "meaning_en": "further education",
+      "meaning_uk": "підвищення кваліфікації",
+      "meaning_es": "formación continua",
+      "example": "Regelmäßige *** ist wichtig, um beruflich auf dem Laufenden zu bleiben."
+    },
+    {
+      "term": "die Aufstiegsmöglichkeit",
+      "type": "Noun",
+      "meaning_tr": "yükselme imkanı",
+      "meaning_en": "career advancement opportunity",
+      "meaning_uk": "можливість кар'єрного росту",
+      "meaning_es": "posibilidad de ascenso",
+      "example": "Gibt es in Ihrer Firma gute ***?"
+    },
+    {
+      "term": "die Vakanz",
+      "type": "Noun",
+      "meaning_tr": "boş kadro",
+      "meaning_en": "vacancy",
+      "meaning_uk": "вакансія",
+      "meaning_es": "vacante",
+      "example": "Derzeit haben wir leider keine entsprechende *** zu besetzen."
+    },
+    {
+      "term": "die Initiativbewerbung",
+      "type": "Noun",
+      "meaning_tr": "genel başvuru",
+      "meaning_en": "unsolicited application",
+      "meaning_uk": "ініціативна заява про прийняття на роботу",
+      "meaning_es": "candidatura espontánea",
+      "example": "Ich schicke eine ***, obwohl keine Stelle ausgeschrieben ist."
+    },
+    {
+      "term": "die Referenz",
+      "type": "Noun",
+      "meaning_tr": "referans",
+      "meaning_en": "reference",
+      "meaning_uk": "рекомендація",
+      "meaning_es": "referencia",
+      "example": "Mein ehemaliger Chef steht mir gerne als *** zur Verfügung."
+    },
+    {
+      "term": "das Arbeitszeugnis",
+      "type": "Noun",
+      "meaning_tr": "çalışma belgesi",
+      "meaning_en": "work reference / certificate",
+      "meaning_uk": "характеристика з місця роботи",
+      "meaning_es": "certificado de trabajo",
+      "example": "Ein qualifiziertes *** ist für die nächste Bewerbung sehr wichtig."
+    },
+    {
+      "term": "die Zusage",
+      "type": "Noun",
+      "meaning_tr": "kabul",
+      "meaning_en": "acceptance / job offer",
+      "meaning_uk": "позитивна відповідь",
+      "meaning_es": "aceptación / confirmación",
+      "example": "Ich habe heute endlich die telefonische *** erhalten."
+    },
+    {
+      "term": "die Absage",
+      "type": "Noun",
+      "meaning_tr": "red",
+      "meaning_en": "rejection",
+      "meaning_uk": "відмова",
+      "meaning_es": "rechazo",
+      "example": "Nach dem Gespräch erhielt ich leider eine schriftliche ***."
+    },
+    {
+      "term": "die Einarbeitung",
+      "type": "Noun",
+      "meaning_tr": "işe alıştırma",
+      "meaning_en": "onboarding / induction",
+      "meaning_uk": "введення в посаду",
+      "meaning_es": "inducción / formación inicial",
+      "example": "Die *** neuer Mitarbeiter dauert in der Regel zwei Wochen."
+    },
+    {
+      "term": "die Unternehmenskultur",
+      "type": "Noun",
+      "meaning_tr": "kurum kültürü",
+      "meaning_en": "corporate culture",
+      "meaning_uk": "корпоративна культура",
+      "meaning_es": "cultura empresarial",
+      "example": "Flache Hierarchien sind Teil unserer ***."
+    },
+    {
+      "term": "die Flexibilität",
+      "type": "Noun",
+      "meaning_tr": "esneklik",
+      "meaning_en": "flexibility",
+      "meaning_uk": "гнучкість",
+      "meaning_es": "flexibilidad",
+      "example": "Der Job erfordert eine hohe zeitliche ***."
+    },
+    {
+      "term": "die Zuverlässigkeit",
+      "type": "Noun",
+      "meaning_tr": "güvenilirlik",
+      "meaning_en": "reliability",
+      "meaning_uk": "надійність",
+      "meaning_es": "fiabilidad",
+      "example": "Pünktlichkeit und *** sind Grundvoraussetzungen."
+    },
+    {
+      "term": "die Affinität",
+      "type": "Noun",
+      "meaning_tr": "ilgi / yatkınlık",
+      "meaning_en": "affinity",
+      "meaning_uk": "схильність / афінітет",
+      "meaning_es": "afinidad",
+      "example": "Für diesen Job ist eine gewisse IT-*** von Vorteil."
+    },
+    {
+      "term": "die Fachkompetenz",
+      "type": "Noun",
+      "meaning_tr": "mesleki yetkinlik",
+      "meaning_en": "professional expertise",
+      "meaning_uk": "фахова компетентність",
+      "meaning_es": "competencia profesional",
+      "example": "Ihre *** im Bereich Marketing ist beeindruckend."
+    },
+    {
+      "term": "die Überstunde",
+      "type": "Noun",
+      "meaning_tr": "fazla mesai",
+      "meaning_en": "overtime",
+      "meaning_uk": "понаднормова година",
+      "meaning_es": "hora extra",
+      "example": "In der Hochsaison fallen oft viele *** an."
+    },
+    {
+      "term": "die Herausforderung",
+      "type": "Noun",
+      "meaning_tr": "zorluk / meydan okuma",
+      "meaning_en": "challenge",
+      "meaning_uk": "виклик",
+      "meaning_es": "desafío",
+      "example": "Ich suche eine neue berufliche ***."
+    },
+    {
+      "term": "sich bewerben",
+      "type": "Verb",
+      "meaning_tr": "başvurmak",
+      "meaning_en": "to apply",
+      "meaning_uk": "подавати заяву",
+      "meaning_es": "postularse",
+      "example": "Ich möchte *** um die Stelle als Projektleiter."
+    },
+    {
+      "term": "ausschreiben",
+      "type": "Verb",
+      "meaning_tr": "ilan etmek",
+      "meaning_en": "to advertise (a job)",
+      "meaning_uk": "оголошувати (вакансію)",
+      "meaning_es": "anunciar (un puesto)",
+      "example": "Die Firma wird die Stelle nächste Woche offiziell ***."
+    },
+    {
+      "term": "einstellen",
+      "type": "Verb",
+      "meaning_tr": "işe almak",
+      "meaning_en": "to hire",
+      "meaning_uk": "наймати на роботу",
+      "meaning_es": "contratar",
+      "example": "Wir werden dieses Jahr fünf neue Mitarbeiter ***."
+    },
+    {
+      "term": "kündigen",
+      "type": "Verb",
+      "meaning_tr": "istifa etmek / işten çıkarmak",
+      "meaning_en": "to resign / to fire",
+      "meaning_uk": "звільнятися / звільняти",
+      "meaning_es": "dimitir / despedir",
+      "example": "Er hat beschlossen, seinen alten Job zu ***."
+    },
+    {
+      "term": "verhandeln",
+      "type": "Verb",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to negotiate",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "negociar",
+      "example": "Wir müssen noch über die Details des Gehalts ***."
+    },
+    {
+      "term": "voraussetzen",
+      "type": "Verb",
+      "meaning_tr": "şart koşmak",
+      "meaning_en": "to require / to presuppose",
+      "meaning_uk": "вимагати / припускати",
+      "meaning_es": "requerir / presuponer",
+      "example": "Diese Position wird fließendes Englisch ***."
+    },
+    {
+      "term": "verfügen über",
+      "type": "Verb",
+      "meaning_tr": "sahip olmak",
+      "meaning_en": "to have at one's disposal",
+      "meaning_uk": "мати в розпорядженні",
+      "meaning_es": "disponer de",
+      "example": "Sie sollten *** fundierte Kenntnisse in SAP."
+    },
+    {
+      "term": "sich aneignen",
+      "type": "Verb",
+      "meaning_tr": "edinmek",
+      "meaning_en": "to acquire (knowledge/skills)",
+      "meaning_uk": "засвоювати / набувати",
+      "meaning_es": "adquirir",
+      "example": "In diesem Kurs können Sie sich neue Fähigkeiten ***."
+    },
+    {
+      "term": "übernehmen",
+      "type": "Verb",
+      "meaning_tr": "üstlenmek",
+      "meaning_en": "to take over / to assume",
+      "meaning_uk": "переймати / брати на себе",
+      "meaning_es": "asumir",
+      "example": "Werden Sie die Leitung des neuen Teams ***?"
+    },
+    {
+      "term": "fördern",
+      "type": "Verb",
+      "meaning_tr": "desteklemek / teşvik etmek",
+      "meaning_en": "to promote / to support",
+      "meaning_uk": "сприяти / заохочувати",
+      "meaning_es": "fomentar / promover",
+      "example": "Das Unternehmen wird die Weiterbildung der Mitarbeiter ***."
+    },
+    {
+      "term": "fordern",
+      "type": "Verb",
+      "meaning_tr": "talep etmek",
+      "meaning_en": "to demand",
+      "meaning_uk": "вимагати",
+      "meaning_es": "exigir",
+      "example": "Die neue Aufgabe wird Sie sicher fachlich ***."
+    },
+    {
+      "term": "sich einarbeiten",
+      "type": "Verb",
+      "meaning_tr": "işe alışmak",
+      "meaning_en": "to familiarize oneself with the work",
+      "meaning_uk": "освоюватися на роботі",
+      "meaning_es": "familiarizarse con el trabajo",
+      "example": "Es dauert meist einen Monat, bis man sich voll *** hat."
+    },
+    {
+      "term": "vermitteln",
+      "type": "Verb",
+      "meaning_tr": "aracılık etmek",
+      "meaning_en": "to convey / to mediate",
+      "meaning_uk": "посередничати / передавати",
+      "meaning_es": "mediar / transmitir",
+      "example": "Die Agentur konnte ihm schnell eine neue Stelle ***."
+    },
+    {
+      "term": "ausüben",
+      "type": "Verb",
+      "meaning_tr": "icra etmek",
+      "meaning_en": "to exercise / to practice (a job)",
+      "meaning_uk": "виконувати / практикувати",
+      "meaning_es": "ejercer",
+      "example": "Welchen Beruf möchten Sie später einmal ***?"
+    },
+    {
+      "term": "anstreben",
+      "type": "Verb",
+      "meaning_tr": "hedeflemek",
+      "meaning_en": "to strive for",
+      "meaning_uk": "прагнути",
+      "meaning_es": "aspirar a",
+      "example": "Ich werde eine Karriere im Management ***."
+    },
+    {
+      "term": "einreichen",
+      "type": "Verb",
+      "meaning_tr": "sunmak / teslim etmek",
+      "meaning_en": "to submit",
+      "meaning_uk": "подавати (документи)",
+      "meaning_es": "presentar / entregar",
+      "example": "Sie müssen Ihre Unterlagen bis Freitag ***."
+    },
+    {
+      "term": "absolvieren",
+      "type": "Verb",
+      "meaning_tr": "tamamlamak",
+      "meaning_en": "to complete / to graduate",
+      "meaning_uk": "закінчувати / проходити",
+      "meaning_es": "completar / cursar",
+      "example": "Er hat erfolgreich ein Praktikum bei uns ***."
+    },
+    {
+      "term": "koordinieren",
+      "type": "Verb",
+      "meaning_tr": "koordine etmek",
+      "meaning_en": "to coordinate",
+      "meaning_uk": "координувати",
+      "meaning_es": "coordinar",
+      "example": "In meiner letzten Rolle musste ich viele Projekte ***."
+    },
+    {
+      "term": "akquirieren",
+      "type": "Verb",
+      "meaning_tr": "müşteri edinmek",
+      "meaning_en": "to acquire / to solicit",
+      "meaning_uk": "залучати (клієнтів)",
+      "meaning_es": "adquirir / captar",
+      "example": "Es gehört zu meinen Aufgaben, Neukunden zu ***."
+    },
+    {
+      "term": "delegieren",
+      "type": "Verb",
+      "meaning_tr": "devretmek",
+      "meaning_en": "to delegate",
+      "meaning_uk": "делегувати",
+      "meaning_es": "delegar",
+      "example": "Als Führungskraft muss man Aufgaben effektiv *** können."
+    },
+    {
+      "term": "belastbar",
+      "type": "Adjective",
+      "meaning_tr": "dayanıklı",
+      "meaning_en": "resilient",
+      "meaning_uk": "витривалий",
+      "meaning_es": "resistente",
+      "example": "Wir suchen einen Mitarbeiter, der auch in Stressphasen *** bleibt."
+    },
+    {
+      "term": "teamfähig",
+      "type": "Adjective",
+      "meaning_tr": "takım çalışmasına uygun",
+      "meaning_en": "able to work in a team",
+      "meaning_uk": "здатний працювати в команді",
+      "meaning_es": "capaz de trabajar en equipo",
+      "example": "In diesem Projekt ist es wichtig, dass alle Kollegen *** sind."
+    },
+    {
+      "term": "zielorientiert",
+      "type": "Adjective",
+      "meaning_tr": "hedef odaklı",
+      "meaning_en": "goal-oriented",
+      "meaning_uk": "цілеспрямований",
+      "meaning_es": "orientado a objetivos",
+      "example": "Wir schätzen Ihre ***e Arbeitsweise sehr."
+    },
+    {
+      "term": "engagiert",
+      "type": "Adjective",
+      "meaning_tr": "özverili",
+      "meaning_en": "committed / dedicated",
+      "meaning_uk": "завзятий / відданий справі",
+      "meaning_es": "comprometido",
+      "example": "Sie ist eine sehr ***e Mitarbeiterin, die immer vollen Einsatz zeigt."
+    },
+    {
+      "term": "kommunikativ",
+      "type": "Adjective",
+      "meaning_tr": "iletişimsel",
+      "meaning_en": "communicative",
+      "meaning_uk": "комунікабельний",
+      "meaning_es": "comunicativo",
+      "example": "Für den Kundendienst müssen Sie sehr *** sein."
+    },
+    {
+      "term": "kompetent",
+      "type": "Adjective",
+      "meaning_tr": "yetkin",
+      "meaning_en": "competent",
+      "meaning_uk": "компетентний",
+      "meaning_es": "competente",
+      "example": "Er ist ein äußerst ***er Ansprechpartner für Rechtsfragen."
+    },
+    {
+      "term": "eigenverantwortlich",
+      "type": "Adjective",
+      "meaning_tr": "kendi sorumluluğunda",
+      "meaning_en": "on one's own responsibility",
+      "meaning_uk": "самостійно відповідальний",
+      "meaning_es": "bajo responsabilidad propia",
+      "example": "Sie sollten in der Lage sein, Projekte *** zu leiten."
+    },
+    {
+      "term": "souverän",
+      "type": "Adjective",
+      "meaning_tr": "kendinden emin",
+      "meaning_en": "confident / sovereign",
+      "meaning_uk": "впевнений / суверенний",
+      "meaning_es": "soberano / seguro de sí mismo",
+      "example": "Er hat die schwierigen Fragen im Interview sehr *** beantwortet."
+    },
+    {
+      "term": "vielsagend",
+      "type": "Adjective",
+      "meaning_tr": "anlamlı",
+      "meaning_en": "meaningful / telling",
+      "meaning_uk": "багатозначний",
+      "meaning_es": "significativo",
+      "example": "Sein Blick war ***, als das Thema Gehalt aufkam."
+    },
+    {
+      "term": "befristet",
+      "type": "Adjective",
+      "meaning_tr": "süreli",
+      "meaning_en": "temporary / limited",
+      "meaning_uk": "строковий / обмежений часом",
+      "meaning_es": "temporal / limitado",
+      "example": "Leider ist der Arbeitsvertrag zunächst auf ein Jahr ***."
+    }
+  ]
+}

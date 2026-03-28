@@ -1,0 +1,546 @@
+{
+  "title": "Ethics & AI (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "the algorithm",
+      "type": "Noun",
+      "example": "The complexity of *** makes it difficult to predict outcomes in sensitive areas.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "a process or set of rules to be followed in calculations",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "algoritmo"
+    },
+    {
+      "term": "to mitigate",
+      "type": "Verb",
+      "example": "Developers must work to *** the risks of algorithmic bias.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to make less severe, serious, or painful",
+      "meaning_uk": "пом'якшувати",
+      "meaning_es": "mitigar"
+    },
+    {
+      "term": "biased",
+      "type": "Adjective",
+      "example": "If the training data is ***, the AI will produce unfair results.",
+      "meaning_tr": "yanlı",
+      "meaning_en": "unfairly prejudiced for or against someone or something",
+      "meaning_uk": "упереджений",
+      "meaning_es": "sesgado"
+    },
+    {
+      "term": "the accountability",
+      "type": "Noun",
+      "example": "There is a growing need for corporate *** regarding AI decisions.",
+      "meaning_tr": "hesap verebilirlik",
+      "meaning_en": "the fact or condition of being responsible",
+      "meaning_uk": "підзвітність",
+      "meaning_es": "rendición de cuentas"
+    },
+    {
+      "term": "transparent",
+      "type": "Adjective",
+      "example": "AI systems should be *** enough for users to understand how they work.",
+      "meaning_tr": "şeffaf",
+      "meaning_en": "easy to perceive or detect; clear",
+      "meaning_uk": "прозорий",
+      "meaning_es": "transparente"
+    },
+    {
+      "term": "to automate",
+      "type": "Verb",
+      "example": "Companies often seek to *** routine tasks to increase efficiency.",
+      "meaning_tr": "otomatikleştirmek",
+      "meaning_en": "to convert a process to be operated by automatic equipment",
+      "meaning_uk": "автоматизувати",
+      "meaning_es": "automatizar"
+    },
+    {
+      "term": "the autonomy",
+      "type": "Noun",
+      "example": "The degree of *** granted to AI agents remains a subject of intense debate.",
+      "meaning_tr": "özerklik",
+      "meaning_en": "the right or condition of self-government",
+      "meaning_uk": "автономія",
+      "meaning_es": "autonomía"
+    },
+    {
+      "term": "inherent",
+      "type": "Adjective",
+      "example": "There are *** dangers in relying too heavily on predictive models.",
+      "meaning_tr": "doğasında var olan",
+      "meaning_en": "existing in something as a permanent, essential attribute",
+      "meaning_uk": "невід'ємний",
+      "meaning_es": "inherente"
+    },
+    {
+      "term": "to manipulate",
+      "type": "Verb",
+      "example": "Critics worry that algorithms can be used to *** public opinion.",
+      "meaning_tr": "manipüle etmek",
+      "meaning_en": "to control or influence a person or situation cleverly or unscrupulously",
+      "meaning_uk": "маніпулювати",
+      "meaning_es": "manipular"
+    },
+    {
+      "term": "the surveillance",
+      "type": "Noun",
+      "example": "Mass *** powered by facial recognition is a major civil rights concern.",
+      "meaning_tr": "gözetim",
+      "meaning_en": "close observation of a person or group",
+      "meaning_uk": "нагляд",
+      "meaning_es": "vigilancia"
+    },
+    {
+      "term": "the privacy",
+      "type": "Noun",
+      "example": "Protecting user *** is essential in the age of big data.",
+      "meaning_tr": "gizlilik",
+      "meaning_en": "the state of being free from public attention",
+      "meaning_uk": "конфіденційність",
+      "meaning_es": "privacidad"
+    },
+    {
+      "term": "the prejudice",
+      "type": "Noun",
+      "example": "Historical *** can be embedded in datasets used for training machines.",
+      "meaning_tr": "önyargı",
+      "meaning_en": "preconceived opinion that is not based on reason",
+      "meaning_uk": "упередження",
+      "meaning_es": "prejuicio"
+    },
+    {
+      "term": "ethical",
+      "type": "Adjective",
+      "example": "We must establish an *** framework for AI development.",
+      "meaning_tr": "etik",
+      "meaning_en": "relating to moral principles",
+      "meaning_uk": "етичний",
+      "meaning_es": "ético"
+    },
+    {
+      "term": "the paradigm",
+      "type": "Noun",
+      "example": "AI represents a new *** in how we process information.",
+      "meaning_tr": "paradigma",
+      "meaning_en": "a typical example or pattern of something",
+      "meaning_uk": "парадигма",
+      "meaning_es": "paradigma"
+    },
+    {
+      "term": "to facilitate",
+      "type": "Verb",
+      "example": "The software aims to *** communication between different platforms.",
+      "meaning_tr": "kolaylaştırmak",
+      "meaning_en": "to make an action or process easy or easier",
+      "meaning_uk": "полегшувати",
+      "meaning_es": "facilitar"
+    },
+    {
+      "term": "the data set",
+      "type": "Noun",
+      "example": "The training *** was found to be unrepresentative of the population.",
+      "meaning_tr": "veri seti",
+      "meaning_en": "a collection of related sets of information",
+      "meaning_uk": "набір даних",
+      "meaning_es": "conjunto de datos"
+    },
+    {
+      "term": "the deployment",
+      "type": "Noun",
+      "example": "The rapid *** of AI in healthcare requires strict oversight.",
+      "meaning_tr": "yayılım/kullanım",
+      "meaning_en": "the movement of troops or resources into action",
+      "meaning_uk": "розгортання",
+      "meaning_es": "despliegue"
+    },
+    {
+      "term": "unintended",
+      "type": "Adjective",
+      "example": "There are often *** consequences when implementing new technology.",
+      "meaning_tr": "istenmeyen/kasıtsız",
+      "meaning_en": "not planned or meant to happen",
+      "meaning_uk": "ненавмисний",
+      "meaning_es": "no intencionado"
+    },
+    {
+      "term": "the bias",
+      "type": "Noun",
+      "example": "We must identify and remove any *** in our software.",
+      "meaning_tr": "yanlılık",
+      "meaning_en": "inclination or prejudice for or against one person or group",
+      "meaning_uk": "упередженість",
+      "meaning_es": "sesgo"
+    },
+    {
+      "term": "robust",
+      "type": "Adjective",
+      "example": "A *** system should perform reliably under varying conditions.",
+      "meaning_tr": "sağlam",
+      "meaning_en": "strong and healthy; vigorous",
+      "meaning_uk": "надійний",
+      "meaning_es": "robusto"
+    },
+    {
+      "term": "the oversight",
+      "type": "Noun",
+      "example": "Regulatory *** is necessary to ensure AI is used safely.",
+      "meaning_tr": "denetim",
+      "meaning_en": "the action of overseeing something",
+      "meaning_uk": "нагляд",
+      "meaning_es": "supervisión"
+    },
+    {
+      "term": "to discriminate",
+      "type": "Verb",
+      "example": "The algorithm must not be allowed to *** against minority groups.",
+      "meaning_tr": "ayrımcılık yapmak",
+      "meaning_en": "to make an unjust or prejudicial distinction",
+      "meaning_uk": "дискримінувати",
+      "meaning_es": "discriminar"
+    },
+    {
+      "term": "the black box",
+      "type": "Noun",
+      "example": "The '***' nature of neural networks makes them hard to interpret.",
+      "meaning_tr": "kara kutu",
+      "meaning_en": "a system whose internal workings are hidden",
+      "meaning_uk": "чорна скринька",
+      "meaning_es": "caja negra"
+    },
+    {
+      "term": "the vulnerability",
+      "type": "Noun",
+      "example": "Cybersecurity experts are looking for any *** in the code.",
+      "meaning_tr": "savunmasızlık/açık",
+      "meaning_en": "the quality or state of being exposed to danger",
+      "meaning_uk": "вразливість",
+      "meaning_es": "vulnerabilidad"
+    },
+    {
+      "term": "the accountability",
+      "type": "Noun",
+      "example": "Who bears the ultimate *** if an AI causes harm?",
+      "meaning_tr": "hesap verebilirlik",
+      "meaning_en": "the obligation to accept responsibility",
+      "meaning_uk": "підзвітність",
+      "meaning_es": "responsabilidad"
+    },
+    {
+      "term": "the regulation",
+      "type": "Noun",
+      "example": "New government *** will address the risks associated with AI.",
+      "meaning_tr": "düzenleme",
+      "meaning_en": "a rule or directive made and maintained by an authority",
+      "meaning_uk": "регулювання",
+      "meaning_es": "regulación"
+    },
+    {
+      "term": "to validate",
+      "type": "Verb",
+      "example": "We need to *** the model before it goes live.",
+      "meaning_tr": "doğrulamak",
+      "meaning_en": "to check or prove the validity or accuracy of",
+      "meaning_uk": "перевіряти",
+      "meaning_es": "validar"
+    },
+    {
+      "term": "the stakeholder",
+      "type": "Noun",
+      "example": "Every *** should have a voice in the design of the AI policy.",
+      "meaning_tr": "paydaş",
+      "meaning_en": "a person with an interest or concern in something",
+      "meaning_uk": "зацікавлена сторона",
+      "meaning_es": "parte interesada"
+    },
+    {
+      "term": "the interpretability",
+      "type": "Noun",
+      "example": "Improving the *** of AI is a top priority for researchers.",
+      "meaning_tr": "yorumlanabilirlik",
+      "meaning_en": "the degree to which a human can understand the cause of a decision",
+      "meaning_uk": "інтерпретованість",
+      "meaning_es": "interpretabilidad"
+    },
+    {
+      "term": "the consciousness",
+      "type": "Noun",
+      "example": "Can a machine ever achieve a state of true ***?",
+      "meaning_tr": "bilinç",
+      "meaning_en": "the state of being aware of and responsive to one's surroundings",
+      "meaning_uk": "свідомість",
+      "meaning_es": "conciencia"
+    },
+    {
+      "term": "the alignment",
+      "type": "Noun",
+      "example": "Ensuring AI goals are in *** with human values is crucial.",
+      "meaning_tr": "hizalanma/uyum",
+      "meaning_en": "arrangement in a straight line or in correct relative positions",
+      "meaning_uk": "узгодженість",
+      "meaning_es": "alineación"
+    },
+    {
+      "term": "to exploit",
+      "type": "Verb",
+      "example": "Hackers may try to *** vulnerabilities in the system.",
+      "meaning_tr": "istismar etmek/kullanmak",
+      "meaning_en": "to make full use of and derive benefit from",
+      "meaning_uk": "експлуатувати",
+      "meaning_es": "explotar"
+    },
+    {
+      "term": "the bias",
+      "type": "Noun",
+      "example": "Addressing systemic *** is the first step toward fair AI.",
+      "meaning_tr": "yanlılık",
+      "meaning_en": "a prejudice in favor of or against one thing",
+      "meaning_uk": "упередженість",
+      "meaning_es": "sesgo"
+    },
+    {
+      "term": "the implication",
+      "type": "Noun",
+      "example": "We must consider the ethical *** of this new technology.",
+      "meaning_tr": "çıkarım/etki",
+      "meaning_en": "the conclusion that can be drawn from something",
+      "meaning_uk": "наслідок",
+      "meaning_es": "implicación"
+    },
+    {
+      "term": "the infrastructure",
+      "type": "Noun",
+      "example": "AI requires a robust digital *** to function effectively.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "the basic physical and organizational structures",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "infraestructura"
+    },
+    {
+      "term": "the consensus",
+      "type": "Noun",
+      "example": "There is no global *** on how to regulate AI.",
+      "meaning_tr": "uzlaşı",
+      "meaning_en": "general agreement",
+      "meaning_uk": "консенсус",
+      "meaning_es": "consenso"
+    },
+    {
+      "term": "the liability",
+      "type": "Noun",
+      "example": "The company faces legal *** for the errors made by its AI.",
+      "meaning_tr": "yasal sorumluluk",
+      "meaning_en": "the state of being responsible for something",
+      "meaning_uk": "юридична відповідальність",
+      "meaning_es": "responsabilidad legal"
+    },
+    {
+      "term": "the misinformation",
+      "type": "Noun",
+      "example": "AI tools can be used to spread *** at an alarming rate.",
+      "meaning_tr": "yanlış bilgilendirme",
+      "meaning_en": "false or inaccurate information",
+      "meaning_uk": "дезінформація",
+      "meaning_es": "desinformación"
+    },
+    {
+      "term": "the integrity",
+      "type": "Noun",
+      "example": "Maintaining data *** is vital for reliable AI predictions.",
+      "meaning_tr": "bütünlük",
+      "meaning_en": "the quality of being honest and having strong moral principles",
+      "meaning_uk": "цілісність",
+      "meaning_es": "integridad"
+    },
+    {
+      "term": "the innovation",
+      "type": "Noun",
+      "example": "We must balance rapid *** with safety concerns.",
+      "meaning_tr": "inovasyon",
+      "meaning_en": "the action or process of innovating",
+      "meaning_uk": "інновація",
+      "meaning_es": "innovación"
+    },
+    {
+      "term": "to evaluate",
+      "type": "Verb",
+      "example": "Scientists must carefully *** the long-term impact of AI.",
+      "meaning_tr": "değerlendirmek",
+      "meaning_en": "to form an idea of the amount, number, or value of",
+      "meaning_uk": "оцінювати",
+      "meaning_es": "evaluar"
+    },
+    {
+      "term": "the transparency",
+      "type": "Noun",
+      "example": "The lack of *** in the decision-making process is alarming.",
+      "meaning_tr": "şeffaflık",
+      "meaning_en": "the quality of being transparent",
+      "meaning_uk": "прозорість",
+      "meaning_es": "transparencia"
+    },
+    {
+      "term": "the bias",
+      "type": "Noun",
+      "example": "Algorithmic *** can reinforce existing social inequalities.",
+      "meaning_tr": "yanlılık",
+      "meaning_en": "a tendency to favor one group over another",
+      "meaning_uk": "упередженість",
+      "meaning_es": "sesgo"
+    },
+    {
+      "term": "the regulation",
+      "type": "Noun",
+      "example": "Effective *** ensures that AI serves the public interest.",
+      "meaning_tr": "düzenleme",
+      "meaning_en": "a control or rule that is enforced",
+      "meaning_uk": "регулювання",
+      "meaning_es": "regulación"
+    },
+    {
+      "term": "the ethics",
+      "type": "Noun",
+      "example": "Computer *** are becoming a core subject in engineering degrees.",
+      "meaning_tr": "etik",
+      "meaning_en": "moral principles that govern a person's behavior",
+      "meaning_uk": "етика",
+      "meaning_es": "ética"
+    },
+    {
+      "term": "the implementation",
+      "type": "Noun",
+      "example": "The successful *** of these policies will take time.",
+      "meaning_tr": "uygulama",
+      "meaning_en": "the process of putting a decision or plan into effect",
+      "meaning_uk": "впровадження",
+      "meaning_es": "implementación"
+    },
+    {
+      "term": "to mitigate",
+      "type": "Verb",
+      "example": "We are taking steps to *** the negative effects of automation.",
+      "meaning_tr": "hafifletmek",
+      "meaning_en": "to reduce the harmful effects of something",
+      "meaning_uk": "пом'якшувати",
+      "meaning_es": "mitigar"
+    },
+    {
+      "term": "the feasibility",
+      "type": "Noun",
+      "example": "We are studying the *** of replacing manual labor with AI.",
+      "meaning_tr": "yapılabilirlik",
+      "meaning_en": "the state or degree of being easily or conveniently done",
+      "meaning_uk": "доцільність",
+      "meaning_es": "viabilidad"
+    },
+    {
+      "term": "the paradigm",
+      "type": "Noun",
+      "example": "This shift in the *** is changing the nature of work.",
+      "meaning_tr": "paradigma",
+      "meaning_en": "a fundamental change in approach or underlying assumptions",
+      "meaning_uk": "парадигма",
+      "meaning_es": "paradigma"
+    },
+    {
+      "term": "the surveillance",
+      "type": "Noun",
+      "example": "There is a debate over the ethics of digital ***.",
+      "meaning_tr": "gözetim",
+      "meaning_en": "the monitoring of behavior through technology",
+      "meaning_uk": "нагляд",
+      "meaning_es": "vigilancia"
+    },
+    {
+      "term": "the prejudice",
+      "type": "Noun",
+      "example": "We must overcome cultural *** when designing global AI tools.",
+      "meaning_tr": "önyargı",
+      "meaning_en": "an unfavorable opinion formed without knowledge",
+      "meaning_uk": "упередження",
+      "meaning_es": "prejuicio"
+    },
+    {
+      "term": "the autonomy",
+      "type": "Noun",
+      "example": "The machine has a high level of *** in its decision making.",
+      "meaning_tr": "özerklik",
+      "meaning_en": "the quality of being self-governing",
+      "meaning_uk": "автономність",
+      "meaning_es": "autonomía"
+    },
+    {
+      "term": "the consequence",
+      "type": "Noun",
+      "example": "We must be prepared for the social *** of AI integration.",
+      "meaning_tr": "sonuç",
+      "meaning_en": "a result or effect, typically an unwelcome one",
+      "meaning_uk": "наслідок",
+      "meaning_es": "consecuencia"
+    },
+    {
+      "term": "the efficiency",
+      "type": "Noun",
+      "example": "AI can significantly improve the *** of industrial processes.",
+      "meaning_tr": "verimlilik",
+      "meaning_en": "the state of achieving maximum productivity",
+      "meaning_uk": "ефективність",
+      "meaning_es": "eficiencia"
+    },
+    {
+      "term": "the bias",
+      "type": "Noun",
+      "example": "Data collection often contains inherent ***.",
+      "meaning_tr": "yanlılık",
+      "meaning_en": "distortion of statistical results",
+      "meaning_uk": "упередженість",
+      "meaning_es": "sesgo"
+    },
+    {
+      "term": "the collaboration",
+      "type": "Noun",
+      "example": "International *** is key to safe AI development.",
+      "meaning_tr": "iş birliği",
+      "meaning_en": "the action of working with someone to produce something",
+      "meaning_uk": "співпраця",
+      "meaning_es": "colaboración"
+    },
+    {
+      "term": "the complexity",
+      "type": "Noun",
+      "example": "The *** of modern AI models makes them difficult to audit.",
+      "meaning_tr": "karmaşıklık",
+      "meaning_en": "the state of consisting of many different parts",
+      "meaning_uk": "складність",
+      "meaning_es": "complejidad"
+    },
+    {
+      "term": "the innovation",
+      "type": "Noun",
+      "example": "Responsible *** is the goal of our research lab.",
+      "meaning_tr": "inovasyon",
+      "meaning_en": "a new idea, device, or method",
+      "meaning_uk": "інновація",
+      "meaning_es": "innovación"
+    },
+    {
+      "term": "the precaution",
+      "type": "Noun",
+      "example": "Taking every *** is necessary when dealing with powerful AI.",
+      "meaning_tr": "önlem",
+      "meaning_en": "a measure taken in advance to prevent something dangerous",
+      "meaning_uk": "запобіжний захід",
+      "meaning_es": "precaución"
+    },
+    {
+      "term": "the standard",
+      "type": "Noun",
+      "example": "We need to set a high ethical *** for AI development.",
+      "meaning_tr": "standart",
+      "meaning_en": "a level of quality or attainment",
+      "meaning_uk": "стандарт",
+      "meaning_es": "estándar"
+    }
+  ]
+}

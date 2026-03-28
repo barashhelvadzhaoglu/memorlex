@@ -1,0 +1,411 @@
+{
+  "title": "Ciudad y Campo (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la infraestructura",
+      "type": "Noun",
+      "example": "El gobierno está invirtiendo en *** para mejorar la conexión entre las zonas rurales.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "infrastructure",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "Conjunto de elementos o servicios necesarios para el funcionamiento de una organización o ciudad."
+    },
+    {
+      "term": "el entorno",
+      "type": "Noun",
+      "example": "Vivir en un *** natural ayuda a reducir los niveles de estrés.",
+      "meaning_tr": "çevre",
+      "meaning_en": "environment",
+      "meaning_uk": "довкілля",
+      "meaning_es": "Conjunto de circunstancias o factores sociales, culturales o físicos que rodean a alguien."
+    },
+    {
+      "term": "el éxodo rural",
+      "type": "Noun",
+      "example": "Muchos pueblos pequeños han quedado deshabitados debido al ***.",
+      "meaning_tr": "kırsaldan kente göç",
+      "meaning_en": "rural exodus",
+      "meaning_uk": "сільський вихід",
+      "meaning_es": "Migración masiva de la población del campo a las ciudades."
+    },
+    {
+      "term": "la sostenibilidad",
+      "type": "Noun",
+      "example": "La planificación urbana debe priorizar la *** para proteger los recursos naturales.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталий розвиток",
+      "meaning_es": "Capacidad de mantenerse por sí mismo sin agotar los recursos."
+    },
+    {
+      "term": "urbanizar",
+      "type": "Verb",
+      "example": "Es necesario *** las zonas periféricas de manera responsable.",
+      "meaning_tr": "şehirleştirmek",
+      "meaning_en": "to urbanize",
+      "meaning_uk": "урбанізувати",
+      "meaning_es": "Acondicionar un terreno para construir viviendas y dotarlo de servicios."
+    },
+    {
+      "term": "el bullicio",
+      "type": "Noun",
+      "example": "A veces, el *** de la gran ciudad resulta agotador.",
+      "meaning_tr": "gürültü, kargaşa",
+      "meaning_en": "bustle, noise",
+      "meaning_uk": "метушня",
+      "meaning_es": "Ruido o confusión producidos por mucha gente."
+    },
+    {
+      "term": "la congestión",
+      "type": "Noun",
+      "example": "La *** de tráfico en hora punta es un problema común en las metrópolis.",
+      "meaning_tr": "trafik sıkışıklığı",
+      "meaning_en": "congestion",
+      "meaning_uk": "затори",
+      "meaning_es": "Acumulación excesiva de personas o vehículos."
+    },
+    {
+      "term": "agrícola",
+      "type": "Adjective",
+      "example": "La economía de esta región depende principalmente de la producción ***.",
+      "meaning_tr": "tarımsal",
+      "meaning_en": "agricultural",
+      "meaning_uk": "сільськогосподарський",
+      "meaning_es": "Relacionado con el cultivo de la tierra."
+    },
+    {
+      "term": "el área metropolitana",
+      "type": "Noun",
+      "example": "El *** crece rápidamente debido a la inmigración.",
+      "meaning_tr": "metropol alanı",
+      "meaning_en": "metropolitan area",
+      "meaning_uk": "агломерація",
+      "meaning_es": "Gran extensión urbana que engloba una ciudad central y sus alrededores."
+    },
+    {
+      "term": "la despoblación",
+      "type": "Noun",
+      "example": "La *** es un reto grave para las comunidades rurales.",
+      "meaning_tr": "nüfus azalması",
+      "meaning_en": "depopulation",
+      "meaning_uk": "депопуляція",
+      "meaning_es": "Disminución del número de habitantes de un lugar."
+    },
+    {
+      "term": "cultivar",
+      "type": "Verb",
+      "example": "Los agricultores suelen *** productos de temporada en sus tierras.",
+      "meaning_tr": "ekmek, yetiştirmek",
+      "meaning_en": "to cultivate",
+      "meaning_uk": "вирощувати",
+      "meaning_es": "Cuidar las plantas para que den fruto."
+    },
+    {
+      "term": "el paisaje",
+      "type": "Noun",
+      "example": "El *** rural ofrece una paz que difícilmente se encuentra en la urbe.",
+      "meaning_tr": "manzara",
+      "meaning_en": "landscape",
+      "meaning_uk": "ландшафт",
+      "meaning_es": "Extensión de terreno que se ve desde un lugar."
+    },
+    {
+      "term": "la periferia",
+      "type": "Noun",
+      "example": "Muchos trabajadores viven en la *** y viajan diariamente al centro.",
+      "meaning_tr": "çevre, dış mahalleler",
+      "meaning_en": "outskirts",
+      "meaning_uk": "околиця",
+      "meaning_es": "Zona que rodea un núcleo urbano."
+    },
+    {
+      "term": "aislado",
+      "type": "Adjective",
+      "example": "Al vivir en un pueblo tan ***, es imprescindible tener vehículo propio.",
+      "meaning_tr": "izole, uzak",
+      "meaning_en": "isolated",
+      "meaning_uk": "ізольований",
+      "meaning_es": "Que está solo o apartado de otros lugares."
+    },
+    {
+      "term": "la masificación",
+      "type": "Noun",
+      "example": "La *** de las playas durante el verano afecta al ecosistema local.",
+      "meaning_tr": "kalabalıklaşma",
+      "meaning_en": "overcrowding",
+      "meaning_uk": "скупчення людей",
+      "meaning_es": "Concentración excesiva de personas en un lugar."
+    },
+    {
+      "term": "la ganadería",
+      "type": "Noun",
+      "example": "La *** es la actividad económica fundamental de este valle.",
+      "meaning_tr": "hayvancılık",
+      "meaning_en": "livestock farming",
+      "meaning_uk": "тваринництво",
+      "meaning_es": "Cría de ganado para su explotación."
+    },
+    {
+      "term": "la vivienda",
+      "type": "Noun",
+      "example": "El precio de la *** ha subido significativamente en los últimos años.",
+      "meaning_tr": "konut",
+      "meaning_en": "housing",
+      "meaning_uk": "житло",
+      "meaning_es": "Lugar acondicionado para ser habitado."
+    },
+    {
+      "term": "el peatón",
+      "type": "Noun",
+      "example": "Las ciudades modernas intentan priorizar al *** sobre el coche.",
+      "meaning_tr": "yaya",
+      "meaning_en": "pedestrian",
+      "meaning_uk": "пішохід",
+      "meaning_es": "Persona que transita a pie por la vía pública."
+    },
+    {
+      "term": "la cosecha",
+      "type": "Noun",
+      "example": "Este año esperamos una buena *** gracias a las lluvias de primavera.",
+      "meaning_tr": "hasat",
+      "meaning_en": "harvest",
+      "meaning_uk": "урожай",
+      "meaning_es": "Conjunto de frutos recogidos de la tierra al llegar a la sazón."
+    },
+    {
+      "term": "la contaminación",
+      "type": "Noun",
+      "example": "La *** atmosférica es un problema grave en las grandes capitales.",
+      "meaning_tr": "kirlilik",
+      "meaning_en": "pollution",
+      "meaning_uk": "забруднення",
+      "meaning_es": "Degradación del medio ambiente por sustancias nocivas."
+    },
+    {
+      "term": "abastecer",
+      "type": "Verb",
+      "example": "El campo debe *** a la ciudad de productos frescos diariamente.",
+      "meaning_tr": "tedarik etmek",
+      "meaning_en": "to supply",
+      "meaning_uk": "постачати",
+      "meaning_es": "Proveer a alguien de lo que necesita."
+    },
+    {
+      "term": "idílico",
+      "type": "Adjective",
+      "example": "Buscan una vida *** lejos de las presiones de la ciudad.",
+      "meaning_tr": "cennet gibi, ideal",
+      "meaning_en": "idyllic",
+      "meaning_uk": "ідилічний",
+      "meaning_es": "Que es perfecto, placentero y feliz."
+    },
+    {
+      "term": "la densidad",
+      "type": "Noun",
+      "example": "La alta *** de población hace difícil el distanciamiento social.",
+      "meaning_tr": "yoğunluk",
+      "meaning_en": "density",
+      "meaning_uk": "щільність",
+      "meaning_es": "Concentración de población por unidad de superficie."
+    },
+    {
+      "term": "la red de transporte",
+      "type": "Noun",
+      "example": "Una buena *** es esencial para el desarrollo de cualquier urbe.",
+      "meaning_tr": "ulaşım ağı",
+      "meaning_en": "transport network",
+      "meaning_uk": "транспортна мережа",
+      "meaning_es": "Sistema de medios de transporte que conectan diversos puntos."
+    },
+    {
+      "term": "el ecosistema",
+      "type": "Noun",
+      "example": "Debemos proteger el *** local frente a la expansión industrial.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "ecosystem",
+      "meaning_uk": "екосистема",
+      "meaning_es": "Comunidad de seres vivos cuyos procesos vitales están relacionados entre sí."
+    },
+    {
+      "term": "la despensa",
+      "type": "Noun",
+      "example": "El campo es considerado la *** de la nación.",
+      "meaning_tr": "kiler, depo",
+      "meaning_en": "pantry, food source",
+      "meaning_uk": "комора",
+      "meaning_es": "Lugar donde se guardan alimentos; metafóricamente, zona productora de comida."
+    },
+    {
+      "term": "la urbe",
+      "type": "Noun",
+      "example": "Prefiero la tranquilidad del campo al ritmo frenético de la ***.",
+      "meaning_tr": "şehir, kent",
+      "meaning_en": "city, urban center",
+      "meaning_uk": "місто",
+      "meaning_es": "Ciudad, especialmente la de gran población."
+    },
+    {
+      "term": "frenético",
+      "type": "Adjective",
+      "example": "Llevo una vida de ritmo *** desde que me mudé a Madrid.",
+      "meaning_tr": "çılgın, hızlı",
+      "meaning_en": "frenetic",
+      "meaning_uk": "шалений",
+      "meaning_es": "Que es muy rápido, agitado o intenso."
+    },
+    {
+      "term": "la huerta",
+      "type": "Noun",
+      "example": "En la *** de mi abuelo cultivamos tomates y calabacines.",
+      "meaning_tr": "sebze bahçesi",
+      "meaning_en": "vegetable garden",
+      "meaning_uk": "город",
+      "meaning_es": "Terreno destinado al cultivo de legumbres y árboles frutales."
+    },
+    {
+      "term": "la vivienda unifamiliar",
+      "type": "Noun",
+      "example": "Muchos prefieren vivir en una *** en las afueras.",
+      "meaning_tr": "müstakil ev",
+      "meaning_en": "detached house",
+      "meaning_uk": "односімейний будинок",
+      "meaning_es": "Casa diseñada para una sola familia."
+    },
+    {
+      "term": "el vertedero",
+      "type": "Noun",
+      "example": "Es importante gestionar bien los residuos para evitar que terminen en cualquier ***.",
+      "meaning_tr": "çöp dökme alanı",
+      "meaning_en": "landfill",
+      "meaning_uk": "звалище",
+      "meaning_es": "Lugar destinado a tirar basuras o escombros."
+    },
+    {
+      "term": "despoblado",
+      "type": "Adjective",
+      "example": "Viajamos por un territorio casi *** durante horas.",
+      "meaning_tr": "nüfussuz",
+      "meaning_en": "depopulated",
+      "meaning_uk": "знелюднений",
+      "meaning_es": "Lugar que tiene pocos o ningún habitante."
+    },
+    {
+      "term": "la gentrificación",
+      "type": "Noun",
+      "example": "La *** ha provocado que los vecinos tradicionales tengan que mudarse.",
+      "meaning_tr": "soylulaştırma",
+      "meaning_en": "gentrification",
+      "meaning_uk": "джентрифікація",
+      "meaning_es": "Proceso de renovación de un barrio que desplaza a sus habitantes originales."
+    },
+    {
+      "term": "el regadío",
+      "type": "Noun",
+      "example": "Gracias al sistema de ***, el campo produce mucho más.",
+      "meaning_tr": "sulama",
+      "meaning_en": "irrigation",
+      "meaning_uk": "зрошення",
+      "meaning_es": "Técnica de aportar agua a los cultivos."
+    },
+    {
+      "term": "el suburbio",
+      "type": "Noun",
+      "example": "El *** se caracteriza por tener muchas casas residenciales.",
+      "meaning_tr": "banliyö",
+      "meaning_en": "suburb",
+      "meaning_uk": "передмістя",
+      "meaning_es": "Barrio o núcleo de población situado a las afueras de una ciudad."
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "example": "Necesitamos un modelo de desarrollo *** para el futuro del planeta.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "Que se puede mantener durante largo tiempo sin agotar recursos."
+    },
+    {
+      "term": "la sequía",
+      "type": "Noun",
+      "example": "La *** ha arruinado gran parte de la cosecha este año.",
+      "meaning_tr": "kuraklık",
+      "meaning_en": "drought",
+      "meaning_uk": "посуха",
+      "meaning_es": "Largo periodo de tiempo sin lluvia."
+    },
+    {
+      "term": "el polígono industrial",
+      "type": "Noun",
+      "example": "La fábrica se encuentra en el *** a las afueras del pueblo.",
+      "meaning_tr": "sanayi bölgesi",
+      "meaning_en": "industrial estate",
+      "meaning_uk": "промислова зона",
+      "meaning_es": "Zona destinada a la instalación de industrias."
+    },
+    {
+      "term": "el sector primario",
+      "type": "Noun",
+      "example": "La agricultura y la pesca forman parte del ***.",
+      "meaning_tr": "birincil sektör",
+      "meaning_en": "primary sector",
+      "meaning_uk": "первинний сектор економіки",
+      "meaning_es": "Sector económico que obtiene productos directamente de la naturaleza."
+    },
+    {
+      "term": "accesible",
+      "type": "Adjective",
+      "example": "El transporte público hace que el centro sea *** para todos.",
+      "meaning_tr": "erişilebilir",
+      "meaning_en": "accessible",
+      "meaning_uk": "доступний",
+      "meaning_es": "Que es de fácil acceso o comprensión."
+    },
+    {
+      "term": "la calidad de vida",
+      "type": "Noun",
+      "example": "Muchos buscan mejorar su *** mudándose a entornos rurales.",
+      "meaning_tr": "yaşam kalitesi",
+      "meaning_en": "quality of life",
+      "meaning_uk": "якість життя",
+      "meaning_es": "Grado de satisfacción y bienestar de una persona."
+    },
+    {
+      "term": "rural",
+      "type": "Adjective",
+      "example": "El turismo *** ha crecido mucho en los últimos años.",
+      "meaning_tr": "kırsal",
+      "meaning_en": "rural",
+      "meaning_uk": "сільський",
+      "meaning_es": "Relativo al campo."
+    },
+    {
+      "term": "la metrópoli",
+      "type": "Noun",
+      "example": "Nueva York es una *** cosmopolita que nunca duerme.",
+      "meaning_tr": "metropol",
+      "meaning_en": "metropolis",
+      "meaning_uk": "мегаполіс",
+      "meaning_es": "Ciudad de gran importancia y población."
+    },
+    {
+      "term": "el ayuntamiento",
+      "type": "Noun",
+      "example": "El *** ha organizado una reunión para hablar del nuevo parque.",
+      "meaning_tr": "belediye",
+      "meaning_en": "city hall, town council",
+      "meaning_uk": "міська рада",
+      "meaning_es": "Corporación que administra un municipio."
+    },
+    {
+      "term": "la biodiversidad",
+      "type": "Noun",
+      "example": "La pérdida de *** es una amenaza para el medio ambiente.",
+      "meaning_tr": "biyoçeşitlilik",
+      "meaning_en": "biodiversity",
+      "meaning_uk": "біорізноманіття",
+      "meaning_es": "Variedad de especies animales y vegetales en su medio ambiente."
+    }
+  ]
+}

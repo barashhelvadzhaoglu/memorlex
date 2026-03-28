@@ -1,0 +1,546 @@
+{
+  "title": "Gesellschaftliche Probleme (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Armutsschwelle",
+      "type": "Noun",
+      "example": "In vielen Industrieländern leben immer mehr Menschen unter der ***.",
+      "meaning_tr": "yoksulluk sınırı",
+      "meaning_en": "poverty line",
+      "meaning_uk": "межа бідності",
+      "meaning_es": "umbral de pobreza"
+    },
+    {
+      "term": "die soziale Ungerechtigkeit",
+      "type": "Noun",
+      "example": "Die Demonstration richtete sich gegen die zunehmende *** im Land.",
+      "meaning_tr": "sosyal adaletsizlik",
+      "meaning_en": "social injustice",
+      "meaning_uk": "соціальна несправедливість",
+      "meaning_es": "injusticia social"
+    },
+    {
+      "term": "marginalisieren",
+      "type": "Verb",
+      "example": "Bestimmte Minderheiten werden in der politischen Debatte oft ***.",
+      "meaning_tr": "marjinalleştirmek",
+      "meaning_en": "to marginalize",
+      "meaning_uk": "маргіналізувати",
+      "meaning_es": "marginalizar"
+    },
+    {
+      "term": "die Obdachlosigkeit",
+      "type": "Noun",
+      "example": "Die Stadtverwaltung versucht, die *** durch neue Wohnprojekte zu bekämpfen.",
+      "meaning_tr": "evsizlik",
+      "meaning_en": "homelessness",
+      "meaning_uk": "бездомність",
+      "meaning_es": "sinhogarismo"
+    },
+    {
+      "term": "prekär",
+      "type": "Adjective",
+      "example": "Viele junge Akademiker arbeiten unter ***en Beschäftigungsverhältnissen.",
+      "meaning_tr": "istikrarsız / güvencesiz",
+      "meaning_en": "precarious",
+      "meaning_uk": "прекарний / нестабільний",
+      "meaning_es": "precario"
+    },
+    {
+      "term": "der Fachkräftemangel",
+      "type": "Noun",
+      "example": "Der *** bremst das Wirtschaftswachstum in vielen Sektoren.",
+      "meaning_tr": "kalifiye eleman eksikliği",
+      "meaning_en": "shortage of skilled labor",
+      "meaning_uk": "дефіцит кваліфікованих кадрів",
+      "meaning_es": "escasez de mano de obra cualificada"
+    },
+    {
+      "term": "die Überalterung",
+      "type": "Noun",
+      "example": "Die *** der Gesellschaft stellt das Rentensystem vor große Herausforderungen.",
+      "meaning_tr": "nüfusun yaşlanması",
+      "meaning_en": "aging of the population",
+      "meaning_uk": "старіння населення",
+      "meaning_es": "envejecimiento de la población"
+    },
+    {
+      "term": "die Fremdenfeindlichkeit",
+      "type": "Noun",
+      "example": "Wir müssen gemeinsam ein Zeichen gegen *** und Rassismus setzen.",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "xenophobia",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "xenofobia"
+    },
+    {
+      "term": "die Chancengleichheit",
+      "type": "Noun",
+      "example": "Das Bildungssystem sollte die *** aller Kinder fördern.",
+      "meaning_tr": "fırsat eşitliği",
+      "meaning_en": "equal opportunity",
+      "meaning_uk": "рівність можливостей",
+      "meaning_es": "igualdad de oportunidades"
+    },
+    {
+      "term": "die Radikalisierung",
+      "type": "Noun",
+      "example": "Die Behörden beobachten die *** junger Menschen im Internet mit Sorge.",
+      "meaning_tr": "radikalleşme",
+      "meaning_en": "radicalization",
+      "meaning_uk": "радикалізація",
+      "meaning_es": "radicalización"
+    },
+    {
+      "term": "die Polarisierung",
+      "type": "Noun",
+      "example": "Die politische *** spaltet die Gesellschaft in zwei Lager.",
+      "meaning_tr": "kutuplaşma",
+      "meaning_en": "polarization",
+      "meaning_uk": "поляризація",
+      "meaning_es": "polarización"
+    },
+    {
+      "term": "die Ausgrenzung",
+      "type": "Noun",
+      "example": "Soziale *** führt oft zu Einsamkeit und Depression.",
+      "meaning_tr": "dışlanma",
+      "meaning_en": "exclusion",
+      "meaning_uk": "відчуження / виключення",
+      "meaning_es": "exclusión"
+    },
+    {
+      "term": "die Benachteiligung",
+      "type": "Noun",
+      "example": "Frauen kämpfen noch immer gegen die strukturelle *** im Berufsleben.",
+      "meaning_tr": "dezavantaj / ayrımcılık",
+      "meaning_en": "discrimination / disadvantage",
+      "meaning_uk": "дискримінація / обмеження прав",
+      "meaning_es": "desventaja / discriminación"
+    },
+    {
+      "term": "die Korruption",
+      "type": "Noun",
+      "example": "Die *** in der öffentlichen Verwaltung untergräbt das Vertrauen in den Staat.",
+      "meaning_tr": "yolsuzluk",
+      "meaning_en": "corruption",
+      "meaning_uk": "корупція",
+      "meaning_es": "corrupción"
+    },
+    {
+      "term": "die Bürokratie",
+      "type": "Noun",
+      "example": "Die übermäßige *** erschwert die Integration von Flüchtlingen.",
+      "meaning_tr": "bürokrasi",
+      "meaning_en": "bureaucracy",
+      "meaning_uk": "бюрократія",
+      "meaning_es": "burocracia"
+    },
+    {
+      "term": "die Nachhaltigkeit",
+      "type": "Noun",
+      "example": "In der modernen Politik spielt die ökologische *** eine zentrale Rolle.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталий розвиток",
+      "meaning_es": "sostenibilidad"
+    },
+    {
+      "term": "die Integration",
+      "type": "Noun",
+      "example": "Sprachkurse sind ein wesentlicher Bestandteil der gelungenen ***.",
+      "meaning_tr": "entegrasyon",
+      "meaning_en": "integration",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "integración"
+    },
+    {
+      "term": "die Zuwanderung",
+      "type": "Noun",
+      "example": "Deutschland ist auf eine gesteuerte *** angewiesen.",
+      "meaning_tr": "göç",
+      "meaning_en": "immigration",
+      "meaning_uk": "імміграція",
+      "meaning_es": "inmigración"
+    },
+    {
+      "term": "die Diskriminierung",
+      "type": "Noun",
+      "example": "Niemand darf aufgrund seiner Herkunft *** erfahren.",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "discrimination",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "discriminación"
+    },
+    {
+      "term": "die Arbeitslosigkeit",
+      "type": "Noun",
+      "example": "Die Bekämpfung der *** bleibt ein wichtiges politisches Ziel.",
+      "meaning_tr": "işsizlik",
+      "meaning_en": "unemployment",
+      "meaning_uk": "безробіття",
+      "meaning_es": "desempleo"
+    },
+    {
+      "term": "die Bildungsferne",
+      "type": "Noun",
+      "example": "Kinder aus ***n Schichten haben oft schlechtere Startbedingungen.",
+      "meaning_tr": "eğitimden uzaklık",
+      "meaning_en": "educational alienation / lack of education",
+      "meaning_uk": "відсутність освіти / освітня дистанція",
+      "meaning_es": "falta de acceso a la educación"
+    },
+    {
+      "term": "die Kluft",
+      "type": "Noun",
+      "example": "Die *** zwischen Arm und Reich wird immer größer.",
+      "meaning_tr": "uçurum",
+      "meaning_en": "gap / chasm",
+      "meaning_uk": "прірва",
+      "meaning_es": "brecha / abismo"
+    },
+    {
+      "term": "die Existenzangst",
+      "type": "Noun",
+      "example": "Wegen der Inflation leiden viele Kleinunternehmer unter ***.",
+      "meaning_tr": "geçim kaygısı",
+      "meaning_en": "fear of existence",
+      "meaning_uk": "страх за існування",
+      "meaning_es": "miedo a la subsistencia"
+    },
+    {
+      "term": "die Altersarmut",
+      "type": "Noun",
+      "example": "Besonders Frauen sind im Alter häufig von *** betroffen.",
+      "meaning_tr": "yaşlılık yoksulluğu",
+      "meaning_en": "poverty in old age",
+      "meaning_uk": "бідність у літньому віці",
+      "meaning_es": "pobreza en la vejez"
+    },
+    {
+      "term": "die Wohnungsnot",
+      "type": "Noun",
+      "example": "In Großstädten führt die *** zu extrem hohen Mieten.",
+      "meaning_tr": "konut sıkıntısı",
+      "meaning_en": "housing shortage",
+      "meaning_uk": "житлова криза",
+      "meaning_es": "escasez de vivienda"
+    },
+    {
+      "term": "die Gentrifizierung",
+      "type": "Noun",
+      "example": "Die *** verdrängt die alteingesessene Bevölkerung aus den Stadtvierteln.",
+      "meaning_tr": "soylulaştırma",
+      "meaning_en": "gentrification",
+      "meaning_uk": "джентрифікація",
+      "meaning_es": "gentrificación"
+    },
+    {
+      "term": "die soziale Schicht",
+      "type": "Noun",
+      "example": "Der Zugang zu Kultur sollte unabhängig von der *** sein.",
+      "meaning_tr": "sosyal tabaka",
+      "meaning_en": "social class",
+      "meaning_uk": "соціальний шар",
+      "meaning_es": "clase social"
+    },
+    {
+      "term": "die Teilhabe",
+      "type": "Noun",
+      "example": "Barrierefreiheit ermöglicht Menschen mit Behinderung die gesellschaftliche ***.",
+      "meaning_tr": "katılım",
+      "meaning_en": "participation",
+      "meaning_uk": "участь / залученість",
+      "meaning_es": "participación"
+    },
+    {
+      "term": "die Solidarität",
+      "type": "Noun",
+      "example": "In Krisenzeiten ist die *** innerhalb der Bevölkerung besonders wichtig.",
+      "meaning_tr": "dayanışma",
+      "meaning_en": "solidarity",
+      "meaning_uk": "солідарність",
+      "meaning_es": "solidaridad"
+    },
+    {
+      "term": "die Zivilcourage",
+      "type": "Noun",
+      "example": "Es erfordert ***, gegen Ungerechtigkeit in der Öffentlichkeit vorzugehen.",
+      "meaning_tr": "medeni cesaret",
+      "meaning_en": "civil courage",
+      "meaning_uk": "громадянська мужність",
+      "meaning_es": "valentía cívica"
+    },
+    {
+      "term": "die Gewaltbereitschaft",
+      "type": "Noun",
+      "example": "Die Polizei warnt vor einer steigenden *** bei Demonstrationen.",
+      "meaning_tr": "şiddete eğilim",
+      "meaning_en": "willingness to use violence",
+      "meaning_uk": "готовність до насильства",
+      "meaning_es": "propensión a la violencia"
+    },
+    {
+      "term": "die Intoleranz",
+      "type": "Noun",
+      "example": "Religiöse *** kann zu schweren gesellschaftlichen Konflikten führen.",
+      "meaning_tr": "hoşgörüsüzlük",
+      "meaning_en": "intolerance",
+      "meaning_uk": "нетерпимість",
+      "meaning_es": "intolerancia"
+    },
+    {
+      "term": "die Wohlstandsgesellschaft",
+      "type": "Noun",
+      "example": "In einer *** werden oft die Probleme der Armen übersehen.",
+      "meaning_tr": "refah toplumu",
+      "meaning_en": "affluent society",
+      "meaning_uk": "суспільство добробуту",
+      "meaning_es": "sociedad del bienestar"
+    },
+    {
+      "term": "die Wegwerfgesellschaft",
+      "type": "Noun",
+      "example": "Unsere *** produziert enorme Mengen an unnötigem Müll.",
+      "meaning_tr": "at-at toplumu",
+      "meaning_en": "throwaway society",
+      "meaning_uk": "суспільство споживання (що викидає речі)",
+      "meaning_es": "sociedad de usar y tirar"
+    },
+    {
+      "term": "die Leistungsgesellschaft",
+      "type": "Noun",
+      "example": "In einer *** steht der Erfolg des Einzelnen an erster Stelle.",
+      "meaning_tr": "başarı odaklı toplum",
+      "meaning_en": "meritocracy / achievement-oriented society",
+      "meaning_uk": "суспільство, орієнтоване на досягнення",
+      "meaning_es": "sociedad meritocrática"
+    },
+    {
+      "term": "die Globalisierung",
+      "type": "Noun",
+      "example": "Die *** hat sowohl wirtschaftliche Vorteile als auch soziale Nachteile.",
+      "meaning_tr": "küreselleşme",
+      "meaning_en": "globalization",
+      "meaning_uk": "глобалізація",
+      "meaning_es": "globalización"
+    },
+    {
+      "term": "die Urbanisierung",
+      "type": "Noun",
+      "example": "Die fortschreitende *** führt zur Entleerung ländlicher Regionen.",
+      "meaning_tr": "şehirleşme",
+      "meaning_en": "urbanization",
+      "meaning_uk": "урбанізація",
+      "meaning_es": "urbanización"
+    },
+    {
+      "term": "die Landflucht",
+      "type": "Noun",
+      "example": "Die *** stellt die Infrastruktur in Dörfern vor Probleme.",
+      "meaning_tr": "köyden kente göç",
+      "meaning_en": "rural exodus",
+      "meaning_uk": "відтік населення з сіл",
+      "meaning_es": "éxodo rural"
+    },
+    {
+      "term": "der demografische Wandel",
+      "type": "Noun",
+      "example": "Der *** beeinflusst die Zukunft des Arbeitsmarktes massiv.",
+      "meaning_tr": "demografik değişim",
+      "meaning_en": "demographic change",
+      "meaning_uk": "демографічні зміни",
+      "meaning_es": "cambio demográfico"
+    },
+    {
+      "term": "die Rechtsstaatlichkeit",
+      "type": "Noun",
+      "example": "Ohne *** kann eine Demokratie nicht dauerhaft funktionieren.",
+      "meaning_tr": "hukukun üstünlüğü",
+      "meaning_en": "rule of law",
+      "meaning_uk": "верховенство права",
+      "meaning_es": "estado de derecho"
+    },
+    {
+      "term": "die Pressefreiheit",
+      "type": "Noun",
+      "example": "Die Einschränkung der *** ist ein Warnsignal für autoritäre Tendenzen.",
+      "meaning_tr": "basın özgürlüğü",
+      "meaning_en": "freedom of the press",
+      "meaning_uk": "свобода преси",
+      "meaning_es": "libertad de prensa"
+    },
+    {
+      "term": "die Informationsflut",
+      "type": "Noun",
+      "example": "Im digitalen Zeitalter ist die *** oft schwer zu bewältigen.",
+      "meaning_tr": "bilgi bombardımanı",
+      "meaning_en": "information overload",
+      "meaning_uk": "інформаційне перевантаження",
+      "meaning_es": "sobrecarga informativa"
+    },
+    {
+      "term": "das Cybermobbing",
+      "type": "Noun",
+      "example": "Schulen müssen Präventionsprogramme gegen *** anbieten.",
+      "meaning_tr": "siber zorbalık",
+      "meaning_en": "cyberbullying",
+      "meaning_uk": "кібербулінг",
+      "meaning_es": "ciberacoso"
+    },
+    {
+      "term": "die Vereinsamung",
+      "type": "Noun",
+      "example": "Die soziale *** im Alter ist ein wachsendes Problem in Städten.",
+      "meaning_tr": "yalnızlaşma",
+      "meaning_en": "isolation / loneliness",
+      "meaning_uk": "самотність / ізоляція",
+      "meaning_es": "aislamiento social"
+    },
+    {
+      "term": "die Suchtgefahr",
+      "type": "Noun",
+      "example": "Bei Glücksspielen im Internet besteht eine hohe ***.",
+      "meaning_tr": "bağımlılık riski",
+      "meaning_en": "risk of addiction",
+      "meaning_uk": "ризик залежності",
+      "meaning_es": "riesgo de adicción"
+    },
+    {
+      "term": "die Kriminalitätsrate",
+      "type": "Noun",
+      "example": "Trotz neuer Maßnahmen ist die *** in diesem Viertel gestiegen.",
+      "meaning_tr": "suç oranı",
+      "meaning_en": "crime rate",
+      "meaning_uk": "рівень злочинності",
+      "meaning_es": "tasa de criminalidad"
+    },
+    {
+      "term": "die Steuerhinterziehung",
+      "type": "Noun",
+      "example": "Der Staat verliert jedes Jahr Milliarden durch ***.",
+      "meaning_tr": "vergi kaçakçılığı",
+      "meaning_en": "tax evasion",
+      "meaning_uk": "ухилення від сплати податків",
+      "meaning_es": "evasión de impuestos"
+    },
+    {
+      "term": "die Vetternwirtschaft",
+      "type": "Noun",
+      "example": "Kritiker werfen dem Bürgermeister *** bei der Postenvergabe vor.",
+      "meaning_tr": "akraba kayırmacılığı",
+      "meaning_en": "nepotism",
+      "meaning_uk": "кумівство / непотизм",
+      "meaning_es": "nepotismo"
+    },
+    {
+      "term": "die Ausbeutung",
+      "type": "Noun",
+      "example": "Die *** von Arbeitskräften in der Textilindustrie muss gestoppt werden.",
+      "meaning_tr": "sömürü",
+      "meaning_en": "exploitation",
+      "meaning_uk": "експлуатація",
+      "meaning_es": "explotación"
+    },
+    {
+      "term": "die Kinderarmut",
+      "type": "Noun",
+      "example": "In einem reichen Land wie diesem ist *** ein Skandal.",
+      "meaning_tr": "çocuk yoksulluğu",
+      "meaning_en": "child poverty",
+      "meaning_uk": "дитяча бідність",
+      "meaning_es": "pobreza infantil"
+    },
+    {
+      "term": "verschärfen",
+      "type": "Verb",
+      "example": "Die Energiekrise könnte die sozialen Spannungen weiter ***.",
+      "meaning_tr": "gerginleştirmek / şiddetlendirmek",
+      "meaning_en": "to exacerbate / to worsen",
+      "meaning_uk": "загострювати",
+      "meaning_es": "agravar / intensificar"
+    },
+    {
+      "term": "entgegenwirken",
+      "type": "Verb",
+      "example": "Man muss der Inflation mit gezielten Maßnahmen ***.",
+      "meaning_tr": "karşı koymak / önlemek",
+      "meaning_en": "to counteract",
+      "meaning_uk": "протидіяти",
+      "meaning_es": "contrarrestar"
+    },
+    {
+      "term": "bewältigen",
+      "type": "Verb",
+      "example": "Gemeinsam können wir diese Krise ***.",
+      "meaning_tr": "üstesinden gelmek",
+      "meaning_en": "to overcome / to cope with",
+      "meaning_uk": "подолати / впоратися",
+      "meaning_es": "superar / afrontar"
+    },
+    {
+      "term": "fördern",
+      "type": "Verb",
+      "example": "Der Staat sollte den sozialen Wohnungsbau stärker ***.",
+      "meaning_tr": "teşvik etmek / desteklemek",
+      "meaning_en": "to promote / to encourage",
+      "meaning_uk": "сприяти / заохочувати",
+      "meaning_es": "fomentar / promover"
+    },
+    {
+      "term": "unterdrücken",
+      "type": "Verb",
+      "example": "In Diktaturen wird die Opposition oft gewaltsam ***.",
+      "meaning_tr": "baskı altına almak",
+      "meaning_en": "to oppress",
+      "meaning_uk": "пригнічувати / подавляти",
+      "meaning_es": "oprimir / reprimir"
+    },
+    {
+      "term": "systemrelevant",
+      "type": "Adjective",
+      "example": "Berufe im Gesundheitswesen gelten als ***.",
+      "meaning_tr": "sistem açısından kritik",
+      "meaning_en": "systemically important",
+      "meaning_uk": "системно важливий",
+      "meaning_es": "sistémicamente relevante"
+    },
+    {
+      "term": "ehrenamtlich",
+      "type": "Adjective",
+      "example": "Viele Bürger engagieren sich *** in der Flüchtlingshilfe.",
+      "meaning_tr": "gönüllü",
+      "meaning_en": "voluntary / honorary",
+      "meaning_uk": "волонтерський / на громадських засадах",
+      "meaning_es": "voluntario"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir brauchen eine ***e Lösung für das Müllproblem.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий / тривалий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "infolge",
+      "type": "Preposition",
+      "example": "*** des Klimawandels nehmen Naturkatastrophen weltweit zu.",
+      "meaning_tr": "sonucunda",
+      "meaning_en": "as a result of",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "a consecuencia de"
+    },
+    {
+      "term": "angesichts",
+      "type": "Preposition",
+      "example": "*** der aktuellen Lage ist Vorsicht geboten.",
+      "meaning_tr": "karşısında / göz önüne alındığında",
+      "meaning_en": "in view of / considering",
+      "meaning_uk": "з огляду на / перед обличчям",
+      "meaning_es": "ante / en vista de"
+    }
+  ]
+}

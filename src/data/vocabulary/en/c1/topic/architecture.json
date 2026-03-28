@@ -1,0 +1,546 @@
+{
+  "title": "Architecture (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "an aesthetic",
+      "type": "Noun",
+      "example": "The building's minimalist *** reflects the architect's commitment to simplicity.",
+      "meaning_tr": "estetik",
+      "meaning_en": "a set of principles underlying the work of a particular artist or movement",
+      "meaning_uk": "естетика",
+      "meaning_es": "estética"
+    },
+    {
+      "term": "to commission",
+      "type": "Verb",
+      "example": "The city decided to *** a famous designer to create the new library.",
+      "meaning_tr": "görevlendirmek",
+      "meaning_en": "to officially order or authorize the production of something",
+      "meaning_uk": "замовляти",
+      "meaning_es": "encargar"
+    },
+    {
+      "term": "a façade",
+      "type": "Noun",
+      "example": "The glass *** of the skyscraper reflects the surrounding cityscape.",
+      "meaning_tr": "cephe",
+      "meaning_en": "the principal front of a building, that faces on to a street or open space",
+      "meaning_uk": "фасад",
+      "meaning_es": "fachada"
+    },
+    {
+      "term": "brutalist",
+      "type": "Adjective",
+      "example": "Many people find *** architecture cold and imposing due to its raw concrete surfaces.",
+      "meaning_tr": "brütalist",
+      "meaning_en": "referring to a style characterized by massive, monolithic, and blocky appearances",
+      "meaning_uk": "бруталістський",
+      "meaning_es": "brutalista"
+    },
+    {
+      "term": "a cantilever",
+      "type": "Noun",
+      "example": "The balcony is supported by a steel *** that extends over the garden.",
+      "meaning_tr": "konsol",
+      "meaning_en": "a long projecting beam or girder fixed at only one end",
+      "meaning_uk": "консоль",
+      "meaning_es": "voladizo"
+    },
+    {
+      "term": "vernacular",
+      "type": "Adjective",
+      "example": "The house was built using *** materials found locally in the region.",
+      "meaning_tr": "yerel",
+      "meaning_en": "concerned with domestic or functional architecture typical of a particular region",
+      "meaning_uk": "місцевий",
+      "meaning_es": "vernáculo"
+    },
+    {
+      "term": "to integrate",
+      "type": "Verb",
+      "example": "Modern designs often seek to *** the structure into the natural landscape.",
+      "meaning_tr": "bütünleştirmek",
+      "meaning_en": "to combine one thing with another so that they become a whole",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "integrar"
+    },
+    {
+      "term": "an edifice",
+      "type": "Noun",
+      "example": "The cathedral is a massive *** that has stood for over five centuries.",
+      "meaning_tr": "büyük ve görkemli yapı",
+      "meaning_en": "a large, imposing building",
+      "meaning_uk": "велична споруда",
+      "meaning_es": "edificio"
+    },
+    {
+      "term": "ornate",
+      "type": "Adjective",
+      "example": "The lobby features *** carvings that date back to the Victorian era.",
+      "meaning_tr": "süslü",
+      "meaning_en": "made in an intricate shape or decorated with complex patterns",
+      "meaning_uk": "оздоблений",
+      "meaning_es": "ornamentado"
+    },
+    {
+      "term": "a blueprint",
+      "type": "Noun",
+      "example": "The architect presented the final *** to the planning committee.",
+      "meaning_tr": "plan/taslak",
+      "meaning_en": "a technical drawing or photographic print of a design",
+      "meaning_uk": "креслення",
+      "meaning_es": "plano"
+    },
+    {
+      "term": "to renovate",
+      "type": "Verb",
+      "example": "They plan to *** the historic theater while preserving its original charm.",
+      "meaning_tr": "yenilemek",
+      "meaning_en": "to restore something old to a good state of repair",
+      "meaning_uk": "ремонтувати",
+      "meaning_es": "renovar"
+    },
+    {
+      "term": "symmetrical",
+      "type": "Adjective",
+      "example": "The *** layout of the palace creates a sense of balance and order.",
+      "meaning_tr": "simetrik",
+      "meaning_en": "made up of exactly similar parts facing each other",
+      "meaning_uk": "симетричний",
+      "meaning_es": "simétrico"
+    },
+    {
+      "term": "a load-bearing wall",
+      "type": "Noun",
+      "example": "You cannot remove that partition because it is a ***.",
+      "meaning_tr": "taşıyıcı duvar",
+      "meaning_en": "a wall that is an active structural element of a building",
+      "meaning_uk": "несна стіна",
+      "meaning_es": "muro de carga"
+    },
+    {
+      "term": "a skylight",
+      "type": "Noun",
+      "example": "The artist added a *** to bring more natural light into the studio.",
+      "meaning_tr": "çatı penceresi",
+      "meaning_en": "a window set in a roof or ceiling at the same angle",
+      "meaning_uk": "мансардне вікно",
+      "meaning_es": "claraboya"
+    },
+    {
+      "term": "spatial",
+      "type": "Adjective",
+      "example": "The architect focused on the *** arrangement to maximize the flow of movement.",
+      "meaning_tr": "mekansal",
+      "meaning_en": "relating to space and the position, size, and shape of things",
+      "meaning_uk": "просторовий",
+      "meaning_es": "espacial"
+    },
+    {
+      "term": "to retrofit",
+      "type": "Verb",
+      "example": "The old building was *** with energy-efficient windows.",
+      "meaning_tr": "iyileştirmek/donatmak",
+      "meaning_en": "to add a component or accessory to something that did not have it when manufactured",
+      "meaning_uk": "модернізувати",
+      "meaning_es": "reacondicionar"
+    },
+    {
+      "term": "an atrium",
+      "type": "Noun",
+      "example": "The hotel features a grand *** that reaches the full height of the building.",
+      "meaning_tr": "iç avlu",
+      "meaning_en": "an open-roofed entrance hall or central court in a building",
+      "meaning_uk": "атріум",
+      "meaning_es": "atrio"
+    },
+    {
+      "term": "monolithic",
+      "type": "Adjective",
+      "example": "The *** structure dominated the skyline with its sheer size.",
+      "meaning_tr": "tek parça/dev gibi",
+      "meaning_en": "formed of a single large block of stone or appearing large and uniform",
+      "meaning_uk": "монолітний",
+      "meaning_es": "monolítico"
+    },
+    {
+      "term": "a foundation",
+      "type": "Noun",
+      "example": "The *** of the house had to be reinforced due to the soft soil.",
+      "meaning_tr": "temel",
+      "meaning_en": "the lowest load-bearing part of a building",
+      "meaning_uk": "фундамент",
+      "meaning_es": "cimentación"
+    },
+    {
+      "term": "a superstructure",
+      "type": "Noun",
+      "example": "Once the foundation was set, they began the steel ***.",
+      "meaning_tr": "üst yapı",
+      "meaning_en": "a structure built on top of something else",
+      "meaning_uk": "надбудова",
+      "meaning_es": "superestructura"
+    },
+    {
+      "term": "utilitarian",
+      "type": "Adjective",
+      "example": "The design of the factory is purely ***, prioritizing function over form.",
+      "meaning_tr": "faydacı",
+      "meaning_en": "designed to be useful or practical rather than attractive",
+      "meaning_uk": "утилітарний",
+      "meaning_es": "utilitario"
+    },
+    {
+      "term": "to cantilever",
+      "type": "Verb",
+      "example": "The designer decided to *** the roof to provide shade without pillars.",
+      "meaning_tr": "konsol olarak uzatmak",
+      "meaning_en": "to project or support by a cantilever",
+      "meaning_uk": "виступати консольно",
+      "meaning_es": "volar"
+    },
+    {
+      "term": "a colonnade",
+      "type": "Noun",
+      "example": "We walked through a long *** leading to the entrance of the museum.",
+      "meaning_tr": "sütun dizisi",
+      "meaning_en": "a row of columns supporting a roof or entablature",
+      "meaning_uk": "колонада",
+      "meaning_es": "columnata"
+    },
+    {
+      "term": "eclectic",
+      "type": "Adjective",
+      "example": "The building is an *** mix of Gothic, Renaissance, and modern styles.",
+      "meaning_tr": "eklektik",
+      "meaning_en": "deriving ideas, style, or taste from a broad and diverse range of sources",
+      "meaning_uk": "еклектичний",
+      "meaning_es": "ecléctico"
+    },
+    {
+      "term": "a partition",
+      "type": "Noun",
+      "example": "They used a glass *** to divide the office space without blocking light.",
+      "meaning_tr": "bölme",
+      "meaning_en": "a light wall or screen used to divide a room",
+      "meaning_uk": "перегородка",
+      "meaning_es": "tabique"
+    },
+    {
+      "term": "to demolish",
+      "type": "Verb",
+      "example": "The city decided to *** the derelict warehouse to make space for a park.",
+      "meaning_tr": "yıkmak",
+      "meaning_en": "to pull or knock down a building",
+      "meaning_uk": "зносити",
+      "meaning_es": "demoler"
+    },
+    {
+      "term": "an architrave",
+      "type": "Noun",
+      "example": "The ornate *** around the doorway was painted in gold leaf.",
+      "meaning_tr": "kapı/pencere pervazı",
+      "meaning_en": "the main beam resting across the tops of columns",
+      "meaning_uk": "архітрав",
+      "meaning_es": "arquitrabe"
+    },
+    {
+      "term": "asymmetrical",
+      "type": "Adjective",
+      "example": "The *** design gives the house a dynamic and modern appearance.",
+      "meaning_tr": "asimetrik",
+      "meaning_en": "having parts that fail to correspond to one another in shape or size",
+      "meaning_uk": "асиметричний",
+      "meaning_es": "asimétrico"
+    },
+    {
+      "term": "a gable",
+      "type": "Noun",
+      "example": "The house has a steep *** that adds character to the roofline.",
+      "meaning_tr": "üçgen çatı tepesi",
+      "meaning_en": "the part of a wall that encloses the end of a pitched roof",
+      "meaning_uk": "фронтон",
+      "meaning_es": "gablete"
+    },
+    {
+      "term": "to preserve",
+      "type": "Verb",
+      "example": "The organization works to *** historic buildings from being torn down.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to maintain something in its original or existing state",
+      "meaning_uk": "зберігати",
+      "meaning_es": "preservar"
+    },
+    {
+      "term": "an aperture",
+      "type": "Noun",
+      "example": "The window serves as an *** that allows light to penetrate the dark corridor.",
+      "meaning_tr": "açıklık/delik",
+      "meaning_en": "an opening, hole, or gap",
+      "meaning_uk": "отвір",
+      "meaning_es": "apertura"
+    },
+    {
+      "term": "modular",
+      "type": "Adjective",
+      "example": "The house was built using a *** system, making construction very fast.",
+      "meaning_tr": "modüler",
+      "meaning_en": "employing or involving a module or modules as the basis of design",
+      "meaning_uk": "модульний",
+      "meaning_es": "modular"
+    },
+    {
+      "term": "a vestibule",
+      "type": "Noun",
+      "example": "Guests waited in the *** before being invited into the main hall.",
+      "meaning_tr": "giriş holü",
+      "meaning_en": "a hall or lobby next to the outer door of a building",
+      "meaning_uk": "вестибюль",
+      "meaning_es": "vestíbulo"
+    },
+    {
+      "term": "to scale",
+      "type": "Verb",
+      "example": "The architect had to *** the design down to fit the smaller budget.",
+      "meaning_tr": "ölçeklendirmek",
+      "meaning_en": "to adjust the size of something in proportion to its original design",
+      "meaning_uk": "масштабувати",
+      "meaning_es": "escalar"
+    },
+    {
+      "term": "a cantilevered",
+      "type": "Adjective",
+      "example": "The *** roof provides a dramatic entrance to the modern gallery.",
+      "meaning_tr": "konsollu",
+      "meaning_en": "supported at only one end",
+      "meaning_uk": "консольний",
+      "meaning_es": "en voladizo"
+    },
+    {
+      "term": "a buttress",
+      "type": "Noun",
+      "example": "The stone *** supports the weight of the high cathedral walls.",
+      "meaning_tr": "payanda",
+      "meaning_en": "a projecting support of stone or brick built against a wall",
+      "meaning_uk": "контрфорс",
+      "meaning_es": "contrafuerte"
+    },
+    {
+      "term": "ornamentation",
+      "type": "Noun",
+      "example": "The architect rejected excessive *** in favor of clean lines.",
+      "meaning_tr": "süsleme",
+      "meaning_en": "things added to something to provide decoration",
+      "meaning_uk": "оздоблення",
+      "meaning_es": "ornamentación"
+    },
+    {
+      "term": "to insulate",
+      "type": "Verb",
+      "example": "They used recycled foam to *** the walls against the winter cold.",
+      "meaning_tr": "yalıtmak",
+      "meaning_en": "to protect something by interposing material that prevents heat loss",
+      "meaning_uk": "ізолювати",
+      "meaning_es": "aislar"
+    },
+    {
+      "term": "an elevation",
+      "type": "Noun",
+      "example": "The north *** shows the height and window placement of the building.",
+      "meaning_tr": "cephe görünüşü",
+      "meaning_en": "a particular side of a building or a scale drawing of it",
+      "meaning_uk": "вигляд фасаду",
+      "meaning_es": "alzado"
+    },
+    {
+      "term": "sleek",
+      "type": "Adjective",
+      "example": "The skyscraper has a *** design with smooth, reflective surfaces.",
+      "meaning_tr": "şık/pürüzsüz",
+      "meaning_en": "having an elegant, streamlined shape or design",
+      "meaning_uk": "витончений",
+      "meaning_es": "elegante"
+    },
+    {
+      "term": "a facade",
+      "type": "Noun",
+      "example": "The historic *** was preserved while the interior was completely modernized.",
+      "meaning_tr": "cephe",
+      "meaning_en": "the front part of a building",
+      "meaning_uk": "фасад",
+      "meaning_es": "fachada"
+    },
+    {
+      "term": "to draft",
+      "type": "Verb",
+      "example": "The apprentice spent the morning helping to *** the structural plans.",
+      "meaning_tr": "taslak hazırlamak",
+      "meaning_en": "to prepare a preliminary version of a drawing or plan",
+      "meaning_uk": "креслити",
+      "meaning_es": "dibujar"
+    },
+    {
+      "term": "a mezzanine",
+      "type": "Noun",
+      "example": "The library added a *** to house more books without expanding the footprint.",
+      "meaning_tr": "asma kat",
+      "meaning_en": "an intermediate floor in a building which is partly open to the double-height floor below",
+      "meaning_uk": "мезонін",
+      "meaning_es": "entresuelo"
+    },
+    {
+      "term": "structural",
+      "type": "Adjective",
+      "example": "The building suffered *** damage after the earthquake.",
+      "meaning_tr": "yapısal",
+      "meaning_en": "relating to the arrangement of and relations between the parts of something",
+      "meaning_uk": "структурний",
+      "meaning_es": "estructural"
+    },
+    {
+      "term": "a cornice",
+      "type": "Noun",
+      "example": "The elaborate *** adds a decorative finish to the top of the building.",
+      "meaning_tr": "korniş",
+      "meaning_en": "an ornamental molding around the wall of a room just below the ceiling",
+      "meaning_uk": "карниз",
+      "meaning_es": "cornisa"
+    },
+    {
+      "term": "to stabilize",
+      "type": "Verb",
+      "example": "They had to *** the leaning tower before opening it to the public.",
+      "meaning_tr": "sabitlemek",
+      "meaning_en": "to make something unlikely to overturn or fail",
+      "meaning_uk": "стабілізувати",
+      "meaning_es": "estabilizar"
+    },
+    {
+      "term": "a perspective",
+      "type": "Noun",
+      "example": "The architect drew a 3D *** to show how the house would look from the street.",
+      "meaning_tr": "perspektif",
+      "meaning_en": "the art of drawing solid objects on a two-dimensional surface to give the right impression of height, width, and depth",
+      "meaning_uk": "перспектива",
+      "meaning_es": "perspectiva"
+    },
+    {
+      "term": "imposing",
+      "type": "Adjective",
+      "example": "The mansion is an *** structure that dominates the entire neighborhood.",
+      "meaning_tr": "heybetli",
+      "meaning_en": "grand and impressive in appearance",
+      "meaning_uk": "величний",
+      "meaning_es": "imponente"
+    },
+    {
+      "term": "a clerestory",
+      "type": "Noun",
+      "example": "The *** windows provide indirect light to the nave of the church.",
+      "meaning_tr": "üst pencereler",
+      "meaning_en": "a high section of wall that contains windows above eye level",
+      "meaning_uk": "віконний ряд",
+      "meaning_es": "claristorio"
+    },
+    {
+      "term": "to align",
+      "type": "Verb",
+      "example": "The architect made sure to *** the windows with the pillars below.",
+      "meaning_tr": "hizalamak",
+      "meaning_en": "to place or arrange things in a straight line",
+      "meaning_uk": "вирівнювати",
+      "meaning_es": "alinear"
+    },
+    {
+      "term": "a cantilever",
+      "type": "Noun",
+      "example": "The bridge is held up by a long *** that reaches across the river.",
+      "meaning_tr": "konsol",
+      "meaning_en": "a structural piece that sticks out and is supported at only one end",
+      "meaning_uk": "консоль",
+      "meaning_es": "voladizo"
+    },
+    {
+      "term": "minimalist",
+      "type": "Adjective",
+      "example": "The owner requested a *** interior with very little furniture.",
+      "meaning_tr": "minimalist",
+      "meaning_en": "characterized by extreme spareness and simplicity",
+      "meaning_uk": "мінімалістичний",
+      "meaning_es": "minimalista"
+    },
+    {
+      "term": "a joist",
+      "type": "Noun",
+      "example": "The floorboards were nailed directly into the wooden ***.",
+      "meaning_tr": "kiriş",
+      "meaning_en": "a length of timber or steel supporting part of the structure of a building",
+      "meaning_uk": "балка",
+      "meaning_es": "vigueta"
+    },
+    {
+      "term": "to commission",
+      "type": "Verb",
+      "example": "The museum decided to *** a new wing from a world-renowned firm.",
+      "meaning_tr": "görevlendirmek",
+      "meaning_en": "to give an order for or authorize the production of a building",
+      "meaning_uk": "замовляти",
+      "meaning_es": "encargar"
+    },
+    {
+      "term": "an arch",
+      "type": "Noun",
+      "example": "The stone *** is a classic feature of Roman architecture.",
+      "meaning_tr": "kemer",
+      "meaning_en": "a curved symmetrical structure spanning an opening",
+      "meaning_uk": "арка",
+      "meaning_es": "arco"
+    },
+    {
+      "term": "sustainable",
+      "type": "Adjective",
+      "example": "The design includes *** features like solar panels and rainwater harvesting.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "designed to avoid the depletion of natural resources",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "a pier",
+      "type": "Noun",
+      "example": "The heavy stone *** supports the weight of the vaulted ceiling.",
+      "meaning_tr": "payanda/sütun",
+      "meaning_en": "a solid support designed to sustain vertical pressure",
+      "meaning_uk": "опора",
+      "meaning_es": "pilar"
+    },
+    {
+      "term": "to reinforce",
+      "type": "Verb",
+      "example": "The engineers had to *** the beams to support the extra weight.",
+      "meaning_tr": "güçlendirmek",
+      "meaning_en": "to strengthen an object or substance, especially with additional material",
+      "meaning_uk": "підсилювати",
+      "meaning_es": "reforzar"
+    },
+    {
+      "term": "an elevation",
+      "type": "Noun",
+      "example": "The east *** of the building is covered in climbing ivy.",
+      "meaning_tr": "cephe",
+      "meaning_en": "a scale drawing of the side of a building",
+      "meaning_uk": "вигляд фасаду",
+      "meaning_es": "alzado"
+    },
+    {
+      "term": "vast",
+      "type": "Adjective",
+      "example": "The *** hall creates an overwhelming sense of space for visitors.",
+      "meaning_tr": "geniş/devasa",
+      "meaning_en": "of very great extent or quantity; immense",
+      "meaning_uk": "величезний",
+      "meaning_es": "vasto"
+    }
+  ]
+}

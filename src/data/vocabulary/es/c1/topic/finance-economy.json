@@ -1,0 +1,546 @@
+{
+  "title": "Finanzas y Economia (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la plusvalía",
+      "type": "Noun",
+      "meaning_tr": "sermaye kazancı",
+      "meaning_en": "capital gain",
+      "meaning_uk": "приріст капіталу",
+      "meaning_es": "Incremento del valor de un activo",
+      "example": "La inversión inmobiliaria generó una *** considerable tras cinco años."
+    },
+    {
+      "term": "la solvencia",
+      "type": "Noun",
+      "meaning_tr": "ödeme gücü",
+      "meaning_en": "solvency",
+      "meaning_uk": "платоспроможність",
+      "meaning_es": "Capacidad de cumplir con las obligaciones financieras",
+      "example": "El banco analizó la *** de la empresa antes de conceder el crédito."
+    },
+    {
+      "term": "la amortización",
+      "type": "Noun",
+      "meaning_tr": "itfa",
+      "meaning_en": "amortization",
+      "meaning_uk": "амортизація",
+      "meaning_es": "Reducción gradual de una deuda o valor de un activo",
+      "example": "El plan de *** del préstamo se extenderá durante diez años."
+    },
+    {
+      "term": "el apalancamiento",
+      "type": "Noun",
+      "meaning_tr": "kaldıraç",
+      "meaning_en": "leverage",
+      "meaning_uk": "кредитне плече",
+      "meaning_es": "Uso de deuda para financiar activos",
+      "example": "Un *** excesivo puede aumentar el riesgo de quiebra."
+    },
+    {
+      "term": "la liquidez",
+      "type": "Noun",
+      "meaning_tr": "likidite",
+      "meaning_en": "liquidity",
+      "meaning_uk": "ліквідність",
+      "meaning_es": "Facilidad para convertir activos en efectivo",
+      "example": "La empresa necesita mejorar su *** para afrontar los pagos inmediatos."
+    },
+    {
+      "term": "la volatilidad",
+      "type": "Noun",
+      "meaning_tr": "oynaklık",
+      "meaning_en": "volatility",
+      "meaning_uk": "волатильність",
+      "meaning_es": "Inestabilidad de los precios en el mercado",
+      "example": "La *** de las criptomonedas asusta a los inversores conservadores."
+    },
+    {
+      "term": "el activo",
+      "type": "Noun",
+      "meaning_tr": "varlık",
+      "meaning_en": "asset",
+      "meaning_uk": "актив",
+      "meaning_es": "Bien o derecho propiedad de una entidad",
+      "example": "Debemos contabilizar este nuevo *** en el balance general."
+    },
+    {
+      "term": "el pasivo",
+      "type": "Noun",
+      "meaning_tr": "yükümlülük",
+      "meaning_en": "liability",
+      "meaning_uk": "пасив",
+      "meaning_es": "Deudas y obligaciones de una entidad",
+      "example": "El *** corriente ha crecido debido a los préstamos a corto plazo."
+    },
+    {
+      "term": "la divisa",
+      "type": "Noun",
+      "meaning_tr": "döviz",
+      "meaning_en": "currency",
+      "meaning_uk": "валюта",
+      "meaning_es": "Moneda extranjera",
+      "example": "La fluctuación de la *** afecta directamente a nuestras exportaciones."
+    },
+    {
+      "term": "el arancel",
+      "type": "Noun",
+      "meaning_tr": "gümrük vergisi",
+      "meaning_en": "tariff",
+      "meaning_uk": "митний тариф",
+      "meaning_es": "Impuesto sobre productos importados",
+      "example": "El gobierno decidió imponer un nuevo *** a los bienes tecnológicos."
+    },
+    {
+      "term": "la inflación",
+      "type": "Noun",
+      "meaning_tr": "enflasyon",
+      "meaning_en": "inflation",
+      "meaning_uk": "інфляція",
+      "meaning_es": "Aumento generalizado de precios",
+      "example": "La *** galopante está reduciendo el poder adquisitivo de los ciudadanos."
+    },
+    {
+      "term": "la deflación",
+      "type": "Noun",
+      "meaning_tr": "deflasyon",
+      "meaning_en": "deflation",
+      "meaning_uk": "дефляція",
+      "meaning_es": "Descenso generalizado de precios",
+      "example": "Un periodo prolongado de *** puede estancar la economía."
+    },
+    {
+      "term": "el crecimiento",
+      "type": "Noun",
+      "meaning_tr": "büyüme",
+      "meaning_en": "growth",
+      "meaning_uk": "зростання",
+      "meaning_es": "Aumento en la producción o riqueza",
+      "example": "Se espera un *** del PIB del tres por ciento este año."
+    },
+    {
+      "term": "la recesión",
+      "type": "Noun",
+      "meaning_tr": "durgunluk",
+      "meaning_en": "recession",
+      "meaning_uk": "рецесія",
+      "meaning_es": "Periodo de declive económico",
+      "example": "Tras la crisis, el país entró en una profunda *** económica."
+    },
+    {
+      "term": "el presupuesto",
+      "type": "Noun",
+      "meaning_tr": "bütçe",
+      "meaning_en": "budget",
+      "meaning_uk": "бюджет",
+      "meaning_es": "Plan financiero detallado",
+      "example": "Debemos ajustar el *** para reducir los gastos innecesarios."
+    },
+    {
+      "term": "el flujo de caja",
+      "type": "Noun",
+      "meaning_tr": "nakit akışı",
+      "meaning_en": "cash flow",
+      "meaning_uk": "грошовий потік",
+      "meaning_es": "Movimiento de dinero en efectivo",
+      "example": "Un *** positivo es vital para la supervivencia del negocio."
+    },
+    {
+      "term": "la cartera",
+      "type": "Noun",
+      "meaning_tr": "portföy",
+      "meaning_en": "portfolio",
+      "meaning_uk": "портфель",
+      "meaning_es": "Conjunto de inversiones",
+      "example": "Es recomendable diversificar la *** para minimizar riesgos."
+    },
+    {
+      "term": "el dividendo",
+      "type": "Noun",
+      "meaning_tr": "temettü",
+      "meaning_en": "dividend",
+      "meaning_uk": "дивіденд",
+      "meaning_es": "Parte de beneficios repartida a accionistas",
+      "example": "La junta decidió no pagar *** este trimestre."
+    },
+    {
+      "term": "la fiscalidad",
+      "type": "Noun",
+      "meaning_tr": "vergilendirme",
+      "meaning_en": "taxation",
+      "meaning_uk": "оподаткування",
+      "meaning_es": "Sistema de impuestos",
+      "example": "La nueva *** incentiva la inversión en energías renovables."
+    },
+    {
+      "term": "el tipo de interés",
+      "type": "Noun",
+      "meaning_tr": "faiz oranı",
+      "meaning_en": "interest rate",
+      "meaning_uk": "відсоткова ставка",
+      "meaning_es": "Coste de pedir dinero prestado",
+      "example": "El banco central ha subido el *** para controlar la inflación."
+    },
+    {
+      "term": "la bancarrota",
+      "type": "Noun",
+      "meaning_tr": "iflas",
+      "meaning_en": "bankruptcy",
+      "meaning_uk": "банкрутство",
+      "meaning_es": "Situación de insolvencia total",
+      "example": "La empresa se declaró en *** tras varios años de pérdidas."
+    },
+    {
+      "term": "el mercado bursátil",
+      "type": "Noun",
+      "meaning_tr": "borsa",
+      "meaning_en": "stock market",
+      "meaning_uk": "фондовий ринок",
+      "meaning_es": "Mercado donde se negocian acciones",
+      "example": "El *** reaccionó negativamente ante las noticias políticas."
+    },
+    {
+      "term": "la cuota de mercado",
+      "type": "Noun",
+      "meaning_tr": "pazar payı",
+      "meaning_en": "market share",
+      "meaning_uk": "частка ринку",
+      "meaning_es": "Porcentaje de ventas en un sector",
+      "example": "Nuestra empresa ha ganado una mayor *** este año."
+    },
+    {
+      "term": "la oferta",
+      "type": "Noun",
+      "meaning_tr": "arz",
+      "meaning_en": "supply",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "Cantidad disponible de un producto",
+      "example": "Si la *** es baja y la demanda alta, los precios suben."
+    },
+    {
+      "term": "la demanda",
+      "type": "Noun",
+      "meaning_tr": "talep",
+      "meaning_en": "demand",
+      "meaning_uk": "попит",
+      "meaning_es": "Cantidad deseada de un producto",
+      "example": "Existe una gran *** de viviendas en el centro urbano."
+    },
+    {
+      "term": "el ahorro",
+      "type": "Noun",
+      "meaning_tr": "tasarruf",
+      "meaning_en": "saving",
+      "meaning_uk": "заощадження",
+      "meaning_es": "Parte de la renta no consumida",
+      "example": "El *** familiar ha disminuido debido al aumento del costo de vida."
+    },
+    {
+      "term": "la inversión",
+      "type": "Noun",
+      "meaning_tr": "yatırım",
+      "meaning_en": "investment",
+      "meaning_uk": "інвестиція",
+      "meaning_es": "Destino de capital para obtener beneficios",
+      "example": "Esta *** a largo plazo promete grandes rendimientos."
+    },
+    {
+      "term": "el rendimiento",
+      "type": "Noun",
+      "meaning_tr": "getiri",
+      "meaning_en": "yield / return",
+      "meaning_uk": "дохідність",
+      "meaning_es": "Beneficio obtenido de una inversión",
+      "example": "El *** de estos bonos es superior a la media del mercado."
+    },
+    {
+      "term": "el subsidio",
+      "type": "Noun",
+      "meaning_tr": "destek ödemesi",
+      "meaning_en": "subsidy",
+      "meaning_uk": "субсидія",
+      "meaning_es": "Ayuda económica pública",
+      "example": "El sector agrícola depende en parte del *** estatal."
+    },
+    {
+      "term": "la auditoría",
+      "type": "Noun",
+      "meaning_tr": "denetim",
+      "meaning_en": "audit",
+      "meaning_uk": "аудит",
+      "meaning_es": "Revisión de cuentas",
+      "example": "La *** externa confirmó que los estados financieros eran correctos."
+    },
+    {
+      "term": "la fusión",
+      "type": "Noun",
+      "meaning_tr": "birleşme",
+      "meaning_en": "merger",
+      "meaning_uk": "злиття",
+      "meaning_es": "Unión de dos empresas",
+      "example": "La *** de ambos bancos creará una entidad líder en el país."
+    },
+    {
+      "term": "la adquisición",
+      "type": "Noun",
+      "meaning_tr": "satın alma",
+      "meaning_en": "acquisition",
+      "meaning_uk": "придбання",
+      "meaning_es": "Compra de una empresa por otra",
+      "example": "La *** tecnológica fortalecerá nuestra posición en el sector."
+    },
+    {
+      "term": "la prima de riesgo",
+      "type": "Noun",
+      "meaning_tr": "risk primi",
+      "meaning_en": "risk premium",
+      "meaning_uk": "премія за ризик",
+      "meaning_es": "Sobreprecio por riesgo de impago",
+      "example": "La *** española ha bajado tras el anuncio de las reformas."
+    },
+    {
+      "term": "el accionista",
+      "type": "Noun",
+      "meaning_tr": "hissedar",
+      "meaning_en": "shareholder",
+      "meaning_uk": "акціонер",
+      "meaning_es": "Dueño de acciones",
+      "example": "El *** mayoritario tiene el control de la compañía."
+    },
+    {
+      "term": "la depreciación",
+      "type": "Noun",
+      "meaning_tr": "değer kaybı",
+      "meaning_en": "depreciation",
+      "meaning_uk": "знецінення",
+      "meaning_es": "Pérdida de valor de un activo",
+      "example": "La *** del vehículo es muy rápida durante los primeros años."
+    },
+    {
+      "term": "el valor nominal",
+      "type": "Noun",
+      "meaning_tr": "nominal değer",
+      "meaning_en": "face value",
+      "meaning_uk": "номінальна вартість",
+      "meaning_es": "Valor escrito en un título",
+      "example": "Las acciones se vendieron por encima de su ***."
+    },
+    {
+      "term": "la diversificación",
+      "type": "Noun",
+      "meaning_tr": "çeşitlendirme",
+      "meaning_en": "diversification",
+      "meaning_uk": "диверсифікація",
+      "meaning_es": "Reparto de inversiones",
+      "example": "La *** es una estrategia clave para reducir el riesgo."
+    },
+    {
+      "term": "la evasión fiscal",
+      "type": "Noun",
+      "meaning_tr": "vergi kaçakçılığı",
+      "meaning_en": "tax evasion",
+      "meaning_uk": "ухилення від сплати податків",
+      "meaning_es": "Incumplimiento ilegal de impuestos",
+      "example": "El gobierno endureció las penas contra la ***."
+    },
+    {
+      "term": "la morosidad",
+      "type": "Noun",
+      "meaning_tr": "gecikmiş ödeme",
+      "meaning_en": "delinquency / default",
+      "meaning_uk": "прострочення",
+      "meaning_es": "Retraso en el pago de deudas",
+      "example": "La tasa de *** ha aumentado debido a la crisis actual."
+    },
+    {
+      "term": "el capital social",
+      "type": "Noun",
+      "meaning_tr": "sermaye",
+      "meaning_en": "share capital",
+      "meaning_uk": "статутний капітал",
+      "meaning_es": "Capital aportado por socios",
+      "example": "La empresa ha ampliado su *** para financiar nuevos proyectos."
+    },
+    {
+      "term": "invertir",
+      "type": "Verb",
+      "meaning_tr": "yatırım yapmak",
+      "meaning_en": "to invest",
+      "meaning_uk": "інвестувати",
+      "meaning_es": "Colocar capital para ganar dinero",
+      "example": "Decidí *** en bonos del estado por su seguridad."
+    },
+    {
+      "term": "cotizar",
+      "type": "Verb",
+      "meaning_tr": "borsada işlem görmek",
+      "meaning_en": "to be listed on the stock exchange",
+      "meaning_uk": "котируватися",
+      "meaning_es": "Tener precio en bolsa",
+      "example": "La empresa empezará a *** en la bolsa mañana."
+    },
+    {
+      "term": "quebrar",
+      "type": "Verb",
+      "meaning_tr": "iflas etmek",
+      "meaning_en": "to go bankrupt",
+      "meaning_uk": "збанкрутувати",
+      "meaning_es": "Entrar en bancarrota",
+      "example": "Muchos negocios pequeños tuvieron que *** durante la pandemia."
+    },
+    {
+      "term": "negociar",
+      "type": "Verb",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to negotiate",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "Tratar asuntos comerciales",
+      "example": "Vamos a *** los términos del nuevo contrato mañana."
+    },
+    {
+      "term": "especular",
+      "type": "Verb",
+      "meaning_tr": "spekülasyon yapmak",
+      "meaning_en": "to speculate",
+      "meaning_uk": "спекулювати",
+      "meaning_es": "Operar buscando beneficio por cambios de precio",
+      "example": "Es arriesgado *** con materias primas sin experiencia."
+    },
+    {
+      "term": "financiar",
+      "type": "Verb",
+      "meaning_tr": "finanse etmek",
+      "meaning_en": "to finance",
+      "meaning_uk": "фінансувати",
+      "meaning_es": "Proveer fondos",
+      "example": "El banco se negó a *** el nuevo proyecto industrial."
+    },
+    {
+      "term": "liquidar",
+      "type": "Verb",
+      "meaning_tr": "tasfiye etmek",
+      "meaning_en": "to liquidate",
+      "meaning_uk": "ліквідувати",
+      "meaning_es": "Vender activos para obtener efectivo",
+      "example": "La empresa decidió *** sus existencias antes de cerrar."
+    },
+    {
+      "term": "rentable",
+      "type": "Adjective",
+      "meaning_tr": "kârlı",
+      "meaning_en": "profitable",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "Que produce beneficio",
+      "example": "Este negocio es muy *** a medio plazo."
+    },
+    {
+      "term": "insolvente",
+      "type": "Adjective",
+      "meaning_tr": "ödeme gücü olmayan",
+      "meaning_en": "insolvent",
+      "meaning_uk": "неплатоспроможний",
+      "meaning_es": "Que no puede pagar sus deudas",
+      "example": "La empresa se volvió *** tras perder su mayor cliente."
+    },
+    {
+      "term": "deficitario",
+      "type": "Adjective",
+      "meaning_tr": "açık veren",
+      "meaning_en": "deficitary",
+      "meaning_uk": "дефіцитний",
+      "meaning_es": "Que presenta déficit",
+      "example": "El balance actual es claramente *** este trimestre."
+    },
+    {
+      "term": "lucrativo",
+      "type": "Adjective",
+      "meaning_tr": "kazançlı",
+      "meaning_en": "lucrative",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "Que genera muchas ganancias",
+      "example": "Encontró un mercado muy *** en el sector tecnológico."
+    },
+    {
+      "term": "bursátil",
+      "type": "Adjective",
+      "meaning_tr": "borsaya ait",
+      "meaning_en": "stock market related",
+      "meaning_uk": "біржовий",
+      "meaning_es": "Relativo a la bolsa",
+      "example": "El analista predijo una caída en el índice *** principal."
+    },
+    {
+      "term": "fiscal",
+      "type": "Adjective",
+      "meaning_tr": "mali",
+      "meaning_en": "fiscal",
+      "meaning_uk": "фіскальний",
+      "meaning_es": "Relativo a la hacienda pública",
+      "example": "El año *** termina en diciembre para nuestra empresa."
+    },
+    {
+      "term": "acorde",
+      "type": "Adjective",
+      "meaning_tr": "uyumlu",
+      "meaning_en": "in accordance with",
+      "meaning_uk": "відповідний",
+      "meaning_es": "Conforme o congruente",
+      "example": "El gasto debe ser *** con los ingresos previstos."
+    },
+    {
+      "term": "mediante",
+      "type": "Preposition",
+      "meaning_tr": "aracılığıyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "A través de",
+      "example": "Logramos el acuerdo *** la mediación de un tercero."
+    },
+    {
+      "term": "tras",
+      "type": "Preposition",
+      "meaning_tr": "sonra",
+      "meaning_en": "after",
+      "meaning_uk": "після",
+      "meaning_es": "Después de",
+      "example": "*** la auditoría, la empresa mejoró su gestión."
+    },
+    {
+      "term": "precisamente",
+      "type": "Adverb",
+      "meaning_tr": "tam olarak",
+      "meaning_en": "precisely",
+      "meaning_uk": "точно",
+      "meaning_es": "Exactamente",
+      "example": "Es *** lo que necesitábamos para equilibrar las cuentas."
+    },
+    {
+      "term": "globalmente",
+      "type": "Adverb",
+      "meaning_tr": "küresel olarak",
+      "meaning_en": "globally",
+      "meaning_uk": "глобально",
+      "meaning_es": "De manera general",
+      "example": "La economía se ha visto afectada *** por esta crisis."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "A pesar de que",
+      "example": "*** los beneficios bajaron, mantenemos el optimismo."
+    },
+    {
+      "term": "puesto que",
+      "type": "Conjunction",
+      "meaning_tr": "çünkü",
+      "meaning_en": "since / given that",
+      "meaning_uk": "оскільки",
+      "meaning_es": "Dado que",
+      "example": "Invertiremos más, *** esperamos mejores resultados."
+    }
+  ]
+}

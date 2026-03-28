@@ -29,7 +29,7 @@ function readJson(filePath: string) {
 }
 
 export function listStories(subject: string, level: string) {
-  const targetSub = subject === "german" ? "de" : subject;
+  const targetSub = subject === "german" ? "de" : subject === "spanish" ? "es" : subject === "english" ? "en" : subject;
   const dirPath = path.join(process.cwd(), "src", "data", "stories", targetSub, level);
 
   if (!fs.existsSync(dirPath)) return [];
@@ -41,7 +41,7 @@ export function listStories(subject: string, level: string) {
 }
 
 export async function getStory(lang: string, subject: string, level: string, story: string) {
-  const targetSub = subject === "german" ? "de" : subject;
+  const targetSub = subject === "german" ? "de" : subject === "spanish" ? "es" : subject === "english" ? "en" : subject;
   const filePath = path.join(process.cwd(), "src", "data", "stories", targetSub, level, `${story}.json`);
 
   if (!fs.existsSync(filePath)) {

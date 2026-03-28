@@ -1,0 +1,546 @@
+{
+  "title": "Sports & Nutrition (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a sedentary lifestyle",
+      "type": "Noun",
+      "example": "Maintaining *** can lead to various cardiovascular complications.",
+      "meaning_tr": "hareketsiz bir yaşam tarzı",
+      "meaning_en": "a way of living that involves little physical activity",
+      "meaning_uk": "сидячий спосіб життя",
+      "meaning_es": "un estilo de vida sedentario"
+    },
+    {
+      "term": "to bolster",
+      "type": "Verb",
+      "example": "Athletes consume protein to *** their muscle recovery process.",
+      "meaning_tr": "desteklemek, güçlendirmek",
+      "meaning_en": "to support or strengthen",
+      "meaning_uk": "підтримувати",
+      "meaning_es": "reforzar"
+    },
+    {
+      "term": "an endurance",
+      "type": "Noun",
+      "example": "The marathon runner displayed incredible *** during the final stretch.",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "the ability to sustain a prolonged physical effort",
+      "meaning_uk": "витривалість",
+      "meaning_es": "resistencia"
+    },
+    {
+      "term": "metabolic",
+      "type": "Adjective",
+      "example": "High-intensity interval training can improve your *** rate.",
+      "meaning_tr": "metabolik",
+      "meaning_en": "relating to the chemical processes within a living organism",
+      "meaning_uk": "метаболічний",
+      "meaning_es": "metabólico"
+    },
+    {
+      "term": "to deplete",
+      "type": "Verb",
+      "example": "Intense exercise will quickly *** your glycogen stores.",
+      "meaning_tr": "tüketmek, bitirmek",
+      "meaning_en": "to use up the supply or resources of",
+      "meaning_uk": "вичерпувати",
+      "meaning_es": "agotar"
+    },
+    {
+      "term": "a nutrient density",
+      "type": "Noun",
+      "example": "Focus on foods with high *** to optimize performance.",
+      "meaning_tr": "besin yoğunluğu",
+      "meaning_en": "the amount of nutrients per calorie in a food",
+      "meaning_uk": "поживність",
+      "meaning_es": "densidad nutricional"
+    },
+    {
+      "term": "anaerobic",
+      "type": "Adjective",
+      "example": "Sprinting is primarily an *** form of exercise.",
+      "meaning_tr": "anaerobik",
+      "meaning_en": "relating to exercise that does not require oxygen",
+      "meaning_uk": "анаеробний",
+      "meaning_es": "anaeróbico"
+    },
+    {
+      "term": "to mitigate",
+      "type": "Verb",
+      "example": "Proper hydration helps to *** the risk of muscle cramps.",
+      "meaning_tr": "hafifletmek, azaltmak",
+      "meaning_en": "to make less severe, serious, or painful",
+      "meaning_uk": "пом'якшувати",
+      "meaning_es": "mitigar"
+    },
+    {
+      "term": "a hypertrophy",
+      "type": "Noun",
+      "example": "Resistance training is essential for muscle ***.",
+      "meaning_tr": "hipertrofi (kas büyümesi)",
+      "meaning_en": "the enlargement of an organ or tissue from the increase in size of its cells",
+      "meaning_uk": "гіпертрофія",
+      "meaning_es": "hipertrofia"
+    },
+    {
+      "term": "optimal",
+      "type": "Adjective",
+      "example": "Timing your meals is crucial for *** sports performance.",
+      "meaning_tr": "en uygun, ideal",
+      "meaning_en": "best or most favorable",
+      "meaning_uk": "оптимальний",
+      "meaning_es": "óptimo"
+    },
+    {
+      "term": "a recovery",
+      "type": "Noun",
+      "example": "Active *** is just as important as the workout itself.",
+      "meaning_tr": "toparlanma, iyileşme",
+      "meaning_en": "the process of returning to a normal state of health or strength",
+      "meaning_uk": "відновлення",
+      "meaning_es": "recuperación"
+    },
+    {
+      "term": "to synthesize",
+      "type": "Verb",
+      "example": "The body needs amino acids to *** new muscle protein.",
+      "meaning_tr": "sentezlemek, üretmek",
+      "meaning_en": "to produce a substance through chemical or biological processes",
+      "meaning_uk": "синтезувати",
+      "meaning_es": "sintetizar"
+    },
+    {
+      "term": "a bioavailability",
+      "type": "Noun",
+      "example": "The *** of plant-based protein is often debated.",
+      "meaning_tr": "biyoyararlanım",
+      "meaning_en": "the proportion of a nutrient that is absorbed into the circulation",
+      "meaning_uk": "біодоступність",
+      "meaning_es": "biodisponibilidad"
+    },
+    {
+      "term": "systemic",
+      "type": "Adjective",
+      "example": "Overtraining can lead to *** inflammation in the body.",
+      "meaning_tr": "sistemik",
+      "meaning_en": "relating to the whole body",
+      "meaning_uk": "системний",
+      "meaning_es": "sistémico"
+    },
+    {
+      "term": "a supplementation",
+      "type": "Noun",
+      "example": "Dietary *** should not replace a balanced meal plan.",
+      "meaning_tr": "takviye kullanımı",
+      "meaning_en": "the act of adding something to complete or enhance something else",
+      "meaning_uk": "добавки",
+      "meaning_es": "suplementación"
+    },
+    {
+      "term": "to exert",
+      "type": "Verb",
+      "example": "Athletes *** maximum effort during competitive events.",
+      "meaning_tr": "sarf etmek, uygulamak",
+      "meaning_en": "to apply or bring to bear a force or influence",
+      "meaning_uk": "докладати",
+      "meaning_es": "ejercer"
+    },
+    {
+      "term": "a caloric surplus",
+      "type": "Noun",
+      "example": "To gain weight, you must maintain a consistent ***.",
+      "meaning_tr": "kalori fazlası",
+      "meaning_en": "consuming more calories than are burned",
+      "meaning_uk": "профіцит калорій",
+      "meaning_es": "superávit calórico"
+    },
+    {
+      "term": "a micronutrient",
+      "type": "Noun",
+      "example": "Don't overlook the importance of every essential ***.",
+      "meaning_tr": "mikro besin",
+      "meaning_en": "a chemical element or substance required in trace amounts",
+      "meaning_uk": "мікроелемент",
+      "meaning_es": "micronutriente"
+    },
+    {
+      "term": "vigorous",
+      "type": "Adjective",
+      "example": "She maintains her fitness through *** daily exercise.",
+      "meaning_tr": "dinç, şiddetli",
+      "meaning_en": "characterized by forceful and energetic action",
+      "meaning_uk": "енергійний",
+      "meaning_es": "vigoroso"
+    },
+    {
+      "term": "an insulin sensitivity",
+      "type": "Noun",
+      "example": "Regular exercise significantly improves your ***.",
+      "meaning_tr": "insülin duyarlılığı",
+      "meaning_en": "how responsive the body's cells are to insulin",
+      "meaning_uk": "чутливість до інсуліну",
+      "meaning_es": "sensibilidad a la insulina"
+    },
+    {
+      "term": "to attenuate",
+      "type": "Verb",
+      "example": "Certain antioxidants may *** muscle damage after training.",
+      "meaning_tr": "azaltmak, hafifletmek",
+      "meaning_en": "to reduce the force, effect, or value of",
+      "meaning_uk": "послаблювати",
+      "meaning_es": "atenuar"
+    },
+    {
+      "term": "an electrolyte",
+      "type": "Noun",
+      "example": "Drinking water alone isn't enough; you need to replace every lost ***.",
+      "meaning_tr": "elektrolit",
+      "meaning_en": "a substance that dissociates into ions in solution",
+      "meaning_uk": "електроліт",
+      "meaning_es": "electrolito"
+    },
+    {
+      "term": "concomitantly",
+      "type": "Adverb",
+      "example": "The athlete focused on strength training and *** improved his diet.",
+      "meaning_tr": "aynı zamanda, eş zamanlı olarak",
+      "meaning_en": "naturally accompanying or associated",
+      "meaning_uk": "одночасно",
+      "meaning_es": "concomitantemente"
+    },
+    {
+      "term": "a body composition",
+      "type": "Noun",
+      "example": "Monitoring your *** is more accurate than just checking weight.",
+      "meaning_tr": "vücut kompozisyonu",
+      "meaning_en": "the percentage of fat, bone, and muscle in human bodies",
+      "meaning_uk": "склад тіла",
+      "meaning_es": "composición corporal"
+    },
+    {
+      "term": "to plateau",
+      "type": "Verb",
+      "example": "It is common for progress to *** after several months of training.",
+      "meaning_tr": "durağanlaşmak, sabitlenmek",
+      "meaning_en": "to reach a state of little or no change",
+      "meaning_uk": "зупинитися в розвитку",
+      "meaning_es": "estancarse"
+    },
+    {
+      "term": "a cardiovascular",
+      "type": "Noun",
+      "example": "Include some *** in your routine to improve heart health.",
+      "meaning_tr": "kardiyovasküler (egzersiz)",
+      "meaning_en": "exercise that strengthens the heart and lungs",
+      "meaning_uk": "кардіо",
+      "meaning_es": "cardiovascular"
+    },
+    {
+      "term": "a physiological",
+      "type": "Noun",
+      "example": "The *** demands of the game are extremely high.",
+      "meaning_tr": "fizyolojik (talep/ihtiyaç)",
+      "meaning_en": "relating to the branch of biology that deals with normal functions",
+      "meaning_uk": "фізіологічний",
+      "meaning_es": "fisiológico"
+    },
+    {
+      "term": "to metabolize",
+      "type": "Verb",
+      "example": "The body must *** carbohydrates into glucose for energy.",
+      "meaning_tr": "metabolize etmek",
+      "meaning_en": "to process substances through metabolism",
+      "meaning_uk": "метаболізувати",
+      "meaning_es": "metabolizar"
+    },
+    {
+      "term": "an ergogenic aid",
+      "type": "Noun",
+      "example": "Caffeine is a widely used *** in sports.",
+      "meaning_tr": "performans artırıcı destek",
+      "meaning_en": "any substance or phenomenon that improves performance",
+      "meaning_uk": "ергогенний засіб",
+      "meaning_es": "ayuda ergogénica"
+    },
+    {
+      "term": "a macronutrient",
+      "type": "Noun",
+      "example": "A balanced diet requires a proper ratio of each ***.",
+      "meaning_tr": "makro besin",
+      "meaning_en": "a substance required in relatively large amounts",
+      "meaning_uk": "макронутрієнт",
+      "meaning_es": "macronutriente"
+    },
+    {
+      "term": "meticulously",
+      "type": "Adverb",
+      "example": "She *** tracks every gram of protein she consumes.",
+      "meaning_tr": "titizlikle",
+      "meaning_en": "in a way that shows great attention to detail",
+      "meaning_uk": "ретельно",
+      "meaning_es": "meticulosamente"
+    },
+    {
+      "term": "an aerobic capacity",
+      "type": "Noun",
+      "example": "Swimming is excellent for increasing your ***.",
+      "meaning_tr": "aerobik kapasite",
+      "meaning_en": "the maximum amount of oxygen the body can use",
+      "meaning_uk": "аеробна ємність",
+      "meaning_es": "capacidad aeróbica"
+    },
+    {
+      "term": "to impair",
+      "type": "Verb",
+      "example": "Dehydration will *** your cognitive and physical function.",
+      "meaning_tr": "bozmak, zarar vermek",
+      "meaning_en": "to weaken or damage something",
+      "meaning_uk": "погіршувати",
+      "meaning_es": "perjudicar"
+    },
+    {
+      "term": "a glycemic index",
+      "type": "Noun",
+      "example": "Foods with a low *** provide sustained energy.",
+      "meaning_tr": "glisemik indeks",
+      "meaning_en": "a system that ranks foods based on their effect on blood sugar",
+      "meaning_uk": "глікемічний індекс",
+      "meaning_es": "índice glucémico"
+    },
+    {
+      "term": "profound",
+      "type": "Adjective",
+      "example": "There has been a *** change in how athletes approach nutrition.",
+      "meaning_tr": "derin, köklü",
+      "meaning_en": "very great or intense",
+      "meaning_uk": "глибокий",
+      "meaning_es": "profundo"
+    },
+    {
+      "term": "to sustain",
+      "type": "Verb",
+      "example": "Complex carbohydrates help to *** energy levels during the race.",
+      "meaning_tr": "sürdürmek, korumak",
+      "meaning_en": "to cause to continue for an extended period",
+      "meaning_uk": "підтримувати",
+      "meaning_es": "sostener"
+    },
+    {
+      "term": "a lean mass",
+      "type": "Noun",
+      "example": "Strength training helps to preserve *** while dieting.",
+      "meaning_tr": "yağsız kütle",
+      "meaning_en": "total weight of the body minus all the weight due to fat",
+      "meaning_uk": "м'язова маса",
+      "meaning_es": "masa magra"
+    },
+    {
+      "term": "an inflammatory response",
+      "type": "Noun",
+      "example": "Rest is necessary to manage the body's natural ***.",
+      "meaning_tr": "enflamatuar yanıt",
+      "meaning_en": "the reaction of the body to injury or irritation",
+      "meaning_uk": "запальна реакція",
+      "meaning_es": "respuesta inflamatoria"
+    },
+    {
+      "term": "subsequently",
+      "type": "Adverb",
+      "example": "He trained hard and *** won the championship.",
+      "meaning_tr": "sonrasında, müteakiben",
+      "meaning_en": "after a particular thing has happened",
+      "meaning_uk": "згодом",
+      "meaning_es": "subsecuentemente"
+    },
+    {
+      "term": "a thermic effect",
+      "type": "Noun",
+      "example": "Protein has a higher *** than fats or carbohydrates.",
+      "meaning_tr": "termik etki",
+      "meaning_en": "the energy expenditure required to digest food",
+      "meaning_uk": "термічний ефект",
+      "meaning_es": "efecto térmico"
+    },
+    {
+      "term": "to inhibit",
+      "type": "Verb",
+      "example": "Certain compounds might *** the absorption of iron.",
+      "meaning_tr": "engellemek, kısıtlamak",
+      "meaning_en": "to hinder, restrain, or prevent an action",
+      "meaning_uk": "гальмувати",
+      "meaning_es": "inhibir"
+    },
+    {
+      "term": "a periodization",
+      "type": "Noun",
+      "example": "The coach used *** to ensure peak performance at the games.",
+      "meaning_tr": "periodizasyon",
+      "meaning_en": "the systematic planning of athletic training",
+      "meaning_uk": "періодизація",
+      "meaning_es": "periodización"
+    },
+    {
+      "term": "an essential amino acid",
+      "type": "Noun",
+      "example": "You must obtain every *** through your diet.",
+      "meaning_tr": "esansiyel amino asit",
+      "meaning_en": "amino acids that the body cannot synthesize on its own",
+      "meaning_uk": "незамінна амінокислота",
+      "meaning_es": "aminoácido esencial"
+    },
+    {
+      "term": "suboptimal",
+      "type": "Adjective",
+      "example": "Training without enough sleep leads to *** results.",
+      "meaning_tr": "ideal altı, yetersiz",
+      "meaning_en": "of less than the highest standard or quality",
+      "meaning_uk": "недостатньо оптимальний",
+      "meaning_es": "subóptimo"
+    },
+    {
+      "term": "to replenish",
+      "type": "Verb",
+      "example": "It is vital to *** fluids after a long workout.",
+      "meaning_tr": "yenilemek, doldurmak",
+      "meaning_en": "to fill something up again",
+      "meaning_uk": "поповнювати",
+      "meaning_es": "reponer"
+    },
+    {
+      "term": "an oxidative stress",
+      "type": "Noun",
+      "example": "High levels of *** can damage cellular structures.",
+      "meaning_tr": "oksidatif stres",
+      "meaning_en": "imbalance between free radicals and antioxidants",
+      "meaning_uk": "окислювальний стрес",
+      "meaning_es": "estrés oxidativo"
+    },
+    {
+      "term": "to facilitate",
+      "type": "Verb",
+      "example": "Carbohydrates *** the transport of protein into muscles.",
+      "meaning_tr": "kolaylaştırmak",
+      "meaning_en": "to make an action or process easy or easier",
+      "meaning_uk": "сприяти",
+      "meaning_es": "facilitar"
+    },
+    {
+      "term": "a satiety",
+      "type": "Noun",
+      "example": "High-fiber foods increase *** and help with weight control.",
+      "meaning_tr": "tokluk hissi",
+      "meaning_en": "the feeling of being full",
+      "meaning_uk": "ситість",
+      "meaning_es": "saciedad"
+    },
+    {
+      "term": "a neuromuscular",
+      "type": "Noun",
+      "example": "Plyometrics improve your *** coordination.",
+      "meaning_tr": "nöromüsküler (koordinasyon)",
+      "meaning_en": "relating to nerves and muscles",
+      "meaning_uk": "нейром'язовий",
+      "meaning_es": "neuromuscular"
+    },
+    {
+      "term": "notably",
+      "type": "Adverb",
+      "example": "Several athletes, *** the gold medalist, praised the new diet.",
+      "meaning_tr": "özellikle, bilhassa",
+      "meaning_en": "in particular or especially",
+      "meaning_uk": "зокрема",
+      "meaning_es": "notablemente"
+    },
+    {
+      "term": "a glycogen",
+      "type": "Noun",
+      "example": "Muscles store *** as a primary fuel source.",
+      "meaning_tr": "glikojen",
+      "meaning_en": "a substance deposited in bodily tissues as a store of carbohydrates",
+      "meaning_uk": "глікоген",
+      "meaning_es": "glucógeno"
+    },
+    {
+      "term": "to exacerbate",
+      "type": "Verb",
+      "example": "Continuing to train while injured will only *** the problem.",
+      "meaning_tr": "kötüleştirmek, şiddetlendirmek",
+      "meaning_en": "to make a problem or bad situation worse",
+      "meaning_uk": "погіршувати",
+      "meaning_es": "exacerbar"
+    },
+    {
+      "term": "an ergogenic",
+      "type": "Noun",
+      "example": "He is researching the effects of every potential ***.",
+      "meaning_tr": "performans artırıcı",
+      "meaning_en": "a substance that enhances physical performance",
+      "meaning_uk": "ергогенний засіб",
+      "meaning_es": "ergogénico"
+    },
+    {
+      "term": "an intensity",
+      "type": "Noun",
+      "example": "You should vary the *** of your sessions throughout the week.",
+      "meaning_tr": "yoğunluk, şiddet",
+      "meaning_en": "the quality of being intense or forceful",
+      "meaning_uk": "інтенсивність",
+      "meaning_es": "intensidad"
+    },
+    {
+      "term": "to synthesize",
+      "type": "Verb",
+      "example": "The body needs specific nutrients to *** hormones.",
+      "meaning_tr": "sentezlemek",
+      "meaning_en": "to build up or produce",
+      "meaning_uk": "синтезувати",
+      "meaning_es": "sintetizar"
+    },
+    {
+      "term": "a caloric intake",
+      "type": "Noun",
+      "example": "You must adjust your daily *** based on your goals.",
+      "meaning_tr": "kalori alımı",
+      "meaning_en": "the total number of calories consumed",
+      "meaning_uk": "споживання калорій",
+      "meaning_es": "ingesta calórica"
+    },
+    {
+      "term": "to fluctuate",
+      "type": "Verb",
+      "example": "Weight can *** daily due to water retention.",
+      "meaning_tr": "dalgalanmak, değişmek",
+      "meaning_en": "to rise and fall irregularly",
+      "meaning_uk": "коливатися",
+      "meaning_es": "fluctuar"
+    },
+    {
+      "term": "an acute",
+      "type": "Noun",
+      "example": "The athlete suffered an *** injury during practice.",
+      "meaning_tr": "akut (aniden gelişen)",
+      "meaning_en": "severe and sudden in onset",
+      "meaning_uk": "гострий",
+      "meaning_es": "agudo"
+    },
+    {
+      "term": "a muscle fiber",
+      "type": "Noun",
+      "example": "Training stimulates the growth of every ***.",
+      "meaning_tr": "kas lifi",
+      "meaning_en": "a single muscle cell",
+      "meaning_uk": "м'язове волокно",
+      "meaning_es": "fibra muscular"
+    },
+    {
+      "term": "consequently",
+      "type": "Adverb",
+      "example": "He ignored his recovery; ***, his performance suffered.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "as a result",
+      "meaning_uk": "отже",
+      "meaning_es": "consecuentemente"
+    }
+  ]
+}

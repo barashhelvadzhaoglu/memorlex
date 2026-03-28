@@ -1,1549 +1,546 @@
-[
-  {
-    "term": "die Achterbahn",
-    "meaning_tr": "hızlı tren",
-    "meaning_en": "roller coaster",
-    "meaning_uk": "американські гірки",
-    "meaning_es": "montaña rusa"
-  },
-  {
-    "term": "das Angeln",
-    "meaning_tr": "balık tutma",
-    "meaning_en": "fishing",
-    "meaning_uk": "риболовля",
-    "meaning_es": "pesca"
-  },
-  {
-    "term": "die Ausrüstung",
-    "meaning_tr": "ekipman, donanım",
-    "meaning_en": "equipment, gear",
-    "meaning_uk": "спорядження, обладнання",
-    "meaning_es": "equipo, equipamiento"
-  },
-  {
-    "term": "das Ballett",
-    "meaning_tr": "bale",
-    "meaning_en": "ballet",
-    "meaning_uk": "балет",
-    "meaning_es": "ballet"
-  },
-  {
-    "term": "die Band",
-    "meaning_tr": "müzik grubu",
-    "meaning_en": "band",
-    "meaning_uk": "музичний гурт",
-    "meaning_es": "banda"
-  },
-  {
-    "term": "der Bergsteiger",
-    "meaning_tr": "dağcı",
-    "meaning_en": "mountaineer",
-    "meaning_uk": "альпініст",
-    "meaning_es": "montañista"
-  },
-  {
-    "term": "das Bergsteigen",
-    "meaning_tr": "dağcılık",
-    "meaning_en": "mountaineering",
-    "meaning_uk": "альпінізм",
-    "meaning_es": "alpinismo"
-  },
-  {
-    "term": "der Bierschaps",
-    "meaning_tr": "bir kadeh (şaka yollu)",
-    "meaning_en": "a beer (jokingly)",
-    "meaning_uk": "пиво (жартома)",
-    "meaning_es": "una cerveza (en broma)"
-  },
-  {
-    "term": "der Briefmarken-Sammler",
-    "meaning_tr": "pul koleksiyoncusu",
-    "meaning_en": "stamp collector",
-    "meaning_uk": "колекціонер марок",
-    "meaning_es": "coleccionista de sellos"
-  },
-  {
-    "term": "das Briefmarken-Sammeln",
-    "meaning_tr": "pul koleksiyonculuğu",
-    "meaning_en": "stamp collecting",
-    "meaning_uk": "колекціонування марок",
-    "meaning_es": "coleccionismo de sellos"
-  },
-  {
-    "term": "die Brücke",
-    "meaning_tr": "köprü (oyun)",
-    "meaning_en": "bridge (card game)",
-    "meaning_uk": "бридж (гра)",
-    "meaning_es": "bridge (juego de cartas)"
-  },
-  {
-    "term": "das Camping",
-    "meaning_tr": "kampçılık",
-    "meaning_en": "camping",
-    "meaning_uk": "кемпінг",
-    "meaning_es": "acampada"
-  },
-  {
-    "term": "die CD",
-    "meaning_tr": "CD",
-    "meaning_en": "CD",
-    "meaning_uk": "CD",
-    "meaning_es": "CD"
-  },
-  {
-    "term": "der Chauffeur",
-    "meaning_tr": "şoför (özel)",
-    "meaning_en": "chauffeur",
-    "meaning_uk": "шофер (особистий)",
-    "meaning_es": "chófer"
-  },
-  {
-    "term": "der Chor",
-    "meaning_tr": "koro",
-    "meaning_en": "choir",
-    "meaning_uk": "хор",
-    "meaning_es": "coro"
-  },
-  {
-    "term": "das Chordirigieren",
-    "meaning_tr": "koro şefliği",
-    "meaning_en": "choir conducting",
-    "meaning_uk": "диригування хором",
-    "meaning_es": "dirección de coro"
-  },
-  {
-    "term": "die Comic-Hefte",
-    "meaning_tr": "çizgi romanlar",
-    "meaning_en": "comic books",
-    "meaning_uk": "комікси",
-    "meaning_es": "cómics"
-  },
-  {
-    "term": "der Computer-Spiele-Fan",
-    "meaning_tr": "bilgisayar oyunu fanatiği",
-    "meaning_en": "computer game enthusiast",
-    "meaning_uk": "ентузіаст комп'ютерних ігор",
-    "meaning_es": "entusiasta de videojuegos"
-  },
-  {
-    "term": "das Dachzelt",
-    "meaning_tr": "çatı çadırı",
-    "meaning_en": "roof tent",
-    "meaning_uk": "намет на дах",
-    "meaning_es": "tienda de techo"
-  },
-  {
-    "term": "der Debattierclub",
-    "meaning_tr": "tartışma kulübü",
-    "meaning_en": "debate club",
-    "meaning_uk": "дебатний клуб",
-    "meaning_es": "club de debate"
-  },
-  {
-    "term": "das DIY-Projekt",
-    "meaning_tr": "kendin yap projesi",
-    "meaning_en": "DIY project",
-    "meaning_uk": "проєкт своїми руками",
-    "meaning_es": "proyecto de bricolaje"
-  },
-  {
-    "term": "die Dreharbeiten",
-    "meaning_tr": "çekimler (film/video)",
-    "meaning_en": "filming",
-    "meaning_uk": "зйомки (фільму/відео)",
-    "meaning_es": "rodaje"
-  },
-  {
-    "term": "das Ehrenamt",
-    "meaning_tr": "gönüllülük, fahri görev",
-    "meaning_en": "voluntary work, honorary office",
-    "meaning_uk": "волонтерство, почесна посада",
-    "meaning_es": "trabajo voluntario, cargo honorífico"
-  },
-  {
-    "term": "die Eisenbahn-Modellbau",
-    "meaning_tr": "model tren yapımı",
-    "meaning_en": "model railway construction",
-    "meaning_uk": "виготовлення моделей залізниць",
-    "meaning_es": "modelismo ferroviario"
-  },
-  {
-    "term": "das Elektronik-Basteln",
-    "meaning_tr": "elektronik el işi",
-    "meaning_en": "electronics crafting",
-    "meaning_uk": "виготовлення електроніки",
-    "meaning_es": "artesanía electrónica"
-  },
-  {
-    "term": "die Enkelbetreuung",
-    "meaning_tr": "torun bakımı",
-    "meaning_en": "childcare for grandchildren",
-    "meaning_uk": "догляд за онуками",
-    "meaning_es": "cuidado de nietos"
-  },
-  {
-    "term": "das Erzählen",
-    "meaning_tr": "anlatma, hikaye anlatma",
-    "meaning_en": "storytelling",
-    "meaning_uk": "розповідання історій",
-    "meaning_es": "contar historias"
-  },
-  {
-    "term": "der Escape Room",
-    "meaning_tr": "kaçış odası",
-    "meaning_en": "escape room",
-    "meaning_uk": "квест-кімната",
-    "meaning_es": "sala de escape"
-  },
-  {
-    "term": "das Festival",
-    "meaning_tr": "festival",
-    "meaning_en": "festival",
-    "meaning_uk": "фестиваль",
-    "meaning_es": "festival"
-  },
-  {
-    "term": "die Filmproduktion",
-    "meaning_tr": "film yapımı",
-    "meaning_en": "film production",
-    "meaning_uk": "кіновиробництво",
-    "meaning_es": "producción cinematográfica"
-  },
-  {
-    "term": "der Film-Enthusiast",
-    "meaning_tr": "film meraklısı",
-    "meaning_en": "film enthusiast",
-    "meaning_uk": "любитель кіно",
-    "meaning_es": "entusiasta del cine"
-  },
-  {
-    "term": "die Floßfahrt",
-    "meaning_tr": "sal gezisi",
-    "meaning_en": "rafting trip",
-    "meaning_uk": "сплав на плоту",
-    "meaning_es": "paseo en balsa"
-  },
-  {
-    "term": "der Fohlenhof",
-    "meaning_tr": "tay çiftliği",
-    "meaning_en": "foal farm",
-    "meaning_uk": "ферма з лошатами",
-    "meaning_es": "granja de potros"
-  },
-  {
-    "term": "das Fotografie-Hobby",
-    "meaning_tr": "fotoğrafçılık hobisi",
-    "meaning_en": "photography hobby",
-    "meaning_uk": "хобі фотографія",
-    "meaning_es": "hobby de fotografía"
-  },
-  {
-    "term": "die Geocaching-App",
-    "meaning_tr": "geocaching uygulaması",
-    "meaning_en": "geocaching app",
-    "meaning_uk": "додаток для геокешингу",
-    "meaning_es": "aplicación de geocaching"
-  },
-  {
-    "term": "das Geschicklichkeitsspiel",
-    "meaning_tr": "beceri oyunu",
-    "meaning_en": "skill game",
-    "meaning_uk": "гра на вправність",
-    "meaning_es": "juego de habilidad"
-  },
-  {
-    "term": "die Glaskunst",
-    "meaning_tr": "cam sanatı",
-    "meaning_en": "glass art",
-    "meaning_uk": "скляне мистецтво",
-    "meaning_es": "arte del vidrio"
-  },
-  {
-    "term": "das Golfen",
-    "meaning_tr": "golf oynamak",
-    "meaning_en": "playing golf",
-    "meaning_uk": "грати в гольф",
-    "meaning_es": "jugar al golf"
-  },
-  {
-    "term": "der Haustier-Fan",
-    "meaning_tr": "evcil hayvan meraklısı",
-    "meaning_en": "pet enthusiast",
-    "meaning_uk": "любитель домашніх тварин",
-    "meaning_es": "entusiasta de mascotas"
-  },
-  {
-    "term": "das Herumhängen",
-    "meaning_tr": "takılmak, boş zaman geçirmek",
-    "meaning_en": "hanging out, chilling",
-    "meaning_uk": "байдикувати, проводити час",
-    "meaning_es": "pasar el rato, relajarse"
-  },
-  {
-    "term": "der Improvisationstheater",
-    "meaning_tr": "doğaçlama tiyatro",
-    "meaning_en": "improv theater",
-    "meaning_uk": "імпровізаційний театр",
-    "meaning_es": "teatro de improvisación"
-  },
-  {
-    "term": "die Jugendherberge",
-    "meaning_tr": "gençlik yurdu",
-    "meaning_en": "youth hostel",
-    "meaning_uk": "молодіжний хостел",
-    "meaning_es": "albergue juvenil"
-  },
-  {
-    "term": "das Karaoke-Singen",
-    "meaning_tr": "karaoke söyleme",
-    "meaning_en": "karaoke singing",
-    "meaning_uk": "співу караоке",
-    "meaning_es": "cantar karaoke"
-  },
-  {
-    "term": "die Kletterwand",
-    "meaning_tr": "tırmanma duvarı",
-    "meaning_en": "climbing wall",
-    "meaning_uk": "скелелазна стінка",
-    "meaning_es": "muro de escalada"
-  },
-  {
-    "term": "das Konzert",
-    "meaning_tr": "konser",
-    "meaning_en": "concert",
-    "meaning_uk": "концерт",
-    "meaning_es": "concierto"
-  },
-  {
-    "term": "der Kochkurs",
-    "meaning_tr": "aşçılık kursu",
-    "meaning_en": "cooking class",
-    "meaning_uk": "кулінарний курс",
-    "meaning_es": "clase de cocina"
-  },
-  {
-    "term": "das Komponieren",
-    "meaning_tr": "bestecilik",
-    "meaning_en": "composing",
-    "meaning_uk": "композиторство",
-    "meaning_es": "composición"
-  },
-  {
-    "term": "der Kostüm-Bauer",
-    "meaning_tr": "kostüm yapımcısı",
-    "meaning_en": "costume designer/maker",
-    "meaning_uk": "художник-костюмер",
-    "meaning_es": "diseñador/fabricante de vestuario"
-  },
-  {
-    "term": "die Kreuzfahrt",
-    "meaning_tr": "kruvaziyer gezisi",
-    "meaning_en": "cruise",
-    "meaning_uk": "круїз",
-    "meaning_es": "crucero"
-  },
-  {
-    "term": "die Liebesromane",
-    "meaning_tr": "aşk romanları",
-    "meaning_en": "romance novels",
-    "meaning_uk": "любовні романи",
-    "meaning_es": "novelas románticas"
-  },
-  {
-    "term": "der Marathonlauf",
-    "meaning_tr": "maraton koşusu",
-    "meaning_en": "marathon running",
-    "meaning_uk": "марафонський біг",
-    "meaning_es": "maratón"
-  },
-  {
-    "term": "das Mittelalter-Markt",
-    "meaning_tr": "orta çağ pazarı",
-    "meaning_en": "medieval market",
-    "meaning_uk": "середньовічний ярмарок",
-    "meaning_es": "mercado medieval"
-  },
-  {
-    "term": "der Modellflieger",
-    "meaning_tr": "model uçak pilotu",
-    "meaning_en": "model airplane pilot",
-    "meaning_uk": "пілот моделі літака",
-    "meaning_es": "piloto de aeromodelismo"
-  },
-  {
-    "term": "das Modellauto",
-    "meaning_tr": "model araba",
-    "meaning_en": "model car",
-    "meaning_uk": "модель автомобіля",
-    "meaning_es": "coche a escala"
-  },
-  {
-    "term": "die Modenschau",
-    "meaning_tr": "defile",
-    "meaning_en": "fashion show",
-    "meaning_uk": "модний показ",
-    "meaning_es": "desfile de moda"
-  },
-  {
-    "term": "das Mosaiklegen",
-    "meaning_tr": "mozaik yapımı",
-    "meaning_en": "mosaics",
-    "meaning_uk": "викладання мозаїки",
-    "meaning_es": "mosaicos"
-  },
-  {
-    "term": "die Nachtwanderung",
-    "meaning_tr": "gece yürüyüşü",
-    "meaning_en": "night hike",
-    "meaning_uk": "нічний похід",
-    "meaning_es": "caminata nocturna"
-  },
-  {
-    "term": "das Nachhilfe-Geben",
-    "meaning_tr": "özel ders vermek",
-    "meaning_en": "tutoring",
-    "meaning_uk": "репетиторство",
-    "meaning_es": "dar clases particulares"
-  },
-  {
-    "term": "das Nadelkissen",
-    "meaning_tr": "iğnelik",
-    "meaning_en": "pin cushion",
-    "meaning_uk": "гольниця",
-    "meaning_es": "alfiletero"
-  },
-  {
-    "term": "das Nähprojekt",
-    "meaning_tr": "dikiş projesi",
-    "meaning_en": "sewing project",
-    "meaning_uk": "швейний проєкт",
-    "meaning_es": "proyecto de costura"
-  },
-  {
-    "term": "der Orchesterdirigent",
-    "meaning_tr": "orkestra şefi",
-    "meaning_en": "orchestra conductor",
-    "meaning_uk": "диригент оркестру",
-    "meaning_es": "director de orquesta"
-  },
-  {
-    "term": "das Origami",
-    "meaning_tr": "origami",
-    "meaning_en": "origami",
-    "meaning_uk": "оригамі",
-    "meaning_es": "origami"
-  },
-  {
-    "term": "die Panflöte",
-    "meaning_tr": "pan flütü",
-    "meaning_en": "pan flute",
-    "meaning_uk": "пан-флейта",
-    "meaning_es": "flauta de pan"
-  },
-  {
-    "term": "das Parken",
-    "meaning_tr": "park etme (araba)",
-    "meaning_en": "parking (cars)",
-    "meaning_uk": "паркування (автомобілів)",
-    "meaning_es": "aparcamiento (de coches)"
-  },
-  {
-    "term": "die Pferderennbahn",
-    "meaning_tr": "at yarışı pisti",
-    "meaning_en": "racetrack",
-    "meaning_uk": "іподром",
-    "meaning_es": "hipódromo"
-  },
-  {
-    "term": "das Pfeifen",
-    "meaning_tr": "ıslık çalma",
-    "meaning_en": "whistling",
-    "meaning_uk": "свист",
-    "meaning_es": "silbar"
-  },
-  {
-    "term": "der Pilzsammler",
-    "meaning_tr": "mantar toplayıcı",
-    "meaning_en": "mushroom picker",
-    "meaning_uk": "грибник",
-    "meaning_es": "recolector de setas"
-  },
-  {
-    "term": "das Pilzesammeln",
-    "meaning_tr": "mantar toplama",
-    "meaning_en": "mushroom picking",
-    "meaning_uk": "збирання грибів",
-    "meaning_es": "recolección de setas"
-  },
-  {
-    "term": "das Planen",
-    "meaning_tr": "planlama",
-    "meaning_en": "planning",
-    "meaning_uk": "планування",
-    "meaning_es": "planificar"
-  },
-  {
-    "term": "das Podcast-Hören",
-    "meaning_tr": "podcast dinleme",
-    "meaning_en": "listening to podcasts",
-    "meaning_uk": "слухання подкастів",
-    "meaning_es": "escuchar podcasts"
-  },
-  {
-    "term": "die Poker-Runde",
-    "meaning_tr": "poker oyunu",
-    "meaning_en": "poker game",
-    "meaning_uk": "гра в покер",
-    "meaning_es": "partida de póker"
-  },
-  {
-    "term": "das Ponyreiten",
-    "meaning_tr": "poni gezintisi",
-    "meaning_en": "pony riding",
-    "meaning_uk": "катання на поні",
-    "meaning_es": "paseo en poni"
-  },
-  {
-    "term": "die Popcorn-Herstellung",
-    "meaning_tr": "patlamış mısır yapımı",
-    "meaning_en": "popcorn making",
-    "meaning_uk": "приготування попкорну",
-    "meaning_es": "preparación de palomitas de maíz"
-  },
-  {
-    "term": "der Postkarten-Sammler",
-    "meaning_tr": "kartpostal koleksiyoncusu",
-    "meaning_en": "postcard collector",
-    "meaning_uk": "колекціонер листівок",
-    "meaning_es": "coleccionista de postales"
-  },
-  {
-    "term": "das Postkarten-Sammeln",
-    "meaning_tr": "kartpostal koleksiyonculuğu",
-    "meaning_en": "postcard collecting",
-    "meaning_uk": "колекціонування листівок",
-    "meaning_es": "coleccionismo de postales"
-  },
-  {
-    "term": "der Puppenspieler",
-    "meaning_tr": "kukla sanatçısı",
-    "meaning_en": "puppeteer",
-    "meaning_uk": "лялькар",
-    "meaning_es": "titiritero"
-  },
-  {
-    "term": "die Puppenspielkunst",
-    "meaning_tr": "kukla sanatı",
-    "meaning_en": "puppetry",
-    "meaning_uk": "лялькове мистецтво",
-    "meaning_es": "teatro de títeres"
-  },
-  {
-    "term": "der Puzzle-Fan",
-    "meaning_tr": "yapboz fanatiği",
-    "meaning_en": "puzzle enthusiast",
-    "meaning_uk": "ентузіаст пазлів",
-    "meaning_es": "entusiasta de rompecabezas"
-  },
-  {
-    "term": "das Radfahren",
-    "meaning_tr": "bisiklete binme",
-    "meaning_en": "cycling",
-    "meaning_uk": "велоспорт",
-    "meaning_es": "ciclismo"
-  },
-  {
-    "term": "die Radierung",
-    "meaning_tr": "aşındırma (sanat)",
-    "meaning_en": "etching (art)",
-    "meaning_uk": "офорт (мистецтво)",
-    "meaning_es": "grabado al aguafuerte"
-  },
-  {
-    "term": "das Rallye-Fahren",
-    "meaning_tr": "ralli sürüşü",
-    "meaning_en": "rally driving",
-    "meaning_uk": "ралійне водіння",
-    "meaning_es": "conducir en rally"
-  },
-  {
-    "term": "das Raphael-Studium",
-    "meaning_tr": "Raphael'i inceleme",
-    "meaning_en": "studying Raphael",
-    "meaning_uk": "вивчення Рафаеля",
-    "meaning_es": "estudiar a Rafael"
-  },
-  {
-    "term": "die Ratespiele",
-    "meaning_tr": "bilmece oyunları",
-    "meaning_en": "guessing games",
-    "meaning_uk": "ігри на вгадування",
-    "meaning_es": "juegos de adivinanzas"
-  },
-  {
-    "term": "das Reiten",
-    "meaning_tr": "binicilik",
-    "meaning_en": "horse riding",
-    "meaning_uk": "верхова їзда",
-    "meaning_es": "equitación"
-  },
-  {
-    "term": "der Reptilien-Experte",
-    "meaning_tr": "sürüngenler uzmanı",
-    "meaning_en": "reptile expert",
-    "meaning_uk": "експерт з рептилій",
-    "meaning_es": "experto en reptiles"
-  },
-  {
-    "term": "das Reisebericht-Schreiben",
-    "meaning_tr": "seyahat raporu yazma",
-    "meaning_en": "writing travel reports",
-    "meaning_uk": "написання звітів про подорожі",
-    "meaning_es": "escribir relatos de viajes"
-  },
-  {
-    "term": "der Restaurator",
-    "meaning_tr": "restoratör",
-    "meaning_en": "restorer",
-    "meaning_uk": "реставратор",
-    "meaning_es": "restaurador"
-  },
-  {
-    "term": "das Restaurieren",
-    "meaning_tr": "restorasyon yapmak",
-    "meaning_en": "restoring",
-    "meaning_uk": "реставрувати",
-    "meaning_es": "restaurar"
-  },
-  {
-    "term": "die Richterskala",
-    "meaning_tr": "Richter ölçeği (ilgi)",
-    "meaning_en": "Richter scale (interest)",
-    "meaning_uk": "шкала Ріхтера (інтерес)",
-    "meaning_es": "escala Richter (interés)"
-  },
-  {
-    "term": "das Ritual",
-    "meaning_tr": "ritüel",
-    "meaning_en": "ritual",
-    "meaning_uk": "ритуал",
-    "meaning_es": "ritual"
-  },
-  {
-    "term": "das Rockklettern",
-    "meaning_tr": "kaya tırmanışı",
-    "meaning_en": "rock climbing",
-    "meaning_uk": "скелелазіння",
-    "meaning_es": "escalada en roca"
-  },
-  {
-    "term": "die Rollenspiele",
-    "meaning_tr": "rol yapma oyunları",
-    "meaning_en": "role-playing games",
-    "meaning_uk": "рольові ігри",
-    "meaning_es": "juegos de rol"
-  },
-  {
-    "term": "das Rondell",
-    "meaning_tr": "yuvarlak masa",
-    "meaning_en": "round table (discussion)",
-    "meaning_uk": "круглий стіл (обговорення)",
-    "meaning_es": "mesa redonda (debate)"
-  },
-  {
-    "term": "der Rosengarten",
-    "meaning_tr": "gül bahçesi",
-    "meaning_en": "rose garden",
-    "meaning_uk": "трояндовий сад",
-    "meaning_es": "rosaleda"
-  },
-  {
-    "term": "das Rudern",
-    "meaning_tr": "kürek çekme",
-    "meaning_en": "rowing",
-    "meaning_uk": "веслування",
-    "meaning_es": "remo"
-  },
-  {
-    "term": "der Sängerknabe",
-    "meaning_tr": "koro çocuğu (erkek)",
-    "meaning_en": "boy soprano",
-    "meaning_uk": "хлопчик-соліст хору",
-    "meaning_es": "niño cantor"
-  },
-  {
-    "term": "das Schauspiel",
-    "meaning_tr": "tiyatro oyunu",
-    "meaning_en": "play (theater)",
-    "meaning_uk": "вистава (театр)",
-    "meaning_es": "obra de teatro"
-  },
-  {
-    "term": "die Schauspielerei",
-    "meaning_tr": "oyunculuk",
-    "meaning_en": "acting",
-    "meaning_uk": "акторська майстерність",
-    "meaning_es": "actuación"
-  },
-  {
-    "term": "das Schießen",
-    "meaning_tr": "atış",
-    "meaning_en": "shooting",
-    "meaning_uk": "стрільба",
-    "meaning_es": "tiro"
-  },
-  {
-    "term": "der Schmetterlings-Sammler",
-    "meaning_tr": "kelebek koleksiyoncusu",
-    "meaning_en": "butterfly collector",
-    "meaning_uk": "колекціонер метеликів",
-    "meaning_es": "coleccionista de mariposas"
-  },
-  {
-    "term": "das Schmetterlings-Sammeln",
-    "meaning_tr": "kelebek toplama",
-    "meaning_en": "butterfly collecting",
-    "meaning_uk": "колекціонування метеликів",
-    "meaning_es": "coleccionismo de mariposas"
-  },
-  {
-    "term": "der Schnitzeljagd",
-    "meaning_tr": "iz sürme, hazine avı",
-    "meaning_en": "scavenger hunt",
-    "meaning_uk": "пошук скарбів",
-    "meaning_es": "búsqueda del tesoro"
-  },
-  {
-    "term": "das Schreiben",
-    "meaning_tr": "yazma",
-    "meaning_en": "writing",
-    "meaning_uk": "письмо",
-    "meaning_es": "escritura"
-  },
-  {
-    "term": "der Schwertkampf",
-    "meaning_tr": "kılıç dövüşü",
-    "meaning_en": "sword fighting",
-    "meaning_uk": "фехтування на мечах",
-    "meaning_es": "esgrima con espadas"
-  },
-  {
-    "term": "das Segeln",
-    "meaning_tr": "yelkenliyle gezme",
-    "meaning_en": "sailing",
-    "meaning_uk": "вітрильництво",
-    "meaning_es": "navegación a vela"
-  },
-  {
-    "term": "der Sicherheitsgurt",
-    "meaning_tr": "emniyet kemeri (kullanımı)",
-    "meaning_en": "seatbelt (usage)",
-    "meaning_uk": "пасок безпеки (використання)",
-    "meaning_es": "cinturón de seguridad (uso)"
-  },
-  {
-    "term": "das Singen",
-    "meaning_tr": "şarkı söyleme",
-    "meaning_en": "singing",
-    "meaning_uk": "спів",
-    "meaning_es": "canto"
-  },
-  {
-    "term": "der Skateboard-Fan",
-    "meaning_tr": "kaykay fanatiği",
-    "meaning_en": "skateboard enthusiast",
-    "meaning_uk": "ентузіаст скейтбордингу",
-    "meaning_es": "entusiasta del monopatín"
-  },
-  {
-    "term": "das Skateboarden",
-    "meaning_tr": "kaykay yapma",
-    "meaning_en": "skateboarding",
-    "meaning_uk": "скейтбординг",
-    "meaning_es": "monopatín"
-  },
-  {
-    "term": "der Skilanglauf",
-    "meaning_tr": "kayaklı koşu",
-    "meaning_en": "cross-country skiing",
-    "meaning_uk": "лижні гонки",
-    "meaning_es": "esquí de fondo"
-  },
-  {
-    "term": "das Skitourengehen",
-    "meaning_tr": "kayak turu yapma",
-    "meaning_en": "ski touring",
-    "meaning_uk": "лижний туризм",
-    "meaning_es": "esquí de travesía"
-  },
-  {
-    "term": "der Skulpturen-Garten",
-    "meaning_tr": "heykel bahçesi",
-    "meaning_en": "sculpture garden",
-    "meaning_uk": "сад скульптур",
-    "meaning_es": "jardín de esculturas"
-  },
-  {
-    "term": "das Snowboarden",
-    "meaning_tr": "snowboard yapma",
-    "meaning_en": "snowboarding",
-    "meaning_uk": "сноубординг",
-    "meaning_es": "snowboard"
-  },
-  {
-    "term": "der Software-Entwickler",
-    "meaning_tr": "yazılım geliştiricisi",
-    "meaning_en": "software developer",
-    "meaning_uk": "розробник програмного забезпечення",
-    "meaning_es": "desarrollador de software"
-  },
-  {
-    "term": "das Songwriting",
-    "meaning_tr": "şarkı yazma",
-    "meaning_en": "songwriting",
-    "meaning_uk": "написання пісень",
-    "meaning_es": "composición de canciones"
-  },
-  {
-    "term": "der Souten-Chor",
-    "meaning_tr": "erkek korosu",
-    "meaning_en": "male choir",
-    "meaning_uk": "чоловічий хор",
-    "meaning_es": "coro masculino"
-  },
-  {
-    "term": "das Spanisch-Lernen",
-    "meaning_tr": "İspanyolca öğrenme",
-    "meaning_en": "learning Spanish",
-    "meaning_uk": "вивчення іспанської мови",
-    "meaning_es": "aprender español"
-  },
-  {
-    "term": "der Spaziergang",
-    "meaning_tr": "yürüyüş",
-    "meaning_en": "walk",
-    "meaning_uk": "прогулянка",
-    "meaning_es": "paseo"
-  },
-  {
-    "term": "das Speed-Dating",
-    "meaning_tr": "hızlı buluşma",
-    "meaning_en": "speed dating",
-    "meaning_uk": "швидкі побачення",
-    "meaning_es": "speed dating"
-  },
-  {
-    "term": "der Spielmann",
-    "meaning_tr": "seyyar müzisyen, jonglör",
-    "meaning_en": "minstrel, juggler",
-    "meaning_uk": "скоморох, жонглер",
-    "meaning_es": "juglar, malabarista"
-  },
-  {
-    "term": "die Spielzeugeisenbahn",
-    "meaning_tr": "oyuncak tren",
-    "meaning_en": "toy train",
-    "meaning_uk": "іграшковий потяг",
-    "meaning_es": "tren de juguete"
-  },
-  {
-    "term": "das Sprinten",
-    "meaning_tr": "sprint yapma",
-    "meaning_en": "sprinting",
-    "meaning_uk": "спринт",
-    "meaning_es": "esprint"
-  },
-  {
-    "term": "der Staubsauger-Reiniger",
-    "meaning_tr": "elektrikli süpürge temizleyicisi",
-    "meaning_en": "vacuum cleaner cleaner",
-    "meaning_uk": "пилосос-очищувач",
-    "meaning_es": "limpiador de aspiradora"
-  },
-  {
-    "term": "das Steigen",
-    "meaning_tr": "yükselme (paraşütle)",
-    "meaning_en": "climbing (parachuting)",
-    "meaning_uk": "підйом (парашутний спорт)",
-    "meaning_es": "ascenso (paracaidismo)"
-  },
-  {
-    "term": "die Steampunk-Kunst",
-    "meaning_tr": "steampunk sanatı",
-    "meaning_en": "steampunk art",
-    "meaning_uk": "стімпанк мистецтво",
-    "meaning_es": "arte steampunk"
-  },
-  {
-    "term": "das Sticken",
-    "meaning_tr": "işleme (iğne ile)",
-    "meaning_en": "embroidery",
-    "meaning_uk": "вишивання",
-    "meaning_es": "bordado"
-  },
-  {
-    "term": "der Stickstoff",
-    "meaning_tr": "nitrojen (ilgi alanı)",
-    "meaning_en": "nitrogen (area of interest)",
-    "meaning_uk": "азот (сфера інтересів)",
-    "meaning_es": "nitrógeno (área de interés)"
-  },
-  {
-    "term": "das Stockcar-Rennen",
-    "meaning_tr": "stock car yarışı",
-    "meaning_en": "stock car racing",
-    "meaning_uk": "перегони на стокових автомобілях",
-    "meaning_es": "carreras de stock cars"
-  },
-  {
-    "term": "der Streichelzoo",
-    "meaning_tr": "sevimli hayvanat bahçesi",
-    "meaning_en": "petting zoo",
-    "meaning_uk": "контактний зоопарк",
-    "meaning_es": "zoológico de mascotas"
-  },
-  {
-    "term": "das Stricken",
-    "meaning_tr": "örgü örme",
-    "meaning_en": "knitting",
-    "meaning_uk": "в'язання",
-    "meaning_es": "tejido"
-  },
-  {
-    "term": "der Strickwaren-Designer",
-    "meaning_tr": "örgü ürünleri tasarımcısı",
-    "meaning_en": "knitwear designer",
-    "meaning_uk": "дизайнер трикотажних виробів",
-    "meaning_es": "diseñador de prendas de punto"
-  },
-  {
-    "term": "das String-Art",
-    "meaning_tr": "iplik sanatı",
-    "meaning_en": "string art",
-    "meaning_uk": "ниткографія",
-    "meaning_es": "arte con hilos"
-  },
-  {
-    "term": "der Stubenhocker",
-    "meaning_tr": "evde oturmayı seven kişi",
-    "meaning_en": "homebody",
-    "meaning_uk": "домашня людина",
-    "meaning_es": "hogareño"
-  },
-  {
-    "term": "das Stunt-Fahren",
-    "meaning_tr": "dublörlük (sürüş)",
-    "meaning_en": "stunt driving",
-    "meaning_uk": "трюкове водіння",
-    "meaning_es": "conducción de acrobacias"
-  },
-  {
-    "term": "das Subskribieren",
-    "meaning_tr": "abone olma (gazete vb.)",
-    "meaning_en": "subscribing (newspapers etc.)",
-    "meaning_uk": "підписка (газети тощо)",
-    "meaning_es": "suscribirse (periódicos, etc.)"
-  },
-  {
-    "term": "die Superhelden-Comics",
-    "meaning_tr": "süper kahraman çizgi romanları",
-    "meaning_en": "superhero comics",
-    "meaning_uk": "комікси про супергероїв",
-    "meaning_es": "cómics de superhéroes"
-  },
-  {
-    "term": "das Surfen",
-    "meaning_tr": "sörf yapmak",
-    "meaning_en": "surfing",
-    "meaning_uk": "серфінг",
-    "meaning_es": "surf"
-  },
-  {
-    "term": "die Swimming-Pool-Erschaffung",
-    "meaning_tr": "yüzme havuzu yaratma",
-    "meaning_en": "swimming pool creation",
-    "meaning_uk": "створення басейну",
-    "meaning_es": "creación de piscina"
-  },
-  {
-    "term": "das Schwert",
-    "meaning_tr": "kılıç (kullanımı)",
-    "meaning_en": "sword (usage)",
-    "meaning_uk": "меч (використання)",
-    "meaning_es": "espada (uso)"
-  },
-  {
-    "term": "das Symphonieorchester",
-    "meaning_tr": "senfoni orkestrası",
-    "meaning_en": "symphony orchestra",
-    "meaning_uk": "симфонічний оркестр",
-    "meaning_es": "orquesta sinfónica"
-  },
-  {
-    "term": "die Synthesizer-Musik",
-    "meaning_tr": "sentezleyici müziği",
-    "meaning_en": "synthesizer music",
-    "meaning_uk": "синтезаторна музика",
-    "meaning_es": "música de sintetizador"
-  },
-  {
-    "term": "das Tablettenspielen",
-    "meaning_tr": "tablet oyunları oynamak",
-    "meaning_en": "playing tablet games",
-    "meaning_uk": "грати в ігри на планшеті",
-    "meaning_es": "jugar a juegos en tableta"
-  },
-  {
-    "term": "die Tanzstunde",
-    "meaning_tr": "dans dersi",
-    "meaning_en": "dance class",
-    "meaning_uk": "урок танців",
-    "meaning_es": "clase de baile"
-  },
-  {
-    "term": "das Tanzen",
-    "meaning_tr": "dans etmek",
-    "meaning_en": "dancing",
-    "meaning_uk": "танці",
-    "meaning_es": "bailar"
-  },
-  {
-    "term": "der Taucher",
-    "meaning_tr": "dalgıç",
-    "meaning_en": "diver",
-    "meaning_uk": "дайвер",
-    "meaning_es": "buceador"
-  },
-  {
-    "term": "das Tauchen",
-    "meaning_tr": "dalış yapmak",
-    "meaning_en": "diving",
-    "meaning_uk": "дайвінг",
-    "meaning_es": "buceo"
-  },
-  {
-    "term": "die Teichreinigung",
-    "meaning_tr": "göl/havuz temizliği",
-    "meaning_en": "pond cleaning",
-    "meaning_uk": "очищення ставка",
-    "meaning_es": "limpieza de estanques"
-  },
-  {
-    "term": "das Theaterstück-Schreiben",
-    "meaning_tr": "tiyatro oyunu yazma",
-    "meaning_en": "writing plays",
-    "meaning_uk": "написання п'єс",
-    "meaning_es": "escribir obras de teatro"
-  },
-  {
-    "term": "der Tierfilm-Fan",
-    "meaning_tr": "hayvan filmleri fanatiği",
-    "meaning_en": "animal film enthusiast",
-    "meaning_uk": "любитель фільмів про тварин",
-    "meaning_es": "entusiasta de películas de animales"
-  },
-  {
-    "term": "das Tierheim-Helfer",
-    "meaning_tr": "hayvan barınağı gönüllüsü",
-    "meaning_en": "animal shelter volunteer",
-    "meaning_uk": "волонтер притулку для тварин",
-    "meaning_es": "voluntario en refugio de animales"
-  },
-  {
-    "term": "der Toast-Meister",
-    "meaning_tr": "tost ustası (ilgi alanı)",
-    "meaning_en": "toast master (hobby)",
-    "meaning_uk": "майстер тостів (хобі)",
-    "meaning_es": "maestro de brindis (hobby)"
-  },
-  {
-    "term": "das Toasten",
-    "meaning_tr": "tost yapma",
-    "meaning_en": "making toast",
-    "meaning_uk": "приготування тостів",
-    "meaning_es": "hacer tostadas"
-  },
-  {
-    "term": "der Tonkünstler",
-    "meaning_tr": "ses sanatçısı",
-    "meaning_en": "sound artist",
-    "meaning_uk": "звуковий митець",
-    "meaning_es": "artista sonoro"
-  },
-  {
-    "term": "das Tonstudio",
-    "meaning_tr": "ses stüdyosu",
-    "meaning_en": "recording studio",
-    "meaning_uk": "звукозаписна студія",
-    "meaning_es": "estudio de grabación"
-  },
-  {
-    "term": "der Torwart",
-    "meaning_tr": "kaleci",
-    "meaning_en": "goalkeeper",
-    "meaning_uk": "воротар",
-    "meaning_es": "portero"
-  },
-  {
-    "term": "das Trampolin",
-    "meaning_tr": "trambolin",
-    "meaning_en": "trampoline",
-    "meaning_uk": "батут",
-    "meaning_es": "cama elástica"
-  },
-  {
-    "term": "die Transkription",
-    "meaning_tr": "transkripsiyon (yazma)",
-    "meaning_en": "transcription (writing)",
-    "meaning_uk": "транскрипція (письмо)",
-    "meaning_es": "transcripción (escritura)"
-  },
-  {
-    "term": "das Triathlon",
-    "meaning_tr": "triatlon",
-    "meaning_en": "triathlon",
-    "meaning_uk": "триатлон",
-    "meaning_es": "triatlón"
-  },
-  {
-    "term": "der Trickfilm",
-    "meaning_tr": "çizgi film",
-    "meaning_en": "animated film",
-    "meaning_uk": "мультфільм",
-    "meaning_es": "película de animación"
-  },
-  {
-    "term": "das Trommeln",
-    "meaning_tr": "davul çalma",
-    "meaning_en": "drumming",
-    "meaning_uk": "гра на барабанах",
-    "meaning_es": "tocar la batería"
-  },
-  {
-    "term": "der Trompeten-Spieler",
-    "meaning_tr": "trompet çalan kişi",
-    "meaning_en": "trumpet player",
-    "meaning_uk": "гравець на трубі",
-    "meaning_es": "trompetista"
-  },
-  {
-    "term": "das T-Shirt-Design",
-    "meaning_tr": "tişört tasarımı",
-    "meaning_en": "t-shirt design",
-    "meaning_uk": "дизайн футболок",
-    "meaning_es": "diseño de camisetas"
-  },
-  {
-    "term": "der TV-Koch",
-    "meaning_tr": "televizyon aşçısı",
-    "meaning_en": "TV chef",
-    "meaning_uk": "телеведучий кулінарних шоу",
-    "meaning_es": "chef de televisión"
-  },
-  {
-    "term": "das Überlebenstraining",
-    "meaning_tr": "hayatta kalma eğitimi",
-    "meaning_en": "survival training",
-    "meaning_uk": "тренінг з виживання",
-    "meaning_es": "entrenamiento de supervivencia"
-  },
-  {
-    "term": "der Uhrmacher",
-    "meaning_tr": "saatçi",
-    "meaning_en": "watchmaker",
-    "meaning_uk": "годинникар",
-    "meaning_es": "relojero"
-  },
-  {
-    "term": "das Uhrmacherhandwerk",
-    "meaning_tr": "saatçilik zanaatı",
-    "meaning_en": "watchmaking",
-    "meaning_uk": "годинникарство",
-    "meaning_es": "relojería"
-  },
-  {
-    "term": "die Unterwasserfotografie",
-    "meaning_tr": "sualtı fotoğrafçılığı",
-    "meaning_en": "underwater photography",
-    "meaning_uk": "підводна фотографія",
-    "meaning_es": "fotografía submarina"
-  },
-  {
-    "term": "das Urlaub-Planen",
-    "meaning_tr": "tatil planlama",
-    "meaning_en": "planning holidays",
-    "meaning_uk": "планування відпустки",
-    "meaning_es": "planificar vacaciones"
-  },
-  {
-    "term": "der Urwald",
-    "meaning_tr": "bakir orman",
-    "meaning_en": "primeval forest",
-    "meaning_uk": "незайманий ліс",
-    "meaning_es": "bosque primario"
-  },
-  {
-    "term": "das Verrücken",
-    "meaning_tr": "yerini değiştirme (eşya)",
-    "meaning_en": "moving things around",
-    "meaning_uk": "пересування речей",
-    "meaning_es": "mover cosas"
-  },
-  {
-    "term": "der Vergnügungspark",
-    "meaning_tr": "eğlence parkı",
-    "meaning_en": "amusement park",
-    "meaning_uk": "парк розваг",
-    "meaning_es": "parque de atracciones"
-  },
-  {
-    "term": "das Verkleiden",
-    "meaning_tr": "kostüm giymek, kılık değiştirmek",
-    "meaning_en": "dressing up, masquerading",
-    "meaning_uk": "перевдягатися, маскуватися",
-    "meaning_es": "disfrazarse, enmascararse"
-  },
-  {
-    "term": "die Verschönerung",
-    "meaning_tr": "güzelleştirme, süsleme",
-    "meaning_en": "beautification, decoration",
-    "meaning_uk": "прикрашання, озеленення",
-    "meaning_es": "embellecimiento, decoración"
-  },
-  {
-    "term": "die Vintage-Kleidung",
-    "meaning_tr": "vintage giysi",
-    "meaning_en": "vintage clothing",
-    "meaning_uk": "вінтажний одяг",
-    "meaning_es": "ropa vintage"
-  },
-  {
-    "term": "das Virtuosen-Spiel",
-    "meaning_tr": "virtüöz oyunculuk",
-    "meaning_en": "virtuoso playing",
-    "meaning_uk": "віртуозна гра",
-    "meaning_es": "interpretación virtuosa"
-  },
-  {
-    "term": "der Volkslauf",
-    "meaning_tr": "halk koşusu",
-    "meaning_en": "fun run",
-    "meaning_uk": "народний забіг",
-    "meaning_es": "carrera popular"
-  },
-  {
-    "term": "die Volksmusik",
-    "meaning_tr": "halk müziği",
-    "meaning_en": "folk music",
-    "meaning_uk": "народна музика",
-    "meaning_es": "música folclórica"
-  },
-  {
-    "term": "das Volleyballspielen",
-    "meaning_tr": "voleybol oynamak",
-    "meaning_en": "playing volleyball",
-    "meaning_uk": "грати у волейбол",
-    "meaning_es": "jugar al voleibol"
-  },
-  {
-    "term": "der Vorleser",
-    "meaning_tr": "sesli okuyucu",
-    "meaning_en": "reader aloud",
-    "meaning_uk": "той, хто читає вголос",
-    "meaning_es": "lector en voz alta"
-  },
-  {
-    "term": "das Wahrsagen",
-    "meaning_tr": "fal bakma",
-    "meaning_en": "fortune-telling",
-    "meaning_uk": "ворожіння",
-    "meaning_es": "adivinación"
-  },
-  {
-    "term": "der Waldbaden",
-    "meaning_tr": "orman banyosu (doğada dinlenme)",
-    "meaning_en": "forest bathing (relaxation in nature)",
-    "meaning_uk": "лісова ванна (відпочинок на природі)",
-    "meaning_es": "baño de bosque (relajación en la naturaleza)"
-  },
-  {
-    "term": "das Wandern",
-    "meaning_tr": "yürüyüş yapmak (doğada)",
-    "meaning_en": "hiking",
-    "meaning_uk": "піший туризм",
-    "meaning_es": "senderismo"
-  },
-  {
-    "term": "der Wanderweg",
-    "meaning_tr": "yürüyüş parkuru",
-    "meaning_en": "hiking trail",
-    "meaning_uk": "пішохідна стежка",
-    "meaning_es": "sendero para caminar"
-  },
-  {
-    "term": "das Wasserskifahren",
-    "meaning_tr": "su kayağı yapmak",
-    "meaning_en": "water skiing",
-    "meaning_uk": "водні лижі",
-    "meaning_es": "esquí acuático"
-  },
-  {
-    "term": "der Webdesigner",
-    "meaning_tr": "web tasarımcısı",
-    "meaning_en": "web designer",
-    "meaning_uk": "веб-дизайнер",
-    "meaning_es": "diseñador web"
-  },
-  {
-    "term": "das Weben",
-    "meaning_tr": "dokumacılık",
-    "meaning_en": "weaving",
-    "meaning_uk": "ткацтво",
-    "meaning_es": "tejido"
-  },
-  {
-    "term": "der Weihnachtsmarkt-Besuch",
-    "meaning_tr": "noel pazarı ziyareti",
-    "meaning_en": "christmas market visit",
-    "meaning_uk": "відвідування різдвяного ярмарку",
-    "meaning_es": "visita al mercado navideño"
-  },
-  {
-    "term": "das Wein-Degustieren",
-    "meaning_tr": "şarap tadımı",
-    "meaning_en": "wine tasting",
-    "meaning_uk": "дегустація вина",
-    "meaning_es": "cata de vinos"
-  },
-  {
-    "term": "der Wein-Kenner",
-    "meaning_tr": "şarap uzmanı",
-    "meaning_en": "wine connoisseur",
-    "meaning_uk": "поціновувач вина",
-    "meaning_es": "conocedor de vinos"
-  },
-  {
-    "term": "das Werken",
-    "meaning_tr": "el işi, atölye çalışması",
-    "meaning_en": "craft work, workshop",
-    "meaning_uk": "ремісницька праця, майстерня",
-    "meaning_es": "trabajo manual, taller"
-  },
-  {
-    "term": "der Wetterbeobachter",
-    "meaning_tr": "hava gözlemcisi",
-    "meaning_en": "weather observer",
-    "meaning_uk": "спостерігач за погодою",
-    "meaning_es": "observador del tiempo"
-  },
-  {
-    "term": "das Wetterbericht-Schreiben",
-    "meaning_tr": "hava durumu raporu yazma",
-    "meaning_en": "writing weather reports",
-    "meaning_uk": "написання прогнозів погоди",
-    "meaning_es": "escribir informes meteorológicos"
-  },
-  {
-    "term": "der Wilder-Keks-Bäcker",
-    "meaning_tr": "vahşi kek pişiricisi (ilgi)",
-    "meaning_en": "wild cookie baker (interest)",
-    "meaning_uk": "пекар дикого печива (інтерес)",
-    "meaning_es": "panadero de galletas silvestres (interés)"
-  },
-  {
-    "term": "das Wildpflanzen-Sammeln",
-    "meaning_tr": "yabani bitki toplama",
-    "meaning_en": "wild plant collecting",
-    "meaning_uk": "збирання диких рослин",
-    "meaning_es": "recolección de plantas silvestres"
-  },
-  {
-    "term": "der Winter-Sport",
-    "meaning_tr": "kış sporu",
-    "meaning_en": "winter sport",
-    "meaning_uk": "зимовий вид спорту",
-    "meaning_es": "deporte de invierno"
-  },
-  {
-    "term": "die Wintersport-Ausrüstung",
-    "meaning_tr": "kış sporları ekipmanı",
-    "meaning_en": "winter sports equipment",
-    "meaning_uk": "спорядження для зимових видів спорту",
-    "meaning_es": "equipamiento para deportes de invierno"
-  },
-  {
-    "term": "das Wirkwaren-Design",
-    "meaning_tr": "örgü giyim tasarımı",
-    "meaning_en": "knitwear design",
-    "meaning_uk": "дизайн трикотажних виробів",
-    "meaning_es": "diseño de prendas de punto"
-  },
-  {
-    "term": "der Wissensdurstige",
-    "meaning_tr": "bilgiye aç kişi",
-    "meaning_en": "knowledge seeker",
-    "meaning_uk": "шукач знань",
-    "meaning_es": "buscador de conocimiento"
-  },
-  {
-    "term": "das Wortspiel",
-    "meaning_tr": "kelime oyunu",
-    "meaning_en": "word game",
-    "meaning_uk": "гра слів",
-    "meaning_es": "juego de palabras"
-  },
-  {
-    "term": "die Workshops",
-    "meaning_tr": "atölye çalışmaları",
-    "meaning_en": "workshops",
-    "meaning_uk": "майстер-класи",
-    "meaning_es": "talleres"
-  },
-  {
-    "term": "das Worldbuilding",
-    "meaning_tr": "dünya inşası (hikaye için)",
-    "meaning_en": "worldbuilding (for stories)",
-    "meaning_uk": "створення світу (для історій)",
-    "meaning_es": "construcción de mundos (para historias)"
-  },
-  {
-    "term": "die Xylophon-Musik",
-    "meaning_tr": "k Silofon müziği",
-    "meaning_en": "xylophone music",
-    "meaning_uk": "музика на ксилофоні",
-    "meaning_es": "música de xilófono"
-  },
-  {
-    "term": "das Yoga",
-    "meaning_tr": "yoga",
-    "meaning_en": "yoga",
-    "meaning_uk": "йога",
-    "meaning_es": "yoga"
-  },
-  {
-    "term": "der Yogalehrer",
-    "meaning_tr": "yoga öğretmeni",
-    "meaning_en": "yoga teacher",
-    "meaning_uk": "вчитель йоги",
-    "meaning_es": "profesor de yoga"
-  },
-  {
-    "term": "das Zappen",
-    "meaning_tr": "kanalları hızlıca değiştirmek",
-    "meaning_en": "channel surfing",
-    "meaning_uk": "перемикання каналів",
-    "meaning_es": "cambiar de canal rápidamente"
-  },
-  {
-    "term": "der Zauberer",
-    "meaning_tr": "büyücü",
-    "meaning_en": "magician",
-    "meaning_uk": "чарівник",
-    "meaning_es": "mago"
-  },
-  {
-    "term": "das Zaubern",
-    "meaning_tr": "sihirbazlık yapmak",
-    "meaning_en": "performing magic",
-    "meaning_uk": "чаклувати",
-    "meaning_es": "hacer magia"
-  },
-  {
-    "term": "die Zeichenkunst",
-    "meaning_tr": "çizim sanatı",
-    "meaning_en": "drawing art",
-    "meaning_uk": "мистецтво малювання",
-    "meaning_es": "arte del dibujo"
-  },
-  {
-    "term": "das Zeichnen",
-    "meaning_tr": "çizim yapmak",
-    "meaning_en": "drawing",
-    "meaning_uk": "малювати",
-    "meaning_es": "dibujar"
-  },
-  {
-    "term": "der Zeitungs-Leser",
-    "meaning_tr": "gazete okuyucusu",
-    "meaning_en": "newspaper reader",
-    "meaning_uk": "читач газет",
-    "meaning_es": "lector de periódicos"
-  },
-  {
-    "term": "das Zeitungs-Sammler",
-    "meaning_tr": "gazete koleksiyoncusu",
-    "meaning_en": "newspaper collector",
-    "meaning_uk": "колекціонер газет",
-    "meaning_es": "coleccionista de periódicos"
-  },
-  {
-    "term": "der Zeltaufbau",
-    "meaning_tr": "çadır kurma",
-    "meaning_en": "tent pitching",
-    "meaning_uk": "встановлення намету",
-    "meaning_es": "montaje de tienda de campaña"
-  },
-  {
-    "term": "das Zirkus-Programm",
-    "meaning_tr": "sirk programı",
-    "meaning_en": "circus program",
-    "meaning_uk": "циркова програма",
-    "meaning_es": "programa de circo"
-  },
-  {
-    "term": "der Zirkus-Trainer",
-    "meaning_tr": "sirk eğitmeni",
-    "meaning_en": "circus trainer",
-    "meaning_uk": "цирковий дресирувальник",
-    "meaning_es": "entrenador de circo"
-  },
-  {
-    "term": "das Zither-Spiel",
-    "meaning_tr": "çiter çalma",
-    "meaning_en": "playing the zither",
-    "meaning_uk": "гра на цитрі",
-    "meaning_es": "tocar la cítara"
-  },
-  {
-    "term": "der Zoobesucher",
-    "meaning_tr": "hayvanat bahçesi ziyaretçisi",
-    "meaning_en": "zoo visitor",
-    "meaning_uk": "відвідувач зоопарку",
-    "meaning_es": "visitante del zoológico"
-  },
-  {
-    "term": "das Zoobesuchen",
-    "meaning_tr": "hayvanat bahçesi ziyaretleri",
-    "meaning_en": "visiting zoos",
-    "meaning_uk": "відвідування зоопарків",
-    "meaning_es": "visitar zoológicos"
-  },
-  {
-    "term": "die Zucht",
-    "meaning_tr": "yetiştirme (hayvan/bitki)",
-    "meaning_en": "breeding (animals/plants)",
-    "meaning_uk": "розведення (тварин/рослин)",
-    "meaning_es": "cría (animales/plantas)"
-  },
-  {
-    "term": "der Zuckerguss-Künstler",
-    "meaning_tr": "şeker hamuru sanatçısı",
-    "meaning_en": "icing artist",
-    "meaning_uk": "майстер айсингу",
-    "meaning_es": "artista de glaseado"
-  },
-  {
-    "term": "das Zupfen",
-    "meaning_tr": "tel çekme (gitar vb.)",
-    "meaning_en": "plucking (guitar etc.)",
-    "meaning_uk": "щипати (гітара тощо)",
-    "meaning_es": "puntear (guitarra, etc.)"
-  },
-  {
-    "term": "der Zweirad-Mechaniker",
-    "meaning_tr": "motosiklet/bisiklet tamircisi",
-    "meaning_en": "two-wheeler mechanic",
-    "meaning_uk": "механік двоколісних транспортних засобів",
-    "meaning_es": "mecánico de bicicletas/motocicletas"
-  }
-]
+{
+  "title": "Hobbys & Freizeit (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Muße",
+      "type": "Noun",
+      "meaning_tr": "boş zaman, keyifli vakit",
+      "meaning_en": "leisure",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "ocio",
+      "example": "In der heutigen hektischen Zeit findet man kaum noch ***."
+    },
+    {
+      "term": "sich widmen",
+      "type": "Verb",
+      "meaning_tr": "kendini adamak",
+      "meaning_en": "to dedicate oneself",
+      "meaning_uk": "присвячувати себе",
+      "meaning_es": "dedicarse",
+      "example": "Am Wochenende möchte ich mich endlich wieder meinem Hobby ***."
+    },
+    {
+      "term": "versiert",
+      "type": "Adjective",
+      "meaning_tr": "deneyimli, uzman",
+      "meaning_en": "versed, skilled",
+      "meaning_uk": "досвідчений",
+      "meaning_es": "versado, experto",
+      "example": "Er ist ein *** Fotograf, der alle Techniken beherrscht."
+    },
+    {
+      "term": "die Zerstreuung",
+      "type": "Noun",
+      "meaning_tr": "eğlence, kafa dağıtma",
+      "meaning_en": "diversion, amusement",
+      "meaning_uk": "розвага",
+      "meaning_es": "distracción",
+      "example": "Nach der anstrengenden Arbeit suchte er nach einer geistigen ***."
+    },
+    {
+      "term": "ausgeprägt",
+      "type": "Adjective",
+      "meaning_tr": "belirgin, güçlü",
+      "meaning_en": "pronounced, distinct",
+      "meaning_uk": "виразний",
+      "meaning_es": "pronunciado",
+      "example": "Sie hat eine sehr *** Leidenschaft für klassische Musik."
+    },
+    {
+      "term": "der Ausgleich",
+      "type": "Noun",
+      "meaning_tr": "denge, telafi",
+      "meaning_en": "balance, compensation",
+      "meaning_uk": "баланс",
+      "meaning_es": "equilibrio",
+      "example": "Sport ist für ihn der ideale *** zum Büroalltag."
+    },
+    {
+      "term": "tüfteln",
+      "type": "Verb",
+      "meaning_tr": "kafa yormak, ince iş yapmak",
+      "meaning_en": "to tinker, puzzle over",
+      "meaning_uk": "ламати голову",
+      "meaning_es": "devanarse los sesos",
+      "example": "Er kann stundenlang an kleinen Modellen ***."
+    },
+    {
+      "term": "kurzweilig",
+      "type": "Adjective",
+      "meaning_tr": "eğlenceli, keyifli",
+      "meaning_en": "entertaining",
+      "meaning_uk": "цікавий",
+      "meaning_es": "ameno",
+      "example": "Der Abend mit den Freunden war sehr ***."
+    },
+    {
+      "term": "die Passion",
+      "type": "Noun",
+      "meaning_tr": "tutku",
+      "meaning_en": "passion",
+      "meaning_uk": "пристрасть",
+      "meaning_es": "pasión",
+      "example": "Das Sammeln von alten Münzen ist seine große ***."
+    },
+    {
+      "term": "sich entspannen",
+      "type": "Verb",
+      "meaning_tr": "rahatlamak",
+      "meaning_en": "to relax",
+      "meaning_uk": "розслаблятися",
+      "meaning_es": "relajarse",
+      "example": "Beim Yoga kann man wunderbar ***."
+    },
+    {
+      "term": "der Zeitvertreib",
+      "type": "Noun",
+      "meaning_tr": "vakit geçirme",
+      "meaning_en": "pastime",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "pasatiempo",
+      "example": "Lesen ist ein beliebter *** bei langen Zugfahrten."
+    },
+    {
+      "term": "ambitioniert",
+      "type": "Adjective",
+      "meaning_tr": "hırslı, azimli",
+      "meaning_en": "ambitious",
+      "meaning_uk": "амбітний",
+      "meaning_es": "ambicioso",
+      "example": "Er ist ein sehr *** Läufer, der täglich trainiert."
+    },
+    {
+      "term": "die Entspannung",
+      "type": "Noun",
+      "meaning_tr": "gevşeme, rahatlama",
+      "meaning_en": "relaxation",
+      "meaning_uk": "відпочинок",
+      "meaning_es": "relajación",
+      "example": "Nach dem Stress brauche ich dringend etwas ***."
+    },
+    {
+      "term": "abtauchen",
+      "type": "Verb",
+      "meaning_tr": "dalmak (hayallere/kitaba)",
+      "meaning_en": "to dive into",
+      "meaning_uk": "занурюватися",
+      "meaning_es": "sumergirse",
+      "example": "In ein gutes Buch kann man völlig ***."
+    },
+    {
+      "term": "die Freizeitgestaltung",
+      "type": "Noun",
+      "meaning_tr": "boş zaman değerlendirme",
+      "meaning_en": "leisure activity planning",
+      "meaning_uk": "планування дозвілля",
+      "meaning_es": "planificación del ocio",
+      "example": "Die individuelle *** ist für viele Menschen sehr wichtig."
+    },
+    {
+      "term": "kreativ",
+      "type": "Adjective",
+      "meaning_tr": "yaratıcı",
+      "meaning_en": "creative",
+      "meaning_uk": "творчий",
+      "meaning_es": "creativo",
+      "example": "Beim Malen kann sie ihre *** Seite ausleben."
+    },
+    {
+      "term": "die Herausforderung",
+      "type": "Noun",
+      "meaning_tr": "meydan okuma, zorluk",
+      "meaning_en": "challenge",
+      "meaning_uk": "виклик",
+      "meaning_es": "desafío",
+      "example": "Das Bergsteigen ist eine körperliche ***."
+    },
+    {
+      "term": "ausschalten",
+      "type": "Verb",
+      "meaning_tr": "kafasını boşaltmak, kapatmak",
+      "meaning_en": "to switch off",
+      "meaning_uk": "відключатися",
+      "meaning_es": "desconectar",
+      "example": "Beim Wandern kann ich vom Alltag komplett ***."
+    },
+    {
+      "term": "fesselnd",
+      "type": "Adjective",
+      "meaning_tr": "sürükleyici, büyüleyici",
+      "meaning_en": "captivating",
+      "meaning_uk": "захопливий",
+      "meaning_es": "cautivador",
+      "example": "Der Roman war so ***, dass ich die Nacht durchlas."
+    },
+    {
+      "term": "der Rückzug",
+      "type": "Noun",
+      "meaning_tr": "geri çekilme, inziva",
+      "meaning_en": "retreat",
+      "meaning_uk": "відступ",
+      "meaning_es": "retiro",
+      "example": "Das Atelier ist für ihn ein Ort des ***."
+    },
+    {
+      "term": "die Geselligkeit",
+      "type": "Noun",
+      "meaning_tr": "sosyallik, arkadaş canlısı olma",
+      "meaning_en": "sociability",
+      "meaning_uk": "товариськість",
+      "meaning_es": "sociabilidad",
+      "example": "Vereine fördern die *** unter den Mitgliedern."
+    },
+    {
+      "term": "ausleben",
+      "type": "Verb",
+      "meaning_tr": "doya doya yaşamak, serbest bırakmak",
+      "meaning_en": "to live out",
+      "meaning_uk": "реалізувати",
+      "meaning_es": "dar rienda suelta",
+      "example": "In diesem Kurs kann man seine künstlerischen Talente ***."
+    },
+    {
+      "term": "entschleunigt",
+      "type": "Adjective",
+      "meaning_tr": "yavaşlatılmış, sakin",
+      "meaning_en": "decelerated",
+      "meaning_uk": "сповільнений",
+      "meaning_es": "desacelerado",
+      "example": "Ein *** Lebensstil hilft gegen Burnout."
+    },
+    {
+      "term": "das Hobby",
+      "type": "Noun",
+      "meaning_tr": "hobi",
+      "meaning_en": "hobby",
+      "meaning_uk": "хобі",
+      "meaning_es": "pasatiempo",
+      "example": "Welches *** verfolgst du am liebsten?"
+    },
+    {
+      "term": "erholsam",
+      "type": "Adjective",
+      "meaning_tr": "dinlendirici",
+      "meaning_en": "restful",
+      "meaning_uk": "відпочиваючий",
+      "meaning_es": "reparador",
+      "example": "Ein Spaziergang im Wald ist sehr ***."
+    },
+    {
+      "term": "die Inspiration",
+      "type": "Noun",
+      "meaning_tr": "ilham",
+      "meaning_en": "inspiration",
+      "meaning_uk": "натхнення",
+      "meaning_es": "inspiración",
+      "example": "Die Natur dient ihr oft als *** für ihre Bilder."
+    },
+    {
+      "term": "sich vergnügen",
+      "type": "Verb",
+      "meaning_tr": "eğlenmek",
+      "meaning_en": "to have fun",
+      "meaning_uk": "розважатися",
+      "meaning_es": "divertirse",
+      "example": "Wir *** uns bei einem Abend im Theater."
+    },
+    {
+      "term": "ausgeglichen",
+      "type": "Adjective",
+      "meaning_tr": "dengeli",
+      "meaning_en": "balanced",
+      "meaning_uk": "врівноважений",
+      "meaning_es": "equilibrado",
+      "example": "Er wirkt sehr ***, seit er regelmäßig schwimmt."
+    },
+    {
+      "term": "die Fertigkeit",
+      "type": "Noun",
+      "meaning_tr": "beceri, yetenek",
+      "meaning_en": "skill",
+      "meaning_uk": "навичка",
+      "meaning_es": "habilidad",
+      "example": "Das Erlernen einer neuen Sprache ist eine nützliche ***."
+    },
+    {
+      "term": "begeistert",
+      "type": "Adjective",
+      "meaning_tr": "coşkulu, hevesli",
+      "meaning_en": "enthusiastic",
+      "meaning_uk": "захоплений",
+      "meaning_es": "entusiasta",
+      "example": "Sie ist eine *** Anhängerin dieses Vereins."
+    },
+    {
+      "term": "der Nervenkitzel",
+      "type": "Noun",
+      "meaning_tr": "heyecan, adrenalin",
+      "meaning_en": "thrill",
+      "meaning_uk": "гострі відчуття",
+      "meaning_es": "emoción",
+      "example": "Extremsportarten bieten den besonderen ***."
+    },
+    {
+      "term": "genießen",
+      "type": "Verb",
+      "meaning_tr": "keyfini çıkarmak",
+      "meaning_en": "to enjoy",
+      "meaning_uk": "насолоджуватися",
+      "meaning_es": "disfrutar",
+      "example": "Man sollte den Feierabend in vollen Zügen ***."
+    },
+    {
+      "term": "anspruchsvoll",
+      "type": "Adjective",
+      "meaning_tr": "zorlu, iddialı",
+      "meaning_en": "demanding",
+      "meaning_uk": "вимогливий",
+      "meaning_es": "exigente",
+      "example": "Das ist ein sehr *** Projekt für einen Anfänger."
+    },
+    {
+      "term": "die Mußestunde",
+      "type": "Noun",
+      "meaning_tr": "boş zaman saati",
+      "meaning_en": "leisure hour",
+      "meaning_uk": "година дозвілля",
+      "meaning_es": "hora de ocio",
+      "example": "In jeder freien *** lese ich gerne."
+    },
+    {
+      "term": "mitreißen",
+      "type": "Verb",
+      "meaning_tr": "sürüklemek, coşturmak",
+      "meaning_en": "to carry along",
+      "meaning_uk": "захоплювати",
+      "meaning_es": "arrastrar",
+      "example": "Die Musik konnte das Publikum völlig ***."
+    },
+    {
+      "term": "die Abwechslung",
+      "type": "Noun",
+      "meaning_tr": "çeşitlilik, değişiklik",
+      "meaning_en": "variety",
+      "meaning_uk": "різноманітність",
+      "meaning_es": "variedad",
+      "example": "Ich brauche im Alltag ein wenig ***."
+    },
+    {
+      "term": "beherbergen",
+      "type": "Verb",
+      "meaning_tr": "barındırmak",
+      "meaning_en": "to house, host",
+      "meaning_uk": "приймати",
+      "meaning_es": "albergar",
+      "example": "Der Verein wird oft von diesem Zentrum ***."
+    },
+    {
+      "term": "einfallsreich",
+      "type": "Adjective",
+      "meaning_tr": "yaratıcı, fikir dolu",
+      "meaning_en": "imaginative",
+      "meaning_uk": "винахідливий",
+      "meaning_es": "ingenioso",
+      "example": "Sie ist sehr ***, wenn es um Geschenkideen geht."
+    },
+    {
+      "term": "die Leidenschaft",
+      "type": "Noun",
+      "meaning_tr": "tutku",
+      "meaning_en": "passion",
+      "meaning_uk": "пристрасть",
+      "meaning_es": "pasión",
+      "example": "Kochen ist ihre größte ***."
+    },
+    {
+      "term": "sich erholen",
+      "type": "Verb",
+      "meaning_tr": "dinlenmek, iyileşmek",
+      "meaning_en": "to recover",
+      "meaning_uk": "відпочивати",
+      "meaning_es": "descansar",
+      "example": "Im Urlaub kann man sich am besten ***."
+    },
+    {
+      "term": "kurzweilig",
+      "type": "Adjective",
+      "meaning_tr": "eğlenceli",
+      "meaning_en": "entertaining",
+      "meaning_uk": "цікавий",
+      "meaning_es": "ameno",
+      "example": "Das war eine wirklich *** Veranstaltung."
+    },
+    {
+      "term": "der Zeitaufwand",
+      "type": "Noun",
+      "meaning_tr": "zaman harcama",
+      "meaning_en": "time expenditure",
+      "meaning_uk": "витрати часу",
+      "meaning_es": "inversión de tiempo",
+      "example": "Das Hobby erfordert einen hohen ***."
+    },
+    {
+      "term": "widmen",
+      "type": "Verb",
+      "meaning_tr": "adamak",
+      "meaning_en": "to devote",
+      "meaning_uk": "присвячувати",
+      "meaning_es": "dedicar",
+      "example": "Er wird sein ganzes Wochenende dem Projekt ***."
+    },
+    {
+      "term": "verweilen",
+      "type": "Verb",
+      "meaning_tr": "vakit geçirmek, kalmak",
+      "meaning_en": "to linger",
+      "meaning_uk": "затримуватися",
+      "meaning_es": "permanecer",
+      "example": "In diesem Park kann man wunderbar ***."
+    },
+    {
+      "term": "die Unterhaltung",
+      "type": "Noun",
+      "meaning_tr": "eğlence, sohbet",
+      "meaning_en": "entertainment",
+      "meaning_uk": "розвага",
+      "meaning_es": "entretenimiento",
+      "example": "Es gab eine sehr gute musikalische ***."
+    },
+    {
+      "term": "anregend",
+      "type": "Adjective",
+      "meaning_tr": "teşvik edici, uyarıcı",
+      "meaning_en": "stimulating",
+      "meaning_uk": "стимулюючий",
+      "meaning_es": "estimulante",
+      "example": "Das war eine sehr *** Diskussion."
+    },
+    {
+      "term": "die Aktivität",
+      "type": "Noun",
+      "meaning_tr": "aktivite",
+      "meaning_en": "activity",
+      "meaning_uk": "діяльність",
+      "meaning_es": "actividad",
+      "example": "Welche *** bevorzugst du am Wochenende?"
+    },
+    {
+      "term": "sich auslassen",
+      "type": "Verb",
+      "meaning_tr": "detaylı konuşmak, boşalmak",
+      "meaning_en": "to hold forth",
+      "meaning_uk": "висловлюватися",
+      "meaning_es": "explayarse",
+      "example": "Er kann sich stundenlang über sein Hobby ***."
+    },
+    {
+      "term": "ausgiebig",
+      "type": "Adjective",
+      "meaning_tr": "uzun süreli, bol",
+      "meaning_en": "extensive",
+      "meaning_uk": "ґрунтовний",
+      "meaning_es": "extenso",
+      "example": "Wir haben ein *** Frühstück am Sonntag genossen."
+    },
+    {
+      "term": "die Mußezeit",
+      "type": "Noun",
+      "meaning_tr": "boş zaman",
+      "meaning_en": "leisure time",
+      "meaning_uk": "вільний час",
+      "meaning_es": "tiempo de ocio",
+      "example": "In der *** widme ich mich meinen Büchern."
+    },
+    {
+      "term": "beleben",
+      "type": "Verb",
+      "meaning_tr": "canlandırmak",
+      "meaning_en": "to revitalize",
+      "meaning_uk": "оживляти",
+      "meaning_es": "revitalizar",
+      "example": "Diese Musik kann den ganzen Abend ***."
+    },
+    {
+      "term": "facettenreich",
+      "type": "Adjective",
+      "meaning_tr": "çok yönlü",
+      "meaning_en": "multifaceted",
+      "meaning_uk": "багатогранний",
+      "meaning_es": "multifacético",
+      "example": "Das ist ein sehr *** Thema für unsere Freizeit."
+    },
+    {
+      "term": "die Zerstreuung",
+      "type": "Noun",
+      "meaning_tr": "eğlence",
+      "meaning_en": "diversion",
+      "meaning_uk": "розвага",
+      "meaning_es": "distracción",
+      "example": "Er sucht nach geistiger ***."
+    },
+    {
+      "term": "entschleunigen",
+      "type": "Verb",
+      "meaning_tr": "yavaşlatmak",
+      "meaning_en": "to slow down",
+      "meaning_uk": "сповільнювати",
+      "meaning_es": "desacelerar",
+      "example": "Man muss im Urlaub einfach ***."
+    },
+    {
+      "term": "anregend",
+      "type": "Adjective",
+      "meaning_tr": "ilham verici",
+      "meaning_en": "stimulating",
+      "meaning_uk": "стимулюючий",
+      "meaning_es": "estimulante",
+      "example": "Die Ausstellung war sehr ***."
+    },
+    {
+      "term": "hervorrufen",
+      "type": "Verb",
+      "meaning_tr": "yol açmak, uyandırmak",
+      "meaning_en": "to evoke",
+      "meaning_uk": "викликати",
+      "meaning_es": "provocar",
+      "example": "Das Hobby kann viele schöne Erinnerungen ***."
+    },
+    {
+      "term": "aufschlussreich",
+      "type": "Adjective",
+      "meaning_tr": "bilgi verici",
+      "meaning_en": "informative",
+      "meaning_uk": "повчальний",
+      "meaning_es": "revelador",
+      "example": "Der Kurs war sehr ***."
+    },
+    {
+      "term": "die Erholung",
+      "type": "Noun",
+      "meaning_tr": "dinlenme",
+      "meaning_en": "rest",
+      "meaning_uk": "відпочинок",
+      "meaning_es": "descanso",
+      "example": "Nach der Reise brauche ich ***."
+    },
+    {
+      "term": "abschalten",
+      "type": "Verb",
+      "meaning_tr": "kafa dinlemek",
+      "meaning_en": "to relax",
+      "meaning_uk": "відпочивати",
+      "meaning_es": "desconectar",
+      "example": "Es ist wichtig, nach der Arbeit zu ***."
+    },
+    {
+      "term": "die Beschäftigung",
+      "type": "Noun",
+      "meaning_tr": "meşguliyet",
+      "meaning_en": "occupation",
+      "meaning_uk": "зайнятість",
+      "meaning_es": "ocupación",
+      "example": "Suchen Sie sich eine sinnvolle ***."
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Busqueda de Empleo (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la trayectoria profesional",
+      "type": "Noun",
+      "example": "*** es fundamental para demostrar tu evolución y logros a lo largo de los años.",
+      "meaning_tr": "kariyer geçmişi",
+      "meaning_en": "professional background",
+      "meaning_uk": "професійний досвід",
+      "meaning_es": "historial de la carrera laboral"
+    },
+    {
+      "term": "el valor añadido",
+      "type": "Noun",
+      "example": "Debes resaltar cuál es *** que aportas al equipo de trabajo.",
+      "meaning_tr": "katma değer",
+      "meaning_en": "added value",
+      "meaning_uk": "додаткова вартість",
+      "meaning_es": "beneficio extra que se aporta"
+    },
+    {
+      "term": "postularse",
+      "type": "Verb",
+      "example": "He decidido *** para el puesto de director financiero en esa empresa.",
+      "meaning_tr": "başvurmak",
+      "meaning_en": "to apply for",
+      "meaning_uk": "подавати заявку",
+      "meaning_es": "presentar candidatura"
+    },
+    {
+      "term": "la remuneración",
+      "type": "Noun",
+      "example": "Las condiciones de *** deben ser negociadas durante la entrevista final.",
+      "meaning_tr": "ücret",
+      "meaning_en": "remuneration",
+      "meaning_uk": "винагорода",
+      "meaning_es": "pago por un trabajo"
+    },
+    {
+      "term": "competente",
+      "type": "Adjective",
+      "example": "Buscan a un profesional altamente *** capaz de gestionar crisis complejas.",
+      "meaning_tr": "yetkin",
+      "meaning_en": "competent",
+      "meaning_uk": "компетентний",
+      "meaning_es": "que tiene capacidad o aptitud"
+    },
+    {
+      "term": "la aptitud",
+      "type": "Noun",
+      "example": "Su *** para el liderazgo quedó patente en la dinámica de grupo.",
+      "meaning_tr": "yetenek",
+      "meaning_en": "aptitude",
+      "meaning_uk": "здібність",
+      "meaning_es": "capacidad para realizar algo"
+    },
+    {
+      "term": "la red de contactos",
+      "type": "Noun",
+      "example": "Ampliar *** es esencial para acceder al mercado laboral oculto.",
+      "meaning_tr": "iletişim ağı",
+      "meaning_en": "networking",
+      "meaning_uk": "мережа контактів",
+      "meaning_es": "conjunto de personas conocidas profesionalmente"
+    },
+    {
+      "term": "la carta de presentación",
+      "type": "Noun",
+      "example": "Adjunta *** donde expliques brevemente tu motivación para el puesto.",
+      "meaning_tr": "ön yazı",
+      "meaning_en": "cover letter",
+      "meaning_uk": "супровідний лист",
+      "meaning_es": "documento que acompaña al currículum"
+    },
+    {
+      "term": "la vacante",
+      "type": "Noun",
+      "example": "Han abierto una *** en el departamento de marketing internacional.",
+      "meaning_tr": "açık pozisyon",
+      "meaning_en": "vacancy",
+      "meaning_uk": "вакансія",
+      "meaning_es": "puesto de trabajo libre"
+    },
+    {
+      "term": "destacar",
+      "type": "Verb",
+      "example": "Es importante *** tus logros más relevantes en el currículum.",
+      "meaning_tr": "öne çıkarmak",
+      "meaning_en": "to highlight",
+      "meaning_uk": "виділяти",
+      "meaning_es": "hacer que algo resalte"
+    },
+    {
+      "term": "la entrevista de selección",
+      "type": "Noun",
+      "example": "Me han convocado para *** mañana por la mañana.",
+      "meaning_tr": "iş görüşmesi",
+      "meaning_en": "job interview",
+      "meaning_uk": "співбесіда",
+      "meaning_es": "reunión para valorar a un candidato"
+    },
+    {
+      "term": "el perfil",
+      "type": "Noun",
+      "example": "Tu *** encaja perfectamente con lo que la empresa está buscando.",
+      "meaning_tr": "profil",
+      "meaning_en": "profile",
+      "meaning_uk": "профіль",
+      "meaning_es": "conjunto de rasgos profesionales"
+    },
+    {
+      "term": "la experiencia contrastable",
+      "type": "Noun",
+      "example": "Solicitan al menos cinco años de *** en el sector tecnológico.",
+      "meaning_tr": "kanıtlanabilir deneyim",
+      "meaning_en": "verifiable experience",
+      "meaning_uk": "перевірений досвід",
+      "meaning_es": "experiencia laboral que se puede verificar"
+    },
+    {
+      "term": "la jornada laboral",
+      "type": "Noun",
+      "example": "La empresa ofrece flexibilidad horaria durante la ***.",
+      "meaning_tr": "çalışma süresi",
+      "meaning_en": "working hours",
+      "meaning_uk": "робочий день",
+      "meaning_es": "tiempo dedicado al trabajo"
+    },
+    {
+      "term": "la cualificación",
+      "type": "Noun",
+      "example": "Posee una alta *** académica que le permite optar a puestos directivos.",
+      "meaning_tr": "nitelik",
+      "meaning_en": "qualification",
+      "meaning_uk": "кваліфікація",
+      "meaning_es": "preparación profesional"
+    },
+    {
+      "term": "el reclutador",
+      "type": "Noun",
+      "example": "*** evaluó las competencias blandas del candidato durante la charla.",
+      "meaning_tr": "işe alım uzmanı",
+      "meaning_en": "recruiter",
+      "meaning_uk": "рекрутер",
+      "meaning_es": "persona que selecciona personal"
+    },
+    {
+      "term": "la ventaja competitiva",
+      "type": "Noun",
+      "example": "El dominio de idiomas es tu principal *** en este proceso.",
+      "meaning_tr": "rekabet avantajı",
+      "meaning_en": "competitive advantage",
+      "meaning_uk": "конкурентна перевага",
+      "meaning_es": "cualidad que da superioridad"
+    },
+    {
+      "term": "el mercado laboral",
+      "type": "Noun",
+      "example": "*** actual es muy dinámico y exige una formación continua.",
+      "meaning_tr": "iş piyasası",
+      "meaning_en": "labor market",
+      "meaning_uk": "ринок праці",
+      "meaning_es": "ámbito de oferta y demanda de trabajo"
+    },
+    {
+      "term": "la estabilidad",
+      "type": "Noun",
+      "example": "Muchos candidatos buscan *** antes que un salario muy elevado.",
+      "meaning_tr": "istikrar",
+      "meaning_en": "stability",
+      "meaning_uk": "стабільність",
+      "meaning_es": "seguridad en el empleo"
+    },
+    {
+      "term": "el contrato indefinido",
+      "type": "Noun",
+      "example": "Tras el periodo de prueba, me ofrecieron ***.",
+      "meaning_tr": "belirsiz süreli sözleşme",
+      "meaning_en": "permanent contract",
+      "meaning_uk": "безстроковий контракт",
+      "meaning_es": "acuerdo laboral sin fecha de finalización"
+    },
+    {
+      "term": "la destreza",
+      "type": "Noun",
+      "example": "Demostró una gran *** en el manejo de herramientas de análisis de datos.",
+      "meaning_tr": "beceri",
+      "meaning_en": "skill/dexterity",
+      "meaning_uk": "вправність",
+      "meaning_es": "habilidad para hacer algo"
+    },
+    {
+      "term": "la expectativa salarial",
+      "type": "Noun",
+      "example": "Preguntaron por mi *** durante la primera fase de la selección.",
+      "meaning_tr": "maaş beklentisi",
+      "meaning_en": "salary expectation",
+      "meaning_uk": "очікувана зарплата",
+      "meaning_es": "salario deseado por el candidato"
+    },
+    {
+      "term": "la plantilla",
+      "type": "Noun",
+      "example": "La empresa ha decidido ampliar su *** con diez nuevos ingenieros.",
+      "meaning_tr": "personel",
+      "meaning_en": "staff/workforce",
+      "meaning_uk": "штат працівників",
+      "meaning_es": "conjunto de los trabajadores"
+    },
+    {
+      "term": "el ascenso",
+      "type": "Noun",
+      "example": "Su dedicación le permitió conseguir un *** en poco tiempo.",
+      "meaning_tr": "terfi",
+      "meaning_en": "promotion",
+      "meaning_uk": "підвищення",
+      "meaning_es": "promoción a un cargo superior"
+    },
+    {
+      "term": "el candidato ideal",
+      "type": "Noun",
+      "example": "No existe ***, pero sí alguien con la capacidad de aprender.",
+      "meaning_tr": "ideal aday",
+      "meaning_en": "ideal candidate",
+      "meaning_uk": "ідеальний кандидат",
+      "meaning_es": "persona que cumple todos los requisitos"
+    },
+    {
+      "term": "la polivalencia",
+      "type": "Noun",
+      "example": "Valoramos la *** de los empleados para cubrir diferentes tareas.",
+      "meaning_tr": "çok yönlülük",
+      "meaning_en": "versatility",
+      "meaning_uk": "багатофункціональність",
+      "meaning_es": "capacidad para realizar diversas tareas"
+    },
+    {
+      "term": "la formación continua",
+      "type": "Noun",
+      "example": "La empresa fomenta *** entre sus trabajadores para mantenerse actualizados.",
+      "meaning_tr": "sürekli eğitim",
+      "meaning_en": "continuous training",
+      "meaning_uk": "безперервне навчання",
+      "meaning_es": "aprendizaje constante"
+    },
+    {
+      "term": "el compromiso",
+      "type": "Noun",
+      "example": "Buscamos personas con *** hacia los valores de la organización.",
+      "meaning_tr": "bağlılık",
+      "meaning_en": "commitment",
+      "meaning_uk": "зобов'язання",
+      "meaning_es": "obligación contraída"
+    },
+    {
+      "term": "la brecha salarial",
+      "type": "Noun",
+      "example": "Es necesario trabajar para reducir *** entre hombres y mujeres.",
+      "meaning_tr": "maaş farkı",
+      "meaning_en": "wage gap",
+      "meaning_uk": "зарплатний розрив",
+      "meaning_es": "diferencia de sueldos"
+    },
+    {
+      "term": "la selección de personal",
+      "type": "Noun",
+      "example": "El proceso de *** es largo debido a las múltiples pruebas.",
+      "meaning_tr": "personel seçimi",
+      "meaning_en": "personnel selection",
+      "meaning_uk": "відбір персоналу",
+      "meaning_es": "proceso de elegir empleados"
+    },
+    {
+      "term": "la iniciativa",
+      "type": "Noun",
+      "example": "Se valora la *** a la hora de resolver problemas imprevistos.",
+      "meaning_tr": "girişim",
+      "meaning_en": "initiative",
+      "meaning_uk": "ініціатива",
+      "meaning_es": "capacidad de actuar sin esperar instrucciones"
+    },
+    {
+      "term": "el currículum",
+      "type": "Noun",
+      "example": "He actualizado mi *** para incluir mi última experiencia laboral.",
+      "meaning_tr": "özgeçmiş",
+      "meaning_en": "CV",
+      "meaning_uk": "резюме",
+      "meaning_es": "documento con la vida profesional"
+    },
+    {
+      "term": "la competencia blanda",
+      "type": "Noun",
+      "example": "En la era digital, *** como la empatía son fundamentales.",
+      "meaning_tr": "sosyal beceri",
+      "meaning_en": "soft skill",
+      "meaning_uk": "м'яка навичка",
+      "meaning_es": "habilidad personal o social"
+    },
+    {
+      "term": "la competencia técnica",
+      "type": "Noun",
+      "example": "Necesitamos alguien con una alta *** en programación Java.",
+      "meaning_tr": "teknik beceri",
+      "meaning_en": "hard skill",
+      "meaning_uk": "технічна навичка",
+      "meaning_es": "conocimiento especializado"
+    },
+    {
+      "term": "el teletrabajo",
+      "type": "Noun",
+      "example": "Muchas empresas han adoptado el *** como modalidad habitual.",
+      "meaning_tr": "uzaktan çalışma",
+      "meaning_en": "remote work",
+      "meaning_uk": "віддалена робота",
+      "meaning_es": "trabajo a distancia"
+    },
+    {
+      "term": "el despido",
+      "type": "Noun",
+      "example": "Hubo un *** masivo debido a la crisis económica global.",
+      "meaning_tr": "işten çıkarma",
+      "meaning_en": "dismissal",
+      "meaning_uk": "звільнення",
+      "meaning_es": "acción de expulsar a alguien del trabajo"
+    },
+    {
+      "term": "la retención de talento",
+      "type": "Noun",
+      "example": "La empresa implementa incentivos para mejorar ***.",
+      "meaning_tr": "yetenek tutma",
+      "meaning_en": "talent retention",
+      "meaning_uk": "утримання талантів",
+      "meaning_es": "estrategias para que los empleados no se vayan"
+    },
+    {
+      "term": "el periodo de prueba",
+      "type": "Noun",
+      "example": "Durante ***, ambas partes pueden rescindir el contrato fácilmente.",
+      "meaning_tr": "deneme süresi",
+      "meaning_en": "probation period",
+      "meaning_uk": "випробувальний термін",
+      "meaning_es": "tiempo inicial de evaluación"
+    },
+    {
+      "term": "la conciliación",
+      "type": "Noun",
+      "example": "Es importante mejorar la *** entre la vida personal y profesional.",
+      "meaning_tr": "iş-özel hayat dengesi",
+      "meaning_en": "work-life balance",
+      "meaning_uk": "баланс між роботою та життям",
+      "meaning_es": "equilibrio entre trabajo y vida familiar"
+    },
+    {
+      "term": "la baja laboral",
+      "type": "Noun",
+      "example": "Está de *** por motivos de salud desde hace un mes.",
+      "meaning_tr": "hastalık izni",
+      "meaning_en": "sick leave",
+      "meaning_uk": "лікарняний",
+      "meaning_es": "ausencia autorizada por enfermedad"
+    },
+    {
+      "term": "la indemnización",
+      "type": "Noun",
+      "example": "Tras el despido, el empleado recibió una *** justa.",
+      "meaning_tr": "tazminat",
+      "meaning_en": "severance pay",
+      "meaning_uk": "компенсація",
+      "meaning_es": "dinero recibido al finalizar una relación laboral"
+    },
+    {
+      "term": "la oferta de empleo",
+      "type": "Noun",
+      "example": "He visto una *** muy interesante en el portal especializado.",
+      "meaning_tr": "iş ilanı",
+      "meaning_en": "job offer",
+      "meaning_uk": "пропозиція роботи",
+      "meaning_es": "propuesta de vacante laboral"
+    },
+    {
+      "term": "la promoción interna",
+      "type": "Noun",
+      "example": "La empresa apuesta por *** para cubrir los puestos de mando.",
+      "meaning_tr": "şirket içi terfi",
+      "meaning_en": "internal promotion",
+      "meaning_uk": "внутрішнє просування",
+      "meaning_es": "ascenso dentro de la misma empresa"
+    },
+    {
+      "term": "el autónomo",
+      "type": "Noun",
+      "example": "Como ***, debo gestionar mis propios impuestos y seguridad social.",
+      "meaning_tr": "serbest çalışan",
+      "meaning_en": "freelancer/self-employed",
+      "meaning_uk": "самозайнята особа",
+      "meaning_es": "persona que trabaja por cuenta propia"
+    },
+    {
+      "term": "la subcontratación",
+      "type": "Noun",
+      "example": "Han recurrido a *** para reducir costes operativos.",
+      "meaning_tr": "taşeronluk",
+      "meaning_en": "outsourcing",
+      "meaning_uk": "аутсорсинг",
+      "meaning_es": "delegación de servicios a terceros"
+    },
+    {
+      "term": "la meta",
+      "type": "Noun",
+      "example": "Mi *** principal a corto plazo es encontrar un empleo estable.",
+      "meaning_tr": "hedef",
+      "meaning_en": "goal",
+      "meaning_uk": "мета",
+      "meaning_es": "objetivo a conseguir"
+    },
+    {
+      "term": "la aptitud física",
+      "type": "Noun",
+      "example": "Para ciertos trabajos, es necesario demostrar una buena ***.",
+      "meaning_tr": "fiziksel uygunluk",
+      "meaning_en": "physical fitness",
+      "meaning_uk": "фізична придатність",
+      "meaning_es": "capacidad física para el puesto"
+    },
+    {
+      "term": "el liderazgo",
+      "type": "Noun",
+      "example": "El candidato mostró un gran *** gestionando el conflicto grupal.",
+      "meaning_tr": "liderlik",
+      "meaning_en": "leadership",
+      "meaning_uk": "лідерство",
+      "meaning_es": "capacidad de dirigir equipos"
+    },
+    {
+      "term": "la proactividad",
+      "type": "Noun",
+      "example": "Se busca gente con *** que no necesite supervisión constante.",
+      "meaning_tr": "proaktiflik",
+      "meaning_en": "proactivity",
+      "meaning_uk": "проактивність",
+      "meaning_es": "actitud de tomar el control"
+    },
+    {
+      "term": "la movilidad geográfica",
+      "type": "Noun",
+      "example": "Es imprescindible tener total *** para este puesto internacional.",
+      "meaning_tr": "coğrafi hareketlilik",
+      "meaning_en": "geographical mobility",
+      "meaning_uk": "географічна мобільність",
+      "meaning_es": "disponibilidad para cambiar de residencia"
+    },
+    {
+      "term": "el entorno laboral",
+      "type": "Noun",
+      "example": "Un buen *** favorece la creatividad y la productividad.",
+      "meaning_tr": "çalışma ortamı",
+      "meaning_en": "work environment",
+      "meaning_uk": "робоче середовище",
+      "meaning_es": "clima y espacio donde se trabaja"
+    },
+    {
+      "term": "la trayectoria",
+      "type": "Noun",
+      "example": "Su *** impecable le ha abierto muchas puertas en el sector.",
+      "meaning_tr": "yörünge/kariyer",
+      "meaning_en": "trajectory/career path",
+      "meaning_uk": "траєкторія/шлях",
+      "meaning_es": "desarrollo de una carrera"
+    },
+    {
+      "term": "la resiliencia",
+      "type": "Noun",
+      "example": "La *** es una cualidad muy demandada tras periodos de crisis.",
+      "meaning_tr": "dayanıklılık",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість",
+      "meaning_es": "capacidad de superar adversidades"
+    },
+    {
+      "term": "el salario neto",
+      "type": "Noun",
+      "example": "Debes fijarte en ***, no solo en el salario bruto.",
+      "meaning_tr": "net maaş",
+      "meaning_en": "net salary",
+      "meaning_uk": "чиста зарплата",
+      "meaning_es": "sueldo tras deducciones"
+    },
+    {
+      "term": "la jornada intensiva",
+      "type": "Noun",
+      "example": "En verano, la empresa aplica *** para salir antes.",
+      "meaning_tr": "yoğunlaştırılmış mesai",
+      "meaning_en": "intensive working day",
+      "meaning_uk": "інтенсивний робочий день",
+      "meaning_es": "horario concentrado en pocas horas"
+    },
+    {
+      "term": "la excelencia",
+      "type": "Noun",
+      "example": "Buscamos siempre la *** en todos nuestros proyectos.",
+      "meaning_tr": "mükemmellik",
+      "meaning_en": "excellence",
+      "meaning_uk": "досконалість",
+      "meaning_es": "calidad superior"
+    },
+    {
+      "term": "gestionar",
+      "type": "Verb",
+      "example": "Debes aprender a *** tu tiempo eficazmente durante la jornada.",
+      "meaning_tr": "yönetmek",
+      "meaning_en": "to manage",
+      "meaning_uk": "керувати",
+      "meaning_es": "dirigir o manejar una tarea"
+    },
+    {
+      "term": "estratégico",
+      "type": "Adjective",
+      "example": "El puesto requiere una visión *** para el crecimiento a largo plazo.",
+      "meaning_tr": "stratejik",
+      "meaning_en": "strategic",
+      "meaning_uk": "стратегічний",
+      "meaning_es": "relativo a una estrategia"
+    },
+    {
+      "term": "eficiente",
+      "type": "Adjective",
+      "example": "Se requiere un trabajador *** capaz de optimizar los recursos.",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "que logra resultados con pocos recursos"
+    },
+    {
+      "term": "altamente",
+      "type": "Adverb",
+      "example": "Es un perfil *** cualificado para este tipo de retos.",
+      "meaning_tr": "yüksek derecede",
+      "meaning_en": "highly",
+      "meaning_uk": "високою мірою",
+      "meaning_es": "en un grado elevado"
+    }
+  ]
+}

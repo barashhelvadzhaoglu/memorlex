@@ -1,0 +1,411 @@
+{
+  "title": "Kleidung & Mode (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "der Reißverschluss",
+      "type": "Noun",
+      "meaning_tr": "fermuar",
+      "meaning_en": "zipper",
+      "meaning_uk": "блискавка",
+      "meaning_es": "cremallera",
+      "example": "Der *** meiner Jacke ist kaputt gegangen."
+    },
+    {
+      "term": "die Naht",
+      "type": "Noun",
+      "meaning_tr": "dikiş",
+      "meaning_en": "seam",
+      "meaning_uk": "шов",
+      "meaning_es": "costura",
+      "example": "Die *** an meinem Ärmel ist aufgegangen."
+    },
+    {
+      "term": "das Revers",
+      "type": "Noun",
+      "meaning_tr": "yaka (ceket)",
+      "meaning_en": "lapel",
+      "meaning_uk": "лацкан",
+      "meaning_es": "solapa",
+      "example": "Er trug eine Blume an seinem ***."
+    },
+    {
+      "term": "anprobieren",
+      "type": "Verb",
+      "meaning_tr": "denemek (kıyafet)",
+      "meaning_en": "to try on",
+      "meaning_uk": "міряти",
+      "meaning_es": "probarse",
+      "example": "Darf ich diese Hose einmal ***?"
+    },
+    {
+      "term": "schick",
+      "type": "Adjective",
+      "meaning_tr": "şık",
+      "meaning_en": "chic/stylish",
+      "meaning_uk": "шикарний",
+      "meaning_es": "elegante",
+      "example": "Du siehst heute wirklich sehr *** aus."
+    },
+    {
+      "term": "die Schneiderin",
+      "type": "Noun",
+      "meaning_tr": "terzi (kadın)",
+      "meaning_en": "seamstress",
+      "meaning_uk": "кравчиня",
+      "meaning_es": "costurera",
+      "example": "Die *** hat mein Kleid perfekt angepasst."
+    },
+    {
+      "term": "der Saum",
+      "type": "Noun",
+      "meaning_tr": "etek ucu",
+      "meaning_en": "hem",
+      "meaning_uk": "підгин",
+      "meaning_es": "dobladillo",
+      "example": "Der *** des Rocks ist etwas zu lang."
+    },
+    {
+      "term": "entwerfen",
+      "type": "Verb",
+      "meaning_tr": "tasarlamak",
+      "meaning_en": "to design",
+      "meaning_uk": "проектувати",
+      "meaning_es": "diseñar",
+      "example": "Sie will Mode studieren und eigene Kleidung ***."
+    },
+    {
+      "term": "das Outfit",
+      "type": "Noun",
+      "meaning_tr": "kıyafet kombini",
+      "meaning_en": "outfit",
+      "meaning_uk": "вбрання",
+      "meaning_es": "atuendo",
+      "example": "Dein heutiges *** gefällt mir sehr gut."
+    },
+    {
+      "term": "die Seide",
+      "type": "Noun",
+      "meaning_tr": "ipek",
+      "meaning_en": "silk",
+      "meaning_uk": "шовк",
+      "meaning_es": "seda",
+      "example": "Das Kleid besteht aus reiner ***."
+    },
+    {
+      "term": "der Stoff",
+      "type": "Noun",
+      "meaning_tr": "kumaş",
+      "meaning_en": "fabric",
+      "meaning_uk": "тканина",
+      "meaning_es": "tela",
+      "example": "Dieser *** fühlt sich sehr weich an."
+    },
+    {
+      "term": "die Passform",
+      "type": "Noun",
+      "meaning_tr": "kalıp / oturuş",
+      "meaning_en": "fit",
+      "meaning_uk": "посадка (одягу)",
+      "meaning_es": "ajuste",
+      "example": "Die *** dieses Anzugs ist hervorragend."
+    },
+    {
+      "term": "kombinieren",
+      "type": "Verb",
+      "meaning_tr": "kombinlemek",
+      "meaning_en": "to combine",
+      "meaning_uk": "поєднувати",
+      "meaning_es": "combinar",
+      "example": "Wie kann man diese Bluse am besten ***?"
+    },
+    {
+      "term": "lässig",
+      "type": "Adjective",
+      "meaning_tr": "rahat / gündelik",
+      "meaning_en": "casual",
+      "meaning_uk": "невимушений",
+      "meaning_es": "casual",
+      "example": "Er trägt am Wochenende immer sehr *** Kleidung."
+    },
+    {
+      "term": "die Kollektion",
+      "type": "Noun",
+      "meaning_tr": "koleksiyon",
+      "meaning_en": "collection",
+      "meaning_uk": "колекція",
+      "meaning_es": "colección",
+      "example": "Der Designer präsentiert seine neue *** in Paris."
+    },
+    {
+      "term": "der Kleiderbügel",
+      "type": "Noun",
+      "meaning_tr": "elbise askısı",
+      "meaning_en": "clothes hanger",
+      "meaning_uk": "вішалка",
+      "meaning_es": "percha",
+      "example": "Häng bitte das Sakko auf einen ***."
+    },
+    {
+      "term": "die Anprobe",
+      "type": "Noun",
+      "meaning_tr": "deneme kabini / provası",
+      "meaning_en": "fitting room/trial",
+      "meaning_uk": "примірка",
+      "meaning_es": "probador",
+      "example": "Die *** befindet sich hinten im Laden."
+    },
+    {
+      "term": "das Etikett",
+      "type": "Noun",
+      "meaning_tr": "etiket",
+      "meaning_en": "label/tag",
+      "meaning_uk": "етикетка",
+      "meaning_es": "etiqueta",
+      "example": "Hast du das *** schon von der Hose entfernt?"
+    },
+    {
+      "term": "einkaufen",
+      "type": "Verb",
+      "meaning_tr": "alışveriş yapmak",
+      "meaning_en": "to shop",
+      "meaning_uk": "купувати",
+      "meaning_es": "ir de compras",
+      "example": "Wir gehen heute in der Stadt ***."
+    },
+    {
+      "term": "elegant",
+      "type": "Adjective",
+      "meaning_tr": "zarif",
+      "meaning_en": "elegant",
+      "meaning_uk": "елегантний",
+      "meaning_es": "elegante",
+      "example": "Sie trug ein sehr *** Abendkleid."
+    },
+    {
+      "term": "die Wolle",
+      "type": "Noun",
+      "meaning_tr": "yün",
+      "meaning_en": "wool",
+      "meaning_uk": "вовна",
+      "meaning_es": "lana",
+      "example": "Dieser Pullover ist aus 100% ***."
+    },
+    {
+      "term": "der Knopf",
+      "type": "Noun",
+      "meaning_tr": "düğme",
+      "meaning_en": "button",
+      "meaning_uk": "ґудзик",
+      "meaning_es": "botón",
+      "example": "Mir ist ein *** an der Bluse abgefallen."
+    },
+    {
+      "term": "der Trend",
+      "type": "Noun",
+      "meaning_tr": "trend",
+      "meaning_en": "trend",
+      "meaning_uk": "тренд",
+      "meaning_es": "tendencia",
+      "example": "Dieser neue *** gefällt mir gar nicht."
+    },
+    {
+      "term": "tragen",
+      "type": "Verb",
+      "meaning_tr": "giymek / taşımak",
+      "meaning_en": "to wear",
+      "meaning_uk": "носити",
+      "meaning_es": "llevar puesto",
+      "example": "Sie *** heute ein rotes Kleid."
+    },
+    {
+      "term": "auffällig",
+      "type": "Adjective",
+      "meaning_tr": "göze çarpan / dikkat çekici",
+      "meaning_en": "conspicuous/flashy",
+      "meaning_uk": "помітний",
+      "meaning_es": "llamativo",
+      "example": "Das Muster des Hemdes ist mir zu ***."
+    },
+    {
+      "term": "die Baumwolle",
+      "type": "Noun",
+      "meaning_tr": "pamuk",
+      "meaning_en": "cotton",
+      "meaning_uk": "бавовна",
+      "meaning_es": "algodón",
+      "example": "Kleidung aus *** ist sehr angenehm auf der Haut."
+    },
+    {
+      "term": "das Muster",
+      "type": "Noun",
+      "meaning_tr": "desen",
+      "meaning_en": "pattern",
+      "meaning_uk": "візерунок",
+      "meaning_es": "patrón",
+      "example": "Ich mag das *** dieser Krawatte."
+    },
+    {
+      "term": "das Accessoire",
+      "type": "Noun",
+      "meaning_tr": "aksesuar",
+      "meaning_en": "accessory",
+      "meaning_uk": "аксесуар",
+      "meaning_es": "accesorio",
+      "example": "Ein schönes *** wertet jedes Outfit auf."
+    },
+    {
+      "term": "anpassen",
+      "type": "Verb",
+      "meaning_tr": "uydurmak / ayarlamak",
+      "meaning_en": "to adjust/tailor",
+      "meaning_uk": "підганяти",
+      "meaning_es": "ajustar",
+      "example": "Die Hose muss noch an der Taille *** werden."
+    },
+    {
+      "term": "zeitlos",
+      "type": "Adjective",
+      "meaning_tr": "zamansız",
+      "meaning_en": "timeless",
+      "meaning_uk": "позачасовий",
+      "meaning_es": "atemporal",
+      "example": "Ein weißes Hemd ist ein *** Klassiker."
+    },
+    {
+      "term": "die Mode",
+      "type": "Noun",
+      "meaning_tr": "moda",
+      "meaning_en": "fashion",
+      "meaning_uk": "мода",
+      "meaning_es": "moda",
+      "example": "Er interessiert sich sehr für aktuelle ***."
+    },
+    {
+      "term": "der Gürtel",
+      "type": "Noun",
+      "meaning_tr": "kemer",
+      "meaning_en": "belt",
+      "meaning_uk": "ремінь",
+      "meaning_es": "cinturón",
+      "example": "Ich brauche einen neuen *** für meine Jeans."
+    },
+    {
+      "term": "die Größe",
+      "type": "Noun",
+      "meaning_tr": "beden / numara",
+      "meaning_en": "size",
+      "meaning_uk": "розмір",
+      "meaning_es": "talla",
+      "example": "Haben Sie diese Jacke auch in *** M?"
+    },
+    {
+      "term": "das Kleidungsstück",
+      "type": "Noun",
+      "meaning_tr": "kıyafet parçası",
+      "meaning_en": "garment/piece of clothing",
+      "meaning_uk": "одяг",
+      "meaning_es": "prenda",
+      "example": "Jedes *** in meinem Schrank hat eine Geschichte."
+    },
+    {
+      "term": "schneidern",
+      "type": "Verb",
+      "meaning_tr": "terzilik yapmak / dikmek",
+      "meaning_en": "to tailor/sew",
+      "meaning_uk": "шити",
+      "meaning_es": "confeccionar",
+      "example": "Sie kann ihre Kleider selbst ***."
+    },
+    {
+      "term": "modisch",
+      "type": "Adjective",
+      "meaning_tr": "modaya uygun",
+      "meaning_en": "fashionable",
+      "meaning_uk": "модний",
+      "meaning_es": "de moda",
+      "example": "Sie ist immer sehr *** gekleidet."
+    },
+    {
+      "term": "die Tasche",
+      "type": "Noun",
+      "meaning_tr": "cep / çanta",
+      "meaning_en": "pocket/bag",
+      "meaning_uk": "кишеня/сумка",
+      "meaning_es": "bolsillo/bolso",
+      "example": "Ich habe mein Handy in der *** meiner Jacke."
+    },
+    {
+      "term": "die Farbe",
+      "type": "Noun",
+      "meaning_tr": "renk",
+      "meaning_en": "color",
+      "meaning_uk": "колір",
+      "meaning_es": "color",
+      "example": "Diese *** steht dir ausgezeichnet."
+    },
+    {
+      "term": "anziehen",
+      "type": "Verb",
+      "meaning_tr": "giymek (giinme eylemi)",
+      "meaning_en": "to put on",
+      "meaning_uk": "одягати",
+      "meaning_es": "vestirse",
+      "example": "Ich muss mich noch warm ***."
+    },
+    {
+      "term": "dunkel",
+      "type": "Adjective",
+      "meaning_tr": "koyu",
+      "meaning_en": "dark",
+      "meaning_uk": "темний",
+      "meaning_es": "oscuro",
+      "example": "Ich trage lieber *** Farben im Winter."
+    },
+    {
+      "term": "hell",
+      "type": "Adjective",
+      "meaning_tr": "açık (renk)",
+      "meaning_en": "light",
+      "meaning_uk": "світлий",
+      "meaning_es": "claro",
+      "example": "Im Sommer bevorzuge ich *** Töne."
+    },
+    {
+      "term": "ausziehen",
+      "type": "Verb",
+      "meaning_tr": "çıkarmak (kıyafet)",
+      "meaning_en": "to take off",
+      "meaning_uk": "роздягатися",
+      "meaning_es": "quitarse",
+      "example": "Bitte *** deine Schuhe, bevor du reinkommst."
+    },
+    {
+      "term": "eng",
+      "type": "Adjective",
+      "meaning_tr": "dar",
+      "meaning_en": "tight",
+      "meaning_uk": "вузький",
+      "meaning_es": "apretado",
+      "example": "Diese Hose ist mir leider ein bisschen zu ***."
+    },
+    {
+      "term": "weit",
+      "type": "Adjective",
+      "meaning_tr": "bol",
+      "meaning_en": "loose/wide",
+      "meaning_uk": "широкий",
+      "meaning_es": "holgado",
+      "example": "Ich mag es, wenn meine Kleidung eher *** sitzt."
+    },
+    {
+      "term": "nach",
+      "type": "Preposition",
+      "meaning_tr": "-e göre (moda konusunda)",
+      "meaning_en": "according to",
+      "meaning_uk": "згідно з",
+      "meaning_es": "según",
+      "example": "Sie kleidet sich immer ganz *** der neuesten Mode."
+    }
+  ]
+}

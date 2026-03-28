@@ -1,0 +1,420 @@
+{
+  "title": "Jobsuche & Bewerbung (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Stellenausschreibung",
+      "type": "Noun",
+      "example": "Ich habe die *** in der Zeitung gesehen.",
+      "meaning_tr": "iş ilanı",
+      "meaning_en": "job advertisement",
+      "meaning_uk": "оголошення про вакансію",
+      "meaning_es": "oferta de empleo"
+    },
+    {
+      "term": "der Lebenslauf",
+      "type": "Noun",
+      "example": "Bitte schicken Sie mir Ihren *** zu.",
+      "meaning_tr": "özgeçmiş",
+      "meaning_en": "curriculum vitae (CV)",
+      "meaning_uk": "резюме",
+      "meaning_es": "currículum vitae (CV)"
+    },
+    {
+      "term": "das Anschreiben",
+      "type": "Noun",
+      "example": "Das *** ist sehr wichtig für die Bewerbung.",
+      "meaning_tr": "ön yazı",
+      "meaning_en": "cover letter",
+      "meaning_uk": "супровідний лист",
+      "meaning_es": "carta de presentación"
+    },
+    {
+      "term": "die Bewerbung",
+      "type": "Noun",
+      "example": "Meine *** wurde leider abgelehnt.",
+      "meaning_tr": "başvuru",
+      "meaning_en": "application",
+      "meaning_uk": "заявка",
+      "meaning_es": "solicitud"
+    },
+    {
+      "term": "der Bewerber / die Bewerberin",
+      "type": "Noun",
+      "example": "Es gibt viele *** für diese Stelle.",
+      "meaning_tr": "aday",
+      "meaning_en": "applicant",
+      "meaning_uk": "кандидат",
+      "meaning_es": "candidato/a"
+    },
+    {
+      "term": "die Personalabteilung",
+      "type": "Noun",
+      "example": "Bitte wenden Sie sich an die ***.",
+      "meaning_tr": "insan kaynakları departmanı",
+      "meaning_en": "human resources department",
+      "meaning_uk": "відділ кадрів",
+      "meaning_es": "departamento de recursos humanos"
+    },
+    {
+      "term": "der Vorstellungsgespräch",
+      "type": "Noun",
+      "example": "Ich habe nächste Woche ein ***.",
+      "meaning_tr": "iş görüşmesi",
+      "meaning_en": "job interview",
+      "meaning_uk": "співбесіда",
+      "meaning_es": "entrevista de trabajo"
+    },
+    {
+      "term": "die Qualifikation",
+      "type": "Noun",
+      "example": "Welche *** bringen Sie mit?",
+      "meaning_tr": "nitelik",
+      "meaning_en": "qualification",
+      "meaning_uk": "кваліфікація",
+      "meaning_es": "cualificación"
+    },
+    {
+      "term": "die Erfahrung",
+      "type": "Noun",
+      "example": "Ich habe bereits einige Jahre *** in diesem Bereich.",
+      "meaning_tr": "deneyim",
+      "meaning_en": "experience",
+      "meaning_uk": "досвід",
+      "meaning_es": "experiencia"
+    },
+    {
+      "term": "die Referenz",
+      "type": "Noun",
+      "example": "Können Sie uns bitte zwei *** nennen?",
+      "meaning_tr": "referans",
+      "meaning_en": "reference",
+      "meaning_uk": "рекомендація",
+      "meaning_es": "referencia"
+    },
+    {
+      "term": "die Gehaltsvorstellung",
+      "type": "Noun",
+      "example": "Was sind Ihre ***?",
+      "meaning_tr": "maaş beklentisi",
+      "meaning_en": "salary expectation",
+      "meaning_uk": "очікування щодо зарплати",
+      "meaning_es": "expectativa salarial"
+    },
+    {
+      "term": "die Kündigungsfrist",
+      "type": "Noun",
+      "example": "Die *** beträgt einen Monat.",
+      "meaning_tr": "ihbar süresi",
+      "meaning_en": "notice period",
+      "meaning_uk": "термін повідомлення про звільнення",
+      "meaning_es": "plazo de preaviso"
+    },
+    {
+      "term": "der Arbeitsvertrag",
+      "type": "Noun",
+      "example": "Ich habe den *** unterschrieben.",
+      "meaning_tr": "iş sözleşmesi",
+      "meaning_en": "employment contract",
+      "meaning_uk": "трудовий договір",
+      "meaning_es": "contrato de trabajo"
+    },
+    {
+      "term": "die Probezeit",
+      "type": "Noun",
+      "example": "Die *** dauert sechs Monate.",
+      "meaning_tr": "deneme süresi",
+      "meaning_en": "probationary period",
+      "meaning_uk": "випробувальний термін",
+      "meaning_es": "período de prueba"
+    },
+    {
+      "term": "die Weiterbildung",
+      "type": "Noun",
+      "example": "Ich möchte eine *** machen.",
+      "meaning_tr": "mesleki eğitim",
+      "meaning_en": "further training / professional development",
+      "meaning_uk": "підвищення кваліфікації",
+      "meaning_es": "formación continua"
+    },
+    {
+      "term": "die Beförderung",
+      "type": "Noun",
+      "example": "Ich hoffe auf eine baldige ***.",
+      "meaning_tr": "terfi",
+      "meaning_en": "promotion",
+      "meaning_uk": "підвищення по службі",
+      "meaning_es": "ascenso"
+    },
+    {
+      "term": "die Kündigung",
+      "type": "Noun",
+      "example": "Er hat seine *** eingereicht.",
+      "meaning_tr": "istifa",
+      "meaning_en": "resignation",
+      "meaning_uk": "звільнення",
+      "meaning_es": "renuncia"
+    },
+    {
+      "term": "der Arbeitgeber",
+      "type": "Noun",
+      "example": "Mein *** ist sehr zufrieden mit meiner Arbeit.",
+      "meaning_tr": "işveren",
+      "meaning_en": "employer",
+      "meaning_uk": "роботодавець",
+      "meaning_es": "empleador"
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "type": "Noun",
+      "example": "Die Rechte des *** sind geschützt.",
+      "meaning_tr": "işçi",
+      "meaning_en": "employee",
+      "meaning_uk": "працівник",
+      "meaning_es": "empleado"
+    },
+    {
+      "term": "die Arbeitserlaubnis",
+      "type": "Noun",
+      "example": "Haben Sie eine *** für Deutschland?",
+      "meaning_tr": "çalışma izni",
+      "meaning_en": "work permit",
+      "meaning_uk": "дозвіл на роботу",
+      "meaning_es": "permiso de trabajo"
+    },
+    {
+      "term": "die Berufserfahrung",
+      "type": "Noun",
+      "example": "Ich habe zehn Jahre ***.",
+      "meaning_tr": "mesleki deneyim",
+      "meaning_en": "professional experience",
+      "meaning_uk": "професійний досвід",
+      "meaning_es": "experiencia profesional"
+    },
+    {
+      "term": "das Netzwerk",
+      "type": "Noun",
+      "example": "Ein gutes *** ist wichtig für die Jobsuche.",
+      "meaning_tr": "ağ (sosyal, profesyonel)",
+      "meaning_en": "network",
+      "meaning_uk": "мережа (соціальна, професійна)",
+      "meaning_es": "red (social, profesional)"
+    },
+    {
+      "term": "die Stellensuche",
+      "type": "Noun",
+      "example": "Ich bin zurzeit auf ***.",
+      "meaning_tr": "iş arama",
+      "meaning_en": "job search",
+      "meaning_uk": "пошук роботи",
+      "meaning_es": "búsqueda de empleo"
+    },
+    {
+      "term": "die Initiativbewerbung",
+      "type": "Noun",
+      "example": "Ich habe eine *** geschickt.",
+      "meaning_tr": "öz (girişim) başvuru",
+      "meaning_en": "speculative application / unsolicited application",
+      "meaning_uk": "ініціативна заявка",
+      "meaning_es": "candidatura espontánea"
+    },
+    {
+      "term": "die Einstellungsgespräch",
+      "type": "Noun",
+      "example": "Das *** war sehr erfolgreich.",
+      "meaning_tr": "işe alım görüşmesi",
+      "meaning_en": "hiring interview",
+      "meaning_uk": "співбесіда з найму",
+      "meaning_es": "entrevista de contratación"
+    },
+    {
+      "term": "die Eignung",
+      "type": "Noun",
+      "example": "Ihre *** für die Stelle ist offensichtlich.",
+      "meaning_tr": "uygunluk",
+      "meaning_en": "suitability",
+      "meaning_uk": "придатність",
+      "meaning_es": "idoneidad"
+    },
+    {
+      "term": "die Kompetenz",
+      "type": "Noun",
+      "example": "Sie verfügt über ausgezeichnete soziale ***.",
+      "meaning_tr": "yetkinlik, beceri",
+      "meaning_en": "competence / skill",
+      "meaning_uk": "компетентність / навичка",
+      "meaning_es": "competencia / habilidad"
+    },
+    {
+      "term": "die Anforderung",
+      "type": "Noun",
+      "example": "Die ***en der Stelle sind hoch.",
+      "meaning_tr": "gereklilik, talep",
+      "meaning_en": "requirement",
+      "meaning_uk": "вимога",
+      "meaning_es": "requisito"
+    },
+    {
+      "term": "die Stellenbeschreibung",
+      "type": "Noun",
+      "example": "Lesen Sie die *** genau durch.",
+      "meaning_tr": "görev tanımı",
+      "meaning_en": "job description",
+      "meaning_uk": "опис вакансії",
+      "meaning_es": "descripción del puesto"
+    },
+    {
+      "term": "die Gehaltsverhandlung",
+      "type": "Noun",
+      "example": "Wir werden über die *** sprechen.",
+      "meaning_tr": "maaş pazarlığı",
+      "meaning_en": "salary negotiation",
+      "meaning_uk": "переговори про зарплату",
+      "meaning_es": "negociación salarial"
+    },
+    {
+      "term": "die Zeugnis",
+      "type": "Noun",
+      "example": "Ich brauche ein Arbeits***.",
+      "meaning_tr": "belge, referans mektubu",
+      "meaning_en": "certificate / reference letter",
+      "meaning_uk": "свідоцтво / рекомендаційний лист",
+      "meaning_es": "certificado / carta de referencia"
+    },
+    {
+      "term": "der Personalvermittler",
+      "type": "Noun",
+      "example": "Ich arbeite mit einem *** zusammen.",
+      "meaning_tr": "işe alım uzmanı, danışman",
+      "meaning_en": "recruiter / headhunter",
+      "meaning_uk": "рекрутер / хедхантер",
+      "meaning_es": "reclutador / cazatalentos"
+    },
+    {
+      "term": "der Fachmann / die Fachfrau",
+      "type": "Noun",
+      "example": "Er ist ein *** auf seinem Gebiet.",
+      "meaning_tr": "uzman",
+      "meaning_en": "expert / specialist",
+      "meaning_uk": "експерт / фахівець",
+      "meaning_es": "experto/a / especialista"
+    },
+    {
+      "term": "die Karriere",
+      "type": "Noun",
+      "example": "Sie hat eine steile *** gemacht.",
+      "meaning_tr": "kariyer",
+      "meaning_en": "career",
+      "meaning_uk": "кар'єра",
+      "meaning_es": "carrera"
+    },
+    {
+      "term": "die Branche",
+      "type": "Noun",
+      "example": "In welcher *** arbeiten Sie?",
+      "meaning_tr": "sektör, dal",
+      "meaning_en": "industry / sector",
+      "meaning_uk": "галузь / сектор",
+      "meaning_es": "industria / sector"
+    },
+    {
+      "term": "die Bewerbungsunterlagen",
+      "type": "Noun",
+      "example": "Bitte reichen Sie alle *** ein.",
+      "meaning_tr": "başvuru belgeleri",
+      "meaning_en": "application documents",
+      "meaning_uk": "документи для подання заявки",
+      "meaning_es": "documentos de solicitud"
+    },
+    {
+      "term": "die Referenzperson",
+      "type": "Noun",
+      "example": "Nennen Sie uns bitte eine ***.",
+      "meaning_tr": "referans kişi",
+      "meaning_en": "reference person",
+      "meaning_uk": "контактна особа для рекомендації",
+      "meaning_es": "persona de referencia"
+    },
+    {
+      "term": "die E-Mail-Bewerbung",
+      "type": "Noun",
+      "example": "Die *** ist heute üblich.",
+      "meaning_tr": "e-posta başvurusu",
+      "meaning_en": "e-mail application",
+      "meaning_uk": "електронна заявка",
+      "meaning_es": "solicitud por correo electrónico"
+    },
+    {
+      "term": "die Online-Bewerbung",
+      "type": "Noun",
+      "example": "Viele Unternehmen bevorzugen die ***.",
+      "meaning_tr": "çevrimiçi başvuru",
+      "meaning_en": "online application",
+      "meaning_uk": "онлайн-заявка",
+      "meaning_es": "solicitud en línea"
+    },
+    {
+      "term": "die Gehaltsspanne",
+      "type": "Noun",
+      "example": "Die *** liegt zwischen 40.000 und 50.000 Euro.",
+      "meaning_tr": "maaş aralığı",
+      "meaning_en": "salary range",
+      "meaning_uk": "діапазон зарплати",
+      "meaning_es": "rango salarial"
+    },
+    {
+      "term": "die Einstellung",
+      "type": "Noun",
+      "example": "Die *** neuer Mitarbeiter ist geplant.",
+      "meaning_tr": "işe alma, istihdam",
+      "meaning_en": "hiring / employment",
+      "meaning_uk": "найм / працевлаштування",
+      "meaning_es": "contratación / empleo"
+    },
+    {
+      "term": "die Arbeitsbedingungen",
+      "type": "Noun",
+      "example": "Die *** sind hier sehr gut.",
+      "meaning_tr": "çalışma koşulları",
+      "meaning_en": "working conditions",
+      "meaning_uk": "умови праці",
+      "meaning_es": "condiciones laborales"
+    },
+    {
+      "term": "die Stellenzusage",
+      "type": "Noun",
+      "example": "Ich habe eine *** erhalten.",
+      "meaning_tr": "iş teklifi, kabul",
+      "meaning_en": "job offer",
+      "meaning_uk": "пропозиція роботи",
+      "meaning_es": "oferta de empleo"
+    },
+    {
+      "term": "die Jobmesse",
+      "type": "Noun",
+      "example": "Wir besuchen die *** am Wochenende.",
+      "meaning_tr": "iş fuarı",
+      "meaning_en": "job fair",
+      "meaning_uk": "ярмарок вакансій",
+      "meaning_es": "feria de empleo"
+    },
+    {
+      "term": "die Überstunden",
+      "type": "Noun",
+      "example": "Ich muss heute *** machen.",
+      "meaning_tr": "fazla mesai",
+      "meaning_en": "overtime",
+      "meaning_uk": "наднормові години",
+      "meaning_es": "horas extraordinarias"
+    },
+    {
+      "term": "die Einarbeitung",
+      "type": "Noun",
+      "example": "Die *** dauert zwei Wochen.",
+      "meaning_tr": "oryantasyon, işbaşı eğitimi",
+      "meaning_en": "onboarding / induction",
+      "meaning_uk": "адаптація / введення в посаду",
+      "meaning_es": "incorporación / inducción"
+    }
+  ]
+}

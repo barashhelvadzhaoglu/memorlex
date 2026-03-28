@@ -1,0 +1,411 @@
+{
+  "title": "Daily Routine (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "to snooze",
+      "type": "Verb",
+      "example": "I usually hit the button *** for ten minutes before I finally get out of bed.",
+      "meaning_tr": "ertelemek (alarmı)",
+      "meaning_en": "to delay an alarm for a short period",
+      "meaning_uk": "відкласти сигнал будильника",
+      "meaning_es": "posponer la alarma"
+    },
+    {
+      "term": "a morning ritual",
+      "type": "Noun",
+      "example": "Drinking green tea is an essential part of my ***.",
+      "meaning_tr": "sabah rutini",
+      "meaning_en": "a sequence of actions followed every morning",
+      "meaning_uk": "ранковий ритуал",
+      "meaning_es": "ritual matutino"
+    },
+    {
+      "term": "to freshen up",
+      "type": "Verb",
+      "example": "I need a few minutes to *** before our meeting starts.",
+      "meaning_tr": "tazelenmek, elini yüzünü yıkamak",
+      "meaning_en": "to wash and tidy oneself",
+      "meaning_uk": "привести себе до ладу",
+      "meaning_es": "refrescarse"
+    },
+    {
+      "term": "invigorating",
+      "type": "Adjective",
+      "example": "An *** cold shower helps me wake up immediately.",
+      "meaning_tr": "canlandırıcı",
+      "meaning_en": "making one feel strong, healthy, and full of energy",
+      "meaning_uk": "підбадьорливий",
+      "meaning_es": "vigorizante"
+    },
+    {
+      "term": "to commute",
+      "type": "Verb",
+      "example": "Many people *** to the city center by train every day.",
+      "meaning_tr": "işe gidip gelmek",
+      "meaning_en": "to travel some distance between one's home and place of work",
+      "meaning_uk": "їздити на роботу",
+      "meaning_es": "viajar al trabajo"
+    },
+    {
+      "term": "the rush hour",
+      "type": "Noun",
+      "example": "I try to avoid driving during *** to escape the traffic.",
+      "meaning_tr": "trafik yoğunluğu saati",
+      "meaning_en": "a period of heavy traffic",
+      "meaning_uk": "година пік",
+      "meaning_es": "hora punta"
+    },
+    {
+      "term": "to catch up on",
+      "type": "Verb",
+      "example": "I use my lunch break to *** emails.",
+      "meaning_tr": "açığı kapatmak, birikmiş işleri yapmak",
+      "meaning_en": "to do something that you have not been able to do recently",
+      "meaning_uk": "надолужити згаяне",
+      "meaning_es": "ponerse al día con"
+    },
+    {
+      "term": "productive",
+      "type": "Adjective",
+      "example": "I feel most *** during the early hours of the morning.",
+      "meaning_tr": "üretken",
+      "meaning_en": "achieving or producing a significant amount",
+      "meaning_uk": "продуктивний",
+      "meaning_es": "productivo"
+    },
+    {
+      "term": "a deadline",
+      "type": "Noun",
+      "example": "I have to finish this report before the *** tomorrow.",
+      "meaning_tr": "son teslim tarihi",
+      "meaning_en": "the latest time or date by which something should be completed",
+      "meaning_uk": "дедлайн",
+      "meaning_es": "fecha límite"
+    },
+    {
+      "term": "to multitask",
+      "type": "Verb",
+      "example": "It is difficult to *** effectively when you have complex tasks.",
+      "meaning_tr": "aynı anda birden fazla iş yapmak",
+      "meaning_en": "to deal with more than one task at the same time",
+      "meaning_uk": "виконувати кілька завдань одночасно",
+      "meaning_es": "hacer varias tareas a la vez"
+    },
+    {
+      "term": "a break",
+      "type": "Noun",
+      "example": "Taking a short *** improves my concentration.",
+      "meaning_tr": "mola, ara",
+      "meaning_en": "a pause in work or during an activity",
+      "meaning_uk": "перерва",
+      "meaning_es": "descanso"
+    },
+    {
+      "term": "exhausting",
+      "type": "Adjective",
+      "example": "After a long day, I find the housework quite ***.",
+      "meaning_tr": "yorucu",
+      "meaning_en": "very tiring",
+      "meaning_uk": "виснажливий",
+      "meaning_es": "agotador"
+    },
+    {
+      "term": "to unwind",
+      "type": "Verb",
+      "example": "I like to listen to jazz music to *** after a busy day.",
+      "meaning_tr": "gevşemek, rahatlamak",
+      "meaning_en": "to relax after a period of work or tension",
+      "meaning_uk": "розслабитися",
+      "meaning_es": "relajarse"
+    },
+    {
+      "term": "leisurely",
+      "type": "Adverb",
+      "example": "We took a *** stroll through the park in the evening.",
+      "meaning_tr": "keyifli, acele etmeden",
+      "meaning_en": "acting or done in an unhurried or relaxed way",
+      "meaning_uk": "неквапливо",
+      "meaning_es": "pausadamente"
+    },
+    {
+      "term": "a chore",
+      "type": "Noun",
+      "example": "Doing the laundry is my least favorite household ***.",
+      "meaning_tr": "ev işi",
+      "meaning_en": "a routine task, especially a household one",
+      "meaning_uk": "хатня робота",
+      "meaning_es": "tarea doméstica"
+    },
+    {
+      "term": "to run errands",
+      "type": "Verb",
+      "example": "I need to go out and *** before the shops close.",
+      "meaning_tr": "ayak işlerini halletmek",
+      "meaning_en": "to go out to do small tasks like shopping or paying bills",
+      "meaning_uk": "виконувати дрібні доручення",
+      "meaning_es": "hacer recados"
+    },
+    {
+      "term": "flexible",
+      "type": "Adjective",
+      "example": "My company offers *** working hours, which helps my routine.",
+      "meaning_tr": "esnek",
+      "meaning_en": "able to be easily modified to respond to altered circumstances",
+      "meaning_uk": "гнучкий",
+      "meaning_es": "flexible"
+    },
+    {
+      "term": "to get round to",
+      "type": "Verb",
+      "example": "I finally *** cleaning the garage this weekend.",
+      "meaning_tr": "sıra gelmek, vakit bulabilmek",
+      "meaning_en": "to find the time to do something",
+      "meaning_uk": "знайти час на щось",
+      "meaning_es": "encontrar tiempo para"
+    },
+    {
+      "term": "an appointment",
+      "type": "Noun",
+      "example": "I have a dentist *** at three o'clock.",
+      "meaning_tr": "randevu",
+      "meaning_en": "a formal arrangement to meet someone at a particular time",
+      "meaning_uk": "зустріч (за домовленістю)",
+      "meaning_es": "cita"
+    },
+    {
+      "term": "consequently",
+      "type": "Adverb",
+      "example": "I forgot to set my alarm; ***, I woke up late.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "as a result",
+      "meaning_uk": "як наслідок",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "meanwhile",
+      "type": "Adverb",
+      "example": "I started cooking dinner; ***, my partner set the table.",
+      "meaning_tr": "bu arada",
+      "meaning_en": "at the same time",
+      "meaning_uk": "тим часом",
+      "meaning_es": "mientras tanto"
+    },
+    {
+      "term": "to prioritize",
+      "type": "Verb",
+      "example": "It is vital to *** your tasks to manage your day better.",
+      "meaning_tr": "öncelik vermek",
+      "meaning_en": "to designate or treat as more important than other things",
+      "meaning_uk": "визначати пріоритети",
+      "meaning_es": "priorizar"
+    },
+    {
+      "term": "sedentary",
+      "type": "Adjective",
+      "example": "Working in an office often involves a *** lifestyle.",
+      "meaning_tr": "hareketsiz (yaşam tarzı)",
+      "meaning_en": "tending to spend much time seated; somewhat inactive",
+      "meaning_uk": "малорухливий",
+      "meaning_es": "sedentario"
+    },
+    {
+      "term": "a habit",
+      "type": "Noun",
+      "example": "Developing a healthy *** takes time and consistency.",
+      "meaning_tr": "alışkanlık",
+      "meaning_en": "a settled or regular tendency or practice",
+      "meaning_uk": "звичка",
+      "meaning_es": "hábito"
+    },
+    {
+      "term": "to procrastinate",
+      "type": "Verb",
+      "example": "If you ***, you will feel more stressed at the end of the day.",
+      "meaning_tr": "ertelemek, ağırdan almak",
+      "meaning_en": "to delay or postpone action",
+      "meaning_uk": "відкладати на потім",
+      "meaning_es": "procrastinar"
+    },
+    {
+      "term": "a schedule",
+      "type": "Noun",
+      "example": "I keep my busy *** in a digital calendar.",
+      "meaning_tr": "program, takvim",
+      "meaning_en": "a plan for carrying out a process or procedure",
+      "meaning_uk": "розклад",
+      "meaning_es": "horario"
+    },
+    {
+      "term": "regularly",
+      "type": "Adverb",
+      "example": "I go to the gym *** to stay in shape.",
+      "meaning_tr": "düzenli olarak",
+      "meaning_en": "at uniform intervals",
+      "meaning_uk": "регулярно",
+      "meaning_es": "regularmente"
+    },
+    {
+      "term": "to drift off",
+      "type": "Verb",
+      "example": "I usually *** while reading a book in bed.",
+      "meaning_tr": "uyuyakalmak",
+      "meaning_en": "to gradually fall asleep",
+      "meaning_uk": "засинати",
+      "meaning_es": "quedarse dormido"
+    },
+    {
+      "term": "insomnia",
+      "type": "Noun",
+      "example": "High stress levels can lead to chronic ***.",
+      "meaning_tr": "uykusuzluk",
+      "meaning_en": "habitual sleeplessness",
+      "meaning_uk": "безсоння",
+      "meaning_es": "insomnio"
+    },
+    {
+      "term": "to tidy up",
+      "type": "Verb",
+      "example": "Before I go to sleep, I like to *** the living room.",
+      "meaning_tr": "toparlamak",
+      "meaning_en": "to make a place neat and clean",
+      "meaning_uk": "прибирати",
+      "meaning_es": "ordenar"
+    },
+    {
+      "term": "although",
+      "type": "Conjunction",
+      "example": "*** I am tired, I still want to finish this chapter.",
+      "meaning_tr": "-e rağmen, gerçi",
+      "meaning_en": "in spite of the fact that",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "to catch up",
+      "type": "Verb",
+      "example": "Let's meet for coffee to *** on old times.",
+      "meaning_tr": "hasret gidermek, görüşmek",
+      "meaning_en": "to talk to someone you have not seen for a while",
+      "meaning_uk": "поспілкуватися (після тривалої перерви)",
+      "meaning_es": "ponerse al día"
+    },
+    {
+      "term": "in advance",
+      "type": "Preposition",
+      "example": "It is better to prepare your meals *** to save time.",
+      "meaning_tr": "önceden",
+      "meaning_en": "before a particular time",
+      "meaning_uk": "заздалегідь",
+      "meaning_es": "con antelación"
+    },
+    {
+      "term": "to get back to",
+      "type": "Verb",
+      "example": "I will *** you regarding the meeting time later today.",
+      "meaning_tr": "dönüş yapmak (cevap vermek)",
+      "meaning_en": "to respond to someone later",
+      "meaning_uk": "відповісти пізніше",
+      "meaning_es": "responder más tarde"
+    },
+    {
+      "term": "a commitment",
+      "type": "Noun",
+      "example": "I have a family *** on Saturday that I cannot miss.",
+      "meaning_tr": "taahhüt, söz, sorumluluk",
+      "meaning_en": "an engagement or obligation that restricts freedom of action",
+      "meaning_uk": "зобов'язання",
+      "meaning_es": "compromiso"
+    },
+    {
+      "term": "to maintain",
+      "type": "Verb",
+      "example": "It is hard to *** a healthy routine when traveling.",
+      "meaning_tr": "sürdürmek, korumak",
+      "meaning_en": "to keep something in its existing state",
+      "meaning_uk": "підтримувати",
+      "meaning_es": "mantener"
+    },
+    {
+      "term": "efficiently",
+      "type": "Adverb",
+      "example": "If you organize your desk, you will work more ***.",
+      "meaning_tr": "verimli bir şekilde",
+      "meaning_en": "in a way that achieves maximum productivity",
+      "meaning_uk": "ефективно",
+      "meaning_es": "eficientemente"
+    },
+    {
+      "term": "a household",
+      "type": "Noun",
+      "example": "Everyone in the *** shares the cleaning duties.",
+      "meaning_tr": "hane, ev halkı",
+      "meaning_en": "a person or group of people living in the same residence",
+      "meaning_uk": "домогосподарство",
+      "meaning_es": "hogar"
+    },
+    {
+      "term": "to put off",
+      "type": "Verb",
+      "example": "Don't *** doing your homework until the last minute.",
+      "meaning_tr": "ertelemek",
+      "meaning_en": "to postpone",
+      "meaning_uk": "відкладати",
+      "meaning_es": "posponer"
+    },
+    {
+      "term": "regardless of",
+      "type": "Preposition",
+      "example": "I exercise every morning *** how tired I am.",
+      "meaning_tr": "-e bakılmaksızın",
+      "meaning_en": "without being affected by",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "independientemente de"
+    },
+    {
+      "term": "a balance",
+      "type": "Noun",
+      "example": "It is important to find a work-life ***.",
+      "meaning_tr": "denge",
+      "meaning_en": "a condition in which different elements are equal",
+      "meaning_uk": "баланс",
+      "meaning_es": "equilibrio"
+    },
+    {
+      "term": "to recharge",
+      "type": "Verb",
+      "example": "The weekend is my time to *** my batteries.",
+      "meaning_tr": "yenilenmek, enerji toplamak",
+      "meaning_en": "to regain energy",
+      "meaning_uk": "відновити сили",
+      "meaning_es": "recargar las pilas"
+    },
+    {
+      "term": "eventually",
+      "type": "Adverb",
+      "example": "If you keep practicing, you will *** master the language.",
+      "meaning_tr": "sonunda, nihayetinde",
+      "meaning_en": "in the end",
+      "meaning_uk": "зрештою",
+      "meaning_es": "finalmente"
+    },
+    {
+      "term": "to establish",
+      "type": "Verb",
+      "example": "It takes about a month to *** a new routine.",
+      "meaning_tr": "kurmak, oluşturmak",
+      "meaning_en": "to set up on a firm or permanent basis",
+      "meaning_uk": "встановити",
+      "meaning_es": "establecer"
+    },
+    {
+      "term": "a workload",
+      "type": "Noun",
+      "example": "My *** has been very heavy this month.",
+      "meaning_tr": "iş yükü",
+      "meaning_en": "the amount of work to be done by someone",
+      "meaning_uk": "обсяг роботи",
+      "meaning_es": "carga de trabajo"
+    }
+  ]
+}

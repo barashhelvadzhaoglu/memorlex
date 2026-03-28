@@ -1,0 +1,321 @@
+{
+  "title": "Transporte y Movilidad (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el atasco",
+      "type": "Noun",
+      "example": "Llegué tarde al trabajo por culpa de *** en la autopista.",
+      "meaning_tr": "trafik sıkışıklığı",
+      "meaning_en": "traffic jam",
+      "meaning_uk": "затор",
+      "meaning_es": "congestión vehicular"
+    },
+    {
+      "term": "el billete",
+      "type": "Noun",
+      "example": "He comprado *** de tren para viajar a Madrid mañana.",
+      "meaning_tr": "bilet",
+      "meaning_en": "ticket",
+      "meaning_uk": "квиток",
+      "meaning_es": "documento para viajar"
+    },
+    {
+      "term": "la parada",
+      "type": "Noun",
+      "example": "El autobús se detuvo en *** y bajaron varios pasajeros.",
+      "meaning_tr": "durak",
+      "meaning_en": "bus stop",
+      "meaning_uk": "зупинка",
+      "meaning_es": "lugar donde para el autobús"
+    },
+    {
+      "term": "facturar",
+      "type": "Verb",
+      "example": "Debes *** las maletas antes de pasar por el control de seguridad.",
+      "meaning_tr": "bagaj teslim etmek",
+      "meaning_en": "to check in (luggage)",
+      "meaning_uk": "здавати багаж",
+      "meaning_es": "registrar el equipaje"
+    },
+    {
+      "term": "el andén",
+      "type": "Noun",
+      "example": "El tren de alta velocidad ya está llegando a *** número cinco.",
+      "meaning_tr": "peron",
+      "meaning_en": "platform",
+      "meaning_uk": "перон",
+      "meaning_es": "plataforma de la estación"
+    },
+    {
+      "term": "el carril bici",
+      "type": "Noun",
+      "example": "Es más seguro ir al trabajo usando ***.",
+      "meaning_tr": "bisiklet yolu",
+      "meaning_en": "bike lane",
+      "meaning_uk": "велодоріжка",
+      "meaning_es": "vía para bicicletas"
+    },
+    {
+      "term": "embarcar",
+      "type": "Verb",
+      "example": "Los pasajeros deben *** por la puerta de salida B12.",
+      "meaning_tr": "uçağa binmek",
+      "meaning_en": "to board",
+      "meaning_uk": "сідати на борт",
+      "meaning_es": "subir a un medio de transporte"
+    },
+    {
+      "term": "el trayecto",
+      "type": "Noun",
+      "example": "*** en metro dura aproximadamente veinte minutos.",
+      "meaning_tr": "yolculuk",
+      "meaning_en": "journey/trip",
+      "meaning_uk": "поїздка",
+      "meaning_es": "recorrido o viaje"
+    },
+    {
+      "term": "la autopista",
+      "type": "Noun",
+      "example": "Conducir por *** requiere mucha atención y precaución.",
+      "meaning_tr": "otoyol",
+      "meaning_en": "highway",
+      "meaning_uk": "автомагістраль",
+      "meaning_es": "carretera de alta velocidad"
+    },
+    {
+      "term": "el transbordo",
+      "type": "Noun",
+      "example": "Tienes que hacer *** en la estación central para cambiar de línea.",
+      "meaning_tr": "aktarma",
+      "meaning_en": "transfer",
+      "meaning_uk": "пересадка",
+      "meaning_es": "cambio de vehículo o línea"
+    },
+    {
+      "term": "el conductor",
+      "type": "Noun",
+      "example": "*** del autobús fue muy amable con los turistas.",
+      "meaning_tr": "sürücü",
+      "meaning_en": "driver",
+      "meaning_uk": "водій",
+      "meaning_es": "persona que maneja un vehículo"
+    },
+    {
+      "term": "la señal de tráfico",
+      "type": "Noun",
+      "example": "No viste *** y te saltaste el semáforo en rojo.",
+      "meaning_tr": "trafik işareti",
+      "meaning_en": "traffic sign",
+      "meaning_uk": "дорожній знак",
+      "meaning_es": "indicador vial"
+    },
+    {
+      "term": "aparcado",
+      "type": "Adjective",
+      "example": "El coche está *** en la calle principal desde ayer.",
+      "meaning_tr": "park edilmiş",
+      "meaning_en": "parked",
+      "meaning_uk": "припаркований",
+      "meaning_es": "estacionado"
+    },
+    {
+      "term": "aterrizar",
+      "type": "Verb",
+      "example": "El avión va a *** en diez minutos aproximadamente.",
+      "meaning_tr": "iniş yapmak",
+      "meaning_en": "to land",
+      "meaning_uk": "приземлятися",
+      "meaning_es": "tocar tierra un avión"
+    },
+    {
+      "term": "despegar",
+      "type": "Verb",
+      "example": "El vuelo está programado para *** a las ocho de la mañana.",
+      "meaning_tr": "havalanmak",
+      "meaning_en": "to take off",
+      "meaning_uk": "злітати",
+      "meaning_es": "iniciar el vuelo"
+    },
+    {
+      "term": "la maleta",
+      "type": "Noun",
+      "example": "He preparado *** con todo lo necesario para las vacaciones.",
+      "meaning_tr": "bavul",
+      "meaning_en": "suitcase",
+      "meaning_uk": "валіза",
+      "meaning_es": "equipaje para viajar"
+    },
+    {
+      "term": "la multa",
+      "type": "Noun",
+      "example": "Me pusieron *** por aparcar en un lugar prohibido.",
+      "meaning_tr": "ceza",
+      "meaning_en": "fine",
+      "meaning_uk": "штраф",
+      "meaning_es": "sanción económica"
+    },
+    {
+      "term": "el peatón",
+      "type": "Noun",
+      "example": "Los coches deben ceder el paso a *** en los pasos de cebra.",
+      "meaning_tr": "yaya",
+      "meaning_en": "pedestrian",
+      "meaning_uk": "пішохід",
+      "meaning_es": "persona que camina"
+    },
+    {
+      "term": "el cinturón de seguridad",
+      "type": "Noun",
+      "example": "Es obligatorio ponerse *** antes de arrancar el vehículo.",
+      "meaning_tr": "emniyet kemeri",
+      "meaning_en": "seatbelt",
+      "meaning_uk": "ремінь безпеки",
+      "meaning_es": "dispositivo de sujeción en el coche"
+    },
+    {
+      "term": "la gasolinera",
+      "type": "Noun",
+      "example": "Necesito parar en *** para llenar el depósito de combustible.",
+      "meaning_tr": "benzin istasyonu",
+      "meaning_en": "gas station",
+      "meaning_uk": "заправка",
+      "meaning_es": "lugar para repostar combustible"
+    },
+    {
+      "term": "el taxi",
+      "type": "Noun",
+      "example": "He pedido *** por teléfono para ir al aeropuerto.",
+      "meaning_tr": "taksi",
+      "meaning_en": "taxi",
+      "meaning_uk": "таксі",
+      "meaning_es": "vehículo de transporte público individual"
+    },
+    {
+      "term": "rápido",
+      "type": "Adjective",
+      "example": "El tren de alta velocidad es muy *** comparado con el autobús.",
+      "meaning_tr": "hızlı",
+      "meaning_en": "fast",
+      "meaning_uk": "швидкий",
+      "meaning_es": "que va a gran velocidad"
+    },
+    {
+      "term": "el pasajero",
+      "type": "Noun",
+      "example": "Cada *** debe llevar su documento de identidad a mano.",
+      "meaning_tr": "yolcu",
+      "meaning_en": "passenger",
+      "meaning_uk": "пасажир",
+      "meaning_es": "persona que viaja en un vehículo"
+    },
+    {
+      "term": "la bicicleta",
+      "type": "Noun",
+      "example": "Voy a trabajar en *** porque es más ecológico.",
+      "meaning_tr": "bisiklet",
+      "meaning_en": "bicycle",
+      "meaning_uk": "велосипед",
+      "meaning_es": "vehículo de dos ruedas a pedal"
+    },
+    {
+      "term": "el destino",
+      "type": "Noun",
+      "example": "Nuestro *** final es la ciudad de Barcelona.",
+      "meaning_tr": "varış noktası",
+      "meaning_en": "destination",
+      "meaning_uk": "пункт призначення",
+      "meaning_es": "lugar al que se dirige alguien"
+    },
+    {
+      "term": "retrasado",
+      "type": "Adjective",
+      "example": "El vuelo de las diez está *** debido a la fuerte lluvia.",
+      "meaning_tr": "gecikmiş",
+      "meaning_en": "delayed",
+      "meaning_uk": "затриманий",
+      "meaning_es": "que llega tarde"
+    },
+    {
+      "term": "conducir",
+      "type": "Verb",
+      "example": "He aprendido a *** este año y ya tengo mi carné.",
+      "meaning_tr": "araba sürmek",
+      "meaning_en": "to drive",
+      "meaning_uk": "керувати авто",
+      "meaning_es": "manejar un vehículo"
+    },
+    {
+      "term": "el horario",
+      "type": "Noun",
+      "example": "Consulta *** en la web para saber cuándo sale el próximo tren.",
+      "meaning_tr": "tarife",
+      "meaning_en": "schedule/timetable",
+      "meaning_uk": "розклад",
+      "meaning_es": "tiempo y orden de los servicios"
+    },
+    {
+      "term": "el trayecto",
+      "type": "Noun",
+      "example": "El *** de casa a la oficina es bastante largo.",
+      "meaning_tr": "güzergah",
+      "meaning_en": "route",
+      "meaning_uk": "маршрут",
+      "meaning_es": "camino recorrido"
+    },
+    {
+      "term": "el mapa",
+      "type": "Noun",
+      "example": "Usa *** del metro para no perderte en el centro.",
+      "meaning_tr": "harita",
+      "meaning_en": "map",
+      "meaning_uk": "карта",
+      "meaning_es": "representación geográfica"
+    },
+    {
+      "term": "lejos",
+      "type": "Adverb",
+      "example": "La estación de autobuses está muy *** de aquí.",
+      "meaning_tr": "uzak",
+      "meaning_en": "far",
+      "meaning_uk": "далеко",
+      "meaning_es": "a gran distancia"
+    },
+    {
+      "term": "cerca",
+      "type": "Adverb",
+      "example": "Hay una parada de metro muy *** de mi casa.",
+      "meaning_tr": "yakın",
+      "meaning_en": "near",
+      "meaning_uk": "близько",
+      "meaning_es": "a poca distancia"
+    },
+    {
+      "term": "y",
+      "type": "Conjunction",
+      "example": "Voy a ir en tren *** luego tomaré un taxi.",
+      "meaning_tr": "ve",
+      "meaning_en": "and",
+      "meaning_uk": "і",
+      "meaning_es": "conjunción copulativa"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "Quería ir en avión, *** los billetes estaban agotados.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "hacia",
+      "type": "Preposition",
+      "example": "El barco se dirige *** el puerto principal.",
+      "meaning_tr": "doğru",
+      "meaning_en": "towards",
+      "meaning_uk": "у напрямку до",
+      "meaning_es": "con dirección a"
+    }
+  ]
+}

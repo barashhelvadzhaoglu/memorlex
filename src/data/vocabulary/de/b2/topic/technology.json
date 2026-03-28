@@ -1,0 +1,411 @@
+{
+  "title": "Technologie & IT (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Schnittstelle",
+      "type": "Noun",
+      "example": "Die neue *** ermöglicht eine einfache Datenübertragung.",
+      "meaning_tr": "arayüz",
+      "meaning_en": "interface",
+      "meaning_uk": "інтерфейс",
+      "meaning_es": "interfaz"
+    },
+    {
+      "term": "die Verschlüsselung",
+      "type": "Noun",
+      "example": "Eine starke *** schützt sensible Informationen.",
+      "meaning_tr": "şifreleme",
+      "meaning_en": "encryption",
+      "meaning_uk": "шифрування",
+      "meaning_es": "cifrado"
+    },
+    {
+      "term": "die Cloud",
+      "type": "Noun",
+      "example": "Wir speichern alle Backups in der ***.",
+      "meaning_tr": "bulut",
+      "meaning_en": "cloud",
+      "meaning_uk": "хмара",
+      "meaning_es": "nube"
+    },
+    {
+      "term": "die Anwendung",
+      "type": "Noun",
+      "example": "Diese mobile *** ist sehr benutzerfreundlich.",
+      "meaning_tr": "uygulama",
+      "meaning_en": "application",
+      "meaning_uk": "додаток",
+      "meaning_es": "aplicación"
+    },
+    {
+      "term": "die Hardware",
+      "type": "Noun",
+      "example": "Die veraltete *** muss dringend ersetzt werden.",
+      "meaning_tr": "donanım",
+      "meaning_en": "hardware",
+      "meaning_uk": "апаратне забезпечення",
+      "meaning_es": "hardware"
+    },
+    {
+      "term": "die Software",
+      "type": "Noun",
+      "example": "Die *** wurde auf die neueste Version aktualisiert.",
+      "meaning_tr": "yazılım",
+      "meaning_en": "software",
+      "meaning_uk": "програмне забезпечення",
+      "meaning_es": "software"
+    },
+    {
+      "term": "die Datenbank",
+      "type": "Noun",
+      "example": "Der Administrator verwaltet die zentrale ***.",
+      "meaning_tr": "veritabanı",
+      "meaning_en": "database",
+      "meaning_uk": "база даних",
+      "meaning_es": "base de datos"
+    },
+    {
+      "term": "die Firewall",
+      "type": "Noun",
+      "example": "Die *** verhindert unbefugte Zugriffe auf das Netzwerk.",
+      "meaning_tr": "güvenlik duvarı",
+      "meaning_en": "firewall",
+      "meaning_uk": "брандмауер",
+      "meaning_es": "cortafuegos"
+    },
+    {
+      "term": "die Bandbreite",
+      "type": "Noun",
+      "example": "Für Videokonferenzen benötigt man eine hohe ***.",
+      "meaning_tr": "bant genişliği",
+      "meaning_en": "bandwidth",
+      "meaning_uk": "пропускна здатність",
+      "meaning_es": "ancho de banda"
+    },
+    {
+      "term": "die Künstliche Intelligenz",
+      "type": "Noun",
+      "example": "Die *** verändert unseren Arbeitsalltag grundlegend.",
+      "meaning_tr": "yapay zeka",
+      "meaning_en": "artificial intelligence",
+      "meaning_uk": "штучний інтелект",
+      "meaning_es": "inteligencia artificial"
+    },
+    {
+      "term": "die Aktualisierung",
+      "type": "Noun",
+      "example": "Haben Sie die *** bereits installiert?",
+      "meaning_tr": "güncelleme",
+      "meaning_en": "update",
+      "meaning_uk": "оновлення",
+      "meaning_es": "actualización"
+    },
+    {
+      "term": "die Datensicherheit",
+      "type": "Noun",
+      "example": "Die *** hat für unser Unternehmen höchste Priorität.",
+      "meaning_tr": "veri güvenliği",
+      "meaning_en": "data security",
+      "meaning_uk": "безпека даних",
+      "meaning_es": "seguridad de datos"
+    },
+    {
+      "term": "die Speicherkapazität",
+      "type": "Noun",
+      "example": "Die *** reicht für alle Projekte aus.",
+      "meaning_tr": "depolama kapasitesi",
+      "meaning_en": "storage capacity",
+      "meaning_uk": "обсяг пам'яті",
+      "meaning_es": "capacidad de almacenamiento"
+    },
+    {
+      "term": "der Algorithmus",
+      "type": "Noun",
+      "example": "Der komplexe *** berechnet die besten Suchergebnisse.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "algoritmo"
+    },
+    {
+      "term": "der Prozessor",
+      "type": "Noun",
+      "example": "Ein schneller *** verbessert die Systemleistung.",
+      "meaning_tr": "işlemci",
+      "meaning_en": "processor",
+      "meaning_uk": "процесор",
+      "meaning_es": "procesador"
+    },
+    {
+      "term": "der Server",
+      "type": "Noun",
+      "example": "Der *** ist heute Morgen ausgefallen.",
+      "meaning_tr": "sunucu",
+      "meaning_en": "server",
+      "meaning_uk": "сервер",
+      "meaning_es": "servidor"
+    },
+    {
+      "term": "der Benutzer",
+      "type": "Noun",
+      "example": "Jeder *** benötigt ein individuelles Passwort.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "usuario"
+    },
+    {
+      "term": "der Datenschutz",
+      "type": "Noun",
+      "example": "Wir halten uns strikt an die Richtlinien zum ***.",
+      "meaning_tr": "veri koruma",
+      "meaning_en": "data protection",
+      "meaning_uk": "захист даних",
+      "meaning_es": "protección de datos"
+    },
+    {
+      "term": "der Breitbandanschluss",
+      "type": "Noun",
+      "example": "Ein stabiler *** ist heute unerlässlich.",
+      "meaning_tr": "geniş bant bağlantısı",
+      "meaning_en": "broadband connection",
+      "meaning_uk": "широкосмугове підключення",
+      "meaning_es": "conexión de banda ancha"
+    },
+    {
+      "term": "der Quellcode",
+      "type": "Noun",
+      "example": "Der Entwickler hat den *** optimiert.",
+      "meaning_tr": "kaynak kodu",
+      "meaning_en": "source code",
+      "meaning_uk": "вихідний код",
+      "meaning_es": "código fuente"
+    },
+    {
+      "term": "der Arbeitsspeicher",
+      "type": "Noun",
+      "example": "Mein Computer benötigt mehr ***.",
+      "meaning_tr": "bellek (RAM)",
+      "meaning_en": "RAM",
+      "meaning_uk": "оперативна пам'ять",
+      "meaning_es": "memoria RAM"
+    },
+    {
+      "term": "der Zugriff",
+      "type": "Noun",
+      "example": "Sie haben keinen *** auf diesen Ordner.",
+      "meaning_tr": "erişim",
+      "meaning_en": "access",
+      "meaning_uk": "доступ",
+      "meaning_es": "acceso"
+    },
+    {
+      "term": "das Betriebssystem",
+      "type": "Noun",
+      "example": "Welches *** nutzen Sie auf Ihrem Laptop?",
+      "meaning_tr": "işletim sistemi",
+      "meaning_en": "operating system",
+      "meaning_uk": "операційна система",
+      "meaning_es": "sistema operativo"
+    },
+    {
+      "term": "das Netzwerk",
+      "type": "Noun",
+      "example": "Das interne *** ist momentan überlastet.",
+      "meaning_tr": "ağ",
+      "meaning_en": "network",
+      "meaning_uk": "мережа",
+      "meaning_es": "red"
+    },
+    {
+      "term": "das Endgerät",
+      "type": "Noun",
+      "example": "Die App funktioniert auf jedem ***.",
+      "meaning_tr": "uç cihaz",
+      "meaning_en": "end device",
+      "meaning_uk": "кінцевий пристрій",
+      "meaning_es": "dispositivo final"
+    },
+    {
+      "term": "das Backup",
+      "type": "Noun",
+      "example": "Man sollte regelmäßig ein *** erstellen.",
+      "meaning_tr": "yedekleme",
+      "meaning_en": "backup",
+      "meaning_uk": "резервна копія",
+      "meaning_es": "copia de seguridad"
+    },
+    {
+      "term": "das Verzeichnis",
+      "type": "Noun",
+      "example": "Die Datei befindet sich im falschen ***.",
+      "meaning_tr": "dizin",
+      "meaning_en": "directory",
+      "meaning_uk": "каталог",
+      "meaning_es": "directorio"
+    },
+    {
+      "term": "verknüpfen",
+      "type": "Verb",
+      "example": "Man kann die Konten einfach miteinander ***.",
+      "meaning_tr": "bağlamak",
+      "meaning_en": "to link",
+      "meaning_uk": "пов'язувати",
+      "meaning_es": "enlazar"
+    },
+    {
+      "term": "installieren",
+      "type": "Verb",
+      "example": "Ich muss noch die Treiber ***.",
+      "meaning_tr": "kurmak",
+      "meaning_en": "to install",
+      "meaning_uk": "встановлювати",
+      "meaning_es": "instalar"
+    },
+    {
+      "term": "konfigurieren",
+      "type": "Verb",
+      "example": "Der Techniker wird das System neu ***.",
+      "meaning_tr": "yapılandırmak",
+      "meaning_en": "to configure",
+      "meaning_uk": "конфігурувати",
+      "meaning_es": "configurar"
+    },
+    {
+      "term": "speichern",
+      "type": "Verb",
+      "example": "Vergessen Sie nicht, das Dokument zu ***.",
+      "meaning_tr": "kaydetmek",
+      "meaning_en": "to save",
+      "meaning_uk": "зберігати",
+      "meaning_es": "guardar"
+    },
+    {
+      "term": "herunterladen",
+      "type": "Verb",
+      "example": "Kannst du die Datei bitte ***?",
+      "meaning_tr": "indirmek",
+      "meaning_en": "to download",
+      "meaning_uk": "завантажувати",
+      "meaning_es": "descargar"
+    },
+    {
+      "term": "hochladen",
+      "type": "Verb",
+      "example": "Ich werde die Fotos in die Cloud ***.",
+      "meaning_tr": "yüklemek",
+      "meaning_en": "to upload",
+      "meaning_uk": "завантажувати (на сервер)",
+      "meaning_es": "subir"
+    },
+    {
+      "term": "verschlüsseln",
+      "type": "Verb",
+      "example": "Alle E-Mails sollten *** werden.",
+      "meaning_tr": "şifrelemek",
+      "meaning_en": "to encrypt",
+      "meaning_uk": "шифрувати",
+      "meaning_es": "cifrar"
+    },
+    {
+      "term": "aktualisieren",
+      "type": "Verb",
+      "example": "Das System wird automatisch ***.",
+      "meaning_tr": "güncellemek",
+      "meaning_en": "to update",
+      "meaning_uk": "оновлювати",
+      "meaning_es": "actualizar"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "example": "Wir leben in einer zunehmend *** Welt.",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "digital"
+    },
+    {
+      "term": "kompatibel",
+      "type": "Adjective",
+      "example": "Ist diese Hardware mit dem System ***?",
+      "meaning_tr": "uyumlu",
+      "meaning_en": "compatible",
+      "meaning_uk": "сумісний",
+      "meaning_es": "compatible"
+    },
+    {
+      "term": "effizient",
+      "type": "Adjective",
+      "example": "Diese Software arbeitet sehr ***.",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "eficiente"
+    },
+    {
+      "term": "kabellos",
+      "type": "Adjective",
+      "example": "Die Tastatur ist *** und sehr praktisch.",
+      "meaning_tr": "kablosuz",
+      "meaning_en": "wireless",
+      "meaning_uk": "бездротовий",
+      "meaning_es": "inalámbrico"
+    },
+    {
+      "term": "automatisch",
+      "type": "Adverb",
+      "example": "Die Sicherung erfolgt *** jede Nacht.",
+      "meaning_tr": "otomatik olarak",
+      "meaning_en": "automatically",
+      "meaning_uk": "автоматично",
+      "meaning_es": "automáticamente"
+    },
+    {
+      "term": "online",
+      "type": "Adverb",
+      "example": "Wir sind fast den ganzen Tag ***.",
+      "meaning_tr": "çevrimiçi",
+      "meaning_en": "online",
+      "meaning_uk": "онлайн",
+      "meaning_es": "en línea"
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "example": "*** das Programm läuft, darf man den PC nicht ausschalten.",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "під час того, як",
+      "meaning_es": "mientras"
+    },
+    {
+      "term": "obwohl",
+      "type": "Conjunction",
+      "example": "*** das System alt ist, läuft es sehr schnell.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque"
+    },
+    {
+      "term": "mithilfe",
+      "type": "Preposition",
+      "example": "*** eines Passworts sind die Daten geschützt.",
+      "meaning_tr": "yardımıyla",
+      "meaning_en": "with the help of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "con la ayuda de"
+    },
+    {
+      "term": "bezüglich",
+      "type": "Preposition",
+      "example": "Haben Sie Fragen *** der neuen Software?",
+      "meaning_tr": "ile ilgili",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "respecto a"
+    }
+  ]
+}

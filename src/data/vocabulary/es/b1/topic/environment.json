@@ -1,0 +1,321 @@
+{
+  "title": "Medio Ambiente y Naturaleza (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el calentamiento global",
+      "type": "Noun",
+      "example": "*** es uno de los mayores desafíos para la humanidad en el siglo XXI.",
+      "meaning_tr": "küresel ısınma",
+      "meaning_en": "global warming",
+      "meaning_uk": "глобальне потепління",
+      "meaning_es": "aumento de la temperatura de la Tierra"
+    },
+    {
+      "term": "la contaminación",
+      "type": "Noun",
+      "example": "Debemos reducir *** en nuestras ciudades para respirar mejor.",
+      "meaning_tr": "kirlilik",
+      "meaning_en": "pollution",
+      "meaning_uk": "забруднення",
+      "meaning_es": "presencia de agentes nocivos en el entorno"
+    },
+    {
+      "term": "reciclar",
+      "type": "Verb",
+      "example": "Es importante *** el papel y el plástico para cuidar el planeta.",
+      "meaning_tr": "geri dönüştürmek",
+      "meaning_en": "to recycle",
+      "meaning_uk": "переробляти",
+      "meaning_es": "someter materiales usados a un proceso de transformación"
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "example": "El desarrollo *** busca proteger los recursos naturales para el futuro.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "que se puede mantener sin agotar los recursos"
+    },
+    {
+      "term": "el medio ambiente",
+      "type": "Noun",
+      "example": "Cuidar *** es responsabilidad de todos los ciudadanos.",
+      "meaning_tr": "çevre",
+      "meaning_en": "environment",
+      "meaning_uk": "довкілля",
+      "meaning_es": "conjunto de elementos físicos y biológicos que rodean a los seres vivos"
+    },
+    {
+      "term": "la especie",
+      "type": "Noun",
+      "example": "Muchas animales están en peligro de extinción y cada *** es valiosa.",
+      "meaning_tr": "tür",
+      "meaning_en": "species",
+      "meaning_uk": "вид",
+      "meaning_es": "grupo de seres con características comunes"
+    },
+    {
+      "term": "proteger",
+      "type": "Verb",
+      "example": "Los gobiernos deben *** los bosques de la deforestación.",
+      "meaning_tr": "korumak",
+      "meaning_en": "to protect",
+      "meaning_uk": "захищати",
+      "meaning_es": "resguardar a alguien o algo de peligro"
+    },
+    {
+      "term": "los residuos",
+      "type": "Noun",
+      "example": "No debemos tirar *** en la playa ni en el mar.",
+      "meaning_tr": "atıklar",
+      "meaning_en": "waste",
+      "meaning_uk": "відходи",
+      "meaning_es": "materiales que se desechan"
+    },
+    {
+      "term": "ecológico",
+      "type": "Adjective",
+      "example": "Comprar productos de origen *** ayuda a reducir nuestra huella de carbono.",
+      "meaning_tr": "ekolojik",
+      "meaning_en": "ecological",
+      "meaning_uk": "екологічний",
+      "meaning_es": "relativo al equilibrio entre los seres vivos y su entorno"
+    },
+    {
+      "term": "la energía renovable",
+      "type": "Noun",
+      "example": "El uso de *** es fundamental para frenar el cambio climático.",
+      "meaning_tr": "yenilenebilir enerji",
+      "meaning_en": "renewable energy",
+      "meaning_uk": "відновлювана енергія",
+      "meaning_es": "energía obtenida de fuentes naturales inagotables"
+    },
+    {
+      "term": "la sequía",
+      "type": "Noun",
+      "example": "Debido a la falta de lluvia, la región sufre una grave ***.",
+      "meaning_tr": "kuraklık",
+      "meaning_en": "drought",
+      "meaning_uk": "посуха",
+      "meaning_es": "largo periodo de tiempo sin lluvia"
+    },
+    {
+      "term": "malgastar",
+      "type": "Verb",
+      "example": "No debemos *** el agua cuando nos cepillamos los dientes.",
+      "meaning_tr": "israf etmek",
+      "meaning_en": "to waste",
+      "meaning_uk": "марнувати",
+      "meaning_es": "gastar algo inútilmente"
+    },
+    {
+      "term": "la naturaleza",
+      "type": "Noun",
+      "example": "Me encanta pasar el fin de semana disfrutando de ***.",
+      "meaning_tr": "doğa",
+      "meaning_en": "nature",
+      "meaning_uk": "природа",
+      "meaning_es": "mundo material que no ha sido creado por el ser humano"
+    },
+    {
+      "term": "dañino",
+      "type": "Adjective",
+      "example": "El humo de las fábricas es muy *** para la salud.",
+      "meaning_tr": "zararlı",
+      "meaning_en": "harmful",
+      "meaning_uk": "шкідливий",
+      "meaning_es": "que causa daño"
+    },
+    {
+      "term": "la deforestación",
+      "type": "Noun",
+      "example": "La *** está destruyendo el hábitat de muchos animales en la selva.",
+      "meaning_tr": "orman kaybı",
+      "meaning_en": "deforestation",
+      "meaning_uk": "знеліснення",
+      "meaning_es": "reducción progresiva de las zonas forestales"
+    },
+    {
+      "term": "reducir",
+      "type": "Verb",
+      "example": "Tenemos que *** el uso de bolsas de plástico.",
+      "meaning_tr": "azaltmak",
+      "meaning_en": "to reduce",
+      "meaning_uk": "зменшувати",
+      "meaning_es": "hacer menor la cantidad de algo"
+    },
+    {
+      "term": "consciente",
+      "type": "Adjective",
+      "example": "Debemos ser *** de que los recursos naturales son limitados.",
+      "meaning_tr": "bilinçli",
+      "meaning_en": "conscious",
+      "meaning_uk": "свідомий",
+      "meaning_es": "que tiene conocimiento de algo"
+    },
+    {
+      "term": "el ecosistema",
+      "type": "Noun",
+      "example": "La contaminación afecta gravemente el *** marino.",
+      "meaning_tr": "ekosistem",
+      "meaning_en": "ecosystem",
+      "meaning_uk": "екосистема",
+      "meaning_es": "comunidad de seres vivos y su medio ambiente"
+    },
+    {
+      "term": "el cambio climático",
+      "type": "Noun",
+      "example": "El *** es una realidad que afecta a todo el planeta.",
+      "meaning_tr": "iklim değişikliği",
+      "meaning_en": "climate change",
+      "meaning_uk": "зміна клімату",
+      "meaning_es": "variación global del clima de la Tierra"
+    },
+    {
+      "term": "ahorrar",
+      "type": "Verb",
+      "example": "Apagar las luces ayuda a *** energía eléctrica.",
+      "meaning_tr": "tasarruf etmek",
+      "meaning_en": "to save",
+      "meaning_uk": "економити",
+      "meaning_es": "guardar dinero o recursos"
+    },
+    {
+      "term": "la fauna",
+      "type": "Noun",
+      "example": "Esta reserva protege la *** y la flora de la región.",
+      "meaning_tr": "yaban hayatı",
+      "meaning_en": "wildlife",
+      "meaning_uk": "фауна",
+      "meaning_es": "conjunto de animales de una zona"
+    },
+    {
+      "term": "la catástrofe",
+      "type": "Noun",
+      "example": "El incendio forestal fue una verdadera *** natural.",
+      "meaning_tr": "felaket",
+      "meaning_en": "catastrophe",
+      "meaning_uk": "катастрофа",
+      "meaning_es": "suceso que produce gran daño"
+    },
+    {
+      "term": "limpio",
+      "type": "Adjective",
+      "example": "Es nuestra obligación mantener el aire y el agua ***.",
+      "meaning_tr": "temiz",
+      "meaning_en": "clean",
+      "meaning_uk": "чистий",
+      "meaning_es": "que no tiene suciedad"
+    },
+    {
+      "term": "la capa de ozono",
+      "type": "Noun",
+      "example": "Los gases tóxicos dañan ***.",
+      "meaning_tr": "ozon tabakası",
+      "meaning_en": "ozone layer",
+      "meaning_uk": "озоновий шар",
+      "meaning_es": "capa atmosférica que filtra los rayos ultravioleta"
+    },
+    {
+      "term": "contaminar",
+      "type": "Verb",
+      "example": "No debemos *** los ríos con productos químicos.",
+      "meaning_tr": "kirletmek",
+      "meaning_en": "to pollute",
+      "meaning_uk": "забруднювати",
+      "meaning_es": "alterar nocivamente la pureza de algo"
+    },
+    {
+      "term": "el recurso",
+      "type": "Noun",
+      "example": "El agua es un *** natural muy valioso y escaso.",
+      "meaning_tr": "kaynak",
+      "meaning_en": "resource",
+      "meaning_uk": "ресурс",
+      "meaning_es": "bien o medio del que se dispone"
+    },
+    {
+      "term": "la atmósfera",
+      "type": "Noun",
+      "example": "El dióxido de carbono se acumula en ***.",
+      "meaning_tr": "atmosfer",
+      "meaning_en": "atmosphere",
+      "meaning_uk": "атмосфера",
+      "meaning_es": "capa de gases que rodea la Tierra"
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "El problema de la basura es un desafío ***.",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "que abarca a todo el mundo"
+    },
+    {
+      "term": "la inundación",
+      "type": "Noun",
+      "example": "Tras las fuertes lluvias, hubo una gran *** en el pueblo.",
+      "meaning_tr": "sel",
+      "meaning_en": "flood",
+      "meaning_uk": "повінь",
+      "meaning_es": "ocupación por agua de zonas que normalmente están secas"
+    },
+    {
+      "term": "biológico",
+      "type": "Adjective",
+      "example": "Debemos respetar el ciclo *** de los animales.",
+      "meaning_tr": "biyolojik",
+      "meaning_en": "biological",
+      "meaning_uk": "біологічний",
+      "meaning_es": "relacionado con la biología o la vida"
+    },
+    {
+      "term": "reutilizar",
+      "type": "Verb",
+      "example": "Podemos *** las botellas de vidrio para guardar cosas.",
+      "meaning_tr": "yeniden kullanmak",
+      "meaning_en": "to reuse",
+      "meaning_uk": "повторно використовувати",
+      "meaning_es": "volver a utilizar algo"
+    },
+    {
+      "term": "la sostenibilidad",
+      "type": "Noun",
+      "example": "La *** es el camino para un futuro mejor.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталість",
+      "meaning_es": "cualidad de lo que se puede mantener a largo plazo"
+    },
+    {
+      "term": "natural",
+      "type": "Adjective",
+      "example": "Este parque tiene una belleza *** increíble.",
+      "meaning_tr": "doğal",
+      "meaning_en": "natural",
+      "meaning_uk": "природний",
+      "meaning_es": "que pertenece a la naturaleza"
+    },
+    {
+      "term": "la extinción",
+      "type": "Noun",
+      "example": "Muchas especies están en peligro de ***.",
+      "meaning_tr": "nesli tükenme",
+      "meaning_en": "extinction",
+      "meaning_uk": "вимирання",
+      "meaning_es": "desaparición total de una especie"
+    },
+    {
+      "term": "responsable",
+      "type": "Adjective",
+      "example": "Debemos ser consumidores *** para ayudar al medio ambiente.",
+      "meaning_tr": "sorumlu",
+      "meaning_en": "responsible",
+      "meaning_uk": "відповідальний",
+      "meaning_es": "que cumple con sus obligaciones"
+    }
+  ]
+}

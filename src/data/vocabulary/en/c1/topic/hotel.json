@@ -1,0 +1,546 @@
+{
+  "title": "At the Hotel (C1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a concierge",
+      "type": "Noun",
+      "example": "If you need tickets for the opera, simply ask *** for assistance.",
+      "meaning_tr": "resepsiyon görevlisi",
+      "meaning_en": "a hotel employee who helps guests with arrangements",
+      "meaning_uk": "консьєрж",
+      "meaning_es": "un conserje"
+    },
+    {
+      "term": "an amenity",
+      "type": "Noun",
+      "example": "The spa and the heated pool are just two of the many *** offered by the resort.",
+      "meaning_tr": "olanak",
+      "meaning_en": "a desirable or useful feature or facility of a building or place",
+      "meaning_uk": "зручність",
+      "meaning_es": "una comodidad"
+    },
+    {
+      "term": "to accommodate",
+      "type": "Verb",
+      "example": "The hotel is happy to *** any special dietary requirements you may have.",
+      "meaning_tr": "yerleştirmek / uyum sağlamak",
+      "meaning_en": "to provide lodging or space for someone",
+      "meaning_uk": "розміщувати",
+      "meaning_es": "alojar"
+    },
+    {
+      "term": "an occupancy",
+      "type": "Noun",
+      "example": "Due to high *** during the peak season, we advise booking well in advance.",
+      "meaning_tr": "doluluk oranı",
+      "meaning_en": "the action or fact of occupying a place",
+      "meaning_uk": "зайнятість",
+      "meaning_es": "una ocupación"
+    },
+    {
+      "term": "a vacancy",
+      "type": "Noun",
+      "example": "I am afraid we have no *** for the weekend as the hotel is fully booked.",
+      "meaning_tr": "boş yer",
+      "meaning_en": "an available room in a hotel",
+      "meaning_uk": "вільне місце",
+      "meaning_es": "una vacante"
+    },
+    {
+      "term": "an en-suite bathroom",
+      "type": "Noun",
+      "example": "Each bedroom comes with a private *** for your convenience.",
+      "meaning_tr": "ebeveyn banyosu",
+      "meaning_en": "a bathroom directly connected to a bedroom",
+      "meaning_uk": "власна ванна кімната",
+      "meaning_es": "un baño en suite"
+    },
+    {
+      "term": "lavish",
+      "type": "Adjective",
+      "example": "The suite was decorated in a *** style, featuring gold-plated fixtures.",
+      "meaning_tr": "gösterişli",
+      "meaning_en": "sumptuously rich, elaborate, or luxurious",
+      "meaning_uk": "розкішний",
+      "meaning_es": "lujoso"
+    },
+    {
+      "term": "to check in",
+      "type": "Verb",
+      "example": "Guests are required to *** at the front desk upon arrival.",
+      "meaning_tr": "giriş yapmak",
+      "meaning_en": "to register one's arrival at a hotel",
+      "meaning_uk": "зареєструватися",
+      "meaning_es": "registrarse"
+    },
+    {
+      "term": "to check out",
+      "type": "Verb",
+      "example": "Please ensure you *** by midday to avoid additional charges.",
+      "meaning_tr": "çıkış yapmak",
+      "meaning_en": "to pay one's bill and leave a hotel",
+      "meaning_uk": "виселитися",
+      "meaning_es": "salir del hotel"
+    },
+    {
+      "term": "a hospitality",
+      "type": "Noun",
+      "example": "The hotel is renowned for its exceptional *** and attentive service.",
+      "meaning_tr": "misafirperverlik",
+      "meaning_en": "the friendly and generous reception and entertainment of guests",
+      "meaning_uk": "гостинність",
+      "meaning_es": "una hospitalidad"
+    },
+    {
+      "term": "complimentary",
+      "type": "Adjective",
+      "example": "We offer a *** breakfast buffet for all our registered guests.",
+      "meaning_tr": "ücretsiz",
+      "meaning_en": "given or supplied free of charge",
+      "meaning_uk": "безкоштовний",
+      "meaning_es": "gratuito"
+    },
+    {
+      "term": "a suite",
+      "type": "Noun",
+      "example": "We decided to upgrade to a luxury *** for our anniversary.",
+      "meaning_tr": "süit oda",
+      "meaning_en": "a set of connected rooms in a hotel",
+      "meaning_uk": "люкс",
+      "meaning_es": "una suite"
+    },
+    {
+      "term": "to book",
+      "type": "Verb",
+      "example": "I would like to *** a room with a sea view for three nights.",
+      "meaning_tr": "rezervasyon yapmak",
+      "meaning_en": "to reserve accommodation",
+      "meaning_uk": "забронювати",
+      "meaning_es": "reservar"
+    },
+    {
+      "term": "a reservation",
+      "type": "Noun",
+      "example": "Could you please confirm the *** under the name Smith?",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "an arrangement to have a room held for one's use",
+      "meaning_uk": "бронювання",
+      "meaning_es": "una reserva"
+    },
+    {
+      "term": "a housekeeping",
+      "type": "Noun",
+      "example": "Please contact *** if you require extra towels or pillows.",
+      "meaning_tr": "kat hizmetleri",
+      "meaning_en": "the department responsible for cleaning hotel rooms",
+      "meaning_uk": "покоївки",
+      "meaning_es": "un servicio de limpieza"
+    },
+    {
+      "term": "an itinerary",
+      "type": "Noun",
+      "example": "The concierge helped us plan a detailed *** for our city tour.",
+      "meaning_tr": "seyahat programı",
+      "meaning_en": "a planned route or journey",
+      "meaning_uk": "маршрут",
+      "meaning_es": "un itinerario"
+    },
+    {
+      "term": "exquisite",
+      "type": "Adjective",
+      "example": "The lobby features *** architectural details that impress every visitor.",
+      "meaning_tr": "zarif / enfes",
+      "meaning_en": "extremely beautiful and delicate",
+      "meaning_uk": "вишуканий",
+      "meaning_es": "exquisito"
+    },
+    {
+      "term": "a deposit",
+      "type": "Noun",
+      "example": "A security *** is required upon arrival to cover any potential damages.",
+      "meaning_tr": "depozito",
+      "meaning_en": "a sum of money paid as a first installment or as a pledge",
+      "meaning_uk": "депозит",
+      "meaning_es": "un depósito"
+    },
+    {
+      "term": "to extend",
+      "type": "Verb",
+      "example": "We enjoyed our stay so much that we decided to *** it by two days.",
+      "meaning_tr": "uzatmak",
+      "meaning_en": "to make a stay longer in duration",
+      "meaning_uk": "продовжити",
+      "meaning_es": "extender"
+    },
+    {
+      "term": "an availability",
+      "type": "Noun",
+      "example": "I will check the *** of our presidential suite for your requested dates.",
+      "meaning_tr": "müsaitlik",
+      "meaning_en": "the state of being able to be used or obtained",
+      "meaning_uk": "наявність",
+      "meaning_es": "una disponibilidad"
+    },
+    {
+      "term": "a surcharge",
+      "type": "Noun",
+      "example": "There is a small *** for using the hotel's laundry service.",
+      "meaning_tr": "ek ücret",
+      "meaning_en": "an additional charge or payment",
+      "meaning_uk": "додаткова плата",
+      "meaning_es": "un recargo"
+    },
+    {
+      "term": "impeccable",
+      "type": "Adjective",
+      "example": "The hotel staff provided *** service throughout our entire stay.",
+      "meaning_tr": "kusursuz",
+      "meaning_en": "in accordance with the highest standards; faultless",
+      "meaning_uk": "бездоганний",
+      "meaning_es": "impecable"
+    },
+    {
+      "term": "a front desk",
+      "type": "Noun",
+      "example": "If you have any questions, please visit the *** in the lobby.",
+      "meaning_tr": "resepsiyon",
+      "meaning_en": "the reception area of a hotel",
+      "meaning_uk": "ресепшн",
+      "meaning_es": "una recepción"
+    },
+    {
+      "term": "a porter",
+      "type": "Noun",
+      "example": "A friendly *** will take your luggage up to your room.",
+      "meaning_tr": "otel görevlisi / hamal",
+      "meaning_en": "a person employed to carry luggage",
+      "meaning_uk": "портьє",
+      "meaning_es": "un botones"
+    },
+    {
+      "term": "a bellhop",
+      "type": "Noun",
+      "example": "The *** carried our heavy suitcases to the elevator.",
+      "meaning_tr": "otel görevlisi",
+      "meaning_en": "a hotel employee who carries luggage for guests",
+      "meaning_uk": "коридорний",
+      "meaning_es": "un maletero"
+    },
+    {
+      "term": "to accommodate",
+      "type": "Verb",
+      "example": "We can easily *** a party of ten in our private dining room.",
+      "meaning_tr": "ağırlamak / yerleştirmek",
+      "meaning_en": "to provide space for",
+      "meaning_uk": "розміщувати",
+      "meaning_es": "dar cabida a"
+    },
+    {
+      "term": "an adjoining room",
+      "type": "Noun",
+      "example": "We requested an *** so we could stay close to our children.",
+      "meaning_tr": "bitişik oda",
+      "meaning_en": "a room that is next to another and connected by a door",
+      "meaning_uk": "суміжний номер",
+      "meaning_es": "una habitación contigua"
+    },
+    {
+      "term": "a cancellation policy",
+      "type": "Noun",
+      "example": "Please read our *** carefully before finalizing your booking.",
+      "meaning_tr": "iptal politikası",
+      "meaning_en": "the rules regarding cancelling a reservation",
+      "meaning_uk": "політика скасування",
+      "meaning_es": "una política de cancelación"
+    },
+    {
+      "term": "a continental breakfast",
+      "type": "Noun",
+      "example": "The room rate includes a light *** served in the lounge.",
+      "meaning_tr": "kontinental kahvaltı",
+      "meaning_en": "a light breakfast, typically consisting of coffee, juice, and bread",
+      "meaning_uk": "континентальний сніданок",
+      "meaning_es": "un desayuno continental"
+    },
+    {
+      "term": "a high-speed internet access",
+      "type": "Noun",
+      "example": "All guest rooms are equipped with *** for business travelers.",
+      "meaning_tr": "yüksek hızlı internet erişimi",
+      "meaning_en": "fast connection to the internet",
+      "meaning_uk": "високошвидкісний доступ до інтернету",
+      "meaning_es": "un acceso a internet de alta velocidad"
+    },
+    {
+      "term": "a mini-bar",
+      "type": "Noun",
+      "example": "Please note that items consumed from the *** are charged to your account.",
+      "meaning_tr": "mini bar",
+      "meaning_en": "a small refrigerator in a hotel room",
+      "meaning_uk": "міні-бар",
+      "meaning_es": "un minibar"
+    },
+    {
+      "term": "a room service",
+      "type": "Noun",
+      "example": "We ordered a late-night snack through *** after arriving late.",
+      "meaning_tr": "oda servisi",
+      "meaning_en": "a service by which hotel guests can order food to their rooms",
+      "meaning_uk": "обслуговування номерів",
+      "meaning_es": "un servicio de habitaciones"
+    },
+    {
+      "term": "a wake-up call",
+      "type": "Noun",
+      "example": "I have requested a *** for 7:00 AM tomorrow morning.",
+      "meaning_tr": "uyandırma servisi",
+      "meaning_en": "a telephone call arranged by the hotel to wake a guest",
+      "meaning_uk": "дзвінок-будильник",
+      "meaning_es": "una llamada despertador"
+    },
+    {
+      "term": "a valet parking",
+      "type": "Noun",
+      "example": "The hotel offers *** for the convenience of our guests.",
+      "meaning_tr": "vale hizmeti",
+      "meaning_en": "a service where an employee parks your car for you",
+      "meaning_uk": "послуги паркувальника",
+      "meaning_es": "un servicio de aparcacoches"
+    },
+    {
+      "term": "a blackout curtain",
+      "type": "Noun",
+      "example": "The room is fitted with a *** to ensure a restful sleep.",
+      "meaning_tr": "karartma perdesi",
+      "meaning_en": "curtains designed to block out all sunlight",
+      "meaning_uk": "штори блекаут",
+      "meaning_es": "una cortina opaca"
+    },
+    {
+      "term": "a duvet",
+      "type": "Noun",
+      "example": "The bed was made with a soft, warm *** and high-thread-count linens.",
+      "meaning_tr": "yorgan",
+      "meaning_en": "a soft quilt filled with down or synthetic fiber",
+      "meaning_uk": "ковдра",
+      "meaning_es": "un edredón"
+    },
+    {
+      "term": "a safe deposit box",
+      "type": "Noun",
+      "example": "Please store your valuables in the *** provided in your closet.",
+      "meaning_tr": "kasa",
+      "meaning_en": "a secure box for storing valuable items",
+      "meaning_uk": "сейф",
+      "meaning_es": "una caja fuerte"
+    },
+    {
+      "term": "a turn-down service",
+      "type": "Noun",
+      "example": "The staff provides a nightly *** to prepare the room for sleep.",
+      "meaning_tr": "yatak hazırlama hizmeti",
+      "meaning_en": "the service of preparing a bed for sleeping in the evening",
+      "meaning_uk": "вечірній сервіс",
+      "meaning_es": "un servicio de preparación de cama"
+    },
+    {
+      "term": "a peak season",
+      "type": "Noun",
+      "example": "Prices are significantly higher during the *** due to high demand.",
+      "meaning_tr": "yoğun sezon",
+      "meaning_en": "the busiest time of year for a hotel",
+      "meaning_uk": "піковий сезон",
+      "meaning_es": "una temporada alta"
+    },
+    {
+      "term": "off-peak",
+      "type": "Adjective",
+      "example": "Traveling during the *** period can save you a lot of money.",
+      "meaning_tr": "sezon dışı",
+      "meaning_en": "not during the busiest time",
+      "meaning_uk": "не в піковий період",
+      "meaning_es": "fuera de temporada"
+    },
+    {
+      "term": "a voucher",
+      "type": "Noun",
+      "example": "Please present your gift *** at the reception to claim your discount.",
+      "meaning_tr": "kupon / fiş",
+      "meaning_en": "a document that can be exchanged for goods or services",
+      "meaning_uk": "ваучер",
+      "meaning_es": "un vale"
+    },
+    {
+      "term": "to facilitate",
+      "type": "Verb",
+      "example": "Our staff is here to *** a seamless and comfortable check-in process.",
+      "meaning_tr": "kolaylaştırmak",
+      "meaning_en": "to make an action or process easy or easier",
+      "meaning_uk": "сприяти",
+      "meaning_es": "facilitar"
+    },
+    {
+      "term": "an infrastructure",
+      "type": "Noun",
+      "example": "The hotel has invested heavily in its digital *** to serve guests better.",
+      "meaning_tr": "altyapı",
+      "meaning_en": "the basic physical and organizational structures",
+      "meaning_uk": "інфраструктура",
+      "meaning_es": "una infraestructura"
+    },
+    {
+      "term": "an occupant",
+      "type": "Noun",
+      "example": "The room was left in excellent condition by the previous ***.",
+      "meaning_tr": "sakin / oturan",
+      "meaning_en": "a person who resides or is present in a house or room",
+      "meaning_uk": "мешканець",
+      "meaning_es": "un ocupante"
+    },
+    {
+      "term": "a concierge desk",
+      "type": "Noun",
+      "example": "You can find the *** located to the right of the main entrance.",
+      "meaning_tr": "danışma masası",
+      "meaning_en": "the station where the concierge works",
+      "meaning_uk": "стійка консьєржа",
+      "meaning_es": "un mostrador de conserjería"
+    },
+    {
+      "term": "to rectify",
+      "type": "Verb",
+      "example": "We apologize for the inconvenience and will *** the issue immediately.",
+      "meaning_tr": "düzeltmek",
+      "meaning_en": "to put right; correct",
+      "meaning_uk": "виправляти",
+      "meaning_es": "rectificar"
+    },
+    {
+      "term": "a comprehensive",
+      "type": "Adjective",
+      "example": "The hotel offers a *** range of services for corporate events.",
+      "meaning_tr": "kapsamlı",
+      "meaning_en": "complete; including all or nearly all elements",
+      "meaning_uk": "комплексний",
+      "meaning_es": "integral"
+    },
+    {
+      "term": "to refurbish",
+      "type": "Verb",
+      "example": "The hotel will close for a month to *** all the guest rooms.",
+      "meaning_tr": "yenilemek",
+      "meaning_en": "to renovate and redecorate something",
+      "meaning_uk": "ремонтувати",
+      "meaning_es": "reformar"
+    },
+    {
+      "term": "a hospitality industry",
+      "type": "Noun",
+      "example": "She has worked in the *** for over twenty years.",
+      "meaning_tr": "konaklama sektörü",
+      "meaning_en": "the business of providing services to guests",
+      "meaning_uk": "готельна індустрія",
+      "meaning_es": "una industria hotelera"
+    },
+    {
+      "term": "a luxury",
+      "type": "Noun",
+      "example": "Staying at this resort is a true *** that everyone should experience once.",
+      "meaning_tr": "lüks",
+      "meaning_en": "the state of great comfort and extravagant living",
+      "meaning_uk": "розкіш",
+      "meaning_es": "un lujo"
+    },
+    {
+      "term": "an accessible",
+      "type": "Adjective",
+      "example": "We offer rooms that are fully *** for guests with mobility issues.",
+      "meaning_tr": "erişilebilir",
+      "meaning_en": "easy to approach or use, especially by people with disabilities",
+      "meaning_uk": "доступний",
+      "meaning_es": "accesible"
+    },
+    {
+      "term": "a surcharge",
+      "type": "Noun",
+      "example": "There is a mandatory *** for service during holiday periods.",
+      "meaning_tr": "ek ücret",
+      "meaning_en": "an additional charge",
+      "meaning_uk": "додатковий збір",
+      "meaning_es": "un recargo"
+    },
+    {
+      "term": "to solicit",
+      "type": "Verb",
+      "example": "We kindly *** your feedback to help us improve our services.",
+      "meaning_tr": "talep etmek / istemek",
+      "meaning_en": "to ask for or try to obtain something from someone",
+      "meaning_uk": "просити",
+      "meaning_es": "solicitar"
+    },
+    {
+      "term": "a boutique hotel",
+      "type": "Noun",
+      "example": "We prefer staying in a *** because of its unique and personal atmosphere.",
+      "meaning_tr": "butik otel",
+      "meaning_en": "a small, stylish hotel",
+      "meaning_uk": "бутик-готель",
+      "meaning_es": "un hotel boutique"
+    },
+    {
+      "term": "a vacancy",
+      "type": "Noun",
+      "example": "There is no *** for the dates you have selected.",
+      "meaning_tr": "boşluk / boş oda",
+      "meaning_en": "a room that is currently unoccupied",
+      "meaning_uk": "вільний номер",
+      "meaning_es": "una plaza libre"
+    },
+    {
+      "term": "a guest ledger",
+      "type": "Noun",
+      "example": "The manager reviewed the *** to track the daily financial transactions.",
+      "meaning_tr": "misafir kayıt defteri",
+      "meaning_en": "a book or record of all guest accounts",
+      "meaning_uk": "гостьова книга обліку",
+      "meaning_es": "un registro de huéspedes"
+    },
+    {
+      "term": "a premium",
+      "type": "Adjective",
+      "example": "Our *** rooms offer the best views of the city skyline.",
+      "meaning_tr": "üstün nitelikli / birinci sınıf",
+      "meaning_en": "of a very high quality",
+      "meaning_uk": "преміальний",
+      "meaning_es": "de primera calidad"
+    },
+    {
+      "term": "a check-in counter",
+      "type": "Noun",
+      "example": "Please proceed to the *** to collect your room keys.",
+      "meaning_tr": "giriş bankosu",
+      "meaning_en": "the place where you register at a hotel",
+      "meaning_uk": "стійка реєстрації",
+      "meaning_es": "un mostrador de facturación"
+    },
+    {
+      "term": "to accommodate",
+      "type": "Verb",
+      "example": "Our conference hall can *** up to five hundred delegates.",
+      "meaning_tr": "ağırlamak",
+      "meaning_en": "to have space for",
+      "meaning_uk": "вміщувати",
+      "meaning_es": "albergar"
+    },
+    {
+      "term": "a stay",
+      "type": "Noun",
+      "example": "We hope you have a pleasant *** at our hotel.",
+      "meaning_tr": "konaklama",
+      "meaning_en": "a period of living in a place as a guest",
+      "meaning_uk": "перебування",
+      "meaning_es": "una estancia"
+    }
+  ]
+}

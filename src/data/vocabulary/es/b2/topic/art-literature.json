@@ -1,0 +1,411 @@
+{
+  "title": "Arte y Literatura (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el lienzo",
+      "type": "Noun",
+      "example": "El artista aplicó la pintura sobre ***.",
+      "meaning_tr": "tuval",
+      "meaning_en": "canvas",
+      "meaning_uk": "полотно",
+      "meaning_es": "superficie sobre la que se pinta"
+    },
+    {
+      "term": "la escultura",
+      "type": "Noun",
+      "example": "Admire la *** detallada en el museo.",
+      "meaning_tr": "heykel",
+      "meaning_en": "sculpture",
+      "meaning_uk": "скульптура",
+      "meaning_es": "obra de arte tridimensional"
+    },
+    {
+      "term": "el mural",
+      "type": "Noun",
+      "example": "El *** representaba escenas históricas.",
+      "meaning_tr": "duvar resmi",
+      "meaning_en": "mural",
+      "meaning_uk": "фреска",
+      "meaning_es": "pintura mural"
+    },
+    {
+      "term": "el grabado",
+      "type": "Noun",
+      "example": "El museo exhibía un *** antiguo.",
+      "meaning_tr": "gravür",
+      "meaning_en": "engraving",
+      "meaning_uk": "гравюра",
+      "meaning_es": "técnica de impresión o la obra resultante"
+    },
+    {
+      "term": "la acuarela",
+      "type": "Noun",
+      "example": "Prefiero pintar paisajes con ***.",
+      "meaning_tr": "suluboya",
+      "meaning_en": "watercolor",
+      "meaning_uk": "акварель",
+      "meaning_es": "técnica de pintura con pigmentos solubles en agua"
+    },
+    {
+      "term": "el óleo",
+      "type": "Noun",
+      "example": "La riqueza de colores del *** es inigualable.",
+      "meaning_tr": "yağlıboya",
+      "meaning_en": "oil paint",
+      "meaning_uk": "олійна фарба",
+      "meaning_es": "pintura a base de aceite"
+    },
+    {
+      "term": "el boceto",
+      "type": "Noun",
+      "example": "Hizo un *** rápido antes de comenzar la obra final.",
+      "meaning_tr": "taslak",
+      "meaning_en": "sketch",
+      "meaning_uk": "ескіз",
+      "meaning_es": "dibujo preliminar"
+    },
+    {
+      "term": "el verso",
+      "type": "Noun",
+      "example": "Cada *** del poema tenía un significado profundo.",
+      "meaning_tr": "dize",
+      "meaning_en": "verse",
+      "meaning_uk": "вірш",
+      "meaning_es": "unidad de un poema"
+    },
+    {
+      "term": "la estrofa",
+      "type": "Noun",
+      "example": "La *** final del soneto era muy emotiva.",
+      "meaning_tr": "kıta",
+      "meaning_en": "stanza",
+      "meaning_uk": "строфа",
+      "meaning_es": "conjunto de versos"
+    },
+    {
+      "term": "la rima",
+      "type": "Noun",
+      "example": "La *** consonante le daba musicalidad al poema.",
+      "meaning_tr": "kafiye",
+      "meaning_en": "rhyme",
+      "meaning_uk": "рима",
+      "meaning_es": "similitud de sonidos al final de los versos"
+    },
+    {
+      "term": "el ritmo",
+      "type": "Noun",
+      "example": "El *** de la narración era pausado.",
+      "meaning_tr": "ritim",
+      "meaning_en": "rhythm",
+      "meaning_uk": "ритм",
+      "meaning_es": "movimiento y cadencia"
+    },
+    {
+      "term": "la métrica",
+      "type": "Noun",
+      "example": "Estudió la *** de los poemas clásicos.",
+      "meaning_tr": "ölçü",
+      "meaning_en": "meter",
+      "meaning_uk": "метрика",
+      "meaning_es": "medida y estructura de los versos"
+    },
+    {
+      "term": "el género literario",
+      "type": "Noun",
+      "example": "La novela pertenece al *** narrativo.",
+      "meaning_tr": "edebi tür",
+      "meaning_en": "literary genre",
+      "meaning_uk": "літературний жанр",
+      "meaning_es": "clasificación de obras literarias"
+    },
+    {
+      "term": "la prosa",
+      "type": "Noun",
+      "example": "Escribió su tesis en ***.",
+      "meaning_tr": "nesir",
+      "meaning_en": "prose",
+      "meaning_uk": "проза",
+      "meaning_es": "forma natural del lenguaje escrito u oral"
+    },
+    {
+      "term": "la narrativa",
+      "type": "Noun",
+      "example": "La *** de la historia era muy cautivadora.",
+      "meaning_tr": "anlatı",
+      "meaning_en": "narrative",
+      "meaning_uk": "оповідь",
+      "meaning_es": "acción de narrar o el resultado de narrar"
+    },
+    {
+      "term": "el personaje",
+      "type": "Noun",
+      "example": "El *** principal evolucionó a lo largo de la novela.",
+      "meaning_tr": "karakter",
+      "meaning_en": "character",
+      "meaning_uk": "персонаж",
+      "meaning_es": "individuo en una obra de ficción"
+    },
+    {
+      "term": "el argumento",
+      "type": "Noun",
+      "example": "El *** de la película era predecible.",
+      "meaning_tr": "argüman, konu",
+      "meaning_en": "plot, argument",
+      "meaning_uk": "сюжет, аргумент",
+      "meaning_es": "trama o desarrollo de una obra"
+    },
+    {
+      "term": "el diálogo",
+      "type": "Noun",
+      "example": "Los *** entre los protagonistas eran ingeniosos.",
+      "meaning_tr": "diyalog",
+      "meaning_en": "dialogue",
+      "meaning_uk": "діалог",
+      "meaning_es": "conversación entre dos o más personas"
+    },
+    {
+      "term": "el monólogo",
+      "type": "Noun",
+      "example": "El actor pronunció un *** conmovedor.",
+      "meaning_tr": "monolog",
+      "meaning_en": "monologue",
+      "meaning_uk": "монолог",
+      "meaning_es": "discurso de una sola persona"
+    },
+    {
+      "term": "el simbolismo",
+      "type": "Noun",
+      "example": "El *** es un elemento clave en la obra de Lorca.",
+      "meaning_tr": "sembolizm",
+      "meaning_en": "symbolism",
+      "meaning_uk": "символізм",
+      "meaning_es": "uso de símbolos"
+    },
+    {
+      "term": "el surrealismo",
+      "type": "Noun",
+      "example": "Dalí es el máximo exponente del ***.",
+      "meaning_tr": "sürrealizm",
+      "meaning_en": "surrealism",
+      "meaning_uk": "сюрреалізм",
+      "meaning_es": "movimiento artístico y literario"
+    },
+    {
+      "term": "el realismo",
+      "type": "Noun",
+      "example": "La novela retrata la vida cotidiana con ***.",
+      "meaning_tr": "realizm",
+      "meaning_en": "realism",
+      "meaning_uk": "реалізм",
+      "meaning_es": "representación fiel de la realidad"
+    },
+    {
+      "term": "el modernismo",
+      "type": "Noun",
+      "example": "Rubén Darío fue una figura central del *** hispanoamericano.",
+      "meaning_tr": "modernizm",
+      "meaning_en": "modernism",
+      "meaning_uk": "модернізм",
+      "meaning_es": "movimiento artístico y literario"
+    },
+    {
+      "term": "la vanguardia",
+      "type": "Noun",
+      "example": "Los movimientos de *** exploraron nuevas formas de expresión.",
+      "meaning_tr": "öncü hareket",
+      "meaning_en": "avant-garde",
+      "meaning_uk": "авангард",
+      "meaning_es": "tendencias artísticas innovadoras"
+    },
+    {
+      "term": "el ensayo",
+      "type": "Noun",
+      "example": "Escribió un *** sobre la importancia de la lectura.",
+      "meaning_tr": "deneme",
+      "meaning_en": "essay",
+      "meaning_uk": "есе",
+      "meaning_es": "escrito en prosa sobre un tema"
+    },
+    {
+      "term": "la novela",
+      "type": "Noun",
+      "example": "Me encanta leer *** de misterio.",
+      "meaning_tr": "roman",
+      "meaning_en": "novel",
+      "meaning_uk": "роман",
+      "meaning_es": "obra literaria extensa en prosa"
+    },
+    {
+      "term": "el cuento",
+      "type": "Noun",
+      "example": "Leyó un *** corto antes de dormir.",
+      "meaning_tr": "kısa öykü",
+      "meaning_en": "short story",
+      "meaning_uk": "оповідання",
+      "meaning_es": "narración breve"
+    },
+    {
+      "term": "la poesía",
+      "type": "Noun",
+      "example": "La *** puede expresar emociones complejas.",
+      "meaning_tr": "şiir",
+      "meaning_en": "poetry",
+      "meaning_uk": "поезія",
+      "meaning_es": "arte de escribir poemas"
+    },
+    {
+      "term": "el drama",
+      "type": "Noun",
+      "example": "La obra teatral era un *** intenso.",
+      "meaning_tr": "drama",
+      "meaning_en": "drama",
+      "meaning_uk": "драма",
+      "meaning_es": "género teatral o literario"
+    },
+    {
+      "term": "el crítico",
+      "type": "Noun",
+      "example": "El *** literario analizó la obra con detalle.",
+      "meaning_tr": "eleştirmen",
+      "meaning_en": "critic",
+      "meaning_uk": "критик",
+      "meaning_es": "persona que juzga o evalúa arte o literatura"
+    },
+    {
+      "term": "la crítica",
+      "type": "Noun",
+      "example": "La *** del público fue muy positiva.",
+      "meaning_tr": "eleştiri",
+      "meaning_en": "critique",
+      "meaning_uk": "критика",
+      "meaning_es": "juicio o análisis de una obra"
+    },
+    {
+      "term": "el autor",
+      "type": "Noun",
+      "example": "El *** presentó su nuevo libro.",
+      "meaning_tr": "yazar",
+      "meaning_en": "author",
+      "meaning_uk": "автор",
+      "meaning_es": "creador de una obra"
+    },
+    {
+      "term": "el escritor",
+      "type": "Noun",
+      "example": "Es un *** reconocido por su estilo.",
+      "meaning_tr": "yazar",
+      "meaning_en": "writer",
+      "meaning_uk": "письменник",
+      "meaning_es": "persona que escribe"
+    },
+    {
+      "term": "el pintor",
+      "type": "Noun",
+      "example": "El *** usó colores vibrantes.",
+      "meaning_tr": "ressam",
+      "meaning_en": "painter",
+      "meaning_uk": "художник",
+      "meaning_es": "artista que pinta"
+    },
+    {
+      "term": "el escultor",
+      "type": "Noun",
+      "example": "El *** trabajó la piedra con maestría.",
+      "meaning_tr": "heykeltıraş",
+      "meaning_en": "sculptor",
+      "meaning_uk": "скульптор",
+      "meaning_es": "artista que crea esculturas"
+    },
+    {
+      "term": "exponer",
+      "type": "Verb",
+      "example": "Van a *** las obras en la galería.",
+      "meaning_tr": "sergilemek",
+      "meaning_en": "to exhibit",
+      "meaning_uk": "виставляти",
+      "meaning_es": "mostrar públicamente una obra"
+    },
+    {
+      "term": "interpretar",
+      "type": "Verb",
+      "example": "El actor ***á el papel principal.",
+      "meaning_tr": "yorumlamak",
+      "meaning_en": "to interpret",
+      "meaning_uk": "інтерпретувати",
+      "meaning_es": "dar un significado o ejecución a algo"
+    },
+    {
+      "term": "innovador",
+      "type": "Adjective",
+      "example": "Su técnica pictórica era muy ***.",
+      "meaning_tr": "yenilikçi",
+      "meaning_en": "innovative",
+      "meaning_uk": "інноваційний",
+      "meaning_es": "que introduce novedades"
+    },
+    {
+      "term": "abstracto",
+      "type": "Adjective",
+      "example": "La pintura *** se centra en formas y colores.",
+      "meaning_tr": "soyut",
+      "meaning_en": "abstract",
+      "meaning_uk": "абстрактний",
+      "meaning_es": "que no representa la realidad de forma figurativa"
+    },
+    {
+      "term": "figurativo",
+      "type": "Adjective",
+      "example": "Prefiero el arte *** que representa objetos reconocibles.",
+      "meaning_tr": "figüratif",
+      "meaning_en": "figurative",
+      "meaning_uk": "фігуративний",
+      "meaning_es": "que representa la realidad de forma reconocible"
+    },
+    {
+      "term": "simbólico",
+      "type": "Adjective",
+      "example": "El uso de la luz en la escena era ***.",
+      "meaning_tr": "sembolik",
+      "meaning_en": "symbolic",
+      "meaning_uk": "символічний",
+      "es": "que representa algo más allá de su significado literal"
+    },
+    {
+      "term": "emotivo",
+      "type": "Adjective",
+      "example": "El final de la obra fue muy ***.",
+      "meaning_tr": "duygusal",
+      "meaning_en": "emotional",
+      "meaning_uk": "емоційний",
+      "es": "que provoca emociones"
+    },
+    {
+      "term": "trascender",
+      "type": "Verb",
+      "example": "El arte tiene la capacidad de *** las barreras culturales.",
+      "meaning_tr": "aşmak, öteye geçmek",
+      "meaning_en": "to transcend",
+      "meaning_uk": "перевершувати",
+      "es": "ir más allá de los límites"
+    },
+    {
+      "term": "reflexionar",
+      "type": "Verb",
+      "example": "Leer este libro me hizo *** sobre la vida.",
+      "meaning_tr": "düşünmek, tefekkür etmek",
+      "meaning_en": "to reflect",
+      "meaning_uk": "рефлексувати",
+      "es": "pensar profundamente"
+    },
+    {
+      "term": "evocar",
+      "type": "Verb",
+      "example": "La música puede *** recuerdos de la infancia.",
+      "meaning_tr": "çağrıştırmak",
+      "meaning_en": "to evoke",
+      "meaning_uk": "викликати",
+      "es": "traer a la memoria"
+    }
+  ]
+}

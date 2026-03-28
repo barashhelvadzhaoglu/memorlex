@@ -1,0 +1,546 @@
+{
+  "title": "Leistungssport & Ernährung (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Leistungsfähigkeit",
+      "type": "Noun",
+      "example": "Eine ausgewogene Ernährung ist entscheidend für die körperliche ***.",
+      "meaning_tr": "performans kapasitesi",
+      "meaning_en": "performance capacity",
+      "meaning_uk": "продуктивність",
+      "meaning_es": "capacidad de rendimiento"
+    },
+    {
+      "term": "die Kohlenhydratspeicherung",
+      "type": "Noun",
+      "example": "Durch gezielte *** optimieren Athleten ihre Energiereserven vor dem Wettkampf.",
+      "meaning_tr": "karbonhidrat depolama",
+      "meaning_en": "carbohydrate storage",
+      "meaning_uk": "зберігання вуглеводів",
+      "meaning_es": "almacenamiento de carbohidratos"
+    },
+    {
+      "term": "die Regeneration",
+      "type": "Noun",
+      "example": "Nach dem Training ist eine ausreichende *** für den Muskelaufbau unerlässlich.",
+      "meaning_tr": "yenilenme",
+      "meaning_en": "recovery",
+      "meaning_uk": "відновлення",
+      "meaning_es": "regeneración"
+    },
+    {
+      "term": "die Supplementierung",
+      "type": "Noun",
+      "example": "Die *** mit Mikronährstoffen sollte immer ärztlich abgesprochen werden.",
+      "meaning_tr": "takviye kullanımı",
+      "meaning_en": "supplementation",
+      "meaning_uk": "додаткове харчування",
+      "meaning_es": "suplementación"
+    },
+    {
+      "term": "die Makronährstoffe",
+      "type": "Noun",
+      "example": "Das Verhältnis der *** bestimmt maßgeblich den Erfolg einer Diät.",
+      "meaning_tr": "makro besinler",
+      "meaning_en": "macronutrients",
+      "meaning_uk": "макронутрієнти",
+      "meaning_es": "macronutrientes"
+    },
+    {
+      "term": "die Stoffwechselrate",
+      "type": "Noun",
+      "example": "Intensives Training erhöht langfristig die basale ***.",
+      "meaning_tr": "metabolizma hızı",
+      "meaning_en": "metabolic rate",
+      "meaning_uk": "швидкість метаболізму",
+      "meaning_es": "tasa metabólica"
+    },
+    {
+      "term": "die Hydratation",
+      "type": "Noun",
+      "example": "Eine optimale *** ist für die Aufrechterhaltung der Konzentration wichtig.",
+      "meaning_tr": "hidrasyon",
+      "meaning_en": "hydration",
+      "meaning_uk": "гідратація",
+      "meaning_es": "hidratación"
+    },
+    {
+      "term": "die Proteinbiosynthese",
+      "type": "Noun",
+      "example": "Krafttraining stimuliert die *** in den Muskelzellen.",
+      "meaning_tr": "protein sentezi",
+      "meaning_en": "protein biosynthesis",
+      "meaning_uk": "біосинтез білка",
+      "meaning_es": "biosíntesis de proteínas"
+    },
+    {
+      "term": "der Elektrolythaushalt",
+      "type": "Noun",
+      "example": "Durch starkes Schwitzen gerät der *** oft aus dem Gleichgewicht.",
+      "meaning_tr": "elektrolit dengesi",
+      "meaning_en": "electrolyte balance",
+      "meaning_uk": "електролітний баланс",
+      "meaning_es": "equilibrio electrolítico"
+    },
+    {
+      "term": "die Bioverfügbarkeit",
+      "type": "Noun",
+      "example": "Die *** von pflanzlichem Eisen ist geringer als die von tierischem.",
+      "meaning_tr": "biyoyararlanım",
+      "meaning_en": "bioavailability",
+      "meaning_uk": "біодоступність",
+      "meaning_es": "biodisponibilidad"
+    },
+    {
+      "term": "die Insulinsensitivität",
+      "type": "Noun",
+      "example": "Sport verbessert die *** und beugt Stoffwechselerkrankungen vor.",
+      "meaning_tr": "insülin duyarlılığı",
+      "meaning_en": "insulin sensitivity",
+      "meaning_uk": "чутливість до інсуліну",
+      "meaning_es": "sensibilidad a la insulina"
+    },
+    {
+      "term": "die Glykogenspeicher",
+      "type": "Noun",
+      "example": "Vor dem Marathon müssen die *** vollständig gefüllt sein.",
+      "meaning_tr": "glikojen depoları",
+      "meaning_en": "glycogen stores",
+      "meaning_uk": "запаси глікогену",
+      "meaning_es": "reservas de glucógeno"
+    },
+    {
+      "term": "die Kalorienbilanz",
+      "type": "Noun",
+      "example": "Eine negative *** führt langfristig zur Gewichtsabnahme.",
+      "meaning_tr": "kalori dengesi",
+      "meaning_en": "calorie balance",
+      "meaning_uk": "калорійний баланс",
+      "meaning_es": "balance calórico"
+    },
+    {
+      "term": "der oxidativer Stress",
+      "type": "Noun",
+      "example": "Antioxidantien helfen, den durch Sport verursachten *** zu reduzieren.",
+      "meaning_tr": "oksidatif stres",
+      "meaning_en": "oxidative stress",
+      "meaning_uk": "окислювальний стрес",
+      "meaning_es": "estrés oxidativo"
+    },
+    {
+      "term": "die Nährstoffdichte",
+      "type": "Noun",
+      "example": "Sportler sollten Lebensmittel mit hoher *** bevorzugen.",
+      "meaning_tr": "besin yoğunluğu",
+      "meaning_en": "nutrient density",
+      "meaning_uk": "щільність поживних речовин",
+      "meaning_es": "densidad nutricional"
+    },
+    {
+      "term": "die Überbelastung",
+      "type": "Noun",
+      "example": "Falsche Ernährung kann in Kombination mit zu hartem Training zur *** führen.",
+      "meaning_tr": "aşırı yüklenme",
+      "meaning_en": "overload",
+      "meaning_uk": "перевантаження",
+      "meaning_es": "sobrecarga"
+    },
+    {
+      "term": "die Leistungsspitze",
+      "type": "Noun",
+      "example": "Das Ziel ist, die *** genau auf den Wettkampftag zu legen.",
+      "meaning_tr": "performans zirvesi",
+      "meaning_en": "peak performance",
+      "meaning_uk": "пік продуктивності",
+      "meaning_es": "pico de rendimiento"
+    },
+    {
+      "term": "die Anabolik",
+      "type": "Noun",
+      "example": "Die hormonelle *** wird durch gezielte Nährstoffzufuhr unterstützt.",
+      "meaning_tr": "anabolizma",
+      "meaning_en": "anabolism",
+      "meaning_uk": "анаболізм",
+      "meaning_es": "anabolismo"
+    },
+    {
+      "term": "die Mikronährstoffe",
+      "type": "Noun",
+      "example": "Vitamine und Mineralien zählen zu den essenziellen ***.",
+      "meaning_tr": "mikro besinler",
+      "meaning_en": "micronutrients",
+      "meaning_uk": "мікронутрієнти",
+      "meaning_es": "micronutrientes"
+    },
+    {
+      "term": "die Körperzusammensetzung",
+      "type": "Noun",
+      "example": "Das Training verändert die *** zugunsten der Muskelmasse.",
+      "meaning_tr": "vücut kompozisyonu",
+      "meaning_en": "body composition",
+      "meaning_uk": "склад тіла",
+      "meaning_es": "composición corporal"
+    },
+    {
+      "term": "optimieren",
+      "type": "Verb",
+      "example": "Athleten versuchen ständig, ihren Ernährungsplan zu ***.",
+      "meaning_tr": "optimize etmek",
+      "meaning_en": "to optimize",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "optimizar"
+    },
+    {
+      "term": "regenerieren",
+      "type": "Verb",
+      "example": "Der Körper muss nach intensiven Einheiten ausreichend ***.",
+      "meaning_tr": "yenilenmek",
+      "meaning_en": "to recover",
+      "meaning_uk": "відновлюватися",
+      "meaning_es": "regenerar"
+    },
+    {
+      "term": "synthetisieren",
+      "type": "Verb",
+      "example": "Der Organismus kann bestimmte Aminosäuren nicht selbst ***.",
+      "meaning_tr": "sentezlemek",
+      "meaning_en": "to synthesize",
+      "meaning_uk": "синтезувати",
+      "meaning_es": "sintetizar"
+    },
+    {
+      "term": "metabolisieren",
+      "type": "Verb",
+      "example": "Der Körper muss die aufgenommenen Kohlenhydrate effizient ***.",
+      "meaning_tr": "metabolize etmek",
+      "meaning_en": "to metabolize",
+      "meaning_uk": "метаболізувати",
+      "meaning_es": "metabolizar"
+    },
+    {
+      "term": "kompensieren",
+      "type": "Verb",
+      "example": "Durch gezielte Ernährung lässt sich ein Energieverlust ***.",
+      "meaning_tr": "telafi etmek",
+      "meaning_en": "to compensate",
+      "meaning_uk": "компенсувати",
+      "meaning_es": "compensar"
+    },
+    {
+      "term": "stimulieren",
+      "type": "Verb",
+      "example": "Proteinreiche Mahlzeiten *** das Muskelwachstum.",
+      "meaning_tr": "uyarmak",
+      "meaning_en": "to stimulate",
+      "meaning_uk": "стимулювати",
+      "meaning_es": "estimular"
+    },
+    {
+      "term": "adaptieren",
+      "type": "Verb",
+      "example": "Der Stoffwechsel muss sich an veränderte Belastungen ***.",
+      "meaning_tr": "adapte olmak",
+      "meaning_en": "to adapt",
+      "meaning_uk": "адаптуватися",
+      "meaning_es": "adaptar"
+    },
+    {
+      "term": "substituieren",
+      "type": "Verb",
+      "example": "Bei Mangelerscheinungen muss man Vitamine gezielt ***.",
+      "meaning_tr": "ikame etmek / takviye etmek",
+      "meaning_en": "to substitute",
+      "meaning_uk": "заміщувати",
+      "meaning_es": "sustituir"
+    },
+    {
+      "term": "akkumulieren",
+      "type": "Verb",
+      "example": "Im Körper kann sich Laktat bei hoher Belastung ***.",
+      "meaning_tr": "biriktirmek",
+      "meaning_en": "to accumulate",
+      "meaning_uk": "накопичувати",
+      "meaning_es": "acumular"
+    },
+    {
+      "term": "dehydrieren",
+      "type": "Verb",
+      "example": "Sportler sollten nicht zu lange warten, um nicht zu ***.",
+      "meaning_tr": "susuz kalmak",
+      "meaning_en": "to dehydrate",
+      "meaning_uk": "зневоднюватися",
+      "meaning_es": "deshidratar"
+    },
+    {
+      "term": "essenziell",
+      "type": "Adjective",
+      "example": "Aminosäuren sind *** für den Erhalt der Muskulatur.",
+      "meaning_tr": "temel / elzem",
+      "meaning_en": "essential",
+      "meaning_uk": "суттєвий / необхідний",
+      "meaning_es": "esencial"
+    },
+    {
+      "term": "anabol",
+      "type": "Adjective",
+      "example": "Nach dem Training befindet sich der Körper in einer *** Phase.",
+      "meaning_tr": "anabolik",
+      "meaning_en": "anabolic",
+      "meaning_uk": "анаболічний",
+      "meaning_es": "anabólico"
+    },
+    {
+      "term": "katabol",
+      "type": "Adjective",
+      "example": "Während extremer Belastung wirkt der Körper eher ***.",
+      "meaning_tr": "katabolik",
+      "meaning_en": "catabolic",
+      "meaning_uk": "катаболічний",
+      "meaning_es": "catabólico"
+    },
+    {
+      "term": "hypokalorisch",
+      "type": "Adjective",
+      "example": "Eine *** Ernährung hilft bei der Reduktion des Körperfettanteils.",
+      "meaning_tr": "düşük kalorili",
+      "meaning_en": "hypocaloric",
+      "meaning_uk": "гіпокалорійний",
+      "meaning_es": "hipocalórico"
+    },
+    {
+      "term": "leistungssteigernd",
+      "type": "Adjective",
+      "example": "Es gibt nur wenige Substanzen, die wirklich *** wirken.",
+      "meaning_tr": "performans artırıcı",
+      "meaning_en": "performance-enhancing",
+      "meaning_uk": "підвищуючий продуктивність",
+      "meaning_es": "que mejora el rendimiento"
+    },
+    {
+      "term": "isotonisch",
+      "type": "Adjective",
+      "example": "Ein *** Getränk wird vom Körper besonders schnell aufgenommen.",
+      "meaning_tr": "izotonik",
+      "meaning_en": "isotonic",
+      "meaning_uk": "ізотонічний",
+      "meaning_es": "isotónico"
+    },
+    {
+      "term": "submaximal",
+      "type": "Adjective",
+      "example": "Im *** Bereich trainiert man länger und ausdauernder.",
+      "meaning_tr": "maksimal altı",
+      "meaning_en": "submaximal",
+      "meaning_uk": "субмаксимальний",
+      "meaning_es": "submáximo"
+    },
+    {
+      "term": "glykämisch",
+      "type": "Adjective",
+      "example": "Der *** Index gibt an, wie stark Lebensmittel den Blutzuckerspiegel beeinflussen.",
+      "meaning_tr": "glisemik",
+      "meaning_en": "glycemic",
+      "meaning_uk": "глікемічний",
+      "meaning_es": "glucémico"
+    },
+    {
+      "term": "mikronährstoffreich",
+      "type": "Adjective",
+      "example": "Eine *** Ernährung schützt den Körper vor Infekten.",
+      "meaning_tr": "mikro besin açısından zengin",
+      "meaning_en": "rich in micronutrients",
+      "meaning_uk": "багатий на мікронутрієнти",
+      "meaning_es": "rico en micronutrientes"
+    },
+    {
+      "term": "adaptiv",
+      "type": "Adjective",
+      "example": "Der Körper zeigt eine hohe *** Kapazität bei neuen Trainingsreizen.",
+      "meaning_tr": "uyum sağlayıcı",
+      "meaning_en": "adaptive",
+      "meaning_uk": "адаптивний",
+      "meaning_es": "adaptativo"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "*** der Ernährung gibt es viele verschiedene Ansätze.",
+      "meaning_tr": "bakımından / ile ilgili olarak",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "anhand",
+      "type": "Preposition",
+      "example": "*** einer Blutanalyse lässt sich der Nährstoffbedarf ermitteln.",
+      "meaning_tr": "yardımıyla / vasıtasıyla",
+      "meaning_en": "by means of / based on",
+      "meaning_uk": "на основі",
+      "meaning_es": "a base de"
+    },
+    {
+      "term": "aufgrund",
+      "type": "Preposition",
+      "example": "*** hoher Trainingsintensität ist der Bedarf an Kohlenhydraten gestiegen.",
+      "meaning_tr": "nedeniyle",
+      "meaning_en": "due to",
+      "meaning_uk": "через",
+      "meaning_es": "debido a"
+    },
+    {
+      "term": "infolge",
+      "type": "Preposition",
+      "example": "*** falscher Ernährung kam es zu einem Leistungsabfall.",
+      "meaning_tr": "sonucunda",
+      "meaning_en": "as a result of",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "a consecuencia de"
+    },
+    {
+      "term": "zwecks",
+      "type": "Preposition",
+      "example": "*** Leistungsoptimierung sollte man einen Ernährungsberater aufsuchen.",
+      "meaning_tr": "amacıyla",
+      "meaning_en": "for the purpose of",
+      "meaning_uk": "з метою",
+      "meaning_es": "con el fin de"
+    },
+    {
+      "term": "innerhalb",
+      "type": "Preposition",
+      "example": "*** des sogenannten anabolen Fensters sollte Protein konsumiert werden.",
+      "meaning_tr": "içinde / dahilinde",
+      "meaning_en": "within",
+      "meaning_uk": "всередині",
+      "meaning_es": "dentro de"
+    },
+    {
+      "term": "während",
+      "type": "Preposition",
+      "example": "*** der Belastung ist eine gute Flüssigkeitszufuhr entscheidend.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "під час",
+      "meaning_es": "durante"
+    },
+    {
+      "term": "trotz",
+      "type": "Preposition",
+      "example": "*** intensiven Trainings blieb der Erfolg aus.",
+      "meaning_tr": "rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "a pesar de"
+    },
+    {
+      "term": "unterhalb",
+      "type": "Preposition",
+      "example": "Die Herzfrequenz lag *** des aeroben Schwellenwerts.",
+      "meaning_tr": "altında",
+      "meaning_en": "below",
+      "meaning_uk": "нижче",
+      "meaning_es": "por debajo de"
+    },
+    {
+      "term": "oberhalb",
+      "type": "Preposition",
+      "example": "*** des anaeroben Bereichs ermüdet die Muskulatur schnell.",
+      "meaning_tr": "üstünde",
+      "meaning_en": "above",
+      "meaning_uk": "вище",
+      "meaning_es": "por encima de"
+    },
+    {
+      "term": "zudem",
+      "type": "Adverb",
+      "example": "Die Ernährung ist wichtig; *** spielt der Schlaf eine zentrale Rolle.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "demzufolge",
+      "type": "Adverb",
+      "example": "Die Belastung war hoch; *** war der Energiebedarf erhöht.",
+      "meaning_tr": "buna göre / dolayısıyla",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "folglich",
+      "type": "Adverb",
+      "example": "Der Athlet trainierte zu viel und *** übertrainiert.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "як наслідок",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "ebenfalls",
+      "type": "Adverb",
+      "example": "Kohlenhydrate sind wichtig, Proteine sind *** essenziell.",
+      "meaning_tr": "aynı şekilde",
+      "meaning_en": "likewise",
+      "meaning_uk": "також",
+      "meaning_es": "igualmente"
+    },
+    {
+      "term": "hingegen",
+      "type": "Adverb",
+      "example": "Kohlenhydrate liefern Energie; Fette *** sind für Hormone wichtig.",
+      "meaning_tr": "aksine / diğer taraftan",
+      "meaning_en": "on the other hand",
+      "meaning_uk": "натомість",
+      "meaning_es": "en cambio"
+    },
+    {
+      "term": "nichtsdestotrotz",
+      "type": "Adverb",
+      "example": "Die Diät war streng; *** blieb der Sportler motiviert.",
+      "meaning_tr": "buna rağmen",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "незважаючи на це",
+      "meaning_es": "no obstante"
+    },
+    {
+      "term": "dennoch",
+      "type": "Adverb",
+      "example": "Der Wettkampf war hart; *** konnte er gewinnen.",
+      "meaning_tr": "yine de",
+      "meaning_en": "yet / nevertheless",
+      "meaning_uk": "все ж таки",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "entweder ... oder",
+      "type": "Conjunction",
+      "example": "Man muss *** auf Zucker verzichten, *** mehr trainieren.",
+      "meaning_tr": "ya ... ya da",
+      "meaning_en": "either ... or",
+      "meaning_uk": "або ... або",
+      "meaning_es": "o ... o"
+    },
+    {
+      "term": "sowohl ... als auch",
+      "type": "Conjunction",
+      "example": "Er achtet *** auf die Proteinzufuhr *** auf die Regeneration.",
+      "meaning_tr": "hem ... hem de",
+      "meaning_en": "both ... and",
+      "meaning_uk": "як ... так і",
+      "meaning_es": "tanto ... como"
+    },
+    {
+      "term": "weder ... noch",
+      "type": "Conjunction",
+      "example": "Er isst *** Fast Food *** verarbeitete Lebensmittel.",
+      "meaning_tr": "ne ... ne de",
+      "meaning_en": "neither ... nor",
+      "meaning_uk": "ні ... ні",
+      "meaning_es": "ni ... ni"
+    }
+  ]
+}

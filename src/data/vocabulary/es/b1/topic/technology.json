@@ -1,0 +1,321 @@
+{
+  "title": "Tecnologia e Informatica (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el ordenador",
+      "type": "Noun",
+      "example": "*** es muy rápido para editar vídeos.",
+      "meaning_tr": "bilgisayar",
+      "meaning_en": "computer",
+      "meaning_uk": "комп'ютер",
+      "meaning_es": "máquina electrónica que procesa datos"
+    },
+    {
+      "term": "la red",
+      "type": "Noun",
+      "example": "He perdido la conexión a ***.",
+      "meaning_tr": "ağ",
+      "meaning_en": "network",
+      "meaning_uk": "мережа",
+      "meaning_es": "conjunto de equipos interconectados"
+    },
+    {
+      "term": "descargar",
+      "type": "Verb",
+      "example": "Voy a *** un archivo importante.",
+      "meaning_tr": "indirmek",
+      "meaning_en": "to download",
+      "meaning_uk": "завантажувати",
+      "meaning_es": "bajar información de internet"
+    },
+    {
+      "term": "el teclado",
+      "type": "Noun",
+      "example": "Se me ha roto una tecla del ***.",
+      "meaning_tr": "klavye",
+      "meaning_en": "keyboard",
+      "meaning_uk": "клавіатура",
+      "meaning_es": "dispositivo de entrada con teclas"
+    },
+    {
+      "term": "inalámbrico",
+      "type": "Adjective",
+      "example": "Prefiero usar un ratón ***.",
+      "meaning_tr": "kablosuz",
+      "meaning_en": "wireless",
+      "meaning_uk": "бездротовий",
+      "meaning_es": "sin cables físicos"
+    },
+    {
+      "term": "la pantalla",
+      "type": "Noun",
+      "example": "La *** de mi portátil es táctil.",
+      "meaning_tr": "ekran",
+      "meaning_en": "screen",
+      "meaning_uk": "екран",
+      "meaning_es": "superficie donde se visualiza la imagen"
+    },
+    {
+      "term": "actualizar",
+      "type": "Verb",
+      "example": "Debes *** el sistema operativo pronto.",
+      "meaning_tr": "güncellemek",
+      "meaning_en": "to update",
+      "meaning_uk": "оновлювати",
+      "meaning_es": "poner al día un programa"
+    },
+    {
+      "term": "el archivo",
+      "type": "Noun",
+      "example": "No puedo abrir este *** de texto.",
+      "meaning_tr": "dosya",
+      "meaning_en": "file",
+      "meaning_uk": "файл",
+      "meaning_es": "conjunto de datos almacenados"
+    },
+    {
+      "term": "la contraseña",
+      "type": "Noun",
+      "example": "He olvidado mi *** de acceso.",
+      "meaning_tr": "şifre",
+      "meaning_en": "password",
+      "meaning_uk": "пароль",
+      "meaning_es": "clave secreta de acceso"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "example": "La era *** ha cambiado nuestra vida.",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "relativo a la tecnología informática"
+    },
+    {
+      "term": "el navegador",
+      "type": "Noun",
+      "example": "Uso este *** para buscar información.",
+      "meaning_tr": "tarayıcı",
+      "meaning_en": "browser",
+      "meaning_uk": "браузер",
+      "meaning_es": "programa para navegar por internet"
+    },
+    {
+      "term": "guardar",
+      "type": "Verb",
+      "example": "No olvides *** los cambios antes de salir.",
+      "meaning_tr": "kaydetmek",
+      "meaning_en": "to save",
+      "meaning_uk": "зберігати",
+      "meaning_es": "almacenar información en un medio"
+    },
+    {
+      "term": "el enlace",
+      "type": "Noun",
+      "example": "Haz clic en el *** para ver el vídeo.",
+      "meaning_tr": "bağlantı",
+      "meaning_en": "link",
+      "meaning_uk": "посилання",
+      "meaning_es": "conexión entre páginas web"
+    },
+    {
+      "term": "la carpeta",
+      "type": "Noun",
+      "example": "He creado una *** nueva para mis fotos.",
+      "meaning_tr": "klasör",
+      "meaning_en": "folder",
+      "meaning_uk": "папка",
+      "meaning_es": "espacio para organizar archivos"
+    },
+    {
+      "term": "borrar",
+      "type": "Verb",
+      "example": "Voy a *** los mensajes antiguos.",
+      "meaning_tr": "silmek",
+      "meaning_en": "to delete",
+      "meaning_uk": "видаляти",
+      "meaning_es": "eliminar información"
+    },
+    {
+      "term": "la memoria",
+      "type": "Noun",
+      "example": "Mi ordenador tiene poca *** interna.",
+      "meaning_tr": "bellek",
+      "meaning_en": "memory",
+      "meaning_uk": "пам'ять",
+      "meaning_es": "capacidad de almacenamiento del PC"
+    },
+    {
+      "term": "adjuntar",
+      "type": "Verb",
+      "example": "Debes *** el documento al correo.",
+      "meaning_tr": "eklemek",
+      "meaning_en": "to attach",
+      "meaning_uk": "прикріплювати",
+      "meaning_es": "añadir un archivo a un mensaje"
+    },
+    {
+      "term": "el virus",
+      "type": "Noun",
+      "example": "Mi PC tiene un *** muy peligroso.",
+      "meaning_tr": "virüs",
+      "meaning_en": "virus",
+      "meaning_uk": "вірус",
+      "meaning_es": "programa informático malicioso"
+    },
+    {
+      "term": "la nube",
+      "type": "Noun",
+      "example": "Guardo mis documentos en ***.",
+      "meaning_tr": "bulut",
+      "meaning_en": "cloud",
+      "meaning_uk": "хмара",
+      "meaning_es": "almacenamiento remoto en internet"
+    },
+    {
+      "term": "lento",
+      "type": "Adjective",
+      "example": "El procesador es muy *** hoy.",
+      "meaning_tr": "yavaş",
+      "meaning_en": "slow",
+      "meaning_uk": "повільний",
+      "meaning_es": "que tiene poca velocidad"
+    },
+    {
+      "term": "el usuario",
+      "type": "Noun",
+      "example": "Introduce tu nombre de ***.",
+      "meaning_tr": "kullanıcı",
+      "meaning_en": "user",
+      "meaning_uk": "користувач",
+      "meaning_es": "persona que usa el sistema"
+    },
+    {
+      "term": "instalar",
+      "type": "Verb",
+      "example": "Necesito *** un software de diseño.",
+      "meaning_tr": "kurmak",
+      "meaning_en": "to install",
+      "meaning_uk": "встановлювати",
+      "meaning_es": "poner un programa en el PC"
+    },
+    {
+      "term": "la impresora",
+      "type": "Noun",
+      "example": "La *** no tiene tinta negra.",
+      "meaning_tr": "yazıcı",
+      "meaning_en": "printer",
+      "meaning_uk": "принтер",
+      "meaning_es": "máquina para sacar papel impreso"
+    },
+    {
+      "term": "el correo electrónico",
+      "type": "Noun",
+      "example": "Revisa tu ***, te he enviado algo.",
+      "meaning_tr": "e-posta",
+      "meaning_en": "email",
+      "meaning_uk": "електронна пошта",
+      "meaning_es": "mensaje enviado por red digital"
+    },
+    {
+      "term": "hacer clic",
+      "type": "Verb",
+      "example": "Debes *** en el botón azul.",
+      "meaning_tr": "tıklamak",
+      "meaning_en": "to click",
+      "meaning_uk": "натискати",
+      "meaning_es": "presionar el botón del ratón"
+    },
+    {
+      "term": "la aplicación",
+      "type": "Noun",
+      "example": "Me he bajado una *** nueva.",
+      "meaning_tr": "uygulama",
+      "meaning_en": "app",
+      "meaning_uk": "додаток",
+      "meaning_es": "programa informático para tareas"
+    },
+    {
+      "term": "iniciar sesión",
+      "type": "Verb",
+      "example": "Debes *** para leer los comentarios.",
+      "meaning_tr": "oturum açmak",
+      "meaning_en": "to log in",
+      "meaning_uk": "увійти в систему",
+      "meaning_es": "acceder a una cuenta personal"
+    },
+    {
+      "term": "el procesador",
+      "type": "Noun",
+      "example": "Un *** potente ayuda a jugar mejor.",
+      "meaning_tr": "işlemci",
+      "meaning_en": "processor",
+      "meaning_uk": "процесор",
+      "meaning_es": "cerebro de la computadora"
+    },
+    {
+      "term": "virtual",
+      "type": "Adjective",
+      "example": "Tuvimos una reunión *** por Zoom.",
+      "meaning_tr": "sanal",
+      "meaning_en": "virtual",
+      "meaning_uk": "віртуальний",
+      "meaning_es": "que existe en internet"
+    },
+    {
+      "term": "la configuración",
+      "type": "Noun",
+      "example": "Debes cambiar la *** de privacidad.",
+      "meaning_tr": "ayarlar",
+      "meaning_en": "settings",
+      "meaning_uk": "налаштування",
+      "meaning_es": "ajustes del sistema"
+    },
+    {
+      "term": "el ratón",
+      "type": "Noun",
+      "example": "El *** no funciona bien sobre la mesa.",
+      "meaning_tr": "fare",
+      "meaning_en": "mouse",
+      "meaning_uk": "миша",
+      "meaning_es": "dispositivo apuntador"
+    },
+    {
+      "term": "reiniciar",
+      "type": "Verb",
+      "example": "Intenta *** el router si no hay red.",
+      "meaning_tr": "yeniden başlatmak",
+      "meaning_en": "to restart",
+      "meaning_uk": "перезавантажити",
+      "meaning_es": "apagar y encender de nuevo"
+    },
+    {
+      "term": "el servidor",
+      "type": "Noun",
+      "example": "El *** está caído temporalmente.",
+      "meaning_tr": "sunucu",
+      "meaning_en": "server",
+      "meaning_uk": "сервер",
+      "meaning_es": "ordenador que da servicios"
+    },
+    {
+      "term": "seguro",
+      "type": "Adjective",
+      "example": "Este sitio web es totalmente ***.",
+      "meaning_tr": "güvenli",
+      "meaning_en": "secure",
+      "meaning_uk": "безпечний",
+      "meaning_es": "libre de riesgos"
+    },
+    {
+      "term": "el portátil",
+      "type": "Noun",
+      "example": "Me llevo mi *** a la universidad.",
+      "meaning_tr": "dizüstü bilgisayar",
+      "meaning_en": "laptop",
+      "meaning_uk": "ноутбук",
+      "meaning_es": "computadora móvil"
+    }
+  ]
+}

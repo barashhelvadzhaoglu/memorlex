@@ -1,0 +1,321 @@
+{
+  "title": "Ciudad y Campo (B1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el rascacielos",
+      "type": "Noun",
+      "meaning_tr": "gökdelen",
+      "meaning_en": "skyscraper",
+      "meaning_uk": "хмарочос",
+      "meaning_es": "edificio muy alto",
+      "example": "*** domina el horizonte de la ciudad."
+    },
+    {
+      "term": "el atasco",
+      "type": "Noun",
+      "meaning_tr": "trafik sıkışıklığı",
+      "meaning_en": "traffic jam",
+      "meaning_uk": "затор",
+      "meaning_es": "obstrucción en el tráfico",
+      "example": "Llegué tarde al trabajo por culpa de ***."
+    },
+    {
+      "term": "el huerto",
+      "type": "Noun",
+      "meaning_tr": "sebze bahçesi",
+      "meaning_en": "vegetable garden",
+      "meaning_uk": "город",
+      "meaning_es": "terreno para cultivar verduras",
+      "example": "Mis abuelos cultivan tomates en ***."
+    },
+    {
+      "term": "la contaminación",
+      "type": "Noun",
+      "meaning_tr": "kirlilik",
+      "meaning_en": "pollution",
+      "meaning_uk": "забруднення",
+      "meaning_es": "degradación del medio ambiente",
+      "example": "*** es un problema grave en las grandes urbes."
+    },
+    {
+      "term": "el ganado",
+      "type": "Noun",
+      "meaning_tr": "hayvan sürüsü",
+      "meaning_en": "livestock",
+      "meaning_uk": "худоба",
+      "meaning_es": "conjunto de animales de granja",
+      "example": "El granjero cuida a *** cada mañana."
+    },
+    {
+      "term": "el transporte público",
+      "type": "Noun",
+      "meaning_tr": "toplu taşıma",
+      "meaning_en": "public transport",
+      "meaning_uk": "громадський транспорт",
+      "meaning_es": "sistema de medios de transporte colectivos",
+      "example": "Prefiero usar *** para ir al centro."
+    },
+    {
+      "term": "la aldea",
+      "type": "Noun",
+      "meaning_tr": "köy",
+      "meaning_en": "village",
+      "meaning_uk": "село",
+      "meaning_es": "pueblo pequeño",
+      "example": "Vivimos en una *** rodeada de montañas."
+    },
+    {
+      "term": "el ruido",
+      "type": "Noun",
+      "meaning_tr": "gürültü",
+      "meaning_en": "noise",
+      "meaning_uk": "шум",
+      "meaning_es": "sonido inarticulado y molesto",
+      "example": "El *** de los coches no me deja dormir."
+    },
+    {
+      "term": "la cosecha",
+      "type": "Noun",
+      "meaning_tr": "hasat",
+      "meaning_en": "harvest",
+      "meaning_uk": "врожай",
+      "meaning_es": "conjunto de frutos recolectados",
+      "example": "Este año *** de trigo ha sido excelente."
+    },
+    {
+      "term": "la tranquilidad",
+      "type": "Noun",
+      "meaning_tr": "huzur",
+      "meaning_en": "tranquility",
+      "meaning_uk": "спокій",
+      "meaning_es": "estado de calma",
+      "example": "Busco *** lejos de la ciudad."
+    },
+    {
+      "term": "la acera",
+      "type": "Noun",
+      "meaning_tr": "kaldırım",
+      "meaning_en": "sidewalk",
+      "meaning_uk": "тротуар",
+      "meaning_es": "parte de la calle para peatones",
+      "example": "Camino por *** con mucho cuidado."
+    },
+    {
+      "term": "el prado",
+      "type": "Noun",
+      "meaning_tr": "çayır",
+      "meaning_en": "meadow",
+      "meaning_uk": "луг",
+      "meaning_es": "terreno con hierba para el ganado",
+      "example": "Las vacas pastan libremente en ***."
+    },
+    {
+      "term": "el ayuntamiento",
+      "type": "Noun",
+      "meaning_tr": "belediye binası",
+      "meaning_en": "city hall",
+      "meaning_uk": "міська рада",
+      "meaning_es": "sede del gobierno local",
+      "example": "Tengo una cita en *** mañana."
+    },
+    {
+      "term": "el tractor",
+      "type": "Noun",
+      "meaning_tr": "traktör",
+      "meaning_en": "tractor",
+      "meaning_uk": "трактор",
+      "meaning_es": "vehículo para labores agrícolas",
+      "example": "El agricultor conduce su *** por el campo."
+    },
+    {
+      "term": "la zona peatonal",
+      "type": "Noun",
+      "meaning_tr": "yaya bölgesi",
+      "meaning_en": "pedestrian area",
+      "meaning_uk": "пішохідна зона",
+      "meaning_es": "lugar solo para caminar",
+      "example": "Es mejor pasear por *** del centro."
+    },
+    {
+      "term": "el aire puro",
+      "type": "Noun",
+      "meaning_tr": "temiz hava",
+      "meaning_en": "fresh air",
+      "meaning_uk": "чисте повітря",
+      "meaning_es": "aire sin contaminación",
+      "example": "En la montaña se respira ***."
+    },
+    {
+      "term": "cultivar",
+      "type": "Verb",
+      "meaning_tr": "ekmek/yetiştirmek",
+      "meaning_en": "to cultivate/grow",
+      "meaning_uk": "вирощувати",
+      "meaning_es": "hacer crecer plantas",
+      "example": "Ellos suelen *** sus propios alimentos."
+    },
+    {
+      "term": "contaminar",
+      "type": "Verb",
+      "meaning_tr": "kirletmek",
+      "meaning_en": "to pollute",
+      "meaning_uk": "забруднювати",
+      "meaning_es": "ensuciar el medio ambiente",
+      "example": "No debemos *** nuestros ríos."
+    },
+    {
+      "term": "residir",
+      "type": "Verb",
+      "meaning_tr": "ikamet etmek",
+      "meaning_en": "to reside",
+      "meaning_uk": "проживати",
+      "meaning_es": "vivir en un lugar",
+      "example": "Ellos deciden *** en un pueblo pequeño."
+    },
+    {
+      "term": "pasear",
+      "type": "Verb",
+      "meaning_tr": "yürüyüş yapmak",
+      "meaning_en": "to go for a walk",
+      "meaning_uk": "прогулюватися",
+      "meaning_es": "caminar por placer",
+      "example": "Me gusta *** por el parque los domingos."
+    },
+    {
+      "term": "urbanizado",
+      "type": "Adjective",
+      "meaning_tr": "şehirleşmiş",
+      "meaning_en": "urbanized",
+      "meaning_uk": "урбанізований",
+      "meaning_es": "dotado de servicios urbanos",
+      "example": "Este barrio está muy ***."
+    },
+    {
+      "term": "rural",
+      "type": "Adjective",
+      "meaning_tr": "kırsal",
+      "meaning_en": "rural",
+      "meaning_uk": "сільський",
+      "meaning_es": "relativo al campo",
+      "example": "Prefiero el estilo de vida ***."
+    },
+    {
+      "term": "agobiante",
+      "type": "Adjective",
+      "meaning_tr": "boğucu/bunalıcı",
+      "meaning_en": "overwhelming",
+      "meaning_uk": "обтяжливий",
+      "meaning_es": "que causa estrés o falta de aire",
+      "example": "El calor de la ciudad es ***."
+    },
+    {
+      "term": "fértil",
+      "type": "Adjective",
+      "meaning_tr": "verimli",
+      "meaning_en": "fertile",
+      "meaning_uk": "родючий",
+      "meaning_es": "que produce mucho",
+      "example": "La tierra aquí es muy *** para los cultivos."
+    },
+    {
+      "term": "lejano",
+      "type": "Adjective",
+      "meaning_tr": "uzak",
+      "meaning_en": "distant",
+      "meaning_uk": "далекий",
+      "meaning_es": "que está a mucha distancia",
+      "example": "Escuché un sonido *** en la noche."
+    },
+    {
+      "term": "cerca de",
+      "type": "Preposition",
+      "meaning_tr": "yakınında",
+      "meaning_en": "near",
+      "meaning_uk": "поруч із",
+      "meaning_es": "a poca distancia",
+      "example": "Vivo *** del centro histórico."
+    },
+    {
+      "term": "lejos de",
+      "type": "Preposition",
+      "meaning_tr": "uzağında",
+      "meaning_en": "far from",
+      "meaning_uk": "далеко від",
+      "meaning_es": "a gran distancia",
+      "example": "Trabajo *** de mi casa."
+    },
+    {
+      "term": "alrededor de",
+      "type": "Preposition",
+      "meaning_tr": "etrafında",
+      "meaning_en": "around",
+      "meaning_uk": "навколо",
+      "meaning_es": "en el entorno de algo",
+      "example": "Hay muchos árboles *** de la casa."
+    },
+    {
+      "term": "frecuentemente",
+      "type": "Adverb",
+      "meaning_tr": "sık sık",
+      "meaning_en": "frequently",
+      "meaning_uk": "часто",
+      "meaning_es": "con mucha frecuencia",
+      "example": "Voy *** al campo para relajarme."
+    },
+    {
+      "term": "demasiado",
+      "type": "Adverb",
+      "meaning_tr": "çok fazla",
+      "meaning_en": "too much",
+      "meaning_uk": "занадто",
+      "meaning_es": "en exceso",
+      "example": "Hay *** gente en el metro hoy."
+    },
+    {
+      "term": "apenas",
+      "type": "Adverb",
+      "meaning_tr": "neredeyse hiç",
+      "meaning_en": "barely/hardly",
+      "meaning_uk": "ледве",
+      "meaning_es": "casi no",
+      "example": "En este pueblo *** hay coches."
+    },
+    {
+      "term": "o",
+      "type": "Conjunction",
+      "meaning_tr": "veya",
+      "meaning_en": "or",
+      "meaning_uk": "або",
+      "meaning_es": "indica alternativa",
+      "example": "¿Prefieres vivir en la ciudad *** en el campo?"
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "indica concesión",
+      "example": "*** es un lugar pequeño, tiene de todo."
+    },
+    {
+      "term": "ya que",
+      "type": "Conjunction",
+      "meaning_tr": "çünkü/mademki",
+      "meaning_en": "since/because",
+      "meaning_uk": "оскільки",
+      "meaning_es": "indica causa",
+      "example": "Me mudo *** necesito más tranquilidad."
+    },
+    {
+      "term": "mientras",
+      "type": "Conjunction",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "поки",
+      "meaning_es": "indica simultaneidad",
+      "example": "Yo vivo en la ciudad *** él vive en el campo."
+    }
+  ]
+}

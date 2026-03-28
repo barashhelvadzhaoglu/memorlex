@@ -1,0 +1,231 @@
+{
+  "title": "Marketing y Ventas (A2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el cliente",
+      "type": "Noun",
+      "meaning_tr": "müşteri",
+      "meaning_en": "customer",
+      "meaning_uk": "клієнт",
+      "meaning_es": "persona que compra un producto",
+      "example": "*** siempre tiene la razón."
+    },
+    {
+      "term": "la venta",
+      "type": "Noun",
+      "meaning_tr": "satış",
+      "meaning_en": "sale",
+      "meaning_uk": "продаж",
+      "meaning_es": "acción de vender",
+      "example": "Hoy hemos cerrado una *** importante."
+    },
+    {
+      "term": "vender",
+      "type": "Verb",
+      "meaning_tr": "satmak",
+      "meaning_en": "to sell",
+      "meaning_uk": "продавати",
+      "meaning_es": "dar un producto a cambio de dinero",
+      "example": "Queremos *** más productos este mes."
+    },
+    {
+      "term": "el precio",
+      "type": "Noun",
+      "meaning_tr": "fiyat",
+      "meaning_en": "price",
+      "meaning_uk": "ціна",
+      "meaning_es": "cantidad de dinero que cuesta algo",
+      "example": "El *** de este ordenador es muy alto."
+    },
+    {
+      "term": "la oferta",
+      "type": "Noun",
+      "meaning_tr": "teklif / indirim",
+      "meaning_en": "offer / discount",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "propuesta de venta o rebaja",
+      "example": "Tenemos una *** especial por tiempo limitado."
+    },
+    {
+      "term": "barato",
+      "type": "Adjective",
+      "meaning_tr": "ucuz",
+      "meaning_en": "cheap",
+      "meaning_uk": "дешевий",
+      "meaning_es": "que cuesta poco dinero",
+      "example": "Este producto es muy *** y de buena calidad."
+    },
+    {
+      "term": "caro",
+      "type": "Adjective",
+      "meaning_tr": "pahalı",
+      "meaning_en": "expensive",
+      "meaning_uk": "дорогий",
+      "meaning_es": "que cuesta mucho dinero",
+      "example": "No lo compres, es demasiado ***."
+    },
+    {
+      "term": "comprar",
+      "type": "Verb",
+      "meaning_tr": "satın almak",
+      "meaning_en": "to buy",
+      "meaning_uk": "купувати",
+      "meaning_es": "adquirir algo por dinero",
+      "example": "Voy a *** un regalo para mi jefe."
+    },
+    {
+      "term": "la marca",
+      "type": "Noun",
+      "meaning_tr": "marka",
+      "meaning_en": "brand",
+      "meaning_uk": "бренд",
+      "meaning_es": "nombre comercial de un producto",
+      "example": "Esta *** es muy famosa en todo el mundo."
+    },
+    {
+      "term": "el mercado",
+      "type": "Noun",
+      "meaning_tr": "pazar / piyasa",
+      "meaning_en": "market",
+      "meaning_uk": "ринок",
+      "meaning_es": "lugar o ámbito donde se vende",
+      "example": "Estamos analizando el *** actual."
+    },
+    {
+      "term": "el anuncio",
+      "type": "Noun",
+      "meaning_tr": "reklam / duyuru",
+      "meaning_en": "advertisement",
+      "meaning_uk": "реклама",
+      "meaning_es": "mensaje publicitario",
+      "example": "He visto un *** de esta empresa en la televisión."
+    },
+    {
+      "term": "el producto",
+      "type": "Noun",
+      "meaning_tr": "ürün",
+      "meaning_en": "product",
+      "meaning_uk": "продукт",
+      "meaning_es": "objeto que se vende",
+      "example": "Nuestro nuevo *** tiene mucho éxito."
+    },
+    {
+      "term": "la tienda",
+      "type": "Noun",
+      "meaning_tr": "dükkan / mağaza",
+      "meaning_en": "shop / store",
+      "meaning_uk": "магазин",
+      "meaning_es": "lugar donde se venden cosas",
+      "example": "Voy a abrir una *** de ropa pronto."
+    },
+    {
+      "term": "promocionar",
+      "type": "Verb",
+      "meaning_tr": "tanıtmak",
+      "meaning_en": "to promote",
+      "meaning_uk": "просувати",
+      "meaning_es": "hacer publicidad de algo",
+      "example": "Debemos *** los nuevos servicios en internet."
+    },
+    {
+      "term": "ganar",
+      "type": "Verb",
+      "meaning_tr": "kazanmak",
+      "meaning_en": "to earn / to win",
+      "meaning_uk": "заробляти",
+      "meaning_es": "obtener beneficios o dinero",
+      "example": "La empresa quiere *** más dinero este año."
+    },
+    {
+      "term": "el presupuesto",
+      "type": "Noun",
+      "meaning_tr": "bütçe",
+      "meaning_en": "budget",
+      "meaning_uk": "бюджет",
+      "meaning_es": "dinero disponible para un gasto",
+      "example": "Tenemos un *** limitado para esta campaña."
+    },
+    {
+      "term": "la competencia",
+      "type": "Noun",
+      "meaning_tr": "rekabet",
+      "meaning_en": "competition",
+      "meaning_uk": "конкуренція",
+      "meaning_es": "otras empresas que venden lo mismo",
+      "example": "La *** es muy fuerte en este sector."
+    },
+    {
+      "term": "gratis",
+      "type": "Adjective",
+      "meaning_tr": "bedava / ücretsiz",
+      "meaning_en": "free",
+      "meaning_uk": "безкоштовно",
+      "meaning_es": "que no cuesta nada",
+      "example": "El envío de este paquete es ***."
+    },
+    {
+      "term": "el descuento",
+      "type": "Noun",
+      "meaning_tr": "indirim",
+      "meaning_en": "discount",
+      "meaning_uk": "знижка",
+      "meaning_es": "reducción del precio",
+      "example": "Si compras hoy, tienes un diez por ciento de ***."
+    },
+    {
+      "term": "el consumidor",
+      "type": "Noun",
+      "meaning_tr": "tüketici",
+      "meaning_en": "consumer",
+      "meaning_uk": "споживач",
+      "meaning_es": "persona que consume productos",
+      "example": "El *** prefiere productos naturales."
+    },
+    {
+      "term": "enviar",
+      "type": "Verb",
+      "meaning_tr": "göndermek",
+      "meaning_en": "to send",
+      "meaning_uk": "надсилати",
+      "meaning_es": "hacer llegar un producto a alguien",
+      "example": "Vamos a *** el catálogo por correo electrónico."
+    },
+    {
+      "term": "el éxito",
+      "type": "Noun",
+      "meaning_tr": "başarı",
+      "meaning_en": "success",
+      "meaning_uk": "успіх",
+      "meaning_es": "resultado positivo de una acción",
+      "example": "La campaña fue un gran *** para la empresa."
+    },
+    {
+      "term": "la calidad",
+      "type": "Noun",
+      "meaning_tr": "kalite",
+      "meaning_en": "quality",
+      "meaning_uk": "якість",
+      "meaning_es": "propiedad de ser bueno",
+      "example": "Nuestros productos tienen una excelente ***."
+    },
+    {
+      "term": "pagar",
+      "type": "Verb",
+      "meaning_tr": "ödemek",
+      "meaning_en": "to pay",
+      "meaning_uk": "платити",
+      "meaning_es": "dar dinero por un producto o servicio",
+      "example": "Puedes *** con tarjeta de crédito."
+    },
+    {
+      "term": "el objetivo",
+      "type": "Noun",
+      "meaning_tr": "hedef",
+      "meaning_en": "goal / objective",
+      "meaning_uk": "мета",
+      "meaning_es": "meta que se quiere alcanzar",
+      "example": "Nuestro *** es vender cien unidades."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 import { getVocab } from '@/src/lib/vocabLoader'; 
 import { getDictionary } from '@/dictionaries'; 
 import { notFound } from 'next/navigation';
-import UnitClientWrapper from './UnitClientWrapper';
+import UnitClientWrapper from '@/app/components/UnitClientWrapper';
 import fs from 'fs';
 import path from 'path';
 import { Suspense } from 'react';
@@ -49,7 +49,7 @@ const getUnitKeywords = (unitName: string, subject: string, level: string, lang:
   ];
 };
 
-// ✅ SEO - Sayfaya Özel Metadata Üretimi (DÜZELTİLDİ: Category eklendi)
+// ✅ SEO - Sayfaya Özel Metadata Üretimi
 export async function generateMetadata({ params }: { params: Promise<PageParams> }): Promise<Metadata> {
   const { lang, subject, level, category, unit } = await params;
   const baseUrl = 'https://memorlex.com';
@@ -102,7 +102,7 @@ export async function generateMetadata({ params }: { params: Promise<PageParams>
   };
 }
 
-// ✅ Statik Parametre Üretici (Klasör yapısıyla tam uyumlu)
+// ✅ Statik Parametre Üretici
 export async function generateStaticParams() {
   const languages = ['en', 'tr', 'de', 'uk', 'es'];
   const baseDir = path.join(process.cwd(), 'src/data/vocabulary');
@@ -149,7 +149,7 @@ export async function generateStaticParams() {
   return paths;
 }
 
-// ✅ Sayfa Bileşeni (Hata Yönetimi ve Suspense ile)
+// ✅ Sayfa Bileşeni
 export default async function UnitPage({ 
   params 
 }: { 
@@ -159,7 +159,6 @@ export default async function UnitPage({
   
   const dict = await getDictionary(lang as ValidLangs);
   
-  // 🛡️ Veri çekme işlemini güvenli hale getiriyoruz
   let data = null;
   try {
     data = await getVocab(lang, subject, level, category, unit);
@@ -188,12 +187,49 @@ export default async function UnitPage({
     }
   };
 
+  // Dile gore youtubeId sec
+  const youtubeId = data[`youtubeId_${lang}`] || data.youtubeId || null;
+
+  // Video schema
+  const videoSchema = youtubeId ? {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: data.title || unit,
+    description: `${subject} ${level} vocabulary video for ${unit}`,
+    thumbnailUrl: `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`,
+    contentUrl: `https://www.youtube.com/watch?v=${youtubeId}`,
+    embedUrl: `https://www.youtube.com/embed/${youtubeId}`,
+    uploadDate: new Date().toISOString(),
+  } : null;
+
   return (
     <div className="unit-page-container">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaMarkup) }}
       />
+
+      {videoSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchema) }}
+        />
+      )}
+
+      {youtubeId && (
+        <div className="max-w-4xl mx-auto px-4 pt-8">
+          <div className="aspect-video w-full rounded-[30px] overflow-hidden shadow-2xl border-4 border-slate-50 dark:border-slate-900 bg-black">
+            <iframe
+              className="w-full h-full"
+              src={`https://www.youtube.com/embed/${youtubeId}?rel=0&modestbranding=1`}
+              title={data.title || unit}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
+          </div>
+        </div>
+      )}
+
       <Suspense fallback={
         <div className="min-h-screen bg-white dark:bg-slate-950 flex flex-col items-center justify-center">
           <div className="text-4xl font-black italic uppercase animate-pulse text-amber-500">
@@ -210,7 +246,6 @@ export default async function UnitPage({
         />
       </Suspense>
       
-      {/* 199 satır sınırı için gerekli SEO/Tanıtım Bloğu - Başlangıç */}
       <footer className="mt-20 p-10 bg-slate-50 dark:bg-slate-900/50 border-t border-slate-200 dark:border-slate-800 transition-colors">
         <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 text-sm text-slate-500">
           <div>
@@ -226,7 +261,6 @@ export default async function UnitPage({
           © {new Date().getFullYear()} Memorlex - Mastering {subject} one unit at a time.
         </div>
       </footer>
-      {/* SEO/Tanıtım Bloğu - Bitiş */}
     </div>
   );
 }

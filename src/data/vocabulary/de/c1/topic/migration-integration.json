@@ -1,0 +1,546 @@
+{
+  "title": "Migration & Integration (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Asylpolitik",
+      "type": "Noun",
+      "example": "Die aktuelle *** steht im Zentrum der politischen Debatte.",
+      "meaning_tr": "sığınma politikası",
+      "meaning_en": "asylum policy",
+      "meaning_uk": "політика надання притулку",
+      "meaning_es": "política de asilo"
+    },
+    {
+      "term": "die Integration",
+      "type": "Noun",
+      "example": "Eine gelungene *** erfordert Anstrengungen von beiden Seiten.",
+      "meaning_tr": "entegrasyon",
+      "meaning_en": "integration",
+      "meaning_uk": "інтеграція",
+      "meaning_es": "integración"
+    },
+    {
+      "term": "die Migrationshintergrund",
+      "type": "Noun",
+      "example": "Viele Schüler an dieser Schule haben einen ***.",
+      "meaning_tr": "göçmen kökeni",
+      "meaning_en": "migration background",
+      "meaning_uk": "міграційне походження",
+      "meaning_es": "antecedentes migratorios"
+    },
+    {
+      "term": "die Aufenthaltsgenehmigung",
+      "type": "Noun",
+      "example": "Er hat endlich seine *** erhalten.",
+      "meaning_tr": "oturma izni",
+      "meaning_en": "residence permit",
+      "meaning_uk": "дозвіл на проживання",
+      "meaning_es": "permiso de residencia"
+    },
+    {
+      "term": "die Einbürgerung",
+      "type": "Noun",
+      "example": "Die Voraussetzungen für eine *** wurden gesetzlich angepasst.",
+      "meaning_tr": "vatandaşlığa geçiş",
+      "meaning_en": "naturalization",
+      "meaning_uk": "натуралізація",
+      "meaning_es": "naturalización"
+    },
+    {
+      "term": "der Fluchtgrund",
+      "type": "Noun",
+      "example": "Politische Verfolgung ist ein anerkannter ***.",
+      "meaning_tr": "kaçış nedeni",
+      "meaning_en": "reason for flight",
+      "meaning_uk": "причина втечі",
+      "meaning_es": "motivo de huida"
+    },
+    {
+      "term": "die Diskriminierung",
+      "type": "Noun",
+      "example": "*** am Arbeitsplatz muss konsequent bekämpft werden.",
+      "meaning_tr": "ayrımcılık",
+      "meaning_en": "discrimination",
+      "meaning_uk": "дискримінація",
+      "meaning_es": "discriminación"
+    },
+    {
+      "term": "die Assimilation",
+      "type": "Noun",
+      "example": "Die Debatte über *** versus kulturelle Vielfalt ist komplex.",
+      "meaning_tr": "asimile olma",
+      "meaning_en": "assimilation",
+      "meaning_uk": "асиміляція",
+      "meaning_es": "asimilación"
+    },
+    {
+      "term": "die Arbeitsmigration",
+      "type": "Noun",
+      "example": "Die *** trägt wesentlich zur wirtschaftlichen Stabilität bei.",
+      "meaning_tr": "iş gücü göçü",
+      "meaning_en": "labor migration",
+      "meaning_uk": "трудова міграція",
+      "meaning_es": "migración laboral"
+    },
+    {
+      "term": "die Multikulturalität",
+      "type": "Noun",
+      "example": "Unsere Gesellschaft ist durch *** geprägt.",
+      "meaning_tr": "çok kültürlülük",
+      "meaning_en": "multiculturalism",
+      "meaning_uk": "мультикультуралізм",
+      "meaning_es": "multiculturalidad"
+    },
+    {
+      "term": "der Flüchtlingsstrom",
+      "type": "Noun",
+      "example": "Der *** stellte die Behörden vor große Herausforderungen.",
+      "meaning_tr": "mülteci akını",
+      "meaning_en": "influx of refugees",
+      "meaning_uk": "потік біженців",
+      "meaning_es": "flujo de refugiados"
+    },
+    {
+      "term": "die Abschiebung",
+      "type": "Noun",
+      "example": "Die *** von abgelehnten Asylbewerbern bleibt umstritten.",
+      "meaning_tr": "sınır dışı etme",
+      "meaning_en": "deportation",
+      "meaning_uk": "депортація",
+      "meaning_es": "deportación"
+    },
+    {
+      "term": "die Sozialisation",
+      "type": "Noun",
+      "example": "Der Prozess der *** erfolgt über viele Jahre.",
+      "meaning_tr": "toplumsallaşma",
+      "meaning_en": "socialization",
+      "meaning_uk": "соціалізація",
+      "meaning_es": "socialización"
+    },
+    {
+      "term": "die Fremdenfeindlichkeit",
+      "type": "Noun",
+      "example": "Wir müssen aktiv gegen *** vorgehen.",
+      "meaning_tr": "yabancı düşmanlığı",
+      "meaning_en": "xenophobia",
+      "meaning_uk": "ксенофобія",
+      "meaning_es": "xenofobia"
+    },
+    {
+      "term": "die Willkommenskultur",
+      "type": "Noun",
+      "example": "Eine gelebte *** ist für die Gesellschaft wichtig.",
+      "meaning_tr": "hoş geldin kültürü",
+      "meaning_en": "welcome culture",
+      "meaning_uk": "культура гостинності",
+      "meaning_es": "cultura de bienvenida"
+    },
+    {
+      "term": "die Staatsbürgerschaft",
+      "type": "Noun",
+      "example": "Er beantragte die deutsche *** nach acht Jahren.",
+      "meaning_tr": "vatandaşlık",
+      "meaning_en": "citizenship",
+      "meaning_uk": "громадянство",
+      "meaning_es": "ciudadanía"
+    },
+    {
+      "term": "die Sprachbarriere",
+      "type": "Noun",
+      "example": "Die *** erschwert oft den Zugang zum Arbeitsmarkt.",
+      "meaning_tr": "dil engeli",
+      "meaning_en": "language barrier",
+      "meaning_uk": "мовний бар'єр",
+      "meaning_es": "barrera lingüística"
+    },
+    {
+      "term": "die Segregation",
+      "type": "Noun",
+      "example": "Soziale *** führt langfristig zu gesellschaftlicher Spaltung.",
+      "meaning_tr": "ayrışma",
+      "meaning_en": "segregation",
+      "meaning_uk": "сегрегація",
+      "meaning_es": "segregación"
+    },
+    {
+      "term": "die Toleranz",
+      "type": "Noun",
+      "example": "*** ist die Basis für ein friedliches Zusammenleben.",
+      "meaning_tr": "hoşgörü",
+      "meaning_en": "tolerance",
+      "meaning_uk": "толерантність",
+      "meaning_es": "tolerancia"
+    },
+    {
+      "term": "die Diaspora",
+      "type": "Noun",
+      "example": "Die *** pflegt ihre kulturellen Traditionen im Ausland.",
+      "meaning_tr": "diaspora",
+      "meaning_en": "diaspora",
+      "meaning_uk": "діаспора",
+      "meaning_es": "diáspora"
+    },
+    {
+      "term": "integrieren",
+      "type": "Verb",
+      "example": "Wir müssen alle Gruppen in die Gesellschaft ***.",
+      "meaning_tr": "entegre etmek",
+      "meaning_en": "to integrate",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "integrar"
+    },
+    {
+      "term": "flüchten",
+      "type": "Verb",
+      "example": "Viele Menschen müssen aus ihrer Heimat ***.",
+      "meaning_tr": "kaçmak",
+      "meaning_en": "to flee",
+      "meaning_uk": "втікати",
+      "meaning_es": "huir"
+    },
+    {
+      "term": "diskriminieren",
+      "type": "Verb",
+      "example": "Niemand darf aufgrund seiner Herkunft *** werden.",
+      "meaning_tr": "ayrımcılık yapmak",
+      "meaning_en": "to discriminate",
+      "meaning_uk": "дискримінувати",
+      "meaning_es": "discriminar"
+    },
+    {
+      "term": "einbürgern",
+      "type": "Verb",
+      "example": "Der Staat hat ihn letztes Jahr ***.",
+      "meaning_tr": "vatandaşlığa almak",
+      "meaning_en": "to naturalize",
+      "meaning_uk": "надати громадянство",
+      "meaning_es": "nacionalizar"
+    },
+    {
+      "term": "ansiedeln",
+      "type": "Verb",
+      "example": "Die Regierung versucht, Fachkräfte in dieser Region zu ***.",
+      "meaning_tr": "yerleştirmek",
+      "meaning_en": "to settle",
+      "meaning_uk": "поселити",
+      "meaning_es": "asentar"
+    },
+    {
+      "term": "migrieren",
+      "type": "Verb",
+      "example": "Viele junge Menschen *** auf der Suche nach Arbeit.",
+      "meaning_tr": "göç etmek",
+      "meaning_en": "to migrate",
+      "meaning_uk": "мігрувати",
+      "meaning_es": "migrar"
+    },
+    {
+      "term": "ausweisen",
+      "type": "Verb",
+      "example": "Die Behörden mussten den Straftäter ***.",
+      "meaning_tr": "sınır dışı etmek",
+      "meaning_en": "to expel",
+      "meaning_uk": "видворити",
+      "meaning_es": "expulsar"
+    },
+    {
+      "term": "partizipieren",
+      "type": "Verb",
+      "example": "Alle Bürger sollten am politischen Leben ***.",
+      "meaning_tr": "katılmak",
+      "meaning_en": "to participate",
+      "meaning_uk": "брати участь",
+      "meaning_es": "participar"
+    },
+    {
+      "term": "anerkennen",
+      "type": "Verb",
+      "example": "Der Staat muss seine Qualifikationen ***.",
+      "meaning_tr": "tanımak/kabul etmek",
+      "meaning_en": "to recognize",
+      "meaning_uk": "визнавати",
+      "meaning_es": "reconocer"
+    },
+    {
+      "term": "assimiliert",
+      "type": "Adjective",
+      "example": "Er ist in der neuen Kultur vollständig ***.",
+      "meaning_tr": "asimile olmuş",
+      "meaning_en": "assimilated",
+      "meaning_uk": "асимільований",
+      "meaning_es": "asimilado"
+    },
+    {
+      "term": "fremd",
+      "type": "Adjective",
+      "example": "In der neuen Stadt fühlte er sich zunächst ***.",
+      "meaning_tr": "yabancı",
+      "meaning_en": "foreign",
+      "meaning_uk": "чужий",
+      "meaning_es": "extraño"
+    },
+    {
+      "term": "multikulturell",
+      "type": "Adjective",
+      "example": "Berlin ist eine sehr *** Stadt.",
+      "meaning_tr": "çok kültürlü",
+      "meaning_en": "multicultural",
+      "meaning_uk": "мультикультурний",
+      "meaning_es": "multicultural"
+    },
+    {
+      "term": "tolerant",
+      "type": "Adjective",
+      "example": "Eine *** Gesellschaft schätzt Vielfalt.",
+      "meaning_tr": "hoşgörülü",
+      "meaning_en": "tolerant",
+      "meaning_uk": "толерантний",
+      "meaning_es": "tolerante"
+    },
+    {
+      "term": "diskriminierend",
+      "type": "Adjective",
+      "example": "Diese Äußerung empfand ich als sehr ***.",
+      "meaning_tr": "ayrımcı",
+      "meaning_en": "discriminatory",
+      "meaning_uk": "дискримінаційний",
+      "meaning_es": "discriminatorio"
+    },
+    {
+      "term": "sozial",
+      "type": "Adjective",
+      "example": "Die *** Integration ist eine langfristige Aufgabe.",
+      "meaning_tr": "sosyal",
+      "meaning_en": "social",
+      "meaning_uk": "соціальний",
+      "meaning_es": "social"
+    },
+    {
+      "term": "kulturell",
+      "type": "Adjective",
+      "example": "Der *** Austausch bereichert unser Leben.",
+      "meaning_tr": "kültürel",
+      "meaning_en": "cultural",
+      "meaning_uk": "культурний",
+      "meaning_es": "cultural"
+    },
+    {
+      "term": "exklusiv",
+      "type": "Adjective",
+      "example": "Manche Gruppen fühlen sich aus der Gesellschaft ***.",
+      "meaning_tr": "dışlayıcı",
+      "meaning_en": "exclusive",
+      "meaning_uk": "ексклюзивний",
+      "meaning_es": "exclusivo"
+    },
+    {
+      "term": "inklusiv",
+      "type": "Adjective",
+      "example": "Wir brauchen eine *** Bildungspolitik.",
+      "meaning_tr": "kapsayıcı",
+      "meaning_en": "inclusive",
+      "meaning_uk": "інклюзивний",
+      "meaning_es": "inclusivo"
+    },
+    {
+      "term": "staatenlos",
+      "type": "Adjective",
+      "example": "Die Person ist aktuell ***.",
+      "meaning_tr": "vatansız",
+      "meaning_en": "stateless",
+      "meaning_uk": "особа без громадянства",
+      "meaning_es": "apátrida"
+    },
+    {
+      "term": "fremdenfeindlich",
+      "type": "Adjective",
+      "example": "Die Partei vertritt *** Positionen.",
+      "meaning_tr": "yabancı düşmanı",
+      "meaning_en": "xenophobic",
+      "meaning_uk": "ксенофобський",
+      "meaning_es": "xenófobo"
+    },
+    {
+      "term": "hinsichtlich",
+      "type": "Preposition",
+      "example": "*** der Integration gibt es noch viel zu tun.",
+      "meaning_tr": "ile ilgili olarak",
+      "meaning_en": "regarding",
+      "meaning_uk": "щодо",
+      "meaning_es": "con respecto a"
+    },
+    {
+      "term": "angesichts",
+      "type": "Preposition",
+      "example": "*** der aktuellen Lage müssen wir handeln.",
+      "meaning_tr": "göz önüne alındığında",
+      "meaning_en": "in view of",
+      "meaning_uk": "з огляду на",
+      "meaning_es": "ante"
+    },
+    {
+      "term": "mithilfe",
+      "type": "Preposition",
+      "example": "*** eines Sprachkurses fand er Arbeit.",
+      "meaning_tr": "yardımıyla",
+      "meaning_en": "with the help of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "con la ayuda de"
+    },
+    {
+      "term": "infolge",
+      "type": "Preposition",
+      "example": "*** der Migration veränderte sich das Viertel.",
+      "meaning_tr": "sonucunda",
+      "meaning_en": "as a result of",
+      "meaning_uk": "внаслідок",
+      "meaning_es": "a consecuencia de"
+    },
+    {
+      "term": "zwecks",
+      "type": "Preposition",
+      "example": "Er kam *** einer Fortbildung nach Deutschland.",
+      "meaning_tr": "amacıyla",
+      "meaning_en": "for the purpose of",
+      "meaning_uk": "з метою",
+      "meaning_es": "con el propósito de"
+    },
+    {
+      "term": "abseits",
+      "type": "Preposition",
+      "example": "Sie leben oft *** der Mehrheitsgesellschaft.",
+      "meaning_tr": "dışında",
+      "meaning_en": "away from",
+      "meaning_uk": "осторонь",
+      "meaning_es": "al margen de"
+    },
+    {
+      "term": "zugunsten",
+      "type": "Preposition",
+      "example": "Man sollte Vorurteile *** der Vernunft aufgeben.",
+      "meaning_tr": "yararına",
+      "meaning_en": "in favor of",
+      "meaning_uk": "на користь",
+      "meaning_es": "a favor de"
+    },
+    {
+      "term": "mittels",
+      "type": "Preposition",
+      "example": "*** einer Übersetzung verstand er alles.",
+      "meaning_tr": "yoluyla",
+      "meaning_en": "by means of",
+      "meaning_uk": "за допомогою",
+      "meaning_es": "mediante"
+    },
+    {
+      "term": "demzufolge",
+      "type": "Adverb",
+      "example": "Die Gesetze wurden geändert, *** sind nun neue Regeln gültig.",
+      "meaning_tr": "bunun sonucunda",
+      "meaning_en": "consequently",
+      "meaning_uk": "як наслідок",
+      "meaning_es": "por consiguiente"
+    },
+    {
+      "term": "nichtsdestotrotz",
+      "type": "Adverb",
+      "example": "Es gab Probleme, *** war die Integration erfolgreich.",
+      "meaning_tr": "buna rağmen",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "незважаючи на це",
+      "meaning_es": "no obstante"
+    },
+    {
+      "term": "folglich",
+      "type": "Adverb",
+      "example": "Er hat keinen Pass; *** darf er nicht reisen.",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "en consecuencia"
+    },
+    {
+      "term": "hingegen",
+      "type": "Adverb",
+      "example": "Einige sind für Migration, andere *** sind dagegen.",
+      "meaning_tr": "aksine/diğer taraftan",
+      "meaning_en": "on the other hand",
+      "meaning_uk": "навпаки",
+      "meaning_es": "en cambio"
+    },
+    {
+      "term": "zudem",
+      "type": "Adverb",
+      "example": "Die Sprache ist wichtig, *** braucht man Arbeit.",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore",
+      "meaning_uk": "крім того",
+      "meaning_es": "además"
+    },
+    {
+      "term": "indessen",
+      "type": "Adverb",
+      "example": "Er suchte Arbeit, *** lernte seine Frau Deutsch.",
+      "meaning_tr": "bu arada",
+      "meaning_en": "meanwhile",
+      "meaning_uk": "тим часом",
+      "meaning_es": "mientras tanto"
+    },
+    {
+      "term": "nichtsdestoweniger",
+      "type": "Adverb",
+      "example": "Die Hürden sind groß, *** gibt er nicht auf.",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "тим не менш",
+      "meaning_es": "sin embargo"
+    },
+    {
+      "term": "einerseits",
+      "type": "Conjunction",
+      "example": "*** ist Migration eine Chance, andererseits eine Herausforderung.",
+      "meaning_tr": "bir yandan",
+      "meaning_en": "on the one hand",
+      "meaning_uk": "з одного боку",
+      "meaning_es": "por un lado"
+    },
+    {
+      "term": "andererseits",
+      "type": "Conjunction",
+      "example": "Einerseits ist es schwer, *** lernt man viel dazu.",
+      "meaning_tr": "diğer yandan",
+      "meaning_en": "on the other hand",
+      "meaning_uk": "з іншого боку",
+      "meaning_es": "por otro lado"
+    },
+    {
+      "term": "sowohl als auch",
+      "type": "Conjunction",
+      "example": "Integration betrifft *** die Einwanderer *** die Einheimischen.",
+      "meaning_tr": "hem... hem de",
+      "meaning_en": "both... and",
+      "meaning_uk": "як... так і",
+      "meaning_es": "tanto... como"
+    },
+    {
+      "term": "weder noch",
+      "type": "Conjunction",
+      "example": "Er spricht *** Deutsch *** Englisch.",
+      "meaning_tr": "ne... ne de",
+      "meaning_en": "neither... nor",
+      "meaning_uk": "ні... ні",
+      "meaning_es": "ni... ni"
+    },
+    {
+      "term": "zwar aber",
+      "type": "Conjunction",
+      "example": "Die Integration ist *** schwierig, *** notwendig.",
+      "meaning_tr": "gerçi... ama",
+      "meaning_en": "admittedly... but",
+      "meaning_uk": "хоча... але",
+      "meaning_es": "si bien... pero"
+    }
+  ]
+}

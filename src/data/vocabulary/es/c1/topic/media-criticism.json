@@ -1,0 +1,545 @@
+{
+  "title": "Critica de los Medios (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la veracidad",
+      "type": "Noun",
+      "meaning_tr": "doğruluk",
+      "meaning_en": "veracity",
+      "meaning_uk": "правдивість",
+      "meaning_es": "cualidad de lo que es verdadero",
+      "example": "Es fundamental contrastar *** de la información antes de publicarla."
+    },
+    {
+      "term": "manipular",
+      "type": "Verb",
+      "meaning_tr": "manipüle etmek",
+      "meaning_en": "to manipulate",
+      "meaning_uk": "маніпулювати",
+      "meaning_es": "intervenir con medios hábiles para alterar la realidad",
+      "example": "No debemos permitir que los medios intenten *** la opinión pública."
+    },
+    {
+      "term": "sesgado",
+      "type": "Adjective",
+      "meaning_tr": "taraflı",
+      "meaning_en": "biased",
+      "meaning_uk": "упереджений",
+      "meaning_es": "que carece de neutralidad",
+      "example": "El informe presentado por el canal resultó ser bastante ***."
+    },
+    {
+      "term": "el sensacionalismo",
+      "type": "Noun",
+      "meaning_tr": "sansasyonellik",
+      "meaning_en": "sensationalism",
+      "meaning_uk": "сенсаційність",
+      "example": "Muchos programas de televisión recurren al *** para ganar audiencia."
+    },
+    {
+      "term": "la desinformación",
+      "type": "Noun",
+      "meaning_tr": "dezenformasyon",
+      "meaning_en": "disinformation",
+      "meaning_uk": "дезінформація",
+      "meaning_es": "información falsa dada deliberadamente",
+      "example": "La lucha contra *** es un desafío clave en la era digital."
+    },
+    {
+      "term": "verificar",
+      "type": "Verb",
+      "meaning_tr": "doğrulamak",
+      "meaning_en": "to verify",
+      "meaning_uk": "перевіряти",
+      "meaning_es": "comprobar la verdad de algo",
+      "example": "Es necesario *** las fuentes antes de compartir cualquier noticia."
+    },
+    {
+      "term": "la objetividad",
+      "type": "Noun",
+      "meaning_tr": "nesnellik",
+      "meaning_en": "objectivity",
+      "meaning_uk": "об'єктивність",
+      "meaning_es": "imparcialidad",
+      "example": "La prensa debe esforzarse por mantener *** en sus editoriales."
+    },
+    {
+      "term": "el bulo",
+      "type": "Noun",
+      "meaning_tr": "yalan haber",
+      "meaning_en": "hoax",
+      "meaning_uk": "фейк",
+      "meaning_es": "noticia falsa divulgada con intención de engañar",
+      "example": "Las redes sociales han facilitado la propagación de cualquier ***."
+    },
+    {
+      "term": "teledirigido",
+      "type": "Adjective",
+      "meaning_tr": "uzaktan kumandalı",
+      "meaning_en": "remote-controlled",
+      "meaning_uk": "керований",
+      "meaning_es": "que actúa bajo mando externo",
+      "example": "Se sospecha que este movimiento social es un proceso ***."
+    },
+    {
+      "term": "la línea editorial",
+      "type": "Noun",
+      "meaning_tr": "yayın politikası",
+      "meaning_en": "editorial line",
+      "meaning_uk": "редакційна політика",
+      "meaning_es": "postura ideológica de un medio",
+      "example": "Cada periódico tiene *** que define su enfoque informativo."
+    },
+    {
+      "term": "tergiversar",
+      "type": "Verb",
+      "meaning_tr": "çarpıtmak",
+      "meaning_en": "to distort",
+      "meaning_uk": "перекручувати",
+      "meaning_es": "interpretar erróneamente o de forma interesada",
+      "example": "No es ético *** las palabras de un entrevistado para ganar impacto."
+    },
+    {
+      "term": "la censura",
+      "type": "Noun",
+      "meaning_tr": "sansür",
+      "meaning_en": "censorship",
+      "meaning_uk": "цензура",
+      "meaning_es": "limitación de la libertad de expresión",
+      "example": "En regímenes autoritarios, *** es una herramienta de control político."
+    },
+    {
+      "term": "el adoctrinamiento",
+      "type": "Noun",
+      "meaning_tr": "beyin yıkama",
+      "meaning_en": "indoctrination",
+      "meaning_uk": "індоктринація",
+      "meaning_es": "imposición de ideas",
+      "example": "Algunos sectores critican el *** presente en los medios estatales."
+    },
+    {
+      "term": "transparente",
+      "type": "Adjective",
+      "meaning_tr": "şeffaf",
+      "meaning_en": "transparent",
+      "meaning_uk": "прозорий",
+      "meaning_es": "claro y sin ocultamientos",
+      "example": "La gestión de los fondos públicos debe ser siempre ***."
+    },
+    {
+      "term": "la polarización",
+      "type": "Noun",
+      "meaning_tr": "kutuplaşma",
+      "meaning_en": "polarization",
+      "meaning_uk": "поляризація",
+      "meaning_es": "división en dos extremos opuestos",
+      "example": "El discurso mediático actual fomenta la *** de la sociedad."
+    },
+    {
+      "term": "el pluralismo",
+      "type": "Noun",
+      "meaning_tr": "çoğulculuk",
+      "meaning_en": "pluralism",
+      "meaning_uk": "плюралізм",
+      "meaning_es": "coexistencia de diversas opiniones",
+      "example": "Un sistema democrático requiere *** en los medios de comunicación."
+    },
+    {
+      "term": "difamar",
+      "type": "Verb",
+      "meaning_tr": "iftira atmak",
+      "meaning_en": "to defame",
+      "meaning_uk": "наклепувати",
+      "meaning_es": "desacreditar a alguien",
+      "example": "El medio fue condenado por *** a un funcionario público."
+    },
+    {
+      "term": "la opinión pública",
+      "type": "Noun",
+      "meaning_tr": "kamuoyu",
+      "meaning_en": "public opinion",
+      "meaning_uk": "громадська думка",
+      "meaning_es": "sentir general de la sociedad",
+      "example": "Los medios tienen un gran poder para moldear ***."
+    },
+    {
+      "term": "la audiencia",
+      "type": "Noun",
+      "meaning_tr": "izleyici kitlesi",
+      "meaning_en": "audience",
+      "meaning_uk": "аудиторія",
+      "meaning_es": "público que recibe un mensaje",
+      "example": "La cadena busca atraer a una *** más joven y digital."
+    },
+    {
+      "term": "sesgar",
+      "type": "Verb",
+      "meaning_tr": "taraflı olmak",
+      "meaning_en": "to bias",
+      "meaning_uk": "викривляти",
+      "meaning_es": "dar una orientación subjetiva",
+      "example": "Es imposible no *** la información si se parte de una ideología radical."
+    },
+    {
+      "term": "la verosimilitud",
+      "type": "Noun",
+      "meaning_tr": "inandırıcılık",
+      "meaning_en": "plausibility",
+      "meaning_uk": "правдоподібність",
+      "meaning_es": "apariencia de verdadero",
+      "example": "La noticia carece de *** debido a la falta de pruebas sólidas."
+    },
+    {
+      "term": "el sensacionalista",
+      "type": "Adjective",
+      "meaning_tr": "sansasyonel",
+      "meaning_en": "sensational",
+      "meaning_uk": "сенсаційний",
+      "meaning_es": "que busca llamar la atención",
+      "example": "Adoptaron un tono *** para mejorar sus niveles de audiencia."
+    },
+    {
+      "term": "la hegemonía",
+      "type": "Noun",
+      "meaning_tr": "hegemonya",
+      "meaning_en": "hegemony",
+      "meaning_uk": "гегемонія",
+      "meaning_es": "supremacía de un grupo sobre otros",
+      "example": "El grupo mediático busca mantener su *** en el mercado de la prensa."
+    },
+    {
+      "term": "el sesgo",
+      "type": "Noun",
+      "meaning_tr": "yanlılık",
+      "meaning_en": "bias",
+      "meaning_uk": "упередженість",
+      "meaning_es": "inclinación hacia un lado",
+      "example": "Es necesario analizar el *** ideológico del artículo publicado."
+    },
+    {
+      "term": "la descontextualización",
+      "type": "Noun",
+      "meaning_tr": "bağlamdan koparma",
+      "meaning_en": "decontextualization",
+      "meaning_uk": "деконтекстуалізація",
+      "meaning_es": "sacar algo de su entorno",
+      "example": "La *** de las declaraciones puede cambiar totalmente el mensaje."
+    },
+    {
+      "term": "la prensa amarilla",
+      "type": "Noun",
+      "meaning_tr": "magazin basını",
+      "meaning_en": "yellow journalism",
+      "meaning_uk": "жовта преса",
+      "meaning_es": "periodismo sensacionalista",
+      "example": "La *** se centra más en los escándalos que en los hechos."
+    },
+    {
+      "term": "la veracidad",
+      "type": "Noun",
+      "meaning_tr": "doğruluk",
+      "meaning_en": "truthfulness",
+      "meaning_uk": "правдивість",
+      "meaning_es": "cualidad de veraz",
+      "example": "Cuestiono la *** de los datos presentados en este reportaje."
+    },
+    {
+      "term": "la ética",
+      "type": "Noun",
+      "meaning_tr": "etik",
+      "meaning_en": "ethics",
+      "meaning_uk": "етика",
+      "meaning_es": "conjunto de normas morales",
+      "example": "El periodista debe regirse por un estricto código de ***."
+    },
+    {
+      "term": "la manipulación",
+      "type": "Noun",
+      "meaning_tr": "manipülasyon",
+      "meaning_en": "manipulation",
+      "meaning_uk": "маніпуляція",
+      "meaning_es": "acción de manipular",
+      "example": "La *** informativa es un peligro para cualquier democracia."
+    },
+    {
+      "term": "el tertuliano",
+      "type": "Noun",
+      "meaning_tr": "tartışma programı konuğu",
+      "meaning_en": "panelist",
+      "meaning_uk": "учасник дискусії",
+      "meaning_es": "colaborador en una tertulia",
+      "example": "El *** fue muy crítico con las políticas gubernamentales."
+    },
+    {
+      "term": "la posverdad",
+      "type": "Noun",
+      "meaning_tr": "hakikat sonrası",
+      "meaning_en": "post-truth",
+      "meaning_uk": "постправда",
+      "meaning_es": "distorsión deliberada de la realidad",
+      "example": "Vivimos en la era de la ***, donde las emociones pesan más que los hechos."
+    },
+    {
+      "term": "la parcialidad",
+      "type": "Noun",
+      "meaning_tr": "taraflılık",
+      "meaning_en": "partiality",
+      "meaning_uk": "упередженість",
+      "meaning_es": "falta de objetividad",
+      "example": "La *** del presentador es evidente en sus comentarios."
+    },
+    {
+      "term": "el enfoque",
+      "type": "Noun",
+      "meaning_tr": "yaklaşım",
+      "meaning_en": "approach",
+      "meaning_uk": "підхід",
+      "meaning_es": "punto de vista",
+      "example": "El *** de esta noticia es claramente tendencioso."
+    },
+    {
+      "term": "el escrutinio",
+      "type": "Noun",
+      "meaning_tr": "inceleme",
+      "meaning_en": "scrutiny",
+      "meaning_uk": "ретельний огляд",
+      "meaning_es": "examen atento",
+      "example": "Los medios deben someterse al *** constante de la ciudadanía."
+    },
+    {
+      "term": "fidedigno",
+      "type": "Adjective",
+      "meaning_tr": "güvenilir",
+      "meaning_en": "reliable",
+      "meaning_uk": "достовірний",
+      "meaning_es": "que merece crédito",
+      "example": "Solo debemos confiar en fuentes de información ***."
+    },
+    {
+      "term": "la infodemia",
+      "type": "Noun",
+      "meaning_tr": "bilgi salgını",
+      "meaning_en": "infodemic",
+      "meaning_uk": "інфодемія",
+      "meaning_es": "exceso de información falsa",
+      "example": "Durante la crisis sanitaria, la *** complicó la toma de decisiones."
+    },
+    {
+      "term": "la autocensura",
+      "type": "Noun",
+      "meaning_tr": "otosansür",
+      "meaning_en": "self-censorship",
+      "meaning_uk": "самоцензура",
+      "meaning_es": "limitación impuesta por uno mismo",
+      "example": "El miedo al despido provoca la *** entre los periodistas."
+    },
+    {
+      "term": "el rumor",
+      "type": "Noun",
+      "meaning_tr": "söylenti",
+      "meaning_en": "rumor",
+      "meaning_uk": "чутка",
+      "meaning_es": "noticia no confirmada",
+      "example": "No es profesional convertir un simple *** en una noticia principal."
+    },
+    {
+      "term": "la línea roja",
+      "type": "Noun",
+      "meaning_tr": "kırmızı çizgi",
+      "meaning_en": "red line",
+      "meaning_uk": "червона лінія",
+      "meaning_es": "límite infranqueable",
+      "example": "La mentira directa es una *** que ningún medio debería cruzar."
+    },
+    {
+      "term": "el espectador",
+      "type": "Noun",
+      "meaning_tr": "izleyici",
+      "meaning_en": "viewer",
+      "meaning_uk": "глядач",
+      "meaning_es": "persona que mira algo",
+      "example": "El *** debe desarrollar un sentido crítico ante la pantalla."
+    },
+    {
+      "term": "cuestionar",
+      "type": "Verb",
+      "meaning_tr": "sorgulamak",
+      "meaning_en": "to question",
+      "meaning_uk": "ставити під сумнів",
+      "meaning_es": "poner en duda",
+      "example": "Es saludable *** todo lo que leemos en los medios digitales."
+    },
+    {
+      "term": "el titular",
+      "type": "Noun",
+      "meaning_tr": "başlık",
+      "meaning_en": "headline",
+      "meaning_uk": "заголовок",
+      "meaning_es": "frase que encabeza una noticia",
+      "example": "El *** resulta engañoso en comparación con el texto del artículo."
+    },
+    {
+      "term": "la primicia",
+      "type": "Noun",
+      "meaning_tr": "özel haber",
+      "meaning_en": "scoop",
+      "meaning_uk": "ексклюзив",
+      "meaning_es": "noticia dada por primera vez",
+      "example": "El canal se apresuró a publicar la *** sin confirmarla."
+    },
+    {
+      "term": "la credibilidad",
+      "type": "Noun",
+      "meaning_tr": "güvenilirlik",
+      "meaning_en": "credibility",
+      "meaning_uk": "достовірність",
+      "meaning_es": "capacidad de ser creído",
+      "example": "Perder *** es el daño más grave para un periodista."
+    },
+    {
+      "term": "el partidismo",
+      "type": "Noun",
+      "meaning_tr": "taraftarlık",
+      "meaning_en": "partisanship",
+      "meaning_uk": "партійності",
+      "meaning_es": "adhesión ciega a una causa",
+      "example": "El *** ha destruido la calidad del debate político actual."
+    },
+    {
+      "term": "la deshumanización",
+      "type": "Noun",
+      "meaning_tr": "insansızlaştırma",
+      "meaning_en": "dehumanization",
+      "meaning_uk": "дегуманізація",
+      "meaning_es": "privar de características humanas",
+      "example": "La *** de las víctimas en los medios es una práctica condenable."
+    },
+    {
+      "term": "tendencioso",
+      "type": "Adjective",
+      "meaning_tr": "taraflı",
+      "meaning_en": "tendentious",
+      "meaning_uk": "тенденційний",
+      "meaning_es": "que tiene una intención oculta",
+      "example": "El artículo es demasiado *** para ser considerado periodismo serio."
+    },
+    {
+      "term": "la pluralidad",
+      "type": "Noun",
+      "meaning_tr": "çokluk",
+      "meaning_en": "plurality",
+      "meaning_uk": "плюралізм",
+      "meaning_es": "variedad de opiniones",
+      "example": "La *** de voces es necesaria para una prensa sana."
+    },
+    {
+      "term": "el reportaje",
+      "type": "Noun",
+      "meaning_tr": "röportaj",
+      "meaning_en": "reportage",
+      "meaning_uk": "репортаж",
+      "meaning_es": "trabajo periodístico de investigación",
+      "example": "He leído un *** muy completo sobre la crisis económica."
+    },
+    {
+      "term": "la difamación",
+      "type": "Noun",
+      "meaning_tr": "iftira",
+      "meaning_en": "defamation",
+      "meaning_uk": "наклеп",
+      "meaning_es": "desprestigio público",
+      "example": "La ley protege a los ciudadanos contra la *** en los medios."
+    },
+    {
+      "term": "el sensacionalismo",
+      "type": "Noun",
+      "meaning_tr": "sansasyonellik",
+      "meaning_en": "sensationalism",
+      "meaning_uk": "сенсаційність",
+      "meaning_es": "abuso de lo llamativo",
+      "example": "Evitemos caer en el *** al tratar temas tan delicados."
+    },
+    {
+      "term": "contrastar",
+      "type": "Verb",
+      "meaning_tr": "karşılaştırmak",
+      "meaning_en": "to cross-check",
+      "meaning_uk": "зіставляти",
+      "meaning_es": "comparar fuentes",
+      "example": "Es obligatorio *** la información con al menos dos fuentes distintas."
+    },
+    {
+      "term": "la veracidad",
+      "type": "Noun",
+      "meaning_tr": "doğruluk",
+      "meaning_en": "accuracy",
+      "meaning_uk": "точність",
+      "meaning_es": "calidad de veraz",
+      "example": "La *** de las cifras publicadas es bastante cuestionable."
+    },
+    {
+      "term": "el sesgo cognitivo",
+      "type": "Noun",
+      "meaning_tr": "bilişsel önyargı",
+      "meaning_en": "cognitive bias",
+      "meaning_uk": "когнітивне упередження",
+      "meaning_es": "error de pensamiento",
+      "example": "A veces, el *** nos impide ver la realidad objetiva."
+    },
+    {
+      "term": "la manipulación",
+      "type": "Noun",
+      "meaning_tr": "manipülasyon",
+      "meaning_en": "manipulation",
+      "meaning_uk": "маніпуляція",
+      "meaning_es": "manejo de información",
+      "example": "Denunciar la *** es un acto de responsabilidad cívica."
+    },
+    {
+      "term": "la imparcialidad",
+      "type": "Noun",
+      "meaning_tr": "tarafsızlık",
+      "meaning_en": "impartiality",
+      "meaning_uk": "неупередженість",
+      "meaning_es": "ausencia de inclinación",
+      "example": "La *** es una virtud esencial en el ejercicio periodístico."
+    },
+    {
+      "term": "el lector",
+      "type": "Noun",
+      "meaning_tr": "okuyucu",
+      "meaning_en": "reader",
+      "meaning_uk": "читач",
+      "meaning_es": "persona que lee",
+      "example": "Un *** crítico sabe identificar cuándo una noticia está sesgada."
+    },
+    {
+      "term": "la opinión",
+      "type": "Noun",
+      "meaning_tr": "fikir",
+      "meaning_en": "opinion",
+      "meaning_uk": "думка",
+      "meaning_es": "juicio personal",
+      "example": "Debemos distinguir claramente entre la noticia y la ***."
+    },
+    {
+      "term": "el medio",
+      "type": "Noun",
+      "meaning_tr": "medya",
+      "meaning_en": "media",
+      "meaning_uk": "засіб масової інформації",
+      "meaning_es": "canal de comunicación",
+      "example": "Cada *** tiene su propia agenda política escondida."
+    },
+    {
+      "term": "transparencia",
+      "type": "Noun",
+      "meaning_tr": "şeffaflık",
+      "meaning_en": "transparency",
+      "meaning_uk": "прозорість",
+      "meaning_es": "claridad",
+      "example": "Exigimos mayor *** en la financiación de los grupos mediáticos."
+    }
+  ]
+}

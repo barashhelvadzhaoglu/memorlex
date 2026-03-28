@@ -1,0 +1,546 @@
+{
+  "title": "En el Restaurante (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el maridaje",
+      "type": "Noun",
+      "meaning_tr": "şarap uyumu",
+      "meaning_en": "wine pairing",
+      "meaning_uk": "поєднання вина",
+      "meaning_es": "combinación armónica de vino y comida",
+      "example": "El sumiller nos recomendó *** perfecto para el plato de caza."
+    },
+    {
+      "term": "el comensal",
+      "type": "Noun",
+      "meaning_tr": "yemek yiyen kişi",
+      "meaning_en": "diner",
+      "meaning_uk": "гість",
+      "meaning_es": "persona que come en una mesa",
+      "example": "Cada *** recibió una atención personalizada por parte del personal de sala."
+    },
+    {
+      "term": "la cata",
+      "type": "Noun",
+      "meaning_tr": "tatma",
+      "meaning_en": "tasting",
+      "meaning_uk": "дегустація",
+      "meaning_es": "degustación de un producto",
+      "example": "Participamos en una *** de aceites de oliva virgen extra."
+    },
+    {
+      "term": "la mantelería",
+      "type": "Noun",
+      "meaning_tr": "masa takımı",
+      "meaning_en": "table linen",
+      "meaning_uk": "столова білизна",
+      "meaning_es": "conjunto de manteles y servilletas",
+      "example": "La *** del restaurante era de hilo fino y estaba impecablemente planchada."
+    },
+    {
+      "term": "el cubierto",
+      "type": "Noun",
+      "meaning_tr": "çatal bıçak takımı",
+      "meaning_en": "cutlery",
+      "meaning_uk": "столові прибори",
+      "meaning_es": "instrumento para comer",
+      "example": "El camarero retiró el *** usado antes de servir el postre."
+    },
+    {
+      "term": "la carta de vinos",
+      "type": "Noun",
+      "meaning_tr": "şarap listesi",
+      "meaning_en": "wine list",
+      "meaning_uk": "винна карта",
+      "meaning_es": "menú de opciones vinícolas",
+      "example": "La *** es tan extensa que resulta difícil elegir solo una botella."
+    },
+    {
+      "term": "el anfitrión",
+      "type": "Noun",
+      "meaning_tr": "ev sahibi",
+      "meaning_en": "host",
+      "meaning_uk": "господар",
+      "meaning_es": "persona que recibe a los invitados",
+      "example": "El *** nos guio hasta nuestra mesa reservada con mucha elegancia."
+    },
+    {
+      "term": "la propina",
+      "type": "Noun",
+      "meaning_tr": "bahşiş",
+      "meaning_en": "tip",
+      "meaning_uk": "чайові",
+      "meaning_es": "dinero extra por un servicio",
+      "example": "En este país, dejar una *** generosa es una costumbre muy valorada."
+    },
+    {
+      "term": "el servicio de mesa",
+      "type": "Noun",
+      "meaning_tr": "servis bedeli",
+      "meaning_en": "service charge",
+      "meaning_uk": "плата за обслуговування",
+      "meaning_es": "cargo adicional por el servicio",
+      "example": "El *** ya está incluido en el precio final de la factura."
+    },
+    {
+      "term": "la vajilla",
+      "type": "Noun",
+      "meaning_tr": "yemek takımı",
+      "meaning_en": "tableware",
+      "meaning_uk": "посуд",
+      "meaning_es": "conjunto de platos y fuentes",
+      "example": "La *** artesanal le daba un toque rústico y auténtico al local."
+    },
+    {
+      "term": "el entrante",
+      "type": "Noun",
+      "meaning_tr": "başlangıç",
+      "meaning_en": "appetizer",
+      "meaning_uk": "закуска",
+      "meaning_es": "primer plato",
+      "example": "Como ***, sugiero que probéis las alcachofas confitadas."
+    },
+    {
+      "term": "el plato fuerte",
+      "type": "Noun",
+      "meaning_tr": "ana yemek",
+      "meaning_en": "main course",
+      "meaning_uk": "основна страва",
+      "meaning_es": "plato principal",
+      "example": "Para el ***, opté por el solomillo al punto con reducción de balsámico."
+    },
+    {
+      "term": "la guarnición",
+      "type": "Noun",
+      "meaning_tr": "garnitür",
+      "meaning_en": "side dish",
+      "meaning_uk": "гарнір",
+      "meaning_es": "acompañamiento del plato",
+      "example": "La carne venía acompañada de una *** de verduras de temporada al vapor."
+    },
+    {
+      "term": "el postre",
+      "type": "Noun",
+      "meaning_tr": "tatlı",
+      "meaning_en": "dessert",
+      "meaning_uk": "десерт",
+      "meaning_es": "plato dulce final",
+      "example": "El *** estrella de la casa es la mousse de chocolate con sal marina."
+    },
+    {
+      "term": "la factura",
+      "type": "Noun",
+      "meaning_tr": "hesap",
+      "meaning_en": "bill",
+      "meaning_uk": "рахунок",
+      "meaning_es": "documento de pago",
+      "example": "Por favor, ¿podría traernos la *** cuando tenga un momento?"
+    },
+    {
+      "term": "la reserva",
+      "type": "Noun",
+      "meaning_tr": "rezervasyon",
+      "meaning_en": "reservation",
+      "meaning_uk": "бронювання",
+      "meaning_es": "apartado de una mesa",
+      "example": "Tengo una *** a nombre de García para las ocho de la tarde."
+    },
+    {
+      "term": "el sumiller",
+      "type": "Noun",
+      "meaning_tr": "şarap uzmanı",
+      "meaning_en": "sommelier",
+      "meaning_uk": "сомельє",
+      "meaning_es": "experto en vinos",
+      "example": "El *** nos explicó las notas de cata de este vino de la Ribera del Duero."
+    },
+    {
+      "term": "el chef",
+      "type": "Noun",
+      "meaning_tr": "şef",
+      "meaning_en": "chef",
+      "meaning_uk": "шеф-кухар",
+      "meaning_es": "cocinero profesional",
+      "example": "El *** ha diseñado un menú degustación que es una auténtica obra de arte."
+    },
+    {
+      "term": "la especialidad",
+      "type": "Noun",
+      "meaning_tr": "spesiyal",
+      "meaning_en": "specialty",
+      "meaning_uk": "фірмова страва",
+      "meaning_es": "plato distintivo del lugar",
+      "example": "La *** de este restaurante es el arroz caldoso con bogavante."
+    },
+    {
+      "term": "el paladar",
+      "type": "Noun",
+      "meaning_tr": "damak tadı",
+      "meaning_en": "palate",
+      "meaning_uk": "смак",
+      "meaning_es": "sentido del gusto",
+      "example": "Este vino resulta demasiado intenso para mi ***."
+    },
+    {
+      "term": "el gusto",
+      "type": "Noun",
+      "meaning_tr": "zevk",
+      "meaning_en": "taste",
+      "meaning_uk": "смак",
+      "meaning_es": "preferencia personal",
+      "example": "La decoración del comedor es de muy buen ***."
+    },
+    {
+      "term": "la textura",
+      "type": "Noun",
+      "meaning_tr": "doku",
+      "meaning_en": "texture",
+      "meaning_uk": "текстура",
+      "meaning_es": "sensación al tacto o boca",
+      "example": "La *** crujiente de la tempura contrastaba con la suavidad del pescado."
+    },
+    {
+      "term": "la cocción",
+      "type": "Noun",
+      "meaning_tr": "pişirme",
+      "meaning_en": "cooking",
+      "meaning_uk": "приготування",
+      "meaning_es": "proceso de cocinar",
+      "example": "El punto de *** de la carne era exactamente el que pedí."
+    },
+    {
+      "term": "el condimento",
+      "type": "Noun",
+      "meaning_tr": "baharat/sos",
+      "meaning_en": "seasoning",
+      "meaning_uk": "приправа",
+      "meaning_es": "aderezo para la comida",
+      "example": "Un exceso de *** puede arruinar el sabor natural del producto."
+    },
+    {
+      "term": "la exquisitez",
+      "type": "Noun",
+      "meaning_tr": "nefis lezzet",
+      "meaning_en": "delicacy",
+      "meaning_uk": "вишуканість",
+      "meaning_es": "algo de alta calidad",
+      "example": "Degustamos una *** que nos dejó a todos sin palabras."
+    },
+    {
+      "term": "la frescura",
+      "type": "Noun",
+      "meaning_tr": "tazelik",
+      "meaning_en": "freshness",
+      "meaning_uk": "свіжість",
+      "meaning_es": "cualidad de fresco",
+      "example": "La *** de los ingredientes se nota en cada bocado de la ensalada."
+    },
+    {
+      "term": "el establecimiento",
+      "type": "Noun",
+      "meaning_tr": "işletme",
+      "meaning_en": "establishment",
+      "meaning_uk": "заклад",
+      "meaning_es": "lugar comercial",
+      "example": "Este *** cuenta con una estrella Michelin desde hace tres años."
+    },
+    {
+      "term": "la atmósfera",
+      "type": "Noun",
+      "meaning_tr": "atmosfer",
+      "meaning_en": "atmosphere",
+      "meaning_uk": "атмосфера",
+      "meaning_es": "ambiente del lugar",
+      "example": "La *** del restaurante es íntima, ideal para una cena romántica."
+    },
+    {
+      "term": "la sugerencia",
+      "type": "Noun",
+      "meaning_tr": "öneri",
+      "meaning_en": "suggestion",
+      "meaning_uk": "пропозиція",
+      "meaning_es": "propuesta del camarero",
+      "example": "Aceptamos la *** del chef y probamos el plato fuera de carta."
+    },
+    {
+      "term": "el ingrediente",
+      "type": "Noun",
+      "meaning_tr": "malzeme",
+      "meaning_en": "ingredient",
+      "meaning_uk": "інгредієнт",
+      "meaning_es": "componente de un plato",
+      "example": "El secreto de esta receta es un *** que no revelan fácilmente."
+    },
+    {
+      "term": "degustar",
+      "type": "Verb",
+      "meaning_tr": "tadına bakmak",
+      "meaning_en": "to taste",
+      "meaning_uk": "куштувати",
+      "meaning_es": "probar con deleite",
+      "example": "Nos sentamos a *** los platos más emblemáticos de la región."
+    },
+    {
+      "term": "maridar",
+      "type": "Verb",
+      "meaning_tr": "uyum sağlamak (şarap)",
+      "meaning_en": "to pair",
+      "meaning_uk": "поєднувати",
+      "meaning_es": "combinar vino y comida",
+      "example": "Es fundamental saber *** correctamente el pescado con un blanco seco."
+    },
+    {
+      "term": "sazonar",
+      "type": "Verb",
+      "meaning_tr": "baharatlamak",
+      "meaning_en": "to season",
+      "meaning_uk": "приправляти",
+      "meaning_es": "dar sabor a la comida",
+      "example": "Hay que *** el guiso con cuidado para no pasarse de sal."
+    },
+    {
+      "term": "reservar",
+      "type": "Verb",
+      "meaning_tr": "ayırtmak",
+      "meaning_en": "to reserve",
+      "meaning_uk": "бронювати",
+      "meaning_es": "asegurar una mesa",
+      "example": "He tenido que *** con dos meses de antelación debido a su popularidad."
+    },
+    {
+      "term": "recomendar",
+      "type": "Verb",
+      "meaning_tr": "tavsiye etmek",
+      "meaning_en": "to recommend",
+      "meaning_uk": "рекомендувати",
+      "meaning_es": "aconsejar algo",
+      "example": "El camarero nos supo *** un vino local que nos encantó."
+    },
+    {
+      "term": "aclamar",
+      "type": "Verb",
+      "meaning_tr": "övgüyle karşılamak",
+      "meaning_en": "to acclaim",
+      "meaning_uk": "вітати",
+      "meaning_es": "elogiar entusiastamente",
+      "example": "La crítica especializada ha llegado a *** este local como el mejor del año."
+    },
+    {
+      "term": "deleitar",
+      "type": "Verb",
+      "meaning_tr": "zevk vermek",
+      "meaning_en": "to delight",
+      "meaning_uk": "насолоджуватися",
+      "meaning_es": "causar placer",
+      "example": "Los postres de este lugar consiguen *** incluso a los más exigentes."
+    },
+    {
+      "term": "servir",
+      "type": "Verb",
+      "meaning_tr": "servis etmek",
+      "meaning_en": "to serve",
+      "meaning_uk": "подавати",
+      "meaning_es": "ofrecer comida",
+      "example": "Nos van a *** el primer plato de inmediato."
+    },
+    {
+      "term": "marinar",
+      "type": "Verb",
+      "meaning_tr": "marine etmek",
+      "meaning_en": "to marinate",
+      "meaning_uk": "маринувати",
+      "meaning_es": "dejar en adobo",
+      "example": "Debes *** el salmón durante al menos cuatro horas antes de cocinarlo."
+    },
+    {
+      "term": "exquisito",
+      "type": "Adjective",
+      "meaning_tr": "nefis/mükemmel",
+      "meaning_en": "exquisite",
+      "meaning_uk": "вишуканий",
+      "meaning_es": "de calidad superior",
+      "example": "El sabor de esta salsa es verdaderamente ***."
+    },
+    {
+      "term": "delicioso",
+      "type": "Adjective",
+      "meaning_tr": "lezzetli",
+      "meaning_en": "delicious",
+      "meaning_uk": "смачний",
+      "meaning_es": "muy sabroso",
+      "example": "Todo lo que hemos pedido estaba ***."
+    },
+    {
+      "term": "fresco",
+      "type": "Adjective",
+      "meaning_tr": "taze",
+      "meaning_en": "fresh",
+      "meaning_uk": "свіжий",
+      "meaning_es": "recién hecho o cosechado",
+      "example": "El pescado de hoy es muy ***, lo trajeron esta misma mañana."
+    },
+    {
+      "term": "suculento",
+      "type": "Adjective",
+      "meaning_tr": "iştah açıcı",
+      "meaning_en": "succulent",
+      "meaning_uk": "соковитий",
+      "meaning_es": "muy sabroso y jugoso",
+      "example": "Preparamos un *** asado para celebrar el aniversario."
+    },
+    {
+      "term": "sutil",
+      "type": "Adjective",
+      "meaning_tr": "ince/hafif",
+      "meaning_en": "subtle",
+      "meaning_uk": "тонкий",
+      "meaning_es": "delicado o poco perceptible",
+      "example": "El postre tiene un toque *** de lavanda que lo hace único."
+    },
+    {
+      "term": "agridulce",
+      "type": "Adjective",
+      "meaning_tr": "tatlı ekşi",
+      "meaning_en": "bittersweet/sweet and sour",
+      "meaning_uk": "кисло-солодкий",
+      "meaning_es": "mezcla de dulce y ácido",
+      "example": "La salsa *** le da un contraste interesante al pato."
+    },
+    {
+      "term": "abundante",
+      "type": "Adjective",
+      "meaning_tr": "bol",
+      "meaning_en": "abundant",
+      "meaning_uk": "рясний",
+      "meaning_es": "en gran cantidad",
+      "example": "Las porciones son bastante ***, así que cuidado con pedir demasiado."
+    },
+    {
+      "term": "impecable",
+      "type": "Adjective",
+      "meaning_tr": "kusursuz",
+      "meaning_en": "impeccable",
+      "meaning_uk": "бездоганний",
+      "meaning_es": "sin fallos",
+      "example": "El servicio fue *** durante toda la velada."
+    },
+    {
+      "term": "escaso",
+      "type": "Adjective",
+      "meaning_tr": "kıt/az",
+      "meaning_en": "scarce",
+      "meaning_uk": "мізерний",
+      "meaning_es": "poco frecuente o insuficiente",
+      "example": "Aunque el plato estaba rico, el tamaño de la ración fue un poco ***."
+    },
+    {
+      "term": "artesanal",
+      "type": "Adjective",
+      "meaning_tr": "el yapımı",
+      "meaning_en": "artisanal",
+      "meaning_uk": "ремісничий",
+      "meaning_es": "hecho a mano",
+      "example": "El pan *** que sirven aquí se hornea cada mañana."
+    },
+    {
+      "term": "gourmet",
+      "type": "Adjective",
+      "meaning_tr": "gurme",
+      "meaning_en": "gourmet",
+      "meaning_uk": "гурманський",
+      "meaning_es": "de alta cocina",
+      "example": "Se nota que buscan ofrecer una experiencia *** a sus clientes."
+    },
+    {
+      "term": "además",
+      "type": "Adverb",
+      "meaning_tr": "ayrıca",
+      "meaning_en": "furthermore/besides",
+      "meaning_uk": "крім того",
+      "meaning_es": "también",
+      "example": "La comida es excelente y, ***, el precio es razonable."
+    },
+    {
+      "term": "ligeramente",
+      "type": "Adverb",
+      "meaning_tr": "hafifçe",
+      "meaning_en": "slightly",
+      "meaning_uk": "злегка",
+      "meaning_es": "un poco",
+      "example": "La carne estaba *** pasada de cocción, pero seguía estando buena."
+    },
+    {
+      "term": "especialmente",
+      "type": "Adverb",
+      "meaning_tr": "özellikle",
+      "meaning_en": "especially",
+      "meaning_uk": "особливо",
+      "meaning_es": "de manera especial",
+      "example": "Me ha gustado *** el postre de cítricos."
+    },
+    {
+      "term": "bastante",
+      "type": "Adverb",
+      "meaning_tr": "oldukça",
+      "meaning_en": "quite/enough",
+      "meaning_uk": "досить",
+      "meaning_es": "en cantidad considerable",
+      "example": "El restaurante estaba *** lleno para ser un martes."
+    },
+    {
+      "term": "prácticamente",
+      "type": "Adverb",
+      "meaning_tr": "neredeyse",
+      "meaning_en": "practically/almost",
+      "meaning_uk": "майже",
+      "meaning_es": "casi totalmente",
+      "example": "Estaba *** vacío, así que nos dieron la mejor mesa."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen/olsa da",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "a pesar de que",
+      "example": "El servicio fue lento, *** la comida compensó la espera."
+    },
+    {
+      "term": "puesto que",
+      "type": "Conjunction",
+      "meaning_tr": "-dığı için",
+      "meaning_en": "since/because",
+      "meaning_uk": "оскільки",
+      "meaning_es": "dado que",
+      "example": "Debemos reservar ahora, *** es un sitio muy solicitado."
+    },
+    {
+      "term": "si bien",
+      "type": "Conjunction",
+      "meaning_tr": "her ne kadar ... olsa da",
+      "meaning_en": "even though",
+      "meaning_uk": "хоча",
+      "meaning_es": "aunque",
+      "example": "*** el precio es elevado, la calidad justifica el gasto."
+    },
+    {
+      "term": "ya que",
+      "type": "Conjunction",
+      "meaning_tr": "çünkü",
+      "meaning_en": "since",
+      "meaning_uk": "оскільки",
+      "meaning_es": "debido a que",
+      "example": "Pediremos el menú degustación, *** queremos probar un poco de todo."
+    },
+    {
+      "term": "por lo tanto",
+      "type": "Conjunction",
+      "meaning_tr": "bu nedenle",
+      "meaning_en": "therefore",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente",
+      "example": "No queda mesa libre, *** tendremos que volver otro día."
+    }
+  ]
+}

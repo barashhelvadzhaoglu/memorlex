@@ -1,0 +1,141 @@
+{
+  "title": "Tiempo y Estaciones (A1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "el tiempo",
+      "type": "Noun",
+      "example": "*** es muy bueno hoy.",
+      "meaning_tr": "hava",
+      "meaning_en": "weather",
+      "meaning_uk": "погода",
+      "meaning_es": "estado atmosférico"
+    },
+    {
+      "term": "la estación",
+      "type": "Noun",
+      "example": "Mi *** favorita es el verano.",
+      "meaning_tr": "mevsim",
+      "meaning_en": "season",
+      "meaning_uk": "сезон",
+      "meaning_es": "periodo del año"
+    },
+    {
+      "term": "el verano",
+      "type": "Noun",
+      "example": "Hace mucho calor en ***.",
+      "meaning_tr": "yaz",
+      "meaning_en": "summer",
+      "meaning_uk": "літо",
+      "meaning_es": "estación calurosa"
+    },
+    {
+      "term": "el invierno",
+      "type": "Noun",
+      "example": "En *** hace mucho frío.",
+      "meaning_tr": "kış",
+      "meaning_en": "winter",
+      "meaning_uk": "зима",
+      "meaning_es": "estación fría"
+    },
+    {
+      "term": "la primavera",
+      "type": "Noun",
+      "example": "Las flores crecen en ***.",
+      "meaning_tr": "ilkbahar",
+      "meaning_en": "spring",
+      "meaning_uk": "весна",
+      "meaning_es": "estación de flores"
+    },
+    {
+      "term": "el otoño",
+      "type": "Noun",
+      "example": "Las hojas caen en ***.",
+      "meaning_tr": "sonbahar",
+      "meaning_en": "autumn",
+      "meaning_uk": "осінь",
+      "meaning_es": "estación de caída de hojas"
+    },
+    {
+      "term": "hacer",
+      "type": "Verb",
+      "example": "Hoy *** mucho sol.",
+      "meaning_tr": "yapmak (hava durumu için)",
+      "meaning_en": "to do/make (for weather)",
+      "meaning_uk": "робити (про погоду)",
+      "meaning_es": "verbo auxiliar para clima"
+    },
+    {
+      "term": "caluroso",
+      "type": "Adjective",
+      "example": "Es un día muy ***.",
+      "meaning_tr": "sıcak",
+      "meaning_en": "hot",
+      "meaning_uk": "спекотний",
+      "meaning_es": "que tiene calor"
+    },
+    {
+      "term": "frío",
+      "type": "Adjective",
+      "example": "El invierno es muy ***.",
+      "meaning_tr": "soğuk",
+      "meaning_en": "cold",
+      "meaning_uk": "холодний",
+      "meaning_es": "que tiene baja temperatura"
+    },
+    {
+      "term": "lluvioso",
+      "type": "Adjective",
+      "example": "El otoño es una estación ***.",
+      "meaning_tr": "yağmurlu",
+      "meaning_en": "rainy",
+      "meaning_uk": "дощовий",
+      "meaning_es": "que tiene lluvia"
+    },
+    {
+      "term": "despejado",
+      "type": "Adjective",
+      "example": "El cielo está ***.",
+      "meaning_tr": "açık (gökyüzü)",
+      "meaning_en": "clear (sky)",
+      "meaning_uk": "безхмарний",
+      "meaning_es": "sin nubes"
+    },
+    {
+      "term": "siempre",
+      "type": "Adverb",
+      "example": "En mi ciudad *** llueve.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "always",
+      "meaning_uk": "завжди",
+      "meaning_es": "en todo tiempo"
+    },
+    {
+      "term": "nunca",
+      "type": "Adverb",
+      "example": "Aquí *** nieva.",
+      "meaning_tr": "asla",
+      "meaning_en": "never",
+      "meaning_uk": "ніколи",
+      "meaning_es": "en ningún tiempo"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "Hace sol, *** hace frío.",
+      "meaning_tr": "ama",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "durante",
+      "type": "Preposition",
+      "example": "Voy a la playa *** el verano.",
+      "meaning_tr": "sırasında",
+      "meaning_en": "during",
+      "meaning_uk": "протягом",
+      "meaning_es": "a lo largo de"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Tagesablauf (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Routine",
+      "type": "Noun",
+      "meaning_tr": "rutin",
+      "meaning_en": "routine",
+      "meaning_uk": "рутина",
+      "meaning_es": "rutina",
+      "example": "Um produktiv zu bleiben, habe ich eine feste *** entwickelt."
+    },
+    {
+      "term": "sich wappnen",
+      "type": "Verb",
+      "meaning_tr": "hazırlanmak",
+      "meaning_en": "to arm oneself",
+      "meaning_uk": "озброюватися",
+      "meaning_es": "prepararse",
+      "example": "Er muss sich für den stressigen Arbeitstag ***."
+    },
+    {
+      "term": "die Produktivität",
+      "type": "Noun",
+      "meaning_tr": "üretkenlik",
+      "meaning_en": "productivity",
+      "meaning_uk": "продуктивність",
+      "meaning_es": "productividad",
+      "example": "Eine gute Zeitplanung steigert die *** erheblich."
+    },
+    {
+      "term": "effizient",
+      "type": "Adjective",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "eficiente",
+      "example": "Man sollte seine Aufgaben so *** wie möglich erledigen."
+    },
+    {
+      "term": "die Priorität",
+      "type": "Noun",
+      "meaning_tr": "öncelik",
+      "meaning_en": "priority",
+      "meaning_uk": "пріоритет",
+      "meaning_es": "prioridad",
+      "example": "Die Erledigung der wichtigsten Aufgaben hat höchste ***."
+    },
+    {
+      "term": "der Zeitdruck",
+      "type": "Noun",
+      "meaning_tr": "zaman baskısı",
+      "meaning_en": "time pressure",
+      "meaning_uk": "дефіцит часу",
+      "meaning_es": "presión de tiempo",
+      "example": "Unter *** leidet oft die Qualität der Arbeit."
+    },
+    {
+      "term": "strukturieren",
+      "type": "Verb",
+      "meaning_tr": "yapılandırmak",
+      "meaning_en": "to structure",
+      "meaning_uk": "структурувати",
+      "meaning_es": "estructurar",
+      "example": "Es ist wichtig, den Tag sinnvoll zu ***."
+    },
+    {
+      "term": "die Zerstreuung",
+      "type": "Noun",
+      "meaning_tr": "dikkat dağıtıcı şey",
+      "meaning_en": "distraction",
+      "meaning_uk": "відволікання",
+      "meaning_es": "distracción",
+      "example": "Er sucht nach Wegen, jede *** während der Arbeit zu vermeiden."
+    },
+    {
+      "term": "sich widmen",
+      "type": "Verb",
+      "meaning_tr": "kendini adamak",
+      "meaning_en": "to dedicate oneself",
+      "meaning_uk": "присвячувати себе",
+      "meaning_es": "dedicarse",
+      "example": "Nach Feierabend kann ich mich endlich meinem Hobby ***."
+    },
+    {
+      "term": "die Muße",
+      "type": "Noun",
+      "meaning_tr": "boş zaman/dinlence",
+      "meaning_en": "leisure/idleness",
+      "meaning_uk": "дозвілля",
+      "meaning_es": "ocio",
+      "example": "Am Wochenende genieße ich die *** und lese ein Buch."
+    },
+    {
+      "term": "obligatorisch",
+      "type": "Adjective",
+      "meaning_tr": "zorunlu",
+      "meaning_en": "obligatory",
+      "meaning_uk": "обов'язковий",
+      "meaning_es": "obligatorio",
+      "example": "Das morgendliche Meeting ist für alle Mitarbeiter ***."
+    },
+    {
+      "term": "die Flexibilität",
+      "type": "Noun",
+      "meaning_tr": "esneklik",
+      "meaning_en": "flexibility",
+      "meaning_uk": "гнучкість",
+      "meaning_es": "flexibilidad",
+      "example": "Im Homeoffice ist eine gewisse *** sehr vorteilhaft."
+    },
+    {
+      "term": "der Ausgleich",
+      "type": "Noun",
+      "meaning_tr": "denge/telafi",
+      "meaning_en": "balance/compensation",
+      "meaning_uk": "баланс",
+      "meaning_es": "equilibrio",
+      "example": "Sport dient mir als *** zum stressigen Büroalltag."
+    },
+    {
+      "term": "die Disziplin",
+      "type": "Noun",
+      "meaning_tr": "disiplin",
+      "meaning_en": "discipline",
+      "meaning_uk": "дисципліна",
+      "meaning_es": "disciplina",
+      "example": "Ohne eiserne *** erreicht man seine langfristigen Ziele nicht."
+    },
+    {
+      "term": "fokussiert",
+      "type": "Adjective",
+      "meaning_tr": "odaklanmış",
+      "meaning_en": "focused",
+      "meaning_uk": "зосереджений",
+      "meaning_es": "enfocado",
+      "example": "Um komplexe Aufgaben zu lösen, muss man absolut *** arbeiten."
+    },
+    {
+      "term": "die Unterbrechung",
+      "type": "Noun",
+      "meaning_tr": "kesinti",
+      "meaning_en": "interruption",
+      "meaning_uk": "перерва",
+      "meaning_es": "interrupción",
+      "example": "Jede *** reißt mich aus meiner Konzentration."
+    },
+    {
+      "term": "die Entspannung",
+      "type": "Noun",
+      "meaning_tr": "rahatlama",
+      "meaning_en": "relaxation",
+      "meaning_uk": "розслаблення",
+      "meaning_es": "relajación",
+      "example": "Meditation ist eine gute Methode zur ***."
+    },
+    {
+      "term": "prokrastinieren",
+      "type": "Verb",
+      "meaning_tr": "ertelemek",
+      "meaning_en": "to procrastinate",
+      "meaning_uk": "прокрастинувати",
+      "meaning_es": "procrastinar",
+      "example": "Wenn man dazu neigt, zu ***, hilft ein Zeitplan."
+    },
+    {
+      "term": "die Belastung",
+      "type": "Noun",
+      "meaning_tr": "yük/stres",
+      "meaning_en": "burden/stress",
+      "meaning_uk": "навантаження",
+      "meaning_es": "carga",
+      "example": "Die berufliche *** ist in dieser Phase besonders hoch."
+    },
+    {
+      "term": "effektiv",
+      "type": "Adjective",
+      "meaning_tr": "etkili",
+      "meaning_en": "effective",
+      "meaning_uk": "ефективний",
+      "meaning_es": "efectivo",
+      "example": "Eine *** Zeitplanung spart wertvolle Ressourcen."
+    },
+    {
+      "term": "die Deadline",
+      "type": "Noun",
+      "meaning_tr": "son teslim tarihi",
+      "meaning_en": "deadline",
+      "meaning_uk": "дедлайн",
+      "meaning_es": "fecha límite",
+      "example": "Die *** rückt immer näher, wir müssen uns beeilen."
+    },
+    {
+      "term": "bewältigen",
+      "type": "Verb",
+      "meaning_tr": "üstesinden gelmek",
+      "meaning_en": "to manage/overcome",
+      "meaning_uk": "долати",
+      "meaning_es": "superar/gestionar",
+      "example": "Er muss eine große Menge an Arbeit in kurzer Zeit ***."
+    },
+    {
+      "term": "die Erschöpfung",
+      "type": "Noun",
+      "meaning_tr": "tükenmişlik",
+      "meaning_en": "exhaustion",
+      "meaning_uk": "виснаження",
+      "meaning_es": "agotamiento",
+      "example": "Nach dem langen Tag war die *** deutlich spürbar."
+    },
+    {
+      "term": "die Gewohnheit",
+      "type": "Noun",
+      "meaning_tr": "alışkanlık",
+      "meaning_en": "habit",
+      "meaning_uk": "звичка",
+      "meaning_es": "hábito",
+      "example": "Es ist eine gute ***, jeden Morgen ein Glas Wasser zu trinken."
+    },
+    {
+      "term": "die Spontanität",
+      "type": "Noun",
+      "meaning_tr": "kendiliğindenlik",
+      "meaning_en": "spontaneity",
+      "meaning_uk": "спонтанність",
+      "meaning_es": "espontaneidad",
+      "example": "Trotz strenger Planung bewahre ich mir gerne etwas ***."
+    },
+    {
+      "term": "konsequent",
+      "type": "Adjective",
+      "meaning_tr": "tutarlı/kararlı",
+      "meaning_en": "consistent",
+      "meaning_uk": "послідовний",
+      "meaning_es": "consecuente",
+      "example": "Man muss *** bleiben, um seine Vorsätze umzusetzen."
+    },
+    {
+      "term": "der Rhythmus",
+      "type": "Noun",
+      "meaning_tr": "ritim",
+      "meaning_en": "rhythm",
+      "meaning_uk": "ритм",
+      "meaning_es": "ritmo",
+      "example": "Ein fester biologischer *** hilft beim Einschlafen."
+    },
+    {
+      "term": "abhandenkommen",
+      "type": "Verb",
+      "meaning_tr": "kaybolmak",
+      "meaning_en": "to get lost",
+      "meaning_uk": "губитися",
+      "meaning_es": "perderse",
+      "example": "In der Hektik kann der Fokus leicht ***."
+    },
+    {
+      "term": "die Effizienz",
+      "type": "Noun",
+      "meaning_tr": "verimlilik",
+      "meaning_en": "efficiency",
+      "meaning_uk": "ефективність",
+      "meaning_es": "eficiencia",
+      "example": "Die *** im Büro lässt sich durch Digitalisierung steigern."
+    },
+    {
+      "term": "sich einteilen",
+      "type": "Verb",
+      "meaning_tr": "paylaştırmak/planlamak",
+      "meaning_en": "to allocate/schedule",
+      "meaning_uk": "розподіляти",
+      "meaning_es": "organizarse",
+      "example": "Ich muss mir meine Kräfte für den Tag gut ***."
+    },
+    {
+      "term": "der Zeitfresser",
+      "type": "Noun",
+      "meaning_tr": "zaman hırsızı",
+      "meaning_en": "time-waster",
+      "meaning_uk": "пожирач часу",
+      "meaning_es": "ladrón de tiempo",
+      "example": "Soziale Medien sind ein großer *** im Alltag."
+    },
+    {
+      "term": "entschleunigen",
+      "type": "Verb",
+      "meaning_tr": "yavaşlamak",
+      "meaning_en": "to slow down",
+      "meaning_uk": "сповільнюватися",
+      "meaning_es": "desacelerar",
+      "example": "Am Wochenende versuche ich, mein Leben etwas zu ***."
+    },
+    {
+      "term": "die Achtsamkeit",
+      "type": "Noun",
+      "meaning_tr": "farkındalık",
+      "meaning_en": "mindfulness",
+      "meaning_uk": "усвідомленість",
+      "meaning_es": "atención plena",
+      "example": "Durch *** kann man Stress besser reduzieren."
+    },
+    {
+      "term": "verbindlich",
+      "type": "Adjective",
+      "meaning_tr": "bağlayıcı",
+      "meaning_en": "binding/obligatory",
+      "meaning_uk": "зобов'язуючий",
+      "meaning_es": "vinculante",
+      "example": "Wir haben einen *** Termin für das Meeting vereinbart."
+    },
+    {
+      "term": "die Pause",
+      "type": "Noun",
+      "meaning_tr": "mola",
+      "meaning_en": "break",
+      "meaning_uk": "перерва",
+      "meaning_es": "pausa",
+      "example": "Eine kurze *** wirkt oft Wunder für die Konzentration."
+    },
+    {
+      "term": "optimieren",
+      "type": "Verb",
+      "meaning_tr": "optimize etmek",
+      "meaning_en": "to optimize",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "optimizar",
+      "example": "Ich möchte meinen Tagesablauf weiter ***."
+    },
+    {
+      "term": "die Zielsetzung",
+      "type": "Noun",
+      "meaning_tr": "hedef belirleme",
+      "meaning_en": "goal setting",
+      "meaning_uk": "постановка цілей",
+      "meaning_es": "establecimiento de objetivos",
+      "example": "Klare *** sind der erste Schritt zum Erfolg."
+    },
+    {
+      "term": "belastbar",
+      "type": "Adjective",
+      "meaning_tr": "dayanıklı",
+      "meaning_en": "resilient",
+      "meaning_uk": "стійкий",
+      "meaning_es": "resistente",
+      "example": "In dieser Position muss man sehr *** sein."
+    },
+    {
+      "term": "die Tagesgestaltung",
+      "type": "Noun",
+      "meaning_tr": "gün planlaması",
+      "meaning_en": "daily planning",
+      "meaning_uk": "планування дня",
+      "meaning_es": "planificación diaria",
+      "example": "Meine *** ist heute sehr vollgepackt."
+    },
+    {
+      "term": "erholsam",
+      "type": "Adjective",
+      "meaning_tr": "dinlendirici",
+      "meaning_en": "restful",
+      "meaning_uk": "відпочинковий",
+      "meaning_es": "reparador",
+      "example": "Ein *** Schlaf ist wichtig für die Leistungsfähigkeit."
+    },
+    {
+      "term": "die Vorbereitung",
+      "type": "Noun",
+      "meaning_tr": "hazırlık",
+      "meaning_en": "preparation",
+      "meaning_uk": "підготовка",
+      "meaning_es": "preparación",
+      "example": "Eine gute *** spart Zeit bei der Durchführung."
+    },
+    {
+      "term": "planvoll",
+      "type": "Adjective",
+      "meaning_tr": "planlı",
+      "meaning_en": "planned/systematic",
+      "meaning_uk": "планомірний",
+      "meaning_es": "sistemático",
+      "example": "Nur wer *** vorgeht, erreicht seine Ziele."
+    },
+    {
+      "term": "die Verpflichtung",
+      "type": "Noun",
+      "meaning_tr": "yükümlülük",
+      "meaning_en": "obligation",
+      "meaning_uk": "зобов'язання",
+      "meaning_es": "obligación",
+      "example": "Ich habe heute noch viele berufliche *** zu erfüllen."
+    },
+    {
+      "term": "sich erholen",
+      "type": "Verb",
+      "meaning_tr": "dinlenmek",
+      "meaning_en": "to recover",
+      "meaning_uk": "відпочивати",
+      "meaning_es": "descansar",
+      "example": "Man muss sich regelmäßig von der Arbeit ***."
+    },
+    {
+      "term": "die Zeitspanne",
+      "type": "Noun",
+      "meaning_tr": "zaman aralığı",
+      "meaning_en": "time span",
+      "meaning_uk": "проміжок часу",
+      "meaning_es": "lapso de tiempo",
+      "example": "Innerhalb dieser *** müssen wir fertig werden."
+    },
+    {
+      "term": "umsetzen",
+      "type": "Verb",
+      "meaning_tr": "uygulamaya koymak",
+      "meaning_en": "to implement",
+      "meaning_uk": "впроваджувати",
+      "meaning_es": "implementar",
+      "example": "Die neuen Pläne müssen wir schnell ***."
+    },
+    {
+      "term": "die Zeitmanagement",
+      "type": "Noun",
+      "meaning_tr": "zaman yönetimi",
+      "meaning_en": "time management",
+      "meaning_uk": "тайм-менеджмент",
+      "meaning_es": "gestión del tiempo",
+      "example": "Gutes *** ist der Schlüssel zu weniger Stress."
+    },
+    {
+      "term": "strukturiert",
+      "type": "Adjective",
+      "meaning_tr": "yapılandırılmış",
+      "meaning_en": "structured",
+      "meaning_uk": "структурований",
+      "meaning_es": "estructurado",
+      "example": "Er arbeitet sehr *** und verliert nie den Überblick."
+    },
+    {
+      "term": "die Balance",
+      "type": "Noun",
+      "meaning_tr": "denge",
+      "meaning_en": "balance",
+      "meaning_uk": "баланс",
+      "meaning_es": "equilibrio",
+      "example": "Die *** zwischen Arbeit und Privatleben ist essenziell."
+    },
+    {
+      "term": "erledigen",
+      "type": "Verb",
+      "meaning_tr": "halletmek/tamamlamak",
+      "meaning_en": "to get done",
+      "meaning_uk": "виконувати",
+      "meaning_es": "completar",
+      "example": "Ich muss noch einige wichtige E-Mails ***."
+    },
+    {
+      "term": "die Konzentration",
+      "type": "Noun",
+      "meaning_tr": "konsantrasyon",
+      "meaning_en": "concentration",
+      "meaning_uk": "концентрація",
+      "meaning_es": "concentración",
+      "example": "Für diese Aufgabe brauche ich volle ***."
+    },
+    {
+      "term": "zwischendurch",
+      "type": "Adverb",
+      "meaning_tr": "bu arada/arada bir",
+      "meaning_en": "in between",
+      "meaning_uk": "тим часом",
+      "meaning_es": "entre medias",
+      "example": "Ich trinke *** gerne eine Tasse Tee."
+    },
+    {
+      "term": "alltäglich",
+      "type": "Adjective",
+      "meaning_tr": "gündelik",
+      "meaning_en": "daily/everyday",
+      "meaning_uk": "повсякденний",
+      "meaning_es": "cotidiano",
+      "example": "Das ist ein völlig *** Vorgang im Büro."
+    },
+    {
+      "term": "die Kapazität",
+      "type": "Noun",
+      "meaning_tr": "kapasite",
+      "meaning_en": "capacity",
+      "meaning_uk": "потужність",
+      "meaning_es": "capacidad",
+      "example": "Meine *** ist für heute bereits erschöpft."
+    },
+    {
+      "term": "priorisieren",
+      "type": "Verb",
+      "meaning_tr": "öncelik vermek",
+      "meaning_en": "to prioritize",
+      "meaning_uk": "пріоритезувати",
+      "meaning_es": "priorizar",
+      "example": "Man sollte Aufgaben nach Wichtigkeit ***."
+    },
+    {
+      "term": "die Selbstreflexion",
+      "type": "Noun",
+      "meaning_tr": "öz yansıtma/özeleştiri",
+      "meaning_en": "self-reflection",
+      "meaning_uk": "саморефлексія",
+      "meaning_es": "autorreflexión",
+      "example": "Abends hilft eine kurze *** bei der Tagesauswertung."
+    },
+    {
+      "term": "tätig",
+      "type": "Adjective",
+      "meaning_tr": "faal/çalışan",
+      "meaning_en": "active/working",
+      "meaning_uk": "активний",
+      "meaning_es": "activo",
+      "example": "Er ist in der Marketingbranche ***."
+    },
+    {
+      "term": "die Hektik",
+      "type": "Noun",
+      "meaning_tr": "telaş/koşturmaca",
+      "meaning_en": "hustle and bustle",
+      "meaning_uk": "метушня",
+      "meaning_es": "ajetreo",
+      "example": "Trotz der morgendlichen *** bleibe ich ruhig."
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "стійкий",
+      "meaning_es": "sostenible",
+      "example": "Ich möchte meine Produktivität *** steigern."
+    },
+    {
+      "term": "inzwischen",
+      "type": "Adverb",
+      "meaning_tr": "bu arada/şimdiye kadar",
+      "meaning_en": "meanwhile",
+      "meaning_uk": "тим часом",
+      "meaning_es": "mientras tanto",
+      "example": "Ich habe *** gelernt, meine Zeit besser einzuteilen."
+    }
+  ]
+}

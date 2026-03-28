@@ -1,0 +1,411 @@
+{
+  "title": "Psychologie & Gefühle (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Enttäuschung",
+      "type": "Noun",
+      "meaning_tr": "hayal kırıklığı",
+      "meaning_en": "disappointment",
+      "meaning_uk": "розчарування",
+      "meaning_es": "decepción",
+      "example": "Seine *** war nach der Absage groß."
+    },
+    {
+      "term": "die Gelassenheit",
+      "type": "Noun",
+      "meaning_tr": "sakinlik, soğukkanlılık",
+      "meaning_en": "composure, serenity",
+      "meaning_uk": "спокій",
+      "meaning_es": "serenidad",
+      "example": "Sie bewahrte in der schwierigen Situation ihre ***."
+    },
+    {
+      "term": "die Zuversicht",
+      "type": "Noun",
+      "meaning_tr": "güven, iyimserlik",
+      "meaning_en": "confidence, optimism",
+      "meaning_uk": "впевненість",
+      "meaning_es": "confianza",
+      "example": "Trotz der Probleme blickt er mit *** in die Zukunft."
+    },
+    {
+      "term": "die Überforderung",
+      "type": "Noun",
+      "meaning_tr": "aşırı yüklenme",
+      "meaning_en": "overload, feeling overwhelmed",
+      "meaning_uk": "перевантаження",
+      "meaning_es": "sobrecarga",
+      "example": "Das Gefühl der *** ist ein Zeichen für zu viel Stress."
+    },
+    {
+      "term": "die Hemmung",
+      "type": "Noun",
+      "meaning_tr": "çekingenlik, engel",
+      "meaning_en": "inhibition",
+      "meaning_uk": "стриманість, гальмування",
+      "meaning_es": "inhibición",
+      "example": "Er hat seine *** abgelegt und spricht nun frei."
+    },
+    {
+      "term": "die Anspannung",
+      "type": "Noun",
+      "meaning_tr": "gerginlik",
+      "meaning_en": "tension",
+      "meaning_uk": "напруга",
+      "meaning_es": "tensión",
+      "example": "Nach der Prüfung fiel die ganze *** von ihm ab."
+    },
+    {
+      "term": "die Neugier",
+      "type": "Noun",
+      "meaning_tr": "merak",
+      "meaning_en": "curiosity",
+      "meaning_uk": "цікавість",
+      "meaning_es": "curiosidad",
+      "example": "Seine *** treibt ihn dazu an, ständig Neues zu lernen."
+    },
+    {
+      "term": "die Einsamkeit",
+      "type": "Noun",
+      "meaning_tr": "yalnızlık",
+      "meaning_en": "loneliness",
+      "meaning_uk": "самотність",
+      "meaning_es": "soledad",
+      "example": "Viele Menschen leiden unter der *** in der Großstadt."
+    },
+    {
+      "term": "die Erschöpfung",
+      "type": "Noun",
+      "meaning_tr": "tükenmişlik, yorgunluk",
+      "meaning_en": "exhaustion",
+      "meaning_uk": "виснаження",
+      "meaning_es": "agotamiento",
+      "example": "Nach der langen Arbeitswoche war die *** deutlich spürbar."
+    },
+    {
+      "term": "die Verwirrung",
+      "type": "Noun",
+      "meaning_tr": "kafa karışıklığı",
+      "meaning_en": "confusion",
+      "meaning_uk": "розгубленість",
+      "meaning_es": "confusión",
+      "example": "Die widersprüchlichen Informationen führten zu großer ***."
+    },
+    {
+      "term": "die Euphorie",
+      "type": "Noun",
+      "meaning_tr": "coşku",
+      "meaning_en": "euphoria",
+      "meaning_uk": "ейфорія",
+      "meaning_es": "euforia",
+      "example": "Nach dem Sieg herrschte im Stadion reine ***."
+    },
+    {
+      "term": "die Genugtuung",
+      "type": "Noun",
+      "meaning_tr": "tatmin, hoşnutluk",
+      "meaning_en": "satisfaction",
+      "meaning_uk": "задоволення",
+      "meaning_es": "satisfacción",
+      "example": "Es war eine große ***, endlich das Ziel zu erreichen."
+    },
+    {
+      "term": "die Sehnsucht",
+      "type": "Noun",
+      "meaning_tr": "özlem",
+      "meaning_en": "longing",
+      "meaning_uk": "туга",
+      "meaning_es": "anhelo",
+      "example": "Er spürte eine tiefe *** nach seiner Heimat."
+    },
+    {
+      "term": "die Reue",
+      "type": "Noun",
+      "meaning_tr": "pişmanlık",
+      "meaning_en": "remorse, regret",
+      "meaning_uk": "каяття",
+      "meaning_es": "arrepentimiento",
+      "example": "Er zeigte aufrichtige *** für sein Verhalten."
+    },
+    {
+      "term": "die Zuwendung",
+      "type": "Noun",
+      "meaning_tr": "ilgi, alaka",
+      "meaning_en": "attention, care",
+      "meaning_uk": "увага, турбота",
+      "meaning_es": "atención, afecto",
+      "example": "Kinder brauchen viel *** und Liebe."
+    },
+    {
+      "term": "die Leidenschaft",
+      "type": "Noun",
+      "meaning_tr": "tutku",
+      "meaning_en": "passion",
+      "meaning_uk": "пристрасть",
+      "meaning_es": "pasión",
+      "example": "Sie verfolgt ihre Hobbys mit großer ***."
+    },
+    {
+      "term": "die Entschlossenheit",
+      "type": "Noun",
+      "meaning_tr": "kararlılık",
+      "meaning_en": "determination",
+      "meaning_uk": "рішучість",
+      "meaning_es": "determinación",
+      "example": "Mit *** ging sie die schwierige Aufgabe an."
+    },
+    {
+      "term": "die Verzweiflung",
+      "type": "Noun",
+      "meaning_tr": "çaresizlik",
+      "meaning_en": "despair",
+      "meaning_uk": "відчай",
+      "meaning_es": "desesperación",
+      "example": "In ihrer *** wusste sie nicht, was sie tun sollte."
+    },
+    {
+      "term": "die Anteilnahme",
+      "type": "Noun",
+      "meaning_tr": "taziye, ilgi",
+      "meaning_en": "sympathy",
+      "meaning_uk": "співчуття",
+      "meaning_es": "condolencia, participación",
+      "example": "Wir sprechen der Familie unsere tiefe *** aus."
+    },
+    {
+      "term": "die Zuneigung",
+      "type": "Noun",
+      "meaning_tr": "sevgi, yakınlık",
+      "meaning_en": "affection",
+      "meaning_uk": "прихильність",
+      "meaning_es": "afecto",
+      "example": "Er zeigt seiner Frau oft seine ***."
+    },
+    {
+      "term": "die Gelassenheit",
+      "type": "Noun",
+      "meaning_tr": "sakinlik",
+      "meaning_en": "composure",
+      "meaning_uk": "спокій",
+      "meaning_es": "calma",
+      "example": "Er reagierte mit absoluter *** auf die Kritik."
+    },
+    {
+      "term": "sich sehnen nach",
+      "type": "Verb",
+      "meaning_tr": "özlem duymak",
+      "meaning_en": "to long for",
+      "meaning_uk": "тужити за",
+      "meaning_es": "anhelar",
+      "example": "Ich *** mich nach einem ruhigen Urlaub."
+    },
+    {
+      "term": "verdrängen",
+      "type": "Verb",
+      "meaning_tr": "bastırmak (duygu)",
+      "meaning_en": "to repress",
+      "meaning_uk": "витісняти",
+      "meaning_es": "reprimir",
+      "example": "Man sollte negative Erlebnisse nicht einfach ***."
+    },
+    {
+      "term": "empfinden",
+      "type": "Verb",
+      "meaning_tr": "hissetmek",
+      "meaning_en": "to feel",
+      "meaning_uk": "відчувати",
+      "meaning_es": "sentir",
+      "example": "Er konnte für sie keine Liebe mehr ***."
+    },
+    {
+      "term": "belasten",
+      "type": "Verb",
+      "meaning_tr": "yük olmak, rahatsız etmek",
+      "meaning_en": "to burden, to strain",
+      "meaning_uk": "обтяжувати",
+      "meaning_es": "agobiar, cargar",
+      "example": "Diese Sorge wird ihn noch lange ***."
+    },
+    {
+      "term": "sich entfalten",
+      "type": "Verb",
+      "meaning_tr": "gelişmek, açılmak",
+      "meaning_en": "to develop, to blossom",
+      "meaning_uk": "розвиватися",
+      "meaning_es": "desarrollarse",
+      "example": "In diesem Job kann sie ihre Talente voll ***."
+    },
+    {
+      "term": "überwinden",
+      "type": "Verb",
+      "meaning_tr": "aşmak (zorluk)",
+      "meaning_en": "to overcome",
+      "meaning_uk": "долати",
+      "meaning_es": "superar",
+      "example": "Er musste viele Hindernisse ***, um sein Ziel zu erreichen."
+    },
+    {
+      "term": "beeinflussen",
+      "type": "Verb",
+      "meaning_tr": "etkilemek",
+      "meaning_en": "to influence",
+      "meaning_uk": "впливати",
+      "meaning_es": "influir",
+      "example": "Unsere Stimmung kann unsere Wahrnehmung ***."
+    },
+    {
+      "term": "hervorrufen",
+      "type": "Verb",
+      "meaning_tr": "yol açmak, neden olmak",
+      "meaning_en": "to provoke, to cause",
+      "meaning_uk": "викликати",
+      "meaning_es": "provocar",
+      "example": "Das Bild konnte viele Erinnerungen ***."
+    },
+    {
+      "term": "verzweifeln",
+      "type": "Verb",
+      "meaning_tr": "umutsuzluğa düşmek",
+      "meaning_en": "to despair",
+      "meaning_uk": "впадати у відчай",
+      "meaning_es": "desesperarse",
+      "example": "Man sollte an der Situation nicht ***."
+    },
+    {
+      "term": "ausgeglichen",
+      "type": "Adjective",
+      "meaning_tr": "dengeli",
+      "meaning_en": "balanced",
+      "meaning_uk": "врівноважений",
+      "meaning_es": "equilibrado",
+      "example": "Sie wirkt sehr *** und zufrieden."
+    },
+    {
+      "term": "einfühlsam",
+      "type": "Adjective",
+      "meaning_tr": "duyarlı, empatik",
+      "meaning_en": "empathetic",
+      "meaning_uk": "чуйний",
+      "meaning_es": "empático",
+      "example": "Er ist ein sehr *** Zuhörer."
+    },
+    {
+      "term": "gereizt",
+      "type": "Adjective",
+      "meaning_tr": "sinirli, gergin",
+      "meaning_en": "irritable",
+      "meaning_uk": "роздратований",
+      "meaning_es": "irritable",
+      "example": "Er war heute sehr ***, weil er schlecht geschlafen hatte."
+    },
+    {
+      "term": "bedrückt",
+      "type": "Adjective",
+      "meaning_tr": "sıkıntılı, kederli",
+      "meaning_en": "depressed, gloomy",
+      "meaning_uk": "пригнічений",
+      "meaning_es": "deprimido, afligido",
+      "example": "Die Stimmung im Raum war sehr ***."
+    },
+    {
+      "term": "zuversichtlich",
+      "type": "Adjective",
+      "meaning_tr": "kendinden emin, iyimser",
+      "meaning_en": "confident",
+      "meaning_uk": "впевнений",
+      "meaning_es": "confiado",
+      "example": "Wir sind ***, dass wir das Projekt schaffen."
+    },
+    {
+      "term": "zielstrebig",
+      "type": "Adjective",
+      "meaning_tr": "azimle çalışan",
+      "meaning_en": "determined, goal-oriented",
+      "meaning_uk": "цілеспрямований",
+      "meaning_es": "resuelto",
+      "example": "Sie ist eine sehr *** Person."
+    },
+    {
+      "term": "nachdenklich",
+      "type": "Adjective",
+      "meaning_tr": "düşünceli",
+      "meaning_en": "thoughtful",
+      "meaning_uk": "задумливий",
+      "meaning_es": "pensativo",
+      "example": "Er machte einen sehr *** Eindruck."
+    },
+    {
+      "term": "entspannt",
+      "type": "Adjective",
+      "meaning_tr": "rahatlamış",
+      "meaning_en": "relaxed",
+      "meaning_uk": "розслаблений",
+      "meaning_es": "relajado",
+      "example": "Nach dem Urlaub fühle ich mich sehr ***."
+    },
+    {
+      "term": "impulsiv",
+      "type": "Adjective",
+      "meaning_tr": "dürtüsel",
+      "meaning_en": "impulsive",
+      "meaning_uk": "імпульсивний",
+      "meaning_es": "impulsivo",
+      "example": "Er handelt oft ***, ohne nachzudenken."
+    },
+    {
+      "term": "während",
+      "type": "Conjunction",
+      "meaning_tr": "iken",
+      "meaning_en": "while",
+      "meaning_uk": "під час того як",
+      "meaning_es": "mientras",
+      "example": "*** er sprach, hörte sie aufmerksam zu."
+    },
+    {
+      "term": "dennoch",
+      "type": "Adverb",
+      "meaning_tr": "yine de",
+      "meaning_en": "nevertheless",
+      "meaning_uk": "все ж таки",
+      "meaning_es": "sin embargo",
+      "example": "Es war schwierig, *** haben wir es geschafft."
+    },
+    {
+      "term": "trotz",
+      "type": "Preposition",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "a pesar de",
+      "example": "*** des Regens gingen wir spazieren."
+    },
+    {
+      "term": "offenbar",
+      "type": "Adverb",
+      "meaning_tr": "görünüşe göre",
+      "meaning_en": "apparently",
+      "meaning_uk": "очевидно",
+      "meaning_es": "aparentemente",
+      "example": "Er ist *** sehr traurig über die Nachricht."
+    },
+    {
+      "term": "einerseits",
+      "type": "Adverb",
+      "meaning_tr": "bir yandan",
+      "meaning_en": "on the one hand",
+      "meaning_uk": "з одного боку",
+      "meaning_es": "por un lado",
+      "example": "*** verstehe ich ihn, andererseits ist sein Verhalten falsch."
+    },
+    {
+      "term": "demzufolge",
+      "type": "Adverb",
+      "meaning_tr": "bunun sonucunda",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por consiguiente",
+      "example": "Er war sehr gestresst, *** machte er Fehler."
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "title": "Zukunftstrends (C1)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Digitalisierung",
+      "type": "Noun",
+      "example": "Die *** verändert nahezu alle Lebensbereiche der modernen Gesellschaft.",
+      "meaning_tr": "dijitalleşme",
+      "meaning_en": "digitalization",
+      "meaning_uk": "цифровізація",
+      "meaning_es": "digitalización"
+    },
+    {
+      "term": "der Strukturwandel",
+      "type": "Noun",
+      "example": "Der *** im Ruhrgebiet führte zum Ende des Steinkohlebergbaus.",
+      "meaning_tr": "yapısal değişim",
+      "meaning_en": "structural change",
+      "meaning_uk": "структурні зміни",
+      "meaning_es": "cambio estructural"
+    },
+    {
+      "term": "die Nachhaltigkeit",
+      "type": "Noun",
+      "example": "Unternehmen legen heute mehr Wert auf ökologische ***.",
+      "meaning_tr": "sürdürülebilirlik",
+      "meaning_en": "sustainability",
+      "meaning_uk": "сталий розвиток",
+      "meaning_es": "sostenibilidad"
+    },
+    {
+      "term": "die Künstliche Intelligenz",
+      "type": "Noun",
+      "example": "Die *** wird die Arbeitswelt in den nächsten Jahren revolutionieren.",
+      "meaning_tr": "yapay zeka",
+      "meaning_en": "artificial intelligence",
+      "meaning_uk": "штучний інтелект",
+      "meaning_es": "inteligencia artificial"
+    },
+    {
+      "term": "der demografische Wandel",
+      "type": "Noun",
+      "example": "Der *** stellt das Rentensystem vor große Herausforderungen.",
+      "meaning_tr": "demografik değişim",
+      "meaning_en": "demographic change",
+      "meaning_uk": "демографічні зміни",
+      "meaning_es": "cambio demográfico"
+    },
+    {
+      "term": "die Urbanisierung",
+      "type": "Noun",
+      "example": "Die weltweite *** führt zu immer größeren Megastädten.",
+      "meaning_tr": "kentleşme",
+      "meaning_en": "urbanization",
+      "meaning_uk": "урбанізація",
+      "meaning_es": "urbanización"
+    },
+    {
+      "term": "die Mobilitätswende",
+      "type": "Noun",
+      "example": "Die *** erfordert einen Ausbau des öffentlichen Nahverkehrs.",
+      "meaning_tr": "mobilite dönüşümü",
+      "meaning_en": "mobility transition",
+      "meaning_uk": "транспортна трансформація",
+      "meaning_es": "transición de la movilidad"
+    },
+    {
+      "term": "die Ressourceneffizienz",
+      "type": "Noun",
+      "example": "Durch bessere *** können Rohstoffe eingespart werden.",
+      "meaning_tr": "kaynak verimliliği",
+      "meaning_en": "resource efficiency",
+      "meaning_uk": "ресурсоефективність",
+      "meaning_es": "eficiencia de recursos"
+    },
+    {
+      "term": "die Automatisierung",
+      "type": "Noun",
+      "example": "Die *** von Produktionsprozessen vernichtet einfache Arbeitsplätze.",
+      "meaning_tr": "otomasyon",
+      "meaning_en": "automation",
+      "meaning_uk": "автоматизація",
+      "meaning_es": "automatización"
+    },
+    {
+      "term": "die Globalisierung",
+      "type": "Noun",
+      "example": "Die *** hat die Lieferketten weltweit eng miteinander verknüpft.",
+      "meaning_tr": "küreselleşme",
+      "meaning_en": "globalization",
+      "meaning_uk": "глобалізація",
+      "meaning_es": "globalización"
+    },
+    {
+      "term": "vorantreiben",
+      "type": "Verb",
+      "example": "Wir müssen die Energiewende schneller ***.",
+      "meaning_tr": "hızlandırmak / ilerletmek",
+      "meaning_en": "to drive forward",
+      "meaning_uk": "просувати / прискорювати",
+      "meaning_es": "impulsar"
+    },
+    {
+      "term": "implementieren",
+      "type": "Verb",
+      "example": "Das Unternehmen wird nächste Woche eine neue Software ***.",
+      "meaning_tr": "uygulamaya koymak",
+      "meaning_en": "to implement",
+      "meaning_uk": "впроваджувати",
+      "meaning_es": "implementar"
+    },
+    {
+      "term": "optimieren",
+      "type": "Verb",
+      "example": "KI-Systeme helfen dabei, den Energieverbrauch zu ***.",
+      "meaning_tr": "optimize etmek",
+      "meaning_en": "to optimize",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "optimizar"
+    },
+    {
+      "term": "revolutionieren",
+      "type": "Verb",
+      "example": "Das Internet hat die Kommunikation grundlegend ***.",
+      "meaning_tr": "devrim yapmak",
+      "meaning_en": "to revolutionize",
+      "meaning_uk": "революціонізувати",
+      "meaning_es": "revolucionar"
+    },
+    {
+      "term": "transformieren",
+      "type": "Verb",
+      "example": "Die digitale Technik wird die Industrie nachhaltig ***.",
+      "meaning_tr": "dönüştürmek",
+      "meaning_en": "to transform",
+      "meaning_uk": "трансформувати",
+      "meaning_es": "transformar"
+    },
+    {
+      "term": "zukunftsweisend",
+      "type": "Adjective",
+      "example": "Diese Erfindung ist ein *** Projekt für die Medizin.",
+      "meaning_tr": "geleceğe yönelik",
+      "meaning_en": "pioneering / forward-looking",
+      "meaning_uk": "перспективний",
+      "meaning_es": "orientado al futuro"
+    },
+    {
+      "term": "nachhaltig",
+      "type": "Adjective",
+      "example": "Wir brauchen eine *** Lösung für das Plastikproblem.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "disruptiv",
+      "type": "Adjective",
+      "example": "Streaming-Dienste hatten eine *** Wirkung auf den Videoverleih.",
+      "meaning_tr": "yıkıcı (inovasyon anlamında)",
+      "meaning_en": "disruptive",
+      "meaning_uk": "дизруптивний / підривний",
+      "meaning_es": "disruptivo"
+    },
+    {
+      "term": "effizient",
+      "type": "Adjective",
+      "example": "Moderne Motoren müssen deutlich ***er arbeiten als früher.",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "eficiente"
+    },
+    {
+      "term": "innovativ",
+      "type": "Adjective",
+      "example": "Das Start-up präsentierte ein sehr ***es Konzept.",
+      "meaning_tr": "yenilikçi",
+      "meaning_en": "innovative",
+      "meaning_uk": "інноваційний",
+      "meaning_es": "innovador"
+    },
+    {
+      "term": "der Quantencomputer",
+      "type": "Noun",
+      "example": "Der *** wird Berechnungen in Sekunden erledigen, die heute Jahre dauern.",
+      "meaning_tr": "kuantum bilgisayarı",
+      "meaning_en": "quantum computer",
+      "meaning_uk": "квантовий комп'ютер",
+      "meaning_es": "computadora cuántica"
+    },
+    {
+      "term": "die Gentechnik",
+      "type": "Noun",
+      "example": "Die *** bietet Chancen für die Heilung von Erbkrankheiten.",
+      "meaning_tr": "genetik mühendisliği",
+      "meaning_en": "genetic engineering",
+      "meaning_uk": "генна інженерія",
+      "meaning_es": "ingeniería genética"
+    },
+    {
+      "term": "die Telemedizin",
+      "type": "Noun",
+      "example": "In ländlichen Regionen gewinnt die *** an Bedeutung.",
+      "meaning_tr": "teletıp",
+      "meaning_en": "telemedicine",
+      "meaning_uk": "телемедицина",
+      "meaning_es": "telemedicina"
+    },
+    {
+      "term": "die Kryptowährung",
+      "type": "Noun",
+      "example": "Bitcoin ist die bekannteste *** der Welt.",
+      "meaning_tr": "kripto para",
+      "meaning_en": "cryptocurrency",
+      "meaning_uk": "криптовалюта",
+      "meaning_es": "criptomoneda"
+    },
+    {
+      "term": "die Kreislaufwirtschaft",
+      "type": "Noun",
+      "example": "In einer *** werden Abfälle als Rohstoffe wiederverwendet.",
+      "meaning_tr": "döngüsel ekonomi",
+      "meaning_en": "circular economy",
+      "meaning_uk": "циркулярна економіка",
+      "meaning_es": "economía circular"
+    },
+    {
+      "term": "die Energiewende",
+      "type": "Noun",
+      "example": "Die *** ist notwendig, um die Klimaziele zu erreichen.",
+      "meaning_tr": "enerji dönüşümü",
+      "meaning_en": "energy transition",
+      "meaning_uk": "енергетичний перехід",
+      "meaning_es": "transición energética"
+    },
+    {
+      "term": "der Fachkräftemangel",
+      "type": "Noun",
+      "example": "Der *** bremst das Wachstum vieler Unternehmen.",
+      "meaning_tr": "nitelikli iş gücü açığı",
+      "meaning_en": "shortage of skilled workers",
+      "meaning_uk": "дефіцит кваліфікованих кадрів",
+      "meaning_es": "escasez de mano de obra cualificada"
+    },
+    {
+      "term": "die Innovationskraft",
+      "type": "Noun",
+      "example": "Deutschlands *** hängt stark von der Forschung ab.",
+      "meaning_tr": "yenilikçilik gücü",
+      "meaning_en": "innovative strength",
+      "meaning_uk": "інноваційний потенціал",
+      "meaning_es": "capacidad innovadora"
+    },
+    {
+      "term": "die Disruption",
+      "type": "Noun",
+      "example": "Die *** des Marktes durch neue Technologien war unvermeidlich.",
+      "meaning_tr": "yıkıcı değişim",
+      "meaning_en": "disruption",
+      "meaning_uk": "дизрупція",
+      "meaning_es": "disrupción"
+    },
+    {
+      "term": "die Resilienz",
+      "type": "Noun",
+      "example": "Die *** von Lieferketten muss in Krisenzeiten erhöht werden.",
+      "meaning_tr": "dayanıklılık / direnç",
+      "meaning_en": "resilience",
+      "meaning_uk": "стійкість / резильєнтність",
+      "meaning_es": "resiliencia"
+    },
+    {
+      "term": "prognostizieren",
+      "type": "Verb",
+      "example": "Experten *** ein starkes Wachstum im Bereich E-Mobilität.",
+      "meaning_tr": "tahmin etmek",
+      "meaning_en": "to forecast / predict",
+      "meaning_uk": "прогнозувати",
+      "meaning_es": "pronosticar"
+    },
+    {
+      "term": "antizipieren",
+      "type": "Verb",
+      "example": "Gute Manager müssen Trends frühzeitig ***.",
+      "meaning_tr": "sezmek / önceden görmek",
+      "meaning_en": "to anticipate",
+      "meaning_uk": "передбачати",
+      "meaning_es": "anticipar"
+    },
+    {
+      "term": "beschleunigen",
+      "type": "Verb",
+      "example": "Die Pandemie hat die Digitalisierung der Schulen ***.",
+      "meaning_tr": "hızlandırmak",
+      "meaning_en": "to accelerate",
+      "meaning_uk": "прискорювати",
+      "meaning_es": "acelerar"
+    },
+    {
+      "term": "etablieren",
+      "type": "Verb",
+      "example": "Es dauert oft Jahre, eine neue Marke am Markt zu ***.",
+      "meaning_tr": "kurmak / yerleştirmek",
+      "meaning_en": "to establish",
+      "meaning_uk": "встановлювати / закріплювати",
+      "meaning_es": "establecer"
+    },
+    {
+      "term": "gewährleisten",
+      "type": "Verb",
+      "example": "Die neue Technologie muss die Datensicherheit ***.",
+      "meaning_tr": "garanti etmek",
+      "meaning_en": "to guarantee / ensure",
+      "meaning_uk": "гарантувати",
+      "meaning_es": "garantizar"
+    },
+    {
+      "term": "autonom",
+      "type": "Adjective",
+      "example": "In Zukunft werden viele Fahrzeuge *** fahren.",
+      "meaning_tr": "otonom",
+      "meaning_en": "autonomous",
+      "meaning_uk": "автономний",
+      "meaning_es": "autónomo"
+    },
+    {
+      "term": "digital",
+      "type": "Adjective",
+      "example": "Der ***e Wandel betrifft alle Branchen.",
+      "meaning_tr": "dijital",
+      "meaning_en": "digital",
+      "meaning_uk": "цифровий",
+      "meaning_es": "digital"
+    },
+    {
+      "term": "global",
+      "type": "Adjective",
+      "example": "Der Klimawandel ist eine ***e Herausforderung.",
+      "meaning_tr": "küresel",
+      "meaning_en": "global",
+      "meaning_uk": "глобальний",
+      "meaning_es": "global"
+    },
+    {
+      "term": "vernetzt",
+      "type": "Adjective",
+      "example": "In einem Smart Home sind alle Geräte miteinander ***.",
+      "meaning_tr": "bağlantılı / ağa bağlı",
+      "meaning_en": "networked / connected",
+      "meaning_uk": "мережевий / підключений",
+      "meaning_es": "conectado en red"
+    },
+    {
+      "term": "skalierbar",
+      "type": "Adjective",
+      "example": "Das Geschäftsmodell ist leicht *** und kann weltweit wachsen.",
+      "meaning_tr": "ölçeklenebilir",
+      "meaning_en": "scalable",
+      "meaning_uk": "масштабований",
+      "meaning_es": "escalable"
+    },
+    {
+      "term": "die Vernetzung",
+      "type": "Noun",
+      "example": "Die zunehmende *** führt zu einer schnelleren Informationsverbreitung.",
+      "meaning_tr": "ağ kurma / bağlantı",
+      "meaning_en": "networking / interconnection",
+      "meaning_uk": "мережева взаємодія",
+      "meaning_es": "interconexión"
+    },
+    {
+      "term": "die Individualisierung",
+      "type": "Noun",
+      "example": "Der Trend zur *** zeigt sich in maßgeschneiderten Produkten.",
+      "meaning_tr": "bireyselleşme",
+      "meaning_en": "individualization",
+      "meaning_uk": "індивідуалізація",
+      "meaning_es": "individualización"
+    },
+    {
+      "term": "die Datensicherheit",
+      "type": "Noun",
+      "example": "Bei Cloud-Diensten spielt die *** eine zentrale Rolle.",
+      "meaning_tr": "veri güvenliği",
+      "meaning_en": "data security",
+      "meaning_uk": "безпека даних",
+      "meaning_es": "seguridad de datos"
+    },
+    {
+      "term": "der Algorithmus",
+      "type": "Noun",
+      "example": "Ein komplexer *** entscheidet, welche Werbung wir sehen.",
+      "meaning_tr": "algoritma",
+      "meaning_en": "algorithm",
+      "meaning_uk": "алгоритм",
+      "meaning_es": "algoritmo"
+    },
+    {
+      "term": "die Cloud-Technologie",
+      "type": "Noun",
+      "example": "Dank *** können wir von überall auf unsere Dateien zugreifen.",
+      "meaning_tr": "bulut teknolojisi",
+      "meaning_en": "cloud technology",
+      "meaning_uk": "хмарні технології",
+      "meaning_es": "tecnología en la nube"
+    },
+    {
+      "term": "erschließen",
+      "type": "Verb",
+      "example": "Wir müssen neue Märkte in Asien ***.",
+      "meaning_tr": "açmak / kazanmak",
+      "meaning_en": "to tap into / open up",
+      "meaning_uk": "освоювати / відкривати",
+      "meaning_es": "explotar / abrir"
+    },
+    {
+      "term": "stagnieren",
+      "type": "Verb",
+      "example": "Wenn die Innovationen ausbleiben, wird die Wirtschaft ***.",
+      "meaning_tr": "durgunlaşmak",
+      "meaning_en": "to stagnate",
+      "meaning_uk": "стагнувати",
+      "meaning_es": "estancarse"
+    },
+    {
+      "term": "konvergieren",
+      "type": "Verb",
+      "example": "In der Technik *** verschiedene Medien immer mehr.",
+      "meaning_tr": "yakınsamak",
+      "meaning_en": "to converge",
+      "meaning_uk": "конвергувати / зближуватися",
+      "meaning_es": "converger"
+    },
+    {
+      "term": "substituieren",
+      "type": "Verb",
+      "example": "Roboter können menschliche Arbeit in Fabriken ***.",
+      "meaning_tr": "yerine başkasını koymak",
+      "meaning_en": "to substitute",
+      "meaning_uk": "замінювати",
+      "meaning_es": "sustituir"
+    },
+    {
+      "term": "dezentralisieren",
+      "type": "Verb",
+      "example": "Die Blockchain-Technologie hilft dabei, Systeme zu ***.",
+      "meaning_tr": "merkeziyetten çıkarmak",
+      "meaning_en": "to decentralize",
+      "meaning_uk": "децентралізувати",
+      "meaning_es": "descentralizar"
+    },
+    {
+      "term": "resilient",
+      "type": "Adjective",
+      "example": "Städte müssen ***er gegenüber dem Klimawandel werden.",
+      "meaning_tr": "dirençli",
+      "meaning_en": "resilient",
+      "meaning_uk": "стійкий",
+      "meaning_es": "resiliente"
+    },
+    {
+      "term": "adaptiv",
+      "type": "Adjective",
+      "example": "Eine ***e Software passt sich dem Verhalten des Nutzers an.",
+      "meaning_tr": "uyarlanabilir",
+      "meaning_en": "adaptive",
+      "meaning_uk": "адаптивний",
+      "meaning_es": "adaptativo"
+    },
+    {
+      "term": "datengetrieben",
+      "type": "Adjective",
+      "example": "Marketingentscheidungen sind heute oft rein ***.",
+      "meaning_tr": "veri odaklı",
+      "meaning_en": "data-driven",
+      "meaning_uk": "керований даними",
+      "meaning_es": "basado en datos"
+    },
+    {
+      "term": "visionär",
+      "type": "Adjective",
+      "example": "Sein ***es Denken hat das Unternehmen gerettet.",
+      "meaning_tr": "vizyoner",
+      "meaning_en": "visionary",
+      "meaning_uk": "візіонерський",
+      "meaning_es": "visionario"
+    },
+    {
+      "term": "wegweisend",
+      "type": "Adjective",
+      "example": "Das Gericht fällte ein ***es Urteil für den Datenschutz.",
+      "meaning_tr": "çığır açan / yol gösteren",
+      "meaning_en": "groundbreaking / pioneering",
+      "meaning_uk": "визначальний / новаторський",
+      "meaning_es": "pionero"
+    },
+    {
+      "term": "die Agilität",
+      "type": "Noun",
+      "example": "In einer sich schnell ändernden Welt ist *** entscheidend.",
+      "meaning_tr": "çeviklik",
+      "meaning_en": "agility",
+      "meaning_uk": "гнучкість / спритність",
+      "meaning_es": "agilidad"
+    },
+    {
+      "term": "die Virtual Reality",
+      "type": "Noun",
+      "example": "Mit *** können Chirurgen Operationen simulieren.",
+      "meaning_tr": "sanal gerçeklik",
+      "meaning_en": "virtual reality",
+      "meaning_uk": "віртуальна реальність",
+      "meaning_es": "realidad virtual"
+    },
+    {
+      "term": "die Augmented Reality",
+      "type": "Noun",
+      "example": "In der Logistik hilft *** beim Finden von Waren.",
+      "meaning_tr": "artırılmış gerçeklik",
+      "meaning_en": "augmented reality",
+      "meaning_uk": "доповнена реальність",
+      "meaning_es": "realidad aumentada"
+    },
+    {
+      "term": "die Sharing Economy",
+      "type": "Noun",
+      "example": "Carsharing ist ein zentraler Bestandteil der ***.",
+      "meaning_tr": "paylaşım ekonomisi",
+      "meaning_en": "sharing economy",
+      "meaning_uk": "економіка спільного споживання",
+      "meaning_es": "economía colaborativa"
+    },
+    {
+      "term": "die Smart City",
+      "type": "Noun",
+      "example": "Eine *** nutzt Daten, um den Verkehr effizienter zu steuern.",
+      "meaning_tr": "akıllı şehir",
+      "meaning_en": "smart city",
+      "meaning_uk": "розумне місто",
+      "meaning_es": "ciudad inteligente"
+    }
+  ]
+}

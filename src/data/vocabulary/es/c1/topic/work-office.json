@@ -1,0 +1,546 @@
+{
+  "title": "Trabajo y Oficina (C1)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la retribución",
+      "type": "Noun",
+      "meaning_tr": "ücret/tazminat",
+      "meaning_en": "remuneration",
+      "meaning_uk": "винагорода",
+      "meaning_es": "pago o recompensa por un servicio",
+      "example": "La empresa acordó una *** justa por sus servicios profesionales."
+    },
+    {
+      "term": "el incentivo",
+      "type": "Noun",
+      "meaning_tr": "teşvik",
+      "meaning_en": "incentive",
+      "meaning_uk": "стимул",
+      "meaning_es": "estímulo para realizar una acción",
+      "example": "El nuevo *** de ventas ha motivado a todo el equipo."
+    },
+    {
+      "term": "la vacante",
+      "type": "Noun",
+      "meaning_tr": "açık pozisyon",
+      "meaning_en": "vacancy",
+      "meaning_uk": "вакансія",
+      "meaning_es": "puesto de trabajo disponible",
+      "example": "Hemos publicado una *** para el departamento de marketing."
+    },
+    {
+      "term": "el desempeño",
+      "type": "Noun",
+      "meaning_tr": "performans",
+      "meaning_en": "performance",
+      "meaning_uk": "продуктивність",
+      "meaning_es": "rendimiento en el trabajo",
+      "example": "Su *** durante el último trimestre ha sido excelente."
+    },
+    {
+      "term": "la jornada laboral",
+      "type": "Noun",
+      "meaning_tr": "mesai saatleri",
+      "meaning_en": "working hours",
+      "meaning_uk": "робочий день",
+      "meaning_es": "tiempo que se dedica al trabajo",
+      "example": "La *** comienza a las nueve de la mañana."
+    },
+    {
+      "term": "el expediente",
+      "type": "Noun",
+      "meaning_tr": "dosya/kayıt",
+      "meaning_en": "file/record",
+      "meaning_uk": "особиста справа",
+      "meaning_es": "conjunto de documentos sobre un asunto",
+      "example": "He revisado el *** del candidato antes de la entrevista."
+    },
+    {
+      "term": "la jerarquía",
+      "type": "Noun",
+      "meaning_tr": "hiyerarşi",
+      "meaning_en": "hierarchy",
+      "meaning_uk": "ієрархія",
+      "meaning_es": "organización por niveles",
+      "example": "En esta empresa, la *** es bastante horizontal."
+    },
+    {
+      "term": "el plazo",
+      "type": "Noun",
+      "meaning_tr": "vade/süre",
+      "meaning_en": "deadline/term",
+      "meaning_uk": "термін",
+      "meaning_es": "tiempo límite para algo",
+      "example": "Debemos entregar el informe antes de que venza el ***."
+    },
+    {
+      "term": "la plantilla",
+      "type": "Noun",
+      "meaning_tr": "personel kadrosu",
+      "meaning_en": "staff/workforce",
+      "meaning_uk": "штат працівників",
+      "meaning_es": "conjunto de trabajadores de una empresa",
+      "example": "La *** de la compañía ha crecido significativamente este año."
+    },
+    {
+      "term": "la sede",
+      "type": "Noun",
+      "meaning_tr": "merkez/genel müdürlük",
+      "meaning_en": "headquarters",
+      "meaning_uk": "головний офіс",
+      "meaning_es": "oficina principal",
+      "example": "La *** central se encuentra en Madrid."
+    },
+    {
+      "term": "el subsidio",
+      "type": "Noun",
+      "meaning_tr": "ödenek/yardım",
+      "meaning_en": "subsidy/benefit",
+      "meaning_uk": "субсидія",
+      "meaning_es": "ayuda económica oficial",
+      "example": "El empleado solicitó el *** por desempleo."
+    },
+    {
+      "term": "el reclutamiento",
+      "type": "Noun",
+      "meaning_tr": "işe alım",
+      "meaning_en": "recruitment",
+      "meaning_uk": "набір персоналу",
+      "meaning_es": "proceso de búsqueda de personal",
+      "example": "El departamento de *** está buscando nuevos talentos."
+    },
+    {
+      "term": "la destreza",
+      "type": "Noun",
+      "meaning_tr": "beceri/yetenek",
+      "meaning_en": "skill/dexterity",
+      "meaning_uk": "майстерність",
+      "meaning_es": "habilidad para hacer algo",
+      "example": "Su *** para la resolución de conflictos es admirable."
+    },
+    {
+      "term": "la baja",
+      "type": "Noun",
+      "meaning_tr": "izin/rapor",
+      "meaning_en": "leave/sick leave",
+      "meaning_uk": "лікарняний",
+      "meaning_es": "permiso por enfermedad o maternidad",
+      "example": "Ella está de *** por maternidad hasta el próximo mes."
+    },
+    {
+      "term": "la remuneración",
+      "type": "Noun",
+      "meaning_tr": "maaş/ödeme",
+      "meaning_en": "remuneration",
+      "meaning_uk": "оплата праці",
+      "meaning_es": "pago por un trabajo",
+      "example": "La *** anual incluye un bono por objetivos."
+    },
+    {
+      "term": "el currículum",
+      "type": "Noun",
+      "meaning_tr": "özgeçmiş",
+      "meaning_en": "resume",
+      "meaning_uk": "резюме",
+      "meaning_es": "documento con la trayectoria profesional",
+      "example": "He enviado mi *** a varias empresas multinacionales."
+    },
+    {
+      "term": "la competitividad",
+      "type": "Noun",
+      "meaning_tr": "rekabetçilik",
+      "meaning_en": "competitiveness",
+      "meaning_uk": "конкурентоспроможність",
+      "meaning_es": "capacidad de competir",
+      "example": "La *** en el sector tecnológico es muy alta."
+    },
+    {
+      "term": "el valor añadido",
+      "type": "Noun",
+      "meaning_tr": "katma değer",
+      "meaning_en": "value added",
+      "meaning_uk": "додана вартість",
+      "meaning_es": "mejora de un producto o servicio",
+      "example": "Nuestro software ofrece un *** para las pequeñas empresas."
+    },
+    {
+      "term": "la consultoría",
+      "type": "Noun",
+      "meaning_tr": "danışmanlık",
+      "meaning_en": "consultancy",
+      "meaning_uk": "консалтинг",
+      "meaning_es": "servicio de asesoramiento profesional",
+      "example": "Trabajo en una firma de *** estratégica."
+    },
+    {
+      "term": "la cuota",
+      "type": "Noun",
+      "meaning_tr": "aidat/pay",
+      "meaning_en": "quota/fee",
+      "meaning_uk": "квота/внесок",
+      "meaning_es": "parte proporcional o pago",
+      "example": "Debemos pagar la *** mensual de la asociación."
+    },
+    {
+      "term": "delegar",
+      "type": "Verb",
+      "meaning_tr": "yetki devretmek",
+      "meaning_en": "to delegate",
+      "meaning_uk": "делегувати",
+      "meaning_es": "dar funciones a otros",
+      "example": "Un buen líder sabe *** responsabilidades eficazmente."
+    },
+    {
+      "term": "fomentar",
+      "type": "Verb",
+      "meaning_tr": "teşvik etmek",
+      "meaning_en": "to foster/promote",
+      "meaning_uk": "сприяти",
+      "meaning_es": "impulsar o promover algo",
+      "example": "Queremos *** un ambiente de trabajo colaborativo."
+    },
+    {
+      "term": "ascender",
+      "type": "Verb",
+      "meaning_tr": "terfi etmek",
+      "meaning_en": "to be promoted",
+      "meaning_uk": "підвищуватися",
+      "meaning_es": "subir de puesto",
+      "example": "Espero *** en la empresa tras completar el proyecto."
+    },
+    {
+      "term": "negociar",
+      "type": "Verb",
+      "meaning_tr": "müzakere etmek",
+      "meaning_en": "to negotiate",
+      "meaning_uk": "вести переговори",
+      "meaning_es": "tratar sobre un asunto",
+      "example": "Tenemos que *** los términos del contrato con el cliente."
+    },
+    {
+      "term": "despedir",
+      "type": "Verb",
+      "meaning_tr": "işten çıkarmak",
+      "meaning_en": "to fire/dismiss",
+      "meaning_uk": "звільняти",
+      "meaning_es": "rescindir el contrato de alguien",
+      "example": "La empresa tuvo que *** a varios empleados por la crisis."
+    },
+    {
+      "term": "liderar",
+      "type": "Verb",
+      "meaning_tr": "liderlik etmek",
+      "meaning_en": "to lead",
+      "meaning_uk": "очолювати",
+      "meaning_es": "dirigir un grupo",
+      "example": "Ella fue elegida para *** el nuevo equipo creativo."
+    },
+    {
+      "term": "optimizar",
+      "type": "Verb",
+      "meaning_tr": "optimize etmek",
+      "meaning_en": "to optimize",
+      "meaning_uk": "оптимізувати",
+      "meaning_es": "buscar la mejor forma de hacer algo",
+      "example": "Estamos intentando *** los procesos de producción."
+    },
+    {
+      "term": "coordinar",
+      "type": "Verb",
+      "meaning_tr": "koordine etmek",
+      "meaning_en": "to coordinate",
+      "meaning_uk": "координувати",
+      "meaning_es": "dirigir varias cosas juntas",
+      "example": "Me encargo de *** las reuniones semanales del equipo."
+    },
+    {
+      "term": "supervisar",
+      "type": "Verb",
+      "meaning_tr": "denetlemek",
+      "meaning_en": "to supervise",
+      "meaning_uk": "контролювати",
+      "meaning_es": "vigilar el trabajo de otros",
+      "example": "Su tarea principal es *** la calidad del proyecto."
+    },
+    {
+      "term": "contratar",
+      "type": "Verb",
+      "meaning_tr": "işe almak",
+      "meaning_en": "to hire",
+      "meaning_uk": "наймати",
+      "meaning_es": "firmar un contrato con alguien",
+      "example": "Vamos a *** a dos ingenieros el próximo mes."
+    },
+    {
+      "term": "implementar",
+      "type": "Verb",
+      "meaning_tr": "uygulamaya koymak",
+      "meaning_en": "to implement",
+      "meaning_uk": "впроваджувати",
+      "meaning_es": "poner en funcionamiento",
+      "example": "Es necesario *** nuevas políticas de seguridad laboral."
+    },
+    {
+      "term": "renunciar",
+      "type": "Verb",
+      "meaning_tr": "istifa etmek",
+      "meaning_en": "to resign",
+      "meaning_uk": "звільнятися",
+      "meaning_es": "dejar un puesto voluntariamente",
+      "example": "Decidió *** para buscar nuevos retos profesionales."
+    },
+    {
+      "term": "interactuar",
+      "type": "Verb",
+      "meaning_tr": "etkileşimde bulunmak",
+      "meaning_en": "to interact",
+      "meaning_uk": "взаємодіяти",
+      "meaning_es": "relacionarse con otros",
+      "example": "Debemos *** mejor con los clientes internacionales."
+    },
+    {
+      "term": "proyectar",
+      "type": "Verb",
+      "meaning_tr": "planlamak/yansıtmak",
+      "meaning_en": "to project/plan",
+      "meaning_uk": "планувати",
+      "meaning_es": "planear a futuro",
+      "example": "La empresa espera *** una imagen de mayor innovación."
+    },
+    {
+      "term": "cumplir",
+      "type": "Verb",
+      "meaning_tr": "yerine getirmek",
+      "meaning_en": "to fulfill/meet",
+      "meaning_uk": "виконувати",
+      "meaning_es": "hacer lo que se debe",
+      "example": "Es vital *** con los objetivos establecidos para el año."
+    },
+    {
+      "term": "rentable",
+      "type": "Adjective",
+      "meaning_tr": "kârlı",
+      "meaning_en": "profitable",
+      "meaning_uk": "прибутковий",
+      "meaning_es": "que genera beneficio",
+      "example": "Este nuevo modelo de negocio es mucho más ***."
+    },
+    {
+      "term": "eficiente",
+      "type": "Adjective",
+      "meaning_tr": "verimli",
+      "meaning_en": "efficient",
+      "meaning_uk": "ефективний",
+      "meaning_es": "que logra resultados con pocos recursos",
+      "example": "Necesitamos un sistema más *** de gestión de datos."
+    },
+    {
+      "term": "competente",
+      "type": "Adjective",
+      "meaning_tr": "yetkin/yeterli",
+      "meaning_en": "competent",
+      "meaning_uk": "компетентний",
+      "meaning_es": "que tiene capacidad",
+      "example": "Es un profesional muy *** en su área de trabajo."
+    },
+    {
+      "term": "estratégico",
+      "type": "Adjective",
+      "meaning_tr": "stratejik",
+      "meaning_en": "strategic",
+      "meaning_uk": "стратегічний",
+      "meaning_es": "relativo a la estrategia",
+      "example": "Hemos tomado una decisión de carácter ***."
+    },
+    {
+      "term": "flexible",
+      "type": "Adjective",
+      "meaning_tr": "esnek",
+      "meaning_en": "flexible",
+      "meaning_uk": "гнучкий",
+      "meaning_es": "que se adapta fácilmente",
+      "example": "La empresa ofrece un horario *** para los padres."
+    },
+    {
+      "term": "indispensable",
+      "type": "Adjective",
+      "meaning_tr": "vazgeçilmez",
+      "meaning_en": "indispensable",
+      "meaning_uk": "незамінний",
+      "meaning_es": "que es necesario",
+      "example": "Hablar inglés es *** para este puesto."
+    },
+    {
+      "term": "improductivo",
+      "type": "Adjective",
+      "meaning_tr": "verimsiz",
+      "meaning_en": "unproductive",
+      "meaning_uk": "непродуктивний",
+      "meaning_es": "que no produce beneficio",
+      "example": "Las reuniones largas a veces resultan ***."
+    },
+    {
+      "term": "multidisciplinario",
+      "type": "Adjective",
+      "meaning_tr": "çok disiplinli",
+      "meaning_en": "multidisciplinary",
+      "meaning_uk": "мультидисциплінарний",
+      "meaning_es": "que abarca varias disciplinas",
+      "example": "Trabajamos en un entorno *** y muy dinámico."
+    },
+    {
+      "term": "relevante",
+      "type": "Adjective",
+      "meaning_tr": "ilgili/önemli",
+      "meaning_en": "relevant",
+      "meaning_uk": "релевантний",
+      "meaning_es": "que es importante",
+      "example": "Proporcionó información muy *** para el informe."
+    },
+    {
+      "term": "ambicioso",
+      "type": "Adjective",
+      "meaning_tr": "hırslı",
+      "meaning_en": "ambitious",
+      "meaning_uk": "амбітний",
+      "meaning_es": "que tiene grandes metas",
+      "example": "Es un proyecto muy *** para el equipo joven."
+    },
+    {
+      "term": "dinámico",
+      "type": "Adjective",
+      "meaning_tr": "dinamik",
+      "meaning_en": "dynamic",
+      "meaning_uk": "динамічний",
+      "meaning_es": "que tiene mucha actividad",
+      "example": "Buscamos un perfil *** para este mercado cambiante."
+    },
+    {
+      "term": "exigente",
+      "type": "Adjective",
+      "meaning_tr": "talepkar",
+      "meaning_en": "demanding",
+      "meaning_uk": "вимогливий",
+      "meaning_es": "que pide mucho",
+      "example": "Es un jefe muy *** pero muy justo."
+    },
+    {
+      "term": "formal",
+      "type": "Adjective",
+      "meaning_tr": "resmi",
+      "meaning_en": "formal",
+      "meaning_uk": "офіційний",
+      "meaning_es": "que sigue normas establecidas",
+      "example": "La comunicación debe ser *** en todo momento."
+    },
+    {
+      "term": "colaborativo",
+      "type": "Adjective",
+      "meaning_tr": "işbirlikçi",
+      "meaning_en": "collaborative",
+      "meaning_uk": "кооперативний",
+      "meaning_es": "que trabaja con otros",
+      "example": "El ambiente en la oficina es muy ***."
+    },
+    {
+      "term": "sostenible",
+      "type": "Adjective",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "sustainable",
+      "meaning_uk": "сталий/стійкий",
+      "meaning_es": "que se puede mantener",
+      "example": "Buscamos un crecimiento económico ***."
+    },
+    {
+      "term": "a corto plazo",
+      "type": "Adverb",
+      "meaning_tr": "kısa vadede",
+      "meaning_en": "in the short term",
+      "meaning_uk": "у короткостроковій перспективі",
+      "meaning_es": "en poco tiempo",
+      "example": "Debemos resolver este problema ***."
+    },
+    {
+      "term": "a largo plazo",
+      "type": "Adverb",
+      "meaning_tr": "uzun vadede",
+      "meaning_en": "in the long term",
+      "meaning_uk": "у довгостроковій перспективі",
+      "meaning_es": "en mucho tiempo",
+      "example": "La inversión será rentable ***."
+    },
+    {
+      "term": "eficazmente",
+      "type": "Adverb",
+      "meaning_tr": "etkili bir şekilde",
+      "meaning_en": "effectively",
+      "meaning_uk": "ефективно",
+      "meaning_es": "de manera eficaz",
+      "example": "El equipo resolvió el conflicto ***."
+    },
+    {
+      "term": "profesionalmente",
+      "type": "Adverb",
+      "meaning_tr": "profesyonelce",
+      "meaning_en": "professionally",
+      "meaning_uk": "професійно",
+      "meaning_es": "de modo profesional",
+      "example": "Se comportó *** durante toda la crisis."
+    },
+    {
+      "term": "constantemente",
+      "type": "Adverb",
+      "meaning_tr": "sürekli",
+      "meaning_en": "constantly",
+      "meaning_uk": "постійно",
+      "meaning_es": "de forma continua",
+      "example": "El mercado cambia ***."
+    },
+    {
+      "term": "puesto que",
+      "type": "Conjunction",
+      "meaning_tr": "-dığı için",
+      "meaning_en": "since/given that",
+      "meaning_uk": "оскільки",
+      "meaning_es": "porque o dado que",
+      "example": "No podemos contratar a nadie *** no hay presupuesto."
+    },
+    {
+      "term": "siempre y cuando",
+      "type": "Conjunction",
+      "meaning_tr": "şartıyla",
+      "meaning_en": "provided that",
+      "meaning_uk": "за умови, що",
+      "meaning_es": "bajo la condición de que",
+      "example": "Aceptaré la oferta *** me permitan trabajar desde casa."
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "meaning_tr": "rağmen",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "a pesar de que",
+      "example": "El trabajo es difícil, *** me gusta mucho."
+    },
+    {
+      "term": "por consiguiente",
+      "type": "Conjunction",
+      "meaning_tr": "sonuç olarak",
+      "meaning_en": "consequently",
+      "meaning_uk": "отже",
+      "meaning_es": "por lo tanto",
+      "example": "No cumplimos la meta y, ***, perdimos el bono."
+    },
+    {
+      "term": "mientras que",
+      "type": "Conjunction",
+      "meaning_tr": "-iken",
+      "meaning_en": "whereas",
+      "meaning_uk": "тоді як",
+      "meaning_es": "por el contrario",
+      "example": "Yo prefiero trabajar solo, *** mi compañero prefiere equipo."
+    }
+  ]
+}

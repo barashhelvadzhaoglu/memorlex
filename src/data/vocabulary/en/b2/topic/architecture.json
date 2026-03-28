@@ -1,0 +1,411 @@
+{
+  "title": "Architecture (B2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a skyscraper",
+      "type": "Noun",
+      "example": "The city skyline is dominated by ***.",
+      "meaning_tr": "gökdelen",
+      "meaning_en": "a very tall building",
+      "meaning_uk": "хмарочос",
+      "meaning_es": "un rascacielos"
+    },
+    {
+      "term": "to renovate",
+      "type": "Verb",
+      "example": "They decided to *** the old farmhouse.",
+      "meaning_tr": "yenilemek",
+      "meaning_en": "to restore or repair a building",
+      "meaning_uk": "ремонтувати",
+      "meaning_es": "renovar"
+    },
+    {
+      "term": "contemporary",
+      "type": "Adjective",
+      "example": "The museum features many *** art installations.",
+      "meaning_tr": "çağdaş",
+      "meaning_en": "modern and current",
+      "meaning_uk": "сучасний",
+      "meaning_es": "contemporáneo"
+    },
+    {
+      "term": "an aesthetic",
+      "type": "Noun",
+      "example": "The minimalist *** of the house is very appealing.",
+      "meaning_tr": "estetik",
+      "meaning_en": "a set of principles guiding the appearance",
+      "meaning_uk": "естетика",
+      "meaning_es": "una estética"
+    },
+    {
+      "term": "a structure",
+      "type": "Noun",
+      "example": "The bridge is a marvel of modern engineering ***.",
+      "meaning_tr": "yapı",
+      "meaning_en": "a building or construction",
+      "meaning_uk": "структура",
+      "meaning_es": "una estructura"
+    },
+    {
+      "term": "to construct",
+      "type": "Verb",
+      "example": "It took five years to *** the new library.",
+      "meaning_tr": "inşa etmek",
+      "meaning_en": "to build something",
+      "meaning_uk": "будувати",
+      "meaning_es": "construir"
+    },
+    {
+      "term": "sustainable",
+      "type": "Adjective",
+      "example": "Green buildings use *** materials to save energy.",
+      "meaning_tr": "sürdürülebilir",
+      "meaning_en": "causing little or no damage to the environment",
+      "meaning_uk": "сталий",
+      "meaning_es": "sostenible"
+    },
+    {
+      "term": "a blueprint",
+      "type": "Noun",
+      "example": "The architect presented the final *** to the client.",
+      "meaning_tr": "plan/taslak",
+      "meaning_en": "a technical drawing of a building",
+      "meaning_uk": "креслення",
+      "meaning_es": "un plano"
+    },
+    {
+      "term": "an elevation",
+      "type": "Noun",
+      "example": "The north *** shows the height of the building.",
+      "meaning_tr": "cephe görünüşü",
+      "meaning_en": "a scale drawing of the side of a building",
+      "meaning_uk": "фасад",
+      "meaning_es": "un alzado"
+    },
+    {
+      "term": "spacious",
+      "type": "Adjective",
+      "example": "The apartment is surprisingly *** despite its location.",
+      "meaning_tr": "ferah",
+      "meaning_en": "having plenty of room",
+      "meaning_uk": "просторий",
+      "meaning_es": "espacioso"
+    },
+    {
+      "term": "a facade",
+      "type": "Noun",
+      "example": "The glass *** reflects the sunlight beautifully.",
+      "meaning_tr": "ön cephe",
+      "meaning_en": "the front part of a building",
+      "meaning_uk": "фасад",
+      "meaning_es": "una fachada"
+    },
+    {
+      "term": "ornate",
+      "type": "Adjective",
+      "example": "The palace is famous for its *** ceiling.",
+      "meaning_tr": "süslü",
+      "meaning_en": "elaborately decorated",
+      "meaning_uk": "оздоблений",
+      "meaning_es": "ornamentado"
+    },
+    {
+      "term": "to demolish",
+      "type": "Verb",
+      "example": "They had to *** the dangerous old factory.",
+      "meaning_tr": "yıkmak",
+      "meaning_en": "to pull down a building",
+      "meaning_uk": "зносити",
+      "meaning_es": "demoler"
+    },
+    {
+      "term": "a foundation",
+      "type": "Noun",
+      "example": "The house was built on a solid concrete ***.",
+      "meaning_tr": "temel",
+      "meaning_en": "the base on which a building rests",
+      "meaning_uk": "фундамент",
+      "meaning_es": "un cimiento"
+    },
+    {
+      "term": "residential",
+      "type": "Adjective",
+      "example": "This area is strictly for *** use.",
+      "meaning_tr": "konut",
+      "meaning_en": "designed for people to live in",
+      "meaning_uk": "житловий",
+      "meaning_es": "residencial"
+    },
+    {
+      "term": "an interior",
+      "type": "Noun",
+      "example": "The *** of the cathedral is stunning.",
+      "meaning_tr": "iç mekan",
+      "meaning_en": "the inside part of something",
+      "meaning_uk": "інтер'єр",
+      "meaning_es": "un interior"
+    },
+    {
+      "term": "functional",
+      "type": "Adjective",
+      "example": "The design is very *** and avoids unnecessary details.",
+      "meaning_tr": "işlevsel",
+      "meaning_en": "designed to be practical",
+      "meaning_uk": "функціональний",
+      "meaning_es": "funcional"
+    },
+    {
+      "term": "a monument",
+      "type": "Noun",
+      "example": "The statue is a historical *** of the city.",
+      "meaning_tr": "anıt",
+      "meaning_en": "a structure built to commemorate something",
+      "meaning_uk": "пам'ятник",
+      "meaning_es": "un monumento"
+    },
+    {
+      "term": "to design",
+      "type": "Verb",
+      "example": "A famous architect was hired to *** the hall.",
+      "meaning_tr": "tasarlamak",
+      "meaning_en": "to plan the look and function of something",
+      "meaning_uk": "проектувати",
+      "meaning_es": "diseñar"
+    },
+    {
+      "term": "a pillar",
+      "type": "Noun",
+      "example": "The roof is supported by a large stone ***.",
+      "meaning_tr": "sütun",
+      "meaning_en": "a tall vertical structure used as a support",
+      "meaning_uk": "колона",
+      "meaning_es": "una columna"
+    },
+    {
+      "term": "industrial",
+      "type": "Adjective",
+      "example": "The building has a raw, *** look.",
+      "meaning_tr": "endüstriyel",
+      "meaning_en": "relating to factories or large-scale production",
+      "meaning_uk": "промисловий",
+      "meaning_es": "industrial"
+    },
+    {
+      "term": "a skyscraper",
+      "type": "Noun",
+      "example": "The city skyline is dominated by ***.",
+      "meaning_tr": "gökdelen",
+      "meaning_en": "a very tall building",
+      "meaning_uk": "хмарочос",
+      "meaning_es": "un rascacielos"
+    },
+    {
+      "term": "a window frame",
+      "type": "Noun",
+      "example": "The *** needs to be repainted.",
+      "meaning_tr": "pencere çerçevesi",
+      "meaning_en": "the structure surrounding a window",
+      "meaning_uk": "віконна рама",
+      "meaning_es": "un marco de ventana"
+    },
+    {
+      "term": "to reinforce",
+      "type": "Verb",
+      "example": "They had to *** the walls to prevent collapse.",
+      "meaning_tr": "güçlendirmek",
+      "meaning_en": "to make a structure stronger",
+      "meaning_uk": "зміцнювати",
+      "meaning_es": "reforzar"
+    },
+    {
+      "term": "a corridor",
+      "type": "Noun",
+      "example": "The offices are located along a long ***.",
+      "meaning_tr": "koridor",
+      "meaning_en": "a long passage in a building",
+      "meaning_uk": "коридор",
+      "meaning_es": "un pasillo"
+    },
+    {
+      "term": "sturdy",
+      "type": "Adjective",
+      "example": "The table is made of *** oak wood.",
+      "meaning_tr": "dayanıklı",
+      "meaning_en": "strongly built",
+      "meaning_uk": "міцний",
+      "meaning_es": "robusto"
+    },
+    {
+      "term": "a complex",
+      "type": "Noun",
+      "example": "The sports *** has three swimming pools.",
+      "meaning_tr": "tesisler bütünü",
+      "meaning_en": "a group of buildings",
+      "meaning_uk": "комплекс",
+      "meaning_es": "un complejo"
+    },
+    {
+      "term": "an arch",
+      "type": "Noun",
+      "example": "They walked through the stone *** into the garden.",
+      "meaning_tr": "kemer",
+      "meaning_en": "a curved structure over an opening",
+      "meaning_uk": "арка",
+      "meaning_es": "un arco"
+    },
+    {
+      "term": "spacious",
+      "type": "Adjective",
+      "example": "The living room is very *** and bright.",
+      "meaning_tr": "geniş",
+      "meaning_en": "large and roomy",
+      "meaning_uk": "просторий",
+      "meaning_es": "espacioso"
+    },
+    {
+      "term": "to restore",
+      "type": "Verb",
+      "example": "The government aims to *** the old castle.",
+      "meaning_tr": "restore etmek",
+      "meaning_en": "to bring back to original condition",
+      "meaning_uk": "реставрувати",
+      "meaning_es": "restaurar"
+    },
+    {
+      "term": "urban",
+      "type": "Adjective",
+      "example": "The project focuses on *** development.",
+      "meaning_tr": "kentsel",
+      "meaning_en": "relating to a city",
+      "meaning_uk": "міський",
+      "meaning_es": "urbano"
+    },
+    {
+      "term": "a balcony",
+      "type": "Noun",
+      "example": "They sat on the *** to enjoy the view.",
+      "meaning_tr": "balkon",
+      "meaning_en": "a platform enclosed by a wall or railing",
+      "meaning_uk": "балкон",
+      "meaning_es": "un balcón"
+    },
+    {
+      "term": "innovative",
+      "type": "Adjective",
+      "example": "The building uses *** solar technology.",
+      "meaning_tr": "yenilikçi",
+      "meaning_en": "featuring new methods or ideas",
+      "meaning_uk": "інноваційний",
+      "meaning_es": "innovador"
+    },
+    {
+      "term": "a loft",
+      "type": "Noun",
+      "example": "He turned the attic into a cozy ***.",
+      "meaning_tr": "çatı katı",
+      "meaning_en": "a room or space directly under the roof",
+      "meaning_uk": "горище",
+      "meaning_es": "un desván"
+    },
+    {
+      "term": "to overlook",
+      "type": "Verb",
+      "example": "The terrace will *** the entire harbor.",
+      "meaning_tr": "manzarasına sahip olmak",
+      "meaning_en": "to have a view from above",
+      "meaning_uk": "виходити на",
+      "meaning_es": "dar a"
+    },
+    {
+      "term": "a basement",
+      "type": "Noun",
+      "example": "We store all our old boxes in the ***.",
+      "meaning_tr": "bodrum",
+      "meaning_en": "a floor below ground level",
+      "meaning_uk": "підвал",
+      "meaning_es": "un sótano"
+    },
+    {
+      "term": "asymmetrical",
+      "type": "Adjective",
+      "example": "The design of the house is purposely ***.",
+      "meaning_tr": "asimetrik",
+      "meaning_en": "not having equal parts on both sides",
+      "meaning_uk": "асиметричний",
+      "meaning_es": "asimétrico"
+    },
+    {
+      "term": "to integrate",
+      "type": "Verb",
+      "example": "The architect tried to *** the building with nature.",
+      "meaning_tr": "bütünleştirmek",
+      "meaning_en": "to combine things to form a whole",
+      "meaning_uk": "інтегрувати",
+      "meaning_es": "integrar"
+    },
+    {
+      "term": "a landmark",
+      "type": "Noun",
+      "example": "The clock tower is a famous *** in London.",
+      "meaning_tr": "simgesel yapı",
+      "meaning_en": "a recognizable feature of a landscape",
+      "meaning_uk": "визначна пам'ятка",
+      "meaning_es": "un punto de referencia"
+    },
+    {
+      "term": "minimalist",
+      "type": "Adjective",
+      "example": "She prefers a *** interior design style.",
+      "meaning_tr": "minimalist",
+      "meaning_en": "characterized by simplicity",
+      "meaning_uk": "мінімалістичний",
+      "meaning_es": "minimalista"
+    },
+    {
+      "term": "a dwelling",
+      "type": "Noun",
+      "example": "The cave was the earliest form of human ***.",
+      "meaning_tr": "konut",
+      "meaning_en": "a place where people live",
+      "meaning_uk": "житло",
+      "meaning_es": "una vivienda"
+    },
+    {
+      "term": "to enclose",
+      "type": "Verb",
+      "example": "The glass panels *** the garden area.",
+      "meaning_tr": "çevrelemek",
+      "meaning_en": "to surround or shut in",
+      "meaning_uk": "огороджувати",
+      "meaning_es": "encerrar"
+    },
+    {
+      "term": "a facade",
+      "type": "Noun",
+      "example": "The limestone *** gives the bank a serious look.",
+      "meaning_tr": "cephe",
+      "meaning_en": "the face of a building",
+      "meaning_uk": "фасад",
+      "meaning_es": "una fachada"
+    },
+    {
+      "term": "a staircase",
+      "type": "Noun",
+      "example": "The grand *** leads to the ballroom.",
+      "meaning_tr": "merdiven",
+      "meaning_en": "a set of stairs",
+      "meaning_uk": "сходи",
+      "meaning_es": "una escalera"
+    },
+    {
+      "term": "open-plan",
+      "type": "Adjective",
+      "example": "They prefer an *** office layout for collaboration.",
+      "meaning_tr": "açık plan",
+      "meaning_en": "having few internal walls",
+      "meaning_uk": "відкритого планування",
+      "meaning_es": "de planta abierta"
+    }
+  ]
+}

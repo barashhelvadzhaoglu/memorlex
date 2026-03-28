@@ -1,0 +1,411 @@
+{
+  "title": "Musica y Cine (B2)",
+  "language": "es",
+  "words": [
+    {
+      "term": "la banda sonora",
+      "type": "Noun",
+      "example": "*** de esta película es una obra maestra de Hans Zimmer.",
+      "meaning_tr": "film müziği",
+      "meaning_en": "soundtrack",
+      "meaning_uk": "саундтрек",
+      "meaning_es": "música compuesta para acompañar una película"
+    },
+    {
+      "term": "el largometraje",
+      "type": "Noun",
+      "example": "*** duró más de tres horas en el cine.",
+      "meaning_tr": "uzun metrajlı film",
+      "meaning_en": "feature film",
+      "meaning_uk": "повнометражний фільм",
+      "meaning_es": "película de larga duración"
+    },
+    {
+      "term": "estrenar",
+      "type": "Verb",
+      "example": "Van a *** la nueva película de acción el próximo viernes.",
+      "meaning_tr": "gösterime girmek",
+      "meaning_en": "to premiere",
+      "meaning_uk": "прем'єра",
+      "meaning_es": "presentar por primera vez una obra"
+    },
+    {
+      "term": "el guion",
+      "type": "Noun",
+      "example": "El autor escribió *** con mucho detalle y realismo.",
+      "meaning_tr": "senaryo",
+      "meaning_en": "script",
+      "meaning_uk": "сценарій",
+      "meaning_es": "texto que contiene los diálogos y acciones de una obra"
+    },
+    {
+      "term": "la actuación",
+      "type": "Noun",
+      "example": "Su *** en este drama fue realmente conmovedora.",
+      "meaning_tr": "oyunculuk",
+      "meaning_en": "acting/performance",
+      "meaning_uk": "акторська гра",
+      "meaning_es": "interpretación de un personaje"
+    },
+    {
+      "term": "el rodaje",
+      "type": "Noun",
+      "example": "El *** de la película se realizó en las montañas de Chile.",
+      "meaning_tr": "film çekimi",
+      "meaning_en": "filming/shooting",
+      "meaning_uk": "зйомки",
+      "meaning_es": "proceso de grabar una película"
+    },
+    {
+      "term": "la taquilla",
+      "type": "Noun",
+      "example": "La película fue un éxito total en *** durante el fin de semana.",
+      "meaning_tr": "gişe",
+      "meaning_en": "box office",
+      "meaning_uk": "касові збори",
+      "meaning_es": "recaudación económica de una obra"
+    },
+    {
+      "term": "el elenco",
+      "type": "Noun",
+      "example": "*** de la serie incluye a actores muy reconocidos internacionalmente.",
+      "meaning_tr": "oyuncu kadrosu",
+      "meaning_en": "cast",
+      "meaning_uk": "акторський склад",
+      "meaning_es": "conjunto de actores de una obra"
+    },
+    {
+      "term": "la reseña",
+      "type": "Noun",
+      "example": "Leí una *** muy positiva sobre el último álbum de la banda.",
+      "meaning_tr": "eleştiri/inceleme",
+      "meaning_en": "review",
+      "meaning_uk": "рецензія",
+      "meaning_es": "crítica o comentario sobre una obra"
+    },
+    {
+      "term": "la puesta en escena",
+      "type": "Noun",
+      "example": "*** fue minimalista y muy efectiva para la obra de teatro.",
+      "meaning_tr": "sahneleme",
+      "meaning_en": "staging",
+      "meaning_uk": "постановка",
+      "meaning_es": "conjunto de elementos visuales en una representación"
+    },
+    {
+      "term": "el género",
+      "type": "Noun",
+      "example": "Prefiero el *** de terror por encima de la comedia.",
+      "meaning_tr": "tür",
+      "meaning_en": "genre",
+      "meaning_uk": "жанр",
+      "meaning_es": "categoría artística"
+    },
+    {
+      "term": "la voz en off",
+      "type": "Noun",
+      "example": "La *** explica los pensamientos del protagonista durante la escena.",
+      "meaning_tr": "dış ses",
+      "meaning_en": "voice-over",
+      "meaning_uk": "закадровий голос",
+      "meaning_es": "voz que se escucha sin ver al personaje"
+    },
+    {
+      "term": "el cortometraje",
+      "type": "Noun",
+      "example": "Ganó un premio internacional por su *** experimental.",
+      "meaning_tr": "kısa film",
+      "meaning_en": "short film",
+      "meaning_uk": "короткометражний фільм",
+      "meaning_es": "película de corta duración"
+    },
+    {
+      "term": "la composición",
+      "type": "Noun",
+      "example": "*** musical fue creada originalmente para el piano.",
+      "meaning_tr": "beste",
+      "meaning_en": "composition",
+      "meaning_uk": "композиція",
+      "meaning_es": "obra de música"
+    },
+    {
+      "term": "el ritmo",
+      "type": "Noun",
+      "example": "Me encanta el *** contagioso de esta canción de salsa.",
+      "meaning_tr": "ritim",
+      "meaning_en": "rhythm",
+      "meaning_uk": "ритм",
+      "meaning_es": "movimiento marcado por la sucesión regular de elementos"
+    },
+    {
+      "term": "la letra",
+      "type": "Noun",
+      "example": "No entiendo muy bien *** de esta canción en inglés.",
+      "meaning_tr": "şarkı sözü",
+      "meaning_en": "lyrics",
+      "meaning_uk": "текст пісні",
+      "meaning_es": "palabras de una canción"
+    },
+    {
+      "term": "la afinación",
+      "type": "Noun",
+      "example": "Es necesario revisar *** de la guitarra antes de empezar a tocar.",
+      "meaning_tr": "akort",
+      "meaning_en": "tuning",
+      "meaning_uk": "настройка",
+      "meaning_es": "ajuste de los sonidos de un instrumento"
+    },
+    {
+      "term": "la gira",
+      "type": "Noun",
+      "example": "El grupo anunció su *** mundial para el próximo año.",
+      "meaning_tr": "turne",
+      "meaning_en": "tour",
+      "meaning_uk": "турне",
+      "meaning_es": "serie de conciertos en diferentes ciudades"
+    },
+    {
+      "term": "el sencillo",
+      "type": "Noun",
+      "example": "La banda lanzó un nuevo *** que ya es número uno en ventas.",
+      "meaning_tr": "tekli (single)",
+      "meaning_en": "single",
+      "meaning_uk": "сингл",
+      "meaning_es": "canción lanzada individualmente"
+    },
+    {
+      "term": "la interpretación",
+      "type": "Noun",
+      "example": "Su *** de la pieza de Chopin fue magistral.",
+      "meaning_tr": "yorum",
+      "meaning_en": "interpretation",
+      "meaning_uk": "інтерпретація",
+      "meaning_es": "forma de ejecutar una pieza"
+    },
+    {
+      "term": "la melodía",
+      "type": "Noun",
+      "example": "Es una *** tan dulce que no puedo dejar de tararearla.",
+      "meaning_tr": "melodi",
+      "meaning_en": "melody",
+      "meaning_uk": "мелодія",
+      "meaning_es": "sucesión de sonidos que forman una frase musical"
+    },
+    {
+      "term": "el estreno",
+      "type": "Noun",
+      "example": "Hay mucha expectativa ante *** de esta película de ciencia ficción.",
+      "meaning_tr": "prömiyer/ilk gösterim",
+      "meaning_en": "premiere",
+      "meaning_uk": "прем'єра",
+      "meaning_es": "primera exhibición de una obra"
+    },
+    {
+      "term": "el espectador",
+      "type": "Noun",
+      "example": "A menudo, *** se siente identificado con el protagonista.",
+      "meaning_tr": "izleyici",
+      "meaning_en": "spectator",
+      "meaning_uk": "глядач",
+      "meaning_es": "persona que observa una obra"
+    },
+    {
+      "term": "el doblaje",
+      "type": "Noun",
+      "example": "Prefiero ver las películas en versión original, sin ***.",
+      "meaning_tr": "dublaj",
+      "meaning_en": "dubbing",
+      "meaning_uk": "дубляж",
+      "meaning_es": "sustitución de la voz original por otra en otro idioma"
+    },
+    {
+      "term": "el montaje",
+      "type": "Noun",
+      "example": "*** de esta película es muy dinámico y rápido.",
+      "meaning_tr": "kurgu/montaj",
+      "meaning_en": "editing",
+      "meaning_uk": "монтаж",
+      "meaning_es": "ordenación de los planos de una película"
+    },
+    {
+      "term": "la butaca",
+      "type": "Noun",
+      "example": "Compré mi entrada y elegí mi *** en la fila central.",
+      "meaning_tr": "koltuk (sinema/tiyatro)",
+      "meaning_en": "seat",
+      "meaning_uk": "крісло",
+      "meaning_es": "asiento en un cine o teatro"
+    },
+    {
+      "term": "la pantalla",
+      "type": "Noun",
+      "example": "La imagen se veía borrosa en *** del cine.",
+      "meaning_tr": "ekran/perde",
+      "meaning_en": "screen",
+      "meaning_uk": "екран",
+      "meaning_es": "superficie donde se proyecta la película"
+    },
+    {
+      "term": "la taquillera",
+      "type": "Adjective",
+      "example": "Es una película muy *** que ha roto récords de audiencia.",
+      "meaning_tr": "gişe rekorları kıran",
+      "meaning_en": "box-office hit",
+      "meaning_uk": "касовий",
+      "meaning_es": "que tiene éxito en la taquilla"
+    },
+    {
+      "term": "audiovisual",
+      "type": "Adjective",
+      "example": "Estudió producción *** para trabajar en cine y televisión.",
+      "meaning_tr": "görsel-işitsel",
+      "meaning_en": "audiovisual",
+      "meaning_uk": "аудіовізуальний",
+      "meaning_es": "relativo al oído y a la vista"
+    },
+    {
+      "term": "cinematográfico",
+      "type": "Adjective",
+      "example": "El festival presenta un valor *** incalculable.",
+      "meaning_tr": "sinematografik",
+      "meaning_en": "cinematic",
+      "meaning_uk": "кінематографічний",
+      "meaning_es": "relativo al cine"
+    },
+    {
+      "term": "improvisar",
+      "type": "Verb",
+      "example": "El músico decidió *** un solo durante el concierto.",
+      "meaning_tr": "doğaçlama yapmak",
+      "meaning_en": "to improvise",
+      "meaning_uk": "імпровізувати",
+      "meaning_es": "crear algo sin preparación previa"
+    },
+    {
+      "term": "protagonizar",
+      "type": "Verb",
+      "example": "Ella va a *** la nueva película de suspenso.",
+      "meaning_tr": "başrolde oynamak",
+      "meaning_en": "to star in",
+      "meaning_uk": "грати головну роль",
+      "meaning_es": "ser el actor principal"
+    },
+    {
+      "term": "musicalizar",
+      "type": "Verb",
+      "example": "El director decidió *** la escena con música clásica.",
+      "meaning_tr": "müziklendirmek",
+      "meaning_en": "to score/set to music",
+      "meaning_uk": "озвучувати музикою",
+      "meaning_es": "poner música a una obra"
+    },
+    {
+      "term": "ensayar",
+      "type": "Verb",
+      "example": "Debemos *** la canción varias veces antes de la presentación.",
+      "meaning_tr": "prova yapmak",
+      "meaning_en": "to rehearse",
+      "meaning_uk": "репетирувати",
+      "meaning_es": "practicar una obra antes de la función"
+    },
+    {
+      "term": "aclamado",
+      "type": "Adjective",
+      "example": "Es un director *** por la crítica internacional.",
+      "meaning_tr": "alkışlanan/beğenilen",
+      "meaning_en": "acclaimed",
+      "meaning_uk": "визнаний",
+      "meaning_es": "que ha recibido muchos elogios"
+    },
+    {
+      "term": "conmovedor",
+      "type": "Adjective",
+      "example": "Escribió un libro *** sobre su infancia.",
+      "meaning_tr": "dokunaklı",
+      "meaning_en": "moving/touching",
+      "meaning_uk": "зворушливий",
+      "meaning_es": "que causa emoción"
+    },
+    {
+      "term": "en vivo",
+      "type": "Adverb",
+      "example": "La banda tocará *** en el estadio nacional.",
+      "meaning_tr": "canlı",
+      "meaning_en": "live",
+      "meaning_uk": "наживо",
+      "meaning_es": "en directo"
+    },
+    {
+      "term": "tras bambalinas",
+      "type": "Adverb",
+      "example": "Vimos todo lo que ocurría *** durante el rodaje.",
+      "meaning_tr": "sahne arkasında",
+      "meaning_en": "behind the scenes",
+      "meaning_uk": "за лаштунками",
+      "meaning_es": "fuera de la vista del público"
+    },
+    {
+      "term": "pero",
+      "type": "Conjunction",
+      "example": "La película es larga, *** realmente vale la pena verla.",
+      "meaning_tr": "ama/fakat",
+      "meaning_en": "but",
+      "meaning_uk": "але",
+      "meaning_es": "conjunción adversativa"
+    },
+    {
+      "term": "aunque",
+      "type": "Conjunction",
+      "example": "*** el guion no es perfecto, la actuación es excelente.",
+      "meaning_tr": "rağmen/olsa da",
+      "meaning_en": "although",
+      "meaning_uk": "хоча",
+      "meaning_es": "conjunción concesiva"
+    },
+    {
+      "term": "entre",
+      "type": "Preposition",
+      "example": "El director dudaba *** elegir al actor principal o al secundario.",
+      "meaning_tr": "arasında",
+      "meaning_en": "between",
+      "meaning_uk": "між",
+      "meaning_es": "preposición de lugar o relación"
+    },
+    {
+      "term": "a pesar de",
+      "type": "Preposition",
+      "example": "*** las críticas negativas, la película fue un éxito.",
+      "meaning_tr": "-e rağmen",
+      "meaning_en": "despite",
+      "meaning_uk": "незважаючи на",
+      "meaning_es": "locución preposicional"
+    },
+    {
+      "term": "la función",
+      "type": "Noun",
+      "example": "La última *** comienza a las diez de la noche.",
+      "meaning_tr": "gösterim/seans",
+      "meaning_en": "show/screening",
+      "meaning_uk": "сеанс",
+      "meaning_es": "cada una de las representaciones de un espectáculo"
+    },
+    {
+      "term": "la taquilla",
+      "type": "Noun",
+      "example": "Compramos los boletos en *** antes de entrar.",
+      "meaning_tr": "gişe",
+      "meaning_en": "ticket office",
+      "meaning_uk": "каса",
+      "meaning_es": "lugar donde se venden entradas"
+    },
+    {
+      "term": "la letra",
+      "type": "Noun",
+      "example": "Me gusta *** de esta canción porque es muy poética.",
+      "meaning_tr": "şarkı sözü",
+      "meaning_en": "lyrics",
+      "meaning_uk": "слова пісні",
+      "meaning_es": "el texto de una obra musical"
+    }
+  ]
+}

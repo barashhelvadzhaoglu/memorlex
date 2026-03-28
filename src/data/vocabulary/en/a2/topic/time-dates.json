@@ -1,0 +1,231 @@
+{
+  "title": "Time & Dates (A2)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a second",
+      "type": "Noun",
+      "example": "Wait for ***, please.",
+      "meaning_tr": "bir saniye",
+      "meaning_en": "a unit of time equal to one sixtieth of a minute",
+      "meaning_uk": "секунда",
+      "meaning_es": "un segundo"
+    },
+    {
+      "term": "a minute",
+      "type": "Noun",
+      "example": "The meeting starts in ***.",
+      "meaning_tr": "bir dakika",
+      "meaning_en": "a unit of time equal to sixty seconds",
+      "meaning_uk": "хвилина",
+      "meaning_es": "un minuto"
+    },
+    {
+      "term": "an hour",
+      "type": "Noun",
+      "example": "It takes *** to drive to the city.",
+      "meaning_tr": "bir saat",
+      "meaning_en": "a period of sixty minutes",
+      "meaning_uk": "година",
+      "meaning_es": "una hora"
+    },
+    {
+      "term": "a day",
+      "type": "Noun",
+      "example": "There are seven days in ***.",
+      "meaning_tr": "bir gün",
+      "meaning_en": "a period of twenty-four hours",
+      "meaning_uk": "день",
+      "meaning_es": "un día"
+    },
+    {
+      "term": "a week",
+      "type": "Noun",
+      "example": "I will see you in ***.",
+      "meaning_tr": "bir hafta",
+      "meaning_en": "a period of seven days",
+      "meaning_uk": "тиждень",
+      "meaning_es": "una semana"
+    },
+    {
+      "term": "a month",
+      "type": "Noun",
+      "example": "February is the shortest *** of the year.",
+      "meaning_tr": "bir ay",
+      "meaning_en": "one of the twelve periods into which a year is divided",
+      "meaning_uk": "місяць",
+      "meaning_es": "un mes"
+    },
+    {
+      "term": "a year",
+      "type": "Noun",
+      "example": "My birthday is once ***.",
+      "meaning_tr": "bir yıl",
+      "meaning_en": "a period of 365 or 366 days",
+      "meaning_uk": "рік",
+      "meaning_es": "un año"
+    },
+    {
+      "term": "morning",
+      "type": "Noun",
+      "example": "I drink coffee every ***.",
+      "meaning_tr": "sabah",
+      "meaning_en": "the early part of the day",
+      "meaning_uk": "ранок",
+      "meaning_es": "la mañana"
+    },
+    {
+      "term": "afternoon",
+      "type": "Noun",
+      "example": "We have lunch in the ***.",
+      "meaning_tr": "öğleden sonra",
+      "meaning_en": "the time between noon and evening",
+      "meaning_uk": "день (після полудня)",
+      "meaning_es": "la tarde"
+    },
+    {
+      "term": "evening",
+      "type": "Noun",
+      "example": "We watch TV in the ***.",
+      "meaning_tr": "akşam",
+      "meaning_en": "the end of the day before night",
+      "meaning_uk": "вечір",
+      "meaning_es": "la noche / atardecer"
+    },
+    {
+      "term": "night",
+      "type": "Noun",
+      "example": "I sleep at ***.",
+      "meaning_tr": "gece",
+      "meaning_en": "the time when it is dark",
+      "meaning_uk": "ніч",
+      "meaning_es": "la noche"
+    },
+    {
+      "term": "yesterday",
+      "type": "Adverb",
+      "example": "I went to the cinema ***.",
+      "meaning_tr": "dün",
+      "meaning_en": "the day before today",
+      "meaning_uk": "вчора",
+      "meaning_es": "ayer"
+    },
+    {
+      "term": "today",
+      "type": "Adverb",
+      "example": "It is very hot ***.",
+      "meaning_tr": "bugün",
+      "meaning_en": "on this present day",
+      "meaning_uk": "сьогодні",
+      "meaning_es": "hoy"
+    },
+    {
+      "term": "tomorrow",
+      "type": "Adverb",
+      "example": "We will travel ***.",
+      "meaning_tr": "yarın",
+      "meaning_en": "the day after today",
+      "meaning_uk": "завтра",
+      "meaning_es": "mañana"
+    },
+    {
+      "term": "early",
+      "type": "Adjective",
+      "example": "I like to wake up ***.",
+      "meaning_tr": "erken",
+      "meaning_en": "before the usual or expected time",
+      "meaning_uk": "рано",
+      "meaning_es": "temprano"
+    },
+    {
+      "term": "late",
+      "type": "Adjective",
+      "example": "Don't be *** for school.",
+      "meaning_tr": "geç",
+      "meaning_en": "after the expected or usual time",
+      "meaning_uk": "пізно",
+      "meaning_es": "tarde"
+    },
+    {
+      "term": "at",
+      "type": "Preposition",
+      "example": "The party is *** 8 o'clock.",
+      "meaning_tr": "-de/-da (saatler için)",
+      "meaning_en": "used to indicate a specific time",
+      "meaning_uk": "о (про час)",
+      "meaning_es": "a (para la hora)"
+    },
+    {
+      "term": "in",
+      "type": "Preposition",
+      "example": "I was born *** 1995.",
+      "meaning_tr": "-de/-da (aylar, yıllar, mevsimler için)",
+      "meaning_en": "used for months, years, or long periods",
+      "meaning_uk": "в (про місяці, роки)",
+      "meaning_es": "en (para meses, años)"
+    },
+    {
+      "term": "on",
+      "type": "Preposition",
+      "example": "We meet *** Monday.",
+      "meaning_tr": "-de/-da (günler için)",
+      "meaning_en": "used for days and dates",
+      "meaning_uk": "в (про дні)",
+      "meaning_es": "en (para días)"
+    },
+    {
+      "term": "before",
+      "type": "Preposition",
+      "example": "Wash your hands *** dinner.",
+      "meaning_tr": "önce",
+      "meaning_en": "earlier than a specific time",
+      "meaning_uk": "перед / до",
+      "meaning_es": "antes de"
+    },
+    {
+      "term": "after",
+      "type": "Preposition",
+      "example": "Let's go home *** class.",
+      "meaning_tr": "sonra",
+      "meaning_en": "later than a specific time",
+      "meaning_uk": "після",
+      "meaning_es": "después de"
+    },
+    {
+      "term": "every",
+      "type": "Adjective",
+      "example": "I exercise *** day.",
+      "meaning_tr": "her",
+      "meaning_en": "each one of a set",
+      "meaning_uk": "кожен",
+      "meaning_es": "cada"
+    },
+    {
+      "term": "always",
+      "type": "Adverb",
+      "example": "She *** brushes her teeth.",
+      "meaning_tr": "her zaman",
+      "meaning_en": "at all times",
+      "meaning_uk": "завжди",
+      "meaning_es": "siempre"
+    },
+    {
+      "term": "never",
+      "type": "Adverb",
+      "example": "I *** drink alcohol.",
+      "meaning_tr": "asla",
+      "meaning_en": "not at any time",
+      "meaning_uk": "ніколи",
+      "meaning_es": "nunca"
+    },
+    {
+      "term": "spend",
+      "type": "Verb",
+      "example": "I want to *** time with my family.",
+      "meaning_tr": "harcamak / geçirmek",
+      "meaning_en": "to pass time in a particular way",
+      "meaning_uk": "проводити (час)",
+      "meaning_es": "pasar (tiempo)"
+    }
+  ]
+}

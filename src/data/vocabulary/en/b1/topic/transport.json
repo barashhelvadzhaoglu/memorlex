@@ -1,0 +1,312 @@
+{
+  "title": "Transport & Travel (B1)",
+  "language": "en",
+  "words": [
+    {
+      "term": "a bus",
+      "type": "Noun",
+      "example": "We took *** to get to the city center.",
+      "meaning_tr": "otobüs",
+      "meaning_en": "a large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.",
+      "meaning_uk": "автобус",
+      "meaning_es": "un autobús"
+    },
+    {
+      "term": "a train",
+      "type": "Noun",
+      "example": "The *** arrived exactly on time.",
+      "meaning_tr": "tren",
+      "meaning_en": "a series of connected railway carriages or wagons moved by a locomotive.",
+      "meaning_uk": "поїзд",
+      "meaning_es": "un tren"
+    },
+    {
+      "term": "a plane",
+      "type": "Noun",
+      "example": "We are flying to Paris on *** tomorrow.",
+      "meaning_tr": "uçak",
+      "meaning_en": "an aircraft with fixed wings and one or more engines.",
+      "meaning_uk": "літак",
+      "meaning_es": "un avión"
+    },
+    {
+      "term": "a car",
+      "type": "Noun",
+      "example": "My *** needs to be serviced soon.",
+      "meaning_tr": "araba",
+      "meaning_en": "a road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor and able to carry a small number of people.",
+      "meaning_uk": "автомобіль",
+      "meaning_es": "un coche"
+    },
+    {
+      "term": "a bicycle",
+      "type": "Noun",
+      "example": "She rides her *** to work every day.",
+      "meaning_tr": "bisiklet",
+      "meaning_en": "a vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.",
+      "meaning_uk": "велосипед",
+      "meaning_es": "una bicicleta"
+    },
+    {
+      "term": "a motorbike",
+      "type": "Noun",
+      "example": "He prefers to travel by *** on country roads.",
+      "meaning_tr": "motosiklet",
+      "meaning_en": "a two-wheeled motor vehicle.",
+      "meaning_uk": "мотоцикл",
+      "meaning_es": "una motocicleta"
+    },
+    {
+      "term": "a taxi",
+      "type": "Noun",
+      "example": "We hailed *** to take us to the airport.",
+      "meaning_tr": "taksi",
+      "meaning_en": "a car with a driver, available for hire, typically used by a single passenger or small group.",
+      "meaning_uk": "таксі",
+      "meaning_es": "un taxi"
+    },
+    {
+      "term": "a ferry",
+      "type": "Noun",
+      "example": "The *** crosses the river every hour.",
+      "meaning_tr": "feribot",
+      "meaning_en": "a boat or ship for taking passengers and often vehicles across a river or lake.",
+      "meaning_uk": "пором",
+      "meaning_es": "un ferry"
+    },
+    {
+      "term": "a ship",
+      "type": "Noun",
+      "example": "They are planning a cruise on a large ***.",
+      "meaning_tr": "gemi",
+      "meaning_en": "a large boat for transporting people or goods by sea.",
+      "meaning_uk": "корабель",
+      "meaning_es": "un barco"
+    },
+    {
+      "term": "a ticket",
+      "type": "Noun",
+      "example": "I need to buy a *** for the concert.",
+      "meaning_tr": "bilet",
+      "meaning_en": "a piece of paper or a digital record that entitles the holder to admission to a public place, to travel on public transport, etc.",
+      "meaning_uk": "квиток",
+      "meaning_es": "un billete"
+    },
+    {
+      "term": "a passport",
+      "type": "Noun",
+      "example": "Don't forget to bring your *** when you travel abroad.",
+      "meaning_tr": "pasaport",
+      "meaning_en": "an official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries.",
+      "meaning_uk": "паспорт",
+      "meaning_es": "un pasaporte"
+    },
+    {
+      "term": "a suitcase",
+      "type": "Noun",
+      "example": "I packed all my clothes in a large ***.",
+      "meaning_tr": "valiz",
+      "meaning_en": "a rectangular bag with a handle, used for carrying clothes and possessions when travelling.",
+      "meaning_uk": "валіза",
+      "meaning_es": "una maleta"
+    },
+    {
+      "term": "a hotel",
+      "type": "Noun",
+      "example": "We booked a room at the *** near the station.",
+      "meaning_tr": "otel",
+      "meaning_en": "a building offering accommodation, meals, and other services to travellers and tourists.",
+      "meaning_uk": "готель",
+      "meaning_es": "un hotel"
+    },
+    {
+      "term": "an airport",
+      "type": "Noun",
+      "example": "The flight departs from *** Terminal 3.",
+      "meaning_tr": "havaalanı",
+      "meaning_en": "a place where aircraft take off and land, with buildings and facilities for passengers.",
+      "meaning_uk": "аеропорт",
+      "meaning_es": "un aeropuerto"
+    },
+    {
+      "term": "a station",
+      "type": "Noun",
+      "example": "We met at the train ***.",
+      "meaning_tr": "istasyon",
+      "meaning_en": "a place where trains regularly stop to load or unload passengers or goods.",
+      "meaning_uk": "станція",
+      "meaning_es": "una estación"
+    },
+    {
+      "term": "a journey",
+      "type": "Noun",
+      "example": "The *** to the mountains was long but beautiful.",
+      "meaning_tr": "yolculuk",
+      "meaning_en": "an act of travelling from one place to another.",
+      "meaning_uk": "подорож",
+      "meaning_es": "un viaje"
+    },
+    {
+      "term": "a trip",
+      "type": "Noun",
+      "example": "We are planning a short *** to the coast.",
+      "meaning_tr": "gezi",
+      "meaning_en": "an act of going to a place and returning, especially one for pleasure or a specific purpose.",
+      "meaning_uk": "поїздка",
+      "meaning_es": "una excursión"
+    },
+    {
+      "term": "to travel",
+      "type": "Verb",
+      "example": "I love to *** to new countries.",
+      "meaning_tr": "seyahat etmek",
+      "meaning_en": "make a journey, typically of some length or duration.",
+      "meaning_uk": "подорожувати",
+      "meaning_es": "viajar"
+    },
+    {
+      "term": "to drive",
+      "type": "Verb",
+      "example": "Can you *** a car?",
+      "meaning_tr": "araba kullanmak",
+      "meaning_en": "operate and control the direction and speed of a motor vehicle.",
+      "meaning_uk": "водити (автомобіль)",
+      "meaning_es": "conducir"
+    },
+    {
+      "term": "to fly",
+      "type": "Verb",
+      "example": "Birds *** in the sky.",
+      "meaning_tr": "uçmak",
+      "meaning_en": "move through the air using wings.",
+      "meaning_uk": "літати",
+      "meaning_es": "volar"
+    },
+    {
+      "term": "to sail",
+      "type": "Verb",
+      "example": "They like to *** on the lake.",
+      "meaning_tr": "yelken açmak",
+      "meaning_en": "travel in a boat with sails.",
+      "meaning_uk": "плавати під вітрилами",
+      "meaning_es": "navegar"
+    },
+    {
+      "term": "to arrive",
+      "type": "Verb",
+      "example": "The train will *** at 3 PM.",
+      "meaning_tr": "varmak",
+      "meaning_en": "reach a place at the end of a journey or a stage in a journey.",
+      "meaning_uk": "прибувати",
+      "meaning_es": "llegar"
+    },
+    {
+      "term": "to depart",
+      "type": "Verb",
+      "example": "The flight is scheduled to *** at noon.",
+      "meaning_tr": "ayrılmak (uçak, tren vb.)",
+      "meaning_en": "leave; start an hành trình.",
+      "meaning_uk": "відправлятися",
+      "meaning_es": "partir"
+    },
+    {
+      "term": "to book",
+      "type": "Verb",
+      "example": "I need to *** a hotel room.",
+      "meaning_tr": "rezervasyon yapmak",
+      "meaning_en": "reserve (accommodation, a seat, etc.) in advance.",
+      "meaning_uk": "бронювати",
+      "meaning_es": "reservar"
+    },
+    {
+      "term": "to board",
+      "type": "Verb",
+      "example": "Please *** the bus now.",
+      "meaning_tr": "binmek (araç)",
+      "meaning_en": "get on or into (a ship, aircraft, or other vehicle).",
+      "meaning_uk": "сідати (на транспорт)",
+      "meaning_es": "abordar"
+    },
+    {
+      "term": "to rent",
+      "type": "Verb",
+      "example": "We decided to *** a car for our holiday.",
+      "meaning_tr": "kiralamak",
+      "meaning_en": "pay for the use of something, typically for a period of time.",
+      "meaning_uk": "орендувати",
+      "meaning_es": "alquilar"
+    },
+    {
+      "term": "busy",
+      "type": "Adjective",
+      "example": "The roads were very *** during rush hour.",
+      "meaning_tr": "meşgul (yol, yer)",
+      "meaning_en": "full of activity; crowded and bustling.",
+      "meaning_uk": "жвавий, зайнятий",
+      "meaning_es": "ocupado"
+    },
+    {
+      "term": "convenient",
+      "type": "Adjective",
+      "example": "The hotel is in a *** location, close to the shops.",
+      "meaning_tr": "uygun, elverişli",
+      "meaning_en": "fitting in well with a person's needs, activities, and plans.",
+      "meaning_uk": "зручний",
+      "meaning_es": "conveniente"
+    },
+    {
+      "term": "direct",
+      "type": "Adjective",
+      "example": "Is there a *** flight from London to New York?",
+      "meaning_tr": "doğrudan",
+      "meaning_en": "without stopping or changing.",
+      "meaning_uk": "прямий",
+      "meaning_es": "directo"
+    },
+    {
+      "term": "delayed",
+      "type": "Adjective",
+      "example": "Our flight was *** by two hours due to bad weather.",
+      "meaning_tr": "gecikmiş",
+      "meaning_en": "happening or being made to happen later than expected.",
+      "meaning_uk": "затриманий",
+      "meaning_es": "retrasado"
+    },
+    {
+      "term": "comfortable",
+      "type": "Adjective",
+      "example": "The seats on the train were very ***.",
+      "meaning_tr": "rahat",
+      "meaning_en": "providing physical ease and relaxation.",
+      "meaning_uk": "зручний, комфортний",
+      "meaning_es": "cómodo"
+    },
+    {
+      "term": "abroad",
+      "type": "Adverb",
+      "example": "She is studying *** for a year.",
+      "meaning_tr": "yurt dışında",
+      "meaning_en": "in or to a foreign country or countries.",
+      "meaning_uk": "за кордоном",
+      "meaning_es": "al extranjero"
+    },
+    {
+      "term": "locally",
+      "type": "Adverb",
+      "example": "We prefer to travel *** by train.",
+      "meaning_tr": "yerel olarak",
+      "meaning_en": "in or relating to the particular area or neighbourhood in question.",
+      "meaning_uk": "місцево",
+      "meaning_es": "localmente"
+    },
+    {
+      "term": "through",
+      "type": "Preposition",
+      "example": "The train goes *** the tunnel.",
+      "meaning_tr": "içinden, aracılığıyla",
+      "meaning_en": "moving in one side and out of the other side of (an opening, channel, or location).",
+      "meaning_uk": "через",
+      "meaning_es": "a través de"
+    }
+  ]
+}

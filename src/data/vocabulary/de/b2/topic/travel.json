@@ -1,0 +1,420 @@
+{
+  "title": "Reisen & Urlaub (B2)",
+  "language": "de",
+  "words": [
+    {
+      "term": "die Reiseagentur",
+      "type": "Noun",
+      "meaning_tr": "seyahat acentesi",
+      "meaning_en": "travel agency",
+      "meaning_uk": "туристичне агентство",
+      "meaning_es": "agencia de viajes",
+      "example": "Ich buche meinen nächsten Urlaub bei ***."
+    },
+    {
+      "term": "die Unterkunft",
+      "type": "Noun",
+      "meaning_tr": "konaklama",
+      "meaning_en": "accommodation",
+      "meaning_uk": "проживання",
+      "meaning_es": "alojamiento",
+      "example": "Wir suchen eine gemütliche *** für zwei Wochen."
+    },
+    {
+      "term": "der Reiseführer",
+      "type": "Noun",
+      "meaning_tr": "rehber",
+      "meaning_en": "guidebook",
+      "meaning_uk": "путівник",
+      "meaning_es": "guía de viaje",
+      "example": "Mit *** kann man viel über die Geschichte der Stadt lernen."
+    },
+    {
+      "term": "die Sehenswürdigkeit",
+      "type": "Noun",
+      "meaning_tr": "turistik yer",
+      "meaning_en": "sightseeing attraction",
+      "meaning_uk": "визначна пам'ятка",
+      "meaning_es": "atracción turística",
+      "example": "Der Eiffelturm ist eine berühmte *** in Paris."
+    },
+    {
+      "term": "der Aufenthalt",
+      "type": "Noun",
+      "meaning_tr": "konaklama, kalış",
+      "meaning_en": "stay",
+      "meaning_uk": "перебування",
+      "meaning_es": "estancia",
+      "example": "Unser *** in den Alpen war sehr erholsam."
+    },
+    {
+      "term": "die Fluggesellschaft",
+      "type": "Noun",
+      "meaning_tr": "havayolu şirketi",
+      "meaning_en": "airline company",
+      "meaning_uk": "авіакомпанія",
+      "meaning_es": "compañía aérea",
+      "example": "*** bietet günstige Flüge nach Barcelona an."
+    },
+    {
+      "term": "der Rückflug",
+      "type": "Noun",
+      "meaning_tr": "dönüş uçuşu",
+      "meaning_en": "return flight",
+      "meaning_uk": "зворотний рейс",
+      "meaning_es": "vuelo de regreso",
+      "example": "Wir haben den *** für nächste Woche gebucht."
+    },
+    {
+      "term": "die Einreisebestimmungen",
+      "type": "Noun",
+      "meaning_tr": "giriş koşulları",
+      "meaning_en": "entry requirements",
+      "meaning_uk": "правила в'їзду",
+      "meaning_es": "requisitos de entrada",
+      "example": "Bitte informieren Sie sich über die *** des Ziellandes."
+    },
+    {
+      "term": "die Ausrüstung",
+      "type": "Noun",
+      "meaning_tr": "ekipman",
+      "meaning_en": "equipment",
+      "meaning_uk": "обладнання",
+      "meaning_es": "equipamiento",
+      "example": "Für die Wanderung brauchen wir spezielle ***."
+    },
+    {
+      "term": "die Reiseversicherung",
+      "type": "Noun",
+      "meaning_tr": "seyahat sigortası",
+      "meaning_en": "travel insurance",
+      "meaning_uk": "страхування подорожей",
+      "meaning_es": "seguro de viaje",
+      "example": "Es ist ratsam, eine gute *** abzuschließen."
+    },
+    {
+      "term": "das Reiseziel",
+      "type": "Noun",
+      "meaning_tr": "seyahat destinasyonu",
+      "meaning_en": "travel destination",
+      "meaning_uk": "місце призначення подорожі",
+      "meaning_es": "destino de viaje",
+      "example": "Unser neues *** ist eine kleine Insel im Mittelmeer."
+    },
+    {
+      "term": "die Pauschalreise",
+      "type": "Noun",
+      "meaning_tr": "her şey dahil tatil paketi",
+      "meaning_en": "package holiday",
+      "meaning_uk": "пакетний тур",
+      "meaning_es": "viaje todo incluido",
+      "example": "Wir haben eine *** nach Ägypten gebucht."
+    },
+    {
+      "term": "der Reiseveranstalter",
+      "type": "Noun",
+      "meaning_tr": "tur operatörü",
+      "meaning_en": "tour operator",
+      "meaning_uk": "туроператор",
+      "meaning_es": "organizador de viajes",
+      "example": "*** ist für die Organisation der gesamten Reise verantwortlich."
+    },
+    {
+      "term": "die Gepäckaufbewahrung",
+      "type": "Noun",
+      "meaning_tr": "bagaj muhafazası",
+      "meaning_en": "luggage storage",
+      "meaning_uk": "камера схову багажу",
+      "meaning_es": "consigna de equipaje",
+      "example": "Am Bahnhof gibt es eine *** für Reisende."
+    },
+    {
+      "term": "die Anreise",
+      "type": "Noun",
+      "meaning_tr": "varış, ulaşım",
+      "meaning_en": "arrival",
+      "meaning_uk": "прибуття",
+      "meaning_es": "llegada",
+      "example": "Die *** mit dem Zug war sehr angenehm."
+    },
+    {
+      "term": "die Abreise",
+      "type": "Noun",
+      "meaning_tr": "ayrılış, kalkış",
+      "meaning_en": "departure",
+      "meaning_uk": "відправлення",
+      "meaning_es": "salida",
+      "example": "Die *** ist für Samstagmorgen geplant."
+    },
+    {
+      "term": "der Reiseplan",
+      "type": "Noun",
+      "meaning_tr": "seyahat planı",
+      "meaning_en": "itinerary",
+      "meaning_uk": "план подорожі",
+      "meaning_es": "itinerario",
+      "example": "Wir haben einen detaillierten *** für unsere Rundreise erstellt."
+    },
+    {
+      "term": "der Reisekredit",
+      "type": "Noun",
+      "meaning_tr": "seyahat kredisi",
+      "meaning_en": "travel loan",
+      "meaning_uk": "кредит на подорож",
+      "meaning_es": "préstamo de viaje",
+      "example": "Manche Leute nehmen einen *** auf, um sich den Urlaub leisten zu können."
+    },
+    {
+      "term": "der Auslandsaufenthalt",
+      "type": "Noun",
+      "meaning_tr": "yurt dışı ikamet",
+      "meaning_en": "stay abroad",
+      "meaning_uk": "перебування за кордоном",
+      "meaning_es": "estancia en el extranjero",
+      "example": "Sein *** in Kanada hat ihm sehr gefallen."
+    },
+    {
+      "term": "die Reisefreiheit",
+      "type": "Noun",
+      "meaning_tr": "seyahat özgürlüğü",
+      "meaning_en": "freedom of travel",
+      "meaning_uk": "свобода подорожей",
+      "meaning_es": "libertad de viaje",
+      "example": "Die *** ist ein wichtiges Gut."
+    },
+    {
+      "term": "der Reisebericht",
+      "type": "Noun",
+      "meaning_tr": "seyahat raporu",
+      "meaning_en": "travel report",
+      "meaning_uk": "звіт про подорож",
+      "meaning_es": "informe de viaje",
+      "example": "Nach der Reise hat sie einen ausführlichen *** verfasst."
+    },
+    {
+      "term": "die Reisekrankheit",
+      "type": "Noun",
+      "meaning_tr": "seyahat hastalığı",
+      "meaning_en": "motion sickness",
+      "meaning_uk": "морська хвороба (кишенька)",
+      "meaning_es": "mal de viaje",
+      "example": "Wenn du *** hast, nimm vorher ein Medikament."
+    },
+    {
+      "term": "die Reisezeit",
+      "type": "Noun",
+      "meaning_tr": "seyahat zamanı",
+      "meaning_en": "travel time",
+      "meaning_uk": "час подорожі",
+      "meaning_es": "tiempo de viaje",
+      "example": "Die *** bis zum Ziel beträgt etwa drei Stunden."
+    },
+    {
+      "term": "die Reisevorbereitung",
+      "type": "Noun",
+      "meaning_tr": "seyahat hazırlığı",
+      "meaning_en": "travel preparation",
+      "meaning_uk": "підготовка до подорожі",
+      "meaning_es": "preparación del viaje",
+      "example": "Die *** für den Urlaub hat viel Zeit in Anspruch genommen."
+    },
+    {
+      "term": "das Reisegepäck",
+      "type": "Noun",
+      "meaning_tr": "seyahat bagajı",
+      "meaning_en": "travel luggage",
+      "meaning_uk": "багаж для подорожей",
+      "meaning_es": "equipaje de viaje",
+      "example": "Bitte achten Sie auf Ihr ***."
+    },
+    {
+      "term": "die Reisekosten",
+      "type": "Noun",
+      "meaning_tr": "seyahat masrafları",
+      "meaning_en": "travel costs",
+      "meaning_uk": "витрати на подорож",
+      "meaning_es": "costos de viaje",
+      "example": "Die *** für diese Reise waren sehr hoch."
+    },
+    {
+      "term": "die Reisebranche",
+      "type": "Noun",
+      "meaning_tr": "seyahat sektörü",
+      "meaning_en": "tourism industry",
+      "meaning_uk": "туристична галузь",
+      "meaning_es": "industria turística",
+      "example": "Die *** hat sich von der Krise erholt."
+    },
+    {
+      "term": "die Reiseerfahrung",
+      "type": "Noun",
+      "meaning_tr": "seyahat deneyimi",
+      "meaning_en": "travel experience",
+      "meaning_uk": "досвід подорожі",
+      "meaning_es": "experiencia de viaje",
+      "example": "Diese *** hat mein Leben verändert."
+    },
+    {
+      "term": "die Reiseleitung",
+      "type": "Noun",
+      "meaning_tr": "seyahat rehberliği",
+      "meaning_en": "tour guiding",
+      "meaning_uk": "супровід екскурсовода",
+      "meaning_es": "guía turístico",
+      "example": "Die *** war sehr informativ und unterhaltsam."
+    },
+    {
+      "term": "die Reisekasse",
+      "type": "Noun",
+      "meaning_tr": "seyahat bütçesi",
+      "meaning_en": "travel budget",
+      "meaning_uk": "бюджет подорожі",
+      "meaning_es": "presupuesto de viaje",
+      "example": "Wir müssen unsere *** sorgfältig planen."
+    },
+    {
+      "term": "die Reisefreiheit",
+      "type": "Noun",
+      "meaning_tr": "seyahat özgürlüğü",
+      "meaning_en": "freedom of travel",
+      "meaning_uk": "свобода подорожей",
+      "meaning_es": "libertad de viaje",
+      "example": "Die *** ist ein grundlegendes Menschenrecht."
+    },
+    {
+      "term": "die Reisekultur",
+      "type": "Noun",
+      "meaning_tr": "seyahat kültürü",
+      "meaning_en": "travel culture",
+      "meaning_uk": "культура подорожей",
+      "meaning_es": "cultura de viaje",
+      "example": "Die *** hat sich in den letzten Jahrzehnten stark verändert."
+    },
+    {
+      "term": "die Reisefreiheit",
+      "type": "Noun",
+      "meaning_tr": "seyahat özgürlüğü",
+      "meaning_en": "freedom of travel",
+      "meaning_uk": "свобода подорожей",
+      "meaning_es": "libertad de viaje",
+      "example": "Wir setzen uns für mehr *** ein."
+    },
+    {
+      "term": "die Reisebroschüre",
+      "type": "Noun",
+      "meaning_tr": "seyahat broşürü",
+      "meaning_en": "travel brochure",
+      "meaning_uk": "туристична брошура",
+      "meaning_es": "folleto de viaje",
+      "example": "Ich habe mir eine *** über die Toskana angesehen."
+    },
+    {
+      "term": "die Reiseversicherung",
+      "type": "Noun",
+      "meaning_tr": "seyahat sigortası",
+      "meaning_en": "travel insurance",
+      "meaning_uk": "страхування подорожей",
+      "meaning_es": "seguro de viaje",
+      "example": "Es ist ratsam, eine *** abzuschließen, besonders bei Fernreisen."
+    },
+    {
+      "term": "die Reisebranche",
+      "type": "Noun",
+      "meaning_tr": "seyahat sektörü",
+      "meaning_en": "tourism industry",
+      "meaning_uk": "туристична галузь",
+      "meaning_es": "industria turística",
+      "example": "Die *** kämpft mit den Folgen der Pandemie."
+    },
+    {
+      "term": "die Reisebegleitung",
+      "type": "Noun",
+      "meaning_tr": "seyahat refakati",
+      "meaning_en": "travel companion",
+      "meaning_uk": "супутник у подорожі",
+      "meaning_es": "compañero de viaje",
+      "example": "Er sucht eine *** für seine nächste Trekkingtour."
+    },
+    {
+      "term": "die Reiseformalitäten",
+      "type": "Noun",
+      "meaning_tr": "seyahat formaliteleri",
+      "meaning_en": "travel formalities",
+      "meaning_uk": "формальності подорожі",
+      "meaning_es": "formalidades de viaje",
+      "example": "Die *** vor der Reise können zeitaufwendig sein."
+    },
+    {
+      "term": "die Reiseplanung",
+      "type": "Noun",
+      "meaning_tr": "seyahat planlaması",
+      "meaning_en": "travel planning",
+      "meaning_uk": "планування подорожі",
+      "meaning_es": "planificación del viaje",
+      "example": "Die *** für den Sommerurlaub beginnt schon im Frühjahr."
+    },
+    {
+      "term": "die Reiseziele",
+      "type": "Noun",
+      "meaning_tr": "seyahat destinasyonları",
+      "meaning_en": "travel destinations",
+      "meaning_uk": "місця призначення подорожей",
+      "meaning_es": "destinos de viaje",
+      "example": "Wir haben viele verschiedene *** in Betracht gezogen."
+    },
+    {
+      "term": "die Reisefreiheit",
+      "type": "Noun",
+      "meaning_tr": "seyahat özgürlüğü",
+      "meaning_en": "freedom of travel",
+      "meaning_uk": "свобода подорожей",
+      "meaning_es": "libertad de viaje",
+      "example": "Die globale *** ist ein wichtiges Thema."
+    },
+    {
+      "term": "die Reisezeit",
+      "type": "Noun",
+      "meaning_tr": "seyahat zamanı",
+      "meaning_en": "travel time",
+      "meaning_uk": "час подорожі",
+      "meaning_es": "tiempo de viaje",
+      "example": "Die *** mit dem Auto dauert länger als erwartet."
+    },
+    {
+      "term": "die Reisebranche",
+      "type": "Noun",
+      "meaning_tr": "seyahat sektörü",
+      "meaning_en": "tourism industry",
+      "meaning_uk": "туристична галузь",
+      "meaning_es": "industria turística",
+      "example": "Die *** erholt sich langsam von der Krise."
+    },
+    {
+      "term": "die Reiseerlebnisse",
+      "type": "Noun",
+      "meaning_tr": "seyahat deneyimleri",
+      "meaning_en": "travel experiences",
+      "meaning_uk": "враження від подорожі",
+      "meaning_es": "experiencias de viaje",
+      "example": "Ich sammle gerne neue ***."
+    },
+    {
+      "term": "die Reisekosten",
+      "type": "Noun",
+      "meaning_tr": "seyahat masrafları",
+      "meaning_en": "travel costs",
+      "meaning_uk": "витрати на подорож",
+      "meaning_es": "costos de viaje",
+      "example": "Wir müssen die *** im Auge behalten."
+    },
+    {
+      "term": "die Reiseführerin",
+      "type": "Noun",
+      "meaning_tr": "kadın rehber",
+      "meaning_en": "female guide",
+      "meaning_uk": "екскурсоводка",
+      "meaning_es": "guía (femenina)",
+      "example": "Unsere *** hat uns viel Interessantes erzählt."
+    }
+  ]
+}
